@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Infestation.letterLabel>แมลงรังควาญ</Infestation.letterLabel>
+  <Infestation.letterText>รังแมลงได้ผุดขึ้นมา!\n\nมันจะค่อยๆให้กำเนิดเหล่าแมลงและสร้างรังใหม่อย่างช้าๆ ถ้าคุณไม่อยากให้พวกมันบุกยึดบริเวณนั้นหมด รวมพลแล้วรีบทำลายซะ แต่ระวัง - พวกแมลงจะปกป้องรังของมัน</Infestation.letterText>
+
+  <PsychicEmanatorShipPartCrash.letterLabel>ยานพลังจิต</PsychicEmanatorShipPartCrash.letterLabel>
+  <PsychicEmanatorShipPartCrash.letterText>ชิ้นส่วนขนาดใหญ่ของยานโบราณได้ตกลงมาใกล้ๆ\n\nชาวอาณานิคมของคุณสัมผัสได้ในส่วนลึกของจิตใจ เตือนสติถึงการกระทำที่พูดไม่ถูก มันต้องมี AI persona ติดตั้งอยู่ซึ่งมีคุณสมบัติในการฉายภาพจิต และ AI นี้ไม่เป็นมิตร\n\nทำลายมันให้เร็วที่สุดเท่าที่จะเป็นไปได้</PsychicEmanatorShipPartCrash.letterText>
+
+  <PoisonShipPartCrash.letterLabel>ยานสารพิษ</PoisonShipPartCrash.letterLabel>
+  <PoisonShipPartCrash.letterText>ชิ้นส่วนขนาดใหญ่ของยานโบราณได้ตกลงมาใกล้ๆ\n\nมีวัสดุสารพิษรั่วไหลออกมาและจะฆ่าพืชทุกชนิดในเขตวงกลมรอบๆตัวมัน\n\nทำลายมันให้เร็วที่สุดเท่าที่จะเป็นไปได้</PoisonShipPartCrash.letterText>
+
+</LanguageData>

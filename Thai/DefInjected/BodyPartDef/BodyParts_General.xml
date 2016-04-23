@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Head.label>หัว</Head.label>
+  <Skull.label>กระโหลก</Skull.label>
+  <Brain.label>สมอง</Brain.label>
+  <LeftEye.label>นัยน์ตาซ้าย</LeftEye.label>
+  <RightEye.label>นัยน์ตาขวา</RightEye.label>
+  <LeftEar.label>หูข้างซ้าย</LeftEar.label>
+  <RightEar.label>หูข้างขวา</RightEar.label>
+  <Nose.label>จมูก</Nose.label>
+  <Jaw.label>ขากรรไกร</Jaw.label>
+  <Neck.label>คอ</Neck.label>
+  <Rib.label>ซี่โครง</Rib.label>
+  <Spine.label>กระดูกสันหลัง</Spine.label>
+  <LeftLeg.label>ขาซ้าย</LeftLeg.label>
+  <LeftFoot.label>เท้าซ้าย</LeftFoot.label>
+  <RightLeg.label>ขาขวา</RightLeg.label>
+  <RightFoot.label>เท้าขวา</RightFoot.label>
+
+</LanguageData>

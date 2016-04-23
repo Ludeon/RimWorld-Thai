@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Warg.label>วาร์ก</Warg.label>
+  <Warg.lifeStages.0.label>ลูกวาร์ก</Warg.lifeStages.0.label>
+  <Warg.lifeStages.1.label>วาร์กวัยรุ่น</Warg.lifeStages.1.label>
+  <Warg.lifeStages.2.label>วาร์ก</Warg.lifeStages.2.label>
+
+  <YorkshireTerrier.label>ยอร์กเชียร์ เทอร์เรียร์</YorkshireTerrier.label>
+  <YorkshireTerrier.lifeStages.0.label>ลูกหมายอร์กเชียร์ เทอร์เรียร์</YorkshireTerrier.lifeStages.0.label>
+  <YorkshireTerrier.lifeStages.1.label>ยอร์กเชียร์ เทอร์เรียร์วัยรุ่น</YorkshireTerrier.lifeStages.1.label>
+  <YorkshireTerrier.lifeStages.2.label>ยอร์กเชียร์ เทอร์เรียร์</YorkshireTerrier.lifeStages.2.label>
+
+  <Husky.label>ฮัสกี้</Husky.label>
+  <Husky.lifeStages.0.label>ลูกหมาฮัสกี้</Husky.lifeStages.0.label>
+  <Husky.lifeStages.1.label>ฮัสกี้วัยรุ่น</Husky.lifeStages.1.label>
+  <Husky.lifeStages.2.label>ฮัสกี้</Husky.lifeStages.2.label>
+
+  <LabradorRetriever.label>ลาบราดอร์ รีทรีฟเวอร์</LabradorRetriever.label>
+  <LabradorRetriever.lifeStages.0.label>ลูกหมาลาบราดอร์ รีทรีฟเวอร์</LabradorRetriever.lifeStages.0.label>
+  <LabradorRetriever.lifeStages.1.label>ลาบราดอร์ รีทรีฟเวอร์วัยรุ่น</LabradorRetriever.lifeStages.1.label>
+  <LabradorRetriever.lifeStages.2.label>ลาบราดอร์ รีทรีฟเวอร์</LabradorRetriever.lifeStages.2.label>
+
+  <Cat.label>แมว</Cat.label>
+  <Cat.lifeStages.0.label>ลูกแมว</Cat.lifeStages.0.label>
+  <Cat.lifeStages.1.labelMale>แมวตัวผู้วัยรุ่น</Cat.lifeStages.1.labelMale>
+  <Cat.lifeStages.1.labelFemale>แมวตัวเมียวัยรุ่น</Cat.lifeStages.1.labelFemale>
+  <Cat.lifeStages.2.labelMale>แมวตัวผู้</Cat.lifeStages.2.labelMale>
+  <Cat.lifeStages.2.labelFemale>แมวตัวเมีย</Cat.lifeStages.2.labelFemale>
+
+</LanguageData>

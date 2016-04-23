@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CommandForbiddenDesc>หวงห้าม - ชาวอาณานิคมจะไม่ยุ่งกับสิ่งนี้</CommandForbiddenDesc>
+	<CommandNotForbiddenDesc>ไม่หวงห้าม - ชาวอาณานิคมสามารถยุ่งด้วยได้</CommandNotForbiddenDesc>
+
+  <!-- Power -->
+  <CommandTogglePowerLabel>เปิด/ปิดพลังงาน</CommandTogglePowerLabel>
+  <CommandTogglePowerDesc>เปิด/ปิดพลังงาน</CommandTogglePowerDesc>
+  
+  <CommandDesignateTogglePowerLabel>Designate toggle power</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerDesc>Designate this thing to have power toggled. A colonist will come soon to flick the switch.</CommandDesignateTogglePowerDesc>
+  
+  <CommandTryReconnectLabel>เชื่อมต่อใหม่</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby.</CommandTryReconnectDesc>
+
+  <CommandGatherSpotToggleLabel>จุดรวมพล</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>Active - colonists will gather around this object.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Inactive - colonists will not gather around this object.</CommandGatherSpotToggleDescInactive>
+  
+  
+  <!-- Drafting -->
+  <CommandDraftLabel>เกณฑ์</CommandDraftLabel>
+  <CommandUndraftLabel>เลิกเกณฑ์</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest.</CommandToggleDraftDesc>
+  <IsIncapped>{0} is incapacitated.</IsIncapped>
+
+  
+  <CommandCancelConstructionLabel>ยกเลิก</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>ยกเลิกการก่อสร้างนี้</CommandCancelConstructionDesc>
+
+  <CommandGetOutOfBedLabel>Get out of bed</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>Get out of current bed.</CommandGetOutOfBedDesc>
+
+  <CommandBedSetOwnerLabel>กำหนดเจ้าของ</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>Assign this bed to be owned by a specific colonist.</CommandBedSetOwnerDesc>
+  <CommandGraveAssignColonistLabel>Assign colonist</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistDesc>Assign this grave to be owned by a specific colonist.</CommandGraveAssignColonistDesc>
+  <BuildingAssign>กำหนด</BuildingAssign>
+  <BuildingUnassign>เลิกกำหนด</BuildingUnassign>
+  <CommandBedSetForPrisonersLabel>ตั้งสำหรับนักโทษ</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc>Assign beds in this room for use by prisoners.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersFailOutdoors>Cannot set outdoor beds to be for prisoners.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetForColonistsLabel>ตั้งสำหรับชาวอาณานิคม</CommandBedSetForColonistsLabel>
+  <CommandBedSetForColonistsDesc>Assign beds in this room for use by colonists.</CommandBedSetForColonistsDesc>
+  <CommandBedSetAsMedicalLabel>ตั้งสำหรับการแพทย์</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc> Assign this bed for medical use.</CommandBedSetAsMedicalDesc>
+  <CommandBedSetAsNonMedicalLabel>ตั้งสำหรับไม่ใช้ทางการแพทย์</CommandBedSetAsNonMedicalLabel>
+  <CommandBedSetAsNonMedicalDesc> Assign this bed for non medical use.</CommandBedSetAsNonMedicalDesc>
+  <TurningOnPrisonerBedWarning>Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Are you sure you want to do this?</AreYouSure>
+
+  <CommandDetonateLabel>จุดระเบิด</CommandDetonateLabel>
+  <CommandDetonateDesc>Start the countdown to detonation.</CommandDetonateDesc>
+
+  <CommandRenameZoneLabel>แก้ไขชื่อ</CommandRenameZoneLabel>
+  <CommandRenameZoneDesc>แก้ไขชื่อโซนนี้</CommandRenameZoneDesc>
+
+  <CommandHideZoneLabel>ซ่อน</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>เลิกซ่อน</CommandUnhideZoneLabel>
+  <CommandHideZoneDesc>ซ่อน/เลิกซ่อนโซนนี้</CommandHideZoneDesc>
+
+  <CommandDeleteZoneLabel>ลบทิ้ง</CommandDeleteZoneLabel>
+  <CommandDeleteZoneDesc>ลบโซนนี้ทิ้ง</CommandDeleteZoneDesc>
+
+  <CommandCopyZoneSettingsLabel>ลอกการตั้งค่า</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsDesc>Copy this zone's settings to the clipboard so you can paste them onto another zone.</CommandCopyZoneSettingsDesc>
+
+  <CommandPasteZoneSettingsLabel>วางการตั้งค่า</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsDesc>Overwrite this zone's settings with those previously copied to the clipboard.</CommandPasteZoneSettingsDesc>
+
+  <CommandAllowSow>อนุญาตให้ไถหว่าน</CommandAllowSow>
+  <CommandAllowSowDesc>When disabled, colonists will never sow plants in this zone. They will still harvest.</CommandAllowSowDesc>
+
+  <!-- Artillery -->
+  <CommandSetForceAttackTarget>Set forced target</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTargetDesc>Sets a target that this turret must attack continuously as long as it can.</CommandSetForceAttackTargetDesc>
+  <CommandStopForceAttack>Stop forced attack</CommandStopForceAttack>
+  <CommandStopForceAttackDesc>Stops force-attacking and allows the turret to fire as it wishes.</CommandStopForceAttackDesc>
+  <CommandStopAttackFailNotForceAttacking>Not currently force-attacking.</CommandStopAttackFailNotForceAttacking>
+  <MessageTargetBeyondMaximumRange>Target beyond maximum range.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>Target below minimum range.</MessageTargetBelowMinimumRange>
+  
+  
+  <!-- Ship computer core -->
+  <CommandShipLaunch>Launch ship</CommandShipLaunch>
+  <CommandShipLaunchDesc>Start the ship launch sequence with the current configuration.</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>Show launch report</CommandShipLaunchReport>
+  <CommandShipLaunchReportDesc>Show a readiness report about the ship's launch capability.</CommandShipLaunchReportDesc>
+
+
+  <!-- Pod -->
+  <CommandPodEject>Eject sleeper</CommandPodEject>
+  <CommandPodEjectDesc>Wake up the cryptosleeper and eject them.</CommandPodEjectDesc>
+  <CommandPodEjectFailEmpty>Contains nobody.</CommandPodEjectFailEmpty>
+
+  <!-- Door -->
+  <CommandToggleDoorForbid>ทางห้ามผ่าน</CommandToggleDoorForbid>
+  <CommandToggleDoorForbidDesc>When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door.</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorHoldOpen>เปิดค้างไว้</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpenDesc>When active, your colonists will not close the door after passing through.</CommandToggleDoorHoldOpenDesc>
+
+
+  <!-- Temperature control -->
+  <CommandResetTemp>รีเซ็ต</CommandResetTemp>
+  <CommandResetTempDesc>Reset the target temperature to room temperature.</CommandResetTempDesc>
+  <CommandRaiseTempDesc>เพิ่มอุณหภูมิเป้าหมาย</CommandRaiseTempDesc>
+  <CommandLowerTempDesc>ลดอุณหภูมิเป้าหมาย</CommandLowerTempDesc>
+
+  <!-- Install/reinstall -->
+  <CommandInstall>ติดตั้ง</CommandInstall>
+  <CommandInstallDesc>This item is currently packaged up for storage and transport. Use this command to install this item in a final location.</CommandInstallDesc>
+  <CommandReinstall>ติดตั้งใหม่ที่...</CommandReinstall>
+  <CommandReinstallDesc>Designate this item to be uninstalled and reinstalled somewhere else.</CommandReinstallDesc>
+  
+  <!-- Trade beacon -->
+  <CommandMakeBeaconStockpileDesc>Create a stockpile around this building exactly matching the shape of the beacon's launch radius.</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileLabel>สร้างที่เก็บของ</CommandMakeBeaconStockpileLabel>
+
+  <!-- Sun lamp -->
+  <CommandSunLampMakeGrowingZoneDesc>Create a growing zone around this building exactly matching the shape of the lamp's light radius.</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneLabel>สร้างโซนเพาะปลูก</CommandSunLampMakeGrowingZoneLabel>
+
+  <!-- Trap -->
+  <CommandAutoRearm>ตั้งกับดักอัตโนมัติ</CommandAutoRearm>
+  <CommandAutoRearmDesc>If this is on, this trap will automatically be designated for rearming when it springs.</CommandAutoRearmDesc>
+  
+  <!-- Animal control -->
+  <CommandReleaseAnimalsLabel>ปล่อยสัตว์</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsDesc>ในขณะที่เปิดไว้, สัตว์จะไปโจมตีล่วงหน้าก่อน และในขณะที่ปิด, พวกมันจะรักษาระยะและอยู่คุ้มกันเจ้านาย</CommandReleaseAnimalsDesc>
+  
+  <!-- Squad attack -->
+  <CommandSquadAttack>โจมตี</CommandSquadAttack>
+  <CommandSquadAttackDesc>สั่งให้ชาวอาณานิคมที่เลือกโจมตีเป้าหมายที่กำหนด</CommandSquadAttackDesc>
+
+  
+</LanguageData>

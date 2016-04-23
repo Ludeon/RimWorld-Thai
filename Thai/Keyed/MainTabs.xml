@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Work tab -->
+  <ManualPriorities>ลำดับความสำคัญด้วยตัวเอง</ManualPriorities>
+  <HigherPriority>สำคัญมากกว่า</HigherPriority>
+  <LowerPriority>สำคัญน้อยกว่า</LowerPriority>
+  <RelevantSkills>Relevant skills: {0}\nAverage of relevant skills: {1} / {2}</RelevantSkills>
+  <ClickToJumpTo>คลิกเพื่อกระโดดไปที่:</ClickToJumpTo>
+  <CannotDoThisWork>{0} ไม่สามารถทำงานประเภทนี้ได้</CannotDoThisWork>
+  <NoneBrackets>(ไม่มี)</NoneBrackets>
+  <IncapableOfWorkTypeBecauseOfCapacities>This colonist is not able to do any work of this type because of his health condition.</IncapableOfWorkTypeBecauseOfCapacities>
+  <EmergencyWorkMarker>E</EmergencyWorkMarker>
+  
+  <!-- Outfits tab -->
+  <CurrentOutfit>เครื่องแต่งกายตอนนี้</CurrentOutfit>
+  <ManageOutfits>จัดการเครื่องแต่งกาย</ManageOutfits>
+  <ClearForcedApparel>ล้างการถูกบังคับ</ClearForcedApparel>
+  <ApparelForcedLower>ถูกบังคับ</ApparelForcedLower>
+  <ForcedApparel>Forced apparel</ForcedApparel>
+  <OutfitEdit>แก้ไข...</OutfitEdit>
+  
+  <!-- Restrictions tab -->
+  <Copy>ลอก</Copy>
+  <Paste>วาง</Paste>
+  <AllowedArea>เขตที่อนุญาต</AllowedArea>
+  
+  <!-- Animals tab -->
+  <Master>เจ้านาย</Master>
+  <PregnantIconDesc>ตั้งท้อง ({0} / {1})</PregnantIconDesc>
+  
+  <!-- Factions tab -->
+  <Hostile>ศัตรู</Hostile>
+  <HostileTo>ศัตรูของ {0}</HostileTo>
+  <CurrentGoodwill>Current goodwill with this faction.</CurrentGoodwill>
+  
+  <!-- Statistics tab -->
+  <Playtime>เวลาที่เล่น</Playtime>
+  <Storyteller>Storyteller</Storyteller>
+  <ColonyWealthTotal>ความร่ำรวยของอาณานิคม</ColonyWealthTotal>
+  <ColonyWealthItems>ความร่ำรวยของอาณานิคม (สิ่งของ)</ColonyWealthItems>
+  <ColonyWealthBuildings>ความร่ำรวยของอาณานิคม (อาคาร)</ColonyWealthBuildings>
+  <NumThreatBigs>ภยันตรายหลัก</NumThreatBigs>
+  <NumEnemyRaids>ศัตรูมาบุกปล้น</NumEnemyRaids>
+  <DamageTaken>ความเสียหายที่ได้รับ</DamageTaken>
+  <ColonistsKilled>ชาวอาณานิคมที่ถูกฆ่า</ColonistsKilled>
+  <ColonistsLaunched>ชาวอาณานิคมที่ถูกส่งไปยังอวกาศ</ColonistsLaunched>
+
+  <!-- History tab -->
+  <SelectGraph>เลือกกราฟ</SelectGraph>
+  <Last30Days>30 วันล่าสุด</Last30Days>
+  <Last100Days>100 วันล่าสุด</Last100Days>
+  <Last300Days>300 วันล่าสุด</Last300Days>
+  <AllDays>ทั้งหมด</AllDays>
+  <Day>วัน</Day>
+  <Value>ค่า</Value>
+  <External>ภายนอก</External>
+  
+</LanguageData>

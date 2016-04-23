@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Root.label>Basis</Root.label>
+  <Resources.label>ทรัพยากร</Resources.label>
+  <Foods.label>อาหาร</Foods.label>
+  <FoodMeals.label>มื้ออาหาร</FoodMeals.label>
+  <FoodRaw.label>อาหารดิบ</FoodRaw.label>
+  <MeatRaw.label>เนื้อดิบ</MeatRaw.label>
+  <PlantFoodRaw.label>Vegetarisch</PlantFoodRaw.label>
+  <AnimalProductRaw.label>Tierfutter</AnimalProductRaw.label>
+  <EggsUnfertilized.label>ไข่ (ยังไม่ผสม)</EggsUnfertilized.label>
+  <EggsFertilized.label>ไข่ (ผสมแล้ว)</EggsFertilized.label>
+  <Manufactured.label>Hergestellt</Manufactured.label>
+  <Textiles.label>สิ่งทอ</Textiles.label>
+  <Leathers.label>แผ่นหนัง</Leathers.label>
+  <Medicine.label>ยารักษา</Medicine.label>
+  <ResourcesRaw.label>Rohstoffe</ResourcesRaw.label>
+  <StoneBlocks.label>บล็อกหิน</StoneBlocks.label>
+  <Items.label>Gegenstände</Items.label>
+  <Art.label>ศิลปะ</Art.label>
+  <Furniture.label>Möbel</Furniture.label>
+  <Unfinished.label>Unfertig</Unfinished.label>
+  <Weapons.label>อาวุธ</Weapons.label>
+  <WeaponsMelee.label>อาวุธระยะประชิด</WeaponsMelee.label>
+  <WeaponsRanged.label>อาวุธระยะไกล</WeaponsRanged.label>
+  <Grenades.label>ระเบิดมือ</Grenades.label>
+  <Apparel.label>เสื้อผ้า</Apparel.label>
+  <Headgear.label>Kopfbekleidung</Headgear.label>
+  <BodyPartsAndImplants.label>Körperteile</BodyPartsAndImplants.label>
+  <Chunks.label>ก้อน</Chunks.label>
+  <StoneChunks.label>ก้อนหิน</StoneChunks.label>
+  <Corpses.label>ซากศพ</Corpses.label>
+  <CorpsesHumanlike.label>ศพมนุษย์</CorpsesHumanlike.label>
+  <CorpsesAnimal.label>ซากสัตว์</CorpsesAnimal.label>
+  <CorpsesMechanoid.label>Mechanoidenleichen</CorpsesMechanoid.label>
+
+</LanguageData>

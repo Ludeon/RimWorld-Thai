@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Level>ระดับ</Level>
+  <ProgressToNextLevel>การพัฒนาสู่ระดับต่อไป</ProgressToNextLevel>
+  <Experience>ประสบการณ์</Experience>
+  <Passion>ความหลงไหล</Passion>
+  <PassionNone>ไม่มี (เรียนรู้ {0}x)</PassionNone>
+  <PassionMinor>สนใจแล้ว (เรียนรู้ {0}x)</PassionMinor>
+  <PassionMajor>ไฟเร่าร้อน (เรียนรู้ {0}x)</PassionMajor>
+  <EffectsAtLevel>มีผลที่ระดับ {0}</EffectsAtLevel>
+  <SkillMax>MAX</SkillMax>
+
+
+
+  <Skill0>ไม่รู้ตัวเอง</Skill0>
+  <Skill1>ขาดคุณสมบัติ</Skill1>
+  <Skill2>เริ่มตระหนักขั้นต้น</Skill2>
+  <Skill3>เริ่มคุ้นเคยขั้นต้น</Skill3>
+  <Skill4>มือสมัครเล่น</Skill4>
+  <Skill5>มือสมัครเล่นขั้นสูง</Skill5>
+  <Skill6>ผู้ฝึกหัด</Skill6>
+  <Skill7>ผู้ฝึกหัดมีทักษะ</Skill7>
+  <Skill8>มืออาชีพ</Skill8>
+  <Skill9>มืออาชีพมีทักษะ</Skill9>
+  <Skill10>ผู้เชี่ยวชาญ</Skill10>
+  <Skill11>ผู้เชี่ยวชาญขั้นสูง</Skill11>
+  <Skill12>ผู้เชี่ยวชาญอย่างยิ่งยวด</Skill12>
+  <Skill13>ปรมาจารย์</Skill13>
+  <Skill14>ปรมาจารย์ขั้นสูง</Skill14>
+  <Skill15>ปรมาจารย์ระดับดาวเคราะห์</Skill15>
+  <Skill16>ปรมาจารย์ระดับระบบจักรวาล</Skill16>
+  <Skill17>ปรมาจารย์คืนสู่สามัญ</Skill17>
+  <Skill18>ผู้มีวิสัยทัศน์</Skill18>
+  <Skill19>ผู้เป็นตำนาน</Skill19>
+  <Skill20>ผู้ดุจดังพระเจ้า</Skill20>
+
+
+  
+  
+  
+</LanguageData>

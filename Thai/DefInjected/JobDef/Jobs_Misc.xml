@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Goto.reportString>กำลังเคลื่อนที่</Goto.reportString>
+  <GotoSafeTemperature.reportString>กำลังหาที่ๆอุณหภูมิปลอดภัย</GotoSafeTemperature.reportString>
+  <GotoWander.reportString>กำลังเดินเตร็ดเตร่</GotoWander.reportString>
+  <Wait.reportString>กำลังรอ</Wait.reportString>
+  <WaitDowned.reportString>ล้ม</WaitDowned.reportString>
+  <WaitSafeTemperature.reportString>กำลังรออุณหภูมิที่ปลอดภัย</WaitSafeTemperature.reportString>
+  <WaitWander.reportString>กำลังเดินเตร็ดเตร่</WaitWander.reportString>
+  <WaitCombat.reportString>กำลังรอเป้าหมาย</WaitCombat.reportString>
+  <AttackStatic.reportString>กำลังโจมตี TargetA</AttackStatic.reportString>
+  <AttackMelee.reportString>กำลังโจมตี TargetA ในระยะประชิด</AttackMelee.reportString>
+  <Equip.reportString>กำลังสวมใส่ TargetA</Equip.reportString>
+  <TakeInventory.reportString>กำลังหยิบ TargetA</TakeInventory.reportString>
+
+  <!-- Love -->
+
+  <Lovin.reportString>โคตรรัก</Lovin.reportString>
+
+</LanguageData>

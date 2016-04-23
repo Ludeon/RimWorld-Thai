@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Audiovisuals -->
+  <Audiovisuals>Audiovisuals</Audiovisuals>
+  <GameVolume>ความดังของเกม</GameVolume>
+  <MusicVolume>ความดังของเพลง</MusicVolume>
+  <Antialiasing>การลบรอยหยัก</Antialiasing>
+
+  <!-- Gameplay -->
+  <EdgeScreenScroll>Screen-edge mouse scroll</EdgeScreenScroll>
+  <PauseOnLoad>หยุดเกมไว้ตอนโหลด</PauseOnLoad>
+  <CustomCursor>Custom cursor</CustomCursor>
+  <KeyboardConfig>การตั้งค่าคีย์บอร์ด</KeyboardConfig>
+  <ChooseLanguage>เลือกภาษา</ChooseLanguage>
+  <AdaptiveTutor>Adaptive tutor</AdaptiveTutor>
+  <ResetAdaptiveTutor>Reset adaptive tutor</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Adaptive tutor is reset. He will now teach you from scratch.</AdaptiveTutorIsReset>
+  <RunInBackground>เล่นต่อในเบื้องหลัง</RunInBackground>
+  <DevelopmentMode>โหมดพัฒนา</DevelopmentMode>
+  <ResetModsConfigOnCrash>Auto-reset mods config on crash</ResetModsConfigOnCrash>
+  <LogVerbose>Verbose logging</LogVerbose>
+  <OpenSaveGameDataFolder>เปิดโฟลเดอร์ข้อมูลเซฟ</OpenSaveGameDataFolder>
+  <NamesYouWantToSee>Last names of Name in Game or Backstory in Game characters you want to see:</NamesYouWantToSee>
+  <ChangeStoryteller>เลือก storyteller</ChangeStoryteller>
+  <AutosaveInterval>ความถี่การเซฟอัตโนมัติ</AutosaveInterval>
+  <TemperatureMode>โหมดอุณหภูมิ</TemperatureMode>
+  <ShowRealtimeClock>แสดงนาฬิกาเวลาจริง</ShowRealtimeClock>
+  <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
+
+  <!-- Resolution -->
+  <Resolution>ความละเอียดภาพ</Resolution>
+  <Fullscreen>เต็มจอ</Fullscreen>
+
+  <!-- Privacy-->
+  <Privacy>Privacy</Privacy>
+  <UserName>User name</UserName>
+  <ChooseHistoryUploadPref>Gameplay data upload pref.</ChooseHistoryUploadPref>
+  <AboutHistoryUpload>Users gameplay data helps developers balance the game. If you agree, your information will be sent every {0} game days (and in some other rare cases like the end of the game) to the RimWorld server and then analyzed. Uploaded gameplay data consists only of statistics and history records related to the game - no personal information is sent, except for user name, which means it is completely anonymous.</AboutHistoryUpload>
+  
+</LanguageData>

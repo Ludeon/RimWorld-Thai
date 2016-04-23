@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- glow -->
+  <Dark>มืด</Dark>
+  <Lit>สว่าง</Lit>
+  <LitBrightly>สว่างไสว</LitBrightly>
+  
+  <!-- history upload pref -->
+  <Unspecified>ยังไม่ตัดสินใจ</Unspecified>
+  <Always>อนุญาต</Always>
+  <Never>ไม่อนุญาต</Never>
+  
+  <!-- Price types -->
+  <PriceTypeVeryCheap>ถูกมาก</PriceTypeVeryCheap>
+  <PriceTypeCheap>ถูก</PriceTypeCheap>
+  <PriceTypeNormal>ปกติ</PriceTypeNormal>
+  <PriceTypeExpensive>แพง</PriceTypeExpensive>
+  <PriceTypeExorbitant>แพงลิบลิ่ว</PriceTypeExorbitant>
+
+  <!-- Food type flags -->
+  <FoodTypeFlags_VegetableOrFruit>ผัก</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_Meat>เนื้อดิบ</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Corpse>ศพ</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Seeds>เมล็ดพืช</FoodTypeFlags_Seeds>
+  <FoodTypeFlags_AnimalProduct>ผลิตผลจากสัตว์</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_Plant>live plants</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Tree>live trees</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Meal>มื้ออาหาร</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Processed>processed foods</FoodTypeFlags_Processed>
+  <FoodTypeFlags_NutritionalDrug>เหล้า</FoodTypeFlags_NutritionalDrug>
+  <FoodTypeFlags_AnimalKibble>อาหารเม็ด</FoodTypeFlags_AnimalKibble>
+
+  <!-- Quality category -->
+  <QualityCategory_Awful>ห่วย</QualityCategory_Awful>
+  <QualityCategory_Shoddy>กระจอก</QualityCategory_Shoddy>
+  <QualityCategory_Poor>แย่</QualityCategory_Poor>
+  <QualityCategory_Normal>ปกติ</QualityCategory_Normal>
+  <QualityCategory_Good>ดี</QualityCategory_Good>
+  <QualityCategory_Superior>superior</QualityCategory_Superior>
+  <QualityCategory_Excellent>excellent</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>masterwork</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>ตำนาน</QualityCategory_Legendary>
+
+  <QualityCategoryShort_Awful>ห่วย</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Shoddy>กจอก</QualityCategoryShort_Shoddy>
+  <QualityCategoryShort_Poor>แย่</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Normal>ปกติ</QualityCategoryShort_Normal>
+  <QualityCategoryShort_Good>ดี</QualityCategoryShort_Good>
+  <QualityCategoryShort_Superior>supr</QualityCategoryShort_Superior>
+  <QualityCategoryShort_Excellent>exc</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Masterwork>mast</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Legendary>ตนาน</QualityCategoryShort_Legendary>
+  
+  
+  <!-- Hunger -->
+  <HungerLevel_Starving>อดอยาก</HungerLevel_Starving>
+  <HungerLevel_UrgentlyHungry>หิวมาก</HungerLevel_UrgentlyHungry>
+  <HungerLevel_Hungry>หิว</HungerLevel_Hungry>
+  <HungerLevel_Fed>ทานแล้ว</HungerLevel_Fed>
+
+  <!-- -Fatigue -->
+  <HungerLevel_Exhausted>หมดแรง</HungerLevel_Exhausted>
+  <HungerLevel_VeryTired>เหนื่อยมาก</HungerLevel_VeryTired>
+  <HungerLevel_Tired>เหนื่อย</HungerLevel_Tired>
+  <HungerLevel_Rested>พักผ่อนแล้ว</HungerLevel_Rested>
+
+  <!-- Hilliness -->
+  <Hilliness_Flat>ราบ</Hilliness_Flat>
+  <Hilliness_SmallHills>เนินเล็กๆ</Hilliness_SmallHills>
+  <Hilliness_LargeHills>เนินเขา</Hilliness_LargeHills>
+  <Hilliness_Mountainous>ภูเขา</Hilliness_Mountainous>
+  
+  <!-- Steam workshop interaction -->
+  <WorkshopInteractStage_CreatingItem>Creating</WorkshopInteractStage_CreatingItem>
+  <WorkshopInteractStage_SubmittingItem>Submitting</WorkshopInteractStage_SubmittingItem>
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Invalid</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Preparing config data</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Preparing content files</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Uploading content</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Uploading preview file</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Committing changes</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+
+  <!-- Trainable intelligence -->
+  <TrainableIntelligence_None>None</TrainableIntelligence_None>
+  <TrainableIntelligence_Simple>Simple</TrainableIntelligence_Simple>
+  <TrainableIntelligence_Intermediate>Intermediate</TrainableIntelligence_Intermediate>
+  <TrainableIntelligence_Advanced>Advanced</TrainableIntelligence_Advanced>
+
+  <!-- Medical care category -->
+  <MedicalCareCategory_NoCare>ไม่มีการดูแลทางการแพทย์</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoMeds>ให้แพทย์ดูแล, แต่ไม่ให้ยา</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_HerbalOrWorse>ให้ยาสมุนไหรหรือแย่กว่า</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>ให้ยาสามัญหรือแย่กว่า</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_Best>ให้ยาคุณภาพเยี่ยมหรือแย่กว่า</MedicalCareCategory_Best>
+
+  <!-- Hostility response mode -->
+  <HostilityResponseMode_Ignore>เมินเฉย</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Attack>โจมตี</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Flee>ถอยหนี</HostilityResponseMode_Flee>
+  
+  <!-- HediffGrowthMode -->
+  <HediffGrowthMode_Growing>กำลังปลูก</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Stable>คอก</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Remission>remission</HediffGrowthMode_Remission>
+
+
+</LanguageData>

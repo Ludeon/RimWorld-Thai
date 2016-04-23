@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Beds -->
+
+  <SleepingSpot.label>ที่หลับ</SleepingSpot.label>
+  <SleepingSpot.description>Definiert eine Stelle auf dem Boden, auf der Leute schlafen sollen. Nicht sonderlich bequem.</SleepingSpot.description>
+
+  <Bed.label>เตียง</Bed.label>
+  <Bed.description>Eine gemütliche Matratze mit Bettwäsche auf einem Rahmen. Ein guter Ort zum Ausruhen.</Bed.description>
+
+  <DoubleBed.label>เตียงคู่</DoubleBed.label>
+  <DoubleBed.description>Ein einfaches Doppelbett mit genug Platz für Zwei.</DoubleBed.description>
+
+  <RoyalBed.label>เตียงราชวงศ์</RoyalBed.label>
+  <RoyalBed.description>Ein luxuriöses, mit Gold verziertes Bett, das gerade ausreichend für die Person von Adel ist. Sehr bequem und schön und mit ausreichend Platz für Zwei.</RoyalBed.description>
+
+  <HospitalBed.label>Krankenbett</HospitalBed.label>
+  <HospitalBed.description>Ein Bett, das speziell für die Behandlung verletzter Personen entworfen wurde. Verbessert die Wahrscheinlichkeit, medizinische Behandlungen sowie Operationen erfolgreich durchzuführen.</HospitalBed.description>
+
+  <!-- Animal beds -->
+
+  <AnimalSleepingSpot.label>ที่นอนสัตว์ (Tier)</AnimalSleepingSpot.label>
+  <AnimalSleepingSpot.description>Definiert eine Stelle auf dem Boden, auf der Tiere schlafen sollen.</AnimalSleepingSpot.description>
+
+  <AnimalSleepingBox.label>กล่องนอนสัตว์ (Tier)</AnimalSleepingBox.label>
+  <AnimalSleepingBox.description>Eine kleine Kiste in der Tiere schlafen können. Passend für kleinere Tiere, wie Hühner, Katzen oder kleine Hunde</AnimalSleepingBox.description>
+
+  <AnimalBed.label>เตียงสัตว์ (Tier)</AnimalBed.label>
+  <AnimalBed.description>Ein weiches Bett auf dem Tiere schlafen können. Passend für alle Tierarten.</AnimalBed.description>
+
+  <!-- Basic domestic furniture -->
+
+  <Stool.label>ม้านั่ง</Stool.label>
+  <Stool.description>Eine einfache Oberfläche, auf der man sitzen kann.</Stool.description>
+
+  <DiningChair.label>เก้าอี้ทานข้าว</DiningChair.label>
+  <DiningChair.description>Ein komfortabler und gut aussehender Stuhl.</DiningChair.description>
+
+  <Armchair.label>Sessel</Armchair.label>
+  <Armchair.description>Ein großer, weicher und bequemer Sitz. Sehr gut zum Entspannen.</Armchair.description>
+
+  <!-- Table base -->
+  <TableShort.label>โต๊ะสั้น</TableShort.label>
+  <TableShort.description>Sie essen am Tisch, sofern Stühle vorhanden sind.</TableShort.description>
+
+  <TableLong.label>โต๊ะยาว</TableLong.label>
+  <TableLong.description>Sie essen am Tisch, sofern Stühle vorhanden sind.</TableLong.description>
+
+  <PlantPot.label>กระถางต้นไม้</PlantPot.label>
+  <PlantPot.description>Hier kann man Blumen anpflanzen, um die Laune der Personen in der Nähe zu verbessern.</PlantPot.description>
+  
+  
+  <!-- Lighting -->
+
+  <StandingLamp.label>ไฟตั้งพื้น</StandingLamp.label>
+  <StandingLamp.description>Stehlampe, die eine Fläche beleuchtet.</StandingLamp.description>
+
+  <StandingLamp_Red.label>ไฟตั้งพื้น (แดง)</StandingLamp_Red.label>
+  <StandingLamp_Red.description>Stehlampe, die eine Fläche rot beleuchtet.</StandingLamp_Red.description>
+
+  <StandingLamp_Green.label>ไฟตั้งพื้น (เขียว)</StandingLamp_Green.label>
+  <StandingLamp_Green.description>Stehlampe, die eine Fläche grün beleuchtet.</StandingLamp_Green.description>
+
+  <StandingLamp_Blue.label>ไฟตั้งพื้น (น้ำเงิน)</StandingLamp_Blue.label>
+  <StandingLamp_Blue.description>Stehlampe, die eine Fläche blau beleuchtet.</StandingLamp_Blue.description>
+
+  <!-- Storage -->
+
+  <EquipmentRack.label>ตู้อุปกรณ์</EquipmentRack.label>
+  <EquipmentRack.description>Hier gelagerte Ausrüstung verschlechtert sich nicht, auch nicht im Freien.</EquipmentRack.description>
+
+</LanguageData>

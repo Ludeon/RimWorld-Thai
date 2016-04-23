@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <FreePlay.label>เล่นอิสระ</FreePlay.label>
+  <FreePlay.description>เป็นเกมที่มีสไตล์การเล่นที่เน้นไปยังการสร้างอาณานิคม ภายในสภาพแวดล้อมที่เหมือนกระบะทราย ภยันตรายยังคงมีอยู่ แต่จะอ่อนมาก</FreePlay.description>
+
+  <Basebuilder.label>นักสร้างฐาน</Basebuilder.label>
+  <Basebuilder.description>เป็นเกมที่มีสไตล์การเล่นที่เน้นไปที่การสร้างฐาน ภยันตรายจะลดขนาดลงนิดนึง</Basebuilder.description>
+
+  <Rough.label>ลำบาก</Rough.label>
+  <Rough.description>มันเป็นดาวที่ยากลำบาก ภยันตรายต่างๆอาจจะค่อนข้างอันตราย และก็ไม่มีโบนัสสำหรับอารมณ์ของชาวอาณานิคมหรือผลผลิตทางการเกษตร</Rough.description>
+
+  <Challenge.label>ท้าทาย</Challenge.label>
+  <Challenge.description>มันเป็นเกมที่ท้าทาย ระดับนี้ต้องอาศัยกลยุทธ ยุทธวิธี และโชคช่วยในการเอาตัวรอด ซึ่งเป็นทางที่ควรค่าแก่การเล่น Rimworld อย่างแท้จริง</Challenge.description>
+
+  <Extreme.label>สุดโต่ง</Extreme.label>
+  <Extreme.description>แข็งแกร่งกว่ามีดใบเพชรซะอีก ศัตรูนั้นแข็งแกร่ง ราคาสินค้าต่างๆจะแย่ อาหารจะขาดแคลน และชาวอาณานิคมจะอารมณ์บูด สำหรับคนที่สุขสรรค์กับการทรมานตนแบบดิจิตัล</Extreme.description>
+
+</LanguageData>

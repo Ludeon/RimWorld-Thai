@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Torso.label>ลำตัว</Torso.label>
+  <UpperHead.label>หัวส่วนบน</UpperHead.label>
+  <FullHead.label>หัวทั้งหัว</FullHead.label>
+  <Eyes.label>นัยน์ตา</Eyes.label>
+  <Teeth.label>ฟัน</Teeth.label>
+  <Mouth.label>ปาก</Mouth.label>
+  <Arms.label>แขน</Arms.label>
+  <Shoulders.label>ไหล่</Shoulders.label>
+  <Hands.label>มือ</Hands.label>
+  <LeftHand.label>มือซ้าย</LeftHand.label>
+  <RightHand.label>มือขวา</RightHand.label>
+  <Legs.label>ขา</Legs.label>
+  <Feet.label>เท้า</Feet.label>
+  <FrontLeftPaw.label>อุ้งเท้าหน้าข้างซ้าย</FrontLeftPaw.label>
+  <FrontRightPaw.label>อุ้งเท้าหน้าข้างขวา</FrontRightPaw.label>
+  <HeadAttackTool.label>หัว</HeadAttackTool.label>
+  <FrontLeftLeg.label>เท้าหน้าข้างซ้าย</FrontLeftLeg.label>
+  <FrontRightLeg.label>เท้าหน้าข้างขวา</FrontRightLeg.label>
+  <FrontLeftClaws.label>กรงเล็บหน้าข้างซ้าย</FrontLeftClaws.label>
+  <FrontRightClaws.label>กรงเล็บหน้าข้างขวา</FrontRightClaws.label>
+  <LeftBlade.label>ใบมีดซ้าย</LeftBlade.label>
+  <RightBlade.label>ใบมีดขวา</RightBlade.label>
+  <CoveredByNaturalArmor.label>Geschützt durch natürlicher Rüstung</CoveredByNaturalArmor.label>
+  <TuskAttackTool.label>งา</TuskAttackTool.label>
+  <HornAttackTool.label>เขา</HornAttackTool.label>
+  <HeadClaw.label>กรงเล็บ</HeadClaw.label>
+  <TurtleBeakAttackTool.label>จงอยปาก</TurtleBeakAttackTool.label>
+
+</LanguageData>

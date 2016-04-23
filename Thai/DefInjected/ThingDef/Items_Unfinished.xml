@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+   <!-- Unfinished things -->
+
+  <UnfinishedSculpture.label>ปฏิมากรรมที่ยังไม่เสร็จ</UnfinishedSculpture.label>
+  <UnfinishedGun.label>ปืนที่ยังทำไม่เสร็จ</UnfinishedGun.label>
+  <UnfinishedWeapon.label>อาวุธที่ยังทำไม่เสร็จ</UnfinishedWeapon.label>
+  <UnfinishedTechArmor.label>เทคอาร์เมอร์ที่ยังทำไม่เสร็จ</UnfinishedTechArmor.label>
+  <UnfinishedApparel.label>เสื้อผ้าที่ยังทำไม่เสร็จ</UnfinishedApparel.label>
+
+  <!-- Minified things -->
+
+  <MinifiedSculpture.label>Skulptur</MinifiedSculpture.label>
+  <MinifiedFurniture.label>Möbel</MinifiedFurniture.label>
+  <!-- <MinifiedCapsuleReactor.label>Kapselreaktor</MinifiedCapsuleReactor.label> -->
+
+</LanguageData>

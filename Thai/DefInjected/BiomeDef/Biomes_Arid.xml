@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AridShrubland.label>ทุ่งไม้พุ่มแล้ง</AridShrubland.label>
+  <AridShrubland.description>เขตแห้งแล้ง แต่ไม่แห้งพอที่จะเป็นทะเลทราบอย่างแท้จริง เป็นทุ่งราบเปิดที่มีหญ้าและพุ่มไม้ที่พอจะมีต้นไม้ขึ้นกระจายอยู่ทั่วไป ต้นไม้นั้นทนทานและมีสัตว์อาศัยอยู่ปานกลาง</AridShrubland.description>
+
+  <Desert.label>ทะเลทราย</Desert.label>
+  <Desert.description>แห้งแล้งมาก, เป็นพื้นที่ร้อนที่พยุงชีวิตได้ไม่มากนัก</Desert.description>
+
+  <ExtremeDesert.label>ทะเลทรายสุดโต่ง</ExtremeDesert.label>
+  <ExtremeDesert.description>ร้อนอย่างสุดๆ, พื้นที่แห้งแล้ง, แทบจะไร้ซึ่งสิ่งมีชีวิตทั้งมวล ความร้อนอันเวิ้งว้างและพืชที่จำกัด ทำให้ยากมากที่จะอยู่รอดที่นี่, แม้แต่สัตว์ที่ปรับตัวอย่างดีแล้วก็ตาม</ExtremeDesert.description>
+
+</LanguageData>

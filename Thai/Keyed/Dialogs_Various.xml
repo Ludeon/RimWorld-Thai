@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+
+  <Confirm>ยืนยัน</Confirm>
+  <GoBack>กลับไป</GoBack>
+  <OK>OK</OK>
+  
+  <!-- Recovered from errors caused by mods -->
+  <RecoveredFromErrorsDialogTitle>Recovered from incompatible or corrupted mods errors</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsText>It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog.</RecoveredFromErrorsText>
+  
+  <!-- Errors during loading -->
+  <ErrorWhileLoadingAssetsTitle>Error while loading assets</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssets>An error occured while loading game assets. See error log for more information.</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets_ModsInfo>The game is currently running with custom mods - they may or may not cause these problems.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileGeneratingMapTitle>Error while generating a map</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMap>An error occured while generating a new map. See error log for more information.</ErrorWhileGeneratingMap>
+  <ErrorWhileLoadingMapTitle>Error while loading a map</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMap>An error occured while loading a map. See error log for more information.</ErrorWhileLoadingMap>
+  
+  <!-- Long events -->
+  <InitializingInterface>กำลังจัดเตรียมอินเตอร์เฟซ</InitializingInterface>
+  <UnloadingUnusedAssets>กำลังอันโหลด asset ที่ไม่ได้ใช้</UnloadingUnusedAssets>
+  <LoadingAllActiveMods>กำลังโหลด active mods ทั้งหมด</LoadingAllActiveMods>
+  <LoadingDefs>กำลังโหลด defs</LoadingDefs>
+  <LoadingAssets>กำลังโหลด assets</LoadingAssets>
+  <Initializing>กำลังจัดเตรียม</Initializing>
+  <LoadingWorld>กำลังโหลดโลก</LoadingWorld>
+  <LoadingMap>กำลังโหลดแผนที่</LoadingMap>
+  <InitializingMap>กำลังจัดเตรียมแผนที่</InitializingMap>
+  <SpawningAllThings>กำลังจัดวางทุกสิ่งทุกอย่าง</SpawningAllThings>
+  
+  <!-- Save/load -->
+  <SaveGameButton>เซฟ</SaveGameButton>
+  <OverwriteButton>เขียนทับ</OverwriteButton>
+  <LoadGameButton>โหลด</LoadGameButton>
+  <ConfirmDelete>Really delete {0}?</ConfirmDelete>
+  <DeleteThisSavegame>Delete this savegame.</DeleteThisSavegame>
+  <SavedAs>เซฟเป็น {0}.</SavedAs>
+  <NeedAName>กรุณาใส่ชื่อ</NeedAName>
+  <LoadingLongEvent>กำลังโหลด</LoadingLongEvent>
+  <SavingLongEvent>กำลังเซฟ</SavingLongEvent>
+  <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
+  <SaveIsFromDifferentGameVersion>We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work.</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameBuild>We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work.</SaveIsFromDifferentGameBuild>
+  <SaveIsFromThisGameBuild>Save data was saved with our game version and should work without issue.</SaveIsFromThisGameBuild>
+  <SaveIsUnknownFormat>Save data is in an unknown format and almost certainly will not load properly.</SaveIsUnknownFormat>
+  <ProblemSavingFile>There was a problem saving the file {0}:\n\n{1}</ProblemSavingFile>
+  
+  <!-- Colony naming-->
+  <NameColonyMessage>It looks like you'll be here for a while. {0} is suggesting that you give the colony a name.\n\nWhat should it be called?</NameColonyMessage>
+  <ColonyGainsName>The colony is now known as {0}.</ColonyGainsName>
+  <ColonyNameIsInvalid>That colony name isn't valid.</ColonyNameIsInvalid>
+
+  <!-- Renaming -->
+  <NameIsInvalid>Please enter a valid name.</NameIsInvalid>
+  <NameIsInUse>Name is already in use.</NameIsInUse>
+  <ZoneGainsName>The zone is now called {0}.</ZoneGainsName>
+  
+  <!-- Pawn naming -->
+  <PawnGainsName>The colonist nick-name is now {0}.</PawnGainsName>
+
+  <!-- Save game incompatible warning -->
+  <VersionMismatch>Version mismatch</VersionMismatch>
+  <SaveGameIncompatibleWarningText>Map was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes.</SaveGameIncompatibleWarningText>
+  <WorldFileVersionMismatch>World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch.</WorldFileVersionMismatch>
+  <ModsMismatchWarningTitle>Mods mismatch</ModsMismatchWarningTitle>
+  <ModsMismatchWarningText>Map was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nMap was saved with (in this order):\n\n{0}\n\nWe are running with:\n\n{1}</ModsMismatchWarningText>
+
+  <!-- Resolution change dialog -->
+  <ConfirmResolutionChange>You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}...</ConfirmResolutionChange>
+  <ResolutionKeep>เก็บไว้</ResolutionKeep>
+  <ResolutionRevert>เปลี่ยนกลับ</ResolutionRevert>
+
+  <!-- Research -->
+  <Research>การวิจัย</Research>
+  <Researched>ทำการวิจัยแล้ว</Researched>
+  <Unresearched>ยังไม่ได้ทำการวิจัย</Unresearched>
+  <Finished>เสร็จแล้ว</Finished>
+  <InProgress>In Progress</InProgress>
+  <Locked>Locked</Locked>
+  <ResearchMenuWithoutBench>Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now.</ResearchMenuWithoutBench>
+  <ResearchPrerequisites>Research prerequisites</ResearchPrerequisites>
+  <RequiredResearchBench>Required research bench</RequiredResearchBench>
+  <RequiredResearchBenchFacilities>Required research bench facilities</RequiredResearchBenchFacilities>
+  
+  <!-- Advanced game start options -->
+  <MapTemperatureDangerWarning>Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season.</MapTemperatureDangerWarning>
+  <MapSizePerformanceWarning>Warning: Performance may degrade at larger map sizes. Ludeonicrous size is untested and will almost certainly not play well.</MapSizePerformanceWarning>
+  <MapSize>ขนาดแผนที่</MapSize>
+  <MapSizeDesc>{0}x{0} ({1} cells)</MapSizeDesc>
+  <MapSizeSmall>เล็ก</MapSizeSmall>
+  <MapSizeMedium>กลาง</MapSizeMedium>
+  <MapSizeLarge>ใหญ่</MapSizeLarge>
+  <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
+  <MapStartSeason>ฤดุที่เริ่มต้น:</MapStartSeason>
+  <MapStartSeasonDefault>อัตโนมัติ</MapStartSeasonDefault>
+  <PermadeathMode>Permadeath mode</PermadeathMode>
+  <PermadeathModeInfo>In permadeath mode, you get one save file and can only save when quitting the game. You cannot reload the game to fix mistakes, and when the colony dies, that's it.\n\nThis is the way RimWorld was meant to be played, with every dramatic turn - whether tragic or hopeful - played out to full impact.</PermadeathModeInfo>
+
+  <!-- Bill config -->
+  <Suspended>ระงับแล้ว</Suspended>
+  <NotSuspended>ยังไม่ระงับ</NotSuspended>
+  <SuspendedAllCaps>ระงับแล้ว</SuspendedAllCaps>
+  <RepeatCount>ทำซ้ำ: {0}</RepeatCount>
+  <Forever>ตลอดไป</Forever>
+	<Details>รายละเอียด</Details>
+  <IngredientSearchRadius>Ingredient radius</IngredientSearchRadius>
+  <CurrentlyHave>ตอนนี้มีอยู่</CurrentlyHave>
+  <CountingProducts>กำลังนับ</CountingProducts>
+  <Infinite>ไม่จำกัด</Infinite>
+  <MinimumSkillLevel>Min {0} skill</MinimumSkillLevel>
+  
+  <RecipeCannotHaveTargetCount>(This recipe cannot have a target count because it has multiple or unpredictable products.)</RecipeCannotHaveTargetCount>
+  <WorkAmount>จำนวนงาน</WorkAmount>
+  <MinimumSkills>ทักษะขั้นต่ำ:</MinimumSkills>
+  <BillRequires>ต้องการ {0} {1}</BillRequires>
+  <BillRequiresNutrition>ต้องการ {0} nutrition</BillRequiresNutrition>
+  <BillRequiresMayVary>โน้ต: วัตถุดิบขนาดเล็กอย่างทอง ต้องใช้มากขึ้น 20 เท่า</BillRequiresMayVary>
+  <ThisIsSmallVolume>นี่เป็นวัตถุดิบขนาดเล็ก แปลว่าแต่ละ 'หน่วย' มีค่าเป็น 1/20 ของวัตถุดิบขนาดปกติ ดังนั้น, เพื่อเติมให้เท่ากับความต้องการของวัตถุดิบ, คุณจะต้องใช้มากขึ้น 20 เท่าจากธรรมดา</ThisIsSmallVolume>
+  <UsableIngredients>วัตถุดิบ</UsableIngredients>
+  <DoXTimes>ทำ X ครั้ง</DoXTimes>
+  <DoUntilYouHaveX>ทำจนกว่าจะมีเท่ากับ X</DoUntilYouHaveX>
+  <DoForever>ทำตลอดไป</DoForever>
+  <BillRepeatTargetCountShort>ไปที่ {0}</BillRepeatTargetCountShort>
+  <BillStoreMode_DropOnFloor>วางบนพื้น</BillStoreMode_DropOnFloor>
+  <BillStoreMode_BestStockpile>นำไปที่เก็บของที่ดีที่สุด</BillStoreMode_BestStockpile>
+  <BillStoreMode_NearestStockpileAnyPriority>นำไปที่เก็บของที่ใกล้ที่สุด</BillStoreMode_NearestStockpileAnyPriority>
+  
+  <!-- Info card -->
+  <Damage>ความเสียหาย</Damage>
+  <Accuracy>ความแม่นยำ</Accuracy>
+  <BurstShotCount>Burst shot count</BurstShotCount>
+  <WarmupTime>Warmup</WarmupTime>
+  <MeleeWarmupTime>Melee warmup</MeleeWarmupTime>
+  <CooldownTime>Cooldown</CooldownTime>
+  <BurstShotFireRate>Fire rate</BurstShotFireRate>
+  <Range>ระยะ</Range>
+  <GrowsWild>Grows wild</GrowsWild>
+  <Harvestable>สามารถเก็บเกี่ยวได้</Harvestable>
+  <LimitedLifespan>Limited lifespan</LimitedLifespan>
+  <GrowingTime>ระยะเวลาการเจริญเติบโต</GrowingTime>
+  <GrowingTimeDesc>Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth.</GrowingTimeDesc>
+  <Days>วัน</Days>
+  <FertilityRequirement>Fertility requirement</FertilityRequirement>
+  <LightRequirement>ต้องการแสงสว่าง</LightRequirement>
+  <Attributes>Attributes</Attributes>
+  <LifeSpan>Lifespan</LifeSpan>
+  <Nutrition>สารอาหาร</Nutrition>
+  <Joy>ความสุข</Joy>
+  <FoodQuality>คุณภาพอาหาร</FoodQuality>
+  <WalkSpeedProperty>ความเร็วการเดิน</WalkSpeedProperty>
+  <MinFoodQuality>คุณภาพอาหารขึ้นต่ำ</MinFoodQuality>
+  <Diet>โภชนาการ</Diet>
+  <RecruitDifficulty>ความยากในการชักชวน</RecruitDifficulty>
+  <MarketValue>Base price</MarketValue>
+  <Covers>Covers</Covers>
+  <BodyPartEfficiency>Body part efficiency</BodyPartEfficiency>
+  <MoodChange>อารมณ์เปลี่ยน</MoodChange>
+  <Wildness>Wildness</Wildness>
+  <WildnessExplanation>Wilder creatures are naturally more difficult to tame, train, and handle.</WildnessExplanation>
+  <AnimalFilthRate>อัตราความสกปรกของสัตว์</AnimalFilthRate>
+  <AnimalFilthRateExplanation>Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth.</AnimalFilthRateExplanation>
+  <TimeRecordsCategory>เวลา</TimeRecordsCategory>
+  <MiscRecordsCategory>อื่นๆ</MiscRecordsCategory>
+
+  <!-- Trade -->
+  <DragToTrade>Drag number\nto trade</DragToTrade>
+  <BuyPriceDesc>Price you pay to buy this.</BuyPriceDesc>
+  <SellPriceDesc>Price you receive for selling this.</SellPriceDesc>
+  <PriceTypeDesc>For this item, this price is {0}.</PriceTypeDesc>
+  <ColonyCount>How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are outdoors and near an orbital trade beacon.</ColonyCount>
+  <TraderCount>How many of this item the trader has to trade.</TraderCount>
+  <AcceptButton>ยอมรับ</AcceptButton>
+  <ResetButton>รีเซ็ต</ResetButton>
+  <CancelButton>ยกเลิก</CancelButton>
+  <YourTradeableSilver>เงินที่แลกเปลี่ยนได้: {0}</YourTradeableSilver>
+	<YourTradeableSilverTip>You can only trade with silver that is near an orbital trade beacon and not under a roof.</YourTradeableSilverTip>
+  <TraderHasNoMore>พ่อค้าไม่มีเหลือแล้ว.</TraderHasNoMore>
+  <ColonyHasNoMore>ไม่เหลืออะไรจะขายแล้ว</ColonyHasNoMore>
+  <TraderWillNotTrade>Trader is not willing to trade in this item.</TraderWillNotTrade>
+  <NegotiatorTalkingImpaired>Your negotiator {0} cannot talk properly because of poor health.\n\nThis will affect trade prices.\n\nConsider using a healthier negotiator.</NegotiatorTalkingImpaired>
+  <ConfirmTraderShortFunds>Trader has insufficient silver to fully cover this transaction.  Proceed anyways?</ConfirmTraderShortFunds>
+  <SortBy>เรียงตาม</SortBy>
+  
+  <!-- Comms -->
+  <SocialSkillIs>ทักษะทางสังคม: {0}</SocialSkillIs>
+  
+  <!--Research-->
+  <ResearchFinished>การวิจัยสำเร็จแล้ว: {0}</ResearchFinished>
+  <ResearchScreen>หน้าการวิจัย</ResearchScreen>
+  
+  <!--HistoryUpload-->
+  <HistoryUploadMessage>Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu.</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>Even though history is sent anonymously, you can attach your name.</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>Allow uploading gameplay data</HistoryUploadYes>
+  <HistoryUploadNo>Do not allow uploading gameplay data</HistoryUploadNo>
+  <HistoryUploadYesOnce>Upload only this time</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>Do not upload this time, ask me later</HistoryUploadNoOnce>
+	
+  <!-- Outfit management -->
+  <Outfit>เครื่องแต่งกาย</Outfit>
+  <SelectOutfit>เลือกเครื่องแต่งกาย...</SelectOutfit>
+  <NewOutfit>สร้างเครื่องแต่งกายใหม่</NewOutfit>
+  <DeleteOutfit>ลบเครื่องแต่งกาย...</DeleteOutfit>
+  <OutfitInUse>เครื่องแต่งกายใช้อยู่โดย {0}</OutfitInUse>
+  <NoOutfitSelected>ไม่ได้เลือกเครื่องแต่งกาย</NoOutfitSelected>
+  
+</LanguageData>

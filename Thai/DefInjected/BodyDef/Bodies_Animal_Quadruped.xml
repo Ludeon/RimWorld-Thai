@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <QuadrupedAnimalWithPaws.label>สัตว์สี่เท้าอุ้ง</QuadrupedAnimalWithPaws.label>
+  <QuadrupedAnimalWithPawsAndTail.label>สัตว์สี่เท้าอุ้งมีหาง</QuadrupedAnimalWithPawsAndTail.label>
+  <QuadrupedAnimalWithHooves.label>สัตว์สี่เท้ากีบ</QuadrupedAnimalWithHooves.label>
+  <QuadrupedAnimalWithHoovesAndHump.label>สัตว์สี่เท้ากีบมีหนอก</QuadrupedAnimalWithHoovesAndHump.label>
+  <QuadrupedAnimalWithHoovesAndTusks.label>สัตว์สี่เท้ากีบมีงา</QuadrupedAnimalWithHoovesAndTusks.label>
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>สัตว์สี่เท้ากีบมีงวงงา</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
+  <QuadrupedAnimalWithHoovesAndHorn.label>สัตว์สี่เท้ากีบมีเขา</QuadrupedAnimalWithHoovesAndHorn.label>
+  <QuadrupedAnimalWithClawsTailAndJowl.label>สัตว์สี่เท้ากรงเล็บมีหางและแก้ม</QuadrupedAnimalWithClawsTailAndJowl.label>
+
+  <TurtleLike.label>เต่า</TurtleLike.label>
+  <Monkey.label>ลิง</Monkey.label>
+
+</LanguageData>

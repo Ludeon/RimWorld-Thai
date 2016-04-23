@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BorealForest.label>ป่าเขตเหนือ</BorealForest.label>
+  <BorealForest.description>ป่าสนทางทิศเหนือ แม้จะมีฤดูหนาวที่ทารุณ, ป่าเขตเหนือก็คงความหลากหลายทางประชากรของสัตว์เล็กและใหญ่ไว้</BorealForest.description>
+
+  <Tundra.label>ทุ่งทุนดร้า</Tundra.label>
+  <Tundra.description>ทุ่งราบที่ถูกแช่แข็งเกือบหมด แทบจะไม่มีต้นไม้ใบหญ้า มีสัตว์เล็กจำนวนน้อยอาศัยรวมกับสัตว์กินหญ้าอพยพฝูงใหญ่และนักล่าของพวกมัน</Tundra.description>
+
+  <IceSheet.label>แผ่นน้ำแข็ง</IceSheet.label>
+  <IceSheet.description>พื้นผิวนั้นเป็นแผ่นน้ำแข็งปกคลุมอยู่ ซึ่งสามารถหนาได้ถึงหลายกิโลเมตร ที่นี่ไม่มีทางเข้าถึงผิวดินได้, จึงไม่มีพืชเลย สัตว์ที่เคยพบที่นี่ก็อพยพย้ายไปที่อื่นหมดแล้ว - หรืออย่างแย่ก็หายสาบสูญ</IceSheet.description>
+
+</LanguageData>

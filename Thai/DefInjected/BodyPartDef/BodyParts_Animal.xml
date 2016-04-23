@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- torso for animals -->
+
+  <Body.label>ลำตัว</Body.label>
+  <Beak.label>จงอยปาก</Beak.label>
+  <InsectHead.label>หัวแมลง</InsectHead.label>
+  <SnakeBody.label>ลำตัว</SnakeBody.label>
+  <SnakeHead.label>หัวงู</SnakeHead.label>
+  <SnakeMouth.label>ปากงู</SnakeMouth.label>
+  <InsectHeart.label>หัวใจแมลง</InsectHeart.label>
+  <InsectNostril.label>จมูกแมลง</InsectNostril.label>
+  <InsectMouth.label>ปากแมลง</InsectMouth.label>
+  <Jowl.label>แก้ม</Jowl.label>
+  <Tail.label>หาง</Tail.label>
+  <LeftAntenna.label>หนวดข้างซ้าย</LeftAntenna.label>
+  <RightAntenna.label>หนวดข้างขวา</RightAntenna.label>
+  <Pronotum.label>โปรโนตัม (ตัวแมลงส่วนท้อง)</Pronotum.label>
+  <Shell.label>กระดอง</Shell.label>
+  <LeftElytra.label>ปีกแข็งข้างซ้าย</LeftElytra.label>
+  <RightElytra.label>ปีกแข็งข้างขวา</RightElytra.label>
+  <LeftTusk.label>งาข้างซ้าย</LeftTusk.label>
+  <RightTusk.label>งาข้างขวา</RightTusk.label>
+  <Trunk.label>งวง</Trunk.label>
+  <Horn.label>เขา</Horn.label>
+  <HeadClaw.label>หัวกรงเล็บ</HeadClaw.label>
+  <Hump.label>หนอก</Hump.label>
+  <TurtleShell.label>กระดองเต่า</TurtleShell.label>
+  <Plastron.label>พลาสตรอน (กระดองส่วนท้อง)</Plastron.label>
+  <TurtleBeak.label>จงอยปากเต่า</TurtleBeak.label>
+
+  <!-- animals legs -->
+
+  <FrontLeftLeg.label>ขาคู่หน้าข้างซ้าย</FrontLeftLeg.label>
+  <FrontRightLeg.label>ขาคู่หน้าข้างขวา</FrontRightLeg.label>
+  <MiddleLeftLeg.label>ขาคู่กลางข้างซ้าย</MiddleLeftLeg.label>
+  <MiddleRightLeg.label>ขาคู่กลางข้างขวา</MiddleRightLeg.label>
+  <RearLeftLeg.label>ขาคู่หลังข้างซ้าย</RearLeftLeg.label>
+  <RearRightLeg.label>ขาคู่หลังข้างขวา</RearRightLeg.label>
+
+  <FrontLeftInsectLeg.label>ขาแมลงคู่หน้าข้างซ้าย</FrontLeftInsectLeg.label>
+  <FrontRightInsectLeg.label>ขาแมลงคู่หน้าข้างขวา</FrontRightInsectLeg.label>
+  <MiddleLeftInsectLeg.label>ขาแมลงคู่กลางข้างซ้าย</MiddleLeftInsectLeg.label>
+  <MiddleRightInsectLeg.label>ขาแมลงคู่กลางข้างขวา</MiddleRightInsectLeg.label>
+  <RearLeftInsectLeg.label>ขาแมลงคู่หลังข้างซ้าย</RearLeftInsectLeg.label>
+  <RearRightInsectLeg.label>ขาแมลงคู่หลังข้างขวา</RearRightInsectLeg.label>
+
+  <FrontLeftPaw.label>อุ้งเท้าหน้าข้างซ้าย</FrontLeftPaw.label>
+  <FrontRightPaw.label>อุ้งเท้าหน้าข้างขวา</FrontRightPaw.label>
+  <RearLeftPaw.label>อุ้งเท้าหลังข้างซ้าย</RearLeftPaw.label>
+  <RearRightPaw.label>อุ้งเท้าหลังข้างขวา</RearRightPaw.label>
+  <FrontLeftHoof.label>กีบเท้าหน้าข้างซ้าย</FrontLeftHoof.label>
+  <FrontRightHoof.label>กีบเท้าหน้าข้างขวา</FrontRightHoof.label>
+  <RearLeftHoof.label>กีบเท้าหลังข้างซ้าย</RearLeftHoof.label>
+  <RearRightHoof.label>กีบเท้าหลังข้างขวา</RearRightHoof.label>
+
+  <FrontLeftLegFirstClaw.label>กรงเล็บที่ 1 ขาหน้าข้างซ้าย</FrontLeftLegFirstClaw.label>
+  <FrontLeftLegSecondClaw.label>กรงเล็บที่ 2 ขาหน้าข้างซ้าย</FrontLeftLegSecondClaw.label>
+  <FrontLeftLegThirdClaw.label>กรงเล็บที่ 3 ขาหน้าข้างซ้าย</FrontLeftLegThirdClaw.label>
+  <FrontLeftLegFourthClaw.label>กรงเล็บที่ 4 ขาหน้าข้างซ้าย</FrontLeftLegFourthClaw.label>
+  <FrontLeftLegFifthClaw.label>กรงเล็บที่ 5 ขาหน้าข้างซ้าย</FrontLeftLegFifthClaw.label>
+  <FrontRightLegFirstClaw.label>กรงเล็บที่ 1 ขาหน้าข้างขวา</FrontRightLegFirstClaw.label>
+  <FrontRightLegSecondClaw.label>กรงเล็บที่ 2 ขาหน้าข้างขวา</FrontRightLegSecondClaw.label>
+  <FrontRightLegThirdClaw.label>กรงเล็บที่ 3 ขาหน้าข้างขวา</FrontRightLegThirdClaw.label>
+  <FrontRightLegFourthClaw.label>กรงเล็บที่ 4 ขาหน้าข้างขวา</FrontRightLegFourthClaw.label>
+  <FrontRightLegFifthClaw.label>กรงเล็บที่ 5 ขาหน้าข้างขวา</FrontRightLegFifthClaw.label>
+
+  <RearLeftLegFirstClaw.label>กรงเล็บที่ 1 ขาหลังข้างซ้าย</RearLeftLegFirstClaw.label>
+  <RearLeftLegSecondClaw.label>กรงเล็บที่ 2 ขาหลังข้างซ้าย</RearLeftLegSecondClaw.label>
+  <RearLeftLegThirdClaw.label>กรงเล็บที่ 3 ขาหลังข้างซ้าย</RearLeftLegThirdClaw.label>
+  <RearLeftLegFourthClaw.label>กรงเล็บที่ 4 ขาหลังข้างซ้าย</RearLeftLegFourthClaw.label>
+  <RearLeftLegFifthClaw.label>กรงเล็บที่ 5 ขาหลังข้างซ้าย</RearLeftLegFifthClaw.label>
+  <RearRightLegFirstClaw.label>กรงเล็บที่ 1 ขาหลังข้างขวา</RearRightLegFirstClaw.label>
+  <RearRightLegSecondClaw.label>กรงเล็บที่ 2 ขาหลังข้างขวา</RearRightLegSecondClaw.label>
+  <RearRightLegThirdClaw.label>กรงเล็บที่ 3 ขาหลังข้างขวา</RearRightLegThirdClaw.label>
+  <RearRightLegFourthClaw.label>กรงเล็บที่ 4 ขาหลังข้างขวา</RearRightLegFourthClaw.label>
+  <RearRightLegFifthClaw.label>กรงเล็บที่ 5 ขาหลังข้างขวา</RearRightLegFifthClaw.label>
+
+</LanguageData>

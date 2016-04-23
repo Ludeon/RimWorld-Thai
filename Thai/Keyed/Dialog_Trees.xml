@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <FactionGreetingHostile>{0} hurls some epithets into the monitor and disconnects.</FactionGreetingHostile>
+  <FactionGreetingWary>{0} greets {1} warily and asks HIS business.</FactionGreetingWary>
+  <FactionGreetingWarm>{0} greets {1} warmly and asks how the colony fares.</FactionGreetingWarm>
+
+  <Disconnect>ตัดการติดต่อ</Disconnect>
+
+  <OfferGift>เสนอมอบของขวัญ</OfferGift>
+  <NeedSilverLaunchable>ต้องการเงินจำนวน {0} ไว้ใกล้ๆกับตัวส่งสัญญาณแลกเปลี่ยน</NeedSilverLaunchable>
+  <NotEnoughSilver>มีเงินไม่พอ</NotEnoughSilver>
+  <SilverForGoodwill>{0} เงินสำหรับไมตรีจิตของ {1}</SilverForGoodwill>
+  <SilverGiftSent>ผู้แสดงตนแทนของ {0} กล่าวขอบคุณ\n\n(ไมตรีจิตพัฒนาขึ้นมาโดย {1}).</SilverGiftSent>
+
+
+  <RequestMilitaryAid>ร้องขอความช่วยเหลือทางการทหารทันที (ไมตีจิต {0} )</RequestMilitaryAid>
+  <MilitaryAidConfirmMutualEnemy>{0} จะไม่ช่วยสู้กับฝ่ายอื่นที่ไม่ใช่ศัตรู รวมถึงบางฝ่ายที่ข่มขู่คุณตอนนี้, {1} คุณยังคงต้องการเรียกขอความเหลืออีกหรอ?</MilitaryAidConfirmMutualEnemy>
+  <CallConfirm>ใช่, เรียกพวกเขาไม่ว่ายังไงก็เถอะ</CallConfirm>
+  <CallCancel>ไม่, ช่างมันเถอะ</CallCancel>
+  <MilitaryAidSent>ผู้แสดงตนแทนของ {0} ตกลงเห็นด้วยที่จะส่งนักรบมาเพื่อช่วยคุณ</MilitaryAidSent>
+  
+  
+</LanguageData>

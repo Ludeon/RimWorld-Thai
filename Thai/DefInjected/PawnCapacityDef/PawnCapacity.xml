@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Consciousness.label>สติ</Consciousness.label>
+  <Consciousness.labelMechanoids>Datenverarbeitung</Consciousness.labelMechanoids>
+  <Sight.label>การมองเห็น</Sight.label>
+  <Hearing.label>การได้ยิน</Hearing.label>
+  <Moving.label>การเคลื่อนไหว</Moving.label>
+  <Manipulation.label>การใช้มือ</Manipulation.label>
+  <Talking.label>การพูด</Talking.label>
+  <Talking.labelMechanoids>Kommunizieren</Talking.labelMechanoids>
+  <Eating.label>การรับประทาน</Eating.label>
+  <Breathing.label>การหายใจ</Breathing.label>
+  <BloodFiltration.label>Blutreinheit</BloodFiltration.label>
+  <BloodPumping.label>การสูบฉีดโลหิต</BloodPumping.label>
+  <Metabolism.label>อัตราการเผาผลาญ</Metabolism.label>
+
+</LanguageData>

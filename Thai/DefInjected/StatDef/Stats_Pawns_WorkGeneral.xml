@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <WorkSpeedGlobal.label>Arbeitsgeschwindigkeit</WorkSpeedGlobal.label>
+  <WorkSpeedGlobal.description>Wie schnell das Individuum arbeiten kann.</WorkSpeedGlobal.description>
+
+  <MiningSpeed.label>Abbaugeschwindigkeit</MiningSpeed.label>
+  <MiningSpeed.description>Wie schnell das Individuum Gesteine abbauen kann.</MiningSpeed.description>
+
+  <SmoothingSpeed.label>Glättungsgeschwindigkeit</SmoothingSpeed.label>
+  <SmoothingSpeed.description>Wie schnell das Individuum Böden glätten kann.</SmoothingSpeed.description>
+
+  <ResearchSpeed.label>Forschungsgeschwindigkeit</ResearchSpeed.label>
+  <ResearchSpeed.description>Wie schnell das Individuum forschen kann.</ResearchSpeed.description>
+
+  <ConstructionSpeed.label>Aufbaugeschwindigkeit</ConstructionSpeed.label>
+  <ConstructionSpeed.description>Wie schnell das Individuum etwas aufbauen kann.</ConstructionSpeed.description>
+
+  <PlantWorkSpeed.label>Anbaugeschwindigkeit</PlantWorkSpeed.label>
+  <PlantWorkSpeed.description>Wie schnell das Individuum Pflanzen säen und ernten kann.</PlantWorkSpeed.description>
+
+  <HarvestFailChance.label>Ernteverlustchance</HarvestFailChance.label>
+  <HarvestFailChance.description>Wie häufig das Individuum die Ernte versehentlich und unwiderruflich zerstört.</HarvestFailChance.description>
+
+  <FixBrokenDownBuildingFailChance.label>Reperaturversagenwahrscheinlichkeit</FixBrokenDownBuildingFailChance.label>
+  <FixBrokenDownBuildingFailChance.description>Die Wahrscheinlichkeit des Kolonisten bei der Reparatur eines beschädigten Gebäudes zu versagen.</FixBrokenDownBuildingFailChance.description>
+
+</LanguageData>

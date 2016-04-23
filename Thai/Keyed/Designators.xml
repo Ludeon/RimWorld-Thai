@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <DesignatorCancel>ยกเลิก</DesignatorCancel>
+  <DesignatorCancelDesc>ยกเลิกกำหนดการสร้าง, ขุดเหมือง, ขนของ, เก็บเกี่ยว, และที่กำหนดอื่นๆทั้งหมด</DesignatorCancelDesc>
+
+  <DesignatorCutPlants>ตัดต้นไม้</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc>กำหนดต้นไม้ที่จะโค่นและทำลายทิ้ง ต้นไม้จะถูกเอาออกทั้งหมด ส่วนผลผลิตที่มีจะเก็บเกี่ยวเอาไว้</DesignatorCutPlantsDesc>
+
+  <DesignatorDeconstruct>รื้อสิ่งก่อสร้าง</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>รื้อสิ้งก่อสร้างนี้ และเอาชิ้นส่วนวัสดุกลับคืนมา</DesignatorDeconstructDesc>
+
+  <DesignatorUninstall>ถอนการติดตั้ง</DesignatorUninstall>
+  <DesignatorUninstallDesc>ถอนการติดตั้งเพื่อที่จะได้ย้าย, ขาย, หรือเอาไปติดตั้งที่อื่น</DesignatorUninstallDesc>
+
+  <DesignatorHarvest>เก็บเกี่ยว</DesignatorHarvest>
+  <DesignatorHarvestDesc>กำหนดต้นไม้ที่จะเก็บเกี่ยวเอามาเป็นอาหารและผลผลิตอื่นๆ</DesignatorHarvestDesc>
+
+  <DesignatorHarvestWood>ตัดไม้</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>กำหนดต้นไม้ที่จะโค่นมาเป็นไม้</DesignatorHarvestWoodDesc>
+
+  <DesignatorHaulThings>ขนของ</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>กำหนดก้อนหินและสิ่งของอื่นๆที่จะขนไปยังเขตที่ทิ้ง ไม่จำเป็นสำหรับอาหารหรือศพ, ซึ่งขนได้โดนปกติอยู่แล้ว</DesignatorHaulThingsDesc>
+  <MustHaulHaulables>สามารถกำหนดสิ่งที่ขนได้แต่ไม่ใช่สิ่งที่ปกติขนได้อยู่แล้วเท่านั้น (เช่นก้อนหิน)</MustHaulHaulables>
+
+  <DesignatorHunt>ล่าสัตว์</DesignatorHunt>
+  <DesignatorHuntDesc>กำหนดสัตว์ที่จะล่าโดยนักล่าของคุณ</DesignatorHuntDesc>
+
+  <DesignatorMine>ทำเหมือง</DesignatorMine>
+  <DesignatorMineDesc>กำหนดเขตของหินที่จะถูกขุดเหมืองออก</DesignatorMineDesc>
+
+  <DesignatorSmoothFloor>ขัดพื้นให้เรียบ</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>กำหนดพื้นหินหยาบที่จะขัดให้เรียบ</DesignatorSmoothFloorDesc>
+
+  <DesignatorPlan>ผัง</DesignatorPlan>
+  <DesignatorPlanDesc>กำหนดวางผัง ไม่ได้มีอะไรนอกจากช่วยในการวางแผนการขยายในอนาคต</DesignatorPlanDesc>
+
+  <DesignatorPlanRemove>เอาผังออก</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>เอาผังที่กำหนดออก</DesignatorPlanRemoveDesc>
+
+  <DesignatorAreaHomeExpand>ขยายเขตบ้าน</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpandDesc>ชาวอาณานิคมจะซ่อมแซมอาคาร, กวาดพื้น, และดับเพลิงไหม้เฉพาะในเขตบ้านนี้เท่านั้น</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeClear>ล้างเขตบ้าน</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClearDesc>เอาเขตบ้านออก ชาวอาณานิคมจะไม่ทำความสะอาด, ซ่อมแซม, หรือดับเพลิงที่นี่</DesignatorAreaHomeClearDesc>
+
+  <DesignatorAreaNoRoofExpand>ขยายเขตปลอดหลังคา</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpandDesc>สร้างเขตที่จะไม่มีหลังคา และจะรื้อหลังคาแบบบางที่มีก่อนหน้านี้ลงมา</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofClear>ล้างเขตปลอดหลังคา</DesignatorAreaNoRoofClear>
+  <DesignatorAreaNoRoofClearDesc>เอาเขตปลอดหลังคาออก หลังคาจะสร้างที่นี่, และหลังคาที่มีอยู่จะไม่ถูกรื้อลงมา</DesignatorAreaNoRoofClearDesc>
+
+  <DesignatorAreaSnowClearExpand>ขยายเขตปลอดหิมะ</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpandDesc>สร้างเขตที่ชาวอาณานิคมจะพยายามกวาดหิมะออกไป</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearClear>ล้างเขตปลอดหิมะ</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClearDesc>เอาเขตปลอดหิมะออก ชาวอาณานิคมจะไม่กวาดหิมะที่นี่อีกต่อไป</DesignatorAreaSnowClearClearDesc>
+
+  <DesignatorExpandAreaAllowed>ขยายเขตที่อนุญาต</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowedDesc>ขยายเขตที่อนุญาต\n\nเขตที่อนุญาตนั้นคือพื้นที่ๆ คุณสามารถกำหนดให้ชาวอาณานิคมอยู่ ซึ่งพวกเขาจะไม่ยอมทำงาน หรือเติมเต็มความต้องการของตัวเองนอกเขตที่อนุญาต</DesignatorExpandAreaAllowedDesc>
+  <DesignatorClearAreaAllowed>ล้างเขตที่อนุญาต</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowedDesc>ล้างเซลล์ออกจากเขตที่อนุญาต\n\nเขตที่อนุญาตนั้นคือพื้นที่ๆ คุณสามารถกำหนดให้ชาวอาณานิคมอยู่ ซึ่งพวกเขาจะไม่ยอมทำงาน หรือเติมเต็มความต้องการของตัวเองนอกเขตที่อนุญาต</DesignatorClearAreaAllowedDesc>
+  <ManageAreas>จัดการเขต...</ManageAreas>
+
+  <DesignatorGrowingZoneDesc>สร้างโซนที่ชาวอาณานิคมจะพยายามปลูกพืชเฉพาะประเภท</DesignatorGrowingZoneDesc>
+
+  <DesignatorZoneCreateStorageResourcesDesc>สร้างที่เก็บของที่ชาวอาณานิคม จะเก็บทรัพยากรไว้\nเครื่องมือนี้สามารถใช้ขยายที่เก็บของที่มีอยู่แล้วก็ได้เช่นกัน</DesignatorZoneCreateStorageResourcesDesc>
+
+  <DesignatorZoneCreateStorageDumpingDesc>สร้างที่เก็บของที่ชาวอาณานิคมจะเก็บขยะไว้\nเครื่องมือนี้สามารถใช้ขยายที่ทิ้งที่มีอยู่แล้วก็ได้เช่นกัน</DesignatorZoneCreateStorageDumpingDesc>
+
+  <DesignatorZoneDelete>ลบโซน</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>เอาโซนออก, เช่นโซนที่เก็บของหรือโซนเพาะปลูก</DesignatorZoneDeleteDesc>
+  
+  <DesignatorClaim>อ้างกรรมสิทธิ์</DesignatorClaim>
+  <DesignatorClaimDesc>อ้างเอาโครงสร้างที่เป็นกลาง ให้เป็นของอาณานิคม, รวมถึงซากโบราณและฐานปิดที่ถูกทิ้งร้าง โครงสร้างที่อ้างแล้วสามารถซ่อมแซม และดูแลรักษาโดยชาวอาณานิคมของคุณ</DesignatorClaimDesc>
+
+  <DesignatorRemoveFloor>เอาพื้นออก</DesignatorRemoveFloor>
+  <DesignatorRemoveFloorDesc>เอาพื้นออกเพื่อเผยให้เห็นแผ่นดินข้างใต้</DesignatorRemoveFloorDesc>
+
+  <DesignatorStrip>แก้ผ้า</DesignatorStrip>
+  <DesignatorStripDesc>ถอดเสื้อผ้าออกจากศพและผู้บาดเจ็บ</DesignatorStripDesc>
+
+  <DesignatorRearmTrap>ขึ้นกับดักใหม่</DesignatorRearmTrap>
+  <DesignatorRearmTrapDesc>ขี้นกับดักที่เด้งแล้วใหม่ เพื่อที่มันจะได้ลั่นอีกครั้ง</DesignatorRearmTrapDesc>
+
+  <DesignatorOpen>เปิด</DesignatorOpen>
+  <DesignatorOpenDesc>เปิดหลุมศพหรือที่บรรจุ</DesignatorOpenDesc>
+  
+  <DesignatorSlaughter>เชือด</DesignatorSlaughter>
+  <DesignatorSlaughterDesc>เชือดสัตว์ที่เชิ่องแล้ว</DesignatorSlaughterDesc>
+
+  <DesignatorTame>ทำให้เชื่อง</DesignatorTame>
+  <DesignatorTameDesc>ทำสัตว์ป่าให้เชื่องลง</DesignatorTameDesc>
+
+
+  <!-- Failure messages -->
+  <UnchosenStuff>Unchosen material</UnchosenStuff>
+  <TooCloseToMapEdge>ใกล้ขอบแผนที่มากเกินไป</TooCloseToMapEdge>
+  <OutOfBounds>ออกนอกขอบเขต</OutOfBounds>
+  <CannotPlaceInUndiscovered>ไม่สามารถวางในเขตที่ยังไม่สำรวจ</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>จุดปฏิสัมพันธ์ถูกขวางไว้ด้วย {0}</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>จุดปฏิสัมพันธ์นั้นออกนอกขอบเขต</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>จุดปฏิสัมพันธ์จะถูกขวางไว้ด้วย {0}</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>{0} อาจจะขวางจุดปฏิสัมพันธ์ของ {1}</WouldBlockInteractionSpot>
+  <TerrainIsAlready>พื้นที่นี่นั้น {0} อยู่แล้ว</TerrainIsAlready>
+  <TerrainBeingSmoothed>พื้นนั้นถูกกำหนดให้ขัดให้เรียบแล้ว</TerrainBeingSmoothed>
+  <IdenticalThingExists>Identical thing already exists here.</IdenticalThingExists>
+  <IdenticalBlueprintExists>Identical blueprint already exists here.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>พื้นที่นี่นั้นไม่สามารถรองรับสิ่งนี้ได้</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>พื้นที่ถูกจับจองแล้ว</SpaceAlreadyOccupied>
+  <TerrainMustBeRemovable>ต้องชี้ที่พื้นปูที่เอาออกได้</TerrainMustBeRemovable>
+  
+  
+  <!-- Mouse attachments -->
+  <ExpandOrCreateZone>ขยาย{0} หรือ\nสร้าง{1}ใหม่</ExpandOrCreateZone>
+  <CreateNewZone>สร้าง{0}ใหม่</CreateNewZone>
+  
+  
+  <!-- Desc helpers -->
+  <TransmitsPower>ส่งผ่านพลังงาน</TransmitsPower>
+
+
+</LanguageData>

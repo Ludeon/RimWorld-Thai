@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <FilthDirt.label>ฝุ่น</FilthDirt.label>
+  <FilthAnimalFilth.label>คราบสัตว์ทำ</FilthAnimalFilth.label>
+  <FilthSand.label>ทราย</FilthSand.label>
+  <RockRubble.label>เศษหิน</RockRubble.label>
+  <BuildingRubble.label>เศษสิ่งก่อสร้าง</BuildingRubble.label>
+  <SandbagRubble.label>เศษกระสอบทราย</SandbagRubble.label>
+
+  <!-- Fluids etc -->
+
+  <FilthBlood.label>เลือด</FilthBlood.label>
+  <FilthBloodInsect.label>เลือดแมลง</FilthBloodInsect.label>
+  <FilthAmnioticFluid.label>น้ำคร่ำ</FilthAmnioticFluid.label>
+  <FilthSlime.label>เมือก</FilthSlime.label>
+
+  <FilthFireFoam.label>โฟมดับเพลิง</FilthFireFoam.label>
+
+</LanguageData>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <LetterDay>ว</LetterDay>
+  <LetterHour>ช</LetterHour>
+  <LetterMinute>น</LetterMinute>
+  <LetterSecond>วิ</LetterSecond>
+  
+  <DaysLower>วัน</DaysLower>
+  <SecondsLower>วินาที</SecondsLower>
+
+  <SeasonSpring>ฤดูใบไม้ผลิ</SeasonSpring>
+  <SeasonSummer>ฤดูร้อน</SeasonSummer>
+  <SeasonFall>ฤดูใบไม้ร่วง</SeasonFall>
+  <SeasonWinter>ฤดูหนาว</SeasonWinter>
+
+  <Born>เกิด: {0}</Born>
+  <AgeChronological>อายุเชิงกาลภาพ: {0} ปี, {1} ฤดู, {2} วัน</AgeChronological>
+  <AgeBiological>อายุเชิงชีวภาพ: {0} ปี, {1} ฤดู, {2} วัน</AgeBiological>
+
+  <!-- Date periods -->
+	<Period1Year>1 ปี</Period1Year>
+  <PeriodYears>{0} ปี</PeriodYears>
+  <Period1Season>1 ฤดู</Period1Season>
+  <PeriodSeasons>{0} ฤดู</PeriodSeasons>
+  <Period1Day>1 วัน</Period1Day>
+  <PeriodDays>{0} วัน</PeriodDays>
+  <Period1Hour>1 ชั่วโมง</Period1Hour>
+  <PeriodHours>{0} ชั่วโมง</PeriodHours>
+
+  <!-- Misc -->
+  <Started>Started</Started>
+  <Lasted>Lasted</Lasted>
+  <OccurredTimeAgo>เกิดขึ้นเมื่อ {0} ที่ผ่านมา</OccurredTimeAgo>
+  
+</LanguageData>

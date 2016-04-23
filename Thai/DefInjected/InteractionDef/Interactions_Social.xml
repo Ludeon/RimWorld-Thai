@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Random social interactions -->
+
+  <Chitchat.label>คุยเล่น</Chitchat.label>
+  <Chitchat.logRulesInitiator.rulesStrings.0>logentry->คุยเล่นสนุกๆกับ [other_nameShortIndef]</Chitchat.logRulesInitiator.rulesStrings.0>
+
+  <DeepTalk.label>คุยลึกซึ้ง</DeepTalk.label>
+  <DeepTalk.logRulesInitiator.rulesStrings.0>logentry->คุยเรื่องลึกซึ้งกับ [other_nameShortIndef]</DeepTalk.logRulesInitiator.rulesStrings.0>
+
+  <Slight.label>ดูหมิ่น</Slight.label>
+  <Slight.logRulesInitiator.rulesStrings.0>logentry->ดูหมิ่น [other_nameShortIndef]</Slight.logRulesInitiator.rulesStrings.0>
+  <Slight.logRulesRecipient.rulesStrings.0>logentry->ถูก [other_nameShortIndef] ดูหมิ่น</Slight.logRulesRecipient.rulesStrings.0>
+
+  <Insult.label>สบประมาท</Insult.label>
+  <Insult.logRulesInitiator.rulesStrings.0>logentry->สบประมาท [other_nameShortIndef]</Insult.logRulesInitiator.rulesStrings.0>
+  <Insult.logRulesRecipient.rulesStrings.0>logentry->ถูก [other_nameShortIndef] สบประมาท</Insult.logRulesRecipient.rulesStrings.0>
+
+</LanguageData>

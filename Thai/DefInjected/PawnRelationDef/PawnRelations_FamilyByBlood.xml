@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Parent.label>บิดา</Parent.label>
+  <Parent.labelFemale>มารดา</Parent.labelFemale>
+
+  <Child.label>ลูกชาย</Child.label>
+  <Child.labelFemale>ลูกสาว</Child.labelFemale>
+
+  <Sibling.label>Bruder</Sibling.label>
+  <Sibling.labelFemale>Schwester</Sibling.labelFemale>
+
+  <HalfSibling.label>Halbbruder</HalfSibling.label>
+  <HalfSibling.labelFemale>Halbschwester</HalfSibling.labelFemale>
+
+  <Grandparent.label>ปู่</Grandparent.label>
+  <Grandparent.labelFemale>ย่า</Grandparent.labelFemale>
+
+  <Grandchild.label>หลานชาย</Grandchild.label>
+  <Grandchild.labelFemale>หลานสาว</Grandchild.labelFemale>
+
+  <NephewOrNiece.label>หลานชาย</NephewOrNiece.label>
+  <NephewOrNiece.labelFemale>หลานสาว</NephewOrNiece.labelFemale>
+
+  <UncleOrAunt.label>ลุง</UncleOrAunt.label>
+  <UncleOrAunt.labelFemale>ป้า</UncleOrAunt.labelFemale>
+
+  <Cousin.label>ญาติ</Cousin.label>
+  <Cousin.labelFemale>ญาติ</Cousin.labelFemale>
+
+  <!-- distant family -->
+
+  <GreatGrandparent.label>ปู่ทวด</GreatGrandparent.label>
+  <GreatGrandparent.labelFemale>ย่าทวด</GreatGrandparent.labelFemale>
+
+  <GreatGrandchild.label>Urenkel</GreatGrandchild.label>
+  <GreatGrandchild.labelFemale>Urenkelin</GreatGrandchild.labelFemale>
+
+  <GranduncleOrGrandaunt.label>Großonkel</GranduncleOrGrandaunt.label>
+  <GranduncleOrGrandaunt.labelFemale>Großtante</GranduncleOrGrandaunt.labelFemale>
+
+  <GrandnephewOrGrandniece.label>Großneffe</GrandnephewOrGrandniece.label>
+  <GrandnephewOrGrandniece.labelFemale>Großnichte</GrandnephewOrGrandniece.labelFemale>
+
+  <CousinOnceRemoved.label>Neffe 2.Grades</CousinOnceRemoved.label>
+  <CousinOnceRemoved.labelFemale>Nichte 2.Grades</CousinOnceRemoved.labelFemale>
+
+  <SecondCousin.label>Cousin 2.Grades</SecondCousin.label>
+  <SecondCousin.labelFemale>Cousine 2.Grades</SecondCousin.labelFemale>
+
+  <!-- kin -->
+
+  <Kin.label>verwandt</Kin.label>
+
+</LanguageData>

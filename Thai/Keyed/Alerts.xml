@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ClickToJumpToProblem>คลิกเพื่อกระโดดไปที่ปัญหา</ClickToJumpToProblem>
+
+  
+  
+  <NeedSawmill>ต้องการโรงเลื่อย</NeedSawmill>
+  <NeedSawmillDesc>คุณต้างการโรงเลื่อยหรืออะไรแบบนั้นเพื่อตัดท่อนซุงให้เป็นกระดานที่นำมาใช้ได้มากกว่า\n\nสร้างโรงเลื่อยด้วยมือหรือโรงเลื่อยไฟฟ้า</NeedSawmillDesc>
+
+  <PoorMood>อารมณ์ไม่ดี</PoorMood>
+  <PoorMoodDesc>ชาวอาณานิคมนี้อารมณ์ไม่ดีและอาจจะเกิดภาวะทางจิตอย่างอ่อนขึ้นเมื่อไหร่ก็ได้:\n\n{0}</PoorMoodDesc>
+  <TerribleMood>อารมณ์เสีย</TerribleMood>
+  <TerribleMoodDesc>ชาวอาณานิคมนี้เครียดถึงขั้นวิกฤติและอาจจะเกิดภาวะทางจิตอย่างหนักและรุนแรงขึ้นได้ทุกขณะ:\n\n{0}</TerribleMoodDesc>
+  <LowMoodDescEnding>ตรวจสอบแท็บความต้องการของชาวอาณานิคมนี้เพื่อดูว่าอะไรที่รบกวนพวกเขา</LowMoodDescEnding>
+  
+  <ColonistNeedsRescue>ชาวอาณานิคมต้องการการช่วยเหลือ</ColonistNeedsRescue>
+  <ColonistsNeedRescue>ชาวอาณานิคม+ต้องการการช่วยเหลือ</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>ชาวอาณานิคมนี้นอนเดี้ยงอยู่บนพื้น:\n\n{0}\nส่งชาวอาณานิคมคนอื่น เข้าช่วยเหลือและแบกพวกเขา กลับมาที่เตียง\n\n(เพื่อช่วยเหลือ, เลือกชาวอาณานิคมคนอื่น, คลิกขวาบนเหยื่อแล้วเลือกช่วยเหลือ</ColonistsNeedRescueDesc>
+
+  <BuildARoom>สร้างห้อง</BuildARoom>
+  <BuildARoomDesc>ห้องนั้นประกอบไปด้วยกำแพงที่แยกจากกันและประตู\n\nใช้เมนูสถาปัตยกรรม ที่อยู่ด้านล่างซ้ายของหน้าจอ เพื่อกำหนดที่ๆคุณต้องการจะสร้าง เมื่อกำหนดบางอย่างแล้ว, ชาวอาณานิคมจะทำงาน เมื่อพวกเขาสามารถทำได้</BuildARoomDesc>
+
+  <NeedDefenses>ต้องการการป้องกัน</NeedDefenses>
+  <NeedDefensesDesc>คุณอยู่ที่นี่มาสักพักและถูกพบแล้วแน่นอน โจรสลัดจะเริ่มมาปล้นในอีกไม่นานนี้\n\nคุณควรจะเตรียมการป้องกันบ้าง\n\nสร้างป้อมปืนสักหลายๆอัน</NeedDefensesDesc>
+
+  <NeedDoctor>ต้องการหมอ</NeedDoctor>
+  <NeedDoctorDesc>ชาวอาณานิคมนี้ต้องการการดูแลทางการแพทย์, แต่คุณไม่มีชาวอาณานิคมที่สุขภาพดีคนไหนที่มอบหมายให้เป็นแพทย์\n\n{0}\n มอบหมายให้ชาวอาณานิคมที่สุขภาพดีทำงานด้านแพทย์ ถ้าทิ้งไว้ไม่รักษา, บาดแผลอาจจะไม่มีทางหายอย่างถูกต้องและอาจจะเป็นอย่างถาวร</NeedDoctorDesc>
+
+  <NeedMiner>ต้องการคนเหมือง</NeedMiner>
+  <NeedMinerDesc>คุณกำหนดให้ทำเหมืองหินบางส่วน, แต่ไม่มีชาวอาณานิคมคนไหนทำงานด้านขุดเหมือง\n\nมอบหมายให้ชาวอาณานิคมสักคนทำงานขุดเหมือง</NeedMinerDesc>
+
+  <NeedWarden>ต้องการผู้คุม</NeedWarden>
+  <NeedWardenDesc>คุณมีนักโทษ, แต่ไม่มีชาวอาณานิคมคนไหนที่ทำงานเป็นผู้คุม\n\nมอบหมายให้ชาวอาณานิคมสักคนทำงานเป็นผู้คุม</NeedWardenDesc>
+
+  <LowFood>อาหารมีจำนวนน้อย</LowFood>
+  <LowFoodDesc>คุณมีอาหารเหลืออยู่ในคลังแค่เพียง {0} ชุดที่มีค่าเต็มหลอด ซึ่งน้อยจนเป็นอันตราย\n\nเพาะปลูก, ซื้อ, ค้นหา, หรือฆ่ามาเป็นอาหาร</LowFoodDesc>
+
+  <LowMedicine>ยามีจำนวนน้อย</LowMedicine>
+  <LowMedicineDesc>คุณมียาเหลือในคลังแค่เพียง {0} ชุด\n\nซื้อยาเพิ่มได้จากพ่อค้า</LowMedicineDesc>
+  <NoMedicineDesc>คุณไม่มียาเหลืออยู่ในคลังแล้ว\n\nซื้อยาเพิ่มได้จากพ่อค้า</NoMedicineDesc>
+  
+  <NeedColonistBeds>ต้องการเตียงให้ชาวอาณานิคม</NeedColonistBeds>
+  <NeedColonistBedsDesc>คุณมีชาวอาณานิคมมากกว่าเตียงที่มี บางคนจะขาดที่ๆจะนอน\n\nถ้าไม่สร้างเตียงเพิ่ม, ก็เปลี่ยนเตียงนักโทษให้เป็นเตียงชาวอาณานิคม\n\nถ้าคุณไม่มีวัตถุดิบ, จุดนอนนั้นฟรี และสามารถติดตั้งได้ทันที</NeedColonistBedsDesc>
+
+  <HunterLacksWeapon>นักล่าขาดอาวุธ</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>ชาวอาณานิคมถูกกำหนดให้เป็นนักล่าแต่กลับไม่มีอาวุธ เขาจะไม่ออกล่าจนกว่าจะได้ถืออาวุธ\n\nเพื่อลดการบาดเจ็บ, เราแนะนำให้มอบอาวุธพิสัยไกลแก่พวกเขา</HunterLacksWeaponDesc>
+
+  <Starvation>ภาวะอดอยาก</Starvation>
+  <StarvationDesc>ชาวอาณานิคมนี้กำลังอดอยาก:\n\n{0}\nหาอาหารให้พวกเขาทาน</StarvationDesc>
+
+  <StarvationAnimals>สัตว์มีภาวะอดอยาก</StarvationAnimals>
+  <StarvationAnimalsDesc>สัตว์ในอาณานิคมนี้กำลังอดอยาก:\n\n{0}\nหาอาหารให้พวกมันกิน</StarvationAnimalsDesc>
+
+  <Exhaustion>หมดแรง</Exhaustion>
+  <ExhaustionDesc>ชาวอาณานิคมนี้หมดแรงข้าวต้มและต้องการพักผ่อน:\n\n{0}\nให้พวกเขาพัก ต้องการเตียงที่กำหนดให้สำหรับชาวอาณานิคมใช้ แล้วก็ให้แน่ใจว่าพวกเขาไม่ได้ถูกเกณฑ์อยู่</ExhaustionDesc>
+
+  <NeedFoodHopper>ต้องการถังป้อนอาหาร</NeedFoodHopper>
+  <NeedFoodHopperDesc>คุณมีเครื่องจำหน่ายอาหาร ที่ไม่มีถังป้อนอาหารอยู่ข้างๆ\n\nเพื่อที่จะทำงาน, เครื่องจ่ายอาหารต้องอยู่ติดกันกับถังป้อนอาหารที่มีอาหารดิบ\n\nสร้างถังป้อนอาหาร ไว้ติดกับเครื่องจำหน่าย</NeedFoodHopperDesc>
+
+  <BuildingNeedsPower>อาคารต้องการพลังงาน</BuildingNeedsPower>
+  <BuildingsNeedPower>อาคาร+ต้องการพลังงาน</BuildingsNeedPower>
+  <BuildingsNeedPowerDesc>อาคารที่ใช้พลังงานนี้ไม่ได้เชื่อมต่อกับแหล่งพลังงานใดๆเลย:\n\n{0}\nเชื่อมต่อเข้ากับเครื่องกำเนิดพลังงานหรือแบตเตอรี่</BuildingsNeedPowerDesc>
+  <AndMore>และอีกมาก</AndMore>
+
+  <NeedMealSource>ต้องการที่ประกอบอาหาร</NeedMealSource>
+  <NeedMealSourceDesc>คุณไม่มีทางไหนที่จะประกอบมื้ออาหารขึ้นมาจากอาหารดิบเลย\n\nสร้างเตา, กองไฟ, หรือเครื่องจำหน่ายอาหาร\n\n(ไม่สามารถอยู่ในห้องขังได้, ไม่อย่างนั้นชาวอาณานิคมก็ไม่สามารถใช้งานมันได้)</NeedMealSourceDesc>
+
+  <NeedHomeArea>ต้องการเขตบ้าน</NeedHomeArea>
+  <NeedHomeAreaDesc>คุณต้องกำหนดเขตบ้าน ที่ๆชาวอาณานิคมจะทำความสะอาด, ดับเพลิงไหม้, และซ่อมแซมสิ่งต่างๆ\n\nกำหนดเขตบ้านโดยใช้ส่วนของโซน ซึ่งอยู่ในเมนูสถาปัตยกรรม</NeedHomeAreaDesc>
+
+  <NeedBatteries>ต้องการแบตเตอรี่</NeedBatteries>
+  <NeedBatteriesDesc>คุณมีแค่แผงพลังงานแสงอาทิตย์ และยังไม่มีแบตเตอรี่ หมายความว่าคุณจะสูญเสียพลังงานทุกครั้งที่พระอาทิตย์ตกดิน\n\nสร้างแบตเตอรี่สักอันสองอัน เพื่อให้ผ่านช่วงเวลากลางคืนไปได้</NeedBatteriesDesc>
+
+  <NoTradingCapacity>ไม่สามารถแลกเปลี่ยน</NoTradingCapacity>
+  <NoTradingCapacityDesc>คุณไม่มีทางใดที่จะแลกเปลี่ยนกับยานที่ผ่านมา\n\nสร้างแผงสื่อสาร</NoTradingCapacityDesc>
+
+  <BrawlerHasRangedWeapon>นักเลงถืออาวุธพิสัยไกล</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>หนึ่งในชาวอาณานิคมนั้นมีอุปนิสัยนักเลง แต่เขากำลังถืออาวุธพิสัยไกล ซึ่งนั่นจะทำให้เขาไม่มีความสุขเอามากๆ</BrawlerHasRangedWeaponDesc>
+
+  <ShieldUserHasRangedWeapon>ผู้ใช้โล่ห์ถืออาวุธพิสัยไกล</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>หนึ่งในชาวอาณานิคมนั้นถือโล่ห์ส่วนบุคคล และอาวุธพิสัยไกล เขาจะไม่สามารถยิงต่อสู้ทะลุโล่ห์ได้ (ยกเว้นว่าเป้าหมายนั้นแตะตัวอยู่แล้ว)</ShieldUserHasRangedWeaponDesc>
+
+  <NeedResearchProject>ต้องการโครงการวิจัย</NeedResearchProject>
+  <NeedResearchProjectDesc>คุณมีอุปกรณ์ในการวิจัยอยู่ แต่ว่ายังไม่ได้เลือกโครงการ\n\nเปิดเมนูวิจัย และเลือกโครงการ</NeedResearchProjectDesc>
+  
+  <NeedDump>ต้องการที่ทิ้ง</NeedDump>
+  <NeedDumpDesc>คุณกำหนดให้ขน {0} ออกไป, แต่ชาวอาณานิคมไม่มีที่ๆจะเอาไปไว้\n\nกำหนดที่เก็บของและตั้งค่าในการเก็บให้รับ {0}</NeedDumpDesc>
+
+  <!-- Removed
+  <NeedGrave>Need grave</NeedGrave>
+  <NeedGraveDesc>There is a dead body laying on the ground and nowhere for your colonists to take it.\n\nBuild a grave or a dumping zone and set their storage settings.</NeedGraveDesc>
+  -->
+
+  <ColonistsIdle>มีชาวอาณานิคมว่างอยู่ {0} คน</ColonistsIdle>
+  <ColonistsIdleDesc>These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do.</ColonistsIdleDesc>
+
+  <!-- Removed
+  <HaltedConstructions>{0} constructions are missing materials</HaltedConstructions>
+  <HaltedConstructionsDesc>These kinds of constructions are missing materials:\n\n{0}\nYou should probably make required materials available for your colonists.</HaltedConstructionsDesc>
+  -->
+  
+  <ColonistNeedsTreatment>ชาวอาณานิคม\n\nต้องการการรักษา</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>ชาวอาณานิคมนี้ต้องการการรักษา ถ้าไม่เช่นนั้น, อาจจะตายจากพิษบาดแผล, หรือบาดแผลอาจจะถาวร\n\n{0}\nรักษาโดยการส่งตัวไปยังเตียงแพทย์\n\n(ก่อนอื่น, กำหนดเตียงแพทย์โดยการเลือกแล้วเปลื่ยนเป็นเตียงแพทย์ จากนั้นเลือกชาวอาณานิคมที่บาดเจ็บแล้วคลิกขวาที่เตียงแพทย์เพื่อทำให้พวกเขาเป็นผู้ป่วย)</ColonistNeedsTreatmentDesc>
+
+  <AlertHypothermia>ไฮโปเธอร์เมีย</AlertHypothermia>
+  <AlertHypothermiaDesc>These colonists are suffering from hypothermia.\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated.</AlertHypothermiaDesc>
+  
+  <PatientsAwaitingMedicalOperation>{0} patients await medical operation</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available.</PatientsAwaitingMedicalOperationDesc>
+
+  <FireInHomeArea>เพลิงไหม้!</FireInHomeArea>
+  <FireInHomeAreaDesc>เกิดเพลิงไหม้ขึ้นในเขตบ้าน</FireInHomeAreaDesc>
+
+  <PawnsWithLifeThreateningDisease>เจ็บป่วยสาหัส</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical possible.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <BilliardsNeedsSpace>โต๊ะบิลเลียดต้องการพื้นที่</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable.</BilliardsNeedsSpaceDesc>
+
+  <HunterHasShieldAndRangedWeapon>นักล่าถือโล่ห์และอาวุธพิสัยไกล</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>One of your hunters is using a ranged weapon and wearing a personal shield which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed.</HunterHasShieldAndRangedWeaponDesc>
+  
+</LanguageData>

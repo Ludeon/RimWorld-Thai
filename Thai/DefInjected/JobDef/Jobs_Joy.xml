@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Meditative -->
+
+  <Skygaze.reportString>กำลังเหม่อมองท้องฟ้า</Skygaze.reportString>
+  <Meditate.reportString>กำลังทำสมาธิ</Meditate.reportString>
+  <Pray.reportString>กำลังภาวนา</Pray.reportString>
+  <GoForWalk.reportString>กำลังเดินเล่น</GoForWalk.reportString>
+  <BuildSnowman.reportString>กำลังก่อสโนว์แมน</BuildSnowman.reportString>
+  <VisitGrave.reportString>กำลังเยี่ยมหลุมศพ</VisitGrave.reportString>
+
+  <!-- Social -->
+
+  <SocialRelax.reportString>กำลังพักผ่อนเข้าสังคม</SocialRelax.reportString>
+  <VisitSickPawn.reportString>กำลังเข้าให้กำลังใจ TargetA ที่ป่วย</VisitSickPawn.reportString>
+
+  <!-- Building interaction -->
+
+  <PlayHorseshoes.reportString>กำลังเล่นโยนเกือกม้า</PlayHorseshoes.reportString>
+  <PlayChess.reportString>กำลังเล่นหมากรุก</PlayChess.reportString>
+  <PlayBilliards.reportString>กำลังเล่นบิลเลียด</PlayBilliards.reportString>
+  <WatchTelevision.reportString>กำลังดูโทรทัศน์</WatchTelevision.reportString>
+  <UseTelescope.reportString>กำลังส่องกล้องดูดาว</UseTelescope.reportString>
+
+</LanguageData>

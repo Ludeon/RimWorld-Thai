@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- ITab titles -->
+  <TabBills>ใบสั่ง</TabBills>
+  <TabGrowing>Growing</TabGrowing>
+  <TabCharacter>ตัวละคร</TabCharacter>
+  <TabTraining>Training</TabTraining>
+  <TabPrisoner>นักโทษ</TabPrisoner>
+  <TabGuest>แขก</TabGuest>
+  <TabGear>อุปกรณ์</TabGear>
+  <TabNeeds>ความต้องการ</TabNeeds>
+  <TabStorage>คลัง</TabStorage>
+  <TabHealth>สุขภาพ</TabHealth>
+  <TabRace>Race</TabRace>
+  <TabBasics>พื้นฐาน</TabBasics>
+  <TabStats>สถิติ</TabStats>
+  <TabRecords>บันทึก</TabRecords>
+  <TabArt>ศิลปะ</TabArt>
+  <TabSocial>สังคม</TabSocial>
+
+  
+  <!-- Bills tab  -->
+  <AddBill>เพิ่มใบสั่ง</AddBill>
+  <RecipeRequiresSkills>The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill.</RecipeRequiresSkills>
+  <MinimumSkill>ทักษะขั้นต่้ำ</MinimumSkill>
+  <SuspendedCaps>ระงับแล้ว</SuspendedCaps>
+  <BoundWorkerIs>คนงาน: {0}</BoundWorkerIs>
+  <PlantVerb>Plant</PlantVerb>
+
+
+  <!-- Guest/prisoner tab -->
+  <RecruitmentDifficulty>ความยากในการชักชวนให้เข้าร่วม</RecruitmentDifficulty>
+  <GetsFood>Gets food</GetsFood>
+  <DoctorsCare>Doctors care</DoctorsCare>
+  <GetsMedicine>Gets medicine</GetsMedicine>
+  <ShouldTryToRecruit>ลองพยายามชักชวนให้เข้าร่วม</ShouldTryToRecruit>
+  <PrisonerNoInteraction>ไม่มีปฏิสัมพันธ์</PrisonerNoInteraction>
+  <PrisonerFriendlyChat>คุยอย่างเป็นมิตร</PrisonerFriendlyChat>
+  <PrisonerAttemptRecruit>คุยและชักชวนให้เข้าร่วม</PrisonerAttemptRecruit>
+  <PrisonerRelease>ปล่อยตัว</PrisonerRelease>
+  <PrisonerExecution>ประหาร</PrisonerExecution>
+
+
+  <!-- Medical - general -->
+  <MoveSpeed>ความเร็วการเคลื่อนที่</MoveSpeed>
+  <Efficiency>ประสิทธิภาพ</Efficiency>
+  <MissingBodyPart>หายไป</MissingBodyPart>
+  <DestroyedBodyPart>ถูกทำลาย</DestroyedBodyPart>
+  <ShatteredBodyPart>แหลกละเอียด</ShatteredBodyPart>
+  <RemovedBodyPart>ถูกเอาออก</RemovedBodyPart>
+  <Healthy>สุขภาพดี</Healthy>
+  <InPain>กำลังเจ็บปวด</InPain>
+  <PainLevel>เจ็บปวด</PainLevel>
+  <Dead>ตาย</Dead>
+  <Unconscious>หมดสติ</Unconscious>
+  <PainShock>In shock</PainShock>
+  <Injured>บาดเจ็บ</Injured>
+  <NoInjuries>(ไม่มีอาการบาดเจ็บ)</NoInjuries>
+  <WholeBody>ทั้งตัว</WholeBody>
+  <DataProcessing>Data processing</DataProcessing>
+  <Communication>Communication</Communication>
+  <AffectsLower>affects</AffectsLower>
+  <BleedingRate>อัตราเลือดออก</BleedingRate>
+  <HealthOverview>โดยรวม</HealthOverview>
+  <MedicalOperationsShort>Operations ({0})</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>Modifications ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>Medical operations</MedicalOperations>
+  <Amputate>Amputate</Amputate>
+  <Harvest>เก็บเกี่ยว</Harvest>
+  <MemoryLower>ความจำ</MemoryLower>
+  <SocialInteractionsLower>social interactions</SocialInteractionsLower>
+  <HungerRate>อัตราความหิว</HungerRate>
+  <Tiredness>ความเหนื่อย</Tiredness>
+  
+
+  <!-- Medical - Body and activities condition -->
+  <None>ไม่มี</None>
+  <VeryPoor>แย่มาก</VeryPoor>
+  <Poor>แย่</Poor>
+  <Weakened>อ่อนแรงลง</Weakened>
+  <GoodCondition>OK</GoodCondition>
+  <Enhanced>เพิ่มประสิทธิภาพขึ้น</Enhanced>
+  <SeriouslyImpaired>พิการหนัก</SeriouslyImpaired>
+  <Impaired>พิการ</Impaired>
+  <SlightlyImpaired>พิการเล็กน้อย</SlightlyImpaired>
+  <NoPain>ไม่มีอาการเจ็บ</NoPain>
+  <LittlePain>เล็กน้อย</LittlePain>
+  <MediumPain>ปานกลาง</MediumPain>
+  <SeverePain>สาหัส</SeverePain>
+  <ExtremePain>อันตราย</ExtremePain>
+
+
+  <!-- Training tab-->
+  <TrainableIntelligence>Trainable intelligence</TrainableIntelligence>
+  <CannotTrainNotSmartEnough>Requires trainable intelligence {0}.</CannotTrainNotSmartEnough>
+  <CannotTrainTooSmall>{0} is too small to train this.</CannotTrainTooSmall>
+
+  <TrainingNeedsPrerequisite>Prerequisite needed: {0}</TrainingNeedsPrerequisite>
+  
+  <!-- Social tab -->
+  <NoRelationships>(ไม่มีความสัมพันธ์ใดๆ)</NoRelationships>
+  <Kidnapped>ถูกลักพาตัว</Kidnapped>
+  <Slave>ทาส</Slave>
+  <FactionLeader>ผู้นำฝ่าย</FactionLeader>
+  <OpinionOf>ความเห็นของ {0}</OpinionOf>
+  <SomeonesOpinionOfMe>{0}'s opinion of me</SomeonesOpinionOfMe>
+  <IAmDead>I'm dead</IAmDead>
+  <IAmPsychopath>I'm a psychopath</IAmPsychopath>
+
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Hare.label>กระต่ายป่า</Hare.label>
+  <Hare.lifeStages.0.label>ลูกกระต่ายป่า</Hare.lifeStages.0.label>
+  <Hare.lifeStages.1.label>กระต่ายป่าวัยรุ่น</Hare.lifeStages.1.label>
+  <Hare.lifeStages.2.label>กระต่ายป่า</Hare.lifeStages.2.label>
+
+  <Snowhare.label>กระต่ายหิมะ</Snowhare.label>
+  <Snowhare.lifeStages.0.label>ลูกกระต่ายหิมะ</Snowhare.lifeStages.0.label>
+  <Snowhare.lifeStages.1.label>กระต่ายหิมะวัยรุ่น</Snowhare.lifeStages.1.label>
+  <Snowhare.lifeStages.2.label>กระต่ายหิมะ</Snowhare.lifeStages.2.label>
+
+</LanguageData>

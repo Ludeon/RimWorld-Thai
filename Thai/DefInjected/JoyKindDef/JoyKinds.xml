@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Work.label>งาน</Work.label>
+  <Meditative.label>ทำสมาธิ</Meditative.label>
+  <Lewd.label>ทำเรื่องตัณหา</Lewd.label>
+  <Social.label>เข้าสังคม</Social.label>
+  <Chemical.label>เคมี</Chemical.label>
+  <Gluttonous.label>ตะกละ</Gluttonous.label>
+  <GamingDexterity.label>เล่นเกม (ความแม่นยำ)</GamingDexterity.label>
+  <GamingCerebral.label>เล่นเกม (ใช้สมอง)</GamingCerebral.label>
+  <Passive.label>passiv</Passive.label>
+  <Study.label>เรียนรู้</Study.label>
+
+</LanguageData>

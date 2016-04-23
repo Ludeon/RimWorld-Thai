@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <WealthTotal.label>ความร่ำรวย (ทั้งหมด)</WealthTotal.label>
+  <WealthItems.label>ความร่ำรวย (สิ่งของ)</WealthItems.label>
+  <WealthBuildings.label>ความร่ำรวย (อาคาร)</WealthBuildings.label>
+  <FreeColonists.label>ปลดปล่อยชาวอาณานิคม</FreeColonists.label>
+  <Prisoners.label>นักโทษ</Prisoners.label>
+  <ColonistMood.label>อารมณ์</ColonistMood.label>
+
+</LanguageData>

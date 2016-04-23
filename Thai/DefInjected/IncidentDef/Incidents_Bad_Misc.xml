@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Eclipse.letterLabel>จันทรุปราคา</Eclipse.letterLabel>
+  <Eclipse.letterText>ดวงจันทร์ดวงหนึ่งของดาวเคราะห์ดวงนี้ได้เคลื่อนตามวงโคจรผ่านมายังตำแหน่งหน้าดวงอาทิตย์ จันทรุปราคาเริ่มขึ้นแล้ว</Eclipse.letterText>
+
+  <SolarFlare.letterLabel>เปลวสุริยะ</SolarFlare.letterLabel>
+  <SolarFlare.letterText>เปลวสุริยะได้เกิดขึ้น\n\nการแผ่รังสีเข้มข้นจะทำให้อุปกรณ์ไฟฟ้าทั้งหมดล่ม\n\nมันควรจะผ่านไปในระยะเวลาประมาณหนึ่งวัน</SolarFlare.letterText>
+
+  <ToxicFallout.letterLabel>สารเคมีโปรยตัว</ToxicFallout.letterLabel>
+  <ToxicFallout.letterText>ไฟที่ไหม้สารเคมีที่อยู่ห่างออกไป ได้ปล่อยไอพิษออกมาทั่วทั้งเขตนี้\n\nใครหรือตัวอะไรก็ตามที่ไม่ได้อยู่ใต้หลังคา จะค่อยๆป่วยอย่างช้าๆเพราะละอองสารเคมีที่ฟุ้งในบรรยากาศ\n\nมันอาจอยู่นานไปถึงเมื่อไหร่ก็ไม่รู้ ระหว่างไม่กี่วันหรืออาจจะร่วมเดือนก็ได้</ToxicFallout.letterText>
+
+  <VolcanicWinter.letterLabel>หน้าหนาวภูเขาไฟ</VolcanicWinter.letterLabel>
+  <VolcanicWinter.letterText>Ein entfernter Supervulkan ist ausgebrochen und speit millionen Tonnen Asche in die Atmosphäre.\n\nAtmosphärische Asche reflektiert einen Teil der Sonneneinstrahlung, was einen Temperatursturz zur Folge hat. Pflanzen werden aufgrund des fehlenden Sonnenlichts leiden und evtl. eingehen. Dieser Zustand kann in ein paar Wochen wieder vorbei sein, oder er hält mehrere Monate an.</VolcanicWinter.letterText>
+
+  <HeatWave.letterLabel>คลื่นความร้อน</HeatWave.letterLabel>
+  <HeatWave.letterText>คลื่นความร้อนที่ไม่ปกติได้เริ่มขึ้น ระวังจะเป็นไข้แดดได้</HeatWave.letterText>
+
+  <ColdSnap.letterLabel>อากาศหนาวฉับพลัน</ColdSnap.letterLabel>
+  <ColdSnap.letterText>อากาศหนาวฉับพลันอย่างผิดปกติได้เกิดขึ้น ระวังไฮโปเธอร์เมียและพืชผลล้มตาย</ColdSnap.letterText>
+
+  <Flashstorm.letterLabel>พายุเมฆฟ้าคะนอง</Flashstorm.letterLabel>
+  <Flashstorm.letterText>มีฟ้าผ่าในระดับอันตรายในเขตพื้นที่เล็กๆ ซึ่งจะทำให้เกิดไฟไหม้ใหญ่ได้</Flashstorm.letterText>
+
+</LanguageData>

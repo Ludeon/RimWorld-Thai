@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Heart.label>หัวใจ</Heart.label>
+  <LeftLung.label>ปอดข้างซ้าย</LeftLung.label>
+  <RightLung.label>ปอดข้างขวา</RightLung.label>
+  <LeftKidney.label>ไตข้างซ้าย</LeftKidney.label>
+  <RightKidney.label>ไตข้างขวา</RightKidney.label>
+  <Liver.label>ตับ</Liver.label>
+  <Stomach.label>กระเพาะอาหาร</Stomach.label>
+
+</LanguageData>

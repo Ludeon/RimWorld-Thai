@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MechanoidFullyFormed.label>ร่างสมบูรณ์</MechanoidFullyFormed.label>
+
+  <HumanlikeBaby.label>วัยทารก</HumanlikeBaby.label>
+  <HumanlikeToddler.label>วัยเตาะแตะ</HumanlikeToddler.label>
+  <HumanlikeChild.label>วัยเด็ก</HumanlikeChild.label>
+  <HumanlikeTeenager.label>วัยรุ่น</HumanlikeTeenager.label>
+  <HumanlikeTeenager.adjective>วัยรุ่น</HumanlikeTeenager.adjective>
+  <HumanlikeAdult.label>ผู้ใหญ่</HumanlikeAdult.label>
+
+  <EusocialInsectLarva.label>ตัวอ่อน</EusocialInsectLarva.label>
+  <EusocialInsectJuvenile.label>วัยรุ่น</EusocialInsectJuvenile.label>
+  <EusocialInsectAdult.label>ตัวเต็มวัย</EusocialInsectAdult.label>
+
+  <AnimalBaby.label>วัยทารก</AnimalBaby.label>
+  <AnimalJuvenile.label>วัยรุ่น</AnimalJuvenile.label>
+  <AnimalAdult.label>โตเต็มวัย</AnimalAdult.label>
+
+</LanguageData>

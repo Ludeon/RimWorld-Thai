@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ClockTime>เวลา</ClockTime>
+  <ClockDate>วันที่</ClockDate>
+  <ClockYear>ปี</ClockYear>
+  <DateReadoutTip>วันที่ผ่านมาตั้งแต่มาถึงของคุณ: {0}\nมี {1} วันในแต่ละฤดู\nฤดูนี้: {2}</DateReadoutTip>
+
+  <FullDate>วันที่ {0} ใน{1}, ปี {2}</FullDate>
+	<DateReadout>วันที่ {0} ใน{1}, ปี {2}</DateReadout>
+  <SeasonFullDate>วันที่ {0} ใน{1}</SeasonFullDate>
+  <WholeYear>ตลอดทั้งปี</WholeYear>
+  
+</LanguageData>

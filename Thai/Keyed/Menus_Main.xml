@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--=========== Main menu ==========-->
+  <CreateWorld>สร้างโลก</CreateWorld>
+  <NewColony>เริ่มอาณานิคมใหม่</NewColony>
+  <BackToGame>กลับสู่เกม</BackToGame>
+  <Save>เซฟ</Save>
+  <Load>โหลด</Load>
+  <Options>Options</Options>
+  <Mods>Mods</Mods>
+  <Credits>Credits</Credits>
+  <QuitToMainMenu>ออกสู่เมนูหลัก</QuitToMainMenu>
+  <SaveAndQuitToMainMenu>เซฟและออกไปยังเมนู</SaveAndQuitToMainMenu>
+  <QuitToOS>ออกสู่ OS</QuitToOS>
+  <SaveAndQuitToOS>เซฟและออกไปยัง OS</SaveAndQuitToOS>
+  <FictionPrimer>Fiction primer</FictionPrimer>
+  <LudeonBlog>Ludeon blog</LudeonBlog>
+  <Forums>Forums</Forums>
+  <OfficialWiki>Official wiki</OfficialWiki>
+  <TynansTwitter>Tynan's twitter</TynansTwitter>
+  <TynansDesignBook>Tynan's design book</TynansDesignBook>
+  <HelpTranslate>Help translate RimWorld</HelpTranslate>
+  <BuySoundtrack>Buy soundtrack</BuySoundtrack>
+
+  <!--=========== Create/review world ================-->
+  <ReviewWorld>Review world</ReviewWorld>
+  <WorldGenerate>ก่อกำเนิด</WorldGenerate>
+  <WorldSaveAndFinish>เซฟและเสร็จสิ้น</WorldSaveAndFinish>
+  <Reset>รีเซ็ต</Reset>
+  <WorldSize>ขนาด</WorldSize>
+  <WorldSeed>Seed</WorldSeed>
+  <RandomizeSeed>สุ่มค่า seed</RandomizeSeed>
+
+
+  <!--=========== Select world ===================-->
+  <SelectWorld>เลือกโลก</SelectWorld>
+  <WorldChooseButton>เลือก</WorldChooseButton>
+  <NoWorldsFilesFound>ไม่พบไฟล์ข้อมูลโลก ต้องสร้างโลกก่อน</NoWorldsFilesFound>
+  
+  <!--=========== Version info ==========-->
+  <BuildNowAvailable>Version {0} is now available. Check ludeon.com for more info.</BuildNowAvailable>
+	<BuildUpToDate>This is the latest version.</BuildUpToDate>
+	<ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
+
+  <!--=========== World generator =========-->
+  <GenerateWorld>ก่อกำเนิดโลก</GenerateWorld>
+
+  <!--=========== Mods screen ==========-->
+  <OpenSteamWorkshop>เปิด Steam Workshop</OpenSteamWorkshop>
+  <GetModsFromForum>เลือกหา mod จาก forum</GetModsFromForum>
+  <OpenModsDataFolder>เปิดโฟลเดอร์ข้อมูล mod</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
+  <Unsubscribe>Unsubscribe</Unsubscribe>
+  <ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
+  <Author>Author</Author>
+  <WorkshopPage>หน้า Workshop</WorkshopPage>
+  <UploadToSteamWorkshop>อัปโหลดไปยัง Steam Workshop</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>อัปเดตบน Steam Workshop</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>การอัปโหลดกำลังอยู่ในการดำเนินการ</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Workshop submission failed.\n\nเหตุผล: {0}</WorkshopSubmissionFailed>
+  <YouAgreeToSteamWorkshopLegal>By submitting this mod, you agree to the Steam Workshop terms of service. Click here for more info.</YouAgreeToSteamWorkshopLegal>
+  <WorkshopUploadSucceeded>การอัปโหลดสำเร็จแล้ว {0}.</WorkshopUploadSucceeded>
+  <DownloadingMod>กำลังดาวน์โหลด {0}</DownloadingMod>
+  
+  <!--=========== Select storyteller ==========-->
+  <ChooseAIStoryteller>เลือก AI Storyteller</ChooseAIStoryteller>
+  <HowStorytellersWork>AI Storyteller จะเป็นผู้สร้างเหตุการณ์เช่นโจรสลัดบุกปล้น, การดรอปทรัพยากร, หรือการโจมตีของสัตว์ การตัดสินใจของพวกเขา จะมีผลกับเรื่องราวที่เกิดขึ้น ในอาณานิคมของคุณ</HowStorytellersWork>
+  <MustChooseDifficulty>กรุณาเลือกตั้งค่าระดับความยาก</MustChooseDifficulty>
+  <Difficulty>ระดับความยาก</Difficulty>
+
+
+
+
+  <!--=========== Landing site select =========-->
+  <SelectLandingSite>เลือกพื้นที่ลงจอด</SelectLandingSite>
+  <SelectRandomSite>สุ่มเลือกพื้นที่</SelectRandomSite>
+  <SelectSite>เลือกพื้นที่</SelectSite>
+  <MustSelectLandingSite>กรุณาเลือกพื้นที่ลงจอด</MustSelectLandingSite>
+  <CannotLandBiome>คุณไม่สามารถลงจอดบนชีวนิเวศนี้ได้: {0}</CannotLandBiome>
+  <WorldRenderMode>โหมด</WorldRenderMode>
+  <WorldRenderModeFull>เต็ม</WorldRenderModeFull>
+  <WorldRenderModeTemperature>อุณหภูมิ</WorldRenderModeTemperature>
+  <WorldRenderModeElevation>ความสูงต่ำ</WorldRenderModeElevation>
+  <WorldRenderModeFertility>ความสมบูรณ์</WorldRenderModeFertility>
+  <WorldRenderModeRainfall>ปริมาณฝน</WorldRenderModeRainfall>
+  <WorldRenderModeBiomes>ชีวนิเวศ</WorldRenderModeBiomes>
+  <BiomeNotImplemented>ชีวนิเวศไม่สามารถทำได้</BiomeNotImplemented>
+  <BaseAlreadyThere>{0} สร้างฐานอยู่ที่นี่แล้ว</BaseAlreadyThere>
+  <Biome>ชีวนิเวศ</Biome>
+  <Terrain>ภูมิประเทศ</Terrain>
+  <Elevation>ความสูงต่ำ</Elevation>
+  <Fertility>ความสมบูรณ์</Fertility>
+  <AvgTemp>อุณหภูมิเฉลี่ย</AvgTemp>
+  <AvgJanTemp>อุณหภูมิเฉลี่ย (ม.ค.): {0}</AvgJanTemp>
+  <AvgJulTemp>อุณหภูมิเฉลี่ย (ก.ค.): {0}</AvgJulTemp>
+  <Rainfall>ปริมาณฝน</Rainfall>
+  <HasCoast0>ชายฝั่งทางทิศเหนือ</HasCoast0>
+  <HasCoast1>ชายฝั่งทางทิศตะวันออก</HasCoast1>
+  <HasCoast2>ชายฝั่งทางทิศตะวันตก</HasCoast2>
+  <HasCoast3>ชายฝั่งทางทิศใต้</HasCoast3>
+  <FactionBase>ฐานของฝ่าย</FactionBase>
+  <StoneTypesHere>ประเภทหิน</StoneTypesHere>
+
+
+  <!--=========== Character chooser ==========-->
+  <CreateCharacters>สร้างตัวละคร</CreateCharacters>
+  <FirstNameDesc>ชื่อของตัวละคร\n\nThis is only displayed in certain menus.</FirstNameDesc>
+  <ShortIdentifierDesc>ชื่อเรียกสั้นๆของตัวละคร\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
+  <LastNameDesc>นามสกุลของตัวละคร\n\nThis is only displayed in certain menus.</LastNameDesc>
+  <Randomize>สุ่ม</Randomize>
+  <AgeIndicator>อายุ {0}</AgeIndicator>
+  <Backstory>เรื่องปูมหลัง</Backstory>
+  <IncapableOf>สิ่งที่ไม่อาจทำได้</IncapableOf>
+  <Traits>คุณสมบัติ</Traits>
+  <PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
+  <Skills>ทักษะ</Skills>
+  <NoneLower>ไม่มี</NoneLower>
+  <Adulthood>ตอนเป็นผู้ใหญ่</Adulthood>
+  <Childhood>ตอนวัยเด็ก</Childhood>
+  <Male>ชาย</Male>
+  <Female>หญิง</Female>
+  <Pain>ความเจ็บปวด</Pain>
+  <Health>สุขภาพ</Health>
+  <Relations>ความสัมพันธ์</Relations>
+  
+  
+  <!--=========== Misc ==========-->
+  <Start>เริ่ม</Start>
+  <Advanced>ขั้นสูง</Advanced>
+  <Next>ถัดไป</Next>
+  <Back>กลับ</Back>
+  
+  <Gameplay>Gameplay</Gameplay>
+
+  <ConfirmQuit>ต้องการจะออกจริงๆ? คุณจะเสียทุกอย่างที่เล่นมาและยังไม่ได้เซฟ</ConfirmQuit>
+  
+  <EveryoneNeedsValidName>แต่ละคนต้องการชื่อที่ถูกต้อง</EveryoneNeedsValidName>
+
+  <GeneratingWorld>กำลังก่อกำเนิดโลก</GeneratingWorld>
+  <GeneratingMap>กำลังก่อกำเนิดแผนที่</GeneratingMap>
+
+</LanguageData>

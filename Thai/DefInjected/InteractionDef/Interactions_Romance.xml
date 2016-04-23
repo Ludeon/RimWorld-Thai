@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <RomanceAttempt.label>จีบ</RomanceAttempt.label>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.0>logentry->พยายามจีบ [other_nameShortIndef] ให้มารักกัน</RomanceAttempt.logRulesInitiator.rulesStrings.0>
+  <RomanceAttempt.logRulesRecipient.rulesStrings.0>logentry->ถูก [other_nameShortIndef] จีบ</RomanceAttempt.logRulesRecipient.rulesStrings.0>
+
+  <Breakup.label>บอกเลิก</Breakup.label>
+  <Breakup.logRulesInitiator.rulesStrings.0>logentry->บอกเลิกกับ [other_nameShortIndef]</Breakup.logRulesInitiator.rulesStrings.0>
+  <Breakup.logRulesRecipient.rulesStrings.0>logentry->ถูก [other_nameShortIndef] บอกเลิก</Breakup.logRulesRecipient.rulesStrings.0>
+
+  <MarriageProposal.label>ขอแต่งงาน</MarriageProposal.label>
+  <MarriageProposal.logRulesInitiator.rulesStrings.0>logentry->ขอ [other_nameShortIndef] แต่งงาน</MarriageProposal.logRulesInitiator.rulesStrings.0>
+  <MarriageProposal.logRulesRecipient.rulesStrings.0>logentry->ถูก [other_nameShortIndef] ขอแต่งงาน</MarriageProposal.logRulesRecipient.rulesStrings.0>
+
+</LanguageData>

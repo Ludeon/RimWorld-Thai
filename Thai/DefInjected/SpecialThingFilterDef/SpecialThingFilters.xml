@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AllowCorpsesColonist.label>อนุญาตศพชาวอาณานิคม</AllowCorpsesColonist.label>
+  <AllowCorpsesColonist.description>อนุญาตสำหรับศพที่เป็นชาวอาณานิคม</AllowCorpsesColonist.description>
+  <AllowCorpsesStranger.label>อนุญาตศพคนแปลกหน้า</AllowCorpsesStranger.label>
+  <AllowCorpsesStranger.description>อนุญาตสำหรับศพที่เป็นคนแปลกหน้าและศัตรู</AllowCorpsesStranger.description>
+  <AllowRotten.label>อนุญาตของเน่า</AllowRotten.label>
+  <AllowRotten.description>อนุญาตสำหรับผลิตผลธรรมชาติที่เริ่มเน่าเสีย</AllowRotten.description>
+  <AllowNonSmeltableWeapons.label>อนุญาตอาวุธหลอมไม่ได้</AllowNonSmeltableWeapons.label>
+  <AllowNonSmeltableWeapons.description>อนุญาตสำหรับอาวุธที่ไม่สามารถหลอมได้</AllowNonSmeltableWeapons.description>
+  <AllowPlantFood.label>อนุญาตอาหารพืช</AllowPlantFood.label>
+  <AllowPlantFood.description>อนุญาตสำหรับอาหารที่มีคุณภาพเทียบเท่ากับพืชที่ยังไม่เก็บ เช่น หญ้าเลี้ยงสัตว์</AllowPlantFood.description>
+
+</LanguageData>

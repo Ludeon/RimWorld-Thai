@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <JumpToLocation>กระโดดไปยังตำแหน่ง</JumpToLocation>
+  
+  <LetterLabelFirstSummerWarning>ฤดูร้อน</LetterLabelFirstSummerWarning>
+  <FirstSummerWarning>หน้าร้อนเริ่มขึ้นแล้ว! แต่หน้าหนาวกำลังคืบคลานเข้ามา\n\nYour food crops won't grow in the winter cold. Be sure to store several days' worth of food now, while you still can.\n\nYou can build a walk-in refrigeration room to prevent food from spoiling.\n\nAnd try to buy, steal, or make some parkas, or you'll freeze when you step outside.</FirstSummerWarning>
+
+  <RelationsBrokenDown>ความสัมพันธ์กับ {0} ได้สะบั้นลงแล้ว ตอนนี้พวกเขาเป็นศัตรูกับคุณ</RelationsBrokenDown>
+  <RelationsWarmed>Relations have with {0} have warmed. They are no longer hostile to you.</RelationsWarmed>
+
+  <RelationsBrokenCapture>เพราะคุณจับตัว {0} มา, ตอนนี้ {1} จึงเป็นศัตรูกับคุณ</RelationsBrokenCapture>
+
+  <ColonyGoodwill>Colony goodwill</ColonyGoodwill>
+  <Neutral>เป็นกลาง</Neutral>
+
+  <ShortCircuitRain>A {0} has short-circuited in the rain and started a fire.</ShortCircuitRain>
+
+  <LetterLabelAreaRevealed>พื้นที่ถูกเปิดเผย</LetterLabelAreaRevealed>
+  <AreaRevealed>A new area has been revealed.</AreaRevealed>
+  <AreaRevealedWithMechanoids>A new area has been revealed. It contains ancient, hostile mechanoids.</AreaRevealedWithMechanoids>
+
+  <RoofCollapsed>หลังคาถล่มลงมาเพราะอยู่ห่างจากสิ่งที่ค้ำ</RoofCollapsed>
+  <TheseThingsCrushed>These things were crushed:</TheseThingsCrushed>
+  <NothingCrushed>Nothing was crushed.</NothingCrushed>
+  <LetterLabelRoofCollapsed>หลังคาถล่ม</LetterLabelRoofCollapsed>
+  
+  <RecruitSuccess>{0} successfully recruited {1} ({2} chance).</RecruitSuccess>
+  <RecruitFail>{0} failed to recruit {1} ({2} chance).</RecruitFail>
+
+  <LetterLabelBirthday>วันเกิด</LetterLabelBirthday>
+  <BirthdayChronological>It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday.</BirthdayChronological>
+  <BirthdayBiologicalAgeInjuries>{0} has reached the biological age of {1}.\n\nUnfortunately, {0} has gained the following diseases due to aging:\n{2}</BirthdayBiologicalAgeInjuries>
+
+  <LetterLabelNewDisease>โรคภัย</LetterLabelNewDisease>
+  <NewDisease>{0} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {2} gets proper treatment and spends as much time in bed as possible.</NewDisease>
+  <NewPartDisease>{0} has gotten sick from {3}. The infection is in HIS {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {2} gets proper treatment and spends as much time in bed as possible.</NewPartDisease>
+
+  <LetterLabelAncientShrineWarning>ภยันตรายจากโบราณกาล</LetterLabelAncientShrineWarning>
+  <AncientShrineWarning>{0} ที่ถูกดึงเข้าไปใกล้กำแพงโบราณ, ความสังหรณ์ใจก็เข้าครอบ HIM. HECAP ไม่แน่ใจว่าทำไม, แต่ HE รู้สึกได้ว่าโครงสร้างฝุ่นจับนี้อาจจะกักเอาภยันตรายที่ใหญ่หลวงไว้</AncientShrineWarning>
+
+  <StruckMineable>We have struck {0}!</StruckMineable>
+
+  <LetterLabelAnimalManhunterRevenge>{0} ล้างแค้น</LetterLabelAnimalManhunterRevenge>
+  <AnimalManhunterFromDamage>A {0} is attacking after being harmed!</AnimalManhunterFromDamage>
+  <AnimalManhunterFromTaming>A {0} is attacking due to a taming attempt!</AnimalManhunterFromTaming>
+  <AnimalManhunterOthers>Other {0}s nearby have also become enraged!</AnimalManhunterOthers>
+
+  <LetterFriendlyTrapSprungLabel>{0} ถูกกับดักเข้า</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprung>{0} บังเอิญลั่นกับดักและได้รับความเสียหาย</LetterFriendlyTrapSprung>
+
+  <LetterHealthComplications>{0} has developed a health condition: {1}\n\nThis was as a complication from: {2}.</LetterHealthComplications>
+  <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
+  
+  <LetterHediffFromRandomHediffGiver>{0} has developed a health condition: {1}.</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
+  
+  <LetterLeadersDeathLabel>Leader's death</LetterLeadersDeathLabel>
+  <LetterLeadersDeath>Leader {0} of faction {1} has died and been replaced by {2}.</LetterLeadersDeath>
+  
+  <!-- Family -->
+  <LetterLabelNoticedFamilyMembers>ครอบครัว</LetterLabelNoticedFamilyMembers>
+  <LetterFamilyMembersRaidEnemy>There are family members of your colonists or prisoners in the arriving group of {0}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThe family members are:</LetterFamilyMembersRaidEnemy>
+  <LetterFamilyMembersRaidFriendly>There are family members of your colonists or prisoners in the arriving group of friendly {0}:</LetterFamilyMembersRaidFriendly>
+  <LetterFamilyMembersNeutralGroup>There are family members of your colonists or prisoners in the arriving group:</LetterFamilyMembersNeutralGroup>
+  <LetterFamilyMembersTraderShipSlaves>The orbital trader is selling family members of your colonists or prisoners:</LetterFamilyMembersTraderShipSlaves>
+  
+  <FamilyLetterAppendedSuffix>(ครอบครัว)</FamilyLetterAppendedSuffix>
+  <FamilyLetterAppendedTextColonist>NAME เป็นสมาชิกครอบครัวของชาวอาณานิคม HECAP เป็น {1} ของ {0}</FamilyLetterAppendedTextColonist>
+  <FamilyLetterAppendedTextPrisoner>NAME เป็นสมาชิกครอบครัวของหนึ่งในนักโทษของคุณ HECAP เป็น {1} ของ {0}</FamilyLetterAppendedTextPrisoner>
+  
+  <!-- Attempt romance / propose interaction -->
+  <LetterLabelAffair>เป็นชู้</LetterLabelAffair>
+  <LetterAffair>{0}, แต่งงานแล้วกับ {1}, เริ่มเป็นชู้กับ {2}</LetterAffair>
+  <LetterLabelNewLovers>คู่รักใหม่</LetterLabelNewLovers>
+  <LetterNewLovers>{0} และ {1} มีความคิดเหมือนๆกันและตอนนี้คบกันอยู่</LetterNewLovers>
+  <LetterNoLongerLovers>{0} และ {1} ไม่ได้คบกันแล้ว</LetterNoLongerLovers>
+  <LetterLabelAcceptedProposal>ดำเนินการแต่งงาน!</LetterLabelAcceptedProposal>
+  <LetterLabelRejectedProposal>ปฏิเสธการขอแต่งงาน</LetterLabelRejectedProposal>
+  <LetterAcceptedProposal>{1} รับคำขอแต่งงานของ {0}\n\nณ จุดๆนึงในวันหรือฤดูข้างหน้า, พวกเขาจะจัดพิธีแต่งงานและเชิญชาวอาณานิคมทั้งหมดมา พิจารณาการวางจุดแต่งงานถ้าต้องการควบคุมตำแหน่งการจัดพิธี</LetterAcceptedProposal>
+  <LetterRejectedProposal>{1} ปฏิเสธคำขอแต่งงานของ {0}, {0} คงไม่มีความสุขกับเรื่องนี้แน่</LetterRejectedProposal>
+  
+  <!-- Generalized letter labels -->
+  <LetterLabelRelationsChangeGood>Good will</LetterLabelRelationsChangeGood>
+  <LetterLabelRelationsChangeBad>Bad will</LetterLabelRelationsChangeBad>
+  <LetterLabelShortCircuit>ซ.ซ.ซ.ซ...</LetterLabelShortCircuit>
+  <LetterLabelMentalBreakdown>สติแตก</LetterLabelMentalBreakdown>
+  
+  <!-- Bonded animals -->
+  <LetterLabelBondedAnimalDied>ความตายของสัตว์ที่มีสายสัมพันธ์ด้วย</LetterLabelBondedAnimalDied>
+  <LetterBondedAnimalDied>{0}, ซึ่งผูกสัมพันธ์กับ {1}, ได้ตายลงแล้ว. มันจะมีผลกับอารมณ์ของ {1}</LetterBondedAnimalDied>
+  <LetterNamedBondedAnimalDied>{0} ที่มีชื่อว่า {1}, ซึ่งผูกสัมพันธ์กับ {2}, ได้ตายลงแล้ว มันจะมีผลกับอารมณ์ของ {2}</LetterNamedBondedAnimalDied>
+  <LetterBondedAnimalDiedMulti>{0} ได้ตายลงแล้ว มันจะมีผลกับอารมณ์ของคนดังต่อไปนี้:\n\n{1}</LetterBondedAnimalDiedMulti>
+  <LetterNamedBondedAnimalDiedMulti>{0} ที่มีชื่อว่า {1} ได้ตายลงแล้ว มันจะมีผลกับอารมณ์ของคนดังต่อไปนี้:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
+
+  <!-- Prison break -->
+  <LetterLabelPrisonBreak>นักโทษแหกคุก</LetterLabelPrisonBreak>
+  <LetterPrisonBreak>Prisoners have staged a breakout! They've somehow defeated the door lock and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are unhappy, numerous, and healthy.</LetterPrisonBreak>
+  
+  <!-- Party -->
+  <LetterLabelNewParty>สังสรรค์</LetterLabelNewParty>
+  <LetterNewParty>{0} ได้จัดงานสังสรรค์ขึ้น! ทุกคนที่ไปจะได้รับพลังแห่งความสุขและสังคม, และเพิ่มอารมณ์เชิงบวกให้ยาวนาน</LetterNewParty>
+
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- spouse / lover -->
+
+  <Spouse.label>สามี</Spouse.label>
+  <Spouse.labelFemale>ภรรยา</Spouse.labelFemale>
+
+  <Fiance.label>คู่หมั้น</Fiance.label>
+  <Fiance.labelFemale>คู่หมั้น</Fiance.labelFemale>
+
+  <Lover.label>แฟนหนุ่ม</Lover.label>
+  <Lover.labelFemale>แฟนสาว</Lover.labelFemale>
+
+  <!-- step family -->
+
+  <Stepparent.label>พ่อเลี้ยง</Stepparent.label>
+  <Stepparent.labelFemale>แม่เลี้ยง</Stepparent.labelFemale>
+
+  <Stepchild.label>ลูกเลี้ยง</Stepchild.label>
+  <Stepchild.labelFemale>Stieftochter</Stepchild.labelFemale>
+
+  <!-- in-law -->
+
+  <ParentInLaw.label>พ่อตา</ParentInLaw.label>
+  <ParentInLaw.labelFemale>แม่ยาย</ParentInLaw.labelFemale>
+
+  <ChildInLaw.label>ลูกเขย</ChildInLaw.label>
+  <ChildInLaw.labelFemale>ลูกสะใภ้</ChildInLaw.labelFemale>
+
+  <!-- ex-lover / ex-spouse -->
+
+  <ExSpouse.label>สามีเก่า</ExSpouse.label>
+  <ExSpouse.labelFemale>ภรรยาเก่า</ExSpouse.labelFemale>
+
+  <ExLover.label>แฟนเก่า</ExLover.label>
+  <ExLover.labelFemale>แฟนเก่า</ExLover.labelFemale>
+
+</LanguageData>

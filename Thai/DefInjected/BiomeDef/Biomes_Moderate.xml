@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Unlandable biomes -->
+
+  <Ocean.label>มหาสมุทร</Ocean.label>
+  <Ocean.description>มหาสมุทรเปิด เยี่ยมสำหรับปลา - ไม่ค่อยเยี่ยมสำหรับคุณ</Ocean.description>
+
+  <!-- Buildable biomes -->
+
+  <TemperateForest.label>ป่าเขตร้อน</TemperateForest.label>
+  <TemperateForest.description>ชีวเขตที่เป็นมิตร เป็นแหล่งของป่าผลัดใบกับที่ว่างอันอุดมสมบูรณ์ มีสัตว์หลากสปีชีส์เคลื่อนไหวไปตามต้นไม้และบนที่ราบchtbarem Boden vorfindet. Viele Tierarten bewegen sich durch die Wälder und auf den Ebenen.</TemperateForest.description>
+
+  <TropicalRainforest.label>ป่าฝนศูนย์สูตร</TropicalRainforest.label>
+  <TropicalRainforest.description>ป่าดงดิบชิ้น สัตว์โลกที่ดุร้ายและโตเกินปกติอาศัยอยู่อย่างหนาแน่น ทำให้ยากที่จะสร้างสิ่งปลูกสร้างและเอาตัวรอดin stark bewachsener, feuchter Dschungel. Die hohe Pflanzendichte und die aggressive Tierwelt erschweren die Bauarbeiten und das Überleben an sich.</TropicalRainforest.description>
+
+</LanguageData>

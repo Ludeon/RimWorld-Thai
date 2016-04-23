@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+  
+	<CallOnRadio>เรียก {0}</CallOnRadio>
+  <CannotUseReason>ไม่สามารถใช้ได้ ({0})</CannotUseReason>
+	<CannotUseSolarFlare>ไม่สามารถใช้ได้ (solar flare)</CannotUseSolarFlare>
+	<CannotUseNoPower>ไม่สามารถใช้ได้ (ไม่มีพลังงาน)</CannotUseNoPower>
+	<CannotUseNoPath>ไม่สามารถใช้ได้ (ไม่มีเส้นทาง)</CannotUseNoPath>
+  <CannotUseReserved>ไม่สามารถใช้ได้ (จองแล้ว)</CannotUseReserved>
+  <CannotUseFull>ไม่สามารถใช้ได้ (เต็มแล้ว)</CannotUseFull>
+  
+  <FireAt>ยิงไปที่ {0}</FireAt>
+
+  <OutOfRange>เกินระยะ</OutOfRange>
+  <CannotHitTarget>ไม่สามารถยิงเป้าหมายได้</CannotHitTarget>
+  <IsIncapableOfViolenceLower>{0} is incapable of violence</IsIncapableOfViolenceLower>
+  <IsNotDraftedLower>ไม่สามารถเกณฑ์ {0} ได้</IsNotDraftedLower>
+  <CannotOrderNonControlledLower>cannot order non-controlled units</CannotOrderNonControlledLower>
+
+  <OrderManThing>{0} คน</OrderManThing>
+  
+  <MeleeAttack>โจมตีด้วยอาวุธมือ {0}</MeleeAttack>
+  <MeleeAttackToDeath>โจมตีด้วยอาวุธมือจน {0} ตาย</MeleeAttackToDeath>
+  <NoPath>ไม่มีเส้นทาง</NoPath>
+
+	<ForbiddenLower>หวงห้าม</ForbiddenLower>
+	<SociallyImproperLower>socially improper</SociallyImproperLower>
+  <PrisonerRoomLower>ห้องนักโทษ</PrisonerRoomLower>
+	<BurningLower>กำลังไหม้</BurningLower>
+	<NoEmptyPlaceLower>no empty place configured to store it</NoEmptyPlaceLower>
+	<AlreadyFilledLower>already filled enough</AlreadyFilledLower>
+	<MissingMaterials>need materials</MissingMaterials>
+  <MissingSkill>ทักษะต่ำเกินไป</MissingSkill>
+	<NoEmptyGraveLower>no empty grave configured to store it</NoEmptyGraveLower>
+  <AnimalInteractedTooRecently>animal interacted too recently</AnimalInteractedTooRecently>
+  <NoUsableFood>no usable food</NoUsableFood>
+  <AnimalsSkillTooLow>Animals skill too low</AnimalsSkillTooLow>
+	<NoComponentsToRepair>ต้องการชิ้นส่วนประกอบ</NoComponentsToRepair>
+	<NoFuelToRefuel>ต้องการ {0}</NoFuelToRefuel>
+
+  <ConsumeThing>บริโภค {0}</ConsumeThing>
+  <Teetotaler>teetotaler</Teetotaler>
+  
+  
+  <CannotGoNoPath>ไม่สามารถไปที่นี่ได้ (ไม่มีเส้นทาง)</CannotGoNoPath>
+  <GoHere>ไปที่นี่</GoHere>
+  
+  <Arrest>จับกุม {0}</Arrest>
+  <TryToArrest>ลองจับกุม {0}</TryToArrest>
+  <CannotArrest>ไม่สามารถจับกุมได้</CannotArrest>
+
+  <Capture>จับตัว {0}</Capture>
+  <CannotCapture>ไม่สามารถจับตัวได้</CannotCapture>
+
+  <Rescue>ช่วยเหลือ {0}</Rescue>
+  <CannotRescue>ไม่สามารถช่วยเหลือได้</CannotRescue>
+
+  <CarryToCryptosleepCasket>Carry {0} to cryptosleep casket</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Cannot carry to cryptosleep casket</CannotCarryToCryptosleepCasket>
+
+  <NoCryptosleepCasket>No available cryptosleep casket.</NoCryptosleepCasket>
+  <NoPrisonerBed>No reachable, un-reserved, enclosed prisoner-marked bed.</NoPrisonerBed>
+  <NoNonPrisonerBed>No reachable, un-reserved non-prisoner bed.</NoNonPrisonerBed>
+  <NoAnimalBed>No reachable, un-reserved animal bed.</NoAnimalBed>
+  <Reserved>จองโดยคนอื่นไว้แล้ว</Reserved>
+  <ReservedBy>จองโดย {0}</ReservedBy>
+  <IsReservedBy>{0} นั้นจองไว้โดย {1}.</IsReservedBy>
+
+  <Incapable>ไม่สามารถ</Incapable>
+  <IncapableOfCapacity>ไม่สามารถที่จะ {0}</IncapableOfCapacity>
+
+  <Equip>สวม {0}</Equip>
+  <EquipWarningBrawler>(นักเลงจะไม่มีความสุขแน่)</EquipWarningBrawler>
+  <CannotEquip>ไม่สามารถสวม {0} ได้</CannotEquip>
+  
+  <ForceWear>บังคับให้ใส่ {0}</ForceWear>
+  <CannotWear>ไม่สามารถใส่ {0} ได้</CannotWear>
+  <CannotWearBecauseOfMissingBodyParts>missing body parts</CannotWearBecauseOfMissingBodyParts>
+  
+  <Strip>จับ {0} แก้ผ้า</Strip>
+  <CannotStrip>ไม่สามารถแก้ผ้า {0} ได้</CannotStrip>
+
+  <Deposit>ฝาก {0} ไว้ใน {1}</Deposit>
+  <CannotDeposit>ไม่สามารถฝาก {0} ไว้ใน {1}</CannotDeposit>
+
+  <SelfDestructHere>ทำลายตัวเองที่นี่</SelfDestructHere>
+  
+  <Drop>วาง {0}</Drop>
+
+  <UseMedicalBed>พักจนกว่าจะหาย</UseMedicalBed>
+  <NotInjured>ไม่ได้บาดเจ็บ</NotInjured>
+  <SomeoneElseSleeping>Occupied</SomeoneElseSleeping>
+  
+  <TradeWith>แลกเปลี่ยนกับ {0}</TradeWith>
+  <CannotTrade>ไม่สามารถแลกเปลี่ยนได้</CannotTrade>
+
+  <!-- Specific thing interactions -->
+  <EnterCryptosleepCasket>Enter cryptosleep casket</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>Open cryptosleep casket</OpenCryptosleepCasket>
+
+
+
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
+  <CannotGenericWork>ไม่สามารถ {0} {1} ได้</CannotGenericWork>
+
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <CannotMissingHealthActivities>ไม่สามารถจัดความสำคัญได้ (ไม่สามารถที่จะ {0})</CannotMissingHealthActivities>
+
+  <CannotGenericAlreadyAm>{0} {1} อยู่แล้ว</CannotGenericAlreadyAm>
+
+  <CannotPrioritizeIsNotA>ไม่สามารถจัดความสำคัญได้({0} ไม่ใช่ {1})</CannotPrioritizeIsNotA>
+
+  <CannotPrioritizeResearch>ไม่สามารถจัดความสำคัญได้(การวิจัยเป็นงานระยะยาว)</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>ไม่สามารถจัดความสำคัญได้({0}  นั้นถูกหวงห้าม)</CannotPrioritizeForbidden>
+  
+  
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  <PrioritizeGeneric>จัดความสำคัญให้ {0} {1}</PrioritizeGeneric>
+  
+</LanguageData>
