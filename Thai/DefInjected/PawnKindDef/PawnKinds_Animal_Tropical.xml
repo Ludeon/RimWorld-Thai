@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <Cobra.label>Kobra</Cobra.label>
-  <Cobra.lifeStages.0.label>Babykobra</Cobra.lifeStages.0.label>
-  <Cobra.lifeStages.1.label>junge Kobra</Cobra.lifeStages.1.label>
-  <Cobra.lifeStages.2.label>Kobra</Cobra.lifeStages.2.label>
+  <Cobra.label>งูเห่า</Cobra.label>
+  <Cobra.lifeStages.0.label>ลูกงูเห่า</Cobra.lifeStages.0.label>
+  <Cobra.lifeStages.1.label>งูเห่าวัยรุ่น</Cobra.lifeStages.1.label>
+  <Cobra.lifeStages.2.label>งูเห่า</Cobra.lifeStages.2.label>
 
-  <Monkey.label>Affe</Monkey.label>
-  <Monkey.lifeStages.0.label>Affenbaby</Monkey.lifeStages.0.label>
-  <Monkey.lifeStages.1.label>junger Affe</Monkey.lifeStages.1.label>
-  <Monkey.lifeStages.2.label>Affe</Monkey.lifeStages.2.label>
+  <Monkey.label>ลิง</Monkey.label>
+  <Monkey.lifeStages.0.label>ลูกลิง</Monkey.lifeStages.0.label>
+  <Monkey.lifeStages.1.label>ลิงวัยรุ่น</Monkey.lifeStages.1.label>
+  <Monkey.lifeStages.2.label>ลิง</Monkey.lifeStages.2.label>
 
-  <Chinchilla.label>Chinchilla</Chinchilla.label>
-  <Chinchilla.lifeStages.0.label>Chinchillababy</Chinchilla.lifeStages.0.label>
-  <Chinchilla.lifeStages.1.label>junges Chinchilla</Chinchilla.lifeStages.1.label>
-  <Chinchilla.lifeStages.2.label>Chinchilla</Chinchilla.lifeStages.2.label>
+  <Chinchilla.label>ชินชิลล่า</Chinchilla.label>
+  <Chinchilla.lifeStages.0.label>ลูกชินชิลล่า</Chinchilla.lifeStages.0.label>
+  <Chinchilla.lifeStages.1.label>ชินชิลล่าวัยรุ่น</Chinchilla.lifeStages.1.label>
+  <Chinchilla.lifeStages.2.label>ชินชิลล่า</Chinchilla.lifeStages.2.label>
 
-  <Boomalope.label>Boomalope</Boomalope.label>
-  <Boomalope.lifeStages.0.label>Boomalopekitz</Boomalope.lifeStages.0.label>
-  <Boomalope.lifeStages.1.label>junge Boomalope</Boomalope.lifeStages.1.label>
-  <Boomalope.lifeStages.2.label>Boomalope</Boomalope.lifeStages.2.label>
+  <Boomalope.label>บูมมาลูป</Boomalope.label>
+  <Boomalope.lifeStages.0.label>ลูกบูมมาลูป</Boomalope.lifeStages.0.label>
+  <Boomalope.lifeStages.1.label>บูมมาลูปวัยรุ่น</Boomalope.lifeStages.1.label>
+  <Boomalope.lifeStages.2.label>บูมมาลูป</Boomalope.lifeStages.2.label>
 
-  <Capybara.label>Capybara</Capybara.label>
-  <Capybara.lifeStages.0.label>Capybarababy</Capybara.lifeStages.0.label>
-  <Capybara.lifeStages.1.label>junger Capybara</Capybara.lifeStages.1.label>
-  <Capybara.lifeStages.2.label>Capybara</Capybara.lifeStages.2.label>
+  <Capybara.label>คาปีบาร่า</Capybara.label>
+  <Capybara.lifeStages.0.label>ลูกคาปีบาร่า</Capybara.lifeStages.0.label>
+  <Capybara.lifeStages.1.label>คาปีบาร่าวัยรุ่น</Capybara.lifeStages.1.label>
+  <Capybara.lifeStages.2.label>คาปีบาร่า</Capybara.lifeStages.2.label>
 
-  <Cougar.label>Puma</Cougar.label>
-  <Cougar.lifeStages.0.label>Pumababy</Cougar.lifeStages.0.label>
-  <Cougar.lifeStages.1.label>junger Puma</Cougar.lifeStages.1.label>
-  <Cougar.lifeStages.2.label>Puma</Cougar.lifeStages.2.label>
+  <Cougar.label>เสือภูเขา</Cougar.label>
+  <Cougar.lifeStages.0.label>ลูกเสือภูเขา</Cougar.lifeStages.0.label>
+  <Cougar.lifeStages.1.label>เสือภูเขาวัยรุ่น</Cougar.lifeStages.1.label>
+  <Cougar.lifeStages.2.label>เสือภูเขา</Cougar.lifeStages.2.label>
 
 </LanguageData>

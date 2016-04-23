@@ -17,8 +17,8 @@
   <Stepparent.label>พ่อเลี้ยง</Stepparent.label>
   <Stepparent.labelFemale>แม่เลี้ยง</Stepparent.labelFemale>
 
-  <Stepchild.label>ลูกเลี้ยง</Stepchild.label>
-  <Stepchild.labelFemale>Stieftochter</Stepchild.labelFemale>
+  <Stepchild.label>ลูกเลี้ยงชาย</Stepchild.label>
+  <Stepchild.labelFemale>ลูกเลี้ยงสาว</Stepchild.labelFemale>
 
   <!-- in-law -->
 

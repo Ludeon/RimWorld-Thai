@@ -16,7 +16,7 @@
   <Tail.label>หาง</Tail.label>
   <LeftAntenna.label>หนวดข้างซ้าย</LeftAntenna.label>
   <RightAntenna.label>หนวดข้างขวา</RightAntenna.label>
-  <Pronotum.label>โปรโนตัม (ตัวแมลงส่วนท้อง)</Pronotum.label>
+  <Pronotum.label>โปรโนตัม</Pronotum.label>
   <Shell.label>กระดอง</Shell.label>
   <LeftElytra.label>ปีกแข็งข้างซ้าย</LeftElytra.label>
   <RightElytra.label>ปีกแข็งข้างขวา</RightElytra.label>
@@ -27,7 +27,7 @@
   <HeadClaw.label>หัวกรงเล็บ</HeadClaw.label>
   <Hump.label>หนอก</Hump.label>
   <TurtleShell.label>กระดองเต่า</TurtleShell.label>
-  <Plastron.label>พลาสตรอน (กระดองส่วนท้อง)</Plastron.label>
+  <Plastron.label>พลาสตรอน</Plastron.label>
   <TurtleBeak.label>จงอยปากเต่า</TurtleBeak.label>
 
   <!-- animals legs -->

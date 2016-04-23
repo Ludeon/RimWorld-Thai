@@ -2,18 +2,18 @@
 <LanguageData>
 
   <Squirrel.label>กระรอก</Squirrel.label>
-  <Squirrel.lifeStages.0.label>Eichhörnchen-Junges</Squirrel.lifeStages.0.label>
-  <Squirrel.lifeStages.1.label>junges Eichhörnchen</Squirrel.lifeStages.1.label>
+  <Squirrel.lifeStages.0.label>ลูกกระรอก</Squirrel.lifeStages.0.label>
+  <Squirrel.lifeStages.1.label>กระรอกวัยรุ่น</Squirrel.lifeStages.1.label>
   <Squirrel.lifeStages.2.label>กระรอก</Squirrel.lifeStages.2.label>
 
-  <Boomrat.label>หนูบูมแรต</Boomrat.label>
-  <Boomrat.lifeStages.0.label>Boomratten-Junges</Boomrat.lifeStages.0.label>
-  <Boomrat.lifeStages.1.label>junge Boomratte</Boomrat.lifeStages.1.label>
-  <Boomrat.lifeStages.2.label>หนูบูมแรต</Boomrat.lifeStages.2.label>
+  <Boomrat.label>บูมแรต</Boomrat.label>
+  <Boomrat.lifeStages.0.label>ลูกบูมแรต</Boomrat.lifeStages.0.label>
+  <Boomrat.lifeStages.1.label>บูมแรตวัยรุ่น</Boomrat.lifeStages.1.label>
+  <Boomrat.lifeStages.2.label>บูมแรต</Boomrat.lifeStages.2.label>
 
   <WildBoar.label>หมูป่า</WildBoar.label>
-  <WildBoar.lifeStages.0.label>Frischling</WildBoar.lifeStages.0.label>
-  <WildBoar.lifeStages.1.label>junges Wildschwein</WildBoar.lifeStages.1.label>
+  <WildBoar.lifeStages.0.label>ลูกหมูป่า</WildBoar.lifeStages.0.label>
+  <WildBoar.lifeStages.1.label>หมูป่าวันรุ่น</WildBoar.lifeStages.1.label>
   <WildBoar.lifeStages.2.label>หมูป่า</WildBoar.lifeStages.2.label>
 
   <Deer.label>กวาง</Deer.label>
@@ -24,27 +24,27 @@
   <Deer.lifeStages.2.labelFemale>กวางตัวเมีย</Deer.lifeStages.2.labelFemale>
 
   <Tortoise.label>เต่า</Tortoise.label>
-  <Tortoise.lifeStages.0.label>Schildkröten-Junges</Tortoise.lifeStages.0.label>
-  <Tortoise.lifeStages.1.label>junge Schildkröte</Tortoise.lifeStages.1.label>
+  <Tortoise.lifeStages.0.label>ลูกเต่า</Tortoise.lifeStages.0.label>
+  <Tortoise.lifeStages.1.label>เต่าวัยรุ่น</Tortoise.lifeStages.1.label>
   <Tortoise.lifeStages.2.label>เต่า</Tortoise.lifeStages.2.label>
 
-  <Elk.label>Elch</Elk.label>
-  <Elk.lifeStages.0.label>Elch Kalb</Elk.lifeStages.0.label>
-  <Elk.lifeStages.1.label>junger Elch</Elk.lifeStages.1.label>
-  <Elk.lifeStages.1.labelMale>junger Elch</Elk.lifeStages.1.labelMale>
-  <Elk.lifeStages.1.labelFemale>junge Elchkuh</Elk.lifeStages.1.labelFemale>
-  <Elk.lifeStages.2.label>Elch</Elk.lifeStages.2.label>
-  <Elk.lifeStages.2.labelMale>Elch</Elk.lifeStages.2.labelMale>
-  <Elk.lifeStages.2.labelFemale>Elchkuh</Elk.lifeStages.2.labelFemale>
+  <Elk.label>กวางเอลก์</Elk.label>
+  <Elk.lifeStages.0.label>ลูกกวางเอลก์</Elk.lifeStages.0.label>
+  <Elk.lifeStages.1.label>กวางเอลก์วัยรุ่น</Elk.lifeStages.1.label>
+  <Elk.lifeStages.1.labelMale>กวางเอลก์วัยรุ่นตัวผู้</Elk.lifeStages.1.labelMale>
+  <Elk.lifeStages.1.labelFemale>กวางเอลก์วัยรุ่นตัวเมีย</Elk.lifeStages.1.labelFemale>
+  <Elk.lifeStages.2.label>กวางเอลก์</Elk.lifeStages.2.label>
+  <Elk.lifeStages.2.labelMale>กวางเอลก์ตัวผู้</Elk.lifeStages.2.labelMale>
+  <Elk.lifeStages.2.labelFemale>กวางเอลก์ตัวเมีย</Elk.lifeStages.2.labelFemale>
 
-  <Alphabeaver.label>อัลฟาบีเวอร์</Alphabeaver.label>
-  <Alphabeaver.lifeStages.0.label>Biberjunges</Alphabeaver.lifeStages.0.label>
-  <Alphabeaver.lifeStages.1.label>junger Biber</Alphabeaver.lifeStages.1.label>
-  <Alphabeaver.lifeStages.2.label>Alpha Biber</Alphabeaver.lifeStages.2.label>
+  <Alphabeaver.label>อัลฟ่าบีเวอร์</Alphabeaver.label>
+  <Alphabeaver.lifeStages.0.label>ลูกบีเวอร์</Alphabeaver.lifeStages.0.label>
+  <Alphabeaver.lifeStages.1.label>บีเวอร์วัยรุ่น</Alphabeaver.lifeStages.1.label>
+  <Alphabeaver.lifeStages.2.label>อัลฟ่าบีเวอร์์</Alphabeaver.lifeStages.2.label>
 
   <Thrumbo.label>ธรัมโบ</Thrumbo.label>
-  <Thrumbo.lifeStages.0.label>Thrumbo Baby</Thrumbo.lifeStages.0.label>
-  <Thrumbo.lifeStages.1.label>junger Thrumbo</Thrumbo.lifeStages.1.label>
-  <Thrumbo.lifeStages.2.label>Alpha Thrumbo</Thrumbo.lifeStages.2.label>
+  <Thrumbo.lifeStages.0.label>ลูกธรัมโบ</Thrumbo.lifeStages.0.label>
+  <Thrumbo.lifeStages.1.label>ธรัมโบวัยรุ่น</Thrumbo.lifeStages.1.label>
+  <Thrumbo.lifeStages.2.label>อัลฟ่าธรัมโบ</Thrumbo.lifeStages.2.label>
 
 </LanguageData>

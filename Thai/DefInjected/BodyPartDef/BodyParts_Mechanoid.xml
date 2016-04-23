@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <MechanicalThorax.label>Brustkorb</MechanicalThorax.label>
-  <LeftBlade.label>Linke Klinge</LeftBlade.label>
-  <RightBlade.label>Rechte Klinge</RightBlade.label>
-  <MechanicalNeck.label>Nacken</MechanicalNeck.label>
-  <MechanicalHead.label>Kopf</MechanicalHead.label>
-  <LeftSightSensor.label>Linker optischer Sensor</LeftSightSensor.label>
-  <RightSightSensor.label>Rechter optischer Sensor</RightSightSensor.label>
-  <LeftHearingSensor.label>Linker akustischer Sensor</LeftHearingSensor.label>
-  <RightHearingSensor.label>Rechter akustischer Sensor</RightHearingSensor.label>
-  <SmellSensor.label>Geruchssensor</SmellSensor.label>
-  <LeftMechanicalShoulder.label>Linke Schulter</LeftMechanicalShoulder.label>
-  <LeftMechanicalArm.label>Linker Arm</LeftMechanicalArm.label>
-  <LeftMechanicalHand.label>Linke Hand</LeftMechanicalHand.label>
-  <LeftHandMechanicalPinky.label>Kleiner Finger (links)</LeftHandMechanicalPinky.label>
-  <LeftHandMechanicalMiddleFinger.label>Mittelfinger (links)</LeftHandMechanicalMiddleFinger.label>
-  <LeftHandMechanicalIndexFinger.label>Zeigefinger (links)</LeftHandMechanicalIndexFinger.label>
-  <LeftHandMechanicalThumb.label>Daumen (links)</LeftHandMechanicalThumb.label>
-  <RightMechanicalShoulder.label>Rechte Schulter</RightMechanicalShoulder.label>
-  <RightMechanicalArm.label>Rechter Arm</RightMechanicalArm.label>
-  <RightMechanicalHand.label>Rechte Hand</RightMechanicalHand.label>
-  <RightHandMechanicalPinky.label>Kleiner Finger (rechts)</RightHandMechanicalPinky.label>
-  <RightHandMechanicalMiddleFinger.label>Mittelfinger (rechts)</RightHandMechanicalMiddleFinger.label>
-  <RightHandMechanicalIndexFinger.label>Zeigefinger (rechts)</RightHandMechanicalIndexFinger.label>
-  <RightHandMechanicalThumb.label>Daumen (rechts)</RightHandMechanicalThumb.label>
-  <LeftMechanicalLeg.label>Linkes Bein</LeftMechanicalLeg.label>
-  <LeftMechanicalFoot.label>Linker Fuß</LeftMechanicalFoot.label>
-  <RightMechanicalLeg.label>Rechtes Bein</RightMechanicalLeg.label>
-  <RightMechanicalFoot.label>Rechter Fuß</RightMechanicalFoot.label>
-  <MechanicalCentipedeBodyFirstRing.label>Erster Körperring</MechanicalCentipedeBodyFirstRing.label>
-  <MechanicalCentipedeBodySecondRing.label>Zweiter Körperring</MechanicalCentipedeBodySecondRing.label>
-  <MechanicalCentipedeBodyThirdRing.label>Dritter Körperring</MechanicalCentipedeBodyThirdRing.label>
-  <MechanicalCentipedeBodyFourthRing.label>Vierter Körperring</MechanicalCentipedeBodyFourthRing.label>
-  <MechanicalCentipedeBodyFifthRing.label>Fünfter Körperring</MechanicalCentipedeBodyFifthRing.label>
-  <MechanicalCentipedeBodySixthRing.label>Sechster Körperring</MechanicalCentipedeBodySixthRing.label>
-  <ArtificialBrain.label>Künstliches Gehirn</ArtificialBrain.label>
+  <MechanicalThorax.label>หน้าอก</MechanicalThorax.label>
+  <LeftBlade.label>ใบมีดซ้าย</LeftBlade.label>
+  <RightBlade.label>ใบมีดขวา</RightBlade.label>
+  <MechanicalNeck.label>คอ</MechanicalNeck.label>
+  <MechanicalHead.label>หัว</MechanicalHead.label>
+  <LeftSightSensor.label>เซนเซอร์รับภาพด้านซ้าย</LeftSightSensor.label>
+  <RightSightSensor.label>เซนเซอร์รับภาพด้านขวา</RightSightSensor.label>
+  <LeftHearingSensor.label>เซนเซอร์รับเสียงด้านซ้าย</LeftHearingSensor.label>
+  <RightHearingSensor.label>เซนเซอร์รับเสียงด้านขวา</RightHearingSensor.label>
+  <SmellSensor.label>เซนเซอร์รับกลิ่น</SmellSensor.label>
+  <LeftMechanicalShoulder.label>ไหล่ซ้าย</LeftMechanicalShoulder.label>
+  <LeftMechanicalArm.label>แขนซ้าย</LeftMechanicalArm.label>
+  <LeftMechanicalHand.label>มือซ้าย</LeftMechanicalHand.label>
+  <LeftHandMechanicalPinky.label>นิ้วก้อยมือซ้าย</LeftHandMechanicalPinky.label>
+  <LeftHandMechanicalMiddleFinger.label>นิ้วนางมือซ้าย</LeftHandMechanicalMiddleFinger.label>
+  <LeftHandMechanicalIndexFinger.label>นิ้วชี้มือซ้าย</LeftHandMechanicalIndexFinger.label>
+  <LeftHandMechanicalThumb.label>นิ้วโป้งมือซ้าย</LeftHandMechanicalThumb.label>
+  <RightMechanicalShoulder.label>ไหล่ขวา</RightMechanicalShoulder.label>
+  <RightMechanicalArm.label>แขนขวา</RightMechanicalArm.label>
+  <RightMechanicalHand.label>มือขวา</RightMechanicalHand.label>
+  <RightHandMechanicalPinky.label>นิ้วก้อยมือขวา</RightHandMechanicalPinky.label>
+  <RightHandMechanicalMiddleFinger.label>นิ้วนางมือขวา</RightHandMechanicalMiddleFinger.label>
+  <RightHandMechanicalIndexFinger.label>นิ้วชี้มือขวา</RightHandMechanicalIndexFinger.label>
+  <RightHandMechanicalThumb.label>นิ้วโป้งมือขวา</RightHandMechanicalThumb.label>
+  <LeftMechanicalLeg.label>ขาซ้าย</LeftMechanicalLeg.label>
+  <LeftMechanicalFoot.label>เท้าซ้าย</LeftMechanicalFoot.label>
+  <RightMechanicalLeg.label>ขาขวา</RightMechanicalLeg.label>
+  <RightMechanicalFoot.label>เท้าขวา</RightMechanicalFoot.label>
+  <MechanicalCentipedeBodyFirstRing.label>ลำตัวปล้องที่หนึ่ง</MechanicalCentipedeBodyFirstRing.label>
+  <MechanicalCentipedeBodySecondRing.label>ลำตัวปล้องที่สอง</MechanicalCentipedeBodySecondRing.label>
+  <MechanicalCentipedeBodyThirdRing.label>ลำตัวปล้องที่สาม</MechanicalCentipedeBodyThirdRing.label>
+  <MechanicalCentipedeBodyFourthRing.label>ลำตัวปล้องที่สี่</MechanicalCentipedeBodyFourthRing.label>
+  <MechanicalCentipedeBodyFifthRing.label>ลำตัวปล้องที่ห้า</MechanicalCentipedeBodyFifthRing.label>
+  <MechanicalCentipedeBodySixthRing.label>ลำตัวปล้องที่หก</MechanicalCentipedeBodySixthRing.label>
+  <ArtificialBrain.label>สมองกล</ArtificialBrain.label>
 
 </LanguageData>

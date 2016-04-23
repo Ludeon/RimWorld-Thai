@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <FactionGreetingHostile>{0} hurls some epithets into the monitor and disconnects.</FactionGreetingHostile>
-  <FactionGreetingWary>{0} greets {1} warily and asks HIS business.</FactionGreetingWary>
-  <FactionGreetingWarm>{0} greets {1} warmly and asks how the colony fares.</FactionGreetingWarm>
+  <FactionGreetingHostile>{0} ขนใครบางคนไปที่มอนิเตอร์และตัดสัญญาณ</FactionGreetingHostile>
+  <FactionGreetingWary>{0} ทักทาย {1} อย่างสุขุม และถามถึงธุระHIS</FactionGreetingWary>
+  <FactionGreetingWarm>{0} ทักทาย {1} อย่างอบอุ่น และถามถึงความเป็นไปของอาณานิคมว่าเป็นอย่างไรบ้าง</FactionGreetingWarm>
 
   <Disconnect>ตัดการติดต่อ</Disconnect>
 

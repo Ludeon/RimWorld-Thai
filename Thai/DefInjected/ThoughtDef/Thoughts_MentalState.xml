@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <CurrentlyInMentalStateBerserk.stages.0.label>Berserker Gedanken</CurrentlyInMentalStateBerserk.stages.0.label>
-  <CurrentlyInMentalStateBerserk.stages.0.description>Muss töten! ... Muss töten! ... Muss töten!</CurrentlyInMentalStateBerserk.stages.0.description>
+  <CurrentlyInMentalStateBerserk.stages.0.label>ความคิดที่บ้าคลั่ง</CurrentlyInMentalStateBerserk.stages.0.label>
+  <CurrentlyInMentalStateBerserk.stages.0.description>ต้องฆ่า!</CurrentlyInMentalStateBerserk.stages.0.description>
 
-  <CurrentlyInMentalStateSad.stages.0.label>Zerbrochene Gedanken</CurrentlyInMentalStateSad.stages.0.label>
-  <CurrentlyInMentalStateSad.stages.0.description>Das alles ist einfach viel zu viel...</CurrentlyInMentalStateSad.stages.0.description>
+  <CurrentlyInMentalStateSad.stages.0.label>ความคิดที่แตกหัก</CurrentlyInMentalStateSad.stages.0.label>
+  <CurrentlyInMentalStateSad.stages.0.description>ทั้งหมดมันก็แค่มากไป</CurrentlyInMentalStateSad.stages.0.description>
 
-  <CurrentlyInMentalStatePanicFlee.stages.0.label>Panische Gedanken</CurrentlyInMentalStatePanicFlee.stages.0.label>
-  <CurrentlyInMentalStatePanicFlee.stages.0.description>Ich muss hier raus!</CurrentlyInMentalStatePanicFlee.stages.0.description>
+  <CurrentlyInMentalStatePanicFlee.stages.0.label>เสียขวัญ</CurrentlyInMentalStatePanicFlee.stages.0.label>
+  <CurrentlyInMentalStatePanicFlee.stages.0.description>ฉันต้องออกไปจากที่นี่!</CurrentlyInMentalStatePanicFlee.stages.0.description>
 
 </LanguageData>

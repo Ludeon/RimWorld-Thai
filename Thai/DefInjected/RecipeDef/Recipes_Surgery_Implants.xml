@@ -3,12 +3,12 @@
 
   <!-- implants -->
 
-  <InstallJoywire.label>Installiere BTL-Chip</InstallJoywire.label>
-  <InstallJoywire.description>Installiere einen BTL-Chip.</InstallJoywire.description>
-  <InstallJoywire.jobString>Installiert BTL-Chip.</InstallJoywire.jobString>
+  <InstallJoywire.label>ติดตั้งจอยไวร์</InstallJoywire.label>
+  <InstallJoywire.description>ติดตั้งจอยไวร์</InstallJoywire.description>
+  <InstallJoywire.jobString>กำลังติดตั้งจอยไวร์</InstallJoywire.jobString>
 
-  <InstallPainstopper.label>Installiere Schmerzstopper</InstallPainstopper.label>
-  <InstallPainstopper.description>Installiere Schmerzstopper Chip.</InstallPainstopper.description>
-  <InstallPainstopper.jobString>Installiert Schmerzstopper.</InstallPainstopper.jobString>
+  <InstallPainstopper.label>ติดตั้งเพนสตอปเปอร์</InstallPainstopper.label>
+  <InstallPainstopper.description>ติดตั้งเพนสตอปเปอร์</InstallPainstopper.description>
+  <InstallPainstopper.jobString>กำลังติดตั้งเพนสตอปเปอร์</InstallPainstopper.jobString>
 
 </LanguageData>

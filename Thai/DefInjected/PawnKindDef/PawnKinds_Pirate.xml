@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <Drifter.label>Herumtreiber</Drifter.label>
-  <Scavenger.label>Plünderer</Scavenger.label>
-  <Thrasher.label>Schläger</Thrasher.label>
+  <Drifter.label>ดริฟเตอร์</Drifter.label>
+  <Scavenger.label>นักล่าขยะ</Scavenger.label>
+  <Thrasher.label>แธรชเชอร์</Thrasher.label>
   <Pirate.label>โจรสลัด</Pirate.label>
 
 </LanguageData>

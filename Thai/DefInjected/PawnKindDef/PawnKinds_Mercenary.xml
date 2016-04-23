@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <MercenaryGunner.label>Söldnerschütze</MercenaryGunner.label>
-  <MercenarySniper.label>Söldnerscharfschütze</MercenarySniper.label>
-  <GrenadierDestructive.label>Grenadier</GrenadierDestructive.label>
-  <GrenadierEMP.label>EMP-Grenadier</GrenadierEMP.label>
-  <MercenarySlasher.label>Söldnerschlitzer</MercenarySlasher.label>
-  <MercenaryHeavy.label>Schwerer Söldner</MercenaryHeavy.label>
-  <PirateBoss.label>Boss</PirateBoss.label>
-  <MercenaryElite.label>Elite-Söldner</MercenaryElite.label>
+  <MercenaryGunner.label>พลปืนรับจ้าง</MercenaryGunner.label>
+  <MercenarySniper.label>พลแม่นปืนรับจ้าง</MercenarySniper.label>
+  <GrenadierDestructive.label>พลระเบิดมือ</GrenadierDestructive.label>
+  <GrenadierEMP.label>พลระเบิด EMP</GrenadierEMP.label>
+  <MercenarySlasher.label>พลตะลุยฟันรับจ้าง</MercenarySlasher.label>
+  <MercenaryHeavy.label>พลอาวุธหนักรับจ้าง</MercenaryHeavy.label>
+  <PirateBoss.label>หัวหน้า</PirateBoss.label>
+  <MercenaryElite.label>พลชั้นสูง</MercenaryElite.label>
 
 </LanguageData>

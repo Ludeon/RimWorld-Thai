@@ -3,58 +3,58 @@
 
   <!-- natural -->
 
-  <InstallNaturalHeart.label>Implantiere Herz</InstallNaturalHeart.label>
-  <InstallNaturalHeart.description>Implantiere ein Herz.</InstallNaturalHeart.description>
-  <InstallNaturalHeart.jobString>Implantiert Herz.</InstallNaturalHeart.jobString>
+  <InstallNaturalHeart.label>ปลูกถ่ายหัวใจ</InstallNaturalHeart.label>
+  <InstallNaturalHeart.description>ผ่าตัดปลูกถ่ายหัวใจ</InstallNaturalHeart.description>
+  <InstallNaturalHeart.jobString>กำลังผ่าตัดปลูกถ่ายหัวใจ</InstallNaturalHeart.jobString>
 
-  <InstallNaturalLiver.label>Implantiere Leber</InstallNaturalLiver.label>
-  <InstallNaturalLiver.description>Implantiere eine Leber.</InstallNaturalLiver.description>
-  <InstallNaturalLiver.jobString>Implantiert Leber.</InstallNaturalLiver.jobString>
+  <InstallNaturalLiver.label>ปลูกถ่ายตับ</InstallNaturalLiver.label>
+  <InstallNaturalLiver.description>ผ่าตัดปลูกถ่ายตับ</InstallNaturalLiver.description>
+  <InstallNaturalLiver.jobString>กำลังผ่าตัดปลูกถ่ายตับ</InstallNaturalLiver.jobString>
 
-  <InstallNaturalKidney.label>Implantiere Niere</InstallNaturalKidney.label>
-  <InstallNaturalKidney.description>Implantiere eine Niere.</InstallNaturalKidney.description>
-  <InstallNaturalKidney.jobString>Implantiert Niere.</InstallNaturalKidney.jobString>
+  <InstallNaturalKidney.label>ปลูกถ่ายไต</InstallNaturalKidney.label>
+  <InstallNaturalKidney.description>ผ่าตัดปลูกถ่ายไต</InstallNaturalKidney.description>
+  <InstallNaturalKidney.jobString>กำลังผ่าตัดปลูกถ่ายไต</InstallNaturalKidney.jobString>
 
-  <InstallNaturalLung.label>Implantiere Lunge</InstallNaturalLung.label>
-  <InstallNaturalLung.description>Implantiere eine Lunge.</InstallNaturalLung.description>
-  <InstallNaturalLung.jobString>Implantiert Lunge.</InstallNaturalLung.jobString>
+  <InstallNaturalLung.label>ปลูกถ่ายปอด</InstallNaturalLung.label>
+  <InstallNaturalLung.description>ผ่าตัดปลูกถ่ายปอด</InstallNaturalLung.description>
+  <InstallNaturalLung.jobString>กำลังผ่าตัดปลูกถ่ายปอด</InstallNaturalLung.jobString>
 
   <!-- artificial -->
 
-  <InstallPegLeg.label>Implantiere Holzbein</InstallPegLeg.label>
-  <InstallPegLeg.description>Implantiere ein Holzbein.</InstallPegLeg.description>
-  <InstallPegLeg.jobString>Implantiert Holzbein.</InstallPegLeg.jobString>
+  <InstallPegLeg.label>ติดตั้งขาหมุด</InstallPegLeg.label>
+  <InstallPegLeg.description>ติดตั้งขาหมุด</InstallPegLeg.description>
+  <InstallPegLeg.jobString>กำลังติดตั้งขาหมุด</InstallPegLeg.jobString>
 
-  <InstallBionicEye.label>Implantiere bionisches Auge</InstallBionicEye.label>
-  <InstallBionicEye.description>Implantiere ein bionisches Auge.</InstallBionicEye.description>
-  <InstallBionicEye.jobString>Implantiert bionisches Auge.</InstallBionicEye.jobString>
+  <InstallBionicEye.label>ปลูกถ่ายตาชีวกล</InstallBionicEye.label>
+  <InstallBionicEye.description>ปลูกถ่ายตาชีวกล</InstallBionicEye.description>
+  <InstallBionicEye.jobString>กำลังปลูกถ่ายตาชีวกล</InstallBionicEye.jobString>
 
-  <InstallBionicArm.label>Implantiere bionischen Arm</InstallBionicArm.label>
-  <InstallBionicArm.description>Implantiere einen bionischen Arm.</InstallBionicArm.description>
-  <InstallBionicArm.jobString>Implantiert bionischen Arm.</InstallBionicArm.jobString>
+  <InstallBionicArm.label>ปลูกถ่ายแขนชีวกล</InstallBionicArm.label>
+  <InstallBionicArm.description>ปลูกถ่ายแขนชีวกล</InstallBionicArm.description>
+  <InstallBionicArm.jobString>กำลังปลูกถ่ายแขนชีวกล</InstallBionicArm.jobString>
 
-  <InstallBionicLeg.label>Implantiere bionisches Bein</InstallBionicLeg.label>
-  <InstallBionicLeg.description>Implantiere ein bionisches Bein.</InstallBionicLeg.description>
-  <InstallBionicLeg.jobString>Implantiert bionisches Bein.</InstallBionicLeg.jobString>
+  <InstallBionicLeg.label>ปลูกถ่ายขาชีวกล</InstallBionicLeg.label>
+  <InstallBionicLeg.description>ปลูกถ่ายขาชีวกล</InstallBionicLeg.description>
+  <InstallBionicLeg.jobString>กำลังปลูกถ่ายขาชีวกล</InstallBionicLeg.jobString>
 
-  <InstallSimpleProstheticLeg.label>Implantiere einfache Beinprothese</InstallSimpleProstheticLeg.label>
-  <InstallSimpleProstheticLeg.description>Implantiere eine einfache Beinprothese.</InstallSimpleProstheticLeg.description>
-  <InstallSimpleProstheticLeg.jobString>Implantiert einfache Beinprothese.</InstallSimpleProstheticLeg.jobString>
+  <InstallSimpleProstheticLeg.label>ติดตั้งขาเทียม</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticLeg.description>ติดตั้งขาเทียมอย่างธรรมดาๆ</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.jobString>กำลังติดตั้งขาเทียม</InstallSimpleProstheticLeg.jobString>
 
-  <InstallSimpleProstheticArm.label>Implantiere einfache Armprothese</InstallSimpleProstheticArm.label>
-  <InstallSimpleProstheticArm.description>Implantiere eine einfache Armprothese.</InstallSimpleProstheticArm.description>
-  <InstallSimpleProstheticArm.jobString>Implantiert einfache Armprothese.</InstallSimpleProstheticArm.jobString>
+  <InstallSimpleProstheticArm.label>ติดตั้งแขนเทียม</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.description>ติดตั้งแขนเทียมอย่างธรรมดาๆ</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.jobString>กำลังติดตั้งแขนเทียม</InstallSimpleProstheticArm.jobString>
 
-  <InstallDenture.label>Implantiere neues Gebiss</InstallDenture.label>
-  <InstallDenture.description>Implantiere ein neues Gebiss.</InstallDenture.description>
-  <InstallDenture.jobString>Implantiert neues Gebiss.</InstallDenture.jobString>
+  <InstallDenture.label>ติดตั้งฟันปลอม</InstallDenture.label>
+  <InstallDenture.description>ติดตั้งฟันปลอม</InstallDenture.description>
+  <InstallDenture.jobString>กำลังติดตั้งฟันปลอม</InstallDenture.jobString>
 
-  <InstallPowerClaw.label>Implantiere Power-Klaue</InstallPowerClaw.label>
-  <InstallPowerClaw.description>Implantiere eine Power-Klaue.</InstallPowerClaw.description>
-  <InstallPowerClaw.jobString>Implantiert Power-Klaue.</InstallPowerClaw.jobString>
+  <InstallPowerClaw.label>ติดตั้งพาวเวอร์คลอว์</InstallPowerClaw.label>
+  <InstallPowerClaw.description>ติดตั้งพาวเวอร์คลอว์</InstallPowerClaw.description>
+  <InstallPowerClaw.jobString>กำลังติดตั้งพาวเวอร์คลอว์</InstallPowerClaw.jobString>
 
-  <InstallScytherBlade.label>Implantiere Sensen-Messerauswuchs</InstallScytherBlade.label>
-  <InstallScytherBlade.description>Implantiere den Messerauswuchs einer Sense.</InstallScytherBlade.description>
-  <InstallScytherBlade.jobString>Implantiere Sensen-Messerauswuchs.</InstallScytherBlade.jobString>
+  <InstallScytherBlade.label>ติดตั้งใบมีดไซเธอร์</InstallScytherBlade.label>
+  <InstallScytherBlade.description>ติดตั้งใบมีดไซเธอร์</InstallScytherBlade.description>
+  <InstallScytherBlade.jobString>กำลังติดตั้งใบมีดไซเธอร์</InstallScytherBlade.jobString>
 
 </LanguageData>

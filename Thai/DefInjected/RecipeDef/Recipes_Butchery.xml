@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <ButcherCorpseFlesh.label>Schlachte Kreatur</ButcherCorpseFlesh.label>
-  <ButcherCorpseFlesh.description>Schlachtet eine Kreatur, um genießbares Fleisch zu erhalten.</ButcherCorpseFlesh.description>
-  <ButcherCorpseFlesh.jobString>Schlachtet Kreatur.</ButcherCorpseFlesh.jobString>
+  <ButcherCorpseFlesh.label>แล่เนื้อ</ButcherCorpseFlesh.label>
+  <ButcherCorpseFlesh.description>แล่เนื้อสัตว์ต่างๆเพื่อนำเนื้อมาใช้งาน</ButcherCorpseFlesh.description>
+  <ButcherCorpseFlesh.jobString>กำลังแล่เนื้อ</ButcherCorpseFlesh.jobString>
   
-  <ButcherCorpseMechanoid.label>Zerlege Mechanoiden</ButcherCorpseMechanoid.label>
-  <ButcherCorpseMechanoid.description>Zerlegt einen Mechanoiden in seine Einzelteile.</ButcherCorpseMechanoid.description>
-  <ButcherCorpseMechanoid.jobString>Zerlegt Mechanoiden.</ButcherCorpseMechanoid.jobString>
+  <ButcherCorpseMechanoid.label>รื้อชิ้นส่วนเมคานอยด์</ButcherCorpseMechanoid.label>
+  <ButcherCorpseMechanoid.description>รื้อชิ้นส่วนของเมคานอยด์ที่ตายแล้วให้เป็นส่วนประกอบ</ButcherCorpseMechanoid.description>
+  <ButcherCorpseMechanoid.jobString>กำลังรื้อชิ้นส่วนเมคานอยด์</ButcherCorpseMechanoid.jobString>
   
-  <MakeKibble.label>Produziere Trockenfutter</MakeKibble.label>
-  <MakeKibble.description>Produziert Trockenfutter für Tiere aus Fleisch und pflanzlichen Zutaten.</MakeKibble.description>
-  <MakeKibble.jobString>Produziert Trockenfutter.</MakeKibble.jobString>
+  <MakeKibble.label>ทำอาหารเม็ด</MakeKibble.label>
+  <MakeKibble.description>ทำอาหารเม็ดไว้ให้สัตว์เลี้ยงโดยผสมเนื้อดิบเข้ากับพืช</MakeKibble.description>
+  <MakeKibble.jobString>กำลังทำอาหารเม็ด</MakeKibble.jobString>
 
 </LanguageData>

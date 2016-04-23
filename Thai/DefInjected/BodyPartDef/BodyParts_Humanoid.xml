@@ -3,7 +3,7 @@
 
   <!-- base -->
 
-  <Torso.label>Oberkörper</Torso.label>
+  <Torso.label>ลำตัว</Torso.label>
   <LeftShoulder.label>ไหล่ซ้าย</LeftShoulder.label>
   <LeftArm.label>แขนซ้าย</LeftArm.label>
   <LeftHand.label>มือซ้าย</LeftHand.label>

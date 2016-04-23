@@ -24,10 +24,10 @@
   <FoodTypeFlags_Corpse>ศพ</FoodTypeFlags_Corpse>
   <FoodTypeFlags_Seeds>เมล็ดพืช</FoodTypeFlags_Seeds>
   <FoodTypeFlags_AnimalProduct>ผลิตผลจากสัตว์</FoodTypeFlags_AnimalProduct>
-  <FoodTypeFlags_Plant>live plants</FoodTypeFlags_Plant>
-  <FoodTypeFlags_Tree>live trees</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Plant>พืชที่มีชีวิต</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Tree>ต้นไม้ที่มีชีวิต</FoodTypeFlags_Tree>
   <FoodTypeFlags_Meal>มื้ออาหาร</FoodTypeFlags_Meal>
-  <FoodTypeFlags_Processed>processed foods</FoodTypeFlags_Processed>
+  <FoodTypeFlags_Processed>อาหารที่ผ่านกระบวนการ</FoodTypeFlags_Processed>
   <FoodTypeFlags_NutritionalDrug>เหล้า</FoodTypeFlags_NutritionalDrug>
   <FoodTypeFlags_AnimalKibble>อาหารเม็ด</FoodTypeFlags_AnimalKibble>
 
@@ -37,19 +37,19 @@
   <QualityCategory_Poor>แย่</QualityCategory_Poor>
   <QualityCategory_Normal>ปกติ</QualityCategory_Normal>
   <QualityCategory_Good>ดี</QualityCategory_Good>
-  <QualityCategory_Superior>superior</QualityCategory_Superior>
-  <QualityCategory_Excellent>excellent</QualityCategory_Excellent>
-  <QualityCategory_Masterwork>masterwork</QualityCategory_Masterwork>
-  <QualityCategory_Legendary>ตำนาน</QualityCategory_Legendary>
+  <QualityCategory_Superior>ดีเยี่ยม</QualityCategory_Superior>
+  <QualityCategory_Excellent>เป็นเลิศ</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>งานปรมาจารย์</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>ระดับตำนาน</QualityCategory_Legendary>
 
   <QualityCategoryShort_Awful>ห่วย</QualityCategoryShort_Awful>
   <QualityCategoryShort_Shoddy>กจอก</QualityCategoryShort_Shoddy>
   <QualityCategoryShort_Poor>แย่</QualityCategoryShort_Poor>
   <QualityCategoryShort_Normal>ปกติ</QualityCategoryShort_Normal>
   <QualityCategoryShort_Good>ดี</QualityCategoryShort_Good>
-  <QualityCategoryShort_Superior>supr</QualityCategoryShort_Superior>
-  <QualityCategoryShort_Excellent>exc</QualityCategoryShort_Excellent>
-  <QualityCategoryShort_Masterwork>mast</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Superior>ดียม</QualityCategoryShort_Superior>
+  <QualityCategoryShort_Excellent>เลิศ</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Masterwork>ปรมจ</QualityCategoryShort_Masterwork>
   <QualityCategoryShort_Legendary>ตนาน</QualityCategoryShort_Legendary>
   
   
@@ -72,9 +72,9 @@
   <Hilliness_Mountainous>ภูเขา</Hilliness_Mountainous>
   
   <!-- Steam workshop interaction -->
-  <WorkshopInteractStage_CreatingItem>Creating</WorkshopInteractStage_CreatingItem>
+  <WorkshopInteractStage_CreatingItem>กำลังสร้าง</WorkshopInteractStage_CreatingItem>
   <WorkshopInteractStage_SubmittingItem>Submitting</WorkshopInteractStage_SubmittingItem>
-  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Invalid</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>ไม่ถูกต้อง</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
   <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Preparing config data</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
   <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Preparing content files</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Uploading content</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
@@ -82,10 +82,10 @@
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Committing changes</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Trainable intelligence -->
-  <TrainableIntelligence_None>None</TrainableIntelligence_None>
-  <TrainableIntelligence_Simple>Simple</TrainableIntelligence_Simple>
-  <TrainableIntelligence_Intermediate>Intermediate</TrainableIntelligence_Intermediate>
-  <TrainableIntelligence_Advanced>Advanced</TrainableIntelligence_Advanced>
+  <TrainableIntelligence_None>ไม่มี</TrainableIntelligence_None>
+  <TrainableIntelligence_Simple>อย่างง่าย</TrainableIntelligence_Simple>
+  <TrainableIntelligence_Intermediate>ปานกลาง</TrainableIntelligence_Intermediate>
+  <TrainableIntelligence_Advanced>ขั้นสูง</TrainableIntelligence_Advanced>
 
   <!-- Medical care category -->
   <MedicalCareCategory_NoCare>ไม่มีการดูแลทางการแพทย์</MedicalCareCategory_NoCare>

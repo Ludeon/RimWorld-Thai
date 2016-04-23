@@ -3,16 +3,16 @@
 
   <!-- Psychic drone -->
 
-  <FeelingRandom.stages.0.label>Fühle mich super</FeelingRandom.stages.0.label>
-  <FeelingRandom.stages.0.description>Ich fühle mich gerade einfach super. Das hat aber keinen bestimmten Grund.</FeelingRandom.stages.0.description>
+  <FeelingRandom.stages.0.label>รู้สึกเยี่ยมไปเลย</FeelingRandom.stages.0.label>
+  <FeelingRandom.stages.0.description>ไม่มีเหตุผลที่แน่ชัดนัก, ฉันแค่รู้สึกเยี่ยมไปเลยตอนนี้</FeelingRandom.stages.0.description>
 
-  <FeelingRandom.stages.1.label>Fühle mich gut</FeelingRandom.stages.1.label>
-  <FeelingRandom.stages.1.description>Ich fühle mich gerade ganz gut. Das hat aber keinen bestimmten Grund.</FeelingRandom.stages.1.description>
+  <FeelingRandom.stages.1.label>รู้สึกดี</FeelingRandom.stages.1.label>
+  <FeelingRandom.stages.1.description>ไม่มีเหตุผลที่แน่ชัดนัก, ฉันแค่รู้สึกดีตอนนี้</FeelingRandom.stages.1.description>
 
-  <FeelingRandom.stages.2.label>Fühle mich nicht gut</FeelingRandom.stages.2.label>
-  <FeelingRandom.stages.2.description>Ich fühle mich gerade nicht besonders. Das hat aber keinen bestimmten Grund.</FeelingRandom.stages.2.description>
+  <FeelingRandom.stages.2.label>รู้สึกไม่ดี</FeelingRandom.stages.2.label>
+  <FeelingRandom.stages.2.description>ไม่มีเหตุผลที่แน่ชัดนัก, ฉันแค่รู้สึกไม่ดีตอนนี้</FeelingRandom.stages.2.description>
 
-  <FeelingRandom.stages.3.label>Fühle mich entsetzlich</FeelingRandom.stages.3.label>
-  <FeelingRandom.stages.3.description>Ich fühle mich gerade entsetzlich. Das hat aber keinen bestimmten Grund.</FeelingRandom.stages.3.description>
+  <FeelingRandom.stages.3.label>รู้สึกแย่</FeelingRandom.stages.3.label>
+  <FeelingRandom.stages.3.description>ไม่มีเหตุผลที่แน่ชัดนัก, ฉันแค่รู้สึกแย่ตอนนี้</FeelingRandom.stages.3.description>
 
 </LanguageData>
