@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<ClickToJumpToProblem>คลิกเพื่อกระโดดไปที่ปัญหา</ClickToJumpToProblem>
+	<ClickToJumpToProblem>คลิกเพื่อไปยังที่เกิดปัญหา</ClickToJumpToProblem>
 
   
   
@@ -14,20 +14,20 @@
   <TerribleMoodDesc>ชาวอาณานิคมนี้เครียดถึงขั้นวิกฤติและอาจจะเกิดภาวะทางจิตอย่างหนักและรุนแรงขึ้นได้ทุกขณะ:\n\n{0}</TerribleMoodDesc>
   <LowMoodDescEnding>ตรวจสอบแท็บความต้องการของชาวอาณานิคมนี้เพื่อดูว่าอะไรที่รบกวนพวกเขา</LowMoodDescEnding>
   
-  <ColonistNeedsRescue>ชาวอาณานิคมต้องการการช่วยเหลือ</ColonistNeedsRescue>
+  <ColonistNeedsRescue>ชาวอาณานิคมต้องการความช่วยเหลือ</ColonistNeedsRescue>
   <ColonistsNeedRescue>ชาวอาณานิคม+ต้องการการช่วยเหลือ</ColonistsNeedRescue>
-  <ColonistsNeedRescueDesc>ชาวอาณานิคมนี้นอนเดี้ยงอยู่บนพื้น:\n\n{0}\nส่งชาวอาณานิคมคนอื่น เข้าช่วยเหลือและแบกพวกเขา กลับมาที่เตียง\n\n(เพื่อช่วยเหลือ, เลือกชาวอาณานิคมคนอื่น, คลิกขวาบนเหยื่อแล้วเลือกช่วยเหลือ</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>ชาวอาณานิคมนี้นอนบาดเจ็บอยู่บนพื้น:\n\n{0}\nส่งชาวอาณานิคมคนอื่น เข้าช่วยเหลือและแบกพวกเขา กลับมาที่เตียง\n\n(เพื่อช่วยเหลือ, เลือกชาวอาณานิคมคนอื่น, คลิกขวาบนเหยื่อแล้วเลือกช่วยเหลือ</ColonistsNeedRescueDesc>
 
   <BuildARoom>สร้างห้อง</BuildARoom>
   <BuildARoomDesc>ห้องนั้นประกอบไปด้วยกำแพงที่แยกจากกันและประตู\n\nใช้เมนูสถาปัตยกรรม ที่อยู่ด้านล่างซ้ายของหน้าจอ เพื่อกำหนดที่ๆคุณต้องการจะสร้าง เมื่อกำหนดบางอย่างแล้ว, ชาวอาณานิคมจะทำงาน เมื่อพวกเขาสามารถทำได้</BuildARoomDesc>
 
   <NeedDefenses>ต้องการการป้องกัน</NeedDefenses>
-  <NeedDefensesDesc>คุณอยู่ที่นี่มาสักพักและถูกพบแล้วแน่นอน โจรสลัดจะเริ่มมาปล้นในอีกไม่นานนี้\n\nคุณควรจะเตรียมการป้องกันบ้าง\n\nสร้างป้อมปืนสักหลายๆอัน</NeedDefensesDesc>
+  <NeedDefensesDesc>คุณอยู่ที่นี่มาสักพักและถูกค้นพบแล้ว โจรสลัดจะเริ่มมาปล้นในอีกไม่นานนี้\n\nคุณควรจะเตรียมการป้องกันบ้าง\n\nสร้างป้อมปืนสักหลายๆอัน</NeedDefensesDesc>
 
   <NeedDoctor>ต้องการหมอ</NeedDoctor>
   <NeedDoctorDesc>ชาวอาณานิคมนี้ต้องการการดูแลทางการแพทย์, แต่คุณไม่มีชาวอาณานิคมที่สุขภาพดีคนไหนที่มอบหมายให้เป็นแพทย์\n\n{0}\n มอบหมายให้ชาวอาณานิคมที่สุขภาพดีทำงานด้านแพทย์ ถ้าทิ้งไว้ไม่รักษา, บาดแผลอาจจะไม่มีทางหายอย่างถูกต้องและอาจจะเป็นอย่างถาวร</NeedDoctorDesc>
 
-  <NeedMiner>ต้องการคนเหมือง</NeedMiner>
+  <NeedMiner>ต้องการคนงานเหมือง</NeedMiner>
   <NeedMinerDesc>คุณกำหนดให้ทำเหมืองหินบางส่วน, แต่ไม่มีชาวอาณานิคมคนไหนทำงานด้านขุดเหมือง\n\nมอบหมายให้ชาวอาณานิคมสักคนทำงานขุดเหมือง</NeedMinerDesc>
 
   <NeedWarden>ต้องการผู้คุม</NeedWarden>
@@ -41,7 +41,7 @@
   <NoMedicineDesc>คุณไม่มียาเหลืออยู่ในคลังแล้ว\n\nซื้อยาเพิ่มได้จากพ่อค้า</NoMedicineDesc>
   
   <NeedColonistBeds>ต้องการเตียงให้ชาวอาณานิคม</NeedColonistBeds>
-  <NeedColonistBedsDesc>คุณมีชาวอาณานิคมมากกว่าเตียงที่มี บางคนจะขาดที่ๆจะนอน\n\nถ้าไม่สร้างเตียงเพิ่ม, ก็เปลี่ยนเตียงนักโทษให้เป็นเตียงชาวอาณานิคม\n\nถ้าคุณไม่มีวัตถุดิบ, จุดนอนนั้นฟรี และสามารถติดตั้งได้ทันที</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>คุณมีชาวอาณานิคมมากกว่าเตียงที่มีอยู่ บางคนจะไม่มีที่นอน\n\nถ้าไม่สร้างเตียงเพิ่ม, ก็เปลี่ยนเตียงนักโทษให้เป็นเตียงชาวอาณานิคม\n\nถ้าคุณไม่มีวัตถุดิบ, จุดนอนนั้นฟรี และสามารถติดตั้งได้ทันที</NeedColonistBedsDesc>
 
   <HunterLacksWeapon>นักล่าขาดอาวุธ</HunterLacksWeapon>
   <HunterLacksWeaponDesc>ชาวอาณานิคมถูกกำหนดให้เป็นนักล่าแต่กลับไม่มีอาวุธ เขาจะไม่ออกล่าจนกว่าจะได้ถืออาวุธ\n\nเพื่อลดการบาดเจ็บ, เราแนะนำให้มอบอาวุธพิสัยไกลแก่พวกเขา</HunterLacksWeaponDesc>
@@ -93,7 +93,7 @@
   -->
 
   <ColonistsIdle>มีชาวอาณานิคมว่างอยู่ {0} คน</ColonistsIdle>
-  <ColonistsIdleDesc>These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do.</ColonistsIdleDesc>
+  <ColonistsIdleDesc>มีชาวอาณานิคมกำลังว่างงานอยู่จำนวน:\n\n{0}\nคุณควรหางานหรือการผลิตสิ่งต่างๆให้พวกเขาทำ.</ColonistsIdleDesc>
 
   <!-- Removed
   <HaltedConstructions>{0} constructions are missing materials</HaltedConstructions>
@@ -103,23 +103,23 @@
   <ColonistNeedsTreatment>ชาวอาณานิคม\n\nต้องการการรักษา</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>ชาวอาณานิคมนี้ต้องการการรักษา ถ้าไม่เช่นนั้น, อาจจะตายจากพิษบาดแผล, หรือบาดแผลอาจจะถาวร\n\n{0}\nรักษาโดยการส่งตัวไปยังเตียงแพทย์\n\n(ก่อนอื่น, กำหนดเตียงแพทย์โดยการเลือกแล้วเปลื่ยนเป็นเตียงแพทย์ จากนั้นเลือกชาวอาณานิคมที่บาดเจ็บแล้วคลิกขวาที่เตียงแพทย์เพื่อทำให้พวกเขาเป็นผู้ป่วย)</ColonistNeedsTreatmentDesc>
 
-  <AlertHypothermia>ไฮโปเธอร์เมีย</AlertHypothermia>
-  <AlertHypothermiaDesc>These colonists are suffering from hypothermia.\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated.</AlertHypothermiaDesc>
+  <AlertHypothermia>สภาวะอุณภูมิร่างกายต่ำกว่าปกติ</AlertHypothermia>
+  <AlertHypothermiaDesc>ชาวอาณานิคมเหล่านี้กำลังทรมานอุณภูมิที่ต่ำเกินไป.\n\n{0}\nทำให้แน่ใจว่าพวกเขาสวมเครื่องนุ่งห่มอยู่และอยู่ในพื้นที่ปิดที่มีอุณภูมิอบอุ่นเหมาะสม.</AlertHypothermiaDesc>
   
-  <PatientsAwaitingMedicalOperation>{0} patients await medical operation</PatientsAwaitingMedicalOperation>
-  <PatientsAwaitingMedicalOperationDesc>These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available.</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperation>{0} ผู้ป่วยกำลังรอการปฎิบัติทางการแพทย์</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>ผู้ป่วยเหล่านี้กำลังรอการปฎิบัติทางการแพทย์:\n\n{0}\ทำให้แน่ใจว่าคุณมีอุปกรณ์ทางการแพทย์ที่จำเป็นพร้อมและหมอที่สามารถทำได้.</PatientsAwaitingMedicalOperationDesc>
 
   <FireInHomeArea>เพลิงไหม้!</FireInHomeArea>
   <FireInHomeAreaDesc>เกิดเพลิงไหม้ขึ้นในเขตบ้าน</FireInHomeAreaDesc>
 
   <PawnsWithLifeThreateningDisease>เจ็บป่วยสาหัส</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical possible.</PawnsWithLifeThreateningDiseaseDesc>
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDiseaseDesc>มีคนที่เจ็บป่วยสาหัสและเสี่ยงต่อการตาย:\n\n{0}\nทำให้แน่ใจว่าพวกเค้าได้รับการปฐมพยาบาลที่ดีและรวดเร็วที่สุด.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>มีคนที่เจ็บป่วยสาหัสและเสี่ยงต่อการตายจำนวน:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
   <BilliardsNeedsSpace>โต๊ะบิลเลียดต้องการพื้นที่</BilliardsNeedsSpace>
-  <BilliardsNeedsSpaceDesc>One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable.</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpaceDesc>หนึ่งในโต๊ะบิลเลี่ยนของคุณต้องการพื้นที่ว่างในการใช้งาน.\n\nโต๊ะบิลเลี่ยนต้องการพื้นที่ว่างรอบๆในการใช้งาน.</BilliardsNeedsSpaceDesc>
 
   <HunterHasShieldAndRangedWeapon>นักล่าถือโล่ห์และอาวุธพิสัยไกล</HunterHasShieldAndRangedWeapon>
-  <HunterHasShieldAndRangedWeaponDesc>One of your hunters is using a ranged weapon and wearing a personal shield which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed.</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeaponDesc>หนึ่งในนักล่าของคุณถือโล่ห์และอาวุธพิสัยไกลภายในเวลาเดียวกัน.\n\nพวกเค้าจะไม่ออกล่าหากไม่นำโลห์ออกก่อน.</HunterHasShieldAndRangedWeaponDesc>
   
 </LanguageData>
