@@ -232,7 +232,7 @@
   
   <!-- Select next transporter -->
   <CommandSelectNextTransporter>เลือกกลุ่มการเปิดตัวถัดไป</CommandSelectNextTransporter>
-  <CommandSelectNextTransporterDesc>Select next transport pod in this launch group.</CommandSelectNextTransporterDesc>
+  <CommandSelectNextTransporterDesc>เลือกกลุ่มขนส่งต่อไปในกลุ่มเปิดตัวนี้</CommandSelectNextTransporterDesc>
 
   <!-- Vent -->
   <CommandDesignateOpenCloseVentLabel>กำหนด เปิด/ปิด</CommandDesignateOpenCloseVentLabel>

@@ -70,32 +70,32 @@
   <PlayerFactionNameIsInvalid>ชื่อนี้ไม่ถูกต้อง</PlayerFactionNameIsInvalid>
 
   <!-- Player faction base naming -->
-  <NamePlayerFactionBaseMessage>Since it looks like you'll be here for a while, {0} thinks that you should give this community a name. What should the local community be called?</NamePlayerFactionBaseMessage>
-  <PlayerFactionBaseGainsName>This community is now known as {0}.</PlayerFactionBaseGainsName>
-  <PlayerFactionBaseNameIsInvalid>That name isn't valid.</PlayerFactionBaseNameIsInvalid>
+  <NamePlayerFactionBaseMessage>เนื่องจากดูเหมือนว่าคุณจะอยู่ที่นี่มาระยะหนึ่ง {0} คิดว่าคุณควรให้ชื่อชุมชนนี้ ชุมชนท้องถิ่นควรได้รับการเรียก</NamePlayerFactionBaseMessage>
+  <PlayerFactionBaseGainsName>ชุมชนนี้เป็นที่รู้จักในฐานะ {0}.</PlayerFactionBaseGainsName>
+  <PlayerFactionBaseNameIsInvalid>ชื่อนี้ไม่ถูกต้อง</PlayerFactionBaseNameIsInvalid>
   
   <!-- Player faction and faction base naming -->
-  <NamePlayerFactionBaseMessage_NameFactionContinuation>Since it looks like you'll be here for a while, {0} also thinks that you should give community a name. What should this local community be called?</NamePlayerFactionBaseMessage_NameFactionContinuation>
-  <PlayerFactionAndBaseGainsName>Your faction is now known as {0}, and this community is now known as {1}.</PlayerFactionAndBaseGainsName>
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>เนื่องจากดูเหมือนว่าคุณจะอยู่ที่นี่เป็นระยะเวลาหนึ่ง {0} คิดว่าคุณควรให้ชื่อชุมชนด้วย ชุมชนท้องถิ่นนี้ควรได้รับการเรียก</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <PlayerFactionAndBaseGainsName>กลุ่มของคุณเป็นที่รู้จักกันในชื่อ {0} และชุมชนนี้เป็นที่รู้จักกันในชื่อ {1}.</PlayerFactionAndBaseGainsName>
 
   <!-- Renaming -->
   <NameIsInvalid>กรุณากรอกชื่อที่ถูกต้อง</NameIsInvalid>
-  <NameIsInUse>Name is already in use.</NameIsInUse>
-  <ZoneGainsName>The zone is now called {0}.</ZoneGainsName>
+  <NameIsInUse>ชื่อมีการใช้งานอยู่แล้ว</NameIsInUse>
+  <ZoneGainsName>โซนนี้เรียกว่า {0}.</ZoneGainsName>
   
   <!-- Pawn naming -->
-  <PawnGainsName>The colonist nick-name is now {0}.</PawnGainsName>
+  <PawnGainsName>ชื่อเล่นของอาณานิคมอยู่ในขณะนี้ {0}.</PawnGainsName>
 
   <!-- Save game incompatible warning -->
-  <VersionMismatch>Version mismatch</VersionMismatch>
-  <SaveGameIncompatibleWarningText>Map was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes.</SaveGameIncompatibleWarningText>
-  <WorldFileVersionMismatch>World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch.</WorldFileVersionMismatch>
-  <FileIncompatibleWarning>This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes.</FileIncompatibleWarning>
+  <VersionMismatch>รุ่นไม่ตรงกัน</VersionMismatch>
+  <SaveGameIncompatibleWarningText>บันทึกแผนที่ด้วยเวอร์ชันเกมแล้ว{0}\nเรากำลังเรียกใช้เวอร์ชันเกม {1}\n\nการโหลดการบันทึกนี้อาจทำให้เกิดข้อผิดพลาดและเกิดข้อขัดข้อง</SaveGameIncompatibleWarningText>
+  <WorldFileVersionMismatch>ไฟล์ทั่วโลกถูกสร้างขึ้นพร้อมกับเวอร์ชันเกม {0}\nเรากำลังเรียกใช้เวอร์ชันเกม {1}\n\nการโหลดโลกใบนี้อาจก่อให้เกิดข้อบกพร่องและล่ม คุณอาจจะสร้างโลกใหม่ตั้งแต่เริ่มต้น</WorldFileVersionMismatch>
+  <FileIncompatibleWarning>ไฟล์นี้ได้รับการบันทึกด้วยเวอร์ชันเกม {0}\nเรากำลังเรียกใช้เวอร์ชันเกม {1}\n\nการโหลดไฟล์นี้อาจทำให้เกิดข้อบกพร่องและล่ม</FileIncompatibleWarning>
   <ModsMismatchWarningTitle>Mods mismatch</ModsMismatchWarningTitle>
-  <ModsMismatchWarningText>Map was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nMap was saved with (in this order):\n\n{0}\n\nWe are running with:\n\n{1}</ModsMismatchWarningText>
+  <ModsMismatchWarningText>แผนที่ได้รับการบันทึกไว้ด้วยชุดของ mod ที่ใช้งานอยู่กว่าที่เรากำลังทำงานอยู่ นี้อาจหรือไม่อาจทำให้เกิดปัญหาขึ้นอยู่กับสิ่งที่เหล่านี้ mods ทำ\n\nบันทึกแผนที่ด้วย (ตามลำดับนี้):\n\n{0}\n\nเรากำลังทำงานด้วย:\n\n{1}</ModsMismatchWarningText>
 
   <!-- Resolution change dialog -->
-  <ConfirmResolutionChange>You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}...</ConfirmResolutionChange>
+  <ConfirmResolutionChange>คุณได้เปลี่ยนการตั้งค่าหน้าจอใหม่ใช้หรือไม่?\n\nกำลังย้อนกลับอัตโนมัติ {0}...</ConfirmResolutionChange>
   <ResolutionKeep>เก็บไว้</ResolutionKeep>
   <ResolutionRevert>เปลี่ยนกลับ</ResolutionRevert>
 
@@ -123,7 +123,7 @@
   <MapStartSeason>ฤดุที่เริ่มต้น:</MapStartSeason>
   <MapStartSeasonDefault>อัตโนมัติ</MapStartSeasonDefault>
   <PermadeathMode>โหมด Permadeath</PermadeathMode>
-  <PermadeathModeInfo>In permadeath mode, you get one save file and can only save when quitting the game. You cannot reload the game to fix mistakes, and when the colony dies, that's it.\n\nThis is the way RimWorld was meant to be played, with every dramatic turn - whether tragic or hopeful - played out to full impact.</PermadeathModeInfo>
+  <PermadeathModeInfo>ในโหมด Permadeath คุณจะได้รับไฟล์บันทึกหนึ่งไฟล์และสามารถบันทึกได้เมื่อเลิกเล่นเกมเท่านั้น คุณไม่สามารถโหลดเกมใหม่เพื่อแก้ไขข้อผิดพลาดได้และเมื่ออาณานิคมตายแล้ว\n\nนี่เป็นวิธีที่ RimWorld ตั้งใจที่จะเล่นโดยทุกครั้งที่น่าทึ่ง - ไม่ว่าจะเป็นเรื่องเศร้าหรือความหวัง - เล่นออกไปอย่างเต็มที่</PermadeathModeInfo>
 
   <!-- Bill config -->
   <Suspended>ระงับแล้ว</Suspended>
@@ -136,9 +136,9 @@
   <CurrentlyHave>ตอนนี้มีอยู่</CurrentlyHave>
   <CountingProducts>กำลังนับ</CountingProducts>
   <Infinite>ไม่จำกัด</Infinite>
-  <AllowedSkillRange>Allowed {0} skill:</AllowedSkillRange>
+  <AllowedSkillRange>ได้รับอนุญาต {0} ทักษะ:</AllowedSkillRange>
   
-  <RecipeCannotHaveTargetCount>(This recipe cannot have a target count because it has multiple or unpredictable products.)</RecipeCannotHaveTargetCount>
+  <RecipeCannotHaveTargetCount>(สูตรนี้ไม่สามารถนับได้เนื่องจากมีผลิตภัณฑ์หลายรายการหรือไม่สามารถคาดการณ์ได้)</RecipeCannotHaveTargetCount>
   <WorkAmount>จำนวนงาน</WorkAmount>
   <MinimumSkills>ทักษะขั้นต่ำ:</MinimumSkills>
   <BillRequires>ต้องการ {0} {1}</BillRequires>
@@ -165,16 +165,16 @@
   <BurstShotCount>จำนวนภาพต่อเนื่อง</BurstShotCount>
   <WarmupTime>Warmup</WarmupTime>
   <MeleeWarmupTime>Melee warmup</MeleeWarmupTime>
-  <CooldownTime>Cooldown</CooldownTime>
+  <CooldownTime>คูลดาวน์</CooldownTime>
   <BurstShotFireRate>อัตราการใช้ไฟ</BurstShotFireRate>
   <Range>ระยะ</Range>
   <GrowsWild>เติบโตในป่า</GrowsWild>
   <Harvestable>สามารถเก็บเกี่ยวได้</Harvestable>
   <LimitedLifespan>อายุการใช้งาน จำกัด</LimitedLifespan>
   <GrowingTime>ระยะเวลาการเจริญเติบโต</GrowingTime>
-  <GrowingTimeDesc>Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth.</GrowingTimeDesc>
+  <GrowingTimeDesc>พืชเจริญเติบโตได้เพียงส่วนเดียวของวันและเมื่อแสงสว่างเท่านั้น สถิตินี้ใช้วัดเวลาที่พื้นที่ต้องการใช้จ่ายจริงเพื่อให้ได้ขนาดเต็มที่ เวลาในการเติบโตที่แท้จริงโดยทั่วไปจะยาวประมาณสองเท่า อุณหภูมิต่ำยังช่วยชะลอการเจริญเติบโตของพืช</GrowingTimeDesc>
   <Days>วัน</Days>
-  <MinGrowingSkillToSow>Minimum growing skill to sow</MinGrowingSkillToSow>
+  <MinGrowingSkillToSow>ทักษะการหว่าน</MinGrowingSkillToSow>
   <FertilityRequirement>ต้องการความอุดมสมบูรณ์</FertilityRequirement>
   <FertilitySensitivity>ความไวของการเจริญพันธุ์</FertilitySensitivity>
   <LightRequirement>ต้องการแสงสว่าง</LightRequirement>
@@ -189,28 +189,28 @@
     <BodySize>ขนาดการ</BodySize>
   <RecruitDifficulty>ความยากในการชักชวน</RecruitDifficulty>
   <MarketValue>ราคาพื้นฐาน</MarketValue>
-  <Covers>Covers</Covers>
-  <CoverEffectiveness>Cover effectiveness</CoverEffectiveness>
-  <CoverEffectivenessExplanation>How effective this is when used as cover in a gunfight. Higher percentages will block more shots.</CoverEffectivenessExplanation>
+  <Covers>หลบที่กำบัง</Covers>
+  <CoverEffectiveness>ประสิทธิภาพของหลบที่กำบัง</CoverEffectiveness>
+  <CoverEffectivenessExplanation>วิธีนี้มีประสิทธิภาพเมื่อใช้เป็นหลบที่กำบังในการสู้รบ เปอร์เซ็นต์ที่สูงขึ้นจะป้องกันไม่ให้มีการถ่ายภาพมากขึ้น</CoverEffectivenessExplanation>
   <MedicineXpGainFactor>ปัจจัยที่ได้รับประสบการณ์</MedicineXpGainFactor>
   <MoodChange>อารมณ์เปลี่ยน</MoodChange>
   <Wildness>มุ่งมั่น</Wildness>
-  <WildnessExplanation>Wilder creatures are naturally more difficult to tame, train, and handle.</WildnessExplanation>
+  <WildnessExplanation>สิ่งมีชีวิตที่ Wilder เป็นธรรมชาติยากที่จะเชื่องฝึกและจัดการ</WildnessExplanation>
   <AnimalFilthRate>อัตราความสกปรกของสัตว์</AnimalFilthRate>
-  <AnimalFilthRateExplanation>Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth.</AnimalFilthRateExplanation>
+  <AnimalFilthRateExplanation>สัตว์ก่อให้เกิดความสกปรกเมื่อเคลื่อนไปมาบนพื้นที่สร้างขึ้น นี่คือจำนวนเฉลี่ยของสิ่งสกปรกที่ผลิตต่อ {0} เซลล์ที่เดินผ่านสิ่งมีชีวิตนี้\n\nสัตว์เลี้ยงที่มีขนาดใหญ่และสัตว์เลี้ยงน้อยลงทำให้เกิดสิ่งปฏิกูลมากขึ้น</AnimalFilthRateExplanation>
   <TimeRecordsCategory>เวลา</TimeRecordsCategory>
   <MiscRecordsCategory>อื่นๆ</MiscRecordsCategory>
   <Addictiveness>Addictiveness</Addictiveness>
-	<PackAnimal>Pack animal</PackAnimal>
-	<PackAnimalExplanation>Whether this animal is appropriate to use to carry items in a caravan over long distances.</PackAnimalExplanation>
+	<PackAnimal>สัตว์ขนของ</PackAnimal>
+	<PackAnimalExplanation>ไม่ว่าจะเป็นสัตว์ชนิดนี้เหมาะสมที่จะใช้ในการพกสิ่งของในกองคาราวานในระยะทางไกล</PackAnimalExplanation>
 	
   <!-- Trade -->
   <PositiveBuysNegativeSells>ตัวเลขบวกซื้อ\nตัวเลขติดลบขาย</PositiveBuysNegativeSells>
   <BuyPriceDesc>ราคาที่คุณจ่ายเงินเพื่อซื้อนี้</BuyPriceDesc>
   <SellPriceDesc>ราคาที่คุณได้รับจากการขายนี้</SellPriceDesc>
   <PriceTypeDesc>สำหรับรายการนี้, ราคานี้เป็นราคา {0}.</PriceTypeDesc>
-  <ColonyCount>How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are outdoors and near an orbital trade beacon.</ColonyCount>
-  <TraderCount>How many of this item the trader has to trade.</TraderCount>
+  <ColonyCount>กี่รายการนี้อาณานิคมพร้อมที่จะค้าขาย\n\nคุณสามารถขายสินค้าให้กับผู้ค้าที่เป็นวงโคจรเท่านั้นหากอยู่กลางแจ้งและอยู่ใกล้กับสัญญาณการค้าโคจร</ColonyCount>
+  <TraderCount>มีสินค้ากี่รายการที่พ่อค้าขายได้</TraderCount>
   <AcceptButton>ยอมรับ</AcceptButton>
   <ResetButton>รีเซ็ต</ResetButton>
   <CancelButton>ยกเลิก</CancelButton>
@@ -220,81 +220,81 @@
   <TraderHasNoMore>พ่อค้าไม่มีเหลือแล้ว.</TraderHasNoMore>
   <ColonyHasNoMore>ไม่เหลืออะไรจะขายแล้ว</ColonyHasNoMore>
   <TraderWillNotTrade>พ่อค้า ไม่เต็มใจที่จะค้าในรายการนี้</TraderWillNotTrade>
-  <Negotiator>Negotiator</Negotiator>
-  <NegotiatorTalkingImpaired>Your negotiator {0} cannot talk properly because of poor health.\n\nThis will affect trade prices.\n\nConsider using a healthier negotiator.</NegotiatorTalkingImpaired>
-  <ConfirmTraderShortFunds>Trader has insufficient silver to fully cover this transaction.  Proceed anyways?</ConfirmTraderShortFunds>
+  <Negotiator>ผู้เจรจา</Negotiator>
+  <NegotiatorTalkingImpaired>ผู้เจรจาต่อรองของคุณ {0} ไม่สามารถพูดได้อย่างถูกต้องเนื่องจากสุขภาพไม่ดี\n\nส่งผลกระทบต่อราคาค้าขาย\n\nพิจารณาใช้ผู้เจรจาที่มีสุขภาพดี</NegotiatorTalkingImpaired>
+  <ConfirmTraderShortFunds>ผู้ค้ามีเงินไม่เพียงพอที่จะทำธุรกรรมนี้ได้เต็มที่  ดำเนินการต่อ?</ConfirmTraderShortFunds>
   <SortBy>เรียงตาม</SortBy>
     <TraderTypePrice>ประเภทผู้ประกอบการค้า</TraderTypePrice>
 	<Selling>ขาย</Selling>
 	<Buying>ซื้อ</Buying>
-	<ItemSellPriceFactor>item sell price multiplier</ItemSellPriceFactor>
-	<DifficultyLevel>difficulty level</DifficultyLevel>
-	<PostCurve>global post-process curve</PostCurve>
-	<YourNegotiatorBonus>Your negotiator bonus</YourNegotiatorBonus>
-	<TradeWithFactionBaseBonus>Trading with faction base bonus</TradeWithFactionBaseBonus>
+	<ItemSellPriceFactor>ตัวคูณราคาขายสินค้า</ItemSellPriceFactor>
+	<DifficultyLevel>ระดับความยาก</DifficultyLevel>
+	<PostCurve>เส้นโค้งหลังการผลิตทั่วโลก</PostCurve>
+	<YourNegotiatorBonus>โบนัสผู้เจรจาต่อรองของคุณ</YourNegotiatorBonus>
+	<TradeWithFactionBaseBonus>การซื้อขายกับโบนัสฐานฝ่ายตรงข้าม</TradeWithFactionBaseBonus>
 	<minimum>ขั้นต่ำ</minimum>
-	<FinalPrice>Final price</FinalPrice>
-  <TradeMassUsageTooltip>The resulting mass usage and mass capacity.</TradeMassUsageTooltip>
+	<FinalPrice>ราคาสุดท้าย</FinalPrice>
+  <TradeMassUsageTooltip>การใช้มวลและการผลิตมวล</TradeMassUsageTooltip>
   
   <!-- Form caravan -->
-  <FormCaravan>Form caravan</FormCaravan>
-  <FormCaravanColonyThingCountTip>How many of this item the colony has ready to give to the caravan.</FormCaravanColonyThingCountTip>
+  <FormCaravan>แบบคาราวาน</FormCaravan>
+  <FormCaravanColonyThingCountTip>มีกี่รายการที่อาณานิคมนี้พร้อมที่จะมอบให้กับกองคาราวาน</FormCaravanColonyThingCountTip>
   <PawnsTab>คนและสัตว์</PawnsTab>
   <ItemsTab>สิ่งของ</ItemsTab>
-  <CaravanConfigTab>Config</CaravanConfigTab>
-  <CaravanMustHaveAtLeastOneColonist>You must assign at least one non-downed colonist.</CaravanMustHaveAtLeastOneColonist>
-  <CaravanCouldNotFindExitSpot>The chosen exit location ({0}) is inaccessible.</CaravanCouldNotFindExitSpot>
-  <CaravanCouldNotFindPackingSpot>Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible.</CaravanCouldNotFindPackingSpot>
-  <CaravanCouldNotFindReachableExitSpot>Warning: some of the assigned colonists are unable to reach the exit location ({0}).</CaravanCouldNotFindReachableExitSpot>
-  <CaravanPawnIsUnreachable>{0} is unreachable by any of the assigned colonists.</CaravanPawnIsUnreachable>
-  <CaravanItemIsUnreachableSingle>None of the assigned colonists are able to reach the {0}.</CaravanItemIsUnreachableSingle>
-  <CaravanItemIsUnreachableMulti>None of the assigned colonists are able to reach {0}x {1}.</CaravanItemIsUnreachableMulti>
-  <TooBigCaravanMassUsage>The caravan is not able to carry that much.</TooBigCaravanMassUsage>
-  <CaravanMassUsageTooltip>Current mass usage and mass capacity.\n\nMass usage includes the assigned caravan supplies as well as the colonists' current equipment.\n\nYou will not be able to send the caravan if the mass usage exceedes capacity.</CaravanMassUsageTooltip>
+  <CaravanConfigTab>การกำหนดค่า</CaravanConfigTab>
+  <CaravanMustHaveAtLeastOneColonist>คุณต้องกำหนดอาณานิคมที่ไม่ได้ลงคะแนนอย่างน้อยหนึ่งคน</CaravanMustHaveAtLeastOneColonist>
+  <CaravanCouldNotFindExitSpot>ตำแหน่งทางออกที่เลือก ({0}) ไม่สามารถเข้าถึงได้</CaravanCouldNotFindExitSpot>
+  <CaravanCouldNotFindPackingSpot>ไม่พบจุดบรรจุที่ถูกต้อง ตรวจสอบให้แน่ใจว่าตำแหน่งทางลงที่เลือกไว้ ({0}) สามารถเข้าถึงได้</CaravanCouldNotFindPackingSpot>
+  <CaravanCouldNotFindReachableExitSpot>คำเตือน: บางส่วนของอาณานิคมที่กำหนดไม่สามารถเข้าถึงสถานที่ทางลง ({0}).</CaravanCouldNotFindReachableExitSpot>
+  <CaravanPawnIsUnreachable>{0} ไม่สามารถเข้าถึงได้โดยอาณานิคมใด ๆ ที่กำหนด</CaravanPawnIsUnreachable>
+  <CaravanItemIsUnreachableSingle>ไม่มีอาณานิคมที่ได้รับมอบหมายสามารถเข้าถึงได้ {0}.</CaravanItemIsUnreachableSingle>
+  <CaravanItemIsUnreachableMulti>ไม่มีอาณานิคมที่ได้รับมอบหมายสามารถเข้าถึงได้ {0}x {1}.</CaravanItemIsUnreachableMulti>
+  <TooBigCaravanMassUsage>กองคาราวานไม่สามารถพกพาได้มากนัก</TooBigCaravanMassUsage>
+  <CaravanMassUsageTooltip>การใช้มวลชนในปัจจุบันและความจุมวลชน\n\nการใช้มวลรวมถึงวัสดุอุปกรณ์คาราวานที่กำหนดรวมทั้งอุปกรณ์ปัจจุบันของอาณานิคม\n\nคุณจะไม่สามารถส่งกองคาราวานได้หากการใช้มวลเกินความจุ</CaravanMassUsageTooltip>
   <MassUsageInfo>{0} / {1} กิโล</MassUsageInfo>
-  <DaysWorthOfFoodInfo>{0} days worth of food</DaysWorthOfFoodInfo>
-  <DaysWorthOfFoodInfoRot>{0} days worth of food, rot in {1} days</DaysWorthOfFoodInfoRot>
-  <InfiniteDaysWorthOfFoodInfo>Will never run out of food</InfiniteDaysWorthOfFoodInfo>
-  <DaysWorthOfFoodTooltip>An approximate number of days before the caravan runs out of food.\n\nThis takes into account both human and animal food, and shows the worst case scenario. This means that after this many days, at least one person or animal will be out of food.</DaysWorthOfFoodTooltip>
-  <DaysWorthOfFoodTooltip_CanEatLocalPlants>Based on the current season, temperature, and surroundings we assume that it WILL be possible for herbivore animals to eat local plants. This however can change at any time.</DaysWorthOfFoodTooltip_CanEatLocalPlants>
-  <DaysWorthOfFoodTooltip_CantEatLocalPlants>Based on the current season, temperature, and surroundings we assume that it will NOT be possible for herbivore animals to eat local plants. This however can change at any time.</DaysWorthOfFoodTooltip_CantEatLocalPlants>
-  <DaysWorthOfFoodWarningDialog>Your caravan only has {0} days worth of food and will become hungry very quickly.\n\nAre you sure you want to form this caravan?</DaysWorthOfFoodWarningDialog>
-  <DaysWorthOfFoodWarningDialog_NoFood>Your caravan has no food and will become hungry very quickly.\n\nAre you sure you want to form this caravan?</DaysWorthOfFoodWarningDialog_NoFood>
-  <CaravanFoodWillRotSoonWarningDialog>A large part of the assigned food will rot soon.\n\nAre you sure you want to form this caravan?</CaravanFoodWillRotSoonWarningDialog>
-  <NoExitDirectionForCaravanChosen>You must choose an exit direction for the caravan.</NoExitDirectionForCaravanChosen>
-  <NoCaravanExitDirectionAvailable>(no exit direction available)</NoCaravanExitDirectionAvailable>
-  <ExitDirection>Exit direction</ExitDirection>
+  <DaysWorthOfFoodInfo>อาหาร {0} วัน</DaysWorthOfFoodInfo>
+  <DaysWorthOfFoodInfoRot>{0} วันคุ้มค่าของอาหารที่จะเน่า {1} วัน</DaysWorthOfFoodInfoRot>
+  <InfiniteDaysWorthOfFoodInfo>อาหารจะไม่มีวันหมด</InfiniteDaysWorthOfFoodInfo>
+  <DaysWorthOfFoodTooltip>จำนวนวันโดยประมาณก่อนที่คาราวานจะหมดอาหาร\n\nโดยคำนึงถึงอาหารของมนุษย์และสัตว์และแสดงสถานการณ์ที่เลวร้ายที่สุด ซึ่งหมายความว่าหลังจากหลายวันนี้อย่างน้อยหนึ่งคนหรือสัตว์จะอดอาหาร</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip_CanEatLocalPlants>ขึ้นอยู่กับฤดูกาลปัจจุบันอุณหภูมิและสภาพแวดล้อมที่เราคิดว่ามันจะเป็นไปได้สำหรับสัตว์กินพืชที่กินพืชในท้องถิ่น อย่างไรก็ตามสามารถเปลี่ยนแปลงได้ตลอดเวลา</DaysWorthOfFoodTooltip_CanEatLocalPlants>
+  <DaysWorthOfFoodTooltip_CantEatLocalPlants>ขึ้นอยู่กับฤดูกาลปัจจุบันอุณหภูมิและสภาพแวดล้อมที่เราคิดว่ามันจะไม่เป็นไปได้สำหรับสัตว์กินพืชที่กินพืชในท้องถิ่น อย่างไรก็ตามสามารถเปลี่ยนแปลงได้ตลอดเวลา</DaysWorthOfFoodTooltip_CantEatLocalPlants>
+  <DaysWorthOfFoodWarningDialog>กองคาราวานของคุณมีเท่านี้ {0} วัน ของอาหารและจะกลายเป็นหิวได้อย่างรวดเร็ว\n\nคุณแน่ใจหรือไม่ว่าต้องการสร้างคาราวานนี้?</DaysWorthOfFoodWarningDialog>
+  <DaysWorthOfFoodWarningDialog_NoFood>กองคาราวานของคุณไม่มีอาหารและจะหิวอย่างรวดเร็ว\n\nคุณแน่ใจหรือไม่ว่าต้องการสร้างคาราวานนี้?</DaysWorthOfFoodWarningDialog_NoFood>
+  <CaravanFoodWillRotSoonWarningDialog>ส่วนใหญ่ของอาหารที่กำหนดจะเน่าเร็วๆ นี้\n\nคุณแน่ใจหรือไม่ว่าต้องการสร้างคาราวานนี้</CaravanFoodWillRotSoonWarningDialog>
+  <NoExitDirectionForCaravanChosen>คุณต้องเลือกทิศทางการออกสำหรับกองคาราวาน</NoExitDirectionForCaravanChosen>
+  <NoCaravanExitDirectionAvailable>(ไม่มีทางออกที่พร้อมใช้งาน)</NoCaravanExitDirectionAvailable>
+  <ExitDirection>ทิศทางออก</ExitDirection>
   <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
-  <ItemWeightTip>Weight of this item.</ItemWeightTip>
-  <MarketValueTip>Market value</MarketValueTip>
-  <DaysUntilRotTip>The number of days until this item starts to rot based on the average temperature in this area.</DaysUntilRotTip>
-  <MassCapacity>Mass capacity</MassCapacity>
-  <Mass>Mass</Mass>
-  <EquipmentAndApparelMass>Equipment and apparel mass</EquipmentAndApparelMass>
-  <InventoryMass>Inventory mass</InventoryMass>
-  <CaravanFormationProcessStarted>Your colonists will now take the assigned items and leave the area as soon as possible.</CaravanFormationProcessStarted>
-  <ReformCaravan>Reform caravan</ReformCaravan>
+  <ItemWeightTip>น้ำหนักของรายการนี้</ItemWeightTip>
+  <MarketValueTip>มูลค่าตลาด</MarketValueTip>
+  <DaysUntilRotTip>จำนวนวันจนกว่ารายการนี้จะเริ่มเน่าขึ้นอยู่กับอุณหภูมิโดยเฉลี่ยในบริเวณนี้</DaysUntilRotTip>
+  <MassCapacity>กำลังการผลิตขนาดใหญ่</MassCapacity>
+  <Mass>มวล</Mass>
+  <EquipmentAndApparelMass>อุปกรณ์และเครื่องนุ่งห่ม</EquipmentAndApparelMass>
+  <InventoryMass>มวลสินค้าคงคลัง</InventoryMass>
+  <CaravanFormationProcessStarted>ผู้ล่าอาณานิคมของคุณจะได้รับสินค้าที่ได้รับมอบหมายและออกจากพื้นที่โดยเร็วที่สุด</CaravanFormationProcessStarted>
+  <ReformCaravan>ปฏิรูปคาราวาน</ReformCaravan>
   <ColonistsSection>อาณานิคม</ColonistsSection>
   <PrisonersSection>นักโทษ</PrisonersSection>
   <AnimalsSection>สัตว์</AnimalsSection>
-  <EstimatedTimeToDestinationButton>Est. time to destination</EstimatedTimeToDestinationButton>
+  <EstimatedTimeToDestinationButton>เวลาไปถึงปลายทาง</EstimatedTimeToDestinationButton>
   
   <!-- Split caravan -->
-  <SplitCaravan>Split caravan</SplitCaravan>
-  <SourceCaravanMustHaveAtLeastOneColonist>You must leave at least one non-downed colonist.</SourceCaravanMustHaveAtLeastOneColonist>
+  <SplitCaravan>แยกกองคาราวาน</SplitCaravan>
+  <SourceCaravanMustHaveAtLeastOneColonist>คุณต้องออกจากอาณานิคมที่ไม่ได้ลงแรงอย่างน้อยหนึ่งคน</SourceCaravanMustHaveAtLeastOneColonist>
   <CaravanSplitSourceLabel>ปัจจุบัน</CaravanSplitSourceLabel>
   <CaravanSplitDestLabel>ใหม่</CaravanSplitDestLabel>
-  <SplitCaravanThingCountTip>How many of this item the caravan has ready to give to the new caravan.</SplitCaravanThingCountTip>
-  <SplitCaravanMassUsageTooltip>Current mass usage and mass capacity.</SplitCaravanMassUsageTooltip>
+  <SplitCaravanThingCountTip>มีกี่รายการที่คาราวานพร้อมที่จะมอบให้คาราวานใหม่</SplitCaravanThingCountTip>
+  <SplitCaravanMassUsageTooltip>การใช้มวลชนในปัจจุบันและความจุมวลชน</SplitCaravanMassUsageTooltip>
 
   <!-- Load transporters -->
-  <LoadTransporters>ภาระ {0}</LoadTransporters>
-  <TooBigTransportersMassUsage>The assigned people and items are too heavy for the transport pods.</TooBigTransportersMassUsage>
-  <CantSendEmptyTransportPods>You can't send empty transport pods.</CantSendEmptyTransportPods>
-  <PawnCantReachTransporters>{0} can't reach the transport pods.</PawnCantReachTransporters>
-  <TransporterItemIsUnreachableSingle>There is no path between the transport pods and the {0}.</TransporterItemIsUnreachableSingle>
-  <TransporterItemIsUnreachableMulti>There is no path between the transport pods and {0}x {1}.</TransporterItemIsUnreachableMulti>
-  <TransportersMassUsageTooltip>Current mass usage and mass capacity.\n\nYou will not be able to send the transport pods if the mass usage exceedes capacity.</TransportersMassUsageTooltip>
+  <LoadTransporters>สัมภาระ {0}</LoadTransporters>
+  <TooBigTransportersMassUsage>บุคคลที่ได้รับมอบหมายและสิ่งของหนักเกินไปสำหรับฝักขนส่ง</TooBigTransportersMassUsage>
+  <CantSendEmptyTransportPods>คุณไม่สามารถส่งกระสวยขนส่งที่ว่างเปล่า</CantSendEmptyTransportPods>
+  <PawnCantReachTransporters>{0} ไม่สามารถเข้าถึงกระสวยขนส่งได้</PawnCantReachTransporters>
+  <TransporterItemIsUnreachableSingle>ไม่มีเส้นทางระหว่างกระสวยขนส่งและ {0}.</TransporterItemIsUnreachableSingle>
+  <TransporterItemIsUnreachableMulti>ไม่มีเส้นทางระหว่างกระสวยขนส่งและ {0}x {1}.</TransporterItemIsUnreachableMulti>
+  <TransportersMassUsageTooltip>การใช้มวลชนในปัจจุบันและความจุมวลชน\n\nคุณจะไม่สามารถส่งกระสวยขนส่งได้หากการใช้มวลเกินความจุ</TransportersMassUsageTooltip>
   
   <!-- Comms -->
   <SocialSkillIs>ทักษะทางสังคม: {0}</SocialSkillIs>
@@ -304,12 +304,12 @@
   <ResearchScreen>หน้าการวิจัย</ResearchScreen>
   
   <!--HistoryUpload-->
-  <HistoryUploadMessage>Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu.</HistoryUploadMessage>
-  <HistoryUploadMessagePlayerName>Even though history is sent anonymously, you can attach your name.</HistoryUploadMessagePlayerName>
-  <HistoryUploadYes>Allow uploading gameplay data</HistoryUploadYes>
-  <HistoryUploadNo>Do not allow uploading gameplay data</HistoryUploadNo>
-  <HistoryUploadYesOnce>Upload only this time</HistoryUploadYesOnce>
-  <HistoryUploadNoOnce>Do not upload this time, ask me later</HistoryUploadNoOnce>
+  <HistoryUploadMessage>คุณต้องการอัปโหลดระเบียนข้อมูลการเล่นเกมของคุณไปยังเซิร์ฟเวอร์ RimWorld เพื่อช่วยให้นักพัฒนาสามารถปรับสมดุลเกมได้หรือไม่?หากคุณยอมรับข้อมูลของคุณจะได้รับการอัปโหลดทุกครั้ง {0} วัน (และในบางกรณีที่หายากอื่น ๆ เช่นการสิ้นสุดของเกม) คุณสามารถเปลี่ยนการตั้งค่าความเป็นส่วนตัวในภายหลังได้ในเมนูตัวเลือก</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>แม้ว่าจะมีการส่งประวัติโดยไม่ระบุชื่อคุณสามารถแนบชื่อของคุณได้</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>อนุญาตให้อัปโหลดข้อมูลเกม</HistoryUploadYes>
+  <HistoryUploadNo>ไม่อนุญาตให้อัปโหลดข้อมูลการเล่นเกม</HistoryUploadNo>
+  <HistoryUploadYesOnce>อัปโหลดเฉพาะในครั้งนี้</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>อย่าอัปโหลดเวลานี้ถามฉันทีหลัง</HistoryUploadNoOnce>
 	
   <!-- Outfit management -->
   <Outfit>เครื่องแต่งกาย</Outfit>
@@ -344,43 +344,43 @@
   <NoDrugUseRequirement>ได้ทั้งหมด</NoDrugUseRequirement>
   <DeleteDrugTooltip>ลบยานี้</DeleteDrugTooltip>
   <DrugNameColumnDesc>ชื่อของยาเสพติด</DrugNameColumnDesc>
-  <DrugUsageColumnDesc>How the drug is allowed to be used.</DrugUsageColumnDesc>
-  <FrequencyColumnDesc>How often the colonists should try to take this drug.</FrequencyColumnDesc>
-  <MoodThresholdColumnDesc>The colonists will take this drug only if their mood level is below this threshold.</MoodThresholdColumnDesc>
-  <JoyThresholdColumnDesc>The colonists will take this drug only if their joy level is below this threshold.</JoyThresholdColumnDesc>
-  <TakeToInventoryColumnDesc>An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time.</TakeToInventoryColumnDesc>
-	<DrugUsageTipForAddiction>For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForAddiction>
-	<DrugUsageTipForJoy>For joy\n\nUse this drug for joy and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForJoy>
-  <DrugUsageTipScheduled>Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met.</DrugUsageTipScheduled>
+  <DrugUsageColumnDesc>วิธีการที่ยาเสพติดได้รับอนุญาตให้ใช้</DrugUsageColumnDesc>
+  <FrequencyColumnDesc>บ่อยครั้งที่อาณานิคมควรพยายามใช้ยานี้</FrequencyColumnDesc>
+  <MoodThresholdColumnDesc>อาณานิคมจะใช้ยานี้ก็ต่อเมื่อระดับอารมณ์ต่ำกว่าเกณฑ์นี้</MoodThresholdColumnDesc>
+  <JoyThresholdColumnDesc>อาณานิคมจะใช้ยานี้ก็ต่อเมื่อระดับความสุขอยู่ต่ำกว่าเกณฑ์นี้</JoyThresholdColumnDesc>
+  <TakeToInventoryColumnDesc>ปริมาณของยาเสพติดที่จะรับเพิ่มขึ้นเมื่อรวบรวมเพื่อการบริโภคเพื่อหลีกเลี่ยงการไปเยี่ยมชมคลังสินค้ายาเสพติดทุกครั้ง</TakeToInventoryColumnDesc>
+	<DrugUsageTipForAddiction>สำหรับการเสพติด\n\nใช้ยานี้ในการให้ยาเสพติดที่กำหนดขึ้นแล้ว\n\nแม้จะถูกปิดใช้งานตัวละครบางตัวที่มีลักษณะเฉพาะหรือในช่วงพักฟื้นก็ตามอาจใช้ยานี้ต่อไป</DrugUsageTipForAddiction>
+	<DrugUsageTipForJoy>สำหรับความสุข\n\nใช้ยานี้เพื่อความสุขและวัตถุประสงค์ทางสังคม\n\nแม้จะถูกปิดใช้งานตัวละครบางตัวที่มีลักษณะเฉพาะหรือในช่วงพักฟื้นก็ตามอาจใช้ยานี้ต่อไป</DrugUsageTipForJoy>
+  <DrugUsageTipScheduled>ตามเวลาที่กำหนด\n\nใช้ยานี้ในช่วงเวลาที่กำหนดเมื่อมีการระบุเงื่อนไข</DrugUsageTipScheduled>
  
   <!-- Medical settings -->
-  <MedGroupDefaults>Defaults</MedGroupDefaults>
-  <MedGroupColonist>Colonist</MedGroupColonist>
-  <MedGroupImprisonedColonist>Imprisoned colonist</MedGroupImprisonedColonist>
-  <MedGroupColonyAnimal>Colony animal</MedGroupColonyAnimal>
-  <MedGroupNeutralAnimal>Neutral animal</MedGroupNeutralAnimal>
-  <MedGroupNeutralFaction>Neutral faction</MedGroupNeutralFaction>
-  <MedGroupHostileFaction>Hostile faction</MedGroupHostileFaction>
+  <MedGroupDefaults>ค่าเริ่มต้น</MedGroupDefaults>
+  <MedGroupColonist>อาณานิคม</MedGroupColonist>
+  <MedGroupImprisonedColonist>ที่ถูกคุมขัง อาณานิคม</MedGroupImprisonedColonist>
+  <MedGroupColonyAnimal>อาณานิคม สัตว์</MedGroupColonyAnimal>
+  <MedGroupNeutralAnimal>สัตว์ เป็นกลาง</MedGroupNeutralAnimal>
+  <MedGroupNeutralFaction>ฝ่าย เป็นกลาง</MedGroupNeutralFaction>
+  <MedGroupHostileFaction>ฝ่ายศัตรู</MedGroupHostileFaction>
  
   <!-- Growing -->
-  <NoGrowerCanPlant>{0} ต้องมี {1} ทักษะในการเติบโตที่จะหว่านเมล็ด\n\nNone of your non-downed growers have this skill, so this plant will not be sown.</NoGrowerCanPlant>
+  <NoGrowerCanPlant>{0} ต้องมี {1} ทักษะในการเติบโตที่จะหว่านเมล็ด\n\nไม่มีผู้เพาะปลูกที่มีทักษะนี้ดังนั้นพื้นที่แห่งนี้จะไม่ถูกหว่าน</NoGrowerCanPlant>
  
   <!-- Abandon home -->
-  <ConfirmAbandonHomeWithColonyPawns>Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
-  <ConfirmAbandonHomeNegativeThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonHomeNegativeThoughts>
-  <ConfirmAbandonHomeNegativeThoughts_Everyone>Everyone:</ConfirmAbandonHomeNegativeThoughts_Everyone>
+  <ConfirmAbandonHomeWithColonyPawns>บางส่วนของอาณานิคมหรือสัตว์ของคุณอยู่ในบริเวณนี้ คุณแน่ใจหรือไม่ว่าต้องการละทิ้ง?\n\nคนและสัตว์ต่อไปนี้จะถูกทิ้งไว้เบื้องหลัง:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  <ConfirmAbandonHomeNegativeThoughts>ทิ้ง {0} จะทำให้คนต่อไปนี้ได้รับความคิดต่อไปนี้:</ConfirmAbandonHomeNegativeThoughts>
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>ทุกคน:</ConfirmAbandonHomeNegativeThoughts_Everyone>
   
   <!-- Move caravan and leave prisoners and animals behind -->
-  <ConfirmLeavePrisonersOrAnimalsBehind>There are still some prisoners or animals left in this area and this is the only caravan they can join at the moment.\n\nIf you move your caravan, they won't be able to leave the area until you are back. The prisoners will start escaping, while the animals will keep waiting for you.\n\nIf you decide to wait, they will try to join your caravan as soon as possible.\n\nAre you sure you want to move your caravan?</ConfirmLeavePrisonersOrAnimalsBehind>
+  <ConfirmLeavePrisonersOrAnimalsBehind>ยังคงมีนักโทษหรือสัตว์เหลืออยู่ในพื้นที่นี้และนี่เป็นเพียงกองคาราวานเท่านั้นที่สามารถเข้าร่วมได้ในขณะนี้\n\nถ้าคุณย้ายกองคาราวานของคุณพวกเขาจะไม่สามารถออกจากพื้นที่จนกว่าคุณจะกลับมา นักโทษจะเริ่มหลบหนีขณะที่สัตว์กำลังรอคุณอยู่\n\nหากคุณตัดสินใจที่จะรอพวกเขาจะพยายามเข้าร่วมกองคาราวานของคุณโดยเร็วที่สุด\n\nคุณแน่ใจหรือไม่ว่าต้องการย้ายกองคาราวานของคุณ?</ConfirmLeavePrisonersOrAnimalsBehind>
   
   <!-- Abandon pawn -->
-  <ConfirmAbandonPawnDialog>Do you really want to abandon {0}?</ConfirmAbandonPawnDialog>
+  <ConfirmAbandonPawnDialog>คุณต้องการจะละทิ้ง {0}?</ConfirmAbandonPawnDialog>
   <ConfirmAbandonPawnDialog_LeftToDie>{0} ส่วนใหญ่มีแนวโน้มที่จะตาย</ConfirmAbandonPawnDialog_LeftToDie>
-  <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} will take the following items with HIM:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
-  <ConfirmAbandonPawnDialog_AllColonistsThoughts>All colonists will get the following thoughts:</ConfirmAbandonPawnDialog_AllColonistsThoughts>
-  <ConfirmAbandonPawnDialog_IndividualThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonPawnDialog_IndividualThoughts>
+  <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} จะใช้รายการต่อไปนี้ด้วย HIM:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
+  <ConfirmAbandonPawnDialog_AllColonistsThoughts>ผู้ล่าอาณานิคมทุกคนจะได้รับความคิดดังต่อไปนี้:</ConfirmAbandonPawnDialog_AllColonistsThoughts>
+  <ConfirmAbandonPawnDialog_IndividualThoughts>ทิ้ง {0} จะทำให้คนต่อไปนี้ได้รับความคิดต่อไปนี้:</ConfirmAbandonPawnDialog_IndividualThoughts>
   
   <!-- Send transport pods which are not completely loaded -->
-  <ConfirmSendNotCompletelyLoadedPods>Pod group isn’t completely loaded. {0} is missing. Launch anyway?</ConfirmSendNotCompletelyLoadedPods>
+  <ConfirmSendNotCompletelyLoadedPods>กลุ่มกระสวย ไม่ได้โหลดอย่างสมบูรณ์ {0} ที่ขาดหายไป. เปิดใช้หรือไม่?</ConfirmSendNotCompletelyLoadedPods>
   
 </LanguageData>

@@ -77,8 +77,8 @@
   <Tiredness>ความเหนื่อย</Tiredness>
   <PainFactor>ความเจ็บปวด</PainFactor>
   <PreventsInfection>ป้องกันการติดเชื้อ</PreventsInfection>
-  <SelfTend>Self-tend</SelfTend>
-  <SelfTendTip>{0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency.</SelfTendTip>
+  <SelfTend>ตัวเองมีแนวโน้มที่</SelfTend>
+  <SelfTendTip>{0} ด้วยตนเองมักจะเปิดใช้งานจะมีแนวโน้มที่จะอยู่ในจุดที่ {1} ประสิทธิภาพโดยปกติ</SelfTendTip>
  
 
  <!-- Medical - Body and activities condition -->

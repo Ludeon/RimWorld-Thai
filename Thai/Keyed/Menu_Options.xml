@@ -34,7 +34,7 @@
   <MaxNumberOfPlayerHomes>จำนวนสูงสุดของอาณานิคม: {0}</MaxNumberOfPlayerHomes>
   <PlantWindSway>ต้นไม้โดนลมพัด</PlantWindSway>
   <MaxPermadeathAutosaveIntervalInfo>จำกัดเซฟอัตโนมิติขนาดเล่นโหมดตายถาวร {0} ต่อวัน</MaxPermadeathAutosaveIntervalInfo>
-  <ModSettings>Mod Settings</ModSettings>
+  <ModSettings>ตั้งค่า Mod</ModSettings>
   
   <!-- Resolution -->
   <Resolution>ความละเอียดภาพ</Resolution>

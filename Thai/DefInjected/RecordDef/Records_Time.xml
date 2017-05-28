@@ -37,7 +37,7 @@
   <TimeHauling.label>เวลาขน</TimeHauling.label>
   <TimeHauling.description>Die Gesamtzeit, in der ich etwas getragen habe.</TimeHauling.description>
 
-  <TimeHandlingAnimals.label>เวลาที่ทำงานกับสัวต์</TimeHandlingAnimals.label>
+  <TimeHandlingAnimals.label>เวลาที่ทำงานกับสัตว์</TimeHandlingAnimals.label>
   <TimeHandlingAnimals.description>Die Gesamtzeit, in der ich mit Tieren gearbeitet habe.</TimeHandlingAnimals.description>
 
   <TimeFirefighting.label>เวลาดับเพลิง</TimeFirefighting.label>

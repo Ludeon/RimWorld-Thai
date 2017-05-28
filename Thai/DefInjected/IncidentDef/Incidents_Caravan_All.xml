@@ -7,7 +7,7 @@
 	<Ambush.letterText>คาราวานของคุณจาก {0} จาก {1} บุก!</Ambush.letterText>
 	<Ambush.letterLabel>คาราวานถูกซุ่มโจมตี</Ambush.letterLabel>
 
-	<ManhunterAmbush.label>สัวต์ดักโจมตี</ManhunterAmbush.label>
+	<ManhunterAmbush.label>สัตว์ดักโจมตี</ManhunterAmbush.label>
 	<ManhunterAmbush.letterText>คาราวานของคุณถูกสัตว์ล่า {0} บุก!</ManhunterAmbush.letterText>
 	<ManhunterAmbush.letterLabel>คาราวานถูกโจมตี (สัตว์)</ManhunterAmbush.letterLabel>
 

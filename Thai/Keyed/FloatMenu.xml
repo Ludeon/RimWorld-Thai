@@ -62,13 +62,13 @@
   <Rescue>ช่วยเหลือ {0}</Rescue>
   <CannotRescue>ไม่สามารถช่วยเหลือได้</CannotRescue>
 
-  <CarryToCryptosleepCasket>พกพา {0} to cryptosleep casket</CarryToCryptosleepCasket>
-  <CannotCarryToCryptosleepCasket>Cannot carry to cryptosleep casket</CannotCarryToCryptosleepCasket>
+  <CarryToCryptosleepCasket> {0} ขนไปยัง เครื่องนอนแช่แข็ง</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>ไม่สามารถขนเครื่องนอนแช่แข็ง</CannotCarryToCryptosleepCasket>
 
-  <NoCryptosleepCasket>No available cryptosleep casket.</NoCryptosleepCasket>
-  <NoPrisonerBed>No reachable, un-reserved, enclosed prisoner-marked bed.</NoPrisonerBed>
-  <NoNonPrisonerBed>No reachable, un-reserved non-prisoner bed.</NoNonPrisonerBed>
-  <NoAnimalBed>No reachable, un-reserved animal bed.</NoAnimalBed>
+  <NoCryptosleepCasket>ไม่มีเครื่องนอนแช่แข็ง</NoCryptosleepCasket>
+  <NoPrisonerBed>ไม่มีเตียงที่ถูกห้อมล้อมด้วยผู้ต้องขังที่ไม่สามารถเข้าถึงได้และไม่มีการสงวนไว้</NoPrisonerBed>
+  <NoNonPrisonerBed>ไม่มีเตียงที่ไม่ใช่นักโทษที่เข้าถึงได้และไม่มีการจองจำ</NoNonPrisonerBed>
+  <NoAnimalBed>ไม่มีเตียงสัตว์ที่สามารถเข้าถึงได้และไม่มีการสงวนไว้</NoAnimalBed>
   <Reserved>จองโดยคนอื่นไว้แล้ว</Reserved>
   <ReservedBy>จองโดย {0}</ReservedBy>
   <IsReservedBy>{0} นั้นจองไว้โดย {1}.</IsReservedBy>
@@ -77,7 +77,7 @@
   <Incapable>ไม่สามารถ</Incapable>
   <IncapableOfCapacity>ไม่สามารถที่จะ {0}</IncapableOfCapacity>
 
-  <MinSkill>ไม่มี Skill</MinSkill>  
+  <MinSkill>ไม่มี ทักษะ</MinSkill>  
   
   <Equip>สวม {0}</Equip>
   <EquipWarningBrawler>(นักเลงจะไม่มีความสุขแน่)</EquipWarningBrawler>
@@ -94,11 +94,11 @@
   <PickUpSome>หยิบ {0}...</PickUpSome>
   <PickUpCount>หยิบ {0} x{{0}}</PickUpCount>
   
-  <CannotGiveToPackAnimal>ไม่สามารถให้ {0} สัตว์แพ็คของ</CannotGiveToPackAnimal>
-  <CannotGiveToPackAnimalAll>ไม่สามารถให้ {0} สัตว์แพ็คของ (ทั้งหมด)</CannotGiveToPackAnimalAll>
-  <GiveToPackAnimal>ให้ {0} สัตว์แพ็คของ</GiveToPackAnimal>
-  <GiveToPackAnimalAll>ให้ {0} สัตว์แพ็คของ (ทั้งหมด)</GiveToPackAnimalAll>
-  <GiveToPackAnimalSome>ให้ {0} สัตว์แพ็คของ...</GiveToPackAnimalSome>
+  <CannotGiveToPackAnimal>ไม่สามารถให้ {0} สัตว์ขนของ</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimalAll>ไม่สามารถให้ {0} สัตว์ขนของ (ทั้งหมด)</CannotGiveToPackAnimalAll>
+  <GiveToPackAnimal>ให้ {0} สัตว์ขนของ</GiveToPackAnimal>
+  <GiveToPackAnimalAll>ให้ {0} สัตว์ขนของ (ทั้งหมด)</GiveToPackAnimalAll>
+  <GiveToPackAnimalSome>ให้ {0} สัตว์ขนของ...</GiveToPackAnimalSome>
   <GiveToPackAnimalCount>เอา {0} x{{0}}</GiveToPackAnimalCount>
   
   <CannotCarryToExit>ไม่สามารถพกพา {0} และออกจากพื้นที่</CannotCarryToExit>

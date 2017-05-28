@@ -26,7 +26,7 @@
   <StatsReport_BodySize>ตัวคูณสำหรับขนาดตัว {0}</StatsReport_BodySize>
   <StatsReport_MeleeDPSExplanation>สถิตินั้นแสดงในรูปแบบดังต่อไปนี้:\nDPS ( ความเสียหายของการสู้ระยะประชิด / Cooldown เป็นวินาที / โอกาสโดนในการสู้ระยะประชิด )\n\nDPS = ความเสียหายของการสู้ระยะประชิด * โอกาสโดนในการสู้ระยะประชิด / Cooldown เป็นวินาที</StatsReport_MeleeDPSExplanation>
   <StatsReport_MeleeDamage>ความเสียหายของการสู้ระยะประชิด</StatsReport_MeleeDamage>
-  <StatsReport_Cooldown>Cooldown</StatsReport_Cooldown>
+  <StatsReport_Cooldown>คูลดาวน์</StatsReport_Cooldown>
   <StatsReport_MeleeHitChance>โอกาสโดนในการสู้ระยะประชิด</StatsReport_MeleeHitChance>
   <StatsReport_CooldownFormat>{0} วิ</StatsReport_CooldownFormat>
   <StatsReport_LifeExpectancy>ความคาดหมายในชีวิต</StatsReport_LifeExpectancy>

@@ -17,7 +17,7 @@
   <UseVerbOnThing.reportString>ทำอะไรบางอย่าง</UseVerbOnThing.reportString> 
   <Equip.reportString>กำลังติดตั้ง TargetA</Equip.reportString>
   <TakeInventory.reportString>กำลังหยิบ TargetA</TakeInventory.reportString>
-  <GiveToPackAnimal.reportString>ใช้เวลา TargetA.</GiveToPackAnimal.reportString>
+  <GiveToPackAnimal.reportString>กำลังติดตั้งสัตว์ขนของ TargetA.</GiveToPackAnimal.reportString>
   <Wear.reportString>กำลังสวมใส่ TargetA</Wear.reportString>
   <RemoveApparel.reportString>กำลังถอดเครื่องแต่งกาย TargetA</RemoveApparel.reportString>
   <DropEquipment.reportString>TargetA ตก</DropEquipment.reportString>

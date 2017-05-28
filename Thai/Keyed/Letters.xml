@@ -20,7 +20,7 @@
 
   <LetterLabelAreaRevealed>พื้นที่ถูกเปิดเผย</LetterLabelAreaRevealed>
   <AreaRevealed>มีการเปิดเผยพื้นที่ใหม่</AreaRevealed>
-  <AreaRevealedWithMechanoids>มีการเปิดเผยพื้นที่ใหม่ มันมีโบราณ Mechanoids เป็นมิตร</AreaRevealedWithMechanoids>
+  <AreaRevealedWithMechanoids>มีการเปิดเผยพื้นที่ใหม่ มันมีโบราณรังเมคานอยด์ ไม่เป็นมิตร</AreaRevealedWithMechanoids>
 
   <RoofCollapsed>หลังคาถล่มลงมาเพราะอยู่ห่างจากสิ่งที่ค้ำ</RoofCollapsed>
   <TheseThingsCrushed>สิ่งเหล่านี้ถูกบดขยี้:</TheseThingsCrushed>
@@ -31,7 +31,7 @@
   <RecruitFail>{0} ล้มเหลวในการรับสมัคร {1} ( โอกาส {2} ).</RecruitFail>
 
   <LetterLabelBirthday>วันเกิด</LetterLabelBirthday>
-  <BirthdayChronological>เป็นวันเกิด {0}ของวันนี้! , {1} มีอายุ {3} ปี\n\nตามลำดับ {1} เพิ่งเปลี่ยน {2}\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday.</BirthdayChronological>
+  <BirthdayChronological>เป็นวันเกิด {0}ของวันนี้! , {1} มีอายุ {3} ปี\n\nตามลำดับ {1} เพิ่งเปลี่ยน {2}\n\nโปรดทราบว่าเนื่องจากคนอายุไม่มากในขณะที่อยู่ใน เครื่องนอนแช่แข็ง วันเกิดตามลำดับจะแยกออกจากวันเกิดทางชีวภาพ</BirthdayChronological>
   <BirthdayBiologicalAgeInjuries>{0} มีอายุครบบริบูรณ์ทางชีวภาพของ {1} แล้ว\n\nน่าเสียดาย, {0} ได้รับโรคต่อไปนี้เนื่องจากการเสื่อมสภาพ:\n{2}</BirthdayBiologicalAgeInjuries>
 
   <LetterLabelNewDisease>โรคภัย</LetterLabelNewDisease>
@@ -61,7 +61,7 @@
   <LetterLeadersDeath>ผู้นำ {0} ของฝ่าย {1} เสียชีวิตแล้วและถูกแทนที่ด้วย {2}</LetterLeadersDeath>
  
  	<LetterLeaderChangedLabel>ใหม่ {1}: {0}</LetterLeaderChangedLabel>
-	<LetterLeaderChanged>{0} is no longer {3} of {1}.\n\nThe new {3} is {2}.</LetterLeaderChanged>
+	<LetterLeaderChanged>{0} ไม่มี {3} จาก {1} อีกแล้ว\n\nใหม่ {3} คือ {2}</LetterLeaderChanged>
  
   <MentalBreakLetterLabel>Mental break</MentalBreakLetterLabel>
   <MentalBreakReason>The final straw was: {0}.</MentalBreakReason>
@@ -118,7 +118,7 @@
   
   <!-- Drug binge -->
   <LetterLabelDrugBinge>{0} ดื่มสุรา</LetterLabelDrugBinge>
-  <LetterDrugBinge>{0} is binging on {1}.</LetterDrugBinge>
+  <LetterDrugBinge>{0} กำลังเกิดขึ้นที่ {1}</LetterDrugBinge>
   
   <!-- Formed caravan -->
   <LetterLabelFormedCaravan>คาราวานพร้อม</LetterLabelFormedCaravan>
