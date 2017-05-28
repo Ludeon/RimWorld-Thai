@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <None.label>Nichts</None.label>
-  <Room.label>Raum</Room.label>
-  <Bedroom.label>Schlafraum</Bedroom.label>
-  <PrisonCell.label>Gefängniszelle</PrisonCell.label>
-  <DiningRoom.label>Speiseraum</DiningRoom.label>
-  <RecRoom.label>Aufenthaltsraum</RecRoom.label>
-  <Hospital.label>Krankenzimmer</Hospital.label>
-  <Laboratory.label>Labor</Laboratory.label>
-  <Workshop.label>Werkstatt</Workshop.label>
-  <Barracks.label>Baracke</Barracks.label>
-  <PrisonBarracks.label>Gefängnisbaracke</PrisonBarracks.label>
-  <Kitchen.label>Küche</Kitchen.label>
-  <Tomb.label>Gruft</Tomb.label>
-  <Barn.label>Stall</Barn.label>
+  <None.label>ไม่มี</None.label>
+  <Room.label>ห้อง</Room.label>
+  <Bedroom.label>ห้องนอน</Bedroom.label>
+  <PrisonCell.label>ห้องขัง</PrisonCell.label>
+  <DiningRoom.label>ห้องรับประทานอาหาร</DiningRoom.label>
+  <RecRoom.label>ห้องสังสรรค์</RecRoom.label>
+  <Hospital.label>ห้องพยาบาล</Hospital.label>
+  <Laboratory.label>ห้องวิจัย</Laboratory.label>
+  <Workshop.label>โรงงาน</Workshop.label>
+  <Barracks.label>ห้องพักทหาร</Barracks.label>
+  <PrisonBarracks.label>ห้องพักเรือนจำ</PrisonBarracks.label>
+  <Kitchen.label>ห้องครัว</Kitchen.label>
+  <Tomb.label>ห้องสุสาน</Tomb.label>
+  <Barn.label>Barn</Barn.label>
 
 </LanguageData>

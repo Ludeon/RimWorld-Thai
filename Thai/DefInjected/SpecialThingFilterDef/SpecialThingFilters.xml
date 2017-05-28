@@ -7,9 +7,15 @@
   <AllowCorpsesStranger.description>อนุญาตสำหรับศพที่เป็นคนแปลกหน้าและศัตรู</AllowCorpsesStranger.description>
   <AllowRotten.label>อนุญาตของเน่า</AllowRotten.label>
   <AllowRotten.description>อนุญาตสำหรับผลิตผลธรรมชาติที่เริ่มเน่าเสีย</AllowRotten.description>
-  <AllowNonSmeltableWeapons.label>อนุญาตอาวุธหลอมไม่ได้</AllowNonSmeltableWeapons.label>
-  <AllowNonSmeltableWeapons.description>อนุญาตสำหรับอาวุธที่ไม่สามารถหลอมได้</AllowNonSmeltableWeapons.description>
   <AllowPlantFood.label>อนุญาตอาหารพืช</AllowPlantFood.label>
   <AllowPlantFood.description>อนุญาตสำหรับอาหารที่มีคุณภาพเทียบเท่ากับพืชที่ยังไม่เก็บ เช่น หญ้าเลี้ยงสัตว์</AllowPlantFood.description>
+  
+  <!-- Always hidden -->
+  <AllowSmeltable.label>อนุญาตให้มีการหลอม</AllowSmeltable.label>
+  <AllowSmeltable.description>Erlaubt Gegenstände, die eingeschmolzen werden können.</AllowSmeltable.description>
+  <AllowNonSmeltableWeapons.label>อนุญาตอาวุธหลอมไม่ได้</AllowNonSmeltableWeapons.label>
+  <AllowNonSmeltableWeapons.description>อนุญาตสำหรับอาวุธที่ไม่สามารถหลอมได้</AllowNonSmeltableWeapons.description>
+  <AllowNonDeadmansApparel.label>อนุญาตให้ใส่เสื้อผ้าปกติ</AllowNonDeadmansApparel.label>
+  <AllowNonDeadmansApparel.description>นอกจากนี้ยังช่วยให้ใช้เสื้อผ้าปกติจะไม่ใส่เสื้อที่มาจากศพ</AllowNonDeadmansApparel.description>
 
 </LanguageData>

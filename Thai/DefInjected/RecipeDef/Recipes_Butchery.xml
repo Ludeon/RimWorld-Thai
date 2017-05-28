@@ -9,8 +9,4 @@
   <ButcherCorpseMechanoid.description>รื้อชิ้นส่วนของเมคานอยด์ที่ตายแล้วให้เป็นส่วนประกอบ</ButcherCorpseMechanoid.description>
   <ButcherCorpseMechanoid.jobString>กำลังรื้อชิ้นส่วนเมคานอยด์</ButcherCorpseMechanoid.jobString>
   
-  <MakeKibble.label>ทำอาหารเม็ด</MakeKibble.label>
-  <MakeKibble.description>ทำอาหารเม็ดไว้ให้สัตว์เลี้ยงโดยผสมเนื้อดิบเข้ากับพืช</MakeKibble.description>
-  <MakeKibble.jobString>กำลังทำอาหารเม็ด</MakeKibble.jobString>
-
 </LanguageData>

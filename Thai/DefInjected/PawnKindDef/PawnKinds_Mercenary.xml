@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <MercenaryGunner.label>พลปืนรับจ้าง</MercenaryGunner.label>
-  <MercenarySniper.label>พลแม่นปืนรับจ้าง</MercenarySniper.label>
+  <MercenaryGunner.label>ทหารรับจ้างพลปืน</MercenaryGunner.label>
+  <MercenaryGunner.labelPlural>ทหารรับจ้าพลปืน</MercenaryGunner.labelPlural>
+  <MercenarySniper.label>ทหารรับจ้าพลแม่นปืนรับจ้าง</MercenarySniper.label>
+  <MercenarySniper.labelPlural>ทหารรับจ้าพลแม่นปืน</MercenarySniper.labelPlural>
   <GrenadierDestructive.label>พลระเบิดมือ</GrenadierDestructive.label>
+  <GrenadierDestructive.labelPlural>พลระเบิดมือ</GrenadierDestructive.labelPlural>
   <GrenadierEMP.label>พลระเบิด EMP</GrenadierEMP.label>
-  <MercenarySlasher.label>พลตะลุยฟันรับจ้าง</MercenarySlasher.label>
-  <MercenaryHeavy.label>พลอาวุธหนักรับจ้าง</MercenaryHeavy.label>
-  <PirateBoss.label>หัวหน้า</PirateBoss.label>
-  <MercenaryElite.label>พลชั้นสูง</MercenaryElite.label>
-
+  <GrenadierEMP.labelPlural>พลระเบิด EMP</GrenadierEMP.labelPlural>
+  <MercenarySlasher.label>ทหารรับจ้างผลตะลุยฟัน</MercenarySlasher.label>
+  <MercenarySlasher.labelPlural>ทหารรับจ้างผลตะลุยฟัน</MercenarySlasher.labelPlural>
+  <MercenaryHeavy.label>ทหารรับจ้าพลอาวุธหนัก</MercenaryHeavy.label>
+  <MercenaryHeavy.labelPlural>ทหารรับจ้าพลอาวุธหนัก</MercenaryHeavy.labelPlural>
+  <PirateBoss.label>หัวหน้าโจรสลัด</PirateBoss.label> 
+  <MercenaryElite.label>ทหารรับจ้าชั้นสูง</MercenaryElite.label>
+  <MercenaryElite.labelPlural>ทหารรับจ้าชั้นสูง</MercenaryElite.labelPlural>
+  
 </LanguageData>

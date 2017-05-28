@@ -3,13 +3,13 @@
 
   <Consciousness.label>สติสัมปชัญญะ</Consciousness.label>
   <Consciousness.labelMechanoids>การจัดการข้อมูล</Consciousness.labelMechanoids>
-  <Sight.label>การมองเห็น</Sight.label>
-  <Hearing.label>การได้ยิน</Hearing.label>
   <Moving.label>การเคลื่อนไหว</Moving.label>
   <Manipulation.label>การใช้มือ</Manipulation.label>
   <Talking.label>การพูด</Talking.label>
   <Talking.labelMechanoids>การสื่อสาร</Talking.labelMechanoids>
   <Eating.label>การรับประทาน</Eating.label>
+  <Sight.label>การมองเห็น</Sight.label>
+  <Hearing.label>การได้ยิน</Hearing.label>
   <Breathing.label>การหายใจ</Breathing.label>
   <BloodFiltration.label>การกรองโลหิต</BloodFiltration.label>
   <BloodPumping.label>การสูบฉีดโลหิต</BloodPumping.label>

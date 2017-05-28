@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+	
+  <Shooting.label>การยิง</Shooting.label>
   <Shooting.skillLabel>การยิง</Shooting.skillLabel>
-  <Shooting.description>Das Benutzen von allen möglichen Fernwaffen.</Shooting.description>
-  <Shooting.pawnLabel>Fernkämpfer</Shooting.pawnLabel>
+  <Shooting.description>การใช้งานของทุกอาวุธรชนิดที่มีการโจมตีไกล</Shooting.description>
 
+  <Melee.label>การต่อสู้ประชิด</Melee.label>
   <Melee.skillLabel>การต่อสู้ประชิด</Melee.skillLabel>
-  <Melee.description>Das Benutzen von allen möglichen Nahkampfwaffen, sowie dem unbewaffneten Kampf.</Melee.description>
-  <Melee.pawnLabel>Nahkämpfer</Melee.pawnLabel>
+  <Melee.description>การใช้งานของทุกประเภทของอาวุธระยะประชิดเช่นเดียวกับอาวุธสงคราม</Melee.description>
 
+  <Social.label>สังคม</Social.label>
   <Social.skillLabel>สังคม</Social.skillLabel>
-  <Social.description>Verhandeln, überzeugen, manipulieren, führen und andere aufmuntern.</Social.description>
-  <Social.pawnLabel>Redner</Social.pawnLabel>
+  <Social.description>ต่อรอง, โน้มน้าวใจ, การจัดการ, ผู้นำ และส่งเสริมให้ผู้อื่น</Social.description>
 
+  <Animals.label>สัตว์</Animals.label>
   <Animals.skillLabel>สัตว์</Animals.skillLabel>
-  <Animals.description>Zähmen, trainieren, handhaben und kontrollieren von Tieren.</Animals.description>
-  <Animals.pawnLabel>Tierpfleger</Animals.pawnLabel>
+  <Animals.description>การฝึกอบรม,การจัดการ และ การควบคุมสัตว์</Animals.description>
 
+  <Medicine.label>ยารักษา</Medicine.label>
   <Medicine.skillLabel>ยารักษา</Medicine.skillLabel>
-  <Medicine.description>Behandeln von Wunden und Infektionen, sowie das Durchführen von Operationen.</Medicine.description>
-  <Medicine.pawnLabel>Arzt</Medicine.pawnLabel>
+  <Medicine.description>การรักษาบาดแผลและการติดเชื้อ, และมีประสิทธิภาพมากขึ้นของการดำเนินงาน</Medicine.description>
 
+  <Cooking.label>ทำอาหาร</Cooking.label>
   <Cooking.skillLabel>ทำอาหาร</Cooking.skillLabel>
-  <Cooking.description>Mahlzeiten aus rohen Zutaten erstellen.</Cooking.description>
-  <Cooking.pawnLabel>Koch</Cooking.pawnLabel>
+  <Cooking.description>สร้างอาหารจากวัตถุดิบ</Cooking.description>
 
+  <Construction.label>ก่อสร้าง</Construction.label>
   <Construction.skillLabel>ก่อสร้าง</Construction.skillLabel>
-  <Construction.description>Bessere Konstrukteure bauen Strukturen und Möbel schneller und von besserer Qualität.</Construction.description>
-  <Construction.pawnLabel>Bauarbeiter</Construction.pawnLabel>
+  <Construction.description>วิศวกรด้านการออกแบบที่ดีขึ้นสร้างโครงสร้างและเฟอร์นิเจอร์ที่เร็วขึ้นและมีคุณภาพดีกว่า</Construction.description>
 
+  <Growing.label>เพาะปลูก</Growing.label>
   <Growing.skillLabel>เพาะปลูก</Growing.skillLabel>
-  <Growing.description>Säen, pflegen und ernten von Nutzpflanzen.</Growing.description>
-  <Growing.pawnLabel>Landwirt</Growing.pawnLabel>
+  <Growing.description>หว่านเมล็ด, เพาะปลูก และการเก็บเกี่ยวของพืช</Growing.description>
 
-  <Mining.skillLabel>ทำเหมือง</Mining.skillLabel>
-  <Mining.description>Tunnel graben und Mineralien und vergrabene Rohstoffe abbauen.</Mining.description>
-  <Mining.pawnLabel>Bergarbeiter</Mining.pawnLabel>
+  <Mining.label>ขุดเหมือง</Mining.label>
+  <Mining.skillLabel>ขุดเหมือง</Mining.skillLabel>
+  <Mining.description>ขุดเหมืองและแร่ธาตุที่ฝังอยู่</Mining.description>
 
+  <Artistic.label>ศิลปะ</Artistic.label>
   <Artistic.skillLabel>ศิลปะ</Artistic.skillLabel>
-  <Artistic.description>Kunstwerke erstellen.</Artistic.description>
-  <Artistic.pawnLabel>Künstler</Artistic.pawnLabel>
+  <Artistic.description>สร้างงานศิลปะ</Artistic.description>
 
+  <Crafting.label>งานฝีมือ</Crafting.label>
   <Crafting.skillLabel>งานฝีมือ</Crafting.skillLabel>
-  <Crafting.description>Allgemeine Gegenstände, wie z.B. Werkzeuge und Waffen herstellen.</Crafting.description>
-  <Crafting.pawnLabel>Handwerker</Crafting.pawnLabel>
+  <Crafting.description>สร้างวัตถุ เช่น ใช้เครื่องมือและเครื่องมือสร้างอาวุธ</Crafting.description>
 
-  <Research.skillLabel>งานวิจัย</Research.skillLabel>
-  <Research.description>Beweise untersuchen, Experimente durchführen und lernen.</Research.description>
-  <Research.pawnLabel>Forscher</Research.pawnLabel>
+  <Intellectual.label>งานวิจัย</Intellectual.label>
+  <Intellectual.skillLabel>งานวิจัย</Intellectual.skillLabel>
+  <Intellectual.description>ตรวจสอบหลักฐานดำเนินการทดลองและเรียนรู้</Intellectual.description>
 
 </LanguageData>

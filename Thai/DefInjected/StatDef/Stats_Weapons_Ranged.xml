@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <AccuracyTouch.label>Genauigkeit (berühren)</AccuracyTouch.label>
+  <AccuracyTouch.label>ความถูกต้อง (Touch)</AccuracyTouch.label>
   <AccuracyTouch.description>Genauigkeitsmultiplikator bei Berührungsreichweite.</AccuracyTouch.description>
 
-  <AccuracyShort.label>Genauigkeit (nah)</AccuracyShort.label>
+  <AccuracyShort.label>ความถูกต้อง (Short)</AccuracyShort.label>
   <AccuracyShort.description>Genauigkeitsmultiplikator bei niedriger Entfernung.</AccuracyShort.description>
 
-  <AccuracyMedium.label>Genauigkeit (mittel)</AccuracyMedium.label>
+  <AccuracyMedium.label>ความถูกต้อง (Medium)</AccuracyMedium.label>
   <AccuracyMedium.description>Genauigkeitsmultiplikator bei mittlerer Entfernung.</AccuracyMedium.description>
 
-  <AccuracyLong.label>Genauigkeit (weit)</AccuracyLong.label>
+  <AccuracyLong.label>ความถูกต้อง (Long)</AccuracyLong.label>
   <AccuracyLong.description>Genauigkeitsmultiplikator bei großer Entfernung.</AccuracyLong.description>
 
-  <RangedWeapon_Cooldown.label>Nachladezeit</RangedWeapon_Cooldown.label>
+  <RangedWeapon_Cooldown.label>ช่วงระยะเวลาคูลดาวน์อาวุธ</RangedWeapon_Cooldown.label>
   <RangedWeapon_Cooldown.description>Wie lange es dauert, bis diese Waffe für den nächsten Schuss bereit ist.</RangedWeapon_Cooldown.description>
+  <RangedWeapon_Cooldown.formatString>{0} วิ</RangedWeapon_Cooldown.formatString>
 
 </LanguageData>

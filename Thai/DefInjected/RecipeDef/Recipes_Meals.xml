@@ -16,4 +16,8 @@
   <CookMealLavish.description>ปรุงอาหารที่ซับซ้อนอย่างมากขึ้นมาจากการรวมเอาวัตถุดิบอย่างเนื้อและพืช วัตถุดิบส่วนใหญ่จะเสียปล่าว</CookMealLavish.description>
   <CookMealLavish.jobString>กำลังปรุงมื้ออาหารแบบสุดหรู</CookMealLavish.jobString>
 
+  <CookMealSurvival.label>อาหารเอาตัวรอด</CookMealSurvival.label>
+  <CookMealSurvival.description>Koche eine Überlebensration aus verschiedenen Pflanzen- und Fleischsorten. Allerdings werden dabei viele der Zutaten verschwendet.</CookMealSurvival.description>
+  <CookMealSurvival.jobString>กำลังปรุงอาหารเอาตัวรอด</CookMealSurvival.jobString>
+
 </LanguageData>

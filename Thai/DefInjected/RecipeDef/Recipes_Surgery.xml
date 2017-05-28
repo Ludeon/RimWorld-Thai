@@ -11,7 +11,15 @@
   <RemoveMechanoidBodyPart.description>เอาชิ้นส่วนอวัยวะของเมคานอยด์ออก</RemoveMechanoidBodyPart.description>
   <RemoveMechanoidBodyPart.jobString>กำลังเอาชิ้นส่วนอวัยวะออก</RemoveMechanoidBodyPart.jobString>
 
-  <!-- Euthanization -->
+
+  <!-- Anesthetize -->
+
+  <Anesthetize.label>ใส่ยานอนหลับ</Anesthetize.label>
+  <Anesthetize.description>Betäubt eine Kreatur durch verabreichen eines Betäubungsmittels.</Anesthetize.description>
+  <Anesthetize.jobString>กำลังใส่ยานอนหลับ</Anesthetize.jobString>
+
+
+  <!-- Euthanasia -->
 
   <Euthanize.label>การุณยฆาต</Euthanize.label>
   <Euthanize.description>ทำให้จบชีวิต</Euthanize.description>
@@ -21,6 +29,7 @@
   <ShutDownMechanoid.description>ปิดเครื่องเมคานอยด์</ShutDownMechanoid.description>
   <ShutDownMechanoid.jobString>กำลังปิดเครื่อง</ShutDownMechanoid.jobString>
 
+  
   <!-- removing hediffs (e.g. diseases) -->
 
   <ExciseCarcinoma.label>ตัดก้อนมะเร็ง</ExciseCarcinoma.label>

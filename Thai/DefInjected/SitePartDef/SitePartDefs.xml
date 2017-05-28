@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Manhunters.label>นักล่ามนุษย์</Manhunters.label>
+  <Manhunters.description>Ein Rudel Menschenjagender Tiere.</Manhunters.description>
+  <Outpost.label>ค่าย</Outpost.label>
+  <Outpost.description>Ein kleiner, bewachter Außenposten.</Outpost.description>
+  <Turrets.label>ป้อมปืน</Turrets.label>
+  <Turrets.description>Ein paar Geschütze.</Turrets.description>
+  
+</LanguageData>

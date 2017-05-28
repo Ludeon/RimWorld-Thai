@@ -3,42 +3,48 @@
 
   <!-- Artistic recipes - speed not affected by skill. -->
 
-  <SculptingSpeed.label>Bildhaugeschwindigkeit</SculptingSpeed.label>
+  <SculptingSpeed.label>ความเร็วในการแกะสลัก</SculptingSpeed.label>
   <SculptingSpeed.description>Wie schnell das Individuum Skulpturen anfertigen kann.</SculptingSpeed.description>
 
-  <TailoringSpeed.label>Nähgeschwindigkeit</TailoringSpeed.label>
+  <TailoringSpeed.label>ความเร็วในการตัดเย็บ</TailoringSpeed.label>
   <TailoringSpeed.description>Wie schnell das Individuum Kleidungen nähen kann.</TailoringSpeed.description>
 
-  <SmithingSpeed.label>Schmiedengeschwindigkeit</SmithingSpeed.label>
+  <SmithingSpeed.label>ความเร็วในการตีเหล็ก</SmithingSpeed.label>
   <SmithingSpeed.description>Wie schnell das Individuum Waffen, Machinen, Munition und Werkzeuge schmieden kann.</SmithingSpeed.description>
 
   <!-- Production recipes - speed affected by skill. -->
 
-  <CookSpeed.label>Kochgeschwindigkeit</CookSpeed.label>
+  <CookSpeed.label>ความเร็วในการปรุงอาหาร</CookSpeed.label>
   <CookSpeed.description>Wie schnell das Individuum Mahlzeiten zubereiten kann.</CookSpeed.description>
 
-  <FoodPoisonChance.label>Lebensmittelvergiftungschance</FoodPoisonChance.label>
+  <FoodPoisonChance.label>มีโอกาสเกิดอาหารเป็นพิษ</FoodPoisonChance.label>
   <FoodPoisonChance.description>Wie häufig das Individuum versehentlich seine zubereiteten Mahlzeiten vergiftet.</FoodPoisonChance.description>
 
-  <BrewingSpeed.label>Braugeschwindigkeit</BrewingSpeed.label>
+  <BrewingSpeed.label>ความเร็วการผลิตเบียร์</BrewingSpeed.label>
   <BrewingSpeed.description>Wie schnell das Individuum Bier brauen kann.</BrewingSpeed.description>
 
-  <ButcheryFleshSpeed.label>Schlachtgeschwindigkeit</ButcheryFleshSpeed.label>
+  <ButcheryFleshSpeed.label>ความเร็วในการสู้รบ</ButcheryFleshSpeed.label>
   <ButcheryFleshSpeed.description>Wie schnell das Individuum eine Kreatur schlachten kann.</ButcheryFleshSpeed.description>
 
-  <ButcheryFleshEfficiency.label>Schlachteffizienz</ButcheryFleshEfficiency.label>
+  <ButcheryFleshEfficiency.label>ประสิทธิภาพการต่อสู้</ButcheryFleshEfficiency.label>
   <ButcheryFleshEfficiency.description>Wie viel Fleisch das Individuum aus der geschlachteten Kreatur gewinnen kann.</ButcheryFleshEfficiency.description>
 
-  <ButcheryMechanoidSpeed.label>Demontagegeschwindigkeit</ButcheryMechanoidSpeed.label>
+  <ButcheryMechanoidSpeed.label>ความเร็วในการรื้อ</ButcheryMechanoidSpeed.label>
   <ButcheryMechanoidSpeed.description>Wie schnell das Individuum einen Mechanoiden in Einzelteile zerlegen kann.</ButcheryMechanoidSpeed.description>
 
-  <ButcheryMechanoidEfficiency.label>Demontageeffizienz</ButcheryMechanoidEfficiency.label>
+  <ButcheryMechanoidEfficiency.label>ประสิทธิภาพการรื้อ</ButcheryMechanoidEfficiency.label>
   <ButcheryMechanoidEfficiency.description>Wie viel Material das Individuum aus einem Mechanoiden gewinnen kann.</ButcheryMechanoidEfficiency.description>
 
-  <StonecuttingSpeed.label>Steinhaugeschwindigkeit</StonecuttingSpeed.label>
+  <MechanoidOperationSuccessChance.label>โอกาสสำเร็จการดำเนินงานของ Mechanoid</MechanoidOperationSuccessChance.label>
+  <MechanoidOperationSuccessChance.description>Die Wahrscheinlichkeit, ob ein Individuum erfolgreich eine Operation an einem Meschanoiden durchführen kann. Versagen kann einfach verlorene Zeit, oder aber katastrophaler Schaden am Subjekt bedeuten.</MechanoidOperationSuccessChance.description>
+
+  <StonecuttingSpeed.label>ความเร็วในการตัดหิน</StonecuttingSpeed.label>
   <StonecuttingSpeed.description>Wie schnell das Individuum rohe Felsbrocken zu Steinblöcken verarbeiten kann.</StonecuttingSpeed.description>
 
-  <SmeltingSpeed.label>Schmelzgeschwindigkeit</SmeltingSpeed.label>
+  <DrugProductionSpeed.label>ความเร็วในการผลิตยาเสพติด</DrugProductionSpeed.label>
+  <DrugProductionSpeed.description>Wie schnell das Individuum Drogen produzieren kann.</DrugProductionSpeed.description>
+
+  <SmeltingSpeed.label>อัตราการละลาย</SmeltingSpeed.label>
   <SmeltingSpeed.description>Wie schnell das Individuum etwas einschmelzen kann.</SmeltingSpeed.description>
 
-</LanguageData>
+  </LanguageData>

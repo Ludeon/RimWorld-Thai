@@ -50,6 +50,7 @@
 
   <!-- kin -->
 
-  <Kin.label>วงศาคณาญาติ</Kin.label>
+  <Kin.label>ญาติห่างๆ</Kin.label>
+  <Kin.labelFemale>ญาติห่างๆ</Kin.labelFemale>
 
 </LanguageData>

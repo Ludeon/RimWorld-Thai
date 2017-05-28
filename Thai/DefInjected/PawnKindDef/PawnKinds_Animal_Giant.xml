@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Elephant.label>ช้าง</Elephant.label>
+  <Elephant.lifeStages.0.label>ลูกช้าง</Elephant.lifeStages.0.label>
+  <Elephant.lifeStages.1.label>ช้างวัยรุ่น</Elephant.lifeStages.1.label>
+  <Elephant.lifeStages.2.label>ช้าง</Elephant.lifeStages.2.label>
+
+  <Megatherium.label>หมีสล็อธดินยักษ์</Megatherium.label>
+  <Megatherium.lifeStages.0.label>ลูกหมีสล็อธดินยักษ์</Megatherium.lifeStages.0.label>
+  <Megatherium.lifeStages.1.label>หมีสล็อธดินยักษ์วัยรุ่น</Megatherium.lifeStages.1.label>
+  <Megatherium.lifeStages.2.label>หมีสล็อธดินยักษ์</Megatherium.lifeStages.2.label>
+
+  <Thrumbo.label>ธรัมโบ</Thrumbo.label>
+  <Thrumbo.lifeStages.0.label>ลูกธรัมโบ</Thrumbo.lifeStages.0.label>
+  <Thrumbo.lifeStages.1.label>ธรัมโบวัยรุ่น</Thrumbo.lifeStages.1.label>
+  <Thrumbo.lifeStages.2.label>อัลฟ่าธรัมโบ</Thrumbo.lifeStages.2.label>
+
+</LanguageData>

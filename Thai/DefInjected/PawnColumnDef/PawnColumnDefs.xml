@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Slaughter.headerTip>ฆ่า</Slaughter.headerTip>
+	<FollowDrafted.headerTip>Folge dem Meister, wenn Meister im Kampfmodus ist.</FollowDrafted.headerTip>
+	<FollowFieldwork.headerTip>Folge dem Meister, wenn Meister auf der Jagd oder beim zähmen ist.</FollowFieldwork.headerTip>
+
+	<Master.label>เจ้านาย</Master.label>
+	<AllowedArea.label>พื้นที่อนุญาต</AllowedArea.label>
+	<AllowedAreaWide.label>พื้นที่อนุญาต</AllowedAreaWide.label>
+	<Outfit.label>เสื้อผ้า</Outfit.label>
+	<DrugPolicy.label>การใช้ยา</DrugPolicy.label>
+
+</LanguageData>

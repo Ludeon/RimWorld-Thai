@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!--================= player pawn filters =================-->
+  
+  <GameStartDialog.label>กล่องโต้ตอบเริ่มเกม</GameStartDialog.label>
+  
+  <!--================= player pawn filters =================-->
+  
+  <PawnFilter_Age.label>Pawn Filter Age</PawnFilter_Age.label>
+  
+  <!--================== player pawn modifier ================-->
+  
+  <OnPawnDeathExplode.label>On PawnDeath Explode</OnPawnDeathExplode.label>
+  
+  <ForcedTrait.label>Forced Trait</ForcedTrait.label>
+  
+  <ForcedHediff.label>Forced Hediff</ForcedHediff.label>
+  
+  <StartingResearch.label>การทำวิจัย</StartingResearch.label>
+  
+  <MapCondition_Planetkiller.label>นักฆ่าดาวเคราะห์ใกล้</MapCondition_Planetkiller.label>
+  <SetNeedLevel.label>ปรับระดับความต้องการ</SetNeedLevel.label>
+  
+
+  <!--=================== rules changes =================-->
+  
+  <Rule_DisallowDesignator_ZoneAdd_Growing.label>ปิดการใช้งานเพื่อการเพาะปลูก</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+  <Rule_DisallowDesignator_ZoneAdd_Growing.description>Im Boden kann nichts angepflanzt werden.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+  
+  <Rule_DisallowDesignator_Mine.label>ปิดการใช้งานที่ทำให้เสื่อมเสีย</Rule_DisallowDesignator_Mine.label>
+  <Rule_DisallowDesignator_Mine.description>Kein abbauen möglich.</Rule_DisallowDesignator_Mine.description>
+  
+  <Rule_DisallowDesignator_Hunt.label>ปิดการใช้งานการล่าสัตว์</Rule_DisallowDesignator_Hunt.label>
+  <Rule_DisallowDesignator_Hunt.description>Kein jagen möglich.</Rule_DisallowDesignator_Hunt.description>
+  
+  <Rule_DisallowDesignator_Tame.label>ปิดการใช้งานที่เชื่อง</Rule_DisallowDesignator_Tame.label>
+  <Rule_DisallowDesignator_Tame.description>Kein zähmen von Tieren möglich</Rule_DisallowDesignator_Tame.description>
+  
+  <StatFactor.label>คูณสถานะ</StatFactor.label>
+
+  <!--===============================================-->
+  <!--==================== grouped ==================-->
+  <!--===============================================-->
+  
+  <DisableIncident.label>เหตุการณ์ปิดการใช้งาน</DisableIncident.label>
+  
+  <Rule_DisallowBuilding.label>ปิดการใช้งานอาคาร</Rule_DisallowBuilding.label>
+  
+  <PermanentMapCondition.label>สภาพถาวร</PermanentMapCondition.label>
+  
+  <StartingAnimal.label>เริ่มต้นด้วยสัตว์ (s)</StartingAnimal.label>
+  
+  <StartingThing_Defined.label>เริ่มต้นด้วย</StartingThing_Defined.label>
+  
+  <ScatterThingsNearPlayerStart.label>เริ่มต้นใกล้เคียง</ScatterThingsNearPlayerStart.label>
+  
+  <ScatterThingsAnywhere.label>สุ่ม</ScatterThingsAnywhere.label>
+  
+  <CreateIncident.label>สร้างกิจกรรม</CreateIncident.label>
+  
+</LanguageData>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Warg.label>หมาวาร์ก</Warg.label>
+  <Warg.lifeStages.0.label>ลูกหมาวาร์ก</Warg.lifeStages.0.label>
+  <Warg.lifeStages.1.label>หมาวาร์กวัยรุ่น</Warg.lifeStages.1.label>
+  <Warg.lifeStages.2.label>หมาวาร์ก</Warg.lifeStages.2.label>
+
+  <WolfTimber.label>หมาป่า</WolfTimber.label>
+  <WolfTimber.labelPlural>หมาป่า</WolfTimber.labelPlural>
+  <WolfTimber.lifeStages.0.label>ลูกหมาป่า</WolfTimber.lifeStages.0.label>
+  <WolfTimber.lifeStages.1.label>หมาป่าวัยรุ่น</WolfTimber.lifeStages.1.label>
+  <WolfTimber.lifeStages.2.label>หมาป่า</WolfTimber.lifeStages.2.label>
+
+  <WolfArctic.label>หมาป่าขั้วโลก</WolfArctic.label>
+  <WolfArctic.labelPlural>หมาป่าขั้วโลก</WolfArctic.labelPlural>
+  <WolfArctic.lifeStages.0.label>ลูกหมาป่าขั้วโลก</WolfArctic.lifeStages.0.label>
+  <WolfArctic.lifeStages.1.label>หมาป่าขั้วโลกวัยรุ่น</WolfArctic.lifeStages.1.label>
+  <WolfArctic.lifeStages.2.label>หมาป่าขั้วโลก</WolfArctic.lifeStages.2.label>
+
+  <FoxFennec.label>หมาจิ้งจอก</FoxFennec.label>
+  <FoxFennec.labelPlural>หมาจิ้งจอก</FoxFennec.labelPlural>
+  <FoxFennec.lifeStages.0.label>ลูกหมาจิ้งจอก</FoxFennec.lifeStages.0.label>
+  <FoxFennec.lifeStages.1.label>หมาจิ้งจอกวัยรุ่น</FoxFennec.lifeStages.1.label>
+  <FoxFennec.lifeStages.2.label>หมาจิ้งจอก</FoxFennec.lifeStages.2.label>
+
+  <FoxRed.label>หมาจิ้งจอกแดง</FoxRed.label>
+  <FoxRed.labelPlural>หมาจิ้งจอกแดง</FoxRed.labelPlural>
+  <FoxRed.lifeStages.0.label>ลูกหมาจิ้งจอกแดง</FoxRed.lifeStages.0.label>
+  <FoxRed.lifeStages.1.label>หมาจิ้งจอกแดงวัยรุ่น</FoxRed.lifeStages.1.label>
+  <FoxRed.lifeStages.2.label>หมาจิ้งจอกแดง</FoxRed.lifeStages.2.label>
+
+  <FoxArctic.label>หมาจิ้งจอกหิมะ</FoxArctic.label>
+  <FoxArctic.labelPlural>หมาจิ้งจอกหิมะ</FoxArctic.labelPlural>
+  <FoxArctic.lifeStages.0.label>ลูกหมาจิ้งจอกหิมะ</FoxArctic.lifeStages.0.label>
+  <FoxArctic.lifeStages.1.label>หมาจิ้งจอกหิมะวัยรุ่น</FoxArctic.lifeStages.1.label>
+  <FoxArctic.lifeStages.2.label>หมาจิ้งจอกหิมะ</FoxArctic.lifeStages.2.label>
+
+</LanguageData>

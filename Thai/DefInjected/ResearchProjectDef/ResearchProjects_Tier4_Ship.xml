@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <ShipBasics.label>การสร้างยานเบืองต้น</ShipBasics.label>
+  <ShipBasics.description>ปลดเทคโนโลยีการก่อสร้างยานอวกาศขั้นสูง ด้วยความช่วยเหลือของรายการทั้งหมดยานอวกาศที่จะสร้างขึ้นซึ่งก่อให้เกิดการประหยัดอาณานิคม</ShipBasics.description>
+
+  <ShipCryptosleep.label>เครื่องนอนแช่แข็ง สำหรับยานอวกาศ</ShipCryptosleep.label>
+  <ShipCryptosleep.description>ปลดล็อค เครื่องนอนแช่แข็ง เหล่านี้เป็นสิ่งที่จำเป็นเพื่อให้เข้ามาตั้งถิ่นฐานที่สามารถขนส่งใน ยานอวกาศ ระหว่างดาว</ShipCryptosleep.description>
+
+  <ShipReactor.label>เครื่องปฏิกรณ์ สำหรับยานอวกาศ</ShipReactor.label>
+  <ShipReactor.description>ปลดล็อคครื่องปฏิกรณ์  ยานแต่ละลำต้องใช้แหล่งจ่ายไฟของตัวเอง</ShipReactor.description>
+
+  <ShipEngine.label>เครื่องยนต์ สำหรับยานอวกาศ</ShipEngine.label>
+  <ShipEngine.description>เครื่องยนต์ ที่มีไดรฟ์ยานอวกาศที่สามารถเคลื่อนย้ายได้</ShipEngine.description>
+
+  <ShipComputerCore.label>คอมพิวเตอร์ สำหรับยานอวกาศ</ShipComputerCore.label>
+  <ShipComputerCore.description>ปลดล็อคแกนคอมพิวเตอร์ยานอวกาศ ซึ่งจะช่วยให้การผลิตของคอมพิวเตอร์ระบบนำทางยานอวกาศด้วยความช่วยเหลือของปัญญาประดิษฐ์ของมนุษย์ต่างดาว</ShipComputerCore.description>
+
+</LanguageData>

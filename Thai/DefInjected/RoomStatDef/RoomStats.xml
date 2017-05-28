@@ -1,61 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <Impressiveness.label>Eindruck</Impressiveness.label>
-  <Impressiveness.scoreStages.0.label>abscheulich</Impressiveness.scoreStages.0.label>
-  <Impressiveness.scoreStages.1.label>schrecklich</Impressiveness.scoreStages.1.label>
-  <Impressiveness.scoreStages.2.label>langweilig</Impressiveness.scoreStages.2.label>
-  <Impressiveness.scoreStages.3.label>durchschnittlich</Impressiveness.scoreStages.3.label>
-  <Impressiveness.scoreStages.4.label>interessant</Impressiveness.scoreStages.4.label>
-  <Impressiveness.scoreStages.5.label>fast eindrucksvoll</Impressiveness.scoreStages.5.label>
-  <Impressiveness.scoreStages.6.label>eindrucksvoll</Impressiveness.scoreStages.6.label>
-  <Impressiveness.scoreStages.7.label>sehr eindrucksvoll</Impressiveness.scoreStages.7.label>
-  <Impressiveness.scoreStages.8.label>extrem eindrucksvoll</Impressiveness.scoreStages.8.label>
-  <Impressiveness.scoreStages.9.label>unglaublich eindrucksvoll</Impressiveness.scoreStages.9.label>
-  <Impressiveness.scoreStages.10.label>übernatürlich traumhaft</Impressiveness.scoreStages.10.label>
-  <Impressiveness.scoreStages.11.label>Weltwunder</Impressiveness.scoreStages.11.label>
+  <Impressiveness.label>ความประทับใจ</Impressiveness.label>
+  <Impressiveness.scoreStages.0.label>ห่วย</Impressiveness.scoreStages.0.label>
+  <Impressiveness.scoreStages.1.label>น่ารังเกียจ</Impressiveness.scoreStages.1.label>
+  <Impressiveness.scoreStages.2.label>น่าเบื่อ</Impressiveness.scoreStages.2.label>
+  <Impressiveness.scoreStages.3.label>ปานกลาง</Impressiveness.scoreStages.3.label>
+  <Impressiveness.scoreStages.4.label>น่าสนใจ</Impressiveness.scoreStages.4.label>
+  <Impressiveness.scoreStages.5.label>นิด ๆ หน่อย ๆ ที่น่าประทับใจ</Impressiveness.scoreStages.5.label>
+  <Impressiveness.scoreStages.6.label>ประทับใจ</Impressiveness.scoreStages.6.label>
+  <Impressiveness.scoreStages.7.label>น่าประทับใจมาก</Impressiveness.scoreStages.7.label>
+  <Impressiveness.scoreStages.8.label>น่าประทับใจมากอย่างมาก</Impressiveness.scoreStages.8.label>
+  <Impressiveness.scoreStages.9.label>น่าประทับใจอย่างไม่น่าเชื่อ</Impressiveness.scoreStages.9.label>
 
-  <Wealth.label>Reichtum</Wealth.label>
-  <Wealth.scoreStages.0.label>arm</Wealth.scoreStages.0.label>
-  <Wealth.scoreStages.1.label>dürftig</Wealth.scoreStages.1.label>
-  <Wealth.scoreStages.2.label>mittelmäßig</Wealth.scoreStages.2.label>
-  <Wealth.scoreStages.3.label>fast reich</Wealth.scoreStages.3.label>
-  <Wealth.scoreStages.4.label>reich</Wealth.scoreStages.4.label>
-  <Wealth.scoreStages.5.label>luxuriös</Wealth.scoreStages.5.label>
-  <Wealth.scoreStages.6.label>sehr luxuriös</Wealth.scoreStages.6.label>
-  <Wealth.scoreStages.7.label>extrem luxuriös</Wealth.scoreStages.7.label>
-  <Wealth.scoreStages.8.label>unglaublich luxuriös</Wealth.scoreStages.8.label>
+  <Wealth.label>ความมั่งคั่ง</Wealth.label>
+  <Wealth.scoreStages.0.label>ขาดแคลน</Wealth.scoreStages.0.label>
+  <Wealth.scoreStages.1.label>ค่อนข้างยากจน</Wealth.scoreStages.1.label>
+  <Wealth.scoreStages.2.label>ปานกลาง</Wealth.scoreStages.2.label>
+  <Wealth.scoreStages.3.label>ค่อนข้างรวย</Wealth.scoreStages.3.label>
+  <Wealth.scoreStages.4.label>รวย</Wealth.scoreStages.4.label>
+  <Wealth.scoreStages.5.label>หรูหรา</Wealth.scoreStages.5.label>
+  <Wealth.scoreStages.6.label>หรูหรามาก</Wealth.scoreStages.6.label>
+  <Wealth.scoreStages.7.label>หรูหราอย่างมาก</Wealth.scoreStages.7.label>
+  <Wealth.scoreStages.8.label>หรูหราอย่างไม่น่าเชื่อ</Wealth.scoreStages.8.label>
 
-  <Space.label>Freiraum</Space.label>
-  <Space.scoreStages.0.label>beengt</Space.scoreStages.0.label>
-  <Space.scoreStages.1.label>ziemlich eng</Space.scoreStages.1.label>
-  <Space.scoreStages.2.label>mittelmäßig</Space.scoreStages.2.label>
-  <Space.scoreStages.3.label>etwas geräumig</Space.scoreStages.3.label>
-  <Space.scoreStages.4.label>geräumig</Space.scoreStages.4.label>
-  <Space.scoreStages.5.label>sehr geräumig</Space.scoreStages.5.label>
-  <Space.scoreStages.6.label>extrem geräumig</Space.scoreStages.6.label>
+  <Space.label>ความกว้าง</Space.label>
+  <Space.scoreStages.0.label>แคบ</Space.scoreStages.0.label>
+  <Space.scoreStages.1.label>ค่อนข้างแคบ</Space.scoreStages.1.label>
+  <Space.scoreStages.2.label>ปานกลาง</Space.scoreStages.2.label>
+  <Space.scoreStages.3.label>ค่อนข้างกว้างขวาง</Space.scoreStages.3.label>
+  <Space.scoreStages.4.label>กว้างขวาง</Space.scoreStages.4.label>
+  <Space.scoreStages.5.label>กว้างขวางมาก</Space.scoreStages.5.label>
+  <Space.scoreStages.6.label>กว้างขวางอย่างมาก</Space.scoreStages.6.label>
 
-  <Beauty.label>Aussehen</Beauty.label>
-  <Beauty.scoreStages.0.label>abscheulich</Beauty.scoreStages.0.label>
-  <Beauty.scoreStages.1.label>hässlich</Beauty.scoreStages.1.label>
-  <Beauty.scoreStages.2.label>neutral</Beauty.scoreStages.2.label>
-  <Beauty.scoreStages.3.label>ganz nett</Beauty.scoreStages.3.label>
-  <Beauty.scoreStages.4.label>schön</Beauty.scoreStages.4.label>
-  <Beauty.scoreStages.5.label>sehr schön</Beauty.scoreStages.5.label>
-  <Beauty.scoreStages.6.label>extrem schön</Beauty.scoreStages.6.label>
-  <Beauty.scoreStages.7.label>unglaublich schön</Beauty.scoreStages.7.label>
+  <Beauty.label>ความงาม</Beauty.label>
+  <Beauty.scoreStages.0.label>น่ารังเกียจ</Beauty.scoreStages.0.label>
+  <Beauty.scoreStages.1.label>น่าเกลียด</Beauty.scoreStages.1.label>
+  <Beauty.scoreStages.2.label>ปานกลาง</Beauty.scoreStages.2.label>
+  <Beauty.scoreStages.3.label>ค่อนข้างสวย</Beauty.scoreStages.3.label>
+  <Beauty.scoreStages.4.label>สวย</Beauty.scoreStages.4.label>
+  <Beauty.scoreStages.5.label>สวยมาก</Beauty.scoreStages.5.label>
+  <Beauty.scoreStages.6.label>สวยอย่างมาก</Beauty.scoreStages.6.label>
+  <Beauty.scoreStages.7.label>สวยอย่างไม่น่าเชื่อ</Beauty.scoreStages.7.label>
 
-  <Cleanliness.label>Sauberkeit</Cleanliness.label>
-  <Cleanliness.scoreStages.0.label>stark verschmutzt</Cleanliness.scoreStages.0.label>
-  <Cleanliness.scoreStages.1.label>verschmutzt</Cleanliness.scoreStages.1.label>
-  <Cleanliness.scoreStages.2.label>leicht verschmutzt</Cleanliness.scoreStages.2.label>
-  <Cleanliness.scoreStages.3.label>sauber</Cleanliness.scoreStages.3.label>
-  <Cleanliness.scoreStages.4.label>steril</Cleanliness.scoreStages.4.label>
+  <Cleanliness.label>ความสะอาด</Cleanliness.label>
+  <Cleanliness.scoreStages.0.label>สกปรกมาก</Cleanliness.scoreStages.0.label>
+  <Cleanliness.scoreStages.1.label>สกปรก</Cleanliness.scoreStages.1.label>
+  <Cleanliness.scoreStages.2.label>ค่อนข้างสกปรก</Cleanliness.scoreStages.2.label>
+  <Cleanliness.scoreStages.3.label>สะอาด</Cleanliness.scoreStages.3.label>
+  <Cleanliness.scoreStages.4.label>ปลอดเชื้อ</Cleanliness.scoreStages.4.label>
 
-  <InfectionChanceFactor.label>Infektionschance</InfectionChanceFactor.label>
-  <SurgerySuccessChanceFactor.label>Operationserfolgschance</SurgerySuccessChanceFactor.label>
-  <ResearchSpeedFactor.label>Forschungsgeschwindigkeit</ResearchSpeedFactor.label>
-  <GraveVisitingJoyGainFactor.label>Vergnügen-bei-Grabbesuch</GraveVisitingJoyGainFactor.label>
-  <FoodPoisonChanceFactor.label>Nahrungsmittelvergiftungschance</FoodPoisonChanceFactor.label>
+  <InfectionChanceFactor.label>ปัจจัยที่มีโอกาสติดเชื้อ</InfectionChanceFactor.label>
+  <SurgerySuccessChanceFactor.label>การผ่าตัดที่มีโอกาสประสบความสำเร็จ</SurgerySuccessChanceFactor.label>
+  <ResearchSpeedFactor.label>ปัจจัยความเร็วในการวิจัย</ResearchSpeedFactor.label>
+  <GraveVisitingJoyGainFactor.label>grave visiting joy gain factor</GraveVisitingJoyGainFactor.label>
+  <FoodPoisonChanceFactor.label>ปัจจัยโอกาสอาหารเป็นพิษ</FoodPoisonChanceFactor.label>
 
 </LanguageData>

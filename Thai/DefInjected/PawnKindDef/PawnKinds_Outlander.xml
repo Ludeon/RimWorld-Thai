@@ -2,8 +2,12 @@
 <LanguageData>
 
   <Villager.label>ชาวบ้าน</Villager.label>
+  <Villager.labelPlural>ชาวบ้าน</Villager.labelPlural>
   <TownCouncilman.label>ผู้แทนสภาเมือง</TownCouncilman.label>
+  <TownCouncilman.labelPlural>ผู้แทนสภาเมือง</TownCouncilman.labelPlural>
   <TownTrader.label>พ่อค้าประจำเมือง</TownTrader.label>
+  <TownTrader.labelPlural>พ่อค้าประจำเมือง</TownTrader.labelPlural>
   <TownGuard.label>ยามประจำเมือง</TownGuard.label>
+  <TownGuard.labelPlural>ยามประจำเมือง</TownGuard.labelPlural>
 
 </LanguageData>

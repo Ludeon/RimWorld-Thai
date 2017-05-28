@@ -1,43 +1,80 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Tier 2 Misc -->
-
-  <Firefoam.label>Löschschaum</Firefoam.label>
-  <Firefoam.description>Erlaubt den Bau von Löschschaumwerfern. Dies ist ein Brandschutz Gegenstand der einen Feuererstickenden Schaum versprüht um Flammen aufzuhalten.</Firefoam.description>
-
-  <GeothermalPower.label>Geothermale Energie</GeothermalPower.label>
-  <GeothermalPower.description>Schaltet die Geothermal-Technologie frei. Erlaubt den Bau von Geothermal-Kraftwerken auf Dampf-Geysiren für eine kontinuierliche Stromerzeugung.</GeothermalPower.description>
-
-  <HospitalBed.label>Krankenbetten</HospitalBed.label>
-  <HospitalBed.description>Schaltet spezielle Krankenbetten frei. Diese erhöhen die Wahrscheinlichkeit auf erfolgreiche Behandlungen und medizinische sowie operative Eingriffe.</HospitalBed.description>
-
-  <MultiAnalyzer.label>Multi Analysator</MultiAnalyzer.label>
-  <MultiAnalyzer.description>Schaltet den Multi Analysator frei. Dieser verbessert die Forschungsgeschwindigkeit, wenn er neben einem Forschungstisch aufgestellt wird.</MultiAnalyzer.description>
-
-  <!-- Tier 2.5 Misc -->
-
-  <VitalsMonitor.label>Vitalmonitor</VitalsMonitor.label>
-  <VitalsMonitor.description>Schaltet den Vitalmonitor frei. Dieser verbessert die Behandlungsqualität von Patienten, wenn sie neben einem medizinischen Bett (nicht einem normalen Bett im Krankenbett-Modus!) aufgestellt werden.</VitalsMonitor.description>
-
-  <Cryptosleep.label>Kryoschlafkapsel</Cryptosleep.label>
-  <Cryptosleep.description>Schaltet die spezielle Kryoschlafkapsel frei. Hiermit können Kolonisten in einen künstlichen Winterschlaf versetzt werden.</Cryptosleep.description>
-
-  <ComponentAssembly.label>Komponentenbau</ComponentAssembly.label>
-  <ComponentAssembly.description>Ermöglicht den Bau von Komponenten.</ComponentAssembly.description>
-
-  <PoweredArmor.label>Energierüstung</PoweredArmor.label>
-  <PoweredArmor.description>Neuro-memetische Robotik und fortschrittliche Plastahl-Webtechnologie erlaubt die Herstellung der Energierüstung und dem Energierüstungshelm.</PoweredArmor.description>
-
-  <ChargedShot.label>Energiewaffen</ChargedShot.label>
-  <ChargedShot.description>Erforsche die Geheimnisse der impulsgeladenen Energie-/Geschossmunition. Erlaubt die Herstellung von Energiegewehren.</ChargedShot.description>
-
-  <MultibarrelWeapons.label>Mehrläufige Waffen</MultibarrelWeapons.label>
-  <MultibarrelWeapons.description>Ermöglicht den Bau von Miniguns.</MultibarrelWeapons.description>
-
-  <!--
-  <LargeRockets.label>Raketenwerfer</LargeRockets.label>
-  <LargeRockets.description>Erlaubt die Herstellung von Doomsday- und Dreifachraketenwerfern, Einmal-Angriffswaffen die einen ordentlichen Schlag abgeben.</LargeRockets.description>
-  -->
+  <!--================================ Tier 2: Non-electric ====================================-->
   
+  <PsychiteRefining.label>การกลั่นยา Psychite</PsychiteRefining.label>
+  <PsychiteRefining.description>เรียนรู้ยาเสพติด Psychoid ใบเกล็ด และ ยาเสพติด Yayo เพื่อกระตุ้นความร่าเริง, สามารถปรับแต่ง</PsychiteRefining.description>
+  
+  <WakeUpProduction.label>การผลิตยา Wake Up</WakeUpProduction.label>
+  <WakeUpProduction.description>นักเคมีของคุณเรียนรู้สูตรและเทคนิคสำหรับการสังเคราะห์ Wake Up</WakeUpProduction.description>
+  
+  <GoJuiceProduction.label>การผลิตยา Go Juice</GoJuiceProduction.label>
+  <GoJuiceProduction.description>เรียนรู้ยาเสพติดสังเคราะห์กระตุ้นการต่อสู้ผลิต  Go Juice</GoJuiceProduction.description>
+   
+  <PenoxycylineProduction.label>การผลิตยา Penoxzylin</PenoxycylineProduction.label>
+  <PenoxycylineProduction.description>เรียนรู้ ยาเสพติด Penoxzylin เพื่อป้องกันโรคต่างๆ</PenoxycylineProduction.description>
+ 
+  <!--================================ Tier 2: Basic electricity ====================================-->
+  
+  <Batteries.label>แบตเตอร์รี</Batteries.label>
+  <Batteries.description>แบตเตอรี่สำหรับการจัดเก็บพลังงานไฟฟ้า</Batteries.description>
+  
+  <Refining.label>โรงกลั่นน้ํามันเชื้อเพลิง</Refining.label>
+  <Refining.description>สร้างโรงกลั่นน้ำมันเชื้อเพลิงที่จะทำให้ chemfuel จากไม้</Refining.description>
+
+  <NutrientPaste.label>เครื่องผลิตเจลสารอาหาร</NutrientPaste.label>
+  <NutrientPaste.description>ปลดล็อคตู้วางโภชนาการซึ่งจะทำให้มันผลิตเจลสารอาหาร</NutrientPaste.description>
+  
+  <SolarPanels.label>แสงโสล้าเซล</SolarPanels.label>
+  <SolarPanels.description>ปลดล็อคเซลล์แสงอาทิตย์ที่สามารถสร้างพลังงานไฟฟ้าจากแสงอาทิตย์</SolarPanels.description>
+  
+  <AirConditioning.label>เครื่องปรับอากาศ</AirConditioning.label>
+  <AirConditioning.description>ปลดล็อคเครื่องปรับอากาศที่มีที่ร้อนและความเย็นสามารถควบคุมได้</AirConditioning.description>
+  
+  <Autodoors.label>ประตูเลื่อนอัตโนมัติ</Autodoors.label>
+  <Autodoors.description>เปิดประตูอัตโนมัติเปิดให้อนุญาตให้มีทางเดินโดยไม่ต้องชะลอตัวลง</Autodoors.description>
+
+  <Hydroponics.label>การปลูกผักในที่ร่ม</Hydroponics.label>
+  <Hydroponics.description>ปลดล็อคถังไฮโดรโปนิ นี้จะช่วยให้การเพาะปลูกของพืชภายในอาคารโดยไม่คำนึงถึงอิทธิพลภายนอก</Hydroponics.description>
+  
+  <ElectricSmelting.label>เต่าหลอมเหล็กไฟฟ้า</ElectricSmelting.label>
+  <ElectricSmelting.description>ปลดล็อคเตาไฟฟ้า นี้จะช่วยให้การใช้ความร้อนและมีประสิทธิภาพกระจิ๋วหลิวที่จะแปลงตัวเองชิ้นตะกรันเข้าวัสดุก่อสร้างที่มีคุณค่า</ElectricSmelting.description>
+
+  <PackagedSurvivalMeal.label>อาหารเอาตัวรอด</PackagedSurvivalMeal.label>
+  <PackagedSurvivalMeal.description>ช่วยให้การผลิตอาหารเอาตัวรอด มันเป็นอาหารที่ยากที่จะไม่เลวร้าย เหมาะมากสำหรับการเดินทาง</PackagedSurvivalMeal.description>
+
+  <ElectricCremation.label>เตาเผ่าศพไฟฟ้า</ElectricCremation.label>
+  <ElectricCremation.description>เตาเผ่าศพไฟฟ้า นี่คือเผาร่างกายและผาวัตถุ</ElectricCremation.description>
+
+  <ColoredLights.label>ไฟแสงหลายสี</ColoredLights.label>
+  <ColoredLights.description>เปลี่ยนสีโคมไฟสำหรับการตกแต่ง</ColoredLights.description>
+  
+  <Machining.label>เครื่องจักต</Machining.label>
+  <Machining.description>เครื่องจักต สำหรับคราฟปืน หรือ แยกชิ้นส่วนหุ่นยน</Machining.description>
+
+  <IEDBomb.label>กับระเบิด ทำด้วยมือ</IEDBomb.label>
+  <IEDBomb.description>กับดักระเบิด จาก กระสุนปืนใหญ่</IEDBomb.description>
+
+  <IEDIncendiary.label>กับระเบิด ไฟ ทำด้วยมือ</IEDIncendiary.label>
+  <IEDIncendiary.description>กับดักระเบิด ไฟ จาก กระสุนปืนใหญ่</IEDIncendiary.description>
+  
+  <Mortars.label>ปืนครก</Mortars.label>
+  <Mortars.description>ปืนครก นี้จะช่วยให้ยิงไปยังวัตถุที่ห่างไกล</Mortars.description>
+ 
+  <SmokepopBelt.label>เข็มขัด Smokepop</SmokepopBelt.label>
+  <SmokepopBelt.description>ปลดล็อคการผลิตเข็มขัด Smokepop ที่จะซ่อนผู้ใช้ในผนังของควัน</SmokepopBelt.description>
+
+  <MicroelectronicsBasics.label>อิเล็กโทนิคเบื้องต้น</MicroelectronicsBasics.label>
+  <MicroelectronicsBasics.description>พื้นฐานสำหรับการทำงานกับอุปกรณ์อิเล็กทรอนิกส์ที่ซับซ้อน นี้เผยห้องปฏิบัติการที่มีเทคโนโลยีสูงอุปกรณ์วิทยุและโครงการวิจัยอื่น ๆ เช่น CRT และ Kryoschlafkapseln</MicroelectronicsBasics.description>
+
+  <!--=============================== Tier 2.5 Microelectronics ===================================-->
+
+  <TubeTelevision.label>โทรทัศน์</TubeTelevision.label>
+  <TubeTelevision.description>ปลดล็อคโทรทัศน์</TubeTelevision.description>
+
+  <GunTurrets.label>ป้อมปืน</GunTurrets.label>
+  <GunTurrets.description>ช่วยให้การผลิตของป้อมปืนอัตโนมัติ</GunTurrets.description>
+  
+
 </LanguageData>

@@ -4,5 +4,6 @@
   <!-- Bond -->
 
   <Bond.label>สายสัมพันธ์</Bond.label>
+  <Bond.labelFemale>สายสัมพันธ์</Bond.labelFemale>
 
 </LanguageData>

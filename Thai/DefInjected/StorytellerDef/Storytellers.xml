@@ -2,15 +2,14 @@
 <LanguageData>
 
   <Cassandra.label>คาสซานดร้า คลาสสิค</Cassandra.label>
-  <Cassandra.description>Cassandra erzählt die Geschichte so, dass die Spannungs- und Schwierigkeitskurve stetig ansteigt.</Cassandra.description>
-  <Cassandra.quotation>Die Essenz guter Erzählkunst ist der perfekte Fortschritt eines ständig härter werdenden Kampfes.</Cassandra.quotation>
+  <Cassandra.description>Cassandra สร้างเรื่องราวขึ้นบนเส้นต่อที่เพิ่มขึ้นอย่างต่อเนื่องของความท้าทายและความตึงเครียด</Cassandra.description>
 
-  <Phoebe.label>โฟบี Chillout</Phoebe.label>
-  <Phoebe.description>Phoebe gibt dir sehr viel Zeit zwischen den Katastrophen, um den Aufbau der Kolonie in Ruhe genießen zu können. Aber vorsicht: Wenn ein hoher Schwierigkeitsgrad eingestellt ist, wird Phoebe auch hier keine Gnade zeigen.</Phoebe.description>
-  <Phoebe.quotation>Lass uns entspannen und eine Basis bauen.</Phoebe.quotation>
+  <Phoebe.label>โฟบี ทำใจให้สบาย</Phoebe.label>
+  <Phoebe.description>โฟบี ให้ใช้เวลามากมายในการสร้างอาณานิคมของคุณระหว่างเกิดภัยพิบัติ แต่ระวัง - ที่ความยากลำบากจะสูงเขึ้นและการโจมตีอย่างหนักไม่เหมือนใคร</Phoebe.description>
 
   <Randy.label>แรนดี้ แรนดอม</Randy.label>
-  <Randy.description>Reiner macht, was er will. Er wird zufällige Ereignisse generieren, egal wie leicht oder schwer sie zu kontern sind. Für ihn ist alles ein Drama.</Randy.description>
-  <Randy.quotation>Die Welt besteht aus Zufällen, Mann! Geschichten sollten auch so sein! Hey, hast du Feuer?</Randy.quotation>
+  <Randy.description>แรนดี้ไม่ปฏิบัติตามกฎ เขาจะสร้างเหตุการณ์แบบสุ่มและเขาไม่สนใจว่าพวกเขาจะสร้างเรื่องราวของความสำเร็จหรือความสิ้นหวัง มันเป็นละครทั้งหมดกับเขา</Randy.description>
 
+  <Tutor.label>โหมดฝึก</Tutor.label>
+	
 </LanguageData>

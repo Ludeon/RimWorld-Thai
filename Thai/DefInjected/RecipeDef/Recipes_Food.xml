@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MakeKibble.label>ทำอาหารเม็ด</MakeKibble.label>
+  <MakeKibble.description>ทำอาหารเม็ดไว้ให้สัตว์เลี้ยงโดยผสมเนื้อดิบเข้ากับพืช</MakeKibble.description>
+  <MakeKibble.jobString>กำลังทำอาหารเม็ด</MakeKibble.jobString>
+
+  <MakePemmican.label>ทำอาหารแห้ง</MakePemmican.label>
+  <MakePemmican.description>Produziert Dörrfleisch, eine konservierte Kombination aus Fleisch- und Pflanzennahrung. Es schmeckt nicht herrausragend, aber hält ungekühlt ein ganzes Jahr..</MakePemmican.description>
+  <MakePemmican.jobString>กำลังทำอาหารแห้ง</MakePemmican.jobString>
+
+  <MakePemmicanCampfire.label>ทำอาหารแห้ง</MakePemmicanCampfire.label>
+  <MakePemmicanCampfire.description>Produziert Dörrfleisch, eine konservierte Kombination aus Fleisch- und Pflanzennahrung. Es schmeckt nicht herrausragend, aber hält ungekühlt ein ganzes Jahr..</MakePemmicanCampfire.description>
+  <MakePemmicanCampfire.jobString>กำลังทำอาหารแห้ง</MakePemmicanCampfire.jobString>
+  
+
+</LanguageData>

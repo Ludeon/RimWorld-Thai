@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <ArmorRating_Blunt.label>Rüstung - Schmetter</ArmorRating_Blunt.label>
-  <ArmorRating_Blunt.description>Rüstung gegen Schmetterschaden, wie z. B.  Knüppelangriffe, Steinschläge und Explosionen.</ArmorRating_Blunt.description>
+  <ArmorRating_Blunt.label>เกราะ - ทื่อ</ArmorRating_Blunt.label>
+  <ArmorRating_Blunt.description>Rüstung gegen Schmetterschaden, wie z. B. Knüppelangriffe, Steinschläge und Explosionen.</ArmorRating_Blunt.description>
 
-  <ArmorRating_Sharp.label>Rüstung - Stich</ArmorRating_Sharp.label>
+  <ArmorRating_Sharp.label>เกราะ - คม</ArmorRating_Sharp.label>
   <ArmorRating_Sharp.description>Rüstung gegen Stichschaden, wie z. B. Waffenprojektile, Messerstiche und Tierbisse.</ArmorRating_Sharp.description>
 
-  <ArmorRating_Heat.label>Rüstung - Hitze</ArmorRating_Heat.label>
+  <ArmorRating_Heat.label>เกราะ - ความร้อน</ArmorRating_Heat.label>
   <ArmorRating_Heat.description>Rüstung gegen Hitzeschaden, wie z. B. Verbrennungen.</ArmorRating_Heat.description>
 
-  <ArmorRating_Electric.label>Rüstung - Elektrizität</ArmorRating_Electric.label>
+  <ArmorRating_Electric.label>เกราะ - มีไฟฟ้า</ArmorRating_Electric.label>
   <ArmorRating_Electric.description>Rüstung gegen Elektrizitätsschaden, wie z. B. EMP-Angriffe.</ArmorRating_Electric.description>
 
-  <Insulation_Cold.label>Isolierung - Kälte</Insulation_Cold.label>
+  <Insulation_Cold.label>ฉนวนกันความร้อน - เย็น</Insulation_Cold.label>
   <Insulation_Cold.description>Um wie viel die niedrigste Wohlfühltemperatur des Trägers geändert werden soll.</Insulation_Cold.description>
 
-  <Insulation_Heat.label>Isolierung - Hitze</Insulation_Heat.label>
+  <Insulation_Heat.label>ฉนวนกันความร้อน - ร้อน</Insulation_Heat.label>
   <Insulation_Heat.description>Um wie viel die höchste Wohlfühltemperatur des Trägers geändert werden soll.</Insulation_Heat.description>
 
-  <PersonalShieldEnergyMax.label>Maximale Schildenergie</PersonalShieldEnergyMax.label>
-  <PersonalShieldEnergyMax.description>Die maximale Energie, die ein Schild haben kann. Je höher die Energie, desto mehr Schadensabsorption.</PersonalShieldEnergyMax.description>
+  <EnergyShieldEnergyMax.label>พลังงานโล่สูงสุด</EnergyShieldEnergyMax.label>
+  <EnergyShieldEnergyMax.description>Die maximale Energie, die ein Schildgürtel haben kann. Je höher die Energie, desto mehr Schadensabsorption.</EnergyShieldEnergyMax.description>
 
-  <PersonalShieldRechargeRate.label>Schildregenerationsrate</PersonalShieldRechargeRate.label>
-  <PersonalShieldRechargeRate.description>Wie schnell das Schild seine Energie zurückgewinnt, solange es nicht zerstört wurde.</PersonalShieldRechargeRate.description>
+  <EnergyShieldRechargeRate.label>อัตราการงอกโล่</EnergyShieldRechargeRate.label>
+  <EnergyShieldRechargeRate.description>Wie schnell das Schild seine Energie zurückgewinnt, solange es nicht zerstört wurde.</EnergyShieldRechargeRate.description>
 
+  <SmokepopBeltRadius.label>รัศมีรัศมีของ Smokepop</SmokepopBeltRadius.label>
+  <SmokepopBeltRadius.description>Das verdeckte Gebiet, wenn ein Rauchwandgürtel aktiviert wird.</SmokepopBeltRadius.description>
+  <SmokepopBeltRadius.formatString>{0} c</SmokepopBeltRadius.formatString>
+  
 </LanguageData>
