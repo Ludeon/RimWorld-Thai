@@ -26,7 +26,19 @@
   <DoBillsMedicalHumanOperation.label>ผ่าตัดผู้ป่วย</DoBillsMedicalHumanOperation.label>
   <DoBillsMedicalHumanOperation.verb>ผ่าตัด</DoBillsMedicalHumanOperation.verb>
   <DoBillsMedicalHumanOperation.gerund>กำลังผ่าตัด</DoBillsMedicalHumanOperation.gerund>
+ 
+  <DoctorTendToHumanlikes.label>การรักษาผู้ป่วย</DoctorTendToHumanlikes.label>
+  <DoctorTendToHumanlikes.verb>การรักษาผู้ป่วย</DoctorTendToHumanlikes.verb>
+  <DoctorTendToHumanlikes.gerund>กำลังรักษา</DoctorTendToHumanlikes.gerund>
+ 
+  <DoctorTendToSelf.label>รักษาตัวเอง</DoctorTendToSelf.label>
+  <DoctorTendToSelf.verb>รักษาตัวเอง</DoctorTendToSelf.verb>
+  <DoctorTendToSelf.gerund>รักษา</DoctorTendToSelf.gerund>
   
+  <DoctorFeedHumanlikes.label>ให้อาหารผู้ป่วย</DoctorFeedHumanlikes.label>
+  <DoctorFeedHumanlikes.verb>ให้อาหารผู้ป่วย</DoctorFeedHumanlikes.verb>
+  <DoctorFeedHumanlikes.gerund>กำลังรักษา</DoctorFeedHumanlikes.gerund>
+ 
   <DoBillsMedicalAnimalOperation.label>ผ่าตัดสัตว์</DoBillsMedicalAnimalOperation.label>
   <DoBillsMedicalAnimalOperation.verb>ผ่าตัด</DoBillsMedicalAnimalOperation.verb>
   <DoBillsMedicalAnimalOperation.gerund>กำลังผ่าตัด</DoBillsMedicalAnimalOperation.gerund>
@@ -156,16 +168,6 @@
   <ConstructDeliverResourcesToBlueprints.label>ส่งวัตถุดิบไปยังพิมพ์เขียว</ConstructDeliverResourcesToBlueprints.label>
   <ConstructDeliverResourcesToBlueprints.verb>ทำงานกับ</ConstructDeliverResourcesToBlueprints.verb>
   <ConstructDeliverResourcesToBlueprints.gerund>กำลังทำงานกับ</ConstructDeliverResourcesToBlueprints.gerund>
-  
-  <ConstructRemoveFloors.label>เอาพื้นออก</ConstructRemoveFloors.label>
-  <ConstructRemoveFloors.verb>เอาพื้นออก</ConstructRemoveFloors.verb>
-  <ConstructRemoveFloors.gerund>กำลังเอาพื้นออก</ConstructRemoveFloors.gerund>
-  
-  <ConstructSmoothFloors.label>ขัดพื้นให้เรียบ</ConstructSmoothFloors.label>
-  <ConstructSmoothFloors.verb>ขัดพื้น</ConstructSmoothFloors.verb>
-  <ConstructSmoothFloors.gerund>กำลังขัดพื้น</ConstructSmoothFloors.gerund>
-  
-  <!-- ============= Repair ============= -->
 
   <FixBrokenDownBuilding.label>แก้ไขซ่อมแซมสิ่งที่พัง</FixBrokenDownBuilding.label>
   <FixBrokenDownBuilding.verb>เปลี่ยนชิ้นส่วนที่พังใน</FixBrokenDownBuilding.verb>
@@ -174,20 +176,32 @@
   <Repair.label>ซ่อมแซมสิ่งที่เสียหาย</Repair.label>
   <Repair.verb>ซ่อมแซม</Repair.verb>
   <Repair.gerund>กำลังซ่อมแซม</Repair.gerund>
-
-  <DoBillsMedicalMechanoidOperation.label>ผ่าตัดให้เมคานอยด์</DoBillsMedicalMechanoidOperation.label>
-  <DoBillsMedicalMechanoidOperation.verb>แก้ไขดัดแปลง</DoBillsMedicalMechanoidOperation.verb>
-  <DoBillsMedicalMechanoidOperation.gerund>กำลังแก้ไขดัดแปลง</DoBillsMedicalMechanoidOperation.gerund>
   
+  <BuildRoofs.label>สร้างหลังคา</BuildRoofs.label>
+  <BuildRoofs.verb>สร้างหลังคา</BuildRoofs.verb>
+  <BuildRoofs.gerund>กำลังสร้างหลังคา</BuildRoofs.gerund>
+  
+  <RemoveRoofs.label>ถอนสร้างหลังคา</RemoveRoofs.label>
+  <RemoveRoofs.verb>ถอนสร้างหลังคา</RemoveRoofs.verb>
+  <RemoveRoofs.gerund>กำลังถอนสร้างหลังคา</RemoveRoofs.gerund>
+ 
+  <ConstructRemoveFloors.label>เอาพื้นออก</ConstructRemoveFloors.label>
+  <ConstructRemoveFloors.verb>เอาพื้นออก</ConstructRemoveFloors.verb>
+  <ConstructRemoveFloors.gerund>กำลังเอาพื้นออก</ConstructRemoveFloors.gerund>
+  
+  <ConstructSmoothFloors.label>ขัดพื้นให้เรียบ</ConstructSmoothFloors.label>
+  <ConstructSmoothFloors.verb>ขัดพื้น</ConstructSmoothFloors.verb>
+  <ConstructSmoothFloors.gerund>กำลังขัดพื้น</ConstructSmoothFloors.gerund>
+    
   <!-- ============= Growing ============= -->
 
   <GrowerHarvest.label>เก็บเกี่ยวผลผลิต</GrowerHarvest.label>
   <GrowerHarvest.verb>เก็บเกี่ยว</GrowerHarvest.verb>
   <GrowerHarvest.gerund>กำลังเก็บเกี่ยว</GrowerHarvest.gerund>
   
-  <GrowerSow.label>ไถหว่านพืชผล</GrowerSow.label>
-  <GrowerSow.verb>ไถหว่าน</GrowerSow.verb>
-  <GrowerSow.gerund>กำลังไถหว่าน</GrowerSow.gerund>
+  <GrowerSow.label>ปลูกพืชผล</GrowerSow.label>
+  <GrowerSow.verb>ปลูก</GrowerSow.verb>
+  <GrowerSow.gerund>กำลังปลูก</GrowerSow.gerund>
   
   <!-- ============= Mining ============= -->
 
@@ -195,6 +209,10 @@
   <Mine.verb>ขุด</Mine.verb>
   <Mine.gerund>กำลังขุด</Mine.gerund>
   
+  <Drill.label>เจาะ</Drill.label>
+  <Drill.verb>เจาะ</Drill.verb>
+  <Drill.gerund>กำลังเจาะ</Drill.gerund>
+
   <!-- ============= PlantCutting ============= -->
   
   <PlantsCut.label>ตัดต้นไม้ใบหญ้า</PlantsCut.label>
@@ -228,11 +246,23 @@
   <DoBillsSculpt.gerund>กำลังแกะสลักที่</DoBillsSculpt.gerund>
   
   <!-- ============= Crafting ============= -->
+
+  <DoBillsMedicalMechanoidOperation.label>ผ่าตัดให้เมคานอยด์</DoBillsMedicalMechanoidOperation.label>
+  <DoBillsMedicalMechanoidOperation.verb>แก้ไขดัดแปลง</DoBillsMedicalMechanoidOperation.verb>
+  <DoBillsMedicalMechanoidOperation.gerund>กำลังแก้ไขดัดแปลง</DoBillsMedicalMechanoidOperation.gerund>
   
   <DoBillsUseCraftingSpot.label>ทำตามใบสั่งที่จุดทำงานฝีมือ</DoBillsUseCraftingSpot.label>
   <DoBillsUseCraftingSpot.verb>สร้าง</DoBillsUseCraftingSpot.verb>
   <DoBillsUseCraftingSpot.gerund>กำลังสร้างที่</DoBillsUseCraftingSpot.gerund>
 
+  <DoBillsRefinery.label>ทำโรงกลั่น</DoBillsRefinery.label>
+  <DoBillsRefinery.verb>สร้างสารเคมี</DoBillsRefinery.verb>
+  <DoBillsRefinery.gerund>กำลังสร้างสารเคมี</DoBillsRefinery.gerund>
+  
+  <DoBillsProduceDrugs.label>ผลิตยาเสพติด</DoBillsProduceDrugs.label>
+  <DoBillsProduceDrugs.verb>ผลิตยาเสพติด</DoBillsProduceDrugs.verb>
+  <DoBillsProduceDrugs.gerund>กำลังผลิตยาเสพติด</DoBillsProduceDrugs.gerund>
+  
   <DoBillsStonecut.label>ตัดหิน</DoBillsStonecut.label>
   <DoBillsStonecut.verb>ตัดหิน</DoBillsStonecut.verb>
   <DoBillsStonecut.gerund>กำลังตัดหินที่</DoBillsStonecut.gerund>
@@ -240,7 +270,7 @@
   <DoBillsSmelter.label>หลอมสิ่งของ</DoBillsSmelter.label>
   <DoBillsSmelter.verb>สกัดแยก</DoBillsSmelter.verb>
   <DoBillsSmelter.gerund>กำลังสกัดแยกที่</DoBillsSmelter.gerund>
-  
+    
   <!-- ============= Hauling ============= -->
   
   <Refuel.label>เติมเชื้อเพลิงให้สิ่งก่อสร้าง</Refuel.label>
@@ -251,6 +281,18 @@
   <RearmTraps.verb>ขี้นกับดัก</RearmTraps.verb>
   <RearmTraps.gerund>กำลังขี้นกับดัก</RearmTraps.gerund>
   
+  <UnloadCarriers.label>ยกเลิกการโหลดผู้ให้บริการ</UnloadCarriers.label>
+  <UnloadCarriers.verb>ปลดปล่อย</UnloadCarriers.verb>
+  <UnloadCarriers.gerund>กำลังปลดปล่อย</UnloadCarriers.gerund>
+  
+  <LoadTransporters.label>ขนส่ง กระสวยขนส่ง</LoadTransporters.label>
+  <LoadTransporters.verb>ปลดปล่อย</LoadTransporters.verb>
+  <LoadTransporters.gerund>กำลังปลดปล่อย</LoadTransporters.gerund>
+  
+  <HelpGatheringItemsForCaravan.label>โหลดคาราวาน</HelpGatheringItemsForCaravan.label>
+  <HelpGatheringItemsForCaravan.verb>ปลดปล่อย</HelpGatheringItemsForCaravan.verb>
+  <HelpGatheringItemsForCaravan.gerund>กำลังปลดปล่อย</HelpGatheringItemsForCaravan.gerund>
+  
   <Strip.label>แก้ผ้าศพ</Strip.label>
   <Strip.verb>แก้ผ้า</Strip.verb>
   <Strip.gerund>กำลังแก้ผ้า</Strip.gerund>
@@ -259,9 +301,21 @@
   <Open.verb>เปิด</Open.verb>
   <Open.gerund>กำลังเปิด</Open.gerund>
   
+  <TakeBeerOutOfFermentingBarrel.label>ใช้เบียร์หมักออกจากถัง</TakeBeerOutOfFermentingBarrel.label>
+  <TakeBeerOutOfFermentingBarrel.verb>ใช้เบียร์</TakeBeerOutOfFermentingBarrel.verb>
+  <TakeBeerOutOfFermentingBarrel.gerund>กำลังใช้เบียร์</TakeBeerOutOfFermentingBarrel.gerund>
+  
+  <FillFermentingBarrel.label>กรอกหมักบาร์เรล</FillFermentingBarrel.label>
+  <FillFermentingBarrel.verb>เติม</FillFermentingBarrel.verb>
+  <FillFermentingBarrel.gerund>กำลังเติม</FillFermentingBarrel.gerund>
+  
   <DoBillsCremate.label>ทำตามใบสั่งงานฌาปนกิจ</DoBillsCremate.label>
   <DoBillsCremate.verb>ฌาปนกิจ</DoBillsCremate.verb>
   <DoBillsCremate.gerund>กำลังฌาปนกิจที่</DoBillsCremate.gerund>
+  
+  <DoBillsHaulCampfire.label>ทำตั๋วเงินที่แคมป์ไฟ</DoBillsHaulCampfire.label>
+  <DoBillsHaulCampfire.verb>ทำงานที่</DoBillsHaulCampfire.verb>
+  <DoBillsHaulCampfire.gerund>กำลังทำงานที่</DoBillsHaulCampfire.gerund>
   
   <BuryCorpses.label>ฝังศพ</BuryCorpses.label>
   <BuryCorpses.verb>ฝัง</BuryCorpses.verb>
@@ -271,9 +325,9 @@
   <HaulCorpses.verb>ขน</HaulCorpses.verb>
   <HaulCorpses.gerund>กำลังขน</HaulCorpses.gerund>
   
-  <HaulGeneral.label>Allgemeine Dinge transportieren</HaulGeneral.label>
-  <HaulGeneral.verb>trage</HaulGeneral.verb>
-  <HaulGeneral.gerund>trägt</HaulGeneral.gerund>
+  <HaulGeneral.label>ขนสิ่งทั่วไป</HaulGeneral.label>
+  <HaulGeneral.verb>ขน</HaulGeneral.verb>
+  <HaulGeneral.gerund>กำลังขน</HaulGeneral.gerund>
   
   <!-- ============= Cleaning ============= -->
   

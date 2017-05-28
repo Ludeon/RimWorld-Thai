@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <Orbital_Misc_BulkGoods.label>พ่อค้าสินค้าเบ็ดเตล็ด</Orbital_Misc_BulkGoods.label>
-  <Orbital_Misc_CombatSupplier.label>พ่อค้ายุทธภัณฑ์</Orbital_Misc_CombatSupplier.label>
-  <Orbital_Misc_Exotic.label>พ่อค้าสินค้าแปลกประหลาด</Orbital_Misc_Exotic.label>
-  <Orbital_Misc_PirateMerchant.label>พ่อค้าโจรสลัด</Orbital_Misc_PirateMerchant.label>
+  <Orbital_BulkGoods.label>พ่อค้าสินค้าเบ็ดเตล็ด</Orbital_BulkGoods.label>
+  <Orbital_CombatSupplier.label>พ่อค้ายุทธภัณฑ์</Orbital_CombatSupplier.label>
+  <Orbital_Exotic.label>พ่อค้าสินค้าแปลกประหลาด</Orbital_Exotic.label>
+  <Orbital_PirateMerchant.label>พ่อค้าโจรสลัด</Orbital_PirateMerchant.label>
 
 </LanguageData>

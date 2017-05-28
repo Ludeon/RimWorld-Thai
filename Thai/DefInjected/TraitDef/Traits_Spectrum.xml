@@ -57,23 +57,18 @@
   <PsychicSensitivity.degreeDatas.3.label>หูหนวกทางจิต</PsychicSensitivity.degreeDatas.3.label>
   <PsychicSensitivity.degreeDatas.3.description>จิตของ NAME นั้นทำงานในความถี่ทางจิตที่ต่างจากคนอื่นๆ HECAP ไม่มีผลใดๆจากปรากฏการณ์ทางพลังจิต</PsychicSensitivity.degreeDatas.3.description>
 
-  <TemperaturePreference.degreeDatas.0.label>ชอบอากาศหนาว</TemperaturePreference.degreeDatas.0.label>
-  <TemperaturePreference.degreeDatas.0.description>ร่างกายของ NAME นั้นสร้างความร้อนมากกว่าคนอื่น HECAP รู้สึกสบายในอุณหภูมิที่ทำให้คนอื่นหนาวสั่น, แต่ HE ไม่ชอบอากาศร้อน</TemperaturePreference.degreeDatas.0.description>
-  <TemperaturePreference.degreeDatas.1.label>ทนต่อความหนาว</TemperaturePreference.degreeDatas.1.label>
-  <TemperaturePreference.degreeDatas.1.description>NAME นั้นรับมือกับอากาศเย็นได้ดีกว่าคนอื่น</TemperaturePreference.degreeDatas.1.description>
-  <TemperaturePreference.degreeDatas.2.label>ทนต่อความร้อน</TemperaturePreference.degreeDatas.2.label>
-  <TemperaturePreference.degreeDatas.2.description>NAME นั้นรับมือกับอากาศอบอุ่นได้ดีกว่าคนอื่น</TemperaturePreference.degreeDatas.2.description>
-  <TemperaturePreference.degreeDatas.3.label>ชอบอากาศร้อน</TemperaturePreference.degreeDatas.3.label>
-  <TemperaturePreference.degreeDatas.3.description>NAME ชอบอากาศที่ร้อน - แต่ HE ไม่สามารถรับมืออากาศหนาวได้ดีนัก</TemperaturePreference.degreeDatas.3.description>
-
   <ShootingAccuracy.degreeDatas.0.label>ยิงอย่างละเมียด</ShootingAccuracy.degreeDatas.0.label>
   <ShootingAccuracy.degreeDatas.0.description>NAME นั้นยิงได้อย่างดี, แต่ HE ต้องการเวลามากขึ้นเพื่อเพ่งสมาธิที่เป้าหมาย HIS</ShootingAccuracy.degreeDatas.0.description>
   <ShootingAccuracy.degreeDatas.1.label>ยิงไปเรื่อย</ShootingAccuracy.degreeDatas.1.label>
   <ShootingAccuracy.degreeDatas.1.description>ปิ้ว! ปั้ง! โป้ง! NAME นั้นยิงได้ห่วยมาก, แต่ HE ก็ไม่ได้ใส่ใจ, เพราะปืนมันเจ๋งจริงๆ!</ShootingAccuracy.degreeDatas.1.description>
 
-  <Prettiness.degreeDatas.0.label>งดงาม</Prettiness.degreeDatas.0.label>
-  <Prettiness.degreeDatas.0.description>NAME นั้นงดงามอย่างเลิศล้ำ, ทำให้ทุกคนนั้นชอบ HE</Prettiness.degreeDatas.0.description>
-  <Prettiness.degreeDatas.1.label>อุบาทว์</Prettiness.degreeDatas.1.label>
-  <Prettiness.degreeDatas.1.description>NAME นั้นน่าเกลียดที่สุด, ซึ่งทำให้ถูกผลักไล่ไสส่งในสังคม</Prettiness.degreeDatas.1.description>
+  <Beauty.degreeDatas.0.label>งดงาม</Beauty.degreeDatas.0.label>
+  <Beauty.degreeDatas.0.description>NAME นั้นงดงามอย่างเลิศล้ำ, ทำให้ทุกคนนั้นชอบ HE</Beauty.degreeDatas.0.description>
+  <Beauty.degreeDatas.1.label>น่ารัก</Beauty.degreeDatas.1.label>
+  <Beauty.degreeDatas.1.description>NAME มีใบหน้าที่น่ารัก, ทำให้คนมีแรงจูงใจที่จะชอบ HIM.</Beauty.degreeDatas.1.description>
+  <Beauty.degreeDatas.2.label>น่าเกลียด</Beauty.degreeDatas.2.label>
+  <Beauty.degreeDatas.2.description>NAME นั้นน่าเกลียดที่สุด, ซึ่งทำให้ถูกผลักไล่ไสส่งในสังคม</Beauty.degreeDatas.2.description>
+  <Beauty.degreeDatas.3.label>หน้าตาน่าเกลียด</Beauty.degreeDatas.3.label>
+  <Beauty.degreeDatas.3.description>NAME is staggeringly ugly. HISCAP face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at HIM while conversing.</Beauty.degreeDatas.3.description>
 	
 </LanguageData>

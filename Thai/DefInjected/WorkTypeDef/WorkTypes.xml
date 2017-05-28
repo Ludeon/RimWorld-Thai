@@ -20,7 +20,7 @@
   <Doctor.description>รักษาอาการป่วย นำอาหารไปให้ผู้ป่วยและช่วยให้กำลังใจ และทำการผ่าตัดตามที่มอบหมายให้ แพทย์จะดูแลหมดทั้งชาวอาณานิคม และนักโทษ</Doctor.description>
 
   <PatientBedRest.labelShort>นอนพัก</PatientBedRest.labelShort>
-  <PatientBedRest.pawnLabel>ผู้นอนพัก</PatientBedRest.pawnLabel>
+  <PatientBedRest.pawnLabel>ผู้ป่วยนอนพัก</PatientBedRest.pawnLabel>
   <PatientBedRest.gerundLabel>การนอนพัก</PatientBedRest.gerundLabel>
   <PatientBedRest.verb>เป็นผู้ป่วย</PatientBedRest.verb>
   <PatientBedRest.description>นอนพักผ่อนบนเตียงเพื่อฟื้นจากปัญหาสุขภาพที่ไม่คุกคามเฉียบพลันถึงชีวิต</PatientBedRest.description>
@@ -61,21 +61,15 @@
   <Construction.verb>ก่อสร้าง</Construction.verb>
   <Construction.description>สร้างสิ่งต่างๆตามที่กำหนด</Construction.description>
 
-  <Repair.labelShort>ซ่อมแซม</Repair.labelShort>
-  <Repair.pawnLabel>ช่างซ่อม</Repair.pawnLabel>
-  <Repair.gerundLabel>การซ่อมแซม</Repair.gerundLabel>
-  <Repair.verb>ซ่อมแซม</Repair.verb>
-  <Repair.description>ซ่อมสิ่งก่อสร้างที่ได้รับความเสียหายหรือพังลง</Repair.description>
-
   <Growing.labelShort>เพาะปลูก</Growing.labelShort>
   <Growing.pawnLabel>เกษตรกร</Growing.pawnLabel>
   <Growing.gerundLabel>การเกษตร</Growing.gerundLabel>
   <Growing.verb>ปลูก</Growing.verb>
   <Growing.description>หว่านเมล็ดและเก็บเกี่ยวพืชผล</Growing.description>
 
-  <Mining.labelShort>ทำเหมือง</Mining.labelShort>
+  <Mining.labelShort>ขุดเหมือง</Mining.labelShort>
   <Mining.pawnLabel>คนงานเหมือง</Mining.pawnLabel>
-  <Mining.gerundLabel>การทำเหมือง</Mining.gerundLabel>
+  <Mining.gerundLabel>กาขุดเหมือง</Mining.gerundLabel>
   <Mining.verb>ขุดเหมือง</Mining.verb>
   <Mining.description>ขุดบริเวณที่กำหนดให้ขุดเหมืองออกไป</Mining.description>
 

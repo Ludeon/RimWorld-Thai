@@ -8,7 +8,7 @@
   <Release.description>สัตว์นั้นสามารถปล่อยไปโจมตีจากระยะไกลแทนที่จะปกป้องเจ้านาย</Release.description>
 
   <Rescue.label>ช่วยเหลือ</Rescue.label>
-  <Rescue.description>สัตว์นั้นสามารถช่วยเหลือพันธมิตรที่บาดเจ็บและลากพวกเขากลับมายังที่ปลอดภัย</Rescue.description>
+  <Rescue.description>สัตว์นั้นสามารถช่วยเหลือพันธมิตรที่บาดเจ็บและ\nลากพวกเขากลับมายังที่ปลอดภัย</Rescue.description>
 
   <Haul.label>ขนของ</Haul.label>
   <Haul.description>สัตว์นั้นสามารถขนของต่างๆได้</Haul.description>

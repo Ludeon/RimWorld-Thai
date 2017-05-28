@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Caravan.label>คาราวาน</Caravan.label>
+  <Caravan.description>กลุ่มของคนที่เดินทาง</Caravan.description>
+  
+  <FactionBase.label>ฐาน</FactionBase.label>
+  <FactionBase.description>Eine Basis einer der Fraktionen.</FactionBase.description>
+  
+  <AbandonedFactionBase.label>ฐานที่ถูกทิ้งร้าง</AbandonedFactionBase.label>
+  <AbandonedFactionBase.description>Eine verlassene Basis einer der Fraktionen.</AbandonedFactionBase.description>
+  
+  <DestroyedFactionBase.label>ฐานที่ถูกทำลาย</DestroyedFactionBase.label>
+  <DestroyedFactionBase.description>Eine zerstörte Basis einer der Fraktionen.</DestroyedFactionBase.description>
+
+  <JourneyDestination.label>ปลายทางการเดินทาง</JourneyDestination.label>
+  <JourneyDestination.description>Der Ort von einem versteckten Raumschiff welches dir helfen kann den Planeten zu verlassen.</JourneyDestination.description>
+  
+  <AttackedCaravan.label>โจมตีกองคาราวาน</AttackedCaravan.label>
+  <AttackedCaravan.description>Ein laufender Angriff auf eine Karawane.</AttackedCaravan.description>
+  
+  <TravelingTransportPods.label>กระสวยขนส่ง</TravelingTransportPods.label>
+  <TravelingTransportPods.description>Sub-Orbitale Transportkapseln.</TravelingTransportPods.description>
+  
+  <RoutePlannerWaypoint.label>จุดเป้าหมาย</RoutePlannerWaypoint.label>
+  <RoutePlannerWaypoint.description>Ein temporärer Wegpunkt</RoutePlannerWaypoint.description>
+  
+  <Ambush.label>ที่ซุ่มโจมตี</Ambush.label>
+  <Ambush.description>Ein laufender Angriff aus dem Hinterhalt.</Ambush.description>
+  
+  
+</LanguageData>
