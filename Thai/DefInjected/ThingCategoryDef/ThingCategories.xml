@@ -1,38 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <Root.label>Basis</Root.label>
-  <Resources.label>ทรัพยากร</Resources.label>
+  <Root.label>Root</Root.label>  
   <Foods.label>อาหาร</Foods.label>
   <FoodMeals.label>มื้ออาหาร</FoodMeals.label>
   <FoodRaw.label>อาหารดิบ</FoodRaw.label>
   <MeatRaw.label>เนื้อดิบ</MeatRaw.label>
-  <PlantFoodRaw.label>Vegetarisch</PlantFoodRaw.label>
-  <AnimalProductRaw.label>Tierfutter</AnimalProductRaw.label>
+  <PlantFoodRaw.label>พืชอาหารดิบ</PlantFoodRaw.label>
+  <AnimalProductRaw.label>สัตว์วัตถุดิบสินค้า</AnimalProductRaw.label>
   <EggsUnfertilized.label>ไข่ (ยังไม่ผสม)</EggsUnfertilized.label>
   <EggsFertilized.label>ไข่ (ผสมแล้ว)</EggsFertilized.label>
-  <Manufactured.label>Hergestellt</Manufactured.label>
-  <Textiles.label>สิ่งทอ</Textiles.label>
+  <Manufactured.label>สิ่งประดิษฐ์</Manufactured.label>
+  <Textiles.label>สิ่งทอผ้า</Textiles.label>
   <Leathers.label>แผ่นหนัง</Leathers.label>
-  <Medicine.label>ยารักษา</Medicine.label>
-  <ResourcesRaw.label>Rohstoffe</ResourcesRaw.label>
+  <Medicine.label>ยารักษา</Medicine.label> 
+  <ResourcesRaw.label>ทรัพยากรวัตถุดิบ</ResourcesRaw.label>
   <StoneBlocks.label>บล็อกหิน</StoneBlocks.label>
-  <Items.label>Gegenstände</Items.label>
+  <Items.label>ไอเทม</Items.label>
   <Art.label>ศิลปะ</Art.label>
-  <Furniture.label>Möbel</Furniture.label>
-  <Unfinished.label>Unfertig</Unfinished.label>
+  <Furniture.label>เฟอร์นิเจอร์</Furniture.label>
+  <Unfinished.label>ยังไม่เสร็จ</Unfinished.label>
+  <Artifacts.label>สิ่งประดิษฐ์</Artifacts.label>
   <Weapons.label>อาวุธ</Weapons.label>
   <WeaponsMelee.label>อาวุธระยะประชิด</WeaponsMelee.label>
   <WeaponsRanged.label>อาวุธระยะไกล</WeaponsRanged.label>
   <Grenades.label>ระเบิดมือ</Grenades.label>
   <Apparel.label>เสื้อผ้า</Apparel.label>
-  <Headgear.label>Kopfbekleidung</Headgear.label>
-  <BodyPartsAndImplants.label>Körperteile</BodyPartsAndImplants.label>
+  <Headgear.label>หมวก</Headgear.label>
+  <BodyParts.label>ส่วนของร่างกาย</BodyParts.label>
+  <BodyPartsNatural.label>ส่วนของร่างกายตามธรรมชาติ</BodyPartsNatural.label>
+  <BodyPartsArtificial.label>ส่วนต่างๆของร่างกายเทียม</BodyPartsArtificial.label>
   <Chunks.label>ก้อน</Chunks.label>
   <StoneChunks.label>ก้อนหิน</StoneChunks.label>
   <Corpses.label>ซากศพ</Corpses.label>
   <CorpsesHumanlike.label>ศพมนุษย์</CorpsesHumanlike.label>
   <CorpsesAnimal.label>ซากสัตว์</CorpsesAnimal.label>
-  <CorpsesMechanoid.label>Mechanoidenleichen</CorpsesMechanoid.label>
-
+  <CorpsesInsect.label>ศพแมลง</CorpsesInsect.label>
+  <CorpsesMechanoid.label>ซากหุ่นยน</CorpsesMechanoid.label>
+  <Drugs.label>ยาเสพติด</Drugs.label>
+  <PlantMatter.label>Plant Matter</PlantMatter.label>
+  
 </LanguageData>

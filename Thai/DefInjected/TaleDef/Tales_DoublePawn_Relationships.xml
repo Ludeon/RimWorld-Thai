@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
- 	<BondedWithAnimal.label>Bindung entwickelt</BondedWithAnimal.label>
+ 	<BondedWithAnimal.label>ผูกพันกับสัตว์</BondedWithAnimal.label>
 	<BondedWithAnimal.rulePack.rulesStrings.0>tale_noun->[human_nameShortDef]'s Bindung mit [animal_nameShortDef]</BondedWithAnimal.rulePack.rulesStrings.0>
     <BondedWithAnimal.rulePack.rulesStrings.1>image->[human_nameFull] Bindung mit [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.1>
     <BondedWithAnimal.rulePack.rulesStrings.2>image->[human_nameFull] formt eine tiefe Bindung mit [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.2>
@@ -14,7 +14,7 @@
     <BondedWithAnimal.rulePack.rulesStrings.9>desc_sentence->[animal_nameShortDef] steht aufrecht und sieht königlich aus.</BondedWithAnimal.rulePack.rulesStrings.9>
     <BondedWithAnimal.rulePack.rulesStrings.10>desc_sentence->[animal_nameShortDef] reagiert positiv.</BondedWithAnimal.rulePack.rulesStrings.10>
  
- 	<BecameLover.label>Wurden Geliebte</BecameLover.label>
+ 	<BecameLover.label>กลายเป็นคนรัก</BecameLover.label>
     <BecameLover.rulePack.rulesStrings.0>tale_noun->[firstPawn_nameShortDef] und [secondPawn_nameShortDef] wurden Geliebte</BecameLover.rulePack.rulesStrings.0>
     <BecameLover.rulePack.rulesStrings.1>image->[circumstance_group] flüstert [firstPawn_nameFull] süße Nichtigkeiten in das Ohr von [secondPawn_nameFull]</BecameLover.rulePack.rulesStrings.1>
     <BecameLover.rulePack.rulesStrings.2>image->[circumstance_group] führt [firstPawn_nameFull] [secondPawn_nameFull] Händchen haltend </BecameLover.rulePack.rulesStrings.2>
@@ -31,7 +31,7 @@
     <BecameLover.rulePack.rulesStrings.13>desc_sentence->[firstPawn_nameShortDef] ist beinahe ein Spiegelbild von [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.13>
     <BecameLover.rulePack.rulesStrings.14>desc_sentence->[firstPawn_nameShortDef] berührt [secondPawn_nameShortDef] forsch.</BecameLover.rulePack.rulesStrings.14>
  
- 	<Breakup.label>Trennung</Breakup.label>
+ 	<Breakup.label>บอกเลิก</Breakup.label>
     <Breakup.rulePack.rulesStrings.0>tale_noun->der Trennung von [firstPawn_nameShortDef] und [secondPawn_nameShortDef]</Breakup.rulePack.rulesStrings.0>
     <Breakup.rulePack.rulesStrings.1>image->[circumstance_group], sitzt [firstPawn_nameFull] mit [secondPawn_nameFull] für ein unangenehmes Gespräch zusammen</Breakup.rulePack.rulesStrings.1>
     <Breakup.rulePack.rulesStrings.2>image->[circumstance_group], steht [firstPawn_nameFull] von [secondPawn_nameFull] etwas entfernt</Breakup.rulePack.rulesStrings.2>
@@ -47,7 +47,7 @@
     <Breakup.rulePack.rulesStrings.12>desc_sentence->[secondPawn_nameShortDef] ist in einem Wimmernden Haufen auf dem Boden zusammengebrochen.</Breakup.rulePack.rulesStrings.12>
     <Breakup.rulePack.rulesStrings.13>desc_sentence->[secondPawn_nameShortDef] gestikuliert wütend mit [firstPawn_nameShortDef].</Breakup.rulePack.rulesStrings.13>
  
- 	<Marriage.label>Hochzeit</Marriage.label>
+ 	<Marriage.label>การแต่งงาน</Marriage.label>
     <Marriage.rulePack.rulesStrings.0>tale_noun->der Hochzeit von [firstPawn_nameShortDef] und [secondPawn_nameShortDef]</Marriage.rulePack.rulesStrings.0>
     <Marriage.rulePack.rulesStrings.1>image->[circumstance_group] heiratet [firstPawn_nameFull] [secondPawn_nameFull]</Marriage.rulePack.rulesStrings.1>
     <Marriage.rulePack.rulesStrings.2>image->[circumstance_group] spricht [firstPawn_nameFull] [firstPawn_possessive]en Hochzeitsschwur zu [secondPawn_nameFull]</Marriage.rulePack.rulesStrings.2>

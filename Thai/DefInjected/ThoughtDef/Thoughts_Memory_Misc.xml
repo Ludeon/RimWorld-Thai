@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AteWithoutTable.stages.0.label>กินโดยไม่มีโต๊ะ</AteWithoutTable.stages.0.label>
+  <AteWithoutTable.stages.0.description>ฉันต้องกินบนพื้น เราไม่สามารถหาโต๊ะมาไว้แถวนี้ได้หรอ?</AteWithoutTable.stages.0.description>
+  
+  <SleepDisturbed.stages.0.label>การนอนถูกรบกวน</SleepDisturbed.stages.0.label>
+  <SleepDisturbed.stages.0.description>ฉันถูกรบกวนระหว่างนอนหลับโดยคนที่เดินไปเดินมา ห้องส่วนตัวน่าจะแก้ปัญหาได้</SleepDisturbed.stages.0.description>
+
+  <NewColonyOptimism.stages.0.label>มองโลกในแง่ดีกับอาณานิคมใหม่</NewColonyOptimism.stages.0.label>
+  <NewColonyOptimism.stages.0.description>เราเพิ่งลงจอดที่นี่ มันเป็นสถานการณ์ที่ยากลำบาก แต่ฉันรู้สึกตื่นเต้นที่จะได้ตั้งอาณานิคมใหม่</NewColonyOptimism.stages.0.description>
+
+  <NewColonyHope.stages.0.label>ความหวังกับอาณานิคมใหม่</NewColonyHope.stages.0.label>
+  <NewColonyHope.stages.0.description>ฉันเริ่มชินกับที่นี่, แต่ยังคงตื่นเต้นกับสถานการณ์ใหม่ๆ ฉันหวังว่ามันจะได้ผลนะ...</NewColonyHope.stages.0.description>
+
+  <SleptOutside.stages.0.label>นอนข้างนอก</SleptOutside.stages.0.label>
+  <SleptOutside.stages.0.description>ฉันต้องนอนกลางแจ้งโดยไม่มีอะไรป้องกันจากสิ่งต่างๆ</SleptOutside.stages.0.description>
+
+  <SleptOnGround.stages.0.label>นอนบนพื้น</SleptOnGround.stages.0.label>
+  <SleptOnGround.stages.0.description>ฉันต้องนอนบนพื้นเหมือนกับสัตว์</SleptOnGround.stages.0.description>
+
+  <SleptInCold.stages.0.label>นอนในความหนาวเย็น</SleptInCold.stages.0.label>
+  <SleptInCold.stages.0.description>ฉันต้องนอนในความหนาวเย็น เราต้องการเครื่องทำความร้อนจริงๆ</SleptInCold.stages.0.description>
+
+  <SleptInHeat.stages.0.label>นอนในความร้อน</SleptInHeat.stages.0.label>
+  <SleptInHeat.stages.0.description>ฉันต้องนอนในอากศที่ร้อนจนทนไม่ได้ เราไม่สามารถมีเครื่องปรับอากาศหรอ?</SleptInHeat.stages.0.description>
+
+  <KnowPrisonerSold.stages.0.label>นักโทษถูกขายแล้ว</KnowPrisonerSold.stages.0.label>
+  <KnowPrisonerSold.stages.0.description>อาณานิคมนี้ขายนักโทษเป็นทาสแล้ว นั่นก็เป็นความคิดที่น่ากังวลอยู่เหมือนกัน</KnowPrisonerSold.stages.0.description>
+
+  <KnowGuestOrganHarvested.stages.0.label>อวัยวะของบางคนถูกเก็บเกี่ยวออก</KnowGuestOrganHarvested.stages.0.label>
+  <KnowGuestOrganHarvested.stages.0.description>อาณานิคมนำเอาอวัยวะออกจากแขก หรือนักโทษ ซึ่งมันเลวร้ายมาก, ที่แยกชิ้นส่วนบางคนออกเป็นชิ้นๆ เมื่อไม่มีทางเลือก</KnowGuestOrganHarvested.stages.0.description>
+
+  <KnowColonistOrganHarvested.stages.0.label>อวัยวะของชาวอาณานิคมถูกเก็บเกี่ยวเอาออก</KnowColonistOrganHarvested.stages.0.label>
+  <KnowColonistOrganHarvested.stages.0.description>บางคนนำเอาอวัยวะออกจากชาวอาณานิคม มันเลวร้ายมาก, ที่แยกชิ้นส่วนบางคนออกเป็นชิ้นๆ เมื่อไม่มีทางเลือก</KnowColonistOrganHarvested.stages.0.description>
+
+  <MyOrganHarvested.stages.0.label>อวัยวะของฉันถูกเก็บเกี่ยวแล้ว</MyOrganHarvested.stages.0.label>
+  <MyOrganHarvested.stages.0.description>ชาวอาณานิคมตัดอวัยวะของฉันออกไป! พวกเขารื้อชิ้นส่วนฉันอย่างกับเป็นเครื่องยนต์เก่าๆ!</MyOrganHarvested.stages.0.description>
+
+  <WasImprisoned.stages.0.label>ถูกคุมขัง</WasImprisoned.stages.0.label>
+  <WasImprisoned.stages.0.description>Die Kolonie hat mich eine Weile eingesperrt, als wär' ich ein wildes Tier.</WasImprisoned.stages.0.description>
+
+  <GreenThumbHappy.stages.0.label>ปลูกพืช</GreenThumbHappy.stages.0.label>
+  <GreenThumbHappy.stages.0.description>Was die Welt braucht, sind mehr Pflanzen!</GreenThumbHappy.stages.0.description>
+
+  <Catharsis.stages.0.label>ปลดปล่อยอารมณ์</Catharsis.stages.0.label>
+  <Catharsis.stages.0.description>Was gerade passiert ist... Das war ich nicht. Ich weiß, dass ich das besser kann.</Catharsis.stages.0.description>
+
+  <Nuzzled.stages.0.label>ดนด้วยจมูกเบาๆ</Nuzzled.stages.0.label>
+  <Nuzzled.stages.0.description>Ein süßes Tier ließ sich von mir hätscheln.</Nuzzled.stages.0.description>
+
+  <KnowBuriedInSarcophagus.stages.0.label>ฝังคมในโลงศพ</KnowBuriedInSarcophagus.stages.0.label>
+  <KnowBuriedInSarcophagus.stages.0.description>Diese Kolonie hat jemanden in einem reich verzierten Sarkophag begraben. Möge seine Seele in Frieden ruhen.</KnowBuriedInSarcophagus.stages.0.description>
+
+  
+  <!-- Human corpse butchering -->
+
+  <ButcheredHumanlikeCorpse.stages.0.label>ฉันฆ่ามนุษย์</ButcheredHumanlikeCorpse.stages.0.label>
+  <ButcheredHumanlikeCorpse.stages.0.description>Ich habe jemanden geschlachtet. Als wär's ein Tier.</ButcheredHumanlikeCorpse.stages.0.description>
+
+  <KnowButcheredHumanlikeCorpse.stages.0.label>พวกเราฆ่ามนุษย์</KnowButcheredHumanlikeCorpse.stages.0.label>
+  <KnowButcheredHumanlikeCorpse.stages.0.description>Wir haben jemanden geschlachtet. Als wär's ein Tier.</KnowButcheredHumanlikeCorpse.stages.0.description>
+
+  
+  <!-- Combat -->
+
+  <ObservedLayingCorpse.stages.0.label>มองเห็นศพ</ObservedLayingCorpse.stages.0.label>
+  <ObservedLayingCorpse.stages.0.description>Ich habe eine Leiche auf dem Boden herum liegen sehen. Es war verstörend.</ObservedLayingCorpse.stages.0.description>
+
+  <ObservedLayingRottingCorpse.stages.0.label>มองเห็นศพเน่าเปื่อย</ObservedLayingRottingCorpse.stages.0.label>
+  <ObservedLayingRottingCorpse.stages.0.description>Ich habe eine verrottende Leiche auf dem Boden liegen sehen. Es war so eklig. Das aufgeblähte Fleisch und all die Maden...</ObservedLayingRottingCorpse.stages.0.description>
+
+  <WitnessedDeathAlly.stages.0.label>ร่วมเป็นสักขีพยานในการตายของพันธมิตร</WitnessedDeathAlly.stages.0.label>
+  <WitnessedDeathAlly.stages.0.description>Ich habe einen Verbündeten sterben sehen. Im einen Moment war er noch am Leben und im nächsten tot.</WitnessedDeathAlly.stages.0.description>
+
+  <WitnessedDeathNonAlly.stages.0.label>ร่วมเป็นสักขีพยานความตายไม่ใช่พันธมิตร</WitnessedDeathNonAlly.stages.0.label>
+  <WitnessedDeathNonAlly.stages.0.description>Ich habe einen Outsider sterben sehen. Im einen Moment war er noch am Leben und im nächsten tot.</WitnessedDeathNonAlly.stages.0.description>
+
+  <WitnessedDeathBloodlust.stages.0.label>ร่วมเป็นสักขีพยานการตายของบุคคลภายนอก</WitnessedDeathBloodlust.stages.0.label>
+  <WitnessedDeathBloodlust.stages.0.description>Ich habe jemanden sterben sehen. Wow, das war intensiv!</WitnessedDeathBloodlust.stages.0.description>
+
+  <KilledHumanlikeBloodlust.stages.0.label>ร่วมเป็นสักขีพยานการตายของครอบครัว</KilledHumanlikeBloodlust.stages.0.label>
+  <KilledHumanlikeBloodlust.stages.0.description>Ich habe jemanden umgebracht. Was für ein Gefühl!</KilledHumanlikeBloodlust.stages.0.description>
+
+  <DefeatedHostileFactionLeader.stages.0.label>{0} ผู้นำศัตรูพ่ายแพ้</DefeatedHostileFactionLeader.stages.0.label>
+  <DefeatedHostileFactionLeader.stages.0.description>Sie wollten uns zerstören und ich habe sie besiegt!</DefeatedHostileFactionLeader.stages.0.description>
+
+  <DefeatedMajorEnemy.stages.0.label>{0} ได้พ่ายแพ้</DefeatedMajorEnemy.stages.0.label>
+  <DefeatedMajorEnemy.stages.0.description>Ich habe eine große Gefahr besiegt! Ich bin ein Held!</DefeatedMajorEnemy.stages.0.description>
+
+  <ColonistAbandoned.stages.0.label>ออกจากอาณานิคม</ColonistAbandoned.stages.0.label>
+  <ColonistAbandoned.stages.0.description>We just left someone behind. I hope they'll make it, but I'm worried.</ColonistAbandoned.stages.0.description>
+
+  <ColonistAbandonedToDie.stages.0.label>อาณานิคมทิ้งให้ตาย</ColonistAbandonedToDie.stages.0.label>
+  <ColonistAbandonedToDie.stages.0.description>We left someone behind in such a way that there's almost no way they'll survive.</ColonistAbandonedToDie.stages.0.description>
+
+  <PrisonerAbandonedToDie.stages.0.label>นักโทษที่เหลือจะตาย</PrisonerAbandonedToDie.stages.0.label>
+  <PrisonerAbandonedToDie.stages.0.description>We left a prisoner behind in such a way that there's almost no way they'll survive.</PrisonerAbandonedToDie.stages.0.description>
+
+
+  <BondedAnimalAbandoned.stages.0.label>สัตว์เลี้ยง {0} ทิ้งไว้ข้างหลัง</BondedAnimalAbandoned.stages.0.label>
+  <BondedAnimalAbandoned.stages.0.description>My bonded animal was abandoned in the middle of nowhere!</BondedAnimalAbandoned.stages.0.description>
+
+
+
+
+
+
+
+
+
+
+</LanguageData>

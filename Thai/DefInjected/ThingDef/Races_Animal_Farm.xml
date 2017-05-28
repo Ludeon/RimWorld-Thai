@@ -14,7 +14,7 @@
   <Pig.description>Das Schwein ist eines der ersten von Menschen gezähmten Tiere. Es wird hauptsächlich für sein Fleisch und sein Leder gezüchtet und da es ein Allesfresser ist, kann man es sehr einfach füttern.</Pig.description>
   <Pig_Leather.label>แผ่นหนังหมู</Pig_Leather.label>
   <Pig_Leather.description>Die Haut eines Schweins.</Pig_Leather.description>
-  <Pig_Leather.stuffProps.stuffAdjective>Schweinehaut</Pig_Leather.stuffProps.stuffAdjective>
+  <Pig_Leather.stuffProps.stuffAdjective>แผ่นหนังหมู</Pig_Leather.stuffProps.stuffAdjective>
   <Pig_Meat.label>เนื้อหมู</Pig_Meat.label>
   <Pig_Meat.description>Das Fleisch eines Schweins.</Pig_Meat.description>
   <Pig_Corpse.label>ซากหมู</Pig_Corpse.label>
@@ -24,7 +24,7 @@
   <Cow.description>Ein weit verbreitetes Haustier. Sie kann große Mengen an Milch produzieren, oder aber auch für sehr leckeres Fleisch geschlachtet werden.</Cow.description>
   <Cow_Leather.label>แผ่นหนังวัว</Cow_Leather.label>
   <Cow_Leather.description>Die Haut einer Kuh.</Cow_Leather.description>
-  <Cow_Leather.stuffProps.stuffAdjective>Kuhhaut</Cow_Leather.stuffProps.stuffAdjective>
+  <Cow_Leather.stuffProps.stuffAdjective>แผ่นหนังวัว</Cow_Leather.stuffProps.stuffAdjective>
   <Cow_Meat.label>เนื้อวัว</Cow_Meat.label>
   <Cow_Meat.description>Das Fleisch einer Kuh.</Cow_Meat.description>
   <Cow_Corpse.label>ซากวัว</Cow_Corpse.label>
@@ -34,7 +34,7 @@
   <Alpaca.description>Ein mittelgroßes Huftier und ein naher Verwandter des Lamas, wird das Alpaka oft wegen seiner unglaublich weichen Wolle gezüchtet.</Alpaca.description>
   <Alpaca_Leather.label>แผ่นหนังอัลปาก้า</Alpaca_Leather.label>
   <Alpaca_Leather.description>Das Leder eines Alpakas.</Alpaca_Leather.description>
-  <Alpaca_Leather.stuffProps.stuffAdjective>Alpakaleder</Alpaca_Leather.stuffProps.stuffAdjective>
+  <Alpaca_Leather.stuffProps.stuffAdjective>แผ่นหนังอัลปาก้า</Alpaca_Leather.stuffProps.stuffAdjective>
   <Alpaca_Meat.label>เนื้ออัลปาก้า</Alpaca_Meat.label>
   <Alpaca_Meat.description>Das Fleisch eines Alpakas.</Alpaca_Meat.description>
   <Alpaca_Corpse.label>ซากอัลปาก้า</Alpaca_Corpse.label>

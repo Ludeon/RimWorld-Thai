@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <NeedFood.stages.0.label>หิว</NeedFood.stages.0.label>
+  <NeedFood.stages.0.description>ฉันไม่ได้กินอะไรมากสักพักแล้ว</NeedFood.stages.0.description>
+  <NeedFood.stages.1.label>หิวมาก</NeedFood.stages.1.label>
+  <NeedFood.stages.1.description>ความหิวเสียดแทงอยู่ข้างใน ฉันต้องการอาหารหรือไม่อย่างนั้นฉันจะอดตายในอีกไม่นาน</NeedFood.stages.1.description>
+  <NeedFood.stages.2.label>อดอยาก</NeedFood.stages.2.label>
+  <NeedFood.stages.2.description>ฉันแค่ต้องการบางอย่าง - อะไรก็ได้ - เพื่อกิน ฉันรู้สึกได้ว่าร่างกายกำลังเสียไป มันเจ็บ</NeedFood.stages.2.description>
+  <NeedFood.stages.3.label>หิวโหย (เล็กน้อย)</NeedFood.stages.3.label>
+  <NeedFood.stages.3.description>Ich fühle schon, wie mein Körper stirbt. Mein Magen schmerzt wie nie zuvor.</NeedFood.stages.3.description>
+  <NeedFood.stages.4.label>หิวโหย (ปางกลาง)</NeedFood.stages.4.label>
+  <NeedFood.stages.4.description>Ich kann kaum noch an etwas anderes als Essen denken. Meine Haut spannt sich schon über meinen Knochen. Werde ich sterben?</NeedFood.stages.4.description>
+  <NeedFood.stages.5.label>หิวโหย (มาก)</NeedFood.stages.5.label>
+  <NeedFood.stages.5.description>Ich kann mich kaum noch bewegen und kann nur noch an Essen denken. Die Schmerzen in meinem Magen sind unerträglich. Ich fühle mich als wenn ich jeden Moment zusammenbreche..</NeedFood.stages.5.description>
+  <NeedFood.stages.6.label>หิวโหย (อย่างมาก)</NeedFood.stages.6.label>
+  <NeedFood.stages.6.description>Essen... Essen... Nur einen kleinen Bissen... Alles... Bitte...</NeedFood.stages.6.description>
+
+  <NeedRest.stages.0.label>เหนื่อย</NeedRest.stages.0.label>
+  <NeedRest.stages.0.description>ฉันไม่ได้นอนมาสักพักแล้ว</NeedRest.stages.0.description>
+  <NeedRest.stages.1.label>เหนื่อยมาก</NeedRest.stages.1.label>
+  <NeedRest.stages.1.description>ฉันเหนื่อยเหลือเกิน ฉันแค่ต้องการนอนลงและพักผ่อนสักไม่กี่นาที...</NeedRest.stages.1.description>
+  <NeedRest.stages.2.label>หมดแรง</NeedRest.stages.2.label>
+  <NeedRest.stages.2.description>ฉันหมดแรงเหลือเกินจนแทบจะยืนไม่ไหวแล้ว หนังตาของฉันช่างหนัก ให้ฉันนอนเถอะ...</NeedRest.stages.2.description>
+
+  <NeedJoy.stages.0.label>ไม่มีความสุขอย่างสิ้นเชิง</NeedJoy.stages.0.label>
+  <NeedJoy.stages.0.description>มันนานมากแล้วตั้งแต่ที่ฉันได้ทำอะไรที่มีความสุขจริงๆ</NeedJoy.stages.0.description>
+  <NeedJoy.stages.1.label>ไม่มีความสุขอย่างมาก</NeedJoy.stages.1.label>
+  <NeedJoy.stages.1.description>ฉันไม่เคยได้พักผ่อนและมีความสุขรอบๆที่นี่เลย</NeedJoy.stages.1.description>
+  <NeedJoy.stages.2.label>ไม่มีความสุข</NeedJoy.stages.2.label>
+  <NeedJoy.stages.2.description>ฉันอยากพักเพื่อหาความสุขบ้าง</NeedJoy.stages.2.description>
+  <NeedJoy.stages.3.label>ความสุขเติมเต็ม</NeedJoy.stages.3.label>
+  <NeedJoy.stages.3.description>ฉันมีเวลาที่เยี่ยมที่นี่เมื่อไม่นานนี้</NeedJoy.stages.3.description>
+  <NeedJoy.stages.4.label>สุขแสนสุข</NeedJoy.stages.4.label>
+  <NeedJoy.stages.4.description>ฉันมีความสุขมากเหลือเกิน ฉันรักที่นี่!</NeedJoy.stages.4.description>
+
+  <NeedComfort.stages.0.label>ไม่สะดวกสบาย</NeedComfort.stages.0.label>
+  <NeedComfort.stages.0.description>เดี๋ยวนี้ฉันไม่ค่อยสะดวกสบาย เราต้องหาอะไรนุ่มๆสักอย่างมานั่งแถวๆนี้บ้างแล้ว</NeedComfort.stages.0.description>
+  <NeedComfort.stages.1.label>สะดวกสบาย</NeedComfort.stages.1.label>
+  <NeedComfort.stages.1.description>เดี๋ยวนี้ฉันสะดวกสบายดี</NeedComfort.stages.1.description>
+  <NeedComfort.stages.2.label>สะดวกสบายมาก</NeedComfort.stages.2.label>
+  <NeedComfort.stages.2.description>เดี๋ยวนี้ฉันสะดวกสบายมาก</NeedComfort.stages.2.description>
+  <NeedComfort.stages.3.label>สะดวกสบายสุดๆ</NeedComfort.stages.3.label>
+  <NeedComfort.stages.3.description>เดี๋ยวนี้ฉันสะดวกสบายสุดๆเลย !</NeedComfort.stages.3.description>
+  <NeedComfort.stages.4.label>สะดวกสบายหรูหราโอ่อ่า</NeedComfort.stages.4.label>
+  <NeedComfort.stages.4.description>ฉันกำลังพักอยู่บนเมฆในสรวงสวรรค์สินะ</NeedComfort.stages.4.description>
+
+  <NeedBeauty.stages.0.label>บรรยากาศน่าเกลียด</NeedBeauty.stages.0.label>
+  <NeedBeauty.stages.0.description>ที่นี่ไม่น่าอยู่เลย</NeedBeauty.stages.0.description>
+  <NeedBeauty.stages.1.label>บรรยากาศอุบาทว์</NeedBeauty.stages.1.label>
+  <NeedBeauty.stages.1.description>ที่นี่ไม่น่าอยู่อย่างมาก ฉันไม่อยากอยู่ที่นี่</NeedBeauty.stages.1.description>
+  <NeedBeauty.stages.2.label>บรรยากาศมืดมน</NeedBeauty.stages.2.label>
+  <NeedBeauty.stages.2.description>ที่นี่ไม่อาจจะทานทนได้ ปล่อยฉันออกไปนะ...</NeedBeauty.stages.2.description>
+  <NeedBeauty.stages.3.label>บรรยากาศรื่นรม</NeedBeauty.stages.3.label>
+  <NeedBeauty.stages.3.description>ที่นี่น่าอยู่ดี</NeedBeauty.stages.3.description>
+  <NeedBeauty.stages.4.label>บรรยากาศรื่นรมมาก</NeedBeauty.stages.4.label>
+  <NeedBeauty.stages.4.description>ฉันชอบที่นี่ มันสวยดี</NeedBeauty.stages.4.description>
+  <NeedBeauty.stages.5.label>บรรยากาศสวยสดงดงาม</NeedBeauty.stages.5.label>
+  <NeedBeauty.stages.5.description>ที่นี่สวยสดงดงามมาก มันทำให้ฉันร่าเริงและทำให้รักชีวิตของฉัน</NeedBeauty.stages.5.description>
+
+  <NeedSpace.stages.0.label>บรรยากาศคับแคบ</NeedSpace.stages.0.label>
+  <NeedSpace.stages.0.description>ที่นี่คับแคบมาก ฉันรู้สึกว่าไม่มีที่จะหายใจ</NeedSpace.stages.0.description>
+  <NeedSpace.stages.1.label>บรรยากาศคับแคบมาก</NeedSpace.stages.1.label>
+  <NeedSpace.stages.1.description>มันอึดอัดมากในนี้ ฉันไม่มีที่จะขยับตัวเลย ฉันรู้สึกเหมือนหนูที่อยู่ในกรงแคบๆ</NeedSpace.stages.1.description>
+  <NeedSpace.stages.2.label>ภายในกว้างขวาง</NeedSpace.stages.2.label>
+  <NeedSpace.stages.2.description>ที่นี่เป็นพื้นที่เปิดในร่มที่สบายมากๆ</NeedSpace.stages.2.description>
+
+</LanguageData>

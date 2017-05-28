@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- SPECIFICS -->
 
-  <Arrow_Short.label>Kurzbogenpfeil</Arrow_Short.label>
-  <Bow_Short.label>Kurzbogen</Bow_Short.label>
+  <Arrow_Short.label>ลูกธนูสั้น</Arrow_Short.label>
+  <Bow_Short.label>ธนู</Bow_Short.label>
   <Bow_Short.description>Ein einfacher Bogen, der mit primitivsten Technologien, aber hohem Geschick hergestellt wurde.</Bow_Short.description>
 
-  <Pilum_Thrown.label>Pila-Wurfspeer</Pilum_Thrown.label>
-  <Pila.label>Pila-Wurfspeere</Pila.label>
+  <Pilum_Thrown.label>หอกปา</Pilum_Thrown.label>
+  <Pila.label>หอกปา</Pila.label>
   <Pila.description>Mehrere, nicht wiederverwendbare Wurfspeere.</Pila.description>
 
-  <Arrow_Great.label>Langbogenpfeil</Arrow_Great.label>
-  <Bow_Great.label>Langbogen</Bow_Great.label>
-  <Bow_Great.description>Ein starker Langbogen. Verschie�t einen starken Pfeil �ber eine l�ngere Distanz.</Bow_Great.description>
+  <Arrow_Great.label>ลูกธนูยาว</Arrow_Great.label>
+  <Bow_Great.label>ธนูยาว</Bow_Great.label>
+  <Bow_Great.description>Ein starker Langbogen. Verschießt einen starken Pfeil über eine längere Distanz.</Bow_Great.description>
 
 </LanguageData>

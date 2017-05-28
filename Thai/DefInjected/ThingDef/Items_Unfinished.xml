@@ -3,16 +3,19 @@
 
    <!-- Unfinished things -->
 
-  <UnfinishedSculpture.label>ปฏิมากรรมที่ยังไม่เสร็จ</UnfinishedSculpture.label>
+  <UnfinishedSculpture.label>ปฏิมากรรมที่ยังทำไม่เสร็จ</UnfinishedSculpture.label>
   <UnfinishedGun.label>ปืนที่ยังทำไม่เสร็จ</UnfinishedGun.label>
   <UnfinishedWeapon.label>อาวุธที่ยังทำไม่เสร็จ</UnfinishedWeapon.label>
+  <UnfinishedMetallicTechArmor.label>เกราะโลหะเมทัลลิคที่ยังทำไม่เสร็จ</UnfinishedMetallicTechArmor.label>
   <UnfinishedTechArmor.label>เทคอาร์เมอร์ที่ยังทำไม่เสร็จ</UnfinishedTechArmor.label>
   <UnfinishedApparel.label>เสื้อผ้าที่ยังทำไม่เสร็จ</UnfinishedApparel.label>
+  <UnfinishedBelt.label>เข็มขัดที่ยังทำไม่เสร็จ</UnfinishedBelt.label>
+  <UnfinishedComponent.label>อะไหล่คอมพิวเตอร์ที่ยังทำไม่เสร็จ</UnfinishedComponent.label>
 
   <!-- Minified things -->
 
-  <MinifiedSculpture.label>Skulptur</MinifiedSculpture.label>
-  <MinifiedFurniture.label>Möbel</MinifiedFurniture.label>
+  <MinifiedSculpture.label>ประติมากรรมลดขนาดลง</MinifiedSculpture.label>
+  <MinifiedFurniture.label>เฟอร์นิเจอร์ลดขนาดลง</MinifiedFurniture.label>
   <!-- <MinifiedCapsuleReactor.label>Kapselreaktor</MinifiedCapsuleReactor.label> -->
 
 </LanguageData>

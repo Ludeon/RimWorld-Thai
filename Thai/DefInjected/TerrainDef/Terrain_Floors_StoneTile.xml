@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Tile -->
+
+  <TileSandstone.label>กระเบื้อง (หินทราย)</TileSandstone.label>
+  <TileSandstone.description>Solide Steinplatten, für das Burg-Feeling. Sieht gut aus, aber es dauert eine Weile sie zu verlegen.</TileSandstone.description>
+
+  <TileGranite.label>กระเบื้อง (แกรนิต)</TileGranite.label>
+  <TileGranite.description>Solide Steinplatten, für das Burg-Feeling. Sieht gut aus, aber es dauert eine Weile sie zu verlegen.</TileGranite.description>
+
+  <TileLimestone.label>กระเบื้อง (หินปูน)</TileLimestone.label>
+  <TileLimestone.description>Solide Steinplatten, für das Burg-Feeling. Sieht gut aus, aber es dauert eine Weile sie zu verlegen.</TileLimestone.description>
+
+  <TileSlate.label>กระเบื้อง (ฉนวน)</TileSlate.label>
+  <TileSlate.description>Solide Steinplatten, für das Burg-Feeling. Sieht gut aus, aber es dauert eine Weile sie zu verlegen.</TileSlate.description>
+
+  <TileMarble.label>กระเบื้อง (หินอ่อน)</TileMarble.label>
+  <TileMarble.description>Solide Steinplatten, für das Burg-Feeling. Sieht gut aus, aber es dauert eine Weile sie zu verlegen.</TileMarble.description>
+
+
+  <!-- Flagstone -->
+
+  <FlagstoneSandstone.label>กระเบื้องปูพื้นหินทราย</FlagstoneSandstone.label>
+  <FlagstoneSandstone.description>Grobgeschnittene Steinplatten. Nicht sonderlich schön, aber sie sind eine sehr gute Oberfläche für Straßen und Wege. Steinplatten abzureißen bringt keine Rohstoffe.</FlagstoneSandstone.description>
+
+  <FlagstoneGranite.label>กระเบื้องปูพื้นหินแกรนิต</FlagstoneGranite.label>
+  <FlagstoneGranite.description>Grobgeschnittene Steinplatten. Nicht sonderlich schön, aber sie sind eine sehr gute Oberfläche für Straßen und Wege. Steinplatten abzureißen bringt keine Rohstoffe.</FlagstoneGranite.description>
+
+  <FlagstoneLimestone.label>กระเบื้องปูพื้นหินปูน</FlagstoneLimestone.label>
+  <FlagstoneLimestone.description>Grobgeschnittene Steinplatten. Nicht sonderlich schön, aber sie sind eine sehr gute Oberfläche für Straßen und Wege. Steinplatten abzureißen bringt keine Rohstoffe.</FlagstoneLimestone.description>
+
+  <FlagstoneSlate.label>กระเบื้องปูพื้นหินชนวน</FlagstoneSlate.label>
+  <FlagstoneSlate.description>Grobgeschnittene Steinplatten. Nicht sonderlich schön, aber sie sind eine sehr gute Oberfläche für Straßen und Wege. Steinplatten abzureißen bringt keine Rohstoffe.</FlagstoneSlate.description>
+
+  <FlagstoneMarble.label>กระเบื้องปูพื้นหินอ่อน</FlagstoneMarble.label>
+  <FlagstoneMarble.description>Grobgeschnittene Steinplatten. Nicht sonderlich schön, aber sie sind eine sehr gute Oberfläche für Straßen und Wege. Steinplatten abzureißen bringt keine Rohstoffe.</FlagstoneMarble.description>
+
+
+</LanguageData>

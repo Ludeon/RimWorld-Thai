@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <PowerConduit.label>Stromkabel</PowerConduit.label>
+  <PowerConduit.label>ท่อสายไฟ</PowerConduit.label>
   <PowerConduit.description>Leitet Strom zu den Verbrauchern. Kann unter Wänden und anderen Gegenständen verlegt werden.</PowerConduit.description>
 
-  <PowerSwitch.label>Schalter</PowerSwitch.label>
+  <PowerSwitch.label>สวิตช์ไฟ</PowerSwitch.label>
   <PowerSwitch.description>Schaltet Strom ein/aus.</PowerSwitch.description>
 
-  <SolarGenerator.label>Solaranlage</SolarGenerator.label>
-  <SolarGenerator.description>Produziert Strom aus Sonnenlicht. Im Dunkeln ohne Funktion.</SolarGenerator.description>
-
-  <GeothermalGenerator.label>Geothermie Generator</GeothermalGenerator.label>
-  <GeothermalGenerator.description>Produziert Strom mit Hilfe eines Dampfgeysires. Muss auf einem Geysir platziert werden.</GeothermalGenerator.description>
-
-  <FueledGenerator.label>Befeuerter Generator</FueledGenerator.label>
+  <FueledGenerator.label>เครื่องผลิตไฟฟ้า (เชื้อเพลิง)</FueledGenerator.label>
   <FueledGenerator.description>Produziert Strom durch Verbrennung von Holz-Treibstoff. Muss von Hand aufgefüllt werden.</FueledGenerator.description>
 
-  <Battery.label>Batterie</Battery.label>
+  <Battery.label>แบตเตอรี่</Battery.label>
   <Battery.description>Speichert Strom, wenn ein Überschuss besteht und gibt ihn wieder ab, wenn er fehlt. Warnung - geladene Batterien können explodieren, wenn sie nass oder heiß werden.</Battery.description>
+
+  <SolarGenerator.label>เครื่องผลิตไฟฟ้า (แสงอาทิตย์)</SolarGenerator.label>
+  <SolarGenerator.description>Produziert Strom aus Sonnenlicht. Im Dunkeln ohne Funktion.</SolarGenerator.description>
+
+  <GeothermalGenerator.label>เครื่องผลิตไฟฟ้า (ไอน้ำ)</GeothermalGenerator.label>
+  <GeothermalGenerator.description>Produziert Strom mit Hilfe eines Dampfgeysires. Muss auf einem Geysir platziert werden.</GeothermalGenerator.description>
 
 </LanguageData>

@@ -3,27 +3,32 @@
 
   <!-- Plant products -->
 
-  <Hay.label>Heu</Hay.label>
+  <Hay.label>หญ้าแห้ง</Hay.label>
   <Hay.description>Nährstoffreiches Gras und Sprösslinge, geerntet und zur Lagerung verdichtet. Heu ist ein gutes Tierfutter, aber ungenießbar für Menschen.</Hay.description>
 
-  <RawHops.label>Hopfen</RawHops.label>
+  <RawHops.label>ฮอบส์</RawHops.label>
   <RawHops.description>Roher Hopfen. Ein Aromastoff und Konservierungsmittel, das zum Herstellen von Bier benötigt wird.</RawHops.description>
 
   <!-- Raw foods -->
 
-  <RawPotatoes.label>Kartoffeln</RawPotatoes.label>
+  <RawPotatoes.label>มันฝรั่งดิบ</RawPotatoes.label>
   <RawPotatoes.description>Rohe Kartoffeln.</RawPotatoes.description>
 
-  <RawCorn.label>Mais</RawCorn.label>
-  <RawCorn.description>Roher Mais. Schmeckt lecker und ist roh genießbar.</RawCorn.description>
-
-  <RawRice.label>Reis</RawRice.label>
+  <RawRice.label>ข้าวดิบ</RawRice.label>
   <RawRice.description>Roher Reis.</RawRice.description>
 
-  <RawBerries.label>Beeren</RawBerries.label>
-  <RawBerries.description>Verschiedene Beeren. Schmeckt lecker und ist roh genießbar.</RawBerries.description>
-
-  <RawAgave.label>Agavefrucht</RawAgave.label>
+  <RawAgave.label>ต้นหางจระเข้</RawAgave.label>
   <RawAgave.description>Rohe Früchte der Agave.</RawAgave.description>
 
+  <RawCorn.label>ข้าวโพดดิบ</RawCorn.label>
+  <RawCorn.description>Roher Mais.</RawCorn.description>
+
+  <RawBerries.label>เบอร์รี่ดิบ</RawBerries.label>
+  <RawBerries.description>Verschiedene Beeren. Schmeckt lecker und ist roh genießbar.</RawBerries.description>
+
+  <PsychoidLeaves.label>Psychoid Leaves</PsychoidLeaves.label>
+  <PsychoidLeaves.description>Unverarbeitete Psychoid-Blätter einer Psychoid-Pflanze.</PsychoidLeaves.description>
+  
+  <SmokeleafLeaves.label>Smokeleaf Leaves</SmokeleafLeaves.label>
+  <SmokeleafLeaves.description>Unverarbeitete Rauchblatt-Blätter einer Rauchblatt-Pflanze. Kann an einem Arbeitsplatz zu Joints verarbeitet werden.</SmokeleafLeaves.description>
 </LanguageData>

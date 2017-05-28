@@ -1,37 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Kibble -->
-
-  <Kibble.label>อาหารเม็ด</Kibble.label>
-  <Kibble.description>Trockenfutter für Tiere, das aus einer Mischung verschiedener Fleisch- und Pflanzenarten hergestellt wurde.</Kibble.description>
-
-  <!-- Milk -->
+  <!--=====================================================================-->
+  <!--=============================== Misc ================================-->
+  <!--=====================================================================-->
 
   <Milk.label>นม</Milk.label>
   <Milk.description>Milch von einem Tier.</Milk.description>
 
-  <!-- Eggs -->
+  <InsectJelly.label>เยลลี่ แมลง</InsectJelly.label>
+  <InsectJelly.description>Gelee als Nahrung von überdimensionierten Insekten gehortet. Es ist süffig, reich und hat eine aufheiternde Wirkung. Aufgrund ihrer einzigartigen biologischen Eigenschaften kann es nahezu jede Kreatur ernähren und es vedirbt nicht.</InsectJelly.description>
 
-  <EggChickenUnfertilized.label>ไข่ไก่ (ยังไม่ผสม)</EggChickenUnfertilized.label>
+  <!-- Chicken -->
+  
+  <EggChickenUnfertilized.label>ไข่ไก่ (ปฏิสนธิ)</EggChickenUnfertilized.label>
   <EggChickenUnfertilized.description>Ein unbefruchtetes Hühner-Ei. Es kann roh gegessen werden, ist gekocht aber viel besser.</EggChickenUnfertilized.description>
 
-  <EggChickenFertilized.label>ไข่ไก่ (ผสมแล้ว)</EggChickenFertilized.label>
+  <EggChickenFertilized.label>ไข่ไก่ (ไม่ปฏิสนธิ)</EggChickenFertilized.label>
   <EggChickenFertilized.description>Ein befruchtetes Hühner-Ei. Wenn alles gut läuft, schlüpft daraus ein kleines Küken. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggChickenFertilized.description>
 
-  <EggCobraFertilized.label>ไข่งูเห่า (ผสมแล้ว)</EggCobraFertilized.label>
+  <!-- Cobra -->
+  
+  <EggCobraFertilized.label>ไข่งูเห่า (ปฏิสนธิ)</EggCobraFertilized.label>
   <EggCobraFertilized.description>Ein befruchtetes Kobra-Ei. Wenn alles gut läuft, schlüpft daraus eine junge Kobra. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggCobraFertilized.description>
 
-  <EggIguanaFertilized.label>ไข่อิกัวน่า (ผสมแล้ว)</EggIguanaFertilized.label>
+  <!-- Iguana -->
+  
+  <EggIguanaFertilized.label>ไข่อีกัวน่า (ปฏิสนธิ)</EggIguanaFertilized.label>
   <EggIguanaFertilized.description>Ein befruchtetes Leguan-Ei. Wenn alles gut läuft, schlüpft daraus ein junger Leguan. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggIguanaFertilized.description>
 
-  <EggTortoiseFertilized.label>ไข่เต่า (ผสมแล้ว)</EggTortoiseFertilized.label>
+  <!-- Tortoise -->
+  
+  <EggTortoiseFertilized.label>ไข่เต่า (ปฏิสนธิ)</EggTortoiseFertilized.label>
   <EggTortoiseFertilized.description>Ein befruchtetes Schildkröten-Ei. Wenn alles gut läuft, schlüpft daraus eine junge Schildkröte. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggTortoiseFertilized.description>
   
-  <!-- Insect jelly -->
-
-  <InsectJelly.label>เยลลี่แมลง</InsectJelly.label>
-  <InsectJelly.description>Gelee als Nahrung von überdimensionierten Insekten gehortet. Es ist süffig, reich und sehr befriedigend. Aufgrund ihrer einzigartigen biologischen Eigenschaften kann es nahezu jede Kreatur ernähren und es vedirbt nicht.</InsectJelly.description>
+  <!-- Cassowary -->
   
+  <EggCassowaryFertilized.label>ไขนกแคสโซแวรี (ปฏิสนธิ)</EggCassowaryFertilized.label>
+  <EggCassowaryFertilized.description>Ein befruchtetes Kasuar-Ei. Wenn alles gut läuft, schlüpft daraus ein junger Kasuar. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggCassowaryFertilized.description>
+  
+  <!-- Emu -->
+  
+  <EggEmuFertilized.label>ไข่นกอีมู (ปฏิสนธิ)</EggEmuFertilized.label>
+  <EggEmuFertilized.description>Ein befruchtetes Emu-Ei. Wenn alles gut läuft, schlüpft daraus ein junges Emu. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggEmuFertilized.description>
+  
+  <!-- Ostrich -->
+  
+  <EggOstrichFertilized.label>ไข่นกกระจอกเทศ  (ปฏิสนธิ)</EggOstrichFertilized.label>
+  <EggOstrichFertilized.description>Ein befruchtetes Straußen Ei. Wenn alles gut läuft, schlüpft daraus ein junger Strauß. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggOstrichFertilized.description>
+  
+  <!-- Turkey -->
 
+  <EggTurkeyFertilized.label>ไข่ไก่งวง (ปฏิสนธิ)</EggTurkeyFertilized.label>
+  <EggTurkeyFertilized.description>Ein befruchtetes Truthahn-Ei. Wenn alles gut läuft, schlüpft daraus ein junger Truthahn. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggTurkeyFertilized.description>
+  
+  
 </LanguageData>

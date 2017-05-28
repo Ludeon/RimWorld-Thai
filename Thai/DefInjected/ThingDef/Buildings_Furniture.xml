@@ -3,7 +3,7 @@
 
   <!-- Beds -->
 
-  <SleepingSpot.label>ที่หลับ</SleepingSpot.label>
+  <SleepingSpot.label>ที่นอนว่างเปล่า</SleepingSpot.label>
   <SleepingSpot.description>Definiert eine Stelle auf dem Boden, auf der Leute schlafen sollen. Nicht sonderlich bequem.</SleepingSpot.description>
 
   <Bed.label>เตียง</Bed.label>
@@ -12,21 +12,21 @@
   <DoubleBed.label>เตียงคู่</DoubleBed.label>
   <DoubleBed.description>Ein einfaches Doppelbett mit genug Platz für Zwei.</DoubleBed.description>
 
-  <RoyalBed.label>เตียงราชวงศ์</RoyalBed.label>
+  <RoyalBed.label>เตียงแบบหรู</RoyalBed.label>
   <RoyalBed.description>Ein luxuriöses, mit Gold verziertes Bett, das gerade ausreichend für die Person von Adel ist. Sehr bequem und schön und mit ausreichend Platz für Zwei.</RoyalBed.description>
 
-  <HospitalBed.label>Krankenbett</HospitalBed.label>
+  <HospitalBed.label>เตียงพยาบาล</HospitalBed.label>
   <HospitalBed.description>Ein Bett, das speziell für die Behandlung verletzter Personen entworfen wurde. Verbessert die Wahrscheinlichkeit, medizinische Behandlungen sowie Operationen erfolgreich durchzuführen.</HospitalBed.description>
 
   <!-- Animal beds -->
 
-  <AnimalSleepingSpot.label>ที่นอนสัตว์ (Tier)</AnimalSleepingSpot.label>
+  <AnimalSleepingSpot.label>ที่นอนว่างเปล่า (สัตว์)</AnimalSleepingSpot.label>
   <AnimalSleepingSpot.description>Definiert eine Stelle auf dem Boden, auf der Tiere schlafen sollen.</AnimalSleepingSpot.description>
 
-  <AnimalSleepingBox.label>กล่องนอนสัตว์ (Tier)</AnimalSleepingBox.label>
+  <AnimalSleepingBox.label>กล่องนอน (สัตว์)</AnimalSleepingBox.label>
   <AnimalSleepingBox.description>Eine kleine Kiste in der Tiere schlafen können. Passend für kleinere Tiere, wie Hühner, Katzen oder kleine Hunde</AnimalSleepingBox.description>
 
-  <AnimalBed.label>เตียงสัตว์ (Tier)</AnimalBed.label>
+  <AnimalBed.label>เตียง (สัตว์)</AnimalBed.label>
   <AnimalBed.description>Ein weiches Bett auf dem Tiere schlafen können. Passend für alle Tierarten.</AnimalBed.description>
 
   <!-- Basic domestic furniture -->
@@ -34,17 +34,17 @@
   <Stool.label>ม้านั่ง</Stool.label>
   <Stool.description>Eine einfache Oberfläche, auf der man sitzen kann.</Stool.description>
 
-  <DiningChair.label>เก้าอี้ทานข้าว</DiningChair.label>
+  <DiningChair.label>เก้าอี้</DiningChair.label>
   <DiningChair.description>Ein komfortabler und gut aussehender Stuhl.</DiningChair.description>
 
-  <Armchair.label>Sessel</Armchair.label>
+  <Armchair.label>เก้าอี้นวม</Armchair.label>
   <Armchair.description>Ein großer, weicher und bequemer Sitz. Sehr gut zum Entspannen.</Armchair.description>
 
   <!-- Table base -->
-  <TableShort.label>โต๊ะสั้น</TableShort.label>
+  <TableShort.label>โต๊ะ (สั้น)</TableShort.label>
   <TableShort.description>Sie essen am Tisch, sofern Stühle vorhanden sind.</TableShort.description>
 
-  <TableLong.label>โต๊ะยาว</TableLong.label>
+  <TableLong.label>โต๊ะ (ยาว)</TableLong.label>
   <TableLong.description>Sie essen am Tisch, sofern Stühle vorhanden sind.</TableLong.description>
 
   <PlantPot.label>กระถางต้นไม้</PlantPot.label>
@@ -53,21 +53,28 @@
   
   <!-- Lighting -->
 
-  <StandingLamp.label>ไฟตั้งพื้น</StandingLamp.label>
+  <TorchLamp.label>คบเพลิง</TorchLamp.label>
+  <TorchLamp.description>Eine hölzerne Fackel, die eine Fläche beleuchtet. Sie kann automatisch mit Treibstoff aufgefüllt werden. Erzeugt eine geringe Menge Wärme.</TorchLamp.description>
+
+  <StandingLamp.label>โคมไฟตั้งยืน</StandingLamp.label>
   <StandingLamp.description>Stehlampe, die eine Fläche beleuchtet.</StandingLamp.description>
 
-  <StandingLamp_Red.label>ไฟตั้งพื้น (แดง)</StandingLamp_Red.label>
+  <StandingLamp_Red.label>โคมไฟยืน (แดง)</StandingLamp_Red.label>
   <StandingLamp_Red.description>Stehlampe, die eine Fläche rot beleuchtet.</StandingLamp_Red.description>
 
-  <StandingLamp_Green.label>ไฟตั้งพื้น (เขียว)</StandingLamp_Green.label>
+  <StandingLamp_Green.label>โคมไฟยืน (เขียว)</StandingLamp_Green.label>
   <StandingLamp_Green.description>Stehlampe, die eine Fläche grün beleuchtet.</StandingLamp_Green.description>
 
-  <StandingLamp_Blue.label>ไฟตั้งพื้น (น้ำเงิน)</StandingLamp_Blue.label>
+  <StandingLamp_Blue.label>โคมไฟยืน (น้ำเงิน)</StandingLamp_Blue.label>
   <StandingLamp_Blue.description>Stehlampe, die eine Fläche blau beleuchtet.</StandingLamp_Blue.description>
+
+  <SunLamp.label>โคมไฟยืน (แสงอาทิตย์)</SunLamp.label>
+  <SunLamp.description>Beleuchtet eine Fläche so stark, dass Pflanzen wachsen können.</SunLamp.description>
+  <SunLamp.comps.3.offMessage>Aus während Ruhephase der Pflanzen</SunLamp.comps.3.offMessage>
 
   <!-- Storage -->
 
-  <EquipmentRack.label>ตู้อุปกรณ์</EquipmentRack.label>
-  <EquipmentRack.description>Hier gelagerte Ausrüstung verschlechtert sich nicht, auch nicht im Freien.</EquipmentRack.description>
-
+  <Shelf.label>ชั้นวางของ</Shelf.label>
+  <Shelf.description>Hier gelagerte Ausrüstung verrottet nicht, auch nicht im Freien.</Shelf.description>
+  
 </LanguageData>

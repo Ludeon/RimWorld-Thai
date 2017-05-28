@@ -3,15 +3,15 @@
 
   <!-- Wild - clustering bushes (some harvestable) -->
 
-  <PlantAgave.label>อะกาเว่</PlantAgave.label>
+  <PlantAgave.label>ต้นหางจระเข้</PlantAgave.label>
   <PlantAgave.description>Eine großblättrige Wüstenpflanze, deren Stängel und Blüte essbar sind.</PlantAgave.description>
 
   <!-- Wild - Cacti -->
 
-  <PlantSaguaroCactus.label>Riesenkaktus</PlantSaguaroCactus.label>
+  <PlantSaguaroCactus.label>ต้นกระบองเพชรใหญ่</PlantSaguaroCactus.label>
   <PlantSaguaroCactus.description>Großer Kaktus, der in den trockensten Gebieten des Planeten zu Hause ist.</PlantSaguaroCactus.description>
 
-  <PlantPincushionCactus.label>Zwergkaktus</PlantPincushionCactus.label>
+  <PlantPincushionCactus.label>ต้นกระบองเพชรเล็ก</PlantPincushionCactus.label>
   <PlantPincushionCactus.description>Kleiner Kaktus. Ähnelt einem Nadelkissen.</PlantPincushionCactus.description>
 
 </LanguageData>

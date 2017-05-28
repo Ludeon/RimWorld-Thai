@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!--=================== executions and prisoner deaths ===================-->
+  
+  <KnowGuestExecuted.stages.0.label>บางคนถูกทำให้ตาย</KnowGuestExecuted.stages.0.label>
+  <KnowGuestExecuted.stages.0.description>นักโทษหรือแขกนั้นถูกทำให้ตาย</KnowGuestExecuted.stages.0.description>
+
+  <KnowGuestExecuted.stages.1.label>บางคนถูกประหาร</KnowGuestExecuted.stages.1.label>
+  <KnowGuestExecuted.stages.1.description>นักโทษหรือแขกถูกฆ่าตายอย่างเลือดเย็น อาณานิคมนี้ดูเหมือนจะชั่วร้ายมากขึ้นทุกวัน</KnowGuestExecuted.stages.1.description>
+  <KnowGuestExecuted.stages.2.label>อวัยวะถูกตัดและตาย</KnowGuestExecuted.stages.2.label>
+  <KnowGuestExecuted.stages.2.description>นักโทษหรือแขกตายเพราะอาณานิคมนำอวัยวะของเขาออกไป มันเลวร้ายมาก</KnowGuestExecuted.stages.2.description>
+  <KnowGuestExecuted.stages.3.label>มีคนเสียชีวิตในการเก็บเกียวอวัยวะ</KnowGuestExecuted.stages.3.label>
+  <KnowGuestExecuted.stages.3.description>นักโทษหรือผู้เข้าพักได้ตายหลังจากที่ถูกถอดออกอวัยวะเขา นั่นเป็นสิ่งที่โหดร้าย</KnowGuestExecuted.stages.3.description>
+  
+  <KnowColonistExecuted.stages.0.label>ชาวอาณานิคมถูกทำให้ตาย</KnowColonistExecuted.stages.0.label>
+  <KnowColonistExecuted.stages.0.description>ชาวอาณานิคมถูกทำให้ตาย</KnowColonistExecuted.stages.0.description>
+
+  <KnowColonistExecuted.stages.1.label>ชาวอาณานิคมถูกประหาร</KnowColonistExecuted.stages.1.label>
+  <KnowColonistExecuted.stages.1.description>ชาวอาณานิคมถูกฆ่าตายอย่างเลือดเย็น อาณานิคมนี้ดูเหมือนจะชั่วร้ายมากขึ้นทุกวัน</KnowColonistExecuted.stages.1.description>
+  <KnowColonistExecuted.stages.2.label>อวัยวะของชาวอาณานิคมถูกเก็บเกี่ยวและตาย</KnowColonistExecuted.stages.2.label>
+  <KnowColonistExecuted.stages.2.description>ชาวอาณานิคมตายเพราะบางคนนำอวัยวะของเขาออกไป มันเลวร้ายมาก</KnowColonistExecuted.stages.2.description> 
+  <KnowColonistExecuted.stages.3.label>ชาวอาณานิคมเสียชีวิตในการเก็บเกี่ยวอวัยวะ</KnowColonistExecuted.stages.3.label>
+  <KnowColonistExecuted.stages.3.description>ชาวอาณานิคมเสียชีวิตหลังจากที่ถูกถอดออกอวัยวะเขา นั่นเป็นสิ่งที่โหดร้าย</KnowColonistExecuted.stages.3.description>
+  
+  <KnowPrisonerDiedInnocent.stages.0.label>นักโทษผู้บริสุทธิ์เสียชีวิต</KnowPrisonerDiedInnocent.stages.0.label>
+  <KnowPrisonerDiedInnocent.stages.0.description>One of our prisoners died despite being harmless. We should be able to take care of our prisoners. If we wanted them dead, we could have at least conducted an orderly execution rather than permit that barbarism.</KnowPrisonerDiedInnocent.stages.0.description>
+  
+  <KnowColonistDied.stages.0.label>อาณานิคมเสียชีวิต</KnowColonistDied.stages.0.label>
+  <KnowColonistDied.stages.0.description>One of our people died. We should be able to take care of our people.</KnowColonistDied.stages.0.description>
+  
+  
+  <!--===================== bonded animal died =====================-->
+
+  <BondedAnimalDied.stages.0.label>สัตว์เลี้ยง {0} ตาย</BondedAnimalDied.stages.0.label>
+  <BondedAnimalDied.stages.0.description>Such a tender, unique animal. This universe is evil!</BondedAnimalDied.stages.0.description>
+  
+  
+  <!--===================== friend/rival died =====================-->
+
+  <PawnWithGoodOpinionDied.stages.0.label>เพื่อน {0} ตาย</PawnWithGoodOpinionDied.stages.0.label>
+  <PawnWithGoodOpinionDied.stages.0.description>Such a wonderful person. The universe gets darker every day.</PawnWithGoodOpinionDied.stages.0.description>
+
+  <PawnWithBadOpinionDied.stages.0.label>คู่กัด{0} ตาย</PawnWithBadOpinionDied.stages.0.label>
+  <PawnWithBadOpinionDied.stages.0.description>Serves them right. Things are looking up.</PawnWithBadOpinionDied.stages.0.description>
+  
+  
+  <!--===================== Family member died thoughts =====================-->
+
+  <MySonDied.stages.0.label>ลูกชาย {0} ฉันตาย</MySonDied.stages.0.label>
+  <MySonDied.stages.0.description>My son is dead. My own flesh and blood...</MySonDied.stages.0.description>
+
+  <MyDaughterDied.stages.0.label>ลูกสาว {0} ฉันตาย</MyDaughterDied.stages.0.label>
+  <MyDaughterDied.stages.0.description>My daughter is dead. My own flesh and blood...</MyDaughterDied.stages.0.description>
+
+  <MyHusbandDied.stages.0.label> สามี {0} ฉันตาย</MyHusbandDied.stages.0.label>
+  <MyHusbandDied.stages.0.description>My husband is dead. I am alone.</MyHusbandDied.stages.0.description>
+
+  <MyWifeDied.stages.0.label>ภรรยา {0} ฉันตาย</MyWifeDied.stages.0.label>
+  <MyWifeDied.stages.0.description>My wife is dead. I am alone.</MyWifeDied.stages.0.description>
+
+  <MyFianceDied.stages.0.label>คู่หมั้น {0} ฉันตาย</MyFianceDied.stages.0.label>
+  <MyFianceDied.stages.0.description>My fiance died. Such a man... my future is gone.</MyFianceDied.stages.0.description>
+
+  <MyFianceeDied.stages.0.label>คู่หมั้น {0} ฉันตาย</MyFianceeDied.stages.0.label>
+  <MyFianceeDied.stages.0.description>My fiancée died. Such a woman... my future is gone.</MyFianceeDied.stages.0.description>
+
+  <MyLoverDied.stages.0.label>รัก {0} ฉันตาย</MyLoverDied.stages.0.label>
+  <MyLoverDied.stages.0.description>My lover died. I am so alone.</MyLoverDied.stages.0.description>
+
+  <MyBrotherDied.stages.0.label>พี่ {0} ฉันตาย</MyBrotherDied.stages.0.label>
+  <MyBrotherDied.stages.0.description>My brother died. My own flesh and blood...</MyBrotherDied.stages.0.description>
+
+  <MySisterDied.stages.0.label>น้อง {0} ฉันตาย</MySisterDied.stages.0.label>
+  <MySisterDied.stages.0.description>My sister died. My own flesh and blood...</MySisterDied.stages.0.description>
+
+  <MyGrandchildDied.stages.0.label>หลาน {0} ฉันตาย</MyGrandchildDied.stages.0.label>
+  <MyGrandchildDied.stages.0.description>My grandchild died. My own flesh and blood...</MyGrandchildDied.stages.0.description>
+
+  <MyFatherDied.stages.0.label>พ่อ {0} ฉันตาย</MyFatherDied.stages.0.label>
+  <MyFatherDied.stages.0.description>My father died. He's gone forever.</MyFatherDied.stages.0.description>
+
+  <MyMotherDied.stages.0.label>แม่ฉัน {0} ตาย</MyMotherDied.stages.0.label>
+  <MyMotherDied.stages.0.description>My mother died. She's gone forever.</MyMotherDied.stages.0.description>
+
+  <MyNieceDied.stages.0.label>หลานสาว {0} ฉันตาย</MyNieceDied.stages.0.label>
+  <MyNieceDied.stages.0.description>My niece died. Such a wonderful child.</MyNieceDied.stages.0.description>
+
+  <MyNephewDied.stages.0.label>หลานชาย {0} ฉันตาย</MyNephewDied.stages.0.label>
+  <MyNephewDied.stages.0.description>My nephew died. Such a wonderful child.</MyNephewDied.stages.0.description>
+
+  <MyHalfSiblingDied.stages.0.label>พี่น้องครึ่ง {0} ฉันตาย</MyHalfSiblingDied.stages.0.label>
+  <MyHalfSiblingDied.stages.0.description>My half-sibling died. My own flesh and blood...</MyHalfSiblingDied.stages.0.description>
+
+  <MyAuntDied.stages.0.label>ป้า {0} ฉันตาย</MyAuntDied.stages.0.label>
+  <MyAuntDied.stages.0.description>My aunt died.</MyAuntDied.stages.0.description>
+
+  <MyUncleDied.stages.0.label>ลุง {0} ฉันตาย</MyUncleDied.stages.0.label>
+  <MyUncleDied.stages.0.description>My uncle died.</MyUncleDied.stages.0.description>
+
+  <MyGrandparentDied.stages.0.label>ปู่ย่าตายาย {0} ฉันตาย</MyGrandparentDied.stages.0.label>
+  <MyGrandparentDied.stages.0.description>My grandparent died.</MyGrandparentDied.stages.0.description>
+
+  <MyCousinDied.stages.0.label>ลูกพี่ลูกน้อง {0} ฉันตาย</MyCousinDied.stages.0.label>
+  <MyCousinDied.stages.0.description>My cousin died. My own flesh and blood...</MyCousinDied.stages.0.description>
+
+  <MyKinDied.stages.0.label>ญาติ {0} ฉันตาย</MyKinDied.stages.0.label>
+  <MyKinDied.stages.0.description>My kin died.</MyKinDied.stages.0.description>
+
+
+
+
+</LanguageData>

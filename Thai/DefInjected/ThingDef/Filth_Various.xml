@@ -6,8 +6,9 @@
   <FilthSand.label>ทราย</FilthSand.label>
   <RockRubble.label>เศษหิน</RockRubble.label>
   <BuildingRubble.label>เศษสิ่งก่อสร้าง</BuildingRubble.label>
+  <SlagRubble.label>Slag Rubble</SlagRubble.label>
   <SandbagRubble.label>เศษกระสอบทราย</SandbagRubble.label>
-
+  
   <!-- Fluids etc -->
 
   <FilthBlood.label>เลือด</FilthBlood.label>
@@ -15,6 +16,15 @@
   <FilthAmnioticFluid.label>น้ำคร่ำ</FilthAmnioticFluid.label>
   <FilthSlime.label>เมือก</FilthSlime.label>
 
+  <FilthVomit.label>อาเจียนสกปรก</FilthVomit.label>
   <FilthFireFoam.label>โฟมดับเพลิง</FilthFireFoam.label>
+
+  <FilthFuel.label>คราบสกปรก</FilthFuel.label>
+  <FilthFuel.description>Eine brennbare Flüssigkeit.</FilthFuel.description>
+
+  <FilthCorpseBile.label>ของเหลวจากศพ</FilthCorpseBile.label>
+
+  <FilthAsh.label>ขี้เถ้า</FilthAsh.label>
+
 
 </LanguageData>

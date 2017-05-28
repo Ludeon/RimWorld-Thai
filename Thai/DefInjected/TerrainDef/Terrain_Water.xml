@@ -2,6 +2,10 @@
 <LanguageData>
 
   <WaterDeep.label>น้ำลึก</WaterDeep.label>
+  <WaterOceanDeep.label>น้ำลึกมหาสมุทร</WaterOceanDeep.label>
+  <WaterMovingDeep.label>น้ำไหล น้ำลึก</WaterMovingDeep.label>
   <WaterShallow.label>น้ำตื้น</WaterShallow.label>
+  <WaterOceanShallow.label>น้ำทะเลตื้น</WaterOceanShallow.label>
+  <WaterMovingShallow.label>น้ำไหล น้ำตื้น</WaterMovingShallow.label>
 
 </LanguageData>

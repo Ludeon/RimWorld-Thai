@@ -3,6 +3,15 @@
 
   <!-- Misc Tile -->
 
+  <Concrete.label>คอนกรีต</Concrete.label>
+  <Concrete.description>Schnell ausgegossener Beton. Man kann darauf schnell laufen, er ist billig und schnell gegossen. Allerdings ist er auch recht hässlich.</Concrete.description>
+
+  <PavedTile.label>พื้นปูน</PavedTile.label>
+  <PavedTile.description>Gebrauchstaugliche Betonplatten. Billig und man kann darauf schnell laufen, allerdings benötigt es mehr Arbeitszeit und vom Aussehen her ist er eher neutral.</PavedTile.description>
+  
+  <WoodPlankFloor.label>พื้นกระดานไม้</WoodPlankFloor.label>
+  <WoodPlankFloor.description>Ein Holzfußboden. Für das warme, heimische Gefühl.</WoodPlankFloor.description>
+
   <MetalTile.label>พื้นโลหะ</MetalTile.label>
   <MetalTile.description>Metallfliesen, für den Raumschiff-Look. Sieht gut aus, benötigt aber viel Material und Arbeitszeit.</MetalTile.description>
 
@@ -14,15 +23,6 @@
 
   <SterileTile.label>พื้นปลอดเชื้อ</SterileTile.label>
   <SterileTile.description>Sterilraumfliesen helfen dabei einen Raum sauber zu halten. Sehr nützlich in Krankenhäusern um das Infektionsrisiko von Patienten zu reduzieren. Sieht neutral aus und braucht lange zum Verlegen.</SterileTile.description>
-
-  <PavedTile.label>Betonplatte</PavedTile.label>
-  <PavedTile.description>Gebrauchstaugliche Betonplatten. Billig und man kann darauf schnell laufen, allerdings benötigt es mehr Arbeitszeit und vom Aussehen her ist er eher neutral.</PavedTile.description>
-
-  <Concrete.label>คอนกรีต</Concrete.label>
-  <Concrete.description>Schnell ausgegossener Beton. Man kann darauf schnell laufen, er ist billig und schnell gegossen. Allerdings ist er auch recht hässlich.</Concrete.description>
-
-  <WoodPlankFloor.label>พื้นกระดาน</WoodPlankFloor.label>
-  <WoodPlankFloor.description>Ein Holzfußboden. Für das warme, heimische Gefühl.</WoodPlankFloor.description>
 
   <!-- Carpets -->
 
@@ -44,19 +44,38 @@
   <!-- Special: Floors from stones -->
 
   <Sandstone_Rough.label>หินทรายหยาบ</Sandstone_Rough.label>
-  <Sandstone_RoughHewn.label>Grob behauener Sandstein</Sandstone_RoughHewn.label>
-  <Sandstone_Smooth.label>หินทรายขัด</Sandstone_Smooth.label>
+  <Sandstone_RoughHewn.label>หินทรายหยาบโค่น</Sandstone_RoughHewn.label>
+  <Sandstone_Smooth.label>หินทรายเรียบ</Sandstone_Smooth.label>
+  <Sandstone_Rough.description>Rauer, natürlicher Boden aus Sandstein.</Sandstone_Rough.description> 
+  <Sandstone_RoughHewn.description>Grob geschnittener Boden aus Sandstein.</Sandstone_RoughHewn.description> 
+  <Sandstone_Smooth.description>Geglätteter, natürlicher Boden aus Sandstein.</Sandstone_Smooth.description> 
+
   <Granite_Rough.label>หินแกรนิตหยาบ</Granite_Rough.label>
-  <Granite_RoughHewn.label>หินแกรนิตGrob behauener Granit</Granite_RoughHewn.label>
-  <Granite_Smooth.label>หินแกรนิตขัด</Granite_Smooth.label>
+  <Granite_RoughHewn.label>หินแกรนิตหยาบโค่น</Granite_RoughHewn.label>
+  <Granite_Smooth.label>หินแกรนิตเรียบ</Granite_Smooth.label>
+  <Granite_Rough.description>Rauer, natürlicher Boden aus Granit.</Granite_Rough.description> 
+  <Granite_RoughHewn.description>Grob geschnittener Boden aus Granit.</Granite_RoughHewn.description> 
+  <Granite_Smooth.description>Geglätteter, natürlicher Boden aus Granit.</Granite_Smooth.description>
+
   <Limestone_Rough.label>หินปูนหยาบ</Limestone_Rough.label>
-  <Limestone_RoughHewn.label>หินปูนGrob behauener Kalkstein</Limestone_RoughHewn.label>
-  <Limestone_Smooth.label>หินปูนขัด</Limestone_Smooth.label>
-  <Slate_Rough.label>หินชนวนหยาบ</Slate_Rough.label>
-  <Slate_RoughHewn.label>หินชนวนGrob behauener Schiefer</Slate_RoughHewn.label>
-  <Slate_Smooth.label>หินชนวนขัด</Slate_Smooth.label>
-  <Marble_Rough.label>หินอ่อนหยาบRauer Marmor</Marble_Rough.label>
-  <Marble_RoughHewn.label>หินอ่อนGrob behauener Marmor</Marble_RoughHewn.label>
-  <Marble_Smooth.label>หินอ่อนขัด</Marble_Smooth.label>
+  <Limestone_RoughHewn.label>หินปูนหยาบโค่น</Limestone_RoughHewn.label>
+  <Limestone_Smooth.label>หินปูนเรียบ</Limestone_Smooth.label>
+  <Limestone_Rough.description>Rauer, natürlicher Boden aus Kalkstein.</Limestone_Rough.description> 
+  <Limestone_RoughHewn.description>Grob geschnittener Boden aus Kalkstein.</Limestone_RoughHewn.description> 
+  <Limestone_Smooth.description>Geglätteter, natürlicher Boden aus Kalkstein.</Limestone_Smooth.description> 
+
+  <Slate_Rough.label>หินฉนวนหยาบ</Slate_Rough.label>
+  <Slate_RoughHewn.label>หินฉนวนหยาบโค่น</Slate_RoughHewn.label>
+  <Slate_Smooth.label>หินฉนวนเรียบ</Slate_Smooth.label>
+  <Slate_Rough.description>Rauer, natürlicher Boden aus Schiefer.</Slate_Rough.description> 
+  <Slate_RoughHewn.description>Grob geschnittener Boden aus Schiefer.</Slate_RoughHewn.description>
+  <Slate_Smooth.description>Geglätteter, natürlicher Boden aus Schiefer.</Slate_Smooth.description> 
+
+  <Marble_Rough.label>หินอ่อนหยาบ</Marble_Rough.label>
+  <Marble_RoughHewn.label>หินอ่อนหยาบโค่น</Marble_RoughHewn.label>
+  <Marble_Smooth.label>หินอ่อนเรียบ</Marble_Smooth.label>
+  <Marble_Rough.description>Rauer, natürlicher Boden aus Marmor.</Marble_Rough.description> 
+  <Marble_RoughHewn.description>Grob geschnittener Boden aus Marmor.</Marble_RoughHewn.description> 
+  <Marble_Smooth.description>Geglätteter, natürlicher Boden aus Marmor.</Marble_Smooth.description> 
 
 </LanguageData>

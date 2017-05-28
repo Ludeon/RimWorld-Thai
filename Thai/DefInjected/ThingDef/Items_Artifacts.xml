@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <PsychicInsanityLance.label>Berserkerlanze</PsychicInsanityLance.label>
+  <PsychicInsanityLance.label>เครื่องพลังจิต (บ้าคลั่ง)</PsychicInsanityLance.label>
   <PsychicInsanityLance.description>Ein Wegwerf-Artefakt, das jeden Charakter aus der Ferne zum Berserker werden lässt - Funktioniert auch durch Wände!</PsychicInsanityLance.description>
-
-  <PsychicShockLance.label>Schocklanze</PsychicShockLance.label>
+  <PsychicInsanityLance.comps.1.useLabel>Aktivieren</PsychicInsanityLance.comps.1.useLabel>
+  
+  <PsychicShockLance.label>เครื่องพลังจิต (ช็อค)</PsychicShockLance.label>
   <PsychicShockLance.description>Ein Wegwerf-Artefakt, das eine psychische Störwelle auf einen Charakter verschießt und diesen eine Zeitlang in einen psychischen Schockzustand versetzt. Hohes Risiko, das Gehirn zu beschädigen.</PsychicShockLance.description>
-
-  <PsychicAnimalPulser.label>Tierstörwelle</PsychicAnimalPulser.label>
+  <PsychicShockLance.comps.1.useLabel>Aktivieren</PsychicShockLance.comps.1.useLabel>
+  
+  <PsychicAnimalPulser.label>เครื่องพลังจิต (บ้าคลั่ง สัตว์)</PsychicAnimalPulser.label>
   <PsychicAnimalPulser.description>Ein Wegwerf-Artefakt, das jedes Tier in der Region in einen menschenjagenden Wutanfall versetzt.</PsychicAnimalPulser.description>
-
-  <PsychicSoothePulser.label>Beruhigungswelle</PsychicSoothePulser.label>
+  <PsychicAnimalPulser.comps.1.useLabel>Aktivieren</PsychicAnimalPulser.comps.1.useLabel>
+  
+  <PsychicSoothePulser.label>เครื่องพลังจิต (อารมณ์ดี)</PsychicSoothePulser.label>
   <PsychicSoothePulser.description>Ein Wegwerf-Artefakt, das jedem Charakter auf der Karte einen temporären Stimmungsboost gibt.</PsychicSoothePulser.description>
-
+  <PsychicSoothePulser.comps.1.useLabel>Aktivieren</PsychicSoothePulser.comps.1.useLabel>
+  
 </LanguageData>
