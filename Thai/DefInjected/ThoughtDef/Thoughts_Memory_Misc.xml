@@ -65,41 +65,41 @@
   <!-- Combat -->
 
   <ObservedLayingCorpse.stages.0.label>มองเห็นศพ</ObservedLayingCorpse.stages.0.label>
-  <ObservedLayingCorpse.stages.0.description>Ich habe eine Leiche auf dem Boden herum liegen sehen. Es war verstörend.</ObservedLayingCorpse.stages.0.description>
+  <ObservedLayingCorpse.stages.0.description>ฉันเห็นศพที่ตายอยู่บนพื้น มันน่ารำคาญ</ObservedLayingCorpse.stages.0.description>
 
   <ObservedLayingRottingCorpse.stages.0.label>มองเห็นศพเน่าเปื่อย</ObservedLayingRottingCorpse.stages.0.label>
-  <ObservedLayingRottingCorpse.stages.0.description>Ich habe eine verrottende Leiche auf dem Boden liegen sehen. Es war so eklig. Das aufgeblähte Fleisch und all die Maden...</ObservedLayingRottingCorpse.stages.0.description>
+  <ObservedLayingRottingCorpse.stages.0.description>ฉันเห็นซากศพที่เน่าเปื่อยวางอยู่บนพื้น มันน่าขยะแขยง...</ObservedLayingRottingCorpse.stages.0.description>
 
-  <WitnessedDeathAlly.stages.0.label>ร่วมเป็นสักขีพยานในการตายของพันธมิตร</WitnessedDeathAlly.stages.0.label>
-  <WitnessedDeathAlly.stages.0.description>Ich habe einen Verbündeten sterben sehen. Im einen Moment war er noch am Leben und im nächsten tot.</WitnessedDeathAlly.stages.0.description>
+  <WitnessedDeathAlly.stages.0.label>เห็นการตายของพันธมิตร</WitnessedDeathAlly.stages.0.label>
+  <WitnessedDeathAlly.stages.0.description>ฉันเห็นคนของฉันตาย พวกเขายังมีชีวิตอยู่สักครู่และตายไป</WitnessedDeathAlly.stages.0.description>
 
-  <WitnessedDeathNonAlly.stages.0.label>ร่วมเป็นสักขีพยานความตายไม่ใช่พันธมิตร</WitnessedDeathNonAlly.stages.0.label>
-  <WitnessedDeathNonAlly.stages.0.description>Ich habe einen Outsider sterben sehen. Im einen Moment war er noch am Leben und im nächsten tot.</WitnessedDeathNonAlly.stages.0.description>
+  <WitnessedDeathNonAlly.stages.0.label>เห็นการตายของคนนอก</WitnessedDeathNonAlly.stages.0.label>
+  <WitnessedDeathNonAlly.stages.0.description>ฉันเห็นคนตาย พวกเขายังมีชีวิตอยู่สักครู่และตายไป</WitnessedDeathNonAlly.stages.0.description>
 
-  <WitnessedDeathBloodlust.stages.0.label>ร่วมเป็นสักขีพยานการตายของบุคคลภายนอก</WitnessedDeathBloodlust.stages.0.label>
-  <WitnessedDeathBloodlust.stages.0.description>Ich habe jemanden sterben sehen. Wow, das war intensiv!</WitnessedDeathBloodlust.stages.0.description>
+  <WitnessedDeathBloodlust.stages.0.label>เห็นคนตาย</WitnessedDeathBloodlust.stages.0.label>
+  <WitnessedDeathBloodlust.stages.0.description>ฉันเห็นคนตาย! ที่รุนแรง!</WitnessedDeathBloodlust.stages.0.description>
 
-  <KilledHumanlikeBloodlust.stages.0.label>ร่วมเป็นสักขีพยานการตายของครอบครัว</KilledHumanlikeBloodlust.stages.0.label>
-  <KilledHumanlikeBloodlust.stages.0.description>Ich habe jemanden umgebracht. Was für ein Gefühl!</KilledHumanlikeBloodlust.stages.0.description>
+  <KilledHumanlikeBloodlust.stages.0.label>ฆ่าใครบางคน</KilledHumanlikeBloodlust.stages.0.label>
+  <KilledHumanlikeBloodlust.stages.0.description>ฉันฆ่าคน!</KilledHumanlikeBloodlust.stages.0.description>
 
   <DefeatedHostileFactionLeader.stages.0.label>{0} ผู้นำศัตรูพ่ายแพ้</DefeatedHostileFactionLeader.stages.0.label>
-  <DefeatedHostileFactionLeader.stages.0.description>Sie wollten uns zerstören und ich habe sie besiegt!</DefeatedHostileFactionLeader.stages.0.description>
+  <DefeatedHostileFactionLeader.stages.0.description>พวกเขากำลังพยายามที่จะทำลายพวกเราและฉันก็เอาพวกมันลง!</DefeatedHostileFactionLeader.stages.0.description>
 
   <DefeatedMajorEnemy.stages.0.label>{0} ได้พ่ายแพ้</DefeatedMajorEnemy.stages.0.label>
-  <DefeatedMajorEnemy.stages.0.description>Ich habe eine große Gefahr besiegt! Ich bin ein Held!</DefeatedMajorEnemy.stages.0.description>
+  <DefeatedMajorEnemy.stages.0.description>ฉันหยุดภัยคุกคามคลั้งใหญ่! ฉันเป็นวีรบุรุษ!</DefeatedMajorEnemy.stages.0.description>
 
   <ColonistAbandoned.stages.0.label>ออกจากอาณานิคม</ColonistAbandoned.stages.0.label>
-  <ColonistAbandoned.stages.0.description>We just left someone behind. I hope they'll make it, but I'm worried.</ColonistAbandoned.stages.0.description>
+  <ColonistAbandoned.stages.0.description>เราเพิ่งทิ้งคนไว้ข้างหลัง ฉันหวังว่าพวกเขาจะทำให้ แต่ฉันก็เป็นห่วง</ColonistAbandoned.stages.0.description>
 
   <ColonistAbandonedToDie.stages.0.label>อาณานิคมทิ้งให้ตาย</ColonistAbandonedToDie.stages.0.label>
-  <ColonistAbandonedToDie.stages.0.description>We left someone behind in such a way that there's almost no way they'll survive.</ColonistAbandonedToDie.stages.0.description>
+  <ColonistAbandonedToDie.stages.0.description>เราปล่อยให้คนที่อยู่ข้างหลังอยู่ในลักษณะที่เกือบจะไม่มีทางที่พวกเขาจะอยู่รอดได้</ColonistAbandonedToDie.stages.0.description>
 
   <PrisonerAbandonedToDie.stages.0.label>นักโทษที่เหลือจะตาย</PrisonerAbandonedToDie.stages.0.label>
-  <PrisonerAbandonedToDie.stages.0.description>We left a prisoner behind in such a way that there's almost no way they'll survive.</PrisonerAbandonedToDie.stages.0.description>
+  <PrisonerAbandonedToDie.stages.0.description>เราทิ้งผู้ต้องหาไว้ข้างหลังในแบบที่ทำให้พวกเขาไม่สามารถรอดได้</PrisonerAbandonedToDie.stages.0.description>
 
 
   <BondedAnimalAbandoned.stages.0.label>สัตว์เลี้ยง {0} ทิ้งไว้ข้างหลัง</BondedAnimalAbandoned.stages.0.label>
-  <BondedAnimalAbandoned.stages.0.description>My bonded animal was abandoned in the middle of nowhere!</BondedAnimalAbandoned.stages.0.description>
+  <BondedAnimalAbandoned.stages.0.description>สัตว์ที่เชื่องของฉันถูกทิ้งร้างอยู่กลางไม่มีที่ไหนเลย!</BondedAnimalAbandoned.stages.0.description>
 
 
 

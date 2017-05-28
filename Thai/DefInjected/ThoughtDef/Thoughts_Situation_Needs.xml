@@ -8,13 +8,13 @@
   <NeedFood.stages.2.label>อดอยาก</NeedFood.stages.2.label>
   <NeedFood.stages.2.description>ฉันแค่ต้องการบางอย่าง - อะไรก็ได้ - เพื่อกิน ฉันรู้สึกได้ว่าร่างกายกำลังเสียไป มันเจ็บ</NeedFood.stages.2.description>
   <NeedFood.stages.3.label>หิวโหย (เล็กน้อย)</NeedFood.stages.3.label>
-  <NeedFood.stages.3.description>Ich fühle schon, wie mein Körper stirbt. Mein Magen schmerzt wie nie zuvor.</NeedFood.stages.3.description>
+  <NeedFood.stages.3.description>ฉันรู้สึกเหมือนร่างกายของฉันตาย ท้องของฉันเจ็บไม่เคยขนาดนนี้มาก่อน</NeedFood.stages.3.description>
   <NeedFood.stages.4.label>หิวโหย (ปางกลาง)</NeedFood.stages.4.label>
-  <NeedFood.stages.4.description>Ich kann kaum noch an etwas anderes als Essen denken. Meine Haut spannt sich schon über meinen Knochen. Werde ich sterben?</NeedFood.stages.4.description>
+  <NeedFood.stages.4.description>ฉันแทบจะไม่สามารถคิดสิ่งอื่นที่ไม่ใช่อาหาร ผิวของฉันถูกยืดออกแล้วในกระดูกของเรา ฉันจะตาย?</NeedFood.stages.4.description>
   <NeedFood.stages.5.label>หิวโหย (มาก)</NeedFood.stages.5.label>
-  <NeedFood.stages.5.description>Ich kann mich kaum noch bewegen und kann nur noch an Essen denken. Die Schmerzen in meinem Magen sind unerträglich. Ich fühle mich als wenn ich jeden Moment zusammenbreche..</NeedFood.stages.5.description>
+  <NeedFood.stages.5.description>ฉันแทบจะไม่สามารถเดินได้และไม่สามารถคิดอย่างอื่นได้นอกจากอาหาร ความเจ็บปวดในกระเพาะอาหารของฉันจะทนแทบไม่ได้ ฉันรู้สึกว่าฉันจะตายได้ ในช่วงเวลาใด ..</NeedFood.stages.5.description>
   <NeedFood.stages.6.label>หิวโหย (อย่างมาก)</NeedFood.stages.6.label>
-  <NeedFood.stages.6.description>Essen... Essen... Nur einen kleinen Bissen... Alles... Bitte...</NeedFood.stages.6.description>
+  <NeedFood.stages.6.description>กิน ... กิน ... เพียงแค่ขอกินอะไรเล็ก ๆ น้อย ๆ ... หรือทุกอย่าง ... ได้โปรด ...</NeedFood.stages.6.description>
 
   <NeedRest.stages.0.label>เหนื่อย</NeedRest.stages.0.label>
   <NeedRest.stages.0.description>ฉันไม่ได้นอนมาสักพักแล้ว</NeedRest.stages.0.description>

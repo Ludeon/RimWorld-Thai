@@ -11,14 +11,14 @@
 
   <Insulted.stages.0.label>สบประมาท</Insulted.stages.0.label>
   <InsultedMood.stages.0.label>สบประมาท</InsultedMood.stages.0.label>
-  <InsultedMood.stages.0.description>Ich wurde richtig beleidigt! Was für eine schreckliche Person!</InsultedMood.stages.0.description>
+  <InsultedMood.stages.0.description>ฉันถูก สบประมาทซึ่งหน้า! เป็นอะไรที่แย่มาก!</InsultedMood.stages.0.description>
 
   <!-- Special -->
   
   <!-- note that it doesn't affect opinion -->
   
   <RapportBuilt.stages.0.label>สร้างความสามัคคี</RapportBuilt.stages.0.label>
-  <RapportBuilt.stages.0.description>Ich habe mit dem Aufseher über die Kolonie gesprochen. Es hört sich nach einem guten Ort an...</RapportBuilt.stages.0.description>
+  <RapportBuilt.stages.0.description>ฉันได้คุยกับผู้บังคับบัญชา ของอาณานิคม มันเสียงเหมือนสถานที่ ที่ดี ...</RapportBuilt.stages.0.description>
 
   <!-- Social fights -->
 
@@ -39,58 +39,59 @@
   <CrashedTogether.stages.0.label>โดนตรวจค้น</CrashedTogether.stages.0.label>
 
   <SoldMyLovedOne.stages.0.label>ขายคนที่ฉันรัก {0}</SoldMyLovedOne.stages.0.label>
-  <SoldMyLovedOne.stages.0.labelSocial>Meine geliebte Person wurde verkauft</SoldMyLovedOne.stages.0.labelSocial>
-  <SoldMyLovedOne.stages.0.description>Jemand den ich liebte wurde an einen Händler verkauft. Wie ein Stück Fleisch!</SoldMyLovedOne.stages.0.description>
+  <SoldMyLovedOne.stages.0.labelSocial>คนที่รักของฉันได้รับการขาย</SoldMyLovedOne.stages.0.labelSocial>
+  <SoldMyLovedOne.stages.0.description>คนที่รักของฉันถูกขายให้กับพ่อค้า เช่นเดียวกับชิ้นส่วนของเนื้อสัตว์!</SoldMyLovedOne.stages.0.description>
+  <SoldMyLovedOne.stages.0.description>คนที่รักของฉันถูกขายให้กับพ่อค้า เช่นเดียวกับชิ้นส่วนของเนื้อสัตว์!</SoldMyLovedOne.stages.0.description>
 
   <SoldMyBondedAnimal.stages.0.label>ขายสัตว์เลี้ยง {0}</SoldMyBondedAnimal.stages.0.label>
-  <SoldMyBondedAnimal.stages.0.labelSocial>Mein geliebtes Haustier wurde verkauft</SoldMyBondedAnimal.stages.0.labelSocial>
-  <SoldMyBondedAnimal.stages.0.description>Mein geliebtes Haustier wurde an einen Händler verkauft!</SoldMyBondedAnimal.stages.0.description>
+  <SoldMyBondedAnimal.stages.0.labelSocial>สัตว์เลี้ยงแสนรักของฉันถูกขาย</SoldMyBondedAnimal.stages.0.labelSocial>
+  <SoldMyBondedAnimal.stages.0.description>สัตว์เลี้ยงแสนรักของฉันถูกขายให้กับพ่อค้า!</SoldMyBondedAnimal.stages.0.description>
 
   
   <ForcedMeToTakeDrugs.stages.0.label>ถูกบังคับให้ใช้ยาเสพติด</ForcedMeToTakeDrugs.stages.0.label>
 
   <ForcedMeToTakeDrugsMood.stages.0.label>ใช้ยาที่ถูกบังคับ</ForcedMeToTakeDrugsMood.stages.0.label>
-  <ForcedMeToTakeDrugsMood.stages.0.description>Ich bin aus Überzeugung gegen jede Art von Drogenkonsum und würde nie freiwillig welche einnehmen. Aber ich wurde dazu gezwungen! Ich könnte weinen..</ForcedMeToTakeDrugsMood.stages.0.description>
+  <ForcedMeToTakeDrugsMood.stages.0.description>ฉันออกจากความเชื่อมั่นกับชนิดของการใช้ยาเสพติดใด ๆ และจะไม่สมัครใจใช้ใด ๆ แต่ผมถูกบังคับให้ทำเช่นนั้น! ฉันจะร้องไห้ ..</ForcedMeToTakeDrugsMood.stages.0.description>
 
 
-  <ForcedMeToTakeLuciferium.stages.0.label>ถูกบังคับให้ใช้ Luziferium</ForcedMeToTakeLuciferium.stages.0.label>
+  <ForcedMeToTakeLuciferium.stages.0.label>ถูกบังคับให้ใช้ ยา Luziferium</ForcedMeToTakeLuciferium.stages.0.label>
 
-  <ForcedMeToTakeLuciferiumMood.stages.0.label>Gezwungen Luziferium einzunehmen</ForcedMeToTakeLuciferiumMood.stages.0.label>
-  <ForcedMeToTakeLuciferiumMood.stages.0.description>Ich bin aus Überzeugung gegen jede Art von körperlicher Modifikation und würde nie freiwillig meinen Körper verändern. Aber ich wurde dazu gezwungen! Ich könnte weinen..</ForcedMeToTakeLuciferiumMood.stages.0.description>
+  <ForcedMeToTakeLuciferiumMood.stages.0.label>ใช้เวลาบังคับ Luziferium</ForcedMeToTakeLuciferiumMood.stages.0.label>
+  <ForcedMeToTakeLuciferiumMood.stages.0.description>ฉันออกจากความเชื่อมั่นกับชนิดของการปรับเปลี่ยนทางกายภาพใด ๆ และไม่เคยจะสมัครใจเปลี่ยนร่างกายของฉัน แต่ผมถูกบังคับให้ทำเช่นนั้น! ฉันจะร้องไห้ ..</ForcedMeToTakeLuciferiumMood.stages.0.description>
 
   
   <!-- Romance -->
 
   <RebuffedMyRomanceAttempt.stages.0.label>ฉันโดนปฏิเสธจากการจีบ</RebuffedMyRomanceAttempt.stages.0.label>
   <RebuffedMyRomanceAttemptMood.stages.0.label>ฉันโดนปฏิเสธจากการจีบ โดย {0}</RebuffedMyRomanceAttemptMood.stages.0.label>
-  <RebuffedMyRomanceAttemptMood.stages.0.description>Ich versuchte mit {0} zu flirten, aber bekam nur die kalte Schulter. Fühlt sich nicht gut an.</RebuffedMyRomanceAttemptMood.stages.0.description>
+  <RebuffedMyRomanceAttemptMood.stages.0.description>ฉันพยายามที่จะสร้างความโรแมนติก แต่ฉันได้นก รู้สึกเหมือนคนเลว</RebuffedMyRomanceAttemptMood.stages.0.description>
 
   <FailedRomanceAttemptOnMe.stages.0.label>ฉันมีคนมาจีบแต่ฉันปฏิเสธ</FailedRomanceAttemptOnMe.stages.0.label>
 
   <BrokeUpWithMe.stages.0.label>เลิกกับฉัน</BrokeUpWithMe.stages.0.label>
   <BrokeUpWithMeMood.stages.0.label>{0} เลิกกับฉัน</BrokeUpWithMeMood.stages.0.label>
-  <BrokeUpWithMeMood.stages.0.description>Ich wurde wie ein Sack Müll fallen gelassen.</BrokeUpWithMeMood.stages.0.description>
+  <BrokeUpWithMeMood.stages.0.description>ฉันถูกทิ้งเช่นถุงขยะ</BrokeUpWithMeMood.stages.0.description>
   
   <CheatedOnMe.stages.0.label>หลอกลวงฉัน</CheatedOnMe.stages.0.label>
   <CheatedOnMeMood.stages.0.label>{0} หลอกลวงฉัน</CheatedOnMeMood.stages.0.label>
-  <CheatedOnMeMood.stages.0.description>Wie kann jemand mich betrügen!</CheatedOnMeMood.stages.0.description>
+  <CheatedOnMeMood.stages.0.description>ทุกคนโกงฉัน!</CheatedOnMeMood.stages.0.description>
 
   <DivorcedMe.stages.0.label>ฉันโดนหย่าร้าง</DivorcedMe.stages.0.label>
   <DivorcedMeMood.stages.0.label>{0} หย่าร้างฉัน</DivorcedMeMood.stages.0.label>
-  <DivorcedMeMood.stages.0.description>Wir haben uns ein Versprechen gegeben! Da ist jetzt nicht mehr viel übrig von..</DivorcedMeMood.stages.0.description>
+  <DivorcedMeMood.stages.0.description>เราได้ทำสัญญา! ขณะนี้ไม่ได้ใส่มาก ..</DivorcedMeMood.stages.0.description>
 
   <RejectedMyProposal.stages.0.label>ปฏิเสธข้อเสนอของฉัน</RejectedMyProposal.stages.0.label>
   <RejectedMyProposalMood.stages.0.label>{0} ปฏิเสธข้อเสนอของฉัน</RejectedMyProposalMood.stages.0.label>
-  <RejectedMyProposalMood.stages.0.description>Ich dachte wir hätten etwas besonderes, etwas das für immer bleibt... Aber ich wurde abgewiesen.</RejectedMyProposalMood.stages.0.description>
+  <RejectedMyProposalMood.stages.0.description>ฉันคิดว่าเรามีอะไรบางสิ่งที่พิเศษที่อยู่ตลอดไป ... แต่ฉันถูกไล่ออก</RejectedMyProposalMood.stages.0.description>
 
   <IRejectedTheirProposal.stages.0.label>ผมปฏิเสธข้อเสนอของเธอ</IRejectedTheirProposal.stages.0.label>
 
   <HoneymoonPhase.stages.0.label>ฮันนีมูน</HoneymoonPhase.stages.0.label>
   <HoneymoonPhase.stages.0.labelSocial>ฮันนีมูน</HoneymoonPhase.stages.0.labelSocial>
-  <HoneymoonPhase.stages.0.description>Es ist so schön unser gemeinsames Leben zu beginnen.</HoneymoonPhase.stages.0.description>
+  <HoneymoonPhase.stages.0.description>มันเป็นเรื่องดีมากที่จะได้เริ่มต้นชีวิตของเราด้วยกัน</HoneymoonPhase.stages.0.description>
 
   <GotSomeLovin.stages.0.label>ฉันได้มี Sex</GotSomeLovin.stages.0.label>
-  <GotSomeLovin.stages.0.description>Es geht doch nichts über ein wenig Sex um die Laune zu heben!</GotSomeLovin.stages.0.description>
+  <GotSomeLovin.stages.0.description>ไม่มีอะไรที่เหมือนกับเพศน้อยอารมณ์ที่จะยกเป็น!</GotSomeLovin.stages.0.description>
   
   <KilledMyFriend.stages.0.label>ฆ่าเพื่อนของฉัน</KilledMyFriend.stages.0.label>
   

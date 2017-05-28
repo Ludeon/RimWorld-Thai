@@ -22,37 +22,37 @@
   <Hungover.stages.3.description>รู้สึกเหมือนฝูงห่านกำลังรุมจิกอยู่ในกระโหลก</Hungover.stages.3.description>
 
   <AlcoholWithdrawal.stages.1.label>เลิกแอลกอฮอล์</AlcoholWithdrawal.stages.1.label>
-  <AlcoholWithdrawal.stages.1.description>Fühle mich zittrig. Alles kotzt mich an. Ich muss ständig ans Trinken denken.</AlcoholWithdrawal.stages.1.description>
+  <AlcoholWithdrawal.stages.1.description>รู้สึกสั่นคลอน ทุกอย่างแย่ไปหมด ฉันต้องคิดเกี่ยวกับการดื่มอย่างต่อเนื่อง</AlcoholWithdrawal.stages.1.description>
 	
 	<GoJuiceHigh.label>เมา GoJuice</GoJuiceHigh.label>
-	<GoJuiceHigh.description>Ich bin aufgeregt, aber ruhig. Ich bin eine Gewehrkugel im Flug, bereit dich zu durchdringen.</GoJuiceHigh.description>
+	<GoJuiceHigh.description>ฉันตื่นเต้น แต่ความสงบ ฉันเป็นกระสุนในเที่ยวบินพร้อมที่จะเจาะคุณ</GoJuiceHigh.description>
 	<GoJuiceWithdrawal.stages.1.label>เลิก GoJuice</GoJuiceWithdrawal.stages.1.label>
-	<GoJuiceWithdrawal.stages.1.description>Ich bin durcheinander und kann nicht richtig denken. Meine Glieder fühlen sich schwer an. Wieso fokusieren sich meine Augen nicht richtig?!</GoJuiceWithdrawal.stages.1.description>
+	<GoJuiceWithdrawal.stages.1.description>ฉันสับสนและไม่สามารถคิดได้อย่างถูกต้อง แขนขาของฉันรู้สึกหนัก ทำไมตาของฉันไม่ได้มุ่งเน้นไปใช่มั้ย?!</GoJuiceWithdrawal.stages.1.description>
     
 	<FlakeHigh.label>เมา Flake</FlakeHigh.label>
-	<FlakeHigh.description>Sooo gut.. Ohhhh, soooo gut.</FlakeHigh.description>
+	<FlakeHigh.description>มัน.....ดี.. โอ้อออ, มัน....ดีเหลือเกิน</FlakeHigh.description>
 
 	<YayoHigh.label>เมา Yayo</YayoHigh.label>
-	<YayoHigh.description>Ich bin aufgeregt! Los geht's!</YayoHigh.description>
+	<YayoHigh.description>ฉันตื่นเต้น! ไปเลย!</YayoHigh.description>
 	<PsychiteWithdrawal.stages.1.label>เลิก Psychit</PsychiteWithdrawal.stages.1.label>
-	<PsychiteWithdrawal.stages.1.description>Gott bin ich müde. Nichts fühlt sich gut an..</PsychiteWithdrawal.stages.1.description>
+	<PsychiteWithdrawal.stages.1.description>พระเจ้าฉันเหนื่อย ไม่มีอะไรที่รู้สึกดี ..</PsychiteWithdrawal.stages.1.description>
 	
 	<SmokeleafHigh.label>เมา Smokeleaf</SmokeleafHigh.label>
-	<SmokeleafHigh.description>Ich bin...stoned, man.</SmokeleafHigh.description>
+	<SmokeleafHigh.description>ฉัน.......เมา, มันดีเหลือดี</SmokeleafHigh.description>
 	<SmokeleafWithdrawal.stages.1.label>เลิก Smokeleaf</SmokeleafWithdrawal.stages.1.label>
-	<SmokeleafWithdrawal.stages.1.description>Ich wünschte, ich könnte was rauchen..</SmokeleafWithdrawal.stages.1.description>
+	<SmokeleafWithdrawal.stages.1.description>ฉันหวังว่าฉันจะเลิกสูบบุหรี่ ..</SmokeleafWithdrawal.stages.1.description>
 <!--
 	<WakeUpAddiction.label>เมา Amphetamin</WakeUpAddiction.label>
 	<WakeUpAddiction.stages.1.label>เมา WakeUp</WakeUpAddiction.stages.1.label>
 	<WakeUpAddiction.stages.1.description>Ich fühle mich verwirrt und unkonzentriert.</WakeUpAddiction.stages.1.description>
 -->
 	<WakeUpWithdrawal.stages.1.label>เลิก WakeUp</WakeUpWithdrawal.stages.1.label>
-	<WakeUpWithdrawal.stages.1.description>Ich fühl mich total benebelt und unkonzentriert.</WakeUpWithdrawal.stages.1.description>
+	<WakeUpWithdrawal.stages.1.description>ฉันรู้สึกงุนงงโดยสิ้นเชิงและเลื่อนลอย</WakeUpWithdrawal.stages.1.description>
 
 	<AmbrosiaHigh.label>เมา Ambrosia</AmbrosiaHigh.label>
-	<AmbrosiaHigh.description>Die Ambrosia entspannt mich ein wenig aber gibt mir gleichzeitig sogar etwas mehr Energie.</AmbrosiaHigh.description>
+	<AmbrosiaHigh.description>Ambrosia ผ่อนคลายฉันนิด ๆ หน่อย ๆ แต่ในเวลาเดียวกันทำให้ผมแม้กระทั่งพลังงานมากขึ้นเล็ก ๆ น้อย ๆ</AmbrosiaHigh.description>
 	<AmbrosiaWithdrawal.stages.1.label>เลิก Ambrosia</AmbrosiaWithdrawal.stages.1.label>
-	<AmbrosiaWithdrawal.stages.1.description>Ich fühle mich die ganze Zeit so schwer und mir ist kalt. Niemals hätte ich gedacht, dass ich eine Frucht so sehr haben will.</AmbrosiaWithdrawal.stages.1.description>
+	<AmbrosiaWithdrawal.stages.1.description>ฉันรู้สึกหนักตลอดเวลาและรู้สึกหนาว ฉันไม่เคยคิดว่าฉันจะมีผลมากขนาดนนี้</AmbrosiaWithdrawal.stages.1.description>
 
 
 

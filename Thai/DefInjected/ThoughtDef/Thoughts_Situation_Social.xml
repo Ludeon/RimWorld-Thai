@@ -48,15 +48,15 @@
   <!-- affecting mood -->
 
   <OpinionOfMyLover.stages.0.label>ความคิดเห็นของ {0} {1}</OpinionOfMyLover.stages.0.label>
-  <OpinionOfMyLover.stages.0.description>Ich fühle mich so, wenn ich mit meinem geliebten Menschen zusammen bin.</OpinionOfMyLover.stages.0.description>
+  <OpinionOfMyLover.stages.0.description>การได้อยู่กับคนรักทำให้ฉันรู้สึกแบบนี้</OpinionOfMyLover.stages.0.description>
 
   <BondedAnimalMaster.stages.0.label>มีสัตว์เลี้ยง {0}</BondedAnimalMaster.stages.0.label>
-  <BondedAnimalMaster.stages.0.description>Wenn ich mit meinem geliebten Haustier zusammen bin, fühle ich mich besser.</BondedAnimalMaster.stages.0.description>
+  <BondedAnimalMaster.stages.0.description>การอยู่ร่วมกับมีสัตว์เลี้ยงของฉันทำให้ฉันรู้สึกดีขึ้น</BondedAnimalMaster.stages.0.description>
 
-  <NotBondedAnimalMaster.stages.0.label>สัตว์เลี้ยงหาย  {0}</NotBondedAnimalMaster.stages.0.label>
-  <NotBondedAnimalMaster.stages.0.description>Ich sollte mit meinem Haustier zusammen sein.</NotBondedAnimalMaster.stages.0.description>
+  <NotBondedAnimalMaster.stages.0.label>{0} ไม่ใช่ เจ้านาย</NotBondedAnimalMaster.stages.0.label>
+  <NotBondedAnimalMaster.stages.0.description>ฉันควรอยู่ด้วยกับสัตว์ที่ถูกเลี้ยงดูด้วยฉัน</NotBondedAnimalMaster.stages.0.description>
 
-  <WantToSleepWithSpouseOrLover.stages.0.label>ต้องการที่จะหลับนอนกับ {0}</WantToSleepWithSpouseOrLover.stages.0.label>
-  <WantToSleepWithSpouseOrLover.stages.0.description>Ich mag es nicht, dass ich von meinem Partner getrennt schlafen muss.</WantToSleepWithSpouseOrLover.stages.0.description>
+  <WantToSleepWithSpouseOrLover.stages.0.label>ต้องการที่จะนอนกับ {0}</WantToSleepWithSpouseOrLover.stages.0.label>
+  <WantToSleepWithSpouseOrLover.stages.0.description>ฉันไม่ชอบนอนแยกจากคู่หูของฉัน</WantToSleepWithSpouseOrLover.stages.0.description>
 
 </LanguageData>
