@@ -2,8 +2,8 @@
 <LanguageData>
 
 	<Slaughter.headerTip>ฆ่า</Slaughter.headerTip>
-	<FollowDrafted.headerTip>Folge dem Meister, wenn Meister im Kampfmodus ist.</FollowDrafted.headerTip>
-	<FollowFieldwork.headerTip>Folge dem Meister, wenn Meister auf der Jagd oder beim zähmen ist.</FollowFieldwork.headerTip>
+	<FollowDrafted.headerTip>การสั่งเมื่อต้นแบบอยู่ในโหมดการต่อสู้</FollowDrafted.headerTip>
+	<FollowFieldwork.headerTip>การสั่งเมื่อต้นแบบถูกทำให้เชื่องของการล่าสัตว์</FollowFieldwork.headerTip>
 
 	<Master.label>เจ้านาย</Master.label>
 	<AllowedArea.label>พื้นที่อนุญาต</AllowedArea.label>

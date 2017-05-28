@@ -4,12 +4,12 @@
 	<!-- =============================== Threats =============================== -->
 
 	<Ambush.label>โดนดักโจมตี</Ambush.label>
-	<Ambush.letterText>Deine Karawane wurde von {0} von den {1} überfallen!</Ambush.letterText>
-	<Ambush.letterLabel>Karawane wird überfallen</Ambush.letterLabel>
+	<Ambush.letterText>คาราวานของคุณจาก {0} จาก {1} บุก!</Ambush.letterText>
+	<Ambush.letterLabel>คาราวานถูกซุ่มโจมตี</Ambush.letterLabel>
 
-	<ManhunterAmbush.label>นักล่ามนุษย์ดักโจมตี</ManhunterAmbush.label>
-	<ManhunterAmbush.letterText>Deine Karawane wird von menschenjagenden {0} überfallen!</ManhunterAmbush.letterText>
-	<ManhunterAmbush.letterLabel>Karawane wird überfallen (Menschenjäger)</ManhunterAmbush.letterLabel>
+	<ManhunterAmbush.label>สัวต์ดักโจมตี</ManhunterAmbush.label>
+	<ManhunterAmbush.letterText>คาราวานของคุณถูกสัตว์ล่า {0} บุก!</ManhunterAmbush.letterText>
+	<ManhunterAmbush.letterLabel>คาราวานถูกโจมตี (สัตว์)</ManhunterAmbush.letterLabel>
 
 	<!--================================ Good ================================-->
 
@@ -18,7 +18,7 @@
 	<!--==================================== Bad ==================================-->
 
 	<CaravanDemand.label>คาราวานต้องการ</CaravanDemand.label>
-	<CaravanDemand.letterText>Deine Karavane wurde von {0} von den {1} in einen Hinterhalt gelockt!</CaravanDemand.letterText>
-	<CaravanDemand.letterLabel>Karavane in Hinterhalt</CaravanDemand.letterLabel>
+	<CaravanDemand.letterText>คาราวานของคุณจาก {0} จาก {1} ล่อเข้าไปซุ่ม!</CaravanDemand.letterText>
+	<CaravanDemand.letterLabel>คาราวานในการซุ่มโจมตี</CaravanDemand.letterLabel>
 
 </LanguageData>

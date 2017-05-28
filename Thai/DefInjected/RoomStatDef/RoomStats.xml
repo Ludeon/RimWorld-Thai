@@ -53,7 +53,7 @@
   <InfectionChanceFactor.label>ปัจจัยที่มีโอกาสติดเชื้อ</InfectionChanceFactor.label>
   <SurgerySuccessChanceFactor.label>การผ่าตัดที่มีโอกาสประสบความสำเร็จ</SurgerySuccessChanceFactor.label>
   <ResearchSpeedFactor.label>ปัจจัยความเร็วในการวิจัย</ResearchSpeedFactor.label>
-  <GraveVisitingJoyGainFactor.label>grave visiting joy gain factor</GraveVisitingJoyGainFactor.label>
+  <GraveVisitingJoyGainFactor.label>หลุมฝังศพไปเยี่ยมเพื่อความสุข</GraveVisitingJoyGainFactor.label>
   <FoodPoisonChanceFactor.label>ปัจจัยโอกาสอาหารเป็นพิษ</FoodPoisonChanceFactor.label>
 
 </LanguageData>

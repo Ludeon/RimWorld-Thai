@@ -1,12 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageInfo>
-  <friendlyNameNative>ไทย</friendlyNameNative>
-  <friendlyNameEnglish>Thai</friendlyNameEnglish>
+  <friendlyNameNative>ภาษาไทย</friendlyNameNative>
+  <friendlyNameEnglish>Thailand</friendlyNameEnglish>
   <canBeTiny>true</canBeTiny>
   <credits>
     <li Class="CreditRecord_Role">
       <roleKey>Credit_Translator</roleKey>
       <creditee>Pipich Rahule</creditee>
+	</li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Sutipat Ongroongreong</creditee>
     </li>
   </credits>
 </LanguageInfo>

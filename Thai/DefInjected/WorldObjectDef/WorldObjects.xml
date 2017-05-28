@@ -5,28 +5,28 @@
   <Caravan.description>กลุ่มของคนที่เดินทาง</Caravan.description>
   
   <FactionBase.label>ฐาน</FactionBase.label>
-  <FactionBase.description>Eine Basis einer der Fraktionen.</FactionBase.description>
+  <FactionBase.description>เป็นฐานหนึ่งของกลุ่ม</FactionBase.description>
   
   <AbandonedFactionBase.label>ฐานที่ถูกทิ้งร้าง</AbandonedFactionBase.label>
-  <AbandonedFactionBase.description>Eine verlassene Basis einer der Fraktionen.</AbandonedFactionBase.description>
+  <AbandonedFactionBase.description>ฐานที่ถูกทอดทิ้งของฝ่ายหนึ่งฝ่ายใดฝ่ายหนึ่ง</AbandonedFactionBase.description>
   
   <DestroyedFactionBase.label>ฐานที่ถูกทำลาย</DestroyedFactionBase.label>
-  <DestroyedFactionBase.description>Eine zerstörte Basis einer der Fraktionen.</DestroyedFactionBase.description>
+  <DestroyedFactionBase.description>ฐานที่ถูกทำลายของฝ่ายหนึ่งฝ่ายใดฝ่ายหนึ่ง</DestroyedFactionBase.description>
 
   <JourneyDestination.label>ปลายทางการเดินทาง</JourneyDestination.label>
-  <JourneyDestination.description>Der Ort von einem versteckten Raumschiff welches dir helfen kann den Planeten zu verlassen.</JourneyDestination.description>
+  <JourneyDestination.description>ตำแหน่งของยานที่ซ่อนอยู่ซึ่งสามารถช่วยให้คุณหลบหนีออกจากโลกได้</JourneyDestination.description>
   
   <AttackedCaravan.label>โจมตีกองคาราวาน</AttackedCaravan.label>
-  <AttackedCaravan.description>Ein laufender Angriff auf eine Karawane.</AttackedCaravan.description>
+  <AttackedCaravan.description>กองคาราวานที่ถูกโจมตี</AttackedCaravan.description>
   
   <TravelingTransportPods.label>กระสวยขนส่ง</TravelingTransportPods.label>
-  <TravelingTransportPods.description>Sub-Orbitale Transportkapseln.</TravelingTransportPods.description>
+  <TravelingTransportPods.description>กระสวยขนส่งในเที่ยวบิน</TravelingTransportPods.description>
   
   <RoutePlannerWaypoint.label>จุดเป้าหมาย</RoutePlannerWaypoint.label>
-  <RoutePlannerWaypoint.description>Ein temporärer Wegpunkt</RoutePlannerWaypoint.description>
+  <RoutePlannerWaypoint.description>จุดชั่วคราว</RoutePlannerWaypoint.description>
   
   <Ambush.label>ที่ซุ่มโจมตี</Ambush.label>
-  <Ambush.description>Ein laufender Angriff aus dem Hinterhalt.</Ambush.description>
+  <Ambush.description>บนการใช้การโจมตีจากการซุ่มโจมตี</Ambush.description>
   
   
 </LanguageData>

@@ -8,7 +8,7 @@
   <Bloodlust.degreeDatas.0.description>NAME นั้นแทบจะถลาเข้าใส่ถ้าเป็นการทำร้ายคนอื่น, และ HE ไม่รังเกียจที่จะเห็นเลือดหรือความตาย HECAP นั้นมีโอกาสทะเลาะกับคนอื่นๆ มากเป็นสองเท่า</Bloodlust.degreeDatas.0.description>
 
   <Kind.degreeDatas.0.label>ใจดี</Kind.degreeDatas.0.label>
-  <Kind.degreeDatas.0.description>NAME ist eine nette Person. HECAP tendiert dazu die Laune von allen Anderen ein wenig zu verbessern und nie jemanden zu beleidigen.</Kind.degreeDatas.0.description>
+  <Kind.degreeDatas.0.description>NAME เป็นคนที่ดี HECAP มีแนวโน้มที่จะเพิ่มสีสันให้คนอื่น ๆ และไม่เคยดูถูกคนอื่น</Kind.degreeDatas.0.description>
   
   <Psychopath.degreeDatas.0.label>โรคจิต</Psychopath.degreeDatas.0.label>
   <Psychopath.degreeDatas.0.description>NAME นั้นไม่มีอารมณ์ร่วมกับใครๆ ความทุกข์ทรมานของผู้อื่นไม่ได้รบกวนจิตใจ HIM แม้แต่น้อย HECAP ไม่ได้สนใจว่าใครจะถูกแล่, วางไว้ไม่ได้ฝัง, ถูกคุมขัง, หรือถูกขายเป็นทาส - จนกว่ามันจะมีผลกระทบกับ HIM HECAP นั้นยังไม่ได้รับอารมณ์เพิ่มจากการเข้าสังคมอีกด้วย</Psychopath.degreeDatas.0.description>
@@ -59,7 +59,7 @@
   <DislikesWomen.degreeDatas.0.description>NAME นั้นไม่ชอบและไม่เชื่อใจผู้หญิงเอามากๆ</DislikesWomen.degreeDatas.0.description>
   
   <AnnoyingVoice.degreeDatas.0.label>ทำเสียงน่ารำคาญ</AnnoyingVoice.degreeDatas.0.label>
-  <AnnoyingVoice.degreeDatas.0.description>NAME's voice has a particularly grating, nasal quality to it, and HE tends to talk in barked, garbled phrases. This predisposes others to dislike HIM.</AnnoyingVoice.degreeDatas.0.description>
+  <AnnoyingVoice.degreeDatas.0.description>NAME เสียงมีตะแกรง HE มีแนวโน้มที่จะพูดในโฉลก, วลีที่อ่านไม่ออก  คนอื่นไม่ชอบ HIM.</AnnoyingVoice.degreeDatas.0.description>
 
   <CreepyBreathing.degreeDatas.0.label>การหายใจที่น่าขนลุก</CreepyBreathing.degreeDatas.0.label>
   <CreepyBreathing.degreeDatas.0.description>NAME หายใจแรงตลอดเวลา, และ เหงื่อออกอย่างต่อเนื่อง คนเห็นว่ามันน่าขนลุก</CreepyBreathing.degreeDatas.0.description>
@@ -68,6 +68,6 @@
   <Pyromaniac.degreeDatas.0.description>NAME รักไฟ HECAP บางครั้งจะเริ่มเล่นไฟทำให้เกิดเพลิงไหม้ และ เขาจะไม่ดับไฟ</Pyromaniac.degreeDatas.0.description>
 
   <Wimp.degreeDatas.0.label>ขี่ขาด</Wimp.degreeDatas.0.label>
-  <Wimp.degreeDatas.0.description>NAME ist schwach und feige. Jedes kleinste bisschen Schmerz führt dazu, dass HE bewegungsunfähig wird.</Wimp.degreeDatas.0.description>
+  <Wimp.degreeDatas.0.description>NAME อ่อนแอและขี้ขลาด แม้แต่ความเจ็บปวดเพียงเล็กน้อยก็จะตรึง HIM ไว้</Wimp.degreeDatas.0.description>
   
 </LanguageData>

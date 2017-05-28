@@ -12,7 +12,7 @@
   
   <!-- Always hidden -->
   <AllowSmeltable.label>อนุญาตให้มีการหลอม</AllowSmeltable.label>
-  <AllowSmeltable.description>Erlaubt Gegenstände, die eingeschmolzen werden können.</AllowSmeltable.description>
+  <AllowSmeltable.description>รายการที่ได้รับอนุญาตที่สามารถหลอม</AllowSmeltable.description>
   <AllowNonSmeltableWeapons.label>อนุญาตอาวุธหลอมไม่ได้</AllowNonSmeltableWeapons.label>
   <AllowNonSmeltableWeapons.description>อนุญาตสำหรับอาวุธที่ไม่สามารถหลอมได้</AllowNonSmeltableWeapons.description>
   <AllowNonDeadmansApparel.label>อนุญาตให้ใส่เสื้อผ้าปกติ</AllowNonDeadmansApparel.label>

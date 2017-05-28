@@ -45,39 +45,39 @@
 	<Hunted.rulePack.rulesStrings.0>tale_noun->[hunter_nameShortDef]ของการล่าสัตว์ที่ประสบความสำเร็จ</Hunted.rulePack.rulesStrings.0>
 	<Hunted.rulePack.rulesStrings.1>image->[prey_nameFull] ถูกตามล่าโดย [hunter_nameFull][circumstance_group]</Hunted.rulePack.rulesStrings.1>
 	<Hunted.rulePack.rulesStrings.2>image->[hunter_nameFull] สะกดรอยตาม [hunter_pronoun] จากระยะไกล [prey_nameFull] heran pirscht</Hunted.rulePack.rulesStrings.2>
-	<Hunted.rulePack.rulesStrings.3>image->[hunter_nameFull] hunting [prey_nameFull] [circumstance_group]</Hunted.rulePack.rulesStrings.3>
-	<Hunted.rulePack.rulesStrings.4>circumstance_phrase->as [prey_nameShortDef] relaxes</Hunted.rulePack.rulesStrings.4>
-	<Hunted.rulePack.rulesStrings.5>circumstance_phrase->as [prey_nameShortDef] travels</Hunted.rulePack.rulesStrings.5>
-	<Hunted.rulePack.rulesStrings.6>circumstance_phrase->as [prey_nameShortDef] eats</Hunted.rulePack.rulesStrings.6>
-	<Hunted.rulePack.rulesStrings.7>desc_sentence->[prey_nameShortDef] seems totally oblivious.</Hunted.rulePack.rulesStrings.7>
-	<Hunted.rulePack.rulesStrings.8>desc_sentence->[hunter_nameShortDef] is gripping [hunter_possessive] weapon tightly.</Hunted.rulePack.rulesStrings.8>
-	<Hunted.rulePack.rulesStrings.9>desc_sentence->[prey_nameShortDef] is looking around as though [prey_pronoun] senses that something is wrong.</Hunted.rulePack.rulesStrings.9>
+	<Hunted.rulePack.rulesStrings.3>image->[hunter_nameFull] ล่าสัตว์ [prey_nameFull] [circumstance_group]</Hunted.rulePack.rulesStrings.3>
+	<Hunted.rulePack.rulesStrings.4>circumstance_phrase->ขณะที่ [prey_nameShortDef] ผ่อนคลาย</Hunted.rulePack.rulesStrings.4>
+	<Hunted.rulePack.rulesStrings.5>circumstance_phrase->ขณะที่ [prey_nameShortDef] เดินทาง</Hunted.rulePack.rulesStrings.5>
+	<Hunted.rulePack.rulesStrings.6>circumstance_phrase->ขณะที่ [prey_nameShortDef] อาหาร</Hunted.rulePack.rulesStrings.6>
+	<Hunted.rulePack.rulesStrings.7>desc_sentence->[prey_nameShortDef] ดูเหมือนจะลืมล้าง</Hunted.rulePack.rulesStrings.7>
+	<Hunted.rulePack.rulesStrings.8>desc_sentence->[hunter_nameShortDef] กำลังจับ [hunter_possessive] อาวุธอย่างแน่นหนา</Hunted.rulePack.rulesStrings.8>
+	<Hunted.rulePack.rulesStrings.9>desc_sentence->[prey_nameShortDef] กำลังมองไปรอบ ๆ ราวกับว่า [prey_pronoun] รู้สึกว่ามีบางอย่างผิดปกติ</Hunted.rulePack.rulesStrings.9>
 
 
 	<DidSurgery.label>ศัลยกรรม</DidSurgery.label>
-    <DidSurgery.rulePack.rulesStrings.0>tale_noun->[patient_nameShortDef]'s surgery</DidSurgery.rulePack.rulesStrings.0>
-    <DidSurgery.rulePack.rulesStrings.1>image->[surgeon_nameFull] putting [patient_nameFull] to sleep with anesthetic [circumstance_group]</DidSurgery.rulePack.rulesStrings.1>
-    <DidSurgery.rulePack.rulesStrings.2>image->[surgeon_nameFull] elbow-deep in [patient_nameFull] during surgery [circumstance_group]</DidSurgery.rulePack.rulesStrings.2>
-    <DidSurgery.rulePack.rulesStrings.3>image->[surgeon_nameFull] sDidSurgery.rulePack.rulesStrings.0cing into [patient_nameFull] during surgery [circumstance_group]</DidSurgery.rulePack.rulesStrings.3>
-	<DidSurgery.rulePack.rulesStrings.4>circumstance_phrase->as [patient_pronoun] trembles with fear</DidSurgery.rulePack.rulesStrings.4>
-	<DidSurgery.rulePack.rulesStrings.5>circumstance_phrase->as blood pools at [surgeon_nameShortDef]'s feet</DidSurgery.rulePack.rulesStrings.5>
-	<DidSurgery.rulePack.rulesStrings.6>circumstance_phrase->while surrounded by scary-looking surgical tools</DidSurgery.rulePack.rulesStrings.6>
-	<DidSurgery.rulePack.rulesStrings.7>circumstance_phrase->with improvised but effective tools</DidSurgery.rulePack.rulesStrings.7>
-	<DidSurgery.rulePack.rulesStrings.8>desc_sentence->[surgeon_nameShortDef] is sweating profusely.</DidSurgery.rulePack.rulesStrings.8>
-	<DidSurgery.rulePack.rulesStrings.9>desc_sentence->[surgeon_nameShortDef] looks incredibly focused on the task.</DidSurgery.rulePack.rulesStrings.9>
-	<DidSurgery.rulePack.rulesStrings.10>desc_sentence->[surgeon_nameShortDef] has blood smeared on [surgeon_possessive] face.</DidSurgery.rulePack.rulesStrings.10>
-	<DidSurgery.rulePack.rulesStrings.11>desc_sentence->[patient_nameShortDef] is shaking and writhing.</DidSurgery.rulePack.rulesStrings.11>
+    <DidSurgery.rulePack.rulesStrings.0>tale_noun->[patient_nameShortDef] การผ่าตัด</DidSurgery.rulePack.rulesStrings.0>
+    <DidSurgery.rulePack.rulesStrings.1>image->[surgeon_nameFull] วาง [patient_nameFull] นอนกับยาชา[circumstance_group]</DidSurgery.rulePack.rulesStrings.1>
+    <DidSurgery.rulePack.rulesStrings.2>image->[surgeon_nameFull] ข้อศอกลึกเข้าไปใน [patient_nameFull] ระหว่างการผ่าตัด [circumstance_group]</DidSurgery.rulePack.rulesStrings.2>
+    <DidSurgery.rulePack.rulesStrings.3>image->[surgeon_nameFull] sDidSurgery.rulePack.rulesStrings.0cing into [patient_nameFull] ระหว่างการผ่าตัด [circumstance_group]</DidSurgery.rulePack.rulesStrings.3>
+	<DidSurgery.rulePack.rulesStrings.4>circumstance_phrase->ขณะที่ [patient_pronoun] สั่นด้วยความกลัว</DidSurgery.rulePack.rulesStrings.4>
+	<DidSurgery.rulePack.rulesStrings.5>circumstance_phrase->เป็นสระเลือดที่เท้าของ  [surgeon_nameShortDef]</DidSurgery.rulePack.rulesStrings.5>
+	<DidSurgery.rulePack.rulesStrings.6>circumstance_phrase->ในขณะที่ล้อมรอบด้วยเครื่องมือผ่าตัดน่ากลัว</DidSurgery.rulePack.rulesStrings.6>
+	<DidSurgery.rulePack.rulesStrings.7>circumstance_phrase->ด้วยเครื่องมือชั่วคราว แต่มีประสิทธิภาพ</DidSurgery.rulePack.rulesStrings.7>
+	<DidSurgery.rulePack.rulesStrings.8>desc_sentence->[surgeon_nameShortDef] เหงื่อออกมาก</DidSurgery.rulePack.rulesStrings.8>
+	<DidSurgery.rulePack.rulesStrings.9>desc_sentence->[surgeon_nameShortDef] มองอย่างไม่น่าเชื่อในงาน</DidSurgery.rulePack.rulesStrings.9>
+	<DidSurgery.rulePack.rulesStrings.10>desc_sentence->[surgeon_nameShortDef]มีรอยเลือดบนใบหน้า  [surgeon_possessive]</DidSurgery.rulePack.rulesStrings.10>
+	<DidSurgery.rulePack.rulesStrings.11>desc_sentence->[patient_nameShortDef] สั่นและวิงวอน</DidSurgery.rulePack.rulesStrings.11>
 
 	
 	<ExecutedPrisoner.label>นักโทษประหารชีวิต</ExecutedPrisoner.label>
-	<ExecutedPrisoner.rulePack.rulesStrings.0>tale_noun->the execution of [prisoner_nameShortDef]</ExecutedPrisoner.rulePack.rulesStrings.0>
-    <ExecutedPrisoner.rulePack.rulesStrings.1>image->[warden_nameFull] executing [prisoner_nameFull] [circumstance_group]</ExecutedPrisoner.rulePack.rulesStrings.1>
-    <ExecutedPrisoner.rulePack.rulesStrings.2>image->[warden_nameFull] putting [prisoner_nameFull] to death [circumstance_group]</ExecutedPrisoner.rulePack.rulesStrings.2>
-    <ExecutedPrisoner.rulePack.rulesStrings.3>image->[warden_nameFull] preparing to execute [prisoner_nameFull] [circumstance_group]</ExecutedPrisoner.rulePack.rulesStrings.3>
-    <ExecutedPrisoner.rulePack.rulesStrings.4>image->[warden_nameFull] entering a prison cell, going to execute [prisoner_nameFull] [circumstance_group]</ExecutedPrisoner.rulePack.rulesStrings.4>
-    <ExecutedPrisoner.rulePack.rulesStrings.5>circumstance_phrase->as [prisoner_pronoun] writhes on the ground</ExecutedPrisoner.rulePack.rulesStrings.5>
-    <ExecutedPrisoner.rulePack.rulesStrings.6>circumstance_phrase->as [prisoner_pronoun] twists in pain</ExecutedPrisoner.rulePack.rulesStrings.6>
-    <ExecutedPrisoner.rulePack.rulesStrings.7>circumstance_phrase->as [prisoner_pronoun] cries out in terror</ExecutedPrisoner.rulePack.rulesStrings.7>
+	<ExecutedPrisoner.rulePack.rulesStrings.0>tale_noun->การดำเนินการของ [prisoner_nameShortDef]</ExecutedPrisoner.rulePack.rulesStrings.0>
+    <ExecutedPrisoner.rulePack.rulesStrings.1>image->[warden_nameFull] การดำเนินการ [prisoner_nameFull] [circumstance_group]</ExecutedPrisoner.rulePack.rulesStrings.1>
+    <ExecutedPrisoner.rulePack.rulesStrings.2>image->[warden_nameFull] วาง [prisoner_nameFull] ตาย [circumstance_group]</ExecutedPrisoner.rulePack.rulesStrings.2>
+    <ExecutedPrisoner.rulePack.rulesStrings.3>image->[warden_nameFull] กำลังเตรียมดำเนินการ [prisoner_nameFull] [circumstance_group]</ExecutedPrisoner.rulePack.rulesStrings.3>
+    <ExecutedPrisoner.rulePack.rulesStrings.4>image->[warden_nameFull] เข้าไปในห้องขังจะดำเนินการ [prisoner_nameFull] [circumstance_group]</ExecutedPrisoner.rulePack.rulesStrings.4>
+    <ExecutedPrisoner.rulePack.rulesStrings.5>circumstance_phrase->ขณะที่ [prisoner_pronoun] ดิ้น บนพื้นดิน</ExecutedPrisoner.rulePack.rulesStrings.5>
+    <ExecutedPrisoner.rulePack.rulesStrings.6>circumstance_phrase->ขณะที่ [prisoner_pronoun] twists in pain</ExecutedPrisoner.rulePack.rulesStrings.6>
+    <ExecutedPrisoner.rulePack.rulesStrings.7>circumstance_phrase->ขณะที่ [prisoner_pronoun] cries out in terror</ExecutedPrisoner.rulePack.rulesStrings.7>
     <ExecutedPrisoner.rulePack.rulesStrings.8>circumstance_phrase->with professional efficiency</ExecutedPrisoner.rulePack.rulesStrings.8>
     <ExecutedPrisoner.rulePack.rulesStrings.9>circumstance_phrase->roughly and amateurishly</ExecutedPrisoner.rulePack.rulesStrings.9>
     <ExecutedPrisoner.rulePack.rulesStrings.10>circumstance_phrase->with obviously excessive force</ExecutedPrisoner.rulePack.rulesStrings.10>

@@ -13,7 +13,7 @@
   <TimeInBedForMedicalReasons.label>เวลาอยู่บนเตียงด้วยเหตุผลทางการแพทย์</TimeInBedForMedicalReasons.label>
   <TimeInBedForMedicalReasons.description>Die Gesamtzeit, die ich aufgrund eines medizinischen Grundes im Bett verbracht habe: Auf Behandlung warten, sich von Verletzungen bzw. Operationen erholen.</TimeInBedForMedicalReasons.description>
 
-  <TimeDowned.label>Time Downed</TimeDowned.label>
+  <TimeDowned.label>เวลาหมดสติ</TimeDowned.label>
   <TimeDowned.description>Die Gesamtzeit, die ich bewusstlos war.</TimeDowned.description>
 
   <TimeGettingFood.label>เวลาหาอาหารและการรับประทานอาหาร</TimeGettingFood.label>
@@ -25,25 +25,25 @@
   <TimeUnderRoof.label>เวลาภายใต้หลังคา</TimeUnderRoof.label>
   <TimeUnderRoof.description>Die Gesamtzeit, die ich unter einem Dach verbrachte.</TimeUnderRoof.description>
 
-  <TimeDrafted.label>Time Drafted</TimeDrafted.label>
+  <TimeDrafted.label>เวลา เกณฑ์ทหาร</TimeDrafted.label>
   <TimeDrafted.description>Die Gesamtzeit, die ich zum Wehrdienst eingezogen war.</TimeDrafted.description>
 
-  <TimeOnFire.label>time on fire</TimeOnFire.label>
+  <TimeOnFire.label>เวลาในการที่โดนเผา</TimeOnFire.label>
   <TimeOnFire.description>Die Gesamtzeit, in der ich gebrannt hatte.</TimeOnFire.description>
 
-  <TimeInMentalState.label>time in mental state</TimeInMentalState.label>
+  <TimeInMentalState.label>เวลาอยู่ในสภาพจิตใจ</TimeInMentalState.label>
   <TimeInMentalState.description>Die Gesamtzeit, in der ich einen Nervenzusammenbruch hatte.</TimeInMentalState.description>
 
-  <TimeHauling.label>time hauling</TimeHauling.label>
+  <TimeHauling.label>เวลาขน</TimeHauling.label>
   <TimeHauling.description>Die Gesamtzeit, in der ich etwas getragen habe.</TimeHauling.description>
 
-  <TimeHandlingAnimals.label>time handling animals</TimeHandlingAnimals.label>
+  <TimeHandlingAnimals.label>เวลาที่ทำงานกับสัวต์</TimeHandlingAnimals.label>
   <TimeHandlingAnimals.description>Die Gesamtzeit, in der ich mit Tieren gearbeitet habe.</TimeHandlingAnimals.description>
 
   <TimeFirefighting.label>เวลาดับเพลิง</TimeFirefighting.label>
   <TimeFirefighting.description>Die Gesamtzeit, in der ich Feuer bekämpft habe.</TimeFirefighting.description>
 
-  <TimeWardening.label>time wardening</TimeWardening.label>
+  <TimeWardening.label>เวลาที่ฉันทำงานเป็นผู้คุม</TimeWardening.label>
   <TimeWardening.description>Die Gesamtzeit, in der ich als Gefängnisaufseher gearbeitet habe.</TimeWardening.description>
 
   <TimeHunting.label>เวลาล่วสัตว์</TimeHunting.label>

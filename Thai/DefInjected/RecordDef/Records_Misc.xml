@@ -52,91 +52,91 @@
 
   <!-- Work -->
 
-  <OperationsReceived.label>operations received</OperationsReceived.label>
+  <OperationsReceived.label>การดำเนินงานที่ได้รับ</OperationsReceived.label>
   <OperationsReceived.description>Die Anzahl der Operationen, die ich erhalten habe.</OperationsReceived.description>
 
-  <OperationsPerformed.label>Operations Performed</OperationsPerformed.label>
+  <OperationsPerformed.label>การดำเนินงานที่ได้ทำ</OperationsPerformed.label>
   <OperationsPerformed.description>Die Anzahl der Operationen, die ich durchgeführt habe.</OperationsPerformed.description>
 
-  <TimesTendedTo.label>treatments received</TimesTendedTo.label>
+  <TimesTendedTo.label>การรักษา</TimesTendedTo.label>
   <TimesTendedTo.description>Die Anzahl der Behandlungen, die ich bekommen habe.</TimesTendedTo.description>
 
-  <TimesTendedOther.label>treatments given</TimesTendedOther.label>
+  <TimesTendedOther.label>การรักษาที่ได้รับ</TimesTendedOther.label>
   <TimesTendedOther.description>Die Anzahl der Behandlungen, die ich durchgeführrt habe.</TimesTendedOther.description>
 
-  <PeopleCaptured.label>People Captured</PeopleCaptured.label>
+  <PeopleCaptured.label>นักโทษที่ได้จับกุม</PeopleCaptured.label>
   <PeopleCaptured.description>Die Anzahl der Personen, die ich eingefangen habe.</PeopleCaptured.description>
 
-  <PrisonersRecruited.label>Prisoners Recruited</PrisonersRecruited.label>
+  <PrisonersRecruited.label>นักโทษที่ได้รับการคัดเลือก</PrisonersRecruited.label>
   <PrisonersRecruited.description>Die Anzahl der Gefangenen, die ich angeworben habe.</PrisonersRecruited.description>
 
-  <PrisonersChatted.label>Prisoners Chatted</PrisonersChatted.label>
+  <PrisonersChatted.label>การสนทนาที่มีกับนักโทษ</PrisonersChatted.label>
   <PrisonersChatted.description>Die Anzahl der Gespräche, die ich mit Gefangenen geführt habe.</PrisonersChatted.description>
 
-  <AnimalsTamed.label>Animals Tamed</AnimalsTamed.label>
+  <AnimalsTamed.label>สัตว์ที่ได้ฝึกให้เชื่อง</AnimalsTamed.label>
   <AnimalsTamed.description>Die Anzahl der Tiere, die ich gezähmt habe.</AnimalsTamed.description>
 
-  <AnimalsSlaughtered.label>Animals Slaughtered</AnimalsSlaughtered.label>
+  <AnimalsSlaughtered.label>สัตว์ที่ได้ฆ่า</AnimalsSlaughtered.label>
   <AnimalsSlaughtered.description>Die Anzahl der Tiere, die ich geschlachtet habe.</AnimalsSlaughtered.description>
 
-  <MealsCooked.label>Meals Cooked</MealsCooked.label>
+  <MealsCooked.label>ปรุงอาหาร</MealsCooked.label>
   <MealsCooked.description>Die Anzahl der Essen, die ich gekocht habe.</MealsCooked.description>
 
-  <ThingsConstructed.label>Things Constructed</ThingsConstructed.label>
+  <ThingsConstructed.label>รายการที่ได้สร้างขึ้น</ThingsConstructed.label>
   <ThingsConstructed.description>Die Anzahl der Gegenstände, die ich aufgebaut habe.</ThingsConstructed.description>
 
-  <ThingsInstalled.label>Things Installed</ThingsInstalled.label>
+  <ThingsInstalled.label>รายการที่ได้ติดตั้ง</ThingsInstalled.label>
   <ThingsInstalled.description>Die Anzahl der Gegenstände, die ich installiert habe.</ThingsInstalled.description>
 
-  <ThingsRepaired.label>Things Repaired</ThingsRepaired.label>
+  <ThingsRepaired.label>รายการที่ได้รับซ่อมแซม</ThingsRepaired.label>
   <ThingsRepaired.description>Die Anzahl der Gegenstände, die ich repariert habe.</ThingsRepaired.description>
 
-  <ThingsCrafted.label>Things Crafted</ThingsCrafted.label>
+  <ThingsCrafted.label>รายการที่ได้ทำ</ThingsCrafted.label>
   <ThingsCrafted.description>Die Anzahl der Gegenstände, die ich hergestellt habe.</ThingsCrafted.description>
 
-  <ThingsHauled.label>Things Hauled</ThingsHauled.label>
+  <ThingsHauled.label>รายการที่ได้ส่ง</ThingsHauled.label>
   <ThingsHauled.description>Die Anzahl der Gegenstände, die ich transportiert habe.</ThingsHauled.description>
 
-  <PlantsSown.label>Plants Sown</PlantsSown.label>
+  <PlantsSown.label>พืชที่ปลูก</PlantsSown.label>
   <PlantsSown.description>Die Anzahl der Pflanzen, die ich angepflanzt habe.</PlantsSown.description>
 
-  <PlantsHarvested.label>Plants Harvested</PlantsHarvested.label>
+  <PlantsHarvested.label>พืชที่ได้เก็บเกี่ยว</PlantsHarvested.label>
   <PlantsHarvested.description>Die Anzahl der Pflanzen, die ich geerntet habe.</PlantsHarvested.description>
 
-  <CellsMined.label>Cells Mined</CellsMined.label>
+  <CellsMined.label>เซลล์ที่ได้หักลง</CellsMined.label>
   <CellsMined.description>Die Anzahl der Zellen, die ich abgebaut habe.</CellsMined.description>
 
-  <MessesCleaned.label>Messes Cleaned</MessesCleaned.label>
+  <MessesCleaned.label>ทำความสะอาด</MessesCleaned.label>
   <MessesCleaned.description>Die Anzahl der Verschmutzungen, die ich gesäubert habe.</MessesCleaned.description>
 
-  <ResearchPointsResearched.label>Research Points Researched</ResearchPointsResearched.label>
+  <ResearchPointsResearched.label>วิจัยที่ที่ได้ด้ค้นคว้า</ResearchPointsResearched.label>
   <ResearchPointsResearched.description>Die Anzahl der Forschungspunkte, die ich erforscht habe.</ResearchPointsResearched.description>
 
-  <CorpsesBuried.label>Corpses Buried</CorpsesBuried.label>
+  <CorpsesBuried.label>ฟังศพ</CorpsesBuried.label>
   <CorpsesBuried.description>Die Anzahl der Leichen, die ich begraben habe.</CorpsesBuried.description>
 
-  <NutritionEaten.label>Nutrition Eaten</NutritionEaten.label>
+  <NutritionEaten.label>สารอาหาร</NutritionEaten.label>
   <NutritionEaten.description>Die Anzahl der Nährstoffe, die ich zu mir genommen habe.</NutritionEaten.description>
 
-  <TrapsRearmed.label>Traps Rearmed</TrapsRearmed.label>
+  <TrapsRearmed.label>กับดักเปิดใช้งาน</TrapsRearmed.label>
   <TrapsRearmed.description>Die Anzahl der Fallen, die ich reaktiviert habe.</TrapsRearmed.description>
 
-  <BodiesStripped.label>Bodies Stripped</BodiesStripped.label>
+  <BodiesStripped.label>ร่างกายที่ได้ดึงออกมา</BodiesStripped.label>
   <BodiesStripped.description>Die Anzahl der Körper, die ich ausgezogen habe.</BodiesStripped.description>
 
-  <ThingsUninstalled.label>Things Uninstalled</ThingsUninstalled.label>
+  <ThingsUninstalled.label>สิ่งที่ถอนการติดตั้ง</ThingsUninstalled.label>
   <ThingsUninstalled.description>Die Anzahl der Gegenstände, die ich deinstalliert habe.</ThingsUninstalled.description>
 
-  <ThingsDeconstructed.label>Things Deconstructed</ThingsDeconstructed.label>
+  <ThingsDeconstructed.label>สิ่งที่พังลง</ThingsDeconstructed.label>
   <ThingsDeconstructed.description>Die Anzahl der Gegenstände, die ich abgebaut habe.</ThingsDeconstructed.description>
 
-  <ArtifactsActivated.label>Artifacts Activated</ArtifactsActivated.label>
+  <ArtifactsActivated.label>สิ่งประดิษฐ์ที่เปิดใช่งาน</ArtifactsActivated.label>
   <ArtifactsActivated.description>Die Anzahl der Artefakte, die ich aktiviert habe.</ArtifactsActivated.description>
 
-  <ContainersOpened.label>Containers Opened</ContainersOpened.label>
+  <ContainersOpened.label>เปิดภาชนะ</ContainersOpened.label>
   <ContainersOpened.description>Die Anzahl der Behälter, die ich geöffnet habe.</ContainersOpened.description>
 
-  <SwitchesFlicked.label>Switches Flicked</SwitchesFlicked.label>
+  <SwitchesFlicked.label>กดสวิทช์</SwitchesFlicked.label>
   <SwitchesFlicked.description>Die Anzahl der Schalter, die ich umgeschalten habe.</SwitchesFlicked.description>
 
 </LanguageData>

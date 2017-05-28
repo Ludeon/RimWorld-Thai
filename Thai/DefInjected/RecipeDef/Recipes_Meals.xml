@@ -17,7 +17,7 @@
   <CookMealLavish.jobString>กำลังปรุงมื้ออาหารแบบสุดหรู</CookMealLavish.jobString>
 
   <CookMealSurvival.label>อาหารเอาตัวรอด</CookMealSurvival.label>
-  <CookMealSurvival.description>Koche eine Überlebensration aus verschiedenen Pflanzen- und Fleischsorten. Allerdings werden dabei viele der Zutaten verschwendet.</CookMealSurvival.description>
+  <CookMealSurvival.description>ปรุงอาหารฉุกเฉินจากพืชต่างๆและเนื้อสัตว์ อย่างไรก็ตามในขณะที่จำนวนมากของส่วนผสมที่มีการสูญเสีย</CookMealSurvival.description>
   <CookMealSurvival.jobString>กำลังปรุงอาหารเอาตัวรอด</CookMealSurvival.jobString>
 
 </LanguageData>
