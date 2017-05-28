@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<LanguageData>
-
-  <Repair.label>ซ่อมแซม</Repair.label>
-  <HealInjury.label>รักษาอาการบาดเจ็บ</HealInjury.label>
-  <HealGlobal.label>รักษาโดยรวม</HealGlobal.label>
-  <RestoreBodyPart.label>ฟื้นฟูอวัยวะร่างกาย</RestoreBodyPart.label>
-
-</LanguageData>
