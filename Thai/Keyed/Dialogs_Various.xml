@@ -354,7 +354,7 @@
   <DrugUsageTipScheduled>ตามเวลาที่กำหนด\n\nใช้ยานี้ในช่วงเวลาที่กำหนดเมื่อมีการระบุเงื่อนไข</DrugUsageTipScheduled>
  
   <!-- Medical settings -->
-  <MedGroupDefaults>ค่าเริ่มต้น</MedGroupDefaults>
+  <MedGroupDefaults>เพื่มเติม</MedGroupDefaults>
   <MedGroupColonist>อาณานิคม</MedGroupColonist>
   <MedGroupImprisonedColonist>ที่ถูกคุมขัง อาณานิคม</MedGroupImprisonedColonist>
   <MedGroupColonyAnimal>อาณานิคม สัตว์</MedGroupColonyAnimal>
