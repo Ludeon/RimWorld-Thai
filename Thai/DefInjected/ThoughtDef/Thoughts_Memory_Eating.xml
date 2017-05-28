@@ -9,7 +9,7 @@
   <AteFineMeal.stages.0.description>ฉันกินอาหารอย่างดีที่อร่อยมาก งั่ม!</AteFineMeal.stages.0.description>
   
   <AteAwfulMeal.stages.0.label>กินอาหารไม่ดี</AteAwfulMeal.stages.0.label>
-  <AteAwfulMeal.stages.0.description>I had to eat a disgusting, tasteless meal. I know it keeps you alive, but nobody wants to swallow that glop.</AteAwfulMeal.stages.0.description>
+  <AteAwfulMeal.stages.0.description>ฉันต้องกินอาหารที่ไม่น่ารับประทานและน่าขยะแขยง ฉันรู้ว่ามันทำให้คุณมีชีวิตอยู่ได้ แต่ไม่มีใครอยากกลืนมัน</AteAwfulMeal.stages.0.description>
   
   <AteRawFood.stages.0.label>กินอาหารดิบ</AteRawFood.stages.0.label>
   <AteRawFood.stages.0.description>ฉันกินอาหารดิบไป เราปรุงมันหรืออย่างน้อยก็สังเคราะห์เป็นอาหารเหลวโภชนาการไม่ได้หรอ?</AteRawFood.stages.0.description>
@@ -17,33 +17,32 @@
   <AteCorpse.stages.0.label>กินศพ</AteCorpse.stages.0.label>
   <AteCorpse.stages.0.description>ฉันกินศพเข้าไปเหมือนสัตว์ มันเลวร้ายมาก</AteCorpse.stages.0.description>
 
-  <AteKibble.stages.0.label>กินอาหารแห้ง</AteKibble.stages.0.label>
-  <AteKibble.stages.0.description>Ich musste Trockenfutter essen. Es ist so, als ob ich nicht mehr menschlich bin.</AteKibble.stages.0.description>
+  <AteKibble.stages.0.label>กินอาหารสัตว์</AteKibble.stages.0.label>
+  <AteKibble.stages.0.description>ฉันต้องกินอาหารสัตว์ เหมือนว่าฉันไม่ได้เป็นมนุษย์อีกต่อไป</AteKibble.stages.0.description>
   
   <!-- Special nature thoughts -->
 
   <AteHumanlikeMeatDirectCannibal.stages.0.label>กินมนุษย์ (ดิบ)</AteHumanlikeMeatDirectCannibal.stages.0.label>
-  <AteHumanlikeMeatDirectCannibal.stages.0.description>Ich habe das Fleisch eines anderen Menschen gegessen, roh, wie ein Tier. Es war so... saftig.</AteHumanlikeMeatDirectCannibal.stages.0.description>
+  <AteHumanlikeMeatDirectCannibal.stages.0.description>ฉันกินเนื้อของมนุษย์มันเหมือนเนื้อสัตว์ มันเยี่ยมยอดมาก</AteHumanlikeMeatDirectCannibal.stages.0.description>
 
   <AteHumanlikeMeatAsIngredientCannibal.stages.0.label>กินมนุษย์ (สุก)</AteHumanlikeMeatAsIngredientCannibal.stages.0.label>
-  <AteHumanlikeMeatAsIngredientCannibal.stages.0.description>Ich habe eine ein Essen aus Menschenfleisch gegessen. Soo lecker. Wenn ich doch nur ein paar dicke Bohnen und einen leckeren Chianti dazu hätte.</AteHumanlikeMeatAsIngredientCannibal.stages.0.description>
+  <AteHumanlikeMeatAsIngredientCannibal.stages.0.description>ฉันกินอาหารที่ทำจากเนื้อของมนุษย์คนอื่น มันน่าพิศวง แต่ถ้าฉันมีถั่วเขียว และ ไวน์ที่ดี</AteHumanlikeMeatAsIngredientCannibal.stages.0.description>
 
   <AteInsectMeatAsIngredient.stages.0.label>กินเนื้อแมลง (สุก)</AteInsectMeatAsIngredient.stages.0.label>
-  <AteInsectMeatAsIngredient.stages.0.description>Ich habe ein Gericht aus Insektenfleisch gegessen. Die Soße hat teilweise den Geschmack überdeckt, aber da waren Drüsen und Bläschen voller Flüssigkeiten die ich nicht identifizieren konnte.</AteInsectMeatAsIngredient.stages.0.description>
+  <AteInsectMeatAsIngredient.stages.0.description>ฉันกินอาหารจานเนื้อแมลง ซอสได้ครอบคลุมบางส่วนของรสชาติ, แต่มีต่อมและฟองอากาศหลายรูปแบบ ของของเหลวที่ฉันไม่สามารถระบุได้</AteInsectMeatAsIngredient.stages.0.description>
 
   <AteInsectMeatDirect.stages.0.label>กินเนื้อแมลง (ดิบ)</AteInsectMeatDirect.stages.0.label>
-  <AteInsectMeatDirect.stages.0.description>Ich habe Insektenfleisch gegessen. Es war mit Abstand das Ekligste, das ich jeh gegessen habe.</AteInsectMeatDirect.stages.0.description>
+  <AteInsectMeatDirect.stages.0.description>ฉันกินเนื้อสัตว์แมลง. มันอาจจะเป็นสิ่งที่น่าขยะแขยงที่สุดที่ฉันเคยลิ้มรส</AteInsectMeatDirect.stages.0.description>
   
   <AteHumanlikeMeatAsIngredient.stages.0.label>กินมนุษย์ (สุก)</AteHumanlikeMeatAsIngredient.stages.0.label>
-  <AteHumanlikeMeatAsIngredient.stages.0.description>Ich habe eine Mahlzeit mit Menschenfleisch als Zutat gegessen. Das ist so furchtbar.</AteHumanlikeMeatAsIngredient.stages.0.description>
+  <AteHumanlikeMeatAsIngredient.stages.0.description> ฉันกินอาหารที่ทำจากเนื้อของมนุษย์คนอื่น นี้น่ากลัว</AteHumanlikeMeatAsIngredient.stages.0.description>
   
   <AteHumanlikeMeatDirect.stages.0.label>กินมนุษย์ (ดิบ)</AteHumanlikeMeatDirect.stages.0.label>
-  <AteHumanlikeMeatDirect.stages.0.description>Ich habe das Fleisch eines anderen Menschen gegessen, roh, wie ein Tier. Das ist ein Alptraum.</AteHumanlikeMeatDirect.stages.0.description>
+  <AteHumanlikeMeatDirect.stages.0.description>ฉันกินเนื้อมนุษย์ดิบเหมือนสัตว์</AteHumanlikeMeatDirect.stages.0.description>
 
-  
   <!--  Rotten state thoughts -->
 
   <AteRottenFood.stages.0.label>กินอาหารเน่าเสีย</AteRottenFood.stages.0.label>
-  <AteRottenFood.stages.0.description>Ich habe ekliges, schimmliges Essen gegessen. Es zerlief richtig in meinem Mund.. Aber nicht auf einer angenehmen Art und Weise!</AteRottenFood.stages.0.description>
+  <AteRottenFood.stages.0.description>ฉันกินอาหารน่ารังเกียจและเน่าเสีย มันละลายในปากของฉัน - แต่ไม่ได้ในทางที่ดี</AteRottenFood.stages.0.description>
 
 </LanguageData>

@@ -9,8 +9,8 @@
     <AlcoholHigh.stages.4.label>ปวดหัว</AlcoholHigh.stages.4.label>
     <AlcoholHigh.stages.5.label>หมดสติ</AlcoholHigh.stages.5.label>
 
-	<AlcoholTolerance.label>ความอดทนแอลกอฮอล์</AlcoholTolerance.label>
-	<AlcoholAddiction.label>ติดยาเสพติดแอลกอฮอล์</AlcoholAddiction.label>
+	<AlcoholTolerance.label>ดือยา แอลกอฮอล์</AlcoholTolerance.label>
+	<AlcoholAddiction.label>ติดยาเสพติด แอลกอฮอล์</AlcoholAddiction.label>
 	<AlcoholAddiction.stages.0.label>ลงแดง</AlcoholAddiction.stages.0.label>
 	
     <Hangover.label>เมาค้าง</Hangover.label>
@@ -24,18 +24,18 @@
 	<WakeUpAddiction.stages.0.label>ลงแดง</WakeUpAddiction.stages.0.label>
 	
 	<SmokeleafHigh.label>เมา Smokeleaf</SmokeleafHigh.label>
-	<SmokeleafTolerance.label>ความอดทนSmokeleaf</SmokeleafTolerance.label>
+	<SmokeleafTolerance.label>ดือยา Smokeleaf</SmokeleafTolerance.label>
 	<SmokeleafAddiction.label>ติด Smokeleaf</SmokeleafAddiction.label>
 	<SmokeleafAddiction.stages.0.label>ลงแดง</SmokeleafAddiction.stages.0.label>
 	
 	<FlakeHigh.label>เมา Flake</FlakeHigh.label>
 	<YayoHigh.label>เมา Yayo</YayoHigh.label>
-	<PsychiteTolerance.label>ความอดทนPsychid</PsychiteTolerance.label>
+	<PsychiteTolerance.label>ดือยา Psychid</PsychiteTolerance.label>
 	<PsychiteAddiction.label>ติด Psychite</PsychiteAddiction.label>
 	<PsychiteAddiction.stages.0.label>ลงแดง</PsychiteAddiction.stages.0.label>
 	
 	<GoJuiceHigh.label>เมา GoJuice</GoJuiceHigh.label>
-	<GoJuiceTolerance.label>ความอดทนGoJuice</GoJuiceTolerance.label>
+	<GoJuiceTolerance.label>ดือยา GoJuice</GoJuiceTolerance.label>
 	<GoJuiceAddiction.label>ติด GoJuice</GoJuiceAddiction.label>
 	<GoJuiceAddiction.stages.0.label>ลงแดง</GoJuiceAddiction.stages.0.label>
 	
@@ -48,8 +48,8 @@
 	
 	<AmbrosiaHigh.label>เมา Ambrosia</AmbrosiaHigh.label>
 	
-	<AmbrosiaTolerance.label>ความอดทนAmbrosia</AmbrosiaTolerance.label>
-	<AmbrosiaAddiction.label>ติดAmbrosia</AmbrosiaAddiction.label>
+	<AmbrosiaTolerance.label>ดือยา Ambrosia</AmbrosiaTolerance.label>
+	<AmbrosiaAddiction.label>ติด Ambrosia</AmbrosiaAddiction.label>
 	<AmbrosiaAddiction.stages.1.label>ลงแดง</AmbrosiaAddiction.stages.1.label>
 	
 </LanguageData>

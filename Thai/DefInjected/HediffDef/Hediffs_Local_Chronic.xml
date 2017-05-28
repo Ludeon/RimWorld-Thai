@@ -2,31 +2,31 @@
 <LanguageData>
 
   <BadBack.label>หลังไม่ดี</BadBack.label>
-  <Frail.label>เปราะบาง</Frail.label>
+  <Frail.label>อ่อนแอ</Frail.label>
   <Cataract.label>เป็นต้อ</Cataract.label>
   <HearingLoss.label>สูญเสียการได้ยิน</HearingLoss.label>
   <Dementia.label>สมองเสื่อม</Dementia.label>
 
   <Alzheimers.label>อัลไซเมอร์</Alzheimers.label>
-  <Alzheimers.stages.0.label>ขั้นแรกเริ่ม</Alzheimers.stages.0.label>
+  <Alzheimers.stages.0.label>ขั้นเริ่มแรก</Alzheimers.stages.0.label>
   <Alzheimers.stages.1.label>ขั้นต้น</Alzheimers.stages.1.label>
   <Alzheimers.stages.2.label>ขั้นรุนแรง</Alzheimers.stages.2.label>
   <Alzheimers.stages.3.label>ขั้นรุนแรง</Alzheimers.stages.3.label>
 
   <Asthma.label>หืด</Asthma.label>
-  <Asthma.stages.0.label>ขั้นแรกเริ่ม</Asthma.stages.0.label>
+  <Asthma.stages.0.label>ขั้นเริ่มแรก</Asthma.stages.0.label>
   <Asthma.stages.1.label>ขั้นต้น</Asthma.stages.1.label>
   <Asthma.stages.2.label>ขั้นรุนแรง</Asthma.stages.2.label>
 
   <HeartArteryBlockage.label>เส้นเลือดหัวใจอุดตัน</HeartArteryBlockage.label>
-  <HeartArteryBlockage.stages.0.label>ขั้นแรกเริ่ม</HeartArteryBlockage.stages.0.label>
+  <HeartArteryBlockage.stages.0.label>ขั้นเริ่มแรก</HeartArteryBlockage.stages.0.label>
   <HeartArteryBlockage.stages.1.label>ขั้นต้น</HeartArteryBlockage.stages.1.label>
   <HeartArteryBlockage.stages.2.label>ขั้นรุนแรง</HeartArteryBlockage.stages.2.label>
   <HeartArteryBlockage.stages.3.label>ขั้นรุนแรง</HeartArteryBlockage.stages.3.label>
   <HeartArteryBlockage.stages.4.label>ขั้นสาหัส</HeartArteryBlockage.stages.4.label>
 
   <Carcinoma.label>มะเร็ง</Carcinoma.label>
-  <Carcinoma.stages.0.label>ขั้นแรกเริ่ม</Carcinoma.stages.0.label>
+  <Carcinoma.stages.0.label>ขั้นเริ่มแรก</Carcinoma.stages.0.label>
   <Carcinoma.stages.1.label>ขั้นต้น</Carcinoma.stages.1.label>
   <Carcinoma.stages.2.label>ขั้นรุนแรง</Carcinoma.stages.2.label>
   <Carcinoma.stages.3.label>ขั้นรุนแรง</Carcinoma.stages.3.label>

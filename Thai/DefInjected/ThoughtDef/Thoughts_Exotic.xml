@@ -7,23 +7,21 @@
   <ArtifactMoodBoost.stages.0.label>รู้สึกแปลกๆ</ArtifactMoodBoost.stages.0.label>
   <ArtifactMoodBoost.stages.0.description>ฉันรู้สึกแปลกๆ, แต่ก็รู้สึกผ่อนคลายมาก</ArtifactMoodBoost.stages.0.description>
 
-  <!--
-  
-  <PsychicDrone.stages.0.label>Psychische Beruhigung (mittel)</PsychicDrone.stages.0.label>
-  <PsychicDrone.stages.0.description>Es ist wie eine beruhigende Stimme in meinem Kopf. Sie beruhigt mich, entspannt meine Nerven.</PsychicDrone.stages.0.description>
 
-  <PsychicDrone.stages.1.label>Psychisches Brummen (leicht)</PsychicDrone.stages.1.label>
-  <PsychicDrone.stages.1.description>Es ist wie ein leichtes Flüstern. Eine Stimme, die mir etwas zuflüstert. Ich kann nur ein paar Worte verstehen, aber sie gefallen mir nicht.</PsychicDrone.stages.1.description>
+  <PsychicDrone.stages.0.label>หุ่นพลังจิต (กลาง)</PsychicDrone.stages.0.label>
+  <PsychicDrone.stages.0.description>มันเหมือนเสียงเงียบสงบที่ด้านหลังของใจของฉัน ฉันผ่อนคลายไปกับประสาทของฉัน</PsychicDrone.stages.0.description>
 
-  <PsychicDrone.stages.2.label>Psychisches Brummen (mittel)</PsychicDrone.stages.2.label>
-  <PsychicDrone.stages.2.description>Ich fühle mich, als ob da jemand ist. Gerade so außer Sichtweite. Die Stimme ändert sich, aber nicht, was sie sagt. Ich soll den anderen Schmerzen zufügen. Mach, dass es aufhört!</PsychicDrone.stages.2.description>
+  <PsychicDrone.stages.1.label>หุ่นพลังจิต (ต่ำ)</PsychicDrone.stages.1.label>
+  <PsychicDrone.stages.1.description>มันเหมือนเสียงกระซิบเบา ๆ เสียงที่กระซิบกับผมบางสิ่งบางอย่าง ฉันสามารถเข้าใจคำไม่กี่คำ แต่ผมไม่ชอบพวกเขา</PsychicDrone.stages.1.description>
 
-  <PsychicDrone.stages.3.label>Psychisches Brummen (stark)</PsychicDrone.stages.3.label>
-  <PsychicDrone.stages.3.description>Die Stimme ist unerträglich laut. Es ist so schwer sich zu konzentrieren. Ich merke, wie ich antworte, ihr zuschreie sie soll aufhören. Sie reagiert nicht und schreit einfach weiter auf mich ein.</PsychicDrone.stages.3.description>
+  <PsychicDrone.stages.2.label>หุ่นพลังจิต (กลาง)</PsychicDrone.stages.2.label>
+  <PsychicDrone.stages.2.description>ฉันรู้สึกเหมือนมีกวนฉันอยู่เสมอเพียงออกจากสายตาพูดกับผม การเปลี่ยนแปลงเสียง แต่ข้อความไม่ได้ ฉันควรจะทำร้ายคน ทำให้มันหายไป!</PsychicDrone.stages.2.description>
 
-  <PsychicDrone.stages.4.label>Psychisches Brummen (extrem)</PsychicDrone.stages.4.label>
-  <PsychicDrone.stages.4.description>Mein Herz klopft und ich schwitze. Ich kann nur noch an all den Schmerz, das Leid und all die Feinde um mich herum denken. Sie sind mein Alptraum, mein Alptraum, mein Alptraum,...</PsychicDrone.stages.4.description>
-  
-  -->
+  <PsychicDrone.stages.3.label>หุ่นพลังจิต (สูง)</PsychicDrone.stages.3.label>
+  <PsychicDrone.stages.3.description>เสียงดังเหลือทน มันยากที่จะมีสมาธิ ฉันพบตัวเองพูดกลับไปตะโกนใส่มัน เพียง แต่จะช่วยให้ตะโกน!</PsychicDrone.stages.3.description>
+
+  <PsychicDrone.stages.4.label>หุ่นพลังจิต (อย่างมาก)</PsychicDrone.stages.4.label>
+  <PsychicDrone.stages.4.description>หัวใจของฉันจะห้ำหั่นและฉันเหงื่อออก ทั้งหมดที่ฉันสามารถคิดจะทำร้ายและความทุกข์ทรมานและทุกศัตรูรอบฉัน พวกเขาส่งฝันร้าย ฉันฝันร้าย ฉันฝันร้าย ฉัน ...</PsychicDrone.stages.4.description>
+
   
 </LanguageData>

@@ -17,8 +17,8 @@
   <FoodPoisoning.label>อาหารเป็นพิษ</FoodPoisoning.label>
 
   <ToxicBuildup.label>สารเคมีสะสม</ToxicBuildup.label>
-  <ToxicBuildup.stages.0.label>ขั้นแรกเริ่ม (ไม่แสดงอาการ)</ToxicBuildup.stages.0.label>
-  <ToxicBuildup.stages.1.label>ขั้นแรกเริ่ม</ToxicBuildup.stages.1.label>
+  <ToxicBuildup.stages.0.label>ขั้นเริ่มแรก (ไม่แสดงอาการ)</ToxicBuildup.stages.0.label>
+  <ToxicBuildup.stages.1.label>ขั้นเริ่มแรก</ToxicBuildup.stages.1.label>
   <ToxicBuildup.stages.2.label>ขั้นต้น</ToxicBuildup.stages.2.label>
   <ToxicBuildup.stages.3.label>ขั้นปานกลาง</ToxicBuildup.stages.3.label>
   <ToxicBuildup.stages.4.label>ขั้นรุนแรง</ToxicBuildup.stages.4.label>
