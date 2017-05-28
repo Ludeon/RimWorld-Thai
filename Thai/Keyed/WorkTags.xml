@@ -2,21 +2,20 @@
 <LanguageData>
 
   <WorkTagNone>ไม่มี</WorkTagNone>
-  <WorkTagIntellectual>ปัญญาชน</WorkTagIntellectual>
+  <WorkTagIntellectual>ความคิด</WorkTagIntellectual>
   <WorkTagManualDumb>กรรมกร</WorkTagManualDumb>
   <WorkTagManualSkilled>แรงงานทักษะ</WorkTagManualSkilled>
   <WorkTagViolent>ความรุนแรง</WorkTagViolent>
-  <WorkTagCaring>ความห่วงใย</WorkTagCaring>
+  <WorkTagCaring>ดูแล</WorkTagCaring>
   <WorkTagSocial>สังคม</WorkTagSocial>
-  <WorkTagScary>สิ่งน่ากลัว</WorkTagScary>
   <WorkTagAnimals>เกี่ยวกับสัตว์</WorkTagAnimals>
   <WorkTagArtistic>ศิลปะ</WorkTagArtistic>
   <WorkTagCrafting>งานฝีมือ</WorkTagCrafting>
   <WorkTagCooking>ทำอาหาร</WorkTagCooking>
-  <WorkTagFirefighting>การดับเพลิง</WorkTagFirefighting>
-  <WorkTagCleaning>งานทำความสะอาด</WorkTagCleaning>
-  <WorkTagHauling>งานแบกหาม</WorkTagHauling>
-  <WorkTagPlantWork>งานเกี่ยวกับต้นไม้</WorkTagPlantWork>
-  <WorkTagMining>งานเหมือง</WorkTagMining>
+  <WorkTagFirefighting>ดับเพลิง</WorkTagFirefighting>
+  <WorkTagCleaning>ทำความสะอาด</WorkTagCleaning>
+  <WorkTagHauling>ขนของ</WorkTagHauling>
+  <WorkTagPlantWork>เพาะปลูก</WorkTagPlantWork>
+  <WorkTagMining>เหมืองแร่</WorkTagMining>
 
 </LanguageData>
