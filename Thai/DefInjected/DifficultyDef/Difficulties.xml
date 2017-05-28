@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <FreePlay.label>เล่นอิสระ</FreePlay.label>
-  <FreePlay.description>เป็นเกมที่มีสไตล์การเล่นที่เน้นไปยังการสร้างอาณานิคม ภายในสภาพแวดล้อมที่เหมือนกระบะทราย ภยันตรายยังคงมีอยู่ แต่จะอ่อนมาก</FreePlay.description>
+  <Peaceful.label>เงียบสงบ (Peaceful)</Peaceful.label>
+  <Peaceful.description>สำหรับผู้ที่ต้องการพักผ่อนและสร้างอาณานิคมในสภาพแวดล้อมแบบ Sandbox\n\nเหตุการณ์ที่คุกคามที่สำคัญ ๆ ถูกปิดใช้งาน แต่อาณานิคมยังคงไม่สบายใจและสัตว์ก็ยังคงคลั่งไคล้ได้ตลอดเวลา</Peaceful.description>
 
-  <Basebuilder.label>นักสร้างฐาน</Basebuilder.label>
-  <Basebuilder.description>เป็นเกมที่มีสไตล์การเล่นที่เน้นไปที่การสร้างฐาน ภยันตรายจะลดขนาดลงนิดนึง</Basebuilder.description>
+  <VeryEasy.label>เล่นอิสระ (VeryEasy)</VeryEasy.label>
+  <VeryEasy.description>เป็นเกมที่มีสไตล์การเล่นที่เน้นไปยังการสร้างอาณานิคม ภายในสภาพแวดล้อมที่เหมือนกระบะทราย ภยันตรายยังคงมีอยู่ แต่จะอ่อนมาก</VeryEasy.description>
 
-  <Rough.label>ลำบาก</Rough.label>
-  <Rough.description>มันเป็นดาวที่ยากลำบาก ภยันตรายต่างๆอาจจะค่อนข้างอันตราย และก็ไม่มีโบนัสสำหรับอารมณ์ของชาวอาณานิคมหรือผลผลิตทางการเกษตร</Rough.description>
+  <Easy.label>นักสร้างฐาน (Easy)</Easy.label>
+  <Easy.description>เป็นเกมที่มีสไตล์การเล่นที่เน้นไปที่การสร้างฐาน ภยันตรายจะลดขนาดลงนิดนึง</Easy.description>
 
-  <Challenge.label>ท้าทาย</Challenge.label>
-  <Challenge.description>มันเป็นเกมที่ท้าทาย ระดับนี้ต้องอาศัยกลยุทธ ยุทธวิธี และโชคช่วยในการเอาตัวรอด ซึ่งเป็นทางที่ควรค่าแก่การเล่น Rimworld อย่างแท้จริง</Challenge.description>
+  <Medium.label>ลำบาก (Medium)</Medium.label>
+  <Medium.description>มันเป็นดาวที่ยากลำบาก ภยันตรายต่างๆอาจจะค่อนข้างอันตราย และก็ไม่มีโบนัสสำหรับอารมณ์ของชาวอาณานิคมหรือผลผลิตทางการเกษตร</Medium.description>
 
-  <Extreme.label>สุดโต่ง</Extreme.label>
-  <Extreme.description>แข็งแกร่งกว่ามีดใบเพชรซะอีก ศัตรูนั้นแข็งแกร่ง ราคาสินค้าต่างๆจะย่ำแย่ อาหารจะขาดแคลน และชาวอาณานิคมจะอารมณ์บูด สำหรับคนที่สนุกกับการทรมานตนแบบดิจิตัล</Extreme.description>
+  <Hard.label>ท้าทาย (Hard)</Hard.label>
+  <Hard.description>มันเป็นเกมที่ท้าทาย ระดับนี้ต้องอาศัยกลยุทธ ยุทธวิธี และโชคช่วยในการเอาตัวรอด ซึ่งเป็นทางที่ควรค่าแก่การเล่น Rimworld อย่างแท้จริง</Hard.description>
+
+  <VeryHard.label>สุดโต่ง (VeryHard)</VeryHard.label>
+  <VeryHard.description>แข็งแกร่งกว่ามีดใบเพชรซะอีก ศัตรูนั้นแข็งแกร่ง ราคาสินค้าต่างๆจะย่ำแย่ อาหารจะขาดแคลน และชาวอาณานิคมจะอารมณ์บูด สำหรับคนที่สนุกกับการทรมานตนแบบดิจิตัล</VeryHard.description>
 
 </LanguageData>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <SolarFlare.label>เปลวสุริยะ</SolarFlare.label>
+  <SolarFlare.description>เปลวไฟจากดวงอาทิตย์จะกระทบกับดาวเคราะห์ ทำให้เกิดการรบกวนทางไฟฟ้ามากและทำให้อุปกรณ์ไฟฟ้าส่วนใหญ่ทำงานได้</SolarFlare.description>
+  <SolarFlare.endMessage>เปลวไฟจากแสงอาทิตย์กำลังจะสิ้นสุดลง</SolarFlare.endMessage>
+
+  <Eclipse.label>สุริยุปราคา</Eclipse.label>
+  <Eclipse.description>เงาพระจันทร์มาปิดบังพื้นผิวโลก มันจะยังคงมืดแม้ในระหว่างวัน</Eclipse.description>
+  <Eclipse.endMessage>สุริยุปราคากำลังจะสิ้นสุดลง</Eclipse.endMessage>
+
+  <PsychicDrone.label>โดรนหุ่นพลังจิต</PsychicDrone.label>
+  <PsychicDrone.description>ปัญญาประดิษฐ์ที่ห่างไกลส่งเสียงคลื่นพลังจิต ครวญเพลงนี้ได้รับผลกระทบในระยะยาวสภาพจิตใจของชาวอาณานิคมและสามารถนำไปสู่ประสาทเสีย</PsychicDrone.description>
+  <PsychicDrone.endMessage>เสียงพึมพำพลังจิตกำลังจะสิ้นสุดลง</PsychicDrone.endMessage>
+
+  <PsychicSoothe.label>จิตใจปลอบประโลม</PsychicSoothe.label>
+  <PsychicSoothe.description>ที่ห่างไกล, AI มีประสิทธิภาพเป็นที่เปล่งคลื่นของแรงพลังจิตไม่ได้รับการพักผ่อนอย่างสงบกับผู้คนและการรักษาเสถียรภาพจิตใจของพวกเขา</PsychicSoothe.description>
+  <PsychicSoothe.endMessage>จิตใจปลอบประโลมกำลังจะสิ้นสุดลง</PsychicSoothe.endMessage>
+
+  <ToxicFallout.label>สารเคมีโปรยตัว</ToxicFallout.label>
+  <ToxicFallout.description>เมฆที่เป็นพิษอยู่ทั้งภูมิภาคของดาวเคราะห์ ทุกคนที่ไม่ได้อยู่ภายใต้หลังคาต้องระวังสายเคมีที่เป็นพิษ</ToxicFallout.description>
+  <ToxicFallout.endMessage>สารเคมีโปรยตัวกำลังจะสิ้นสุดลง</ToxicFallout.endMessage>
+
+  <VolcanicWinter.label>หน้าหนาวภูเขาไฟ</VolcanicWinter.label>
+  <VolcanicWinter.description>บรรยากาศถูกสำลักด้วยอนุภาคของภูเขาไฟซึ่งจะช่วยลดปริมาณแสงที่เข้าสู่ผิวได้อย่างมาก อุณหภูมิจะลดลงและพืชจะโตช้าลง</VolcanicWinter.description>
+  <VolcanicWinter.endMessage>หน้าหนาวภูเขาไฟกำลังจะสิ้นสุดลง</VolcanicWinter.endMessage>
+
+  <HeatWave.label>คลื่นความร้อน</HeatWave.label>
+  <HeatWave.description>คลื่นความร้อนสูงทั้งภูมิภาค อาณานิคมควรจะอยู่ในสถานที่เย็น</HeatWave.description>
+  <HeatWave.endMessage>คลื่นความร้อนกำลังจะสิ้นสุดลง</HeatWave.endMessage>
+
+  <ColdSnap.label>อากาศหนาวฉับพลัน</ColdSnap.label>
+  <ColdSnap.description>อากาศหนาวฉับพลันทั้งภูมิภาค อาณานิคมไม่ควรจะอยู่ที่อากาศเย็นนานเกินไป</ColdSnap.description>
+  <ColdSnap.endMessage>อากาศหนาวฉับพลันกำลังจะสิ้นสุดลง</ColdSnap.endMessage>
+
+  <Flashstorm.label>พายุเมฆฟ้าคะนอง</Flashstorm.label>
+  <Flashstorm.description>ฟ้าผ่าจำนวนมากจะลงพื้นที่เล็ก ๆ</Flashstorm.description>
+  <Flashstorm.endMessage>พายุเมฆฟ้าคะนองกำลังจะสิ้นสุดลง</Flashstorm.endMessage>
+
+  <ClimateCycle.label>สภาพอากาศแปรปรวน</ClimateCycle.label>
+  <ClimateCycle.description>สภาพภูมิอากาศรอบหลายปีเนื่องจากในวงโคจรเป็นรูปวงรี</ClimateCycle.description>
+
+  <Planetkiller.label>Planetkiller</Planetkiller.label>
+  <Planetkiller.description>เป็นอาวุธที่ฆาตกรดาวเคราะห์ดวงดาวอยู่ใกล้โลกใบนี้ เมื่อมันกระทบมันจะทำลายทุกชีวิต</Planetkiller.description>
+  
+</LanguageData>

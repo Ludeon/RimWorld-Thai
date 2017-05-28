@@ -4,8 +4,8 @@
   <Head.label>หัว</Head.label>
   <Skull.label>กระโหลก</Skull.label>
   <Brain.label>สมอง</Brain.label>
-  <LeftEye.label>นัยน์ตาซ้าย</LeftEye.label>
-  <RightEye.label>นัยน์ตาขวา</RightEye.label>
+  <LeftEye.label>ตาซ้าย</LeftEye.label>
+  <RightEye.label>ตาขวา</RightEye.label>
   <LeftEar.label>หูข้างซ้าย</LeftEar.label>
   <RightEar.label>หูข้างขวา</RightEar.label>
   <Nose.label>จมูก</Nose.label>

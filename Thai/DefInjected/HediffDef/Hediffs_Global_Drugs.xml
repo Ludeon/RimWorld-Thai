@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AlcoholHigh.label>เมาแอลกอฮอล์</AlcoholHigh.label>
+    <AlcoholHigh.stages.0.label>อุ่นเล็กน้อย (ไม่มีอาการ)</AlcoholHigh.stages.0.label>
+    <AlcoholHigh.stages.1.label>อุ่น</AlcoholHigh.stages.1.label>
+    <AlcoholHigh.stages.2.label>กรึ่มๆ</AlcoholHigh.stages.2.label>
+    <AlcoholHigh.stages.3.label>เมา</AlcoholHigh.stages.3.label>
+    <AlcoholHigh.stages.4.label>ปวดหัว</AlcoholHigh.stages.4.label>
+    <AlcoholHigh.stages.5.label>หมดสติ</AlcoholHigh.stages.5.label>
+
+	<AlcoholTolerance.label>ความอดทนแอลกอฮอล์</AlcoholTolerance.label>
+	<AlcoholAddiction.label>ติดยาเสพติดแอลกอฮอล์</AlcoholAddiction.label>
+	<AlcoholAddiction.stages.0.label>ลงแดง</AlcoholAddiction.stages.0.label>
+	
+    <Hangover.label>เมาค้าง</Hangover.label>
+    <Hangover.stages.0.label>เล็กน้อย</Hangover.stages.0.label>
+    <Hangover.stages.1.label>รุนแรง</Hangover.stages.1.label>
+    <Hangover.stages.2.label>ปวดหัวจะระเบิด</Hangover.stages.2.label>
+
+	<WakeUpHigh.label>เมา wake-up</WakeUpHigh.label>
+	<WakeUpTolerance.label>ดือยา wake-up</WakeUpTolerance.label>
+	<WakeUpAddiction.label>ติด wake-up</WakeUpAddiction.label>
+	<WakeUpAddiction.stages.0.label>ลงแดง</WakeUpAddiction.stages.0.label>
+	
+	<SmokeleafHigh.label>เมา Smokeleaf</SmokeleafHigh.label>
+	<SmokeleafTolerance.label>ความอดทนSmokeleaf</SmokeleafTolerance.label>
+	<SmokeleafAddiction.label>ติด Smokeleaf</SmokeleafAddiction.label>
+	<SmokeleafAddiction.stages.0.label>ลงแดง</SmokeleafAddiction.stages.0.label>
+	
+	<FlakeHigh.label>เมา Flake</FlakeHigh.label>
+	<YayoHigh.label>เมา Yayo</YayoHigh.label>
+	<PsychiteTolerance.label>ความอดทนPsychid</PsychiteTolerance.label>
+	<PsychiteAddiction.label>ติด Psychite</PsychiteAddiction.label>
+	<PsychiteAddiction.stages.0.label>ลงแดง</PsychiteAddiction.stages.0.label>
+	
+	<GoJuiceHigh.label>เมา GoJuice</GoJuiceHigh.label>
+	<GoJuiceTolerance.label>ความอดทนGoJuice</GoJuiceTolerance.label>
+	<GoJuiceAddiction.label>ติด GoJuice</GoJuiceAddiction.label>
+	<GoJuiceAddiction.stages.0.label>ลงแดง</GoJuiceAddiction.stages.0.label>
+	
+	
+	<LuciferiumHigh.label>เมา Luciferium</LuciferiumHigh.label>
+	<LuciferiumAddiction.label>ติด Luciferium</LuciferiumAddiction.label>
+	<LuciferiumAddiction.stages.0.label>ลงแดง</LuciferiumAddiction.stages.0.label>
+	
+	<PenoxycylineHigh.label>เมา Penoxzylin</PenoxycylineHigh.label>
+	
+	<AmbrosiaHigh.label>เมา Ambrosia</AmbrosiaHigh.label>
+	
+	<AmbrosiaTolerance.label>ความอดทนAmbrosia</AmbrosiaTolerance.label>
+	<AmbrosiaAddiction.label>ติดAmbrosia</AmbrosiaAddiction.label>
+	<AmbrosiaAddiction.stages.1.label>ลงแดง</AmbrosiaAddiction.stages.1.label>
+	
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <PlayerColony.label>อาณานิคมใหม่</PlayerColony.label>
+  <PlayerColony.description>ชุมชนอาณานิคมของคุณ</PlayerColony.description>
+  <PlayerColony.pawnsPlural>เหล่าชาวอาณานิคม</PlayerColony.pawnsPlural>
+
+  <PlayerTribe.label>เผ่าใหม่</PlayerTribe.label>
+  <PlayerTribe.description>ชุมชนเผ่าของคุณ</PlayerTribe.description>
+  <PlayerTribe.pawnsPlural>เหล่าชาวเผ่า</PlayerTribe.pawnsPlural>
+
+</LanguageData>

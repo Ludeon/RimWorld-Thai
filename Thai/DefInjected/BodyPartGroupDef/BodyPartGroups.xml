@@ -7,11 +7,13 @@
   <Eyes.label>นัยน์ตา</Eyes.label>
   <Teeth.label>ฟัน</Teeth.label>
   <Mouth.label>ปาก</Mouth.label>
+  <Neck.label>คอ</Neck.label>
   <Arms.label>แขน</Arms.label>
   <Shoulders.label>ไหล่</Shoulders.label>
   <Hands.label>มือ</Hands.label>
   <LeftHand.label>มือซ้าย</LeftHand.label>
   <RightHand.label>มือขวา</RightHand.label>
+  <Waist.label>เอว</Waist.label>
   <Legs.label>ขา</Legs.label>
   <Feet.label>เท้า</Feet.label>
   <FrontLeftPaw.label>อุ้งเท้าหน้าข้างซ้าย</FrontLeftPaw.label>
@@ -23,10 +25,10 @@
   <FrontRightClaws.label>กรงเล็บหน้าข้างขวา</FrontRightClaws.label>
   <LeftBlade.label>ใบมีดซ้าย</LeftBlade.label>
   <RightBlade.label>ใบมีดขวา</RightBlade.label>
-  <CoveredByNaturalArmor.label>ปิดป้องไว้ด้วยเกราะธรรมชาติ</CoveredByNaturalArmor.label>
   <TuskAttackTool.label>งา</TuskAttackTool.label>
   <HornAttackTool.label>เขา</HornAttackTool.label>
   <HeadClaw.label>กรงเล็บ</HeadClaw.label>
   <TurtleBeakAttackTool.label>จงอยปาก</TurtleBeakAttackTool.label>
+  <Beak.label>จงอยปากนก</Beak.label>
 
 </LanguageData>

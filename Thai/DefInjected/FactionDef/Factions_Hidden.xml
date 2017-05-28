@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Spacer.label>ชาวอวกาศ</Spacer.label>
+  <Spacer.description>ผู้คนจากอวกาศอันห่างไกล</Spacer.description>
+  <Spacer.pawnsPlural>เหล่าชาวอวกาศ</Spacer.pawnsPlural>
+  <Spacer.fixedName>ชาวอวกาศ</Spacer.fixedName>
+
+  <SpacerHostile.label>ชาวอวกาศไม่เป็นมิตร</SpacerHostile.label>
+  <SpacerHostile.description>ผู้คนจากอวกาศอันห่างไกล</SpacerHostile.description>
+  <SpacerHostile.pawnsPlural>เหล่าชาวอวกาศไม่เป็นมิตร</SpacerHostile.pawnsPlural>
+  <SpacerHostile.fixedName>ชาวอวกาศไม่เป็นมิตร</SpacerHostile.fixedName>
+
+  <!-- Special sub-humanlike factions -->
+
+  <Mechanoid.label>รังเมคานอยด์</Mechanoid.label>
+  <Mechanoid.description>รังของเครื่องจักรที่คัดลอกทวีจำนวนตัวเอง</Mechanoid.description>
+  <Mechanoid.pawnsPlural>พวกเมคานอยด์</Mechanoid.pawnsPlural>
+  <Mechanoid.fixedName>รังเมคานอยด์</Mechanoid.fixedName>
+  
+  <Insect.label>แมลง</Insect.label>
+  <Insect.description>แมลงที่ดุร้ายและก้าวร้าว</Insect.description>
+  <Insect.pawnsPlural>พวกแมลง</Insect.pawnsPlural>
+  <Insect.fixedName>แมลง</Insect.fixedName>
+
+</LanguageData>
