@@ -10,6 +10,8 @@
   <Credit_GameArt>ศิลป์เกม</Credit_GameArt>
   <Credit_MenuArt>ศิลป์เมนู</Credit_MenuArt>
   <Credit_AdditionalCode>โค้ดเพิ่มเติม</Credit_AdditionalCode>
+  
+  <Credit_SpecialThanks>ขอขอบคุณเป็นพิเศษ</Credit_SpecialThanks>
 
   <Credits_TitleCommunity>อาสาชุมชน</Credits_TitleCommunity>
   <Credit_Tester>นักทดสอบ</Credit_Tester>
@@ -18,7 +20,7 @@
   <Credit_Moderator>Moderator</Credit_Moderator>
   <Credit_WikiMaster>Wiki master</Credit_WikiMaster>
 
-  <Credits_TitleLanguage>{0} ภาษา</Credits_TitleLanguage>
+  <Credits_TitleLanguage>ภาษา {0}</Credits_TitleLanguage>
   <Credit_Writer>ผู้ประพันธ์</Credit_Writer>
   <Credit_Translator>ผู้แปล</Credit_Translator>
   <Credit_OpenSourceLibraries>Open source libraries</Credit_OpenSourceLibraries>

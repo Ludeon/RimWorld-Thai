@@ -1,29 +1,38 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Autosaving>กำลังเซฟอัตโนมัติ</Autosaving>
-  
-  <GameStartDialog>คุณสามคนได้ตื่นขึ้นมาในโลงคริปโตสลีป ตามเสียงไซเรนและเสียงเหล็กที่ฉีกออก คุณพยายามไปที่พ็อดหลบหนี ก่อนที่ยานจะฉีกเป็นชิ้นเล็กชิ้นน้อย\n\nในเวลาต่อมา, คุณลงจอดบนดาวชายขอบระบบที่ไม่ทราบข้อมูล\n\nชิ้นส่วนของยานที่ แหลกออกนั้นตกอยู่รอบๆคุณ, คุณเริ่มสร้างแผนเพื่อจะเอาชีวิตรอด</GameStartDialog>
-
+  <Autosaving>กำลังเซฟเกมอัตโนมัติ</Autosaving>
+  <GameStartDialog>คุณสามคนได้ตื่นขึ้นมาในโลงคริปโตสลีป ตามเสียงไซเรนและเสียงเหล็กที่ฉีกออก คุณพยายามไปที่พ็อดหลบหนี ก่อนที่ยานจะฉีกเป็นชิ้นเล็กชิ้นน้อย\n\nในเวลาต่อมา, คุณลงจอดบนดาวชายขอบระบบที่ไม่ทราบข้อมูล\n\nชิ้นส่วนของยานที่ แหลกออกนั้นตกอยู่รอบๆคุณ, คุณเริ่มวางแผนเพื่อจะเอาชีวิตรอด</GameStartDialog>
   <Colony>อาณานิคม</Colony>
-  
-  <ChangeLanguageFromMainMenu>You can only change language from the options screen on the main menu.</ChangeLanguageFromMainMenu>
-
+  <ChangeLanguageFromMainMenu>คุณสามารถเปลี่ยนภาษาจากหน้าจอตัวเลือกบนเมนูหลัก.</ChangeLanguageFromMainMenu>
   <AndLower>และ</AndLower>
   <DisabledLower>ปิดการทำงาน</DisabledLower>
 
-  <CloseButton>ปิด</CloseButton>
 
   <VersionIndicator>เวอร์ชัน {0}</VersionIndicator>
-  <DevelopmentBuildLower>development build</DevelopmentBuildLower>
-  <CompiledOn>Compiled {0}</CompiledOn>
-  <LoggedIntoSteamAs>Logged into Steam as {0}</LoggedIntoSteamAs>
+  <DevelopmentBuildLower>การพัฒนาสร้าง</DevelopmentBuildLower>
+  <CompiledOn>รวบรวม {0}</CompiledOn>
+  <LoggedIntoSteamAs>เข้าสู่ระบบ Steam as {0}</LoggedIntoSteamAs>
 
-  
+  <!-- General-use words -->
+  <Yes>ใช่</Yes>
+  <No>ไม่</No>
+  <min>ต่ำ</min>
+  <max>สูง</max>
+  <chance>โอกาส</chance>
+  <context>สิ่งแวดล้อม</context>
+  <multiplier>ตัวคูณ</multiplier>
+  <damage>ความเสียหาย</damage>
+  <radius>ขอบเขต</radius>
+  <durationDays>ระยะเวลา (วัน)</durationDays>
+  <intervalDays>ระยะห่าง (วัน)</intervalDays>
+  <repeat>ทำซ้ำ</repeat>
+	<default>ค่าเริ่มต้น</default>
+	
   <!-- Content generation-->
   
 	<MeatLabel>เนื้อ{0}</MeatLabel>
-  <MeatDesc>เนื้อดิบของ {0}</MeatDesc>
+  <MeatDesc>เนื้อเชือดดิบ สามารถปรุงลงในอาหารหรือกินอาหารดิบ</MeatDesc>
 
   <LeatherLabel>แผ่นหนัง{0}</LeatherLabel>
   <LeatherDesc>แผ่นหนังทำขึ้นจากหนังของ{0}</LeatherDesc>
@@ -33,19 +42,19 @@
   <DeadLabel>{0} (ตายแล้ว)</DeadLabel>
 
   <RoughStoneTerrainLabel>หยาบ {0}</RoughStoneTerrainLabel>
-  <RoughStoneTerrainDesc>หยาบ, natural {0} แผ่น</RoughStoneTerrainDesc>
+  <RoughStoneTerrainDesc>หยาบ, เหมือนธรรมชาติ {0} แผ่น</RoughStoneTerrainDesc>
   <RoughHewnStoneTerrainLabel>ตัดหยาบ {0}</RoughHewnStoneTerrainLabel>
-  <RoughHewnStoneTerrainDesc>ตัดอย่างยาบ, natural {0} แผ่น</RoughHewnStoneTerrainDesc>
+  <RoughHewnStoneTerrainDesc>ตัดอย่างยาบ, เหมือนธรรมชาติ {0} แผ่น</RoughHewnStoneTerrainDesc>
   <SmoothStoneTerrainLabel>เรียบ {0}</SmoothStoneTerrainLabel>
-  <SmoothStoneTerrainDesc>ขัดเรียบ natural {0} แผ่น</SmoothStoneTerrainDesc>
+  <SmoothStoneTerrainDesc>ขัดเรียบ เหมือนธรรมชาติ {0} แผ่น</SmoothStoneTerrainDesc>
 
-  <BlueprintLabelExtra>(พิมพ์เขียว)</BlueprintLabelExtra>
-  <FrameLabelExtra>(อาคาร)</FrameLabelExtra>
+  <BlueprintLabelExtra> (พิมพ์เขียว)</BlueprintLabelExtra>
+  <FrameLabelExtra> (อาคาร)</FrameLabelExtra>
 
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
-  <ThingMadeOfStuffLabel>{1}\n{0}</ThingMadeOfStuffLabel>
+  <ThingMadeOfStuffLabel>{1} {0}</ThingMadeOfStuffLabel>
 
   <SomeonesRoom>{1} ของ {0}</SomeonesRoom>
   <CouplesRoom>{2} ของ {0} และ {1}</CouplesRoom>
@@ -55,6 +64,11 @@
   <!-- History events -->
   <ColonistDied>ชาวอาณานิคมตาย</ColonistDied>
   
+  <!-- Rotation -->
+  <North>ทิศเหนือ</North>
+  <South>ทิศใต้</South>
+  <West>ทิศตะวันตก</West>
+  <East>ทิศตะวันออก</East>  
   
   
 </LanguageData>

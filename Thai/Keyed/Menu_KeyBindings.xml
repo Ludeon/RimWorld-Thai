@@ -2,11 +2,11 @@
 <LanguageData>
 
   <SaveButton>เซฟ</SaveButton>
-  <!--<CancelButton>Cancel</CancelButton>-->
+  <!--<CancelButton>ยกเลิก</CancelButton>-->
   <ClearBinding>ล้าง</ClearBinding>
-  <ResetBinding>รีเซ็ตเป็น default</ResetBinding>
-  <BindingButtonToolTip>Left-click to bind this key or right-click for options</BindingButtonToolTip>
+  <ResetBinding>รีเซ็ตเป็น Default</ResetBinding>
+  <BindingButtonToolTip>คลิกซ้ายเพื่อผูกคีย์นี้หรือคลิกขวาสำหรับตัวเลือก</BindingButtonToolTip>
   <PressAnyKeyOrEsc>กดปุ่มไหนก็ได้ หรือกด Esc เพื่อยกเลิก...</PressAnyKeyOrEsc>
-  <KeyBindingOverwritten>Key binding overwritten: {0}</KeyBindingOverwritten>
+  <KeyBindingOverwritten>การเขียนทับคีย์หลัก: {0}</KeyBindingOverwritten>
   
 </LanguageData>

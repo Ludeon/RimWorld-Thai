@@ -3,39 +3,50 @@
 
   <!-- Audiovisuals -->
   <Audiovisuals>Audiovisuals</Audiovisuals>
-  <GameVolume>ความดังของเกม</GameVolume>
-  <MusicVolume>ความดังของเพลง</MusicVolume>
-  <Antialiasing>การลบรอยหยัก</Antialiasing>
+  <GameVolume>เสียงของเกม</GameVolume>
+  <MusicVolume>เสียงเพลง</MusicVolume>
+  <Antialiasing>ลบลายหยัก</Antialiasing>
 
   <!-- Gameplay -->
-  <EdgeScreenScroll>Screen-edge mouse scroll</EdgeScreenScroll>
+  <EdgeScreenScroll>ขยับเมาส์เมือชนขอบจอ</EdgeScreenScroll>
   <PauseOnLoad>หยุดเกมไว้ตอนโหลด</PauseOnLoad>
-  <CustomCursor>Custom cursor</CustomCursor>
-  <KeyboardConfig>การตั้งค่าคีย์บอร์ด</KeyboardConfig>
+  <PauseOnUrgentLetter>หยุดเกมเมือมีจดหมายฉุกเฉิน</PauseOnUrgentLetter>
+  <CustomCursor>ใช้เมาส์ที่ปรับแต่ง</CustomCursor>
+  <HatsShownOnlyOnMap>หมวกที่แสดงเฉพาะบนแผนที่เกม</HatsShownOnlyOnMap>
+  <UIScale>ขนาด UI</UIScale>
+    <KeyboardConfig>ตั้งค่าคีย์บอร์ด</KeyboardConfig>
   <ChooseLanguage>เลือกภาษา</ChooseLanguage>
-  <AdaptiveTutor>Adaptive tutor</AdaptiveTutor>
-  <ResetAdaptiveTutor>Reset adaptive tutor</ResetAdaptiveTutor>
-  <AdaptiveTutorIsReset>Adaptive tutor is reset. He will now teach you from scratch.</AdaptiveTutorIsReset>
+  <ResetAdaptiveTutor>รีเซ็ทแบบฝึกหัด</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>แบบฝึกหัดรีเซ็ทแล้ว เขาจะทำการสอนคุณใหม่ทั้งหมด</AdaptiveTutorIsReset>
   <RunInBackground>เล่นต่อในเบื้องหลัง</RunInBackground>
   <DevelopmentMode>โหมดพัฒนา</DevelopmentMode>
-  <ResetModsConfigOnCrash>Auto-reset mods config on crash</ResetModsConfigOnCrash>
-  <LogVerbose>Verbose logging</LogVerbose>
+  <ResetModsConfigOnCrash>รีเซ็ท คอนฟิก ม็อดอัตโนมัติ เมื่อเกมแครช</ResetModsConfigOnCrash>
+  <LogVerbose>การบันทึกข้อมูลแบบ verbose</LogVerbose>
   <OpenSaveGameDataFolder>เปิดโฟลเดอร์ข้อมูลเซฟ</OpenSaveGameDataFolder>
-  <NamesYouWantToSee>Last names of Name in Game or Backstory in Game characters you want to see:</NamesYouWantToSee>
-  <ChangeStoryteller>เลือก storyteller</ChangeStoryteller>
+  <NamesYouWantToSee>นามสกุลที่คุณอยากพบเห็น ในเนื้อเรื่องและชื่อตัวละครภายในเกม :</NamesYouWantToSee>
+  <AddName>เพื่มชื่อ</AddName>
+  <TypeFirstNickOrLastName>พิมพ์ ชื่อเล่น หรือ นามสกุล</TypeFirstNickOrLastName>
+  <MessageAlreadyPreferredName>ชื่อนี้มีอยู่ในรายการที่ต้องการแล้ว</MessageAlreadyPreferredName>
+  <ChangeStoryteller>เลือก ผู้ดำเนินเรื่องราว</ChangeStoryteller>
   <AutosaveInterval>ความถี่การเซฟอัตโนมัติ</AutosaveInterval>
   <TemperatureMode>โหมดอุณหภูมิ</TemperatureMode>
   <ShowRealtimeClock>แสดงนาฬิกาเวลาจริง</ShowRealtimeClock>
-  <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
-
+  <MaxNumberOfPlayerHomes>จำนวนสูงสุดของอาณานิคม: {0}</MaxNumberOfPlayerHomes>
+  <PlantWindSway>ต้นไม้โดนลมพัด</PlantWindSway>
+  <MaxPermadeathAutosaveIntervalInfo>จำกัดเซฟอัตโนมิติขนาดเล่นโหมดตายถาวร {0} ต่อวัน</MaxPermadeathAutosaveIntervalInfo>
+  <ModSettings>Mod Settings</ModSettings>
+  
   <!-- Resolution -->
   <Resolution>ความละเอียดภาพ</Resolution>
   <Fullscreen>เต็มจอ</Fullscreen>
 
   <!-- Privacy-->
-  <Privacy>Privacy</Privacy>
-  <UserName>User name</UserName>
-  <ChooseHistoryUploadPref>Gameplay data upload pref.</ChooseHistoryUploadPref>
-  <AboutHistoryUpload>Users gameplay data helps developers balance the game. If you agree, your information will be sent every {0} game days (and in some other rare cases like the end of the game) to the RimWorld server and then analyzed. Uploaded gameplay data consists only of statistics and history records related to the game - no personal information is sent, except for user name, which means it is completely anonymous.</AboutHistoryUpload>
-  
+  <Privacy>ความเป็นส่วนตัว</Privacy>
+  <UserName>ยูเซอร์ เนม</UserName>
+  <ChooseHistoryUploadPref>ข้อมูลอัปโหลดการเล่นเกม pref</ChooseHistoryUploadPref>
+  <AboutHistoryUpload>ข้อมูลเกมสำหรับผู้ใช้ช่วยให้นักพัฒนาสามารถปรับสมดุลเกมได้ หากคุณยอมรับข้อมูลของคุณจะถูกส่งทุก {0} วันทำการ (และในบางกรณีที่หายากอื่น ๆ เช่นการสิ้นสุดของเกม) ไปยังเซิร์ฟเวอร์ RimWorld และทำการวิเคราะห์ ข้อมูลเกมเพลย์ที่อัปโหลดประกอบด้วยสถิติและประวัติที่เกี่ยวข้องกับเกมเท่านั้น - ไม่มีการส่งข้อมูลส่วนบุคคลยกเว้นชื่อผู้ใช้ซึ่งหมายความว่าเป็นชื่อที่ไม่ระบุชื่ออย่างสมบูรณ์</AboutHistoryUpload>
+
+  <!-- Mods -->
+  <SelectMod>เลือก mod...</SelectMod>
+  <NoConfigurableMods>No configurable mods loaded.</NoConfigurableMods>
 </LanguageData>

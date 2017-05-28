@@ -8,10 +8,9 @@
   <PassionNone>ไม่มี (เรียนรู้ {0}x)</PassionNone>
   <PassionMinor>สนใจแล้ว (เรียนรู้ {0}x)</PassionMinor>
   <PassionMajor>ไฟเร่าร้อน (เรียนรู้ {0}x)</PassionMajor>
+  <LearnedMaxToday>เรียนรู้เต็มแล้ววันนี้ ({0}/{1}, การเรียนรู้ต่อไปคูณด้วย {2})</LearnedMaxToday>
   <EffectsAtLevel>มีผลที่ระดับ {0}</EffectsAtLevel>
-  <SkillMax>MAX</SkillMax>
-
-
+  <SkillMax>เต็ม</SkillMax>
 
   <Skill0>ไม่รู้ตัวเอง</Skill0>
   <Skill1>ขาดคุณสมบัติ</Skill1>
@@ -34,9 +33,5 @@
   <Skill18>ผู้มีวิสัยทัศน์</Skill18>
   <Skill19>ผู้เป็นตำนาน</Skill19>
   <Skill20>ผู้ดุจดังพระเจ้า</Skill20>
-
-
-  
-  
-  
+ 
 </LanguageData>

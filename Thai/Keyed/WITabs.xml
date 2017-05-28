@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- WITab titles -->
+  <TabTerrain>ภูมิประเทศ</TabTerrain>
+  <TabPlanet>ดาวเคราะห์</TabPlanet>
+  <TabCaravanSocial>สังคม</TabCaravanSocial>
+  <TabCaravanHealth>สุขภาพ</TabCaravanHealth>
+  <TabCaravanNeeds>จำเป็น</TabCaravanNeeds>
+  <TabCaravanGear>คลัง</TabCaravanGear>
+  <TabCaravanItems>สิ่งของ</TabCaravanItems>
+  
+  <!-- Misc -->
+  <AbandonSliderText>ทอดทิ้ง {{0}}x {0}</AbandonSliderText>
+  <ConfirmAbandonItemDialog>คุณจะแน่ใจไหมว่าคุณจะ ทอดทิ้ง {0}?\n\nของที่ทอดทิ้งจะหายไป จะไม่สามารถกลับคืนมาได้</ConfirmAbandonItemDialog>
+  <AbandonTip>ทอดทิ้ง</AbandonTip>
+  <AbandonSpecificCountTip>จำนวนที่จะต้องทอดทิ้ง</AbandonSpecificCountTip>
+  <AbandonAllTip>ทอดทิ้ง (ทั้งหมด)</AbandonAllTip>
+  <AbandonItemTipExtraText>ของที่ทอดทิ้งจะหายไป จะไม่สามารถกลับคืนมาได้</AbandonItemTipExtraText>
+  <AbandonTipWillDie>{0} น่าจะเสียชัวิต</AbandonTipWillDie>
+  
+  <!-- Caravan inspect -->
+  <CaravanColonists>อาณานิคม</CaravanColonists>
+  <CaravanPrisonersAndAnimals>นักโทษและสัตว์</CaravanPrisonersAndAnimals>
+  <CaravanItems>สินค้าคงคลัง</CaravanItems>
+  <OpenSpecificTabButtonTip>คลิกเพื่อเปิดแท็บที่มีรายละเอียดมากขึ้น</OpenSpecificTabButtonTip>
+  <CaravanPrisoners>นักโทษ</CaravanPrisoners>
+  <CaravanWeaponsAndApparel>สินค้าคงคลัง</CaravanWeaponsAndApparel>
+  
+  <!-- Caravan gear -->
+  <DragToRearrange>ลากเพื่อจัดเรียง</DragToRearrange>
+  
+  <!-- Planet -->
+  <PlanetSeed>Seed</PlanetSeed>
+  <PlanetCoverageShort>ความคุ้มครอง</PlanetCoverageShort>
+
+</LanguageData>

@@ -13,9 +13,14 @@
   <SeasonSummer>ฤดูร้อน</SeasonSummer>
   <SeasonFall>ฤดูใบไม้ร่วง</SeasonFall>
   <SeasonWinter>ฤดูหนาว</SeasonWinter>
+  
+  <QuadrumAprimay>Aprimay</QuadrumAprimay>
+  <QuadrumJugust>Jugust</QuadrumJugust>
+  <QuadrumSeptober>Septober</QuadrumSeptober>
+  <QuadrumDecembary>Decembary</QuadrumDecembary>
 
   <Born>เกิด: {0}</Born>
-  <AgeChronological>อายุที่แท้จริง: {0} ปี, {1} ฤดู, {2} วัน</AgeChronological>
+  <AgeChronological>อายุเชิงกาลภาพ: {0} ปี, {1} ฤดู, {2} วัน</AgeChronological>
   <AgeBiological>อายุเชิงชีวภาพ: {0} ปี, {1} ฤดู, {2} วัน</AgeBiological>
 
   <!-- Date periods -->
@@ -29,8 +34,8 @@
   <PeriodHours>{0} ชั่วโมง</PeriodHours>
 
   <!-- Misc -->
-  <Started>Started</Started>
-  <Lasted>Lasted</Lasted>
+  <Started>เริ่มต้น</Started>
+  <Lasted>ล่าสุด</Lasted>
   <OccurredTimeAgo>เกิดขึ้นเมื่อ {0} ที่ผ่านมา</OccurredTimeAgo>
   
 </LanguageData>

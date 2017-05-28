@@ -7,18 +7,25 @@
 
   <Disconnect>ตัดการติดต่อ</Disconnect>
 
+  <!-- gift offer -->
   <OfferGift>เสนอมอบของขวัญ</OfferGift>
   <NeedSilverLaunchable>ต้องการเงินจำนวน {0} ไว้ใกล้ๆกับตัวส่งสัญญาณแลกเปลี่ยน</NeedSilverLaunchable>
   <NotEnoughSilver>มีเงินไม่พอ</NotEnoughSilver>
-  <SilverForGoodwill>{0} เงินสำหรับไมตรีจิตของ {1}</SilverForGoodwill>
+  <SilverForGoodwill>{0} เงินสำหรับมิตรภาพ {1}</SilverForGoodwill>
   <SilverGiftSent>ผู้แสดงตนแทนของ {0} กล่าวขอบคุณ\n\n(ไมตรีจิตพัฒนาขึ้นมาโดย {1}).</SilverGiftSent>
-
-
-  <RequestMilitaryAid>ร้องขอความช่วยเหลือทางการทหารทันที (ไมตีจิต {0} )</RequestMilitaryAid>
+ 
+  <!-- trade caravan request -->
+  <RequestTrader>ส่งคำขอขบวยการค้า (ค่าใช้จ่าย: {0} เงิน)</RequestTrader>
+  <ChooseTraderKind>{0} ถามว่าต้องการคาราวานเพื่อการค้าแบบไหน</ChooseTraderKind>
+  <TraderSent>{0} ตกลงที่จะส่งคาราวานการค้า จะมาถึงภายในสองสามวัน</TraderSent>
+  	<WaitTime>รอ {0}</WaitTime>
+ 
+ 
+  <!-- military aid request -->
+  <RequestMilitaryAid>ร้องขอความช่วยเหลือทางการทหารทันที (มิตรภาพ {0} )</RequestMilitaryAid>
   <MilitaryAidConfirmMutualEnemy>{0} จะไม่ช่วยสู้กับฝ่ายอื่นที่ไม่ใช่ศัตรู รวมถึงบางฝ่ายที่ข่มขู่คุณตอนนี้, {1} คุณยังคงต้องการเรียกขอความเหลืออีกหรอ?</MilitaryAidConfirmMutualEnemy>
   <CallConfirm>ใช่, เรียกพวกเขาไม่ว่ายังไงก็เถอะ</CallConfirm>
   <CallCancel>ไม่, ช่างมันเถอะ</CallCancel>
   <MilitaryAidSent>ผู้แสดงตนแทนของ {0} ตกลงเห็นด้วยที่จะส่งนักรบมาเพื่อช่วยคุณ</MilitaryAidSent>
-  
   
 </LanguageData>

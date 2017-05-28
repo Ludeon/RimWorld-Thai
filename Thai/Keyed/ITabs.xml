@@ -3,16 +3,16 @@
 
   <!-- ITab titles -->
   <TabBills>ใบสั่ง</TabBills>
-  <TabGrowing>Growing</TabGrowing>
+  <TabGrowing>การเจริญเติบโต</TabGrowing>
   <TabCharacter>ตัวละคร</TabCharacter>
-  <TabTraining>Training</TabTraining>
+  <TabTraining>การอบรม</TabTraining>
   <TabPrisoner>นักโทษ</TabPrisoner>
   <TabGuest>แขก</TabGuest>
   <TabGear>อุปกรณ์</TabGear>
-  <TabNeeds>ความต้องการ</TabNeeds>
+  <TabNeeds>ความ\nต้องการ</TabNeeds>
   <TabStorage>คลัง</TabStorage>
   <TabHealth>สุขภาพ</TabHealth>
-  <TabRace>Race</TabRace>
+  <TabRace>เผ่า</TabRace>
   <TabBasics>พื้นฐาน</TabBasics>
   <TabStats>สถิติ</TabStats>
   <TabRecords>บันทึก</TabRecords>
@@ -22,64 +22,71 @@
   
   <!-- Bills tab  -->
   <AddBill>เพิ่มใบสั่ง</AddBill>
-  <RecipeRequiresSkills>The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill.</RecipeRequiresSkills>
+  <RecipeRequiresSkills>งาน {0} ชาวอาณานิคมของคุณไม่มีทักษะด้านนี้, จึงไม่มีใครที่จะทำปฏิบัติงานสิ่งนี้</RecipeRequiresSkills>
   <MinimumSkill>ทักษะขั้นต่้ำ</MinimumSkill>
   <SuspendedCaps>ระงับแล้ว</SuspendedCaps>
   <BoundWorkerIs>คนงาน: {0}</BoundWorkerIs>
-  <PlantVerb>Plant</PlantVerb>
+  <PlantVerb>ปลูก</PlantVerb>
 
 
   <!-- Guest/prisoner tab -->
   <RecruitmentDifficulty>ความยากในการชักชวนให้เข้าร่วม</RecruitmentDifficulty>
-  <GetsFood>Gets food</GetsFood>
-  <DoctorsCare>Doctors care</DoctorsCare>
-  <GetsMedicine>Gets medicine</GetsMedicine>
+  <GetsFood>ได้รับอาหาร</GetsFood>
+  <DoctorsCare>การดูแลทางการแพทย์</DoctorsCare>
+  <GetsMedicine>ได้รับการรักษาด้วยยา</GetsMedicine>
   <ShouldTryToRecruit>ลองพยายามชักชวนให้เข้าร่วม</ShouldTryToRecruit>
   <PrisonerNoInteraction>ไม่มีปฏิสัมพันธ์</PrisonerNoInteraction>
   <PrisonerFriendlyChat>คุยอย่างเป็นมิตร</PrisonerFriendlyChat>
   <PrisonerAttemptRecruit>คุยและชักชวนให้เข้าร่วม</PrisonerAttemptRecruit>
   <PrisonerRelease>ปล่อยตัว</PrisonerRelease>
   <PrisonerExecution>ประหาร</PrisonerExecution>
+	<ConsideredGuilty>ถือว่ามีความผิด (จะหมดอายุใน {0})</ConsideredGuilty>
 
-
+	
   <!-- Medical - general -->
   <MoveSpeed>ความเร็วการเคลื่อนที่</MoveSpeed>
   <Efficiency>ประสิทธิภาพ</Efficiency>
-  <MissingBodyPart>หายไป</MissingBodyPart>
+  	<PartEfficiency>ประสิทธิภาพชิ้นส่วน</PartEfficiency>
+	<BodyPartEfficiency>ประสิทธิภาพของส่วนของร่างกาย</BodyPartEfficiency>
+    <MissingBodyPart>หายไป</MissingBodyPart>
   <DestroyedBodyPart>ถูกทำลาย</DestroyedBodyPart>
   <ShatteredBodyPart>แหลกละเอียด</ShatteredBodyPart>
   <RemovedBodyPart>ถูกเอาออก</RemovedBodyPart>
   <Healthy>สุขภาพดี</Healthy>
   <InPain>กำลังเจ็บปวด</InPain>
   <PainLevel>เจ็บปวด</PainLevel>
-  <Dead>ตาย</Dead>
-  <Unconscious>หมดสติ</Unconscious>
-  <PainShock>In shock</PainShock>
   <Injured>บาดเจ็บ</Injured>
   <NoInjuries>(ไม่มีอาการบาดเจ็บ)</NoInjuries>
   <WholeBody>ทั้งตัว</WholeBody>
-  <DataProcessing>Data processing</DataProcessing>
-  <Communication>Communication</Communication>
-  <AffectsLower>affects</AffectsLower>
+  <DataProcessing>การประมวลผล</DataProcessing>
+  <Communication>การสื่อสาร</Communication>
+  <Affects>กระทบกระเทือน</Affects>
   <BleedingRate>อัตราเลือดออก</BleedingRate>
+  <TimeToDeath>การเสียชีวิตใน {0}</TimeToDeath>
+  <WontBleedOutSoon>ไม่มีอันตรายทันที</WontBleedOutSoon>
   <HealthOverview>โดยรวม</HealthOverview>
-  <MedicalOperationsShort>Operations ({0})</MedicalOperationsShort>
-  <MedicalOperationsMechanoidsShort>Modifications ({0})</MedicalOperationsMechanoidsShort>
-  <MedicalOperations>Medical operations</MedicalOperations>
-  <Amputate>Amputate</Amputate>
+  <MedicalOperationsShort>การผ้าตัด ({0})</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>การปรับเปลี่ยน ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>การดำเนินงานด้านการแพทย์</MedicalOperations>
+  <Amputate>ตัดแขนขา</Amputate>
   <Harvest>เก็บเกี่ยว</Harvest>
+  <RemoveOrgan>เอาออก</RemoveOrgan>
   <MemoryLower>ความจำ</MemoryLower>
-  <SocialInteractionsLower>social interactions</SocialInteractionsLower>
+  <SocialInteractionsLower>ปฏิสัมพันธ์ทางสังคม</SocialInteractionsLower>
   <HungerRate>อัตราความหิว</HungerRate>
   <Tiredness>ความเหนื่อย</Tiredness>
-  
+  <PainFactor>ความเจ็บปวด</PainFactor>
+  <PreventsInfection>ป้องกันการติดเชื้อ</PreventsInfection>
+  <SelfTend>Self-tend</SelfTend>
+  <SelfTendTip>{0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency.</SelfTendTip>
+ 
 
-  <!-- Medical - Body and activities condition -->
+ <!-- Medical - Body and activities condition -->
   <None>ไม่มี</None>
   <VeryPoor>แย่มาก</VeryPoor>
   <Poor>แย่</Poor>
   <Weakened>อ่อนแรงลง</Weakened>
-  <GoodCondition>OK</GoodCondition>
+  <GoodCondition>สบายดี</GoodCondition>
   <Enhanced>เพิ่มประสิทธิภาพขึ้น</Enhanced>
   <SeriouslyImpaired>พิการหนัก</SeriouslyImpaired>
   <Impaired>พิการ</Impaired>
@@ -92,20 +99,30 @@
 
 
   <!-- Training tab-->
-  <TrainableIntelligence>Trainable intelligence</TrainableIntelligence>
-  <CannotTrainNotSmartEnough>Requires trainable intelligence {0}.</CannotTrainNotSmartEnough>
-  <CannotTrainTooSmall>{0} is too small to train this.</CannotTrainTooSmall>
+  <TrainableIntelligence>สติปัญญาที่สามารถฝึกหัดได้</TrainableIntelligence>
+  <CannotTrainNotSmartEnough>ต้องใช้ {0}. สติปัญญาที่สามารถสอนได้</CannotTrainNotSmartEnough>
+  <CannotTrainTooSmall>{0} มีขนาดเล็กเกินไปที่จะฝึกนี้</CannotTrainTooSmall>
 
-  <TrainingNeedsPrerequisite>Prerequisite needed: {0}</TrainingNeedsPrerequisite>
+  <TrainingNeedsPrerequisite>จำเป็นต้องมี: {0}</TrainingNeedsPrerequisite>
   
   <!-- Social tab -->
   <NoRelationships>(ไม่มีความสัมพันธ์ใดๆ)</NoRelationships>
   <Kidnapped>ถูกลักพาตัว</Kidnapped>
+  <Missing>หายไป</Missing>
   <Slave>ทาส</Slave>
   <FactionLeader>ผู้นำฝ่าย</FactionLeader>
-  <OpinionOf>ความเห็นของ {0}</OpinionOf>
-  <SomeonesOpinionOfMe>{0}'s opinion of me</SomeonesOpinionOfMe>
-  <IAmDead>I'm dead</IAmDead>
-  <IAmPsychopath>I'm a psychopath</IAmPsychopath>
+  <OpinionOf>ความคิดเห็นของ {0}</OpinionOf>
+  <SomeonesOpinionOfMe>{0} ความคิดเห็นของฉัน</SomeonesOpinionOfMe>
+  <IAmDead>ฉันตาย</IAmDead>
+  <IAmPsychopath>ฉันกำลังบ้า</IAmPsychopath>
 
+  <!-- Gear tab -->
+  <AverageArmor>เกราะเฉลี่ย</AverageArmor>
+  <MassCarried>น้ำหนักในการถือ: {0} / {1} กีโล</MassCarried>
+  <ComfyTemperatureRange>ช่วงอุณหภูมิที่สมบูรณ์</ComfyTemperatureRange>
+  <ArmorBlunt>ถื่อ</ArmorBlunt>
+  <ArmorSharp>คม</ArmorSharp>
+  <ArmorHeat>ความร้อน</ArmorHeat>
+  <ArmorElectric>ไฟฟ้า</ArmorElectric>
+  
 </LanguageData>

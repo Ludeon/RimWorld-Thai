@@ -2,51 +2,49 @@
 <LanguageData>
 
   <!-- Work tab -->
-  <ManualPriorities>ลำดับความสำคัญด้วยตัวเอง</ManualPriorities>
+  <ManualPriorities>จัดลำดับความสำคัญ\nด้วยตัวเอง</ManualPriorities>
   <HigherPriority>สำคัญมากกว่า</HigherPriority>
   <LowerPriority>สำคัญน้อยกว่า</LowerPriority>
-  <RelevantSkills>Relevant skills: {0}\nAverage of relevant skills: {1} / {2}</RelevantSkills>
+  <RelevantSkills>ทักษะที่เกี่ยวข้อง: {0}\nค่าเฉลี่ยของทักษะที่เกี่ยวข้อง: {1} / {2}</RelevantSkills>
   <ClickToJumpTo>คลิกเพื่อกระโดดไปที่:</ClickToJumpTo>
   <CannotDoThisWork>{0} ไม่สามารถทำงานประเภทนี้ได้</CannotDoThisWork>
   <NoneBrackets>(ไม่มี)</NoneBrackets>
-  <IncapableOfWorkTypeBecauseOfCapacities>This colonist is not able to do any work of this type because of his health condition.</IncapableOfWorkTypeBecauseOfCapacities>
+  <IncapableOfWorkTypeBecauseOfCapacities>อาณานิคมนี้ไม่สามารถทำงานประเภทนี้เนื่องจากสภาพสุขภาพของเขา</IncapableOfWorkTypeBecauseOfCapacities>
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
   
-  <!-- Outfits tab -->
-  <CurrentOutfit>เครื่องแต่งกายตอนนี้</CurrentOutfit>
+  <!-- Assign tab -->
   <ManageOutfits>จัดการเครื่องแต่งกาย</ManageOutfits>
   <ClearForcedApparel>ล้างการถูกบังคับ</ClearForcedApparel>
   <ApparelForcedLower>ถูกบังคับ</ApparelForcedLower>
-  <ForcedApparel>Forced apparel</ForcedApparel>
-  <OutfitEdit>แก้ไข...</OutfitEdit>
+  <ForcedApparel>เครื่องแต่งกายที่ถูกบังคับใส่</ForcedApparel>
+  <AssignTabEdit>แก้ไข...</AssignTabEdit>
+  <ManageDrugPolicies>จัดการนโยบายยาเสพติด</ManageDrugPolicies>
   
   <!-- Restrictions tab -->
-  <Copy>ลอก</Copy>
+  <Copy>ขัดลอก</Copy>
   <Paste>วาง</Paste>
-  <AllowedArea>เขตที่อนุญาต</AllowedArea>
+  <AllowedArea>เขตพื้นที่อนุญาต</AllowedArea>
   
   <!-- Animals tab -->
   <Master>เจ้านาย</Master>
-  <PregnantIconDesc>ตั้งท้อง ({0} / {1})</PregnantIconDesc>
+  <PregnantIconDesc>ตั้งครรภ์ ({0} / {1})</PregnantIconDesc>
   
   <!-- Factions tab -->
   <Hostile>ศัตรู</Hostile>
+  <DefeatedLower>พ่ายแพ้</DefeatedLower>
   <HostileTo>ศัตรูของ {0}</HostileTo>
-  <CurrentGoodwill>Current goodwill with this faction.</CurrentGoodwill>
+  <CurrentGoodwill>ค่าความนิยมในปัจจุบันของฝ่ายนี้</CurrentGoodwill>
   
-  <!-- Statistics tab -->
-  <Playtime>เวลาที่เล่น</Playtime>
-  <Storyteller>Storyteller</Storyteller>
-  <ColonyWealthTotal>ความร่ำรวยของอาณานิคม</ColonyWealthTotal>
-  <ColonyWealthItems>ความร่ำรวยของอาณานิคม (สิ่งของ)</ColonyWealthItems>
-  <ColonyWealthBuildings>ความร่ำรวยของอาณานิคม (อาคาร)</ColonyWealthBuildings>
-  <NumThreatBigs>ภยันตรายหลัก</NumThreatBigs>
-  <NumEnemyRaids>ศัตรูมาบุกปล้น</NumEnemyRaids>
-  <DamageTaken>ความเสียหายที่ได้รับ</DamageTaken>
-  <ColonistsKilled>ชาวอาณานิคมที่ถูกฆ่า</ColonistsKilled>
-  <ColonistsLaunched>ชาวอาณานิคมที่ถูกส่งไปยังอวกาศ</ColonistsLaunched>
+  	<!-- Social tab -->
+	<Friend>เพื่อน</Friend>
+	<Rival>คู่ต่อสู้</Rival>
+	<Acquaintance>คนรู้จัก</Acquaintance>
+  
+  <!-- History tab - subtabs -->
+  <Graph>กราฟ</Graph>
+  <Statistics>สถิติ</Statistics>
 
-  <!-- History tab -->
+  <!-- History tab - Graphs -->
   <SelectGraph>เลือกกราฟ</SelectGraph>
   <Last30Days>30 วันล่าสุด</Last30Days>
   <Last100Days>100 วันล่าสุด</Last100Days>
@@ -55,5 +53,23 @@
   <Day>วัน</Day>
   <Value>ค่า</Value>
   <External>ภายนอก</External>
+
+  <!-- History tab - Statistics -->
+  <Playtime>เวลาที่เล่น</Playtime>
+  <Storyteller>ผู้เล่า</Storyteller>
+  <ThisMapColonyWealthTotal>ความมั่งคั่งของอาณานิคม (แผนที่นี้)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthItems>ความมั่งคั่งของอาณานิคม  (ไอเทม) (แผนที่นี้)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthBuildings>ความมั่งคั่งของอาณานิคม  (สิ่งปลูกสร้าง) (แผนที่นี้)</ThisMapColonyWealthBuildings>
+  <NumThreatBigs>ภยันตรายหลัก</NumThreatBigs>
+  <NumEnemyRaids>ศัตรูมาบุกปล้น</NumEnemyRaids>
+  <ThisMapDamageTaken>ความมั่งคั่งของอาณานิคม  (แผนที่นี้)</ThisMapDamageTaken>
+  <ColonistsKilled>ชาวอาณานิคมที่ถูกฆ่า</ColonistsKilled>
+  <ColonistsLaunched>ชาวอาณานิคมที่ถูกส่งไปยังอวกาศ</ColonistsLaunched>
+  
+  <!-- Research tab -->
+  <ProjectTechLevel>ระดับเทคโนโลยี</ProjectTechLevel>
+  <YourTechLevel>ระดับเทคโนโลยีของคุณ</YourTechLevel>
+  <ResearchCostMultiplier>ตัวคูณค่าใช้จ่าย</ResearchCostMultiplier>
+  <ResearchCostComparison>ต้นทุนโครงการ {0} กลายเป็น {1} สำหรับคุณเนื่องจากระดับเทคโนโลยีของคุณ</ResearchCostComparison>
   
 </LanguageData>

@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+  <!-- Forbid -->
+  <CommandForbid>ห้าม</CommandForbid>
 	<CommandForbiddenDesc>หวงห้าม - ชาวอาณานิคมจะไม่ยุ่งกับสิ่งนี้</CommandForbiddenDesc>
 	<CommandNotForbiddenDesc>ไม่หวงห้าม - ชาวอาณานิคมสามารถยุ่งด้วยได้</CommandNotForbiddenDesc>
 
@@ -8,51 +10,52 @@
   <CommandTogglePowerLabel>เปิด/ปิดพลังงาน</CommandTogglePowerLabel>
   <CommandTogglePowerDesc>เปิด/ปิดพลังงาน</CommandTogglePowerDesc>
   
-  <CommandDesignateTogglePowerLabel>Designate toggle power</CommandDesignateTogglePowerLabel>
-  <CommandDesignateTogglePowerDesc>Designate this thing to have power toggled. A colonist will come soon to flick the switch.</CommandDesignateTogglePowerDesc>
+  <CommandDesignateTogglePowerLabel>สลับไฟฟ้า </CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerDesc>กำหนดสิ่งนี้ให้สลับไฟฟ้า ชาวอาณานิคมจะมาปิดสวิตช์ชั่วคราว</CommandDesignateTogglePowerDesc>
   
   <CommandTryReconnectLabel>เชื่อมต่อใหม่</CommandTryReconnectLabel>
-  <CommandTryReconnectDesc>Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby.</CommandTryReconnectDesc>
+  <CommandTryReconnectDesc>ลองเชื่อมต่อกับเน็ตเวิร์กพลังงานอื่นภายในรัศมีการเชื่อมต่อ นี่เป็นประโยชน์ถ้าฉันเชื่อมต่อกับเครือข่ายที่ไม่ได้รับการยกเว้น แต่มีที่จอดยานใกล้เคียง</CommandTryReconnectDesc>
 
   <CommandGatherSpotToggleLabel>จุดรวมพล</CommandGatherSpotToggleLabel>
-  <CommandGatherSpotToggleDescActive>Active - colonists will gather around this object.</CommandGatherSpotToggleDescActive>
-  <CommandGatherSpotToggleDescInactive>Inactive - colonists will not gather around this object.</CommandGatherSpotToggleDescInactive>
+  <CommandGatherSpotToggleDescActive>ผู้ที่ทำงานอยู่ - อาณานิคมจะรวบรวมข้อมูลเกี่ยวกับวัตถุนี้</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>ไม่ใช้งาน - อาณานิคมจะไม่รวบรวมรอบวัตถุนี้</CommandGatherSpotToggleDescInactive>
   
   
   <!-- Drafting -->
   <CommandDraftLabel>เกณฑ์</CommandDraftLabel>
   <CommandUndraftLabel>เลิกเกณฑ์</CommandUndraftLabel>
-  <CommandToggleDraftDesc>Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest.</CommandToggleDraftDesc>
-  <IsIncapped>{0} is incapacitated.</IsIncapped>
+  <CommandToggleDraftDesc>เปลี่ยนร่างทหาร\n\nคนร่างมีคำสั่งและต่อสู้ พวกเขาจะไม่ทำงาน กินหรือพักผ่อน</CommandToggleDraftDesc>
+  <IsIncapped>{0} ไม่สามารถเดินได้.</IsIncapped>
 
+  	<CommandAllowFiringLabel>อนุญาตให้ยิง</CommandAllowFiringLabel>
+	<CommandAllowFiringDesc>สลับให้ยิงได้\n\nเมื่อปิดการใช้งานตัวละครนี้จะไม่ยิงโดยอัตโนมัติในเป้าหมายที่อยู่ในระยะไกล ไม่ส่งผลกระทบต่อการต่อสู้ระยะประชิด</CommandAllowFiringDesc>
+  
+  <CommandClearPrioritizedWork>จัดลำดับความสำคัญการทำงานที่ชัดเจน</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWorkDesc>ล้างการจัดลำดับความสำคัญที่คุณได้รับมอบหมาย ตัวละครจะกลับไปทำกิจกรรมกำกับตนเองตามปกติ</CommandClearPrioritizedWorkDesc>
   
   <CommandCancelConstructionLabel>ยกเลิก</CommandCancelConstructionLabel>
   <CommandCancelConstructionDesc>ยกเลิกการก่อสร้างนี้</CommandCancelConstructionDesc>
 
-  <CommandGetOutOfBedLabel>Get out of bed</CommandGetOutOfBedLabel>
-  <CommandGetOutOfBedDesc>Get out of current bed.</CommandGetOutOfBedDesc>
+  <CommandGetOutOfBedLabel>ลุกออกจากเตียง</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>ลุกออกจากเตียงในปัจจุบัน</CommandGetOutOfBedDesc>
 
   <CommandBedSetOwnerLabel>กำหนดเจ้าของ</CommandBedSetOwnerLabel>
-  <CommandBedSetOwnerDesc>Assign this bed to be owned by a specific colonist.</CommandBedSetOwnerDesc>
-  <CommandGraveAssignColonistLabel>Assign colonist</CommandGraveAssignColonistLabel>
-  <CommandGraveAssignColonistDesc>Assign this grave to be owned by a specific colonist.</CommandGraveAssignColonistDesc>
+  <CommandBedSetOwnerDesc>กำหนดเตียงนี้ให้เป็นของอาณานิคมที่เฉพาะเจาะจง</CommandBedSetOwnerDesc>
+  <CommandGraveAssignColonistLabel>กำหนดอาณานิคม</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistDesc>กำหนดหลุมฝังศพนี้ให้เป็นเจ้าของโดยอาณานิคมเฉพาะเจาะจง</CommandGraveAssignColonistDesc>
   <BuildingAssign>กำหนด</BuildingAssign>
   <BuildingUnassign>เลิกกำหนด</BuildingUnassign>
-  <CommandBedSetForPrisonersLabel>ตั้งสำหรับนักโทษ</CommandBedSetForPrisonersLabel>
-  <CommandBedSetForPrisonersDesc>Assign beds in this room for use by prisoners.</CommandBedSetForPrisonersDesc>
-  <CommandBedSetForPrisonersFailOutdoors>Cannot set outdoor beds to be for prisoners.</CommandBedSetForPrisonersFailOutdoors>
-  <CommandBedSetForColonistsLabel>ตั้งสำหรับชาวอาณานิคม</CommandBedSetForColonistsLabel>
-  <CommandBedSetForColonistsDesc>Assign beds in this room for use by colonists.</CommandBedSetForColonistsDesc>
-  <CommandBedSetAsMedicalLabel>ตั้งสำหรับการแพทย์</CommandBedSetAsMedicalLabel>
-  <CommandBedSetAsMedicalDesc> Assign this bed for medical use.</CommandBedSetAsMedicalDesc>
-  <CommandBedSetAsNonMedicalLabel>ตั้งสำหรับไม่ใช้ทางการแพทย์</CommandBedSetAsNonMedicalLabel>
-  <CommandBedSetAsNonMedicalDesc> Assign this bed for non medical use.</CommandBedSetAsNonMedicalDesc>
-  <TurningOnPrisonerBedWarning>Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOnPrisonerBedWarning>
-  <TurningOffPrisonerBedWarning>Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOffPrisonerBedWarning>
-  <AreYouSure>Are you sure you want to do this?</AreYouSure>
+  <CommandBedSetForPrisonersLabel>ตั้งเป็นสำหรับ (นักโทษ)</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc>กำหนดเตียงในห้องนี้เพื่อใช้โดยนักโทษ</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersFailOutdoors>ไม่สามารถตั้งเตียงกลางแจ้งสำหรับนักโทษได้</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetAsMedicalLabel>ตั้งเป็นสำหรับ (การแพทย์)</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc>กำหนดเตียงนี้สำหรับการใช้งานทางการแพทย์</CommandBedSetAsMedicalDesc>
+  <TurningOnPrisonerBedWarning>การเปิดโหมดนักโทษมีผลต่อห้องทั้งห้องเนื่องจากนักโทษและอาณานิคมไม่สามารถนอนในห้องเดียวกันได้\n\nคนเหล่านี้จะสูญเสียการเป็นเจ้าของเตียงของพวกเขา:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>การปิดโหมดนักโทษมีผลต่อห้องทั้งห้องเนื่องจากนักโทษและอาณานิคมไม่สามารถนอนในห้องเดียวกันได้\n\nคนเหล่านี้จะสูญเสียการเป็นเจ้าของเตียงของพวกเขา:</TurningOffPrisonerBedWarning>
+  <AreYouSure>คุณแน่ใจหรือไม่ว่าต้องการทำเช่นนี้?</AreYouSure>
 
   <CommandDetonateLabel>จุดระเบิด</CommandDetonateLabel>
-  <CommandDetonateDesc>Start the countdown to detonation.</CommandDetonateDesc>
+  <CommandDetonateDesc>เริ่มนับถอยหลังสู่การระเบิด</CommandDetonateDesc>
 
   <CommandRenameZoneLabel>แก้ไขชื่อ</CommandRenameZoneLabel>
   <CommandRenameZoneDesc>แก้ไขชื่อโซนนี้</CommandRenameZoneDesc>
@@ -65,66 +68,63 @@
   <CommandDeleteZoneDesc>ลบโซนนี้ทิ้ง</CommandDeleteZoneDesc>
 
   <CommandCopyZoneSettingsLabel>ลอกการตั้งค่า</CommandCopyZoneSettingsLabel>
-  <CommandCopyZoneSettingsDesc>Copy this zone's settings to the clipboard so you can paste them onto another zone.</CommandCopyZoneSettingsDesc>
+  <CommandCopyZoneSettingsDesc>คัดลอกการตั้งค่าของโซนนี้ไปยังคลิปบอร์ดเพื่อให้คุณสามารถวางลงในอีกโซนหนึ่งได้</CommandCopyZoneSettingsDesc>
 
   <CommandPasteZoneSettingsLabel>วางการตั้งค่า</CommandPasteZoneSettingsLabel>
-  <CommandPasteZoneSettingsDesc>Overwrite this zone's settings with those previously copied to the clipboard.</CommandPasteZoneSettingsDesc>
+  <CommandPasteZoneSettingsDesc>เขียนทับการตั้งค่าของโซนนี้กับการคัดลอกก่อนหน้านี้ไปยังคลิปบอร์ด</CommandPasteZoneSettingsDesc>
 
   <CommandAllowSow>อนุญาตให้ไถหว่าน</CommandAllowSow>
-  <CommandAllowSowDesc>When disabled, colonists will never sow plants in this zone. They will still harvest.</CommandAllowSowDesc>
+  <CommandAllowSowDesc>เมื่อปิดการใช้งานอาณานิคมจะไม่หว่านพืชในเขตนี้ พวกเขาจะยังคงเก็บเกี่ยว</CommandAllowSowDesc>
 
   <!-- Artillery -->
-  <CommandSetForceAttackTarget>Set forced target</CommandSetForceAttackTarget>
-  <CommandSetForceAttackTargetDesc>Sets a target that this turret must attack continuously as long as it can.</CommandSetForceAttackTargetDesc>
-  <CommandStopForceAttack>Stop forced attack</CommandStopForceAttack>
-  <CommandStopForceAttackDesc>Stops force-attacking and allows the turret to fire as it wishes.</CommandStopForceAttackDesc>
-  <CommandStopAttackFailNotForceAttacking>Not currently force-attacking.</CommandStopAttackFailNotForceAttacking>
-  <MessageTargetBeyondMaximumRange>Target beyond maximum range.</MessageTargetBeyondMaximumRange>
-  <MessageTargetBelowMinimumRange>Target below minimum range.</MessageTargetBelowMinimumRange>
-  
+  <CommandSetForceAttackTarget>กำหนดเป้าหมายที่บังคับ</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTargetDesc>กำหนดเป้าหมายให้ป้อมปืนนี้ต้องโจมตีอย่างต่อเนื่องตราบเท่าที่ทำได้</CommandSetForceAttackTargetDesc>
+  <CommandStopForceAttack>หยุดการโจมตีที่ถูกบังคับ</CommandStopForceAttack>
+  <CommandStopForceAttackDesc>หยุดการโจมตีด้วยพลังและช่วยให้ป้อมปืนยิงได้ตามที่ต้องการ</CommandStopForceAttackDesc>
+  <CommandStopAttackFailNotForceAttacking>ยังไม่ได้บังคับให้โจมตี</CommandStopAttackFailNotForceAttacking>
+  <MessageTargetBeyondMaximumRange>กำหนดเป้าหมายเกินกว่าช่วงสูงสุด</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>กำหนดเป้าหมายต่ำกว่าช่วงต่ำสุด</MessageTargetBelowMinimumRange>
   
   <!-- Ship computer core -->
-  <CommandShipLaunch>Launch ship</CommandShipLaunch>
-  <CommandShipLaunchDesc>Start the ship launch sequence with the current configuration.</CommandShipLaunchDesc>
-  <CommandShipLaunchReport>Show launch report</CommandShipLaunchReport>
-  <CommandShipLaunchReportDesc>Show a readiness report about the ship's launch capability.</CommandShipLaunchReportDesc>
-
+  <CommandShipLaunch>เปิดยาน</CommandShipLaunch>
+  <CommandShipLaunchDesc>เริ่มยานเรือโดยใช้การกำหนดค่าปัจจุบัน</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>แสดงรายงานการเปิดตัว</CommandShipLaunchReport>
+  <CommandShipLaunchReportDesc>แสดงรายงานความพร้อมเกี่ยวกับความสามารถในการเปิดตัวยาน</CommandShipLaunchReportDesc>
 
   <!-- Pod -->
-  <CommandPodEject>Eject sleeper</CommandPodEject>
-  <CommandPodEjectDesc>Wake up the cryptosleeper and eject them.</CommandPodEjectDesc>
-  <CommandPodEjectFailEmpty>Contains nobody.</CommandPodEjectFailEmpty>
+  <CommandPodEject>ออกจากการนอน</CommandPodEject>
+  <CommandPodEjectDesc>ตื่นขึ้นจากเครื่องนอนแช่แข็ง และไล่พวกเขา</CommandPodEjectDesc>
+  <CommandPodEjectFailEmpty>ไม่มีใครเลย.</CommandPodEjectFailEmpty>
 
   <!-- Door -->
   <CommandToggleDoorForbid>ทางห้ามผ่าน</CommandToggleDoorForbid>
-  <CommandToggleDoorForbidDesc>When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door.</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorForbidDesc>ประตูต้องห้ามชาวอาณานิคมและพันธมิตรจะไม่ผ่านมันไป นี้ไม่ได้ส่งผลกระทบต่อวิธีการที่ศัตรูหรือสัตว์โต้ตอบกับประตู</CommandToggleDoorForbidDesc>
   <CommandToggleDoorHoldOpen>เปิดค้างไว้</CommandToggleDoorHoldOpen>
-  <CommandToggleDoorHoldOpenDesc>When active, your colonists will not close the door after passing through.</CommandToggleDoorHoldOpenDesc>
-
+  <CommandToggleDoorHoldOpenDesc>เมื่อใช้งานชาวอาณานิคมของคุณจะไม่ปิดประตูหลังจากผ่าน</CommandToggleDoorHoldOpenDesc>
 
   <!-- Temperature control -->
   <CommandResetTemp>รีเซ็ต</CommandResetTemp>
-  <CommandResetTempDesc>Reset the target temperature to room temperature.</CommandResetTempDesc>
+  <CommandResetTempDesc>ตั้งค่าอุณหภูมิเป้าหมายไปที่อุณหภูมิห้อง.</CommandResetTempDesc>
   <CommandRaiseTempDesc>เพิ่มอุณหภูมิเป้าหมาย</CommandRaiseTempDesc>
   <CommandLowerTempDesc>ลดอุณหภูมิเป้าหมาย</CommandLowerTempDesc>
 
   <!-- Install/reinstall -->
   <CommandInstall>ติดตั้ง</CommandInstall>
-  <CommandInstallDesc>This item is currently packaged up for storage and transport. Use this command to install this item in a final location.</CommandInstallDesc>
+  <CommandInstallDesc>รายการนี้จัดทำขึ้นเพื่อจัดเก็บและขนส่ง ใช้คำสั่งนี้เพื่อติดตั้งรายการนี้ในตำแหน่งสุดท้าย</CommandInstallDesc>
   <CommandReinstall>ติดตั้งใหม่ที่...</CommandReinstall>
-  <CommandReinstallDesc>Designate this item to be uninstalled and reinstalled somewhere else.</CommandReinstallDesc>
+  <CommandReinstallDesc>กำหนดรายการนี้เพื่อยกเลิกการติดตั้งและติดตั้งใหม่ที่อื่น</CommandReinstallDesc>
   
   <!-- Trade beacon -->
-  <CommandMakeBeaconStockpileDesc>Create a stockpile around this building exactly matching the shape of the beacon's launch radius.</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileDesc>สร้างคลังสินค้ารอบอาคารนี้ตรงกับรูปร่างของรัศมีการเปิดตัวบีคอน</CommandMakeBeaconStockpileDesc>
   <CommandMakeBeaconStockpileLabel>สร้างที่เก็บของ</CommandMakeBeaconStockpileLabel>
 
   <!-- Sun lamp -->
-  <CommandSunLampMakeGrowingZoneDesc>Create a growing zone around this building exactly matching the shape of the lamp's light radius.</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneDesc>สร้างโซนที่กำลังเติบโตรอบตัวอาคารนี้ตรงกับรูปร่างของรัศมีแสงของหลอดไฟ</CommandSunLampMakeGrowingZoneDesc>
   <CommandSunLampMakeGrowingZoneLabel>สร้างโซนเพาะปลูก</CommandSunLampMakeGrowingZoneLabel>
 
   <!-- Trap -->
   <CommandAutoRearm>ตั้งกับดักอัตโนมัติ</CommandAutoRearm>
-  <CommandAutoRearmDesc>If this is on, this trap will automatically be designated for rearming when it springs.</CommandAutoRearmDesc>
+  <CommandAutoRearmDesc>หากเปิดอยู่ให้กับดักนี้จะถูกกำหนดขึ้นโดยอัตโนมัติเมื่อมีสปริง</CommandAutoRearmDesc>
   
   <!-- Animal control -->
   <CommandReleaseAnimalsLabel>ปล่อยสัตว์</CommandReleaseAnimalsLabel>
@@ -134,5 +134,112 @@
   <CommandSquadAttack>โจมตี</CommandSquadAttack>
   <CommandSquadAttackDesc>สั่งให้ชาวอาณานิคมที่เลือกโจมตีเป้าหมายที่กำหนด</CommandSquadAttackDesc>
 
+  <!-- Hold fire -->
+  <CommandHoldFire>โจมตีที่ต่อเนื่อง</CommandHoldFire>
+  <CommandHoldFireDesc>ยุติการโจมตีที่ต่อเนื่อง</CommandHoldFireDesc>
+  
+  <!-- Select plant to grow -->
+  <CommandSelectPlantToGrowMulti>เลือกพืชที่จะปลูก</CommandSelectPlantToGrowMulti>
+  <CommandSelectPlantToGrow>ปลูก: {0}</CommandSelectPlantToGrow>
+  <CommandSelectPlantToGrowDesc>กำหนดพืชที่ควรจะหว่านที่นี่</CommandSelectPlantToGrowDesc>
+  
+  <!-- Build copy -->
+  <CommandBuildCopy>สร้างก๊อบปี</CommandBuildCopy>
+  <CommandBuildCopyDesc>สร้างก๊อบปีของอาคารนี้</CommandBuildCopyDesc>
+
+  <!-- Form caravan -->
+  <CommandFormCaravan>สร้าง คาราวาน</CommandFormCaravan>
+  <CommandFormCaravanDesc>สร้างกลุ่มของอาณานิคมที่สามารถเดินทางไปยังพื้นที่ใหม่ได้ ชาวอาณานิคมจะรวบรวมอุปกรณ์และสัตว์ที่ได้รับมอบหมายทั้งหมดออกจากพื้นที่ปัจจุบันและรอคำสั่งซื้อเพิ่มเติม</CommandFormCaravanDesc>
+  
+  <!-- Reform caravan -->
+  <CommandReformCaravan>ปรับปรุง คาราวาน</CommandReformCaravan>
+  <CommandReformCaravanDesc>ปฏิรูปกลุ่มอาณานิคม ผู้ล่าอาณานิคมจะออกจากพื้นที่ปัจจุบันของตนและรอคำสั่งซื้อเพิ่มเติม</CommandReformCaravanDesc>
+  <CommandReformCaravanFailHostilePawns>ยังคงมีศัตรูอยู่ในบริเวณนี้</CommandReformCaravanFailHostilePawns>
+  
+  <!-- Split caravan -->
+  <CommandSplitCaravan>แบ่งกองคาราวาน</CommandSplitCaravan>
+  <CommandSplitCaravanDesc>แบ่งกองคาราวานออกเป็นสองส่วน คาราวานสามารถรวมเข้าด้วยกันได้ในภายหลังตราบเท่าที่พวกเขาอยู่ใกล้กันและกัน</CommandSplitCaravanDesc>
+  
+  <!-- Merge caravan -->
+  <CommandMergeCaravans>รวมคาราวาน</CommandMergeCaravans>
+  <CommandMergeCaravansDesc>รวมคาราวานที่เลือกไว้</CommandMergeCaravansDesc>
+  
+  <!-- Settle -->
+  <CommandSettle>สร้างบ้านใหม่</CommandSettle>
+  <CommandSettleDesc>ตั้งถิ่นฐานในบริเวณนี้ อาณานิคมของคุณจะเข้าสู่พื้นที่นี้และคุณจะสามารถเริ่มสร้างบ้านใหม่ได้</CommandSettleDesc>
+  <CommandSettleFailAlreadyHaveBase>ฝ่ายของคุณสามารถมีได้เพียงฐานเดียวเท่านั้น</CommandSettleFailAlreadyHaveBase>
+  <CommandSettleFailReachedMaximumNumberOfBases>มีอาณานิคมครบจำนวนแล้ว</CommandSettleFailReachedMaximumNumberOfBases>
+  <CommandSettleFailNoColonists>ไม่มีใครไปอ้างสิทธิ์ในพื้นที่นี้</CommandSettleFailNoColonists>
+  <CommandSettleFailEnemies>มีศัตรูอยู่ในบริเวณนี้</CommandSettleFailEnemies>
+  
+  <!-- Abandon home -->
+  <CommandAbandonHome>ละทิ้ง</CommandAbandonHome>
+  <CommandAbandonHomeDesc>ละทิ้งบริเวณนี้ พื้นที่จะไม่สามารถเข้าถึงได้และคุณจะไม่สามารถกลับมาที่นี่ได้อีกครั้ง หลังจากออกจากบ้านคุณจะสามารถสั่งหนึ่งในคาราวานของคุณเพื่อสร้างในพื้นที่ใหม่</CommandAbandonHomeDesc>
+  <CommandAbandonHomeFailAllColonistsThere>อาณานิคมทั้งหมดของคุณอยู่ที่นั่น</CommandAbandonHomeFailAllColonistsThere>
+  
+  <!-- Cancel forming caravan -->
+  <CommandCancelFormingCaravan>ยกเลิกการขึ้นรูปคาราวาน</CommandCancelFormingCaravan>
+  <CommandCancelFormingCaravanDesc>ยุติกระบวนการสร้างกองคาราวาน</CommandCancelFormingCaravanDesc>
+  
+  <!-- Show map -->
+  <CommandShowMap>ซูมเข้า</CommandShowMap>
+  <CommandShowMapDesc>ซูมเข้าบริเวณนี้</CommandShowMapDesc>
+  
+  <!-- Trade -->
+  <CommandTrade>การค้า</CommandTrade>
+  <CommandTradeDesc>การค้ากับฝ่ายนี้</CommandTradeDesc>
+  <CommandTradeFailNoNegotiator>ไม่มีสติจะไม่เจรจาต่อรอง</CommandTradeFailNoNegotiator>
+
+  <!-- Fulfill request -->
+  <CommandFulfillTradeOffer>ปฏิบัติตามข้อเสนอการค้า</CommandFulfillTradeOffer>
+  <CommandFulfillTradeOfferDesc>ปฏิบัติตามคำร้องขอข้อเสนอการค้าของนิคมอุตสาหกรรมและเรียกร้องค่าตอบแทนของคุณ</CommandFulfillTradeOfferDesc>
+  <CommandFulfillTradeOfferFailInsufficient>กองคาราวานของคุณต้องมี {0} เพื่อตอบสนองข้อเสนอการค้านี้</CommandFulfillTradeOfferFailInsufficient>
+  <CommandFulfillTradeOfferConfirm>เสนอ {0} สำหรับ {1}?</CommandFulfillTradeOfferConfirm>
+
+  <!-- Take off -->
+  <CommandTakeOff>บินขึ้น</CommandTakeOff>
+  <CommandTakeOffDesc>ลงยานและออกจากโลก</CommandTakeOffDesc>
+  <CommandTakeOffConfirmation>คุณแน่ใจหรือไม่ว่าต้องการเปิดยาน?\n\nทุกคนในพื้นที่นี้จะออกจากโลกได้ คนอื่นจะถูกทิ้งไว้ข้างหลัง</CommandTakeOffConfirmation>
+  
+  <!-- Set target fuel level -->
+  <CommandSetTargetFuelLevel>กำหนดระดับเชื้อเพลิง</CommandSetTargetFuelLevel>
+  <CommandSetTargetFuelLevelDesc>กำหนดระดับเชื้อเพลิง ผู้ล่าอาณานิคมจะพยายามเติมเชื้อเพลิงให้เต็มระดับ</CommandSetTargetFuelLevelDesc>
+  
+  <!-- Cancel load -->
+  <CommandCancelLoad>ยกเลิกโหลด</CommandCancelLoad>
+  <CommandCancelLoadDesc>ยกเลิกการโหลดข้อมูลนี้กับบุคคลหรือรายการและนำทุกอย่างที่โหลดไปแล้ว</CommandCancelLoadDesc>
+  
+  <!-- Launch group -->
+  <CommandLaunchGroup>เปิดกลุ่ม</CommandLaunchGroup>
+  <CommandLaunchGroupDesc>เริ่มกระบวนการกำหนดเป้าหมายสำหรับการเปิดกลุ่มของกลุ่มการขนส่ง ขั้นตอนต่อไปคือการเลือกเป้าหมาย กระสวยจะบินและลงที่ดินด้วยกัน</CommandLaunchGroupDesc>
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>กระสวยขนส่งบางส่วนในกลุ่มโหลดนี้ไม่ได้เชื่อมต่อกับพอร์ตการเติมเชื้อเพลิง</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <CommandLaunchGroupFailNoFuel>เครื่องยิงกระสวยบางชนิดในกลุ่มนี้ไม่มีเชื้อเพลิง</CommandLaunchGroupFailNoFuel>
+  <CommandLaunchGroupFailUnderRoof>เครื่องยิงกระสวยบางตัวอยู่ใต้หลังคา</CommandLaunchGroupFailUnderRoof>
+  
+  <!-- Load transporter -->
+  <CommandLoadTransporter>โหลดกลุ่มการเปิดตัวของ {0}</CommandLoadTransporter>
+  <CommandLoadTransporterDesc>กำหนดขนย้ายที่เลือก (s) เป็นกลุ่มเปิดตัว เปิดกล่องโต้ตอบการโหลดเพื่อให้คุณสามารถตัดสินใจว่าใครและสิ่งที่ควรจะโหลดภายใน</CommandLoadTransporterDesc>
+  <CommandLoadTransporterFailNotConnectedToFuelingPort>กระสวยขนส่งไม่ได้เชื่อมต่อกับพอร์ตการเติมน้ำมัน</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  <CommandLoadTransporterFailNoFuel>ปล่อยกระสวยมีไม่มีเชื้อเพลิง</CommandLoadTransporterFailNoFuel>
+  
+  <!-- Select previous transporter -->
+  <CommandSelectPreviousTransporter>เลือกกลุ่มที่เปิดตัวก่อนหน้านี้</CommandSelectPreviousTransporter>
+  <CommandSelectPreviousTransporterDesc>เลือกกระสวยขนส่งก่อนหน้านี้ในกลุ่มการเปิดตัวนี้</CommandSelectPreviousTransporterDesc>
+  
+  <!-- Select all transporters -->
+  <CommandSelectAllTransporters>เลือกกลุ่มการเปิดตัว</CommandSelectAllTransporters>
+  <CommandSelectAllTransportersDesc>เลือกกระสวยขนส่งทั้งหมดในกลุ่มการเปิดตัวนี้</CommandSelectAllTransportersDesc>
+  
+  <!-- Select next transporter -->
+  <CommandSelectNextTransporter>เลือกกลุ่มการเปิดตัวถัดไป</CommandSelectNextTransporter>
+  <CommandSelectNextTransporterDesc>Select next transport pod in this launch group.</CommandSelectNextTransporterDesc>
+
+  <!-- Vent -->
+  <CommandDesignateOpenCloseVentLabel>กำหนด เปิด/ปิด</CommandDesignateOpenCloseVentLabel>
+  <CommandDesignateOpenCloseVentDesc>กำหนดช่องระบายอากาศนี้จะได้รับการเปิดหรือปิด อาณานิคมจะมาเร็ว ๆ นี้ที่จะทำงาน</CommandDesignateOpenCloseVentDesc>
+  
+  <!-- Remove waypoint -->
+  <CommandRemoveWaypointLabel>เอาออก</CommandRemoveWaypointLabel>
+  <CommandRemoveWaypointDesc>นำ กระสวยนี้ออก</CommandRemoveWaypointDesc>
   
 </LanguageData>

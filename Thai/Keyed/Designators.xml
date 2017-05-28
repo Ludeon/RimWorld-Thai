@@ -26,7 +26,7 @@
   <DesignatorHunt>ล่าสัตว์</DesignatorHunt>
   <DesignatorHuntDesc>กำหนดสัตว์ที่จะล่าโดยนักล่าของคุณ</DesignatorHuntDesc>
 
-  <DesignatorMine>ทำเหมือง</DesignatorMine>
+  <DesignatorMine>ขุดเหมือง</DesignatorMine>
   <DesignatorMineDesc>กำหนดเขตของหินที่จะถูกขุดเหมืองออก</DesignatorMineDesc>
 
   <DesignatorSmoothFloor>ขัดพื้นให้เรียบ</DesignatorSmoothFloor>
@@ -43,19 +43,24 @@
   <DesignatorAreaHomeClear>ล้างเขตบ้าน</DesignatorAreaHomeClear>
   <DesignatorAreaHomeClearDesc>เอาเขตบ้านออก ชาวอาณานิคมจะไม่ทำความสะอาด, ซ่อมแซม, หรือดับเพลิงที่นี่</DesignatorAreaHomeClearDesc>
 
+  <DesignatorAreaBuildRoofExpand>ขยายเขคที่สร้างหลังคา</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>ชาวอาณานิคมจะสร้างหลังคาในพื้นที่นี้</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofClear>ล้างเขคที่สร้างหลังคา</DesignatorAreaBuildRoofClear>
+  <DesignatorAreaBuildRoofClearDesc>เอาเขตที่จะสร้างหลังคาออก,หลังคาที่มีอยู่จะยังคงอยู่แต่ชาวอาณานิคมจะไม่สร้างขึ้นมา</DesignatorAreaBuildRoofClearDesc>
+  
   <DesignatorAreaNoRoofExpand>ขยายเขตปลอดหลังคา</DesignatorAreaNoRoofExpand>
   <DesignatorAreaNoRoofExpandDesc>สร้างเขตที่จะไม่มีหลังคา และจะรื้อหลังคาแบบบางที่มีก่อนหน้านี้ลงมา</DesignatorAreaNoRoofExpandDesc>
-  <DesignatorAreaNoRoofClear>ล้างเขตปลอดหลังคา</DesignatorAreaNoRoofClear>
+  <DesignatorAreaNoRoofClear>ล้างเขตปลอด\nหลังคา</DesignatorAreaNoRoofClear>
   <DesignatorAreaNoRoofClearDesc>เอาเขตปลอดหลังคาออก หลังคาจะสร้างที่นี่, และหลังคาที่มีอยู่จะไม่ถูกรื้อลงมา</DesignatorAreaNoRoofClearDesc>
 
   <DesignatorAreaSnowClearExpand>ขยายเขตปลอดหิมะ</DesignatorAreaSnowClearExpand>
   <DesignatorAreaSnowClearExpandDesc>สร้างเขตที่ชาวอาณานิคมจะพยายามกวาดหิมะออกไป</DesignatorAreaSnowClearExpandDesc>
-  <DesignatorAreaSnowClearClear>ล้างเขตปลอดหิมะ</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClear>ล้างเขตปลอด\nหิมะ</DesignatorAreaSnowClearClear>
   <DesignatorAreaSnowClearClearDesc>เอาเขตปลอดหิมะออก ชาวอาณานิคมจะไม่กวาดหิมะที่นี่อีกต่อไป</DesignatorAreaSnowClearClearDesc>
 
-  <DesignatorExpandAreaAllowed>ขยายเขตที่อนุญาต</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowed>ขยายเขตที่\nอนุญาต</DesignatorExpandAreaAllowed>
   <DesignatorExpandAreaAllowedDesc>ขยายเขตที่อนุญาต\n\nเขตที่อนุญาตนั้นคือพื้นที่ๆ คุณสามารถกำหนดให้ชาวอาณานิคมอยู่ ซึ่งพวกเขาจะไม่ยอมทำงาน หรือเติมเต็มความต้องการของตัวเองนอกเขตที่อนุญาต</DesignatorExpandAreaAllowedDesc>
-  <DesignatorClearAreaAllowed>ล้างเขตที่อนุญาต</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowed>ล้างเขตที่\nอนุญาต</DesignatorClearAreaAllowed>
   <DesignatorClearAreaAllowedDesc>ล้างเซลล์ออกจากเขตที่อนุญาต\n\nเขตที่อนุญาตนั้นคือพื้นที่ๆ คุณสามารถกำหนดให้ชาวอาณานิคมอยู่ ซึ่งพวกเขาจะไม่ยอมทำงาน หรือเติมเต็มความต้องการของตัวเองนอกเขตที่อนุญาต</DesignatorClearAreaAllowedDesc>
   <ManageAreas>จัดการเขต...</ManageAreas>
 
@@ -91,7 +96,7 @@
 
 
   <!-- Failure messages -->
-  <UnchosenStuff>Unchosen material</UnchosenStuff>
+  <UnchosenStuff>เนื้อหาที่ไม่ได้เลือก</UnchosenStuff>
   <TooCloseToMapEdge>ใกล้ขอบแผนที่มากเกินไป</TooCloseToMapEdge>
   <OutOfBounds>ออกนอกขอบเขต</OutOfBounds>
   <CannotPlaceInUndiscovered>ไม่สามารถวางในเขตที่ยังไม่สำรวจ</CannotPlaceInUndiscovered>
@@ -101,10 +106,11 @@
   <WouldBlockInteractionSpot>{0} อาจจะขวางจุดปฏิสัมพันธ์ของ {1}</WouldBlockInteractionSpot>
   <TerrainIsAlready>พื้นที่นี่นั้น {0} อยู่แล้ว</TerrainIsAlready>
   <TerrainBeingSmoothed>พื้นนั้นถูกกำหนดให้ขัดให้เรียบแล้ว</TerrainBeingSmoothed>
-  <IdenticalThingExists>Identical thing already exists here.</IdenticalThingExists>
-  <IdenticalBlueprintExists>Identical blueprint already exists here.</IdenticalBlueprintExists>
+  <IdenticalThingExists>สิ่งที่เหมือนกันมีอยู่แล้วที่นี่</IdenticalThingExists>
+  <IdenticalBlueprintExists>พิมพ์เขียวเหมือนกันมีอยู่แล้วที่นี่</IdenticalBlueprintExists>
   <TerrainCannotSupport>พื้นที่นี่นั้นไม่สามารถรองรับสิ่งนี้ได้</TerrainCannotSupport>
   <SpaceAlreadyOccupied>พื้นที่ถูกจับจองแล้ว</SpaceAlreadyOccupied>
+  <SpaceBeingSmoothed>พื้นที่เรียบ</SpaceBeingSmoothed> 
   <TerrainMustBeRemovable>ต้องชี้ที่พื้นปูที่เอาออกได้</TerrainMustBeRemovable>
   
   

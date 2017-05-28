@@ -4,7 +4,7 @@
   <!-- glow -->
   <Dark>มืด</Dark>
   <Lit>สว่าง</Lit>
-  <LitBrightly>สว่างไสว</LitBrightly>
+  <LitBrightly>สว่างจ้า</LitBrightly>
   
   <!-- history upload pref -->
   <Unspecified>ยังไม่ตัดสินใจ</Unspecified>
@@ -16,7 +16,15 @@
   <PriceTypeCheap>ถูก</PriceTypeCheap>
   <PriceTypeNormal>ปกติ</PriceTypeNormal>
   <PriceTypeExpensive>แพง</PriceTypeExpensive>
-  <PriceTypeExorbitant>แพงลิบลิ่ว</PriceTypeExorbitant>
+  <PriceTypeExorbitant>แพงมาก</PriceTypeExorbitant>
+
+  <!-- Storage priority labels -->
+  <StoragePriorityUnstored>unstored</StoragePriorityUnstored>
+  <StoragePriorityLow>ต่ำ</StoragePriorityLow>
+  <StoragePriorityNormal>ปกติ</StoragePriorityNormal>
+  <StoragePriorityPreferred>แนะนำ</StoragePriorityPreferred>
+  <StoragePriorityImportant>สำคัญ</StoragePriorityImportant>
+  <StoragePriorityCritical>วิกฤติ</StoragePriorityCritical>
 
   <!-- Food type flags -->
   <FoodTypeFlags_VegetableOrFruit>ผัก</FoodTypeFlags_VegetableOrFruit>
@@ -28,12 +36,12 @@
   <FoodTypeFlags_Tree>ต้นไม้ที่มีชีวิต</FoodTypeFlags_Tree>
   <FoodTypeFlags_Meal>มื้ออาหาร</FoodTypeFlags_Meal>
   <FoodTypeFlags_Processed>อาหารที่ผ่านกระบวนการ</FoodTypeFlags_Processed>
-  <FoodTypeFlags_NutritionalDrug>เหล้า</FoodTypeFlags_NutritionalDrug>
-  <FoodTypeFlags_AnimalKibble>อาหารเม็ด</FoodTypeFlags_AnimalKibble>
+  <FoodTypeFlags_Liquor>เหล้า</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_Kibble>อาหารเม็ด</FoodTypeFlags_Kibble>
 
   <!-- Quality category -->
   <QualityCategory_Awful>ห่วย</QualityCategory_Awful>
-  <QualityCategory_Shoddy>กระจอก</QualityCategory_Shoddy>
+  <QualityCategory_Shoddy>แย่มาก</QualityCategory_Shoddy>
   <QualityCategory_Poor>แย่</QualityCategory_Poor>
   <QualityCategory_Normal>ปกติ</QualityCategory_Normal>
   <QualityCategory_Good>ดี</QualityCategory_Good>
@@ -41,17 +49,15 @@
   <QualityCategory_Excellent>เป็นเลิศ</QualityCategory_Excellent>
   <QualityCategory_Masterwork>งานปรมาจารย์</QualityCategory_Masterwork>
   <QualityCategory_Legendary>ระดับตำนาน</QualityCategory_Legendary>
-
   <QualityCategoryShort_Awful>ห่วย</QualityCategoryShort_Awful>
-  <QualityCategoryShort_Shoddy>กจอก</QualityCategoryShort_Shoddy>
+  <QualityCategoryShort_Shoddy>แย่มาก</QualityCategoryShort_Shoddy>
   <QualityCategoryShort_Poor>แย่</QualityCategoryShort_Poor>
   <QualityCategoryShort_Normal>ปกติ</QualityCategoryShort_Normal>
   <QualityCategoryShort_Good>ดี</QualityCategoryShort_Good>
-  <QualityCategoryShort_Superior>ดียม</QualityCategoryShort_Superior>
+  <QualityCategoryShort_Superior>ดีเยี่ยม</QualityCategoryShort_Superior>
   <QualityCategoryShort_Excellent>เลิศ</QualityCategoryShort_Excellent>
-  <QualityCategoryShort_Masterwork>ปรมจ</QualityCategoryShort_Masterwork>
-  <QualityCategoryShort_Legendary>ตนาน</QualityCategoryShort_Legendary>
-  
+  <QualityCategoryShort_Masterwork>ปรมาจารย์</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Legendary>ตำนาน</QualityCategoryShort_Legendary>
   
   <!-- Hunger -->
   <HungerLevel_Starving>อดอยาก</HungerLevel_Starving>
@@ -70,20 +76,25 @@
   <Hilliness_SmallHills>เนินเล็กๆ</Hilliness_SmallHills>
   <Hilliness_LargeHills>เนินเขา</Hilliness_LargeHills>
   <Hilliness_Mountainous>ภูเขา</Hilliness_Mountainous>
+  <Hilliness_Impassable>พื้นที่เป็นทางตัน</Hilliness_Impassable>
   
   <!-- Steam workshop interaction -->
   <WorkshopInteractStage_CreatingItem>กำลังสร้าง</WorkshopInteractStage_CreatingItem>
-  <WorkshopInteractStage_SubmittingItem>Submitting</WorkshopInteractStage_SubmittingItem>
+  <WorkshopInteractStage_SubmittingItem>ส่ง</WorkshopInteractStage_SubmittingItem>
   <EItemUpdateStatus_k_EItemUpdateStatusInvalid>ไม่ถูกต้อง</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Preparing config data</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Preparing content files</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Uploading content</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Uploading preview file</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
-  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Committing changes</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>กำลังเตรียมข้อมูล config</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>การจัดเตรียมไฟล์เนื้อหา</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>กำลังอัปโหลดเนื้อหา</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>กำลังอัปโหลดไฟล์ดูตัวอย่าง</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>มีการเปลี่ยนแปลง</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
+  <!-- Mod sources -->
+  <ContentSource_LocalFolder>โฟลเดอร์ภายในเครื่อง</ContentSource_LocalFolder>
+  <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
+  
   <!-- Trainable intelligence -->
   <TrainableIntelligence_None>ไม่มี</TrainableIntelligence_None>
-  <TrainableIntelligence_Simple>อย่างง่าย</TrainableIntelligence_Simple>
+  <TrainableIntelligence_Simple>ง่าย</TrainableIntelligence_Simple>
   <TrainableIntelligence_Intermediate>ปานกลาง</TrainableIntelligence_Intermediate>
   <TrainableIntelligence_Advanced>ขั้นสูง</TrainableIntelligence_Advanced>
 
@@ -101,8 +112,45 @@
   
   <!-- HediffGrowthMode -->
   <HediffGrowthMode_Growing>กำลังปลูก</HediffGrowthMode_Growing>
-  <HediffGrowthMode_Stable>คอก</HediffGrowthMode_Stable>
-  <HediffGrowthMode_Remission>remission</HediffGrowthMode_Remission>
+  <HediffGrowthMode_Stable>คงที่</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Remission>บรรเทาอาการ</HediffGrowthMode_Remission>
 
+  <!-- TechLevel -->
+  <TechLevel_Animal>สัตว์</TechLevel_Animal>
+  <TechLevel_Neolithic>ยุคนีโอะลีธอิค</TechLevel_Neolithic>
+  <TechLevel_Medieval>สมัยกลาง</TechLevel_Medieval>
+  <TechLevel_Industrial>อุตสาหกรรม</TechLevel_Industrial>
+  <TechLevel_Spacer>spacer</TechLevel_Spacer>
+  <TechLevel_Ultra>รุนแรง</TechLevel_Ultra>
+  <TechLevel_Transcendent>เหนือธรรมชาติ</TechLevel_Transcendent>
 
+  <!-- Player pawns arrive method -->
+  <PlayerPawnsArriveMethod_Standing>ยืน</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_DropPods>ลงจอด</PlayerPawnsArriveMethod_DropPods>
+
+  <!-- Pawn generation context -->
+  <PawnGenerationContext_All>ตัวละครทุกตัว</PawnGenerationContext_All>
+  <PawnGenerationContext_PlayerStarter>player starting characters</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_NonPlayer>non-player characters</PawnGenerationContext_NonPlayer>
+  
+  <!-- Animal name display mode -->
+  <ShowAnimalNames>แสดงชื่อสัตว์</ShowAnimalNames>
+  <AnimalNameDisplayMode_TameNamed>เชื่อฟัง (ชื่อเท่านั้น)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>เชื่อฟัง (ทั้งหมด)</AnimalNameDisplayMode_TameAll>
+  
+  <!-- Temperature -->
+  <Celsius>เซลเซียส</Celsius>
+  <Fahrenheit>ฟาเรนไฮต์</Fahrenheit>
+  <Kelvin>เคลวิน</Kelvin>
+  
+  <!-- Direction8Way -->
+  <Direction8Way_North_Short>ทิศเหนือ</Direction8Way_North_Short>
+  <Direction8Way_NorthEast_Short>ทิศตะวันออกเฉียงเหนือ</Direction8Way_NorthEast_Short>
+  <Direction8Way_East_Short>ทิศตะวันออก</Direction8Way_East_Short>
+  <Direction8Way_SouthEast_Short>ทิศตะวันออกเฉียงใต้</Direction8Way_SouthEast_Short>
+  <Direction8Way_South_Short>ทิศใต้</Direction8Way_South_Short>
+  <Direction8Way_SouthWest_Short>ทิศตะวันตกเฉียงใต้</Direction8Way_SouthWest_Short>
+  <Direction8Way_West_Short>ทิศตะวันตก</Direction8Way_West_Short>
+  <Direction8Way_NorthWest_Short>ทิศตะวันตกเฉียงเหนือ</Direction8Way_NorthWest_Short>
+  
 </LanguageData>

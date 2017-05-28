@@ -2,36 +2,47 @@
 <LanguageData>
 
   <!--=========== Main menu ==========-->
-  <CreateWorld>สร้างโลก</CreateWorld>
+  <Tutorial>โหมดฝึก</Tutorial>
   <NewColony>เริ่มอาณานิคมใหม่</NewColony>
   <BackToGame>กลับสู่เกม</BackToGame>
+  <ReviewScenario>วิจารณ์สถานการณ์</ReviewScenario>
   <Save>เซฟ</Save>
-  <Load>โหลด</Load>
-  <Options>Options</Options>
+  <LoadGame>โหลด</LoadGame>
+  <Options>ตัวเลือก</Options>
   <Mods>Mods</Mods>
-  <Credits>Credits</Credits>
+  <Credits>เครดิต</Credits>
   <QuitToMainMenu>ออกสู่เมนูหลัก</QuitToMainMenu>
   <SaveAndQuitToMainMenu>เซฟและออกไปยังเมนู</SaveAndQuitToMainMenu>
-  <QuitToOS>ออกสู่ OS</QuitToOS>
-  <SaveAndQuitToOS>เซฟและออกไปยัง OS</SaveAndQuitToOS>
-  <FictionPrimer>Fiction primer</FictionPrimer>
-  <LudeonBlog>Ludeon blog</LudeonBlog>
-  <Forums>Forums</Forums>
-  <OfficialWiki>Official wiki</OfficialWiki>
-  <TynansTwitter>Tynan's twitter</TynansTwitter>
-  <TynansDesignBook>Tynan's design book</TynansDesignBook>
-  <HelpTranslate>Help translate RimWorld</HelpTranslate>
-  <BuySoundtrack>Buy soundtrack</BuySoundtrack>
+  <QuitToOS>ออกจากเกม</QuitToOS>
+  <SaveAndQuitToOS>เซฟและออกจากเกม</SaveAndQuitToOS>
+  <FictionPrimer>ไพรเมอร์นิยาย</FictionPrimer>
+  <LudeonBlog>บล็อกของลูเดียน</LudeonBlog>
+  <Forums>ฟอรั่ม</Forums>
+  <OfficialWiki>วิกิพีเดียของทางการ</OfficialWiki>
+  <TynansTwitter>ทวิตเตอร์ของ ไทนัน</TynansTwitter>
+  <TynansDesignBook>หนังสือการออกแบบ\nของ ไทนัน</TynansDesignBook>
+  <HelpTranslate>ช่วยแปลภาษาให้ Rimworld</HelpTranslate>
+  <BuySoundtrack>ซื้อ Soundtrack</BuySoundtrack>
+  <CreateWorld>สร้างโลก</CreateWorld>
 
   <!--=========== Create/review world ================-->
-  <ReviewWorld>Review world</ReviewWorld>
+  <ReviewWorld>วิจารณ์โลก</ReviewWorld>
   <WorldGenerate>ก่อกำเนิด</WorldGenerate>
   <WorldSaveAndFinish>เซฟและเสร็จสิ้น</WorldSaveAndFinish>
   <Reset>รีเซ็ต</Reset>
-  <WorldSize>ขนาด</WorldSize>
+  <PlanetCoverage>คุ้มครองโลก</PlanetCoverage>
+  <PlanetRainfall>ปริมาณน้ำฝนโดยรวม</PlanetRainfall>
+  <PlanetTemperature>อุณหภูมิโดยรวม</PlanetTemperature>
+  <PlanetRainfall_Low>ต่ำ</PlanetRainfall_Low>
+  <PlanetRainfall_Normal>ปกติ</PlanetRainfall_Normal>
+  <PlanetRainfall_High>สูง</PlanetRainfall_High>
+  <PlanetTemperature_Low>ต่ำ</PlanetTemperature_Low>
+  <PlanetTemperature_Normal>ปกติ</PlanetTemperature_Normal>
+  <PlanetTemperature_High>สูง</PlanetTemperature_High>
   <WorldSeed>Seed</WorldSeed>
   <RandomizeSeed>สุ่มค่า seed</RandomizeSeed>
-
+  <PlanetCoverageTip>ดาวเคราะห์มีขนาดเส้นผ่าศูนย์กลางเหมือนกัน แต่เนื่องจากมีขนาดใหญ่กว่าที่จำเป็นสำหรับการเล่นเราจึงไม่สร้างพื้นผิวทั้งหมดเพราะอาจใช้เวลานานมาก นี่คือเปอร์เซ็นต์ของพื้นผิวที่คุณต้องการสร้างขึ้น</PlanetCoverageTip>
+  <WorldFactionsTab>ฝ่าย</WorldFactionsTab>
 
   <!--=========== Select world ===================-->
   <SelectWorld>เลือกโลก</SelectWorld>
@@ -39,40 +50,61 @@
   <NoWorldsFilesFound>ไม่พบไฟล์ข้อมูลโลก ต้องสร้างโลกก่อน</NoWorldsFilesFound>
   
   <!--=========== Version info ==========-->
-  <BuildNowAvailable>Version {0} is now available. Check ludeon.com for more info.</BuildNowAvailable>
-	<BuildUpToDate>This is the latest version.</BuildUpToDate>
-	<ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
-	<LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
+  <BuildNowAvailable>เวอร์ชัน {0} พร้อมใช้งานแล้ว ตรวจสอบ ludeon.com เพื่อดูข้อมูลเพิ่มเติม</BuildNowAvailable>
+	<BuildUpToDate>นี่คือเวอร์ชันล่าสุด</BuildUpToDate>
+	<ErrorGettingVersionInfo>เกิดข้อผิดพลาดในการเรียกข้อมูลเวอร์ชัน: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>กำลังโหลดข้อมูลเวอร์ชัน...</LoadingVersionInfo>
 
   <!--=========== World generator =========-->
   <GenerateWorld>ก่อกำเนิดโลก</GenerateWorld>
 
   <!--=========== Mods screen ==========-->
   <OpenSteamWorkshop>เปิด Steam Workshop</OpenSteamWorkshop>
-  <GetModsFromForum>เลือกหา mod จาก forum</GetModsFromForum>
-  <OpenModsDataFolder>เปิดโฟลเดอร์ข้อมูล mod</OpenModsDataFolder>
+  <GetModsFromForum>เลือกหา Mods ของเกม จาก โฟลเดอร์</GetModsFromForum>
+  <OpenModsDataFolder>เปิดโฟลเดอร์ข้อมูล Mods</OpenModsDataFolder>
   <ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
-  <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
-  <Unsubscribe>Unsubscribe</Unsubscribe>
-  <ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
-  <Author>Author</Author>
+  <ConfirmDeleteMod>คุณแน่ใจหรือไม่ว่าต้องการลบเนื้อหาทั้งหมดสำหรับ {0}?</ConfirmDeleteMod>
+  <Unsubscribe>ยกเลิกการรับข่าวสาร</Unsubscribe>
+  <ConfirmUnsubscribe>คุณแน่ใจหรือไม่ว่าต้องการยกเลิกการสมัคร {0}?</ConfirmUnsubscribe>
+  <Author>ผู้ผลิต</Author>
   <WorkshopPage>หน้า Workshop</WorkshopPage>
   <UploadToSteamWorkshop>อัปโหลดไปยัง Steam Workshop</UploadToSteamWorkshop>
   <UpdateOnSteamWorkshop>อัปเดตบน Steam Workshop</UpdateOnSteamWorkshop>
   <UploadAlreadyInProgress>การอัปโหลดกำลังอยู่ในการดำเนินการ</UploadAlreadyInProgress>
-  <WorkshopSubmissionFailed>Workshop submission failed.\n\nเหตุผล: {0}</WorkshopSubmissionFailed>
-  <YouAgreeToSteamWorkshopLegal>By submitting this mod, you agree to the Steam Workshop terms of service. Click here for more info.</YouAgreeToSteamWorkshopLegal>
-  <WorkshopUploadSucceeded>การอัปโหลดสำเร็จแล้ว {0}.</WorkshopUploadSucceeded>
-  <DownloadingMod>กำลังดาวน์โหลด {0}</DownloadingMod>
+  <WorkshopSubmissionFailed>Workshop อัปโหลดล้มเหลว\n\nเหตุผล: {0}</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>อัปโหลดสำเร็จ {0}.</WorkshopUploadSucceeded>
+  <Downloading>ดาวน์โหลด</Downloading>
+  <Source>แหล่ง</Source>
+  <ModTargetVersion>สำหรับเวอร์ชัน: {0}</ModTargetVersion>
+  <ModNotMadeForThisVersion>Mod นี้ไม่ได้ทำขึ้นสำหรับ RimWorld รุ่นนี้และอาจทำงานไม่ถูกต้อง</ModNotMadeForThisVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <DragToReorder>ลากเพื่อเรียงลำดับใหม่</DragToReorder>
+  
+  <!--=========== Select scenario =============-->
+  <ChooseScenario>เลือกสถานการณ์</ChooseScenario>
+  <ScenariosCustom>กำหนดเอง</ScenariosCustom>
+  <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+  <ScenarioEditor>แก้ไขสถานการณ์</ScenarioEditor>
+  <Delete>ลบ</Delete>
+  
+  <!--============ Scenario editor ===============-->
+  <Seed>seed</Seed>
+  <Load>Load</Load>
+  <EditMode>โหมดแก้ไข</EditMode>
+  <Summary>สรุป</Summary>
+  <AddPart>เพิ่มส่วน</AddPart>
+  <TextFieldsMustBeFilled>ต้องใส่กรอกช่องข้อความทั้งหมด</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>คุณแน่ใจหรือไม่ว่าต้องการอัปโหลดข้อมูลนี้ไปที่ Steam Workshop?\n\nคุณต้องยอมรับข้อกำหนดในการให้บริการของ Steam Workshop ค้นหาคำศัพท์เต็มรูปแบบที่นี่:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>เห็นได้ชัดว่าคุณควรอัปโหลดเนื้อหาที่คุณสร้างขึ้นเองเท่านั้น\n\nคุณได้สร้างเนื้อหานี้ด้วยตัวคุณเองหรือไม่ ?</ConfirmContentAuthor>
+  <Incompatible>เข้ากันไม่ได้</Incompatible>
+  <TooMany>มากเกินไป (สูงสุด {0}): </TooMany>
+  <CanBeUpdatedOnWorkshop>สามารถอัปเดต Workshop ได้เนื่องจากคุณเป็นผู้เขียน</CanBeUpdatedOnWorkshop>
   
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>เลือก AI Storyteller</ChooseAIStoryteller>
   <HowStorytellersWork>AI Storyteller จะเป็นผู้สร้างเหตุการณ์เช่นโจรสลัดบุกปล้น, การดรอปทรัพยากร, หรือการโจมตีของสัตว์ การตัดสินใจของพวกเขา จะมีผลกับเรื่องราวที่เกิดขึ้น ในอาณานิคมของคุณ</HowStorytellersWork>
-  <MustChooseDifficulty>กรุณาเลือกตั้งค่าระดับความยาก</MustChooseDifficulty>
+  <MustChooseDifficulty>กรุณาเลือกระดับความยาก</MustChooseDifficulty>
   <Difficulty>ระดับความยาก</Difficulty>
-
-
-
 
   <!--=========== Landing site select =========-->
   <SelectLandingSite>เลือกพื้นที่ลงจอด</SelectLandingSite>
@@ -80,66 +112,71 @@
   <SelectSite>เลือกพื้นที่</SelectSite>
   <MustSelectLandingSite>กรุณาเลือกพื้นที่ลงจอด</MustSelectLandingSite>
   <CannotLandBiome>คุณไม่สามารถลงจอดบนชีวนิเวศนี้ได้: {0}</CannotLandBiome>
-  <WorldRenderMode>โหมด</WorldRenderMode>
-  <WorldRenderModeFull>เต็ม</WorldRenderModeFull>
-  <WorldRenderModeTemperature>อุณหภูมิ</WorldRenderModeTemperature>
-  <WorldRenderModeElevation>ความสูงต่ำ</WorldRenderModeElevation>
-  <WorldRenderModeFertility>ความสมบูรณ์</WorldRenderModeFertility>
-  <WorldRenderModeRainfall>ปริมาณฝน</WorldRenderModeRainfall>
-  <WorldRenderModeBiomes>ชีวนิเวศ</WorldRenderModeBiomes>
-  <BiomeNotImplemented>ชีวนิเวศไม่สามารถทำได้</BiomeNotImplemented>
+  <BiomeNotImplemented>ระบบนิเวศน์ไม่สามารถทำได้</BiomeNotImplemented>
+  <CannotLandImpassableMountains>คุณไม่สามารถลงจอดบนภูเขาไม่ได้</CannotLandImpassableMountains>
   <BaseAlreadyThere>{0} สร้างฐานอยู่ที่นี่แล้ว</BaseAlreadyThere>
-  <Biome>ชีวนิเวศ</Biome>
+  <YourBaseAlreadyThere>คุณมีฐานอยู่ที่นั่นแล้ว</YourBaseAlreadyThere>
+  <TileOccupied>กระเบื้องนี้ถูกครอบครอง</TileOccupied>
+  <FactionBaseAdjacent>การตั้งถิ่นฐานไม่สามารถอยู่ติดกันได้โดยตรง</FactionBaseAdjacent>
+  <Biome>ระบบนิเวศน์</Biome>
   <Terrain>ภูมิประเทศ</Terrain>
-  <Elevation>ความสูงต่ำ</Elevation>
+  <Road>ถนน</Road>
+  <River>แม่น้ำ</River>
+  <Elevation>การยกระดับ</Elevation>
   <Fertility>ความสมบูรณ์</Fertility>
   <AvgTemp>อุณหภูมิเฉลี่ย</AvgTemp>
-  <AvgJanTemp>อุณหภูมิเฉลี่ย (ม.ค.): {0}</AvgJanTemp>
-  <AvgJulTemp>อุณหภูมิเฉลี่ย (ก.ค.): {0}</AvgJulTemp>
-  <Rainfall>ปริมาณฝน</Rainfall>
+  <AvgSummerTemp>เฉลี่ยอุณหภูมิ (ฤดูหนาวร้อน): {0}</AvgSummerTemp>
+    <AvgWinterTemp>เฉลี่ยอุณหภูมิ (ฤดูหนาว): {0}</AvgWinterTemp>
+    <Rainfall>ปริมาณฝน</Rainfall>
   <HasCoast0>ชายฝั่งทางทิศเหนือ</HasCoast0>
   <HasCoast1>ชายฝั่งทางทิศตะวันออก</HasCoast1>
   <HasCoast2>ชายฝั่งทางทิศตะวันตก</HasCoast2>
   <HasCoast3>ชายฝั่งทางทิศใต้</HasCoast3>
   <FactionBase>ฐานของฝ่าย</FactionBase>
   <StoneTypesHere>ประเภทหิน</StoneTypesHere>
+  <TimeZone>เขตเวลา</TimeZone>
+	<MovementTimeNow>เวลาเคลื่อนไหวในปัจจุบัน</MovementTimeNow>
+	<MovementTimeSummer>เวลาเคลื่อนไหวในช่วงฤดูร้อน</MovementTimeSummer>
+	<MovementTimeWinter>เวลาเคลื่อนไหวในช่วงฤดูหนาว</MovementTimeWinter>
+  <AnimalsCanGrazeNow>สัตว์สามารถกินหญ้าได้ในขณะนี้</AnimalsCanGrazeNow>
 
-
-  <!--=========== Character chooser ==========-->
+  
+    <!--=========== Character chooser ==========-->
   <CreateCharacters>สร้างตัวละคร</CreateCharacters>
-  <FirstNameDesc>ชื่อของตัวละคร\n\nThis is only displayed in certain menus.</FirstNameDesc>
-  <ShortIdentifierDesc>ชื่อเรียกสั้นๆของตัวละคร\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
-  <LastNameDesc>นามสกุลของตัวละคร\n\nThis is only displayed in certain menus.</LastNameDesc>
+  <FirstNameDesc>ชื่อของตัวละคร\n\nนี่แสดงเฉพาะในเมนูบางเมนูเท่านั้น</FirstNameDesc>
+  <ShortIdentifierDesc>ชื่อเรียกสั้นๆของตัวละคร\n\nซึ่งจะปรากฏตลอดเวลา อาจเป็นชื่อหรือนามสกุล, หรือชื่อเล่นที่แยกกันอย่างสมบูรณ์.</ShortIdentifierDesc>
+  <LastNameDesc>นามสกุลของตัวละคร\n\nนี้จะปรากฏเฉพาะในบางเมนู.</LastNameDesc>
   <Randomize>สุ่ม</Randomize>
   <AgeIndicator>อายุ {0}</AgeIndicator>
   <Backstory>เรื่องปูมหลัง</Backstory>
   <IncapableOf>สิ่งที่ไม่อาจทำได้</IncapableOf>
   <Traits>คุณสมบัติ</Traits>
-  <PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
+  <PermanentMoodEffect>ผลกระทบอารมณ์ถาวร</PermanentMoodEffect>
   <Skills>ทักษะ</Skills>
   <NoneLower>ไม่มี</NoneLower>
   <Adulthood>ตอนเป็นผู้ใหญ่</Adulthood>
   <Childhood>ตอนวัยเด็ก</Childhood>
-  <Male>ชาย</Male>
-  <Female>หญิง</Female>
+  <Male>ผู้ชาย</Male>
+  <Female>ผู้หญิง</Female>
   <Pain>ความเจ็บปวด</Pain>
   <Health>สุขภาพ</Health>
   <Relations>ความสัมพันธ์</Relations>
-  
   
   <!--=========== Misc ==========-->
   <Start>เริ่ม</Start>
   <Advanced>ขั้นสูง</Advanced>
   <Next>ถัดไป</Next>
   <Back>กลับ</Back>
-  
-  <Gameplay>Gameplay</Gameplay>
-
-  <ConfirmQuit>ต้องการจะออกจริงๆ? คุณจะเสียทุกอย่างที่เล่นมาและยังไม่ได้เซฟ</ConfirmQuit>
-  
+  <Gameplay>เกมเพลย์</Gameplay>
+  <ConfirmQuit>คุณต้องการจะออกจริงๆ? คุณจะเสียทุกอย่างที่เล่นมาและคุณยังไม่ได้เซฟ</ConfirmQuit>
   <EveryoneNeedsValidName>แต่ละคนต้องการชื่อที่ถูกต้อง</EveryoneNeedsValidName>
-
-  <GeneratingWorld>กำลังก่อกำเนิดโลก</GeneratingWorld>
-  <GeneratingMap>กำลังก่อกำเนิดแผนที่</GeneratingMap>
+  <Quit>เลิก</Quit>
+  <Ignore>ไม่สนใจ</Ignore>
+  
+  <!--============ Progress bar==============-->
+  <GeneratingWorld>กำลังสร้างโลก</GeneratingWorld>
+  <GeneratingPlanet>กำลังสร้างดาวเคราะห์</GeneratingPlanet>
+  <GeneratingMap>กำลังสร้างแผนที่</GeneratingMap>
+  <GeneratingMapForNewEncounter>สร้างแผนทีสำหรับการเผชิญหน้าครั้งใหม่</GeneratingMapForNewEncounter>
 
 </LanguageData>

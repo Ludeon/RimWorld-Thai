@@ -2,72 +2,82 @@
 <LanguageData>
 
   <JumpToLocation>กระโดดไปยังตำแหน่ง</JumpToLocation>
+  <PostponeLetter>เลื่อนเวลา</PostponeLetter>
+  <RejectLetter>ปฏิเสธ</RejectLetter>
   
   <LetterLabelFirstSummerWarning>ฤดูร้อน</LetterLabelFirstSummerWarning>
-  <FirstSummerWarning>หน้าร้อนเริ่มขึ้นแล้ว! แต่หน้าหนาวกำลังคืบคลานเข้ามา\n\nYour food crops won't grow in the winter cold. Be sure to store several days' worth of food now, while you still can.\n\nYou can build a walk-in refrigeration room to prevent food from spoiling.\n\nAnd try to buy, steal, or make some parkas, or you'll freeze when you step outside.</FirstSummerWarning>
+  <FirstSummerWarning>หน้าร้อนเริ่มขึ้นแล้ว! แต่หน้าหนาวกำลังคืบคลานเข้ามา\n\nพืชอาหารของคุณจะไม่เจริญเติบโตได้ในช่วงฤดูหนาว ให้แน่ใจว่าคุณได้เก็บมูลค่าของอาหารตอนนี้ในขณะที่คุณยังไม่สามารถปลูกมันได้\n\nคุณสามารถสร้างห้องทำความเย็น เพื่อป้องกันการแย่งอาหาร\n\nและพยายามที่จะซื้อขโมยหรือทำผ้าเตี่ยวผืนบางหรือคุณจะก้าวเท้าออกไปด้านนอกแบบหนาวๆ</FirstSummerWarning>
 
   <RelationsBrokenDown>ความสัมพันธ์กับ {0} ได้สะบั้นลงแล้ว ตอนนี้พวกเขาเป็นศัตรูกับคุณ</RelationsBrokenDown>
-  <RelationsWarmed>Relations have with {0} have warmed. They are no longer hostile to you.</RelationsWarmed>
+  <RelationsWarmed>มีความสัมพันธ์กับ {0} อบอุ่นขึ้น พวกเขาไม่เป็นคัตรูกับคุณอีกต่อไป.</RelationsWarmed>
 
   <RelationsBrokenCapture>เพราะคุณจับตัว {0} มา, ตอนนี้ {1} จึงเป็นศัตรูกับคุณ</RelationsBrokenCapture>
 
-  <ColonyGoodwill>Colony goodwill</ColonyGoodwill>
+  <ColonyGoodwill>ค่าความนิยมอาณานิคม</ColonyGoodwill>
   <Neutral>เป็นกลาง</Neutral>
 
-  <ShortCircuitRain>A {0} has short-circuited in the rain and started a fire.</ShortCircuitRain>
+  <ShortCircuitRain>{0} ลัดวงจรในสายฝนและเริ่มลุกไหม้</ShortCircuitRain>
 
   <LetterLabelAreaRevealed>พื้นที่ถูกเปิดเผย</LetterLabelAreaRevealed>
-  <AreaRevealed>A new area has been revealed.</AreaRevealed>
-  <AreaRevealedWithMechanoids>A new area has been revealed. It contains ancient, hostile mechanoids.</AreaRevealedWithMechanoids>
+  <AreaRevealed>มีการเปิดเผยพื้นที่ใหม่</AreaRevealed>
+  <AreaRevealedWithMechanoids>มีการเปิดเผยพื้นที่ใหม่ มันมีโบราณ Mechanoids เป็นมิตร</AreaRevealedWithMechanoids>
 
   <RoofCollapsed>หลังคาถล่มลงมาเพราะอยู่ห่างจากสิ่งที่ค้ำ</RoofCollapsed>
-  <TheseThingsCrushed>These things were crushed:</TheseThingsCrushed>
-  <NothingCrushed>Nothing was crushed.</NothingCrushed>
+  <TheseThingsCrushed>สิ่งเหล่านี้ถูกบดขยี้:</TheseThingsCrushed>
+  <NothingCrushed>ไม่มีอะไรถูกบดขยี้</NothingCrushed>
   <LetterLabelRoofCollapsed>หลังคาถล่ม</LetterLabelRoofCollapsed>
   
-  <RecruitSuccess>{0} successfully recruited {1} ({2} chance).</RecruitSuccess>
-  <RecruitFail>{0} failed to recruit {1} ({2} chance).</RecruitFail>
+  <RecruitSuccess>{0} คัดเลือกเรียบร้อยแล้ว {1} ( โอกาส {2} ).</RecruitSuccess>
+  <RecruitFail>{0} ล้มเหลวในการรับสมัคร {1} ( โอกาส {2} ).</RecruitFail>
 
   <LetterLabelBirthday>วันเกิด</LetterLabelBirthday>
-  <BirthdayChronological>It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday.</BirthdayChronological>
-  <BirthdayBiologicalAgeInjuries>{0} has reached the biological age of {1}.\n\nUnfortunately, {0} has gained the following diseases due to aging:\n{2}</BirthdayBiologicalAgeInjuries>
+  <BirthdayChronological>เป็นวันเกิด {0}ของวันนี้! , {1} มีอายุ {3} ปี\n\nตามลำดับ {1} เพิ่งเปลี่ยน {2}\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday.</BirthdayChronological>
+  <BirthdayBiologicalAgeInjuries>{0} มีอายุครบบริบูรณ์ทางชีวภาพของ {1} แล้ว\n\nน่าเสียดาย, {0} ได้รับโรคต่อไปนี้เนื่องจากการเสื่อมสภาพ:\n{2}</BirthdayBiologicalAgeInjuries>
 
   <LetterLabelNewDisease>โรคภัย</LetterLabelNewDisease>
-  <NewDisease>{0} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {2} gets proper treatment and spends as much time in bed as possible.</NewDisease>
-  <NewPartDisease>{0} has gotten sick from {3}. The infection is in HIS {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {2} gets proper treatment and spends as much time in bed as possible.</NewPartDisease>
+  <NewDisease>{0} ได้รับการป่วยจาก {1}.\n\nตรวจดูให้แน่ใจว่าคุณมีเตียงทางการแพทย์และแพทย์ ทำให้เเน่นอน {2} ได้รับการรักษาที่เหมาะสมและใช้เวลาในเตียงให้มากที่สุด</NewDisease>
+  <NewPartDisease>{0} ได้รับป่วยจาก {3}. การติดเชื้ออยู่ใน HIS {1}.\n\nตรวจดูให้แน่ใจว่าคุณมีเตียงทางการแพทย์และแพทย์  ตรวจสอบให้แน่ใจว่า {2} ได้รับการรักษาที่เหมาะสมและใช้เวลาในการนอนหลับให้มากที่สุดเท่าที่จะเป็นไปได้</NewPartDisease>
 
   <LetterLabelAncientShrineWarning>ภยันตรายจากโบราณกาล</LetterLabelAncientShrineWarning>
   <AncientShrineWarning>{0} ที่ถูกดึงเข้าไปใกล้กำแพงโบราณ, ความสังหรณ์ใจก็เข้าครอบ HIM. HECAP ไม่แน่ใจว่าทำไม, แต่ HE รู้สึกได้ว่าโครงสร้างฝุ่นจับนี้อาจจะกักเอาภยันตรายที่ใหญ่หลวงไว้</AncientShrineWarning>
 
-  <StruckMineable>We have struck {0}!</StruckMineable>
+  <StruckMineable>เราได้ตี {0}!</StruckMineable>
 
   <LetterLabelAnimalManhunterRevenge>{0} ล้างแค้น</LetterLabelAnimalManhunterRevenge>
-  <AnimalManhunterFromDamage>A {0} is attacking after being harmed!</AnimalManhunterFromDamage>
-  <AnimalManhunterFromTaming>A {0} is attacking due to a taming attempt!</AnimalManhunterFromTaming>
-  <AnimalManhunterOthers>Other {0}s nearby have also become enraged!</AnimalManhunterOthers>
+  <AnimalManhunterFromDamage>{0} กำลังทำร้ายหลังจากทำร้าย!</AnimalManhunterFromDamage>
+  <AnimalManhunterFromTaming>{0} กำลังโจมตีเนื่องจากความพยายามในการแทง!</AnimalManhunterFromTaming>
+  <AnimalManhunterOthers>อื่น ๆ {0} ใกล้เคียงได้กลายเป็นการล้างแค้น!</AnimalManhunterOthers>
 
   <LetterFriendlyTrapSprungLabel>{0} ถูกกับดักเข้า</LetterFriendlyTrapSprungLabel>
   <LetterFriendlyTrapSprung>{0} บังเอิญลั่นกับดักและได้รับความเสียหาย</LetterFriendlyTrapSprung>
 
-  <LetterHealthComplications>{0} has developed a health condition: {1}\n\nThis was as a complication from: {2}.</LetterHealthComplications>
+  <LetterHealthComplications>{0} มีพัฒนาการทางสุขภาพ: {1}\n\nนี่เป็นภาวะแทรกซ้อนจาก: {2}.</LetterHealthComplications>
   <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
   
-  <LetterHediffFromRandomHediffGiver>{0} has developed a health condition: {1}.</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiver>{0} มีพัฒนาการทางสุขภาพ: {1}.</LetterHediffFromRandomHediffGiver>
   <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
   
-  <LetterLeadersDeathLabel>Leader's death</LetterLeadersDeathLabel>
-  <LetterLeadersDeath>Leader {0} of faction {1} has died and been replaced by {2}.</LetterLeadersDeath>
-  
-  <!-- Family -->
-  <LetterLabelNoticedFamilyMembers>ครอบครัว</LetterLabelNoticedFamilyMembers>
-  <LetterFamilyMembersRaidEnemy>There are family members of your colonists or prisoners in the arriving group of {0}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThe family members are:</LetterFamilyMembersRaidEnemy>
-  <LetterFamilyMembersRaidFriendly>There are family members of your colonists or prisoners in the arriving group of friendly {0}:</LetterFamilyMembersRaidFriendly>
-  <LetterFamilyMembersNeutralGroup>There are family members of your colonists or prisoners in the arriving group:</LetterFamilyMembersNeutralGroup>
-  <LetterFamilyMembersTraderShipSlaves>The orbital trader is selling family members of your colonists or prisoners:</LetterFamilyMembersTraderShipSlaves>
-  
-  <FamilyLetterAppendedSuffix>(ครอบครัว)</FamilyLetterAppendedSuffix>
-  <FamilyLetterAppendedTextColonist>NAME เป็นสมาชิกครอบครัวของชาวอาณานิคม HECAP เป็น {1} ของ {0}</FamilyLetterAppendedTextColonist>
-  <FamilyLetterAppendedTextPrisoner>NAME เป็นสมาชิกครอบครัวของหนึ่งในนักโทษของคุณ HECAP เป็น {1} ของ {0}</FamilyLetterAppendedTextPrisoner>
+  <LetterLeadersDeathLabel>การเสียชีวิตของผู้นำ</LetterLeadersDeathLabel>
+  <LetterLeadersDeath>ผู้นำ {0} ของฝ่าย {1} เสียชีวิตแล้วและถูกแทนที่ด้วย {2}</LetterLeadersDeath>
+ 
+ 	<LetterLeaderChangedLabel>ใหม่ {1}: {0}</LetterLeaderChangedLabel>
+	<LetterLeaderChanged>{0} is no longer {3} of {1}.\n\nThe new {3} is {2}.</LetterLeaderChanged>
+ 
+  <MentalBreakLetterLabel>Mental break</MentalBreakLetterLabel>
+  <MentalBreakReason>The final straw was: {0}.</MentalBreakReason>
+ 
+  <!-- Related pawns -->
+  <LetterLabelNoticedRelatedPawns>ครอบครัว</LetterLabelNoticedRelatedPawns>
+  <LetterRelatedPawnsRaidEnemy>มีผู้ที่มีความสัมพันธ์กับอาณานิคมหรือนักโทษในกลุ่มที่มาถึง{0}.\n\nโปรดจำไว้ว่าแม้ว่าจะเกี่ยวข้องกัน แต่ก็ยังคงโจมตีกันเนื่องจากความสัมพันธ์ที่ไม่ดีของกลุ่ม\n\nคนเหล่านี้:</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidFriendly>มีผู้ที่มีความสัมพันธ์กับอาณานิคมหรือนักโทษในกลุ่มเพื่อนที่เดินทางมาถึง{0}:</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsNeutralGroup>มีผู้ที่มีความสัมพันธ์กับอาณานิคมหรือนักโทษในกลุ่มที่เดินทางมาถึง:</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsTradeShip>พ่อค้าวงโคจรขายคนที่มีความสัมพันธ์กับอาณานิคมหรือนักโทษของคุณ:</LetterRelatedPawnsTradeShip>
+  <LetterRelatedPawnsTradingWithFactionBase>ฝ่ายขายกำลังขายคนที่มีความสัมพันธ์กับอาณานิคมหรือนักโทษของคุณ:</LetterRelatedPawnsTradingWithFactionBase>
+  <LetterRelatedPawnsTradingWithOtherCaravan>คาราวานขายคนที่มีความสัมพันธ์กับอาณานิคมหรือนักโทษของคุณ:</LetterRelatedPawnsTradingWithOtherCaravan>
+    
+  <RelationshipAppendedLetterSuffix>(ครอบครัว)</RelationshipAppendedLetterSuffix>
+  <RelationshipAppendedLetterTextColonist>NAME เป็นสมาชิกครอบครัวของชาวอาณานิคม HECAP เป็น {1} ของ {0}</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>NAME เป็นสมาชิกครอบครัวของหนึ่งในนักโทษของคุณ HECAP เป็น {1} ของ {0}</RelationshipAppendedLetterTextPrisoner>
   
   <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>เป็นชู้</LetterLabelAffair>
@@ -75,15 +85,16 @@
   <LetterLabelNewLovers>คู่รักใหม่</LetterLabelNewLovers>
   <LetterNewLovers>{0} และ {1} มีความคิดเหมือนๆกันและตอนนี้คบกันอยู่</LetterNewLovers>
   <LetterNoLongerLovers>{0} และ {1} ไม่ได้คบกันแล้ว</LetterNoLongerLovers>
+  <LetterLabelBreakup>โดนบอกเลิก</LetterLabelBreakup>
   <LetterLabelAcceptedProposal>ดำเนินการแต่งงาน!</LetterLabelAcceptedProposal>
   <LetterLabelRejectedProposal>ปฏิเสธการขอแต่งงาน</LetterLabelRejectedProposal>
   <LetterAcceptedProposal>{1} รับคำขอแต่งงานของ {0}\n\nณ จุดๆนึงในวันหรือฤดูข้างหน้า, พวกเขาจะจัดพิธีแต่งงานและเชิญชาวอาณานิคมทั้งหมดมา พิจารณาการวางจุดแต่งงานถ้าต้องการควบคุมตำแหน่งการจัดพิธี</LetterAcceptedProposal>
   <LetterRejectedProposal>{1} ปฏิเสธคำขอแต่งงานของ {0}, {0} คงไม่มีความสุขกับเรื่องนี้แน่</LetterRejectedProposal>
   
   <!-- Generalized letter labels -->
-  <LetterLabelRelationsChangeGood>Good will</LetterLabelRelationsChangeGood>
-  <LetterLabelRelationsChangeBad>Bad will</LetterLabelRelationsChangeBad>
-  <LetterLabelShortCircuit>ซ.ซ.ซ.ซ...</LetterLabelShortCircuit>
+  <LetterLabelRelationsChangeGood>ความคิดเห็นที่ดี</LetterLabelRelationsChangeGood>
+  <LetterLabelRelationsChangeBad>ความคิดเห็นที่ไม่ดี</LetterLabelRelationsChangeBad>
+  <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
   <LetterLabelMentalBreakdown>สติแตก</LetterLabelMentalBreakdown>
   
   <!-- Bonded animals -->
@@ -95,10 +106,52 @@
 
   <!-- Prison break -->
   <LetterLabelPrisonBreak>นักโทษแหกคุก</LetterLabelPrisonBreak>
-  <LetterPrisonBreak>Prisoners have staged a breakout! They've somehow defeated the door lock and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are unhappy, numerous, and healthy.</LetterPrisonBreak>
+  <LetterPrisonBreak>นักโทษได้แสดงการแหกคุก! พวกเขาได้ทำลายกุญแจล็อคประตูและกำลังออกทางออก พวกเขาอาจจะหาอาวุธสู้หรือพยายามหลบหนี นักโทษเหล่านี้มีส่วนเกี่ยวข้อง: \ n \ n {0} \ n \ n ผู้คุมขังมีแนวโน้มที่จะพยายามฝ่าฝืนเมื่อพวกเขาไม่มีความสุขมีจำนวนมากและมีสุขภาพดี</LetterPrisonBreak>
   
   <!-- Party -->
   <LetterLabelNewParty>สังสรรค์</LetterLabelNewParty>
   <LetterNewParty>{0} ได้จัดงานสังสรรค์ขึ้น! ทุกคนที่ไปจะได้รับพลังแห่งความสุขและสังคม, และเพิ่มอารมณ์เชิงบวกให้ยาวนาน</LetterNewParty>
+  
+  <!-- Newly addicted -->
+  <LetterLabelNewlyAddicted>{0} ติดยาเสพติด</LetterLabelNewlyAddicted>
+  <LetterNewlyAddicted>{0} ได้ติดยาเสพติด {1}.\n\nHECAP ตอนนี้มีความต้องการ {1}, HIS ปรากฏในแท็บความต้องการ. HECAP จะใช้ยาเพื่อตอบสนองความต้องการของเขาโดยอัตโนมัติ ถ้า HE ไม่สามารถรับใด ๆ {1}, HE จะถอนตัวออกไป</LetterNewlyAddicted>
+  
+  <!-- Drug binge -->
+  <LetterLabelDrugBinge>{0} ดื่มสุรา</LetterLabelDrugBinge>
+  <LetterDrugBinge>{0} is binging on {1}.</LetterDrugBinge>
+  
+  <!-- Formed caravan -->
+  <LetterLabelFormedCaravan>คาราวานพร้อม</LetterLabelFormedCaravan>
+  <LetterFormedCaravan>กองคาราวานของคุณได้ออกจากพื้นที่และรอคำสั่งบนแผนที่โลก</LetterFormedCaravan>
+  
+  <!-- Caravan destroyed -->
+  <LetterLabelAllCaravanColonistsDied>คาราวานเสียชีวิต</LetterLabelAllCaravanColonistsDied>
+  <LetterAllCaravanColonistsDied>สมาชิกในกองคาราวานของคุณเสียชีวิตแล้ว</LetterAllCaravanColonistsDied>
+  
+  <!-- Caravan entered ambush map -->
+  <LetterLabelCaravanEnteredAmbushMap>คาราวานมาถึงที่ซุ่มโจมตี</LetterLabelCaravanEnteredAmbushMap>
+  <LetterCaravanEnteredAmbushMap>{0} ได้มาถึงสถานที่ซุ่มโจมตี</LetterCaravanEnteredAmbushMap>
+  
+  <!-- Caravan entered enemy base -->
+  <LetterLabelCaravanEnteredEnemyBase>การโจมตีเริ่มขึ้น</LetterLabelCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBase>{0} มาถึงแล้ว {1} และพร้อมที่จะเริ่มการโจมตี</LetterCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBaseBecameHostile>{0} มาถึงแล้ว {1} และพร้อมที่จะเริ่มการโจมตี\n\nเนื่องจากวิธีการที่เป็นมิตรของคุณ, {2} ตอนนี้เป็นศัตรูกับคุณ</LetterCaravanEnteredEnemyBaseBecameHostile>
+  
+  <!-- Faction base defeated -->
+  <LetterLabelFactionBaseDefeated>ฐานถูกทำลาย</LetterLabelFactionBaseDefeated>
+  <LetterFactionBaseDefeated>ด่านของศัตรู {0} ถูกทำลาย\n\nคุณมี {1} ชั่วโมงในการรวบรวมสินค้าก่อนที่อาณานิคมของคุณจะปฏิรูปกองคาราวาน</LetterFactionBaseDefeated>
+  <LetterFactionBaseDefeated_FactionDestroyed>นี่เป็นฐานสุดท้ายของ {0}, ซึ่งหมายความว่าฝ่ายนี้ไม่มีอีกต่อไป</LetterFactionBaseDefeated_FactionDestroyed>
+  
+  <!-- Pawns lost due to map countdown -->
+  <LetterLabelPawnsLostDueToMapCountdown>ถูกทิ้งไว้</LetterLabelPawnsLostDueToMapCountdown>
+  <LetterPawnsLostDueToMapCountdown>สัตว์บางตัวหรือนักโทษของคุณถูกทิ้งไว้ในถิ่นทุรกันดาร:\n\n{0}</LetterPawnsLostDueToMapCountdown>
 
+  <!-- Quest completed -->
+  <LetterLabelDefeatAllEnemiesQuestCompleted>ภารกิจเสร็จสิ้น</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <LetterDefeatAllEnemiesQuestCompleted>ศัตรูของคุณได้รับการพ่ายแพ้!\n\nการชำระเงินจาก {0}มาถึงแล้ว, และความสัมพันธ์ของกลุ่มได้ดีขึ้นโดย {1}.</LetterDefeatAllEnemiesQuestCompleted>
+
+  <!-- Found lump of precious resources -->
+  <LetterLabelFoundPreciousLump>พบแร่ธาตุที่มีค่า</LetterLabelFoundPreciousLump>
+  <LetterFoundPreciousLump>เครื่องสแกนแร่ในระยะยาวของคุณได้พบก้อนแร่ธาตุที่ใกล้เคียง\n\nเราไม่รู้ว่าใครหรือจะทำอะไร - ถ้ามีอะไร - อาจกำลังเฝ้าระวังอยู่</LetterFoundPreciousLump>
+  
 </LanguageData>

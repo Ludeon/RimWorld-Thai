@@ -1,23 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-
-  
-	<CallOnRadio>เรียก {0}</CallOnRadio>
+	<CallOnRadio>โทร {0}</CallOnRadio>
   <CannotUseReason>ไม่สามารถใช้ได้ ({0})</CannotUseReason>
-	<CannotUseSolarFlare>ไม่สามารถใช้ได้ (solar flare)</CannotUseSolarFlare>
+	<CannotUseSolarFlare>ไม่สามารถใช้ได้ (เปลวไฟพลังงานแสงอาทิตย์)</CannotUseSolarFlare>
 	<CannotUseNoPower>ไม่สามารถใช้ได้ (ไม่มีพลังงาน)</CannotUseNoPower>
 	<CannotUseNoPath>ไม่สามารถใช้ได้ (ไม่มีเส้นทาง)</CannotUseNoPath>
   <CannotUseReserved>ไม่สามารถใช้ได้ (จองแล้ว)</CannotUseReserved>
   <CannotUseFull>ไม่สามารถใช้ได้ (เต็มแล้ว)</CannotUseFull>
+  	<LeaderUnavailable>ผู้นำ {0} ไม่พร้อมใช้งาน</LeaderUnavailable>
+	<LeaderUnavailableNoLeader>ผู้นำไม่พร้อมใช้งาน</LeaderUnavailableNoLeader>
   
   <FireAt>ยิงไปที่ {0}</FireAt>
 
   <OutOfRange>เกินระยะ</OutOfRange>
   <CannotHitTarget>ไม่สามารถยิงเป้าหมายได้</CannotHitTarget>
-  <IsIncapableOfViolenceLower>{0} is incapable of violence</IsIncapableOfViolenceLower>
+  <IsIncapableOfViolenceLower>{0} ไม่มีความสามารถในการใช้ความรุนแรง</IsIncapableOfViolenceLower>
+  <IncapableOfViolenceLower>ไม่สามารถใช้ความรุนแรงได้</IncapableOfViolenceLower>
   <IsNotDraftedLower>ไม่สามารถเกณฑ์ {0} ได้</IsNotDraftedLower>
-  <CannotOrderNonControlledLower>cannot order non-controlled units</CannotOrderNonControlledLower>
+  <CannotOrderNonControlledLower>ไม่สามารถสั่งหน่วยที่ไม่ได้ควบคุม</CannotOrderNonControlledLower>
 
   <OrderManThing>{0} คน</OrderManThing>
   
@@ -26,24 +27,28 @@
   <NoPath>ไม่มีเส้นทาง</NoPath>
 
 	<ForbiddenLower>หวงห้าม</ForbiddenLower>
-	<SociallyImproperLower>socially improper</SociallyImproperLower>
-  <PrisonerRoomLower>ห้องนักโทษ</PrisonerRoomLower>
+	<ForbiddenOutsideAllowedAreaLower>พื้นที่ได้รับอนุญาตให้ออกไปข้างนอก</ForbiddenOutsideAllowedAreaLower>
+    <NotInHomeArea>ไม่ได้อยู่ในพื้นที่บ้าน</NotInHomeArea>
 	<BurningLower>กำลังไหม้</BurningLower>
-	<NoEmptyPlaceLower>no empty place configured to store it</NoEmptyPlaceLower>
-	<AlreadyFilledLower>already filled enough</AlreadyFilledLower>
-	<MissingMaterials>need materials</MissingMaterials>
-  <MissingSkill>ทักษะต่ำเกินไป</MissingSkill>
-	<NoEmptyGraveLower>no empty grave configured to store it</NoEmptyGraveLower>
-  <AnimalInteractedTooRecently>animal interacted too recently</AnimalInteractedTooRecently>
-  <NoUsableFood>no usable food</NoUsableFood>
-  <AnimalsSkillTooLow>Animals skill too low</AnimalsSkillTooLow>
+	<NoEmptyPlaceLower>ไม่มีสถานที่ว่างที่กำหนดค่าไว้</NoEmptyPlaceLower>
+	<AlreadyFilledLower>เต็มไปหมดแล้ว</AlreadyFilledLower>
+	<MissingMaterials>ไม่มี materials</MissingMaterials>
+    <MissingSkill>ทักษะต่ำเกินไป</MissingSkill>
+	<NoEmptyGraveLower>ไม่มีหลุมฝังศพที่ว่างเปล่าที่กำหนดค่าให้เก็บไว้</NoEmptyGraveLower>
+    <AnimalInteractedTooRecently>เมื่อเร็ว ๆ นี้ความสัมพันธ์ของสัตว์มากเกินไป</AnimalInteractedTooRecently>
+    <NoUsableFood>ไม่มีอาหารที่ใช้งานได้</NoUsableFood>
+    <NoFood>ไม่มีอาหาร</NoFood>
+    <AnimalsSkillTooLow>สัตว์ทักษะต่ำเกินไป</AnimalsSkillTooLow>
 	<NoComponentsToRepair>ต้องการชิ้นส่วนประกอบ</NoComponentsToRepair>
 	<NoFuelToRefuel>ต้องการ {0}</NoFuelToRefuel>
-
+  <NoWort>ไม่มี น้ำหมักเบียร์</NoWort>
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>อาหารที่มีอยู่ในที่จัดเก็บมีลำดับความสำคัญสูงกว่า</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <NoFoodToFillHopper>ไม่มีอาหารที่เหมาะสม</NoFoodToFillHopper>
+  <SelfTendDisabled>มีแนวโน้มที่จะพิการ</SelfTendDisabled>
+  <ReservedForPrisoners>สงวนไว้สำหรับนักโทษ</ReservedForPrisoners>
+	
   <ConsumeThing>บริโภค {0}</ConsumeThing>
-  <Teetotaler>teetotaler</Teetotaler>
-  
-  
+   
   <CannotGoNoPath>ไม่สามารถไปที่นี่ได้ (ไม่มีเส้นทาง)</CannotGoNoPath>
   <GoHere>ไปที่นี่</GoHere>
   
@@ -57,7 +62,7 @@
   <Rescue>ช่วยเหลือ {0}</Rescue>
   <CannotRescue>ไม่สามารถช่วยเหลือได้</CannotRescue>
 
-  <CarryToCryptosleepCasket>Carry {0} to cryptosleep casket</CarryToCryptosleepCasket>
+  <CarryToCryptosleepCasket>พกพา {0} to cryptosleep casket</CarryToCryptosleepCasket>
   <CannotCarryToCryptosleepCasket>Cannot carry to cryptosleep casket</CannotCarryToCryptosleepCasket>
 
   <NoCryptosleepCasket>No available cryptosleep casket.</NoCryptosleepCasket>
@@ -67,23 +72,40 @@
   <Reserved>จองโดยคนอื่นไว้แล้ว</Reserved>
   <ReservedBy>จองโดย {0}</ReservedBy>
   <IsReservedBy>{0} นั้นจองไว้โดย {1}.</IsReservedBy>
-
+  <TooHeavy>หนักเกินไป</TooHeavy>
+  
   <Incapable>ไม่สามารถ</Incapable>
   <IncapableOfCapacity>ไม่สามารถที่จะ {0}</IncapableOfCapacity>
 
+  <MinSkill>ไม่มี Skill</MinSkill>  
+  
   <Equip>สวม {0}</Equip>
   <EquipWarningBrawler>(นักเลงจะไม่มีความสุขแน่)</EquipWarningBrawler>
   <CannotEquip>ไม่สามารถสวม {0} ได้</CannotEquip>
   
   <ForceWear>บังคับให้ใส่ {0}</ForceWear>
   <CannotWear>ไม่สามารถใส่ {0} ได้</CannotWear>
-  <CannotWearBecauseOfMissingBodyParts>missing body parts</CannotWearBecauseOfMissingBodyParts>
+  <CannotWearBecauseOfMissingBodyParts>ชิ้นส่วนร่างกายหาย</CannotWearBecauseOfMissingBodyParts>
+  
+  <CannotPickUp>ไม่สามารถหยิบ {0}</CannotPickUp>
+  <CannotPickUpAll>ไม่สามารถหยิบ {0} (ทั้งหมด)</CannotPickUpAll>
+  <PickUp>หยิบ {0}</PickUp>
+  <PickUpAll>หยิบ {0} (ทั้งหมด)</PickUpAll>
+  <PickUpSome>หยิบ {0}...</PickUpSome>
+  <PickUpCount>หยิบ {0} x{{0}}</PickUpCount>
+  
+  <CannotGiveToPackAnimal>ไม่สามารถให้ {0} สัตว์แพ็คของ</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimalAll>ไม่สามารถให้ {0} สัตว์แพ็คของ (ทั้งหมด)</CannotGiveToPackAnimalAll>
+  <GiveToPackAnimal>ให้ {0} สัตว์แพ็คของ</GiveToPackAnimal>
+  <GiveToPackAnimalAll>ให้ {0} สัตว์แพ็คของ (ทั้งหมด)</GiveToPackAnimalAll>
+  <GiveToPackAnimalSome>ให้ {0} สัตว์แพ็คของ...</GiveToPackAnimalSome>
+  <GiveToPackAnimalCount>เอา {0} x{{0}}</GiveToPackAnimalCount>
+  
+  <CannotCarryToExit>ไม่สามารถพกพา {0} และออกจากพื้นที่</CannotCarryToExit>
+  <CarryToExit>พกพา {0} และออกจากพื้นที่</CarryToExit>
   
   <Strip>จับ {0} แก้ผ้า</Strip>
   <CannotStrip>ไม่สามารถแก้ผ้า {0} ได้</CannotStrip>
-
-  <Deposit>ฝาก {0} ไว้ใน {1}</Deposit>
-  <CannotDeposit>ไม่สามารถฝาก {0} ไว้ใน {1}</CannotDeposit>
 
   <SelfDestructHere>ทำลายตัวเองที่นี่</SelfDestructHere>
   
@@ -91,16 +113,20 @@
 
   <UseMedicalBed>พักจนกว่าจะหาย</UseMedicalBed>
   <NotInjured>ไม่ได้บาดเจ็บ</NotInjured>
-  <SomeoneElseSleeping>Occupied</SomeoneElseSleeping>
+  <SomeoneElseSleeping>ที่ถูกครอบครอง</SomeoneElseSleeping>
   
   <TradeWith>แลกเปลี่ยนกับ {0}</TradeWith>
   <CannotTrade>ไม่สามารถแลกเปลี่ยนได้</CannotTrade>
 
+  <EnterMap>เข้าสู่ {0}</EnterMap>
+  <VisitSettlement>เยือน {0}</VisitSettlement>
+  <VisitSite>เยือน {0}</VisitSite>
+  <AttackFactionBase>โจมตี {0}</AttackFactionBase>
+  <AttackSettlement>โจมตี {0}</AttackSettlement>
+  
   <!-- Specific thing interactions -->
-  <EnterCryptosleepCasket>Enter cryptosleep casket</EnterCryptosleepCasket>
-  <OpenCryptosleepCasket>Open cryptosleep casket</OpenCryptosleepCasket>
-
-
+  <EnterCryptosleepCasket>เข้าสู่ เครื่องนอนแช่แข็ง</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>เปิด เครื่องนอนแช่แข็ง</OpenCryptosleepCasket>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
   <CannotGenericWork>ไม่สามารถ {0} {1} ได้</CannotGenericWork>
@@ -110,14 +136,27 @@
 
   <CannotGenericAlreadyAm>{0} {1} อยู่แล้ว</CannotGenericAlreadyAm>
 
-  <CannotPrioritizeIsNotA>ไม่สามารถจัดความสำคัญได้({0} ไม่ใช่ {1})</CannotPrioritizeIsNotA>
+  <CannotPrioritizeWorkTypeDisabled>ไม่สามารถจัดความสำคัญได้ (จะไม่ทำ {0})</CannotPrioritizeWorkTypeDisabled>
+
+	<CannotPrioritizeWorkGiverDisabled>ไม่สามารถจัดลำดับความสำคัญได้ (ไม่ได้กำหนดให้ {0})</CannotPrioritizeWorkGiverDisabled>
+
+	<CannotPrioritizeNotAssignedToWorkType>ไม่สามารถจัดความสำคัญได้ (ไม่ได้กำหนดให้ {0})</CannotPrioritizeNotAssignedToWorkType>
 
   <CannotPrioritizeResearch>ไม่สามารถจัดความสำคัญได้(การวิจัยเป็นงานระยะยาว)</CannotPrioritizeResearch>
 
-  <CannotPrioritizeForbidden>ไม่สามารถจัดความสำคัญได้({0}  นั้นถูกหวงห้าม)</CannotPrioritizeForbidden>
-  
+  <CannotPrioritizeForbidden>ไม่สามารถจัดความสำคัญได้ ({0}  นั้นถูกหวงห้าม)</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>ไม่สามารถจัดความสำคัญได้ ({0} ที่ได้รับอนุญาตนอกพื้นที่)</CannotPrioritizeForbiddenOutsideAllowedArea>
   
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
   <PrioritizeGeneric>จัดความสำคัญให้ {0} {1}</PrioritizeGeneric>
+  
+  <DropAtEdge>ลงที่ขอบ</DropAtEdge>
+  <DropInCenter>ลงใจกลาง</DropInCenter>
+
+  <VomitingLower>อาเจียน</VomitingLower>
+  <NotInterruptibleLower>ไม่ขัดจังหวะ</NotInterruptibleLower>
+  
+  <AddWaypoint>เพิ่มจุดใหม่ที่นี่</AddWaypoint>
+  <RemoveWaypoint>ลบจุดบอกทางนี้</RemoveWaypoint>
   
 </LanguageData>

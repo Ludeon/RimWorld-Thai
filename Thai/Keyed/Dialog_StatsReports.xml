@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-
   <StatsReport_BaseValue>ค่าพื้นฐาน</StatsReport_BaseValue>
   <StatsReport_RelevantTraits>คุณสมบัติที่เกี่ยวข้อง</StatsReport_RelevantTraits>
   <StatsReport_RelevantGear>อุปกรณ์ที่เกี่ยวข้อง</StatsReport_RelevantGear>
+  <StatsReport_RelevantHediffs>สภาวะสุขภาพที่เกี่ยวข้อง</StatsReport_RelevantHediffs>
   <StatsReport_LifeStage>ช่วงชีวิต</StatsReport_LifeStage>
   <StatsReport_Material>วัสดุ</StatsReport_Material>
   <StatsReport_CharacterQuality>คุณภาพของตัวละคร</StatsReport_CharacterQuality>
@@ -12,7 +12,8 @@
   <StatsReport_OtherStats>ปัจจัยทางสถิติอื่นๆ</StatsReport_OtherStats>
   <StatsReport_HealthFactors>ปัจจัยทางสุขภาพ</StatsReport_HealthFactors>
   <HealthFactorPercentImpact>{0} สำคัญ</HealthFactorPercentImpact>
-  <StatsReport_PostProcessed>Post-processed curved</StatsReport_PostProcessed>
+  	<HealthFactorMaxImpact>{0} เต็ม</HealthFactorMaxImpact>
+    <StatsReport_PostProcessed>Post-processed curved</StatsReport_PostProcessed>
   <StatsReport_FinalValue>ค่าสุดท้าย</StatsReport_FinalValue>
   <StatsReport_MarketValueFromStuffsAndWork>ค่าทางการตลาดนั้นถูกคำนวนจากวัสดุของสิ่งก่อสร้างและปริมาณงาน</StatsReport_MarketValueFromStuffsAndWork>
   <StatsReport_QualityMultiplier>ตัวคูณคุณภาพ</StatsReport_QualityMultiplier>
@@ -30,7 +31,10 @@
   <StatsReport_CooldownFormat>{0} วิ</StatsReport_CooldownFormat>
   <StatsReport_LifeExpectancy>ความคาดหมายในชีวิต</StatsReport_LifeExpectancy>
   <StatsReport_MissingBodyParts>ตัวคูณสำหรับอวัยวะที่หายไป</StatsReport_MissingBodyParts>
-  <AverageOfAllAttacks>ค่าเฉลี่ยของการโจมตีทั้งหมด</AverageOfAllAttacks>
-  <StatsReport_UnpoweredWorkTable>ไม่มีพลังงาน</StatsReport_UnpoweredWorkTable>
-  
+  <StatsReport_GearAndInventoryMass>คลังและมวลสินค้าคงคลัง</StatsReport_GearAndInventoryMass>
+	<StatsReport_WornByCorpse>ตัวคูณสำหรับสวมใส่โดยศพ</StatsReport_WornByCorpse>
+	<AverageOfAllAttacks>ค่าเฉลี่ยของการโจมตีทั้งหมด</AverageOfAllAttacks>
+    <StatsReport_ScenarioFactor>สถานการณ์</StatsReport_ScenarioFactor>
+  <StatsReport_IngredientsMass>ส่วนผสม</StatsReport_IngredientsMass>
+ 
 </LanguageData>

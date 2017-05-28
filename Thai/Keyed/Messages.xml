@@ -1,125 +1,229 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
- 
-  <MessageSiegersAssaulting>Sieging {0} from {1} are assaulting the colony.</MessageSiegersAssaulting>
+  <MessageSiegersAssaulting>การล้อม {0} จาก {1} กำลังทำร้ายอาณานิคม</MessageSiegersAssaulting>
 
-  <MessageRaidersBeginningAssault>{0} from {1} are beginning their assault.</MessageRaidersBeginningAssault>
-  <MessageRaidersDetectedEarlyAssault>{0} from {1} have detected you and begun their assault early.</MessageRaidersDetectedEarlyAssault>
-  <MessageRaidersKidnapping>{0} from {1} have decided to kidnap who they can and leave.</MessageRaidersKidnapping>
+  <MessageRaidersBeginningAssault>{0} จาก {1} กำลังเริ่มทำร้ายร่างกาย</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} จาก {1} ตรวจพบคุณและเริ่มทำการโจมตีในช่วงต้น</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{0} จาก {1} ได้ตัดสินใจที่จะลักพาตัวผู้ที่สามารถทำได้และออกเดินทาง</MessageRaidersKidnapping>
+  <MessageRaidersStealing>{0} จาก {1} ได้ตัดสินใจที่จะขโมยสิ่งที่พวกเขาสามารถทำได้และออกไป</MessageRaidersStealing>
 
-  <MessageRaidersLeaving>{0} from {1} are leaving.</MessageRaidersLeaving>
-	<MessageRaidersGivenUpLeaving>{0} from {1} have given up and are leaving.</MessageRaidersGivenUpLeaving>
-  <MessageRaidersSatisfiedLeaving>{0} from {1} are satisfied with the damage done and are leaving.</MessageRaidersSatisfiedLeaving>
+  <MessageRaidersLeaving>{0} จาก {1} กำลังจะออกเดินทาง</MessageRaidersLeaving>
+	<MessageRaidersGivenUpLeaving>{0} จาก {1} ลุกขึ้นและออกไป</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} จาก {1} พอใจกับความเสียหายที่เกิดขึ้นและกำลังจะออก</MessageRaidersSatisfiedLeaving>
 
-  <MessageFightersFleeing>{0} from {1} are fleeing.</MessageFightersFleeing>
-  <MessageFriendlyFightersLeaving>Friendly {0} from {1} are leaving.</MessageFriendlyFightersLeaving>
+  <MessageFightersFleeing>{0} จาก {1} กำลังหลบหนี</MessageFightersFleeing>
+  <MessageFriendlyFightersLeaving>เป็นมิตร {0} จาก {1} กำลังจะออกเดินทาง</MessageFriendlyFightersLeaving>
 
-  <MessageVisitorsTakingWounded>{0} from {1} are taking a wounded guest.</MessageVisitorsTakingWounded>
+  <MessageVisitorsTakingWounded>{0} จาก {1} กำลังรับผู้บาดเจ็บ</MessageVisitorsTakingWounded>
+  <MessageVisitorsTrappedLeaving>{0} จาก {1} ถูกขังอยู่และกำลังขุดออกเพื่อหนี</MessageVisitorsTrappedLeaving>
+  <MessageVisitorsDangerousTemperature>{0} จาก {1} กำลังออกจากแผนที่เนื่องจากอุณหภูมิที่เป็นอันตราย</MessageVisitorsDangerousTemperature>
   
-  <MessageWornApparelDeterioratedAway>{0} worn by {1} deteriorated away to nothing.</MessageWornApparelDeterioratedAway>
+  <MessageWornApparelDeterioratedAway>{0} สวมใส่โดย {1} เสื่อมลงไปไม่มีอะไร</MessageWornApparelDeterioratedAway>
   
-  <MessageSeasonBegun>{0} has begun.</MessageSeasonBegun>
+  <MessageSeasonBegun>{0} ได้เริ่มขึ้นแล้ว</MessageSeasonBegun>
 
-  <MessageShipHasLeftCommsRange>{0} has left comms range.</MessageShipHasLeftCommsRange>
+  <MessageShipHasLeftCommsRange>{0} มีช่วง comms อยู่</MessageShipHasLeftCommsRange>
 	
-	<MessageNeedBeaconToTradeWithShip>You need an orbital trade beacon to trade with a ship.\n\nThe beacon needs to be powered.</MessageNeedBeaconToTradeWithShip>
+	<MessageNeedBeaconToTradeWithShip>คุณจำเป็นต้องใช้สัญลักษณ์การค้าการโคจรเพื่อการค้ากับยาน\n\nสัญญาณบีคอนต้องมีการขับเคลื่อน</MessageNeedBeaconToTradeWithShip>
 	
-  <MessageBillComplete>Bill complete: {0}.</MessageBillComplete>
+  <MessageBillComplete>บิลเรียบร้อยแล้ว: {0}.</MessageBillComplete>
   
-  <MessageFullyHealed>{0} is fully healed.</MessageFullyHealed>
+  <MessageFullyHealed>{0} จะหายสนิท</MessageFullyHealed>
 
-  <MessagePrisonerIsEscaping>Prisoner {0} is escaping.</MessagePrisonerIsEscaping>
+  <MessagePrisonerIsEscaping>นักโทษ {0} กำลังหนี</MessagePrisonerIsEscaping>
 
-  <MessageOutOfNearbyShellsFor>{0} found no nearby unreserved shells for {1}.</MessageOutOfNearbyShellsFor>
+  <MessageOutOfNearbyShellsFor>{0} ไม่พบเปลือกหอยที่ไม่มีการเก็บรักษาไว้ใกล้ ๆ {1}.</MessageOutOfNearbyShellsFor>
 
-  <MessageAnimalsGoPsychoHunted>Warning: {0}s will often attack when harmed.</MessageAnimalsGoPsychoHunted>
-  <MessageAnimalManhuntsOnTameFailed>Warning: {0}s may attack upon a failed taming attempt ({1} chance).</MessageAnimalManhuntsOnTameFailed>
+  <MessageAnimalsGoPsychoHunted>การเตือน: {0} มักโจมตีเมื่อถูกทำร้าย</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalManhuntsOnTameFailed>การเตือน: {0} อาจโจมตีเมื่อพยายามลวง ( โอกาส {1} ).</MessageAnimalManhuntsOnTameFailed>
   
-  <LetterLabelMessageRecruitSuccess>New recruit</LetterLabelMessageRecruitSuccess>
-  <MessageRecruitSuccess>{0} successfully recruited {1} ({2} chance).</MessageRecruitSuccess>
-	<MessageRecruitFail>{0} failed to recruit {1} ({2} chance).</MessageRecruitFail>
-	<MessageRecruitFailBecauseMood>{0} failed to recruit {1} (prisoner below {2} mood).</MessageRecruitFailBecauseMood>
-  <MessageTameSuccess>{0} successfully tamed {1} ({2} chance).</MessageTameSuccess>
-  <MessageTameAndNameSuccess>{0} successfully tamed {1} ({2} chance) and named it {3}.</MessageTameAndNameSuccess>
+  <LetterLabelMessageRecruitSuccess>รับสมัครใหม่</LetterLabelMessageRecruitSuccess>
+  <MessageRecruitSuccess>{0} คัดเลือกเรียบร้อยแล้ว {1} (โอกาส {2} ).</MessageRecruitSuccess>
+  <MessageTameSuccess>{0} ประสบความสำเร็จในการฝึก {1} (โอกาส {2}).</MessageTameSuccess>
+  <MessageTameAndNameSuccess>{0} ประสบความสำเร็จในการฝึก {1} (โอกาส {2}) และตั้งชื่อ HIM {3}.</MessageTameAndNameSuccess>
 
+  <MessageColonyCannotAfford>อาณานิคมไม่สามารถจัดการเรื่องนี้ได้</MessageColonyCannotAfford>
+  <MessageColonyNotEnoughSilver>คุณไม่มีเงินเพียงพอที่จะทำธุรกิจได้</MessageColonyNotEnoughSilver>
 
-  <MessageColonyCannotAfford>The colony cannot afford this deal.</MessageColonyCannotAfford>
-  <MessageColonyNotEnoughSilver>You do not have enough silver ready to trade.</MessageColonyNotEnoughSilver>
+  <MessageCriticalAlert>การแจ้งเตือนที่สำคัญ: {0}</MessageCriticalAlert>
 
-  <MessageCriticalAlert>Critical alert: {0}</MessageCriticalAlert>
+  <MessageMustDesignateHarvestable>ต้องระบุพืชที่สามารถเก็บเกี่ยวได้เพียงพอ</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestableWood>ต้องระบุไม้ที่ให้ผลผลิตพืชที่โตเต็มที่</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignatePlants>ต้องระบุพืช</MessageMustDesignatePlants>
+  <MessageMustDesignateHaulable>ต้องกำหนดรายการที่สามารถยึดได้ บางรายการมีการลากจูงเสมอและไม่สามารถกำหนดได้</MessageMustDesignateHaulable>
+  <MessageMustDesignateMineable>ต้องระบุหินที่สามารถเคลื่อนย้ายได้ไม่สามารถถอดออกได้</MessageMustDesignateMineable>
+  <MessageMustDesignateHuntable>ต้องระบุสัตว์ล่าสัตว์</MessageMustDesignateHuntable>
+  <MessageMustDesignateTameable>ต้องระบุสัตว์ที่สามารถเชื่อฟังได้</MessageMustDesignateTameable>
+  <MessageMustDesignateClaimable>ต้องระบุโครงสร้างเทียมที่ถูกทอดทิ้ง</MessageMustDesignateClaimable>
+  <MessageMustDesignateSmoothableFloor>ต้องระบุพื้นผิวหินขรุขระ</MessageMustDesignateSmoothableFloor>
+  <MessageNothingCanRemoveThickRoofs>ไม่มีอะไรสามารถลบหลังคาหนา</MessageNothingCanRemoveThickRoofs>
+  <MessageAlreadyInStorage>ข้อมูลนี้มีอยู่ในที่จัดเก็บแล้วและจะถูกย้ายไปยังพื้นที่เก็บข้อมูลที่มีความสำคัญสูงตามที่จำเป็น</MessageAlreadyInStorage>
+  <MessageMustDesignateStrippable>ต้องระบุศพหรือตัวละครที่กระดุกกระด้างด้วยเครื่องแต่งกายที่สามารถถอดออกได้</MessageMustDesignateStrippable>
+  <MessageMustDesignateSlaughterable>ต้องระบุสัตว์ที่เชื่องอยู่ในอาณานิคม</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateOpenable>ต้องระบุหลุมศพเต็มรูปแบบหรือภาชนะบรรจุ</MessageMustDesignateOpenable>
 
-  <MessageMustDesignateHarvestable>Must designate harvestable sufficiently-grown plants.</MessageMustDesignateHarvestable>
-  <MessageMustDesignateHarvestableWood>Must designate wood-yielding, sufficiently-grown plants.</MessageMustDesignateHarvestableWood>
-  <MessageMustDesignatePlants>Must designate plants.</MessageMustDesignatePlants>
-  <MessageMustDesignateHaulable>Must designate haulable items.</MessageMustDesignateHaulable>
-  <MessageMustDesignateMineable>Must designate impassable mineable rocks.</MessageMustDesignateMineable>
-  <MessageMustDesignateHuntable>Must designate huntable animals.</MessageMustDesignateHuntable>
-  <MessageMustDesignateTameable>Must designate tameable animals.</MessageMustDesignateTameable>
-  <MessageMustDesignateClaimable>Must designate abandoned artificial structures.</MessageMustDesignateClaimable>
-  <MessageMustDesignateSmoothableFloor>Must designate rough stone terrain.</MessageMustDesignateSmoothableFloor>
-  <MessageNothingCanRemoveThickRoofs>Nothing can remove thick roofs.</MessageNothingCanRemoveThickRoofs>
-  <MessageAlreadyInStorage>This is already in storage and will be moved to high-priority storage as necessary.</MessageAlreadyInStorage>
-  <MessageMustDesignateStrippable>Must designate corpse or downed character with strippable apparel.</MessageMustDesignateStrippable>
-  <MessageMustDesignateSlaughterable>Must designate tame animal that belongs to the colony.</MessageMustDesignateSlaughterable>
-  <MessageMustDesignateOpenable>Must designate full graves or containers.</MessageMustDesignateOpenable>
+  <MessageRefusedArrest>{0} ได้ปฏิเสธที่จะถูกจับกุม!</MessageRefusedArrest>
+  
+  <MessageNoMedicalBeds>ไม่มีเตียงเสริมสำหรับแพทย์</MessageNoMedicalBeds>
+  <MessageNoAnimalBeds>ไม่มีเตียงสัตว์เลี้ยงให้บริการ</MessageNoAnimalBeds>
+  <MessageTooLowMedCare>ต้องใช้งาน {0} หรือดีกว่า แต่ {1} โหมดการดูแลทางการแพทย์ปัจจุบันคือ "{2}".</MessageTooLowMedCare>
+  
+  <PawnDiedBecauseOf>{0} ตายเพราะ {1}.</PawnDiedBecauseOf>
 
-  <MessageRefusedArrest>{0} has refused to be arrested!</MessageRefusedArrest>
-  
-  <MessageNoMedicalBeds>There are no medical beds available.</MessageNoMedicalBeds>
-  <MessageNoAnimalBeds>There are no animal beds available.</MessageNoAnimalBeds>
-  
-  <PawnDiedBecauseOf>{0} has died because of {1}.</PawnDiedBecauseOf>
+  <MessageNoLongerDowned>{0} ไม่สามารถเดินได้อีกต่อไป</MessageNoLongerDowned>
 
-  <MessageNoLongerDowned>{0} is no longer incapable of walking.</MessageNoLongerDowned>
+  <MessageInvoluntarySleep>{0} ยุบลงเนื่องจากความเหนื่อยล้าอย่างมาก</MessageInvoluntarySleep>
 
-  <MessageInvoluntarySleep>{0} has collapsed due to extreme exhaustion.</MessageInvoluntarySleep>
+	<MessageMedicalOperationFailureMinor>{0} ล้มเหลวในทางเล็ก ๆ ขณะปฏิบัติการอยู่ {1}.</MessageMedicalOperationFailureMinor>
+	<MessageMedicalOperationFailureCatastrophic>{0} ล้มเหลวในขณะดำเนินการ {1}.</MessageMedicalOperationFailureCatastrophic>
+	<MessageMedicalOperationFailureRidiculous>{0} ล้มเหลวในทางไร้สาระขณะปฏิบัติการ {1}.</MessageMedicalOperationFailureRidiculous>
 
-  <MessageMedicalOperationFailureCatastrophic>{0} has failed catastrophically while operating on {1}.</MessageMedicalOperationFailureCatastrophic>
-  <MessageMedicalOperationFailureMinor>{0} has failed in a minor way while operating on {1}.</MessageMedicalOperationFailureMinor>
+	<MessageMedicalOperationWillAngerFaction>การดำเนินการนี้จะโกรธ {0}.</MessageMedicalOperationWillAngerFaction>
 
-  <MessageMedicalOperationWillAngerFaction>This operation will anger {0}.</MessageMedicalOperationWillAngerFaction>
+  <MessagePawnExitMapRelationsGain>เนื่องจาก {0} ออกจากแผนที่ความสัมพันธ์กับ {1} จึงดีขึ้นโดย {2}</MessagePawnExitMapRelationsGain>
 
-  <MessagePawnExitMapRelationsGain>Because {0} exited the map healthy, relations with {1} have improved by {2}.</MessagePawnExitMapRelationsGain>
+  <MessageMiscarriedStarvation>{0} ล้มเหลวเนื่องจากความอดอยาก</MessageMiscarriedStarvation>
+  <MessageMiscarriedPoorHealth>{0} ได้ล้มเหลวเนื่องจากสุขภาพไม่ดี</MessageMiscarriedPoorHealth>
+  <MessageGaveBirth>{0} ให้กำเนิด</MessageGaveBirth>
 
-  <MessageMiscarriedStarvation>{0} has miscarried due to starvation.</MessageMiscarriedStarvation>
-  <MessageMiscarriedPoorHealth>{0} has miscarried due to poor health.</MessageMiscarriedPoorHealth>
-  <MessageGaveBirth>{0} has given birth.</MessageGaveBirth>
+  <MessageNuzzledPawnGaveNameTo>{0} ได้ตั้งชื่อว่า {1} {2} ถูกสัตว์อ้อน</MessageNuzzledPawnGaveNameTo>
 
-  <MessageNuzzledPawnGaveNameTo>{0} has named {1} {2} after being nuzzled.</MessageNuzzledPawnGaveNameTo>
+  <MessageNoHandlerSkilledEnough>ไม่มีตัวจัดการสามารถควบคุมได้ {0} (ต้องการระดับ {1} ใน {2} ตัวจัดการที่ดีที่สุด {3} มี {4})</MessageNoHandlerSkilledEnough>
+  
+  <MessageEatenByPredator>{0} กินแล้วโดย {1}</MessageEatenByPredator>
+  <MessageAttackedByPredator>{0} กำลังถูกโจมตีโดย {1}!</MessageAttackedByPredator>
+  
+  <MessageHiveReproduced>กลุ่มข้อผิดพลาดได้ทำซ้ำเอง</MessageHiveReproduced>
+  
+  <MessageTraderCaravanLeaving>คาราวานการค้าจาก {0} กำลังจะออกเดินทาง</MessageTraderCaravanLeaving>
+  
+  <MessageCantSelectDeadPawn>{0} ตายแล้ว</MessageCantSelectDeadPawn>
+  <MessageCantSelectOffMapPawn>{0} ออกแผนที่</MessageCantSelectOffMapPawn>
+  
+  <MessageSocialFight>{0} เริ่มการต่อสู้ทางสังคมกับ {1} เหตุผล: {2}</MessageSocialFight>
+  
+  <MessageNewMarriageCeremony>ชาวอาณานิคมกำลังรวบรวมเพื่อเฉลิมฉลองการแต่งงาน {0} และ {1}</MessageNewMarriageCeremony>
+  <MessageMarriageCeremonyStarts>{0} และ {1} กำลังเริ่มพิธีแต่งงาน!</MessageMarriageCeremonyStarts>
+  <MessageMarriageCeremonyCalledOff>พิธีสมรส {0} และ {1} ถูกเรียกปิด</MessageMarriageCeremonyCalledOff>
+  <MessageNewlyMarried>{0} และ {1} แต่งงานแล้ว ชาวอาณานิคมกำลังฉลองโอกาสนี้</MessageNewlyMarried>
+  <MessageMarriageCeremonyAfterPartyFinished>พิธีสมรส {0} และ {1} เสร็จสิ้นแล้ว</MessageMarriageCeremonyAfterPartyFinished>
+  
+  <MessageNewBondRelation>{0} และ {1} ได้สร้างความผูกพัน</MessageNewBondRelation>
+  <MessageNewBondRelationNewName>{0} และ {1} ได้สร้างความผูกพัน {0} ได้ตั้งชื่อ HIM {2}.</MessageNewBondRelationNewName>
+  
+  <MessageBondedAnimalMentalBreak>{0} มีอาการผิดปกติทางจิตเพราะความตายของ {1}</MessageBondedAnimalMentalBreak>
+  <MessageNamedBondedAnimalMentalBreak>{0} ชื่อ {1} มีอาการผิดปกติทางจิตเพราะความตายของ {2}</MessageNamedBondedAnimalMentalBreak>
+  <MessageBondedAnimalsMentalBreak>{0} สัตว์มีอาการผิดปกติทางจิตเพราะความตายของ {1}</MessageBondedAnimalsMentalBreak>
+  
+  <MessageSuccessfullyRemovedHediff>{0} ได้ดำเนินการเรียบร้อยแล้ว {1} ของ {2}</MessageSuccessfullyRemovedHediff>
+  
+  <MessageShipChunkDrop>กลุ่มยานอวกาศหลุดจากอวกาศและเข้ามาใกล้ ๆ</MessageShipChunkDrop>
+  
+  <MessagePartyCalledOff>พรรคถูกเรียกออกไป</MessagePartyCalledOff>
+  <MessagePartyFinished>งานเลี้ยงเสร็จสิ้นแล้ว</MessagePartyFinished>
 
-  <MessageNoHandlerSkilledEnough>No handler can tame {0} (requires level {1} in {2}, best handler {3} has {4}).</MessageNoHandlerSkilledEnough>
+  <MessageCannotSellItemsReason>บางรายการไม่สามารถซื้อขายได้เนื่องจาก: </MessageCannotSellItemsReason>
+
+  <MessageConstructionFailed>{1} ล้มเหลวขณะสร้าง {0} ทรัพยากรบางอย่างสูญเปล่า</MessageConstructionFailed>
+
+  <MessageScreenshotSavedAs>ภาพหน้าจอบันทึกเป็น: {0}</MessageScreenshotSavedAs>
   
-  <MessageEatenByPredator>{0} has been eaten by {1}.</MessageEatenByPredator>
-  <MessageAttackedByPredator>{0} is being attacked by {1}!</MessageAttackedByPredator>
+  <MessageNoLongerSocialFighting>{0} และ {1} ไม่มีการต่อสู้ทางสังคมอีกแล้ว</MessageNoLongerSocialFighting>
   
-  <MessageHiveReproduced>A bug hive has reproduced itself.</MessageHiveReproduced>
+  <MessageNoLongerBingingOnDrug>{0} ไม่ได้เกิดขึ้นอีกต่อไปใน {1}</MessageNoLongerBingingOnDrug>
+
+  <MessageRottedAwayInStorage>{0} ได้เน่าอยู่ในที่จัดเก็บ</MessageRottedAwayInStorage>
   
-  <MessageTraderCaravanLeaving>The trade caravan from {0} is leaving.</MessageTraderCaravanLeaving>
+  <MessageFoodPoisoning>{0} ได้รับอาหารเป็นพิษจาก: {1}</MessageFoodPoisoning>
   
-  <MessageCantSelectDeadFamilyMember>{0} is dead.</MessageCantSelectDeadFamilyMember>
-  <MessageCantSelectOffMapFamilyMember>{0} is off the map.</MessageCantSelectOffMapFamilyMember>
+  <MessageFailedToSendCaravanBecausePawnLost>ไม่สามารถส่งกองคาราวานเนื่องจากหนึ่งในอาณานิคมนักโทษหรือสัตว์สูญหาย</MessageFailedToSendCaravanBecausePawnLost>
+  <MessageCaravanFormationPaused>ขั้นตอนการสร้างกองคาราวานจะดำเนินต่อไปเมื่อทุกคนฟื้นตัวจากอาการผิดปกติทางจิต</MessageCaravanFormationPaused>
+  <MessageCaravanFormationUnpaused>อาณานิคมของคุณจะกลายเป็นกองคาราวานต่อไป</MessageCaravanFormationUnpaused>
   
-  <MessageSocialFight>{0} started a social fight with {1}. Reason: {2}.</MessageSocialFight>
+  <MessageCaravanMemberHasExtremeMentalBreak>หนึ่งในสมาชิกกองคาราวานมีอาการผิดปกติทางจิต</MessageCaravanMemberHasExtremeMentalBreak>
   
-  <MessageNewMarriageCeremony>Colonists are gathering to celebrate {0} and {1}’s marriage.</MessageNewMarriageCeremony>
-  <MessageMarriageCeremonyStarts>{0} and {1} are beginning their marriage ceremony!</MessageMarriageCeremonyStarts>
-  <MessageMarriageCeremonyCalledOff>The marriage ceremony for {0} and {1} has been called off.</MessageMarriageCeremonyCalledOff>
-  <MessageNewlyMarried>{0} and {1} have married. Colonists are now celebrating the occasion.</MessageNewlyMarried>
-  <MessageMarriageCeremonyAfterPartyFinished>The marriage ceremony for {0} and {1} has finished.</MessageMarriageCeremonyAfterPartyFinished>
+  <MessageMaxPlanetCoveragePerformanceWarning>คำเตือน: อาจใช้เวลานานมากในการสร้างดาวเคราะห์ทั้งหมด</MessageMaxPlanetCoveragePerformanceWarning>
+
+	<MessagePlantDiedOfCold>{0} ตายเพราะความหนาวเย็น</MessagePlantDiedOfCold>
+	<MessagePlantDiedOfRot>{0} ตายจากการเน่าเปื่อยเนื่องจากถูกทิ้งไว้ไม่ได้</MessagePlantDiedOfRot>
+
+	<MessagePawnBeingBurned>{0} กำลังถูกเผาด้วยอากาศร้อนจัด!</MessagePawnBeingBurned>
+
+	<MessageAccidentalOverdose>{0} ได้ล่วงล้ำโดยไม่ตั้งใจในขณะที่บริโภค {1}!</MessageAccidentalOverdose>
   
-  <MessageNewBondRelation>{0} and {1} have formed a bond.</MessageNewBondRelation>
-  <MessageNewBondRelationNewName>{0} and {1} have formed a bond. {0} has named {1} {2}.</MessageNewBondRelationNewName>
+  <MessageCaravanArrivedAtDestination>{0} ถึงจุดหมายแล้ว</MessageCaravanArrivedAtDestination>
   
-  <MessageBondedAnimalMentalBreak>{0} has a mental break because of {1}'s death.</MessageBondedAnimalMentalBreak>
-  <MessageNamedBondedAnimalMentalBreak>{0} named {1} has a mental break because of {2}'s death.</MessageNamedBondedAnimalMentalBreak>
-  <MessageBondedAnimalsMentalBreak>{0} animals have a mental break because of {1}'s death.</MessageBondedAnimalsMentalBreak>
+  <MessageCaravanIsVisitingSettlement>{0} เข้ามาแล้ว {1}.</MessageCaravanIsVisitingSettlement>
   
-  <MessageSuccessfullyRemovedHediff>{0} has successfully removed {1}'s {2}.</MessageSuccessfullyRemovedHediff>
+  <MessageCaravanEnteredWorldObject>{0} เข้ามาแล้ว {1}.</MessageCaravanEnteredWorldObject>
   
-  <MessageShipChunkDrop>A chunk of a spacecraft has fallen from space and landed nearby.</MessageShipChunkDrop>
+  <MessagePawnLeftMapAndCreatedCaravan>{0} ได้ออกจากพื้นที่และสร้างคาราวาน</MessagePawnLeftMapAndCreatedCaravan>
   
-  <MessagePartyCalledOff>The party has been called off.</MessagePartyCalledOff>
-  <MessagePartyFinished>The party has finished.</MessagePartyFinished>
+  <MessageSettledInExistingMap>คุณได้ตัดสินแล้วในพื้นที่ใหม่</MessageSettledInExistingMap>
+	
+  <MessageAmbushVictory>ชัยชนะ! ใน {0} กองคาราวานจะได้รับการปฏิรูปโดยอัตโนมัติ คุณสามารถปฏิรูปกองคาราวานได้ในหน้าจอโลก</MessageAmbushVictory>
   
+  <MessageAutomaticallyReformedCaravan>อาณานิคมของคุณได้ปฏิรูปกองคาราวาน</MessageAutomaticallyReformedCaravan>
+
+	<MessageOldWoundHealed>เนื่องจาก {0}  {1} ของ {2} ได้รับการเยียวยา</MessageOldWoundHealed>
+
+	<MessageRescueeJoined>ตั้งแต่คุณช่วย HIM, {0} เข้าร่วมกลุ่มของคุณแล้ว!</MessageRescueeJoined>
+  
+  <MessageAttackedCaravanIsNowHostile>เนื่องจากคุณโจมตีกองคาราวาน {0} ฝ่ายนี้จึงเป็นปฏิปักษ์กับคุณ</MessageAttackedCaravanIsNowHostile>
+  <MessageFactionPawnCrushed>{0} คนสูญเสียหลังคายุบ ความสัมพันธ์ของกลุ่ม: {1}</MessageFactionPawnCrushed>
+  <MessageFactionPawnLost>{0} สูญหาย {1} ความสัมพันธ์ของกลุ่ม: {2}</MessageFactionPawnLost>
+  
+  <MessageTransporterUnreachable>ไม่สามารถขนส่งกระสวยได้</MessageTransporterUnreachable>
+  <MessageTransportersNotAdjacent>เครื่องยิงกระสวยทั้งหมดที่เชื่อมต่อกับกระสวยขนส่งที่เลือกต้องอยู่ติดกัน</MessageTransportersNotAdjacent>
+  
+  <MessageTransportersLoadCanceled_TransporterDestroyed>ขั้นตอนการโหลดถูกยกเลิกเนื่องจากหนึ่งในกระสวยขนส่งถูกทำลาย</MessageTransportersLoadCanceled_TransporterDestroyed>
+	<MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>ขั้นตอนการโหลดถูกยกเลิกเนื่องจากเครื่องเรียกเก็บเงินกระสวยชนิดใดชนิดหนึ่งถูกทำลาย</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+  
+  <MessageTransportersLoadingProcessStarted>ขณะนี้อาณานิคมของคุณจะโหลดรายการที่กำหนดไว้ในกระสวยขนส่ง</MessageTransportersLoadingProcessStarted>
+  
+  <MessageTransportPodsArrived>กระสวยขนส่งของคุณมาถึงแล้ว</MessageTransportPodsArrived>
+  <MessageTransportPodsArrivedAndLost>กระสวยขนส่งของคุณมาถึงแล้ว แต่เนื่องจากไม่มีอาณานิคมอยู่ภายในเนื้อหาจึงหายไป</MessageTransportPodsArrivedAndLost>
+  <MessageTransportPodsArrivedAndAddedToCaravan>กระสวยขนส่งของคุณมาถึงแล้ว มีการเพิ่มเนื้อหาลงในกองคาราวานของคุณแล้ว</MessageTransportPodsArrivedAndAddedToCaravan>
+  <MessageTransportPodsArrived_BecameHostile>{0} ตอนนี้เป็นศัตรูกับคุณ</MessageTransportPodsArrived_BecameHostile>
+  
+  <MessageFailedToLoadTransportersBecauseColonistLost>ขั้นตอนการโหลดถูกยกเลิกเนื่องจากผู้ล่าอาณานิคมรายหนึ่งหายไป</MessageFailedToLoadTransportersBecauseColonistLost>
+  
+  <MessageFinishedLoadingTransporters>ชาวอาณานิคมของคุณเสร็จสิ้นการโหลดกระสวยขนส่งแล้ว</MessageFinishedLoadingTransporters>
+  
+  <MessageTransportPodsDestinationIsInvalid>ปลายทางที่เลือกไม่ถูกต้อง</MessageTransportPodsDestinationIsInvalid>
+  <MessageTransportPodsDestinationIsTooFar>เครื่องวางกระสวยแต่ละเครื่องจะต้องมีอย่างน้อย {0} x เชื้อเพลิง เพื่อส่งกระสวยขนส่งที่ไกลออกไป</MessageTransportPodsDestinationIsTooFar>
+  
+  <MessageReformedCaravan>คาราวานได้รับการปฏิรูปแล้ว.</MessageReformedCaravan>
+  
+  <MessageCantAbandonLastColonist>คุณไม่สามารถละทิ้งอาณานิคมล่าสุดได้</MessageCantAbandonLastColonist>
+  
+  <MessageCantEquipIncapableOfViolence>ไม่สามารถให้: {0} ไม่มีความรุนแรง</MessageCantEquipIncapableOfViolence>
+  <MessageCantEquipIncapableOfManipulation>ไม่สามารถให้: ไม่สามารถ</MessageCantEquipIncapableOfManipulation>
+  
+  <MessageSlaughteringBondedAnimal>เนื่องจากพวกเขาถูกผูกมัดการฆ่า {0} จะทำให้ {1} ไม่พอใจ</MessageSlaughteringBondedAnimal>
+  
+  <MessageCaravanRunOutOfFood>{0} หมดอาหาร ({1}) แล้ว</MessageCaravanRunOutOfFood>
+
+	<MessageSelectOwnBaseToFormCaravan>ในการสร้างกองคาราวานเลือกอาณานิคมของคุณเองหรือไซต์ที่คุณมีผู้คน</MessageSelectOwnBaseToFormCaravan>
+
+	<MessageScreenResTooSmallForUIScale>ที่ความละเอียดและสัดส่วน UI อินเตอร์เฟซเกมจะไม่พอดีกับหน้าจอ โปรดลดขนาด UI หรือเพิ่มความละเอียด</MessageScreenResTooSmallForUIScale>
+	
+	<MessageYouHaveToReformCaravanNow>คุณต้องปฏิรูปคาราวานตอนนี้ ทุกคนที่ทิ้งไว้เบื้องหลังจะถูกทอดทิ้ง</MessageYouHaveToReformCaravanNow>
+	
+  <MessageDefendersAttacking>{0} จาก {1} กำลังโจมตี {2} ของคุณ</MessageDefendersAttacking>
+
+  <MessageSelfTendUnsatisfied>หากต้องการมีแนวโน้มในการทำงานด้วยตัวเอง {0} จะต้องได้รับมอบหมายให้ทำงานด้าน Doctor ด้วย</MessageSelfTendUnsatisfied>
+	<MessageCannotSelfTendEver>{0} ไม่สามารถทำงานเป็นหมอได้และไม่เคยมีแนวโน้มในตัวเองมากนัก</MessageCannotSelfTendEver>
+	
+  <MessageCantAddWaypointBecauseImpassable>จุดนี้ไม่สามารถใช้ได้</MessageCantAddWaypointBecauseImpassable>
+  <MessageCantAddWaypointBecauseUnreachable>ไม่สามารถเข้าถึงจุดนี้ได้จากจุดสุดท้าย</MessageCantAddWaypointBecauseUnreachable>
+  <MessageCantAddWaypointBecauseLimit>คุณไม่สามารถเพิ่มได้มากกว่า {0} จุด</MessageCantAddWaypointBecauseLimit>
+  <MessageCantRemoveWaypointBecauseFirst>คุณไม่สามารถลบจุดสังเกตนี้ได้</MessageCantRemoveWaypointBecauseFirst>
+  
+  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>ไม่มีผู้พิทักษ์ของคุณสามารถใช้ความรุนแรงได้ ไม่สามารถดำเนินการได้</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+  
+  <MessageSiteCountdownBecauseNoMoreEnemies>คุณได้พ่ายแพ้ศัตรูทั้งหมด ใน {0} กองคาราวานจะได้รับการปฏิรูปโดยอัตโนมัติ</MessageSiteCountdownBecauseNoMoreEnemies>
+  <MessageSiteCountdownBecauseNoEnemiesInitially>ใน {0} กองคาราวานจะได้รับการปฏิรูปโดยอัตโนมัติ คุณสามารถปฏิรูปกองคาราวานได้ในหน้าจอโลก</MessageSiteCountdownBecauseNoEnemiesInitially>
+
 </LanguageData>

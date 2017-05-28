@@ -1,61 +1,85 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-
-
   <Confirm>ยืนยัน</Confirm>
   <GoBack>กลับไป</GoBack>
-  <OK>OK</OK>
+  <OK>ตกลง</OK>
+  
+  <!-- Game updated to new version -->
+  <GameUpdatedToNewVersionInitial>RimWorld ได้รับการปรับปรุงจากรุ่น {0} เป็นเวอร์ชัน {1}.</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionSavesIncompatible>ซึ่งอาจทำให้เกมที่บันทึกไว้และ mods จากเวอร์ชันเก่าหยุดทำงาน</GameUpdatedToNewVersionSavesIncompatible>
+  <GameUpdatedToNewVersionSavesCompatible>เกมที่บันทึกไว้จากเวอร์ชันเก่าควรเข้ากันได้แต่บาง mods อาจหยุดทำงาน</GameUpdatedToNewVersionSavesCompatible>
+  <GameUpdatedToNewVersionNonSteam>Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions.</GameUpdatedToNewVersionNonSteam>
+  <GameUpdatedToNewVersionSteam>หากคุณต้องการใช้เวอร์ชันเดิมต่อไปคุณสามารถเลือกใช้คุณลักษณะ "Betas" ของ Steam ได้\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this.</GameUpdatedToNewVersionSteam>
   
   <!-- Recovered from errors caused by mods -->
   <RecoveredFromErrorsDialogTitle>Recovered from incompatible or corrupted mods errors</RecoveredFromErrorsDialogTitle>
-  <RecoveredFromErrorsText>It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog.</RecoveredFromErrorsText>
+  <RecoveredFromErrorsText>ดูเหมือนว่าบางส่วนของ mods ที่ใช้งานได้ก่อให้เกิดข้อผิดพลาด\n\nmods ไม่เข้ากันกับอันอื่น ๆ หรือ ออกแบบมาสำหรับรุ่นต่างๆของ RimWorld หรือเสียหาย\n\nMods ทั้งหมดถูกปิดใช้งานและสามารถใช้งานได้อีกครั้งในกล่องโต้ตอบ mods</RecoveredFromErrorsText>
   
   <!-- Errors during loading -->
-  <ErrorWhileLoadingAssetsTitle>Error while loading assets</ErrorWhileLoadingAssetsTitle>
-  <ErrorWhileLoadingAssets>An error occured while loading game assets. See error log for more information.</ErrorWhileLoadingAssets>
-  <ErrorWhileLoadingAssets_ModsInfo>The game is currently running with custom mods - they may or may not cause these problems.</ErrorWhileLoadingAssets_ModsInfo>
-  <ErrorWhileGeneratingMapTitle>Error while generating a map</ErrorWhileGeneratingMapTitle>
-  <ErrorWhileGeneratingMap>An error occured while generating a new map. See error log for more information.</ErrorWhileGeneratingMap>
-  <ErrorWhileLoadingMapTitle>Error while loading a map</ErrorWhileLoadingMapTitle>
-  <ErrorWhileLoadingMap>An error occured while loading a map. See error log for more information.</ErrorWhileLoadingMap>
+  <ErrorWhileLoadingAssetsTitle>เกิดข้อผิดพลาดขณะโหลดเนื้อหา</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssets>เกิดข้อผิดพลาดขณะโหลดเนื้อหาของเกม ดูบันทึกข้อผิดพลาดสำหรับข้อมูลเพิ่มเติม</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets_ModsInfo>เกมกำลังทำงานอยู่กับ mods ที่กำหนดเอง - พวกเขาอาจหรือไม่อาจทำให้เกิดปัญหาเหล่านี้</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileGeneratingMapTitle>เกิดข้อผิดพลาดขณะสร้างแผนที่</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMap>เกิดข้อผิดพลาดขณะสร้างแผนที่ใหม่ ดูบันทึกข้อผิดพลาดสำหรับข้อมูลเพิ่มเติม</ErrorWhileGeneratingMap>
+  <ErrorWhileLoadingMapTitle>เกิดข้อผิดพลาดขณะโหลดแผนที่</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMap>เกิดข้อผิดพลาดขณะโหลดแผนที่ ดูบันทึกข้อผิดพลาดสำหรับข้อมูลเพิ่มเติม</ErrorWhileLoadingMap>
   
+  <!-- Unloaded mod with an assembly -->
+  <ModsChanged>มีการเปลี่ยนแปลงรายการ mod แล้ว เกมจะรีสตาร์ทโดยอัตโนมัติ</ModsChanged>
+  <FailedToRestart>เกิดข้อผิดพลาดขณะรีสตาร์ทเกม เกมไม่สามารถยกเลิกการโหลดโค้ดจากเดสก์ท็อปได้ ดังนั้นโค้ดจากโหมดปิดใช้งานอาจใช้งานได้\n\nขอแนะนำให้คุณปิดเกมและเริ่มเกมใหม่ทันทีเพื่อโหลด mods ทั้งหมดได้อย่างหมดจด</FailedToRestart>
+  <Restarting>รีสตาร์ท</Restarting>
+  
+  <!-- Missing Steam -->
+  <SteamClientMissing>ไม่สามารถเริ่มต้น Steam API สาเหตุที่เป็นไปได้:\n\n- Steam ไม่ทำงาน\n- เปิดใช้งานจาก Steam ภายนอกโดยไม่ใช้ steam_appid.txt ในตำแหน่ง\n- ใช้สิทธิ์ที่แตกต่างจากลูกค้า Steam (เช่น "ในฐานะผู้ดูแลระบบ")\n\nในกรณีส่วนใหญ่การรีบูตเครื่องคอมพิวเตอร์จะช่วยแก้ปัญหานี้ได้\n\nเกม Steam รุ่นนี้ต้องการ Steam และจะเลิกเล่น</SteamClientMissing>
+
   <!-- Long events -->
   <InitializingInterface>กำลังจัดเตรียมอินเตอร์เฟซ</InitializingInterface>
   <UnloadingUnusedAssets>กำลังอันโหลด asset ที่ไม่ได้ใช้</UnloadingUnusedAssets>
   <LoadingAllActiveMods>กำลังโหลด active mods ทั้งหมด</LoadingAllActiveMods>
-  <LoadingDefs>กำลังโหลด defs</LoadingDefs>
-  <LoadingAssets>กำลังโหลด assets</LoadingAssets>
+  <LoadingDefs>กำลังโหลด Defs</LoadingDefs>
+  <LoadingAssets>กำลังโหลด Assets</LoadingAssets>
   <Initializing>กำลังจัดเตรียม</Initializing>
   <LoadingWorld>กำลังโหลดโลก</LoadingWorld>
   <LoadingMap>กำลังโหลดแผนที่</LoadingMap>
   <InitializingMap>กำลังจัดเตรียมแผนที่</InitializingMap>
   <SpawningAllThings>กำลังจัดวางทุกสิ่งทุกอย่าง</SpawningAllThings>
+  <SpawningColonists>กำลังจัดวางอาณานิคม</SpawningColonists>
   
   <!-- Save/load -->
   <SaveGameButton>เซฟ</SaveGameButton>
-  <OverwriteButton>เขียนทับ</OverwriteButton>
   <LoadGameButton>โหลด</LoadGameButton>
-  <ConfirmDelete>Really delete {0}?</ConfirmDelete>
-  <DeleteThisSavegame>Delete this savegame.</DeleteThisSavegame>
+  <OverwriteButton>เซฟทับ</OverwriteButton>
+  <ConfirmDelete>คุณจะลบ {0} ใช่ไหม</ConfirmDelete>
+  <DeleteThisSavegame>ลบไฟล์เซฟเกมส์</DeleteThisSavegame>
   <SavedAs>เซฟเป็น {0}.</SavedAs>
   <NeedAName>กรุณาใส่ชื่อ</NeedAName>
   <LoadingLongEvent>กำลังโหลด</LoadingLongEvent>
   <SavingLongEvent>กำลังเซฟ</SavingLongEvent>
   <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
-  <SaveIsFromDifferentGameVersion>We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work.</SaveIsFromDifferentGameVersion>
-  <SaveIsFromDifferentGameBuild>We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work.</SaveIsFromDifferentGameBuild>
-  <SaveIsFromThisGameBuild>Save data was saved with our game version and should work without issue.</SaveIsFromThisGameBuild>
-  <SaveIsUnknownFormat>Save data is in an unknown format and almost certainly will not load properly.</SaveIsUnknownFormat>
-  <ProblemSavingFile>There was a problem saving the file {0}:\n\n{1}</ProblemSavingFile>
+  <SaveIsFromDifferentGameVersion>เรากำลังใช้งานเวอร์ชัน {0} แต่บันทึกข้อมูลมาจาก {1}, ซึ่งเป็นเวอร์ชันที่แตกต่างกันทั้งหมด\n\nการพยายามโหลดข้อมูลนี้อาจไม่ทำงาน</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameBuild>เรากำลังใช้งานเวอร์ชัน {0} แต่บันทึกข้อมูลมาจาก {1}, ซึ่งเป็นการสร้างที่แตกต่างกัน\n\nการพยายามโหลดข้อมูลนี้จะยังคงทำงานอยู่</SaveIsFromDifferentGameBuild>
+  <SaveIsFromThisGameBuild>บันทึกข้อมูลไว้ด้วยเวอร์ชันเกมของเราและควรทำงานโดยไม่มีปัญหา</SaveIsFromThisGameBuild>
+  <SaveIsUnknownFormat>บันทึกข้อมูลอยู่ในรูปแบบที่ไม่รู้จักและเกือบจะไม่โหลดอย่างถูกต้อง</SaveIsUnknownFormat>
+  <ProblemSavingFile>เกิดปัญหาในการบันทึกไฟล์ {0}:\n\n{1}</ProblemSavingFile>
+  <LoadAnyway>โหลดไม่ว่าอย่างไรก็ตาม</LoadAnyway>
+
+  <!-- Player faction naming -->
+  <NamePlayerFactionMessage>{0} คิดว่าคุณควรให้ฝ่ายของคุณชื่อ ฝ่ายไหนควรได้รับการเรียก</NamePlayerFactionMessage>
+  <PlayerFactionGainsName>ฝ่ายของคุณเป็นที่รู้จักกันในชื่อ {0}.</PlayerFactionGainsName>
+  <PlayerFactionNameIsInvalid>ชื่อนี้ไม่ถูกต้อง</PlayerFactionNameIsInvalid>
+
+  <!-- Player faction base naming -->
+  <NamePlayerFactionBaseMessage>Since it looks like you'll be here for a while, {0} thinks that you should give this community a name. What should the local community be called?</NamePlayerFactionBaseMessage>
+  <PlayerFactionBaseGainsName>This community is now known as {0}.</PlayerFactionBaseGainsName>
+  <PlayerFactionBaseNameIsInvalid>That name isn't valid.</PlayerFactionBaseNameIsInvalid>
   
-  <!-- Colony naming-->
-  <NameColonyMessage>It looks like you'll be here for a while. {0} is suggesting that you give the colony a name.\n\nWhat should it be called?</NameColonyMessage>
-  <ColonyGainsName>The colony is now known as {0}.</ColonyGainsName>
-  <ColonyNameIsInvalid>That colony name isn't valid.</ColonyNameIsInvalid>
+  <!-- Player faction and faction base naming -->
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>Since it looks like you'll be here for a while, {0} also thinks that you should give community a name. What should this local community be called?</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <PlayerFactionAndBaseGainsName>Your faction is now known as {0}, and this community is now known as {1}.</PlayerFactionAndBaseGainsName>
 
   <!-- Renaming -->
-  <NameIsInvalid>Please enter a valid name.</NameIsInvalid>
+  <NameIsInvalid>กรุณากรอกชื่อที่ถูกต้อง</NameIsInvalid>
   <NameIsInUse>Name is already in use.</NameIsInUse>
   <ZoneGainsName>The zone is now called {0}.</ZoneGainsName>
   
@@ -66,6 +90,7 @@
   <VersionMismatch>Version mismatch</VersionMismatch>
   <SaveGameIncompatibleWarningText>Map was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes.</SaveGameIncompatibleWarningText>
   <WorldFileVersionMismatch>World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch.</WorldFileVersionMismatch>
+  <FileIncompatibleWarning>This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes.</FileIncompatibleWarning>
   <ModsMismatchWarningTitle>Mods mismatch</ModsMismatchWarningTitle>
   <ModsMismatchWarningText>Map was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nMap was saved with (in this order):\n\n{0}\n\nWe are running with:\n\n{1}</ModsMismatchWarningText>
 
@@ -79,12 +104,12 @@
   <Researched>ทำการวิจัยแล้ว</Researched>
   <Unresearched>ยังไม่ได้ทำการวิจัย</Unresearched>
   <Finished>เสร็จแล้ว</Finished>
-  <InProgress>In Progress</InProgress>
-  <Locked>Locked</Locked>
-  <ResearchMenuWithoutBench>Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now.</ResearchMenuWithoutBench>
-  <ResearchPrerequisites>Research prerequisites</ResearchPrerequisites>
-  <RequiredResearchBench>Required research bench</RequiredResearchBench>
-  <RequiredResearchBenchFacilities>Required research bench facilities</RequiredResearchBenchFacilities>
+  <InProgress>กำลังวิจัย</InProgress>
+  <Locked>ล็อก</Locked>
+  <ResearchMenuWithoutBench>จนกว่าคุณจะสร้างโต๊ะวิจัย ชาวอาณานิคมของคุณจะไม่สามารถทำวิจัยได้\n\nอย่างไรก็ตามคุณยังสามารถดูโครงการวิจัยนี้ได้</ResearchMenuWithoutBench>
+  <ResearchPrerequisites>ข้อกำหนดเบื้องต้นการวิจัย</ResearchPrerequisites>
+  <RequiredResearchBench>การวิจัยจำเป็นต้องใช้โต๊ะวิจัย</RequiredResearchBench>
+  <RequiredResearchBenchFacilities>สิ่งอำนวยความสะดวกที่จำเป็นต่อโต๊ะวิจัย</RequiredResearchBenchFacilities>
   
   <!-- Advanced game start options -->
   <MapTemperatureDangerWarning>Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season.</MapTemperatureDangerWarning>
@@ -97,7 +122,7 @@
   <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
   <MapStartSeason>ฤดุที่เริ่มต้น:</MapStartSeason>
   <MapStartSeasonDefault>อัตโนมัติ</MapStartSeasonDefault>
-  <PermadeathMode>Permadeath mode</PermadeathMode>
+  <PermadeathMode>โหมด Permadeath</PermadeathMode>
   <PermadeathModeInfo>In permadeath mode, you get one save file and can only save when quitting the game. You cannot reload the game to fix mistakes, and when the colony dies, that's it.\n\nThis is the way RimWorld was meant to be played, with every dramatic turn - whether tragic or hopeful - played out to full impact.</PermadeathModeInfo>
 
   <!-- Bill config -->
@@ -111,13 +136,13 @@
   <CurrentlyHave>ตอนนี้มีอยู่</CurrentlyHave>
   <CountingProducts>กำลังนับ</CountingProducts>
   <Infinite>ไม่จำกัด</Infinite>
-  <MinimumSkillLevel>Min {0} skill</MinimumSkillLevel>
+  <AllowedSkillRange>Allowed {0} skill:</AllowedSkillRange>
   
   <RecipeCannotHaveTargetCount>(This recipe cannot have a target count because it has multiple or unpredictable products.)</RecipeCannotHaveTargetCount>
   <WorkAmount>จำนวนงาน</WorkAmount>
   <MinimumSkills>ทักษะขั้นต่ำ:</MinimumSkills>
   <BillRequires>ต้องการ {0} {1}</BillRequires>
-  <BillRequiresNutrition>ต้องการ {0} nutrition</BillRequiresNutrition>
+  <BillRequiresNutrition>ต้องการ {0} อาหารการกิน</BillRequiresNutrition>
   <BillRequiresMayVary>โน้ต: วัตถุดิบขนาดเล็กอย่างทอง ต้องใช้มากขึ้น 20 เท่า</BillRequiresMayVary>
   <ThisIsSmallVolume>นี่เป็นวัตถุดิบขนาดเล็ก แปลว่าแต่ละ 'หน่วย' มีค่าเป็น 1/20 ของวัตถุดิบขนาดปกติ ดังนั้น, เพื่อเติมให้เท่ากับความต้องการของวัตถุดิบ, คุณจะต้องใช้มากขึ้น 20 เท่าจากธรรมดา</ThisIsSmallVolume>
   <UsableIngredients>วัตถุดิบ</UsableIngredients>
@@ -129,61 +154,147 @@
   <BillStoreMode_BestStockpile>นำไปที่เก็บของที่ดีที่สุด</BillStoreMode_BestStockpile>
   <BillStoreMode_NearestStockpileAnyPriority>นำไปที่เก็บของที่ใกล้ที่สุด</BillStoreMode_NearestStockpileAnyPriority>
   
+  <PauseWhenSatisfied>หยุดชั่วคราวเมื่อพอใจ</PauseWhenSatisfied>
+  <UnpauseWhenYouHave>หยุดชั่วคราวที่</UnpauseWhenYouHave>
+  <Paused>หยุดชั่วคราว</Paused>
+  <Unpause>ยกเลิกการหยุดชั่วคราว</Unpause>
+  
   <!-- Info card -->
   <Damage>ความเสียหาย</Damage>
   <Accuracy>ความแม่นยำ</Accuracy>
-  <BurstShotCount>Burst shot count</BurstShotCount>
+  <BurstShotCount>จำนวนภาพต่อเนื่อง</BurstShotCount>
   <WarmupTime>Warmup</WarmupTime>
   <MeleeWarmupTime>Melee warmup</MeleeWarmupTime>
   <CooldownTime>Cooldown</CooldownTime>
-  <BurstShotFireRate>Fire rate</BurstShotFireRate>
+  <BurstShotFireRate>อัตราการใช้ไฟ</BurstShotFireRate>
   <Range>ระยะ</Range>
-  <GrowsWild>Grows wild</GrowsWild>
+  <GrowsWild>เติบโตในป่า</GrowsWild>
   <Harvestable>สามารถเก็บเกี่ยวได้</Harvestable>
-  <LimitedLifespan>Limited lifespan</LimitedLifespan>
+  <LimitedLifespan>อายุการใช้งาน จำกัด</LimitedLifespan>
   <GrowingTime>ระยะเวลาการเจริญเติบโต</GrowingTime>
   <GrowingTimeDesc>Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth.</GrowingTimeDesc>
   <Days>วัน</Days>
-  <FertilityRequirement>Fertility requirement</FertilityRequirement>
+  <MinGrowingSkillToSow>Minimum growing skill to sow</MinGrowingSkillToSow>
+  <FertilityRequirement>ต้องการความอุดมสมบูรณ์</FertilityRequirement>
+  <FertilitySensitivity>ความไวของการเจริญพันธุ์</FertilitySensitivity>
   <LightRequirement>ต้องการแสงสว่าง</LightRequirement>
   <Attributes>Attributes</Attributes>
-  <LifeSpan>Lifespan</LifeSpan>
+  <LifeSpan>อายุขัย</LifeSpan>
   <Nutrition>สารอาหาร</Nutrition>
   <Joy>ความสุข</Joy>
   <FoodQuality>คุณภาพอาหาร</FoodQuality>
   <WalkSpeedProperty>ความเร็วการเดิน</WalkSpeedProperty>
   <MinFoodQuality>คุณภาพอาหารขึ้นต่ำ</MinFoodQuality>
   <Diet>โภชนาการ</Diet>
+    <BodySize>ขนาดการ</BodySize>
   <RecruitDifficulty>ความยากในการชักชวน</RecruitDifficulty>
-  <MarketValue>Base price</MarketValue>
+  <MarketValue>ราคาพื้นฐาน</MarketValue>
   <Covers>Covers</Covers>
-  <BodyPartEfficiency>Body part efficiency</BodyPartEfficiency>
+  <CoverEffectiveness>Cover effectiveness</CoverEffectiveness>
+  <CoverEffectivenessExplanation>How effective this is when used as cover in a gunfight. Higher percentages will block more shots.</CoverEffectivenessExplanation>
+  <MedicineXpGainFactor>ปัจจัยที่ได้รับประสบการณ์</MedicineXpGainFactor>
   <MoodChange>อารมณ์เปลี่ยน</MoodChange>
-  <Wildness>Wildness</Wildness>
+  <Wildness>มุ่งมั่น</Wildness>
   <WildnessExplanation>Wilder creatures are naturally more difficult to tame, train, and handle.</WildnessExplanation>
   <AnimalFilthRate>อัตราความสกปรกของสัตว์</AnimalFilthRate>
   <AnimalFilthRateExplanation>Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth.</AnimalFilthRateExplanation>
   <TimeRecordsCategory>เวลา</TimeRecordsCategory>
   <MiscRecordsCategory>อื่นๆ</MiscRecordsCategory>
-
+  <Addictiveness>Addictiveness</Addictiveness>
+	<PackAnimal>Pack animal</PackAnimal>
+	<PackAnimalExplanation>Whether this animal is appropriate to use to carry items in a caravan over long distances.</PackAnimalExplanation>
+	
   <!-- Trade -->
-  <DragToTrade>Drag number\nto trade</DragToTrade>
-  <BuyPriceDesc>Price you pay to buy this.</BuyPriceDesc>
-  <SellPriceDesc>Price you receive for selling this.</SellPriceDesc>
-  <PriceTypeDesc>For this item, this price is {0}.</PriceTypeDesc>
+  <PositiveBuysNegativeSells>ตัวเลขบวกซื้อ\nตัวเลขติดลบขาย</PositiveBuysNegativeSells>
+  <BuyPriceDesc>ราคาที่คุณจ่ายเงินเพื่อซื้อนี้</BuyPriceDesc>
+  <SellPriceDesc>ราคาที่คุณได้รับจากการขายนี้</SellPriceDesc>
+  <PriceTypeDesc>สำหรับรายการนี้, ราคานี้เป็นราคา {0}.</PriceTypeDesc>
   <ColonyCount>How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are outdoors and near an orbital trade beacon.</ColonyCount>
   <TraderCount>How many of this item the trader has to trade.</TraderCount>
   <AcceptButton>ยอมรับ</AcceptButton>
   <ResetButton>รีเซ็ต</ResetButton>
   <CancelButton>ยกเลิก</CancelButton>
+  <CloseButton>ปิด</CloseButton>
   <YourTradeableSilver>เงินที่แลกเปลี่ยนได้: {0}</YourTradeableSilver>
-	<YourTradeableSilverTip>You can only trade with silver that is near an orbital trade beacon and not under a roof.</YourTradeableSilverTip>
+	<YourTradeableSilverTip>คุณสามารถค้าขายกับเงินที่อยู่ใกล้กับสัญญาณการค้าในวงโคจรและไม่อยู่ภายใต้หลังคา</YourTradeableSilverTip>
   <TraderHasNoMore>พ่อค้าไม่มีเหลือแล้ว.</TraderHasNoMore>
   <ColonyHasNoMore>ไม่เหลืออะไรจะขายแล้ว</ColonyHasNoMore>
-  <TraderWillNotTrade>Trader is not willing to trade in this item.</TraderWillNotTrade>
+  <TraderWillNotTrade>พ่อค้า ไม่เต็มใจที่จะค้าในรายการนี้</TraderWillNotTrade>
+  <Negotiator>Negotiator</Negotiator>
   <NegotiatorTalkingImpaired>Your negotiator {0} cannot talk properly because of poor health.\n\nThis will affect trade prices.\n\nConsider using a healthier negotiator.</NegotiatorTalkingImpaired>
   <ConfirmTraderShortFunds>Trader has insufficient silver to fully cover this transaction.  Proceed anyways?</ConfirmTraderShortFunds>
   <SortBy>เรียงตาม</SortBy>
+    <TraderTypePrice>ประเภทผู้ประกอบการค้า</TraderTypePrice>
+	<Selling>ขาย</Selling>
+	<Buying>ซื้อ</Buying>
+	<ItemSellPriceFactor>item sell price multiplier</ItemSellPriceFactor>
+	<DifficultyLevel>difficulty level</DifficultyLevel>
+	<PostCurve>global post-process curve</PostCurve>
+	<YourNegotiatorBonus>Your negotiator bonus</YourNegotiatorBonus>
+	<TradeWithFactionBaseBonus>Trading with faction base bonus</TradeWithFactionBaseBonus>
+	<minimum>ขั้นต่ำ</minimum>
+	<FinalPrice>Final price</FinalPrice>
+  <TradeMassUsageTooltip>The resulting mass usage and mass capacity.</TradeMassUsageTooltip>
+  
+  <!-- Form caravan -->
+  <FormCaravan>Form caravan</FormCaravan>
+  <FormCaravanColonyThingCountTip>How many of this item the colony has ready to give to the caravan.</FormCaravanColonyThingCountTip>
+  <PawnsTab>คนและสัตว์</PawnsTab>
+  <ItemsTab>สิ่งของ</ItemsTab>
+  <CaravanConfigTab>Config</CaravanConfigTab>
+  <CaravanMustHaveAtLeastOneColonist>You must assign at least one non-downed colonist.</CaravanMustHaveAtLeastOneColonist>
+  <CaravanCouldNotFindExitSpot>The chosen exit location ({0}) is inaccessible.</CaravanCouldNotFindExitSpot>
+  <CaravanCouldNotFindPackingSpot>Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible.</CaravanCouldNotFindPackingSpot>
+  <CaravanCouldNotFindReachableExitSpot>Warning: some of the assigned colonists are unable to reach the exit location ({0}).</CaravanCouldNotFindReachableExitSpot>
+  <CaravanPawnIsUnreachable>{0} is unreachable by any of the assigned colonists.</CaravanPawnIsUnreachable>
+  <CaravanItemIsUnreachableSingle>None of the assigned colonists are able to reach the {0}.</CaravanItemIsUnreachableSingle>
+  <CaravanItemIsUnreachableMulti>None of the assigned colonists are able to reach {0}x {1}.</CaravanItemIsUnreachableMulti>
+  <TooBigCaravanMassUsage>The caravan is not able to carry that much.</TooBigCaravanMassUsage>
+  <CaravanMassUsageTooltip>Current mass usage and mass capacity.\n\nMass usage includes the assigned caravan supplies as well as the colonists' current equipment.\n\nYou will not be able to send the caravan if the mass usage exceedes capacity.</CaravanMassUsageTooltip>
+  <MassUsageInfo>{0} / {1} กิโล</MassUsageInfo>
+  <DaysWorthOfFoodInfo>{0} days worth of food</DaysWorthOfFoodInfo>
+  <DaysWorthOfFoodInfoRot>{0} days worth of food, rot in {1} days</DaysWorthOfFoodInfoRot>
+  <InfiniteDaysWorthOfFoodInfo>Will never run out of food</InfiniteDaysWorthOfFoodInfo>
+  <DaysWorthOfFoodTooltip>An approximate number of days before the caravan runs out of food.\n\nThis takes into account both human and animal food, and shows the worst case scenario. This means that after this many days, at least one person or animal will be out of food.</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip_CanEatLocalPlants>Based on the current season, temperature, and surroundings we assume that it WILL be possible for herbivore animals to eat local plants. This however can change at any time.</DaysWorthOfFoodTooltip_CanEatLocalPlants>
+  <DaysWorthOfFoodTooltip_CantEatLocalPlants>Based on the current season, temperature, and surroundings we assume that it will NOT be possible for herbivore animals to eat local plants. This however can change at any time.</DaysWorthOfFoodTooltip_CantEatLocalPlants>
+  <DaysWorthOfFoodWarningDialog>Your caravan only has {0} days worth of food and will become hungry very quickly.\n\nAre you sure you want to form this caravan?</DaysWorthOfFoodWarningDialog>
+  <DaysWorthOfFoodWarningDialog_NoFood>Your caravan has no food and will become hungry very quickly.\n\nAre you sure you want to form this caravan?</DaysWorthOfFoodWarningDialog_NoFood>
+  <CaravanFoodWillRotSoonWarningDialog>A large part of the assigned food will rot soon.\n\nAre you sure you want to form this caravan?</CaravanFoodWillRotSoonWarningDialog>
+  <NoExitDirectionForCaravanChosen>You must choose an exit direction for the caravan.</NoExitDirectionForCaravanChosen>
+  <NoCaravanExitDirectionAvailable>(no exit direction available)</NoCaravanExitDirectionAvailable>
+  <ExitDirection>Exit direction</ExitDirection>
+  <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
+  <ItemWeightTip>Weight of this item.</ItemWeightTip>
+  <MarketValueTip>Market value</MarketValueTip>
+  <DaysUntilRotTip>The number of days until this item starts to rot based on the average temperature in this area.</DaysUntilRotTip>
+  <MassCapacity>Mass capacity</MassCapacity>
+  <Mass>Mass</Mass>
+  <EquipmentAndApparelMass>Equipment and apparel mass</EquipmentAndApparelMass>
+  <InventoryMass>Inventory mass</InventoryMass>
+  <CaravanFormationProcessStarted>Your colonists will now take the assigned items and leave the area as soon as possible.</CaravanFormationProcessStarted>
+  <ReformCaravan>Reform caravan</ReformCaravan>
+  <ColonistsSection>อาณานิคม</ColonistsSection>
+  <PrisonersSection>นักโทษ</PrisonersSection>
+  <AnimalsSection>สัตว์</AnimalsSection>
+  <EstimatedTimeToDestinationButton>Est. time to destination</EstimatedTimeToDestinationButton>
+  
+  <!-- Split caravan -->
+  <SplitCaravan>Split caravan</SplitCaravan>
+  <SourceCaravanMustHaveAtLeastOneColonist>You must leave at least one non-downed colonist.</SourceCaravanMustHaveAtLeastOneColonist>
+  <CaravanSplitSourceLabel>ปัจจุบัน</CaravanSplitSourceLabel>
+  <CaravanSplitDestLabel>ใหม่</CaravanSplitDestLabel>
+  <SplitCaravanThingCountTip>How many of this item the caravan has ready to give to the new caravan.</SplitCaravanThingCountTip>
+  <SplitCaravanMassUsageTooltip>Current mass usage and mass capacity.</SplitCaravanMassUsageTooltip>
+
+  <!-- Load transporters -->
+  <LoadTransporters>ภาระ {0}</LoadTransporters>
+  <TooBigTransportersMassUsage>The assigned people and items are too heavy for the transport pods.</TooBigTransportersMassUsage>
+  <CantSendEmptyTransportPods>You can't send empty transport pods.</CantSendEmptyTransportPods>
+  <PawnCantReachTransporters>{0} can't reach the transport pods.</PawnCantReachTransporters>
+  <TransporterItemIsUnreachableSingle>There is no path between the transport pods and the {0}.</TransporterItemIsUnreachableSingle>
+  <TransporterItemIsUnreachableMulti>There is no path between the transport pods and {0}x {1}.</TransporterItemIsUnreachableMulti>
+  <TransportersMassUsageTooltip>Current mass usage and mass capacity.\n\nYou will not be able to send the transport pods if the mass usage exceedes capacity.</TransportersMassUsageTooltip>
   
   <!-- Comms -->
   <SocialSkillIs>ทักษะทางสังคม: {0}</SocialSkillIs>
@@ -207,5 +318,69 @@
   <DeleteOutfit>ลบเครื่องแต่งกาย...</DeleteOutfit>
   <OutfitInUse>เครื่องแต่งกายใช้อยู่โดย {0}</OutfitInUse>
   <NoOutfitSelected>ไม่ได้เลือกเครื่องแต่งกาย</NoOutfitSelected>
+  
+  <!-- Drug policy management -->
+  <DrugPolicy>นโยบายยาเสพติด</DrugPolicy>
+  <SelectDrugPolicy>เลือกนโยบาย...</SelectDrugPolicy>
+  <NewDrugPolicy>นโยบายใหม่</NewDrugPolicy>
+  <DeleteDrugPolicy>ลบนโยบาย...</DeleteDrugPolicy>
+  <DrugPolicyInUse>นโยบายยาเสพติดที่อยู่ในการใช้งานโดย {0}</DrugPolicyInUse>
+  <SocialDrugs>ยาเสพติดสังคม</SocialDrugs>
+  <NoDrugs>ไม่ใช้ยาเสพติด</NoDrugs>
+  <OneDrinkPerDay>หนึ่งเครื่องดื่มต่อวัน</OneDrinkPerDay>
+  <Unrestricted>ไม่จำกัด</Unrestricted>
+  <NoDrugPolicySelected>นโยบายยาเสพติดไม่ได้เลือก</NoDrugPolicySelected>
+  <AddDrug>เพิ่มยาเสพติด...</AddDrug>
+  <DrugColumnLabel>ยา</DrugColumnLabel>
+  <DrugUsageColumnLabel>การใช้</DrugUsageColumnLabel>
+  <FrequencyColumnLabel>ความถี่</FrequencyColumnLabel>
+  <MoodThresholdColumnLabel>เฉพาะในกรณีที่อารมณ์ด้านล่าง</MoodThresholdColumnLabel>
+  <JoyThresholdColumnLabel>เฉพาะในกรณีที่มีความสุขด้านล่าง</JoyThresholdColumnLabel>
+  <TakeToInventoryColumnLabel>ใช้เวลาในการสินค้าคงคลัง</TakeToInventoryColumnLabel>
+  <NoDrugsBrackets>(ไม่ใช้ยาเสพติด)</NoDrugsBrackets>
+  <EveryDay>ทุกวัน</EveryDay>
+  <TimesPerDay>{0} ครั้งต่อวัน</TimesPerDay>
+  <EveryDays>ทุกๆ {0} ของวัย</EveryDays>
+  <NoDrugUseRequirement>ได้ทั้งหมด</NoDrugUseRequirement>
+  <DeleteDrugTooltip>ลบยานี้</DeleteDrugTooltip>
+  <DrugNameColumnDesc>ชื่อของยาเสพติด</DrugNameColumnDesc>
+  <DrugUsageColumnDesc>How the drug is allowed to be used.</DrugUsageColumnDesc>
+  <FrequencyColumnDesc>How often the colonists should try to take this drug.</FrequencyColumnDesc>
+  <MoodThresholdColumnDesc>The colonists will take this drug only if their mood level is below this threshold.</MoodThresholdColumnDesc>
+  <JoyThresholdColumnDesc>The colonists will take this drug only if their joy level is below this threshold.</JoyThresholdColumnDesc>
+  <TakeToInventoryColumnDesc>An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time.</TakeToInventoryColumnDesc>
+	<DrugUsageTipForAddiction>For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForAddiction>
+	<DrugUsageTipForJoy>For joy\n\nUse this drug for joy and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForJoy>
+  <DrugUsageTipScheduled>Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met.</DrugUsageTipScheduled>
+ 
+  <!-- Medical settings -->
+  <MedGroupDefaults>Defaults</MedGroupDefaults>
+  <MedGroupColonist>Colonist</MedGroupColonist>
+  <MedGroupImprisonedColonist>Imprisoned colonist</MedGroupImprisonedColonist>
+  <MedGroupColonyAnimal>Colony animal</MedGroupColonyAnimal>
+  <MedGroupNeutralAnimal>Neutral animal</MedGroupNeutralAnimal>
+  <MedGroupNeutralFaction>Neutral faction</MedGroupNeutralFaction>
+  <MedGroupHostileFaction>Hostile faction</MedGroupHostileFaction>
+ 
+  <!-- Growing -->
+  <NoGrowerCanPlant>{0} ต้องมี {1} ทักษะในการเติบโตที่จะหว่านเมล็ด\n\nNone of your non-downed growers have this skill, so this plant will not be sown.</NoGrowerCanPlant>
+ 
+  <!-- Abandon home -->
+  <ConfirmAbandonHomeWithColonyPawns>Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  <ConfirmAbandonHomeNegativeThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonHomeNegativeThoughts>
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>Everyone:</ConfirmAbandonHomeNegativeThoughts_Everyone>
+  
+  <!-- Move caravan and leave prisoners and animals behind -->
+  <ConfirmLeavePrisonersOrAnimalsBehind>There are still some prisoners or animals left in this area and this is the only caravan they can join at the moment.\n\nIf you move your caravan, they won't be able to leave the area until you are back. The prisoners will start escaping, while the animals will keep waiting for you.\n\nIf you decide to wait, they will try to join your caravan as soon as possible.\n\nAre you sure you want to move your caravan?</ConfirmLeavePrisonersOrAnimalsBehind>
+  
+  <!-- Abandon pawn -->
+  <ConfirmAbandonPawnDialog>Do you really want to abandon {0}?</ConfirmAbandonPawnDialog>
+  <ConfirmAbandonPawnDialog_LeftToDie>{0} ส่วนใหญ่มีแนวโน้มที่จะตาย</ConfirmAbandonPawnDialog_LeftToDie>
+  <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} will take the following items with HIM:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
+  <ConfirmAbandonPawnDialog_AllColonistsThoughts>All colonists will get the following thoughts:</ConfirmAbandonPawnDialog_AllColonistsThoughts>
+  <ConfirmAbandonPawnDialog_IndividualThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonPawnDialog_IndividualThoughts>
+  
+  <!-- Send transport pods which are not completely loaded -->
+  <ConfirmSendNotCompletelyLoadedPods>Pod group isn’t completely loaded. {0} is missing. Launch anyway?</ConfirmSendNotCompletelyLoadedPods>
   
 </LanguageData>
