@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- =========================== World conditions =======================-->
+
+    <Eclipse.label>สุริยุปราคา</Eclipse.label>
+    <Eclipse.letterLabel>สุริยุปราคา</Eclipse.letterLabel>
+    <Eclipse.letterText>ดวงจันทร์ดวงหนึ่งของดาวเคราะห์ดวงนี้ได้เคลื่อนตามวงโคจรผ่านมายังตำแหน่งหน้าดวงอาทิตย์ สุริยุปราคาเริ่มขึ้นแล้ว</Eclipse.letterText>
+
+    <SolarFlare.label>เปลวสุริยะ</SolarFlare.label>
+    <SolarFlare.letterLabel>เปลวสุริยะ</SolarFlare.letterLabel>
+    <SolarFlare.letterText>เปลวสุริยะได้เกิดขึ้น\n\nการแผ่รังสีเข้มข้นจะทำให้อุปกรณ์ไฟฟ้าทั้งหมดล่ม\n\nมันควรจะผ่านไปในระยะเวลาประมาณหนึ่งวัน</SolarFlare.letterText>
+
+	<!-- =========================== Site destination spawners =======================-->
+
+	<QuestBanditCamp.label>เควส: ค่ายโจร</QuestBanditCamp.label>
+	<QuestBanditCamp.letterLabel>เควส: ค่ายโจร</QuestBanditCamp.letterLabel>
+	<QuestBanditCamp.letterText>{0}, {1} จาก {2}, ส่งข้อความถึงเรา\n\nดังนั้นดูเหมือนว่าโจรโจมตีจากคลังสินค้าใกล้เคียงคาราวานของพวกเขา คุณได้ขอให้เราทำลายค่าย แม่นยำมากขึ้นคุณต้องการ โดยเฉพาะ: คุณต้องการที่ฝ่ายตรงข้ามและป้อมปืนทั้งหมดจะถูกปิด\n\nถ้าเราประสบความสำเร็จนี้จะปรับปรุงความสัมพันธ์ของเราและพวกเขาจะส่งให้เราได้รับรางวัลนี้\n\n{3}</QuestBanditCamp.letterText>
+
+	<QuestItemStash.label>เควส: ที่ซ่อนไอเทม</QuestItemStash.label>
+	<QuestItemStash.letterLabel>เควส: ที่ซ่อนไอเทม</QuestItemStash.letterLabel>
+	<QuestItemStash.letterText>{0}, {1} จาก {2}, ส่งข้อความถึงเรา\n\nพวกเขาได้เรียนรู้ที่จะพบว่าคอลเลกชันของรายการที่มีค่าในที่หลบภัยอยู่บริเวณใกล้เคียงรอ คอลเลกชันประกอบด้วย:\n\n{3}\n\nแต่น่าเสียดายที่จะไม่ได้อยู่ที่นั่นยาว - กลุ่มอื่น ๆ อยู่แล้วในทางและสถานที่ในการ {4} ถึงวันถ้าเราไม่ได้ไป\n\nของมีค่าที่ดึงดูดอันตรายจึงควรระมัดระวัง\n\n{5}</QuestItemStash.letterText>
+
+</LanguageData>

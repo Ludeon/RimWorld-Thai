@@ -5,5 +5,6 @@
   <Mate.reportString>จับคู่ผสมพันธุ์</Mate.reportString>
   <LayEgg.reportString>วางไข่</LayEgg.reportString>
   <PredatorHunt.reportString>ล่า TargetA</PredatorHunt.reportString>
-
+  <Maintain.reportString>รักษา TargetA.</Maintain.reportString>
+  
 </LanguageData>

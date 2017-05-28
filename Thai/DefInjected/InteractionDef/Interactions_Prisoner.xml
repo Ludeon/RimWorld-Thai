@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <PrisonerFriendlyChat.label>คุยกับนักโทษ</PrisonerFriendlyChat.label>
-  <PrisonerFriendlyChat.logRulesInitiator.rulesStrings.0>logentry->พยายามเกลี้ยกล่อม [other_nameShortIndef] เกี่ยวกับความดีงามของอาณานิคมนี้</PrisonerFriendlyChat.logRulesInitiator.rulesStrings.0>
-  <PrisonerFriendlyChat.logRulesRecipient.rulesStrings.0>logentry->ฟัง [other_nameShortIndef] พูดเรื่องที่ว่าอาณานิคมนี้น่าอยู่แค่ไหน</PrisonerFriendlyChat.logRulesRecipient.rulesStrings.0>
+  <BuildRapport.label>คุยกับนักโทษ</BuildRapport.label>
+  <BuildRapport.logRulesInitiator.rulesStrings.0>logentry->พยายามเกลี้ยกล่อม [other_nameShortIndef] เกี่ยวกับความดีงามของอาณานิคมนี้</BuildRapport.logRulesInitiator.rulesStrings.0>
+  <BuildRapport.logRulesRecipient.rulesStrings.0>logentry->ฟัง [other_nameShortIndef] พูดเรื่องที่ว่าอาณานิคมนี้น่าอยู่แค่ไหน</BuildRapport.logRulesRecipient.rulesStrings.0>
 
   <RecruitAttempt.label>พยายามรับสมัคร</RecruitAttempt.label>
   <RecruitAttempt.logRulesInitiator.rulesStrings.0>logentry->พยายามรับสมัคร [other_nameShortIndef]</RecruitAttempt.logRulesInitiator.rulesStrings.0>

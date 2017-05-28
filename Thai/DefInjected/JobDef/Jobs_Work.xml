@@ -6,17 +6,22 @@
   <HaulToCell.reportString>กำลังขน TargetA</HaulToCell.reportString>
   <HaulToContainer.reportString>กำลังขน TargetA</HaulToContainer.reportString>
 
+  <!--============= Special hauling ===============-->
+  
+  <Steal.reportString>ขโมย TargetA.</Steal.reportString>
+  <Kidnap.reportString>กำลังลักพาตัว TargetA</Kidnap.reportString>
+  <CarryDownedPawnToExit.reportString>กำลังขน TargetA.</CarryDownedPawnToExit.reportString>
+  
   <!-- Pawn hauling -->
 
   <Rescue.reportString>กำลังช่วยเหลือ TargetA</Rescue.reportString>
-  <CarryToCryptosleepCasket.reportString>กำลังแบก TargetA ไปยังโลงคริปโตสลีป</CarryToCryptosleepCasket.reportString>
+  <CarryToCryptosleepCasket.reportString>กำลังแบก TargetA ไปยังเครื่องนอนแช่แข็ง</CarryToCryptosleepCasket.reportString>
   <Capture.reportString>กำลังจับตัว TargetA</Capture.reportString>
   <Arrest.reportString>กำลังจับกุม TargetA</Arrest.reportString>
   <ReleasePrisoner.reportString>กำลังปล่อยตัว TargetA</ReleasePrisoner.reportString>
   <EscortPrisonerToBed.reportString>กำลังนำตัวนักโทษ TargetA ไปยังเตียง</EscortPrisonerToBed.reportString>
   <TakeWoundedPrisonerToBed.reportString>กำลังนำตัวนักโทษ TargetA ที่บาดเจ็บไปยังเตียง</TakeWoundedPrisonerToBed.reportString>
   <TakeToBedToOperate.reportString>กำลังนำ TargetA ไปยังเตียง</TakeToBedToOperate.reportString>
-  <Kidnap.reportString>กำลังลักพาตัว TargetA</Kidnap.reportString>
 
   <!-- Animal handling -->
 
@@ -26,12 +31,27 @@
   <Tame.reportString>กำลังทำ TargetA ให้เชื่อง</Tame.reportString>
   <Train.reportString>กำลังฝึก TargetA</Train.reportString>
 
+  
+  <!-- Construction and repair -->
+  
+  <PlaceNoCostFrame.reportString>กำลังสร้าง TargetA</PlaceNoCostFrame.reportString>
+  <FinishFrame.reportString>กำลังสร้าง TargetA</FinishFrame.reportString>
+  <Deconstruct.reportString>กำลังรื้อถอน TargetA</Deconstruct.reportString>
+  <Uninstall.reportString>กำลังถอด TargetA</Uninstall.reportString>
+  <Repair.reportString>กำลังซ่อมแซม TargetA</Repair.reportString>
+  <FixBrokenDownBuilding.reportString>กำลังเปลี่ยนชิ้นส่วนใน TargetA ที่เสียหาย</FixBrokenDownBuilding.reportString>
+  <BuildRoof.reportString>กำลังสร้างหลังคา</BuildRoof.reportString>
+  <RemoveRoof.reportString>กำลังถอนหลังคา</RemoveRoof.reportString>
+  
+  <!-- Medical -->
+  
+  <FeedPatient.reportString>กำลังป้อน TargetA ให้ TargetB</FeedPatient.reportString>
+  <TendPatient.reportString>กำลังตรงไปหา TargetA</TendPatient.reportString>
+  
+  
   <!-- Misc -->
 
   <DeliverFood.reportString>กำลังนำ TargetA ไปที่ TargetB</DeliverFood.reportString>
-  <FeedPatient.reportString>กำลังป้อน TargetA ให้ TargetB</FeedPatient.reportString>
-  <TendPatient.reportString>กำลังตรงไปหา TargetA</TendPatient.reportString>
-  <PlaceNoCostFrame.reportString>กำลังสร้าง TargetA</PlaceNoCostFrame.reportString>
   <DoBill.reportString>กำลังทำตามใบสั่งอยู่ที่ TargetA</DoBill.reportString>
   <Clean.reportString>กำลังทำความสะอาด TargetA</Clean.reportString>
   <Research.reportString>กำลังวิจัย</Research.reportString>
@@ -40,17 +60,13 @@
   <Mine.reportString>กำลังขุดเหมือง</Mine.reportString>
   <SmoothFloor.reportString>กำลังขัดพื้น</SmoothFloor.reportString>
   <RemoveFloor.reportString>กำลังเอาพื้นออก</RemoveFloor.reportString>
-  <Repair.reportString>กำลังซ่อมแซม TargetA</Repair.reportString>
-  <FixBrokenDownBuilding.reportString>กำลังเปลี่ยนชิ้นส่วนใน TargetA ที่เสียหาย</FixBrokenDownBuilding.reportString>
-  <FinishFrame.reportString>กำลังสร้าง TargetA</FinishFrame.reportString>
   <Sow.reportString>กำลังหว่านเมล็ด TargetA</Sow.reportString>
   <Harvest.reportString>กำลังเก็บเกี่ยว TargetA</Harvest.reportString>
   <CutPlant.reportString>กำลังตัด TargetA</CutPlant.reportString>
-  <Deconstruct.reportString>กำลังรื้อถอน TargetA</Deconstruct.reportString>
-  <Uninstall.reportString>กำลังถอด TargetA</Uninstall.reportString>
   <PrisonerFriendlyChat.reportString>กำลังคุยกับนักโทษ TargetA</PrisonerFriendlyChat.reportString>
   <PrisonerAttemptRecruit.reportString>กำลังพยายามชักชวน TargetA</PrisonerAttemptRecruit.reportString>
   <PrisonerExecution.reportString>กำลังประหาร TargetA</PrisonerExecution.reportString>
   <BuryCorpse.reportString>กำลังฝัง TargetA</BuryCorpse.reportString>
-
+  <OperateDeepDrill.reportString>กำลังเจาะ TargetA.</OperateDeepDrill.reportString>
+  
 </LanguageData>

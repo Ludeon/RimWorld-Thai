@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Special mental states -->
+
+  <WanderConfused.label>ความสับสน</WanderConfused.label>
+  <WanderConfused.beginLetterLabel>ความสับสน</WanderConfused.beginLetterLabel>
+  <WanderConfused.beginLetter>{0} ได้หักลงและเดินไปรอบ ๆ สับสน</WanderConfused.beginLetter>
+  <WanderConfused.recoveryMessage>{0} จะไม่สับสน</WanderConfused.recoveryMessage>
+  <WanderConfused.baseInspectLine>สภาพจิตใจ: สับสนและหลง</WanderConfused.baseInspectLine>
+
+  <PanicFlee.label>หนีอย่างเสียขวัญ</PanicFlee.label>
+  <PanicFlee.beginLetterLabel>หนี</PanicFlee.beginLetterLabel>
+  <PanicFlee.beginLetter>{0} กำลังหนีอย่างเสียขวัญ</PanicFlee.beginLetter>
+  <PanicFlee.recoveryMessage>{0} เลิกหนีอย่างเสียขวัญแล้ว</PanicFlee.recoveryMessage>
+  <PanicFlee.inspectLine>ภาวะทางจิต: หนีอย่างเสียขวัญ</PanicFlee.inspectLine>
+
+  <Manhunter.label>ออกล่ามนุษย์</Manhunter.label>
+  <Manhunter.beginLetterLabel>ล่ามนุษย์</Manhunter.beginLetterLabel>
+  <Manhunter.beginLetter>{0} หันมาล่ามนุษย์!</Manhunter.beginLetter>
+  <Manhunter.recoveryMessage>ความกระหายเลือดของ {0} ได้หมดลงแล้ว</Manhunter.recoveryMessage>
+  <Manhunter.inspectLine>หงุดหงิดบ้าคลั่ง: ออกล่ามนุษย์</Manhunter.inspectLine>
+
+  <ManhunterPermanent.label>ออกล่ามนุษย์ตลอด</ManhunterPermanent.label>
+  <ManhunterPermanent.beginLetterLabel>ล่ามนุษย์</ManhunterPermanent.beginLetterLabel>
+  <ManhunterPermanent.beginLetter>{0} หันมาล่ามนุษย์</ManhunterPermanent.beginLetter>
+  <ManhunterPermanent.recoveryMessage>กระหายเลือดของ {0} ได้หมดลงแล้ว</ManhunterPermanent.recoveryMessage>
+  <ManhunterPermanent.baseInspectLine>หงุดหงิดบ้าคลั่ง: ออกล่ามนุษย์</ManhunterPermanent.baseInspectLine>
+  
+  <SocialFighting.label>ทะเลาะ</SocialFighting.label>
+  <SocialFighting.recoveryMessage>{0} เลิกทะเลาะแล้ว</SocialFighting.recoveryMessage>
+  <SocialFighting.inspectLine>ภาวะทางจิต: ทะเลาะ</SocialFighting.inspectLine>
+
+</LanguageData>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Mental breaks: extreme -->
+
+  <Berserk.label>บ้าคลั่ง</Berserk.label>
+  <Berserk.beginLetterLabel>บ้าคลั่ง</Berserk.beginLetterLabel>
+  <Berserk.beginLetter>{0} เกิดอาการบ้าคลั่ง!</Berserk.beginLetter>
+  <Berserk.recoveryMessage>โทสะของ {0} ที่ทำให้บ้าคลั่งระงับลงแล้ว</Berserk.recoveryMessage>
+  <Berserk.inspectLine>ภาวะทางจิต: บ้าคลั่ง</Berserk.inspectLine>
+
+  <FireStartingSpree.label>จุดไฟด้วยความสนุกสนาน</FireStartingSpree.label>
+  <FireStartingSpree.beginLetterLabel>จุดไฟด้วยความสนุกสนาน</FireStartingSpree.beginLetterLabel>
+  <FireStartingSpree.beginLetter>{0} จุดไฟด้วยความสนุกสนาน.</FireStartingSpree.beginLetter>
+  <FireStartingSpree.recoveryMessage>{0} เลิกจุดไฟด้วยความสนุกสนาน</FireStartingSpree.recoveryMessage>
+  <FireStartingSpree.baseInspectLine>ภาวะทางจิต: จุดไฟด้วยความสนุกสนาน</FireStartingSpree.baseInspectLine>
+
+  <GiveUpExit.label>ออกจากอาณานิคม</GiveUpExit.label>
+  <GiveUpExit.beginLetterLabel>ออกจากอาณานิคม</GiveUpExit.beginLetterLabel>
+  <GiveUpExit.beginLetter>{0} จะออกจากอาณานิคม</GiveUpExit.beginLetter>
+  <GiveUpExit.recoveryMessage>{0} ได้มีการเปลี่ยนแปลงของจิตใจและจะกลับเข้ามาอาณานิคม</GiveUpExit.recoveryMessage>
+  <GiveUpExit.baseInspectLine>ภาวะทางจิต: ออกจากอาณานิคม</GiveUpExit.baseInspectLine>
+
+  
+  <BingingDrugExtreme.label>มึนเมายาเสพติด</BingingDrugExtreme.label>
+  <BingingDrugExtreme.baseInspectLine>สภาพ: มึนเมายาเสพติด</BingingDrugExtreme.baseInspectLine>
+  
+  <!-- Mental breaks: serious -->
+
+  <BingingDrugMajor.label>มึนเมายาเสพติด</BingingDrugMajor.label>
+  <BingingDrugMajor.baseInspectLine>สภาพ: มึนเมายาเสพติด</BingingDrugMajor.baseInspectLine>
+
+  <WanderPsychotic.label>โรคจิต</WanderPsychotic.label>
+  <WanderPsychotic.beginLetterLabel>ความงุนงง</WanderPsychotic.beginLetterLabel>
+  <WanderPsychotic.beginLetter>{0} จะเดินไปรอบ ๆ ในรัฐโรคจิต</WanderPsychotic.beginLetter>
+  <WanderPsychotic.recoveryMessage>{0} เลิกโรคจิต</WanderPsychotic.recoveryMessage>
+  <WanderPsychotic.baseInspectLine>ภาวะทางจิต: โรคจิต</WanderPsychotic.baseInspectLine>
+
+  <!-- Mental breaks: minor -->
+
+  <BingingFood.label>กินอาหารอย่างบ้าคลั่ง</BingingFood.label>
+  <BingingFood.beginLetterLabel>กินอาหารอย่างบ้าคลั่ง</BingingFood.beginLetterLabel>
+  <BingingFood.beginLetter>{0} กินอาหารอย่างบ้าคลั่ง</BingingFood.beginLetter>
+  <BingingFood.recoveryMessage>{0} เลิกกินอาหารอย่างบ้าคลั่ง</BingingFood.recoveryMessage>
+  <BingingFood.baseInspectLine>ภาวะทางจิต: กินอาหารอย่างบ้าคลั่ง</BingingFood.baseInspectLine>
+  
+  <WanderSad.label>โศกเศร้า</WanderSad.label>
+  <WanderSad.beginLetterLabel>โศกเศร้า</WanderSad.beginLetterLabel>
+  <WanderSad.beginLetter>{0} จะเดินไปรอบ ๆ ในความโศกเศร้า</WanderSad.beginLetter>
+  <WanderSad.recoveryMessage>{0} เลิกในความโศกเศร้า</WanderSad.recoveryMessage>
+  <WanderSad.baseInspectLine>ภาวะทางจิต: โศกเศร้า</WanderSad.baseInspectLine>
+  
+  <WanderOwnRoom.label>นั่งอยู่คนเดียว</WanderOwnRoom.label>
+  <WanderOwnRoom.beginLetterLabel>ซ่อนตัวอยู่ในห้องพัก</WanderOwnRoom.beginLetterLabel>
+  <WanderOwnRoom.beginLetter>{0} ซ่อนอยู่ในห้องของเขา</WanderOwnRoom.beginLetter>
+  <WanderOwnRoom.recoveryMessage>{0} เลิกซ่อนอยู่ในห้องของเขา</WanderOwnRoom.recoveryMessage>
+  <WanderOwnRoom.baseInspectLine>ภาวะทางจิต: นั่งอยู่คนเดียว</WanderOwnRoom.baseInspectLine>
+
+
+
+  <!-- Unused? -->
+
+</LanguageData>

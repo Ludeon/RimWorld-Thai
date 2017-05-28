@@ -17,4 +17,8 @@
   <Insult.logRulesInitiator.rulesStrings.0>logentry->สบประมาท [other_nameShortIndef]</Insult.logRulesInitiator.rulesStrings.0>
   <Insult.logRulesRecipient.rulesStrings.0>logentry->ถูก [other_nameShortIndef] สบประมาท</Insult.logRulesRecipient.rulesStrings.0>
 
+  <KindWords.label>คำพูดดีๆ</KindWords.label>
+  <KindWords.logRulesInitiator.rulesStrings.0>logentry->คำพูดดีๆกับ [other_nameShortIndef]</KindWords.logRulesInitiator.rulesStrings.0>
+  <KindWords.logRulesRecipient.rulesStrings.0>logentry->ถูก [other_nameShortIndef] คำพูดดีๆ</KindWords.logRulesRecipient.rulesStrings.0>
+
 </LanguageData>

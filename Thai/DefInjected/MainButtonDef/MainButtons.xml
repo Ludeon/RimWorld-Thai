@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Inspect.label>ตรวจสอบ</Inspect.label>
+
+  <Architect.label>สถาปัตยกรรม</Architect.label>
+  <Architect.description>กำหนดสถานที่และสิ่งอาณานิคมสร้างการเติบโตของการสร้าง ฯลฯ</Architect.description>
+
+  <Work.label>งาน</Work.label>
+  <Work.description>ตัดสินใจให้ชาวอาณานิคม เลือกงานที่จะทำ</Work.description>
+
+  <Restrict.label>ข้อจำกัด</Restrict.label>
+  <Restrict.description>การ จำกัด ชนิดของการดำเนินงานให้ชาวอาณานิคมในระหว่างวันหรือกำหนดที่เขาอาจจะอยู่</Restrict.description>
+
+  <Assign.label>มอบหมาย</Assign.label>
+  <Assign.description>ตัดสินใจเลือกสิ่งที่ประเภทของเสื้อผ้าที่จะต้องแบกรับโดยแต่ละอาณานิคมและวิธีการที่จะตอบสนองต่อศัตรูที่อยู่ใกล้</Assign.description>
+
+  <Animals.label>สัตว์</Animals.label>
+  <Animals.description>ตัดสินใจว่าสัตว์ที่เชื่องของอาณานิคมได้รับการรักษา</Animals.description>
+
+  <Research.label>วิจัย</Research.label>
+  <Research.description>ตรวจสอบการวิจัยและความก้าวหน้าของการวิจัย</Research.description>
+
+  <World.label>โลก</World.label>
+  <World.description>ดูแผนที่โลก</World.description>
+
+  <History.label>ประวัติ</History.label>
+  <History.description>ตรวจสอบบันทึกของประวัติศาสตร์ของอาณานิคม</History.description>
+
+  <Factions.label>ฝ่าย</Factions.label>
+  <Factions.description>วิธีการตรวจสอบทัศนคติของกลุ่มการเมืองอื่น ๆ เพื่ออาณานิคม</Factions.description>
+
+  <Menu.label>เมนู</Menu.label>
+  <Menu.description>ตัวเลือกอื่น ๆ , บันทึก, โหลดหรือออกจากเกม</Menu.description>
+
+</LanguageData>
