@@ -38,28 +38,28 @@
   <MyOrganHarvested.stages.0.description>ชาวอาณานิคมตัดอวัยวะของฉันออกไป! พวกเขารื้อชิ้นส่วนฉันอย่างกับเป็นเครื่องยนต์เก่าๆ!</MyOrganHarvested.stages.0.description>
 
   <WasImprisoned.stages.0.label>ถูกคุมขัง</WasImprisoned.stages.0.label>
-  <WasImprisoned.stages.0.description>Die Kolonie hat mich eine Weile eingesperrt, als wär' ich ein wildes Tier.</WasImprisoned.stages.0.description>
+  <WasImprisoned.stages.0.description>ฉันถูกขังเหมือนสัตว์ในกรง</WasImprisoned.stages.0.description>
 
   <GreenThumbHappy.stages.0.label>ปลูกพืช</GreenThumbHappy.stages.0.label>
-  <GreenThumbHappy.stages.0.description>Was die Welt braucht, sind mehr Pflanzen!</GreenThumbHappy.stages.0.description>
+  <GreenThumbHappy.stages.0.description>สิ่งที่โลกต้องการคือพืชมากขึ้น!</GreenThumbHappy.stages.0.description>
 
   <Catharsis.stages.0.label>ปลดปล่อยอารมณ์</Catharsis.stages.0.label>
-  <Catharsis.stages.0.description>Was gerade passiert ist... Das war ich nicht. Ich weiß, dass ich das besser kann.</Catharsis.stages.0.description>
+  <Catharsis.stages.0.description>รู้สึกดีที่ได้ปลดปล่อยความรู้สึกของฉันในที่สุด</Catharsis.stages.0.description>
 
-  <Nuzzled.stages.0.label>ดนด้วยจมูกเบาๆ</Nuzzled.stages.0.label>
-  <Nuzzled.stages.0.description>Ein süßes Tier ließ sich von mir hätscheln.</Nuzzled.stages.0.description>
+  <Nuzzled.stages.0.label>ถูกสัตว์อ้อน</Nuzzled.stages.0.label>
+  <Nuzzled.stages.0.description>สัตว์น่ารักอ้อนฉัน</Nuzzled.stages.0.description>
 
   <KnowBuriedInSarcophagus.stages.0.label>ฝังคมในโลงศพ</KnowBuriedInSarcophagus.stages.0.label>
-  <KnowBuriedInSarcophagus.stages.0.description>Diese Kolonie hat jemanden in einem reich verzierten Sarkophag begraben. Möge seine Seele in Frieden ruhen.</KnowBuriedInSarcophagus.stages.0.description>
+  <KnowBuriedInSarcophagus.stages.0.description>อาณานิคมนี้ได้ฝังคนที่อยู่ในโลงศพหรูหรา จิตวิญญาณของเขาอาจอยู่ในความสงบ</KnowBuriedInSarcophagus.stages.0.description>
 
   
   <!-- Human corpse butchering -->
 
   <ButcheredHumanlikeCorpse.stages.0.label>ฉันฆ่ามนุษย์</ButcheredHumanlikeCorpse.stages.0.label>
-  <ButcheredHumanlikeCorpse.stages.0.description>Ich habe jemanden geschlachtet. Als wär's ein Tier.</ButcheredHumanlikeCorpse.stages.0.description>
+  <ButcheredHumanlikeCorpse.stages.0.description>ฉันได้ฆ่าคน ราวกับว่ามันเป็นสัตว์</ButcheredHumanlikeCorpse.stages.0.description>
 
   <KnowButcheredHumanlikeCorpse.stages.0.label>พวกเราฆ่ามนุษย์</KnowButcheredHumanlikeCorpse.stages.0.label>
-  <KnowButcheredHumanlikeCorpse.stages.0.description>Wir haben jemanden geschlachtet. Als wär's ein Tier.</KnowButcheredHumanlikeCorpse.stages.0.description>
+  <KnowButcheredHumanlikeCorpse.stages.0.description>เราได้ฆ่าคน ราวกับว่ามันเป็นสัตว์</KnowButcheredHumanlikeCorpse.stages.0.description>
 
   
   <!-- Combat -->
