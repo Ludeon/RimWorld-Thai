@@ -24,11 +24,11 @@
   <FriendlyRaidCenterDrop>กลุ่มพันธมิตร {0} ของ {1} ได้ลดลงจากวงโคจรขวาด้านบนของคุณ!</FriendlyRaidCenterDrop>
   <FriendlyRaidLeaderPresent>หนึ่งใน {0} - {1} เป็นผู้นำของฝ่าย</FriendlyRaidLeaderPresent>
   
-  <LetterLabelRefugeePodCrash>โดรนหลบหนี</LetterLabelRefugeePodCrash>
-  <RefugeePodCrash>คุณได้ตรวจพบโดรนหลบหนีอยู่บริเวณใกล้เคียงกระแทกอย่างหนัก\n\nถ้าใครรอดชีวิตจะส่งผลกระทบจากการได้รับบาดเจ็บสาหัส</RefugeePodCrash>
+  <LetterLabelRefugeePodCrash>การะสวยหลบหนี</LetterLabelRefugeePodCrash>
+  <RefugeePodCrash>คุณได้ตรวจพบหระสวยหลบหนีอยู่บริเวณใกล้เคียงโดนกระแทกอย่างหนัก\n\nถ้าใครรอดชีวิตจากกระสวยจากการกระแทกอย่างหนักเขาจะได้รับบาดเจ็บสาหัส</RefugeePodCrash>
 
-  <LetterLabelCargoPodCrash>โดรน cargo</LetterLabelCargoPodCrash>
-  <CargoPodCrash>คุณได้ตรวจพบกลุ่มของโดรน cargo อยู่บริเวณใกล้เคียง\n\nบางทีคุณอาจจะพบสิ่งที่มีประโยชน์ในซากปรักหักพัง</CargoPodCrash>
+  <LetterLabelCargoPodCrash>กระสวยสิ่งของ</LetterLabelCargoPodCrash>
+  <CargoPodCrash>คุณได้ตรวจพบกลุ่มของกระสวยสิ่งของอยู่บริเวณใกล้เคียง\n\nบางทีคุณอาจจะพบสิ่งที่มีประโยชน์ในซากกระสวย</CargoPodCrash>
 
   <AnElectricalConduit>ท่อสายไฟ</AnElectricalConduit>
   <ShortCircuit>ความผิดพลาดใน {0} ได้ก่อให้เกิดการลัดวงจร \n\nทั้งหมด {1} ของพลังงานในแบตเตอรี่ ที่เชื่อมต่อได้ปล่อยออกมา ทำให้เกิดการลัดวงจรจึงระเบิด</ShortCircuit>
