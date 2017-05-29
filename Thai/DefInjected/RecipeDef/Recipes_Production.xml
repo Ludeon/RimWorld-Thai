@@ -17,20 +17,20 @@
   <DestroyWeapon.description>Verwende Wärme, um nicht benötigte Waffen zu zerstören. Schneller als Einschmelzen und funktioniert auch bei nicht schmelzbaren Waffen, erzeugt aber keine Rohstoffe.</DestroyWeapon.description>
   <DestroyWeapon.jobString>กำลังทำลายอาวุธ</DestroyWeapon.jobString>
   
-  <MakeMortarShell.label>ผลิต กระสุนปืนใหญ่</MakeMortarShell.label>
-  <MakeMortarShell.description>ผลิตกระสุนปืนใหญ่ขี้นมาจากฝีมือ</MakeMortarShell.description>
-  <MakeMortarShell.jobString>กำลังผลิตกระสุนปืนใหญ่</MakeMortarShell.jobString>
+  <MakeMortarShell.label>ทำ กระสุนปืนใหญ่</MakeMortarShell.label>
+  <MakeMortarShell.description>ทำกระสุนปืนใหญ่ขี้นมาจากฝีมือ</MakeMortarShell.description>
+  <MakeMortarShell.jobString>กำลังทำกระสุนปืนใหญ่</MakeMortarShell.jobString>
 
-  <MakeComponent.label>ผลิต ส่วนประกอบ</MakeComponent.label>
-  <MakeComponent.description>ผลิตส่วนประกอบขึ้นมา</MakeComponent.description>
-  <MakeComponent.jobString>กำลังผลิตส่วนประกอบ</MakeComponent.jobString>
+  <MakeComponent.label>ทำ ส่วนประกอบ</MakeComponent.label>
+  <MakeComponent.description>ทำส่วนประกอบขึ้นมา</MakeComponent.description>
+  <MakeComponent.jobString>กำลังทำส่วนประกอบ</MakeComponent.jobString>
 
-  <MakeChemfuelFromWood.label>ผลิต เชื้อเพลิง (ไม้)</MakeChemfuelFromWood.label>
+  <MakeChemfuelFromWood.label>ทำ เชื้อเพลิง (ไม้)</MakeChemfuelFromWood.label>
   <MakeChemfuelFromWood.description>Raffiniere Kraftstoff durch Vergasen von Holz.</MakeChemfuelFromWood.description>
-  <MakeChemfuelFromWood.jobString>กำลังผลิตเชื้อเพลิง</MakeChemfuelFromWood.jobString>
+  <MakeChemfuelFromWood.jobString>กำลังทำเชื้อเพลิง</MakeChemfuelFromWood.jobString>
 
-  <MakeChemfuelFromOrganics.label>ผลิต เชื้อเพลิง (ออร์แกนิค)</MakeChemfuelFromOrganics.label>
+  <MakeChemfuelFromOrganics.label>ทำ เชื้อเพลิง (ออร์แกนิค)</MakeChemfuelFromOrganics.label>
   <MakeChemfuelFromOrganics.description>Raffiniere Kraftstoff, indem Biodiesel aus organischer Materie extrahiert wird.</MakeChemfuelFromOrganics.description>
-  <MakeChemfuelFromOrganics.jobString>กำลังผลิตเชื้อเพลิง</MakeChemfuelFromOrganics.jobString>
+  <MakeChemfuelFromOrganics.jobString>กำลังทำเชื้อเพลิง</MakeChemfuelFromOrganics.jobString>
 
 </LanguageData>

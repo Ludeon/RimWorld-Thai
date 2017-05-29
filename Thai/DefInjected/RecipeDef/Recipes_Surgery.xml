@@ -4,12 +4,12 @@
   <!-- removing body parts -->
 
   <RemoveBodyPart.label>เอา อวัยวะออก</RemoveBodyPart.label>
-  <RemoveBodyPart.description>เอา อวัยวะออกไป</RemoveBodyPart.description>
-  <RemoveBodyPart.jobString>กำลังเอา อวัยวะออก</RemoveBodyPart.jobString>
+  <RemoveBodyPart.description>เอาอวัยวะออกไป</RemoveBodyPart.description>
+  <RemoveBodyPart.jobString>กำลังเอาอวัยวะออก</RemoveBodyPart.jobString>
 
   <RemoveMechanoidBodyPart.label>เอาชิ้นส่วน อวัยวะออก</RemoveMechanoidBodyPart.label>
-  <RemoveMechanoidBodyPart.description>เอาชิ้นส่วน อวัยวะของเมคานอยด์ออก</RemoveMechanoidBodyPart.description>
-  <RemoveMechanoidBodyPart.jobString>กำลังเอาชิ้นส่วน อวัยวะออก</RemoveMechanoidBodyPart.jobString>
+  <RemoveMechanoidBodyPart.description>เอาชิ้นส่วนอวัยวะของเมคานอยด์ออก</RemoveMechanoidBodyPart.description>
+  <RemoveMechanoidBodyPart.jobString>กำลังเอาชิ้นส่วนอวัยวะออก</RemoveMechanoidBodyPart.jobString>
 
 
   <!-- Anesthetize -->
