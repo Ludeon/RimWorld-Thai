@@ -3,14 +3,14 @@
 
   <MessageSiegersAssaulting>การล้อม {0} จาก {1} กำลังทำร้ายอาณานิคม</MessageSiegersAssaulting>
 
-  <MessageRaidersBeginningAssault>{0} จาก {1} กำลังเริ่มทำร้ายร่างกาย</MessageRaidersBeginningAssault>
+  <MessageRaidersBeginningAssault>{0} จาก {1} กำลังเริ่มโจมตี</MessageRaidersBeginningAssault>
   <MessageRaidersDetectedEarlyAssault>{0} จาก {1} ตรวจพบคุณและเริ่มทำการโจมตีในช่วงต้น</MessageRaidersDetectedEarlyAssault>
-  <MessageRaidersKidnapping>{0} จาก {1} ได้ตัดสินใจที่จะลักพาตัวผู้ที่สามารถทำได้และออกเดินทาง</MessageRaidersKidnapping>
-  <MessageRaidersStealing>{0} จาก {1} ได้ตัดสินใจที่จะขโมยสิ่งที่พวกเขาสามารถทำได้และออกไป</MessageRaidersStealing>
+  <MessageRaidersKidnapping>{0} จาก {1} ได้ตัดสินใจที่จะลักพาตัวและออกเดินทาง</MessageRaidersKidnapping>
+  <MessageRaidersStealing>{0} จาก {1} ได้ตัดสินใจที่จะขโมยสิ่งของและออกเดินทาง</MessageRaidersStealing>
 
   <MessageRaidersLeaving>{0} จาก {1} กำลังจะออกเดินทาง</MessageRaidersLeaving>
-	<MessageRaidersGivenUpLeaving>{0} จาก {1} ลุกขึ้นและออกไป</MessageRaidersGivenUpLeaving>
-  <MessageRaidersSatisfiedLeaving>{0} จาก {1} พอใจกับความเสียหายที่เกิดขึ้นและกำลังจะออก</MessageRaidersSatisfiedLeaving>
+	<MessageRaidersGivenUpLeaving>{0} จาก {1} ลุกขึ้นและออกเดินทาง</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} จาก {1} พอใจกับความเสียหายที่เกิดขึ้นและกำลังจะออกเดินทาง</MessageRaidersSatisfiedLeaving>
 
   <MessageFightersFleeing>{0} จาก {1} กำลังหลบหนี</MessageFightersFleeing>
   <MessageFriendlyFightersLeaving>เป็นมิตร {0} จาก {1} กำลังจะออกเดินทาง</MessageFriendlyFightersLeaving>
@@ -71,7 +71,7 @@
   
   <PawnDiedBecauseOf>{0} ตายเพราะ {1}.</PawnDiedBecauseOf>
 
-  <MessageNoLongerDowned>{0} ไม่สามารถเดินได้อีกต่อไป</MessageNoLongerDowned>
+  <MessageNoLongerDowned>{0} ไม่ยอมเชื้อฟังอีกต่อไป</MessageNoLongerDowned>
 
   <MessageInvoluntarySleep>{0} ยุบลงเนื่องจากความเหนื่อยล้าอย่างมาก</MessageInvoluntarySleep>
 

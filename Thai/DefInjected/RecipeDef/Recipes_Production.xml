@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <MakeStoneBlocks.label>สร้างบล็อกหิน</MakeStoneBlocks.label>
+  <MakeStoneBlocks.label>สร้าง บล็อกหิน</MakeStoneBlocks.label>
   <MakeStoneBlocks.description>ตัดก้อนหินให้กลายเป็นบล็อกที่ใช้งานได้</MakeStoneBlocks.description>
   <MakeStoneBlocks.jobString>กำลังตัดหิน</MakeStoneBlocks.jobString>
 
-  <ExtractMetalFromSlag.label>หลอมโลหะจากขี้แร่</ExtractMetalFromSlag.label>
+  <ExtractMetalFromSlag.label>หลอมโลหะ จากขี้แร่</ExtractMetalFromSlag.label>
   <ExtractMetalFromSlag.description>ใช้ความร้อนและแม่เหล็กไฟฟ้าแรงสูง เพื่อแยกโลหะที่มีประโยชน์ออกจากก้อนขี้แร่</ExtractMetalFromSlag.description>
   <ExtractMetalFromSlag.jobString>กำลังสกัดโลหะอกกจากขี้แร่</ExtractMetalFromSlag.jobString>
 
-  <SmeltWeapon.label>หลอมโลหะจากอาวุธ</SmeltWeapon.label>
+  <SmeltWeapon.label>หลอมโลหะ จากอาวุธ</SmeltWeapon.label>
   <SmeltWeapon.description>ใช้ความร้อนและแม่เหล็กไฟฟ้าแรงสูง เพื่อแยกโลหะที่มีประโยชน์ออกจากอาวุธ</SmeltWeapon.description>
   <SmeltWeapon.jobString>กำลังหลอมโลหะจากอาวุธ</SmeltWeapon.jobString>
 
-  <DestroyWeapon.label>ทำลายอาวุธ</DestroyWeapon.label>
+  <DestroyWeapon.label>ทำลาย อาวุธ</DestroyWeapon.label>
   <DestroyWeapon.description>Verwende Wärme, um nicht benötigte Waffen zu zerstören. Schneller als Einschmelzen und funktioniert auch bei nicht schmelzbaren Waffen, erzeugt aber keine Rohstoffe.</DestroyWeapon.description>
   <DestroyWeapon.jobString>กำลังทำลายอาวุธ</DestroyWeapon.jobString>
   
-  <MakeArtilleryShell.label>ผลิตกระสุนปืนใหญ่</MakeArtilleryShell.label>
+  <MakeArtilleryShell.label>ผลิต กระสุนปืนใหญ่</MakeArtilleryShell.label>
   <MakeArtilleryShell.description>ผลิตกระสุนปืนใหญ่ขี้นมาจากฝีมือ</MakeArtilleryShell.description>
   <MakeArtilleryShell.jobString>กำลังผลิตกระสุนปืนใหญ่</MakeArtilleryShell.jobString>
 
-  <MakeComponent.label>ผลิตส่วนประกอบ</MakeComponent.label>
+  <MakeComponent.label>ผลิต ส่วนประกอบ</MakeComponent.label>
   <MakeComponent.description>ผลิตส่วนประกอบขึ้นมา</MakeComponent.description>
   <MakeComponent.jobString>กำลังผลิตส่วนประกอบ</MakeComponent.jobString>
 
-  <MakeChemfuelFromWood.label>ผลิตเชื้อเพลิง (ไม้)</MakeChemfuelFromWood.label>
+  <MakeChemfuelFromWood.label>ผลิต เชื้อเพลิง (ไม้)</MakeChemfuelFromWood.label>
   <MakeChemfuelFromWood.description>Raffiniere Kraftstoff durch Vergasen von Holz.</MakeChemfuelFromWood.description>
-  <MakeChemfuelFromWood.jobString>กำลังผลิตน้ำมัน</MakeChemfuelFromWood.jobString>
+  <MakeChemfuelFromWood.jobString>กำลังผลิตเชื้อเพลิง</MakeChemfuelFromWood.jobString>
 
-  <MakeChemfuelFromOrganics.label>ผลิตเชื้อเพลิง (ออร์แกนิค)</MakeChemfuelFromOrganics.label>
+  <MakeChemfuelFromOrganics.label>ผลิต เชื้อเพลิง (ออร์แกนิค)</MakeChemfuelFromOrganics.label>
   <MakeChemfuelFromOrganics.description>Raffiniere Kraftstoff, indem Biodiesel aus organischer Materie extrahiert wird.</MakeChemfuelFromOrganics.description>
-  <MakeChemfuelFromOrganics.jobString>กำลังผลิตน้ำมัน</MakeChemfuelFromOrganics.jobString>
+  <MakeChemfuelFromOrganics.jobString>กำลังผลิตเชื้อเพลิง</MakeChemfuelFromOrganics.jobString>
 
 
 </LanguageData>

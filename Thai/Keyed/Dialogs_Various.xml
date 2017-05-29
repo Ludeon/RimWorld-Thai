@@ -65,12 +65,12 @@
   <LoadAnyway>โหลดไม่ว่าอย่างไรก็ตาม</LoadAnyway>
 
   <!-- Player faction naming -->
-  <NamePlayerFactionMessage>{0} คิดว่าคุณควรให้ฝ่ายของคุณชื่อ ฝ่ายไหนควรได้รับการเรียก</NamePlayerFactionMessage>
+  <NamePlayerFactionMessage>{0} คิดว่าคุณควรตั้งชื่อฝ่ายของคุณ ฝ่ายอื่นจะได้เรียกชื่อฝ่ายของคุณ</NamePlayerFactionMessage>
   <PlayerFactionGainsName>ฝ่ายของคุณเป็นที่รู้จักกันในชื่อ {0}.</PlayerFactionGainsName>
   <PlayerFactionNameIsInvalid>ชื่อนี้ไม่ถูกต้อง</PlayerFactionNameIsInvalid>
 
   <!-- Player faction base naming -->
-  <NamePlayerFactionBaseMessage>เนื่องจากดูเหมือนว่าคุณจะอยู่ที่นี่มาระยะหนึ่ง {0} คิดว่าคุณควรให้ชื่อชุมชนนี้ ชุมชนท้องถิ่นควรได้รับการเรียก</NamePlayerFactionBaseMessage>
+  <NamePlayerFactionBaseMessage>เนื่องจากดูเหมือนว่าคุณจะอยู่ที่นี่มาระยะหนึ่ง {0} คิดว่าคุณควรตั้งชื่อชุมชนนี้ ชุมชนท้องถิ่นควรได้รับการเรียก</NamePlayerFactionBaseMessage>
   <PlayerFactionBaseGainsName>ชุมชนนี้เป็นที่รู้จักในฐานะ {0}.</PlayerFactionBaseGainsName>
   <PlayerFactionBaseNameIsInvalid>ชื่อนี้ไม่ถูกต้อง</PlayerFactionBaseNameIsInvalid>
   

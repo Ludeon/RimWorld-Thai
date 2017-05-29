@@ -3,18 +3,18 @@
 
   <!-- removing body parts -->
 
-  <RemoveBodyPart.label>เอาอวัยวะออก</RemoveBodyPart.label>
-  <RemoveBodyPart.description>เอาอวัยวะออกไป</RemoveBodyPart.description>
-  <RemoveBodyPart.jobString>กำลังเอาอวัยวะออก</RemoveBodyPart.jobString>
+  <RemoveBodyPart.label>เอา อวัยวะออก</RemoveBodyPart.label>
+  <RemoveBodyPart.description>เอา อวัยวะออกไป</RemoveBodyPart.description>
+  <RemoveBodyPart.jobString>กำลังเอา อวัยวะออก</RemoveBodyPart.jobString>
 
-  <RemoveMechanoidBodyPart.label>เอาชิ้นส่วนอวัยวะออก</RemoveMechanoidBodyPart.label>
-  <RemoveMechanoidBodyPart.description>เอาชิ้นส่วนอวัยวะของเมคานอยด์ออก</RemoveMechanoidBodyPart.description>
-  <RemoveMechanoidBodyPart.jobString>กำลังเอาชิ้นส่วนอวัยวะออก</RemoveMechanoidBodyPart.jobString>
+  <RemoveMechanoidBodyPart.label>เอาชิ้นส่วน อวัยวะออก</RemoveMechanoidBodyPart.label>
+  <RemoveMechanoidBodyPart.description>เอาชิ้นส่วน อวัยวะของเมคานอยด์ออก</RemoveMechanoidBodyPart.description>
+  <RemoveMechanoidBodyPart.jobString>กำลังเอาชิ้นส่วน อวัยวะออก</RemoveMechanoidBodyPart.jobString>
 
 
   <!-- Anesthetize -->
 
-  <Anesthetize.label>ใส่ยานอนหลับ</Anesthetize.label>
+  <Anesthetize.label>ใส่ยา นอนหลับ</Anesthetize.label>
   <Anesthetize.description>สิ่งมีชีวิตที่ดมยาสลบโดยการบริหารยาชา</Anesthetize.description>
   <Anesthetize.jobString>กำลังใส่ยานอนหลับ</Anesthetize.jobString>
 
@@ -25,14 +25,14 @@
   <Euthanize.description>ทำให้จบชีวิต</Euthanize.description>
   <Euthanize.jobString>กำลังทำการุณยฆาต</Euthanize.jobString>
 
-  <ShutDownMechanoid.label>ปิดเครื่อง</ShutDownMechanoid.label>
+  <ShutDownMechanoid.label>ปิด เครื่อง</ShutDownMechanoid.label>
   <ShutDownMechanoid.description>ปิดเครื่องเมคานอยด์</ShutDownMechanoid.description>
   <ShutDownMechanoid.jobString>กำลังปิดเครื่อง</ShutDownMechanoid.jobString>
 
   
   <!-- removing hediffs (e.g. diseases) -->
 
-  <ExciseCarcinoma.label>ตัดก้อนมะเร็ง</ExciseCarcinoma.label>
+  <ExciseCarcinoma.label>ตัด ก้อนมะเร็ง</ExciseCarcinoma.label>
   <ExciseCarcinoma.description>ตัดเอาก้อนมะเร็งออก</ExciseCarcinoma.description>
   <ExciseCarcinoma.jobString>กำลังผ่าตัดก้อนมะเร็ง</ExciseCarcinoma.jobString>
   <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} ได้ตัดก้อนมะเร็งให้กับ {1} เป็นผลสำเร็จ</ExciseCarcinoma.successfullyRemovedHediffMessage>

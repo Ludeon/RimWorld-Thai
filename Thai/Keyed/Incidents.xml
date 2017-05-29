@@ -31,7 +31,7 @@
   <CargoPodCrash>คุณได้ตรวจพบกลุ่มของโดรน cargo อยู่บริเวณใกล้เคียง\n\nบางทีคุณอาจจะพบสิ่งที่มีประโยชน์ในซากปรักหักพัง</CargoPodCrash>
 
   <AnElectricalConduit>ท่อสายไฟ</AnElectricalConduit>
-  <ShortCircuit>ความผิดพลาดใน {0} ได้ก่อให้เกิดการลัดวงจร \n\nทั้งหมด {1} ของพลังงานในแบตเตอรี่เชื่อมต่อที่ได้รับการปล่อยออกมาในการระเบิดไฟฟ้า</ShortCircuit>
+  <ShortCircuit>ความผิดพลาดใน {0} ได้ก่อให้เกิดการลัดวงจร \n\nทั้งหมด {1} ของพลังงานในแบตเตอรี่ ที่เชื่อมต่อได้ปล่อยออกมา ทำให้เกิดการลัดวงจรจึงระเบิด</ShortCircuit>
   <ShortCircuitWasLarge>ใช้ไฟจำนวนมากของการใช้พลังงานอาจเกิดการระเบิดที่มีขนาดพอสมควร</ShortCircuitWasLarge>
   <ShortCircuitWasHuge>ที่จริงเป็นระเบิดขนาดใหญ่ ว้าว</ShortCircuitWasHuge>
 
@@ -74,10 +74,10 @@
 
   <!-- Distant psychic drone -->
   <LetterLabelPsychicDrone>โดรนพลังจิต</LetterLabelPsychicDrone>
-  <LetterIncidentPsychicDrone>ชาวอาณานิคมทุกคนที่มีเพศ{0} เสียวสะดุ้งด้วยความเจ็บปวด!\n\nเครื่องยนต์แห่งความเกลียดที่อยู่ห่างไกลกำลังแกว่ง มันปล่อยโดรนพลังจิตที่ทรงพลังออกมาทั่วทั้งภูมิภาคนี้, ซึ่งความถี่นั่นเหมือนจะมีผลกับเพศ{0} ในช่วงเวลาไม่กี่วันนี้, อารมณ์ของบางคนจะแย่ลงพอควร</LetterIncidentPsychicDrone>
+  <LetterIncidentPsychicDrone>ชาวอาณานิคมทุกคนที่มีเพศ {0} เสียวสะดุ้งด้วยความเจ็บปวด!\n\nเครื่องยนต์แห่งความเกลียดที่อยู่ห่างไกลกำลังแกว่ง มันปล่อยโดรนพลังจิตที่ทรงพลังออกมาทั่วทั้งภูมิภาคนี้, ซึ่งความถี่นั่นเหมือนจะมีผลกับเพศ {0} ในช่วงเวลาไม่กี่วันนี้, อารมณ์ของบางคนจะแย่ลงพอควร</LetterIncidentPsychicDrone>
 
   <LetterLabelPsychicSoothe>พลังจิตปลอบประโลม</LetterLabelPsychicSoothe>
-  <LetterIncidentPsychicSoothe>อาณานิคมของคุณเพศ {0} รอยยิ้มกับความพึงพอใจ!\n\nครื่องยนต์แห่งความสุขที่ไกล่เกลี่ยจะทำให้ตื่นเต้นเร้าใจเป็นที่คาดการณ์เสียงทรงพลังจิตทั่วทั้งภูมิภาคนี้ ในความถี่ที่ดูเหมือนจะส่งผลต่อเพศ {0}  ไม่กี่วันอารมณ์ของบางคนจะดีขึ้นนิดหน่อย.</LetterIncidentPsychicSoothe>
+  <LetterIncidentPsychicSoothe>อาณานิคมของคุณเพศ {0} มีรอยยิ้มกับความพึงพอใจ!\n\nเครื่องยนต์แห่งความสุขที่ไกล่เกลี่ยจะทำให้ตื่นเต้นเร้าใจเป็นที่คาดการณ์เสียงทรงพลังจิตทั่วทั้งภูมิภาคนี้ ในความถี่ที่ดูเหมือนจะส่งผลต่อเพศ {0} ไม่กี่วันอารมณ์ของบางคนจะดีขึ้นนิดหน่อย.</LetterIncidentPsychicSoothe>
 
   <!-- Beavers -->
   <LetterLabelBeaversArrived>อัลฟาบีเวอร์!</LetterLabelBeaversArrived>
@@ -110,7 +110,7 @@
   
   <!-- Building breaks down -->
   <LetterLabelBuildingBrokenDown>{0} เสีย</LetterLabelBuildingBrokenDown>
-  <LetterBuildingBrokenDown>หนึ่งในเครื่องใช่ของคุณ ({0}) เสีย มันจะไม่ทำงานจนกว่าอาณานิคมคูนซ่อมและแก้ไขมัน</LetterBuildingBrokenDown>
+  <LetterBuildingBrokenDown>หนึ่งในเครื่องใช่ของคุณ ({0}) เสีย มันจะไม่ทำงานจนกว่าอาณานิคมคุณซ่อมและแก้ไขมัน</LetterBuildingBrokenDown>
  
   <!-- Ransom demand -->
   	<RansomDemandTitle>เรียกค่าไถ่ที่ {0}</RansomDemandTitle>

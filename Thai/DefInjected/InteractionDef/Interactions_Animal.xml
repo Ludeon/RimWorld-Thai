@@ -13,8 +13,8 @@
   <TameAttempt.logRulesInitiator.rulesStrings.0>logentry->พยายามทำให้ [other_nameShortIndef] เชื่อง</TameAttempt.logRulesInitiator.rulesStrings.0>
   <TameAttempt.logRulesRecipient.rulesStrings.0>logentry->มองดู [other_nameShortIndef] พยายามทำให้ตัวมันเองเชื่อง</TameAttempt.logRulesRecipient.rulesStrings.0>
 
-  <Nuzzle.label>ดนด้วยจมูกเบาๆ</Nuzzle.label>
-  <Nuzzle.logRulesInitiator.rulesStrings.0>logentry->ดมกลิ่น [other_nameShortIndef].</Nuzzle.logRulesInitiator.rulesStrings.0>
-  <Nuzzle.logRulesRecipient.rulesStrings.0>logentry->ถูกดมกลิ่น [other_nameShortIndef]</Nuzzle.logRulesRecipient.rulesStrings.0>
+  <Nuzzle.label>อ้อน</Nuzzle.label>
+  <Nuzzle.logRulesInitiator.rulesStrings.0>logentry->อ้อน [other_nameShortIndef].</Nuzzle.logRulesInitiator.rulesStrings.0>
+  <Nuzzle.logRulesRecipient.rulesStrings.0>logentry->ถูกอ้อนโดย [other_nameShortIndef]</Nuzzle.logRulesRecipient.rulesStrings.0>
   
 </LanguageData>

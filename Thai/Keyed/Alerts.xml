@@ -102,7 +102,7 @@
   <HunterHasShieldAndRangedWeaponDesc>หนึ่งในนักล่าของคุณกำลังใช้อาวุธระยะไกลและสวมเกราะป้องกันตัวเองซึ่งจะช่วยป้องกันไม่ให้สามารถใช้อาวุตระยะไกลได้\n\nพวกเขาจะไม่สามารถล่าสัตว์จนกว่าโล่จะถูกลบออก</HunterHasShieldAndRangedWeaponDesc>
   
   <NeedWarmClothes>ต้องการเสื้อผ้าที่อบอุ่น</NeedWarmClothes>
-  <NeedWarmClothesDesc1>{0} ของอาณานิคมของคุณต้องการเสื้อผ้าที่อบอุ่นเมื่อฤดูหนาวมาถึง</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1>อย่างน้อย {0} อาณานิคมของคุณจะไม่มีเสื้อผ้าที่อบอุ่นในฤดูหนาว</NeedWarmClothesDesc1>
   <NeedWarmClothesDesc1All>อาณานิคมทั้งหมดของคุณจะไม่มีเสื้อผ้าที่อบอุ่นเมื่อฤดูหนาวมาถึง</NeedWarmClothesDesc1All>
   <NeedWarmClothesDesc2>อุณหภูมิกลางแจ้งจะไปถึง {0}\n\nคุณสามารถปรับแต่งเสื้อผ้าที่อบอุ่นได้ที่โต๊ะตัดเย็บเสื้อผ้าหรือซื้อจากพ่อค้า</NeedWarmClothesDesc2>
 

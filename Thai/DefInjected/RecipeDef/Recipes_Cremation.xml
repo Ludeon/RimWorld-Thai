@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <CremateCorpse.label>เผาศพ</CremateCorpse.label>
+  <CremateCorpse.label>เผาทำลาย ศพ</CremateCorpse.label>
   <CremateCorpse.description>ฌาปนกิจศพเพื่อทำลายศพให้หมด</CremateCorpse.description>
   <CremateCorpse.jobString>กำลังฌาปนกิจ</CremateCorpse.jobString>
 
-  <BurnApparel.label>เผาทำลายเสื้อผ้า</BurnApparel.label>
+  <BurnApparel.label>เผาทำลาย เสื้อผ้า</BurnApparel.label>
   <BurnApparel.description>เผาเสื้อผ้าเพื่อทำลายให้หมดไป</BurnApparel.description>
   <BurnApparel.jobString>กำลังเผาเสื้อผ้า</BurnApparel.jobString>
 
-  <BurnApparelCampfire.label>เผาทำลายเสื้อผ้า</BurnApparelCampfire.label>
+  <BurnApparelCampfire.label>เผาทำลาย เสื้อผ้า</BurnApparelCampfire.label>
   <BurnApparelCampfire.description>เผาเสื้อผ้าเพื่อทำลายให้หมดไป</BurnApparelCampfire.description>
   <BurnApparelCampfire.jobString>กำลังเผาเสื้อผ้า</BurnApparelCampfire.jobString>
 
-  <BurnDrugs.label>เผายา</BurnDrugs.label>
+  <BurnDrugs.label>เผาทำลาย ยา</BurnDrugs.label>
   <BurnDrugs.description>เผายาเพื่อทำลายให้หมดไป</BurnDrugs.description>
   <BurnDrugs.jobString>กำลังเผายา</BurnDrugs.jobString>
 

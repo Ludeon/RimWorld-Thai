@@ -44,9 +44,9 @@
   <StruckMineable>เราได้ตี {0}!</StruckMineable>
 
   <LetterLabelAnimalManhunterRevenge>{0} ล้างแค้น</LetterLabelAnimalManhunterRevenge>
-  <AnimalManhunterFromDamage>{0} กำลังทำร้ายหลังจากทำร้าย!</AnimalManhunterFromDamage>
-  <AnimalManhunterFromTaming>{0} กำลังโจมตีเนื่องจากความพยายามในการแทง!</AnimalManhunterFromTaming>
-  <AnimalManhunterOthers>อื่น ๆ {0} ใกล้เคียงได้กลายเป็นการล้างแค้น!</AnimalManhunterOthers>
+  <AnimalManhunterFromDamage>{0} กำลังทำร้ายคุณที่คุณไปไลล่าเขา!</AnimalManhunterFromDamage>
+  <AnimalManhunterFromTaming>{0} กำลังทำร้ายคุณที่คุณไปทำให้เชื่อง!</AnimalManhunterFromTaming>
+  <AnimalManhunterOthers>อื่น ๆ {0} ที่อยู่ใกล้เคียงได้กลายเป็นการล้างแค้น!</AnimalManhunterOthers>
 
   <LetterFriendlyTrapSprungLabel>{0} ถูกกับดักเข้า</LetterFriendlyTrapSprungLabel>
   <LetterFriendlyTrapSprung>{0} บังเอิญลั่นกับดักและได้รับความเสียหาย</LetterFriendlyTrapSprung>

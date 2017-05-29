@@ -3,11 +3,11 @@
 
   <!-- implants -->
 
-  <InstallJoywire.label>ติดตั้งจอยไวร์</InstallJoywire.label>
+  <InstallJoywire.label>ติดตั้ง จอยไวร์</InstallJoywire.label>
   <InstallJoywire.description>ติดตั้งจอยไวร์</InstallJoywire.description>
   <InstallJoywire.jobString>กำลังติดตั้งจอยไวร์</InstallJoywire.jobString>
 
-  <InstallPainstopper.label>ติดตั้งเพนสตอปเปอร์</InstallPainstopper.label>
+  <InstallPainstopper.label>ติดตั้ง เพนสตอปเปอร์</InstallPainstopper.label>
   <InstallPainstopper.description>ติดตั้งเพนสตอปเปอร์</InstallPainstopper.description>
   <InstallPainstopper.jobString>กำลังติดตั้งเพนสตอปเปอร์</InstallPainstopper.jobString>
 

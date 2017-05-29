@@ -5,7 +5,7 @@
   <ButcherCorpseFlesh.description>แล่เนื้อสัตว์ต่างๆเพื่อนำเนื้อมาใช้งาน</ButcherCorpseFlesh.description>
   <ButcherCorpseFlesh.jobString>กำลังแล่เนื้อ</ButcherCorpseFlesh.jobString>
   
-  <ButcherCorpseMechanoid.label>รื้อชิ้นส่วนเมคานอยด์</ButcherCorpseMechanoid.label>
+  <ButcherCorpseMechanoid.label>รื้อ ชิ้นส่วนเมคานอยด์</ButcherCorpseMechanoid.label>
   <ButcherCorpseMechanoid.description>รื้อชิ้นส่วนของเมคานอยด์ที่ตายแล้วให้เป็นส่วนประกอบ</ButcherCorpseMechanoid.description>
   <ButcherCorpseMechanoid.jobString>กำลังรื้อชิ้นส่วนเมคานอยด์</ButcherCorpseMechanoid.jobString>
   

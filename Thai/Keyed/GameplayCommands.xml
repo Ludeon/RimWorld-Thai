@@ -10,8 +10,8 @@
   <CommandTogglePowerLabel>เปิด/ปิดพลังงาน</CommandTogglePowerLabel>
   <CommandTogglePowerDesc>เปิด/ปิดพลังงาน</CommandTogglePowerDesc>
   
-  <CommandDesignateTogglePowerLabel>สลับไฟฟ้า </CommandDesignateTogglePowerLabel>
-  <CommandDesignateTogglePowerDesc>กำหนดสิ่งนี้ให้สลับไฟฟ้า ชาวอาณานิคมจะมาปิดสวิตช์ชั่วคราว</CommandDesignateTogglePowerDesc>
+  <CommandDesignateTogglePowerLabel>ปิดไฟฟ้า </CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerDesc>กำหนดสิ่งนี้ให้ปิดไฟฟ้า ชาวอาณานิคมจะมาปิดสวิตช์ชั่วคราว</CommandDesignateTogglePowerDesc>
   
   <CommandTryReconnectLabel>เชื่อมต่อใหม่</CommandTryReconnectLabel>
   <CommandTryReconnectDesc>ลองเชื่อมต่อกับเน็ตเวิร์กพลังงานอื่นภายในรัศมีการเชื่อมต่อ นี่เป็นประโยชน์ถ้าฉันเชื่อมต่อกับเครือข่ายที่ไม่ได้รับการยกเว้น แต่มีที่จอดยานใกล้เคียง</CommandTryReconnectDesc>
