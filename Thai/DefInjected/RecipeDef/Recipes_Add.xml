@@ -2,16 +2,16 @@
 <LanguageData>
 
     <Make_SculptureSmall.label>สร้าง ประติมากรรมขนาดเล็ก</Make_SculptureSmall.label>
-    <Make_SculptureSmall.description>กำลังสร้าง ประติมากรรมขนาดเล็ก</Make_SculptureSmall.description>
+    <Make_SculptureSmall.description>กำลังสร้างประติมากรรมขนาดเล็ก</Make_SculptureSmall.description>
     <Make_SculptureSmall.jobString>กำลังสร้างประติมากรรมขนาดเล็ก</Make_SculptureSmall.jobString>
     
-    <Make_SculptureLarge.label>สร้าง การทำ ประติมากรรมขนาดใหญ่</Make_SculptureLarge.label>
-    <Make_SculptureLarge.description>กำลังสร้างการทำประติมากรรมขนาดใหญ่</Make_SculptureLarge.description>
+    <Make_SculptureLarge.label>สร้าง ประติมากรรมขนาดใหญ่</Make_SculptureLarge.label>
+    <Make_SculptureLarge.description>กำลังสร้างประติมากรรมขนาดใหญ่</Make_SculptureLarge.description>
     <Make_SculptureLarge.jobString>กำลังสร้างการทำประติมากรรมขนาดใหญ่</Make_SculptureLarge.jobString>
     
-    <Make_SculptureGrand.label>สร้าง การทำ ประติมากรรมขนาดยิ่งใหญ่</Make_SculptureGrand.label>
-    <Make_SculptureGrand.description>กำลังสร้าง การทำ ประติมากรรมขนาดยิ่งใหญ่</Make_SculptureGrand.description>
-    <Make_SculptureGrand.jobString>กำลังสร้างการทำประติมากรรมขนาดยิ่งใหญ่</Make_SculptureGrand.jobString>
+    <Make_SculptureGrand.label>สร้าง ประติมากรรมขนาดยิ่งใหญ่</Make_SculptureGrand.label>
+    <Make_SculptureGrand.description>กำลังสร้าง ประติมากรรมขนาดยิ่งใหญ่</Make_SculptureGrand.description>
+    <Make_SculptureGrand.jobString>กำลังสร้างประติมากรรมขนาดยิ่งใหญ่</Make_SculptureGrand.jobString>
     
 	
 	

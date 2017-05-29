@@ -76,7 +76,7 @@
   <NeedResearchProject>ต้องการโครงการวิจัย</NeedResearchProject>
   <NeedResearchProjectDesc>คุณมีอุปกรณ์ในการวิจัยอยู่ แต่ว่ายังไม่ได้เลือกโครงการ\n\nเปิดเมนูวิจัย และเลือกโครงการ</NeedResearchProjectDesc>
   
-  <ColonistsIdle>มีชาวอาณานิคมว่างอยู่ {0} คน</ColonistsIdle>
+  <ColonistsIdle>มีชาวอาณานิคมว่าง {0} คน</ColonistsIdle>
   <ColonistsIdleDesc>อาณานิคมเหล่านี้จะเดินไปอย่างขี่เกียจ:\n\n{0}\nคุณควรจะหาสิ่งที่มีประสิทธิผลให้ทำ</ColonistsIdleDesc>
 
   <ColonistNeedsTreatment>ชาวอาณานิคม\nต้องการ การรักษา</ColonistNeedsTreatment>

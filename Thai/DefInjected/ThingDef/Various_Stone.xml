@@ -28,12 +28,12 @@
   <BlocksLimestone.description>Blöcke aus solidem Kalkstein.</BlocksLimestone.description>
   <BlocksLimestone.stuffProps.stuffAdjective>บล็อกหินปูน</BlocksLimestone.stuffProps.stuffAdjective>
 
-  <Slate.label>หินฉนวน</Slate.label>
+  <Slate.label>หินชนวน</Slate.label>
   <Slate.description>Ein dunkelfarbenes metamorphoses Schichtgestein. Die feinen Schichten sorgen für die typische Schiefer-Spaltung.</Slate.description>
-  <ChunkSlate.label>ก้อนหินฉนวน</ChunkSlate.label>
-  <BlocksSlate.label>บล็อกหินฉนวน</BlocksSlate.label>
+  <ChunkSlate.label>ก้อนหินชนวน</ChunkSlate.label>
+  <BlocksSlate.label>บล็อกหินชนวน</BlocksSlate.label>
   <BlocksSlate.description>Blöcke aus solidem Schiefer. Ein mattes Gestein, das leicht splittert.</BlocksSlate.description>
-  <BlocksSlate.stuffProps.stuffAdjective>บล็อกหินขนวน</BlocksSlate.stuffProps.stuffAdjective>
+  <BlocksSlate.stuffProps.stuffAdjective>บล็อกหินชนวน</BlocksSlate.stuffProps.stuffAdjective>
 
   <Marble.label>หินอ่อน</Marble.label>
   <Marble.description>Ein weiches metamorphoses Gestein.</Marble.description>

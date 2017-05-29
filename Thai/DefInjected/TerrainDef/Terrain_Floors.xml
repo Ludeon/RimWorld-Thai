@@ -64,9 +64,9 @@
   <Limestone_RoughHewn.description>Grob geschnittener Boden aus Kalkstein.</Limestone_RoughHewn.description> 
   <Limestone_Smooth.description>Geglätteter, natürlicher Boden aus Kalkstein.</Limestone_Smooth.description> 
 
-  <Slate_Rough.label>หินฉนวนหยาบ</Slate_Rough.label>
-  <Slate_RoughHewn.label>หินฉนวนหยาบโค่น</Slate_RoughHewn.label>
-  <Slate_Smooth.label>หินฉนวนเรียบ</Slate_Smooth.label>
+  <Slate_Rough.label>หินชนวนหยาบ</Slate_Rough.label>
+  <Slate_RoughHewn.label>หินชนวนหยาบโค่น</Slate_RoughHewn.label>
+  <Slate_Smooth.label>หินชนวนเรียบ</Slate_Smooth.label>
   <Slate_Rough.description>Rauer, natürlicher Boden aus Schiefer.</Slate_Rough.description> 
   <Slate_RoughHewn.description>Grob geschnittener Boden aus Schiefer.</Slate_RoughHewn.description>
   <Slate_Smooth.description>Geglätteter, natürlicher Boden aus Schiefer.</Slate_Smooth.description> 

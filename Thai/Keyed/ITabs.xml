@@ -77,8 +77,8 @@
   <Tiredness>ความเหนื่อย</Tiredness>
   <PainFactor>ความเจ็บปวด</PainFactor>
   <PreventsInfection>ป้องกันการติดเชื้อ</PreventsInfection>
-  <SelfTend>ตัวเองมีแนวโน้มที่</SelfTend>
-  <SelfTendTip>{0} ด้วยตนเองมักจะเปิดใช้งานจะมีแนวโน้มที่จะอยู่ในจุดที่ {1} ประสิทธิภาพโดยปกติ</SelfTendTip>
+  <SelfTend>รักษาตัวเอง</SelfTend>
+  <SelfTendTip>เปิดใช้งานการรักษาตัวเองจะมีแนวโน้มที่จะรักษาน้อยลงเป็น {1} ของประสิทธิภาพโดยปกติ</SelfTendTip>
  
 
  <!-- Medical - Body and activities condition -->
