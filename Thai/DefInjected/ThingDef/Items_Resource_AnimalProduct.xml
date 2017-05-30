@@ -13,10 +13,10 @@
 
   <!-- Chicken -->
   
-  <EggChickenUnfertilized.label>ไข่ไก่ (ปฏิสนธิ)</EggChickenUnfertilized.label>
+  <EggChickenUnfertilized.label>ไข่ไก่ (ไม่ปฏิสนธิ)</EggChickenUnfertilized.label>
   <EggChickenUnfertilized.description>Ein unbefruchtetes Hühner-Ei. Es kann roh gegessen werden, ist gekocht aber viel besser.</EggChickenUnfertilized.description>
 
-  <EggChickenFertilized.label>ไข่ไก่ (ไม่ปฏิสนธิ)</EggChickenFertilized.label>
+  <EggChickenFertilized.label>ไข่ไก่ (ปฏิสนธิ)</EggChickenFertilized.label>
   <EggChickenFertilized.description>Ein befruchtetes Hühner-Ei. Wenn alles gut läuft, schlüpft daraus ein kleines Küken. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggChickenFertilized.description>
 
   <!-- Cobra -->
