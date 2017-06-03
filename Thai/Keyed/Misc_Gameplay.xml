@@ -484,9 +484,9 @@
   <EstimatedTimeToThisWaypointFromPrevious>เวลาระหว่างจุดเชื่อมต่อนี้กับ จุด ก่อนหน้า: {0}</EstimatedTimeToThisWaypointFromPrevious>
 
   <!-- Outfits -->
-  <OutfitAnything>อะไรบ้าง</OutfitAnything>
-  <OutfitWorker>ผู้ปฏิบัติงาน</OutfitWorker>
-  <OutfitSoldier>ทหาร</OutfitSoldier>
-  <OutfitNudist>ชีเปลือย</OutfitNudist>
+  <OutfitAnything>Anything</OutfitAnything>
+  <OutfitWorker>Worker</OutfitWorker>
+  <OutfitSoldier>Soldier</OutfitSoldier>
+  <OutfitNudist>Nudist</OutfitNudist>
 
 </LanguageData>

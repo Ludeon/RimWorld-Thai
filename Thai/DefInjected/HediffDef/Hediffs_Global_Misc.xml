@@ -37,10 +37,10 @@
   <HeartAttack.stages.2.label>ถึงแก่ชีวิตได้</HeartAttack.stages.2.label>
   
   <DrugOverdose.label>ติดยาเสพติดเกินขนาด</DrugOverdose.label>
-  <DrugOverdose.stages.0.label>versteckt</DrugOverdose.stages.0.label>
-  <DrugOverdose.stages.1.label>leicht</DrugOverdose.stages.1.label>
-  <DrugOverdose.stages.2.label>stark</DrugOverdose.stages.2.label>
-  <DrugOverdose.comps.0.discoverLetterLabel>Überdosis: {0}</DrugOverdose.comps.0.discoverLetterLabel>
-  <DrugOverdose.comps.0.discoverLetterText>{0} hat eine Überdosierung!</DrugOverdose.comps.0.discoverLetterText>
+  <DrugOverdose.stages.0.label>ซ่อนเร้น</DrugOverdose.stages.0.label>
+  <DrugOverdose.stages.1.label>ง่าย</DrugOverdose.stages.1.label>
+  <DrugOverdose.stages.2.label>เสถียร</DrugOverdose.stages.2.label>
+  <DrugOverdose.comps.0.discoverLetterLabel>เสพติดยาเกินขนาด: {0}</DrugOverdose.comps.0.discoverLetterLabel>
+  <DrugOverdose.comps.0.discoverLetterText>{0} เสพติดยาเกินขนาด!</DrugOverdose.comps.0.discoverLetterText>
   
 </LanguageData>

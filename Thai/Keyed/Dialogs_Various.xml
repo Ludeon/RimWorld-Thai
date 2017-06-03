@@ -312,7 +312,7 @@
   <HistoryUploadNoOnce>อย่าอัปโหลดเวลานี้ถามฉันทีหลัง</HistoryUploadNoOnce>
 	
   <!-- Outfit management -->
-  <Outfit>เครื่องแต่งกาย</Outfit>
+  <Outfit>Outfit</Outfit>
   <SelectOutfit>เลือกเครื่องแต่งกาย...</SelectOutfit>
   <NewOutfit>สร้างเครื่องแต่งกายใหม่</NewOutfit>
   <DeleteOutfit>ลบเครื่องแต่งกาย...</DeleteOutfit>
@@ -320,15 +320,15 @@
   <NoOutfitSelected>ไม่ได้เลือกเครื่องแต่งกาย</NoOutfitSelected>
   
   <!-- Drug policy management -->
-  <DrugPolicy>นโยบายยาเสพติด</DrugPolicy>
+  <DrugPolicy>Drug Policy</DrugPolicy>
   <SelectDrugPolicy>เลือกนโยบาย...</SelectDrugPolicy>
   <NewDrugPolicy>นโยบายใหม่</NewDrugPolicy>
   <DeleteDrugPolicy>ลบนโยบาย...</DeleteDrugPolicy>
   <DrugPolicyInUse>นโยบายยาเสพติดที่อยู่ในการใช้งานโดย {0}</DrugPolicyInUse>
-  <SocialDrugs>ยาเสพติดสังคม</SocialDrugs>
-  <NoDrugs>ไม่ใช้ยาเสพติด</NoDrugs>
-  <OneDrinkPerDay>หนึ่งเครื่องดื่มต่อวัน</OneDrinkPerDay>
-  <Unrestricted>ไม่จำกัด</Unrestricted>
+  <SocialDrugs>Social Drugs</SocialDrugs>
+  <NoDrugs>No Drugs</NoDrugs>
+  <OneDrinkPerDay>One Drink Per Day</OneDrinkPerDay>
+  <Unrestricted>Unrestricted</Unrestricted>
   <NoDrugPolicySelected>นโยบายยาเสพติดไม่ได้เลือก</NoDrugPolicySelected>
   <AddDrug>เพิ่มยาเสพติด...</AddDrug>
   <DrugColumnLabel>ยา</DrugColumnLabel>

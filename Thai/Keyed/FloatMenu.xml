@@ -77,7 +77,7 @@
   <Incapable>ไม่สามารถ</Incapable>
   <IncapableOfCapacity>ไม่สามารถที่จะ {0}</IncapableOfCapacity>
 
-  <MinSkill>ไม่มี ทักษะ</MinSkill>  
+  <MinSkill>ทักษะที่ต้องมี</MinSkill>  
   
   <Equip>สวม {0}</Equip>
   <EquipWarningBrawler>(นักเลงจะไม่มีความสุขแน่)</EquipWarningBrawler>
