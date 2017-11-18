@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<AncientTempleContents.label>สมบัติวัดโบราณ</AncientTempleContents.label>
+	<AncientPodContents.label>สมบัติวกระสวยโบราณ</AncientPodContents.label>
+	<DebugCaravanInventory.label>สินค้าคงคลัง Debug คาราวาน</DebugCaravanInventory.label>
+	<TraderStock.label>ผู้แทนจำหน่ายสินค้า</TraderStock.label>
+	<CaravanRequestRewards.label>รางวัลเควสคาราวาน</CaravanRequestRewards.label>
+	<BanditCampQuestRewards.label>รางวัลควสโจร</BanditCampQuestRewards.label>
+
+</LanguageData>

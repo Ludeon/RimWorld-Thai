@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<AteInImpressiveDiningRoom.stages.3.label>ห้องรับประทานอาหารปางกลาง</AteInImpressiveDiningRoom.stages.3.label>
+	<AteInImpressiveDiningRoom.stages.3.description>ฉันกินอาหารของฉันในห้องรับประทานอาหารที่ดี</AteInImpressiveDiningRoom.stages.3.description>
+
+	<AteInImpressiveDiningRoom.stages.4.label>ห้องรับประทานอาหารที่น่าประทับใจเล็กน้อย</AteInImpressiveDiningRoom.stages.4.label>
+	<AteInImpressiveDiningRoom.stages.4.description>ฉันกินอาหารของฉันในห้องรับประทานอาหารที่น่าประทับใจเล็กน้อย</AteInImpressiveDiningRoom.stages.4.description>
+
+	<AteInImpressiveDiningRoom.stages.5.label>ห้องรับประทานอาหารที่น่าประทับใจ</AteInImpressiveDiningRoom.stages.5.label>
+	<AteInImpressiveDiningRoom.stages.5.description>ฉันกินอาหารของฉันในห้องรับประทานอาหารที่น่าประทับใจ.</AteInImpressiveDiningRoom.stages.5.description>
+
+	<AteInImpressiveDiningRoom.stages.6.label>ห้องรับประทานอาหารที่น่าประทับใจมาก</AteInImpressiveDiningRoom.stages.6.label>
+	<AteInImpressiveDiningRoom.stages.6.description>ฉันกินอาหารของฉันในห้องรับประทานอาหารที่น่าประทับใจมาก</AteInImpressiveDiningRoom.stages.6.description>
+
+	<AteInImpressiveDiningRoom.stages.7.label>ห้องรับประทานอาหารที่น่าประทับใจมากอย่างมาก</AteInImpressiveDiningRoom.stages.7.label>
+	<AteInImpressiveDiningRoom.stages.7.description>ฉันกินอาหารของฉันในห้องอาหารที่น่าประทับใจอย่างมาก ฉันสามารถอยู่ที่นั่นได้ตลอด</AteInImpressiveDiningRoom.stages.7.description>
+
+	<AteInImpressiveDiningRoom.stages.8.label>ห้องรับประทานอาหารที่น่าประทับใจอย่างไม่น่าเชื่อ</AteInImpressiveDiningRoom.stages.8.label>
+	<AteInImpressiveDiningRoom.stages.8.description>ฉันกินอาหารของฉันในห้องอาหารที่น่าประทับใจอย่างไม่น่าเชื่อ ฉันสามารถอยู่ที่นั่นได้ตลอด</AteInImpressiveDiningRoom.stages.8.description>
+
+	<AteInImpressiveDiningRoom.stages.9.label>ห้องรับประทานอาหารทที่น่าประทับใจอย่างมหัศจรรย์</AteInImpressiveDiningRoom.stages.9.label>
+	<AteInImpressiveDiningRoom.stages.9.description>ฉันกินอาหารของฉันในห้องรับประทานอาหารที่ยอดเยี่ยม ฉันสามารถอยู่ที่นั่นได้ตลอด</AteInImpressiveDiningRoom.stages.9.description>
+
+
+
+	<JoyActivityInImpressiveRecRoom.stages.3.label>ห้องสังสรรค์ปางกลาง</JoyActivityInImpressiveRecRoom.stages.3.label>
+	<JoyActivityInImpressiveRecRoom.stages.3.description>ฉันสนุกในห้องสังสรรค์ที่ดี</JoyActivityInImpressiveRecRoom.stages.3.description>
+
+	<JoyActivityInImpressiveRecRoom.stages.4.label>ห้องสังสรรค์ที่น่าสนใจเล็กน้อย</JoyActivityInImpressiveRecRoom.stages.4.label>
+	<JoyActivityInImpressiveRecRoom.stages.4.description>ฉันมีช่วงเวลาที่ดีในห้องสังสรรค์ที่น่าประทับใจเล็กน้อย</JoyActivityInImpressiveRecRoom.stages.4.description>
+
+	<JoyActivityInImpressiveRecRoom.stages.5.label>ห้องสังสรรค์ที่น่าประทับใจ</JoyActivityInImpressiveRecRoom.stages.5.label>
+	<JoyActivityInImpressiveRecRoom.stages.5.description>ฉันมีช่วงเวลาที่ดีในห้องสังสรรค์ที่น่าประทับใจ</JoyActivityInImpressiveRecRoom.stages.5.description>
+
+	<JoyActivityInImpressiveRecRoom.stages.6.label>ห้องสังสรรค์ที่น่าประทับใจมาก</JoyActivityInImpressiveRecRoom.stages.6.label>
+	<JoyActivityInImpressiveRecRoom.stages.6.description>ฉันมีช่วงเวลาที่ดีในห้องสังสรรค์ที่น่าประทับใจมาก</JoyActivityInImpressiveRecRoom.stages.6.description>
+
+	<JoyActivityInImpressiveRecRoom.stages.7.label>ห้องสังสรรค์ที่น่าประทับใจอย่างมาก</JoyActivityInImpressiveRecRoom.stages.7.label>
+	<JoyActivityInImpressiveRecRoom.stages.7.description>ฉันมีช่วงเวลาที่ดีในหห้องสังสรรค์ที่น่าประทับใจอย่างมาก ฉันสามารถอยู่ที่นั่นได้ตลอด</JoyActivityInImpressiveRecRoom.stages.7.description>
+
+	<JoyActivityInImpressiveRecRoom.stages.8.label>ห้องสังสรรค์ที่น่าประทับใจอย่างไม่น่าเชื่อ</JoyActivityInImpressiveRecRoom.stages.8.label>
+	<JoyActivityInImpressiveRecRoom.stages.8.description>ฉันมีช่วงเวลาที่ดีในห้องสังสรรค์ที่น่าประทับใจอย่างไม่น่าเชื่อ ฉันสามารถอยู่ที่นั่นได้ตลอด</JoyActivityInImpressiveRecRoom.stages.8.description>
+
+	<JoyActivityInImpressiveRecRoom.stages.9.label>ห้องสังสรรค์ทที่น่าประทับใจอย่างมหัศจรรย์</JoyActivityInImpressiveRecRoom.stages.9.label>
+	<JoyActivityInImpressiveRecRoom.stages.9.description>ฉฉันมีช่วงเวลาที่ดีในห้องสังสรรค์ที่ยอดเยี่ยม ฉันสามารถอยู่ที่นั่นได้ตลอด</JoyActivityInImpressiveRecRoom.stages.9.description>
+
+	
+	
+  <SleptInBedroom.stages.0.label>ห้องนอนที่ห่วย</SleptInBedroom.stages.0.label>
+  <SleptInBedroom.stages.0.description>ห้องนอนเป็นสถานที่เลวร้าย</SleptInBedroom.stages.0.description>
+
+  <SleptInBedroom.stages.3.label>ห้องนอนปางกลาง</SleptInBedroom.stages.3.label>
+  <SleptInBedroom.stages.3.description>ห้องนอนของฉันเป็นที่ดี ฉันชอบมัน.</SleptInBedroom.stages.3.description>
+
+  <SleptInBedroom.stages.4.label>ห้องนอนที่น่าประทับใจเล็กน้อย</SleptInBedroom.stages.4.label>
+  <SleptInBedroom.stages.4.description>ห้องนอนของฉันเป็นจริงที่น่าประทับใจเล็กน้อย ฉันชอบมัน.</SleptInBedroom.stages.4.description>
+
+  <SleptInBedroom.stages.5.label>ห้องนอนที่น่าประทับใจ</SleptInBedroom.stages.5.label>
+  <SleptInBedroom.stages.5.description>ห้องนอนของฉันน่าประทับใจ ฉันรักมัน!</SleptInBedroom.stages.5.description>
+
+  <SleptInBedroom.stages.6.label>ห้องนอนที่น่าประทับใจมาก</SleptInBedroom.stages.6.label>
+  <SleptInBedroom.stages.6.description>ห้องนอนของฉันประทับใจมาก นี่คือสถานที่ที่ดีที่สุดที่เคยอยู่!</SleptInBedroom.stages.6.description>
+
+  <SleptInBedroom.stages.7.label>ห้องนอนที่น่าประทับใจอย่างมาก</SleptInBedroom.stages.7.label>
+  <SleptInBedroom.stages.7.description>ห้องนอนของฉันประทับใจอย่างมาก นี่คือสถานที่ที่ดีที่สุดที่เคยอยู่!</SleptInBedroom.stages.7.description>
+
+  <SleptInBedroom.stages.8.label>ห้องขังที่น่าประทับใจอย่างไม่น่าเชื่อ</SleptInBedroom.stages.8.label>
+  <SleptInBedroom.stages.8.description>ห้องนอนของฉันน่าประทับใจอย่างไม่น่าเชื่อ นี่คือสถานที่ที่ดีที่สุดที่เคยอยู่!</SleptInBedroom.stages.8.description>
+
+  <SleptInBedroom.stages.9.label>>ห้องนอนที่น่าประทับใจอย่างมหัศจรรย์</SleptInBedroom.stages.9.label>
+  <SleptInBedroom.stages.9.description>ห้องนอนของฉันเป็นสถานที่ที่ดีที่สุดที่เราสามารถจินตนาการมันได้ มันวิเศษมาก</SleptInBedroom.stages.9.description>
+
+
+  
+  <SleptInBarracks.stages.0.label>ห้องพักทหารที่ห่วย</SleptInBarracks.stages.0.label>
+  <SleptInBarracks.stages.0.description>ค่ายของฉันเป็นสถานที่อันเลวร้าย แต่ฉันต้องแบ่งปัน!</SleptInBarracks.stages.0.description>
+
+  <SleptInBarracks.stages.1.label>ห้องพักทหารที่น่ารังเกียจ</SleptInBarracks.stages.1.label>
+  <SleptInBarracks.stages.1.description>ฉันอาศัยอยู่ในค่ายที่น่ารังเกียจกับคนอื่น ๆ</SleptInBarracks.stages.1.description>
+
+  <SleptInBarracks.stages.4.label>ห้องพักทหารที่น่าประทับใจเล็กน้อย</SleptInBarracks.stages.4.label>
+  <SleptInBarracks.stages.4.description>ค่ายของฉันดูดีจริงๆ แต่ฉันต้องการมีห้องนอนของตัวเอง</SleptInBarracks.stages.4.description>
+
+  <SleptInBarracks.stages.5.label>ห้องพักทหารที่น่าประทับใจ</SleptInBarracks.stages.5.label>
+  <SleptInBarracks.stages.5.description>ค่ายของฉันดูน่าประทับใจ ฉันชอบมัน ฉันหวังว่า, ฉันจะมีห้องนอนเป็นของตัวเอง</SleptInBarracks.stages.5.description>
+
+  <SleptInBarracks.stages.6.label>ห้องพักทหารที่น่าประทับใจมาก</SleptInBarracks.stages.6.label>
+  <SleptInBarracks.stages.6.description>ค่ายของฉันเป็นที่น่าประทับใจมาก, ฉันรักมัน!</SleptInBarracks.stages.6.description>
+
+  <SleptInBarracks.stages.7.label>ห้องพักทหารที่น่าประทับใจอย่างมาก</SleptInBarracks.stages.7.label>
+  <SleptInBarracks.stages.7.description>ค่ายของฉันดูน่าประทับใจอย่างมาก นี้เป็นสถานที่ที่ดีที่สุดที่เคยอยู่!</SleptInBarracks.stages.7.description>
+
+  <SleptInBarracks.stages.8.label>ห้องพักทหารที่น่าประทับใจอย่างไม่น่าเชื่อ</SleptInBarracks.stages.8.label>
+  <SleptInBarracks.stages.8.description>ค่ายของฉันดูน่าประทับใจอย่างไม่น่าเชื่อ นี้เป็นสถานที่ที่ดีที่สุดที่เคยอยู่!</SleptInBarracks.stages.8.description>
+
+  <SleptInBarracks.stages.9.label>ห้องพักทหารที่น่าประทับใจอย่างมหัศจรรย์</SleptInBarracks.stages.9.label>
+  <SleptInBarracks.stages.9.description>ค่ายของฉันเป็นสถานที่ที่ดีที่สุดที่คุณสามารถจินตนาการทันได้ มันวิเศษมาก</SleptInBarracks.stages.9.description>
+  
+  
+  
+  
+</LanguageData>

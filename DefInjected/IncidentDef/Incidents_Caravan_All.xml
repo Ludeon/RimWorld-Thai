@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- =============================== Threats =============================== -->
+
+	<Ambush.label>โดนดักโจมตี</Ambush.label>
+	<Ambush.letterText>คาราวานของคุณจาก {0} จาก {1} บุก!</Ambush.letterText>
+	<Ambush.letterLabel>คาราวานถูกซุ่มโจมตี</Ambush.letterLabel>
+
+	<ManhunterAmbush.label>สัตว์ดักโจมตี</ManhunterAmbush.label>
+	<ManhunterAmbush.letterText>คาราวานของคุณถูกสัตว์ล่า {0} บุก!</ManhunterAmbush.letterText>
+	<ManhunterAmbush.letterLabel>คาราวานถูกโจมตี (สัตว์)</ManhunterAmbush.letterLabel>
+
+	<!--================================ Good ================================-->
+
+	<CaravanMeeting.label>เจอคาราวาน</CaravanMeeting.label>
+
+	<!--==================================== Bad ==================================-->
+
+	<CaravanDemand.label>คาราวานต้องการ</CaravanDemand.label>
+	<CaravanDemand.letterText>คาราวานของคุณจาก {0} จาก {1} ล่อเข้าไปซุ่ม!</CaravanDemand.letterText>
+	<CaravanDemand.letterLabel>คาราวานในการซุ่มโจมตี</CaravanDemand.letterLabel>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Stun.label>มึน</Stun.label>
+  <Stun.deathMessage>{0} สลบจนถึงแก่ความตาย</Stun.deathMessage>
+
+  <EMP.label>EMP</EMP.label>
+  <EMP.deathMessage>{0} โดน EMP จนถึงแก่ความตาย</EMP.deathMessage>
+
+</LanguageData>

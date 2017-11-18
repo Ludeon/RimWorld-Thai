@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Manhunters.label>กลุ่มสัตว์</Manhunters.label>
+  <Manhunters.description>เป็นกลุ่มสัตว์ที่กำลังคุมขัง</Manhunters.description>
+  <Outpost.label>ด่าน</Outpost.label>
+  <Outpost.description>ด่านเล็ก ๆ ที่มีการรักษาความปลอดภัย</Outpost.description>
+  <Turrets.label>ป้อมปืน</Turrets.label>
+  <Turrets.description>ป้อมปืนไม่กี่แห่ง</Turrets.description>
+  
+</LanguageData>
