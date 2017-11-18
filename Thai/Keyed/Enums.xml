@@ -92,12 +92,6 @@
   <ContentSource_LocalFolder>โฟลเดอร์ภายในเครื่อง</ContentSource_LocalFolder>
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
   
-  <!-- Trainable intelligence -->
-  <TrainableIntelligence_None>ไม่มี</TrainableIntelligence_None>
-  <TrainableIntelligence_Simple>ง่าย</TrainableIntelligence_Simple>
-  <TrainableIntelligence_Intermediate>ปานกลาง</TrainableIntelligence_Intermediate>
-  <TrainableIntelligence_Advanced>ขั้นสูง</TrainableIntelligence_Advanced>
-
   <!-- Medical care category -->
   <MedicalCareCategory_NoCare>ไม่มีการดูแลทางการแพทย์</MedicalCareCategory_NoCare>
   <MedicalCareCategory_NoMeds>ให้แพทย์ดูแล, แต่ไม่ให้ยา</MedicalCareCategory_NoMeds>

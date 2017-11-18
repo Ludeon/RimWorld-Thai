@@ -63,6 +63,8 @@
   <SaveIsUnknownFormat>บันทึกข้อมูลอยู่ในรูปแบบที่ไม่รู้จักและเกือบจะไม่โหลดอย่างถูกต้อง</SaveIsUnknownFormat>
   <ProblemSavingFile>เกิดปัญหาในการบันทึกไฟล์ {0}:\n\n{1}</ProblemSavingFile>
   <LoadAnyway>โหลดไม่ว่าอย่างไรก็ตาม</LoadAnyway>
+  <ChangeLoadedMods>โหลด mod list จาก เซฟ</ChangeLoadedMods>
+  <MissingMods>mods บางตัวไม่พร้อมใช้งานและจำเป็นต้องติดตั้ง</MissingMods>
 
   <!-- Player faction naming -->
   <NamePlayerFactionMessage>{0} คิดว่าคุณควรตั้งชื่อฝ่ายของคุณ ฝ่ายอื่นจะได้เรียกชื่อฝ่ายของคุณ</NamePlayerFactionMessage>
@@ -146,13 +148,7 @@
   <BillRequiresMayVary>โน้ต: วัตถุดิบขนาดเล็กอย่างทอง ต้องใช้มากขึ้น 20 เท่า</BillRequiresMayVary>
   <ThisIsSmallVolume>นี่เป็นวัตถุดิบขนาดเล็ก แปลว่าแต่ละ 'หน่วย' มีค่าเป็น 1/20 ของวัตถุดิบขนาดปกติ ดังนั้น, เพื่อเติมให้เท่ากับความต้องการของวัตถุดิบ, คุณจะต้องใช้มากขึ้น 20 เท่าจากธรรมดา</ThisIsSmallVolume>
   <UsableIngredients>วัตถุดิบ</UsableIngredients>
-  <DoXTimes>ทำ X ครั้ง</DoXTimes>
-  <DoUntilYouHaveX>ทำจนกว่าจะมีเท่ากับ X</DoUntilYouHaveX>
-  <DoForever>ทำตลอดไป</DoForever>
   <BillRepeatTargetCountShort>ไปที่ {0}</BillRepeatTargetCountShort>
-  <BillStoreMode_DropOnFloor>วางบนพื้น</BillStoreMode_DropOnFloor>
-  <BillStoreMode_BestStockpile>นำไปที่เก็บของที่ดีที่สุด</BillStoreMode_BestStockpile>
-  <BillStoreMode_NearestStockpileAnyPriority>นำไปที่เก็บของที่ใกล้ที่สุด</BillStoreMode_NearestStockpileAnyPriority>
   
   <PauseWhenSatisfied>หยุดชั่วคราวเมื่อพอใจ</PauseWhenSatisfied>
   <UnpauseWhenYouHave>หยุดชั่วคราวที่</UnpauseWhenYouHave>
@@ -203,6 +199,13 @@
   <Addictiveness>Addictiveness</Addictiveness>
 	<PackAnimal>สัตว์ขนของ</PackAnimal>
 	<PackAnimalExplanation>ไม่ว่าจะเป็นสัตว์ชนิดนี้เหมาะสมที่จะใช้ในการพกสิ่งของในกองคาราวานในระยะทางไกล</PackAnimalExplanation>
+  <Skill>ทักษะ</Skill>
+  <SurgerySuccessChanceFactor>ตัวคูณอัตราความสำเร็จ</SurgerySuccessChanceFactor>
+  <SurgeryRequireBed>ต้องการเตียง</SurgeryRequireBed>
+  <WorkSpeedStat>ความเร็วในการทำงานควบคุมโดย</WorkSpeedStat>
+  <EfficiencyStat>ปริมาณการส่งออกถูกควบคุมโดย</EfficiencyStat>
+  <ConstructionSkillRequired>ต้องมีทักษะในการก่อสร้าง</ConstructionSkillRequired>
+  <ConstructionSkillRequiredExplanation>ต้องใช้ระดับของการก่อสร้างนี้เพื่อที่จะสร้าง</ConstructionSkillRequiredExplanation>
 	
   <!-- Trade -->
   <PositiveBuysNegativeSells>ตัวเลขบวกซื้อ\nตัวเลขติดลบขาย</PositiveBuysNegativeSells>
@@ -222,6 +225,8 @@
   <TraderWillNotTrade>พ่อค้า ไม่เต็มใจที่จะค้าในรายการนี้</TraderWillNotTrade>
   <Negotiator>ผู้เจรจา</Negotiator>
   <NegotiatorTalkingImpaired>ผู้เจรจาต่อรองของคุณ {0} ไม่สามารถพูดได้อย่างถูกต้องเนื่องจากสุขภาพไม่ดี\n\nส่งผลกระทบต่อราคาค้าขาย\n\nพิจารณาใช้ผู้เจรจาที่มีสุขภาพดี</NegotiatorTalkingImpaired>
+  <NegotiatorHearingImpaired>ผู้เจรจาต่อรองของคุณ {0} ไม่สามารถได้ยินเสียงได้อย่างถูกต้องเนื่องจากสุขภาพไม่ดี</NegotiatorHearingImpaired>
+  <NegotiatorCapacityImpaired>ซึ่งจะส่งผลต่อราคาการค้า\n\nพิจารณาให้ผู้เจรจามีสุขภาพดี</NegotiatorCapacityImpaired>
   <ConfirmTraderShortFunds>ผู้ค้ามีเงินไม่เพียงพอที่จะทำธุรกรรมนี้ได้เต็มที่  ดำเนินการต่อ?</ConfirmTraderShortFunds>
   <SortBy>เรียงตาม</SortBy>
     <TraderTypePrice>ประเภทผู้ประกอบการค้า</TraderTypePrice>
@@ -261,6 +266,8 @@
   <DaysWorthOfFoodWarningDialog>กองคาราวานของคุณมีเท่านี้ {0} วัน ของอาหารและจะกลายเป็นหิวได้อย่างรวดเร็ว\n\nคุณแน่ใจหรือไม่ว่าต้องการสร้างคาราวานนี้?</DaysWorthOfFoodWarningDialog>
   <DaysWorthOfFoodWarningDialog_NoFood>กองคาราวานของคุณไม่มีอาหารและจะหิวอย่างรวดเร็ว\n\nคุณแน่ใจหรือไม่ว่าต้องการสร้างคาราวานนี้?</DaysWorthOfFoodWarningDialog_NoFood>
   <CaravanFoodWillRotSoonWarningDialog>ส่วนใหญ่ของอาหารที่กำหนดจะเน่าเร็วๆ นี้\n\nคุณแน่ใจหรือไม่ว่าต้องการสร้างคาราวานนี้</CaravanFoodWillRotSoonWarningDialog>
+  <CaravanIncapableOfSocial>คุณไม่มีสมาชิกคาราวานที่มีความสามารถทางการทูตหรือการค้าขาย</CaravanIncapableOfSocial>
+  <CaravanAreYouSure>คุณแน่ใจหรือไม่ว่าต้องการสร้างคาราวานนี้ ?</CaravanAreYouSure>
   <NoExitDirectionForCaravanChosen>คุณต้องเลือกทิศทางการออกสำหรับกองคาราวาน</NoExitDirectionForCaravanChosen>
   <NoCaravanExitDirectionAvailable>(ไม่มีทางออกที่พร้อมใช้งาน)</NoCaravanExitDirectionAvailable>
   <ExitDirection>ทิศทางออก</ExitDirection>
@@ -278,7 +285,8 @@
   <PrisonersSection>นักโทษ</PrisonersSection>
   <AnimalsSection>สัตว์</AnimalsSection>
   <EstimatedTimeToDestinationButton>เวลาไปถึงปลายทาง</EstimatedTimeToDestinationButton>
-  
+  <AbandonButton>ละทิ้ง</AbandonButton>
+ 
   <!-- Split caravan -->
   <SplitCaravan>แยกกองคาราวาน</SplitCaravan>
   <SourceCaravanMustHaveAtLeastOneColonist>คุณต้องออกจากอาณานิคมที่ไม่ได้ลงแรงอย่างน้อยหนึ่งคน</SourceCaravanMustHaveAtLeastOneColonist>

@@ -53,6 +53,8 @@
 	<RuinedByTemperature>เสียเพราะอุณหภูมิ</RuinedByTemperature>
     <CorpsePercentMissing>อวัยวะของศพที่สูญหาย</CorpsePercentMissing>
     <HiveReproducesIn>พันธุ์ใน</HiveReproducesIn>
+	<DormantHiveNotReproducing>จำศีลอยู่: ไม่สืบพันธุ์</DormantHiveNotReproducing>
+	<NextSpawnedItemIn>ต่อไปใน {0}</NextSpawnedItemIn>
     <BrokenDown>พัง</BrokenDown>
     <BondBrackets>(พันธบัตร)</BondBrackets>
     <Fuel>เชื้อเพลิง</Fuel>
@@ -79,6 +81,7 @@
 	<CaravanHoursPerTile>ซ./ช่อง</CaravanHoursPerTile>
 	<CaravanBaseMovementTime>เวลาเคลื่อนที่เรี่มต้น</CaravanBaseMovementTime>
 	<CurrentTileMovementTime>เวลาเคลื่อนที่ตอนนี้ของช่อง</CurrentTileMovementTime>
+  <StealthFactor>การลักลอบ</StealthFactor>
     <Temperature>อุณหภูมิ</Temperature>
     <BadTemperature>อุณหภูมิที่ไม่ดี</BadTemperature>
     <IdealFermentingTemperature>อุณหภูมิหมักที่พอเหมาะ</IdealFermentingTemperature>
@@ -123,6 +126,12 @@
 	<KnownSiteThreat>การคุกคาม: {0}.</KnownSiteThreat>
 	<KnownSiteThreats>ภัยคุกคาม: {0}.</KnownSiteThreats>
 	<KnownSiteThreatsNone>ภัยคุกคาม: none.</KnownSiteThreatsNone>
+  <SkillRequirements>ทักษะที่ต้องการ</SkillRequirements>
+  <Products>ผลิต</Products>
+  <DeepDrillExhausted>ทรัพยากรการเจาะลึกหมดไปแล้ว</DeepDrillExhausted>
+  <Relationship>{0} ของ {1}</Relationship>
+  <Prisoner>นักโทษ</Prisoner>
+  <Refugee>ผู้ลี้ภัย</Refugee>
 
     <!-- Fermentation barrel -->
     <ContainsWort>มี {0} / {1} น้ำหมักเบียร์</ContainsWort>
@@ -183,6 +192,7 @@
     <!-- Job reports -->
 	<ReportHaulingTo>กำลังขน {0} ไปที่ {1}</ReportHaulingTo>
 	<ReportHauling>กำลังขน {0}</ReportHauling>
+	<ReportHaulingUnknown>กำลังขนของ</ReportHaulingUnknown>
     <ReportSleeping>กำลังนอนหลับ</ReportSleeping>
     <ReportResting>กำลังพักผ่อน</ReportResting>
     <WatchingSunrise>กำลังดูพระอาทิตย์ขึ้น</WatchingSunrise>
@@ -190,12 +200,14 @@
     <WatchingSunset>กำลังดูพระอาทิตย์อัสดง</WatchingSunset>
     <Stargazing>กำลังเหม่อดูดาวพร่างพราว</Stargazing>
     <WatchingEclipse>กำลังดูจันทรุปราคา</WatchingEclipse>
+	<WatchingAurora>กำลังดูออโรร่า</WatchingAurora>
     <UsingVerb>กำลังใช้ {0} กับ {1}.</UsingVerb>
     <AreaLower>พื้นที่</AreaLower>    
     <ReportCowering>กำลังหลบ</ReportCowering>
     <ReportStanding>กำลังยืน</ReportStanding>
     <ReportExtinguishingFire>กำลังดับไฟ</ReportExtinguishingFire>
     <ReportExtinguishingFireOn>กำลังดับไฟ กับ {0}.</ReportExtinguishingFireOn>
+	<ReportDiggingUpCorpse>ขุดศพ</ReportDiggingUpCorpse>
 
     <!-- Lord job reports -->
     <LordReportAttendingMarriageCeremony>เข้าร่วมพิธีแต่งงาน</LordReportAttendingMarriageCeremony>
@@ -240,12 +252,13 @@
     <EquippedNothing>ไม่มีอะไร</EquippedNothing>
 	<Dead>ตาย</Dead>
 	<Unconscious>ไม่ได้สติ</Unconscious>
-	<PainShock>กำลังช่อกเหนื่อจากความเจ็บป่วด</PainShock>
+	<PainShock>กำลังช็อกเหนื่อง จากความเจ็บป่วด</PainShock>
 	<PainShockShort>อาการช็อกจากการปวด</PainShockShort>
     <Incapacitated>ไม่สามารถเคลื่อนที่ได้</Incapacitated>
     <InRestraints>ถูกกักขัง (เคลื่อนที่ช้า)</InRestraints>
-    <Carrying>กำลังแบก</Carrying>
+    <Carrying>กำลังถือ</Carrying>
 	<AffectedBy>ได้รับผลกระทบ โดย:</AffectedBy>
+  <Queued>รอคิว</Queued>
 
     <!-- Inspector general stuff -->
     <SelectNextInSquareTip>เลือกของต่อไปในช่องเดียวกัน\n\nกด: {0}\n\nคุณสามารถทำแบบนี้ได้ด้วยการกดช้าๆในช่องนี้อีกครั้งหนึ่ง</SelectNextInSquareTip>
@@ -265,6 +278,7 @@
     <PowerOutput>พลังงานขาออก</PowerOutput>
     <PowerBatteryStored>เก็บแล้ว</PowerBatteryStored>
     <PowerBatteryEfficiency>ประสิทธิภาพ</PowerBatteryEfficiency>
+	<SelfDischarging>ปลดไฟด้วยตนเอง</SelfDischarging>
 
     <!-- Temperature control -->
     <TargetTemperature>อุณหภูมิเป้าหมาย</TargetTemperature>
@@ -274,7 +288,7 @@
   
     <!-- Temperature readout -->
     <Indoors>ในร่ม</Indoors>
-    <IndoorsUnroofed>ไม่มุงหลังคา</IndoorsUnroofed>
+    <IndoorsUnroofed>ไม่มีหลังคา</IndoorsUnroofed>
     <Outdoors>กลางแจ้ง</Outdoors>
   
     <!--Rotting-->
@@ -311,6 +325,8 @@
     <GrowYearRound>ตลอดทั้งปี</GrowYearRound>
     <GrowSeasonHereNow>ขณะนี้เป็นฤดูเพาะปลูก</GrowSeasonHereNow>
     <CannotGrowTooCold>ไม่สามารถเพาะปลูกได้ - ฤดูที่อากาศเย็น</CannotGrowTooCold>
+	<Blighted>โรคระบาด</Blighted>
+	<DyingBecauseExposedToLight>กำลังตายเนื่องจากโดนแสง</DyingBecauseExposedToLight>
 
     <!-- Zones -->
     <Zone>โซน</Zone>
@@ -340,8 +356,9 @@
 	<ShowRoofOverlayToggleButton>สลับการมองเห็นของหลังคา</ShowRoofOverlayToggleButton>
 	<LockNorthUpToggleButton>ล็อคการหมุนของกล้องเพื่อให้ขั้วโลกเหนืออยู่เสมอ</LockNorthUpToggleButton>
 	<UsePlanetDayNightSystemToggleButton>สลับระบบไฟ วัน / คืน</UsePlanetDayNightSystemToggleButton>
-	<ExpandingIconsToggleButton>สลับการแสดงไอคอนการขยายแทนไอคอนปกติสำหรับวัตถุที่อยู่ไกล</ExpandingIconsToggleButton>
-  
+	<ShowExpandingIconsToggleButton>สลับการแสดงไอคอนการขยายแทนไอคอนปกติสำหรับวัตถุที่อยู่ไกล</ShowExpandingIconsToggleButton>
+  	<ShowWorldFeaturesToggleButton>สลับการมองเห็นชื่อของลักษณะดิน</ShowWorldFeaturesToggleButton>
+
     <!-- Fire -->
     <Fire>เพลิงไหม้</Fire>
     <FireOn>เพลิงไหม้บน {0}</FireOn>
@@ -379,7 +396,13 @@
     <ShipReportCannotLaunch>ไม่สามารถยิงได้</ShipReportCannotLaunch>
     <ShipReportCanLaunch>พร้อมจะยิงแล้ว</ShipReportCanLaunch>
     <ShipReportMissingPart>ขาดชิ้นสวนสำคัญ</ShipReportMissingPart>
-    <ShipReportNoFullPods>ไม่มีเตียงแซ่แข็งที่เต็ม</ShipReportNoFullPods>
+  <ShipReportMissingPartRequires>ต้องมี</ShipReportMissingPartRequires>    
+	<ShipReportNoFullPods>ไม่มีเตียงแซ่แข็งที่เต็ม</ShipReportNoFullPods>
+  <ShipReportHibernating>คอมโพเนนต์ไฮเบอร์เนต</ShipReportHibernating>
+  <ShipReportNotReady>คอมโพเนนต์ยังไม่พร้อม</ShipReportNotReady>
+  <HibernateWarning>Charlon Whitestone พร้อมแล้วที่จะเริ่มลำดับการกู้คืนข้อมูลไฮเบอร์เนตของเครื่องปฏิกรณ์\n\nเครื่องปฏิกรณ์ของยานยังคงอยู่ในโหมดไฮเบอร์เนต ลึกดังนั้นจึงไม่สามารถบินได้ คุณสามารถเริ่มต้นใช้งานได้โดยโต้ตอบกับแกนหลักของคอมพิวเตอร์\n\nCharlon Whitestone เตือนคุณว่ากระบวนการเริ่มต้นใช้งานจะใช้เวลาประมาณ 15 วันและลายเซ็นของพลังงานจะตรวจจับได้จากระยะไกล พลังงานประเภทบ่งชี้ถึง การบินระหว่างดวงดาวและจะดึงดูดแก๊งของผู้บุกรุกและนักล่าสมบัติ ตรวจสอบให้แน่ใจว่าการป้องกันของคุณได้รับการจัดเตรียมไว้พร้อมแล้ว</HibernateWarning>
+  <HibernateCompleteLabel>เครื่องปฏิกรณ์พร้อม</HibernateCompleteLabel>
+  <HibernateComplete>Charlon Whitestone ได้ทำลำดับการกู้คืนข้อมูลการทำไฮเบอร์เนตเสร็จสิ้น เครื่องปฏิกรณ์พร้อมที่จะบินขึ้น</HibernateComplete>
 
     <!-- Neurotrainer -->
     <NeurotrainerUsed>{0} ใช้ {1} Neurotrainer ไปจากระดับ {2} ถึงระดับ {3}</NeurotrainerUsed>
@@ -488,5 +511,9 @@
   <OutfitWorker>Worker</OutfitWorker>
   <OutfitSoldier>Soldier</OutfitSoldier>
   <OutfitNudist>Nudist</OutfitNudist>
+  
+  <!-- Hibernatable -->
+  <HibernatableHibernating>จำศีล</HibernatableHibernating>
+  <HibernatableStartingUp>กำลังเรีม</HibernatableStartingUp>
 
 </LanguageData>

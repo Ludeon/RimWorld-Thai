@@ -3,14 +3,15 @@
 
   <!-- ITab titles -->
   <TabBills>ใบสั่ง</TabBills>
-  <TabGrowing>การเจริญเติบโต</TabGrowing>
+  <TabGrowing>ปลูกผัก</TabGrowing>
   <TabCharacter>ตัวละคร</TabCharacter>
   <TabTraining>การอบรม</TabTraining>
   <TabPrisoner>นักโทษ</TabPrisoner>
-  <TabGuest>แขก</TabGuest>
+  <TabGuest>ผู้มาเยือน</TabGuest>
   <TabGear>อุปกรณ์</TabGear>
-  <TabNeeds>ความ\nต้องการ</TabNeeds>
+  <TabNeeds>ความต้องการ</TabNeeds>
   <TabStorage>คลัง</TabStorage>
+  <TabShells>กระสุนปืนใหญ่</TabShells>
   <TabHealth>สุขภาพ</TabHealth>
   <TabRace>เผ่า</TabRace>
   <TabBasics>พื้นฐาน</TabBasics>
@@ -18,6 +19,7 @@
   <TabRecords>บันทึก</TabRecords>
   <TabArt>ศิลปะ</TabArt>
   <TabSocial>สังคม</TabSocial>
+  <TabCombat>การต่อสู้</TabCombat>
 
   
   <!-- Bills tab  -->
@@ -35,16 +37,11 @@
   <DoctorsCare>การดูแลทางการแพทย์</DoctorsCare>
   <GetsMedicine>ได้รับการรักษาด้วยยา</GetsMedicine>
   <ShouldTryToRecruit>ลองพยายามชักชวนให้เข้าร่วม</ShouldTryToRecruit>
-  <PrisonerNoInteraction>ไม่มีปฏิสัมพันธ์</PrisonerNoInteraction>
-  <PrisonerFriendlyChat>คุยอย่างเป็นมิตร</PrisonerFriendlyChat>
-  <PrisonerAttemptRecruit>คุยและชักชวนให้เข้าร่วม</PrisonerAttemptRecruit>
-  <PrisonerRelease>ปล่อยตัว</PrisonerRelease>
-  <PrisonerExecution>ประหาร</PrisonerExecution>
 	<ConsideredGuilty>ถือว่ามีความผิด (จะหมดอายุใน {0})</ConsideredGuilty>
 
 	
   <!-- Medical - general -->
-  <MoveSpeed>ความเร็วการเคลื่อนที่</MoveSpeed>
+  <MoveSpeed>ความเร็วในการเคลื่อนที่</MoveSpeed>
   <Efficiency>ประสิทธิภาพ</Efficiency>
   	<PartEfficiency>ประสิทธิภาพชิ้นส่วน</PartEfficiency>
 	<BodyPartEfficiency>ประสิทธิภาพของส่วนของร่างกาย</BodyPartEfficiency>

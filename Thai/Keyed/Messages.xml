@@ -78,6 +78,7 @@
 	<MessageMedicalOperationFailureMinor>{0} ล้มเหลวในทางเล็ก ๆ ขณะปฏิบัติการอยู่ {1}.</MessageMedicalOperationFailureMinor>
 	<MessageMedicalOperationFailureCatastrophic>{0} ล้มเหลวในขณะดำเนินการ {1}.</MessageMedicalOperationFailureCatastrophic>
 	<MessageMedicalOperationFailureRidiculous>{0} ล้มเหลวในทางไร้สาระขณะปฏิบัติการ {1}.</MessageMedicalOperationFailureRidiculous>
+	<MessageMedicalOperationFailureFatal>{0} ผ้าตัดล้มเหลวเสียชีวิต {1} เนื่องจากการท้าทายพิเศษ: {2}</MessageMedicalOperationFailureFatal>
 
 	<MessageMedicalOperationWillAngerFaction>การดำเนินการนี้จะโกรธ {0}.</MessageMedicalOperationWillAngerFaction>
 
@@ -137,6 +138,8 @@
   
   <MessageFoodPoisoning>{0} ได้รับอาหารเป็นพิษจาก: {1}</MessageFoodPoisoning>
   
+  <MessageFoodPoisoning>{0} ได้อาการเป็นพิษจาก {1}</MessageFoodPoisoning>
+ 
   <MessageFailedToSendCaravanBecausePawnLost>ไม่สามารถส่งกองคาราวานเนื่องจากหนึ่งในอาณานิคมนักโทษหรือสัตว์สูญหาย</MessageFailedToSendCaravanBecausePawnLost>
   <MessageCaravanFormationPaused>ขั้นตอนการสร้างกองคาราวานจะดำเนินต่อไปเมื่อทุกคนฟื้นตัวจากอาการผิดปกติทางจิต</MessageCaravanFormationPaused>
   <MessageCaravanFormationUnpaused>อาณานิคมของคุณจะกลายเป็นกองคาราวานต่อไป</MessageCaravanFormationUnpaused>
@@ -146,9 +149,13 @@
   <MessageMaxPlanetCoveragePerformanceWarning>คำเตือน: อาจใช้เวลานานมากในการสร้างดาวเคราะห์ทั้งหมด</MessageMaxPlanetCoveragePerformanceWarning>
 
 	<MessagePlantDiedOfCold>{0} ตายเพราะความหนาวเย็น</MessagePlantDiedOfCold>
-	<MessagePlantDiedOfRot>{0} ตายจากการเน่าเปื่อยเนื่องจากถูกทิ้งไว้ไม่ได้</MessagePlantDiedOfRot>
-
-	<MessagePawnBeingBurned>{0} กำลังถูกเผาด้วยอากาศร้อนจัด!</MessagePawnBeingBurned>
+	<MessagePlantDiedOfRot_LeftUnharvested>{0} ตายเนื่องจางเน่าเสียและไม่ได้เก็บเกียว</MessagePlantDiedOfRot_LeftUnharvested>	
+  <MessagePlantDiedOfRot_ExposedToLight>{0} ตายเนื่องจางโดนแสงอาทิตย์</MessagePlantDiedOfRot_ExposedToLight>
+  <MessagePlantDiedOfRot>{0} ตายจากการเน่าเปื่อยเนื่องจากถูกทิ้งไว้ไม่ได้</MessagePlantDiedOfRot>
+	<MessagePlantDiedOfPoison>{0} ตายเนื่องจากยาพิษ</MessagePlantDiedOfPoison>
+  <MessagePlantDiedOfBlight>{0} ตายเนื่องโรคระบาด</MessagePlantDiedOfBlight>
+  
+    <MessagePawnBeingBurned>{0} กำลังถูกเผาด้วยอากาศร้อนจัด!</MessagePawnBeingBurned>
 
 	<MessageAccidentalOverdose>{0} ได้ล่วงล้ำโดยไม่ตั้งใจในขณะที่บริโภค {1}!</MessageAccidentalOverdose>
   
@@ -225,5 +232,33 @@
   
   <MessageSiteCountdownBecauseNoMoreEnemies>คุณได้พ่ายแพ้ศัตรูทั้งหมด ใน {0} กองคาราวานจะได้รับการปฏิรูปโดยอัตโนมัติ</MessageSiteCountdownBecauseNoMoreEnemies>
   <MessageSiteCountdownBecauseNoEnemiesInitially>ใน {0} กองคาราวานจะได้รับการปฏิรูปโดยอัตโนมัติ คุณสามารถปฏิรูปกองคาราวานได้ในหน้าจอโลก</MessageSiteCountdownBecauseNoEnemiesInitially>
+  
+  <MessageCantBanishDownedPawn>ไม่สามารถขับไล่ {0} เนื่องจาก HE ไม่สามารถเดินได้</MessageCantBanishDownedPawn>
+
+  <MessageSleepingPawnsWokenUp>{0} ได้ตื่นขึ้นแล้ว</MessageSleepingPawnsWokenUp>
+
+  <MessageCompSpawnerSpawnedItem>ไอเท็มที่ถูกสร้าง: {0}</MessageCompSpawnerSpawnedItem>
+
+  <MessageHediffCuredByItem>โรคที่รักษา: {0}</MessageHediffCuredByItem>
+  <MessageBodyPartCuredByItem>อวัยวะที่ได้คืน: {0}</MessageBodyPartCuredByItem>
+  <MessageResearchProjectFinishedByItem>เทคโนโลยีที่ได้รับ: {0}</MessageResearchProjectFinishedByItem>
+
+  <MessagePawnResurrected>{0} ได้กลับมามีชีวิตอยู่ !</MessagePawnResurrected>
+
+  <MessageFailedToRescueRelative>คุณได้ล้มเหลวในการช่วย {0} มันจะทำให้ {1} เศร้า</MessageFailedToRescueRelative>
+  <MessageRescuedRelative>คุณได้ช่วย {0}  มันจะทำให้ {1} มีความสุข</MessageRescuedRelative>
+
+  <MessagePrisonerRescued>คุณได้ช่วย NAME และ HE ได้เข้าร่วมอาณานิคมของคุณแล้ว</MessagePrisonerRescued>
+
+  <MessageTornadoLeftMap>ทอนนาโด ได้ไปจากพื้นที่นี้แล้ว</MessageTornadoLeftMap>
+  <MessageTornadoDissipated>ทอนนาโด ได้หยุดลงแล้ว</MessageTornadoDissipated>
+
+  <MessagePeaceTalksNoDiplomat>ไม่มีสติ หรือ ภูตในอาณานิคม</MessagePeaceTalksNoDiplomat>
+
+  <MessageWarningCavePlantsExposedToLight>คำเตือน: {0} ไม่สามารถมีชีวิตอยู่ได้ถ้าโดนแสง</MessageWarningCavePlantsExposedToLight>
+
+  <MessageTargetedTantrumChangedTarget>{0} ไม่สามารถเข้าหา {1}  HE ตัดสินใจที่จะ HIS ความโมโหไปที่ {2}.</MessageTargetedTantrumChangedTarget>
+
+  <MessageTargetedInsultingSpreeChangedTarget>{0} ไม่สามารถเข้าหา {1}  HE ตัดสินใจที่จะ HIS ความโมโหไปที่ {2}.</MessageTargetedInsultingSpreeChangedTarget>
 
 </LanguageData>

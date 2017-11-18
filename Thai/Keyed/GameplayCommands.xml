@@ -27,7 +27,7 @@
   <CommandToggleDraftDesc>เปลี่ยนร่างทหาร\n\nคนร่างมีคำสั่งและต่อสู้ พวกเขาจะไม่ทำงาน กินหรือพักผ่อน</CommandToggleDraftDesc>
   <IsIncapped>{0} ไม่สามารถเดินได้.</IsIncapped>
 
-  	<CommandAllowFiringLabel>อนุญาตให้ยิง</CommandAllowFiringLabel>
+  <CommandAllowFiringLabel>อนุญาตให้ยิง</CommandAllowFiringLabel>
 	<CommandAllowFiringDesc>สลับให้ยิงได้\n\nเมื่อปิดการใช้งานตัวละครนี้จะไม่ยิงโดยอัตโนมัติในเป้าหมายที่อยู่ในระยะไกล ไม่ส่งผลกระทบต่อการต่อสู้ระยะประชิด</CommandAllowFiringDesc>
   
   <CommandClearPrioritizedWork>จัดลำดับความสำคัญการทำงานที่ชัดเจน</CommandClearPrioritizedWork>
@@ -73,7 +73,7 @@
   <CommandPasteZoneSettingsLabel>วางการตั้งค่า</CommandPasteZoneSettingsLabel>
   <CommandPasteZoneSettingsDesc>เขียนทับการตั้งค่าของโซนนี้กับการคัดลอกก่อนหน้านี้ไปยังคลิปบอร์ด</CommandPasteZoneSettingsDesc>
 
-  <CommandAllowSow>อนุญาตให้ไถหว่าน</CommandAllowSow>
+  <CommandAllowSow>อนุญาตให้หว่านเมล็ด</CommandAllowSow>
   <CommandAllowSowDesc>เมื่อปิดการใช้งานอาณานิคมจะไม่หว่านพืชในเขตนี้ พวกเขาจะยังคงเก็บเกี่ยว</CommandAllowSowDesc>
 
   <!-- Artillery -->
@@ -82,14 +82,20 @@
   <CommandStopForceAttack>หยุดการโจมตีที่ถูกบังคับ</CommandStopForceAttack>
   <CommandStopForceAttackDesc>หยุดการโจมตีด้วยพลังและช่วยให้ป้อมปืนยิงได้ตามที่ต้องการ</CommandStopForceAttackDesc>
   <CommandStopAttackFailNotForceAttacking>ยังไม่ได้บังคับให้โจมตี</CommandStopAttackFailNotForceAttacking>
-  <MessageTargetBeyondMaximumRange>กำหนดเป้าหมายเกินกว่าช่วงสูงสุด</MessageTargetBeyondMaximumRange>
-  <MessageTargetBelowMinimumRange>กำหนดเป้าหมายต่ำกว่าช่วงต่ำสุด</MessageTargetBelowMinimumRange>
-  
+  <CommandExtractShell>เก็บ กระสุนปืนใหญ่</CommandExtractShell>
+  <CommandExtractShellDesc>ยกเลิกการโหลดกระสุนปืนใหญ่ ปัจจุบันเพื่อให้สามารถแทนที่ด้วยกระสุนต่างๆ</CommandExtractShellDesc>
+  <CommandExtractShellFailNoShell>ไม่มีการโหลดกระสุนปืนใหญ่</CommandExtractShellFailNoShell>
+  <MessageTargetBeyondMaximumRange>เป้าหมายอยู่ไกลเกิน</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>เป้าหมายอยู่ใกล้เกิน</MessageTargetBelowMinimumRange>
+  <MessageTurretWontFireBecauseHoldFire>คำเตือน: ปืนครกไม่สามารถยิงได้เนื่องจากถูกตั้งเป็น "ห้ามยิง"  </MessageTurretWontFireBecauseHoldFire>
+
   <!-- Ship computer core -->
   <CommandShipLaunch>เปิดยาน</CommandShipLaunch>
-  <CommandShipLaunchDesc>เริ่มยานเรือโดยใช้การกำหนดค่าปัจจุบัน</CommandShipLaunchDesc>
+  <CommandShipLaunchDesc>เริ่มยานโดยใช้การกำหนดค่าปัจจุบัน</CommandShipLaunchDesc>
   <CommandShipLaunchReport>แสดงรายงานการเปิดตัว</CommandShipLaunchReport>
   <CommandShipLaunchReportDesc>แสดงรายงานความพร้อมเกี่ยวกับความสามารถในการเปิดตัวยาน</CommandShipLaunchReportDesc>
+  <CommandShipStartup>เริ่มเดินยาน</CommandShipStartup>
+  <CommandShipStartupDesc>ตื่นขึ้นมาในส่วนของอุปกรณ์ที่จำศีล</CommandShipStartupDesc>
 
   <!-- Pod -->
   <CommandPodEject>ออกจากการนอน</CommandPodEject>
@@ -134,6 +140,10 @@
   <CommandSquadAttack>โจมตี</CommandSquadAttack>
   <CommandSquadAttackDesc>สั่งให้ชาวอาณานิคมที่เลือกโจมตีเป้าหมายที่กำหนด</CommandSquadAttackDesc>
 
+  <!-- Melee attack -->
+  <CommandMeleeAttack>การโจมตีระยะประชิด</CommandMeleeAttack>
+  <CommandMeleeAttackDesc>สั่งให้ชาวอาณานิคมที่เลือกเพื่อโจมตีเป้าหมายที่กำหนดโดยใช้เพียงกำปั้นและอาวุธระยะประชิด</CommandMeleeAttackDesc>
+
   <!-- Hold fire -->
   <CommandHoldFire>โจมตีที่ต่อเนื่อง</CommandHoldFire>
   <CommandHoldFireDesc>ยุติการโจมตีที่ต่อเนื่อง</CommandHoldFireDesc>
@@ -163,6 +173,7 @@
   <!-- Merge caravan -->
   <CommandMergeCaravans>รวมคาราวาน</CommandMergeCaravans>
   <CommandMergeCaravansDesc>รวมคาราวานที่เลือกไว้</CommandMergeCaravansDesc>
+  <CommandMergeCaravansFailCaravansNotSelected>เลือกคาราวานทั้งหมดที่ควรจะผสาน คาราวานต้องอยู่ใกล้กันและกัน</CommandMergeCaravansFailCaravansNotSelected>
   
   <!-- Settle -->
   <CommandSettle>สร้างบ้านใหม่</CommandSettle>

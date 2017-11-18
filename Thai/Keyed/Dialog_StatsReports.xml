@@ -10,9 +10,11 @@
   <StatsReport_CharacterQuality>คุณภาพของตัวละคร</StatsReport_CharacterQuality>
   <StatsReport_Skills>ปัจจัยทางทักษะ</StatsReport_Skills>
   <StatsReport_OtherStats>ปัจจัยทางสถิติอื่นๆ</StatsReport_OtherStats>
-  <StatsReport_HealthFactors>ปัจจัยทางสุขภาพ</StatsReport_HealthFactors>
-  <HealthFactorPercentImpact>{0} สำคัญ</HealthFactorPercentImpact>
-  	<HealthFactorMaxImpact>{0} เต็ม</HealthFactorMaxImpact>
+    <StatsReport_Health>สุขภาพ</StatsReport_Health>
+    <HealthFactorPercentImpact>{0} สำคัญ</HealthFactorPercentImpact>
+ 	<HealthOffsetScale>{0} impact</HealthOffsetScale> 	
+	<HealthFactorMaxImpact>{0} เต็ม</HealthFactorMaxImpact>
+  <HealthFactorAllowedDefect>if below {0}</HealthFactorAllowedDefect> 
     <StatsReport_PostProcessed>Post-processed curved</StatsReport_PostProcessed>
   <StatsReport_FinalValue>ค่าสุดท้าย</StatsReport_FinalValue>
   <StatsReport_MarketValueFromStuffsAndWork>ค่าทางการตลาดนั้นถูกคำนวนจากวัสดุของสิ่งก่อสร้างและปริมาณงาน</StatsReport_MarketValueFromStuffsAndWork>
@@ -20,6 +22,7 @@
   <StatsReport_AgeMultiplier>ตัวคูณสำหรับอายุ {0}</StatsReport_AgeMultiplier>
   <StatsReport_HealthMultiplier>ตัวคูณสำหรับสุขภาพ {0}</StatsReport_HealthMultiplier>
   <StatsReport_MoodMultiplier>ตัวคูณสำหรับอารมณ์ {0}</StatsReport_MoodMultiplier>
+	<StatsReport_LightMultiplier>Multiplier for light {0}</StatsReport_LightMultiplier>	
 	<StatsReport_DifficultyMultiplier>ตัวคูณสำหรับระดับความยาก {0}</StatsReport_DifficultyMultiplier>
   <StatsReport_InBed>อยู่บนเตียง</StatsReport_InBed>
   <StatsReport_Facilities>สิ่งอำนวยความสะดวก</StatsReport_Facilities>
@@ -36,5 +39,8 @@
 	<AverageOfAllAttacks>ค่าเฉลี่ยของการโจมตีทั้งหมด</AverageOfAllAttacks>
     <StatsReport_ScenarioFactor>สถานการณ์</StatsReport_ScenarioFactor>
   <StatsReport_IngredientsMass>ส่วนผสม</StatsReport_IngredientsMass>
- 
+  <StatsReport_PermanentlyDisabled>ปิดใช้งานอย่างถาวร</StatsReport_PermanentlyDisabled>
+  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
+  <StatsReport_AddedBodyPartsMass>เพิ่มส่วนต่างๆในร่างกาย</StatsReport_AddedBodyPartsMass>
+
 </LanguageData>

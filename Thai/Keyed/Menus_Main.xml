@@ -128,10 +128,12 @@
   <AvgSummerTemp>เฉลี่ยอุณหภูมิ (ฤดูหนาวร้อน): {0}</AvgSummerTemp>
     <AvgWinterTemp>เฉลี่ยอุณหภูมิ (ฤดูหนาว): {0}</AvgWinterTemp>
     <Rainfall>ปริมาณฝน</Rainfall>
+  <SpecialFeatures>ความสามารถพิเศษ</SpecialFeatures>
   <HasCoast0>ชายฝั่งทางทิศเหนือ</HasCoast0>
   <HasCoast1>ชายฝั่งทางทิศตะวันออก</HasCoast1>
   <HasCoast2>ชายฝั่งทางทิศตะวันตก</HasCoast2>
   <HasCoast3>ชายฝั่งทางทิศใต้</HasCoast3>
+  <HasCaves>ถ่ำ</HasCaves>
   <FactionBase>ฐานของฝ่าย</FactionBase>
   <StoneTypesHere>ประเภทหิน</StoneTypesHere>
   <TimeZone>เขตเวลา</TimeZone>
@@ -139,6 +141,8 @@
 	<MovementTimeSummer>เวลาเคลื่อนไหวในช่วงฤดูร้อน</MovementTimeSummer>
 	<MovementTimeWinter>เวลาเคลื่อนไหวในช่วงฤดูหนาว</MovementTimeWinter>
   <AnimalsCanGrazeNow>สัตว์สามารถกินหญ้าได้ในขณะนี้</AnimalsCanGrazeNow>
+  <AverageDiseaseFrequency>ความถี่ของโรคระบาด</AverageDiseaseFrequency>
+  <PerYear>ต่อปี</PerYear>
 
   
     <!--=========== Character chooser ==========-->
@@ -161,7 +165,10 @@
   <Pain>ความเจ็บปวด</Pain>
   <Health>สุขภาพ</Health>
   <Relations>ความสัมพันธ์</Relations>
-  
+  <TeamSkills>ทักษะของทีม</TeamSkills>
+  <StartingPawnsSelected>ถูกเลือก</StartingPawnsSelected>
+  <StartingPawnsLeftBehind>ถูกทิ้ง</StartingPawnsLeftBehind>
+
   <!--=========== Misc ==========-->
   <Start>เริ่ม</Start>
   <Advanced>ขั้นสูง</Advanced>

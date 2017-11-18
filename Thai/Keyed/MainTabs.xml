@@ -11,6 +11,7 @@
   <NoneBrackets>(ไม่มี)</NoneBrackets>
   <IncapableOfWorkTypeBecauseOfCapacities>อาณานิคมนี้ไม่สามารถทำงานประเภทนี้เนื่องจากสภาพสุขภาพของเขา</IncapableOfWorkTypeBecauseOfCapacities>
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
+  <SelectedWorkTypeWithVeryBadSkill>คำเตือน: ทักษะต่ำมากสำหรับงานนี้</SelectedWorkTypeWithVeryBadSkill>
   
   <!-- Assign tab -->
   <ManageOutfits>จัดการเครื่องแต่งกาย</ManageOutfits>
@@ -58,7 +59,7 @@
   <Playtime>เวลาที่เล่น</Playtime>
   <Storyteller>ผู้เล่า</Storyteller>
   <ThisMapColonyWealthTotal>ความมั่งคั่งของอาณานิคม (แผนที่นี้)</ThisMapColonyWealthTotal>
-  <ThisMapColonyWealthItems>ความมั่งคั่งของอาณานิคม  (ไอเทม) (แผนที่นี้)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthItems>ความมั่งคั่งของอาณานิคม  (ไอเท็ม) (แผนที่นี้)</ThisMapColonyWealthItems>
   <ThisMapColonyWealthBuildings>ความมั่งคั่งของอาณานิคม  (สิ่งปลูกสร้าง) (แผนที่นี้)</ThisMapColonyWealthBuildings>
   <NumThreatBigs>ภยันตรายหลัก</NumThreatBigs>
   <NumEnemyRaids>ศัตรูมาบุกปล้น</NumEnemyRaids>

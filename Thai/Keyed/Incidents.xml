@@ -7,7 +7,7 @@
   <AnimalInsanityMultiple>การจัดเรียงของคลื่นพลังจิตบางส่วนได้กวาดผ่านภูมิทัศน์ อาณานิคมของคุณจะถูก แต่ ...\n\nดูเหมือนว่า {0} ในพื้นที่ได้รับการบ้าคลั่ง</AnimalInsanityMultiple>
 
   <LetterLabelCropBlight>พืชผลถูกทำลาย</LetterLabelCropBlight>
-  <CropBlight>มีสิ่งลึกลับได้ทำลายพืชผลของเรา</CropBlight>
+  <LetterCropBlight>มีสิ่งลึกลับได้ทำลายพืชผลของเรา</LetterCropBlight>
 
   <LetterLabelMiracleHeal>ปาฏิหาริย์ !!</LetterLabelMiracleHeal>
   <MiracleHeal>{0} มีประสบการณ์การฟื้นตัวที่น่าอัศจรรย์!!</MiracleHeal>
@@ -32,6 +32,8 @@
 
   <AnElectricalConduit>ท่อสายไฟ</AnElectricalConduit>
   <ShortCircuit>ความผิดพลาดใน {0} ได้ก่อให้เกิดการลัดวงจร \n\nทั้งหมด {1} ของพลังงานในแบตเตอรี่ ที่เชื่อมต่อได้ปล่อยออกมา ทำให้เกิดการลัดวงจรจึงระเบิด</ShortCircuit>
+  <ShortCircuitStartedFire>เกิดข้อผิดพลาด {0} เกิดลัดวงจรซึ่งเริ่มมีไฟลุกไหม้</ShortCircuitStartedFire>
+  <ShortCircuitDischargedEnergy>{0} ทั้งหมดมีการปล่อยพลังงานในแบตเตอรี่ที่เชื่อมต่อไว้ในการระเบิดด้วยไฟฟ้า</ShortCircuitDischargedEnergy>
   <ShortCircuitWasLarge>ใช้ไฟจำนวนมากของการใช้พลังงานอาจเกิดการระเบิดที่มีขนาดพอสมควร</ShortCircuitWasLarge>
   <ShortCircuitWasHuge>ที่จริงเป็นระเบิดขนาดใหญ่ ว้าว</ShortCircuitWasHuge>
 
@@ -114,12 +116,16 @@
  
   <!-- Ransom demand -->
   	<RansomDemandTitle>เรียกค่าไถ่ที่ {0}</RansomDemandTitle>
-    <RansomDemand>{1} ผู้ติดต่อคุณในรายการวิทยุ พวกเขาจะถืออดีตอาณานิคม {0} เพื่อเรียกค่าไถ่\n\nพวกเขายินดีที่จะปล่อย HIM กลับไปหาคุณแลกเปลี่ยนสำหรับ {2} เงิน</RansomDemand>
+    <RansomDemand>{1} ติดต่อคุณในวิทยุ พวกเขาจับสมาชิกอาณานิคมในอดีต {0} เพื่อเรียกค่าไถ่\n\nพวกเขายินดีที่จะปล่อย HIM กลับไปหาคุณแลกเปลี่ยนสำหรับ {2}</RansomDemand>
   <RansomDemand_Accept>ยอมรับ</RansomDemand_Accept>
   <RansomDemand_Reject>ปฏิเสธ</RansomDemand_Reject> 
   
-  <!-- Journey -->
-  <JourneyOffer>AI ที่เป็นมิตรจากอดีตของคุณชื่อ Charlon Whitestone ได้ส่งข้อความถึงคุณ!\n\nเขาแสดงให้เห็นว่าเขามียานอวกาศซ่อนอยู่บนดาวเคราะห์ดวงนี้และส่งพิกัดโลกไปให้คุณ\n\nถ้าคุณเดินทางไปที่ยาน, Charlon จะนำคุณออกจากโลกใบนี้ไปสู่ดาวฤกษ์</JourneyOffer>
+  <!-- Journey-related -->
+  <JourneyOffer>AI ที่เป็นมิตร จากอดีตของคุณชื่อ Charlon Whitestone ได้ส่งข้อความถึงคุณ!\n\nเขาแสดงให้เห็นว่าเขามียานอวกาศซ่อนอยู่บนดาวเคราะห์ดวงนี้และส่งพิกัดโลกไปให้คุณ\n\nถ้าคุณเดินทางไปที่ยาน, Charlon จะนำคุณออกจากโลกใบนี้ไปสู่ดาวฤกษ์</JourneyOffer>
+  <EscapeShipFoundLabel>พบยานแล้ว</EscapeShipFoundLabel>
+  <EscapeShipFound>คุณถึงพิกัดที่ Charlon Whitestone ส่งมาและค้นพบเอ็นเตอร์ไพรส์ที่ซ่อนอยู่\n\nเครื่องปฏิกรณ์ของยานยังคงอยู่ในโหมดไฮเบอร์เนต ลึกดังนั้นจึงไม่สามารถบินได้ คุณสามารถเริ่มต้นใช้งานได้โดยโต้ตอบกับแกนหลักของคอมพิวเตอร์\n\nCharlon Whitestone เตือนคุณว่ากระบวนการเริ่มต้นใช้งานจะใช้เวลาประมาณ 15 วันและลายเซ็นของพลังงานจะตรวจจับได้จากระยะไกล พลังงานประเภทบ่งชี้ถึง การบินระหว่างดวงดาวและจะดึงดูดแก๊งของผู้บุกรุกและนักล่าสมบัติ ตรวจสอบให้แน่ใจว่าการป้องกันของคุณได้รับการจัดเตรียมไว้พร้อมแล้ว</EscapeShipFound>
+  <EscapeShipLostLabel>ยานถูกทำลาย</EscapeShipLostLabel>
+  <EscapeShipLost>Charlon Whitestone ส่งข้อความถึงคุณ\n\nเขาเห็นว่าคุณสูญเสียการควบคุมยาน เพื่อป้องกันไม่ให้มันตกไปอยู่ในมือคนผิดเขาถูกบังคับให้ทริกเกอร์กลไกการทำลายตัวเองของยาน ยานลำนี้เป็นเพียงแค่ รู ในพื้นดินไปแล้ว\n\nคุณจำเป็นต้องหาทางออกอื่นจากดาวนี้</EscapeShipLost>
 
   <!-- Caravan meeting -->
 	<CaravanMeetingTitle>การประชุม Caravan โดย {0}</CaravanMeetingTitle>

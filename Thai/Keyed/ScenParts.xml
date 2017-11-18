@@ -6,6 +6,7 @@
   <ScenPart_PlayerFaction>ฝ่ายของคุณจะเป็น {0}.</ScenPart_PlayerFaction>
 
   <ScenPart_StartWithPawns>เริ่มกับ {0} คน</ScenPart_StartWithPawns>
+  <ScenPart_StartWithPawns_OutOf>เลือกจาก</ScenPart_StartWithPawns_OutOf>
   <RandomPet>สุ่ม สัตว์เลี้ยง</RandomPet>
 
   <ScenPart_StartingResearchFinished>เริ่มต้นด้วยการวิจัย: {0}</ScenPart_StartingResearchFinished>

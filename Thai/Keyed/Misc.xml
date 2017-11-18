@@ -28,7 +28,8 @@
   <intervalDays>ระยะห่าง (วัน)</intervalDays>
   <repeat>ทำซ้ำ</repeat>
 	<default>ค่าเริ่มต้น</default>
-	
+	<distance>ระยะทาง</distance>
+
   <!-- Content generation-->
   
 	<MeatLabel>เนื้อ{0}</MeatLabel>

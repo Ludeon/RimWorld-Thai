@@ -19,6 +19,7 @@
   <IncapableOfViolenceLower>ไม่สามารถใช้ความรุนแรงได้</IncapableOfViolenceLower>
   <IsNotDraftedLower>ไม่สามารถเกณฑ์ {0} ได้</IsNotDraftedLower>
   <CannotOrderNonControlledLower>ไม่สามารถสั่งหน่วยที่ไม่ได้ควบคุม</CannotOrderNonControlledLower>
+  <CannotAttackSelf>ไม่สามารถโจมตีตัวเองได้</CannotAttackSelf>
 
   <OrderManThing>{0} คน</OrderManThing>
   
@@ -39,6 +40,7 @@
     <NoUsableFood>ไม่มีอาหารที่ใช้งานได้</NoUsableFood>
     <NoFood>ไม่มีอาหาร</NoFood>
     <AnimalsSkillTooLow>สัตว์ทักษะต่ำเกินไป</AnimalsSkillTooLow>
+  <ConstructionSkillTooLow>ทักษะการก่อสร้างต่ำเกินไป</ConstructionSkillTooLow>	
 	<NoComponentsToRepair>ต้องการชิ้นส่วนประกอบ</NoComponentsToRepair>
 	<NoFuelToRefuel>ต้องการ {0}</NoFuelToRefuel>
   <NoWort>ไม่มี น้ำหมักเบียร์</NoWort>
@@ -46,7 +48,11 @@
   <NoFoodToFillHopper>ไม่มีอาหารที่เหมาะสม</NoFoodToFillHopper>
   <SelfTendDisabled>มีแนวโน้มที่จะพิการ</SelfTendDisabled>
   <ReservedForPrisoners>สงวนไว้สำหรับนักโทษ</ReservedForPrisoners>
-	
+  <CannotReach>ไม่สามารถเข้าถึงได้</CannotReach>
+  <NotSurgeryReady>ไม่พร้อมสำหรับการผ่าตัด</NotSurgeryReady>
+  <CantSowCavePlantBecauseOfLight>สว่างเกินไป</CantSowCavePlantBecauseOfLight>
+  <CantSowCavePlantBecauseUnroofed>unroofed</CantSowCavePlantBecauseUnroofed>
+
   <ConsumeThing>บริโภค {0}</ConsumeThing>
    
   <CannotGoNoPath>ไม่สามารถไปที่นี่ได้ (ไม่มีเส้นทาง)</CannotGoNoPath>
@@ -120,8 +126,10 @@
 
   <EnterMap>เข้าสู่ {0}</EnterMap>
   <VisitSettlement>เยือน {0}</VisitSettlement>
+  <VisitPeaceTalks>เยือน {0}</VisitPeaceTalks>
   <VisitSite>เยือน {0}</VisitSite>
-  <AttackFactionBase>โจมตี {0}</AttackFactionBase>
+  <VisitEscapeShip>เยือน {0}</VisitEscapeShip>
+  <AttackSite>โจมตี {0}</AttackSite>
   <AttackSettlement>โจมตี {0}</AttackSettlement>
   
   <!-- Specific thing interactions -->

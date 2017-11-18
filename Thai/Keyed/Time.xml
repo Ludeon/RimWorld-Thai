@@ -13,7 +13,9 @@
   <SeasonSummer>ฤดูร้อน</SeasonSummer>
   <SeasonFall>ฤดูใบไม้ร่วง</SeasonFall>
   <SeasonWinter>ฤดูหนาว</SeasonWinter>
-  
+  <SeasonPermanentSummer>ฤดูร้อนตลอดการ</SeasonPermanentSummer>
+  <SeasonPermanentWinter>ฤดูหนาวตลอดการ</SeasonPermanentWinter>
+
   <QuadrumAprimay>Aprimay</QuadrumAprimay>
   <QuadrumJugust>Jugust</QuadrumJugust>
   <QuadrumSeptober>Septober</QuadrumSeptober>
@@ -35,7 +37,7 @@
 
   <!-- Misc -->
   <Started>เริ่มต้น</Started>
-  <Lasted>ล่าสุด</Lasted>
+  <Lasted>อยู่ถึง</Lasted>
   <OccurredTimeAgo>เกิดขึ้นเมื่อ {0} ที่ผ่านมา</OccurredTimeAgo>
   
 </LanguageData>

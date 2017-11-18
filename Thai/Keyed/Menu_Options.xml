@@ -5,6 +5,7 @@
   <Audiovisuals>Audiovisuals</Audiovisuals>
   <GameVolume>เสียงของเกม</GameVolume>
   <MusicVolume>เสียงเพลง</MusicVolume>
+  <AmbientVolume>เสียงสิ่งแวดล้อม</AmbientVolume>
   <Antialiasing>ลบลายหยัก</Antialiasing>
 
   <!-- Gameplay -->

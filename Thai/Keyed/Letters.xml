@@ -30,6 +30,8 @@
   <RecruitSuccess>{0} คัดเลือกเรียบร้อยแล้ว {1} ( โอกาส {2} ).</RecruitSuccess>
   <RecruitFail>{0} ล้มเหลวในการรับสมัคร {1} ( โอกาส {2} ).</RecruitFail>
 
+  <RelatedPawnInvolvedInQuest>NAME คือ {0} ของ {1}. ถ้า NAME ตาย {0} จะทุกข์ทรมานจากความเศร้าโศกอย่างยาวนาน อย่างไรก็ตาม, ถ้าคุณช่วยชีวิต NAME ได้, {0} จะมีความสุขเป็นเวลานาน</RelatedPawnInvolvedInQuest>
+ 
   <LetterLabelBirthday>วันเกิด</LetterLabelBirthday>
   <BirthdayChronological>เป็นวันเกิด {0}ของวันนี้! , {1} มีอายุ {3} ปี\n\nตามลำดับ {1} เพิ่งเปลี่ยน {2}\n\nโปรดทราบว่าเนื่องจากคนอายุไม่มากในขณะที่อยู่ใน เครื่องนอนแช่แข็ง วันเกิดตามลำดับจะแยกออกจากวันเกิดทางชีวภาพ</BirthdayChronological>
   <BirthdayBiologicalAgeInjuries>{0} มีอายุครบบริบูรณ์ทางชีวภาพของ {1} แล้ว\n\nน่าเสียดาย, {0} ได้รับโรคต่อไปนี้เนื่องจากการเสื่อมสภาพ:\n{2}</BirthdayBiologicalAgeInjuries>
@@ -38,10 +40,14 @@
   <NewDisease>{0} ได้รับการป่วยจาก {1}.\n\nตรวจดูให้แน่ใจว่าคุณมีเตียงทางการแพทย์และแพทย์ ทำให้เเน่นอน {2} ได้รับการรักษาที่เหมาะสมและใช้เวลาในเตียงให้มากที่สุด</NewDisease>
   <NewPartDisease>{0} ได้รับป่วยจาก {3}. การติดเชื้ออยู่ใน HIS {1}.\n\nตรวจดูให้แน่ใจว่าคุณมีเตียงทางการแพทย์และแพทย์  ตรวจสอบให้แน่ใจว่า {2} ได้รับการรักษาที่เหมาะสมและใช้เวลาในการนอนหลับให้มากที่สุดเท่าที่จะเป็นไปได้</NewPartDisease>
 
+  <PawnWasFormerlyColonist>{0} เคยเป็นส่วนหนึ่งของฝ่ายของคุณแล้ว</PawnWasFormerlyColonist>
+  <PawnHasTheseRelationshipsWithColonists>{0} มีความสัมพันธ์กับอาณานิคมของคุณ:</PawnHasTheseRelationshipsWithColonists>
+  <PrisonerRescueTimeout>ค่ายจะหายไปหลังจาก {0} วัน หากคุณพลาดโอกาสนี้คุณอาจไม่เคยได้ยินจาก {1} อีกเลย</PrisonerRescueTimeout>
+
   <LetterLabelAncientShrineWarning>ภยันตรายจากโบราณกาล</LetterLabelAncientShrineWarning>
   <AncientShrineWarning>{0} ที่ถูกดึงเข้าไปใกล้กำแพงโบราณ, ความสังหรณ์ใจก็เข้าครอบ HIM. HECAP ไม่แน่ใจว่าทำไม, แต่ HE รู้สึกได้ว่าโครงสร้างฝุ่นจับนี้อาจจะกักเอาภยันตรายที่ใหญ่หลวงไว้</AncientShrineWarning>
 
-  <StruckMineable>เราได้ตี {0}!</StruckMineable>
+  <StruckMineable>เราได้พบ {0} !</StruckMineable>
 
   <LetterLabelAnimalManhunterRevenge>{0} ล้างแค้น</LetterLabelAnimalManhunterRevenge>
   <AnimalManhunterFromDamage>{0} กำลังทำร้ายคุณที่คุณไปไลล่าเขา!</AnimalManhunterFromDamage>
@@ -153,5 +159,32 @@
   <!-- Found lump of precious resources -->
   <LetterLabelFoundPreciousLump>พบแร่ธาตุที่มีค่า</LetterLabelFoundPreciousLump>
   <LetterFoundPreciousLump>เครื่องสแกนแร่ในระยะยาวของคุณได้พบก้อนแร่ธาตุที่ใกล้เคียง\n\nเราไม่รู้ว่าใครหรือจะทำอะไร - ถ้ามีอะไร - อาจกำลังเฝ้าระวังอยู่</LetterFoundPreciousLump>
-  
+   
+  <!-- Sleeping mechanoids -->
+  <LetterLabelSleepingMechanoids>mechanoids นอนหลับ</LetterLabelSleepingMechanoids>
+  <LetterSleepingMechanoids>มีกลุ่ม mechanoids ที่กำลังนอนหลับอยู่บริเวณนี้\n\n mechanoids อาจจะ ตื่นหรือไม่ตื่นขึ้น เมื่อคุณเข้าไปบริเวณนี้</LetterSleepingMechanoids>
+
+  <!-- Ambush -->
+  <LetterLabelAmbushInExistingMap>ซุ่มโจมตี</LetterLabelAmbushInExistingMap>
+  <LetterAmbushInExistingMap>คุณ {0} ถูกซุ่มโจมตี</LetterAmbushInExistingMap>
+
+  <!-- Peace talks -->
+  <LetterLabelPeaceTalks_Disaster> เจรจาสงบศึก เป็น หายนะ</LetterLabelPeaceTalks_Disaster>
+  <LetterPeaceTalks_Disaster> การเจรจาสงบศึก เป็น หายนะ. พวกภูตแทบจะทักทายกันไม่เสร็ญก่อนที่ การเจรจาจะกลายเป็นเพียงการด่ากันและการใส่ร้ายกันและกัน\n\nหลังจากที่คาราวานออกเดินทางก่อนเวลา {0} จาก {1} ตามมาที่คาราวาน และ โจมตี\n\nความสัมพันธ์ กับ {1}: {2}.</LetterPeaceTalks_Disaster>
+  <LetterLabelPeaceTalks_Backfire>เจรจาสงบศึก ล้มเหลว</LetterLabelPeaceTalks_Backfire>
+  <LetterPeaceTalks_Backfire>เจรจาสงบศึก ล้มเหลว ถึงแม้จะแลกเปลี่ยนคำทักทายกัน, การเจรจาไปไม่ถึงไหน และ ข้อเสนอบางข้อถูกคิดว่า เป็นคำด่า\n\nความสัมพันธ์ กับ {0}: {1}.</LetterPeaceTalks_Backfire>
+  <LetterLabelPeaceTalks_TalksFlounder>เจรจาสงบศึกไปไม่ถึงไหน</LetterLabelPeaceTalks_TalksFlounder>
+  <LetterPeaceTalks_TalksFlounder>เจรจาสงบศึกไปไม่ถึงไหน ถึงแม้จะสือสารกันได้อย่างชัดเจนแต่ การเจรจาไปไม่ถึงไหน\n\nความสัมพันธ์ กับ {0} ไม่เปลียนแปลง</LetterPeaceTalks_TalksFlounder>
+  <LetterLabelPeaceTalks_Success>เจรจาสงบศึกสำเร็จ</LetterLabelPeaceTalks_Success>
+  <LetterPeaceTalks_Success>เจรจาสงบศึกสำเร็จ ทั้งสองฝั่งได้ตกลงและแก้ปัญหาร่วมกันอย่างรวดเร็ว\n\nความสัมพันธ์ กับ {0} ได้เพื่มขึ้น {1}</LetterPeaceTalks_Success>
+  <LetterLabelPeaceTalks_Triumph>เจรจาสงบศึกสำเร็จอย่างมาก</LetterLabelPeaceTalks_Triumph>
+  <LetterPeaceTalks_Triumph>เจรจาสงบศึกสำเร็จอย่างมาก ! พวกภูตคุยกันอย่างสนิทสนมเหมือนเป็นเพื่อนสนิท และ ช่วยกันแก้ปัญหาเรื่องใหญ่ๆ ร่วมกันอย่างรวดเร็ว\n\nความสัมพันธ์ กับ {0} ได้เพื่มขึ้น {1}\n\nหลังจากที่คาราวานออกเดินทาง {0} เสนอของขวัญ: {2} ให้คุณ</LetterPeaceTalks_Triumph>
+  <PeaceTalksSocialXPGain>{0}, ภูตของคุณได้รับแต้มประสบการณ์ ทักษะทางสังคม  {1} </PeaceTalksSocialXPGain>
+
+  <!-- Run wild mental break -->
+  <LetterRunWildMentalBreak>{0} ได้ตัดสินใจที่จะออกจากกลุ่มของคุณและไปอาศัยอยู่กับสัตว์ </LetterRunWildMentalBreak>
+
+  <!-- Catatonic mental break -->
+  <LetterCatatonicMentalBreak>{0} สติแตกอย่างมากซึ่งจะใช้เวลาหลายวันจนกว่าจะหายเป็นปกติ</LetterCatatonicMentalBreak>
+
 </LanguageData>
