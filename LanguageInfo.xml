@@ -6,11 +6,11 @@
   <credits>
     <li Class="CreditRecord_Role">
       <roleKey>Credit_Translator</roleKey>
-      <creditee>Pipich Rahule</creditee>
-	</li>
-    <li Class="CreditRecord_Role">
-      <roleKey>Credit_Translator</roleKey>
       <creditee>Sutipat Ongroongreong</creditee>
     </li>
+	<li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Nutnoppachai Wuttiwaranon</creditee>
+	</li>
   </credits>
 </LanguageInfo>
