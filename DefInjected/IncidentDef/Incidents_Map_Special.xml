@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!--=============== ShipChunkDrop =============-->
+
+    <ShipChunkDrop.label>ชิ้นส่วนยานตก</ShipChunkDrop.label>
+
+	<!--=============== OrbitalVisitor =============-->
+
+    <OrbitalTraderArrival.label>พ่อค้าอาวาศมาถึงแล้ว</OrbitalTraderArrival.label>
+
+	<!--================= AllyArrival ================-->
+
+    <TraderCaravanArrival.label>พ่อค้าคาราวาศมาถึงแล้ว</TraderCaravanArrival.label>
+  
+    <VisitorGroup.label>กลุ่มผู้มาเยือน</VisitorGroup.label>
+   
+    <TravelerGroup.label>กลุ่มนักท่องเทียว</TravelerGroup.label>
+  
+	<!--================= AllyAssistance ================-->
+
+    <RaidFriendly.label>เพื่อนมาช่วย</RaidFriendly.label>
+
+	<!--================= Raid-beacon-attracted events ================-->
+
+	<RaidEnemyEscapeShip.label>ศัตรูจู่โจม</RaidEnemyEscapeShip.label>
+
+</LanguageData>

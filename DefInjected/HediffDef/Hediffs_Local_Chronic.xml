@@ -2,23 +2,33 @@
 <LanguageData>
 
   <BadBack.label>หลังไม่ดี</BadBack.label>
+  <BadBack.labelNoun>หลังไม่ดี</BadBack.labelNoun>
   <Frail.label>อ่อนแอ</Frail.label>
+  <Frail.labelNoun>อ่อนแอ</Frail.labelNoun>
   <Cataract.label>เป็นต้อ</Cataract.label>
+  <Cataract.labelNoun>เป็นต้อ</Cataract.labelNoun>
+  <Blindness.label>ตาบอด</Blindness.label>
+  <Blindness.labelNoun>ตาบอด</Blindness.labelNoun>
   <HearingLoss.label>สูญเสียการได้ยิน</HearingLoss.label>
+  <HearingLoss.labelNoun>สูญเสียการได้ยิน</HearingLoss.labelNoun>
   <Dementia.label>สมองเสื่อม</Dementia.label>
+  <Dementia.labelNoun>สมองเสื่อม</Dementia.labelNoun>
 
   <Alzheimers.label>อัลไซเมอร์</Alzheimers.label>
+  <Alzheimers.labelNoun>อัลไซเมอร์</Alzheimers.labelNoun>
   <Alzheimers.stages.0.label>ขั้นเริ่มแรก</Alzheimers.stages.0.label>
   <Alzheimers.stages.1.label>ขั้นต้น</Alzheimers.stages.1.label>
   <Alzheimers.stages.2.label>ขั้นรุนแรง</Alzheimers.stages.2.label>
   <Alzheimers.stages.3.label>ขั้นรุนแรง</Alzheimers.stages.3.label>
 
   <Asthma.label>หืด</Asthma.label>
+  <Asthma.labelNoun>หืด</Asthma.labelNoun>
   <Asthma.stages.0.label>ขั้นเริ่มแรก</Asthma.stages.0.label>
   <Asthma.stages.1.label>ขั้นต้น</Asthma.stages.1.label>
   <Asthma.stages.2.label>ขั้นรุนแรง</Asthma.stages.2.label>
 
   <HeartArteryBlockage.label>เส้นเลือดหัวใจอุดตัน</HeartArteryBlockage.label>
+  <HeartArteryBlockage.labelNoun>เส้นเลือดหัวใจอุดตัน</HeartArteryBlockage.labelNoun>
   <HeartArteryBlockage.stages.0.label>ขั้นเริ่มแรก</HeartArteryBlockage.stages.0.label>
   <HeartArteryBlockage.stages.1.label>ขั้นต้น</HeartArteryBlockage.stages.1.label>
   <HeartArteryBlockage.stages.2.label>ขั้นรุนแรง</HeartArteryBlockage.stages.2.label>
@@ -26,6 +36,7 @@
   <HeartArteryBlockage.stages.4.label>ขั้นสาหัส</HeartArteryBlockage.stages.4.label>
 
   <Carcinoma.label>มะเร็ง</Carcinoma.label>
+  <Carcinoma.labelNoun>มะเร็ง</Carcinoma.labelNoun>
   <Carcinoma.stages.0.label>ขั้นเริ่มแรก</Carcinoma.stages.0.label>
   <Carcinoma.stages.1.label>ขั้นต้น</Carcinoma.stages.1.label>
   <Carcinoma.stages.2.label>ขั้นรุนแรง</Carcinoma.stages.2.label>

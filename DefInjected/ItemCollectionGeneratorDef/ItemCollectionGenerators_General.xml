@@ -6,7 +6,7 @@
 	<Weapons.label>อาวุธ</Weapons.label>
 	<Artifacts.label>สิ่งประดิษฐ์</Artifacts.label>
 	<RawResources.label>วัตถุดิบ</RawResources.label>
-	<AIPersonaCores.label>แกน AI</AIPersonaCores.label>
-	<Neurotrainers.label>เครื่องฝึกสกิล</Neurotrainers.label>
+	<Standard.label>มาตรฐาน</Standard.label>
+	<Food.label>อาหาร</Food.label>
 
 </LanguageData>

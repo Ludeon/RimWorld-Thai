@@ -15,5 +15,8 @@
 
   <ShipComputerCore.label>คอมพิวเตอร์ สำหรับยานอวกาศ</ShipComputerCore.label>
   <ShipComputerCore.description>ปลดล็อคแกนคอมพิวเตอร์ยานอวกาศ ซึ่งจะช่วยให้การผลิตของคอมพิวเตอร์ระบบนำทางยานอวกาศด้วยความช่วยเหลือของปัญญาประดิษฐ์ของมนุษย์ต่างดาว</ShipComputerCore.description>
+  
+  <ShipSensorCluster.label>คลัสเตอร์เซนเซอร์ยานอวกาศ</ShipSensorCluster.label>
+  <ShipSensorCluster.description>ปลดล็อกเซนเซอร์ระยะไกลสำหรับยานอวกาศ</ShipSensorCluster.description>
 
 </LanguageData>

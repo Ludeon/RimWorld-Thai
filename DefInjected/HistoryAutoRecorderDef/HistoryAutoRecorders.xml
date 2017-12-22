@@ -2,10 +2,17 @@
 <LanguageData>
 
   <WealthTotal.label>ความร่ำรวย (ทั้งหมด)</WealthTotal.label>
+  <WealthTotal.graphLabelY>รวม</WealthTotal.graphLabelY>
   <WealthItems.label>ความร่ำรวย (สิ่งของ)</WealthItems.label>
+  <WealthItems.graphLabelY>รวม</WealthItems.graphLabelY>
   <WealthBuildings.label>ความร่ำรวย (อาคาร)</WealthBuildings.label>
+  <WealthBuildings.graphLabelY>รวม</WealthBuildings.graphLabelY>
   <FreeColonists.label>ปลดปล่อยชาวอาณานิคม</FreeColonists.label>
+  <FreeColonists.graphLabelY>อาณานิคม</FreeColonists.graphLabelY>
   <Prisoners.label>นักโทษ</Prisoners.label>
+  <Prisoners.graphLabelY>นักโทษ</Prisoners.graphLabelY>
   <ColonistMood.label>อารมณ์</ColonistMood.label>
+  <ColonistMood.graphLabelY>เปอร์เซ็นต์</ColonistMood.graphLabelY>
+
 
 </LanguageData>

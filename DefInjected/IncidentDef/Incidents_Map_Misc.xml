@@ -12,7 +12,7 @@
 
 	<AmbrosiaSprout.label>Ambrosia Sprout</AmbrosiaSprout.label>
 	<AmbrosiaSprout.letterLabel>Ambrosia Sprout</AmbrosiaSprout.letterLabel>
-	<AmbrosiaSprout.letterText>Ein Hain der mysteriösen Ambrosia Büsche ist in der Nähe gewachsen! Wenn du ein wenig wartest bis die Pflanzen gewachsen sind, kannst du die wohlschmeckende, ergötzliche und geringfügig süchtigmachende Frucht ernten.</AmbrosiaSprout.letterText>
+	<AmbrosiaSprout.letterText>พุ่มไม้ Ambrosia อันลึกลับได้เติบโตขึ้นใกล้ ๆ ! ถ้าคุณรอสักครู่สำหรับพืชที่จะเติบโตคุณสามารถเก็บเกี่ยวอร่อยผลไม้ที่น่ารื่นรมย์และเสพติดเล็กน้อย</AmbrosiaSprout.letterText>
 
 	<FarmAnimalsWanderIn.label>สัตว์ฟามหลงเข้ามา</FarmAnimalsWanderIn.label>
 
@@ -21,7 +21,6 @@
 	<RefugeePodCrash.label>กระสวยส่งคนตก</RefugeePodCrash.label>
 
 	<!-- =========================== Neutral ============================-->
-
 
     <RefugeeChased.label>ผู้ลี้ภัยโดนไล่ล่า</RefugeeChased.label>
   
@@ -32,6 +31,13 @@
 
 	<CaravanRequest.label>มีคำขอคาราวาน</CaravanRequest.label>
 
+	<MeteoriteImpact.label>ผลกระทบของอุกกาบาต</MeteoriteImpact.label>
+	<MeteoriteImpact.letterLabel>อุกกาบาต</MeteoriteImpact.letterLabel>
+	<MeteoriteImpact.letterText>มีอุกกาบาตขนาดใหญ่เกิดขึ้นบริเวณนี้ เขาทิ้งชิ้นใหญ่ไว้ข้างหลัง {0}</MeteoriteImpact.letterText>
+
+	<HerdMigration.label>การโยกย้ายถิ่นฐาน</HerdMigration.label>
+	<HerdMigration.letterLabel>การโยกย้ายถิ่นฐาน {0}</HerdMigration.letterLabel>
+	<HerdMigration.letterText>อาณานิคมกลุ่มใหญ่ {0} เดินผ่านพื้นที่ หากไม่ได้รับการท้าทายพวกเขาจะไม่โจมตี</HerdMigration.letterText>
 
 	<!--========================== Bad ===============================-->
 
@@ -43,19 +49,27 @@
 
     <VolcanicWinter.label>หน้าหนาวภูเขาไฟ</VolcanicWinter.label>
     <VolcanicWinter.letterLabel>หน้าหนาวภูเขาไฟ</VolcanicWinter.letterLabel>
-    <VolcanicWinter.letterText>Ein entfernter Supervulkan ist ausgebrochen und speit millionen Tonnen Asche in die Atmosphäre.\n\nAtmosphärische Asche reflektiert einen Teil der Sonneneinstrahlung, was einen Temperatursturz zur Folge hat. Pflanzen werden aufgrund des fehlenden Sonnenlichts leiden und evtl. eingehen. Dieser Zustand kann in ein paar Wochen wieder vorbei sein, oder er hält mehrere Monate an.</VolcanicWinter.letterText>
+    <VolcanicWinter.letterText>ภูเขาไฟที่ห่างไกลออกมาปะทุขึ้นและถ่มเถ้าเข้าสู่ชั้นบรรยากาศนับล้าน \n\nเถ้าแอมโมเนียมสะท้อนให้เห็นถึงแสงแดดบางส่วนทำให้อุณหภูมิลดลง พืชจะประสบกับการขาดแสงแดดและอาจเข้า สภาวะนี้อาจจบภายในสองสามสัปดาห์หรืออาจใช้เวลาหลายเดือน</VolcanicWinter.letterText>
 
     <HeatWave.label>คลื่นความร้อน</HeatWave.label>
     <HeatWave.letterLabel>คลื่นความร้อน</HeatWave.letterLabel>
     <HeatWave.letterText>คลื่นความร้อนที่ไม่ปกติได้เริ่มขึ้น ระวังจะเป็นไข้แดดได้</HeatWave.letterText>
 
-   <ColdSnap.label>อากาศหนาวฉับพลัน</ColdSnap.label>
-   <ColdSnap.letterLabel>อากาศหนาวฉับพลัน</ColdSnap.letterLabel>
-   <ColdSnap.letterText>อากาศหนาวฉับพลันอย่างผิดปกติได้เกิดขึ้น ระวังไฮโปเธอร์เมียและพืชผลล้มตาย</ColdSnap.letterText>
+	<ColdSnap.label>อากาศหนาวฉับพลัน</ColdSnap.label>
+	<ColdSnap.letterLabel>อากาศหนาวฉับพลัน</ColdSnap.letterLabel>
+	<ColdSnap.letterText>อากาศหนาวฉับพลันอย่างผิดปกติได้เกิดขึ้น ระวังไฮโปเธอร์เมียและพืชผลล้มตาย</ColdSnap.letterText>
 
-   <Flashstorm.label>พายุเมฆฟ้าคะนอง</Flashstorm.label>
-   <Flashstorm.letterLabel>พายุเมฆฟ้าคะนอง</Flashstorm.letterLabel>
-   <Flashstorm.letterText>มีฟ้าผ่าในระดับอันตรายในเขตพื้นที่เล็กๆ ซึ่งจะทำให้เกิดไฟไหม้ใหญ่ได้</Flashstorm.letterText>
+    <Aurora.label>แสงออโรรา</Aurora.label>
+	<Aurora.letterLabel>แสงออโรรา</Aurora.letterLabel>
+	<Aurora.letterText>แสงออโรราที่ส่องสว่างขึ้นท้องฟ้า\n\n สีสันที่ไหลลวกจะช่วยเพิ่มอารมณ์ให้กับผู้ที่อยู่กลางแจ้งและสามารถมองเห็นได้</Aurora.letterText>
+	
+	<Flashstorm.label>พายุเมฆฟ้าคะนอง</Flashstorm.label>
+	<Flashstorm.letterLabel>พายุเมฆฟ้าคะนอง</Flashstorm.letterLabel>
+	<Flashstorm.letterText>มีฟ้าผ่าในระดับอันตรายในเขตพื้นที่เล็กๆ ซึ่งจะทำให้เกิดไฟไหม้ใหญ่ได้</Flashstorm.letterText>
+	
+	<Tornado.label>พายุทอร์นาโด</Tornado.label>
+	<Tornado.letterLabel>พายุทอร์นาโด</Tornado.letterLabel>
+	<Tornado.letterText>พายุทอร์นาโดเกิดขึ้น! \ n\nมันจะกำจัดพื้นที่ทุกอย่างออกไปจากในพื้นที่</Tornado.letterText>
 
    <ShortCircuit.label>ไฟฟ้าลัดวงจร</ShortCircuit.label>
   

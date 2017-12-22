@@ -13,8 +13,8 @@
   <DestroyedFactionBase.label>ฐานที่ถูกทำลาย</DestroyedFactionBase.label>
   <DestroyedFactionBase.description>ฐานที่ถูกทำลายของฝ่ายหนึ่งฝ่ายใดฝ่ายหนึ่ง</DestroyedFactionBase.description>
 
-  <JourneyDestination.label>ปลายทางการเดินทาง</JourneyDestination.label>
-  <JourneyDestination.description>ตำแหน่งของยานที่ซ่อนอยู่ซึ่งสามารถช่วยให้คุณหลบหนีออกจากโลกได้</JourneyDestination.description>
+  <EscapeShip.label>ปลายทางการเดินทาง</EscapeShip.label>
+  <EscapeShip.description>ตำแหน่งของยานที่ซ่อนอยู่ซึ่งสามารถช่วยให้คุณหลบหนีออกจากโลกได้</EscapeShip.description>
   
   <AttackedCaravan.label>โจมตีกองคาราวาน</AttackedCaravan.label>
   <AttackedCaravan.description>กองคาราวานที่ถูกโจมตี</AttackedCaravan.description>
@@ -27,6 +27,8 @@
   
   <Ambush.label>ที่ซุ่มโจมตี</Ambush.label>
   <Ambush.description>บนการใช้การโจมตีจากการซุ่มโจมตี</Ambush.description>
-  
-  
+   
+  <PeaceTalks.label>การเจรจาสันติภาพ</PeaceTalks.label>
+  <PeaceTalks.description>เป็นสถานที่ ที่เป็นกลางที่ควรมีการเจรจาสันติภาพ</PeaceTalks.description>
+     
 </LanguageData>

@@ -17,10 +17,6 @@
   <DestroyWeapon.description>Verwende Wärme, um nicht benötigte Waffen zu zerstören. Schneller als Einschmelzen und funktioniert auch bei nicht schmelzbaren Waffen, erzeugt aber keine Rohstoffe.</DestroyWeapon.description>
   <DestroyWeapon.jobString>กำลังทำลายอาวุธ</DestroyWeapon.jobString>
   
-  <MakeMortarShell.label>ทำ กระสุนปืนใหญ่</MakeMortarShell.label>
-  <MakeMortarShell.description>ทำกระสุนปืนใหญ่ขี้นมาจากฝีมือ</MakeMortarShell.description>
-  <MakeMortarShell.jobString>กำลังทำกระสุนปืนใหญ่</MakeMortarShell.jobString>
-
   <MakeComponent.label>ทำ ส่วนประกอบ</MakeComponent.label>
   <MakeComponent.description>ทำส่วนประกอบขึ้นมา</MakeComponent.description>
   <MakeComponent.jobString>กำลังทำส่วนประกอบ</MakeComponent.jobString>
@@ -32,5 +28,9 @@
   <MakeChemfuelFromOrganics.label>ทำ เชื้อเพลิง (ออร์แกนิค)</MakeChemfuelFromOrganics.label>
   <MakeChemfuelFromOrganics.description>Raffiniere Kraftstoff, indem Biodiesel aus organischer Materie extrahiert wird.</MakeChemfuelFromOrganics.description>
   <MakeChemfuelFromOrganics.jobString>กำลังทำเชื้อเพลิง</MakeChemfuelFromOrganics.jobString>
+
+  <MakeAdvancedComponent.label>ทำ คอมโพเนนต์ขั้นสูง</MakeAdvancedComponent.label>
+  <MakeAdvancedComponent.description>Produziere ein hochentwickeltes Bauteil.</MakeAdvancedComponent.description>
+  <MakeAdvancedComponent.jobString>กำลังทำคอมโพเนนต์ขั้นสูง</MakeAdvancedComponent.jobString>
 
 </LanguageData>

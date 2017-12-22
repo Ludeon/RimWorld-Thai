@@ -6,6 +6,11 @@
 	<DebugCaravanInventory.label>สินค้าคงคลัง Debug คาราวาน</DebugCaravanInventory.label>
 	<TraderStock.label>ผู้แทนจำหน่ายสินค้า</TraderStock.label>
 	<CaravanRequestRewards.label>รางวัลเควสคาราวาน</CaravanRequestRewards.label>
-	<BanditCampQuestRewards.label>รางวัลควสโจร</BanditCampQuestRewards.label>
+	<BanditCampQuestRewards.label>รางวัลเควสโจร</BanditCampQuestRewards.label>
+	<ItemStashQuest.label>งานค่ายสำหรับวัตถุ</ItemStashQuest.label>
+	<ResourcePod.label>กระสวยส่งสินค้าโภคภัณฑ์</ResourcePod.label>
+	<RefugeePod.label>กระสวยส่งกู้ภัย</RefugeePod.label>
+	<PeaceTalksGift.label>ของขวัญเจรจาสันติภาพ</PeaceTalksGift.label>
+	<Meteorite.label>อุกกาบาต</Meteorite.label>
 
 </LanguageData>

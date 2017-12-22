@@ -34,7 +34,7 @@
 	<GoJuice.ingestible.ingestCommandString>Nimm GoJuice ein.</GoJuice.ingestible.ingestCommandString>
 	<GoJuice.ingestible.ingestReportString>Nimmt GoJuice ein.</GoJuice.ingestible.ingestReportString>
 	
-	<MalariBlock.label>Malaria-Block</MalariBlock.label>
+	<MalariBlock.label>Malari Block</MalariBlock.label>
 	<MalariBlock.description>Eine Droge um sich vorbeugend vor Malaria zu schützen. Eine Pille alle fünf Tage und Malaria ist keine Plage.</MalariBlock.description>
 	<Penoxycyline.ingestible.ingestCommandString>Nimm Penoxzylin ein.</Penoxycyline.ingestible.ingestCommandString>
 	<Penoxycyline.ingestible.ingestReportString>Nimmt Penoxzylin ein.</Penoxycyline.ingestible.ingestReportString>

@@ -33,6 +33,7 @@
   <EnterCryptosleepCasket.reportString>กำลังเข้าเครื่องนอนแช่แข็ง</EnterCryptosleepCasket.reportString>
   <UseNeurotrainer.reportString>กำลังใช่ neurotrainer</UseNeurotrainer.reportString>
   <UseArtifact.reportString>กำลังใช่งานสิ่งประดิษฐ์</UseArtifact.reportString>
+  <UseItem.reportString>กำลังใช่ TargetA.</UseItem.reportString>
   <TriggerFirefoamPopper.reportString>กำลังใช่เครื่องดับเพลิงอัตโนมัติ</TriggerFirefoamPopper.reportString>
   <ClearSnow.reportString>กำลังทำความสะอาดหิมะ</ClearSnow.reportString>
   <Vomit.reportString>กำลังอาเจียน</Vomit.reportString>
@@ -42,6 +43,12 @@
   <FleeAndCower.reportString>อิสระ</FleeAndCower.reportString>
   <EnterTransporter.reportString>เข้าสู่ TargetA.</EnterTransporter.reportString>
 
+  <Resurrect.reportString>ชุบชีวิต TargetA.</Resurrect.reportString>
+  <Insult.reportString>สบประมาท TargetA.</Insult.reportString>
+  <HaulCorpseToPublicPlace.reportString>ลาก TargetA.</HaulCorpseToPublicPlace.reportString>
+  <InducePrisonerToEscape.reportString>ทำให้ TargetA หนีไป</InducePrisonerToEscape.reportString>
+
+  
   <!-- Fire -->
   
   <Ignite.reportString>กำลังจุดประกายไฟ TargetA.</Ignite.reportString>

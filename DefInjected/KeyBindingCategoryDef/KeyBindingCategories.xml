@@ -19,6 +19,9 @@
   <MainTabs.label>แท็บหลัก</MainTabs.label>
   <MainTabs.description>Tastenbelegung für die Hauptschaltflächen.</MainTabs.description>
   
+  <Modifiers.label>การปรับเปลี่ยน</Modifiers.label>
+  <Modifiers.description>Tasten um andere Aktionen zu modifizieren.</Modifiers.description>
+  
   <Development.label>พัฒนาการ</Development.label>
   <Development.description>Tasten für Entwickler und Modder. Nur im Entwicklungsmodus aktiv.</Development.description>
 

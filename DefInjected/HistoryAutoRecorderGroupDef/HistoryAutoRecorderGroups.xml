@@ -2,12 +2,9 @@
 <LanguageData>
 
   <Wealth.label>ความร่ำรวย</Wealth.label>
-  <Wealth.graphLabelY>จำนวน</Wealth.graphLabelY>
 
   <Population.label>ประชากร</Population.label>
-  <Population.graphLabelY>ชาวอาณานิคม</Population.graphLabelY>
 
   <ColonistMood.label>อารมณ์ของชาวอาณานิคม</ColonistMood.label>
-  <ColonistMood.graphLabelY>ร้อยละ</ColonistMood.graphLabelY>
 
 </LanguageData>

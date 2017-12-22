@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<WorkFrenzy.label>แรงบันดาลใจ: Work Frenzy</WorkFrenzy.label>
+	<WorkFrenzy.beginLetterLabel>Work Frenzy</WorkFrenzy.beginLetterLabel>
+	<WorkFrenzy.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว HECAP จะทำงานได้เร็วขึ้น 2.5 เท่าใน 24 ชั่วโมงถัดไป</WorkFrenzy.beginLetter>
+	<WorkFrenzy.endMessage>{0} ไม่มีแรงบันดาลใจอีกแล้ว (Work Frenzy)</WorkFrenzy.endMessage>
+	<WorkFrenzy.baseInspectLine>แรงบันดาลใจ: Work Frenzy</WorkFrenzy.baseInspectLine>
+
+	<GoFrenzy.label>แรงบันดาลใจ: Go Frenzy</GoFrenzy.label>
+	<GoFrenzy.beginLetterLabel>Go Frenzy</GoFrenzy.beginLetterLabel>
+	<GoFrenzy.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว HECAP จะทำงานได้เร็วขึ้นอีก 1.5 เท่าใน 24 ชั่วโมงถัดไป</GoFrenzy.beginLetter>
+	<GoFrenzy.endMessage>{0} ไม่มีแรงบันดาลใจอีกแล้ว (Go Frenzy)</GoFrenzy.endMessage>
+	<GoFrenzy.baseInspectLine>แรงบันดาลใจ: Go Frenzy</GoFrenzy.baseInspectLine>
+
+	<ShootFrenzy.label>แรงบันดาลใจ: Shoot Frenzy</ShootFrenzy.label>
+	<ShootFrenzy.beginLetterLabel>Shoot Frenzy</ShootFrenzy.beginLetterLabel>
+	<ShootFrenzy.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว HECAP จะยิงกันอีก 3 วันข้างหน้า</ShootFrenzy.beginLetter>
+	<ShootFrenzy.endMessage>{0} ไม่มีแรงบันดาลใจอีกแล้ว (Shoot Frenzy).</ShootFrenzy.endMessage>
+	<ShootFrenzy.baseInspectLine>แรงบันดาลใจ: Shoot Frenzy</ShootFrenzy.baseInspectLine>
+
+	<InspiredTrade.label>แรงบันดาลใจ: แรงบันดาลใจตัวแทนจำหน่าย</InspiredTrade.label>
+	<InspiredTrade.beginLetterLabel>แรงบันดาลใจตัวแทนจำหน่าย</InspiredTrade.beginLetterLabel>
+	<InspiredTrade.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว HECAP จะมีราคาที่ดีในการซื้อขายต่อไปของ HISEM \n\nแรงบันดาลใจจะหมดอายุหลังจาก 8 วันหรือเมื่อการซื้อขายเสร็จสิ้น</InspiredTrade.beginLetter>
+	<InspiredTrade.endMessage>{0} ไม่มีแรงบันดาลใจอีกแล้ว (ผู้ขาย)</InspiredTrade.endMessage>
+	<InspiredTrade.baseInspectLine>แรงบันดาลใจ: ผู้ขาย</InspiredTrade.baseInspectLine>
+
+	<InspiredRecruitment.label>แรงบันดาลใจ: แรงบันดาลใจรับสมัครงาน</InspiredRecruitment.label>
+	<InspiredRecruitment.beginLetterLabel>แรงบันดาลใจรับสมัครงาน</InspiredRecruitment.beginLetterLabel>
+	<InspiredRecruitment.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว HECAP จะรับสมัครนักโทษคนถัดไปของ HISEN ไม่ว่าจะยากแค่ไหน \n\nแรงบันดาลใจจะสิ้นสุดลงหลังจาก 8 วันหรือเมื่อมีการคัดเลือกนักโทษ</InspiredRecruitment.beginLetter>
+	<InspiredRecruitment.endMessage>{0} ไม่มีแรงบันดาลใจอีกแล้ว (นายหน้า)</InspiredRecruitment.endMessage>
+	<InspiredRecruitment.baseInspectLine>แรงบันดาลใจ: นายหน้า</InspiredRecruitment.baseInspectLine>
+
+	<InspiredSurgery.label>แรงบันดาลใจ: แรงบันดาลใจศัลยแพทย์ที่ได้รับ</InspiredSurgery.label>
+	<InspiredSurgery.beginLetterLabel>ศัลยแพทย์ที่ได้รับแรงบันดาลใจ</InspiredSurgery.beginLetterLabel>
+	<InspiredSurgery.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว ความน่าจะเป็นของ HISer ที่ล้มเหลวในการผ่าตัดต่อไปลดลง 10 เท่า \n\nแรงบันดาลใจจะสิ้นสุดลงหลังจาก 8 วันหรือเมื่อได้รับการผ่าตัดแล้ว</InspiredSurgery.beginLetter>
+	<InspiredSurgery.endMessage>{0} ไม่ได้รับแรงบันดาลใจอีกแล้ว (ศัลยแพทย์)</InspiredSurgery.endMessage>
+	<InspiredSurgery.baseInspectLine>แรงบันดาลใจ: ศัลยแพทย์</InspiredSurgery.baseInspectLine>
+
+	<InspiredArt.label>แรงบันดาลใจ: แรงบันดาลใจศิลปิน</InspiredArt.label>
+	<InspiredArt.beginLetterLabel>ศิลปินแรงบันดาลใจ</InspiredArt.beginLetterLabel>
+	<InspiredArt.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว งานศิลปะแต่ละชิ้นที่ HE ทำเสร็จจะดีกว่า 3 ระดับคุณภาพ \n\nแรงบันดาลใจจะสิ้นสุดลงหลังจาก 8 วันหรือเมื่อชิ้นงานเสร็จสมบูรณ์</InspiredArt.beginLetter>
+	<InspiredArt.endMessage>{0} ไม่มีแรงบันดาลใจอีกแล้ว (ศิลปิน)</InspiredArt.endMessage>
+	<InspiredArt.baseInspectLine>แรงบันดาลใจ: ศิลปิน</InspiredArt.baseInspectLine>
+
+</LanguageData>

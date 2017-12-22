@@ -17,8 +17,8 @@
   <Animals.skillLabel>สัตว์</Animals.skillLabel>
   <Animals.description>การฝึกอบรม,การจัดการ และ การควบคุมสัตว์</Animals.description>
 
-  <Medicine.label>ยารักษา</Medicine.label>
-  <Medicine.skillLabel>ยารักษา</Medicine.skillLabel>
+  <Medicine.label>รักษา</Medicine.label>
+  <Medicine.skillLabel>รักษา</Medicine.skillLabel>
   <Medicine.description>การรักษาบาดแผลและการติดเชื้อ, และมีประสิทธิภาพมากขึ้นของการดำเนินงาน</Medicine.description>
 
   <Cooking.label>ทำอาหาร</Cooking.label>

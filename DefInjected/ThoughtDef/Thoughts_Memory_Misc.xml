@@ -101,8 +101,15 @@
   <BondedAnimalAbandoned.stages.0.label>สัตว์เลี้ยง {0} ทิ้งไว้ข้างหลัง</BondedAnimalAbandoned.stages.0.label>
   <BondedAnimalAbandoned.stages.0.description>สัตว์ที่เชื่องของฉันถูกทิ้งร้างอยู่กลางไม่มีที่ไหนเลย!</BondedAnimalAbandoned.stages.0.description>
 
+  <!-- Rescue quest -->
 
 
+
+	<FailedToRescueRelative.stages.0.label>{0} ไม่สามารถช่วยชีวิตได้</FailedToRescueRelative.stages.0.label>
+	<FailedToRescueRelative.stages.0.description>เราไม่สามารถช่วยคนในครอบครัวของฉันได้ การที่เราสามารถช่วยเขาได้แต่ ทำไม่สำเหร็จทำให้ฉันเสียใจอย่างมาก กับการเสียคนที่รักไป </FailedToRescueRelative.stages.0.description>
+
+	<RescuedRelative.stages.0.label>{0} ได้รับการช่วยเหลือ</RescuedRelative.stages.0.label>
+	<RescuedRelative.stages.0.description>เราสามารถช่วยคนในครอบครัวของฉันไว้ได้ การที่ฉันได้รู้ว่าเขาปลอดภัยทำให้ฉันสบายใจขึ้นเยอะ</RescuedRelative.stages.0.description>
 
 
 

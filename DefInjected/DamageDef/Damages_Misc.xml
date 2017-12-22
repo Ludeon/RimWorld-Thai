@@ -13,6 +13,9 @@
   <Extinguish.label>การดับมอด</Extinguish.label>
   <Extinguish.deathMessage>{0} จากการดับมอด</Extinguish.deathMessage>
   
+  <Bomb.label>ระเบิด</Bomb.label>
+  <Bomb.deathMessage>{0} โดนระเบิดจนถึงแก่ความตาย</Bomb.deathMessage>
+  
   <Smoke.label>ควัน</Smoke.label>
   <Smoke.deathMessage>{0} เสียชีวิตจากการสูดดมควัน</Smoke.deathMessage>
   

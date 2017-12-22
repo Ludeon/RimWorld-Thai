@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- =========================== World conditions =======================-->
+
+    <Eclipse.label>สุริยุปราคา</Eclipse.label>
+    <Eclipse.letterLabel>สุริยุปราคา</Eclipse.letterLabel>
+    <Eclipse.letterText>ดวงจันทร์ดวงหนึ่งของดาวเคราะห์ดวงนี้ได้เคลื่อนตามวงโคจรผ่านมายังตำแหน่งหน้าดวงอาทิตย์ สุริยุปราคาเริ่มขึ้นแล้ว</Eclipse.letterText>
+
+    <SolarFlare.label>เปลวสุริยะ</SolarFlare.label>
+    <SolarFlare.letterLabel>เปลวสุริยะ</SolarFlare.letterLabel>
+    <SolarFlare.letterText>เปลวสุริยะได้เกิดขึ้น\n\nการแผ่รังสีเข้มข้นจะทำให้อุปกรณ์ไฟฟ้าทั้งหมดล่ม\n\nมันควรจะผ่านไปในระยะเวลาประมาณหนึ่งวัน</SolarFlare.letterText>
+
+</LanguageData>

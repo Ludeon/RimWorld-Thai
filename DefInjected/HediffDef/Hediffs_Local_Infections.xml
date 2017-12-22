@@ -2,6 +2,7 @@
 <LanguageData>
 
   <GutWorms.label>พยาธิในทางเดินอาหาร</GutWorms.label>
+  <GutWorms.labelNoun>พยาธิในทางเดินอาหาร</GutWorms.labelNoun>
 
   <MuscleParasites.label>ปรสิตในกล้ามเนื้อ</MuscleParasites.label>
   <MuscleParasites.stages.0.label>เจ็บปวดเล็กน้อย</MuscleParasites.stages.0.label>
@@ -15,18 +16,21 @@
   <SensoryMechanites.stages.1.label>เจ็บปวดอย่างรุนแรง</SensoryMechanites.stages.1.label>
 
   <WoundInfection.label>แผลติดเชื้อ</WoundInfection.label>
+  <WoundInfection.labelNoun>แผลติดเชื้อ</WoundInfection.labelNoun>
   <WoundInfection.stages.0.label>ขั้นต้น</WoundInfection.stages.0.label>
   <WoundInfection.stages.1.label>ขั้นหลัก</WoundInfection.stages.1.label>
   <WoundInfection.stages.2.label>ขั้นอันตราย</WoundInfection.stages.2.label>
   <WoundInfection.stages.3.label>ขั้นอันตราย</WoundInfection.stages.3.label>
 
   <Flu.label>โรคไข้หวัดใหญ่</Flu.label>
+  <Flu.labelNoun>โรคไข้หวัดใหญ่</Flu.labelNoun>
   <Flu.stages.0.label>เล็กน้อย</Flu.stages.0.label>
   <Flu.stages.1.label>ขั้นต้น</Flu.stages.1.label>
   <Flu.stages.2.label>ขั้นหลัก</Flu.stages.2.label>
   <Flu.stages.3.label>ขั้นอันตราย</Flu.stages.3.label>
 
   <Plague.label>โรคกาฬโรค</Plague.label>
+  <Plague.labelNoun>โรคกาฬโรค</Plague.labelNoun>
   <Plague.stages.0.label>ขั้นเริ่มแรก</Plague.stages.0.label>
   <Plague.stages.1.label>ขั้นต้น</Plague.stages.1.label>
   <Plague.stages.2.label>ขั้นหลัก</Plague.stages.2.label>

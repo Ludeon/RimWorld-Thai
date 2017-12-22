@@ -2,8 +2,19 @@
 <LanguageData>
 
   <TraumaSavant.label>ซ่อก</TraumaSavant.label>
+  <TraumaSavant.labelNoun>ซ่อก</TraumaSavant.labelNoun>
+
   <ChemicalDamageModerate.label>ความเสียหายทางเคมี</ChemicalDamageModerate.label>
+  
   <ChemicalDamageSevere.label>ความเสียหายทางเคมี</ChemicalDamageSevere.label>
+ 
   <Cirrhosis.label>โรคตับแข็ง</Cirrhosis.label>
+	
+  <ResurrectionPsychosis.label>โรคจิตฟื้นคืนชีพ</ResurrectionPsychosis.label>
+  <ResurrectionPsychosis.stages.0.label>ขั้นต้น</ResurrectionPsychosis.stages.0.label>
+  <ResurrectionPsychosis.stages.1.label>ขั้นต้น</ResurrectionPsychosis.stages.1.label>
+  <ResurrectionPsychosis.stages.2.label>ขั้นกลาง</ResurrectionPsychosis.stages.2.label>
+  <ResurrectionPsychosis.stages.3.label>ขั้นสูง</ResurrectionPsychosis.stages.3.label>
+  <ResurrectionPsychosis.stages.4.label>ขั้นเต็ม</ResurrectionPsychosis.stages.4.label>
 
 </LanguageData>

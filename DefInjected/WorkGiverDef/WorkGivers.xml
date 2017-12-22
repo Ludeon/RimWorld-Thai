@@ -10,9 +10,13 @@
   <!-- ============= PatientEmergency ============= -->
   
   <PatientGoToBedEmergency.label>ไปที่เตียงเพื่อรักษาฉุกเฉิน</PatientGoToBedEmergency.label>
-  <PatientGoToBedEmergency.verb>รับการรักษาใน</PatientGoToBedEmergency.verb>
-  <PatientGoToBedEmergency.gerund>กำลังรับการรักษาใน</PatientGoToBedEmergency.gerund>
+  <PatientGoToBedEmergency.verb>รับการรักษา</PatientGoToBedEmergency.verb>
+  <PatientGoToBedEmergency.gerund>กำลังรับการรักษา</PatientGoToBedEmergency.gerund>
   
+  <PatientGoToBedTreatment.label>ไปที่เตียงเพื่อรับการรักษา</PatientGoToBedTreatment.label>
+  <PatientGoToBedTreatment.verb>รับการรักษา</PatientGoToBedTreatment.verb>
+  <PatientGoToBedTreatment.gerund>กำลังรับการรักษา</PatientGoToBedTreatment.gerund>
+   
   <!-- ============= Doctor ============= -->
   
   <DoctorTreatEmergency.label>ให้การรักษาฉุกเฉิน</DoctorTreatEmergency.label>
@@ -43,13 +47,13 @@
   <DoBillsMedicalAnimalOperation.verb>ผ่าตัด</DoBillsMedicalAnimalOperation.verb>
   <DoBillsMedicalAnimalOperation.gerund>กำลังผ่าตัด</DoBillsMedicalAnimalOperation.gerund>
 
-  <DoctorTreat.label>ให้การรักษา</DoctorTreat.label>
-  <DoctorTreat.verb>รักษา</DoctorTreat.verb>
-  <DoctorTreat.gerund>กำลังรักษา</DoctorTreat.gerund>
+  <DoctorTendToAnimals.label>ให้การรักษาสัตว์</DoctorTendToAnimals.label>
+  <DoctorTendToAnimals.verb>รักษา</DoctorTendToAnimals.verb>
+  <DoctorTendToAnimals.gerund>กำลังรักษา</DoctorTendToAnimals.gerund>
   
-  <DoctorFeed.label>ป้อนอาหารผู้ป่วย</DoctorFeed.label>
-  <DoctorFeed.verb>ป้อน</DoctorFeed.verb>
-  <DoctorFeed.gerund>กำลังป้อน</DoctorFeed.gerund>
+  <DoctorFeedAnimals.label>ป้อนอาหารสัตว์</DoctorFeedAnimals.label>
+  <DoctorFeedAnimals.verb>ป้อน</DoctorFeedAnimals.verb>
+  <DoctorFeedAnimals.gerund>กำลังป้อน</DoctorFeedAnimals.gerund>
   
   <TakeToBedToOperate.label>นำผู้ป่วยไปยังเตียงเพื่อผ่าตัด</TakeToBedToOperate.label>
   <TakeToBedToOperate.verb>นำไปผ่าตัด</TakeToBedToOperate.verb>
@@ -61,9 +65,9 @@
   
   <!-- ============= PatientBedRest ============= -->
   
-  <PatientGoToBed.label>พักฟื้นบนเตียง</PatientGoToBed.label>
-  <PatientGoToBed.verb>นอนพักบนเตียงใน</PatientGoToBed.verb>
-  <PatientGoToBed.gerund>กำลังนอนพักบนเตียงใน</PatientGoToBed.gerund>
+  <PatientGoToBedRecuperate.label>พักฟื้นบนเตียง</PatientGoToBedRecuperate.label>
+  <PatientGoToBedRecuperate.verb>นอนพักบนเตียงใน</PatientGoToBedRecuperate.verb>
+  <PatientGoToBedRecuperate.gerund>กำลังนอนพักบนเตียงใน</PatientGoToBedRecuperate.gerund>
   
   <!-- ============= Flicker ============= -->
 

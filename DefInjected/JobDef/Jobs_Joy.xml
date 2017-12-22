@@ -19,8 +19,10 @@
   <!-- Building interaction -->
 
   <PlayHorseshoes.reportString>กำลังเล่นโยนเกือกม้า</PlayHorseshoes.reportString>
+  <PlayHoopstone.reportString>กำลังเล่น Hoopstone.</PlayHoopstone.reportString> 
   <PlayChess.reportString>กำลังเล่นหมากรุก</PlayChess.reportString>
   <PlayBilliards.reportString>กำลังเล่นบิลเลียด</PlayBilliards.reportString>
+  <PlayPoker.reportString>กำลังเล่นโป๊กเกอร์</PlayPoker.reportString> 
   <WatchTelevision.reportString>กำลังดูโทรทัศน์</WatchTelevision.reportString>
   <UseTelescope.reportString>กำลังส่องกล้องดูดาว</UseTelescope.reportString>
 

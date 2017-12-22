@@ -69,5 +69,14 @@
 
   <Wimp.degreeDatas.0.label>ขี่ขาด</Wimp.degreeDatas.0.label>
   <Wimp.degreeDatas.0.description>NAME อ่อนแอและขี้ขลาด แม้แต่ความเจ็บปวดเพียงเล็กน้อยก็จะตรึง HIM ไว้</Wimp.degreeDatas.0.description>
-  
+
+  <Nimble.degreeDatas.0.label>ว่องไว</Nimble.degreeDatas.0.label>
+  <Nimble.degreeDatas.0.description>NAME มีความฉลาดในการเคลื่อนไหว HECAP ดูเหมือนจะเต้นไปรอบ ๆ ในที่อันตรายด้วยความสง่างามอย่างไม่ธรรมดา</Nimble.degreeDatas.0.description>
+
+  <FastLearner.degreeDatas.0.label>ผู้เรียนรู้เร็ว</FastLearner.degreeDatas.0.label>
+  <FastLearner.degreeDatas.0.description>NAME มีความสามารถพิเศษในการเรียนรู้ HECAP เรียนรู้สิ่งต่างๆได้เร็วกว่าคนอื่น ๆ</FastLearner.degreeDatas.0.description>
+
+  <SuperImmune.degreeDatas.0.label>ซูเปอร์ ภูมิคุ้มกัน</SuperImmune.degreeDatas.0.label>
+  <SuperImmune.degreeDatas.0.description>NAME มีระบบภูมิคุ้มกันที่ดีมาก HECAP จะได้รับภูมิคุ้มกันเร็วกว่าคนปกติ และ สามารถ รอดจากโรคที่ทำให้คนอื่นถึงแก่ชีวิตได้</SuperImmune.degreeDatas.0.description>
+
 </LanguageData>

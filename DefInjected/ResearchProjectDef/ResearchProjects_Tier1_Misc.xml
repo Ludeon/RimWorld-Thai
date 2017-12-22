@@ -3,6 +3,9 @@
 
   <!--=============================== Tier 1: pre-electricity ===================================-->
   
+  <RecurveBow.label>ธนู</RecurveBow.label>
+  <RecurveBow.description>เทคนิคการผลิตขั้นสูงช่วยให้สามารถผลิต ธนู อาวุธที่มีประสิทธิภาพและราคาไม่แพง</RecurveBow.description>
+  
   <Pemmican.label>ทำเนื้อตาก</Pemmican.label>
   <Pemmican.description>ได้รับอนุญาตให้ชุมชนพื้นเมืองเนื้อกระตุกอเมริกันจากส่วนผสมจากเนื้อสัตว์และผักการผลิตที่ไม่เสีย ดีสำหรับการเดินทาง</Pemmican.description>
 
@@ -12,9 +15,18 @@
   <Devilstrand.label>ปลูกเห็ด Devilstrand</Devilstrand.label>
   <Devilstrand.description>ปลูกเห็ด Devilstrand สำหรับทำเสื้อผ้า</Devilstrand.description>
 
+  <PsychoidBrewing.label>เครื่องดื่ม Psychoid</PsychoidBrewing.label>
+  <PsychoidBrewing.description>ใบ Psychoid สามารถต้มด้วยน้ำร้อนให้ความรู้สึกสบายและจะเสพติดเล็กน้อย</PsychoidBrewing.description>
+
   <Brewing.label>การทำเครื่องดื่ม\nแอลกอฮอล์</Brewing.label>
   <Brewing.description>ปลดโรงเบียร์ ฮ็อพที่ปลูกในขณะนี้สามารถจะกลายเป็นเบียร์อร่อย</Brewing.description>
+ 
+  <Bedrolls.label>ถุงนอน</Bedrolls.label>
+  <Bedrolls.description>ช่วยให้สามารถผลิตถุงนอนได้</Bedrolls.description>
 
+  <Beds.label>เตียง</Beds.label>
+  <Beds.description>ช่วยให้สามารถผลิตเตียงได้</Beds.description>
+  
   <CarpetMaking.label>การทำพรม</CarpetMaking.label>
   <CarpetMaking.description>ปลดล็อคพรม พร้อมสภาพแวดล้อมของชุมชนที่สามารถประดับ</CarpetMaking.description>
 

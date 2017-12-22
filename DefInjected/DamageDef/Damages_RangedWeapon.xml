@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Temporary hack; ranged weapons need to use the old pre-flavorful-combat system to avoid a rebalance cascade. -->
+	<RangedStab.label>ตะเข็บ</RangedStab.label>
+	<RangedStab.deathMessage>{0} ถูกแทง</RangedStab.deathMessage>
+
+	<Bullet.label>กระสุน</Bullet.label>
+	<Bullet.deathMessage>{0} ถูกยิงจนถึงแก่ความตาย</Bullet.deathMessage>
+
+	<Arrow.label>ลูกธนู</Arrow.label>
+	<Arrow.deathMessage>{0} ถูกยิงจนถึงแก่ความตาย</Arrow.deathMessage>
+
+	<ArrowHighVelocity.label>ลูกศร</ArrowHighVelocity.label>
+	<ArrowHighVelocity.deathMessage>{0} ถูกยิง</ArrowHighVelocity.deathMessage>
+
+</LanguageData>

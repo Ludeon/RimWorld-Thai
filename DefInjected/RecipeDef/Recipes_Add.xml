@@ -55,6 +55,18 @@
     <Make_Apparel_TribalA.description>กำลังทำเครื่องแต่งกายของชนเผ่า</Make_Apparel_TribalA.description>
     <Make_Apparel_TribalA.jobString>กำลังทำเครื่องแต่งกายของชนเผ่า</Make_Apparel_TribalA.jobString>  
     
+	<Make_Apparel_TribalHeaddress.label>ทำ ผ้าคลุมศีรษะของชนเผ่า</Make_Apparel_TribalHeaddress.label>
+	<Make_Apparel_TribalHeaddress.description>กำลังทำผ้าคลุมศีรษะของชนเผ่า.</Make_Apparel_TribalHeaddress.description>
+	<Make_Apparel_TribalHeaddress.jobString>กำลังทำผ้าคลุมศีรษะของชนเผ่า.</Make_Apparel_TribalHeaddress.jobString>  
+
+	<Make_Apparel_WarMask.label>ทำ หน้ากากสงคราม</Make_Apparel_WarMask.label>
+	<Make_Apparel_WarMask.description>กำลังทำหน้ากากสงคราม</Make_Apparel_WarMask.description>
+	<Make_Apparel_WarMask.jobString>กำลังทำหน้ากากสงคราม.</Make_Apparel_WarMask.jobString>  
+
+	<Make_Apparel_WarVeil.label>ทำ ผ้าปิดหน้าสงคราม</Make_Apparel_WarVeil.label>
+	<Make_Apparel_WarVeil.description>กำลังทำผ้าปิดหน้าสงคราม.</Make_Apparel_WarVeil.description>
+	<Make_Apparel_WarVeil.jobString>กำลังทำผ้าปิดหน้าสงคราม.</Make_Apparel_WarVeil.jobString>  
+
 
 	<Make_Apparel_KevlarHelmet.label>ทำ หมวยเคฟล่า</Make_Apparel_KevlarHelmet.label>
 	<Make_Apparel_KevlarHelmet.description>กำลังทำหมวยเคฟล่า</Make_Apparel_KevlarHelmet.description>
@@ -114,7 +126,12 @@
     <Make_MeleeWeapon_Club.label>ทำ ไม้ฟาด</Make_MeleeWeapon_Club.label>
     <Make_MeleeWeapon_Club.description>กำลังทำไม้ฟาด</Make_MeleeWeapon_Club.description>
     <Make_MeleeWeapon_Club.jobString>กำลังทำไม้ฟาด</Make_MeleeWeapon_Club.jobString>  
-    
+ 
+	<Make_MeleeWeapon_Ikwa.label>ทำ Ikwa</Make_MeleeWeapon_Ikwa.label>
+	<Make_MeleeWeapon_Ikwa.description>กำลังทำ Ikwa</Make_MeleeWeapon_Ikwa.description>
+	<Make_MeleeWeapon_Ikwa.jobString>กำลังทำ Ikwa</Make_MeleeWeapon_Ikwa.jobString>  
+	
+   
     <Make_Bow_Short.label>ทำ ธนูสั้น</Make_Bow_Short.label>
     <Make_Bow_Short.description>กำลังทำธนูสั้น</Make_Bow_Short.description>
     <Make_Bow_Short.jobString>กำลังทำธนูสั้น</Make_Bow_Short.jobString>  
@@ -123,15 +140,23 @@
     <Make_Pila.description>กำลังทำหอกปา</Make_Pila.description>
     <Make_Pila.jobString>กำลังทำหอกปา</Make_Pila.jobString>  
     
+	<Make_Bow_Recurve.label>ทำ ธนู</Make_Bow_Recurve.label>
+	<Make_Bow_Recurve.description>กำลังทำธนู</Make_Bow_Recurve.description>
+	<Make_Bow_Recurve.jobString>กำลังทำธนู</Make_Bow_Recurve.jobString>  
+
     <Make_Bow_Great.label>ทำ ธนูยาว</Make_Bow_Great.label>
     <Make_Bow_Great.description>กำลังทำธนูยาว</Make_Bow_Great.description>
     <Make_Bow_Great.jobString>กำลังทำธนูยาว</Make_Bow_Great.jobString>  
 
 
-	<Make_Gun_Pistol.label>ทำ ปืกพก</Make_Gun_Pistol.label>
-	<Make_Gun_Pistol.description>กำลังทำปืกพก</Make_Gun_Pistol.description>
-	<Make_Gun_Pistol.jobString>กำลังทำปืกพก</Make_Gun_Pistol.jobString>
+	<Make_Gun_Revolver.label>ทำ ปืนลูกโม่</Make_Gun_Revolver.label>
+	<Make_Gun_Revolver.description>กำลังทำปืนลูกโม่</Make_Gun_Revolver.description>
+	<Make_Gun_Revolver.jobString>กำลังทำปืนลูกโม่</Make_Gun_Revolver.jobString>
 
+	<Make_Gun_Autopistol.label>ทำ ปืกพก</Make_Gun_Autopistol.label>
+	<Make_Gun_Autopistol.description>กำลังทำปืกพก</Make_Gun_Autopistol.description>
+	<Make_Gun_Autopistol.jobString>กำลังทำปืกพก</Make_Gun_Autopistol.jobString>
+	
 	<Make_Gun_PumpShotgun.label>ทำ ปืนลูกซอง</Make_Gun_PumpShotgun.label>
 	<Make_Gun_PumpShotgun.description>กำลังทำปืนลูกซอง</Make_Gun_PumpShotgun.description>
 	<Make_Gun_PumpShotgun.jobString>กำลังทำปืนลูกซอง</Make_Gun_PumpShotgun.jobString>
@@ -140,10 +165,10 @@
 	<Make_Gun_ChainShotgun.description>กำลังทำปืนลูกซองออโต้</Make_Gun_ChainShotgun.description>
 	<Make_Gun_ChainShotgun.jobString>กำลังทำปืนลูกซองออโต้</Make_Gun_ChainShotgun.jobString>
 
-	<Make_Gun_SurvivalRifle.label>ทำ ไรเฟิล</Make_Gun_SurvivalRifle.label>
-	<Make_Gun_SurvivalRifle.description>กำลังทำไรเฟิล</Make_Gun_SurvivalRifle.description>
-	<Make_Gun_SurvivalRifle.jobString>กำลังทำไรเฟิล</Make_Gun_SurvivalRifle.jobString>
-
+	<Make_Gun_BoltActionRifle.label>ทำ ไรเฟิล</Make_Gun_BoltActionRifle.label>
+	<Make_Gun_BoltActionRifle.description>กำลังทำไรเฟิล</Make_Gun_BoltActionRifle.description>
+	<Make_Gun_BoltActionRifle.jobString>กำลังทำไรเฟิล</Make_Gun_BoltActionRifle.jobString>
+	
 	<Make_Gun_AssaultRifle.label>ทำ ไรเฟิลจู่โจม</Make_Gun_AssaultRifle.label>
 	<Make_Gun_AssaultRifle.description>กำลังทำไรเฟิลจู่โจม</Make_Gun_AssaultRifle.description>
 	<Make_Gun_AssaultRifle.jobString>กำลังทำไรเฟิลจู่โจม</Make_Gun_AssaultRifle.jobString>
@@ -177,6 +202,22 @@
 	<Make_Gun_Minigun.jobString>กำลังทำมินิกัน</Make_Gun_Minigun.jobString>
 
 	
+	<Make_Shell_HighExplosive.label>ทำ ระเบิดแรงสูง</Make_Shell_HighExplosive.label>
+	<Make_Shell_HighExplosive.description>กำลังทำEMPระเบิดแรงสูง</Make_Shell_HighExplosive.description>
+	<Make_Shell_HighExplosive.jobString>กำลังทำEMPระเบิดแรงสูง</Make_Shell_HighExplosive.jobString>
+
+	<Make_Shell_Incendiary.label>ทำ ระเบิดไฟ</Make_Shell_Incendiary.label>
+	<Make_Shell_Incendiary.description>กำลังทำEMPระเบิดไฟ</Make_Shell_Incendiary.description>
+	<Make_Shell_Incendiary.jobString>กำลังทำEMPระเบิดไฟ</Make_Shell_Incendiary.jobString>
+
+	<Make_Shell_EMP.label>ทำ EMP</Make_Shell_EMP.label>
+	<Make_Shell_EMP.description>กำลังทำEMP</Make_Shell_EMP.description>
+	<Make_Shell_EMP.jobString>กำลังทำEMPEMP</Make_Shell_EMP.jobString>
+
+	<Make_Shell_Firefoam.label>Stelle Löschschaum Granate her</Make_Shell_Firefoam.label>
+	<Make_Shell_Firefoam.description>Stelle eine Löschschaum Granate her.</Make_Shell_Firefoam.description>
+	<Make_Shell_Firefoam.jobString>Stellt eine Löschschaum Granate her.</Make_Shell_Firefoam.jobString>
+
 	
 	<Make_WakeUp.label>ทำ WakeUp</Make_WakeUp.label>
 	<Make_WakeUp.description>กำลังทำ  WakeUp</Make_WakeUp.description>
@@ -186,6 +227,10 @@
 	<Make_SmokeleafJoint.description>กำลังทำ Smokeleaf Joint</Make_SmokeleafJoint.description>
 	<Make_SmokeleafJoint.jobString>กำลังทำ Smokeleaf Joint</Make_SmokeleafJoint.jobString>
 
+	<Make_PsychoidPekoe.label>ทำ Pekoe</Make_PsychoidPekoe.label>
+	<Make_PsychoidPekoe.description>กำลังทำ Pekoe</Make_PsychoidPekoe.description>
+	<Make_PsychoidPekoe.jobString>กำลังทำ Pekoe</Make_PsychoidPekoe.jobString>
+	
 	<Make_Flake.label>ทำ Flake</Make_Flake.label>
 	<Make_Flake.description>กำลังทำ Flake</Make_Flake.description>
 	<Make_Flake.jobString>กำลังทำ Flake</Make_Flake.jobString>
@@ -220,6 +265,9 @@
 	<Administer_Penoxycyline.label>ให้ Penoxzylin</Administer_Penoxycyline.label> 
 	<Administer_Penoxycyline.jobString>กำลังให้ Penoxzylin.</Administer_Penoxycyline.jobString>
 
+	<Administer_PsychoidPekoe.label>ให้ Pekoe</Administer_PsychoidPekoe.label>
+	<Administer_PsychoidPekoe.jobString>กำลังให้ Pekoe</Administer_PsychoidPekoe.jobString>
+	
 	<Administer_Flake.label>ให้ Flake</Administer_Flake.label>
 	<Administer_Flake.jobString>กำลังให้ Flake.</Administer_Flake.jobString>
 

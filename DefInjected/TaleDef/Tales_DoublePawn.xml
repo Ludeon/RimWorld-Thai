@@ -160,6 +160,7 @@
     <KilledBy.rulePack.rulesStrings.22>desc_sentence->[killer_nameShortDef] looks distressed at what [killer_pronoun] is doing.</KilledBy.rulePack.rulesStrings.22>
     <KilledBy.rulePack.rulesStrings.23>desc_sentence->[killer_nameShortDef] looks pleased with the situation.</KilledBy.rulePack.rulesStrings.23>
     <KilledBy.rulePack.rulesStrings.24>desc_sentence->[killer_nameShortDef] looks triumphant.</KilledBy.rulePack.rulesStrings.24>
+	<KilledBy.rulePack.rulesStrings.25>desc_sentence->[killer_nameShortDef] sieht triumphierend aus.</KilledBy.rulePack.rulesStrings.25>
 
 		
 	<SoldPrisoner.label>ขายนักโทษ</SoldPrisoner.label>
@@ -215,7 +216,7 @@
     <TrainedAnimal.rulePack.rulesStrings.28>desc_sentence->[human_nameShortDef] is depicted with [quantity] arms.</TrainedAnimal.rulePack.rulesStrings.28>
     <TrainedAnimal.rulePack.rulesStrings.29>desc_sentence->[human_nameShortDef] is morphing into [animal_ShortDefinite].</TrainedAnimal.rulePack.rulesStrings.29>
 
-	<KilledMajorColonyEnemy.label>ฆ่าศัตรูกลุ่มใหญ่</KilledMajorColonyEnemy.label>
+	<KilledMajorColonyEnemy.label>ฆ่าศัตรูกลุ่มใหญ่ของอาณานิคม</KilledMajorColonyEnemy.label>
 	
 	<TradedWith.label>แลกด้วย</TradedWith.label>
 	<TradedWith.rulePack.rulesStrings.0>tale_noun->ein Handel zwischen [seller_fullName] und [buyer_fullName]</TradedWith.rulePack.rulesStrings.0>
@@ -232,9 +233,9 @@
 	<TradedWith.rulePack.rulesStrings.11>desc_sentence->[seller_nameShortDef] zählt [seller_possessive] Geld.</TradedWith.rulePack.rulesStrings.11>
 	<TradedWith.rulePack.rulesStrings.12>desc_sentence->[buyer_nameShortDef] nimmt [buyer_possessive]e Waren.</TradedWith.rulePack.rulesStrings.12>
 
-	<KilledColonist.label>ฆ่าอาณานิคม</KilledColonist.label>
-	<KilledColonyAnimal.label>ฆ่ากลุ่มสัตว์</KilledColonyAnimal.label>
-	<RaidArrived.label>ตำรวจปราบจลาจลมาถึง</RaidArrived.label>
-	<ButcheredHumanlikeCorpse.label>ฆ่าศพมนุษย์</ButcheredHumanlikeCorpse.label>
+	<KilledColonist.label>ฆ่าชาวอาณานิคม</KilledColonist.label>
+	<KilledColonyAnimal.label>ฆ่าสัตว์ของอาณานิคม</KilledColonyAnimal.label>
+	<RaidArrived.label>กลุ่มโจรมาถึงแล้ว</RaidArrived.label>
+	<ButcheredHumanlikeCorpse.label>ชำแระศพมนุษย์</ButcheredHumanlikeCorpse.label>
 
 </LanguageData>

@@ -3,15 +3,18 @@
 
   <!-- Missing body part -->
   <MissingBodyPart.label>ส่วนหนึ่งของร่างกายที่ขาดหายไป</MissingBodyPart.label>
+  <MissingBodyPart.labelNoun>ส่วนหนึ่งของร่างกายที่ขาดหายไป</MissingBodyPart.labelNoun>
 
   <!-- Injuries -->
   <Misc.label>อื่นๆ</Misc.label>
+  <Misc.labelNoun>อื่นๆ</Misc.labelNoun>
   <Misc.comps.0.labelTendedWell>พันแผลแล้ว</Misc.comps.0.labelTendedWell>
   <Misc.comps.0.labelTendedWellInner>เย็บแผลแล้ว</Misc.comps.0.labelTendedWellInner>
   <Misc.comps.0.labelSolidTendedWell>เข้าเฝือกแล้ว</Misc.comps.0.labelSolidTendedWell>
   <Misc.injuryProps.destroyedLabel>ถูกทำลาย</Misc.injuryProps.destroyedLabel>
 
   <Burn.label>ไฟไหม้</Burn.label>
+  <Burn.labelNoun>ไฟไหม้</Burn.labelNoun>
   <Burn.comps.0.labelTendedWell>พันแผลแล้ว</Burn.comps.0.labelTendedWell>
   <Burn.comps.0.labelTendedWellInner>เย็บแผลแล้ว</Burn.comps.0.labelTendedWellInner>
   <Burn.comps.0.labelSolidTendedWell>เข้าเฝือกแล้ว</Burn.comps.0.labelSolidTendedWell>
@@ -20,6 +23,7 @@
   <Burn.injuryProps.destroyedOutLabel>ถูกเผาจนมอด</Burn.injuryProps.destroyedOutLabel>
 
   <Crush.label>บดขยี้</Crush.label>
+  <Crush.labelNoun>บดขยี้</Crush.labelNoun>
   <Crush.comps.0.labelTendedWell>พันแผลแล้ว</Crush.comps.0.labelTendedWell>
   <Crush.comps.0.labelTendedWellInner>เย็บแผลแล้ว</Crush.comps.0.labelTendedWellInner>
   <Crush.comps.0.labelSolidTendedWell>เข้าเฝือกแล้ว</Crush.comps.0.labelSolidTendedWell>
@@ -27,12 +31,14 @@
   <Crush.injuryProps.destroyedLabel>ถูกบดขยี้</Crush.injuryProps.destroyedLabel>
 
   <Crack.label>แตกร้าว</Crack.label>
+  <Crack.labelNoun>แตกร้าว</Crack.labelNoun>
   <Crack.comps.0.labelTendedWell>รักษาแล้ว</Crack.comps.0.labelTendedWell>
   <Crack.comps.0.labelTendedWellInner>รักษาแล้ว</Crack.comps.0.labelTendedWellInner>
   <Crack.comps.0.labelSolidTendedWell>เข้าเฝือกแล้ว</Crack.comps.0.labelSolidTendedWell>
   <Crack.injuryProps.destroyedLabel>แตกละเอียด</Crack.injuryProps.destroyedLabel>
 
   <Cut.label>บาด</Cut.label>
+  <Cut.labelNoun>บาด</Cut.labelNoun>
   <Cut.comps.0.labelTendedWell>พันแผลแล้ว</Cut.comps.0.labelTendedWell>
   <Cut.comps.0.labelTendedWellInner>เย็บแผลแล้ว</Cut.comps.0.labelTendedWellInner>
   <Cut.comps.0.labelSolidTendedWell>เข้าเฝือกแล้ว</Cut.comps.0.labelSolidTendedWell>
@@ -41,6 +47,7 @@
   <Cut.injuryProps.destroyedOutLabel>ถูกตัดออก</Cut.injuryProps.destroyedOutLabel>
 
   <SurgicalCut.label>ผ่าตัด</SurgicalCut.label>
+  <SurgicalCut.labelNoun>ผ่าตัด</SurgicalCut.labelNoun>
   <SurgicalCut.comps.0.labelTendedWell>พันแผลแล้ว</SurgicalCut.comps.0.labelTendedWell>
   <SurgicalCut.comps.0.labelTendedWellInner>เย็บแผลแล้ว</SurgicalCut.comps.0.labelTendedWellInner>
   <SurgicalCut.comps.0.labelSolidTendedWell>เข้าเฝือกแล้ว</SurgicalCut.comps.0.labelSolidTendedWell>
@@ -49,6 +56,7 @@
   <SurgicalCut.injuryProps.destroyedOutLabel>ถูกตัดออก</SurgicalCut.injuryProps.destroyedOutLabel>
 
   <Scratch.label>ถูกตะกุย</Scratch.label>
+  <Scratch.labelNoun>ถูกตะกุย</Scratch.labelNoun>
   <Scratch.comps.0.labelTendedWell>พันแผลแล้ว</Scratch.comps.0.labelTendedWell>
   <Scratch.comps.0.labelTendedWellInner>เย็บแผลแล้ว</Scratch.comps.0.labelTendedWellInner>
   <Scratch.comps.0.labelSolidTendedWell>เข้าเฝือกแล้ว</Scratch.comps.0.labelSolidTendedWell>
@@ -57,6 +65,7 @@
   <Scratch.injuryProps.destroyedOutLabel>ฉีกขาด</Scratch.injuryProps.destroyedOutLabel>
 
   <Bite.label>ถูกกัด</Bite.label>
+  <Bite.labelNoun>ถูกกัด</Bite.labelNoun>
   <Bite.comps.0.labelTendedWell>พันแผลแล้ว</Bite.comps.0.labelTendedWell>
   <Bite.comps.0.labelTendedWellInner>เย็บแผลแล้ว</Bite.comps.0.labelTendedWellInner>
   <Bite.comps.0.labelSolidTendedWell>เข้าเฝือกแล้ว</Bite.comps.0.labelSolidTendedWell>
@@ -65,6 +74,7 @@
   <Bite.injuryProps.destroyedOutLabel>ถูกกัดออก</Bite.injuryProps.destroyedOutLabel>
 
   <Stab.label>ถูกแทง</Stab.label>
+  <Stab.labelNoun>ถูกแทง</Stab.labelNoun>
   <Stab.comps.0.labelTendedWell>พันแผลแล้ว</Stab.comps.0.labelTendedWell>
   <Stab.comps.0.labelTendedWellInner>เย็บแผลแล้ว</Stab.comps.0.labelTendedWellInner>
   <Stab.comps.0.labelSolidTendedWell>เข้าเฝือกแล้ว</Stab.comps.0.labelSolidTendedWell>
@@ -73,6 +83,7 @@
   <Stab.injuryProps.destroyedOutLabel>ถูกตัดออก</Stab.injuryProps.destroyedOutLabel>
 
   <Gunshot.label>ถูกยิง</Gunshot.label>
+  <Gunshot.labelNoun>ถูกยิง</Gunshot.labelNoun>
   <Gunshot.comps.0.labelTendedWell>พันแผลแล้ว</Gunshot.comps.0.labelTendedWell>
   <Gunshot.comps.0.labelTendedWellInner>เย็บแผลแล้ว</Gunshot.comps.0.labelTendedWellInner>
   <Gunshot.comps.0.labelSolidTendedWell>เข้าเฝือกแล้ว</Gunshot.comps.0.labelSolidTendedWell>
@@ -82,6 +93,7 @@
   <Gunshot.injuryProps.destroyedOutLabel>ถูกยิงออก</Gunshot.injuryProps.destroyedOutLabel>
 
   <Shredded.label>เป็นเศษ</Shredded.label>
+  <Shredded.labelNoun>เป็นเศษ</Shredded.labelNoun>
   <Shredded.comps.0.labelTendedWell>พันแผลแล้ว</Shredded.comps.0.labelTendedWell>
   <Shredded.comps.0.labelTendedWellInner>เย็บแผลแล้ว</Shredded.comps.0.labelTendedWellInner>
   <Shredded.comps.0.labelSolidTendedWell>เข้าเฝือกแล้ว</Shredded.comps.0.labelSolidTendedWell>
@@ -90,6 +102,7 @@
   <Shredded.injuryProps.destroyedOutLabel>ถูกฉีกออก</Shredded.injuryProps.destroyedOutLabel>
 
   <Bruise.label>ฟกช้ำ</Bruise.label>
+  <Bruise.labelNoun>ฟกช้ำ</Bruise.labelNoun>
   <Bruise.comps.0.labelTendedWell>พันแผลแล้ว</Bruise.comps.0.labelTendedWell>
   <Bruise.comps.0.labelTendedWellInner>เย็บแผลแล้ว</Bruise.comps.0.labelTendedWellInner>
   <Bruise.comps.0.labelSolidTendedWell>เข้าเฝือกแล้ว</Bruise.comps.0.labelSolidTendedWell>
@@ -97,6 +110,7 @@
   <Bruise.injuryProps.destroyedOutLabel>แซะออก</Bruise.injuryProps.destroyedOutLabel>
 
   <Frostbite.label>น้ำแข็งกัด</Frostbite.label>
+  <Frostbite.labelNoun>น้ำแข็งกัด</Frostbite.labelNoun>
   <Frostbite.comps.0.labelTendedWell>พันแผลแล้ว</Frostbite.comps.0.labelTendedWell>
   <Frostbite.comps.0.labelTendedWellInner>เย็บแผลแล้ว</Frostbite.comps.0.labelTendedWellInner>
   <Frostbite.comps.0.labelSolidTendedWell>เข้าเฝือกแล้ว</Frostbite.comps.0.labelSolidTendedWell>

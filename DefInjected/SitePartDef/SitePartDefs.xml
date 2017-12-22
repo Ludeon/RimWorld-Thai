@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
+  <AmbushEdge.label>ซุ่มโจมตี</AmbushEdge.label>
+  <AmbushEdge.description>การซุ่มโจมตี</AmbushEdge.description>
+  <AmbushEdge.descriptionDialogue>กลุ่มศัตรู รอซุ่มโจมตี ใครก็ตามที่จะเข้าไปใกล้</AmbushEdge.descriptionDialogue>
+  
+  <AmbushHidden.label>ซุ่มโจมตี</AmbushHidden.label>
+  <AmbushHidden.description>การซุ่มโจมตี</AmbushHidden.description>
+  <AmbushHidden.descriptionDialogue>กลุ่มศัตรู รอซุ่มโจมตี ใครก็ตามที่จะเข้าไปใกล้</AmbushHidden.descriptionDialogue>
+  
+  <Manhunters.label>กลุ่มสัตว์ กระหายเลือด</Manhunters.label>
+  <Manhunters.description>กลุ่มของสัตว์ ที่กำลัง กระหายเลือด</Manhunters.description>
+  <Manhunters.descriptionDialogue>กลุ่มของสัตว์ ที่กำลัง กระหายเลือด</Manhunters.descriptionDialogue>
 
-  <Manhunters.label>กลุ่มสัตว์</Manhunters.label>
-  <Manhunters.description>เป็นกลุ่มสัตว์ที่กำลังคุมขัง</Manhunters.description>
   <Outpost.label>ด่าน</Outpost.label>
   <Outpost.description>ด่านเล็ก ๆ ที่มีการรักษาความปลอดภัย</Outpost.description>
+  <Outpost.descriptionDialogue>มีด่านเล็ก ๆ ที่ได้รับการคุ้มกันอยู่ในพื้นที่</Outpost.descriptionDialogue>
+
+  <SleepingMechanoids.label>เมคานอยด์กำลังหลับ</SleepingMechanoids.label>
+  <SleepingMechanoids.description>เมคานอยด์กลุ่มนี้กำลังหลับ</SleepingMechanoids.description>
+  <SleepingMechanoids.descriptionDialogue>มีเมคานอยด์กำลังหลับอยู่บริเวณนี้</SleepingMechanoids.descriptionDialogue>
+  
   <Turrets.label>ป้อมปืน</Turrets.label>
   <Turrets.description>ป้อมปืนไม่กี่แห่ง</Turrets.description>
-  
+  <Turrets.descriptionDialogue>ป้อมปืนของข้าศึกช่วยป้องกันพื้นที่นี้</Turrets.descriptionDialogue>
+
 </LanguageData>

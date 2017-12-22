@@ -1,25 +1,55 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <Imprisoned.stages.0.label>ถูกคุมขัง</Imprisoned.stages.0.label>
-  <Imprisoned.stages.0.description>ฉันเกลียดการถูกขัง</Imprisoned.stages.0.description>
+	<FeelingRandom.stages.0.label>รู้สึกเยี่ยมไปเลย</FeelingRandom.stages.0.label>
+	<FeelingRandom.stages.0.description>ไม่มีเหตุผลที่แน่ชัดนัก, ฉันแค่รู้สึกเยี่ยมไปเลยตอนนี้</FeelingRandom.stages.0.description>
 
-  <SharedBed.stages.0.label>แชร์เตียง</SharedBed.stages.0.label>
-  <SharedBed.stages.0.description>ฉันต้องแชร์เตียงนอนกับคนอื่นโดยเฉพาะคนที่ฉันไม่อยากนอนด้วย</SharedBed.stages.0.description>
+	<FeelingRandom.stages.1.label>รู้สึกดี</FeelingRandom.stages.1.label>
+	<FeelingRandom.stages.1.description>ไม่มีเหตุผลที่แน่ชัดนัก, ฉันแค่รู้สึกดีตอนนี้</FeelingRandom.stages.1.description>
 
-  <ColonistLeftUnburied.stages.0.label>ชาวอาณานิคมถูกทิ้งไว้ไม่ได้ฝัง</ColonistLeftUnburied.stages.0.label>
-  <ColonistLeftUnburied.stages.0.description>หนึ่งในพวกเราได้ตายลง และเราเพิ่งทิ้งเขาไว้ในที่แจ้ง ไม่มีใครควรถูกทิ้งไว้แบบนั้น เขาควรได้รับการฝังที่เหมาะสม</ColonistLeftUnburied.stages.0.description>
+	<FeelingRandom.stages.2.label>รู้สึกไม่ดี</FeelingRandom.stages.2.label>
+	<FeelingRandom.stages.2.description>ไม่มีเหตุผลที่แน่ชัดนัก, ฉันแค่รู้สึกไม่ดีตอนนี้</FeelingRandom.stages.2.description>
 
-  <Naked.stages.0.label>เปลือยกาย</Naked.stages.0.label>
-  <Naked.stages.0.description>ฉันเปลือยอยู่ นี่มันน่าอายนะ</Naked.stages.0.description>
+	<FeelingRandom.stages.3.label>รู้สึกแย่</FeelingRandom.stages.3.label>
+	<FeelingRandom.stages.3.description>ไม่มีเหตุผลที่แน่ชัดนัก, ฉันแค่รู้สึกแย่ตอนนี้</FeelingRandom.stages.3.description>
 
-  <Pain.stages.0.label>อยู่ในอาการเจ็บเล็กน้อย</Pain.stages.0.label>
-  <Pain.stages.0.description>โอย... เจ็บ</Pain.stages.0.description>
-  <Pain.stages.1.label>อยู่ในอาการเจ็บปานกลาง</Pain.stages.1.label>
-  <Pain.stages.1.description>อ้าก... เมื่อไหร่มันจะสิ้นสุด?</Pain.stages.1.description>
-  <Pain.stages.2.label>ประสบความเจ็บปวดรุนแรง</Pain.stages.2.label>
-  <Pain.stages.2.description>ทำให้มันหยุดที... ทำให้มันหยุดที... ทำให้มันหยุดที...</Pain.stages.2.description>
-  <Pain.stages.3.label>อยู่ในอาการช็อคจากอาการเจ็บเกินขนาด</Pain.stages.3.label>
-  <Pain.stages.3.description>อ้าาาากกกก! ฆ่าฉันที!</Pain.stages.3.description>
+
+	<Imprisoned.stages.0.label>ถูกคุมขัง</Imprisoned.stages.0.label>
+	<Imprisoned.stages.0.description>ฉันเกลียดการถูกขัง</Imprisoned.stages.0.description>
+
+	<SharedBed.stages.0.label>แชร์เตียง</SharedBed.stages.0.label>
+	<SharedBed.stages.0.description>ฉันต้องแชร์เตียงนอนกับคนอื่นโดยเฉพาะคนที่ฉันไม่อยากนอนด้วย</SharedBed.stages.0.description>
+
+	<ColonistLeftUnburied.stages.0.label>ชาวอาณานิคมถูกทิ้งไว้ไม่ได้ฝัง</ColonistLeftUnburied.stages.0.label>
+	<ColonistLeftUnburied.stages.0.description>หนึ่งในพวกเราได้ตายลง และเราเพิ่งทิ้งเขาไว้ในที่แจ้ง ไม่มีใครควรถูกทิ้งไว้แบบนั้น เขาควรได้รับการฝังที่เหมาะสม</ColonistLeftUnburied.stages.0.description>
+
+	<Naked.stages.0.label>เปลือยกาย</Naked.stages.0.label>
+	<Naked.stages.0.description>ฉันเปลือยอยู่ นี่มันน่าอายนะ</Naked.stages.0.description>
+
+	<Pain.stages.0.label>อยู่ในอาการเจ็บเล็กน้อย</Pain.stages.0.label>
+	<Pain.stages.0.description>โอย... เจ็บ</Pain.stages.0.description>
+	<Pain.stages.1.label>อยู่ในอาการเจ็บปานกลาง</Pain.stages.1.label>
+	<Pain.stages.1.description>อ้าก... เมื่อไหร่มันจะสิ้นสุด?</Pain.stages.1.description>
+	<Pain.stages.2.label>ประสบความเจ็บปวดรุนแรง</Pain.stages.2.label>
+	<Pain.stages.2.description>ทำให้มันหยุดที... ทำให้มันหยุดที... ทำให้มันหยุดที...</Pain.stages.2.description>
+	<Pain.stages.3.label>อยู่ในอาการช็อคจากอาการเจ็บเกินขนาด</Pain.stages.3.label>
+	<Pain.stages.3.description>อ้าาาากกกก! ฆ่าฉันที!</Pain.stages.3.description>
+
+	<PsychicEmanatorSoothe.stages.0.label>เครื่องพลังจิตทำให้สบายใจ</PsychicEmanatorSoothe.stages.0.label>
+	<PsychicEmanatorSoothe.stages.0.description>เครื่องพลังจิตทำให้สบายใจ ทำให้ รู้สึกแปลก แต่ยังผ่อนคลายมาก</PsychicEmanatorSoothe.stages.0.description>
+
+	<PsychicDrone.stages.0.label>หุ่นพลังจิต ทำให้สบายใจ (ปานกลาง)</PsychicDrone.stages.0.label>
+	<PsychicDrone.stages.0.description>เหมือนมีเสียงที่ ทำให้สบายใจพูดอยู่ในหัวของฉัน ทำให้ฉันใจเย็น</PsychicDrone.stages.0.description>
+	<PsychicDrone.stages.1.label>หุ่นพลังจิต ทำให้เครียด (ต่ำ)</PsychicDrone.stages.1.label>
+	<PsychicDrone.stages.1.description>เหมือนมีเสียงกระสิบในหัวของฉัน ฉันฟังออกแค่บ้างคำ และ ฉันไม่ชอบมันสะเลย</PsychicDrone.stages.1.description>
+	<PsychicDrone.stages.2.label>หุ่นพลังจิต ทำให้เครียด  (ปานกลาง)</PsychicDrone.stages.2.label>
+	<PsychicDrone.stages.2.description>ฉันรู้สึกเหมือนมีคนอยู่ใกล้ๆฉัน แต่พอมองหาก็ หายตัวไป มันพูดกับฉันอยู่ เสียงพูดมันเปลียนไป แต่สิ่งที่มันพูดไม่เปลียน มันบอกให้ฉันทำให้คนอื่นเจ็บ ช่วยทำให้เสียงหายไปจากหัวฉันที่ !</PsychicDrone.stages.2.description>
+	<PsychicDrone.stages.3.label>หุ่นพลังจิต ทำให้เครียด  (สูง)</PsychicDrone.stages.3.label>
+	<PsychicDrone.stages.3.description>เสียงของมันดังมาก ฉันไม่สามารถตั้งสมาธิได้เลย บ้างครั้งฉันก็เพลอตอบกลับเสียงไปด้วยไม่ได้ตั้งใจ ฉันตะโกนใส่มัน แต่มันก็ไม่ยอมหยุด ตะโกนสั้งฉัน !</PsychicDrone.stages.3.description>
+	<PsychicDrone.stages.4.label>หุ่นพลังจิต ทำให้เครียด  (สูงมาก)</PsychicDrone.stages.4.label>
+	<PsychicDrone.stages.4.description>หัวใจของฉันเต้นอย่างรวดเร็ว เหงื่อของฉันออกเต็มตัว อย่างเดียวที่ฉันคิดได้คือ การทำให้ศัตรูพวกนี้ ที่อยู่รอบตัวของฉัน ทรมาณ พวกมันเป็นฝันร้ายของฉัน ฝันร้ายของฉัน ฝันร้ายของฉัน...</PsychicDrone.stages.4.description>
+
+	<Joywire.stages.0.label>Joywire</Joywire.stages.0.label>
+	<Joywire.stages.0.description>รู้สึกวิเศษมาก</Joywire.stages.0.description>
 
 </LanguageData>

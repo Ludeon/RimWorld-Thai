@@ -25,6 +25,24 @@
   <BingingDrugExtreme.label>มึนเมายาเสพติด</BingingDrugExtreme.label>
   <BingingDrugExtreme.baseInspectLine>สภาพ: มึนเมายาเสพติด</BingingDrugExtreme.baseInspectLine>
   
+  <Jailbreaker.label>กระตุ้นให้นักโทษหนี</Jailbreaker.label>
+  <Jailbreaker.beginLetterLabel>คนหลบหนี</Jailbreaker.beginLetterLabel>
+  <Jailbreaker.beginLetter>{0} มีปัญหาและจะพยายามชักชวนให้นักโทษคนอื่น ๆ หนีคุก</Jailbreaker.beginLetter>
+  <Jailbreaker.recoveryMessage>{0} ไม่ชักชวนให้นักโทษคนอื่นให้ออกมาอีกแล้ว</Jailbreaker.recoveryMessage>
+  <Jailbreaker.baseInspectLine>ภาวะทางจิต: คนหลบหนี</Jailbreaker.baseInspectLine>
+
+  <Slaughterer.label>เพชฌฆาต</Slaughterer.label>
+  <Slaughterer.beginLetterLabel>เพชฌฆาต</Slaughterer.beginLetterLabel>
+  <Slaughterer.beginLetter>{0} มีอาการผิดปกติทางจิตและจะระบายความโกรธให้กับสัตว์ของคุณ</Slaughterer.beginLetter>
+  <Slaughterer.recoveryMessage>{0} ไม่ฆ่าสัตว์แบบสุ่มอีกต่อไป</Slaughterer.recoveryMessage>
+  <Slaughterer.baseInspectLine>ภาวะทางจิต: เพชฌฆาต</Slaughterer.baseInspectLine>
+
+  <MurderousRage.label>กระหายเลือด</MurderousRage.label>
+  <MurderousRage.beginLetterLabel>กระหายเลือด</MurderousRage.beginLetterLabel>
+  <MurderousRage.beginLetter>{0} อยู่ในความกระหายเลือด HECAP จะฆ่า {1}</MurderousRage.beginLetter>
+  <MurderousRage.recoveryMessage>{0} ไม่อยู่ในภาวะกระหายเลือดอีกแล้ว</MurderousRage.recoveryMessage>
+  <MurderousRage.baseInspectLine>ภาวะทางจิต: กระหายเลือด</MurderousRage.baseInspectLine>
+
   <!-- Mental breaks: serious -->
 
   <BingingDrugMajor.label>มึนเมายาเสพติด</BingingDrugMajor.label>
@@ -35,6 +53,36 @@
   <WanderPsychotic.beginLetter>{0} จะเดินไปรอบ ๆ ในรัฐโรคจิต</WanderPsychotic.beginLetter>
   <WanderPsychotic.recoveryMessage>{0} เลิกโรคจิต</WanderPsychotic.recoveryMessage>
   <WanderPsychotic.baseInspectLine>ภาวะทางจิต: โรคจิต</WanderPsychotic.baseInspectLine>
+
+  <Tantrum.label>อารมณ์ฉุนเฉียว</Tantrum.label>
+  <Tantrum.beginLetterLabel>อารมณ์ฉุนเฉียว</Tantrum.beginLetterLabel>
+  <Tantrum.beginLetter>{0} มีอารมณ์ฉุนเฉียว</Tantrum.beginLetter>
+  <Tantrum.recoveryMessage>{0} ไม่มีอารมณ์โกรธอีกต่อไป</Tantrum.recoveryMessage>
+  <Tantrum.baseInspectLine>ภาวะทางจิต: อารมณ์ฉุนเฉียว</Tantrum.baseInspectLine>
+
+  <TargetedTantrum.label>อารมณ์ฉุนเฉียว</TargetedTantrum.label>
+  <TargetedTantrum.beginLetterLabel>อารมณ์ฉุนเฉียว</TargetedTantrum.beginLetterLabel>
+  <TargetedTantrum.beginLetter>{0} มีอารมณ์ฉุนเฉียว HECAP จะทำลาย {1}</TargetedTantrum.beginLetter>
+  <TargetedTantrum.recoveryMessage>{0} ไม่มีอารมณ์โกรธอีกต่อไป</TargetedTantrum.recoveryMessage>
+  <TargetedTantrum.baseInspectLine>ภาวะทางจิต: อารมณ์ฉุนเฉียว</TargetedTantrum.baseInspectLine>
+
+  <BedroomTantrum.label>อารมณ์ฉุนเฉียว</BedroomTantrum.label>
+  <BedroomTantrum.beginLetterLabel>อารมณ์ฉุนเฉียว</BedroomTantrum.beginLetterLabel>
+  <BedroomTantrum.beginLetter>{0} มีอารมณ์ฉุนเฉียว HECAP จะข้ามความโกรธของ HISE ไปที่เฟอร์นิเจอร์ในพื้นที่ของ HISEM</BedroomTantrum.beginLetter>
+  <BedroomTantrum.recoveryMessage>{0} ไม่มีอารมณ์โกรธอีกต่อไป</BedroomTantrum.recoveryMessage>
+  <BedroomTantrum.baseInspectLine>ภาวะทางจิต: อารมณ์ฉุนเฉียว</BedroomTantrum.baseInspectLine>
+
+  <SadisticRage.label>โกรธซาดิสต์</SadisticRage.label>
+  <SadisticRage.beginLetterLabel>โกรธซาดิสต์</SadisticRage.beginLetterLabel>
+  <SadisticRage.beginLetter>{0} อยู่ในความโกรธซาดิสต์ HECAP จะข้ามความโกรธของ HISE ไปยังผู้ต้องหา</SadisticRage.beginLetter>
+  <SadisticRage.recoveryMessage>{0} ไม่ได้อยู่ในความโกรธซาดิสต์</SadisticRage.recoveryMessage>
+  <SadisticRage.baseInspectLine>ภาวะทางจิต: โกรธซาดิสต์</SadisticRage.baseInspectLine>
+
+  <CorpseObsession.label>ความหลงใหลในร่างกายที่ตายแล้ว</CorpseObsession.label>
+  <CorpseObsession.beginLetterLabel>ความหลงใหลในร่างกายที่ตายแล้ว</CorpseObsession.beginLetterLabel>
+  <CorpseObsession.beginLetter>{0} มีความหลงใหลในซากศพ HECAP จะขุดซากศพ</CorpseObsession.beginLetter>
+  <CorpseObsession.recoveryMessage>{0} ไม่มีความครอบงำของศพอีกต่อไป</CorpseObsession.recoveryMessage>
+  <CorpseObsession.baseInspectLine>ภาวะทางจิต: ความหลงใหลในร่างกายที่ตายแล้ว</CorpseObsession.baseInspectLine>
 
   <!-- Mental breaks: minor -->
 
@@ -55,6 +103,19 @@
   <WanderOwnRoom.beginLetter>{0} ซ่อนอยู่ในห้องของเขา</WanderOwnRoom.beginLetter>
   <WanderOwnRoom.recoveryMessage>{0} เลิกซ่อนอยู่ในห้องของเขา</WanderOwnRoom.recoveryMessage>
   <WanderOwnRoom.baseInspectLine>ภาวะทางจิต: นั่งอยู่คนเดียว</WanderOwnRoom.baseInspectLine>
+
+  <InsultingSpree.label>สบประมาท</InsultingSpree.label>
+  <InsultingSpree.beginLetterLabel>สบประมาท</InsultingSpree.beginLetterLabel>
+  <InsultingSpree.beginLetter>{0} กำลังสบประมาท</InsultingSpree.beginLetter>
+  <InsultingSpree.recoveryMessage>{0} ไม่มีการสบประมาทอีกแล้ว</InsultingSpree.recoveryMessage>
+  <InsultingSpree.baseInspectLine>ภาวะทางจิต: สบประมาท</InsultingSpree.baseInspectLine>
+  
+  <TargetedInsultingSpree.label>สบประมาท</TargetedInsultingSpree.label>
+  <TargetedInsultingSpree.beginLetterLabel>สบประมาท</TargetedInsultingSpree.beginLetterLabel>
+  <TargetedInsultingSpree.beginLetter>{0} กำลังสบประมาทต่อ {1}</TargetedInsultingSpree.beginLetter>
+  <TargetedInsultingSpree.recoveryMessage>{0} ไม่มีการสบประมาทอีกแล้ว</TargetedInsultingSpree.recoveryMessage>
+  <TargetedInsultingSpree.baseInspectLine>ภาวะทางจิต: สบประมาท กับ {0}</TargetedInsultingSpree.baseInspectLine>
+
 
 
 

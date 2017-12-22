@@ -11,7 +11,11 @@
 
   <Insulted.stages.0.label>สบประมาท</Insulted.stages.0.label>
   <InsultedMood.stages.0.label>สบประมาท</InsultedMood.stages.0.label>
-  <InsultedMood.stages.0.description>ฉันถูก สบประมาทซึ่งหน้า! เป็นอะไรที่แย่มาก!</InsultedMood.stages.0.description>
+  <InsultedMood.stages.0.description>ฉันถูก สบประมาทซึ่งหน้า! ช่างเป็นคนที่แย่จริงๆ !</InsultedMood.stages.0.description>
+
+  <KindWords.stages.0.label>คำพูดดีๆ</KindWords.stages.0.label>
+  <KindWordsMood.stages.0.label>คำพูดดีๆ</KindWordsMood.stages.0.label>
+  <KindWordsMood.stages.0.description>ฉันได้รับคำชมที่ดีมากมาย ช่างเป็นคนที่ดีจริงๆ !</KindWordsMood.stages.0.description>
 
   <!-- Special -->
   
@@ -41,7 +45,6 @@
   <SoldMyLovedOne.stages.0.label>ขายคนที่ฉันรัก {0}</SoldMyLovedOne.stages.0.label>
   <SoldMyLovedOne.stages.0.labelSocial>คนที่รักของฉันได้รับการขาย</SoldMyLovedOne.stages.0.labelSocial>
   <SoldMyLovedOne.stages.0.description>คนที่รักของฉันถูกขายให้กับพ่อค้า เช่นเดียวกับชิ้นส่วนของเนื้อสัตว์!</SoldMyLovedOne.stages.0.description>
-  <SoldMyLovedOne.stages.0.description>คนที่รักของฉันถูกขายให้กับพ่อค้า เช่นเดียวกับชิ้นส่วนของเนื้อสัตว์!</SoldMyLovedOne.stages.0.description>
 
   <SoldMyBondedAnimal.stages.0.label>ขายสัตว์เลี้ยง {0}</SoldMyBondedAnimal.stages.0.label>
   <SoldMyBondedAnimal.stages.0.labelSocial>สัตว์เลี้ยงแสนรักของฉันถูกขาย</SoldMyBondedAnimal.stages.0.labelSocial>
@@ -67,6 +70,8 @@
   <RebuffedMyRomanceAttemptMood.stages.0.description>ฉันพยายามที่จะสร้างความโรแมนติก แต่ฉันได้นก รู้สึกเหมือนคนเลว</RebuffedMyRomanceAttemptMood.stages.0.description>
 
   <FailedRomanceAttemptOnMe.stages.0.label>ฉันมีคนมาจีบแต่ฉันปฏิเสธ</FailedRomanceAttemptOnMe.stages.0.label>
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>ฉันปฏิเสธ {0}</FailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>คนที่ฉันไม่ชอบพยายามที่จะมาจีบฉัน</FailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>
 
   <BrokeUpWithMe.stages.0.label>เลิกกับฉัน</BrokeUpWithMe.stages.0.label>
   <BrokeUpWithMeMood.stages.0.label>{0} เลิกกับฉัน</BrokeUpWithMeMood.stages.0.label>
@@ -91,7 +96,7 @@
   <HoneymoonPhase.stages.0.description>มันเป็นเรื่องดีมากที่จะได้เริ่มต้นชีวิตของเราด้วยกัน</HoneymoonPhase.stages.0.description>
 
   <GotSomeLovin.stages.0.label>ฉันได้มี Sex</GotSomeLovin.stages.0.label>
-  <GotSomeLovin.stages.0.description>ไม่มีอะไรที่เหมือนกับเพศน้อยอารมณ์ที่จะยกเป็น!</GotSomeLovin.stages.0.description>
+  <GotSomeLovin.stages.0.description>ไม่มีอะไรจะเหมือนกับการขย่มใต้ผ้าผ่ม</GotSomeLovin.stages.0.description>
   
   <KilledMyFriend.stages.0.label>ฆ่าเพื่อนของฉัน</KilledMyFriend.stages.0.label>
   

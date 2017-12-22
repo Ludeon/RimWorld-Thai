@@ -4,13 +4,35 @@
   <!-- Added body parts -->
 
   <PegLeg.label>ขาหมุด</PegLeg.label>
+  <PegLeg.labelNoun>ขาหมุด</PegLeg.labelNoun>
+
   <Denture.label>ทันตกรรม</Denture.label>
+  <Denture.labelNoun>ทันตกรรม</Denture.labelNoun>
+
   <SimpleProstheticLeg.label>ขาเทียม</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.labelNoun>ขาเทียม</SimpleProstheticLeg.labelNoun>
+
   <SimpleProstheticArm.label>แขนเทียม</SimpleProstheticArm.label>
+  <SimpleProstheticArm.labelNoun>แขนเทียม</SimpleProstheticArm.labelNoun>
+  <SimpleProstheticArm.comps.0.tools.0.label>กำปั้น</SimpleProstheticArm.comps.0.tools.0.label>
+
   <BionicEye.label>นัยน์ตาเทียมชีวกล</BionicEye.label>
+  <BionicEye.labelNoun>นัยน์ตาเทียมชีวกล</BionicEye.labelNoun>
+
   <BionicArm.label>แขนเทียมชีวกล</BionicArm.label>
+  <BionicArm.labelNoun>แขนเทียมชีวกล</BionicArm.labelNoun>
+  <BionicArm.comps.0.tools.0.label>กำปั้น</BionicArm.comps.0.tools.0.label>
+
   <BionicLeg.label>ขาเทียมชีวกล</BionicLeg.label>
+  <BionicLeg.labelNoun>ขาเทียมชีวกล</BionicLeg.labelNoun>
+
   <PowerClaw.label>พาวเวอร์คลอว์</PowerClaw.label>
+  <PowerClaw.labelNoun>พาวเวอร์คลอว์</PowerClaw.labelNoun>
+  <PowerClaw.comps.0.tools.0.label>กรงเล็บ</PowerClaw.comps.0.tools.0.label>
+
   <ScytherBlade.label>ใบมีดไซเธอร์</ScytherBlade.label>
+  <ScytherBlade.labelNoun>ใบมีดไซเธอร์</ScytherBlade.labelNoun>
+  <ScytherBlade.comps.0.tools.0.label>ใบมีด</ScytherBlade.comps.0.tools.0.label>
+  <ScytherBlade.comps.0.tools.1.label>แหลม</ScytherBlade.comps.0.tools.1.label>
 
 </LanguageData>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+
+	<!-- Anesthetize -->
+
+    <Anesthetize.label>ใส่ยา นอนหลับ</Anesthetize.label>
+    <Anesthetize.description>สิ่งมีชีวิตที่ดมยาสลบโดยการบริหารยาชา</Anesthetize.description>
+    <Anesthetize.jobString>กำลังใส่ยานอนหลับ</Anesthetize.jobString>
+
+
+	<!-- Euthanasia -->
+
+    <Euthanize.label>การุณยฆาต</Euthanize.label>
+    <Euthanize.description>ทำให้จบชีวิต</Euthanize.description>
+    <Euthanize.jobString>กำลังทำการุณยฆาต</Euthanize.jobString>
+
+    <ShutDownMechanoid.label>ปิด เครื่อง</ShutDownMechanoid.label>
+    <ShutDownMechanoid.description>ปิดเครื่องเมคานอยด์</ShutDownMechanoid.description>
+    <ShutDownMechanoid.jobString>กำลังปิดเครื่อง</ShutDownMechanoid.jobString>
+
+
+	<!-- removing hediffs (e.g. diseases) -->
+
+    <ExciseCarcinoma.label>ตัด ก้อนมะเร็ง</ExciseCarcinoma.label>
+    <ExciseCarcinoma.description>ตัดเอาก้อนมะเร็งออก</ExciseCarcinoma.description>
+    <ExciseCarcinoma.jobString>กำลังผ่าตัดก้อนมะเร็ง</ExciseCarcinoma.jobString>
+    <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} ได้ตัดก้อนมะเร็งให้กับ {1} เป็นผลสำเร็จ</ExciseCarcinoma.successfullyRemovedHediffMessage>
+
+	<!-- removing body parts -->
+
+    <RemoveBodyPart.label>เอา อวัยวะออก</RemoveBodyPart.label>
+    <RemoveBodyPart.description>เอาอวัยวะออกไป</RemoveBodyPart.description>
+    <RemoveBodyPart.jobString>กำลังเอาอวัยวะออก</RemoveBodyPart.jobString>
+
+    <RemoveMechanoidBodyPart.label>เอาชิ้นส่วน อวัยวะออก</RemoveMechanoidBodyPart.label>
+    <RemoveMechanoidBodyPart.description>เอาชิ้นส่วนอวัยวะของเมคานอยด์ออก</RemoveMechanoidBodyPart.description>
+    <RemoveMechanoidBodyPart.jobString>กำลังเอาชิ้นส่วนอวัยวะออก</RemoveMechanoidBodyPart.jobString>
+
+	<!-- special administer -->
+
+	<AdministerMechSerumHealer.label>Verabreiche Heilungsnaniten</AdministerMechSerumHealer.label>
+	<AdministerMechSerumHealer.description>Verabreiche Heilungsnaniten.</AdministerMechSerumHealer.description>
+	<AdministerMechSerumHealer.jobString>Verabreicht Heilungsnaniten.</AdministerMechSerumHealer.jobString>
+
+</LanguageData>

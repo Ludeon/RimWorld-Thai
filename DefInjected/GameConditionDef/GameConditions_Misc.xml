@@ -43,4 +43,8 @@
   <Planetkiller.label>Planetkiller</Planetkiller.label>
   <Planetkiller.description>เป็นอาวุธที่ฆาตกรดาวเคราะห์ดวงดาวอยู่ใกล้โลกใบนี้ เมื่อมันกระทบมันจะทำลายทุกชีวิต</Planetkiller.description>
   
+  <Aurora.label>แสงออโรรา</Aurora.label>
+  <Aurora.description>แสงทางตอนเหนือที่ส่องลงมาบนท้องฟ้า สีสันที่ร่าเริงจะช่วยเพิ่มอารมณ์ให้กับผู้ที่อยู่กลางแจ้งและสามารถมองเห็นได้</Aurora.description>
+  <Aurora.endMessage>แสงออโรราหมดลง</Aurora.endMessage>
+
 </LanguageData>

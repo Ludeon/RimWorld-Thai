@@ -20,6 +20,9 @@
   <StuffStatOffsets.label>ที่จะเพิ่มค่าสำหรับผลิตภัณฑ์ในขั้นสุดท้าย</StuffStatOffsets.label>
   <StuffOfEquipmentStatFactors.label>ที่จะคูณค่าสำหรับเครื่องจักรอุปกรณ์การผลิต</StuffOfEquipmentStatFactors.label>
 
+  <Surgery.label>ศัลยกรรม</Surgery.label>
+
+  
   <!-- Pawn -->
 
   <PawnCombat.label>สู้</PawnCombat.label>

@@ -2,6 +2,9 @@
 <LanguageData>
 
   <Root.label>Root</Root.label>  
+  
+    <!-- Foods -->
+	
   <Foods.label>อาหาร</Foods.label>
   <FoodMeals.label>มื้ออาหาร</FoodMeals.label>
   <FoodRaw.label>อาหารดิบ</FoodRaw.label>
@@ -10,34 +13,57 @@
   <AnimalProductRaw.label>สัตว์วัตถุดิบสินค้า</AnimalProductRaw.label>
   <EggsUnfertilized.label>ไข่ (ยังไม่ผสม)</EggsUnfertilized.label>
   <EggsFertilized.label>ไข่ (ผสมแล้ว)</EggsFertilized.label>
+  
+   <!-- Manufactured -->
+  
   <Manufactured.label>สิ่งประดิษฐ์</Manufactured.label>
   <Textiles.label>สิ่งทอผ้า</Textiles.label>
   <Leathers.label>แผ่นหนัง</Leathers.label>
   <Medicine.label>ยารักษา</Medicine.label> 
+  <Drugs.label>ยาเสพติด</Drugs.label>
+  <MortarShells.label>กระสุนปืนใหญ่</MortarShells.label>
+  
+   <!-- Raw resources -->
+	
   <ResourcesRaw.label>ทรัพยากรวัตถุดิบ</ResourcesRaw.label>
+  <PlantMatter.label>ซากของพืช</PlantMatter.label>
   <StoneBlocks.label>บล็อกหิน</StoneBlocks.label>
+  
+   <!-- Items -->
+   
   <Items.label>ไอเทม</Items.label>
   <Art.label>ศิลปะ</Art.label>
   <Furniture.label>เฟอร์นิเจอร์</Furniture.label>
   <Unfinished.label>ยังไม่เสร็จ</Unfinished.label>
   <Artifacts.label>สิ่งประดิษฐ์</Artifacts.label>
+  <BodyParts.label>ส่วนของร่างกาย</BodyParts.label>
+  <BodyPartsNatural.label>ส่วนของร่างกายตามธรรมชาติ</BodyPartsNatural.label>
+  <BodyPartsArtificial.label>ส่วนต่างๆของร่างกายเทียม</BodyPartsArtificial.label>
+
+  <!-- Weapons -->
+  
   <Weapons.label>อาวุธ</Weapons.label>
   <WeaponsMelee.label>อาวุธระยะประชิด</WeaponsMelee.label>
   <WeaponsRanged.label>อาวุธระยะไกล</WeaponsRanged.label>
   <Grenades.label>ระเบิดมือ</Grenades.label>
+  
+  <!-- Apparel -->
+  
   <Apparel.label>เสื้อผ้า</Apparel.label>
   <Headgear.label>หมวก</Headgear.label>
-  <BodyParts.label>ส่วนของร่างกาย</BodyParts.label>
-  <BodyPartsNatural.label>ส่วนของร่างกายตามธรรมชาติ</BodyPartsNatural.label>
-  <BodyPartsArtificial.label>ส่วนต่างๆของร่างกายเทียม</BodyPartsArtificial.label>
+  
+  <!-- Chunks -->
+  
   <Chunks.label>ก้อน</Chunks.label>
   <StoneChunks.label>ก้อนหิน</StoneChunks.label>
+  
+  <!-- Corpses -->
+  
   <Corpses.label>ซากศพ</Corpses.label>
   <CorpsesHumanlike.label>ศพมนุษย์</CorpsesHumanlike.label>
   <CorpsesAnimal.label>ซากสัตว์</CorpsesAnimal.label>
   <CorpsesInsect.label>ศพแมลง</CorpsesInsect.label>
   <CorpsesMechanoid.label>ซากหุ่นยน</CorpsesMechanoid.label>
-  <Drugs.label>ยาเสพติด</Drugs.label>
-  <PlantMatter.label>Plant Matter</PlantMatter.label>
+  
   
 </LanguageData>
