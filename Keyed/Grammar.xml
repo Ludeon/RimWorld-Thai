@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <IndefiniteArticle>อันหนึ่ง</IndefiniteArticle>
-  <DefiniteArticle>หนึ่งเดียว</DefiniteArticle>
-  <IndefiniteForm>{0}อันหนึ่ง</IndefiniteForm>
-  <DefiniteForm>{0}ที่มีหนึ่งเดียว</DefiniteForm>
+  <IndefiniteArticle>a</IndefiniteArticle>
+  <DefiniteArticle>the</DefiniteArticle>
+  <IndefiniteForm>a {0}</IndefiniteForm>
+  <DefiniteForm>the {0}</DefiniteForm>
 
   <Proits>ของมัน</Proits>
   <Prohis>ของเขา</Prohis>
