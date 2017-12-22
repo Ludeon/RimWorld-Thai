@@ -5,7 +5,7 @@
 
   <BreakRiskMinor>ความเสี่ยง อันน้อย</BreakRiskMinor>
   <BreakRiskMajor>ความเสี่ยง สำคัญ</BreakRiskMajor>
-  <BreakRiskExtreme>ความเสี่ยง แบ่งสุดขีด</BreakRiskExtreme>
+  <BreakRiskExtreme>ความเสี่ยง สุดขีด</BreakRiskExtreme>
   <BreakRiskMinorDesc>อาณานิคมเหล่านี้อยู่ในอารมณ์ที่ไม่ดีและอาจจะมีการจิตตกเล็ก ๆ น้อย ๆ ในเวลาใดก็ได้:\n\n{0}</BreakRiskMinorDesc>
   <BreakRiskMajorDesc>อาณานิคมเหล่านี้อยู่ในอารมณ์ที่ไม่ดีมากและอาจมีการจิตตกที่สำคัญในเวลาใดก็ได้:\n\n{0}</BreakRiskMajorDesc>
   <BreakRiskExtremeDesc>อาณานิคมเหล่านี้อยู่ในอารมณ์ที่ไม่ดีมาก (และอาจจะมีความรุนแรง) จิตตกเวลาใดก็ได้:\n\n{0}</BreakRiskExtremeDesc>

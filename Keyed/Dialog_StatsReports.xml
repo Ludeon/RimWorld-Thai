@@ -22,7 +22,7 @@
   <StatsReport_AgeMultiplier>ตัวคูณสำหรับอายุ {0}</StatsReport_AgeMultiplier>
   <StatsReport_HealthMultiplier>ตัวคูณสำหรับสุขภาพ {0}</StatsReport_HealthMultiplier>
   <StatsReport_MoodMultiplier>ตัวคูณสำหรับอารมณ์ {0}</StatsReport_MoodMultiplier>
-	<StatsReport_LightMultiplier>Multiplier for light {0}</StatsReport_LightMultiplier>	
+	<StatsReport_LightMultiplier>ตัวคูณสำหรับแสง {0}</StatsReport_LightMultiplier>	
 	<StatsReport_DifficultyMultiplier>ตัวคูณสำหรับระดับความยาก {0}</StatsReport_DifficultyMultiplier>
   <StatsReport_InBed>อยู่บนเตียง</StatsReport_InBed>
   <StatsReport_Facilities>สิ่งอำนวยความสะดวก</StatsReport_Facilities>
