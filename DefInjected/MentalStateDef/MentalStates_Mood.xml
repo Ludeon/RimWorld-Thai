@@ -50,7 +50,7 @@
 
   <WanderPsychotic.label>โรคจิต</WanderPsychotic.label>
   <WanderPsychotic.beginLetterLabel>ความงุนงง</WanderPsychotic.beginLetterLabel>
-  <WanderPsychotic.beginLetter>{0} จะเดินไปรอบ ๆ ในรัฐโรคจิต</WanderPsychotic.beginLetter>
+  <WanderPsychotic.beginLetter>{0} จะเดินไปรอบ ๆ ในสถานะโรคจิต</WanderPsychotic.beginLetter>
   <WanderPsychotic.recoveryMessage>{0} เลิกโรคจิต</WanderPsychotic.recoveryMessage>
   <WanderPsychotic.baseInspectLine>ภาวะทางจิต: โรคจิต</WanderPsychotic.baseInspectLine>
 

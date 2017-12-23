@@ -15,7 +15,7 @@
 
 	<ShootFrenzy.label>แรงบันดาลใจ: Shoot Frenzy</ShootFrenzy.label>
 	<ShootFrenzy.beginLetterLabel>Shoot Frenzy</ShootFrenzy.beginLetterLabel>
-	<ShootFrenzy.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว HECAP จะยิงกันอีก 3 วันข้างหน้า</ShootFrenzy.beginLetter>
+	<ShootFrenzy.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว HECAP จะยิงแม่นขึ้น 3 วันข้างหน้า</ShootFrenzy.beginLetter>
 	<ShootFrenzy.endMessage>{0} ไม่มีแรงบันดาลใจอีกแล้ว (Shoot Frenzy).</ShootFrenzy.endMessage>
 	<ShootFrenzy.baseInspectLine>แรงบันดาลใจ: Shoot Frenzy</ShootFrenzy.baseInspectLine>
 

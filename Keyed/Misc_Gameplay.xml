@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- Various -->
-  	<HitPointsBasic>จุดที่น่าสนใจ</HitPointsBasic>
+  	<HitPointsBasic>สถานะ</HitPointsBasic>
   <WorkLeft>งานที่เหลืออยู่</WorkLeft>
   <Contents>บรรจุ</Contents>
   <ContainedResources>ทรัพยากรที่มีอยู่</ContainedResources>
@@ -293,7 +293,7 @@
   
     <!--Rotting-->
 	<RotStateFresh>สด</RotStateFresh>
-	<RotStateRotting>กำลังเน่า</RotStateRotting>
+	<RotStateRotting>เน่า</RotStateRotting>
 	<RotStateDessicated>แห้งกรัง</RotStateDessicated>
 	
     <!-- Shooting tooltip -->

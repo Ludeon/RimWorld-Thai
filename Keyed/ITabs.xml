@@ -84,11 +84,11 @@
   <Poor>แย่</Poor>
   <Weakened>อ่อนแรงลง</Weakened>
   <GoodCondition>สบายดี</GoodCondition>
-  <Enhanced>เพิ่มประสิทธิภาพขึ้น</Enhanced>
+  <Enhanced>ดีเพิ่มขึ้น</Enhanced>
   <SeriouslyImpaired>พิการหนัก</SeriouslyImpaired>
   <Impaired>พิการ</Impaired>
   <SlightlyImpaired>พิการเล็กน้อย</SlightlyImpaired>
-  <NoPain>ไม่มีอาการเจ็บ</NoPain>
+  <NoPain>ไม่มีความเจ็บ</NoPain>
   <LittlePain>เล็กน้อย</LittlePain>
   <MediumPain>ปานกลาง</MediumPain>
   <SeverePain>สาหัส</SeverePain>

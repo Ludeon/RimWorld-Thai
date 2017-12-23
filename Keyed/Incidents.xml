@@ -87,7 +87,7 @@
   
   <!-- Refugee chased -->
   	<RefugeeChasedTitle>ผู้ลี้ภัยโดนไล่ล่าที่ {0}</RefugeeChasedTitle>
-  <RefugeeChasedInitial>{1} ชื่อ {0} โทรมาหาคุณจากสถานที่ใกล้เคียง. HECAP ถูกไล่ล่า {2} จาก {3}!\n\nHECAPขอให้คุ้มกันและเสนอที่จะเข้าร่วมเป็นอาณานิคมของคุณ  HE ถูกทำทางชีวภาพมา {4} ปี\n\nได้รับการเตือน - ถ้าคุณยอมรับ, คุณจะต้องต่อสู้กับ {2} ด้านหลัง HIS</RefugeeChasedInitial>
+  <RefugeeChasedInitial>{1} ชื่อ {0} โทรมาหาคุณจากสถานที่ใกล้เคียง. HECAP ถูกไล่ล่า {2} จาก {3}!\n\nHECAPขอให้คุ้มกันและเสนอที่จะเข้าร่วมเป็นอาณานิคมของคุณ  HE มีอายุทางชีวภาพมา {4} ปี\n\nได้รับการเตือน - ถ้าคุณยอมรับ, คุณจะต้องต่อสู้กับ {2} ด้านหลัง HIS</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>รับขอเสนอความปลอดภัย</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>ไม่สนใจ</RefugeeChasedInitial_Reject>
   <RefugeeChasedRejected>{0} กรีดร้องด้วยความหวาดกลัวผ่านลำโพงก่อนที่คุณจะตัดสาย</RefugeeChasedRejected>

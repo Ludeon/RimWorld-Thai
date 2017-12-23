@@ -34,7 +34,7 @@
  
   <LetterLabelBirthday>วันเกิด</LetterLabelBirthday>
   <BirthdayChronological>เป็นวันเกิด {0}ของวันนี้! , {1} มีอายุ {3} ปี\n\nตามลำดับ {1} เพิ่งเปลี่ยน {2}\n\nโปรดทราบว่าเนื่องจากคนอายุไม่มากในขณะที่อยู่ใน เครื่องนอนแช่แข็ง วันเกิดตามลำดับจะแยกออกจากวันเกิดทางชีวภาพ</BirthdayChronological>
-  <BirthdayBiologicalAgeInjuries>{0} มีอายุครบบริบูรณ์ทางชีวภาพของ {1} แล้ว\n\nน่าเสียดาย, {0} ได้รับโรคต่อไปนี้เนื่องจากการเสื่อมสภาพ:\n{2}</BirthdayBiologicalAgeInjuries>
+  <BirthdayBiologicalAgeInjuries>{0} มีอายุครบบริบูรณ์ทางชีวภาพ {1} ปีแล้ว\n\nน่าเสียดาย, {0} ได้รับโรคต่อไปนี้เนื่องจากการเสื่อมสภาพ:\n{2}</BirthdayBiologicalAgeInjuries>
 
   <LetterLabelNewDisease>โรคภัย</LetterLabelNewDisease>
   <NewDisease>{0} ได้รับการป่วยจาก {1}.\n\nตรวจดูให้แน่ใจว่าคุณมีเตียงทางการแพทย์และแพทย์ ทำให้เเน่นอน {2} ได้รับการรักษาที่เหมาะสมและใช้เวลาในเตียงให้มากที่สุด</NewDisease>
