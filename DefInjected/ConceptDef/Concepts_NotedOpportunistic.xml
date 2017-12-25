@@ -28,7 +28,7 @@
 	<BillsTab.label>แท็บงาน</BillsTab.label>
 	<BillsTab.helpText>Damit Kolonisten am Arbeitstisch arbeiten, wähle den Tisch aus und öffne den Aufgabenreiter. Hier kannst du auswählen, welche Mahlzeiten gekocht, welche Produkte erstellt oder welche Kreaturen geschlachtet werden sollen.</BillsTab.helpText>
 
-	<OpeningComms.label>ใช้คอนโซลการสื่อสาร</OpeningComms.label>
+	<OpeningComms.label>ใช้เครื่องควมคุมการสื่อสาร</OpeningComms.label>
 	<OpeningComms.helpText>Um mit anderen Kolonien oder Händlern zu kommunizieren, wähle einen Kolonisten, selektiere die Kommunikationskonsole mit einem Rechtsklick und wähle im Kontextmenü die zu kontaktierende Fraktion aus.</OpeningComms.helpText>
 
 	<DrugAddiction.label>ติดยาเสพติด</DrugAddiction.label>

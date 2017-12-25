@@ -23,13 +23,13 @@
   
   <MessageSeasonBegun>{0} ได้เริ่มขึ้นแล้ว</MessageSeasonBegun>
 
-  <MessageShipHasLeftCommsRange>{0} มีช่วง comms อยู่</MessageShipHasLeftCommsRange>
+  <MessageShipHasLeftCommsRange>{0} ได้ออกจากระยะเครื่องควมคุมการสื่อสารแล้ว</MessageShipHasLeftCommsRange>
 	
 	<MessageNeedBeaconToTradeWithShip>คุณจำเป็นต้องใช้สัญลักษณ์การค้าการโคจรเพื่อการค้ากับยาน\n\nสัญญาณบีคอนต้องมีการขับเคลื่อน</MessageNeedBeaconToTradeWithShip>
 	
   <MessageBillComplete>บิลเรียบร้อยแล้ว: {0}.</MessageBillComplete>
   
-  <MessageFullyHealed>{0} จะหายสนิท</MessageFullyHealed>
+  <MessageFullyHealed>{0} หายสนิท</MessageFullyHealed>
 
   <MessagePrisonerIsEscaping>นักโทษ {0} กำลังหนี</MessagePrisonerIsEscaping>
 
@@ -73,7 +73,7 @@
 
   <MessageNoLongerDowned>{0} ไม่ยอมเชื้อฟังอีกต่อไป</MessageNoLongerDowned>
 
-  <MessageInvoluntarySleep>{0} ยุบลงเนื่องจากความเหนื่อยล้าอย่างมาก</MessageInvoluntarySleep>
+  <MessageInvoluntarySleep>{0} ล้มลงเนื่องจากความเหนื่อยล้าอย่างมาก</MessageInvoluntarySleep>
 
 	<MessageMedicalOperationFailureMinor>{0} ล้มเหลวในทางเล็ก ๆ ขณะปฏิบัติการอยู่ {1}.</MessageMedicalOperationFailureMinor>
 	<MessageMedicalOperationFailureCatastrophic>{0} ล้มเหลวในขณะดำเนินการ {1}.</MessageMedicalOperationFailureCatastrophic>

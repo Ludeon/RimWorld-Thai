@@ -40,7 +40,7 @@
   <TraderArrival>ยานจะผ่านการค้าในบริเวณใกล้เคียง\n\nพวกเขาเป็นที่รู้จักกัน {0}. พวกเขาเป็น {1}.</TraderArrival>
 
   <SingleTravelerPassing>{0} จาก {1} กำลังเดินผ่าน HECAP มีชื่อว่า {2}</SingleTravelerPassing>
-  <GroupTravelersPassing>กลุ่มของนักเดินทางจาก {0} จะผ่านโดย</GroupTravelersPassing>
+  <GroupTravelersPassing>กลุ่มของนักเดินทางจาก {0} จะเดินผ่าน</GroupTravelersPassing>
 
   <LetterLabelSingleVisitorArrives>ผู้มาเยือน</LetterLabelSingleVisitorArrives>
   <SingleVisitorArrives>{0} จาก {1} มาเยือนอาณานิคม\n\nHECAP นั้นมีชื่อว่า {2}.{3}</SingleVisitorArrives>

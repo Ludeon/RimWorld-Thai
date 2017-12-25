@@ -15,6 +15,6 @@
 
   <Sentence_RecruitAttemptAccepted.rulePack.rulesStrings.0>ตอบตกลงที่จะเข้าร่วม [initiator_nameShortDef]</Sentence_RecruitAttemptAccepted.rulePack.rulesStrings.0>
 
-  <Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] ปฏิเสธขอเสนอ</Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0>
+  <Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] ปฏิเสธข้อเสนอ</Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0>
 
 </LanguageData>

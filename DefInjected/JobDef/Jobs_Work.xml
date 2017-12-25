@@ -56,7 +56,7 @@
   <Clean.reportString>กำลังทำความสะอาด TargetA</Clean.reportString>
   <Research.reportString>กำลังวิจัย</Research.reportString>
   <Hunt.reportString>กำลังล่า TargetA</Hunt.reportString>
-  <UseCommsConsole.reportString>กำลังใช้แผงสื่อสาร</UseCommsConsole.reportString>
+  <UseCommsConsole.reportString>กำลังใช้เครื่องควมคุมการสื่อสาร</UseCommsConsole.reportString>
   <Mine.reportString>กำลังขุดเหมือง</Mine.reportString>
   <SmoothFloor.reportString>กำลังขัดพื้น</SmoothFloor.reportString>
   <RemoveFloor.reportString>กำลังเอาพื้นออก</RemoveFloor.reportString>

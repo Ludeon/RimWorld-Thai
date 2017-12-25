@@ -5,7 +5,7 @@
   <OrbitalTradeBeacon.label>เครื่องส่งสัญญาณการค้า</OrbitalTradeBeacon.label>
   <OrbitalTradeBeacon.description>Für orbitalen Handel benötigt.\nDu kannst nur Waren verkaufen, welche sich in der Lagerzone eines Funkfeuers befinden. Kann auch Innen platziert werden.</OrbitalTradeBeacon.description>
 
-  <CommsConsole.label>เครื่องควมคุม Comms</CommsConsole.label>
+  <CommsConsole.label>เครื่องควมคุมการสื่อสาร</CommsConsole.label>
   <CommsConsole.description>Erlaubt den Funkkontakt mit fernen Händlern, wie auch mit anderen Fraktionen zum Handeln und zur Diplomatie.</CommsConsole.description>
   
   <!-- Facilities -->
