@@ -2,7 +2,7 @@
 <LanguageData>
 
   <FactionGreetingHostile>{0} ขนใครบางคนไปที่มอนิเตอร์และตัดสัญญาณ</FactionGreetingHostile>
-  <FactionGreetingWary>{0} ทักทาย {1} อย่างสุขุม และถามถึงธุระHIS</FactionGreetingWary>
+  <FactionGreetingWary>{0} ทักทาย {1} อย่างสุขุม และถามถึงธุระ[PAWN_possessive]</FactionGreetingWary>
   <FactionGreetingWarm>{0} ทักทาย {1} อย่างอบอุ่น และถามถึงความเป็นไปของอาณานิคมว่าเป็นอย่างไรบ้าง</FactionGreetingWarm>
 
   <Disconnect>ตัดการติดต่อ</Disconnect>

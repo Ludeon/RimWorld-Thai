@@ -13,14 +13,14 @@
 
 	<QuestDownedRefugee.label>เควส: ผู้ลี้ภัยที่ไม่สามารถเคลื่อนที่ได้</QuestDownedRefugee.label>
 	<QuestDownedRefugee.letterLabel>เควส:ผู้ลี้ภัยที่ไม่สามารถเคลื่อนที่ได้</QuestDownedRefugee.letterLabel>
-	<QuestDownedRefugee.letterText>{0} ติดต่อคุณผ่านทางอากาศและขอความช่วยเหลือ HECAP ได้รับบาดเจ็บและแทบไม่มีสติ โดยไม่ได้รับความช่วยเหลือ HE จะตายภายใน {1} วัน \ n\nแต่จงระวัง: อาจเป็นอันตรายได้ที่นั่น</QuestDownedRefugee.letterText>
+	<QuestDownedRefugee.letterText>{0} ติดต่อคุณผ่านทางอากาศและขอความช่วยเหลือ [PAWN_pronoun] ได้รับบาดเจ็บและแทบไม่มีสติ โดยไม่ได้รับความช่วยเหลือ [PAWN_pronoun] จะตายภายใน {1} วัน \ n\nแต่จงระวัง: อาจเป็นอันตรายได้ที่นั่น</QuestDownedRefugee.letterText>
 	
 	<QuestPrisonerWillingToJoin.label>เควส: นักโทษ</QuestPrisonerWillingToJoin.label>
 	<QuestPrisonerWillingToJoin.letterLabel>เควส: นักโทษ</QuestPrisonerWillingToJoin.letterLabel>
-	<QuestPrisonerWillingToJoin.letterText>{0} นักโทษอาจขโมยวิทยุและยิงคุณ\ n\n กำลังถูกกักขังอยู่ในค่ายใกล้เคียงโดยเจ้าหน้าที่ติดอาวุธ บันทึก HIM และ HE จะเข้าร่วมอาณานิคมของคุณ HECAP มีอายุ {1} ปี (2)</QuestPrisonerWillingToJoin.letterText>
+	<QuestPrisonerWillingToJoin.letterText>{0} นักโทษอาจขโมยวิทยุและยิงคุณ\ n\n กำลังถูกกักขังอยู่ในค่ายใกล้เคียงโดยเจ้าหน้าที่ติดอาวุธ บันทึก [PAWN_objective] และ [PAWN_pronoun] จะเข้าร่วมอาณานิคมของคุณ [PAWN_pronoun] มีอายุ {1} ปี (2)</QuestPrisonerWillingToJoin.letterText>
 	
 	<QuestPeaceTalks.label>เควส: การเจรจาสันติภาพ</QuestPeaceTalks.label>
 	<QuestPeaceTalks.letterLabel>เควส: การเจรจาสันติภาพ</QuestPeaceTalks.letterLabel>
-	<QuestPeaceTalks.letterText>NAME {0} จาก {1} ส่งข้อความถึงเรา HECAP ต้องการพบปะกับเราเพื่อพูดคุยที่สถานที่ใกล้เคียง \ n\nนี้อาจเป็นวิธีที่ยอดเยี่ยมในการปรับปรุงความสัมพันธ์กับฝ่ายของพวกเขา แต่จงระวัง - ผู้เจรจาต่อรองที่ไม่ดีอาจทำอันตรายมากกว่าสิ่งที่ดีและอาจทำให้เธอเสียใจ \ n\nข้อเสนอหมดอายุภายใน {2} วัน</QuestPeaceTalks.letterText>
+	<QuestPeaceTalks.letterText>[PAWN_nameDef] {0} จาก {1} ส่งข้อความถึงเรา [PAWN_pronoun] ต้องการพบปะกับเราเพื่อพูดคุยที่สถานที่ใกล้เคียง \ n\nนี้อาจเป็นวิธีที่ยอดเยี่ยมในการปรับปรุงความสัมพันธ์กับฝ่ายของพวกเขา แต่จงระวัง - ผู้เจรจาต่อรองที่ไม่ดีอาจทำอันตรายมากกว่าสิ่งที่ดีและอาจทำให้เธอเสียใจ \ n\nข้อเสนอหมดอายุภายใน {2} วัน</QuestPeaceTalks.letterText>
 	
 </LanguageData>

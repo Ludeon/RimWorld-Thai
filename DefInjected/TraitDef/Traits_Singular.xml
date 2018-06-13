@@ -2,81 +2,81 @@
 <LanguageData>
 
   <Nudist.degreeDatas.0.label>ชอบเปลือย</Nudist.degreeDatas.0.label>
-  <Nudist.degreeDatas.0.description>NAME นั้นมีความสุขกับความรู้สึกที่เป็นอิสระจากการที่ได้เปลือยกาย HECAP สามารถใส่เสื้อผ้าได้, แต่จะมีความสุขมากกว่าถ้า HE ไม่มีมัน</Nudist.degreeDatas.0.description>
+  <Nudist.degreeDatas.0.description>[PAWN_nameDef] นั้นมีความสุขกับความรู้สึกที่เป็นอิสระจากการที่ได้เปลือยกาย [PAWN_pronoun] สามารถใส่เสื้อผ้าได้, แต่จะมีความสุขมากกว่าถ้า [PAWN_pronoun] ไม่มีมัน</Nudist.degreeDatas.0.description>
 
   <Bloodlust.degreeDatas.0.label>กระหายเลือด</Bloodlust.degreeDatas.0.label>
-  <Bloodlust.degreeDatas.0.description>NAME นั้นแทบจะถลาเข้าใส่ถ้าเป็นการทำร้ายคนอื่น, และ HE ไม่รังเกียจที่จะเห็นเลือดหรือความตาย HECAP นั้นมีโอกาสทะเลาะกับคนอื่นๆ มากเป็นสองเท่า</Bloodlust.degreeDatas.0.description>
+  <Bloodlust.degreeDatas.0.description>[PAWN_nameDef] นั้นแทบจะถลาเข้าใส่ถ้าเป็นการทำร้ายคนอื่น, และ [PAWN_pronoun] ไม่รังเกียจที่จะเห็นเลือดหรือความตาย [PAWN_pronoun] นั้นมีโอกาสทะเลาะกับคนอื่นๆ มากเป็นสองเท่า</Bloodlust.degreeDatas.0.description>
 
   <Kind.degreeDatas.0.label>ใจดี</Kind.degreeDatas.0.label>
-  <Kind.degreeDatas.0.description>NAME เป็นคนที่ดี HECAP มีแนวโน้มที่จะเพิ่มสีสันให้คนอื่น ๆ และไม่เคยดูถูกคนอื่น</Kind.degreeDatas.0.description>
+  <Kind.degreeDatas.0.description>[PAWN_nameDef] เป็นคนที่ดี [PAWN_pronoun] มีแนวโน้มที่จะเพิ่มสีสันให้คนอื่น ๆ และไม่เคยดูถูกคนอื่น</Kind.degreeDatas.0.description>
   
   <Psychopath.degreeDatas.0.label>โรคจิต</Psychopath.degreeDatas.0.label>
-  <Psychopath.degreeDatas.0.description>NAME นั้นไม่มีอารมณ์ร่วมกับใครๆ ความทุกข์ทรมานของผู้อื่นไม่ได้รบกวนจิตใจ HIM แม้แต่น้อย HECAP ไม่ได้สนใจว่าใครจะถูกแล่, วางไว้ไม่ได้ฝัง, ถูกคุมขัง, หรือถูกขายเป็นทาส - จนกว่ามันจะมีผลกระทบกับ HIM HECAP นั้นยังไม่ได้รับอารมณ์เพิ่มจากการเข้าสังคมอีกด้วย</Psychopath.degreeDatas.0.description>
+  <Psychopath.degreeDatas.0.description>[PAWN_nameDef] นั้นไม่มีอารมณ์ร่วมกับใครๆ ความทุกข์ทรมานของผู้อื่นไม่ได้รบกวนจิตใจ [PAWN_objective] แม้แต่น้อย [PAWN_pronoun] ไม่ได้สนใจว่าใครจะถูกแล่, วางไว้ไม่ได้ฝัง, ถูกคุมขัง, หรือถูกขายเป็นทาส - จนกว่ามันจะมีผลกระทบกับ [PAWN_objective] [PAWN_pronoun] นั้นยังไม่ได้รับอารมณ์เพิ่มจากการเข้าสังคมอีกด้วย</Psychopath.degreeDatas.0.description>
 
   <Cannibal.degreeDatas.0.label>มนุษย์กินคน</Cannibal.degreeDatas.0.label>
-  <Cannibal.degreeDatas.0.description>NAME นั้นถูกสอนว่าการกินเนื้อคนนั้นผิดและเลวร้าย แต่ครั้งหนึ่ง, นานมาแล้ว, HE ได้ลองมัน... และ HE ชอบมัน</Cannibal.degreeDatas.0.description>
+  <Cannibal.degreeDatas.0.description>[PAWN_nameDef] นั้นถูกสอนว่าการกินเนื้อคนนั้นผิดและเลวร้าย แต่ครั้งหนึ่ง, นานมาแล้ว, [PAWN_pronoun] ได้ลองมัน... และ [PAWN_pronoun] ชอบมัน</Cannibal.degreeDatas.0.description>
 
   <Abrasive.degreeDatas.0.label>ก้าวร้าว</Abrasive.degreeDatas.0.label>
-  <Abrasive.degreeDatas.0.description>NAME นั้นจะพูดในสิ่งที่อยู่ในใจ HIS ออกมาเสมอ, โดยเฉพาะอย่างยิ่งเมื่อมันรบกวน HIM ทำให้กระทบกระทั่งกัคนอื่นในทางผิดๆ</Abrasive.degreeDatas.0.description>
+  <Abrasive.degreeDatas.0.description>[PAWN_nameDef] นั้นจะพูดในสิ่งที่อยู่ในใจ [PAWN_possessive] ออกมาเสมอ, โดยเฉพาะอย่างยิ่งเมื่อมันรบกวน [PAWN_objective] ทำให้กระทบกระทั่งกัคนอื่นในทางผิดๆ</Abrasive.degreeDatas.0.description>
 
   <TooSmart.degreeDatas.0.label>ฉลาดเกิน</TooSmart.degreeDatas.0.label>
-  <TooSmart.degreeDatas.0.description>NAME นั้นฉลาดเกินไปสำหรับ HIS HECAP เรียนรู้ทุกอย่างได้เร็วกว่าคนอื่นๆ, แต่ก็สามารถที่จะแหกคอกได้เหมือนกัน</TooSmart.degreeDatas.0.description>
+  <TooSmart.degreeDatas.0.description>[PAWN_nameDef] นั้นฉลาดเกินไปสำหรับ [PAWN_possessive] [PAWN_pronoun] เรียนรู้ทุกอย่างได้เร็วกว่าคนอื่นๆ, แต่ก็สามารถที่จะแหกคอกได้เหมือนกัน</TooSmart.degreeDatas.0.description>
 
   <Brawler.degreeDatas.0.label>นักเลง</Brawler.degreeDatas.0.label>
-  <Brawler.degreeDatas.0.description>NAME นั้นชอบที่จะสู้ใกล้ๆและเป็นส่วนตัว ความแม่นยำของ HISCAP นั้นยอดเยี่ยมในด้านการต่อสู้ระยะประชิด, แต่ HE จะไม่มีความสุขมากถ้าถูกขอให้ถืออาวุธพิสัยไกล</Brawler.degreeDatas.0.description>
+  <Brawler.degreeDatas.0.description>[PAWN_nameDef] นั้นชอบที่จะสู้ใกล้ๆและเป็นส่วนตัว ความแม่นยำของ [PAWN_possessive] นั้นยอดเยี่ยมในด้านการต่อสู้ระยะประชิด, แต่ [PAWN_pronoun] จะไม่มีความสุขมากถ้าถูกขอให้ถืออาวุธพิสัยไกล</Brawler.degreeDatas.0.description>
 
   <Masochist.degreeDatas.0.label>ชอบเจ็บปวด</Masochist.degreeDatas.0.label>
-  <Masochist.degreeDatas.0.description>สำหรับ NAME แล้ว, มีอะไรที่ตื่นเต้นอยู่ในความเจ็บปวด HECAP ไม่รู้ว่าทำไม, แต่ HE ก็แค่เชื่อมต่ออย่างแตกต่างออกไป</Masochist.degreeDatas.0.description>
+  <Masochist.degreeDatas.0.description>สำหรับ [PAWN_nameDef] แล้ว, มีอะไรที่ตื่นเต้นอยู่ในความเจ็บปวด [PAWN_pronoun] ไม่รู้ว่าทำไม, แต่ [PAWN_pronoun] ก็แค่เชื่อมต่ออย่างแตกต่างออกไป</Masochist.degreeDatas.0.description>
 
   <Prosthophile.degreeDatas.0.label>หลงชีวกล</Prosthophile.degreeDatas.0.label>
-  <Prosthophile.degreeDatas.0.description>NAME นั้นรู้สึกจำกัดภายในร่างกายมนุษย์ที่อ่อนแอ HIS HECAP ฝันถึงการที่ได้เปลี่ยนเป็นชีวกลอยู่บ่อยครั้ง</Prosthophile.degreeDatas.0.description>
+  <Prosthophile.degreeDatas.0.description>[PAWN_nameDef] นั้นรู้สึกจำกัดภายในร่างกายมนุษย์ที่อ่อนแอ [PAWN_possessive] [PAWN_pronoun] ฝันถึงการที่ได้เปลี่ยนเป็นชีวกลอยู่บ่อยครั้ง</Prosthophile.degreeDatas.0.description>
 
   <Prosthophobe.degreeDatas.0.label>กลัวชีวกล</Prosthophobe.degreeDatas.0.label>
-  <Prosthophobe.degreeDatas.0.description>NAME นั้นเชื่อที่ร่างกายของมนุษย์นั้นย่อมมีเหตุผลที่มีข้อจำกัด สำหรับ HIM แล้ว, อวัยวะชีวกลนั้นไม่ถูกศีลธรรม</Prosthophobe.degreeDatas.0.description>
+  <Prosthophobe.degreeDatas.0.description>[PAWN_nameDef] นั้นเชื่อที่ร่างกายของมนุษย์นั้นย่อมมีเหตุผลที่มีข้อจำกัด สำหรับ [PAWN_objective] แล้ว, อวัยวะชีวกลนั้นไม่ถูกศีลธรรม</Prosthophobe.degreeDatas.0.description>
 
   <GreenThumb.degreeDatas.0.label>มือเย็น</GreenThumb.degreeDatas.0.label>
-  <GreenThumb.degreeDatas.0.description>NAME มีความหลงใหลในการทำสวน HECAP จะได้อารมณ์เป็นโบนัสเพิ่มสำหรับต้นไม้ทุกต้นที่ HE ไถหว่าน</GreenThumb.degreeDatas.0.description>
+  <GreenThumb.degreeDatas.0.description>[PAWN_nameDef] มีความหลงใหลในการทำสวน [PAWN_pronoun] จะได้อารมณ์เป็นโบนัสเพิ่มสำหรับต้นไม้ทุกต้นที่ [PAWN_pronoun] ไถหว่าน</GreenThumb.degreeDatas.0.description>
 
   <NightOwl.degreeDatas.0.label>นกฮูก</NightOwl.degreeDatas.0.label>
-  <NightOwl.degreeDatas.0.description>NAME นั้นชอบทำงานตอนกลางคืน HECAP จะได้อารมณ์โบนัสเพิ่มถ้าตื่นตอนกลางคืน และจะอารมณ์เสียถ้าตื่นในระหว่างวัน</NightOwl.degreeDatas.0.description>
+  <NightOwl.degreeDatas.0.description>[PAWN_nameDef] นั้นชอบทำงานตอนกลางคืน [PAWN_pronoun] จะได้อารมณ์โบนัสเพิ่มถ้าตื่นตอนกลางคืน และจะอารมณ์เสียถ้าตื่นในระหว่างวัน</NightOwl.degreeDatas.0.description>
 
   <Greedy.degreeDatas.0.label>โลภมาก</Greedy.degreeDatas.0.label>
-  <Greedy.degreeDatas.0.description>NAME นั้นต้องการห้องนอนที่น่าประทับใจอย่างยิ่ง HECAP จะอารมณ์เสียถ้า HE ไม่ได้อะไรอย่างที่ HE ต้องการ</Greedy.degreeDatas.0.description>
+  <Greedy.degreeDatas.0.description>[PAWN_nameDef] นั้นต้องการห้องนอนที่น่าประทับใจอย่างยิ่ง [PAWN_pronoun] จะอารมณ์เสียถ้า [PAWN_pronoun] ไม่ได้อะไรอย่างที่ [PAWN_pronoun] ต้องการ</Greedy.degreeDatas.0.description>
 
   <Jealous.degreeDatas.0.label>ขี้อิจฉา</Jealous.degreeDatas.0.label>
-  <Jealous.degreeDatas.0.description>สำหรับ NAME แล้ว, ถือเป็นความขายหน้าถ้ามีห้องนอนที่น่าประทับใจน้อยกว่าใครคนไหน HECAP จะอารมณ์เสียถ้าชาวอาณานิคมคนใด มีห้องนอนที่น่าประทับใจมากกว่า</Jealous.degreeDatas.0.description>
+  <Jealous.degreeDatas.0.description>สำหรับ [PAWN_nameDef] แล้ว, ถือเป็นความขายหน้าถ้ามีห้องนอนที่น่าประทับใจน้อยกว่าใครคนไหน [PAWN_pronoun] จะอารมณ์เสียถ้าชาวอาณานิคมคนใด มีห้องนอนที่น่าประทับใจมากกว่า</Jealous.degreeDatas.0.description>
 
   <Ascetic.degreeDatas.0.label>ถือสันโดษ</Ascetic.degreeDatas.0.label>
-  <Ascetic.degreeDatas.0.description>NAME ขอใช้ชีวิตอย่างถือสันโดษ HECAP จะอารมณ์เสียถ้า HE มีห้องนอนที่น่าประทับใจมากเกินไป</Ascetic.degreeDatas.0.description>
+  <Ascetic.degreeDatas.0.description>[PAWN_nameDef] ขอใช้ชีวิตอย่างถือสันโดษ [PAWN_pronoun] จะอารมณ์เสียถ้า [PAWN_pronoun] มีห้องนอนที่น่าประทับใจมากเกินไป</Ascetic.degreeDatas.0.description>
 
   <Gay.degreeDatas.0.label>รักร่วมเพศ</Gay.degreeDatas.0.label>
-  <Gay.degreeDatas.0.description>NAME นั้นถูกดึงดูดให้หวั่นไหวโดยเพศเดียวกันกับ HIM</Gay.degreeDatas.0.description>
+  <Gay.degreeDatas.0.description>[PAWN_nameDef] นั้นถูกดึงดูดให้หวั่นไหวโดยเพศเดียวกันกับ [PAWN_objective]</Gay.degreeDatas.0.description>
 
   <DislikesMen.degreeDatas.0.label>ไม่ชอบผู้ชาย</DislikesMen.degreeDatas.0.label>
-  <DislikesMen.degreeDatas.0.description>NAME นั้นไม่ชอบและไม่เชื่อใจผู้ชายเอามากๆ</DislikesMen.degreeDatas.0.description>
+  <DislikesMen.degreeDatas.0.description>[PAWN_nameDef] นั้นไม่ชอบและไม่เชื่อใจผู้ชายเอามากๆ</DislikesMen.degreeDatas.0.description>
 
   <DislikesWomen.degreeDatas.0.label>ไม่ชอบผู้หญิง</DislikesWomen.degreeDatas.0.label>
-  <DislikesWomen.degreeDatas.0.description>NAME นั้นไม่ชอบและไม่เชื่อใจผู้หญิงเอามากๆ</DislikesWomen.degreeDatas.0.description>
+  <DislikesWomen.degreeDatas.0.description>[PAWN_nameDef] นั้นไม่ชอบและไม่เชื่อใจผู้หญิงเอามากๆ</DislikesWomen.degreeDatas.0.description>
   
   <AnnoyingVoice.degreeDatas.0.label>ทำเสียงน่ารำคาญ</AnnoyingVoice.degreeDatas.0.label>
-  <AnnoyingVoice.degreeDatas.0.description>NAME เสียงมีตะแกรง HE มีแนวโน้มที่จะพูดในโฉลก, วลีที่อ่านไม่ออก  คนอื่นไม่ชอบ HIM.</AnnoyingVoice.degreeDatas.0.description>
+  <AnnoyingVoice.degreeDatas.0.description>[PAWN_nameDef] เสียงมีตะแกรง [PAWN_pronoun] มีแนวโน้มที่จะพูดในโฉลก, วลีที่อ่านไม่ออก  คนอื่นไม่ชอบ [PAWN_objective].</AnnoyingVoice.degreeDatas.0.description>
 
   <CreepyBreathing.degreeDatas.0.label>การหายใจที่น่าขนลุก</CreepyBreathing.degreeDatas.0.label>
-  <CreepyBreathing.degreeDatas.0.description>NAME หายใจแรงตลอดเวลา, และ เหงื่อออกอย่างต่อเนื่อง คนเห็นว่ามันน่าขนลุก</CreepyBreathing.degreeDatas.0.description>
+  <CreepyBreathing.degreeDatas.0.description>[PAWN_nameDef] หายใจแรงตลอดเวลา, และ เหงื่อออกอย่างต่อเนื่อง คนเห็นว่ามันน่าขนลุก</CreepyBreathing.degreeDatas.0.description>
 
   <Pyromaniac.degreeDatas.0.label>รักไฟ ชอบเล่นไฟ</Pyromaniac.degreeDatas.0.label>
-  <Pyromaniac.degreeDatas.0.description>NAME รักไฟ HECAP บางครั้งจะเริ่มเล่นไฟทำให้เกิดเพลิงไหม้ และ เขาจะไม่ดับไฟ</Pyromaniac.degreeDatas.0.description>
+  <Pyromaniac.degreeDatas.0.description>[PAWN_nameDef] รักไฟ [PAWN_pronoun] บางครั้งจะเริ่มเล่นไฟทำให้เกิดเพลิงไหม้ และ เขาจะไม่ดับไฟ</Pyromaniac.degreeDatas.0.description>
 
   <Wimp.degreeDatas.0.label>ขี่ขาด</Wimp.degreeDatas.0.label>
-  <Wimp.degreeDatas.0.description>NAME อ่อนแอและขี้ขลาด แม้แต่ความเจ็บปวดเพียงเล็กน้อยก็จะตรึง HIM ไว้</Wimp.degreeDatas.0.description>
+  <Wimp.degreeDatas.0.description>[PAWN_nameDef] อ่อนแอและขี้ขลาด แม้แต่ความเจ็บปวดเพียงเล็กน้อยก็จะตรึง [PAWN_objective] ไว้</Wimp.degreeDatas.0.description>
 
   <Nimble.degreeDatas.0.label>ว่องไว</Nimble.degreeDatas.0.label>
-  <Nimble.degreeDatas.0.description>NAME มีความฉลาดในการเคลื่อนไหว HECAP ดูเหมือนจะเต้นไปรอบ ๆ ในที่อันตรายด้วยความสง่างามอย่างไม่ธรรมดา</Nimble.degreeDatas.0.description>
+  <Nimble.degreeDatas.0.description>[PAWN_nameDef] มีความฉลาดในการเคลื่อนไหว [PAWN_pronoun] ดูเหมือนจะเต้นไปรอบ ๆ ในที่อันตรายด้วยความสง่างามอย่างไม่ธรรมดา</Nimble.degreeDatas.0.description>
 
   <FastLearner.degreeDatas.0.label>ผู้เรียนรู้เร็ว</FastLearner.degreeDatas.0.label>
-  <FastLearner.degreeDatas.0.description>NAME มีความสามารถพิเศษในการเรียนรู้ HECAP เรียนรู้สิ่งต่างๆได้เร็วกว่าคนอื่น ๆ</FastLearner.degreeDatas.0.description>
+  <FastLearner.degreeDatas.0.description>[PAWN_nameDef] มีความสามารถพิเศษในการเรียนรู้ [PAWN_pronoun] เรียนรู้สิ่งต่างๆได้เร็วกว่าคนอื่น ๆ</FastLearner.degreeDatas.0.description>
 
   <SuperImmune.degreeDatas.0.label>ซูเปอร์ ภูมิคุ้มกัน</SuperImmune.degreeDatas.0.label>
-  <SuperImmune.degreeDatas.0.description>NAME มีระบบภูมิคุ้มกันที่ดีมาก HECAP จะได้รับภูมิคุ้มกันเร็วกว่าคนปกติ และ สามารถ รอดจากโรคที่ทำให้คนอื่นถึงแก่ชีวิตได้</SuperImmune.degreeDatas.0.description>
+  <SuperImmune.degreeDatas.0.description>[PAWN_nameDef] มีระบบภูมิคุ้มกันที่ดีมาก [PAWN_pronoun] จะได้รับภูมิคุ้มกันเร็วกว่าคนปกติ และ สามารถ รอดจากโรคที่ทำให้คนอื่นถึงแก่ชีวิตได้</SuperImmune.degreeDatas.0.description>
 
 </LanguageData>

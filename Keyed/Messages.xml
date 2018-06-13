@@ -41,7 +41,7 @@
   <LetterLabelMessageRecruitSuccess>รับสมัครใหม่</LetterLabelMessageRecruitSuccess>
   <MessageRecruitSuccess>{0} คัดเลือกเรียบร้อยแล้ว {1} (โอกาส {2} ).</MessageRecruitSuccess>
   <MessageTameSuccess>{0} ประสบความสำเร็จในการฝึก {1} (โอกาส {2}).</MessageTameSuccess>
-  <MessageTameAndNameSuccess>{0} ประสบความสำเร็จในการฝึก {1} (โอกาส {2}) และตั้งชื่อ HIM {3}.</MessageTameAndNameSuccess>
+  <MessageTameAndNameSuccess>{0} ประสบความสำเร็จในการฝึก {1} (โอกาส {2}) และตั้งชื่อ [PAWN_objective] {3}.</MessageTameAndNameSuccess>
 
   <MessageColonyCannotAfford>อาณานิคมไม่สามารถจัดการเรื่องนี้ได้</MessageColonyCannotAfford>
   <MessageColonyNotEnoughSilver>คุณไม่มีเงินเพียงพอที่จะทำธุรกิจได้</MessageColonyNotEnoughSilver>
@@ -111,7 +111,7 @@
   <MessageMarriageCeremonyAfterPartyFinished>พิธีสมรส {0} และ {1} เสร็จสิ้นแล้ว</MessageMarriageCeremonyAfterPartyFinished>
   
   <MessageNewBondRelation>{0} และ {1} ได้สร้างความผูกพัน</MessageNewBondRelation>
-  <MessageNewBondRelationNewName>{0} และ {1} ได้สร้างความผูกพัน {0} ได้ตั้งชื่อ HIM {2}.</MessageNewBondRelationNewName>
+  <MessageNewBondRelationNewName>{0} และ {1} ได้สร้างความผูกพัน {0} ได้ตั้งชื่อ [PAWN_objective] {2}.</MessageNewBondRelationNewName>
   
   <MessageBondedAnimalMentalBreak>{0} มีอาการผิดปกติทางจิตเพราะความตายของ {1}</MessageBondedAnimalMentalBreak>
   <MessageNamedBondedAnimalMentalBreak>{0} ชื่อ {1} มีอาการผิดปกติทางจิตเพราะความตายของ {2}</MessageNamedBondedAnimalMentalBreak>
@@ -175,7 +175,7 @@
 
 	<MessageOldWoundHealed>เนื่องจาก {0}  {1} ของ {2} ได้รับการเยียวยา</MessageOldWoundHealed>
 
-	<MessageRescueeJoined>ตั้งแต่คุณช่วย HIM, {0} เข้าร่วมกลุ่มของคุณแล้ว!</MessageRescueeJoined>
+	<MessageRescueeJoined>ตั้งแต่คุณช่วย [PAWN_objective], {0} เข้าร่วมกลุ่มของคุณแล้ว!</MessageRescueeJoined>
   
   <MessageAttackedCaravanIsNowHostile>เนื่องจากคุณโจมตีกองคาราวาน {0} ฝ่ายนี้จึงเป็นปฏิปักษ์กับคุณ</MessageAttackedCaravanIsNowHostile>
   <MessageFactionPawnCrushed>{0} คนสูญเสียหลังคายุบ ความสัมพันธ์ของกลุ่ม: {1}</MessageFactionPawnCrushed>
@@ -233,7 +233,7 @@
   <MessageSiteCountdownBecauseNoMoreEnemies>คุณได้พ่ายแพ้ศัตรูทั้งหมด ใน {0} กองคาราวานจะได้รับการปฏิรูปโดยอัตโนมัติ</MessageSiteCountdownBecauseNoMoreEnemies>
   <MessageSiteCountdownBecauseNoEnemiesInitially>ใน {0} กองคาราวานจะได้รับการปฏิรูปโดยอัตโนมัติ คุณสามารถปฏิรูปกองคาราวานได้ในหน้าจอโลก</MessageSiteCountdownBecauseNoEnemiesInitially>
   
-  <MessageCantBanishDownedPawn>ไม่สามารถขับไล่ {0} เนื่องจาก HE ไม่สามารถเดินได้</MessageCantBanishDownedPawn>
+  <MessageCantBanishDownedPawn>ไม่สามารถขับไล่ {0} เนื่องจาก [PAWN_pronoun] ไม่สามารถเดินได้</MessageCantBanishDownedPawn>
 
   <MessageSleepingPawnsWokenUp>{0} ได้ตื่นขึ้นแล้ว</MessageSleepingPawnsWokenUp>
 
@@ -248,7 +248,7 @@
   <MessageFailedToRescueRelative>คุณได้ล้มเหลวในการช่วย {0} มันจะทำให้ {1} เศร้า</MessageFailedToRescueRelative>
   <MessageRescuedRelative>คุณได้ช่วย {0}  มันจะทำให้ {1} มีความสุข</MessageRescuedRelative>
 
-  <MessagePrisonerRescued>คุณได้ช่วย NAME และ HE ได้เข้าร่วมอาณานิคมของคุณแล้ว</MessagePrisonerRescued>
+  <MessagePrisonerRescued>คุณได้ช่วย [PAWN_nameDef] และ [PAWN_pronoun] ได้เข้าร่วมอาณานิคมของคุณแล้ว</MessagePrisonerRescued>
 
   <MessageTornadoLeftMap>ทอนนาโด ได้ไปจากพื้นที่นี้แล้ว</MessageTornadoLeftMap>
   <MessageTornadoDissipated>ทอนนาโด ได้หยุดลงแล้ว</MessageTornadoDissipated>
@@ -257,8 +257,8 @@
 
   <MessageWarningCavePlantsExposedToLight>คำเตือน: {0} ไม่สามารถมีชีวิตอยู่ได้ถ้าโดนแสง</MessageWarningCavePlantsExposedToLight>
 
-  <MessageTargetedTantrumChangedTarget>{0} ไม่สามารถเข้าหา {1}  HE ตัดสินใจที่จะ HIS ความโมโหไปที่ {2}.</MessageTargetedTantrumChangedTarget>
+  <MessageTargetedTantrumChangedTarget>{0} ไม่สามารถเข้าหา {1}  [PAWN_pronoun] ตัดสินใจที่จะ [PAWN_possessive] ความโมโหไปที่ {2}.</MessageTargetedTantrumChangedTarget>
 
-  <MessageTargetedInsultingSpreeChangedTarget>{0} ไม่สามารถเข้าหา {1}  HE ตัดสินใจที่จะ HIS ความโมโหไปที่ {2}.</MessageTargetedInsultingSpreeChangedTarget>
+  <MessageTargetedInsultingSpreeChangedTarget>{0} ไม่สามารถเข้าหา {1}  [PAWN_pronoun] ตัดสินใจที่จะ [PAWN_possessive] ความโมโหไปที่ {2}.</MessageTargetedInsultingSpreeChangedTarget>
 
 </LanguageData>

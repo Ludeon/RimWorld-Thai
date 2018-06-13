@@ -4,6 +4,6 @@
   <!-- Added body parts -->
 
   <OrganicStandard.hediffGivers.4.letterLabel>ศาสดาทางจิต</OrganicStandard.hediffGivers.4.letterLabel>
-  <OrganicStandard.hediffGivers.4.letter>เพราะสมองของ NAME ที่ได้รับบาดเจ็บ ได้ทำให้ HE พัฒนาความสามารถแปลกๆบางอย่างที่เหมือนศาสดาขึ้นมา</OrganicStandard.hediffGivers.4.letter>
+  <OrganicStandard.hediffGivers.4.letter>เพราะสมองของ [PAWN_nameDef] ที่ได้รับบาดเจ็บ ได้ทำให้ [PAWN_pronoun] พัฒนาความสามารถแปลกๆบางอย่างที่เหมือนศาสดาขึ้นมา</OrganicStandard.hediffGivers.4.letter>
 
 </LanguageData>

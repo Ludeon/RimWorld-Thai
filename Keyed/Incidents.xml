@@ -39,13 +39,13 @@
 
   <TraderArrival>ยานจะผ่านการค้าในบริเวณใกล้เคียง\n\nพวกเขาเป็นที่รู้จักกัน {0}. พวกเขาเป็น {1}.</TraderArrival>
 
-  <SingleTravelerPassing>{0} จาก {1} กำลังเดินผ่าน HECAP มีชื่อว่า {2}</SingleTravelerPassing>
+  <SingleTravelerPassing>{0} จาก {1} กำลังเดินผ่าน [PAWN_pronoun] มีชื่อว่า {2}</SingleTravelerPassing>
   <GroupTravelersPassing>กลุ่มของนักเดินทางจาก {0} จะเดินผ่าน</GroupTravelersPassing>
 
   <LetterLabelSingleVisitorArrives>ผู้มาเยือน</LetterLabelSingleVisitorArrives>
-  <SingleVisitorArrives>{0} จาก {1} มาเยือนอาณานิคม\n\nHECAP นั้นมีชื่อว่า {2}.{3}</SingleVisitorArrives>
-  <SingleVisitorArrivesTraderInfo>ดูเหมือนว่า \n\nHECAP จะมีของบางสิ่งมาแลกเปลี่ยน</SingleVisitorArrivesTraderInfo>
-  <SingleVisitorArrivesLeaderInfo>เป็นผู้นำของฝ่าย \n\nHECAP</SingleVisitorArrivesLeaderInfo>
+  <SingleVisitorArrives>{0} จาก {1} มาเยือนอาณานิคม\n\n[PAWN_pronoun] นั้นมีชื่อว่า {2}.{3}</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>ดูเหมือนว่า \n\n[PAWN_pronoun] จะมีของบางสิ่งมาแลกเปลี่ยน</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>เป็นผู้นำของฝ่าย \n\n[PAWN_pronoun]</SingleVisitorArrivesLeaderInfo>
   <LetterLabelGroupVisitorsArrive>ผู้มาเยือน</LetterLabelGroupVisitorsArrive>
   <GroupVisitorsArrive>กลุ่มจาก {0} มาเยือนอาณานิคม{1}</GroupVisitorsArrive>
   <GroupVisitorsArriveTraderInfo>\n\nพวกเขาดูเหมือนว่าจะมีของบางสิ่งมาแลกเปลี่ยน</GroupVisitorsArriveTraderInfo>
@@ -53,7 +53,7 @@
   <VisitorsLeaving>ผู้มาเยือนจาก {0} กำลังจากไป</VisitorsLeaving>
 
   <LetterLabelWandererJoin>คนหลงทางเข้าร่วม</LetterLabelWandererJoin>
-  <WandererJoin>{0} ชื่อ NAME จะเข้าร่วมอาณานิคม {1}.</WandererJoin>
+  <WandererJoin>{0} ชื่อ [PAWN_nameDef] จะเข้าร่วมอาณานิคม {1}.</WandererJoin>
 
   <LetterLabelManhunterPackArrived>ฝูงสัตว์โจมตี</LetterLabelManhunterPackArrived>
   <ManhunterPackArrived>กลุ่มสัตว์ {0}  ได้เข้ามาในพื้นที่ พวกเขาจะเดินเตร่พื้นที่การล่าบมนุษย์\n\nพวกเขาไม่สามารถผ่านประตูดังนั้นถ้าคุณอยู่หลังกำแพงคุณควรจะปลอดภัย พวกเขาจะไม่โจมตีป้อมปืนที่ใช้งานไม่ได้ดังนั้นปิดป้อมปืนของคุณออกถ้าคุณต้องการจะเก็บมันไว้\n\nพวกเขาจะออกจากพื้นที่ในอีก 2-3 วัน</ManhunterPackArrived>
@@ -87,7 +87,7 @@
   
   <!-- Refugee chased -->
   	<RefugeeChasedTitle>ผู้ลี้ภัยโดนไล่ล่าที่ {0}</RefugeeChasedTitle>
-  <RefugeeChasedInitial>{1} ชื่อ {0} โทรมาหาคุณจากสถานที่ใกล้เคียง. HECAP ถูกไล่ล่า {2} จาก {3}!\n\nHECAPขอให้คุ้มกันและเสนอที่จะเข้าร่วมเป็นอาณานิคมของคุณ  HE มีอายุทางชีวภาพมา {4} ปี\n\nได้รับการเตือน - ถ้าคุณยอมรับ, คุณจะต้องต่อสู้กับ {2} ด้านหลัง HIS</RefugeeChasedInitial>
+  <RefugeeChasedInitial>{1} ชื่อ {0} โทรมาหาคุณจากสถานที่ใกล้เคียง. [PAWN_pronoun] ถูกไล่ล่า {2} จาก {3}!\n\n[PAWN_pronoun]ขอให้คุ้มกันและเสนอที่จะเข้าร่วมเป็นอาณานิคมของคุณ  [PAWN_pronoun] มีอายุทางชีวภาพมา {4} ปี\n\nได้รับการเตือน - ถ้าคุณยอมรับ, คุณจะต้องต่อสู้กับ {2} ด้านหลัง [PAWN_possessive]</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>รับขอเสนอความปลอดภัย</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>ไม่สนใจ</RefugeeChasedInitial_Reject>
   <RefugeeChasedRejected>{0} กรีดร้องด้วยความหวาดกลัวผ่านลำโพงก่อนที่คุณจะตัดสาย</RefugeeChasedRejected>
@@ -116,7 +116,7 @@
  
   <!-- Ransom demand -->
   	<RansomDemandTitle>เรียกค่าไถ่ที่ {0}</RansomDemandTitle>
-    <RansomDemand>{1} ติดต่อคุณในวิทยุ พวกเขาจับสมาชิกอาณานิคมในอดีต {0} เพื่อเรียกค่าไถ่\n\nพวกเขายินดีที่จะปล่อย HIM กลับไปหาคุณแลกเปลี่ยนสำหรับ {2}</RansomDemand>
+    <RansomDemand>{1} ติดต่อคุณในวิทยุ พวกเขาจับสมาชิกอาณานิคมในอดีต {0} เพื่อเรียกค่าไถ่\n\nพวกเขายินดีที่จะปล่อย [PAWN_objective] กลับไปหาคุณแลกเปลี่ยนสำหรับ {2}</RansomDemand>
   <RansomDemand_Accept>ยอมรับ</RansomDemand_Accept>
   <RansomDemand_Reject>ปฏิเสธ</RansomDemand_Reject> 
   

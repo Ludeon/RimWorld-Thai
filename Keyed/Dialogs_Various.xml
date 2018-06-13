@@ -384,7 +384,7 @@
   <!-- Abandon pawn -->
   <ConfirmAbandonPawnDialog>คุณต้องการจะละทิ้ง {0}?</ConfirmAbandonPawnDialog>
   <ConfirmAbandonPawnDialog_LeftToDie>{0} ส่วนใหญ่มีแนวโน้มที่จะตาย</ConfirmAbandonPawnDialog_LeftToDie>
-  <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} จะใช้รายการต่อไปนี้ด้วย HIM:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
+  <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} จะใช้รายการต่อไปนี้ด้วย [PAWN_objective]:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
   <ConfirmAbandonPawnDialog_AllColonistsThoughts>ผู้ล่าอาณานิคมทุกคนจะได้รับความคิดดังต่อไปนี้:</ConfirmAbandonPawnDialog_AllColonistsThoughts>
   <ConfirmAbandonPawnDialog_IndividualThoughts>ทิ้ง {0} จะทำให้คนต่อไปนี้ได้รับความคิดต่อไปนี้:</ConfirmAbandonPawnDialog_IndividualThoughts>
   

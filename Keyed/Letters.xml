@@ -30,7 +30,7 @@
   <RecruitSuccess>{0} คัดเลือกเรียบร้อยแล้ว {1} ( โอกาส {2} ).</RecruitSuccess>
   <RecruitFail>{0} ล้มเหลวในการรับสมัคร {1} ( โอกาส {2} ).</RecruitFail>
 
-  <RelatedPawnInvolvedInQuest>NAME คือ {0} ของ {1}. ถ้า NAME ตาย {0} จะทุกข์ทรมานจากความเศร้าโศกอย่างยาวนาน อย่างไรก็ตาม, ถ้าคุณช่วยชีวิต NAME ได้, {0} จะมีความสุขเป็นเวลานาน</RelatedPawnInvolvedInQuest>
+  <RelatedPawnInvolvedInQuest>[PAWN_nameDef] คือ {0} ของ {1}. ถ้า [PAWN_nameDef] ตาย {0} จะทุกข์ทรมานจากความเศร้าโศกอย่างยาวนาน อย่างไรก็ตาม, ถ้าคุณช่วยชีวิต [PAWN_nameDef] ได้, {0} จะมีความสุขเป็นเวลานาน</RelatedPawnInvolvedInQuest>
  
   <LetterLabelBirthday>วันเกิด</LetterLabelBirthday>
   <BirthdayChronological>เป็นวันเกิด {0}ของวันนี้! , {1} มีอายุ {3} ปี\n\nตามลำดับ {1} เพิ่งเปลี่ยน {2}\n\nโปรดทราบว่าเนื่องจากคนอายุไม่มากในขณะที่อยู่ใน เครื่องนอนแช่แข็ง วันเกิดตามลำดับจะแยกออกจากวันเกิดทางชีวภาพ</BirthdayChronological>
@@ -38,14 +38,14 @@
 
   <LetterLabelNewDisease>โรคภัย</LetterLabelNewDisease>
   <NewDisease>{0} ได้รับป่วย {1}.\n\nตรวจดูให้แน่ใจว่าคุณมีเตียงทางการแพทย์และแพทย์ {2} ได้รับการรักษาที่เหมาะสมและใช้เวลาในเตียงให้มากที่สุด</NewDisease>
-  <NewPartDisease>{0} ได้รับป่วย {3}. การติดเชื้ออยู่ใน {1} HIS.\n\nตรวจดูให้แน่ใจว่าคุณมีเตียงทางการแพทย์และแพทย์  ตรวจสอบให้แน่ใจว่า {2} ได้รับการรักษาที่เหมาะสมและใช้เวลาในการนอนหลับให้มากที่สุดเท่าที่จะเป็นไปได้</NewPartDisease>
+  <NewPartDisease>{0} ได้รับป่วย {3}. การติดเชื้ออยู่ใน {1} [PAWN_possessive].\n\nตรวจดูให้แน่ใจว่าคุณมีเตียงทางการแพทย์และแพทย์  ตรวจสอบให้แน่ใจว่า {2} ได้รับการรักษาที่เหมาะสมและใช้เวลาในการนอนหลับให้มากที่สุดเท่าที่จะเป็นไปได้</NewPartDisease>
 
   <PawnWasFormerlyColonist>{0} เคยเป็นส่วนหนึ่งของฝ่ายของคุณแล้ว</PawnWasFormerlyColonist>
   <PawnHasTheseRelationshipsWithColonists>{0} มีความสัมพันธ์กับอาณานิคมของคุณ:</PawnHasTheseRelationshipsWithColonists>
   <PrisonerRescueTimeout>ค่ายจะหายไปหลังจาก {0} วัน หากคุณพลาดโอกาสนี้คุณอาจไม่เคยได้ยินจาก {1} อีกเลย</PrisonerRescueTimeout>
 
   <LetterLabelAncientShrineWarning>ภยันตรายจากโบราณกาล</LetterLabelAncientShrineWarning>
-  <AncientShrineWarning>{0} ที่ถูกดึงเข้าไปใกล้กำแพงโบราณ, ความสังหรณ์ใจก็เข้าครอบ HIM. HECAP ไม่แน่ใจว่าทำไม, แต่ HE รู้สึกได้ว่าโครงสร้างฝุ่นจับนี้อาจจะกักเอาภยันตรายที่ใหญ่หลวงไว้</AncientShrineWarning>
+  <AncientShrineWarning>{0} ที่ถูกดึงเข้าไปใกล้กำแพงโบราณ, ความสังหรณ์ใจก็เข้าครอบ [PAWN_objective]. [PAWN_pronoun] ไม่แน่ใจว่าทำไม, แต่ [PAWN_pronoun] รู้สึกได้ว่าโครงสร้างฝุ่นจับนี้อาจจะกักเอาภยันตรายที่ใหญ่หลวงไว้</AncientShrineWarning>
 
   <StruckMineable>เราได้พบ {0} !</StruckMineable>
 
@@ -82,8 +82,8 @@
   <LetterRelatedPawnsTradingWithOtherCaravan>คาราวานขายคนที่มีความสัมพันธ์กับอาณานิคมหรือนักโทษของคุณ:</LetterRelatedPawnsTradingWithOtherCaravan>
     
   <RelationshipAppendedLetterSuffix>(ครอบครัว)</RelationshipAppendedLetterSuffix>
-  <RelationshipAppendedLetterTextColonist>NAME เป็นสมาชิกครอบครัวของชาวอาณานิคม HECAP เป็น {1} ของ {0}</RelationshipAppendedLetterTextColonist>
-  <RelationshipAppendedLetterTextPrisoner>NAME เป็นสมาชิกครอบครัวของหนึ่งในนักโทษของคุณ HECAP เป็น {1} ของ {0}</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterTextColonist>[PAWN_nameDef] เป็นสมาชิกครอบครัวของชาวอาณานิคม [PAWN_pronoun] เป็น {1} ของ {0}</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>[PAWN_nameDef] เป็นสมาชิกครอบครัวของหนึ่งในนักโทษของคุณ [PAWN_pronoun] เป็น {1} ของ {0}</RelationshipAppendedLetterTextPrisoner>
   
   <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>เป็นชู้</LetterLabelAffair>
@@ -120,7 +120,7 @@
   
   <!-- Newly addicted -->
   <LetterLabelNewlyAddicted>{0} ติดยาเสพติด</LetterLabelNewlyAddicted>
-  <LetterNewlyAddicted>{0} ได้ติดยาเสพติด {1}.\n\nHECAP ตอนนี้มีความต้องการ {1}, HIS ปรากฏในแท็บความต้องการ. HECAP จะใช้ยาเพื่อตอบสนองความต้องการของเขาโดยอัตโนมัติ ถ้า HE ไม่สามารถรับใด ๆ {1}, HE จะถอนตัวออกไป</LetterNewlyAddicted>
+  <LetterNewlyAddicted>{0} ได้ติดยาเสพติด {1}.\n\n[PAWN_pronoun] ตอนนี้มีความต้องการ {1}, [PAWN_possessive] ปรากฏในแท็บความต้องการ. [PAWN_pronoun] จะใช้ยาเพื่อตอบสนองความต้องการของเขาโดยอัตโนมัติ ถ้า [PAWN_pronoun] ไม่สามารถรับใด ๆ {1}, [PAWN_pronoun] จะถอนตัวออกไป</LetterNewlyAddicted>
   
   <!-- Drug binge -->
   <LetterLabelDrugBinge>{0} ดื่มสุรา</LetterLabelDrugBinge>

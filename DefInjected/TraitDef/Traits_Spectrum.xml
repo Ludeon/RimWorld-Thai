@@ -2,73 +2,73 @@
 <LanguageData>
 
   <SpeedOffset.degreeDatas.0.label>เฉื่อยชา</SpeedOffset.degreeDatas.0.label>
-  <SpeedOffset.degreeDatas.0.description>NAME มักจะรั้งท้ายกลุ่มไม่ว่า HE จะไปที่ไหน</SpeedOffset.degreeDatas.0.description>
+  <SpeedOffset.degreeDatas.0.description>[PAWN_nameDef] มักจะรั้งท้ายกลุ่มไม่ว่า [PAWN_pronoun] จะไปที่ไหน</SpeedOffset.degreeDatas.0.description>
   <SpeedOffset.degreeDatas.1.label>คนเดินเร็ว</SpeedOffset.degreeDatas.1.label>
-  <SpeedOffset.degreeDatas.1.description>NAME ชอบที่ HE จะได้ไปที่ไหนๆ HECAP จะเดินเร็วกว่าคนส่วนใหญ่</SpeedOffset.degreeDatas.1.description>
+  <SpeedOffset.degreeDatas.1.description>[PAWN_nameDef] ชอบที่ [PAWN_pronoun] จะได้ไปที่ไหนๆ [PAWN_pronoun] จะเดินเร็วกว่าคนส่วนใหญ่</SpeedOffset.degreeDatas.1.description>
   <SpeedOffset.degreeDatas.2.label>นักจ็อกกิ้ง</SpeedOffset.degreeDatas.2.label>
-  <SpeedOffset.degreeDatas.2.description>NAME มักจะเคลื่อนที่ไปด้วยความรู้สึกเร่งด่วนเสมอ - ทำให้คนอื่นๆนั้นตาม HIM ไม่ทันอยู่บ่อยๆ</SpeedOffset.degreeDatas.2.description>
+  <SpeedOffset.degreeDatas.2.description>[PAWN_nameDef] มักจะเคลื่อนที่ไปด้วยความรู้สึกเร่งด่วนเสมอ - ทำให้คนอื่นๆนั้นตาม [PAWN_objective] ไม่ทันอยู่บ่อยๆ</SpeedOffset.degreeDatas.2.description>
 
   <DrugDesire.degreeDatas.0.label>หลงใหลสารเคมี</DrugDesire.degreeDatas.0.label>
-  <DrugDesire.degreeDatas.0.description>NAME นั้นมีความหลงใหลอย่างรุนแรงในสารเคมีแห่งความสุข HECAP จะใช้มันมากกว่า, และส่วนใหญ่ก็จะเมาปลิ้น</DrugDesire.degreeDatas.0.description>
+  <DrugDesire.degreeDatas.0.description>[PAWN_nameDef] นั้นมีความหลงใหลอย่างรุนแรงในสารเคมีแห่งความสุข [PAWN_pronoun] จะใช้มันมากกว่า, และส่วนใหญ่ก็จะเมาปลิ้น</DrugDesire.degreeDatas.0.description>
   <DrugDesire.degreeDatas.1.label>สนใจสารเคมี</DrugDesire.degreeDatas.1.label>
-  <DrugDesire.degreeDatas.1.description>NAME นั้นมีความสนใจในสารเคมีแห่งความสุข HECAP จะใช้มันมากกว่า, และส่วนใหญ่ก็จะเมาปลิ้น</DrugDesire.degreeDatas.1.description>
+  <DrugDesire.degreeDatas.1.description>[PAWN_nameDef] นั้นมีความสนใจในสารเคมีแห่งความสุข [PAWN_pronoun] จะใช้มันมากกว่า, และส่วนใหญ่ก็จะเมาปลิ้น</DrugDesire.degreeDatas.1.description>
   <DrugDesire.degreeDatas.2.label>ไม่กินเหล้าเมายา</DrugDesire.degreeDatas.2.label>
-  <DrugDesire.degreeDatas.2.description>NAME นั้นเกลียดชังความคิดในการเพิ่มความสุขด้วยสารเคมี, และหลีกเลี่ยงที่จะใช้แอลกอฮอล์และยา</DrugDesire.degreeDatas.2.description>
+  <DrugDesire.degreeDatas.2.description>[PAWN_nameDef] นั้นเกลียดชังความคิดในการเพิ่มความสุขด้วยสารเคมี, และหลีกเลี่ยงที่จะใช้แอลกอฮอล์และยา</DrugDesire.degreeDatas.2.description>
 
   <NaturalMood.degreeDatas.0.label>ร่าเริง</NaturalMood.degreeDatas.0.label>
-  <NaturalMood.degreeDatas.0.description>NAME นั้นแค่มีความหวังกับสถานการณ์ HIS, ส่วนใหญ่ก็ตลอดเวลา, ไม่ว่ามันจะเป็นอะไร</NaturalMood.degreeDatas.0.description>
+  <NaturalMood.degreeDatas.0.description>[PAWN_nameDef] นั้นแค่มีความหวังกับสถานการณ์ [PAWN_possessive], ส่วนใหญ่ก็ตลอดเวลา, ไม่ว่ามันจะเป็นอะไร</NaturalMood.degreeDatas.0.description>
   <NaturalMood.degreeDatas.1.label>มองโลกในแง่ดี</NaturalMood.degreeDatas.1.label>
-  <NaturalMood.degreeDatas.1.description>NAME นั้นมองโลกในแง่ดีกับชีวิต เป็นเรื่องยากที่จะทำให้ HIM เศร้า</NaturalMood.degreeDatas.1.description>
+  <NaturalMood.degreeDatas.1.description>[PAWN_nameDef] นั้นมองโลกในแง่ดีกับชีวิต เป็นเรื่องยากที่จะทำให้ [PAWN_objective] เศร้า</NaturalMood.degreeDatas.1.description>
   <NaturalMood.degreeDatas.2.label>มองโลกในแง่ร้าย</NaturalMood.degreeDatas.2.label>
-  <NaturalMood.degreeDatas.2.description>NAME นั้นเหมือนจะมองชีวิตในด้านร้าย</NaturalMood.degreeDatas.2.description>
+  <NaturalMood.degreeDatas.2.description>[PAWN_nameDef] นั้นเหมือนจะมองชีวิตในด้านร้าย</NaturalMood.degreeDatas.2.description>
   <NaturalMood.degreeDatas.3.label>หดหู่</NaturalMood.degreeDatas.3.label>
-  <NaturalMood.degreeDatas.3.description>NAME นั้นมักจะไม่มีความสุขเอาซะเลย HECAP มีปัญหากับการคงอารมณ์ดีเอาไว้เมื่อทุกอย่างปกติดี</NaturalMood.degreeDatas.3.description>
+  <NaturalMood.degreeDatas.3.description>[PAWN_nameDef] นั้นมักจะไม่มีความสุขเอาซะเลย [PAWN_pronoun] มีปัญหากับการคงอารมณ์ดีเอาไว้เมื่อทุกอย่างปกติดี</NaturalMood.degreeDatas.3.description>
 	
 	
   <Nerves.degreeDatas.0.label>ใจดั่งเหล็ก</Nerves.degreeDatas.0.label>
-  <Nerves.degreeDatas.0.description>ใจมุ่งมั่นของ NAME เป็นเหมือนโล่ห์เหล็ก HECAP บุกตะลุยทั้งหนาและบาง, ในเวลาที่คนอื่นนั้นล้มลงไปนานแล้ว</Nerves.degreeDatas.0.description>
+  <Nerves.degreeDatas.0.description>ใจมุ่งมั่นของ [PAWN_nameDef] เป็นเหมือนโล่ห์เหล็ก [PAWN_pronoun] บุกตะลุยทั้งหนาและบาง, ในเวลาที่คนอื่นนั้นล้มลงไปนานแล้ว</Nerves.degreeDatas.0.description>
   <Nerves.degreeDatas.1.label>แน่วแน่</Nerves.degreeDatas.1.label>
-  <Nerves.degreeDatas.1.description>NAME มีใจที่แข็งแกร่งและไม่แตกง่ายๆ ภายใต้แรงกดดันที่สามารถทำให้จิตใจของคนส่วนมากแตกได้</Nerves.degreeDatas.1.description>
+  <Nerves.degreeDatas.1.description>[PAWN_nameDef] มีใจที่แข็งแกร่งและไม่แตกง่ายๆ ภายใต้แรงกดดันที่สามารถทำให้จิตใจของคนส่วนมากแตกได้</Nerves.degreeDatas.1.description>
   <Nerves.degreeDatas.2.label>ขี้กังวล</Nerves.degreeDatas.2.label>
-  <Nerves.degreeDatas.2.description>NAME นั้นจะสติแตกภายใต้ความกดดัน</Nerves.degreeDatas.2.description>
+  <Nerves.degreeDatas.2.description>[PAWN_nameDef] นั้นจะสติแตกภายใต้ความกดดัน</Nerves.degreeDatas.2.description>
   <Nerves.degreeDatas.3.label>ไม่คงที่</Nerves.degreeDatas.3.label>
-  <Nerves.degreeDatas.3.description>NAME นั้นพร้อมจะปะทุได้ทุกเวลา HECAP คือคนแรกที่จะสติแตกภายใต้สถานการณ์ยุ่งยากใดๆก็ตาม</Nerves.degreeDatas.3.description>
+  <Nerves.degreeDatas.3.description>[PAWN_nameDef] นั้นพร้อมจะปะทุได้ทุกเวลา [PAWN_pronoun] คือคนแรกที่จะสติแตกภายใต้สถานการณ์ยุ่งยากใดๆก็ตาม</Nerves.degreeDatas.3.description>
 
   <Neurotic.degreeDatas.0.label>ประสาท</Neurotic.degreeDatas.0.label>
-  <Neurotic.degreeDatas.0.description>NAME ชอบมีของต่างๆเตรียมพร้อมเอาไว้ HECAP จะทำงานหนักกว่าคนอื่นเพื่อให้ลุล่วงกิจอันนี้, แต่ประสาท HIS นั้นสามารถดึง HIM ให้ดีขึ้นได้อีก</Neurotic.degreeDatas.0.description>
+  <Neurotic.degreeDatas.0.description>[PAWN_nameDef] ชอบมีของต่างๆเตรียมพร้อมเอาไว้ [PAWN_pronoun] จะทำงานหนักกว่าคนอื่นเพื่อให้ลุล่วงกิจอันนี้, แต่ประสาท [PAWN_possessive] นั้นสามารถดึง [PAWN_objective] ให้ดีขึ้นได้อีก</Neurotic.degreeDatas.0.description>
   <Neurotic.degreeDatas.1.label>ประสาทมาก</Neurotic.degreeDatas.1.label>
-  <Neurotic.degreeDatas.1.description>NAME นั้นรู้สึกกังวลเกี่ยวกับทุกอย่าง ว่าจะต้องทำให้เสร็จ HECAP จะทำงานอย่างหนักมาก เพื่อให้บรรลุกิจอันนี้, แต่ประสาท HIS สามารถดึง HIM ให้ดีขึ้นอีกอย่างง่ายดาย</Neurotic.degreeDatas.1.description>
+  <Neurotic.degreeDatas.1.description>[PAWN_nameDef] นั้นรู้สึกกังวลเกี่ยวกับทุกอย่าง ว่าจะต้องทำให้เสร็จ [PAWN_pronoun] จะทำงานอย่างหนักมาก เพื่อให้บรรลุกิจอันนี้, แต่ประสาท [PAWN_possessive] สามารถดึง [PAWN_objective] ให้ดีขึ้นอีกอย่างง่ายดาย</Neurotic.degreeDatas.1.description>
 
   <Industriousness.degreeDatas.0.label>อุตสาหะ</Industriousness.degreeDatas.0.label>
-  <Industriousness.degreeDatas.0.description>NAME นั้นสามารถอยู่กับหน้าที่ และมีสมาธิได้อย่างง่ายๆ, และทำสิ่งต่างๆให้เสร็จได้เร็วกว่าคนธรรมดาทั่วไป</Industriousness.degreeDatas.0.description>
+  <Industriousness.degreeDatas.0.description>[PAWN_nameDef] นั้นสามารถอยู่กับหน้าที่ และมีสมาธิได้อย่างง่ายๆ, และทำสิ่งต่างๆให้เสร็จได้เร็วกว่าคนธรรมดาทั่วไป</Industriousness.degreeDatas.0.description>
   <Industriousness.degreeDatas.1.label>ทำงานหนัก</Industriousness.degreeDatas.1.label>
-  <Industriousness.degreeDatas.1.description>NAME นั้นทำงานหนักโดยธรรมชาติ และทำงานเสร็จไวกว่าคนส่วนใหญ่</Industriousness.degreeDatas.1.description>
+  <Industriousness.degreeDatas.1.description>[PAWN_nameDef] นั้นทำงานหนักโดยธรรมชาติ และทำงานเสร็จไวกว่าคนส่วนใหญ่</Industriousness.degreeDatas.1.description>
   <Industriousness.degreeDatas.2.label>ขี้เกียจ</Industriousness.degreeDatas.2.label>
-  <Industriousness.degreeDatas.2.description>NAME นั้นออกจะขี้เกียจนิดหน่อย</Industriousness.degreeDatas.2.description>
+  <Industriousness.degreeDatas.2.description>[PAWN_nameDef] นั้นออกจะขี้เกียจนิดหน่อย</Industriousness.degreeDatas.2.description>
   <Industriousness.degreeDatas.3.label>สันหลังยาว</Industriousness.degreeDatas.3.label>
-  <Industriousness.degreeDatas.3.description>NAME ชอบการว่างงานและเกลียดอะไรที่เป็นประโยชน์ HECAP เคลื่อนไหลอย่างเชื่องช้า และหายากที่จะมีสมาธิอยู่กับงาน</Industriousness.degreeDatas.3.description>
+  <Industriousness.degreeDatas.3.description>[PAWN_nameDef] ชอบการว่างงานและเกลียดอะไรที่เป็นประโยชน์ [PAWN_pronoun] เคลื่อนไหลอย่างเชื่องช้า และหายากที่จะมีสมาธิอยู่กับงาน</Industriousness.degreeDatas.3.description>
 
   <PsychicSensitivity.degreeDatas.0.label>อ่อนไหวมากต่อพลังจิต</PsychicSensitivity.degreeDatas.0.label>
-  <PsychicSensitivity.degreeDatas.0.description>จิตของ NAME นั้นเหมือนกับส้อมเสียงทางจิต HECAP อ่อนไหวมากต่อปรากฏการณ์ทางพลังจิต</PsychicSensitivity.degreeDatas.0.description>
+  <PsychicSensitivity.degreeDatas.0.description>จิตของ [PAWN_nameDef] นั้นเหมือนกับส้อมเสียงทางจิต [PAWN_pronoun] อ่อนไหวมากต่อปรากฏการณ์ทางพลังจิต</PsychicSensitivity.degreeDatas.0.description>
   <PsychicSensitivity.degreeDatas.1.label>ไวต่อพลังจิต</PsychicSensitivity.degreeDatas.1.label>
-  <PsychicSensitivity.degreeDatas.1.description>จิตของ NAME นั้นไวต่อปรากฏการณ์ทางพลังจิต</PsychicSensitivity.degreeDatas.1.description>
+  <PsychicSensitivity.degreeDatas.1.description>จิตของ [PAWN_nameDef] นั้นไวต่อปรากฏการณ์ทางพลังจิต</PsychicSensitivity.degreeDatas.1.description>
   <PsychicSensitivity.degreeDatas.2.label>ด้านต่อพลังจิต</PsychicSensitivity.degreeDatas.2.label>
-  <PsychicSensitivity.degreeDatas.2.description>จิตของ NAME นั้นไม่พ้องกันทางจิตกับคนอื่น HECAP ไม่ค่อยมีผลจากปรากฏการณ์ทางพลังจิต</PsychicSensitivity.degreeDatas.2.description>
+  <PsychicSensitivity.degreeDatas.2.description>จิตของ [PAWN_nameDef] นั้นไม่พ้องกันทางจิตกับคนอื่น [PAWN_pronoun] ไม่ค่อยมีผลจากปรากฏการณ์ทางพลังจิต</PsychicSensitivity.degreeDatas.2.description>
   <PsychicSensitivity.degreeDatas.3.label>หูหนวกทางจิต</PsychicSensitivity.degreeDatas.3.label>
-  <PsychicSensitivity.degreeDatas.3.description>จิตของ NAME นั้นทำงานในความถี่ทางจิตที่ต่างจากคนอื่นๆ HECAP ไม่มีผลใดๆจากปรากฏการณ์ทางพลังจิต</PsychicSensitivity.degreeDatas.3.description>
+  <PsychicSensitivity.degreeDatas.3.description>จิตของ [PAWN_nameDef] นั้นทำงานในความถี่ทางจิตที่ต่างจากคนอื่นๆ [PAWN_pronoun] ไม่มีผลใดๆจากปรากฏการณ์ทางพลังจิต</PsychicSensitivity.degreeDatas.3.description>
 
   <ShootingAccuracy.degreeDatas.0.label>ยิงอย่างละเมียด</ShootingAccuracy.degreeDatas.0.label>
-  <ShootingAccuracy.degreeDatas.0.description>NAME นั้นยิงได้อย่างดี, แต่ HE ต้องการเวลามากขึ้นเพื่อเพ่งสมาธิที่เป้าหมาย HIS</ShootingAccuracy.degreeDatas.0.description>
+  <ShootingAccuracy.degreeDatas.0.description>[PAWN_nameDef] นั้นยิงได้อย่างดี, แต่ [PAWN_pronoun] ต้องการเวลามากขึ้นเพื่อเพ่งสมาธิที่เป้าหมาย [PAWN_possessive]</ShootingAccuracy.degreeDatas.0.description>
   <ShootingAccuracy.degreeDatas.1.label>ยิงไปเรื่อย</ShootingAccuracy.degreeDatas.1.label>
-  <ShootingAccuracy.degreeDatas.1.description>ปิ้ว! ปั้ง! โป้ง! NAME นั้นยิงได้ห่วยมาก, แต่ HE ก็ไม่ได้ใส่ใจ, เพราะปืนมันเจ๋งจริงๆ!</ShootingAccuracy.degreeDatas.1.description>
+  <ShootingAccuracy.degreeDatas.1.description>ปิ้ว! ปั้ง! โป้ง! [PAWN_nameDef] นั้นยิงได้ห่วยมาก, แต่ [PAWN_pronoun] ก็ไม่ได้ใส่ใจ, เพราะปืนมันเจ๋งจริงๆ!</ShootingAccuracy.degreeDatas.1.description>
 
   <Beauty.degreeDatas.0.label>งดงาม</Beauty.degreeDatas.0.label>
-  <Beauty.degreeDatas.0.description>NAME นั้นงดงามอย่างเลิศล้ำ, ทำให้ทุกคนนั้นชอบ HE</Beauty.degreeDatas.0.description>
+  <Beauty.degreeDatas.0.description>[PAWN_nameDef] นั้นงดงามอย่างเลิศล้ำ, ทำให้ทุกคนนั้นชอบ [PAWN_pronoun]</Beauty.degreeDatas.0.description>
   <Beauty.degreeDatas.1.label>น่ารัก</Beauty.degreeDatas.1.label>
-  <Beauty.degreeDatas.1.description>NAME มีใบหน้าที่น่ารัก, ทำให้คนมีแรงจูงใจที่จะชอบ HIM.</Beauty.degreeDatas.1.description>
+  <Beauty.degreeDatas.1.description>[PAWN_nameDef] มีใบหน้าที่น่ารัก, ทำให้คนมีแรงจูงใจที่จะชอบ [PAWN_objective].</Beauty.degreeDatas.1.description>
   <Beauty.degreeDatas.2.label>น่าเกลียด</Beauty.degreeDatas.2.label>
-  <Beauty.degreeDatas.2.description>NAME นั้นน่าเกลียดที่สุด, ซึ่งทำให้ถูกผลักไล่ไสส่งในสังคม</Beauty.degreeDatas.2.description>
+  <Beauty.degreeDatas.2.description>[PAWN_nameDef] นั้นน่าเกลียดที่สุด, ซึ่งทำให้ถูกผลักไล่ไสส่งในสังคม</Beauty.degreeDatas.2.description>
   <Beauty.degreeDatas.3.label>หน้าตาน่าเกลียด</Beauty.degreeDatas.3.label>
-  <Beauty.degreeDatas.3.description>NAME เป็นที่น่ารังเกียจส่าย HISCAP ใบหน้าดูเหมือนจะเป็นรูปกางเขนระหว่างรูปวาดโดยเด็กที่ไม่มีมูลความอ่อนแอในครรภ์ในขวดฟอร์มาลดีไฮด์และชิ้นงานศิลปะสมัยใหม่ คนอื่น ๆ ต้องใช้ความใส่ใจในการมอง HIM ขณะพูดคุย</Beauty.degreeDatas.3.description>
+  <Beauty.degreeDatas.3.description>[PAWN_nameDef] เป็นที่น่ารังเกียจส่าย [PAWN_possessive] ใบหน้าดูเหมือนจะเป็นรูปกางเขนระหว่างรูปวาดโดยเด็กที่ไม่มีมูลความอ่อนแอในครรภ์ในขวดฟอร์มาลดีไฮด์และชิ้นงานศิลปะสมัยใหม่ คนอื่น ๆ ต้องใช้ความใส่ใจในการมอง [PAWN_objective] ขณะพูดคุย</Beauty.degreeDatas.3.description>
 	
 </LanguageData>
