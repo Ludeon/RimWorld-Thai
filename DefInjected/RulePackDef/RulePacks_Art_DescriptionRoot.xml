@@ -1,127 +1,133 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.0>art_description_root->[physical_description_root] [context_sentence]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.0>
-  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.1>circumstance_group->[circumstance_phrase]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.1>
-  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.2>desc_sentence_group->[desc_sentence] [style_group]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.2>
-  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>context_sentence->Diese [depiction] หมายถึง [tale_noun] ที่ [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>
-  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>context_sentence->Diese [depiction] รายงาน [tale_noun] ที่ [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>
-  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>context_sentence->Diese [depiction] บอกเล่าเรื่องราวของ [tale_noun] ที่ [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>
+	<ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
+		<li>art_description_root->[physical_description_root] [context_sentence]</li>
+		<li>circumstance_group->[circumstance_phrase]</li>
+		<li>desc_sentence_group->[desc_sentence] [style_group]</li>
+		<li>context_sentence->Diese [depiction] หมายถึง [tale_noun] ที่ [date].</li>
+		<li>context_sentence->Diese [depiction] รายงาน [tale_noun] ที่ [date].</li>
+		<li>context_sentence->Diese [depiction] บอกเล่าเรื่องราวของ [tale_noun] ที่ [date].</li>
+	</ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
 
-  <ArtDescriptionRoot_Taleless.rulePack.rulesStrings.0>art_description_root->[physical_description_root]</ArtDescriptionRoot_Taleless.rulePack.rulesStrings.0>
-  <ArtDescriptionRoot_Taleless.rulePack.rulesStrings.1>desc_sentence_group->[style_group]</ArtDescriptionRoot_Taleless.rulePack.rulesStrings.1>
+	<ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
+		<li>art_description_root->[physical_description_root]</li>
+		<li>desc_sentence_group->[style_group]</li>
+	</ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
 
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.0>style_group->[artextra_clause], ในการที่ [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.0>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.1>style_group->[artextra_clause], ในขณะที่ [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.1>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.2>style_group->[artextra_clause] แม้ว่า [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.2>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.3>style_group->[artextra_clause], ในขณะเดียวกัน [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.3>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.4>artextra_clause->จอแสดงผลถูกล้อมรอบด้วย [quantity_adjphrase] [animal]s</ArtDescriptionUtility_Global.rulePack.rulesStrings.4>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.5>artextra_clause->มี [community] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.5>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.6>artextra_clause->มี [terrainfeature] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.6>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.7>artextra_clause->มี [animal] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.7>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.8>artextra_clause->รูปแบบการเล่นมาก่อน [terrainfeature]</ArtDescriptionUtility_Global.rulePack.rulesStrings.8>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.9>artextra_clause->ที่เกิดเหตุที่เกิดขึ้นในช่วงกลางของการ [community]</ArtDescriptionUtility_Global.rulePack.rulesStrings.9>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.10>artextra_clause->ฉากที่ดูเหมือนว่าจะเล่นนอก [community]</ArtDescriptionUtility_Global.rulePack.rulesStrings.10>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.11>artextra_clause->ใบหน้ายิ้มของ [outlander] นาฬิกาเหนือทุก</ArtDescriptionUtility_Global.rulePack.rulesStrings.11>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.12>artextra_clause->ที่เกิดเหตุที่เกิดขึ้นใน [community] ใกล้ [terrainfeature]</ArtDescriptionUtility_Global.rulePack.rulesStrings.12>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.13>artextra_clause->ส่วนล่างของภาพจะถูกครอบงำโดย [terrainfeature]</ArtDescriptionUtility_Global.rulePack.rulesStrings.13>  <ArtDescriptionUtility_Global.rulePack.rulesStrings.14>artextra_clause->Das ganze Bild ist sorgfältig aus hunderten kleinen Figuren der Art [animal] zusammengestellt worden</ArtDescriptionUtility_Global.rulePack.rulesStrings.14>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.15>artextra_clause->a [outlander] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.15>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.16>artextra_clause->a [animal] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.16>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.17>artextra_clause->ตาย [animal] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.17>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.18>artextra_clause->นำเสนอส่วนบุคคลของ [concept] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.18>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.19>artextra_clause->a [animal] [side_position] ดูเหมือนว่า [concept] แสดงผล</ArtDescriptionUtility_Global.rulePack.rulesStrings.19>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.20>artextra_clause->บาง [quantity_adjphrase] [outlander] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.20>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.21>artextra_clause->Wenn du die Augen zusammenkneifst, sieht die [composition] เห็นตัวแทนจากเช่น [animal]</ArtDescriptionUtility_Global.rulePack.rulesStrings.21>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.22>style_clause->ภาพ [concept] ดูเหมือนจะแสดงอีเมล</ArtDescriptionUtility_Global.rulePack.rulesStrings.22>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.23>style_clause->งานนี้รวมถึงความคิดของ [concept] และใน [artstyle_adj]จะถูกสร้างขึ้น</ArtDescriptionUtility_Global.rulePack.rulesStrings.23>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.24>style_clause->งานที่แสดงให้เห็นแนวคิดของ [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.24>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.25>style_clause->ได้รับการทำงานในรูปแบบ [artstyle_adj]ที่สร้างขึ้น</ArtDescriptionUtility_Global.rulePack.rulesStrings.25>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.26>style_clause-> [artstyle_adj] ต้นกำเนิดของฉากกลางของ [artstyle_adj]ขัดแย้งกับการเป็นตัวแทนของพื้นหลัง</ArtDescriptionUtility_Global.rulePack.rulesStrings.26>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.27>style_clause->การทำงานของตัวเอง [artstyle_adj] รู้สึกและ [composition] มีโครงสร้าง</ArtDescriptionUtility_Global.rulePack.rulesStrings.27>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.28>style_clause->ชุดที่พบบ่อย [composition]</ArtDescriptionUtility_Global.rulePack.rulesStrings.28>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.29>style_clause->สไตล์ [artstyle_adj] กับ [artstyle_adj]มีองค์ประกอบ</ArtDescriptionUtility_Global.rulePack.rulesStrings.29>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.30>style_clause->เป็นตัวแทนของทั้งสอง [concept] รวมทั้ง [concept] ขาด</ArtDescriptionUtility_Global.rulePack.rulesStrings.30>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.31>style_clause->เป็นตัวแทนในการตระหนักถึงมันเศรษฐกิจอย่างใดทั้ง [concept]รวมทั้ง [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.31>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.32>style_clause->[composition]ดูเหมือนจะขัดแย้งระหว่างโครงสร้างสไตล์ภาพของที่เกือบ[artstyle_adj]</ArtDescriptionUtility_Global.rulePack.rulesStrings.32>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.33>style_clause->ภาพของ [color] และ [color]เสียงเป็นสีเทา</ArtDescriptionUtility_Global.rulePack.rulesStrings.33>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.34>style_clause->เกือบทุกรูปแบบของภาพนี้น่าจะเป็น [composition]</ArtDescriptionUtility_Global.rulePack.rulesStrings.34>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.35>depicts->schildert</ArtDescriptionUtility_Global.rulePack.rulesStrings.35>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.36>depicts->เหล่านี้</ArtDescriptionUtility_Global.rulePack.rulesStrings.36>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.37>depicts->เหล่านี้</ArtDescriptionUtility_Global.rulePack.rulesStrings.37>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.38>depicts->บอก</ArtDescriptionUtility_Global.rulePack.rulesStrings.38>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.39>depicts->แสดงให้เห็นถึงเรื่องราว</ArtDescriptionUtility_Global.rulePack.rulesStrings.39>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.40>depicts->คล้ายกับการเป็นตัวแทน</ArtDescriptionUtility_Global.rulePack.rulesStrings.40>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.41>depicts->มีรูปร่างเหมือนภาพ</ArtDescriptionUtility_Global.rulePack.rulesStrings.41>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.42>depiction->การแสดง</ArtDescriptionUtility_Global.rulePack.rulesStrings.42>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.43>depiction->การแสดง</ArtDescriptionUtility_Global.rulePack.rulesStrings.43>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.44>depiction->การวาดภาพ</ArtDescriptionUtility_Global.rulePack.rulesStrings.44>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.45>depiction->ภาพประกอบ</ArtDescriptionUtility_Global.rulePack.rulesStrings.45>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.46>depiction->ภาพประกอบ</ArtDescriptionUtility_Global.rulePack.rulesStrings.46>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.47>depiction->งานศิลปะ</ArtDescriptionUtility_Global.rulePack.rulesStrings.47>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.48>composition->เป็นรูปสามเหลี่ยม</ArtDescriptionUtility_Global.rulePack.rulesStrings.48>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.49>composition->เป็นมุมฉาก</ArtDescriptionUtility_Global.rulePack.rulesStrings.49>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.50>composition->สี่เหลี่ยม</ArtDescriptionUtility_Global.rulePack.rulesStrings.50>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.51>composition->ไม่สมดุลย์</ArtDescriptionUtility_Global.rulePack.rulesStrings.51>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.52>composition->สมดุลกัน</ArtDescriptionUtility_Global.rulePack.rulesStrings.52>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.53>composition->แบบไดนามิกมาก</ArtDescriptionUtility_Global.rulePack.rulesStrings.53>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.54>composition->คงมาก</ArtDescriptionUtility_Global.rulePack.rulesStrings.54>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.55>artstyle_adj->ไม่เป็นมูล</ArtDescriptionUtility_Global.rulePack.rulesStrings.55>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.56>artstyle_adj->เพียงแค่</ArtDescriptionUtility_Global.rulePack.rulesStrings.56>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.57>artstyle_adj->ที่ซับซ้อนและมีเหตุผล</ArtDescriptionUtility_Global.rulePack.rulesStrings.57>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.58>artstyle_adj->ไม่จริง</ArtDescriptionUtility_Global.rulePack.rulesStrings.58>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.59>artstyle_adj->คลาสสิก</ArtDescriptionUtility_Global.rulePack.rulesStrings.59>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.60>artstyle_adj->ทันสมัย</ArtDescriptionUtility_Global.rulePack.rulesStrings.60>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.61>artstyle_adj->เป็นสัญลักษณ์</ArtDescriptionUtility_Global.rulePack.rulesStrings.61>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.62>artstyle_adj->ไม่ชำนาญ</ArtDescriptionUtility_Global.rulePack.rulesStrings.62>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.63>artstyle_adj->รายละเอียด</ArtDescriptionUtility_Global.rulePack.rulesStrings.63>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.64>artstyle_adj->บล็อก</ArtDescriptionUtility_Global.rulePack.rulesStrings.64>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.65>artstyle_adj->würfelig</ArtDescriptionUtility_Global.rulePack.rulesStrings.65>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.66>artstyle_adj->แบบอิมเพรสชั่นนิส</ArtDescriptionUtility_Global.rulePack.rulesStrings.66>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.67>artstyle_adj->เพรส</ArtDescriptionUtility_Global.rulePack.rulesStrings.67>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.68>artstyle_adj->เหมือนถ่ายรูป</ArtDescriptionUtility_Global.rulePack.rulesStrings.68>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.69>artstyle_adj->barockisch</ArtDescriptionUtility_Global.rulePack.rulesStrings.69>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.70>artstyle_adj->เกี่ยวกับลัทธิดาดานิยม</ArtDescriptionUtility_Global.rulePack.rulesStrings.70>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.71>artstyle_adj->รำคาญ</ArtDescriptionUtility_Global.rulePack.rulesStrings.71>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.72>artstyle_adj->ตัวหนังสือ</ArtDescriptionUtility_Global.rulePack.rulesStrings.72>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.73>artstyle_adj->fauvistisch</ArtDescriptionUtility_Global.rulePack.rulesStrings.73>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.74>artstyle_adj->เป็นที่นิยม</ArtDescriptionUtility_Global.rulePack.rulesStrings.74>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.75>artstyle_adj->bildlich</ArtDescriptionUtility_Global.rulePack.rulesStrings.75>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.76>artstyle_adj->คดเคี้ยว</ArtDescriptionUtility_Global.rulePack.rulesStrings.76>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.77>artstyle_adj->ทางเรขาคณิต</ArtDescriptionUtility_Global.rulePack.rulesStrings.77>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.78>artstyle_adj->นามธรรม</ArtDescriptionUtility_Global.rulePack.rulesStrings.78>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.79>artstyle_adj->เหมือนจริง</ArtDescriptionUtility_Global.rulePack.rulesStrings.79>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.80>artstyle_adj->ปรากฏศิลปะ</ArtDescriptionUtility_Global.rulePack.rulesStrings.80>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.81>artstyle_adj->ที่เรียบง่าย</ArtDescriptionUtility_Global.rulePack.rulesStrings.81>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.82>artstyle_adj->นีโอคลาสสิ</ArtDescriptionUtility_Global.rulePack.rulesStrings.82>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.83>artstyle_adj->เป็นร่มเงา</ArtDescriptionUtility_Global.rulePack.rulesStrings.83>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.84>artstyle_adj->ผู้นับถือลัทธิโปสตอีมแพรฌะนิสม</ArtDescriptionUtility_Global.rulePack.rulesStrings.84>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.85>artstyle_adj->พิถีพิถัน</ArtDescriptionUtility_Global.rulePack.rulesStrings.85>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.86>artstyle_adj->rococoistisch</ArtDescriptionUtility_Global.rulePack.rulesStrings.86>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.87>artstyle_adj->แบบโรมัน</ArtDescriptionUtility_Global.rulePack.rulesStrings.87>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.88>artstyle_adj->โรแมนติก</ArtDescriptionUtility_Global.rulePack.rulesStrings.88>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.89>artstyle_adj->Graffiti ähnlich</ArtDescriptionUtility_Global.rulePack.rulesStrings.89>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.90>artstyle_adj->เกี่ยวกับกาม</ArtDescriptionUtility_Global.rulePack.rulesStrings.90>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.91>artstyle_adj->กระตุ้นความรู้สึก</ArtDescriptionUtility_Global.rulePack.rulesStrings.91>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.92>artstyle_adj->รุ่ม</ArtDescriptionUtility_Global.rulePack.rulesStrings.92>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.93>idle_verb_progressive->นั่ง</ArtDescriptionUtility_Global.rulePack.rulesStrings.93>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.94>idle_verb_progressive->ยืน</ArtDescriptionUtility_Global.rulePack.rulesStrings.94>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.95>idle_verb_progressive->รอคอย</ArtDescriptionUtility_Global.rulePack.rulesStrings.95>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.96>idle_verb_progressive->รอยยิ้ม</ArtDescriptionUtility_Global.rulePack.rulesStrings.96>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.97>idle_verb_progressive->เป็น</ArtDescriptionUtility_Global.rulePack.rulesStrings.97>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.98>idle_verb_progressive->การวางตัว</ArtDescriptionUtility_Global.rulePack.rulesStrings.98>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.99>idle_verb_progressive->ปรากฏ</ArtDescriptionUtility_Global.rulePack.rulesStrings.99>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.100>idle_verb_progressive->แสดงให้เห็นว่า</ArtDescriptionUtility_Global.rulePack.rulesStrings.100>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.101>idle_verb_progressive->ปรากฏ</ArtDescriptionUtility_Global.rulePack.rulesStrings.101>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.102>idle_verb_progressive->ภาพนิ่ง</ArtDescriptionUtility_Global.rulePack.rulesStrings.102>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.103>side_position->ออกเล็ก ๆ น้อย ๆ</ArtDescriptionUtility_Global.rulePack.rulesStrings.103>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.104>side_position->ใกล้ขอบของภาพ</ArtDescriptionUtility_Global.rulePack.rulesStrings.104>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.105>side_position->ในพื้นหลัง</ArtDescriptionUtility_Global.rulePack.rulesStrings.105>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.106>side_position->ในระยะไกล</ArtDescriptionUtility_Global.rulePack.rulesStrings.106>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.107>side_position->ในส่วนล่างของภาพ</ArtDescriptionUtility_Global.rulePack.rulesStrings.107>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.108>side_position->ในส่วนบนของภาพ</ArtDescriptionUtility_Global.rulePack.rulesStrings.108>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.109>side_position->ภายใต้แนวคิดหลัก</ArtDescriptionUtility_Global.rulePack.rulesStrings.109>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.110>side_position->ที่อยู่เบื้องหลังการศูนย์</ArtDescriptionUtility_Global.rulePack.rulesStrings.110>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.111>side_position->ในส่วนด้านซ้ายของภาพ</ArtDescriptionUtility_Global.rulePack.rulesStrings.111>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.112>side_position->ด้านขวาของหน้าจอหลัก</ArtDescriptionUtility_Global.rulePack.rulesStrings.112>
+	<ArtDescriptionUtility_Global.rulePack.rulesStrings>
+		<li>style_group->[artextra_clause], ในการที่ [style_clause].</li>
+		<li>style_group->[artextra_clause], ในขณะที่ [style_clause].</li>
+		<li>style_group->[artextra_clause] แม้ว่า [style_clause].</li>
+		<li>style_group->[artextra_clause], ในขณะเดียวกัน [style_clause].</li>
+		<li>artextra_clause->จอแสดงผลถูกล้อมรอบด้วย [quantity_adjphrase] [animal]s</li>
+		<li>artextra_clause->มี [community] [side_position]</li>
+		<li>artextra_clause->มี [terrainfeature] [side_position]</li>
+		<li>artextra_clause->มี [animal] [side_position]</li>
+		<li>artextra_clause->รูปแบบการเล่นมาก่อน [terrainfeature]</li>
+		<li>artextra_clause->ที่เกิดเหตุที่เกิดขึ้นในช่วงกลางของการ [community]</li>
+		<li>artextra_clause->ฉากที่ดูเหมือนว่าจะเล่นนอก [community]</li>
+		<li>artextra_clause->ใบหน้ายิ้มของ [outlander] นาฬิกาเหนือทุก</li>
+		<li>artextra_clause->ที่เกิดเหตุที่เกิดขึ้นใน [community] ใกล้ [terrainfeature]</li>
+		<li>artextra_clause->ส่วนล่างของภาพจะถูกครอบงำโดย [terrainfeature]</li>		<li>artextra_clause->Das ganze Bild ist sorgfältig aus hunderten kleinen Figuren der Art [animal] zusammengestellt worden</li>
+		<li>artextra_clause->a [outlander] [idle_verb_progressive] [side_position]</li>
+		<li>artextra_clause->a [animal] [idle_verb_progressive] [side_position]</li>
+		<li>artextra_clause->ตาย [animal] [idle_verb_progressive] [side_position]</li>
+		<li>artextra_clause->นำเสนอส่วนบุคคลของ [concept] [idle_verb_progressive] [side_position]</li>
+		<li>artextra_clause->a [animal] [side_position] ดูเหมือนว่า [concept] แสดงผล</li>
+		<li>artextra_clause->บาง [quantity_adjphrase] [outlander] [idle_verb_progressive] [side_position]</li>
+		<li>artextra_clause->Wenn du die Augen zusammenkneifst, sieht die [composition] เห็นตัวแทนจากเช่น [animal]</li>
+		<li>style_clause->ภาพ [concept] ดูเหมือนจะแสดงอีเมล</li>
+		<li>style_clause->งานนี้รวมถึงความคิดของ [concept] และใน [artstyle_adj]จะถูกสร้างขึ้น</li>
+		<li>style_clause->งานที่แสดงให้เห็นแนวคิดของ [concept]</li>
+		<li>style_clause->ได้รับการทำงานในรูปแบบ [artstyle_adj]ที่สร้างขึ้น</li>
+		<li>style_clause-> [artstyle_adj] ต้นกำเนิดของฉากกลางของ [artstyle_adj]ขัดแย้งกับการเป็นตัวแทนของพื้นหลัง</li>
+		<li>style_clause->การทำงานของตัวเอง [artstyle_adj] รู้สึกและ [composition] มีโครงสร้าง</li>
+		<li>style_clause->ชุดที่พบบ่อย [composition]</li>
+		<li>style_clause->สไตล์ [artstyle_adj] กับ [artstyle_adj]มีองค์ประกอบ</li>
+		<li>style_clause->เป็นตัวแทนของทั้งสอง [concept] รวมทั้ง [concept] ขาด</li>
+		<li>style_clause->เป็นตัวแทนในการตระหนักถึงมันเศรษฐกิจอย่างใดทั้ง [concept]รวมทั้ง [concept]</li>
+		<li>style_clause->[composition]ดูเหมือนจะขัดแย้งระหว่างโครงสร้างสไตล์ภาพของที่เกือบ[artstyle_adj]</li>
+		<li>style_clause->ภาพของ [color] และ [color]เสียงเป็นสีเทา</li>
+		<li>style_clause->เกือบทุกรูปแบบของภาพนี้น่าจะเป็น [composition]</li>
+		<li>depicts->schildert</li>
+		<li>depicts->เหล่านี้</li>
+		<li>depicts->เหล่านี้</li>
+		<li>depicts->บอก</li>
+		<li>depicts->แสดงให้เห็นถึงเรื่องราว</li>
+		<li>depicts->คล้ายกับการเป็นตัวแทน</li>
+		<li>depicts->มีรูปร่างเหมือนภาพ</li>
+		<li>depiction->การแสดง</li>
+		<li>depiction->การแสดง</li>
+		<li>depiction->การวาดภาพ</li>
+		<li>depiction->ภาพประกอบ</li>
+		<li>depiction->ภาพประกอบ</li>
+		<li>depiction->งานศิลปะ</li>
+		<li>composition->เป็นรูปสามเหลี่ยม</li>
+		<li>composition->เป็นมุมฉาก</li>
+		<li>composition->สี่เหลี่ยม</li>
+		<li>composition->ไม่สมดุลย์</li>
+		<li>composition->สมดุลกัน</li>
+		<li>composition->แบบไดนามิกมาก</li>
+		<li>composition->คงมาก</li>
+		<li>artstyle_adj->ไม่เป็นมูล</li>
+		<li>artstyle_adj->เพียงแค่</li>
+		<li>artstyle_adj->ที่ซับซ้อนและมีเหตุผล</li>
+		<li>artstyle_adj->ไม่จริง</li>
+		<li>artstyle_adj->คลาสสิก</li>
+		<li>artstyle_adj->ทันสมัย</li>
+		<li>artstyle_adj->เป็นสัญลักษณ์</li>
+		<li>artstyle_adj->ไม่ชำนาญ</li>
+		<li>artstyle_adj->รายละเอียด</li>
+		<li>artstyle_adj->บล็อก</li>
+		<li>artstyle_adj->würfelig</li>
+		<li>artstyle_adj->แบบอิมเพรสชั่นนิส</li>
+		<li>artstyle_adj->เพรส</li>
+		<li>artstyle_adj->เหมือนถ่ายรูป</li>
+		<li>artstyle_adj->barockisch</li>
+		<li>artstyle_adj->เกี่ยวกับลัทธิดาดานิยม</li>
+		<li>artstyle_adj->รำคาญ</li>
+		<li>artstyle_adj->ตัวหนังสือ</li>
+		<li>artstyle_adj->fauvistisch</li>
+		<li>artstyle_adj->เป็นที่นิยม</li>
+		<li>artstyle_adj->bildlich</li>
+		<li>artstyle_adj->คดเคี้ยว</li>
+		<li>artstyle_adj->ทางเรขาคณิต</li>
+		<li>artstyle_adj->นามธรรม</li>
+		<li>artstyle_adj->เหมือนจริง</li>
+		<li>artstyle_adj->ปรากฏศิลปะ</li>
+		<li>artstyle_adj->ที่เรียบง่าย</li>
+		<li>artstyle_adj->นีโอคลาสสิ</li>
+		<li>artstyle_adj->เป็นร่มเงา</li>
+		<li>artstyle_adj->ผู้นับถือลัทธิโปสตอีมแพรฌะนิสม</li>
+		<li>artstyle_adj->พิถีพิถัน</li>
+		<li>artstyle_adj->rococoistisch</li>
+		<li>artstyle_adj->แบบโรมัน</li>
+		<li>artstyle_adj->โรแมนติก</li>
+		<li>artstyle_adj->Graffiti ähnlich</li>
+		<li>artstyle_adj->เกี่ยวกับกาม</li>
+		<li>artstyle_adj->กระตุ้นความรู้สึก</li>
+		<li>artstyle_adj->รุ่ม</li>
+		<li>idle_verb_progressive->นั่ง</li>
+		<li>idle_verb_progressive->ยืน</li>
+		<li>idle_verb_progressive->รอคอย</li>
+		<li>idle_verb_progressive->รอยยิ้ม</li>
+		<li>idle_verb_progressive->เป็น</li>
+		<li>idle_verb_progressive->การวางตัว</li>
+		<li>idle_verb_progressive->ปรากฏ</li>
+		<li>idle_verb_progressive->แสดงให้เห็นว่า</li>
+		<li>idle_verb_progressive->ปรากฏ</li>
+		<li>idle_verb_progressive->ภาพนิ่ง</li>
+		<li>side_position->ออกเล็ก ๆ น้อย ๆ</li>
+		<li>side_position->ใกล้ขอบของภาพ</li>
+		<li>side_position->ในพื้นหลัง</li>
+		<li>side_position->ในระยะไกล</li>
+		<li>side_position->ในส่วนล่างของภาพ</li>
+		<li>side_position->ในส่วนบนของภาพ</li>
+		<li>side_position->ภายใต้แนวคิดหลัก</li>
+		<li>side_position->ที่อยู่เบื้องหลังการศูนย์</li>
+		<li>side_position->ในส่วนด้านซ้ายของภาพ</li>
+		<li>side_position->ด้านขวาของหน้าจอหลัก</li>
+	</ArtDescriptionUtility_Global.rulePack.rulesStrings>
 
 </LanguageData>

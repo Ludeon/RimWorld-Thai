@@ -1,19 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <GlobalUtility.rulePack.rulesStrings.0>quantity_adjphrase->กลุ่ม</GlobalUtility.rulePack.rulesStrings.0>
-  <GlobalUtility.rulePack.rulesStrings.1>quantity_adjphrase->บางส่วน</GlobalUtility.rulePack.rulesStrings.1>
-  <GlobalUtility.rulePack.rulesStrings.2>quantity_adjphrase->หลายสิบ</GlobalUtility.rulePack.rulesStrings.2>
-  <GlobalUtility.rulePack.rulesStrings.3>quantity_adjphrase->สอง</GlobalUtility.rulePack.rulesStrings.3>
-  <GlobalUtility.rulePack.rulesStrings.4>quantity_adjphrase->สาม</GlobalUtility.rulePack.rulesStrings.4>
-  <GlobalUtility.rulePack.rulesStrings.5>quantity_adjphrase->สี่</GlobalUtility.rulePack.rulesStrings.5>
-  <GlobalUtility.rulePack.rulesStrings.6>quantity_adjphrase->ห้า</GlobalUtility.rulePack.rulesStrings.6>
-  <GlobalUtility.rulePack.rulesStrings.7>quantity_adjphrase->หก</GlobalUtility.rulePack.rulesStrings.7>
-  <GlobalUtility.rulePack.rulesStrings.8>quantity_adjphrase->อนันต์</GlobalUtility.rulePack.rulesStrings.8>
-  <GlobalUtility.rulePack.rulesStrings.9>quantity_adjphrase->จำนวนมาก</GlobalUtility.rulePack.rulesStrings.9>
-  <GlobalUtility.rulePack.rulesStrings.10>trans->จาก</GlobalUtility.rulePack.rulesStrings.10>
-  <GlobalUtility.rulePack.rulesStrings.11>trans->สำหรับ</GlobalUtility.rulePack.rulesStrings.11>
-  <GlobalUtility.rulePack.rulesStrings.12>trans->ของ</GlobalUtility.rulePack.rulesStrings.12>
-  <GlobalUtility.rulePack.rulesStrings.13>trans->กับ</GlobalUtility.rulePack.rulesStrings.13>
+	<GlobalUtility.rulePack.rulesStrings>
+		<li>quantity_adjphrase->กลุ่ม</li>
+		<li>quantity_adjphrase->บางส่วน</li>
+		<li>quantity_adjphrase->หลายสิบ</li>
+		<li>quantity_adjphrase->สอง</li>
+		<li>quantity_adjphrase->สาม</li>
+		<li>quantity_adjphrase->สี่</li>
+		<li>quantity_adjphrase->ห้า</li>
+		<li>quantity_adjphrase->หก</li>
+		<li>quantity_adjphrase->อนันต์</li>
+		<li>quantity_adjphrase->จำนวนมาก</li>
+		<li>trans->จาก</li>
+		<li>trans->สำหรับ</li>
+		<li>trans->ของ</li>
+		<li>trans->กับ</li>
+	</GlobalUtility.rulePack.rulesStrings>
 
 </LanguageData>

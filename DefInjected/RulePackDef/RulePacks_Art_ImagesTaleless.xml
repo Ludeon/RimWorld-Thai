@@ -1,34 +1,36 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <TalelessImages.rulePack.rulesStrings.0>image->หนึ่ง [outlander] ของ [quantity_adjphrase] [outlander] ล้อมรอบ</TalelessImages.rulePack.rulesStrings.0>
-  <TalelessImages.rulePack.rulesStrings.1>image->หนึ่ง [outlander] กับเสียงส่วนใหญ่ของ [outlander]เกม [game] บทละคร</TalelessImages.rulePack.rulesStrings.1>
-  <TalelessImages.rulePack.rulesStrings.2>image->หนึ่ง [outlander] กับ [weapon] [subject_desc]</TalelessImages.rulePack.rulesStrings.2>
-  <TalelessImages.rulePack.rulesStrings.3>image->หนึ่ง einsamen [outlander]</TalelessImages.rulePack.rulesStrings.3>
-  <TalelessImages.rulePack.rulesStrings.4>image->หนึ่ง [adjective]en [outlander] กับ [apparel]</TalelessImages.rulePack.rulesStrings.4>
-  <TalelessImages.rulePack.rulesStrings.5>image->หนึ่ง [outlander] der [vegetable] isst</TalelessImages.rulePack.rulesStrings.5>
-  <TalelessImages.rulePack.rulesStrings.6>image->[quantity_adjphrase] [outlander] และ [outlander] ร่วมกันกิน [vegetable]</TalelessImages.rulePack.rulesStrings.6>
-  <TalelessImages.rulePack.rulesStrings.7>image->ที่ว่างเปล่า [apparel] [subject_desc]</TalelessImages.rulePack.rulesStrings.7>
-  <TalelessImages.rulePack.rulesStrings.8>image->หนึ่ง [adjective]en [terrainfeature]</TalelessImages.rulePack.rulesStrings.8>
-  <TalelessImages.rulePack.rulesStrings.9>image->[animal]s die [game] spielen</TalelessImages.rulePack.rulesStrings.9>
-  <TalelessImages.rulePack.rulesStrings.10>image->หนึ่ง [animal] กับ [apparel] [subject_desc]</TalelessImages.rulePack.rulesStrings.10>
-  <TalelessImages.rulePack.rulesStrings.11>image->หนึ่ง [terrainfeature]</TalelessImages.rulePack.rulesStrings.11>
-  <TalelessImages.rulePack.rulesStrings.12>image->ภาพนามธรรมของ [concept]</TalelessImages.rulePack.rulesStrings.12>
-  <TalelessImages.rulePack.rulesStrings.13>image->หนึ่ง [community]</TalelessImages.rulePack.rulesStrings.13>
-  <TalelessImages.rulePack.rulesStrings.14>image->หนึ่ง [weapon]</TalelessImages.rulePack.rulesStrings.14>
-  <TalelessImages.rulePack.rulesStrings.15>image->[quantity_adjphrase] [weapon]en</TalelessImages.rulePack.rulesStrings.15>
-  <TalelessImages.rulePack.rulesStrings.16>image->[quantity_adjphrase] [vegetable]n</TalelessImages.rulePack.rulesStrings.16>
-  <TalelessImages.rulePack.rulesStrings.17>image->ที่มีชื่อเสียงที่เล็ก ๆ น้อย ๆ [personname] [subject_desc]</TalelessImages.rulePack.rulesStrings.17>
-  <TalelessImages.rulePack.rulesStrings.18>image->หนึ่ง [animal] ใน [apparel] หนึ่ง [outlander]</TalelessImages.rulePack.rulesStrings.18>
-  <TalelessImages.rulePack.rulesStrings.19>subject_desc->บินอยู่ในอากาศ</TalelessImages.rulePack.rulesStrings.19>
-  <TalelessImages.rulePack.rulesStrings.20>subject_desc->ลอยอยู่ในอากาศ</TalelessImages.rulePack.rulesStrings.20>
-  <TalelessImages.rulePack.rulesStrings.21>subject_desc->ยืนอยู่บนพื้นดิน</TalelessImages.rulePack.rulesStrings.21>
-  <TalelessImages.rulePack.rulesStrings.22>subject_desc->จะไปทางซ้าย</TalelessImages.rulePack.rulesStrings.22>
-  <TalelessImages.rulePack.rulesStrings.23>subject_desc->จะไปทางขวา</TalelessImages.rulePack.rulesStrings.23>
-  <TalelessImages.rulePack.rulesStrings.24>subject_desc->นั่งอยู่บนโต๊ะ</TalelessImages.rulePack.rulesStrings.24>
-  <TalelessImages.rulePack.rulesStrings.25>subject_desc->ที่เห็นในภาพสะท้อนในกระจก</TalelessImages.rulePack.rulesStrings.25>
-  <TalelessImages.rulePack.rulesStrings.26>subject_desc->แสดงให้เห็นว่ารูปแบบ</TalelessImages.rulePack.rulesStrings.26>
-  <TalelessImages.rulePack.rulesStrings.27>subject_desc-> บน [animal] กับ [apparel] การขี่</TalelessImages.rulePack.rulesStrings.27>
-  <TalelessImages.rulePack.rulesStrings.28>subject_desc->[adjective] มอง</TalelessImages.rulePack.rulesStrings.28>
+	<TalelessImages.rulePack.rulesStrings>
+		<li>image->หนึ่ง [outlander] ของ [quantity_adjphrase] [outlander] ล้อมรอบ</li>
+		<li>image->หนึ่ง [outlander] กับเสียงส่วนใหญ่ของ [outlander]เกม [game] บทละคร</li>
+		<li>image->หนึ่ง [outlander] กับ [weapon] [subject_desc]</li>
+		<li>image->หนึ่ง einsamen [outlander]</li>
+		<li>image->หนึ่ง [adjective]en [outlander] กับ [apparel]</li>
+		<li>image->หนึ่ง [outlander] der [vegetable] isst</li>
+		<li>image->[quantity_adjphrase] [outlander] และ [outlander] ร่วมกันกิน [vegetable]</li>
+		<li>image->ที่ว่างเปล่า [apparel] [subject_desc]</li>
+		<li>image->หนึ่ง [adjective]en [terrainfeature]</li>
+		<li>image->[animal]s die [game] spielen</li>
+		<li>image->หนึ่ง [animal] กับ [apparel] [subject_desc]</li>
+		<li>image->หนึ่ง [terrainfeature]</li>
+		<li>image->ภาพนามธรรมของ [concept]</li>
+		<li>image->หนึ่ง [community]</li>
+		<li>image->หนึ่ง [weapon]</li>
+		<li>image->[quantity_adjphrase] [weapon]en</li>
+		<li>image->[quantity_adjphrase] [vegetable]n</li>
+		<li>image->ที่มีชื่อเสียงที่เล็ก ๆ น้อย ๆ [personname] [subject_desc]</li>
+		<li>image->หนึ่ง [animal] ใน [apparel] หนึ่ง [outlander]</li>
+		<li>subject_desc->บินอยู่ในอากาศ</li>
+		<li>subject_desc->ลอยอยู่ในอากาศ</li>
+		<li>subject_desc->ยืนอยู่บนพื้นดิน</li>
+		<li>subject_desc->จะไปทางซ้าย</li>
+		<li>subject_desc->จะไปทางขวา</li>
+		<li>subject_desc->นั่งอยู่บนโต๊ะ</li>
+		<li>subject_desc->ที่เห็นในภาพสะท้อนในกระจก</li>
+		<li>subject_desc->แสดงให้เห็นว่ารูปแบบ</li>
+		<li>subject_desc-> บน [animal] กับ [apparel] การขี่</li>
+		<li>subject_desc->[adjective] มอง</li>
+	</TalelessImages.rulePack.rulesStrings>
 
 </LanguageData>

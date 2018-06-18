@@ -2,15 +2,27 @@
 <LanguageData>
 
   <BuildRapport.label>คุยกับนักโทษ</BuildRapport.label>
-  <BuildRapport.logRulesInitiator.rulesStrings.0>logentry->พยายามเกลี้ยกล่อม [other_nameShortIndef] เกี่ยวกับความดีงามของอาณานิคมนี้</BuildRapport.logRulesInitiator.rulesStrings.0>
-  <BuildRapport.logRulesRecipient.rulesStrings.0>logentry->ฟัง [other_nameShortIndef] พูดเรื่องที่ว่าอาณานิคมนี้น่าอยู่แค่ไหน</BuildRapport.logRulesRecipient.rulesStrings.0>
+	<BuildRapport.logRulesInitiator.rulesStrings>
+		<li>logentry->พยายามเกลี้ยกล่อม [other_nameShortIndef] เกี่ยวกับความดีงามของอาณานิคมนี้</li>
+	</BuildRapport.logRulesInitiator.rulesStrings>
+	<BuildRapport.logRulesRecipient.rulesStrings>
+		<li>logentry->ฟัง [other_nameShortIndef] พูดเรื่องที่ว่าอาณานิคมนี้น่าอยู่แค่ไหน</li>
+	</BuildRapport.logRulesRecipient.rulesStrings>
 
   <RecruitAttempt.label>พยายามรับสมัคร</RecruitAttempt.label>
-  <RecruitAttempt.logRulesInitiator.rulesStrings.0>logentry->พยายามรับสมัคร [other_nameShortIndef]</RecruitAttempt.logRulesInitiator.rulesStrings.0>
-  <RecruitAttempt.logRulesRecipient.rulesStrings.0>logentry->ฟังการรับสมัครจาก [other_nameShortIndef]</RecruitAttempt.logRulesRecipient.rulesStrings.0>
+	<RecruitAttempt.logRulesInitiator.rulesStrings>
+		<li>logentry->พยายามรับสมัคร [other_nameShortIndef]</li>
+	</RecruitAttempt.logRulesInitiator.rulesStrings>
+	<RecruitAttempt.logRulesRecipient.rulesStrings>
+		<li>logentry->ฟังการรับสมัครจาก [other_nameShortIndef]</li>
+	</RecruitAttempt.logRulesRecipient.rulesStrings>
 
   <SparkJailbreak.label>จุดประกายให้นักโทษ</SparkJailbreak.label>
-  <SparkJailbreak.logRulesInitiator.rulesStrings.0>logentry->ชักนำ [other_nameShortIndef] ให้หลบหนี</SparkJailbreak.logRulesInitiator.rulesStrings.0>
-  <SparkJailbreak.logRulesRecipient.rulesStrings.0>logentry->ถูกชักชวนให้หลบหนีโดย [other_nameShortIndef]</SparkJailbreak.logRulesRecipient.rulesStrings.0>
+	<SparkJailbreak.logRulesInitiator.rulesStrings>
+		<li>logentry->ชักนำ [other_nameShortIndef] ให้หลบหนี</li>
+	</SparkJailbreak.logRulesInitiator.rulesStrings>
+	<SparkJailbreak.logRulesRecipient.rulesStrings>
+		<li>logentry->ถูกชักชวนให้หลบหนีโดย [other_nameShortIndef]</li>
+	</SparkJailbreak.logRulesRecipient.rulesStrings>
 
 </LanguageData>

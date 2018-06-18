@@ -2,19 +2,35 @@
 <LanguageData>
 
   <AnimalChat.label>คุยกับสัตว์</AnimalChat.label>
-  <AnimalChat.logRulesInitiator.rulesStrings.0>logentry->สื่อสารกันกับ [other_nameShortIndef], กำลังพยายามที่จะสร้างความเป็นมิตรด้วย</AnimalChat.logRulesInitiator.rulesStrings.0>
-  <AnimalChat.logRulesRecipient.rulesStrings.0>logentry->ตอบสนองกับการสื่อสารที่เป็นมิตรของ [other_nameShortIndef]</AnimalChat.logRulesRecipient.rulesStrings.0>
+	<AnimalChat.logRulesInitiator.rulesStrings>
+		<li>logentry->สื่อสารกันกับ [other_nameShortIndef], กำลังพยายามที่จะสร้างความเป็นมิตรด้วย</li>
+	</AnimalChat.logRulesInitiator.rulesStrings>
+	<AnimalChat.logRulesRecipient.rulesStrings>
+		<li>logentry->ตอบสนองกับการสื่อสารที่เป็นมิตรของ [other_nameShortIndef]</li>
+	</AnimalChat.logRulesRecipient.rulesStrings>
 
   <TrainAttempt.label>พยายามฝึกสัตว์</TrainAttempt.label>
-  <TrainAttempt.logRulesInitiator.rulesStrings.0>logentry->ฝึกแล้ว [other_nameShortIndef]</TrainAttempt.logRulesInitiator.rulesStrings.0>
-  <TrainAttempt.logRulesRecipient.rulesStrings.0>logentry->ถูกฝึกโดย [other_nameShortIndef]</TrainAttempt.logRulesRecipient.rulesStrings.0>
+	<TrainAttempt.logRulesInitiator.rulesStrings>
+		<li>logentry->ฝึกแล้ว [other_nameShortIndef]</li>
+	</TrainAttempt.logRulesInitiator.rulesStrings>
+	<TrainAttempt.logRulesRecipient.rulesStrings>
+		<li>logentry->ถูกฝึกโดย [other_nameShortIndef]</li>
+	</TrainAttempt.logRulesRecipient.rulesStrings>
 
   <TameAttempt.label>พยายามทำให้เชื่อง</TameAttempt.label>
-  <TameAttempt.logRulesInitiator.rulesStrings.0>logentry->พยายามทำให้ [other_nameShortIndef] เชื่อง</TameAttempt.logRulesInitiator.rulesStrings.0>
-  <TameAttempt.logRulesRecipient.rulesStrings.0>logentry->มองดู [other_nameShortIndef] พยายามทำให้ตัวมันเองเชื่อง</TameAttempt.logRulesRecipient.rulesStrings.0>
+	<TameAttempt.logRulesInitiator.rulesStrings>
+		<li>logentry->พยายามทำให้ [other_nameShortIndef] เชื่อง</li>
+	</TameAttempt.logRulesInitiator.rulesStrings>
+	<TameAttempt.logRulesRecipient.rulesStrings>
+		<li>logentry->มองดู [other_nameShortIndef] พยายามทำให้ตัวมันเองเชื่อง</li>
+	</TameAttempt.logRulesRecipient.rulesStrings>
 
   <Nuzzle.label>อ้อน</Nuzzle.label>
-  <Nuzzle.logRulesInitiator.rulesStrings.0>logentry->อ้อน [other_nameShortIndef].</Nuzzle.logRulesInitiator.rulesStrings.0>
-  <Nuzzle.logRulesRecipient.rulesStrings.0>logentry->ถูกอ้อนโดย [other_nameShortIndef]</Nuzzle.logRulesRecipient.rulesStrings.0>
+	<Nuzzle.logRulesInitiator.rulesStrings>
+		<li>logentry->อ้อน [other_nameShortIndef].</li>
+	</Nuzzle.logRulesInitiator.rulesStrings>
+	<Nuzzle.logRulesRecipient.rulesStrings>
+		<li>logentry->ถูกอ้อนโดย [other_nameShortIndef]</li>
+	</Nuzzle.logRulesRecipient.rulesStrings>
   
 </LanguageData>
