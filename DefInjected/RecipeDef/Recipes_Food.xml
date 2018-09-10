@@ -1,17 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MakeKibble.label>ทำ อาหารสัตว์</MakeKibble.label>
-  <MakeKibble.description>ทำอาหารเม็ดไว้ให้สัตว์เลี้ยงโดยผสมเนื้อดิบเข้ากับพืช</MakeKibble.description>
-  <MakeKibble.jobString>กำลังทำอาหารสัตว์</MakeKibble.jobString>
-
-  <MakePemmican.label>ทำ อาหารแห้ง</MakePemmican.label>
-  <MakePemmican.description>Produziert Dörrfleisch, eine konservierte Kombination aus Fleisch- und Pflanzennahrung. Es schmeckt nicht herrausragend, aber hält ungekühlt ein ganzes Jahr..</MakePemmican.description>
-  <MakePemmican.jobString>กำลังทำอาหารแห้ง</MakePemmican.jobString>
-
-  <MakePemmicanCampfire.label>ทำ อาหารแห้ง</MakePemmicanCampfire.label>
-  <MakePemmicanCampfire.description>Produziert Dörrfleisch, eine konservierte Kombination aus Fleisch- und Pflanzennahrung. Es schmeckt nicht herrausragend, aber hält ungekühlt ein ganzes Jahr..</MakePemmicanCampfire.description>
-  <MakePemmicanCampfire.jobString>กำลังทำอาหารแห้ง</MakePemmicanCampfire.jobString>
   
-
+  <!-- EN: make kibble -->
+  <Make_Kibble.label>ทำ อาหารสัตว์</Make_Kibble.label>
+  <!-- EN: Make animal kibble by combining raw meat and plants. -->
+  <Make_Kibble.description>ทำอาหารเม็ดไว้ให้สัตว์เลี้ยงโดยผสมเนื้อดิบเข้ากับพืช</Make_Kibble.description>
+  <!-- EN: Making kibble. -->
+  <Make_Kibble.jobString>กำลังทำอาหารสัตว์</Make_Kibble.jobString>
+  
+  <!-- EN: make pemmican -->
+  <Make_Pemmican.label>ทำ อาหารแห้ง</Make_Pemmican.label>
+  <!-- EN: Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
+  <Make_Pemmican.description>Produziert Dörrfleisch, eine konservierte Kombination aus Fleisch- und Pflanzennahrung. Es schmeckt nicht herrausragend, aber hält ungekühlt ein ganzes Jahr..</Make_Pemmican.description>
+  <!-- EN: Making pemmican. -->
+  <Make_Pemmican.jobString>กำลังทำอาหารแห้ง</Make_Pemmican.jobString>
+  
+  <!-- UNUSED -->
+  <Make_PemmicanCampfire.label>ทำ อาหารแห้ง</Make_PemmicanCampfire.label>
+  <Make_PemmicanCampfire.description>Produziert Dörrfleisch, eine konservierte Kombination aus Fleisch- und Pflanzennahrung. Es schmeckt nicht herrausragend, aber hält ungekühlt ein ganzes Jahr..</Make_PemmicanCampfire.description>
+  <Make_PemmicanCampfire.jobString>กำลังทำอาหารแห้ง</Make_PemmicanCampfire.jobString>
+  
 </LanguageData>

@@ -1,22 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: builder -->
+  <Easy.label>นักสร้างฐาน (Easy)</Easy.label>
+  <!-- EN: Build a colony, while still having a taste of danger.\n\nRecommended for: Players who are new to this kind of game, and players who want to build a perfect colony.\n\nMajor threats appear, but they're weaker than other modes. Some extremely dangerous events are disabled. -->
+  <Easy.description>เป็นเกมที่มีสไตล์การเล่นที่เน้นไปที่การสร้างฐาน ภยันตรายจะลดขนาดลงนิดนึง</Easy.description>
+  
+  <!-- EN: merciless -->
+  <Extreme.label>TODO</Extreme.label>
+  <!-- EN: Apply mastery of every RimWorld skill for just a chance to survive a harrowing trial against a merciless, unfair world.\n\nRecommended for: Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n\nThis level is about dealing with losses, because preventing them is impossible. You'll spend a lot of time fighting wounded and recovering, and you'll need to sacrifice people and things you love. Unfair challenges and capricious death may come at any time. -->
+  <Extreme.description>TODO</Extreme.description>
+  
+  <!-- EN: savage -->
+  <Hard.label>ท้าทาย (Hard)</Hard.label>
+  <!-- EN: Face brutal survival challenges. The price of survival is blood.\n\nRecommended for: Experienced players who want to experience great tests and sacrifice.\n\nSucceeding at this level requires diverse strategies, and disciplined preparation, and luck. Threats can spike and combine in vicious ways. Even if you play well, some challenges will be impossible to overcome without losses. -->
+  <Hard.description>มันเป็นเกมที่ท้าทาย ระดับนี้ต้องอาศัยกลยุทธ ยุทธวิธี และโชคช่วยในการเอาตัวรอด ซึ่งเป็นทางที่ควรค่าแก่การเล่น Rimworld อย่างแท้จริง</Hard.description>
+  
+  <!-- EN: medium -->
+  <Medium.label>ลำบาก (Medium)</Medium.label>
+  <!-- EN: Build a community while facing down dangerous threats.\n\nRecommended for: Experienced strategy game players on their first game of RimWorld, or skilled RimWorld players who want some breathing room to pursue funny or weird goals.\n\nThere's room to grow and thrive, but it's still a dangerous planet. -->
+  <Medium.description>มันเป็นดาวที่ยากลำบาก ภยันตรายต่างๆอาจจะค่อนข้างอันตราย และก็ไม่มีโบนัสสำหรับอารมณ์ของชาวอาณานิคมหรือผลผลิตทางการเกษตร</Medium.description>
+  
+  <!-- EN: peaceful -->
   <Peaceful.label>เงียบสงบ (Peaceful)</Peaceful.label>
+  <!-- EN: Build a community in sandbox environment.\n\nRecommendeed for: Players who want to focus on the community-building aspects of RimWorld.\n\nThis mode disables major threatening events, but challenges like disease, mental breaks, and mad animals still occur. -->
   <Peaceful.description>สำหรับผู้ที่ต้องการพักผ่อนและสร้างอาณานิคมในสภาพแวดล้อมแบบ Sandbox\n\nเหตุการณ์ที่คุกคามที่สำคัญ ๆ ถูกปิดใช้งาน แต่อาณานิคมยังคงไม่สบายใจและสัตว์ก็ยังคงคลั่งไคล้ได้ตลอดเวลา</Peaceful.description>
-
+  
+  <!-- EN: rough -->
+  <Rough.label>TODO</Rough.label>
+  <!-- EN: Strive to survive on a rough, tough planet.\n\nRecommended for: Players with experience with RimWorld, looking to play a rough story requiring skill to survive.\n\nThere will be good times and bad times; triumph and tragedy. It's all for the drama. -->
+  <Rough.description>TODO</Rough.description>
+  
+  <!-- UNUSED -->
   <VeryEasy.label>เล่นอิสระ (VeryEasy)</VeryEasy.label>
   <VeryEasy.description>เป็นเกมที่มีสไตล์การเล่นที่เน้นไปยังการสร้างอาณานิคม ภายในสภาพแวดล้อมที่เหมือนกระบะทราย ภยันตรายยังคงมีอยู่ แต่จะอ่อนมาก</VeryEasy.description>
-
-  <Easy.label>นักสร้างฐาน (Easy)</Easy.label>
-  <Easy.description>เป็นเกมที่มีสไตล์การเล่นที่เน้นไปที่การสร้างฐาน ภยันตรายจะลดขนาดลงนิดนึง</Easy.description>
-
-  <Medium.label>ลำบาก (Medium)</Medium.label>
-  <Medium.description>มันเป็นดาวที่ยากลำบาก ภยันตรายต่างๆอาจจะค่อนข้างอันตราย และก็ไม่มีโบนัสสำหรับอารมณ์ของชาวอาณานิคมหรือผลผลิตทางการเกษตร</Medium.description>
-
-  <Hard.label>ท้าทาย (Hard)</Hard.label>
-  <Hard.description>มันเป็นเกมที่ท้าทาย ระดับนี้ต้องอาศัยกลยุทธ ยุทธวิธี และโชคช่วยในการเอาตัวรอด ซึ่งเป็นทางที่ควรค่าแก่การเล่น Rimworld อย่างแท้จริง</Hard.description>
-
+  
+  <!-- UNUSED -->
   <VeryHard.label>สุดโต่ง (VeryHard)</VeryHard.label>
   <VeryHard.description>แข็งแกร่งกว่ามีดใบเพชรซะอีก ศัตรูนั้นแข็งแกร่ง ราคาสินค้าต่างๆจะย่ำแย่ อาหารจะขาดแคลน และชาวอาณานิคมจะอารมณ์บูด สำหรับคนที่สนุกกับการทรมานตนแบบดิจิตัล</VeryHard.description>
-
+  
 </LanguageData>

@@ -1,21 +1,37 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: none -->
   <WorkTagNone>ไม่มี</WorkTagNone>
+  <!-- EN: intellectual -->
   <WorkTagIntellectual>ความคิด</WorkTagIntellectual>
+  <!-- EN: dumb labor -->
   <WorkTagManualDumb>กรรมกร</WorkTagManualDumb>
+  <!-- EN: skilled labor -->
   <WorkTagManualSkilled>แรงงานทักษะ</WorkTagManualSkilled>
+  <!-- EN: violent -->
   <WorkTagViolent>ความรุนแรง</WorkTagViolent>
+  <!-- EN: caring -->
   <WorkTagCaring>ดูแล</WorkTagCaring>
+  <!-- EN: social -->
   <WorkTagSocial>สังคม</WorkTagSocial>
+  <!-- EN: animals -->
   <WorkTagAnimals>เกี่ยวกับสัตว์</WorkTagAnimals>
+  <!-- EN: artistic -->
   <WorkTagArtistic>ศิลปะ</WorkTagArtistic>
+  <!-- EN: crafting -->
   <WorkTagCrafting>งานฝีมือ</WorkTagCrafting>
+  <!-- EN: cooking -->
   <WorkTagCooking>ทำอาหาร</WorkTagCooking>
+  <!-- EN: firefighting -->
   <WorkTagFirefighting>ดับเพลิง</WorkTagFirefighting>
+  <!-- EN: cleaning -->
   <WorkTagCleaning>ทำความสะอาด</WorkTagCleaning>
+  <!-- EN: hauling -->
   <WorkTagHauling>ขนของ</WorkTagHauling>
+  <!-- EN: plant work -->
   <WorkTagPlantWork>เพาะปลูก</WorkTagPlantWork>
+  <!-- EN: mining -->
   <WorkTagMining>เหมืองแร่</WorkTagMining>
 
 </LanguageData>

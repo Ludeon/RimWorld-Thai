@@ -1,50 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <SolarFlare.label>เปลวสุริยะ</SolarFlare.label>
-  <SolarFlare.description>เปลวไฟจากดวงอาทิตย์จะกระทบกับดาวเคราะห์ ทำให้เกิดการรบกวนทางไฟฟ้ามากและทำให้อุปกรณ์ไฟฟ้าส่วนใหญ่ทำงานได้</SolarFlare.description>
-  <SolarFlare.endMessage>เปลวไฟจากแสงอาทิตย์กำลังจะสิ้นสุดลง</SolarFlare.endMessage>
-
-  <Eclipse.label>สุริยุปราคา</Eclipse.label>
-  <Eclipse.description>เงาพระจันทร์มาปิดบังพื้นผิวโลก มันจะยังคงมืดแม้ในระหว่างวัน</Eclipse.description>
-  <Eclipse.endMessage>สุริยุปราคากำลังจะสิ้นสุดลง</Eclipse.endMessage>
-
-  <PsychicDrone.label>โดรนหุ่นพลังจิต</PsychicDrone.label>
-  <PsychicDrone.description>ปัญญาประดิษฐ์ที่ห่างไกลส่งเสียงคลื่นพลังจิต ครวญเพลงนี้ได้รับผลกระทบในระยะยาวสภาพจิตใจของชาวอาณานิคมและสามารถนำไปสู่ประสาทเสีย</PsychicDrone.description>
-  <PsychicDrone.endMessage>เสียงพึมพำพลังจิตกำลังจะสิ้นสุดลง</PsychicDrone.endMessage>
-
-  <PsychicSoothe.label>จิตใจปลอบประโลม</PsychicSoothe.label>
-  <PsychicSoothe.description>ที่ห่างไกล, AI มีประสิทธิภาพเป็นที่เปล่งคลื่นของแรงพลังจิตไม่ได้รับการพักผ่อนอย่างสงบกับผู้คนและการรักษาเสถียรภาพจิตใจของพวกเขา</PsychicSoothe.description>
-  <PsychicSoothe.endMessage>จิตใจปลอบประโลมกำลังจะสิ้นสุดลง</PsychicSoothe.endMessage>
-
-  <ToxicFallout.label>สารเคมีโปรยตัว</ToxicFallout.label>
-  <ToxicFallout.description>เมฆที่เป็นพิษอยู่ทั้งภูมิภาคของดาวเคราะห์ ทุกคนที่ไม่ได้อยู่ภายใต้หลังคาต้องระวังสายเคมีที่เป็นพิษ</ToxicFallout.description>
-  <ToxicFallout.endMessage>สารเคมีโปรยตัวกำลังจะสิ้นสุดลง</ToxicFallout.endMessage>
-
-  <VolcanicWinter.label>หน้าหนาวภูเขาไฟ</VolcanicWinter.label>
-  <VolcanicWinter.description>บรรยากาศถูกสำลักด้วยอนุภาคของภูเขาไฟซึ่งจะช่วยลดปริมาณแสงที่เข้าสู่ผิวได้อย่างมาก อุณหภูมิจะลดลงและพืชจะโตช้าลง</VolcanicWinter.description>
-  <VolcanicWinter.endMessage>หน้าหนาวภูเขาไฟกำลังจะสิ้นสุดลง</VolcanicWinter.endMessage>
-
-  <HeatWave.label>คลื่นความร้อน</HeatWave.label>
-  <HeatWave.description>คลื่นความร้อนสูงทั้งภูมิภาค อาณานิคมควรจะอยู่ในสถานที่เย็น</HeatWave.description>
-  <HeatWave.endMessage>คลื่นความร้อนกำลังจะสิ้นสุดลง</HeatWave.endMessage>
-
-  <ColdSnap.label>อากาศหนาวฉับพลัน</ColdSnap.label>
-  <ColdSnap.description>อากาศหนาวฉับพลันทั้งภูมิภาค อาณานิคมไม่ควรจะอยู่ที่อากาศเย็นนานเกินไป</ColdSnap.description>
-  <ColdSnap.endMessage>อากาศหนาวฉับพลันกำลังจะสิ้นสุดลง</ColdSnap.endMessage>
-
-  <Flashstorm.label>พายุเมฆฟ้าคะนอง</Flashstorm.label>
-  <Flashstorm.description>ฟ้าผ่าจำนวนมากจะลงพื้นที่เล็ก ๆ</Flashstorm.description>
-  <Flashstorm.endMessage>พายุเมฆฟ้าคะนองกำลังจะสิ้นสุดลง</Flashstorm.endMessage>
-
+  
+  <!-- EN: aurora -->
+  <Aurora.label>แสงออโรรา</Aurora.label>
+  <!-- EN: An aurora is lighting up the sky. The breathtaking display will boost the mood of anyone outside to see it. -->
+  <Aurora.description>แสงทางตอนเหนือที่ส่องลงมาบนท้องฟ้า สีสันที่ร่าเริงจะช่วยเพิ่มอารมณ์ให้กับผู้ที่อยู่กลางแจ้งและสามารถมองเห็นได้</Aurora.description>
+  <!-- EN: The aurora is ending. -->
+  <Aurora.endMessage>แสงออโรราหมดลง</Aurora.endMessage>
+  
+  <!-- EN: climate cycle -->
   <ClimateCycle.label>สภาพอากาศแปรปรวน</ClimateCycle.label>
+  <!-- EN: A multi-year climate cycle due to an elliptical orbit. -->
   <ClimateCycle.description>สภาพภูมิอากาศรอบหลายปีเนื่องจากในวงโคจรเป็นรูปวงรี</ClimateCycle.description>
-
+  
+  <!-- EN: cold snap -->
+  <ColdSnap.label>อากาศหนาวฉับพลัน</ColdSnap.label>
+  <!-- EN: An unusual cold snap is freezing the region. -->
+  <ColdSnap.description>อากาศหนาวฉับพลันทั้งภูมิภาค อาณานิคมไม่ควรจะอยู่ที่อากาศเย็นนานเกินไป</ColdSnap.description>
+  <!-- EN: The cold snap is over. -->
+  <ColdSnap.endMessage>อากาศหนาวฉับพลันกำลังจะสิ้นสุดลง</ColdSnap.endMessage>
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>สุริยุปราคา</Eclipse.label>
+  <!-- EN: An eclipse is shadowing the surface. It will be dark, even during the daytime. -->
+  <Eclipse.description>เงาพระจันทร์มาปิดบังพื้นผิวโลก มันจะยังคงมืดแม้ในระหว่างวัน</Eclipse.description>
+  <!-- EN: The eclipse is ending. -->
+  <Eclipse.endMessage>สุริยุปราคากำลังจะสิ้นสุดลง</Eclipse.endMessage>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>พายุเมฆฟ้าคะนอง</Flashstorm.label>
+  <!-- EN: A freak localized storm is blasting a small area with repeated lightning strikes. -->
+  <Flashstorm.description>ฟ้าผ่าจำนวนมากจะลงพื้นที่เล็ก ๆ</Flashstorm.description>
+  <!-- EN: The flashstorm is over. -->
+  <Flashstorm.endMessage>พายุเมฆฟ้าคะนองกำลังจะสิ้นสุดลง</Flashstorm.endMessage>
+  
+  <!-- EN: heat wave -->
+  <HeatWave.label>คลื่นความร้อน</HeatWave.label>
+  <!-- EN: An extreme wave of heat is baking the area. -->
+  <HeatWave.description>คลื่นความร้อนสูงทั้งภูมิภาค อาณานิคมควรจะอยู่ในสถานที่เย็น</HeatWave.description>
+  <!-- EN: The heat wave is over. -->
+  <HeatWave.endMessage>คลื่นความร้อนกำลังจะสิ้นสุดลง</HeatWave.endMessage>
+  
+  <!-- EN: planetkiller -->
   <Planetkiller.label>Planetkiller</Planetkiller.label>
+  <!-- EN: An interstellar planetkiller weapon is approaching this planet. It will smash the planet apart like a rifle bullet hitting an egg, annihilating all life. -->
   <Planetkiller.description>เป็นอาวุธที่ฆาตกรดาวเคราะห์ดวงดาวอยู่ใกล้โลกใบนี้ เมื่อมันกระทบมันจะทำลายทุกชีวิต</Planetkiller.description>
   
-  <Aurora.label>แสงออโรรา</Aurora.label>
-  <Aurora.description>แสงทางตอนเหนือที่ส่องลงมาบนท้องฟ้า สีสันที่ร่าเริงจะช่วยเพิ่มอารมณ์ให้กับผู้ที่อยู่กลางแจ้งและสามารถมองเห็นได้</Aurora.description>
-  <Aurora.endMessage>แสงออโรราหมดลง</Aurora.endMessage>
-
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>โดรนหุ่นพลังจิต</PsychicDrone.label>
+  <!-- EN: A distant, powerful AI is emitting waves of psychic force that are driving people towards insanity. -->
+  <PsychicDrone.description>ปัญญาประดิษฐ์ที่ห่างไกลส่งเสียงคลื่นพลังจิต ครวญเพลงนี้ได้รับผลกระทบในระยะยาวสภาพจิตใจของชาวอาณานิคมและสามารถนำไปสู่ประสาทเสีย</PsychicDrone.description>
+  <!-- EN: The psychic drone is ending. -->
+  <PsychicDrone.endMessage>เสียงพึมพำพลังจิตกำลังจะสิ้นสุดลง</PsychicDrone.endMessage>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>จิตใจปลอบประโลม</PsychicSoothe.label>
+  <!-- EN: A distant, powerful AI is emitting waves of psychic force that are calming people and stabilizing their minds. -->
+  <PsychicSoothe.description>ที่ห่างไกล, AI มีประสิทธิภาพเป็นที่เปล่งคลื่นของแรงพลังจิตไม่ได้รับการพักผ่อนอย่างสงบกับผู้คนและการรักษาเสถียรภาพจิตใจของพวกเขา</PsychicSoothe.description>
+  <!-- EN: The psychic soothe is ending. -->
+  <PsychicSoothe.endMessage>จิตใจปลอบประโลมกำลังจะสิ้นสุดลง</PsychicSoothe.endMessage>
+  
+  <!-- EN: solar flare -->
+  <SolarFlare.label>เปลวสุริยะ</SolarFlare.label>
+  <!-- EN: A solar flare is blasting the planet. The electromagnetic interference prevents most electrical devices from working. -->
+  <SolarFlare.description>เปลวไฟจากดวงอาทิตย์จะกระทบกับดาวเคราะห์ ทำให้เกิดการรบกวนทางไฟฟ้ามากและทำให้อุปกรณ์ไฟฟ้าส่วนใหญ่ทำงานได้</SolarFlare.description>
+  <!-- EN: The solar flare is ending. -->
+  <SolarFlare.endMessage>เปลวไฟจากแสงอาทิตย์กำลังจะสิ้นสุดลง</SolarFlare.endMessage>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>สารเคมีโปรยตัว</ToxicFallout.label>
+  <!-- EN: A plume of toxic dust from some distant source is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
+  <ToxicFallout.description>เมฆที่เป็นพิษอยู่ทั้งภูมิภาคของดาวเคราะห์ ทุกคนที่ไม่ได้อยู่ภายใต้หลังคาต้องระวังสายเคมีที่เป็นพิษ</ToxicFallout.description>
+  <!-- EN: The worst of the toxic fallout has settled. -->
+  <ToxicFallout.endMessage>สารเคมีโปรยตัวกำลังจะสิ้นสุดลง</ToxicFallout.endMessage>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>หน้าหนาวภูเขาไฟ</VolcanicWinter.label>
+  <!-- EN: A distant volcano has choked the atmosphere with volcanic particles, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower. -->
+  <VolcanicWinter.description>บรรยากาศถูกสำลักด้วยอนุภาคของภูเขาไฟซึ่งจะช่วยลดปริมาณแสงที่เข้าสู่ผิวได้อย่างมาก อุณหภูมิจะลดลงและพืชจะโตช้าลง</VolcanicWinter.description>
+  <!-- EN: Most of the volcanic ash has settled. -->
+  <VolcanicWinter.endMessage>หน้าหนาวภูเขาไฟกำลังจะสิ้นสุดลง</VolcanicWinter.endMessage>
+  
 </LanguageData>

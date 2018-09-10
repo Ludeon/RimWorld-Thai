@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: luciferium need -->
+  <LuciferiumAddiction.label>ติด Luciferium</LuciferiumAddiction.label>
+  <LuciferiumAddiction.stages.0.label>ลงแดง</LuciferiumAddiction.stages.0.label>
+  <!-- EN: unmet -->
+  <LuciferiumAddiction.stages.unmet.label>TODO</LuciferiumAddiction.stages.unmet.label>
+  
+  <!-- EN: luciferium -->
+  <LuciferiumHigh.label>เมา Luciferium</LuciferiumHigh.label>
+  
+</LanguageData>

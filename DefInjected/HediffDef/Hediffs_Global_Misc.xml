@@ -1,56 +1,101 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <BloodLoss.label>เสียเลือด</BloodLoss.label>
-  <BloodLoss.stages.0.label>นิดหน่อย</BloodLoss.stages.0.label>
-  <BloodLoss.stages.1.label>ขั้นต้น</BloodLoss.stages.1.label>
-  <BloodLoss.stages.2.label>ปานกลาง</BloodLoss.stages.2.label>
-  <BloodLoss.stages.3.label>สาหัส</BloodLoss.stages.3.label>
-  <BloodLoss.stages.4.label>อันตราย</BloodLoss.stages.4.label>
-
+  
+  <!-- EN: anesthetic -->
   <Anesthetic.label>ยาสลบ</Anesthetic.label>
-
-  <CryptosleepSickness.label>นอนแช่แข็งเป็นเวลานาน</CryptosleepSickness.label>
-	
+  
+  <!-- EN: blood loss -->
+  <BloodLoss.label>เสียเลือด</BloodLoss.label>
+  <!-- EN: minor -->
+  <BloodLoss.stages.minor-0.label>นิดหน่อย</BloodLoss.stages.minor-0.label>
+  <!-- EN: minor -->
+  <BloodLoss.stages.minor-1.label>ขั้นต้น</BloodLoss.stages.minor-1.label>
+  <!-- EN: moderate -->
+  <BloodLoss.stages.moderate.label>ปานกลาง</BloodLoss.stages.moderate.label>
+  <!-- EN: severe -->
+  <BloodLoss.stages.severe.label>สาหัส</BloodLoss.stages.severe.label>
+  <!-- EN: extreme -->
+  <BloodLoss.stages.extreme.label>อันตราย</BloodLoss.stages.extreme.label>
+  
+  <!-- EN: catatonic breakdown -->
   <CatatonicBreakdown.label>Catatonic Breakdown</CatatonicBreakdown.label>
+  <!-- EN: a catatonic breakdown -->
   <CatatonicBreakdown.labelNoun>a catatonic breakdown</CatatonicBreakdown.labelNoun>
-
-  <PsychicShock.label>ช็อคทางจิต</PsychicShock.label>
-  <PsychicShock.labelNoun>ช็อคทางจิต</PsychicShock.labelNoun>
-
-  <FoodPoisoning.label>อาหารเป็นพิษ</FoodPoisoning.label>
-
-  <ToxicBuildup.label>สารเคมีสะสม</ToxicBuildup.label>
-  <ToxicBuildup.stages.0.label>ขั้นเริ่มแรก (ไม่แสดงอาการ)</ToxicBuildup.stages.0.label>
-  <ToxicBuildup.stages.1.label>ขั้นเริ่มแรก</ToxicBuildup.stages.1.label>
-  <ToxicBuildup.stages.2.label>ขั้นต้น</ToxicBuildup.stages.2.label>
-  <ToxicBuildup.stages.3.label>ขั้นปานกลาง</ToxicBuildup.stages.3.label>
-  <ToxicBuildup.stages.4.label>ขั้นรุนแรง</ToxicBuildup.stages.4.label>
-  <ToxicBuildup.stages.5.label>ขั้นอันตราย</ToxicBuildup.stages.5.label>
-
-  <Pregnant.label>ตั้งครรภ์</Pregnant.label>
-  <Pregnant.labelNoun>ตั้งครรภ์</Pregnant.labelNoun>
-  <Pregnant.comps.0.discoverLetterLabel>{0} ตั้งครรภ์</Pregnant.comps.0.discoverLetterLabel>
-  <Pregnant.comps.0.discoverLetterText>{0} ได้ตั้งครรภ์!</Pregnant.comps.0.discoverLetterText>
-  <Pregnant.stages.0.label>ระยะแรกครรภ์</Pregnant.stages.0.label>
-  <Pregnant.stages.1.label>ระยะกลาง</Pregnant.stages.1.label>
-  <Pregnant.stages.2.label>ระยะสุดท้าย</Pregnant.stages.2.label>
-
-  <HeartAttack.label>หัวใจวาย</HeartAttack.label>
-  <HeartAttack.labelNoun>หัวใจวาย</HeartAttack.labelNoun>
-  <HeartAttack.stages.0.label>เจ็บปวด</HeartAttack.stages.0.label>
-  <HeartAttack.stages.1.label>ทรุดโทรม</HeartAttack.stages.1.label>
-  <HeartAttack.stages.2.label>ถึงแก่ชีวิตได้</HeartAttack.stages.2.label>
   
+  <!-- EN: cryptosleep sickness -->
+  <CryptosleepSickness.label>นอนแช่แข็งเป็นเวลานาน</CryptosleepSickness.label>
+  
+  <!-- EN: drug overdose -->
   <DrugOverdose.label>ติดยาเสพติดเกินขนาด</DrugOverdose.label>
+  <!-- EN: Overdose: {0} -->
+  <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>เสพติดยาเกินขนาด: {0}</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>
+  <!-- EN: {0} is overdosing! -->
+  <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>{0} เสพติดยาเกินขนาด!</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>
+  <!-- EN: a drug overdose -->
   <DrugOverdose.labelNoun>ติดยาเสพติดเกินขนาด</DrugOverdose.labelNoun>
-  <DrugOverdose.stages.0.label>ซ่อนเร้น</DrugOverdose.stages.0.label>
-  <DrugOverdose.stages.1.label>ง่าย</DrugOverdose.stages.1.label>
-  <DrugOverdose.stages.2.label>เสถียร</DrugOverdose.stages.2.label>
-  <DrugOverdose.comps.1.discoverLetterLabel>เสพติดยาเกินขนาด: {0}</DrugOverdose.comps.1.discoverLetterLabel>
-  <DrugOverdose.comps.1.discoverLetterText>{0} เสพติดยาเกินขนาด!</DrugOverdose.comps.1.discoverLetterText>
+  <!-- EN: minor -->
+  <DrugOverdose.stages.minor-0.label>ซ่อนเร้น</DrugOverdose.stages.minor-0.label>
+  <!-- EN: minor -->
+  <DrugOverdose.stages.minor-1.label>ง่าย</DrugOverdose.stages.minor-1.label>
+  <!-- EN: major -->
+  <DrugOverdose.stages.major.label>เสถียร</DrugOverdose.stages.major.label>
   
+  <!-- EN: food poisoning -->
+  <FoodPoisoning.label>อาหารเป็นพิษ</FoodPoisoning.label>
+  <!-- EN: recovering -->
+  <FoodPoisoning.stages.recovering.label>TODO</FoodPoisoning.stages.recovering.label>
+  <!-- EN: major -->
+  <FoodPoisoning.stages.major.label>TODO</FoodPoisoning.stages.major.label>
+  <!-- EN: initial -->
+  <FoodPoisoning.stages.initial.label>TODO</FoodPoisoning.stages.initial.label>
+  
+  <!-- EN: heart attack -->
+  <HeartAttack.label>หัวใจวาย</HeartAttack.label>
+  <!-- EN: a heart attack -->
+  <HeartAttack.labelNoun>หัวใจวาย</HeartAttack.labelNoun>
+  <!-- EN: painful -->
+  <HeartAttack.stages.painful.label>เจ็บปวด</HeartAttack.stages.painful.label>
+  <!-- EN: debilitating -->
+  <HeartAttack.stages.debilitating.label>ทรุดโทรม</HeartAttack.stages.debilitating.label>
+  <!-- EN: fatal -->
+  <HeartAttack.stages.fatal.label>ถึงแก่ชีวิตได้</HeartAttack.stages.fatal.label>
+  
+  <!-- EN: pregnant -->
+  <Pregnant.label>ตั้งครรภ์</Pregnant.label>
+  <!-- EN: {0} pregnant -->
+  <Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>{0} ตั้งครรภ์</Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>
+  <!-- EN: {0} is pregnant! -->
+  <Pregnant.comps.HediffComp_Discoverable.discoverLetterText>{0} ได้ตั้งครรภ์!</Pregnant.comps.HediffComp_Discoverable.discoverLetterText>
+  <!-- EN: pregnancy -->
+  <Pregnant.labelNoun>ตั้งครรภ์</Pregnant.labelNoun>
+  <!-- EN: early-stage -->
+  <Pregnant.stages.earlystage.label>ระยะแรกครรภ์</Pregnant.stages.earlystage.label>
+  <!-- EN: middle-stage -->
+  <Pregnant.stages.middlestage.label>ระยะกลาง</Pregnant.stages.middlestage.label>
+  <!-- EN: late-stage -->
+  <Pregnant.stages.latestage.label>ระยะสุดท้าย</Pregnant.stages.latestage.label>
+  
+  <!-- EN: psychic shock -->
+  <PsychicShock.label>ช็อคทางจิต</PsychicShock.label>
+  <!-- EN: a psychic shock -->
+  <PsychicShock.labelNoun>ช็อคทางจิต</PsychicShock.labelNoun>
+  
+  <!-- EN: resurrection sickness -->
   <ResurrectionSickness.label>ความเจ็บป่วยจากการฟื้นคืนชีวิต</ResurrectionSickness.label>
-
+  
+  <!-- EN: toxic buildup -->
+  <ToxicBuildup.label>สารเคมีสะสม</ToxicBuildup.label>
+  <!-- EN: initial -->
+  <ToxicBuildup.stages.initial-0.label>ขั้นเริ่มแรก (ไม่แสดงอาการ)</ToxicBuildup.stages.initial-0.label>
+  <!-- EN: initial -->
+  <ToxicBuildup.stages.initial-1.label>ขั้นเริ่มแรก</ToxicBuildup.stages.initial-1.label>
+  <!-- EN: minor -->
+  <ToxicBuildup.stages.minor.label>ขั้นต้น</ToxicBuildup.stages.minor.label>
+  <!-- EN: moderate -->
+  <ToxicBuildup.stages.moderate.label>ขั้นปานกลาง</ToxicBuildup.stages.moderate.label>
+  <!-- EN: serious -->
+  <ToxicBuildup.stages.serious.label>ขั้นรุนแรง</ToxicBuildup.stages.serious.label>
+  <!-- EN: extreme -->
+  <ToxicBuildup.stages.extreme.label>ขั้นอันตราย</ToxicBuildup.stages.extreme.label>
   
 </LanguageData>

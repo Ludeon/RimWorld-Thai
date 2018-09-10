@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ambrosia addiction -->
+  <AmbrosiaAddiction.label>ติด Ambrosia</AmbrosiaAddiction.label>
+  <!-- EN: withdrawal -->
+  <AmbrosiaAddiction.stages.withdrawal.label>ลงแดง</AmbrosiaAddiction.stages.withdrawal.label>
+  
+  <!-- EN: ambrosia warmth -->
+  <AmbrosiaHigh.label>เมา Ambrosia</AmbrosiaHigh.label>
+  
+  <!-- EN: ambrosia tolerance -->
+  <AmbrosiaTolerance.label>ดือยา Ambrosia</AmbrosiaTolerance.label>
+  <!-- EN: small -->
+  <AmbrosiaTolerance.stages.small-0.label>TODO</AmbrosiaTolerance.stages.small-0.label>
+  <!-- EN: small -->
+  <AmbrosiaTolerance.stages.small-1.label>ต่ำ</AmbrosiaTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <AmbrosiaTolerance.stages.large.label>ปานกลาง</AmbrosiaTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <AmbrosiaTolerance.stages.massive.label>มาก</AmbrosiaTolerance.stages.massive.label>
+  
+</LanguageData>

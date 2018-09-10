@@ -1,9 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: bulk goods trader -->
   <Orbital_BulkGoods.label>พ่อค้าสินค้าเบ็ดเตล็ด</Orbital_BulkGoods.label>
+  
+  <!-- EN: combat supplier -->
   <Orbital_CombatSupplier.label>พ่อค้าขายอาวุธ</Orbital_CombatSupplier.label>
+  
+  <!-- EN: exotic goods trader -->
   <Orbital_Exotic.label>พ่อค้าสินค้าแปลกประหลาด</Orbital_Exotic.label>
+  
+  <!-- EN: pirate merchant -->
   <Orbital_PirateMerchant.label>พ่อค้าโจรสลัด</Orbital_PirateMerchant.label>
-
+  
 </LanguageData>

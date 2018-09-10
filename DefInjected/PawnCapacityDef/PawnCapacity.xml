@@ -1,18 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Consciousness.label>สติสัมปชัญญะ</Consciousness.label>
-  <Consciousness.labelMechanoids>การจัดการข้อมูล</Consciousness.labelMechanoids>
-  <Moving.label>การเคลื่อนไหว</Moving.label>
-  <Manipulation.label>การใช้มือ</Manipulation.label>
-  <Talking.label>การพูด</Talking.label>
-  <Talking.labelMechanoids>การสื่อสาร</Talking.labelMechanoids>
-  <Eating.label>การรับประทาน</Eating.label>
-  <Sight.label>การมองเห็น</Sight.label>
-  <Hearing.label>การได้ยิน</Hearing.label>
-  <Breathing.label>การหายใจ</Breathing.label>
+  
+  <!-- EN: blood filtration -->
   <BloodFiltration.label>การกรองโลหิต</BloodFiltration.label>
+  <!-- EN: fluid reprocessing -->
+  <BloodFiltration.labelMechanoids>TODO</BloodFiltration.labelMechanoids>
+  
+  <!-- EN: blood pumping -->
   <BloodPumping.label>การสูบฉีดโลหิต</BloodPumping.label>
+  <!-- EN: power generation -->
+  <BloodPumping.labelMechanoids>TODO</BloodPumping.labelMechanoids>
+  
+  <!-- EN: breathing -->
+  <Breathing.label>การหายใจ</Breathing.label>
+  
+  <!-- EN: consciousness -->
+  <Consciousness.label>สติสัมปชัญญะ</Consciousness.label>
+  <!-- EN: Data processing -->
+  <Consciousness.labelMechanoids>การจัดการข้อมูล</Consciousness.labelMechanoids>
+  
+  <!-- EN: eating -->
+  <Eating.label>การรับประทาน</Eating.label>
+  
+  <!-- EN: hearing -->
+  <Hearing.label>การได้ยิน</Hearing.label>
+  
+  <!-- EN: manipulation -->
+  <Manipulation.label>การใช้มือ</Manipulation.label>
+  
+  <!-- EN: metabolism -->
   <Metabolism.label>อัตราการเผาผลาญ</Metabolism.label>
-
+  
+  <!-- EN: moving -->
+  <Moving.label>การเคลื่อนไหว</Moving.label>
+  
+  <!-- EN: sight -->
+  <Sight.label>การมองเห็น</Sight.label>
+  
+  <!-- EN: talking -->
+  <Talking.label>การพูด</Talking.label>
+  <!-- EN: Communication -->
+  <Talking.labelMechanoids>การสื่อสาร</Talking.labelMechanoids>
+  
 </LanguageData>

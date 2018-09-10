@@ -1,56 +1,80 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Parent.label>บิดา</Parent.label>
-  <Parent.labelFemale>มารดา</Parent.labelFemale>
-
+  
+  <!-- EN: son -->
   <Child.label>ลูกชาย</Child.label>
+  <!-- EN: daughter -->
   <Child.labelFemale>ลูกสาว</Child.labelFemale>
-
-  <Sibling.label>พี่น้องผู้ชาย</Sibling.label>
-  <Sibling.labelFemale>พี่น้องผู้หญิง</Sibling.labelFemale>
-
-  <HalfSibling.label>พี่น้องครึ่งผู้ชาย</HalfSibling.label>
-  <HalfSibling.labelFemale>พี่น้องครึ่งผู้หญิง</HalfSibling.labelFemale>
-
-  <Grandparent.label>ปู่ตา</Grandparent.label>
-  <Grandparent.labelFemale>ย่ายาย</Grandparent.labelFemale>
-
-  <Grandchild.label>หลานชาย</Grandchild.label>
-  <Grandchild.labelFemale>หลานสาว</Grandchild.labelFemale>
-
-  <NephewOrNiece.label>หลานชาย</NephewOrNiece.label>
-  <NephewOrNiece.labelFemale>หลานสาว</NephewOrNiece.labelFemale>
-
-  <UncleOrAunt.label>ลุง</UncleOrAunt.label>
-  <UncleOrAunt.labelFemale>ป้า</UncleOrAunt.labelFemale>
-
+  
+  <!-- EN: cousin -->
   <Cousin.label>ญาติ</Cousin.label>
   <Cousin.labelFemale>ญาติ</Cousin.labelFemale>
-
-  <!-- distant family -->
-
-  <GreatGrandparent.label>ปู่ตาทวด</GreatGrandparent.label>
-  <GreatGrandparent.labelFemale>ย่ายายทวด</GreatGrandparent.labelFemale>
-
-  <GreatGrandchild.label>เหลนชาย</GreatGrandchild.label>
-  <GreatGrandchild.labelFemale>เหลนสาว</GreatGrandchild.labelFemale>
-
-  <GranduncleOrGrandaunt.label>ลุงทวด</GranduncleOrGrandaunt.label>
-  <GranduncleOrGrandaunt.labelFemale>ป้าทวด</GranduncleOrGrandaunt.labelFemale>
-
-  <GrandnephewOrGrandniece.label>เหลนชาย</GrandnephewOrGrandniece.label>
-  <GrandnephewOrGrandniece.labelFemale>เหลนสาว</GrandnephewOrGrandniece.labelFemale>
-
+  
+  <!-- EN: cousin once removed -->
   <CousinOnceRemoved.label>หลานพี่หลานน้องผู้ชาย</CousinOnceRemoved.label>
   <CousinOnceRemoved.labelFemale>หลานพี่หลานน้องผู้หญิง</CousinOnceRemoved.labelFemale>
-
-  <SecondCousin.label>หลานทวดผู้ชาย</SecondCousin.label>
-  <SecondCousin.labelFemale>หลานทวดผู้หญิง</SecondCousin.labelFemale>
-
-  <!-- kin -->
-
+  
+  <!-- EN: grandson -->
+  <Grandchild.label>หลานชาย</Grandchild.label>
+  <!-- EN: granddaughter -->
+  <Grandchild.labelFemale>หลานสาว</Grandchild.labelFemale>
+  
+  <!-- EN: grandnephew -->
+  <GrandnephewOrGrandniece.label>เหลนชาย</GrandnephewOrGrandniece.label>
+  <!-- EN: grandniece -->
+  <GrandnephewOrGrandniece.labelFemale>เหลนสาว</GrandnephewOrGrandniece.labelFemale>
+  
+  <!-- EN: grandfather -->
+  <Grandparent.label>ปู่ตา</Grandparent.label>
+  <!-- EN: grandmother -->
+  <Grandparent.labelFemale>ย่ายาย</Grandparent.labelFemale>
+  
+  <!-- EN: granduncle -->
+  <GranduncleOrGrandaunt.label>ลุงทวด</GranduncleOrGrandaunt.label>
+  <!-- EN: grandaunt -->
+  <GranduncleOrGrandaunt.labelFemale>ป้าทวด</GranduncleOrGrandaunt.labelFemale>
+  
+  <!-- EN: great grandson -->
+  <GreatGrandchild.label>เหลนชาย</GreatGrandchild.label>
+  <!-- EN: great granddaughter -->
+  <GreatGrandchild.labelFemale>เหลนสาว</GreatGrandchild.labelFemale>
+  
+  <!-- EN: great grandfather -->
+  <GreatGrandparent.label>ปู่ตาทวด</GreatGrandparent.label>
+  <!-- EN: great grandmother -->
+  <GreatGrandparent.labelFemale>ย่ายายทวด</GreatGrandparent.labelFemale>
+  
+  <!-- EN: brother -->
+  <HalfSibling.label>พี่น้องครึ่งผู้ชาย</HalfSibling.label>
+  <!-- EN: sister -->
+  <HalfSibling.labelFemale>พี่น้องครึ่งผู้หญิง</HalfSibling.labelFemale>
+  
+  <!-- EN: kin -->
   <Kin.label>ญาติห่างๆ</Kin.label>
   <Kin.labelFemale>ญาติห่างๆ</Kin.labelFemale>
-
+  
+  <!-- EN: nephew -->
+  <NephewOrNiece.label>หลานชาย</NephewOrNiece.label>
+  <!-- EN: niece -->
+  <NephewOrNiece.labelFemale>หลานสาว</NephewOrNiece.labelFemale>
+  
+  <!-- EN: father -->
+  <Parent.label>บิดา</Parent.label>
+  <!-- EN: mother -->
+  <Parent.labelFemale>มารดา</Parent.labelFemale>
+  
+  <!-- EN: second cousin -->
+  <SecondCousin.label>หลานทวดผู้ชาย</SecondCousin.label>
+  <SecondCousin.labelFemale>หลานทวดผู้หญิง</SecondCousin.labelFemale>
+  
+  <!-- EN: brother -->
+  <Sibling.label>พี่น้องผู้ชาย</Sibling.label>
+  <!-- EN: sister -->
+  <Sibling.labelFemale>พี่น้องผู้หญิง</Sibling.labelFemale>
+  
+  <!-- EN: uncle -->
+  <UncleOrAunt.label>ลุง</UncleOrAunt.label>
+  <!-- EN: aunt -->
+  <UncleOrAunt.labelFemale>ป้า</UncleOrAunt.labelFemale>
+  
 </LanguageData>

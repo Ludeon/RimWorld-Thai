@@ -1,29 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Crashlanded -->
   <Crashlanded.label>ยานตก</Crashlanded.label>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
   <Crashlanded.description>คุณทั้งสามคน ตื่นขึ้นมาจากเครื่องนอนแช่แข็งของคุณด้วยเสียงไซเรนและเสียงริพโลหะ, คุณแทบจะไปที่กระสวยหนีไม่ทันก่อนที่ยานจะถูกระเบิด ในเวลาต่อมา คุณเข้าสู่โลกที่ไม่รู้จักนี้</Crashlanded.description>
-  
-  <Crashlanded.scenario.name>ยานตก</Crashlanded.scenario.name>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
   <Crashlanded.scenario.description>คุณทั้งสามคน ตื่นขึ้นมาจากเครื่องนอนแช่แข็งของคุณด้วยเสียงไซเรนและเสียงริพโลหะ, คุณแทบจะไปที่กระสวยหนีไม่ทันก่อนที่ยานจะถูกระเบิด ในเวลาต่อมา คุณเข้าสู่โลกที่ไม่รู้จักนี้</Crashlanded.scenario.description>
+  <!-- EN: Crashlanded -->
+  <Crashlanded.scenario.name>ยานตก</Crashlanded.scenario.name>
+  <!-- EN: Three crashlanded survivors - the classic RimWorld experience. -->
   <Crashlanded.scenario.summary>สามผู้ชีวิตรอดยานตก - ประสบการณ์ RimWorld คลาสสิก</Crashlanded.scenario.summary>
-
-
+  
+  <!-- EN: Lost Tribe -->
   <LostTribe.label>เผ่าหลงทาง</LostTribe.label>
+  <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and research slowly, this is a difficult scenario. -->
   <LostTribe.description>เผ่าของคุณถูกทำลายโดยเครื่องเลือดที่ดีที่ส่งมาจากพระเจ้า ห้าคนหนีไปได้ ตอนนี้ถึงเวลาที่จะสร้างบ้านใหม่แล้ว \n\nหมายเหตุ: เนื่องจากคุณจะเริ่มทำงานที่ไม่ดีและค้นคว้าวิจัยอย่างช้าๆนี่เป็นสถานการณ์ที่ยากลำบาก</LostTribe.description>
-  <LostTribe.scenario.name>เผ่าหลงทาง</LostTribe.scenario.name>
+  <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and research slowly, this is a difficult scenario. -->
   <LostTribe.scenario.description>เผ่าของคุณถูกทำลายโดยเครื่องเลือดที่ดีที่ส่งมาจากพระเจ้า ห้าคนหนีไปได้ ตอนนี้ถึงเวลาที่จะสร้างบ้านใหม่แล้ว \n\nหมายเหตุ: เนื่องจากคุณจะเริ่มทำงานที่ไม่ดีและค้นคว้าวิจัยอย่างช้าๆนี่เป็นสถานการณ์ที่ยากลำบาก</LostTribe.scenario.description>
+  <!-- EN: Lost Tribe -->
+  <LostTribe.scenario.name>เผ่าหลงทาง</LostTribe.scenario.name>
+  <!-- EN: The gods were very angry. The blood machines came at night. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped. Now, after a harrowing journey on foot, with no close friends to turn to, you must build a new home in the wilderness, like your ancestors did. -->
+  <LostTribe.scenario.parts.GameStartDialog.text>พระเจ้าทรงโกรธมาก เครื่องเลือดเข้ามาในเวลากลางคืน พวกเขากวาดล้างผ่านหมู่บ้านของคุณ ฟันและเผาคนของคุณด้วยใบพัดและปีศาจไฟ\n\nมีเพียงไม่กี่คนที่คุณหลบหนี ตอนนี้หลังจากการเดินด้วยเท้าที่บาดใจโดยไม่มีเพื่อนหันไปคุณต้องสร้างบ้านใหม่ในถิ่นฐานเหมือนกับบรรพบุรุษของคุณ</LostTribe.scenario.parts.GameStartDialog.text>
+  <!-- EN: Five lost tribespeople attempt to rebuild. Difficult. -->
   <LostTribe.scenario.summary>ห้าสมาชิกเผ่าในการฟื้นฟูบูรณะ - ยาก</LostTribe.scenario.summary>
-  <LostTribe.scenario.parts.14.text>พระเจ้าทรงโกรธมาก เครื่องเลือดเข้ามาในเวลากลางคืน พวกเขากวาดล้างผ่านหมู่บ้านของคุณ ฟันและเผาคนของคุณด้วยใบพัดและปีศาจไฟ\n\nมีเพียงไม่กี่คนที่คุณหลบหนี ตอนนี้หลังจากการเดินด้วยเท้าที่บาดใจโดยไม่มีเพื่อนหันไปคุณต้องสร้างบ้านใหม่ในถิ่นฐานเหมือนกับบรรพบุรุษของคุณ</LostTribe.scenario.parts.14.text>
-
   
+  <!-- EN: Naked Brutality -->
+  <NakedBrutality.label>TODO</NakedBrutality.label>
+  <!-- EN: You went under anasthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
+  <NakedBrutality.description>TODO</NakedBrutality.description>
+  <!-- EN: You went under anasthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
+  <NakedBrutality.scenario.description>TODO</NakedBrutality.scenario.description>
+  <!-- EN: Naked Brutality -->
+  <NakedBrutality.scenario.name>TODO</NakedBrutality.scenario.name>
+  <!-- EN: It was supposed to be a minor surgery. Just an hour under anasthetic. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rim world.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive? -->
+  <NakedBrutality.scenario.parts.GameStartDialog.text>TODO</NakedBrutality.scenario.parts.GameStartDialog.text>
+  <!-- EN: Naked, alone, and utterly unprepared. Can you survive? Extremely difficult and unfair. -->
+  <NakedBrutality.scenario.summary>TODO</NakedBrutality.scenario.summary>
+  
+  <!-- EN: The Rich Explorer -->
   <TheRichExplorer.label>นักผจญภัยรวย</TheRichExplorer.label>
+  <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
   <TheRichExplorer.description>คนเรียกว่าคุณบ้า ออกจากบ้าน Glitterworld ของคุณ, แต่คุณมักปรารถนาที่จะสำรวจดาวฤกษ์ - นอกระบบประสาท. ตอนนี้คุณอยู่ที่ตอนท้ายของการเดินทางที่ยาวนานของคุณใน เครื่องนอนแช่แข็ง ลงบนโลกที่ไม่รู้จักนี้ เพื่อดูว่ามันเป็นอย่างไร \n\nหมายเหตุ: เนื่องจากตัวละครเริ่มต้นของคุณจะขาดทักษะบางอย่างนี่เป็นสถานการณ์ที่ยากอย่างยิ่งในเกมแรก ๆ</TheRichExplorer.description>
-  <TheRichExplorer.scenario.name>นักผจญภัยรวย</TheRichExplorer.scenario.name>
+  <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
   <TheRichExplorer.scenario.description>คนเรียกว่าคุณบ้า ออกจากบ้าน Glitterworld ของคุณ, แต่คุณมักปรารถนาที่จะสำรวจดาวฤกษ์ - นอกระบบประสาท. ตอนนี้คุณอยู่ที่ตอนท้ายของการเดินทางที่ยาวนานของคุณใน เครื่องนอนแช่แข็ง ลงบนโลกที่ไม่รู้จักนี้ เพื่อดูว่ามันเป็นอย่างไร \n\nหมายเหตุ: เนื่องจากตัวละครเริ่มต้นของคุณจะขาดทักษะบางอย่างนี่เป็นสถานการณ์ที่ยากอย่างยิ่งในเกมแรก ๆ</TheRichExplorer.scenario.description>
+  <!-- EN: The Rich Explorer -->
+  <TheRichExplorer.scenario.name>นักผจญภัยรวย</TheRichExplorer.scenario.name>
+  <!-- EN: The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - the grit and consequence of real life, like they talk about in the history books. You wanted to know what real challenge and consequence feel like.\n\nNow, after a journey of decades in cryptosleep, you're landing on this unknown rimworld. Real consequences await you. -->
+  <TheRichExplorer.scenario.parts.GameStartDialog.text>ประสาทจำลอง Holo-เกมส์ และเซ็กซ์ฟรีไม่เคยพอสำหรับคุณ คุณต้องการที่มากขึ้น - ประสบการณ์และผลกระทบของชีวิตจริงที่พวกเขาจะบอกในหนังสือประวัติศาสตร์ คุณต้องการที่จะรู้ว่าสิ่งที่ท้าทายที่แท้จริงและผลที่ตามมา\n\nตอนนี้หลังจากที่การเดินทางของทศวรรษที่ผ่านมา ในการนอนแช่แข็งที่คุณกำลังลงจอดบนโลกที่ไม่ทราบนี้ ผลที่ตามมาจริงรอคุณอยู่</TheRichExplorer.scenario.parts.GameStartDialog.text>
+  <!-- EN: One rich explorer out to experience the universe. Extra difficult. -->
   <TheRichExplorer.scenario.summary>ไปสัมผัสกับการผจญภัยคนรวย - ยากโดยเฉพาะอย่างยิ่ง</TheRichExplorer.scenario.summary>
-  <TheRichExplorer.scenario.parts.12.text>ประสาทจำลอง Holo-เกมส์ และเซ็กซ์ฟรีไม่เคยพอสำหรับคุณ คุณต้องการที่มากขึ้น - ประสบการณ์และผลกระทบของชีวิตจริงที่พวกเขาจะบอกในหนังสือประวัติศาสตร์ คุณต้องการที่จะรู้ว่าสิ่งที่ท้าทายที่แท้จริงและผลที่ตามมา\n\nตอนนี้หลังจากที่การเดินทางของทศวรรษที่ผ่านมา ในการนอนแช่แข็งที่คุณกำลังลงจอดบนโลกที่ไม่ทราบนี้ ผลที่ตามมาจริงรอคุณอยู่</TheRichExplorer.scenario.parts.12.text>
-  
-  
   
 </LanguageData>

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beer brewing -->
+  <Brewing.label>การทำเครื่องดื่ม\nแอลกอฮอล์</Brewing.label>
+  <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
+  <Brewing.description>ปลดโรงเบียร์ ฮ็อพที่ปลูกในขณะนี้สามารถจะกลายเป็นเบียร์อร่อย</Brewing.description>
+  
+  <!-- EN: carpet making -->
+  <CarpetMaking.label>การทำพรม</CarpetMaking.label>
+  <!-- EN: Weave beautiful carpets from cloth. -->
+  <CarpetMaking.description>ปลดล็อคพรม พร้อมสภาพแวดล้อมของชุมชนที่สามารถประดับ</CarpetMaking.description>
+  
+  <!-- EN: cocoa -->
+  <Cocoa.label>TODO</Cocoa.label>
+  <!-- EN: Sow cocoa trees to create your own delicious chocolate. Eating chocolate fulfills the need for recreation, and it's valuable on the market too. -->
+  <Cocoa.description>TODO</Cocoa.description>
+  
+  <!-- EN: complex clothing -->
+  <ComplexClothing.label>ทำเสื้อผ้า</ComplexClothing.label>
+  <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
+  <ComplexClothing.description>สำหรับเสื้อผ้าที่ซับซ้อนเช่น กางเกงเสื้อหรือแม้กระทั่งหมวกคาวบอย</ComplexClothing.description>
+  
+  <!-- EN: complex furniture -->
+  <ComplexFurniture.label>TODO</ComplexFurniture.label>
+  <!-- EN: Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more. -->
+  <ComplexFurniture.description>TODO</ComplexFurniture.description>
+  
+  <!-- EN: devilstrand -->
+  <Devilstrand.label>ปลูกเห็ด Devilstrand</Devilstrand.label>
+  <!-- EN: Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber. -->
+  <Devilstrand.description>ปลูกเห็ด Devilstrand สำหรับทำเสื้อผ้า</Devilstrand.description>
+  
+  <!-- EN: drug production -->
+  <DrugProduction.label>การผลิตยา</DrugProduction.label>
+  <!-- EN: Build a drug lab for basic drug synthesis. Further research is required to make specific drugs. -->
+  <DrugProduction.description>พื้นฐานของการผลิตยาและ ช่วยให้การผลิตของห้องปฏิบัติการยา สำหรับยาโดยเฉพาะการวิจัยเพิ่มเติมเป็นสิ่งจำเป็น</DrugProduction.description>
+  
+  <!-- EN: go-juice production -->
+  <GoJuiceProduction.label>การผลิตยา Go Juice</GoJuiceProduction.label>
+  <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
+  <GoJuiceProduction.description>เรียนรู้ยาเสพติดสังเคราะห์กระตุ้นการต่อสู้ผลิต  Go Juice</GoJuiceProduction.description>
+  
+  <!-- EN: greatbow -->
+  <Greatbow.label>Greatbows</Greatbow.label>
+  <!-- EN: Craft greatbows for killing enemies at great range. -->
+  <Greatbow.description>อนุญาตให้มีการผลิต Greatbows ได้</Greatbow.description>
+  
+  <!-- EN: long blades -->
+  <LongBlades.label>Long Blades</LongBlades.label>
+  <!-- EN: Craft longswords and spears. -->
+  <LongBlades.description>ช่วยให้สามารถผลิต Long Blades ได้</LongBlades.description>
+  
+  <!-- EN: passive cooler -->
+  <PassiveCooler.label>เครื่องทำความเย็น แบบไม่ใช้ไฟ</PassiveCooler.label>
+  <!-- EN: Make passive coolers, to cool indoor spaces without using electricity. -->
+  <PassiveCooler.description>สร้างหน่วยทำความเย็นแบบ Passive วิธีที่จะเย็นห้องพักโดยไม่ต้องใช้ไฟฟ้า</PassiveCooler.description>
+  
+  <!-- EN: pemmican -->
+  <Pemmican.label>ทำเนื้อตาก</Pemmican.label>
+  <!-- EN: Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling. -->
+  <Pemmican.description>ได้รับอนุญาตให้ชุมชนพื้นเมืองเนื้อกระตุกอเมริกันจากส่วนผสมจากเนื้อสัตว์และผักการผลิตที่ไม่เสีย ดีสำหรับการเดินทาง</Pemmican.description>
+  
+  <!-- EN: penoxycyline production -->
+  <PenoxycylineProduction.label>การผลิตยา Penoxzylin</PenoxycylineProduction.label>
+  <!-- EN: Produce penoxycline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
+  <PenoxycylineProduction.description>เรียนรู้ ยาเสพติด Penoxzylin เพื่อป้องกันโรคต่างๆ</PenoxycylineProduction.description>
+  
+  <!-- EN: plate armor -->
+  <PlateArmor.label>TODO</PlateArmor.label>
+  <!-- EN: Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively. -->
+  <PlateArmor.description>TODO</PlateArmor.description>
+  
+  <!-- EN: psychite refining -->
+  <PsychiteRefining.label>การกลั่นยา Psychite</PsychiteRefining.label>
+  <!-- EN: Refine psychoid leaves into flake and yayo, different forms of the euphoric psychite drug. -->
+  <PsychiteRefining.description>เรียนรู้ยาเสพติด Psychoid ใบเกล็ด และ ยาเสพติด Yayo เพื่อกระตุ้นความร่าเริง, สามารถปรับแต่ง</PsychiteRefining.description>
+  
+  <!-- EN: psychoid brewing -->
+  <PsychoidBrewing.label>เครื่องดื่ม Psychoid</PsychoidBrewing.label>
+  <!-- EN: Prepare psychoid leaves into a mildly euphoria-inducing and addictive tea at the campfire or cooking stove. -->
+  <PsychoidBrewing.description>ใบ Psychoid สามารถต้มด้วยน้ำร้อนให้ความรู้สึกสบายและจะเสพติดเล็กน้อย</PsychoidBrewing.description>
+  
+  <!-- EN: recurve bow -->
+  <RecurveBow.label>ธนู</RecurveBow.label>
+  <!-- EN: Build the recurve bow, an effective and inexpensive ranged weapon. -->
+  <RecurveBow.description>เทคนิคการผลิตขั้นสูงช่วยให้สามารถผลิต ธนู อาวุธที่มีประสิทธิภาพและราคาไม่แพง</RecurveBow.description>
+  
+  <!-- EN: smithing -->
+  <Smithing.label>การตีเหล็ก</Smithing.label>
+  <!-- EN: Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles. -->
+  <Smithing.description>ช่วยให้ชาวอาณานิคมสร้างอาวุธโลหะและเครื่องมือที่สามารถผลิตได้</Smithing.description>
+  
+  <!-- EN: stonecutting -->
+  <Stonecutting.label>การตัดหิน</Stonecutting.label>
+  <!-- EN: Cut rock chunks into stone blocks for use in construction. Build beautiful stone tile floors or ugly concrete walkways. -->
+  <Stonecutting.description>ปลดตารางการทำงานของตึก นี้จะช่วยให้การประมวลผลของก้อนหินเพื่อวัสดุก่อสร้างที่เหมาะสม</Stonecutting.description>
+  
+  <!-- EN: tree sowing -->
+  <TreeSowing.label>TODO</TreeSowing.label>
+  <!-- EN: Sow the local biome's natural trees in your fields. -->
+  <TreeSowing.description>TODO</TreeSowing.description>
+  
+  <!-- EN: wake-up production -->
+  <WakeUpProduction.label>การผลิตยา Wake Up</WakeUpProduction.label>
+  <!-- EN: Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep. -->
+  <WakeUpProduction.description>นักเคมีของคุณเรียนรู้สูตรและเทคนิคสำหรับการสังเคราะห์ Wake Up</WakeUpProduction.description>
+  
+</LanguageData>

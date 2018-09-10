@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cat -->
+  <Cat.label>แมว</Cat.label>
+  <!-- EN: kitten -->
+  <Cat.lifeStages.kitten.label>ลูกแมว</Cat.lifeStages.kitten.label>
+  <Cat.lifeStages.1.labelFemale>แมวตัวเมียวัยรุ่น</Cat.lifeStages.1.labelFemale>
+  <Cat.lifeStages.1.labelMale>แมวตัวผู้วัยรุ่น</Cat.lifeStages.1.labelMale>
+  <Cat.lifeStages.2.labelFemale>แมวตัวเมีย</Cat.lifeStages.2.labelFemale>
+  <Cat.lifeStages.2.labelMale>แมวตัวผู้</Cat.lifeStages.2.labelMale>
+  
+  <!-- EN: husky -->
+  <Husky.label>หมาฮัสกี้</Husky.label>
+  <!-- EN: huskies -->
+  <Husky.labelPlural>TODO</Husky.labelPlural>
+  <!-- EN: husky puppy -->
+  <Husky.lifeStages.husky_puppy.label>ลูกหมาฮัสกี้</Husky.lifeStages.husky_puppy.label>
+  <!-- EN: husky puppies -->
+  <Husky.lifeStages.husky_puppy.labelPlural>TODO</Husky.lifeStages.husky_puppy.labelPlural>
+  <Husky.lifeStages.1.label>หมาฮัสกี้วัยรุ่น</Husky.lifeStages.1.label>
+  <Husky.lifeStages.2.label>หมาฮัสกี้</Husky.lifeStages.2.label>
+  
+  <!-- EN: labrador retriever -->
+  <LabradorRetriever.label>หมาลาบราดอร์ รีทรีฟเวอร์</LabradorRetriever.label>
+  <!-- EN: labrador puppy -->
+  <LabradorRetriever.lifeStages.labrador_puppy.label>ลูกหมาลาบราดอร์ รีทรีฟเวอร์</LabradorRetriever.lifeStages.labrador_puppy.label>
+  <!-- EN: labrador puppies -->
+  <LabradorRetriever.lifeStages.labrador_puppy.labelPlural>TODO</LabradorRetriever.lifeStages.labrador_puppy.labelPlural>
+  <LabradorRetriever.lifeStages.1.label>หมาลาบราดอร์ รีทรีฟเวอร์วัยรุ่น</LabradorRetriever.lifeStages.1.label>
+  <LabradorRetriever.lifeStages.2.label>หมาลาบราดอร์ รีทรีฟเวอร์</LabradorRetriever.lifeStages.2.label>
+  
+  <!-- EN: yorkshire terrier -->
+  <YorkshireTerrier.label>หมายอร์กเชียร์ เทอร์เรียร์</YorkshireTerrier.label>
+  <!-- EN: yorkshire terrier puppy -->
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>ลูกหมายอร์กเชียร์ เทอร์เรียร์</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>
+  <!-- EN: yorkshire terrier puppies -->
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>TODO</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>
+  <YorkshireTerrier.lifeStages.1.label>หมายอร์กเชียร์ เทอร์เรียร์วัยรุ่น</YorkshireTerrier.lifeStages.1.label>
+  <YorkshireTerrier.lifeStages.2.label>หมายอร์กเชียร์ เทอร์เรียร์</YorkshireTerrier.lifeStages.2.label>
+  
+</LanguageData>

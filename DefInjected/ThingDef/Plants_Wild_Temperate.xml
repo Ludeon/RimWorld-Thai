@@ -1,43 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Wild - clustering bushes (some harvestable) -->
-
-  <PlantRaspberry.label>ราสเบอร์รี่</PlantRaspberry.label>
-  <PlantRaspberry.description>Ein Busch mit leckeren roten Beeren.</PlantRaspberry.description>
-
-  <PlantBush.label>พุ่มไม้</PlantBush.label>
-  <PlantBush.description>Ein kleines Gebüsch. Spricht im Normalfall nicht.</PlantBush.description>
-
-  <PlantWildHealroot.label>ต้น Wild Healroot</PlantWildHealroot.label>
-  <PlantWildHealroot.description>Eine langsam wachsende Pflanze aus der Kräutermedizin hergestellt werden kann.\n\nDiese wilde Variante der Heilwurzel ist schwer zu kultivieren. Sie wird von Ureinwohnern in kühleren Gegenden sehr geschätzt.</PlantWildHealroot.description>
-
-  <!-- Wild plants - carpets -->
-
-  <PlantGrass.label>หญ้า</PlantGrass.label>
-  <PlantGrass.description>Raues, wildes Gras. Benötigt nur wenig Licht und minimale Nährstoffe im Boden.</PlantGrass.description>
-
-  <PlantDandelion.label>ดอกแดนดิไลออน</PlantDandelion.label>
-  <PlantDandelion.description>Gewöhnliche kleine Pflanze. Wird aufgrund ihrer Fruchtbarkeit oft als Unkraut angesehen, sieht aber hübsch aus.</PlantDandelion.description>
-
-  <PlantAstragalus.label>รากแอสทราการัส</PlantAstragalus.label>
-  <PlantAstragalus.description>Eine beständige kleine Wildpflanze, die in alpinen Gegenden wächst.</PlantAstragalus.description>
-
-  <PlantMoss.label>มอสส์</PlantMoss.label>
-  <PlantMoss.description>Ein wildes Moos, das in Gebieten mit wenig Licht, aber hoher Luftfeuchtigkeit wächst. Sehr widerstandsfähig und frostresistent.</PlantMoss.description>
-
-  <!-- Wild - Trees -->
-
-  <PlantTreeOak.label>ต้นโอ๊ค</PlantTreeOak.label>
-  <PlantTreeOak.description>Ein starker Hartholzbaum. Wächst langsam, aber das Holz ist sehr stark.</PlantTreeOak.description>
-
-  <PlantTreePoplar.label>ต้นไม้ป็อป</PlantTreePoplar.label>
-  <PlantTreePoplar.description>Ein Weichholzbaum. Wächst schnell, aber das Holz ist nicht sehr stark.</PlantTreePoplar.description>
-
-  <PlantTreePine.label>ต้นสน</PlantTreePine.label>
-  <PlantTreePine.description>Ein großer Nadelbaum.</PlantTreePine.description>
-
-  <PlantTreeBirch.label>ต้นไม้เบิร์ช</PlantTreeBirch.label>
-  <PlantTreeBirch.description>Ein nördlicher Baum, der für seine dünne, papierähnliche Rinde bekannt ist.</PlantTreeBirch.description>
-
+  
+  <!-- EN: astragalus -->
+  <Plant_Astragalus.label>รากแอสทราการัส</Plant_Astragalus.label>
+  <!-- EN: A small perennial wildflower that grows in alpine climates. -->
+  <Plant_Astragalus.description>Eine beständige kleine Wildpflanze, die in alpinen Gegenden wächst.</Plant_Astragalus.description>
+  
+  <!-- EN: berry bush -->
+  <Plant_Berry.label>ราสเบอร์รี่</Plant_Berry.label>
+  <!-- EN: A bushy wild plant which yields delicious berries. Berries can be cooked, but they're also good to eat even when raw. -->
+  <Plant_Berry.description>Ein Busch mit leckeren roten Beeren.</Plant_Berry.description>
+  
+  <!-- EN: dandelions -->
+  <Plant_Dandelion.label>ดอกแดนดิไลออน</Plant_Dandelion.label>
+  <!-- EN: A tiny yellow flower which grows in large clusters. Though it is often considered a weed, dandelions in bloom are quite beautiful. -->
+  <Plant_Dandelion.description>Gewöhnliche kleine Pflanze. Wird aufgrund ihrer Fruchtbarkeit oft als Unkraut angesehen, sieht aber hübsch aus.</Plant_Dandelion.description>
+  
+  <!-- EN: moss -->
+  <Plant_Moss.label>มอสส์</Plant_Moss.label>
+  <!-- EN: Wild moss that grows in clumps in areas of low light and cool temperatures. Moss takes a long time to grow, but is very frost-resistant. -->
+  <Plant_Moss.description>Ein wildes Moos, das in Gebieten mit wenig Licht, aber hoher Luftfeuchtigkeit wächst. Sehr widerstandsfähig und frostresistent.</Plant_Moss.description>
+  
+  <!-- EN: birch tree -->
+  <Plant_TreeBirch.label>ต้นไม้เบิร์ช</Plant_TreeBirch.label>
+  <!-- EN: A temperate-biome tree known for its thin, white, paper-like bark. -->
+  <Plant_TreeBirch.description>Ein nördlicher Baum, der für seine dünne, papierähnliche Rinde bekannt ist.</Plant_TreeBirch.description>
+  
+  <!-- EN: oak tree -->
+  <Plant_TreeOak.label>ต้นโอ๊ค</Plant_TreeOak.label>
+  <!-- EN: A hardwood tree. Oaks take a long time to grow, but their wood is so strong that 'oak' is used as a metaphor for strength across many cultures. -->
+  <Plant_TreeOak.description>Ein starker Hartholzbaum. Wächst langsam, aber das Holz ist sehr stark.</Plant_TreeOak.description>
+  
+  <!-- EN: pine tree -->
+  <Plant_TreePine.label>ต้นสน</Plant_TreePine.label>
+  <!-- EN: A large conifer covered with prickly pine cones. It grows in a distinctive conical shape. -->
+  <Plant_TreePine.description>Ein großer Nadelbaum.</Plant_TreePine.description>
+  
+  <!-- EN: poplar tree -->
+  <Plant_TreePoplar.label>ต้นไม้ป็อป</Plant_TreePoplar.label>
+  <!-- EN: A softwood tree that grows very fast. Unfortunately, its wood is weak and so it yields less useful material than hardwood trees. -->
+  <Plant_TreePoplar.description>Ein Weichholzbaum. Wächst schnell, aber das Holz ist nicht sehr stark.</Plant_TreePoplar.description>
+  
 </LanguageData>

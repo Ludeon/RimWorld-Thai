@@ -1,50 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Artistic recipes - speed not affected by skill. -->
-
-  <SculptingSpeed.label>ความเร็วในการแกะสลัก</SculptingSpeed.label>
-  <SculptingSpeed.description>Wie schnell das Individuum Skulpturen anfertigen kann.</SculptingSpeed.description>
-
-  <TailoringSpeed.label>ความเร็วในการตัดเย็บ</TailoringSpeed.label>
-  <TailoringSpeed.description>Wie schnell das Individuum Kleidungen nähen kann.</TailoringSpeed.description>
-
-  <SmithingSpeed.label>ความเร็วในการตีเหล็ก</SmithingSpeed.label>
-  <SmithingSpeed.description>Wie schnell das Individuum Waffen, Machinen, Munition und Werkzeuge schmieden kann.</SmithingSpeed.description>
-
-  <!-- Production recipes - speed affected by skill. -->
-
-  <CookSpeed.label>ความเร็วในการปรุงอาหาร</CookSpeed.label>
-  <CookSpeed.description>Wie schnell das Individuum Mahlzeiten zubereiten kann.</CookSpeed.description>
-
-  <FoodPoisonChance.label>มีโอกาสเกิดอาหารเป็นพิษ</FoodPoisonChance.label>
-  <FoodPoisonChance.description>Wie häufig das Individuum versehentlich seine zubereiteten Mahlzeiten vergiftet.</FoodPoisonChance.description>
-
-  <BrewingSpeed.label>ความเร็วการผลิตเบียร์</BrewingSpeed.label>
-  <BrewingSpeed.description>Wie schnell das Individuum Bier brauen kann.</BrewingSpeed.description>
-
-  <ButcheryFleshSpeed.label>ความเร็วในการสู้รบ</ButcheryFleshSpeed.label>
-  <ButcheryFleshSpeed.description>Wie schnell das Individuum eine Kreatur schlachten kann.</ButcheryFleshSpeed.description>
-
+  
+  <!-- EN: butchery efficiency -->
   <ButcheryFleshEfficiency.label>ประสิทธิภาพการต่อสู้</ButcheryFleshEfficiency.label>
+  <!-- EN: The amount of meat produced when butchering flesh creatures. The actual amount is also related to the creature's size. -->
   <ButcheryFleshEfficiency.description>Wie viel Fleisch das Individuum aus der geschlachteten Kreatur gewinnen kann.</ButcheryFleshEfficiency.description>
-
-  <ButcheryMechanoidSpeed.label>ความเร็วในการรื้อ</ButcheryMechanoidSpeed.label>
-  <ButcheryMechanoidSpeed.description>Wie schnell das Individuum einen Mechanoiden in Einzelteile zerlegen kann.</ButcheryMechanoidSpeed.description>
-
+  
+  <!-- EN: butchery speed -->
+  <ButcheryFleshSpeed.label>ความเร็วในการสู้รบ</ButcheryFleshSpeed.label>
+  <!-- EN: The speed at which this person butchers flesh creatures. -->
+  <ButcheryFleshSpeed.description>Wie schnell das Individuum eine Kreatur schlachten kann.</ButcheryFleshSpeed.description>
+  
+  <!-- EN: mechanoid disassembly efficiency -->
   <ButcheryMechanoidEfficiency.label>ประสิทธิภาพการรื้อ</ButcheryMechanoidEfficiency.label>
+  <!-- EN: The amount of materials yielded when this person disassembles a dead mechanoid. The actual amount is also related to the mechanoid's size. -->
   <ButcheryMechanoidEfficiency.description>Wie viel Material das Individuum aus einem Mechanoiden gewinnen kann.</ButcheryMechanoidEfficiency.description>
-
+  
+  <!-- EN: mechanoid disassembly speed -->
+  <ButcheryMechanoidSpeed.label>ความเร็วในการรื้อ</ButcheryMechanoidSpeed.label>
+  <!-- EN: The speed at which this person can disassemble a mechanoid. -->
+  <ButcheryMechanoidSpeed.description>Wie schnell das Individuum einen Mechanoiden in Einzelteile zerlegen kann.</ButcheryMechanoidSpeed.description>
+  
+  <!-- EN: cooking speed -->
+  <CookSpeed.label>ความเร็วในการปรุงอาหาร</CookSpeed.label>
+  <!-- EN: The speed at which this person cooks meals. -->
+  <CookSpeed.description>Wie schnell das Individuum Mahlzeiten zubereiten kann.</CookSpeed.description>
+  
+  <!-- EN: drug cooking speed -->
+  <DrugCookingSpeed.label>ความเร็วการผลิตเบียร์</DrugCookingSpeed.label>
+  <!-- EN: The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints. -->
+  <DrugCookingSpeed.description>Wie schnell das Individuum Bier brauen kann.</DrugCookingSpeed.description>
+  
+  <!-- EN: drug synthesis speed -->
+  <DrugSynthesisSpeed.label>ความเร็วในการผลิตยาเสพติด</DrugSynthesisSpeed.label>
+  <!-- EN: How fast this character synthesizes complex chemical drugs. -->
+  <DrugSynthesisSpeed.description>Wie schnell das Individuum Drogen produzieren kann.</DrugSynthesisSpeed.description>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChance.label>มีโอกาสเกิดอาหารเป็นพิษ</FoodPoisonChance.label>
+  <!-- EN: The probability that this character will inadvertently poison a meal they cook. Food poison temporarily debilitates anyone it strikes. -->
+  <FoodPoisonChance.description>Wie häufig das Individuum versehentlich seine zubereiteten Mahlzeiten vergiftet.</FoodPoisonChance.description>
+  
+  <!-- UNUSED -->
   <MechanoidOperationSuccessChance.label>โอกาสสำเร็จการดำเนินงานของ Mechanoid</MechanoidOperationSuccessChance.label>
   <MechanoidOperationSuccessChance.description>Die Wahrscheinlichkeit, ob ein Individuum erfolgreich eine Operation an einem Meschanoiden durchführen kann. Versagen kann einfach verlorene Zeit, oder aber katastrophaler Schaden am Subjekt bedeuten.</MechanoidOperationSuccessChance.description>
-
+  
+  <!-- EN: sculpting speed -->
+  <SculptingSpeed.label>ความเร็วในการแกะสลัก</SculptingSpeed.label>
+  <!-- EN: The speed at which this person creates sculptures.\n\nThis stat only affects the how fast sculptures are produced, not their quality. Quality is determined by the sculptor's artistic skill. -->
+  <SculptingSpeed.description>Wie schnell das Individuum Skulpturen anfertigen kann.</SculptingSpeed.description>
+  
+  <!-- EN: smelting speed -->
+  <SmeltingSpeed.label>อัตราการละลาย</SmeltingSpeed.label>
+  <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
+  <SmeltingSpeed.description>Wie schnell das Individuum etwas einschmelzen kann.</SmeltingSpeed.description>
+  
+  <!-- EN: smithing speed -->
+  <SmithingSpeed.label>ความเร็วในการตีเหล็ก</SmithingSpeed.label>
+  <!-- EN: Speed at which this person crafts weapons, machinery, and ammunition.\n\nThis stat only affects how fast items are produced, not their quality. Quality is determined by the crafter's skill. -->
+  <SmithingSpeed.description>Wie schnell das Individuum Waffen, Machinen, Munition und Werkzeuge schmieden kann.</SmithingSpeed.description>
+  
+  <!-- UNUSED -->
   <StonecuttingSpeed.label>ความเร็วในการตัดหิน</StonecuttingSpeed.label>
   <StonecuttingSpeed.description>Wie schnell das Individuum rohe Felsbrocken zu Steinblöcken verarbeiten kann.</StonecuttingSpeed.description>
-
-  <DrugProductionSpeed.label>ความเร็วในการผลิตยาเสพติด</DrugProductionSpeed.label>
-  <DrugProductionSpeed.description>Wie schnell das Individuum Drogen produzieren kann.</DrugProductionSpeed.description>
-
-  <SmeltingSpeed.label>อัตราการละลาย</SmeltingSpeed.label>
-  <SmeltingSpeed.description>Wie schnell das Individuum etwas einschmelzen kann.</SmeltingSpeed.description>
-
-  </LanguageData>
+  
+  <!-- EN: tailoring speed -->
+  <TailoringSpeed.label>ความเร็วในการตัดเย็บ</TailoringSpeed.label>
+  <!-- EN: The speed at which this person makes clothes.\n\nThis stat only affects how fast clothes are produced, not their quality. Quality is determined by the tailor's crafting skill. -->
+  <TailoringSpeed.description>Wie schnell das Individuum Kleidungen nähen kann.</TailoringSpeed.description>
+  
+  <!-- EN: unskilled labor speed -->
+  <UnskilledLaborSpeed.label>TODO</UnskilledLaborSpeed.label>
+  <!-- EN: The speed at which this person carries out unskilled labor like making stone blocks, making chemfuel at a refinery or burning items. -->
+  <UnskilledLaborSpeed.description>TODO</UnskilledLaborSpeed.description>
+  
+</LanguageData>

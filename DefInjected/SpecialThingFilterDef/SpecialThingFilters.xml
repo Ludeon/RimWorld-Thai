@@ -1,21 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <AllowCorpsesColonist.label>อนุญาตศพชาวอาณานิคม</AllowCorpsesColonist.label>
-  <AllowCorpsesColonist.description>อนุญาตสำหรับศพที่เป็นชาวอาณานิคม</AllowCorpsesColonist.description>
-  <AllowCorpsesStranger.label>อนุญาตศพคนแปลกหน้า</AllowCorpsesStranger.label>
-  <AllowCorpsesStranger.description>อนุญาตสำหรับศพที่เป็นคนแปลกหน้าและศัตรู</AllowCorpsesStranger.description>
-  <AllowRotten.label>อนุญาตของเน่า</AllowRotten.label>
-  <AllowRotten.description>อนุญาตสำหรับผลิตผลธรรมชาติที่เริ่มเน่าเสีย</AllowRotten.description>
-  <AllowPlantFood.label>อนุญาตอาหารพืช</AllowPlantFood.label>
-  <AllowPlantFood.description>อนุญาตสำหรับอาหารที่มีคุณภาพเทียบเท่ากับพืชที่ยังไม่เก็บ เช่น หญ้าเลี้ยงสัตว์</AllowPlantFood.description>
   
-  <!-- Always hidden -->
-  <AllowSmeltable.label>อนุญาตให้มีการหลอม</AllowSmeltable.label>
-  <AllowSmeltable.description>รายการที่ได้รับอนุญาตที่สามารถหลอม</AllowSmeltable.description>
+  <!-- EN: allow colonist corpses -->
+  <AllowCorpsesColonist.label>อนุญาตศพชาวอาณานิคม</AllowCorpsesColonist.label>
+  <!-- EN: Allow the dead bodies of colonists. -->
+  <AllowCorpsesColonist.description>อนุญาตสำหรับศพที่เป็นชาวอาณานิคม</AllowCorpsesColonist.description>
+  
+  <!-- EN: allow stranger corpses -->
+  <AllowCorpsesStranger.label>อนุญาตศพคนแปลกหน้า</AllowCorpsesStranger.label>
+  <!-- EN: Allow the dead bodies of strangers and enemies. -->
+  <AllowCorpsesStranger.description>อนุญาตสำหรับศพที่เป็นคนแปลกหน้าและศัตรู</AllowCorpsesStranger.description>
+  
+  <!-- EN: allow tainted apparel -->
+  <AllowDeadmansApparel.label>TODO</AllowDeadmansApparel.label>
+  <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowDeadmansApparel.description>TODO</AllowDeadmansApparel.description>
+  
+  <!-- EN: allow fresh -->
+  <AllowFresh.label>TODO</AllowFresh.label>
+  <!-- EN: Allow organic things which haven't started to rot yet. -->
+  <AllowFresh.description>TODO</AllowFresh.description>
+  
+  <!-- EN: allow clean apparel -->
+  <AllowNonDeadmansApparel.label>อนุญาตให้ใส่เสื้อผ้าปกติ</AllowNonDeadmansApparel.label>
+  <!-- EN: Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowNonDeadmansApparel.description>นอกจากนี้ยังช่วยให้ใช้เสื้อผ้าปกติจะไม่ใส่เสื้อที่มาจากศพ</AllowNonDeadmansApparel.description>
+  
+  <!-- EN: allow non-smeltable -->
   <AllowNonSmeltableWeapons.label>อนุญาตอาวุธหลอมไม่ได้</AllowNonSmeltableWeapons.label>
   <AllowNonSmeltableWeapons.description>อนุญาตสำหรับอาวุธที่ไม่สามารถหลอมได้</AllowNonSmeltableWeapons.description>
-  <AllowNonDeadmansApparel.label>อนุญาตให้ใส่เสื้อผ้าปกติ</AllowNonDeadmansApparel.label>
-  <AllowNonDeadmansApparel.description>นอกจากนี้ยังช่วยให้ใช้เสื้อผ้าปกติจะไม่ใส่เสื้อที่มาจากศพ</AllowNonDeadmansApparel.description>
-
+  
+  <!-- EN: allow plant food -->
+  <AllowPlantFood.label>อนุญาตอาหารพืช</AllowPlantFood.label>
+  <!-- EN: Allow foods that are of quality equivalent to unharvested plants, like hay. -->
+  <AllowPlantFood.description>อนุญาตสำหรับอาหารที่มีคุณภาพเทียบเท่ากับพืชที่ยังไม่เก็บ เช่น หญ้าเลี้ยงสัตว์</AllowPlantFood.description>
+  
+  <!-- EN: allow rotten -->
+  <AllowRotten.label>อนุญาตของเน่า</AllowRotten.label>
+  <!-- EN: Allow organic things which have started to rot. -->
+  <AllowRotten.description>อนุญาตสำหรับผลิตผลธรรมชาติที่เริ่มเน่าเสีย</AllowRotten.description>
+  
+  <!-- EN: allow smeltable -->
+  <AllowSmeltable.label>อนุญาตให้มีการหลอม</AllowSmeltable.label>
+  <AllowSmeltable.description>รายการที่ได้รับอนุญาตที่สามารถหลอม</AllowSmeltable.description>
+  
 </LanguageData>

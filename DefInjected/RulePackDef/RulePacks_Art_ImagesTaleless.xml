@@ -1,36 +1,72 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<TalelessImages.rulePack.rulesStrings>
-		<li>image->หนึ่ง [outlander] ของ [quantity_adjphrase] [outlander] ล้อมรอบ</li>
-		<li>image->หนึ่ง [outlander] กับเสียงส่วนใหญ่ของ [outlander]เกม [game] บทละคร</li>
-		<li>image->หนึ่ง [outlander] กับ [weapon] [subject_desc]</li>
-		<li>image->หนึ่ง einsamen [outlander]</li>
-		<li>image->หนึ่ง [adjective]en [outlander] กับ [apparel]</li>
-		<li>image->หนึ่ง [outlander] der [vegetable] isst</li>
-		<li>image->[quantity_adjphrase] [outlander] และ [outlander] ร่วมกันกิน [vegetable]</li>
-		<li>image->ที่ว่างเปล่า [apparel] [subject_desc]</li>
-		<li>image->หนึ่ง [adjective]en [terrainfeature]</li>
-		<li>image->[animal]s die [game] spielen</li>
-		<li>image->หนึ่ง [animal] กับ [apparel] [subject_desc]</li>
-		<li>image->หนึ่ง [terrainfeature]</li>
-		<li>image->ภาพนามธรรมของ [concept]</li>
-		<li>image->หนึ่ง [community]</li>
-		<li>image->หนึ่ง [weapon]</li>
-		<li>image->[quantity_adjphrase] [weapon]en</li>
-		<li>image->[quantity_adjphrase] [vegetable]n</li>
-		<li>image->ที่มีชื่อเสียงที่เล็ก ๆ น้อย ๆ [personname] [subject_desc]</li>
-		<li>image->หนึ่ง [animal] ใน [apparel] หนึ่ง [outlander]</li>
-		<li>subject_desc->บินอยู่ในอากาศ</li>
-		<li>subject_desc->ลอยอยู่ในอากาศ</li>
-		<li>subject_desc->ยืนอยู่บนพื้นดิน</li>
-		<li>subject_desc->จะไปทางซ้าย</li>
-		<li>subject_desc->จะไปทางขวา</li>
-		<li>subject_desc->นั่งอยู่บนโต๊ะ</li>
-		<li>subject_desc->ที่เห็นในภาพสะท้อนในกระจก</li>
-		<li>subject_desc->แสดงให้เห็นว่ารูปแบบ</li>
-		<li>subject_desc-> บน [animal] กับ [apparel] การขี่</li>
-		<li>subject_desc->[adjective] มอง</li>
-	</TalelessImages.rulePack.rulesStrings>
-
+  
+  <!-- EN:
+    <li>image->a solitary [Character] [desc_pawn]</li>
+    <li>image->a solitary [Character] [desc_pawn] near a [TerrainFeature]</li>
+    <li>image->a solitary [Character] [desc_pawn] near a [Community]</li>
+    <li>image->a [Character] [desc_pawn] surrounded by [Character]s</li>
+    <li>image->[Character]s playing [Game]</li>
+    <li>image->a [Character] [desc_pawn] playing [Game] with [Quantity_adjphrase] [Character]s</li>
+    <li>image->a [Character] [desc_pawn] holding a [Weapon]</li>
+    <li>image->a [Character] [desc_pawn] eating a [Vegetable]</li>
+    <li>image->[Quantity_adjphrase] [PersonJob]s and [PersonJob]s eating [Vegetable]s together</li>
+    <li>image->the minor celebrity [NamePerson] [desc_pawn]</li>
+    <li>image->a [Character] wearing a [Apparel] [desc_pawn]</li>
+    <li>image->a [Community]</li>
+    <li>image->a [TerrainFeature]</li>
+    <li>image->a [Weapon]</li>
+    <li>image->a [TreeType] tree</li>
+    <li>image->a [NaturalObject]</li>
+    <li>image->[Quantity_adjphrase] [Weapon]s</li>
+    <li>image->[Quantity_adjphrase] [Vegetable]s</li>
+    <li>image->an empty [Apparel]</li>
+    <li>image->a [Shape]</li>
+    <li>image->a [Shape] surrounded by [Shape]s</li>
+    <li>image->an abstracted rendering of [ConceptAny]</li>
+    <li>image->a [AdjectiveAny] abstract shape</li>
+    <li>desc_pawn(p=12)-></li>
+    <li>desc_pawn->flying through the air</li>
+    <li>desc_pawn->suspended in the air</li>
+    <li>desc_pawn->moving to the left</li>
+    <li>desc_pawn->moving to the right</li>
+    <li>desc_pawn->sitting on a table</li>
+    <li>desc_pawn->seen through a looking glass</li>
+    <li>desc_pawn->rendered in silhouette</li>
+    <li>desc_pawn->riding on a [Animal] wearing a [Apparel]</li>
+    <li>desc_pawn->looking [AdjectiveAny]</li>
+    <li>desc_pawn->covered in [Gore]</li>
+  -->
+  <TalelessImages.rulePack.rulesStrings>
+    <li>image->หนึ่ง [outlander] ของ [quantity_adjphrase] [outlander] ล้อมรอบ</li>
+    <li>image->หนึ่ง [outlander] กับเสียงส่วนใหญ่ของ [outlander]เกม [game] บทละคร</li>
+    <li>image->หนึ่ง [outlander] กับ [weapon] [subject_desc]</li>
+    <li>image->หนึ่ง einsamen [outlander]</li>
+    <li>image->หนึ่ง [adjective]en [outlander] กับ [apparel]</li>
+    <li>image->หนึ่ง [outlander] der [vegetable] isst</li>
+    <li>image->[quantity_adjphrase] [outlander] และ [outlander] ร่วมกันกิน [vegetable]</li>
+    <li>image->ที่ว่างเปล่า [apparel] [subject_desc]</li>
+    <li>image->หนึ่ง [adjective]en [terrainfeature]</li>
+    <li>image->[animal]s die [game] spielen</li>
+    <li>image->หนึ่ง [animal] กับ [apparel] [subject_desc]</li>
+    <li>image->หนึ่ง [terrainfeature]</li>
+    <li>image->ภาพนามธรรมของ [concept]</li>
+    <li>image->หนึ่ง [community]</li>
+    <li>image->หนึ่ง [weapon]</li>
+    <li>image->[quantity_adjphrase] [weapon]en</li>
+    <li>image->[quantity_adjphrase] [vegetable]n</li>
+    <li>image->ที่มีชื่อเสียงที่เล็ก ๆ น้อย ๆ [personname] [subject_desc]</li>
+    <li>image->หนึ่ง [animal] ใน [apparel] หนึ่ง [outlander]</li>
+    <li>subject_desc->บินอยู่ในอากาศ</li>
+    <li>subject_desc->ลอยอยู่ในอากาศ</li>
+    <li>subject_desc->ยืนอยู่บนพื้นดิน</li>
+    <li>subject_desc->จะไปทางซ้าย</li>
+    <li>subject_desc->จะไปทางขวา</li>
+    <li>subject_desc->นั่งอยู่บนโต๊ะ</li>
+    <li>subject_desc->ที่เห็นในภาพสะท้อนในกระจก</li>
+    <li>subject_desc->แสดงให้เห็นว่ารูปแบบ</li>
+    <li>subject_desc-> บน [animal] กับ [apparel] การขี่</li>
+    <li>subject_desc->[adjective] มอง</li>
+  </TalelessImages.rulePack.rulesStrings>
+  
 </LanguageData>

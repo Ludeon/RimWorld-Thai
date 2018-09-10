@@ -1,48 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!--=============================== Tier 1: pre-electricity ===================================-->
   
-  <RecurveBow.label>ธนู</RecurveBow.label>
-  <RecurveBow.description>เทคนิคการผลิตขั้นสูงช่วยให้สามารถผลิต ธนู อาวุธที่มีประสิทธิภาพและราคาไม่แพง</RecurveBow.description>
-  
-  <Pemmican.label>ทำเนื้อตาก</Pemmican.label>
-  <Pemmican.description>ได้รับอนุญาตให้ชุมชนพื้นเมืองเนื้อกระตุกอเมริกันจากส่วนผสมจากเนื้อสัตว์และผักการผลิตที่ไม่เสีย ดีสำหรับการเดินทาง</Pemmican.description>
-
-  <PassiveCooler.label>เครื่องทำความเย็น แบบไม่ใช้ไฟ</PassiveCooler.label>
-  <PassiveCooler.description>สร้างหน่วยทำความเย็นแบบ Passive วิธีที่จะเย็นห้องพักโดยไม่ต้องใช้ไฟฟ้า</PassiveCooler.description>
-
-  <Devilstrand.label>ปลูกเห็ด Devilstrand</Devilstrand.label>
-  <Devilstrand.description>ปลูกเห็ด Devilstrand สำหรับทำเสื้อผ้า</Devilstrand.description>
-
-  <PsychoidBrewing.label>เครื่องดื่ม Psychoid</PsychoidBrewing.label>
-  <PsychoidBrewing.description>ใบ Psychoid สามารถต้มด้วยน้ำร้อนให้ความรู้สึกสบายและจะเสพติดเล็กน้อย</PsychoidBrewing.description>
-
-  <Brewing.label>การทำเครื่องดื่ม\nแอลกอฮอล์</Brewing.label>
-  <Brewing.description>ปลดโรงเบียร์ ฮ็อพที่ปลูกในขณะนี้สามารถจะกลายเป็นเบียร์อร่อย</Brewing.description>
- 
+  <!-- UNUSED -->
   <Bedrolls.label>ถุงนอน</Bedrolls.label>
   <Bedrolls.description>ช่วยให้สามารถผลิตถุงนอนได้</Bedrolls.description>
-
+  
+  <!-- UNUSED -->
   <Beds.label>เตียง</Beds.label>
   <Beds.description>ช่วยให้สามารถผลิตเตียงได้</Beds.description>
   
-  <CarpetMaking.label>การทำพรม</CarpetMaking.label>
-  <CarpetMaking.description>ปลดล็อคพรม พร้อมสภาพแวดล้อมของชุมชนที่สามารถประดับ</CarpetMaking.description>
-
-  <Smithing.label>การตีเหล็ก</Smithing.label>
-  <Smithing.description>ช่วยให้ชาวอาณานิคมสร้างอาวุธโลหะและเครื่องมือที่สามารถผลิตได้</Smithing.description>
-
-  <Stonecutting.label>การตัดหิน</Stonecutting.label>
-  <Stonecutting.description>ปลดตารางการทำงานของตึก นี้จะช่วยให้การประมวลผลของก้อนหินเพื่อวัสดุก่อสร้างที่เหมาะสม</Stonecutting.description>
-
-  <ComplexClothing.label>ทำเสื้อผ้า</ComplexClothing.label>
-  <ComplexClothing.description>สำหรับเสื้อผ้าที่ซับซ้อนเช่น กางเกงเสื้อหรือแม้กระทั่งหมวกคาวบอย</ComplexClothing.description>
-
-  <DrugProduction.label>การผลิตยา</DrugProduction.label>
-  <DrugProduction.description>พื้นฐานของการผลิตยาและ ช่วยให้การผลิตของห้องปฏิบัติการยา สำหรับยาโดยเฉพาะการวิจัยเพิ่มเติมเป็นสิ่งจำเป็น</DrugProduction.description>
-  
-  <Electricity.label>ไฟฟ้า</Electricity.label>
-  <Electricity.description>สร้างและใช้ไฟฟ้าสำหรับการปรุงอาหารและงานอื่น ๆ ที่เรียบง่าย</Electricity.description>
-
 </LanguageData>

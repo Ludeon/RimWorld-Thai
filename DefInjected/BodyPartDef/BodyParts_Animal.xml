@@ -1,81 +1,233 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- torso for animals -->
-
-  <Body.label>ลำตัว</Body.label>
-  <Beak.label>จงอยปาก</Beak.label>
-  <InsectHead.label>หัวแมลง</InsectHead.label>
-  <SnakeBody.label>ลำตัว</SnakeBody.label>
-  <SnakeHead.label>หัวงู</SnakeHead.label>
-  <SnakeMouth.label>ปากงู</SnakeMouth.label>
-  <InsectHeart.label>หัวใจแมลง</InsectHeart.label>
-  <InsectNostril.label>จมูกแมลง</InsectNostril.label>
-  <InsectMouth.label>ปากแมลง</InsectMouth.label>
+  
+  <!-- EN: jaw -->
   <AnimalJaw.label>ลำคอ</AnimalJaw.label>
-  <Jowl.label>แก้ม</Jowl.label>
-  <Tail.label>หาง</Tail.label>
-  <LeftAntenna.label>หนวดข้างซ้าย</LeftAntenna.label>
-  <RightAntenna.label>หนวดข้างขวา</RightAntenna.label>
-  <Pronotum.label>โปรโนตัม</Pronotum.label>
-  <Shell.label>กระดอง</Shell.label>
-  <LeftElytra.label>ปีกแข็งข้างซ้าย</LeftElytra.label>
-  <RightElytra.label>ปีกแข็งข้างขวา</RightElytra.label>
-  <LeftTusk.label>งาข้างซ้าย</LeftTusk.label>
-  <RightTusk.label>งาข้างขวา</RightTusk.label>
-  <Trunk.label>งวง</Trunk.label>
-  <Horn.label>เขา</Horn.label>
-  <HeadClaw.label>หัวกรงเล็บ</HeadClaw.label>
-  <Hump.label>หนอก</Hump.label>
-  <TurtleShell.label>กระดองเต่า</TurtleShell.label>
-  <Plastron.label>พลาสตรอน</Plastron.label>
-  <TurtleBeak.label>จงอยปากเต่า</TurtleBeak.label>
-
-  <!-- animals legs -->
-
-  <FrontLeftLeg.label>ขาคู่หน้าข้างซ้าย</FrontLeftLeg.label>
-  <FrontRightLeg.label>ขาคู่หน้าข้างขวา</FrontRightLeg.label>
-  <MiddleLeftLeg.label>ขาคู่กลางข้างซ้าย</MiddleLeftLeg.label>
-  <MiddleRightLeg.label>ขาคู่กลางข้างขวา</MiddleRightLeg.label>
-  <RearLeftLeg.label>ขาคู่หลังข้างซ้าย</RearLeftLeg.label>
-  <RearRightLeg.label>ขาคู่หลังข้างขวา</RearRightLeg.label>
-
-  <FrontLeftInsectLeg.label>ขาแมลงคู่หน้าข้างซ้าย</FrontLeftInsectLeg.label>
-  <FrontRightInsectLeg.label>ขาแมลงคู่หน้าข้างขวา</FrontRightInsectLeg.label>
-  <MiddleLeftInsectLeg.label>ขาแมลงคู่กลางข้างซ้าย</MiddleLeftInsectLeg.label>
-  <MiddleRightInsectLeg.label>ขาแมลงคู่กลางข้างขวา</MiddleRightInsectLeg.label>
-  <RearLeftInsectLeg.label>ขาแมลงคู่หลังข้างซ้าย</RearLeftInsectLeg.label>
-  <RearRightInsectLeg.label>ขาแมลงคู่หลังข้างขวา</RearRightInsectLeg.label>
-
-  <FrontLeftPaw.label>อุ้งเท้าหน้าข้างซ้าย</FrontLeftPaw.label>
-  <FrontRightPaw.label>อุ้งเท้าหน้าข้างขวา</FrontRightPaw.label>
-  <RearLeftPaw.label>อุ้งเท้าหลังข้างซ้าย</RearLeftPaw.label>
-  <RearRightPaw.label>อุ้งเท้าหลังข้างขวา</RearRightPaw.label>
+  
+  <!-- EN: antenna -->
+  <Antenna.label>TODO</Antenna.label>
+  
+  <!-- EN: beak -->
+  <Beak.label>จงอยปาก</Beak.label>
+  
+  <!-- EN: body -->
+  <Body.label>ลำตัว</Body.label>
+  
+  <!-- EN: elytra -->
+  <Elytra.label>TODO</Elytra.label>
+  
+  <!-- EN: front claw -->
+  <FrontClaw.label>TODO</FrontClaw.label>
+  <!-- EN: claw -->
+  <FrontClaw.labelShort>TODO</FrontClaw.labelShort>
+  
+  <!-- UNUSED -->
   <FrontLeftHoof.label>กีบเท้าหน้าข้างซ้าย</FrontLeftHoof.label>
-  <FrontRightHoof.label>กีบเท้าหน้าข้างขวา</FrontRightHoof.label>
-  <RearLeftHoof.label>กีบเท้าหลังข้างซ้าย</RearLeftHoof.label>
-  <RearRightHoof.label>กีบเท้าหลังข้างขวา</RearRightHoof.label>
-
-  <FrontLeftLegFirstClaw.label>กรงเล็บที่ 1 ขาหน้าข้างซ้าย</FrontLeftLegFirstClaw.label>
-  <FrontLeftLegSecondClaw.label>กรงเล็บที่ 2 ขาหน้าข้างซ้าย</FrontLeftLegSecondClaw.label>
-  <FrontLeftLegThirdClaw.label>กรงเล็บที่ 3 ขาหน้าข้างซ้าย</FrontLeftLegThirdClaw.label>
-  <FrontLeftLegFourthClaw.label>กรงเล็บที่ 4 ขาหน้าข้างซ้าย</FrontLeftLegFourthClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontLeftInsectLeg.label>ขาแมลงคู่หน้าข้างซ้าย</FrontLeftInsectLeg.label>
+  
+  <!-- UNUSED -->
+  <FrontLeftLeg.label>ขาคู่หน้าข้างซ้าย</FrontLeftLeg.label>
+  
+  <!-- UNUSED -->
   <FrontLeftLegFifthClaw.label>กรงเล็บที่ 5 ขาหน้าข้างซ้าย</FrontLeftLegFifthClaw.label>
-  <FrontRightLegFirstClaw.label>กรงเล็บที่ 1 ขาหน้าข้างขวา</FrontRightLegFirstClaw.label>
-  <FrontRightLegSecondClaw.label>กรงเล็บที่ 2 ขาหน้าข้างขวา</FrontRightLegSecondClaw.label>
-  <FrontRightLegThirdClaw.label>กรงเล็บที่ 3 ขาหน้าข้างขวา</FrontRightLegThirdClaw.label>
-  <FrontRightLegFourthClaw.label>กรงเล็บที่ 4 ขาหน้าข้างขวา</FrontRightLegFourthClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontLeftLegFirstClaw.label>กรงเล็บที่ 1 ขาหน้าข้างซ้าย</FrontLeftLegFirstClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontLeftLegFourthClaw.label>กรงเล็บที่ 4 ขาหน้าข้างซ้าย</FrontLeftLegFourthClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontLeftLegSecondClaw.label>กรงเล็บที่ 2 ขาหน้าข้างซ้าย</FrontLeftLegSecondClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontLeftLegThirdClaw.label>กรงเล็บที่ 3 ขาหน้าข้างซ้าย</FrontLeftLegThirdClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontLeftPaw.label>อุ้งเท้าหน้าข้างซ้าย</FrontLeftPaw.label>
+  
+  <!-- UNUSED -->
+  <FrontRightHoof.label>กีบเท้าหน้าข้างขวา</FrontRightHoof.label>
+  
+  <!-- UNUSED -->
+  <FrontRightInsectLeg.label>ขาแมลงคู่หน้าข้างขวา</FrontRightInsectLeg.label>
+  
+  <!-- UNUSED -->
+  <FrontRightLeg.label>ขาคู่หน้าข้างขวา</FrontRightLeg.label>
+  
+  <!-- UNUSED -->
   <FrontRightLegFifthClaw.label>กรงเล็บที่ 5 ขาหน้าข้างขวา</FrontRightLegFifthClaw.label>
-
-  <RearLeftLegFirstClaw.label>กรงเล็บที่ 1 ขาหลังข้างซ้าย</RearLeftLegFirstClaw.label>
-  <RearLeftLegSecondClaw.label>กรงเล็บที่ 2 ขาหลังข้างซ้าย</RearLeftLegSecondClaw.label>
-  <RearLeftLegThirdClaw.label>กรงเล็บที่ 3 ขาหลังข้างซ้าย</RearLeftLegThirdClaw.label>
-  <RearLeftLegFourthClaw.label>กรงเล็บที่ 4 ขาหลังข้างซ้าย</RearLeftLegFourthClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontRightLegFirstClaw.label>กรงเล็บที่ 1 ขาหน้าข้างขวา</FrontRightLegFirstClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontRightLegFourthClaw.label>กรงเล็บที่ 4 ขาหน้าข้างขวา</FrontRightLegFourthClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontRightLegSecondClaw.label>กรงเล็บที่ 2 ขาหน้าข้างขวา</FrontRightLegSecondClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontRightLegThirdClaw.label>กรงเล็บที่ 3 ขาหน้าข้างขวา</FrontRightLegThirdClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontRightPaw.label>อุ้งเท้าหน้าข้างขวา</FrontRightPaw.label>
+  
+  <!-- EN: head claw -->
+  <HeadClaw.label>หัวกรงเล็บ</HeadClaw.label>
+  
+  <!-- EN: hoof -->
+  <Hoof.label>TODO</Hoof.label>
+  
+  <!-- EN: horn -->
+  <Horn.label>เขา</Horn.label>
+  
+  <!-- EN: hump -->
+  <Hump.label>หนอก</Hump.label>
+  
+  <!-- EN: head -->
+  <InsectHead.label>หัวแมลง</InsectHead.label>
+  
+  <!-- EN: heart -->
+  <InsectHeart.label>หัวใจแมลง</InsectHeart.label>
+  
+  <!-- EN: leg -->
+  <InsectLeg.label>TODO</InsectLeg.label>
+  
+  <!-- EN: mouth -->
+  <InsectMouth.label>ปากแมลง</InsectMouth.label>
+  
+  <!-- EN: nostril -->
+  <InsectNostril.label>จมูกแมลง</InsectNostril.label>
+  
+  <!-- EN: jowl -->
+  <Jowl.label>แก้ม</Jowl.label>
+  
+  <!-- UNUSED -->
+  <LeftAntenna.label>หนวดข้างซ้าย</LeftAntenna.label>
+  
+  <!-- UNUSED -->
+  <LeftElytra.label>ปีกแข็งข้างซ้าย</LeftElytra.label>
+  
+  <!-- UNUSED -->
+  <LeftTusk.label>งาข้างซ้าย</LeftTusk.label>
+  
+  <!-- UNUSED -->
+  <MiddleLeftInsectLeg.label>ขาแมลงคู่กลางข้างซ้าย</MiddleLeftInsectLeg.label>
+  
+  <!-- UNUSED -->
+  <MiddleLeftLeg.label>ขาคู่กลางข้างซ้าย</MiddleLeftLeg.label>
+  
+  <!-- UNUSED -->
+  <MiddleRightInsectLeg.label>ขาแมลงคู่กลางข้างขวา</MiddleRightInsectLeg.label>
+  
+  <!-- UNUSED -->
+  <MiddleRightLeg.label>ขาคู่กลางข้างขวา</MiddleRightLeg.label>
+  
+  <!-- EN: paw -->
+  <Paw.label>TODO</Paw.label>
+  
+  <!-- EN: plastron -->
+  <Plastron.label>พลาสตรอน</Plastron.label>
+  
+  <!-- EN: pronotum -->
+  <Pronotum.label>โปรโนตัม</Pronotum.label>
+  
+  <!-- EN: rear claw -->
+  <RearClaw.label>TODO</RearClaw.label>
+  <!-- EN: claw -->
+  <RearClaw.labelShort>TODO</RearClaw.labelShort>
+  
+  <!-- UNUSED -->
+  <RearLeftHoof.label>กีบเท้าหลังข้างซ้าย</RearLeftHoof.label>
+  
+  <!-- UNUSED -->
+  <RearLeftInsectLeg.label>ขาแมลงคู่หลังข้างซ้าย</RearLeftInsectLeg.label>
+  
+  <!-- UNUSED -->
+  <RearLeftLeg.label>ขาคู่หลังข้างซ้าย</RearLeftLeg.label>
+  
+  <!-- UNUSED -->
   <RearLeftLegFifthClaw.label>กรงเล็บที่ 5 ขาหลังข้างซ้าย</RearLeftLegFifthClaw.label>
-  <RearRightLegFirstClaw.label>กรงเล็บที่ 1 ขาหลังข้างขวา</RearRightLegFirstClaw.label>
-  <RearRightLegSecondClaw.label>กรงเล็บที่ 2 ขาหลังข้างขวา</RearRightLegSecondClaw.label>
-  <RearRightLegThirdClaw.label>กรงเล็บที่ 3 ขาหลังข้างขวา</RearRightLegThirdClaw.label>
-  <RearRightLegFourthClaw.label>กรงเล็บที่ 4 ขาหลังข้างขวา</RearRightLegFourthClaw.label>
+  
+  <!-- UNUSED -->
+  <RearLeftLegFirstClaw.label>กรงเล็บที่ 1 ขาหลังข้างซ้าย</RearLeftLegFirstClaw.label>
+  
+  <!-- UNUSED -->
+  <RearLeftLegFourthClaw.label>กรงเล็บที่ 4 ขาหลังข้างซ้าย</RearLeftLegFourthClaw.label>
+  
+  <!-- UNUSED -->
+  <RearLeftLegSecondClaw.label>กรงเล็บที่ 2 ขาหลังข้างซ้าย</RearLeftLegSecondClaw.label>
+  
+  <!-- UNUSED -->
+  <RearLeftLegThirdClaw.label>กรงเล็บที่ 3 ขาหลังข้างซ้าย</RearLeftLegThirdClaw.label>
+  
+  <!-- UNUSED -->
+  <RearLeftPaw.label>อุ้งเท้าหลังข้างซ้าย</RearLeftPaw.label>
+  
+  <!-- UNUSED -->
+  <RearRightHoof.label>กีบเท้าหลังข้างขวา</RearRightHoof.label>
+  
+  <!-- UNUSED -->
+  <RearRightInsectLeg.label>ขาแมลงคู่หลังข้างขวา</RearRightInsectLeg.label>
+  
+  <!-- UNUSED -->
+  <RearRightLeg.label>ขาคู่หลังข้างขวา</RearRightLeg.label>
+  
+  <!-- UNUSED -->
   <RearRightLegFifthClaw.label>กรงเล็บที่ 5 ขาหลังข้างขวา</RearRightLegFifthClaw.label>
-
+  
+  <!-- UNUSED -->
+  <RearRightLegFirstClaw.label>กรงเล็บที่ 1 ขาหลังข้างขวา</RearRightLegFirstClaw.label>
+  
+  <!-- UNUSED -->
+  <RearRightLegFourthClaw.label>กรงเล็บที่ 4 ขาหลังข้างขวา</RearRightLegFourthClaw.label>
+  
+  <!-- UNUSED -->
+  <RearRightLegSecondClaw.label>กรงเล็บที่ 2 ขาหลังข้างขวา</RearRightLegSecondClaw.label>
+  
+  <!-- UNUSED -->
+  <RearRightLegThirdClaw.label>กรงเล็บที่ 3 ขาหลังข้างขวา</RearRightLegThirdClaw.label>
+  
+  <!-- UNUSED -->
+  <RearRightPaw.label>อุ้งเท้าหลังข้างขวา</RearRightPaw.label>
+  
+  <!-- UNUSED -->
+  <RightAntenna.label>หนวดข้างขวา</RightAntenna.label>
+  
+  <!-- UNUSED -->
+  <RightElytra.label>ปีกแข็งข้างขวา</RightElytra.label>
+  
+  <!-- UNUSED -->
+  <RightTusk.label>งาข้างขวา</RightTusk.label>
+  
+  <!-- EN: shell -->
+  <Shell.label>กระดอง</Shell.label>
+  
+  <!-- EN: body -->
+  <SnakeBody.label>ลำตัว</SnakeBody.label>
+  
+  <!-- EN: head -->
+  <SnakeHead.label>หัวงู</SnakeHead.label>
+  
+  <!-- EN: mouth -->
+  <SnakeMouth.label>ปากงู</SnakeMouth.label>
+  
+  <!-- EN: tail -->
+  <Tail.label>หาง</Tail.label>
+  
+  <!-- EN: trunk -->
+  <Trunk.label>งวง</Trunk.label>
+  
+  <!-- EN: beak -->
+  <TurtleBeak.label>จงอยปากเต่า</TurtleBeak.label>
+  
+  <!-- EN: shell -->
+  <TurtleShell.label>กระดองเต่า</TurtleShell.label>
+  
+  <!-- EN: tusk -->
+  <Tusk.label>TODO</Tusk.label>
+  
 </LanguageData>

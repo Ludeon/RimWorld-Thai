@@ -1,20 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <CremateCorpse.label>เผาทำลาย ศพ</CremateCorpse.label>
-  <CremateCorpse.description>ฌาปนกิจศพเพื่อทำลายศพให้หมด</CremateCorpse.description>
-  <CremateCorpse.jobString>กำลังฌาปนกิจ</CremateCorpse.jobString>
-
+  
+  <!-- EN: burn apparel -->
   <BurnApparel.label>เผาทำลาย เสื้อผ้า</BurnApparel.label>
+  <!-- EN: Burn unwanted apparel to completely destroy it. -->
   <BurnApparel.description>เผาเสื้อผ้าเพื่อทำลายให้หมดไป</BurnApparel.description>
+  <!-- EN: Burning apparel. -->
   <BurnApparel.jobString>กำลังเผาเสื้อผ้า</BurnApparel.jobString>
-
+  
+  <!-- UNUSED -->
   <BurnApparelCampfire.label>เผาทำลาย เสื้อผ้า</BurnApparelCampfire.label>
   <BurnApparelCampfire.description>เผาเสื้อผ้าเพื่อทำลายให้หมดไป</BurnApparelCampfire.description>
   <BurnApparelCampfire.jobString>กำลังเผาเสื้อผ้า</BurnApparelCampfire.jobString>
-
+  
+  <!-- EN: burn drugs -->
   <BurnDrugs.label>เผาทำลาย ยา</BurnDrugs.label>
+  <!-- EN: Burn unwanted drugs to completely destroy them. -->
   <BurnDrugs.description>เผายาเพื่อทำลายให้หมดไป</BurnDrugs.description>
+  <!-- EN: Burning drugs. -->
   <BurnDrugs.jobString>กำลังเผายา</BurnDrugs.jobString>
-
+  
+  <!-- EN: cremate corpse -->
+  <CremateCorpse.label>เผาทำลาย ศพ</CremateCorpse.label>
+  <!-- EN: Cremate a corpse to completely destroy it. -->
+  <CremateCorpse.description>ฌาปนกิจศพเพื่อทำลายศพให้หมด</CremateCorpse.description>
+  <!-- EN: Cremating. -->
+  <CremateCorpse.jobString>กำลังฌาปนกิจ</CremateCorpse.jobString>
+  
 </LanguageData>

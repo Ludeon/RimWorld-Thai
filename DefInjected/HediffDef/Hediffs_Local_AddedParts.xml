@@ -1,38 +1,105 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Added body parts -->
-
-  <PegLeg.label>ขาหมุด</PegLeg.label>
-  <PegLeg.labelNoun>ขาหมุด</PegLeg.labelNoun>
-
-  <Denture.label>ทันตกรรม</Denture.label>
-  <Denture.labelNoun>ทันตกรรม</Denture.labelNoun>
-
-  <SimpleProstheticLeg.label>ขาเทียม</SimpleProstheticLeg.label>
-  <SimpleProstheticLeg.labelNoun>ขาเทียม</SimpleProstheticLeg.labelNoun>
-
-  <SimpleProstheticArm.label>แขนเทียม</SimpleProstheticArm.label>
-  <SimpleProstheticArm.labelNoun>แขนเทียม</SimpleProstheticArm.labelNoun>
-  <SimpleProstheticArm.comps.0.tools.0.label>กำปั้น</SimpleProstheticArm.comps.0.tools.0.label>
-
-  <BionicEye.label>นัยน์ตาเทียมชีวกล</BionicEye.label>
-  <BionicEye.labelNoun>นัยน์ตาเทียมชีวกล</BionicEye.labelNoun>
-
+  
+  <!-- EN: archotech arm -->
+  <ArchotechArm.label>TODO</ArchotechArm.label>
+  <!-- EN: fist -->
+  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>TODO</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: an archotech arm -->
+  <ArchotechArm.labelNoun>TODO</ArchotechArm.labelNoun>
+  
+  <!-- EN: archotech eye -->
+  <ArchotechEye.label>TODO</ArchotechEye.label>
+  <!-- EN: an archotech eye -->
+  <ArchotechEye.labelNoun>TODO</ArchotechEye.labelNoun>
+  
+  <!-- EN: archotech leg -->
+  <ArchotechLeg.label>TODO</ArchotechLeg.label>
+  <!-- EN: an archotech leg -->
+  <ArchotechLeg.labelNoun>TODO</ArchotechLeg.labelNoun>
+  
+  <!-- EN: bionic arm -->
   <BionicArm.label>แขนเทียมชีวกล</BionicArm.label>
+  <!-- EN: fist -->
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>กำปั้น</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a bionic arm -->
   <BionicArm.labelNoun>แขนเทียมชีวกล</BionicArm.labelNoun>
-  <BionicArm.comps.0.tools.0.label>กำปั้น</BionicArm.comps.0.tools.0.label>
-
+  
+  <!-- EN: bionic ear -->
+  <BionicEar.label>TODO</BionicEar.label>
+  <!-- EN: a bionic ear -->
+  <BionicEar.labelNoun>TODO</BionicEar.labelNoun>
+  
+  <!-- EN: bionic eye -->
+  <BionicEye.label>นัยน์ตาเทียมชีวกล</BionicEye.label>
+  <!-- EN: a bionic eye -->
+  <BionicEye.labelNoun>นัยน์ตาเทียมชีวกล</BionicEye.labelNoun>
+  
+  <!-- EN: bionic heart -->
+  <BionicHeart.label>TODO</BionicHeart.label>
+  <!-- EN: a bionic heart -->
+  <BionicHeart.labelNoun>TODO</BionicHeart.labelNoun>
+  
+  <!-- EN: bionic leg -->
   <BionicLeg.label>ขาเทียมชีวกล</BionicLeg.label>
+  <!-- EN: a bionic leg -->
   <BionicLeg.labelNoun>ขาเทียมชีวกล</BionicLeg.labelNoun>
-
+  
+  <!-- EN: bionic spine -->
+  <BionicSpine.label>TODO</BionicSpine.label>
+  <!-- EN: a bionic spine -->
+  <BionicSpine.labelNoun>TODO</BionicSpine.labelNoun>
+  
+  <!-- EN: bionic stomach -->
+  <BionicStomach.label>TODO</BionicStomach.label>
+  <!-- EN: a bionic stomach -->
+  <BionicStomach.labelNoun>TODO</BionicStomach.labelNoun>
+  
+  <!-- EN: cochlear implant -->
+  <CochlearImplant.label>TODO</CochlearImplant.label>
+  <!-- EN: a cochlear implant -->
+  <CochlearImplant.labelNoun>TODO</CochlearImplant.labelNoun>
+  
+  <!-- EN: denture -->
+  <Denture.label>ทันตกรรม</Denture.label>
+  <!-- EN: a denture -->
+  <Denture.labelNoun>ทันตกรรม</Denture.labelNoun>
+  
+  <!-- EN: peg leg -->
+  <PegLeg.label>ขาหมุด</PegLeg.label>
+  <!-- EN: a peg leg -->
+  <PegLeg.labelNoun>ขาหมุด</PegLeg.labelNoun>
+  
+  <!-- EN: power claw -->
   <PowerClaw.label>พาวเวอร์คลอว์</PowerClaw.label>
+  <!-- EN: claw -->
+  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>กรงเล็บ</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  <!-- EN: a power claw -->
   <PowerClaw.labelNoun>พาวเวอร์คลอว์</PowerClaw.labelNoun>
-  <PowerClaw.comps.0.tools.0.label>กรงเล็บ</PowerClaw.comps.0.tools.0.label>
-
-  <ScytherBlade.label>ใบมีดไซเธอร์</ScytherBlade.label>
-  <ScytherBlade.labelNoun>ใบมีดไซเธอร์</ScytherBlade.labelNoun>
-  <ScytherBlade.comps.0.tools.0.label>ใบมีด</ScytherBlade.comps.0.tools.0.label>
-  <ScytherBlade.comps.0.tools.1.label>แหลม</ScytherBlade.comps.0.tools.1.label>
-
+  
+  <!-- UNUSED -->
+  <PowerClaw.comps.0.tools.1.label>แหลม</PowerClaw.comps.0.tools.1.label>
+  
+  <!-- EN: prosthetic arm -->
+  <SimpleProstheticArm.label>แขนเทียม</SimpleProstheticArm.label>
+  <!-- EN: fist -->
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>กำปั้น</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a prosthetic arm -->
+  <SimpleProstheticArm.labelNoun>แขนเทียม</SimpleProstheticArm.labelNoun>
+  
+  <!-- EN: prosthetic heart -->
+  <SimpleProstheticHeart.label>TODO</SimpleProstheticHeart.label>
+  <!-- EN: a prosthetic heart -->
+  <SimpleProstheticHeart.labelNoun>TODO</SimpleProstheticHeart.labelNoun>
+  
+  <!-- EN: prosthetic leg -->
+  <SimpleProstheticLeg.label>ขาเทียม</SimpleProstheticLeg.label>
+  <!-- EN: a prosthetic leg -->
+  <SimpleProstheticLeg.labelNoun>ขาเทียม</SimpleProstheticLeg.labelNoun>
+  
+  <!-- EN: wooden foot -->
+  <WoodenFoot.label>TODO</WoodenFoot.label>
+  <!-- EN: a wooden foot -->
+  <WoodenFoot.labelNoun>TODO</WoodenFoot.labelNoun>
+  
 </LanguageData>

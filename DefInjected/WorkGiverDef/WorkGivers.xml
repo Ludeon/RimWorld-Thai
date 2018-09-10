@@ -1,353 +1,608 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- ============= Firefighter ============= -->
   
-  <FightFires.label>สู้เพลิงไหม้</FightFires.label>
-  <FightFires.verb>ดับ</FightFires.verb>
-  <FightFires.gerund>กำลังดับเพลิงไหม้</FightFires.gerund>
+  <!-- EN: release prisoners -->
+  <BasicReleasePrisoner.label>TODO</BasicReleasePrisoner.label>
+  <!-- EN: releasing -->
+  <BasicReleasePrisoner.gerund>TODO</BasicReleasePrisoner.gerund>
+  <!-- EN: release -->
+  <BasicReleasePrisoner.verb>TODO</BasicReleasePrisoner.verb>
   
-  <!-- ============= PatientEmergency ============= -->
-  
-  <PatientGoToBedEmergency.label>ไปที่เตียงเพื่อรักษาฉุกเฉิน</PatientGoToBedEmergency.label>
-  <PatientGoToBedEmergency.verb>รับการรักษา</PatientGoToBedEmergency.verb>
-  <PatientGoToBedEmergency.gerund>กำลังรับการรักษา</PatientGoToBedEmergency.gerund>
-  
-  <PatientGoToBedTreatment.label>ไปที่เตียงเพื่อรับการรักษา</PatientGoToBedTreatment.label>
-  <PatientGoToBedTreatment.verb>รับการรักษา</PatientGoToBedTreatment.verb>
-  <PatientGoToBedTreatment.gerund>กำลังรับการรักษา</PatientGoToBedTreatment.gerund>
-   
-  <!-- ============= Doctor ============= -->
-  
-  <DoctorTreatEmergency.label>ให้การรักษาฉุกเฉิน</DoctorTreatEmergency.label>
-  <DoctorTreatEmergency.verb>รักษา</DoctorTreatEmergency.verb>
-  <DoctorTreatEmergency.gerund>กำลังรักษา</DoctorTreatEmergency.gerund>
-  
-  <DoctorRescue.label>ช่วยเหลือพันธมิตรที่บาดเจ็บไปที่เตียง</DoctorRescue.label>
-  <DoctorRescue.verb>ช่วยเหลือ</DoctorRescue.verb>
-  <DoctorRescue.gerund>กำลังช่วยเหลือ</DoctorRescue.gerund>
-  
-  <DoBillsMedicalHumanOperation.label>ผ่าตัดผู้ป่วย</DoBillsMedicalHumanOperation.label>
-  <DoBillsMedicalHumanOperation.verb>ผ่าตัด</DoBillsMedicalHumanOperation.verb>
-  <DoBillsMedicalHumanOperation.gerund>กำลังผ่าตัด</DoBillsMedicalHumanOperation.gerund>
- 
-  <DoctorTendToHumanlikes.label>การรักษาผู้ป่วย</DoctorTendToHumanlikes.label>
-  <DoctorTendToHumanlikes.verb>การรักษาผู้ป่วย</DoctorTendToHumanlikes.verb>
-  <DoctorTendToHumanlikes.gerund>กำลังรักษา</DoctorTendToHumanlikes.gerund>
- 
-  <DoctorTendToSelf.label>รักษาตัวเอง</DoctorTendToSelf.label>
-  <DoctorTendToSelf.verb>รักษาตัวเอง</DoctorTendToSelf.verb>
-  <DoctorTendToSelf.gerund>รักษา</DoctorTendToSelf.gerund>
-  
-  <DoctorFeedHumanlikes.label>ให้อาหารผู้ป่วย</DoctorFeedHumanlikes.label>
-  <DoctorFeedHumanlikes.verb>ให้อาหารผู้ป่วย</DoctorFeedHumanlikes.verb>
-  <DoctorFeedHumanlikes.gerund>กำลังรักษา</DoctorFeedHumanlikes.gerund>
- 
-  <DoBillsMedicalAnimalOperation.label>ผ่าตัดสัตว์</DoBillsMedicalAnimalOperation.label>
-  <DoBillsMedicalAnimalOperation.verb>ผ่าตัด</DoBillsMedicalAnimalOperation.verb>
-  <DoBillsMedicalAnimalOperation.gerund>กำลังผ่าตัด</DoBillsMedicalAnimalOperation.gerund>
-
-  <DoctorTendToAnimals.label>ให้การรักษาสัตว์</DoctorTendToAnimals.label>
-  <DoctorTendToAnimals.verb>รักษา</DoctorTendToAnimals.verb>
-  <DoctorTendToAnimals.gerund>กำลังรักษา</DoctorTendToAnimals.gerund>
-  
-  <DoctorFeedAnimals.label>ป้อนอาหารสัตว์</DoctorFeedAnimals.label>
-  <DoctorFeedAnimals.verb>ป้อน</DoctorFeedAnimals.verb>
-  <DoctorFeedAnimals.gerund>กำลังป้อน</DoctorFeedAnimals.gerund>
-  
-  <TakeToBedToOperate.label>นำผู้ป่วยไปยังเตียงเพื่อผ่าตัด</TakeToBedToOperate.label>
-  <TakeToBedToOperate.verb>นำไปผ่าตัด</TakeToBedToOperate.verb>
-  <TakeToBedToOperate.gerund>กำลังนำไปผ่าตัด</TakeToBedToOperate.gerund>
-  
-  <VisitSickPawn.label>เยี่ยมคนป่วย</VisitSickPawn.label>
-  <VisitSickPawn.verb>เยี่ยม</VisitSickPawn.verb>
-  <VisitSickPawn.gerund>กำลังเยี่ยม</VisitSickPawn.gerund>
-  
-  <!-- ============= PatientBedRest ============= -->
-  
-  <PatientGoToBedRecuperate.label>พักฟื้นบนเตียง</PatientGoToBedRecuperate.label>
-  <PatientGoToBedRecuperate.verb>นอนพักบนเตียงใน</PatientGoToBedRecuperate.verb>
-  <PatientGoToBedRecuperate.gerund>กำลังนอนพักบนเตียงใน</PatientGoToBedRecuperate.gerund>
-  
-  <!-- ============= Flicker ============= -->
-
-  <Flick.label>สลับสวิตช์</Flick.label>
-  <Flick.verb>สลับสวิตช์ของ</Flick.verb>
-  <Flick.gerund>กำลังสลับสวิตช์ของ</Flick.gerund>
-
-  <!-- ============= Warden ============= -->
-
-  <DoExecution.label>ประหารนักโทษ</DoExecution.label>
-  <DoExecution.verb>ประหาร</DoExecution.verb>
-  <DoExecution.gerund>กำลังประหาร</DoExecution.gerund>
-  
-  <ReleasePrisoner.label>ปล่อยตัวนักโทษ</ReleasePrisoner.label>
-  <ReleasePrisoner.verb>ปล่อยตัว</ReleasePrisoner.verb>
-  <ReleasePrisoner.gerund>กำลังปล่อยตัว</ReleasePrisoner.gerund>
-  
-  <TakePrisonerToBed.label>นำนักโทษไปยังเตียง</TakePrisonerToBed.label>
-  <TakePrisonerToBed.verb>นำไปยังเตียง</TakePrisonerToBed.verb>
-  <TakePrisonerToBed.gerund>กำลังนำไปยังเตียง</TakePrisonerToBed.gerund>
-  
-  <FeedPrisoner.label>ให้อาหารนักโทษ</FeedPrisoner.label>
-  <FeedPrisoner.verb>ให้อาหาร</FeedPrisoner.verb>
-  <FeedPrisoner.gerund>กำลังให้อาหาร</FeedPrisoner.gerund>
-  
-  <DeliverFoodToPrisoner.label>นำอาหารไปให้นักโทษ</DeliverFoodToPrisoner.label>
-  <DeliverFoodToPrisoner.verb>นำอาหารไปให้</DeliverFoodToPrisoner.verb>
-  <DeliverFoodToPrisoner.gerund>กำลังนำอาหารไปให้</DeliverFoodToPrisoner.gerund>
-  
-  <ChatWithPrisoner.label>คุยกับนักโทษ</ChatWithPrisoner.label>
-  <ChatWithPrisoner.verb>คุยกับ</ChatWithPrisoner.verb>
-  <ChatWithPrisoner.gerund>กำลังคุยกับ</ChatWithPrisoner.gerund>
-
-  <!-- ============= Handling ============= -->
-
-  <Slaughter.label>เชือดสัตว์</Slaughter.label>
-  <Slaughter.verb>เชือด</Slaughter.verb>
-  <Slaughter.gerund>กำลังเชือด</Slaughter.gerund>
-  
-  <Milk.label>รีดนมสัตว์</Milk.label>
-  <Milk.verb>รีดนม</Milk.verb>
-  <Milk.gerund>กำลังรีดนม</Milk.gerund>
-  
-  <Shear.label>ตัดขนสัตว์</Shear.label>
-  <Shear.verb>ตัดขน</Shear.verb>
-  <Shear.gerund>กำลังตัดขน</Shear.gerund>
-  
-  <Tame.label>ทำให้สัตว์เชื่อง</Tame.label>
-  <Tame.verb>ทำให้เชื่อง</Tame.verb>
-  <Tame.gerund>กำลังทำให้เชื่อง</Tame.gerund>
-  
-  <Train.label>ฝึกสัตว์</Train.label>
-  <Train.verb>ฝึก</Train.verb>
-  <Train.gerund>กำลังฝึก</Train.gerund>
-  
-  <!-- ============= Cooking ============= -->
-
-  <DoBillsCook.label>ปรุงมื้ออาหารที่เตา</DoBillsCook.label>
-  <DoBillsCook.verb>ปรุง</DoBillsCook.verb>
-  <DoBillsCook.gerund>กำลังปรุง</DoBillsCook.gerund>
-  
-  <DoBillsCookCampfire.label>ปรุงมื้ออาหารที่กองไฟ</DoBillsCookCampfire.label>
-  <DoBillsCookCampfire.verb>ปรุง</DoBillsCookCampfire.verb>
-  <DoBillsCookCampfire.gerund>กำลังปรุง</DoBillsCookCampfire.gerund>
-  
-  <DoBillsBrew.label>ต้มเหล้า</DoBillsBrew.label>
-  <DoBillsBrew.verb>ต้ม</DoBillsBrew.verb>
-  <DoBillsBrew.gerund>กำลังต้ม</DoBillsBrew.gerund>
-  
-  <DoBillsButcherFlesh.label>แล่เนื้อสัตว์</DoBillsButcherFlesh.label>
-  <DoBillsButcherFlesh.verb>แล่</DoBillsButcherFlesh.verb>
-  <DoBillsButcherFlesh.gerund>กำลังแล่ที่</DoBillsButcherFlesh.gerund>
-  
-  <CookFillHopper.label>เติมถังใส่อาหาร</CookFillHopper.label>
-  <CookFillHopper.verb>เติม</CookFillHopper.verb>
-  <CookFillHopper.gerund>กำลังเติม</CookFillHopper.gerund>
-  
-  <!-- ============= Hunting ============= -->
-  
-  <HunterHunt.label>ล่าสัตว์</HunterHunt.label>
-  <HunterHunt.verb>ล่า</HunterHunt.verb>
-  <HunterHunt.gerund>กำลังล่า</HunterHunt.gerund>
-  
-  <!-- ============= Construction ============= -->
-
-  <Deconstruct.label>รื้อสิ่งก่อสร้าง</Deconstruct.label>
-  <Deconstruct.verb>รื้อ</Deconstruct.verb>
-  <Deconstruct.gerund>กำลังรื้อ</Deconstruct.gerund>
-  
-  <Uninstall.label>ถอนการติดตั้ง</Uninstall.label>
-  <Uninstall.verb>ถอนการติดตั้ง</Uninstall.verb>
-  <Uninstall.gerund>กำลังถอนการติดตั้ง</Uninstall.gerund>
-  
-  <ConstructFinishFrames.label>ก่อสร้างโครงสร้างที่วางไว้</ConstructFinishFrames.label>
-  <ConstructFinishFrames.verb>ก่อสร้าง</ConstructFinishFrames.verb>
-  <ConstructFinishFrames.gerund>กำลังก่อสร้าง</ConstructFinishFrames.gerund>
-  
-  <ConstructDeliverResourcesToFrames.label>ส่งวัตถุดิบไปยังโครงสร้าง</ConstructDeliverResourcesToFrames.label>
-  <ConstructDeliverResourcesToFrames.verb>ทำงานกับ</ConstructDeliverResourcesToFrames.verb>
-  <ConstructDeliverResourcesToFrames.gerund>กำลังทำงานกับ</ConstructDeliverResourcesToFrames.gerund>
-  
-  <ConstructDeliverResourcesToBlueprints.label>ส่งวัตถุดิบไปยังพิมพ์เขียว</ConstructDeliverResourcesToBlueprints.label>
-  <ConstructDeliverResourcesToBlueprints.verb>ทำงานกับ</ConstructDeliverResourcesToBlueprints.verb>
-  <ConstructDeliverResourcesToBlueprints.gerund>กำลังทำงานกับ</ConstructDeliverResourcesToBlueprints.gerund>
-
-  <FixBrokenDownBuilding.label>แก้ไขซ่อมแซมสิ่งที่พัง</FixBrokenDownBuilding.label>
-  <FixBrokenDownBuilding.verb>เปลี่ยนชิ้นส่วนที่พังใน</FixBrokenDownBuilding.verb>
-  <FixBrokenDownBuilding.gerund>กำลังเปลี่ยนชิ้นส่วนที่พังใน</FixBrokenDownBuilding.gerund>
-  
-  <Repair.label>ซ่อมแซมสิ่งที่เสียหาย</Repair.label>
-  <Repair.verb>ซ่อมแซม</Repair.verb>
-  <Repair.gerund>กำลังซ่อมแซม</Repair.gerund>
-  
+  <!-- EN: build roofs -->
   <BuildRoofs.label>สร้างหลังคา</BuildRoofs.label>
-  <BuildRoofs.verb>สร้างหลังคา</BuildRoofs.verb>
+  <!-- EN: building roof -->
   <BuildRoofs.gerund>กำลังสร้างหลังคา</BuildRoofs.gerund>
+  <!-- EN: build roof -->
+  <BuildRoofs.verb>สร้างหลังคา</BuildRoofs.verb>
   
-  <RemoveRoofs.label>ถอนสร้างหลังคา</RemoveRoofs.label>
-  <RemoveRoofs.verb>ถอนสร้างหลังคา</RemoveRoofs.verb>
-  <RemoveRoofs.gerund>กำลังถอนสร้างหลังคา</RemoveRoofs.gerund>
- 
-  <ConstructRemoveFloors.label>เอาพื้นออก</ConstructRemoveFloors.label>
-  <ConstructRemoveFloors.verb>เอาพื้นออก</ConstructRemoveFloors.verb>
-  <ConstructRemoveFloors.gerund>กำลังเอาพื้นออก</ConstructRemoveFloors.gerund>
-  
-  <ConstructSmoothFloors.label>ขัดพื้นให้เรียบ</ConstructSmoothFloors.label>
-  <ConstructSmoothFloors.verb>ขัดพื้น</ConstructSmoothFloors.verb>
-  <ConstructSmoothFloors.gerund>กำลังขัดพื้น</ConstructSmoothFloors.gerund>
-    
-  <!-- ============= Growing ============= -->
-
-  <GrowerHarvest.label>เก็บเกี่ยวผลผลิต</GrowerHarvest.label>
-  <GrowerHarvest.verb>เก็บเกี่ยว</GrowerHarvest.verb>
-  <GrowerHarvest.gerund>กำลังเก็บเกี่ยว</GrowerHarvest.gerund>
-  
-  <GrowerSow.label>ปลูกพืชผล</GrowerSow.label>
-  <GrowerSow.verb>ปลูก</GrowerSow.verb>
-  <GrowerSow.gerund>กำลังปลูก</GrowerSow.gerund>
-  
-  <!-- ============= Mining ============= -->
-
-  <Mine.label>ขุดเหมือง</Mine.label>
-  <Mine.verb>ขุด</Mine.verb>
-  <Mine.gerund>กำลังขุด</Mine.gerund>
-  
-  <Drill.label>เจาะ</Drill.label>
-  <Drill.verb>เจาะ</Drill.verb>
-  <Drill.gerund>กำลังเจาะ</Drill.gerund>
-
-  <!-- ============= PlantCutting ============= -->
-  
-  <PlantsCut.label>ตัดต้นไม้ใบหญ้า</PlantsCut.label>
-  <PlantsCut.verb>ตัด</PlantsCut.verb>
-  <PlantsCut.gerund>กำลังตัด</PlantsCut.gerund>
-  
-  <!-- ============= Smithing ============= -->
-  
-  <DoBillsMakeWeapons.label>หล่ออาวุธ</DoBillsMakeWeapons.label>
-  <DoBillsMakeWeapons.verb>หล่อ</DoBillsMakeWeapons.verb>
-  <DoBillsMakeWeapons.gerund>กำลังหล่อที่</DoBillsMakeWeapons.gerund>
-
-  <DoBillsMachiningTable.label>ทำตามใบสั่งที่โต๊ะเครื่องกลไก</DoBillsMachiningTable.label>
-  <DoBillsMachiningTable.verb>ทำงาน</DoBillsMachiningTable.verb>
-  <DoBillsMachiningTable.gerund>กำลังทำงานที่</DoBillsMachiningTable.gerund>
-  
-  <DoBillsComponentAssemblyBench.label>ประกอบชิ้นส่วน</DoBillsComponentAssemblyBench.label>
-  <DoBillsComponentAssemblyBench.verb>ผลิตชิ้นส่วน</DoBillsComponentAssemblyBench.verb>
-  <DoBillsComponentAssemblyBench.gerund>กำลังผลิตชิ้นส่วนที่</DoBillsComponentAssemblyBench.gerund>
-  
-  <!-- ============= Tailoring ============= -->
-  
-  <DoBillsMakeApparel.label>ตัดเย็บเสื้อผ้า</DoBillsMakeApparel.label>
-  <DoBillsMakeApparel.verb>ตัดเย็บ</DoBillsMakeApparel.verb>
-  <DoBillsMakeApparel.gerund>กำลังตัดเย็บที่</DoBillsMakeApparel.gerund>
-  
-  <!-- ============= Art ============= -->
-  
-  <DoBillsSculpt.label>แกะสลัก</DoBillsSculpt.label>
-  <DoBillsSculpt.verb>แกะสลัก</DoBillsSculpt.verb>
-  <DoBillsSculpt.gerund>กำลังแกะสลักที่</DoBillsSculpt.gerund>
-  
-  <!-- ============= Crafting ============= -->
-
-  <DoBillsMedicalMechanoidOperation.label>ผ่าตัดให้เมคานอยด์</DoBillsMedicalMechanoidOperation.label>
-  <DoBillsMedicalMechanoidOperation.verb>แก้ไขดัดแปลง</DoBillsMedicalMechanoidOperation.verb>
-  <DoBillsMedicalMechanoidOperation.gerund>กำลังแก้ไขดัดแปลง</DoBillsMedicalMechanoidOperation.gerund>
-  
-  <DoBillsUseCraftingSpot.label>ทำตามใบสั่งที่จุดทำงานฝีมือ</DoBillsUseCraftingSpot.label>
-  <DoBillsUseCraftingSpot.verb>สร้าง</DoBillsUseCraftingSpot.verb>
-  <DoBillsUseCraftingSpot.gerund>กำลังสร้างที่</DoBillsUseCraftingSpot.gerund>
-
-  <DoBillsRefinery.label>ทำโรงกลั่น</DoBillsRefinery.label>
-  <DoBillsRefinery.verb>สร้างสารเคมี</DoBillsRefinery.verb>
-  <DoBillsRefinery.gerund>กำลังสร้างสารเคมี</DoBillsRefinery.gerund>
-  
-  <DoBillsProduceDrugs.label>ผลิตยาเสพติด</DoBillsProduceDrugs.label>
-  <DoBillsProduceDrugs.verb>ผลิตยาเสพติด</DoBillsProduceDrugs.verb>
-  <DoBillsProduceDrugs.gerund>กำลังผลิตยาเสพติด</DoBillsProduceDrugs.gerund>
-  
-  <DoBillsStonecut.label>ตัดหิน</DoBillsStonecut.label>
-  <DoBillsStonecut.verb>ตัดหิน</DoBillsStonecut.verb>
-  <DoBillsStonecut.gerund>กำลังตัดหินที่</DoBillsStonecut.gerund>
-
-  <DoBillsSmelter.label>หลอมสิ่งของ</DoBillsSmelter.label>
-  <DoBillsSmelter.verb>สกัดแยก</DoBillsSmelter.verb>
-  <DoBillsSmelter.gerund>กำลังสกัดแยกที่</DoBillsSmelter.gerund>
-    
-  <!-- ============= Hauling ============= -->
-  
-  <Refuel.label>เติมเชื้อเพลิงให้สิ่งก่อสร้าง</Refuel.label>
-  <Refuel.verb>เติมเชื้อเพลิง</Refuel.verb>
-  <Refuel.gerund>กำลังเติมเชื้อเพลิง</Refuel.gerund>
-  
-  <RearmTraps.label>ขึ้นกับดักใหม่</RearmTraps.label>
-  <RearmTraps.verb>ขี้นกับดัก</RearmTraps.verb>
-  <RearmTraps.gerund>กำลังขี้นกับดัก</RearmTraps.gerund>
-  
-  <UnloadCarriers.label>ยกเลิกการโหลดผู้ให้บริการ</UnloadCarriers.label>
-  <UnloadCarriers.verb>ปลดปล่อย</UnloadCarriers.verb>
-  <UnloadCarriers.gerund>กำลังปลดปล่อย</UnloadCarriers.gerund>
-  
-  <LoadTransporters.label>ขนส่ง กระสวยขนส่ง</LoadTransporters.label>
-  <LoadTransporters.verb>ปลดปล่อย</LoadTransporters.verb>
-  <LoadTransporters.gerund>กำลังปลดปล่อย</LoadTransporters.gerund>
-  
-  <HelpGatheringItemsForCaravan.label>โหลดคาราวาน</HelpGatheringItemsForCaravan.label>
-  <HelpGatheringItemsForCaravan.verb>ปลดปล่อย</HelpGatheringItemsForCaravan.verb>
-  <HelpGatheringItemsForCaravan.gerund>กำลังปลดปล่อย</HelpGatheringItemsForCaravan.gerund>
-  
-  <Strip.label>แก้ผ้าศพ</Strip.label>
-  <Strip.verb>แก้ผ้า</Strip.verb>
-  <Strip.gerund>กำลังแก้ผ้า</Strip.gerund>
-  
-  <Open.label>เปิดที่บรรจุ</Open.label>
-  <Open.verb>เปิด</Open.verb>
-  <Open.gerund>กำลังเปิด</Open.gerund>
-  
-  <TakeBeerOutOfFermentingBarrel.label>ใช้เบียร์หมักออกจากถัง</TakeBeerOutOfFermentingBarrel.label>
-  <TakeBeerOutOfFermentingBarrel.verb>ใช้เบียร์</TakeBeerOutOfFermentingBarrel.verb>
-  <TakeBeerOutOfFermentingBarrel.gerund>กำลังใช้เบียร์</TakeBeerOutOfFermentingBarrel.gerund>
-  
-  <FillFermentingBarrel.label>กรอกหมักบาร์เรล</FillFermentingBarrel.label>
-  <FillFermentingBarrel.verb>เติม</FillFermentingBarrel.verb>
-  <FillFermentingBarrel.gerund>กำลังเติม</FillFermentingBarrel.gerund>
-  
-  <DoBillsCremate.label>ทำตามใบสั่งงานฌาปนกิจ</DoBillsCremate.label>
-  <DoBillsCremate.verb>ฌาปนกิจ</DoBillsCremate.verb>
-  <DoBillsCremate.gerund>กำลังฌาปนกิจที่</DoBillsCremate.gerund>
-  
-  <DoBillsHaulCampfire.label>ทำตั๋วเงินที่แคมป์ไฟ</DoBillsHaulCampfire.label>
-  <DoBillsHaulCampfire.verb>ทำงานที่</DoBillsHaulCampfire.verb>
-  <DoBillsHaulCampfire.gerund>กำลังทำงานที่</DoBillsHaulCampfire.gerund>
-  
+  <!-- UNUSED -->
   <BuryCorpses.label>ฝังศพ</BuryCorpses.label>
   <BuryCorpses.verb>ฝัง</BuryCorpses.verb>
   <BuryCorpses.gerund>กำลังฝัง</BuryCorpses.gerund>
   
-  <HaulCorpses.label>ขนย้ายศพ</HaulCorpses.label>
-  <HaulCorpses.verb>ขน</HaulCorpses.verb>
-  <HaulCorpses.gerund>กำลังขน</HaulCorpses.gerund>
+  <!-- EN: chat with prisoners -->
+  <ChatWithPrisoner.label>คุยกับนักโทษ</ChatWithPrisoner.label>
+  <!-- EN: chatting with -->
+  <ChatWithPrisoner.gerund>กำลังคุยกับ</ChatWithPrisoner.gerund>
+  <!-- EN: chat with -->
+  <ChatWithPrisoner.verb>คุยกับ</ChatWithPrisoner.verb>
   
-  <HaulGeneral.label>ขนสิ่งทั่วไป</HaulGeneral.label>
-  <HaulGeneral.verb>ขน</HaulGeneral.verb>
-  <HaulGeneral.gerund>กำลังขน</HaulGeneral.gerund>
-  
-  <!-- ============= Cleaning ============= -->
-  
+  <!-- EN: clear snow -->
   <CleanClearSnow.label>กวาดหิมะ</CleanClearSnow.label>
-  <CleanClearSnow.verb>กวาดหิมะ</CleanClearSnow.verb>
+  <!-- EN: clearing snow -->
   <CleanClearSnow.gerund>กำลังกวาดหิมะ</CleanClearSnow.gerund>
+  <!-- EN: clear snow -->
+  <CleanClearSnow.verb>กวาดหิมะ</CleanClearSnow.verb>
   
+  <!-- EN: clean filth -->
   <CleanFilth.label>ทำความสะอาดสิ่งหมักหมม</CleanFilth.label>
-  <CleanFilth.verb>ทำความสะอาด</CleanFilth.verb>
+  <!-- EN: cleaning -->
   <CleanFilth.gerund>กำลังทำความสะอาด</CleanFilth.gerund>
+  <!-- EN: clean -->
+  <CleanFilth.verb>ทำความสะอาด</CleanFilth.verb>
   
-  <!-- ============= Research ============= -->
+  <!-- EN: deliver resources to blueprints -->
+  <ConstructDeliverResourcesToBlueprints.label>ส่งวัตถุดิบไปยังพิมพ์เขียว</ConstructDeliverResourcesToBlueprints.label>
+  <!-- EN: working on -->
+  <ConstructDeliverResourcesToBlueprints.gerund>กำลังทำงานกับ</ConstructDeliverResourcesToBlueprints.gerund>
+  <!-- EN: work on -->
+  <ConstructDeliverResourcesToBlueprints.verb>ทำงานกับ</ConstructDeliverResourcesToBlueprints.verb>
   
+  <!-- EN: deliver resources to frames -->
+  <ConstructDeliverResourcesToFrames.label>ส่งวัตถุดิบไปยังโครงสร้าง</ConstructDeliverResourcesToFrames.label>
+  <!-- EN: working on -->
+  <ConstructDeliverResourcesToFrames.gerund>กำลังทำงานกับ</ConstructDeliverResourcesToFrames.gerund>
+  <!-- EN: work on -->
+  <ConstructDeliverResourcesToFrames.verb>ทำงานกับ</ConstructDeliverResourcesToFrames.verb>
+  
+  <!-- EN: construct placed frames -->
+  <ConstructFinishFrames.label>ก่อสร้างโครงสร้างที่วางไว้</ConstructFinishFrames.label>
+  <!-- EN: constructing -->
+  <ConstructFinishFrames.gerund>กำลังก่อสร้าง</ConstructFinishFrames.gerund>
+  <!-- EN: construct -->
+  <ConstructFinishFrames.verb>ก่อสร้าง</ConstructFinishFrames.verb>
+  
+  <!-- EN: remove floors -->
+  <ConstructRemoveFloors.label>เอาพื้นออก</ConstructRemoveFloors.label>
+  <!-- EN: removing floor -->
+  <ConstructRemoveFloors.gerund>กำลังเอาพื้นออก</ConstructRemoveFloors.gerund>
+  <!-- EN: remove floor -->
+  <ConstructRemoveFloors.verb>เอาพื้นออก</ConstructRemoveFloors.verb>
+  
+  <!-- EN: smooth floors -->
+  <ConstructSmoothFloors.label>ขัดพื้นให้เรียบ</ConstructSmoothFloors.label>
+  <!-- EN: smoothing -->
+  <ConstructSmoothFloors.gerund>กำลังขัดพื้น</ConstructSmoothFloors.gerund>
+  <!-- EN: smooth -->
+  <ConstructSmoothFloors.verb>ขัดพื้น</ConstructSmoothFloors.verb>
+  
+  <!-- EN: smooth walls -->
+  <ConstructSmoothWalls.label>TODO</ConstructSmoothWalls.label>
+  <!-- EN: smoothing -->
+  <ConstructSmoothWalls.gerund>TODO</ConstructSmoothWalls.gerund>
+  <!-- EN: smooth -->
+  <ConstructSmoothWalls.verb>TODO</ConstructSmoothWalls.verb>
+  
+  <!-- EN: fill food hoppers -->
+  <CookFillHopper.label>เติมถังใส่อาหาร</CookFillHopper.label>
+  <!-- EN: filling -->
+  <CookFillHopper.gerund>กำลังเติม</CookFillHopper.gerund>
+  <!-- EN: fill -->
+  <CookFillHopper.verb>เติม</CookFillHopper.verb>
+  
+  <!-- EN: deconstruct structures -->
+  <Deconstruct.label>รื้อสิ่งก่อสร้าง</Deconstruct.label>
+  <!-- EN: deconstructing -->
+  <Deconstruct.gerund>กำลังรื้อ</Deconstruct.gerund>
+  <!-- EN: deconstruct -->
+  <Deconstruct.verb>รื้อ</Deconstruct.verb>
+  
+  <!-- EN: deliver food to prisoners -->
+  <DeliverFoodToPrisoner.label>นำอาหารไปให้นักโทษ</DeliverFoodToPrisoner.label>
+  <!-- EN: delivering food for -->
+  <DeliverFoodToPrisoner.gerund>กำลังนำอาหารไปให้</DeliverFoodToPrisoner.gerund>
+  <!-- EN: deliver food for -->
+  <DeliverFoodToPrisoner.verb>นำอาหารไปให้</DeliverFoodToPrisoner.verb>
+  
+  <!-- EN: deliver resources to blueprints -->
+  <DeliverResourcesToBlueprints.label>TODO</DeliverResourcesToBlueprints.label>
+  <!-- EN: delivering to -->
+  <DeliverResourcesToBlueprints.gerund>TODO</DeliverResourcesToBlueprints.gerund>
+  <!-- EN: deliver to -->
+  <DeliverResourcesToBlueprints.verb>TODO</DeliverResourcesToBlueprints.verb>
+  
+  <!-- EN: deliver resources to frames -->
+  <DeliverResourcesToFrames.label>TODO</DeliverResourcesToFrames.label>
+  <!-- EN: delivering to -->
+  <DeliverResourcesToFrames.gerund>TODO</DeliverResourcesToFrames.gerund>
+  <!-- EN: deliver to -->
+  <DeliverResourcesToFrames.verb>TODO</DeliverResourcesToFrames.verb>
+  
+  <!-- EN: brew liquors -->
+  <DoBillsBrew.label>ต้มเหล้า</DoBillsBrew.label>
+  <!-- EN: brewing at -->
+  <DoBillsBrew.gerund>กำลังต้ม</DoBillsBrew.gerund>
+  <!-- EN: brew -->
+  <DoBillsBrew.verb>ต้ม</DoBillsBrew.verb>
+  
+  <!-- EN: butcher creatures -->
+  <DoBillsButcherFlesh.label>แล่เนื้อสัตว์</DoBillsButcherFlesh.label>
+  <!-- EN: butchering at -->
+  <DoBillsButcherFlesh.gerund>กำลังแล่ที่</DoBillsButcherFlesh.gerund>
+  <!-- EN: butcher -->
+  <DoBillsButcherFlesh.verb>แล่</DoBillsButcherFlesh.verb>
+  
+  <!-- UNUSED -->
+  <DoBillsComponentAssemblyBench.label>ประกอบชิ้นส่วน</DoBillsComponentAssemblyBench.label>
+  <DoBillsComponentAssemblyBench.verb>ผลิตชิ้นส่วน</DoBillsComponentAssemblyBench.verb>
+  <DoBillsComponentAssemblyBench.gerund>กำลังผลิตชิ้นส่วนที่</DoBillsComponentAssemblyBench.gerund>
+  
+  <!-- EN: cook meals at stove -->
+  <DoBillsCook.label>ปรุงมื้ออาหารที่เตา</DoBillsCook.label>
+  <!-- EN: cooking at -->
+  <DoBillsCook.gerund>กำลังปรุง</DoBillsCook.gerund>
+  <!-- EN: cook -->
+  <DoBillsCook.verb>ปรุง</DoBillsCook.verb>
+  
+  <!-- EN: cook meals at campfire -->
+  <DoBillsCookCampfire.label>ปรุงมื้ออาหารที่กองไฟ</DoBillsCookCampfire.label>
+  <!-- EN: cooking at -->
+  <DoBillsCookCampfire.gerund>กำลังปรุง</DoBillsCookCampfire.gerund>
+  <!-- EN: cook -->
+  <DoBillsCookCampfire.verb>ปรุง</DoBillsCookCampfire.verb>
+  
+  <!-- EN: do cremation bills -->
+  <DoBillsCremate.label>ทำตามใบสั่งงานฌาปนกิจ</DoBillsCremate.label>
+  <!-- EN: cremating at -->
+  <DoBillsCremate.gerund>กำลังฌาปนกิจที่</DoBillsCremate.gerund>
+  <!-- EN: cremate -->
+  <DoBillsCremate.verb>ฌาปนกิจ</DoBillsCremate.verb>
+  
+  <!-- EN: fabricate things -->
+  <DoBillsFabricationBench.label>TODO</DoBillsFabricationBench.label>
+  <!-- EN: fabricating things at -->
+  <DoBillsFabricationBench.gerund>TODO</DoBillsFabricationBench.gerund>
+  <!-- EN: fabricating things -->
+  <DoBillsFabricationBench.verb>TODO</DoBillsFabricationBench.verb>
+  
+  <!-- EN: do bills at campfire -->
+  <DoBillsHaulCampfire.label>ทำตั๋วเงินที่แคมป์ไฟ</DoBillsHaulCampfire.label>
+  <!-- EN: working at -->
+  <DoBillsHaulCampfire.gerund>กำลังทำงานที่</DoBillsHaulCampfire.gerund>
+  <!-- EN: work at -->
+  <DoBillsHaulCampfire.verb>ทำงานที่</DoBillsHaulCampfire.verb>
+  
+  <!-- EN: make things at machining table -->
+  <DoBillsMachiningTable.label>ทำตามใบสั่งที่โต๊ะเครื่องกลไก</DoBillsMachiningTable.label>
+  <!-- EN: working at -->
+  <DoBillsMachiningTable.gerund>กำลังทำงานที่</DoBillsMachiningTable.gerund>
+  <!-- EN: work -->
+  <DoBillsMachiningTable.verb>ทำงาน</DoBillsMachiningTable.verb>
+  
+  <!-- EN: make apparel -->
+  <DoBillsMakeApparel.label>ตัดเย็บเสื้อผ้า</DoBillsMakeApparel.label>
+  <!-- EN: tailoring at -->
+  <DoBillsMakeApparel.gerund>กำลังตัดเย็บที่</DoBillsMakeApparel.gerund>
+  <!-- EN: tailor -->
+  <DoBillsMakeApparel.verb>ตัดเย็บ</DoBillsMakeApparel.verb>
+  
+  <!-- EN: make weapons -->
+  <DoBillsMakeWeapons.label>หล่ออาวุธ</DoBillsMakeWeapons.label>
+  <!-- EN: smithing at -->
+  <DoBillsMakeWeapons.gerund>กำลังหล่อที่</DoBillsMakeWeapons.gerund>
+  <!-- EN: smith -->
+  <DoBillsMakeWeapons.verb>หล่อ</DoBillsMakeWeapons.verb>
+  
+  <!-- EN: operate on animals -->
+  <DoBillsMedicalAnimalOperation.label>ผ่าตัดสัตว์</DoBillsMedicalAnimalOperation.label>
+  <!-- EN: operating on -->
+  <DoBillsMedicalAnimalOperation.gerund>กำลังผ่าตัด</DoBillsMedicalAnimalOperation.gerund>
+  <!-- EN: operate on -->
+  <DoBillsMedicalAnimalOperation.verb>ผ่าตัด</DoBillsMedicalAnimalOperation.verb>
+  
+  <!-- EN: operate on humanlikes -->
+  <DoBillsMedicalHumanOperation.label>ผ่าตัดผู้ป่วย</DoBillsMedicalHumanOperation.label>
+  <!-- EN: operating on -->
+  <DoBillsMedicalHumanOperation.gerund>กำลังผ่าตัด</DoBillsMedicalHumanOperation.gerund>
+  <!-- EN: operate on -->
+  <DoBillsMedicalHumanOperation.verb>ผ่าตัด</DoBillsMedicalHumanOperation.verb>
+  
+  <!-- UNUSED -->
+  <DoBillsMedicalMechanoidOperation.label>ผ่าตัดให้เมคานอยด์</DoBillsMedicalMechanoidOperation.label>
+  <DoBillsMedicalMechanoidOperation.verb>แก้ไขดัดแปลง</DoBillsMedicalMechanoidOperation.verb>
+  <DoBillsMedicalMechanoidOperation.gerund>กำลังแก้ไขดัดแปลง</DoBillsMedicalMechanoidOperation.gerund>
+  
+  <!-- EN: synthesize drugs -->
+  <DoBillsProduceDrugs.label>ผลิตยาเสพติด</DoBillsProduceDrugs.label>
+  <!-- EN: producing drugs at -->
+  <DoBillsProduceDrugs.gerund>กำลังผลิตยาเสพติด</DoBillsProduceDrugs.gerund>
+  <!-- EN: produce drugs -->
+  <DoBillsProduceDrugs.verb>ผลิตยาเสพติด</DoBillsProduceDrugs.verb>
+  
+  <!-- EN: work at refinery -->
+  <DoBillsRefinery.label>ทำโรงกลั่น</DoBillsRefinery.label>
+  <!-- EN: refining chemicals at -->
+  <DoBillsRefinery.gerund>กำลังสร้างสารเคมี</DoBillsRefinery.gerund>
+  <!-- EN: refine chemicals -->
+  <DoBillsRefinery.verb>สร้างสารเคมี</DoBillsRefinery.verb>
+  
+  <!-- EN: make sculptures -->
+  <DoBillsSculpt.label>แกะสลัก</DoBillsSculpt.label>
+  <!-- EN: sculpting at -->
+  <DoBillsSculpt.gerund>กำลังแกะสลักที่</DoBillsSculpt.gerund>
+  <!-- EN: sculpt -->
+  <DoBillsSculpt.verb>แกะสลัก</DoBillsSculpt.verb>
+  
+  <!-- EN: smelt items -->
+  <DoBillsSmelter.label>หลอมสิ่งของ</DoBillsSmelter.label>
+  <!-- EN: refining at -->
+  <DoBillsSmelter.gerund>กำลังสกัดแยกที่</DoBillsSmelter.gerund>
+  <!-- EN: refine -->
+  <DoBillsSmelter.verb>สกัดแยก</DoBillsSmelter.verb>
+  
+  <!-- EN: make stone blocks -->
+  <DoBillsStonecut.label>ตัดหิน</DoBillsStonecut.label>
+  <!-- EN: cutting stone blocks at -->
+  <DoBillsStonecut.gerund>กำลังตัดหินที่</DoBillsStonecut.gerund>
+  <!-- EN: stonecut -->
+  <DoBillsStonecut.verb>ตัดหิน</DoBillsStonecut.verb>
+  
+  <!-- EN: make things at crafting spot -->
+  <DoBillsUseCraftingSpot.label>ทำตามใบสั่งที่จุดทำงานฝีมือ</DoBillsUseCraftingSpot.label>
+  <!-- EN: crafting at -->
+  <DoBillsUseCraftingSpot.gerund>กำลังสร้างที่</DoBillsUseCraftingSpot.gerund>
+  <!-- EN: craft -->
+  <DoBillsUseCraftingSpot.verb>สร้าง</DoBillsUseCraftingSpot.verb>
+  
+  <!-- EN: feed animals -->
+  <DoctorFeedAnimals.label>ป้อนอาหารสัตว์</DoctorFeedAnimals.label>
+  <!-- EN: feeding -->
+  <DoctorFeedAnimals.gerund>กำลังป้อน</DoctorFeedAnimals.gerund>
+  <!-- EN: feed -->
+  <DoctorFeedAnimals.verb>ป้อน</DoctorFeedAnimals.verb>
+  
+  <!-- EN: feed patients -->
+  <DoctorFeedHumanlikes.label>ให้อาหารผู้ป่วย</DoctorFeedHumanlikes.label>
+  <!-- EN: feeding -->
+  <DoctorFeedHumanlikes.gerund>กำลังรักษา</DoctorFeedHumanlikes.gerund>
+  <!-- EN: feed -->
+  <DoctorFeedHumanlikes.verb>ให้อาหารผู้ป่วย</DoctorFeedHumanlikes.verb>
+  
+  <!-- EN: rescue downed allies to bed -->
+  <DoctorRescue.label>ช่วยเหลือพันธมิตรที่บาดเจ็บไปที่เตียง</DoctorRescue.label>
+  <!-- EN: rescuing -->
+  <DoctorRescue.gerund>กำลังช่วยเหลือ</DoctorRescue.gerund>
+  <!-- EN: rescue -->
+  <DoctorRescue.verb>ช่วยเหลือ</DoctorRescue.verb>
+  
+  <!-- EN: tend to patients with urgent needs -->
+  <DoctorTendEmergency.label>TODO</DoctorTendEmergency.label>
+  <!-- EN: tending to -->
+  <DoctorTendEmergency.gerund>TODO</DoctorTendEmergency.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendEmergency.verb>TODO</DoctorTendEmergency.verb>
+  
+  <!-- EN: tend to animals -->
+  <DoctorTendToAnimals.label>ให้การรักษาสัตว์</DoctorTendToAnimals.label>
+  <!-- EN: tending to -->
+  <DoctorTendToAnimals.gerund>กำลังรักษา</DoctorTendToAnimals.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToAnimals.verb>รักษา</DoctorTendToAnimals.verb>
+  
+  <!-- EN: tend to patients -->
+  <DoctorTendToHumanlikes.label>การรักษาผู้ป่วย</DoctorTendToHumanlikes.label>
+  <!-- EN: tending to -->
+  <DoctorTendToHumanlikes.gerund>กำลังรักษา</DoctorTendToHumanlikes.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToHumanlikes.verb>การรักษาผู้ป่วย</DoctorTendToHumanlikes.verb>
+  
+  <!-- EN: tend to self -->
+  <DoctorTendToSelf.label>รักษาตัวเอง</DoctorTendToSelf.label>
+  <!-- EN: tending to -->
+  <DoctorTendToSelf.gerund>รักษา</DoctorTendToSelf.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToSelf.verb>รักษาตัวเอง</DoctorTendToSelf.verb>
+  
+  <!-- UNUSED -->
+  <DoctorTreatEmergency.label>ให้การรักษาฉุกเฉิน</DoctorTreatEmergency.label>
+  <DoctorTreatEmergency.verb>รักษา</DoctorTreatEmergency.verb>
+  <DoctorTreatEmergency.gerund>กำลังรักษา</DoctorTreatEmergency.gerund>
+  
+  <!-- EN: execute prisoners -->
+  <DoExecution.label>ประหารนักโทษ</DoExecution.label>
+  <!-- EN: doing execution on -->
+  <DoExecution.gerund>กำลังประหาร</DoExecution.gerund>
+  <!-- EN: do execution on -->
+  <DoExecution.verb>ประหาร</DoExecution.verb>
+  
+  <!-- EN: drill at deep drill -->
+  <Drill.label>เจาะ</Drill.label>
+  <!-- EN: drilling -->
+  <Drill.gerund>กำลังเจาะ</Drill.gerund>
+  <!-- EN: drill -->
+  <Drill.verb>เจาะ</Drill.verb>
+  
+  <!-- EN: feed prisoners -->
+  <FeedPrisoner.label>ให้อาหารนักโทษ</FeedPrisoner.label>
+  <!-- EN: feeding -->
+  <FeedPrisoner.gerund>กำลังให้อาหาร</FeedPrisoner.gerund>
+  <!-- EN: feed -->
+  <FeedPrisoner.verb>ให้อาหาร</FeedPrisoner.verb>
+  
+  <!-- EN: fight fires -->
+  <FightFires.label>สู้เพลิงไหม้</FightFires.label>
+  <!-- EN: extinguishing -->
+  <FightFires.gerund>กำลังดับเพลิงไหม้</FightFires.gerund>
+  <!-- EN: extinguish -->
+  <FightFires.verb>ดับ</FightFires.verb>
+  
+  <!-- EN: fill fermenting barrels -->
+  <FillFermentingBarrel.label>กรอกหมักบาร์เรล</FillFermentingBarrel.label>
+  <!-- EN: filling -->
+  <FillFermentingBarrel.gerund>กำลังเติม</FillFermentingBarrel.gerund>
+  <!-- EN: fill -->
+  <FillFermentingBarrel.verb>เติม</FillFermentingBarrel.verb>
+  
+  <!-- EN: fix broken-down buildings -->
+  <FixBrokenDownBuilding.label>แก้ไขซ่อมแซมสิ่งที่พัง</FixBrokenDownBuilding.label>
+  <!-- EN: replacing broken components in -->
+  <FixBrokenDownBuilding.gerund>กำลังเปลี่ยนชิ้นส่วนที่พังใน</FixBrokenDownBuilding.gerund>
+  <!-- EN: replace broken components in -->
+  <FixBrokenDownBuilding.verb>เปลี่ยนชิ้นส่วนที่พังใน</FixBrokenDownBuilding.verb>
+  
+  <!-- EN: flick switches -->
+  <Flick.label>สลับสวิตช์</Flick.label>
+  <!-- EN: flicking switch on -->
+  <Flick.gerund>กำลังสลับสวิตช์ของ</Flick.gerund>
+  <!-- EN: flick switch on -->
+  <Flick.verb>สลับสวิตช์ของ</Flick.verb>
+  
+  <!-- EN: harvest crops -->
+  <GrowerHarvest.label>เก็บเกี่ยวผลผลิต</GrowerHarvest.label>
+  <!-- EN: harvesting -->
+  <GrowerHarvest.gerund>กำลังเก็บเกี่ยว</GrowerHarvest.gerund>
+  <!-- EN: harvest -->
+  <GrowerHarvest.verb>เก็บเกี่ยว</GrowerHarvest.verb>
+  
+  <!-- EN: sow crops -->
+  <GrowerSow.label>ปลูกพืชผล</GrowerSow.label>
+  <!-- EN: sowing -->
+  <GrowerSow.gerund>กำลังปลูก</GrowerSow.gerund>
+  <!-- EN: sow -->
+  <GrowerSow.verb>ปลูก</GrowerSow.verb>
+  
+  <!-- EN: feed animals -->
+  <HandlingFeedPatientAnimals.label>TODO</HandlingFeedPatientAnimals.label>
+  <!-- EN: feeding -->
+  <HandlingFeedPatientAnimals.gerund>TODO</HandlingFeedPatientAnimals.gerund>
+  <!-- EN: feed -->
+  <HandlingFeedPatientAnimals.verb>TODO</HandlingFeedPatientAnimals.verb>
+  
+  <!-- EN: haul corpses -->
+  <HaulCorpses.label>ขนย้ายศพ</HaulCorpses.label>
+  <!-- EN: hauling -->
+  <HaulCorpses.gerund>กำลังขน</HaulCorpses.gerund>
+  <!-- EN: haul -->
+  <HaulCorpses.verb>ขน</HaulCorpses.verb>
+  
+  <!-- EN: haul general things -->
+  <HaulGeneral.label>ขนสิ่งทั่วไป</HaulGeneral.label>
+  <!-- EN: hauling -->
+  <HaulGeneral.gerund>กำลังขน</HaulGeneral.gerund>
+  <!-- EN: haul -->
+  <HaulGeneral.verb>ขน</HaulGeneral.verb>
+  
+  <!-- EN: merge things -->
+  <HaulMerge.label>TODO</HaulMerge.label>
+  <!-- EN: merging -->
+  <HaulMerge.gerund>TODO</HaulMerge.gerund>
+  <!-- EN: merge -->
+  <HaulMerge.verb>TODO</HaulMerge.verb>
+  
+  <!-- EN: load caravan -->
+  <HelpGatheringItemsForCaravan.label>โหลดคาราวาน</HelpGatheringItemsForCaravan.label>
+  <!-- EN: loading -->
+  <HelpGatheringItemsForCaravan.gerund>กำลังปลดปล่อย</HelpGatheringItemsForCaravan.gerund>
+  <!-- EN: load -->
+  <HelpGatheringItemsForCaravan.verb>ปลดปล่อย</HelpGatheringItemsForCaravan.verb>
+  
+  <!-- EN: hunt -->
+  <HunterHunt.label>ล่าสัตว์</HunterHunt.label>
+  <!-- EN: hunting -->
+  <HunterHunt.gerund>กำลังล่า</HunterHunt.gerund>
+  <!-- EN: hunt -->
+  <HunterHunt.verb>ล่า</HunterHunt.verb>
+  
+  <!-- EN: load transporters -->
+  <LoadTransporters.label>ขนส่ง กระสวยขนส่ง</LoadTransporters.label>
+  <!-- EN: loading -->
+  <LoadTransporters.gerund>กำลังปลดปล่อย</LoadTransporters.gerund>
+  <!-- EN: load -->
+  <LoadTransporters.verb>ปลดปล่อย</LoadTransporters.verb>
+  
+  <!-- EN: milk animals -->
+  <Milk.label>รีดนมสัตว์</Milk.label>
+  <!-- EN: milking -->
+  <Milk.gerund>กำลังรีดนม</Milk.gerund>
+  <!-- EN: milk -->
+  <Milk.verb>รีดนม</Milk.verb>
+  
+  <!-- EN: mine -->
+  <Mine.label>ขุดเหมือง</Mine.label>
+  <!-- EN: mining -->
+  <Mine.gerund>กำลังขุด</Mine.gerund>
+  <!-- EN: mine -->
+  <Mine.verb>ขุด</Mine.verb>
+  
+  <!-- EN: open containers -->
+  <Open.label>เปิดที่บรรจุ</Open.label>
+  <!-- EN: opening -->
+  <Open.gerund>กำลังเปิด</Open.gerund>
+  <!-- EN: open -->
+  <Open.verb>เปิด</Open.verb>
+  
+  <!-- UNUSED -->
+  <PatientGoToBedEmergency.label>ไปที่เตียงเพื่อรักษาฉุกเฉิน</PatientGoToBedEmergency.label>
+  <PatientGoToBedEmergency.verb>รับการรักษา</PatientGoToBedEmergency.verb>
+  <PatientGoToBedEmergency.gerund>กำลังรับการรักษา</PatientGoToBedEmergency.gerund>
+  
+  <!-- EN: go to bed for emergency treatment -->
+  <PatientGoToBedEmergencyTreatment.label>TODO</PatientGoToBedEmergencyTreatment.label>
+  <!-- EN: receiving treatment in -->
+  <PatientGoToBedEmergencyTreatment.gerund>TODO</PatientGoToBedEmergencyTreatment.gerund>
+  <!-- EN: receive treatment in -->
+  <PatientGoToBedEmergencyTreatment.verb>TODO</PatientGoToBedEmergencyTreatment.verb>
+  
+  <!-- EN: recuperate in bed -->
+  <PatientGoToBedRecuperate.label>พักฟื้นบนเตียง</PatientGoToBedRecuperate.label>
+  <!-- EN: getting bed rest in -->
+  <PatientGoToBedRecuperate.gerund>กำลังนอนพักบนเตียงใน</PatientGoToBedRecuperate.gerund>
+  <!-- EN: get bed rest in -->
+  <PatientGoToBedRecuperate.verb>นอนพักบนเตียงใน</PatientGoToBedRecuperate.verb>
+  
+  <!-- EN: go to bed for treatment -->
+  <PatientGoToBedTreatment.label>ไปที่เตียงเพื่อรับการรักษา</PatientGoToBedTreatment.label>
+  <!-- EN: receiving treatment in -->
+  <PatientGoToBedTreatment.gerund>กำลังรับการรักษา</PatientGoToBedTreatment.gerund>
+  <!-- EN: receive treatment in -->
+  <PatientGoToBedTreatment.verb>รับการรักษา</PatientGoToBedTreatment.verb>
+  
+  <!-- EN: cut plants -->
+  <PlantsCut.label>ตัดต้นไม้ใบหญ้า</PlantsCut.label>
+  <!-- EN: cutting -->
+  <PlantsCut.gerund>กำลังตัด</PlantsCut.gerund>
+  <!-- EN: cut -->
+  <PlantsCut.verb>ตัด</PlantsCut.verb>
+  
+  <!-- UNUSED -->
+  <RearmTraps.label>ขึ้นกับดักใหม่</RearmTraps.label>
+  <RearmTraps.verb>ขี้นกับดัก</RearmTraps.verb>
+  <RearmTraps.gerund>กำลังขี้นกับดัก</RearmTraps.gerund>
+  
+  <!-- EN: rearm turrets -->
+  <RearmTurrets.label>TODO</RearmTurrets.label>
+  <!-- EN: rearming -->
+  <RearmTurrets.gerund>TODO</RearmTurrets.gerund>
+  <!-- EN: rearm -->
+  <RearmTurrets.verb>TODO</RearmTurrets.verb>
+  
+  <!-- EN: refuel fuelable buildings -->
+  <Refuel.label>เติมเชื้อเพลิงให้สิ่งก่อสร้าง</Refuel.label>
+  <!-- EN: refueling -->
+  <Refuel.gerund>กำลังเติมเชื้อเพลิง</Refuel.gerund>
+  <!-- EN: refuel -->
+  <Refuel.verb>เติมเชื้อเพลิง</Refuel.verb>
+  
+  <!-- EN: release prisoners -->
+  <ReleasePrisoner.label>ปล่อยตัวนักโทษ</ReleasePrisoner.label>
+  <!-- EN: releasing -->
+  <ReleasePrisoner.gerund>กำลังปล่อยตัว</ReleasePrisoner.gerund>
+  <!-- EN: release -->
+  <ReleasePrisoner.verb>ปล่อยตัว</ReleasePrisoner.verb>
+  
+  <!-- EN: remove roofs -->
+  <RemoveRoofs.label>ถอนสร้างหลังคา</RemoveRoofs.label>
+  <!-- EN: removing roof -->
+  <RemoveRoofs.gerund>กำลังถอนสร้างหลังคา</RemoveRoofs.gerund>
+  <!-- EN: remove roof -->
+  <RemoveRoofs.verb>ถอนสร้างหลังคา</RemoveRoofs.verb>
+  
+  <!-- EN: repair damaged things -->
+  <Repair.label>ซ่อมแซมสิ่งที่เสียหาย</Repair.label>
+  <!-- EN: repairing -->
+  <Repair.gerund>กำลังซ่อมแซม</Repair.gerund>
+  <!-- EN: repair -->
+  <Repair.verb>ซ่อมแซม</Repair.verb>
+  
+  <!-- EN: do research -->
   <Research.label>ทำงานวิจัย</Research.label>
-  <Research.verb>วิจัย</Research.verb>
+  <!-- EN: researching at -->
   <Research.gerund>กำลังวิจัยที่</Research.gerund>
-
-
+  <!-- EN: research -->
+  <Research.verb>วิจัย</Research.verb>
+  
+  <!-- EN: operate scanner -->
+  <Scan.label>TODO</Scan.label>
+  <!-- EN: scanning at -->
+  <Scan.gerund>TODO</Scan.gerund>
+  <!-- EN: scan -->
+  <Scan.verb>TODO</Scan.verb>
+  
+  <!-- EN: shear animals -->
+  <Shear.label>ตัดขนสัตว์</Shear.label>
+  <!-- EN: shearing -->
+  <Shear.gerund>กำลังตัดขน</Shear.gerund>
+  <!-- EN: shear -->
+  <Shear.verb>ตัดขน</Shear.verb>
+  
+  <!-- EN: slaughter animals -->
+  <Slaughter.label>เชือดสัตว์</Slaughter.label>
+  <!-- EN: slaughtering -->
+  <Slaughter.gerund>กำลังเชือด</Slaughter.gerund>
+  <!-- EN: slaughter -->
+  <Slaughter.verb>เชือด</Slaughter.verb>
+  
+  <!-- EN: strip corpses -->
+  <Strip.label>แก้ผ้าศพ</Strip.label>
+  <!-- EN: stripping -->
+  <Strip.gerund>กำลังแก้ผ้า</Strip.gerund>
+  <!-- EN: strip -->
+  <Strip.verb>แก้ผ้า</Strip.verb>
+  
+  <!-- EN: take beer out of fermenting barrels -->
+  <TakeBeerOutOfFermentingBarrel.label>ใช้เบียร์หมักออกจากถัง</TakeBeerOutOfFermentingBarrel.label>
+  <!-- EN: taking beer from -->
+  <TakeBeerOutOfFermentingBarrel.gerund>กำลังใช้เบียร์</TakeBeerOutOfFermentingBarrel.gerund>
+  <!-- EN: take beer -->
+  <TakeBeerOutOfFermentingBarrel.verb>ใช้เบียร์</TakeBeerOutOfFermentingBarrel.verb>
+  
+  <!-- EN: take prisoners to bed -->
+  <TakePrisonerToBed.label>นำนักโทษไปยังเตียง</TakePrisonerToBed.label>
+  <!-- EN: taking to bed -->
+  <TakePrisonerToBed.gerund>กำลังนำไปยังเตียง</TakePrisonerToBed.gerund>
+  <!-- EN: take to bed -->
+  <TakePrisonerToBed.verb>นำไปยังเตียง</TakePrisonerToBed.verb>
+  
+  <!-- EN: take patients to bed for operations -->
+  <TakeToBedToOperate.label>นำผู้ป่วยไปยังเตียงเพื่อผ่าตัด</TakeToBedToOperate.label>
+  <!-- EN: taking to operate -->
+  <TakeToBedToOperate.gerund>กำลังนำไปผ่าตัด</TakeToBedToOperate.gerund>
+  <!-- EN: take to operate -->
+  <TakeToBedToOperate.verb>นำไปผ่าตัด</TakeToBedToOperate.verb>
+  
+  <!-- EN: tame animals -->
+  <Tame.label>ทำให้สัตว์เชื่อง</Tame.label>
+  <!-- EN: taming -->
+  <Tame.gerund>กำลังทำให้เชื่อง</Tame.gerund>
+  <!-- EN: tame -->
+  <Tame.verb>ทำให้เชื่อง</Tame.verb>
+  
+  <!-- EN: train animals -->
+  <Train.label>ฝึกสัตว์</Train.label>
+  <!-- EN: training -->
+  <Train.gerund>กำลังฝึก</Train.gerund>
+  <!-- EN: train -->
+  <Train.verb>ฝึก</Train.verb>
+  
+  <!-- EN: uninstall structures -->
+  <Uninstall.label>ถอนการติดตั้ง</Uninstall.label>
+  <!-- EN: uninstalling -->
+  <Uninstall.gerund>กำลังถอนการติดตั้ง</Uninstall.gerund>
+  <!-- EN: uninstall -->
+  <Uninstall.verb>ถอนการติดตั้ง</Uninstall.verb>
+  
+  <!-- EN: unload carriers -->
+  <UnloadCarriers.label>ยกเลิกการโหลดผู้ให้บริการ</UnloadCarriers.label>
+  <!-- EN: unloading -->
+  <UnloadCarriers.gerund>กำลังปลดปล่อย</UnloadCarriers.gerund>
+  <!-- EN: unload -->
+  <UnloadCarriers.verb>ปลดปล่อย</UnloadCarriers.verb>
+  
+  <!-- EN: visit sick people -->
+  <VisitSickPawn.label>เยี่ยมคนป่วย</VisitSickPawn.label>
+  <!-- EN: visiting -->
+  <VisitSickPawn.gerund>กำลังเยี่ยม</VisitSickPawn.gerund>
+  <!-- EN: visit -->
+  <VisitSickPawn.verb>เยี่ยม</VisitSickPawn.verb>
+  
 </LanguageData>

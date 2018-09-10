@@ -1,113 +1,178 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-	<CameraDolly.label>การเคลื่อนไหวกล้อง</CameraDolly.label>
-	<CameraDolly.helpText>Bewege die Kamera, indem du die MITTLERE MAUSTASTE drückst und ziehst oder durch Drücken der Tasten {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight}.</CameraDolly.helpText>
-
-	<CameraZoom.label>ซูมกล้อง</CameraZoom.label>
-	<CameraZoom.helpText>Zoome rein und raus mit dem MAUSRAD oder mit den Tasten {Key:MapZoomIn} und {Key:MapZoomOut} </CameraZoom.helpText>
-
-	<TimeControls.label>เรียนรู้การควบคุมเวลา</TimeControls.label>
-	<TimeControls.helpText>Du kannst die Zeit beschleunigen, verlangsamen oder pausieren.\n\nVersuch die Zeit mit den Tasten {Key:TimeSpeedNormal}, {Key:TimeSpeedFast} und {Key:TimeSpeedSuperfast} zu kontrollieren. Alternativ kannst du auch die Zeitsteuerung am rechten unteren Bildschirmrand verwenden.</TimeControls.helpText>
-
-	<Pause.label>หยุดชั่วคราว</Pause.label>
-	<Pause.helpText>Drücke {Key:TogglePause} um das Spiel zu pausieren.\n\nDu kannst noch Befehle erteilen, wenn das Spiel pausiert ist.\n\nDenke immer dran - wenn es hektisch wird, drücke einfach {Key:TogglePause}!</Pause.helpText>
-
-	<Stockpiles.label>คลัง</Stockpiles.label>
-	<Stockpiles.helpText>Deine Kolonisten benötigen einen Ort, um Gegenstände zu lagern. Definiere einen LAGERPLATZ, auf dem sie Gegenstände lagern können.\n\nDu findest die LAGERZONEN im Abschnitt ZONEN im ARCHITEKT-Menü.</Stockpiles.helpText>
-
-	<Forbidding.label>ห้ามและอนุญาตให้</Forbidding.label>
-	<Forbidding.helpText>Kolonisten werden nicht mit Gegenständen interagieren, die als VERBOTEN markiert sind.\n\nWähle ein verbotenes Objekt aus und verwende die Interaktionsfelder unten links, um es zu ERLAUBEN.</Forbidding.helpText>
-
-	<GrowingFood.label>โซนการเพาะปลูก</GrowingFood.label>
-	<GrowingFood.helpText>Um Nahrung anzubauen, platziere eine ANBAUZONE aus dem ARCHITEKT-Menü.\n\nDie Zone kann nur auf fruchtbarem Boden platziert werden.</GrowingFood.helpText>
-
-	<EquippingWeapons.label>อาวุธ</EquippingWeapons.label>
-	<EquippingWeapons.helpText>Deine Kolonisten haben Zugang zu Waffen. Rüste sie aus!\n\nWähle die Kolonisten aus und mache einen Rechtsklick auf die Waffe, mit der sie sich ausrüsten sollen.</EquippingWeapons.helpText>
-
-	<Alerts.label>สัญญาณเตือน</Alerts.label>
-	<Alerts.helpText>Die Alarme am rechten Bildschirmrand zeigen dir wichtige Ereignisse, die deine Aufmerksamkeit benötigen.\n\nAchte auf diese Alarme!</Alerts.helpText>
-
-	<Mining.label>การขุดเหมืองแร่</Mining.label>
-	<Mining.helpText>Du kannst sagen, wo abgebaut werden soll, indem du das ARCHITEKT-Menü öffnest und den BEFEHLE-Reiter anklickst.\n\nManche abbaubare Blöcke geben STAHL, GOLD, PLASTAHL oder andere Materialien</Mining.helpText>
-
-	<WorkTab.label>กำหนดลำดับความสำคัญ</WorkTab.label>
-	<WorkTab.helpText>Du kannst im ARBEITS-TAB links unten einstellen, welchen Tätigkeiten die Kolonisten nachgehen sollen.\n\nSie arbeiten die Aufgaben der jeweiligen Priorität entsprechend von links nach rechts ab.\n\nWenn niemand einem bestimmten Arbeitstyp zugewiesen ist, oder wenn deine Kolonisten mit anderen Dingen zu sehr beschäftigt sind, wird die zugehörige Aufgabe eventuell nie erledigt!</WorkTab.helpText>
-
-	<ForbiddingDoors.label>ห้ามมิให้ประตู</ForbiddingDoors.label>
-	<ForbiddingDoors.helpText>Du kannst Türen VERBIETEN, damit Kolonisten und Haustiere nicht durch diese Türen gehen.\n\nAchtung: Das ist kein 'Tür abschließen' Befehl. Türen sind immer verschlossen, damit Gegner nicht einfach hindurch gehen können. Mit dem Befehl kannst du deinen Kolonisten nur sagen, dass sie diese Tür nicht nutzen sollen. Kolonisten, die verrückt sind, gehen eventuell trotzdem durch diese Tür.</ForbiddingDoors.helpText>
-
-	<CoverAndShooting.label>Deckung und Schießen</CoverAndShooting.label>
-	<CoverAndShooting.helpText>Das wichtigste im Fernkampf ist die Deckung.\n\nDeckung funktioniert nur, wenn der Kolonist sie berührt und sie sich zwischen dem Kolonisten und dem Gegner befindet.\n\nDu kannst deinen Kolonisten auch an Ecken von Wänden platzieren. Er wird sich rauslehnen, um zu schießen.\n\nViele Dinge können als Deckung genutzt werden, aber manche sind besser als andere. Deckung hinter einem Baum ist besser als gar nichts, aber Deckung hinter einem Sandsack ist besser als hinter einem Baum.</CoverAndShooting.helpText>
-
-	<FormCaravan.label>Karawane formieren</FormCaravan.label>
-	<FormCaravan.helpText>Du kannst eine Karawane erstellen, mit der Leute über den Planeten reisen können!\n\nWähle im WELT-Reiter deine Heimatbasis und klicke auf den "Karawane formieren" Knopf.</FormCaravan.helpText>
-
-	<AnimalTaming.label>Tiere zähmen</AnimalTaming.label>
-	<AnimalTaming.helpText>Du kannst Kolonisten mit dem ZÄHMEN-Befehl sagen, welche Tiere sie zähmen sollen.\n\nKolonisten bieten dem Tier dann Nahrung an und versuchen es zu zähmen.\n\nAchtung: Manche Tiere reagieren heftig auf einen gescheiterten Zähmversuch.</AnimalTaming.helpText>
-
-	<AnimalTraining.label>Haustiere trainieren</AnimalTraining.label>
-	<AnimalTraining.helpText>Du kannst deinen Haustieren bestimmte Fähigkeiten in deren TRAINING-Reiter beibringen.\n\nTiere können nicht durchgehen trainiert werden; sie brauchen etwas Zeit zwischen den Trainingseinheiten.</AnimalTraining.helpText>
-
-	<InfoCard.label>Informationskarte</InfoCard.label>
-	<InfoCard.helpText>Die Informationskarte zeigt dir eine detaillierte Statistik über alle Bestandteile deiner Kolonie.\n\nWähle eine Person oder einen Gegenstand aus und öffne die zugehörige Informationskarte mit der Schaltfläche 'i' auf der Ansichtsseite links unten.</InfoCard.helpText>
-
-	<StorageTab.label>Der Reiter 'Lager'</StorageTab.label>
-	<StorageTab.helpText>Du kannst Lager- und Abfallzonen durch den Reiter 'Lager' konfigurieren, um genau festzulegen, was dort eingelagert werden soll und was nicht.</StorageTab.helpText>
-
-	<HomeArea.label>Heimatgebiete</HomeArea.label>
-	<HomeArea.helpText>HEIMATGEBIETE definieren die Bereiche, in denen die Kolonisten sauber machen und Feuer löschen sollen.\n\nDefiniere das HEIMATGEBIET in der Kategorie 'Gebiete' im Architekt Menü.</HomeArea.helpText>
-
-	<SpoilageAndFreezers.label>Verderblichkeit und Gefrierschränke</SpoilageAndFreezers.label>
-	<SpoilageAndFreezers.helpText>Die meisten Nahrungsmittel verderben nach relativ kurzer Zeit.\n\nUm dies zu verhindern baue einen begehbaren Kühlraum.\n\nUm einen Kühlraum zu bauen, errichte einen geschlossenen Raum und setze ein oder zwei Kühlungen in eine Wand. Stelle bei ihnen eine negative Ziel-Temperatur ein.\n\nGefrorene Nahrung verdirbt nicht.</SpoilageAndFreezers.helpText>
-
-	<Deterioration.label>Zerfall von Gegenständen</Deterioration.label>
-	<Deterioration.helpText>Gegenstände die im Freien gelassen werden, zerfallen nach einiger Zeit.\n\nUm Gegenstände über längere Zeit zu behalten, lager sie unter einem Dach.</Deterioration.helpText>
-
-	<HostilityResponse.label>Reaktion bei Gefahren</HostilityResponse.label>
-	<HostilityResponse.helpText>Du kannst einstellen, wie sich die Kolonisten bei Gefahren verhalten sollen.\n\nWähle zwischen FLIEHEN, ANGREIFEN und IGNORIEREN im Zuweisungs-Menü.</HostilityResponse.helpText>
-
-	<AllowedAreas.label>Erlaubte Zonen</AllowedAreas.label>
-	<AllowedAreas.helpText>Deinen Kolonisten und Haustieren können ERLAUBTE ZONEN zugewiesen werden. Dies verbietet ihnen sich außerhalb dieser Zone aufzuhalten.\n\nDu kannst Zonen in dem Beschränkungs-Menü erstellen, löschen und zuweisen.\n\nDu kannst die Zonen auch erweitern, indem du die ERLAUBTE ZONE ERWEITERN und ERLAUBTE ZONE LÖSCHEN Befehle in dem Zuweisungs-Menü nutzt.</AllowedAreas.helpText>
-
-	<MedicalOperations.label>Medizinische Operationen</MedicalOperations.label>
-	<MedicalOperations.helpText>Um eine medizinische Operation wie z. B. eine Organentnahme oder die Installation einer Prothese vorzunehmen, öffne den GESUNDHEIT-Reiter eines Kolonisten und wechsle zum Unterreiter OPERATIONEN.</MedicalOperations.helpText>
-	<TimeAssignments.label>Zeitzuweisung</TimeAssignments.label>
-	<TimeAssignments.helpText>Du kannst verändern, was deine Kolonisten zu welchem Zeitpunkt machen, indem du dies in dem BESCHRÄNKUNGS-Menü einstellst.</TimeAssignments.helpText>
-
-	<ManualWorkPriorities.label>Manuelle Arbeitspriorisierung</ManualWorkPriorities.label>
-	<ManualWorkPriorities.helpText>Eine der wichtigsten Teile in RimWorld ist es für deine Kolonisten die bestmögliche Arbeitspriorität festzulegen.\n\nSchlechte Einstellungen sorgen dafür, dass wichtige Arbeiten über längere Zeit nicht erledigt werden, da die Kolonisten mit unwichtigeren Aufgaben beschäftigt sind.\n\nUm die mehr Möglichkeiten zu geben, welche Arbeiten wie priorisiert werden sollen, gibt des die Möglichkeit der manuellen Priorisierung im Arbeits-Reiter.\n\nIn diesem Modus bekommt jeder Kolonist für jede Arbeit eine Prioritätszahl zugewiesen. Er wird dann die Arbeiten mit der Priorität 1 von links nach rechts abarbeiten, dann die Arbeiten der Priorität 2 und so weiter.\n\nDie intelligente Verwendung dieser Einstellmöglichkeiten sind lebensnotwendig in einer großen und gut automatisierten Kolonie.</ManualWorkPriorities.helpText>
-
-	<GettingMoreTraders.label>Mehr Händler</GettingMoreTraders.label>
-	<GettingMoreTraders.helpText>Mehr Händlerkarawanen werden dich besuchen, wenn du mit mehr Fraktionen alliiert bist.\n\nWenn du keine Alliierten hast, wird dich nie ein Händler besuchen!\n\nDu kannst Alliierte auch bezahlen, damit sie eine Karawane zu dir schicken, indem du sie mit der Kommunikationskonsole anrufst.</GettingMoreTraders.helpText>
-
-	<InspectRoomStats.label>Raumstatistiken</InspectRoomStats.label>
-	<InspectRoomStats.helpText>Du kannst schauen, welche Eigenschaften ein Raum hat, indem du RAUMEIGENSCHAFTEN am rechten unteren Bildschirmrand einschaltest.</InspectRoomStats.helpText>
-
-	<Outfits.label>Outfits</Outfits.label>
-	<Outfits.helpText>Kolonisten tragen automatisch immer das neuste mit der höchsten Qualität.\n\nDu musst ihnen nicht manuell etwas anziehen (Du kannst es aber, wenn du möchtest).\n\nUm Kolonisten zu sagen, was sie tragen sollen, öffne den ZUWEISUNGS-Reiter und klicke auf "Outfits bearbeiten".</Outfits.helpText>
-
-	<FirePreparation.label>Vorbereitung für Feuer</FirePreparation.label>
-	<FirePreparation.helpText>Feuer können sehr einfach eine ganze Kolonie niederbrennen. Um das zu verhindern, musst du dich vorbereiten.
-  \nHierbei hast du die folgenden Möglichkeiten:
-  \n1. Anstelle von einem riesigen Gebäude, baue einzelne Gebäude mit etwas Abstand zueinander.
-  \n2. Benutze Materialien, die nicht so entzündlich sind. Holz ist billig und schnell - aber auch sehr entzündlich.
-  \n3. Baue Brandschneisen, um Waldbrände zu stoppen, die deine Basis gefährden. Ein Streifen Beton, 3 bis 4 Felder breit, stoppt ankommendes Feuer.
-	</FirePreparation.helpText>
-
-	<HistoryTab.label>Der Reiter 'Geschichte'</HistoryTab.label>
-	<HistoryTab.helpText>Du kannst den zeitlichen Verlauf der Geschichte deiner Kolonie über die Schaltfläche GESCHICHTE am unteren Bildschirmrand aufrufen.</HistoryTab.helpText>
-
-	<ClickingMessages.label>Nachrichten anklicken</ClickingMessages.label>
-	<ClickingMessages.helpText>Du kannst auf die Nachrichten am oberen linken Bildschirmrand klicken, um die Kamera sofort auf das entsprechende Subjekt zu zentrieren.</ClickingMessages.helpText>
-
-	<ShotAccuracyTooltip.label>Schußgenauigkeit</ShotAccuracyTooltip.label>
-	<ShotAccuracyTooltip.helpText>Du kannst die genaue Errechnung der Genauigkeit eines Schusses sehen.\n\nUm das zu tun, wähle den Schützen aus und lasse die Maus auf dem Ziel. Die Kurzinfo zeigt die Trefferchance und wie sie errechnet wird.</ShotAccuracyTooltip.helpText>
-
-	<FriendlyFireSafety.label>Teambeschuss</FriendlyFireSafety.label>
-	<FriendlyFireSafety.helpText>Teambeschuss gibt es nicht, wenn der Schütze in der Nähe des Verbündeten steht.\n\nDu kannst zum Beispiel einen Schwertkämpfer direkt vor einen Schützen stellen. Der Schütze schießt über die Schulter seines Freundes.\n\nAuf diese Weise kann man Nah- und Fernkämpfer gut kombinieren.</FriendlyFireSafety.helpText>
-
-
-
-
-
+  
+  <!-- EN: Alerts -->
+  <Alerts.label>สัญญาณเตือน</Alerts.label>
+  <!-- EN: The alerts at the right edge of the screen tell you about issue that need your attention.\n\nKeep an eye on the alerts. -->
+  <Alerts.helpText>TODO</Alerts.helpText>
+  
+  <!-- EN: Allowed areas -->
+  <AllowedAreas.label>TODO</AllowedAreas.label>
+  <!-- EN: Colonists and colony animals can be assigned to ALLOWED AREAS. This forbids them from taking destinations outside their allowed area.\n\nThis can be used to, for example, forbid colonists from going outside.\n\nYou can create multiple allowed areas and assign them to different colonists and animals.\n\nCreate, delete, and assign allowed areas in the RESTRICT tab.\n\nPaint allowed areas onto the map using the EXPAND ALLOWED AREA and CLEAR ALLOWED AREA designators in the Architect tab. -->
+  <AllowedAreas.helpText>TODO</AllowedAreas.helpText>
+  
+  <!-- EN: Animal taming -->
+  <AnimalTaming.label>TODO</AnimalTaming.label>
+  <!-- EN: You can assign colonists to tame a wild animal with the TAME designator.\n\nColonists will offer the animal food and attempt to tame it.\n\nBeware: Some animals can respond violently to failed taming attempts. -->
+  <AnimalTaming.helpText>TODO</AnimalTaming.helpText>
+  
+  <!-- EN: Animal training -->
+  <AnimalTraining.label>TODO</AnimalTraining.label>
+  <!-- EN: You can assign a tame animal to be trained in specific skills on its TRAINING tab.\n\nAnimals can't be trained continuously; they need time between training sessions. -->
+  <AnimalTraining.helpText>TODO</AnimalTraining.helpText>
+  
+  <!-- EN: Camera dolly -->
+  <CameraDolly.label>การเคลื่อนไหวกล้อง</CameraDolly.label>
+  <!-- EN: Move the camera by clicking and dragging the MOUSE BUTTON 3 (middle button) or with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys. -->
+  <CameraDolly.helpText>TODO</CameraDolly.helpText>
+  
+  <!-- EN: Camera zoom -->
+  <CameraZoom.label>ซูมกล้อง</CameraZoom.label>
+  <!-- EN: Zoom in and out with the MOUSEWHEEL or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys. -->
+  <CameraZoom.helpText>TODO</CameraZoom.helpText>
+  
+  <!-- EN: Clicking messages -->
+  <ClickingMessages.label>TODO</ClickingMessages.label>
+  <!-- EN: You can click on the notifications in the top-left of the screen to instantly center the camera on their subject. -->
+  <ClickingMessages.helpText>TODO</ClickingMessages.helpText>
+  
+  <!-- EN: Cover and shooting -->
+  <CoverAndShooting.label>TODO</CoverAndShooting.label>
+  <!-- EN: The most important thing to do in ranged combat is to use cover.\n\nCover only works if your colonist is touching it, and it is between your colonist and the enemy.\n\nYou can also place colonists behind wall corners. They will lean out to shoot.\n\nMost things can be used as cover, but some things are better than others. Hiding behind a tree is better than nothing, but hiding behind sandbags is better than using a tree. -->
+  <CoverAndShooting.helpText>TODO</CoverAndShooting.helpText>
+  
+  <!-- EN: Item deterioration -->
+  <Deterioration.label>TODO</Deterioration.label>
+  <!-- EN: Items left outdoors will slowly deteriorate.\n\nIf you want to store items long-term, keep them in a roofed room. -->
+  <Deterioration.helpText>TODO</Deterioration.helpText>
+  
+  <!-- EN: Equipping weapons -->
+  <EquippingWeapons.label>อาวุธ</EquippingWeapons.label>
+  <!-- EN: Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and right-click on the weapon you want them to equip. -->
+  <EquippingWeapons.helpText>TODO</EquippingWeapons.helpText>
+  
+  <!-- EN: Fire preparation -->
+  <FirePreparation.label>TODO</FirePreparation.label>
+  <!-- EN: Fires can easily burn down a colony. To defeat them, you must prepare before they happen.
+\n\nThese design elements can help reduce the damage from fires:
+\n\n1. Instead of constructing one super-building, build separate buildings with spaces in between.
+\n\n2. Use less flammable materials. Wood is cheap and fast - but very flammable.
+\n\n3. Build firebreaks to stop wildfires approaching your base. A strip of concrete floor 3 or 4 cells wide will generally stop an advancing fire. -->
+  <FirePreparation.helpText>TODO</FirePreparation.helpText>
+  
+  <!-- EN: Forbid and unforbid -->
+  <Forbidding.label>ห้ามและอนุญาตให้</Forbidding.label>
+  <!-- EN: Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to UNFORBID it. -->
+  <Forbidding.helpText>TODO</Forbidding.helpText>
+  
+  <!-- EN: Forbidding doors -->
+  <ForbiddingDoors.label>ห้ามมิให้ประตู</ForbiddingDoors.label>
+  <!-- EN: You can FORBID doors so colonists and tame animals won't go through them.\n\nNote that this isn't a door lock. Doors are always locked, so enemies can't pass freely. Forbidding just directs your colonists not to use the door. Colonists who are going crazy might use the door anyway. -->
+  <ForbiddingDoors.helpText>TODO</ForbiddingDoors.helpText>
+  
+  <!-- EN: Forming caravans -->
+  <FormCaravan.label>TODO</FormCaravan.label>
+  <!-- EN: You can form a caravan to send groups of people traveling across the planet!\n\nIn the WORLD tab, select your home base and click the "form caravan" button. -->
+  <FormCaravan.helpText>TODO</FormCaravan.helpText>
+  
+  <!-- EN: Friendly fire safety -->
+  <FriendlyFireSafety.label>TODO</FriendlyFireSafety.label>
+  <!-- EN: Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over his friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters. -->
+  <FriendlyFireSafety.helpText>TODO</FriendlyFireSafety.helpText>
+  
+  <!-- EN: Getting more traders -->
+  <GettingMoreTraders.label>TODO</GettingMoreTraders.label>
+  <!-- EN: More trader caravans will come to visit you if you're allied with more factions.\n\nIf you have no allies, no caravans will ever visit!\n\nYou can also pay allies to send trade caravans by calling them on the comms console. -->
+  <GettingMoreTraders.helpText>TODO</GettingMoreTraders.helpText>
+  
+  <!-- EN: Growing zones -->
+  <GrowingFood.label>โซนการเพาะปลูก</GrowingFood.label>
+  <!-- EN: To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground. -->
+  <GrowingFood.helpText>TODO</GrowingFood.helpText>
+  
+  <!-- EN: History tab -->
+  <HistoryTab.label>TODO</HistoryTab.label>
+  <!-- EN: You can see a record of your colony's fortunes over time in the HISTORY tab at the bottom of the screen. -->
+  <HistoryTab.helpText>TODO</HistoryTab.helpText>
+  
+  <!-- EN: Home area -->
+  <HomeArea.label>TODO</HomeArea.label>
+  <!-- EN: The HOME AREA tells your colonists which area to clean and where to extinguish fires.\n\nDefine the HOME AREA with the Zones category under the Architect menu. -->
+  <HomeArea.helpText>TODO</HomeArea.helpText>
+  
+  <!-- EN: Hostility response modes -->
+  <HostilityResponse.label>TODO</HostilityResponse.label>
+  <!-- EN: You can configure how colonists should automatically respond to threats like predatory animals.\n\nChoose from FLEE, ATTACK, and IGNORE modes in the ASSIGN menu. -->
+  <HostilityResponse.helpText>TODO</HostilityResponse.helpText>
+  
+  <!-- EN: Info card -->
+  <InfoCard.label>TODO</InfoCard.label>
+  <!-- EN: The info card shows you detailed statistics about any item, person, or construction.\n\nSelect a person or item and open their info card with the 'i' button on the inspect pane. -->
+  <InfoCard.helpText>TODO</InfoCard.helpText>
+  
+  <!-- EN: Room stats inspector -->
+  <InspectRoomStats.label>TODO</InspectRoomStats.label>
+  <!-- EN: You can inspect the impressiveness, wealth, and beauty of individual rooms using the ROOM STATS INSPECT toggle in the bottom right. -->
+  <InspectRoomStats.helpText>TODO</InspectRoomStats.helpText>
+  
+  <!-- EN: Manual work priorities -->
+  <ManualWorkPriorities.label>TODO</ManualWorkPriorities.label>
+  <!-- EN: One of the most important parts of RimWorld is choosing good work settings for your colonists.\n\nPoor work settings can leave essential work unfinished for a long time while colonists waste time on unimportant tasks.\n\nTo give more control over what work colonists do, you can use the Manual Priorities mode in the WORK tab.\n\nIn this mode, each colonist has a priority number for each work type. Colonists will do priority 1 work from left to right, then priority 2 work from left to right, and so on.\n\nIntelligent use of these setting is essential for a large, well-automated colony. -->
+  <ManualWorkPriorities.helpText>TODO</ManualWorkPriorities.helpText>
+  
+  <!-- EN: Medical operations -->
+  <MedicalOperations.label>TODO</MedicalOperations.label>
+  <!-- EN: To assign a medical operation, like organ harvesting or prosthetics installation, open a colonist's HEALTH tab, then switch to the OPERATIONS sub-tab. -->
+  <MedicalOperations.helpText>TODO</MedicalOperations.helpText>
+  
+  <!-- EN: Mining -->
+  <Mining.label>การขุดเหมืองแร่</Mining.label>
+  <!-- EN: You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials. -->
+  <Mining.helpText>TODO</Mining.helpText>
+  
+  <!-- EN: Outfits -->
+  <Outfits.label>TODO</Outfits.label>
+  <!-- EN: Colonists will automatically try to wear the newest, highest-quality apparel they can.\n\nYou don't need to manually assign each piece of apparel to colonists (though you can, if you wish).\n\nTo assign colonists restrictions on how to dress, open the ASSIGN tab, use the "Manage outfits" dialog box to design a new outfit, and then assign the outfit to colonists. -->
+  <Outfits.helpText>TODO</Outfits.helpText>
+  
+  <!-- EN: Pausing -->
+  <Pause.label>หยุดชั่วคราว</Pause.label>
+  <!-- EN: Hit {Key:TogglePause} to pause or unpause the game.\n\nYou can give orders while paused.\n\nRemember this - if things get hectic, just hit {Key:TogglePause}! -->
+  <Pause.helpText>TODO</Pause.helpText>
+  
+  <!-- EN: Shot accuracy tooltip -->
+  <ShotAccuracyTooltip.label>TODO</ShotAccuracyTooltip.label>
+  <!-- EN: You can see the exact calculations behind the accuracy of any shot.\n\nTo do so, select the shooter, then rest the mouse over the target. The tooltip will show the chance to hit, and a breakdown of the contribution of various to-hit chance multipliers. -->
+  <ShotAccuracyTooltip.helpText>TODO</ShotAccuracyTooltip.helpText>
+  
+  <!-- EN: Spoilage and freezers -->
+  <SpoilageAndFreezers.label>TODO</SpoilageAndFreezers.label>
+  <!-- EN: Most foodstuffs will spoil after a relatively short time.\n\nTo prevent this, you can build a walk-in freezer.\n\nTo build a freezer, construct a closed room, and put one or two coolers into the wall. Set the coolers to a negative target temperature.\n\nFrozen foods won't ever spoil. -->
+  <SpoilageAndFreezers.helpText>TODO</SpoilageAndFreezers.helpText>
+  
+  <!-- EN: Stockpiles -->
+  <Stockpiles.label>คลัง</Stockpiles.label>
+  <!-- EN: Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left. -->
+  <Stockpiles.helpText>TODO</Stockpiles.helpText>
+  
+  <!-- EN: Storage tab -->
+  <StorageTab.label>TODO</StorageTab.label>
+  <!-- EN: You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.\n\nIn the storage tab of a stockpile, you can expand categories to allow or deny specific items. Click the triangles to the left of category names.\n\nYou can change the PRIORITY of storage. Colonists will fill higher-priority storage first, and move items from lower to higher priority. -->
+  <StorageTab.helpText>TODO</StorageTab.helpText>
+  
+  <!-- EN: Time assignments -->
+  <TimeAssignments.label>TODO</TimeAssignments.label>
+  <!-- EN: You can modify what time of day colonists should do different activities using the RESTRICT tab. -->
+  <TimeAssignments.helpText>TODO</TimeAssignments.helpText>
+  
+  <!-- EN: Time controls -->
+  <TimeControls.label>เรียนรู้การควบคุมเวลา</TimeControls.label>
+  <!-- EN: You can speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
+  <TimeControls.helpText>TODO</TimeControls.helpText>
+  
+  <!-- EN: Work settings -->
+  <WorkTab.label>กำหนดลำดับความสำคัญ</WorkTab.label>
+  <!-- EN: You can set each colonist's work settings in the WORK tab at the bottom left of the screen.\n\nThey will always do the highest priority work that they can find.\n\nIf nobody has a certain work type assigned, or if they are busy with higher-priority tasks, it will never get done. -->
+  <WorkTab.helpText>TODO</WorkTab.helpText>
+  
 </LanguageData>

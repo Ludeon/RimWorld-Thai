@@ -1,8 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Wiki -->
   <Wiki>ไวกิพีเดีย</Wiki>
+  <!-- EN: Opens Web browser to see the RimWorld wiki and get help playing. -->
   <WikiTip>เปิดเว็บเบราเซอร์เพื่อดูวิกิพีเดีย RimWorldและได้รับความช่วยเหลือในการเล่น</WikiTip>
+  <!-- EN: Menu -->
   <Menu>เมนู</Menu>
 
 </LanguageData>

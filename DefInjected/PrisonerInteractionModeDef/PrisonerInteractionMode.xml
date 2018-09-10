@@ -1,10 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<NoInteraction.label>ไม่มีปฏิสัมพันธ์</NoInteraction.label>
-	<Chat.label>พูดคุยอย่างเป็นมิตร</Chat.label>
-	<AttemptRecruit.label>พูดคุย และ ชักชวน</AttemptRecruit.label>
-	<Release.label>ปล่อย</Release.label>
-	<Execution.label>ประหาร</Execution.label>
-	
+  
+  <!-- EN: recruit -->
+  <AttemptRecruit.label>พูดคุย และ ชักชวน</AttemptRecruit.label>
+  
+  <!-- UNUSED -->
+  <Chat.label>พูดคุยอย่างเป็นมิตร</Chat.label>
+  
+  <!-- EN: execute -->
+  <Execution.label>ประหาร</Execution.label>
+  
+  <!-- EN: no interaction -->
+  <NoInteraction.label>ไม่มีปฏิสัมพันธ์</NoInteraction.label>
+  
+  <!-- EN: reduce resistance -->
+  <ReduceResistance.label>TODO</ReduceResistance.label>
+  
+  <!-- EN: release -->
+  <Release.label>ปล่อย</Release.label>
+  
 </LanguageData>

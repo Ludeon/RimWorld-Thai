@@ -1,77 +1,81 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Cold weather animals -->
-
-  <Squirrel.label>กระรอก</Squirrel.label>
-  <Squirrel.description>Eines von den vielseitigen, abgehärteten Nagetieren, die dem Menschen überall hin folgen.</Squirrel.description>
-  <Squirrel_Leather.label>แผ่นหนังกระรอก</Squirrel_Leather.label>
-  <Squirrel_Leather.description>Das Leder eines Eichhörnchens.</Squirrel_Leather.description>
-  <Squirrel_Leather.stuffProps.stuffAdjective>แผ่นหนังกระรอก</Squirrel_Leather.stuffProps.stuffAdjective>
-  <Squirrel_Meat.label>เนื้อกระรอก</Squirrel_Meat.label>
-  <Squirrel_Meat.description>Das Fleisch eines Eichhörnchens.</Squirrel_Meat.description>
-  <Squirrel_Corpse.label>ซากกระรอก</Squirrel_Corpse.label>
-  <Squirrel_Corpse.description>Die Leiche eines Eichhörnchens.</Squirrel_Corpse.description>
-
+  
+  <!-- EN: alphabeaver -->
   <Alphabeaver.label>อัลฟาบีเวอร์</Alphabeaver.label>
+  <!-- EN: A large beaver-like creature genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole, and are likely to attack if disturbed. -->
   <Alphabeaver.description>Ein besonders großes Exemplar des Bibers, das genetisch gezüchtet wurde, um Holz mit einer maschinenartigen Effizienz zu ernten. Wenn sie kein spezialisiertes Futter bekommen, verfallen die Tiere in einen psychotischen Zustand, der sie dazu bringt ganze Bäume zu fressen.</Alphabeaver.description>
-  <Alphabeaver_Leather.label>แผ่นหนังอัลฟาบีเวอร์</Alphabeaver_Leather.label>
-  <Alphabeaver_Leather.description>Das Leder eines Bibers.</Alphabeaver_Leather.description>
-  <Alphabeaver_Leather.stuffProps.stuffAdjective>แผ่นหนังอัลฟาบีเวอร์</Alphabeaver_Leather.stuffProps.stuffAdjective>
-  <Alphabeaver_Meat.label>เนื้ออัลฟาบีเวอร์</Alphabeaver_Meat.label>
-  <Alphabeaver_Meat.description>Das Fleisch eines Bibers.</Alphabeaver_Meat.description>
-  <Alphabeaver_Corpse.label>ซากอัลฟาบีเวอร์</Alphabeaver_Corpse.label>
-  <Alphabeaver_Corpse.description>Die Leiche eines Bibers.</Alphabeaver_Corpse.description>
-
-  <Capybara.label>คาปิบารา</Capybara.label>
-  <Capybara.description>Als größtes natürliches Nagetier ist das Capybara, oder auch Wasserschwein genannt, sehr gut an die feucht-schwüle Luft des Dschungels angepasst.</Capybara.description>
-  <Capybara_Leather.label>แผ่นหนังคาปิบารา</Capybara_Leather.label>
-  <Capybara_Leather.description>Die Haut eines Wasserschweins.</Capybara_Leather.description>
-  <Capybara_Leather.stuffProps.stuffAdjective>แผ่นหนังคาปิบารา</Capybara_Leather.stuffProps.stuffAdjective>
-  <Capybara_Meat.label>เนื้อคาปิบารา</Capybara_Meat.label>
-  <Capybara_Meat.description>Das Fleisch eines Wasserschweins.</Capybara_Meat.description>
-  <Capybara_Corpse.label>ซากคาปิบารา</Capybara_Corpse.label>
-  <Capybara_Corpse.description>Leiche eines Wasserschweins.</Capybara_Corpse.description>
-
-  <Chinchilla.label>ชินชิลล่า</Chinchilla.label>
-  <Chinchilla.description>Ein kleines aber flinkes Nagetier, das für sein außergewöhnlich weiches Fell bekannt ist.</Chinchilla.description>
-  <Chinchilla_Leather.label>แผ่นหนังชินชิลล่า</Chinchilla_Leather.label>
-  <Chinchilla_Leather.description>Das Fell eines Chinchillas.</Chinchilla_Leather.description>
-  <Chinchilla_Leather.stuffProps.stuffAdjective>แผ่นหนังชินชิลล่า</Chinchilla_Leather.stuffProps.stuffAdjective>
-  <Chinchilla_Meat.label>เนื้อชินชิลล่า</Chinchilla_Meat.label>
-  <Chinchilla_Meat.description>Das Fleisch eines Chinchillas.</Chinchilla_Meat.description>
-  <Chinchilla_Corpse.label>ซากชินชิลล่า</Chinchilla_Corpse.label>
-  <Chinchilla_Corpse.description>Leiche eines Chinchillas.</Chinchilla_Corpse.description>
-
+  <!-- EN: left claw -->
+  <Alphabeaver.tools.left_claw.label>TODO</Alphabeaver.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Alphabeaver.tools.right_claw.label>TODO</Alphabeaver.tools.right_claw.label>
+  <!-- EN: head -->
+  <Alphabeaver.tools.head.label>TODO</Alphabeaver.tools.head.label>
+  
+  <!-- EN: boomrat -->
   <Boomrat.label>หนูบูมแรต</Boomrat.label>
+  <!-- EN: Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create a powerful fire-starting explosion when killed. -->
   <Boomrat.description>Entweder als Waffenexperiment gezüchtet, oder von Natur aus mit der außergewöhnlichen Fähigkeit ausgestattet, beim Tod in einem Feuerball zu explodieren.</Boomrat.description>
-  <Boomrat_Leather.label>แผ่นหนังหนูบูมแรต</Boomrat_Leather.label>
-  <Boomrat_Leather.description>Das Fell einer Boomratte.</Boomrat_Leather.description>
-  <Boomrat_Leather.stuffProps.stuffAdjective>แผ่นหนังหนูบูมแรต</Boomrat_Leather.stuffProps.stuffAdjective>
-  <Boomrat_Meat.label>เนื้อบูมแรต</Boomrat_Meat.label>
-  <Boomrat_Meat.description>Das Fleisch einer Boomratte.</Boomrat_Meat.description>
-  <Boomrat_Corpse.label>ซากบูมแรต</Boomrat_Corpse.label>
-  <Boomrat_Corpse.description>Die Leiche einer Boomratte.</Boomrat_Corpse.description>
+  <!-- EN: left claw -->
+  <Boomrat.tools.left_claw.label>TODO</Boomrat.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Boomrat.tools.right_claw.label>TODO</Boomrat.tools.right_claw.label>
+  <!-- EN: head -->
+  <Boomrat.tools.head.label>TODO</Boomrat.tools.head.label>
   
+  <!-- EN: capybara -->
+  <Capybara.label>คาปิบารา</Capybara.label>
+  <!-- EN: The largest natural rodent, the capybara is well-adapted for steaming jungle environments. -->
+  <Capybara.description>Als größtes natürliches Nagetier ist das Capybara, oder auch Wasserschwein genannt, sehr gut an die feucht-schwüle Luft des Dschungels angepasst.</Capybara.description>
+  <!-- EN: left claw -->
+  <Capybara.tools.left_claw.label>TODO</Capybara.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Capybara.tools.right_claw.label>TODO</Capybara.tools.right_claw.label>
+  <!-- EN: head -->
+  <Capybara.tools.head.label>TODO</Capybara.tools.head.label>
   
+  <!-- EN: chinchilla -->
+  <Chinchilla.label>ชินชิลล่า</Chinchilla.label>
+  <!-- EN: A small, nimble rodent. Its fur is softer than just about anything in the universe, making it very valuable as a trade good. -->
+  <Chinchilla.description>Ein kleines aber flinkes Nagetier, das für sein außergewöhnlich weiches Fell bekannt ist.</Chinchilla.description>
+  <!-- EN: left claw -->
+  <Chinchilla.tools.left_claw.label>TODO</Chinchilla.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Chinchilla.tools.right_claw.label>TODO</Chinchilla.tools.right_claw.label>
+  <!-- EN: head -->
+  <Chinchilla.tools.head.label>TODO</Chinchilla.tools.head.label>
+  
+  <!-- EN: raccoon -->
   <Raccoon.label>แรคคูน</Raccoon.label>
+  <!-- EN: A small, hardy animal that ranges wide across forests and shrubland. It is happy to break into your garbage container, or your kitchen, to eat almost anything. -->
   <Raccoon.description>Ein kleines, wiederstandsfähiges Tier, das sowohl im Wald, wie auch in der Savanne vorkommt. Er frisst nahezu alles..</Raccoon.description>
-  <Raccoon_Leather.label>แผ่นหนังแรคคูน</Raccoon_Leather.label>
-  <Raccoon_Leather.description>Das Fell eines Waschbären.</Raccoon_Leather.description>
-  <Raccoon_Leather.stuffProps.stuffAdjective>แผ่นหนังแรคคูน</Raccoon_Leather.stuffProps.stuffAdjective>
-  <Raccoon_Meat.label>เนื้อแรคคูน</Raccoon_Meat.label>
-  <Raccoon_Meat.description>Das Fleisch eines Waschbären.</Raccoon_Meat.description>
-  <Raccoon_Corpse.label>ซากแรคคูน</Raccoon_Corpse.label>
-  <Raccoon_Corpse.description>Die Leiche eines Waschbären.</Raccoon_Corpse.description>
-
+  <!-- EN: left claw -->
+  <Raccoon.tools.left_claw.label>TODO</Raccoon.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Raccoon.tools.right_claw.label>TODO</Raccoon.tools.right_claw.label>
+  <!-- EN: head -->
+  <Raccoon.tools.head.label>TODO</Raccoon.tools.head.label>
+  
+  <!-- EN: rat -->
   <Rat.label>หนู</Rat.label>
+  <!-- EN: A widely-hated rodent known for soiling kitchens and spreading disease, rats have a way of following humans everywhere they go. It eats almost anything and lives almost anywhere. -->
   <Rat.description>Ein Nagetier das dafür bekannt ist Küchen zu verschmutzen und Krankheiten zu übertragen. Frisst nahezu alles und lebt fast überall.</Rat.description>
-  <Rat_Leather.label>แผ่นหนังหนู</Rat_Leather.label>
-  <Rat_Leather.description>Das Fell einer Ratte.</Rat_Leather.description>
-  <Rat_Leather.stuffProps.stuffAdjective>แผ่นหนังหนู</Rat_Leather.stuffProps.stuffAdjective>
-  <Rat_Meat.label>เนื้อหนู</Rat_Meat.label>
-  <Rat_Meat.description>Das Fleisch einer Ratte.</Rat_Meat.description>
-  <Rat_Corpse.label>ซากหนู</Rat_Corpse.label>
-  <Rat_Corpse.description>Die Leiche einer Ratte.</Rat_Corpse.description>
-
+  <!-- EN: left claw -->
+  <Rat.tools.left_claw.label>TODO</Rat.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Rat.tools.right_claw.label>TODO</Rat.tools.right_claw.label>
+  <!-- EN: head -->
+  <Rat.tools.head.label>TODO</Rat.tools.head.label>
+  
+  <!-- EN: squirrel -->
+  <Squirrel.label>กระรอก</Squirrel.label>
+  <!-- EN: One of the many hardy rodent species that follows humankind everywhere it spreads. Squirrels are distinguished by their bushy tails, which they use as umbrellas in bad weather. -->
+  <Squirrel.description>Eines von den vielseitigen, abgehärteten Nagetieren, die dem Menschen überall hin folgen.</Squirrel.description>
+  <!-- EN: left claw -->
+  <Squirrel.tools.left_claw.label>TODO</Squirrel.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Squirrel.tools.right_claw.label>TODO</Squirrel.tools.right_claw.label>
+  <!-- EN: head -->
+  <Squirrel.tools.head.label>TODO</Squirrel.tools.head.label>
+  
 </LanguageData>

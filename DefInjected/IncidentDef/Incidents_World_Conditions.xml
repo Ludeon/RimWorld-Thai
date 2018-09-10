@@ -1,14 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<!-- =========================== World conditions =======================-->
-
-    <Eclipse.label>สุริยุปราคา</Eclipse.label>
-    <Eclipse.letterLabel>สุริยุปราคา</Eclipse.letterLabel>
-    <Eclipse.letterText>ดวงจันทร์ดวงหนึ่งของดาวเคราะห์ดวงนี้ได้เคลื่อนตามวงโคจรผ่านมายังตำแหน่งหน้าดวงอาทิตย์ สุริยุปราคาเริ่มขึ้นแล้ว</Eclipse.letterText>
-
-    <SolarFlare.label>เปลวสุริยะ</SolarFlare.label>
-    <SolarFlare.letterLabel>เปลวสุริยะ</SolarFlare.letterLabel>
-    <SolarFlare.letterText>เปลวสุริยะได้เกิดขึ้น\n\nการแผ่รังสีเข้มข้นจะทำให้อุปกรณ์ไฟฟ้าทั้งหมดล่ม\n\nมันควรจะผ่านไปในระยะเวลาประมาณหนึ่งวัน</SolarFlare.letterText>
-
+  
+  <!-- EN: aurora -->
+  <Aurora.label>แสงออโรรา</Aurora.label>
+  <!-- EN: Aurora -->
+  <Aurora.letterLabel>แสงออโรรา</Aurora.letterLabel>
+  <!-- EN: A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter. -->
+  <Aurora.letterText>แสงออโรราที่ส่องสว่างขึ้นท้องฟ้า\n\n สีสันที่ไหลลวกจะช่วยเพิ่มอารมณ์ให้กับผู้ที่อยู่กลางแจ้งและสามารถมองเห็นได้</Aurora.letterText>
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>สุริยุปราคา</Eclipse.label>
+  <!-- EN: Eclipse -->
+  <Eclipse.letterLabel>สุริยุปราคา</Eclipse.letterLabel>
+  <!-- EN: One of the moons of this planet has orbited in front of the sun. An eclipse has begun. -->
+  <Eclipse.letterText>ดวงจันทร์ดวงหนึ่งของดาวเคราะห์ดวงนี้ได้เคลื่อนตามวงโคจรผ่านมายังตำแหน่งหน้าดวงอาทิตย์ สุริยุปราคาเริ่มขึ้นแล้ว</Eclipse.letterText>
+  
+  <!-- EN: solar flare -->
+  <SolarFlare.label>เปลวสุริยะ</SolarFlare.label>
+  <!-- EN: Solar flare -->
+  <SolarFlare.letterLabel>เปลวสุริยะ</SolarFlare.letterLabel>
+  <!-- EN: A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day. -->
+  <SolarFlare.letterText>เปลวสุริยะได้เกิดขึ้น\n\nการแผ่รังสีเข้มข้นจะทำให้อุปกรณ์ไฟฟ้าทั้งหมดล่ม\n\nมันควรจะผ่านไปในระยะเวลาประมาณหนึ่งวัน</SolarFlare.letterText>
+  
 </LanguageData>

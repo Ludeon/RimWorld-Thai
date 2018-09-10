@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grizzly bear -->
+  <Bear_Grizzly.label>หมีกริซลี่</Bear_Grizzly.label>
+  <Bear_Grizzly.lifeStages.0.label>ลูกหมีกริซลี่</Bear_Grizzly.lifeStages.0.label>
+  <Bear_Grizzly.lifeStages.1.label>หมีกริซลี่วัยรุ่น</Bear_Grizzly.lifeStages.1.label>
+  <Bear_Grizzly.lifeStages.2.label>หมีกริซลี่</Bear_Grizzly.lifeStages.2.label>
+  
+  <!-- EN: polar bear -->
+  <Bear_Polar.label>หมีขั้วโลก</Bear_Polar.label>
+  <Bear_Polar.lifeStages.0.label>ลูกหมีขั้วโลก</Bear_Polar.lifeStages.0.label>
+  <Bear_Polar.lifeStages.1.label>หมีขั้วโลกวัยรุ่น</Bear_Polar.lifeStages.1.label>
+  <Bear_Polar.lifeStages.2.label>หมีขั้วโลก</Bear_Polar.lifeStages.2.label>
+  
+</LanguageData>

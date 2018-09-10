@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: incapacitated refugee -->
+  <DownedRefugee.label>ผู้ลี้ภัยที่ไม่สามารถเคลื่อนที่ได้</DownedRefugee.label>
+  <!-- EN: A stranded, incapacitated refugee begging for help. -->
+  <DownedRefugee.description>ผู้ลี้ภัยที่ไม่สามารถเคลื่อนที่ได้ กำลังขอ ความช่วยเหลือ</DownedRefugee.description>
+  
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <FlakeHigh.label>เมา Flake</FlakeHigh.label>
+  <FlakeHigh.description>มัน.....ดี.. โอ้อออ, มัน....ดีเหลือเกิน</FlakeHigh.description>
+  <!-- EN: high on flake -->
+  <FlakeHigh.stages.high_on_flake.label>TODO</FlakeHigh.stages.high_on_flake.label>
+  <!-- EN: So good, so good. -->
+  <FlakeHigh.stages.high_on_flake.description>TODO</FlakeHigh.stages.high_on_flake.description>
+  
+</LanguageData>

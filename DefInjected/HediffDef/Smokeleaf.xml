@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: smokeleaf dependence -->
+  <SmokeleafAddiction.label>ติด Smokeleaf</SmokeleafAddiction.label>
+  <SmokeleafAddiction.stages.0.label>ลงแดง</SmokeleafAddiction.stages.0.label>
+  <!-- EN: withdrawal -->
+  <SmokeleafAddiction.stages.withdrawal.label>TODO</SmokeleafAddiction.stages.withdrawal.label>
+  
+  <!-- EN: stoned on smokeleaf -->
+  <SmokeleafHigh.label>เมา Smokeleaf</SmokeleafHigh.label>
+  <!-- EN: a smokeleaf high -->
+  <SmokeleafHigh.labelNoun>เมา Smokeleaf</SmokeleafHigh.labelNoun>
+  
+  <!-- EN: smokeleaf tolerance -->
+  <SmokeleafTolerance.label>ดือยา Smokeleaf</SmokeleafTolerance.label>
+  <!-- EN: small -->
+  <SmokeleafTolerance.stages.small-0.label>TODO</SmokeleafTolerance.stages.small-0.label>
+  <!-- EN: small -->
+  <SmokeleafTolerance.stages.small-1.label>ต่ำ</SmokeleafTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <SmokeleafTolerance.stages.large.label>ปานกลาง</SmokeleafTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <SmokeleafTolerance.stages.massive.label>มาก</SmokeleafTolerance.stages.massive.label>
+  
+</LanguageData>

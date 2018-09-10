@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: allowed area -->
+  <AllowedArea.label>พื้นที่อนุญาต</AllowedArea.label>
+  
+  <!-- EN: allowed area -->
+  <AllowedAreaWide.label>พื้นที่อนุญาต</AllowedAreaWide.label>
+  
+  <!-- EN: drug policy -->
+  <DrugPolicy.label>การใช้ยา</DrugPolicy.label>
+  
+  <!-- EN: Hostility response -->
+  <HostilityResponse.headerTip>TODO</HostilityResponse.headerTip>
+  
+  <!-- EN: master -->
+  <Master.label>เจ้านาย</Master.label>
+  
+  <!-- EN: Medical care -->
+  <MedicalCare.headerTip>TODO</MedicalCare.headerTip>
+  
+  <!-- EN: current outfit -->
+  <Outfit.label>เสื้อผ้า</Outfit.label>
+  
+</LanguageData>

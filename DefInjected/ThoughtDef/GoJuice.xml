@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <GoJuiceHigh.label>เมา GoJuice</GoJuiceHigh.label>
+  <GoJuiceHigh.description>ฉันตื่นเต้น แต่ความสงบ ฉันเป็นกระสุนในเที่ยวบินพร้อมที่จะเจาะคุณ</GoJuiceHigh.description>
+  <!-- EN: high on go-juice -->
+  <GoJuiceHigh.stages.high_on_gojuice.label>TODO</GoJuiceHigh.stages.high_on_gojuice.label>
+  <!-- EN: I feel pumped but steady. I am the bullet in flight, ready to cut through you. -->
+  <GoJuiceHigh.stages.high_on_gojuice.description>TODO</GoJuiceHigh.stages.high_on_gojuice.description>
+  
+  <!-- EN: go-juice withdrawal -->
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.label>เลิก GoJuice</GoJuiceWithdrawal.stages.gojuice_withdrawal.label>
+  <!-- EN: I'm all fuzzy and can't think straight. My limbs feel heavy, I'm tired and hungry, everything hurts. And why won't my eyes focus properly? -->
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.description>ฉันสับสนและไม่สามารถคิดได้อย่างถูกต้อง แขนขาของฉันรู้สึกหนัก ทำไมตาของฉันไม่ได้มุ่งเน้นไปใช่มั้ย?!</GoJuiceWithdrawal.stages.gojuice_withdrawal.description>
+  
+</LanguageData>

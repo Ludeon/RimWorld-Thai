@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeaver -->
+  <Alphabeaver.label>อัลฟ่าบีเวอร์</Alphabeaver.label>
+  <Alphabeaver.lifeStages.0.label>ลูกบีเวอร์</Alphabeaver.lifeStages.0.label>
+  <Alphabeaver.lifeStages.1.label>บีเวอร์วัยรุ่น</Alphabeaver.lifeStages.1.label>
+  <Alphabeaver.lifeStages.2.label>อัลฟ่าบีเวอร์์</Alphabeaver.lifeStages.2.label>
+  
+  <!-- EN: boomrat -->
+  <Boomrat.label>บูมแรต</Boomrat.label>
+  <Boomrat.lifeStages.0.label>ลูกบูมแรต</Boomrat.lifeStages.0.label>
+  <Boomrat.lifeStages.1.label>บูมแรตวัยรุ่น</Boomrat.lifeStages.1.label>
+  <Boomrat.lifeStages.2.label>บูมแรต</Boomrat.lifeStages.2.label>
+  
+  <!-- EN: capybara -->
+  <Capybara.label>คาปีบาร่า</Capybara.label>
+  <Capybara.lifeStages.0.label>ลูกคาปีบาร่า</Capybara.lifeStages.0.label>
+  <Capybara.lifeStages.1.label>คาปีบาร่าวัยรุ่น</Capybara.lifeStages.1.label>
+  <Capybara.lifeStages.2.label>คาปีบาร่า</Capybara.lifeStages.2.label>
+  
+  <!-- EN: chinchilla -->
+  <Chinchilla.label>ชินชิลล่า</Chinchilla.label>
+  <Chinchilla.lifeStages.0.label>ลูกชินชิลล่า</Chinchilla.lifeStages.0.label>
+  <Chinchilla.lifeStages.1.label>ชินชิลล่าวัยรุ่น</Chinchilla.lifeStages.1.label>
+  <Chinchilla.lifeStages.2.label>ชินชิลล่า</Chinchilla.lifeStages.2.label>
+  
+  <!-- EN: raccoon -->
+  <Raccoon.label>แรคคูน</Raccoon.label>
+  <Raccoon.lifeStages.0.label>ลูกแรคคูน</Raccoon.lifeStages.0.label>
+  <Raccoon.lifeStages.1.label>แรคคูนวัยรุ่น</Raccoon.lifeStages.1.label>
+  <Raccoon.lifeStages.2.label>แรคคูน</Raccoon.lifeStages.2.label>
+  
+  <!-- EN: rat -->
+  <Rat.label>หนู</Rat.label>
+  <Rat.lifeStages.0.label>ลูกหนู</Rat.lifeStages.0.label>
+  <Rat.lifeStages.1.label>หนูวัยรุ่น</Rat.lifeStages.1.label>
+  <Rat.lifeStages.2.label>หนู</Rat.lifeStages.2.label>
+  
+  <!-- EN: squirrel -->
+  <Squirrel.label>กระรอก</Squirrel.label>
+  <Squirrel.lifeStages.0.label>ลูกกระรอก</Squirrel.lifeStages.0.label>
+  <Squirrel.lifeStages.1.label>กระรอกวัยรุ่น</Squirrel.lifeStages.1.label>
+  <Squirrel.lifeStages.2.label>กระรอก</Squirrel.lifeStages.2.label>
+  
+</LanguageData>

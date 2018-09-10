@@ -1,29 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: afro -->
   <Afro.label>อัฟโร่</Afro.label>
+  
+  <!-- EN: bob -->
   <Bob.label>บ๊อบ</Bob.label>
-  <Burgundy.label>เบอร์กันดี้</Burgundy.label>
-  <Flowy.label>หยิก</Flowy.label>
-  <Long.label>ผมยาว</Long.label>
-  <Mohawk.label>โมฮอร์ค</Mohawk.label>
-  <Mop.label>ม็อป</Mop.label>
-  <Pigtails.label>ผมเปีย</Pigtails.label>
-  <Shaved.label>โกน</Shaved.label>
-  <Spikes.label>หนาม</Spikes.label>
-  <Tuft.label>Gestrubbelt</Tuft.label>
-  <Wavy.label>เป็นลอน</Wavy.label>
+  
+  <!-- EN: braided knot -->
   <BraidedKnot.label>ถักปม</BraidedKnot.label>
-  <Topdog.label>Topdog</Topdog.label>
-  <Senorita.label>Senorita</Senorita.label>
-  <ScorpionTail.label>Skorpion-Schwanz</ScorpionTail.label>
+  
+  <!-- EN: brief ponytail -->
   <BriefPonytail.label>Kurzer Pferdeschwanz</BriefPonytail.label>
-  <Troubadour.label>Minnesänger</Troubadour.label>
-  <Messy.label>ยุ่ง</Messy.label>
-  <Princess.label>เจ้าหญิง</Princess.label>
-  <Firestarter.label>Feuerteufel</Firestarter.label>
-  <GreasySwoop.label>Schmalzlocke</GreasySwoop.label>
+  
+  <!-- EN: burgundy -->
+  <Burgundy.label>เบอร์กันดี้</Burgundy.label>
+  
+  <!-- EN: curly -->
   <Curly.label>Lockig</Curly.label>
+  
+  <!-- EN: firestarter -->
+  <Firestarter.label>Feuerteufel</Firestarter.label>
+  
+  <!-- EN: flowy -->
+  <Flowy.label>หยิก</Flowy.label>
+  
+  <!-- EN: greasy swoop -->
+  <GreasySwoop.label>Schmalzlocke</GreasySwoop.label>
+  
+  <!-- EN: long -->
+  <Long.label>ผมยาว</Long.label>
+  
+  <!-- EN: messy -->
+  <Messy.label>ยุ่ง</Messy.label>
+  
+  <!-- EN: mohawk -->
+  <Mohawk.label>โมฮอร์ค</Mohawk.label>
+  
+  <!-- EN: mop -->
+  <Mop.label>ม็อป</Mop.label>
+  
+  <!-- EN: pigtails -->
+  <Pigtails.label>ผมเปีย</Pigtails.label>
+  
+  <!-- EN: princess -->
+  <Princess.label>เจ้าหญิง</Princess.label>
+  
+  <!-- EN: scatman -->
   <Scatman.label>Scatman</Scatman.label>
-
+  
+  <!-- EN: scorpion tail -->
+  <ScorpionTail.label>Skorpion-Schwanz</ScorpionTail.label>
+  
+  <!-- EN: senorita -->
+  <Senorita.label>Senorita</Senorita.label>
+  
+  <!-- EN: shaved -->
+  <Shaved.label>โกน</Shaved.label>
+  
+  <!-- EN: spikes -->
+  <Spikes.label>หนาม</Spikes.label>
+  
+  <!-- EN: topdog -->
+  <Topdog.label>Topdog</Topdog.label>
+  
+  <!-- EN: troubadour -->
+  <Troubadour.label>Minnesänger</Troubadour.label>
+  
+  <!-- EN: tuft -->
+  <Tuft.label>Gestrubbelt</Tuft.label>
+  
+  <!-- EN: wavy -->
+  <Wavy.label>เป็นลอน</Wavy.label>
+  
 </LanguageData>

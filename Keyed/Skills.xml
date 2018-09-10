@@ -1,36 +1,68 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Level -->
   <Level>ระดับ</Level>
+  <!-- EN: Progress to next level -->
   <ProgressToNextLevel>การพัฒนาสู่ระดับต่อไป</ProgressToNextLevel>
+  <!-- EN: Experience -->
   <Experience>ประสบการณ์</Experience>
+  <!-- EN: Passion -->
   <Passion>ความหลงไหล</Passion>
+  <!-- EN: None\n   -Learns {0} -->
   <PassionNone>ไม่มี (เรียนรู้ {0}x)</PassionNone>
+  <!-- EN: Interested\n   -Learns {0} -->
   <PassionMinor>สนใจแล้ว (เรียนรู้ {0}x)</PassionMinor>
+  <!-- EN: Burning\n   -Learns {0} -->
   <PassionMajor>ไฟเร่าร้อน (เรียนรู้ {0}x)</PassionMajor>
+  <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
   <LearnedMaxToday>เรียนรู้เต็มแล้ววันนี้ ({0}/{1}, การเรียนรู้ต่อไปคูณด้วย {2})</LearnedMaxToday>
+  <!-- EN: Effects at level {0} -->
   <EffectsAtLevel>มีผลที่ระดับ {0}</EffectsAtLevel>
+  <!-- EN: MAX -->
   <SkillMax>เต็ม</SkillMax>
 
+  <!-- EN: Barely heard of it -->
   <Skill0>ไม่รู้ตัวเอง</Skill0>
+  <!-- EN: Utter beginner -->
   <Skill1>ขาดคุณสมบัติ</Skill1>
+  <!-- EN: Beginner -->
   <Skill2>เริ่มตระหนักขั้นต้น</Skill2>
+  <!-- EN: Basic familiarity -->
   <Skill3>เริ่มคุ้นเคยขั้นต้น</Skill3>
+  <!-- EN: Some familiarity -->
   <Skill4>มือสมัครเล่น</Skill4>
+  <!-- EN: Significant familiarity -->
   <Skill5>มือสมัครเล่นขั้นสูง</Skill5>
+  <!-- EN: Capable amateur -->
   <Skill6>ผู้ฝึกหัด</Skill6>
+  <!-- EN: Weak professional -->
   <Skill7>ผู้ฝึกหัดมีทักษะ</Skill7>
+  <!-- EN: Employable professional -->
   <Skill8>มืออาชีพ</Skill8>
+  <!-- EN: Solid professional -->
   <Skill9>มืออาชีพมีทักษะ</Skill9>
+  <!-- EN: Skilled professional -->
   <Skill10>ผู้เชี่ยวชาญ</Skill10>
+  <!-- EN: Very skilled professional -->
   <Skill11>ผู้เชี่ยวชาญขั้นสูง</Skill11>
+  <!-- EN: Expert -->
   <Skill12>ผู้เชี่ยวชาญอย่างยิ่งยวด</Skill12>
+  <!-- EN: Strong expert -->
   <Skill13>ปรมาจารย์</Skill13>
+  <!-- EN: Master -->
   <Skill14>ปรมาจารย์ขั้นสูง</Skill14>
+  <!-- EN: Strong master -->
   <Skill15>ปรมาจารย์ระดับดาวเคราะห์</Skill15>
+  <!-- EN: Region-known master -->
   <Skill16>ปรมาจารย์ระดับระบบจักรวาล</Skill16>
+  <!-- EN: Region-leading master -->
   <Skill17>ปรมาจารย์คืนสู่สามัญ</Skill17>
+  <!-- EN: Planet-known master -->
   <Skill18>ผู้มีวิสัยทัศน์</Skill18>
-    <Skill19>ผู้เป็นตำนาน</Skill19>
-    <Skill20>ผู้ดุจดังพระเจ้า</Skill20>
+  <!-- EN: Planet-leading master -->
+  <Skill19>ผู้เป็นตำนาน</Skill19>
+  <!-- EN: Legendary master -->
+  <Skill20>ผู้ดุจดังพระเจ้า</Skill20>
+  
 </LanguageData>

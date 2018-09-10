@@ -1,394 +1,854 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Confirm -->
   <Confirm>ยืนยัน</Confirm>
+  <!-- EN: Go back -->
   <GoBack>กลับไป</GoBack>
+  <!-- EN: OK -->
   <OK>ตกลง</OK>
+  <!-- EN: Close -->
+  <Close>TODO</Close>
   
   <!-- Game updated to new version -->
+  <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
   <GameUpdatedToNewVersionInitial>RimWorld ได้รับการปรับปรุงจากรุ่น {0} เป็นเวอร์ชัน {1}.</GameUpdatedToNewVersionInitial>
+  <!-- EN: This may cause saved games and mods from the old version to stop working. -->
   <GameUpdatedToNewVersionSavesIncompatible>ซึ่งอาจทำให้เกมที่บันทึกไว้และ mods จากเวอร์ชันเก่าหยุดทำงาน</GameUpdatedToNewVersionSavesIncompatible>
+  <!-- EN: Saved games from the old version should be compatible, however some mods may stop working. -->
   <GameUpdatedToNewVersionSavesCompatible>เกมที่บันทึกไว้จากเวอร์ชันเก่าควรเข้ากันได้แต่บาง mods อาจหยุดทำงาน</GameUpdatedToNewVersionSavesCompatible>
+  <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
   <GameUpdatedToNewVersionNonSteam>Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions.</GameUpdatedToNewVersionNonSteam>
+  <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this. -->
   <GameUpdatedToNewVersionSteam>หากคุณต้องการใช้เวอร์ชันเดิมต่อไปคุณสามารถเลือกใช้คุณลักษณะ "Betas" ของ Steam ได้\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this.</GameUpdatedToNewVersionSteam>
   
   <!-- Recovered from errors caused by mods -->
+  <!-- EN: Recovered from incompatible or corrupted mods errors -->
   <RecoveredFromErrorsDialogTitle>Recovered from incompatible or corrupted mods errors</RecoveredFromErrorsDialogTitle>
+  <!-- EN: It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog. -->
   <RecoveredFromErrorsText>ดูเหมือนว่าบางส่วนของ mods ที่ใช้งานได้ก่อให้เกิดข้อผิดพลาด\n\nmods ไม่เข้ากันกับอันอื่น ๆ หรือ ออกแบบมาสำหรับรุ่นต่างๆของ RimWorld หรือเสียหาย\n\nMods ทั้งหมดถูกปิดใช้งานและสามารถใช้งานได้อีกครั้งในกล่องโต้ตอบ mods</RecoveredFromErrorsText>
   
   <!-- Errors during loading -->
+  <!-- EN: Error while loading assets -->
   <ErrorWhileLoadingAssetsTitle>เกิดข้อผิดพลาดขณะโหลดเนื้อหา</ErrorWhileLoadingAssetsTitle>
+  <!-- EN: An error occurred while loading game assets. See error log for more information. -->
   <ErrorWhileLoadingAssets>เกิดข้อผิดพลาดขณะโหลดเนื้อหาของเกม ดูบันทึกข้อผิดพลาดสำหรับข้อมูลเพิ่มเติม</ErrorWhileLoadingAssets>
+  <!-- EN: The game is currently running with custom mods - they may or may not cause these problems. -->
   <ErrorWhileLoadingAssets_ModsInfo>เกมกำลังทำงานอยู่กับ mods ที่กำหนดเอง - พวกเขาอาจหรือไม่อาจทำให้เกิดปัญหาเหล่านี้</ErrorWhileLoadingAssets_ModsInfo>
+  <!-- EN: Error while generating a map -->
   <ErrorWhileGeneratingMapTitle>เกิดข้อผิดพลาดขณะสร้างแผนที่</ErrorWhileGeneratingMapTitle>
+  <!-- EN: An error occurred while generating a new map. See error log for more information. -->
   <ErrorWhileGeneratingMap>เกิดข้อผิดพลาดขณะสร้างแผนที่ใหม่ ดูบันทึกข้อผิดพลาดสำหรับข้อมูลเพิ่มเติม</ErrorWhileGeneratingMap>
+  <!-- EN: Error while loading a map -->
   <ErrorWhileLoadingMapTitle>เกิดข้อผิดพลาดขณะโหลดแผนที่</ErrorWhileLoadingMapTitle>
+  <!-- EN: An error occurred while loading a map. See error log for more information. -->
   <ErrorWhileLoadingMap>เกิดข้อผิดพลาดขณะโหลดแผนที่ ดูบันทึกข้อผิดพลาดสำหรับข้อมูลเพิ่มเติม</ErrorWhileLoadingMap>
   
   <!-- Unloaded mod with an assembly -->
+  <!-- EN: The mod list has changed. The game will now restart automatically. -->
   <ModsChanged>มีการเปลี่ยนแปลงรายการ mod แล้ว เกมจะรีสตาร์ทโดยอัตโนมัติ</ModsChanged>
+  <!-- EN: Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly. -->
   <FailedToRestart>เกิดข้อผิดพลาดขณะรีสตาร์ทเกม เกมไม่สามารถยกเลิกการโหลดโค้ดจากเดสก์ท็อปได้ ดังนั้นโค้ดจากโหมดปิดใช้งานอาจใช้งานได้\n\nขอแนะนำให้คุณปิดเกมและเริ่มเกมใหม่ทันทีเพื่อโหลด mods ทั้งหมดได้อย่างหมดจด</FailedToRestart>
+  <!-- EN: Restarting -->
   <Restarting>รีสตาร์ท</Restarting>
   
   <!-- Missing Steam -->
+  <!-- EN: Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available. -->
   <SteamClientMissing>ไม่สามารถเริ่มต้น Steam API สาเหตุที่เป็นไปได้:\n\n- Steam ไม่ทำงาน\n- เปิดใช้งานจาก Steam ภายนอกโดยไม่ใช้ steam_appid.txt ในตำแหน่ง\n- ใช้สิทธิ์ที่แตกต่างจากลูกค้า Steam (เช่น "ในฐานะผู้ดูแลระบบ")\n\nในกรณีส่วนใหญ่การรีบูตเครื่องคอมพิวเตอร์จะช่วยแก้ปัญหานี้ได้\n\nเกม Steam รุ่นนี้ต้องการ Steam และจะเลิกเล่น</SteamClientMissing>
-
+  
   <!-- Long events -->
+  <!-- EN: Initializing interface -->
   <InitializingInterface>กำลังจัดเตรียมอินเตอร์เฟซ</InitializingInterface>
+  <!-- EN: Unloading unused assets -->
   <UnloadingUnusedAssets>กำลังอันโหลด asset ที่ไม่ได้ใช้</UnloadingUnusedAssets>
+  <!-- EN: Loading all active mods -->
   <LoadingAllActiveMods>กำลังโหลด active mods ทั้งหมด</LoadingAllActiveMods>
+  <!-- EN: Loading defs -->
   <LoadingDefs>กำลังโหลด Defs</LoadingDefs>
+  <!-- EN: Loading assets -->
   <LoadingAssets>กำลังโหลด Assets</LoadingAssets>
+  <!-- EN: Initializing -->
   <Initializing>กำลังจัดเตรียม</Initializing>
+  <!-- EN: Loading world -->
   <LoadingWorld>กำลังโหลดโลก</LoadingWorld>
+  <!-- EN: Loading map -->
   <LoadingMap>กำลังโหลดแผนที่</LoadingMap>
-  <InitializingMap>กำลังจัดเตรียมแผนที่</InitializingMap>
+  <!-- EN: Initializing game -->
+  <InitializingGame>TODO</InitializingGame>
+  <!-- EN: Spawning things -->
   <SpawningAllThings>กำลังจัดวางทุกสิ่งทุกอย่าง</SpawningAllThings>
+  <!-- EN: Spawning colonists -->
   <SpawningColonists>กำลังจัดวางอาณานิคม</SpawningColonists>
   
   <!-- Save/load -->
+  <!-- EN: Save -->
   <SaveGameButton>เซฟ</SaveGameButton>
+  <!-- EN: Load -->
   <LoadGameButton>โหลด</LoadGameButton>
+  <!-- EN: Overwrite -->
   <OverwriteButton>เซฟทับ</OverwriteButton>
+  <!-- EN: Really delete {0}? -->
   <ConfirmDelete>คุณจะลบ {0} ใช่ไหม</ConfirmDelete>
+  <!-- EN: Delete this savegame. -->
   <DeleteThisSavegame>ลบไฟล์เซฟเกมส์</DeleteThisSavegame>
+  <!-- EN: Saved as {0}. -->
   <SavedAs>เซฟเป็น {0}.</SavedAs>
+  <!-- EN: Please enter a name. -->
   <NeedAName>กรุณาใส่ชื่อ</NeedAName>
+  <!-- EN: Loading -->
   <LoadingLongEvent>กำลังโหลด</LoadingLongEvent>
+  <!-- EN: Saving -->
   <SavingLongEvent>กำลังเซฟ</SavingLongEvent>
+  <!-- EN: (Permadeath) -->
   <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
+  <!-- EN: We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
   <SaveIsFromDifferentGameVersion>เรากำลังใช้งานเวอร์ชัน {0} แต่บันทึกข้อมูลมาจาก {1}, ซึ่งเป็นเวอร์ชันที่แตกต่างกันทั้งหมด\n\nการพยายามโหลดข้อมูลนี้อาจไม่ทำงาน</SaveIsFromDifferentGameVersion>
+  <!-- EN: We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
   <SaveIsFromDifferentGameBuild>เรากำลังใช้งานเวอร์ชัน {0} แต่บันทึกข้อมูลมาจาก {1}, ซึ่งเป็นการสร้างที่แตกต่างกัน\n\nการพยายามโหลดข้อมูลนี้จะยังคงทำงานอยู่</SaveIsFromDifferentGameBuild>
+  <!-- EN: Save data was saved with our game version and should work without issue. -->
   <SaveIsFromThisGameBuild>บันทึกข้อมูลไว้ด้วยเวอร์ชันเกมของเราและควรทำงานโดยไม่มีปัญหา</SaveIsFromThisGameBuild>
+  <!-- EN: Save data is in an unknown format and almost certainly will not load properly. -->
   <SaveIsUnknownFormat>บันทึกข้อมูลอยู่ในรูปแบบที่ไม่รู้จักและเกือบจะไม่โหลดอย่างถูกต้อง</SaveIsUnknownFormat>
+  <!-- EN: There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
   <ProblemSavingFile>เกิดปัญหาในการบันทึกไฟล์ {0}:\n\n{1}</ProblemSavingFile>
+  <!-- EN: Load anyway -->
   <LoadAnyway>โหลดไม่ว่าอย่างไรก็ตาม</LoadAnyway>
+  <!-- EN: Load mod list from save -->
   <ChangeLoadedMods>โหลด mod list จาก เซฟ</ChangeLoadedMods>
+  <!-- EN: Some mods are unavailable, and need to be installed -->
   <MissingMods>mods บางตัวไม่พร้อมใช้งานและจำเป็นต้องติดตั้ง</MissingMods>
-
+  
   <!-- Player faction naming -->
+  <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
   <NamePlayerFactionMessage>{0} คิดว่าคุณควรตั้งชื่อฝ่ายของคุณ ฝ่ายอื่นจะได้เรียกชื่อฝ่ายของคุณ</NamePlayerFactionMessage>
+  <!-- EN: Your faction is now known as {0}. -->
   <PlayerFactionGainsName>ฝ่ายของคุณเป็นที่รู้จักกันในชื่อ {0}.</PlayerFactionGainsName>
+  <!-- EN: That name isn't valid. -->
   <PlayerFactionNameIsInvalid>ชื่อนี้ไม่ถูกต้อง</PlayerFactionNameIsInvalid>
 
   <!-- Player faction base naming -->
+  <!-- EN: {0} thinks that you should give this settlement a name. What should the local settlement be called? -->
   <NamePlayerFactionBaseMessage>เนื่องจากดูเหมือนว่าคุณจะอยู่ที่นี่มาระยะหนึ่ง {0} คิดว่าคุณควรตั้งชื่อชุมชนนี้ ชุมชนท้องถิ่นควรได้รับการเรียก</NamePlayerFactionBaseMessage>
+  <!-- EN: This community is now known as {0}. -->
   <PlayerFactionBaseGainsName>ชุมชนนี้เป็นที่รู้จักในฐานะ {0}.</PlayerFactionBaseGainsName>
+  <!-- EN: That name isn't valid. -->
   <PlayerFactionBaseNameIsInvalid>ชื่อนี้ไม่ถูกต้อง</PlayerFactionBaseNameIsInvalid>
   
   <!-- Player faction and faction base naming -->
+  <!-- EN: {0} also thinks that you should give this settlement a name. What should this local settlement be called? -->
   <NamePlayerFactionBaseMessage_NameFactionContinuation>เนื่องจากดูเหมือนว่าคุณจะอยู่ที่นี่เป็นระยะเวลาหนึ่ง {0} คิดว่าคุณควรให้ชื่อชุมชนด้วย ชุมชนท้องถิ่นนี้ควรได้รับการเรียก</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <!-- EN: Your faction is now known as {0}, and this community is now known as {1}. -->
   <PlayerFactionAndBaseGainsName>กลุ่มของคุณเป็นที่รู้จักกันในชื่อ {0} และชุมชนนี้เป็นที่รู้จักกันในชื่อ {1}.</PlayerFactionAndBaseGainsName>
-
+  
   <!-- Renaming -->
+  <!-- EN: Please enter a valid name. -->
   <NameIsInvalid>กรุณากรอกชื่อที่ถูกต้อง</NameIsInvalid>
+  <!-- EN: Name is already in use. -->
   <NameIsInUse>ชื่อมีการใช้งานอยู่แล้ว</NameIsInUse>
+  <!-- EN: The zone is now called {0}. -->
   <ZoneGainsName>โซนนี้เรียกว่า {0}.</ZoneGainsName>
   
   <!-- Pawn naming -->
+  <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
   <PawnGainsName>ชื่อเล่นของอาณานิคมอยู่ในขณะนี้ {0}.</PawnGainsName>
+  <!-- EN: The animal's name is now {0}. -->
+  <AnimalGainsName>TODO</AnimalGainsName>
 
   <!-- Save game incompatible warning -->
+  <!-- EN: Version mismatch -->
   <VersionMismatch>รุ่นไม่ตรงกัน</VersionMismatch>
+  <!-- EN: This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes. -->
   <SaveGameIncompatibleWarningText>บันทึกแผนที่ด้วยเวอร์ชันเกมแล้ว{0}\nเรากำลังเรียกใช้เวอร์ชันเกม {1}\n\nการโหลดการบันทึกนี้อาจทำให้เกิดข้อผิดพลาดและเกิดข้อขัดข้อง</SaveGameIncompatibleWarningText>
+  <!-- EN: World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch. -->
   <WorldFileVersionMismatch>ไฟล์ทั่วโลกถูกสร้างขึ้นพร้อมกับเวอร์ชันเกม {0}\nเรากำลังเรียกใช้เวอร์ชันเกม {1}\n\nการโหลดโลกใบนี้อาจก่อให้เกิดข้อบกพร่องและล่ม คุณอาจจะสร้างโลกใหม่ตั้งแต่เริ่มต้น</WorldFileVersionMismatch>
+  <!-- EN: This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
   <FileIncompatibleWarning>ไฟล์นี้ได้รับการบันทึกด้วยเวอร์ชันเกม {0}\nเรากำลังเรียกใช้เวอร์ชันเกม {1}\n\nการโหลดไฟล์นี้อาจทำให้เกิดข้อบกพร่องและล่ม</FileIncompatibleWarning>
+  <!-- EN: Mods mismatch -->
   <ModsMismatchWarningTitle>Mods mismatch</ModsMismatchWarningTitle>
+  <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
   <ModsMismatchWarningText>แผนที่ได้รับการบันทึกไว้ด้วยชุดของ mod ที่ใช้งานอยู่กว่าที่เรากำลังทำงานอยู่ นี้อาจหรือไม่อาจทำให้เกิดปัญหาขึ้นอยู่กับสิ่งที่เหล่านี้ mods ทำ\n\nบันทึกแผนที่ด้วย (ตามลำดับนี้):\n\n{0}\n\nเรากำลังทำงานด้วย:\n\n{1}</ModsMismatchWarningText>
 
   <!-- Resolution change dialog -->
+  <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
   <ConfirmResolutionChange>คุณได้เปลี่ยนการตั้งค่าหน้าจอใหม่ใช้หรือไม่?\n\nกำลังย้อนกลับอัตโนมัติ {0}...</ConfirmResolutionChange>
+  <!-- EN: Keep -->
   <ResolutionKeep>เก็บไว้</ResolutionKeep>
+  <!-- EN: Revert -->
   <ResolutionRevert>เปลี่ยนกลับ</ResolutionRevert>
 
+  <!-- Confirm permanently disable dev mode -->
+  <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
+  <ConfirmPermanentlyDisableDevMode>TODO</ConfirmPermanentlyDisableDevMode>
+
   <!-- Research -->
+  <!-- EN: Research -->
   <Research>การวิจัย</Research>
+  <!-- EN: Researched -->
   <Researched>ทำการวิจัยแล้ว</Researched>
+  <!-- EN: Unresearched -->
   <Unresearched>ยังไม่ได้ทำการวิจัย</Unresearched>
+  <!-- EN: Finished -->
   <Finished>เสร็จแล้ว</Finished>
+  <!-- EN: In Progress -->
   <InProgress>กำลังวิจัย</InProgress>
+  <!-- EN: Locked -->
   <Locked>ล็อก</Locked>
+  <!-- EN: Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now. -->
   <ResearchMenuWithoutBench>จนกว่าคุณจะสร้างโต๊ะวิจัย ชาวอาณานิคมของคุณจะไม่สามารถทำวิจัยได้\n\nอย่างไรก็ตามคุณยังสามารถดูโครงการวิจัยนี้ได้</ResearchMenuWithoutBench>
+  <!-- EN: Research prerequisites -->
   <ResearchPrerequisites>ข้อกำหนดเบื้องต้นการวิจัย</ResearchPrerequisites>
+  <!-- EN: Required research bench -->
   <RequiredResearchBench>การวิจัยจำเป็นต้องใช้โต๊ะวิจัย</RequiredResearchBench>
+  <!-- EN: Required research bench facilities -->
   <RequiredResearchBenchFacilities>สิ่งอำนวยความสะดวกที่จำเป็นต่อโต๊ะวิจัย</RequiredResearchBenchFacilities>
   
   <!-- Advanced game start options -->
+  <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
   <MapTemperatureDangerWarning>Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season.</MapTemperatureDangerWarning>
+  <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
   <MapSizePerformanceWarning>Warning: Performance may degrade at larger map sizes. Ludeonicrous size is untested and will almost certainly not play well.</MapSizePerformanceWarning>
+  <!-- EN: Map size -->
   <MapSize>ขนาดแผนที่</MapSize>
+  <!-- EN: {0}x{0} ({1} cells) -->
   <MapSizeDesc>{0}x{0} ({1} cells)</MapSizeDesc>
+  <!-- EN: Small -->
   <MapSizeSmall>เล็ก</MapSizeSmall>
+  <!-- EN: Medium -->
   <MapSizeMedium>กลาง</MapSizeMedium>
+  <!-- EN: Large -->
   <MapSizeLarge>ใหญ่</MapSizeLarge>
+  <!-- EN: Extreme (test) -->
   <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
+  <!-- EN: Starting season -->
   <MapStartSeason>ฤดุที่เริ่มต้น:</MapStartSeason>
+  <!-- EN: Auto -->
   <MapStartSeasonDefault>อัตโนมัติ</MapStartSeasonDefault>
-  <PermadeathMode>โหมด Permadeath</PermadeathMode>
-  <PermadeathModeInfo>ในโหมด Permadeath คุณจะได้รับไฟล์บันทึกหนึ่งไฟล์และสามารถบันทึกได้เมื่อเลิกเล่นเกมเท่านั้น คุณไม่สามารถโหลดเกมใหม่เพื่อแก้ไขข้อผิดพลาดได้และเมื่ออาณานิคมตายแล้ว\n\nนี่เป็นวิธีที่ RimWorld ตั้งใจที่จะเล่นโดยทุกครั้งที่น่าทึ่ง - ไม่ว่าจะเป็นเรื่องเศร้าหรือความหวัง - เล่นออกไปอย่างเต็มที่</PermadeathModeInfo>
+  <!-- EN: Notice -->
+  <Notice>TODO</Notice>
 
   <!-- Bill config -->
+  <!-- EN: Suspended -->
   <Suspended>ระงับแล้ว</Suspended>
+  <!-- EN: Not suspended -->
   <NotSuspended>ยังไม่ระงับ</NotSuspended>
+  <!-- EN: SUSPENDED -->
   <SuspendedAllCaps>ระงับแล้ว</SuspendedAllCaps>
+  <!-- EN: Repeat: -->
   <RepeatCount>ทำซ้ำ: {0}</RepeatCount>
+  <!-- EN: Forever -->
   <Forever>ตลอดไป</Forever>
-	<Details>รายละเอียด</Details>
+  <!-- EN: Details -->
+  <Details>รายละเอียด</Details>
+  <!-- EN: Ingredient radius -->
   <IngredientSearchRadius>Ingredient radius</IngredientSearchRadius>
+  <!-- EN: Currently have -->
   <CurrentlyHave>ตอนนี้มีอยู่</CurrentlyHave>
+  <!-- EN: Counting -->
   <CountingProducts>กำลังนับ</CountingProducts>
+  <!-- EN: Infinite -->
   <Infinite>ไม่จำกัด</Infinite>
+  <!-- EN: Allowed {0} skill: -->
   <AllowedSkillRange>ได้รับอนุญาต {0} ทักษะ:</AllowedSkillRange>
+  <!-- EN: incompatible -->
+  <IncompatibleLower>TODO</IncompatibleLower>
+  <!-- EN: Any worker -->
+  <AnyWorker>TODO</AnyWorker>
+  <!-- EN: Unlimited -->
+  <Unlimited>TODO</Unlimited>
   
+  <!-- EN: (This recipe cannot have a target count because it has multiple or unpredictable products.) -->
   <RecipeCannotHaveTargetCount>(สูตรนี้ไม่สามารถนับได้เนื่องจากมีผลิตภัณฑ์หลายรายการหรือไม่สามารถคาดการณ์ได้)</RecipeCannotHaveTargetCount>
+  <!-- EN: Work amount -->
   <WorkAmount>จำนวนงาน</WorkAmount>
+  <!-- EN: Minimum skills: -->
   <MinimumSkills>ทักษะขั้นต่ำ:</MinimumSkills>
+  <!-- EN: Requires {0} {1} -->
   <BillRequires>ต้องการ {0} {1}</BillRequires>
+  <!-- EN: Requires {0} nutrition -->
   <BillRequiresNutrition>ต้องการ {0} อาหารการกิน</BillRequiresNutrition>
+  <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
   <BillRequiresMayVary>โน้ต: วัตถุดิบขนาดเล็กอย่างทอง ต้องใช้มากขึ้น 20 เท่า</BillRequiresMayVary>
+  <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
   <ThisIsSmallVolume>นี่เป็นวัตถุดิบขนาดเล็ก แปลว่าแต่ละ 'หน่วย' มีค่าเป็น 1/20 ของวัตถุดิบขนาดปกติ ดังนั้น, เพื่อเติมให้เท่ากับความต้องการของวัตถุดิบ, คุณจะต้องใช้มากขึ้น 20 เท่าจากธรรมดา</ThisIsSmallVolume>
+  <!-- EN: ingredients -->
   <UsableIngredients>วัตถุดิบ</UsableIngredients>
+  <!-- EN: To {0} -->
   <BillRepeatTargetCountShort>ไปที่ {0}</BillRepeatTargetCountShort>
-  
+
+  <!-- EN: Pause when satisfied -->
   <PauseWhenSatisfied>หยุดชั่วคราวเมื่อพอใจ</PauseWhenSatisfied>
+  <!-- EN: Unpause at -->
   <UnpauseWhenYouHave>หยุดชั่วคราวที่</UnpauseWhenYouHave>
+  <!-- EN: Paused -->
   <Paused>หยุดชั่วคราว</Paused>
+  <!-- EN: Unpause -->
   <Unpause>ยกเลิกการหยุดชั่วคราว</Unpause>
+
+  <!-- EN: Count equipped -->
+  <IncludeEquipped>TODO</IncludeEquipped>
+  <!-- EN: Count tainted -->
+  <IncludeTainted>TODO</IncludeTainted>
+  <!-- EN: Only allowed ingredients -->
+  <LimitToAllowedStuff>TODO</LimitToAllowedStuff>
+  <!-- EN: Look everywhere -->
+  <IncludeFromAll>TODO</IncludeFromAll>
+  <!-- EN: Look in {0} -->
+  <IncludeSpecific>TODO</IncludeSpecific>
   
   <!-- Info card -->
+  <!-- EN: Damage -->
   <Damage>ความเสียหาย</Damage>
+  <!-- EN: Armor penetration -->
+  <ArmorPenetration>TODO</ArmorPenetration>
+  <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
+  <ArmorPenetrationExplanation>TODO</ArmorPenetrationExplanation>
+  <!-- EN: Accuracy -->
   <Accuracy>ความแม่นยำ</Accuracy>
+  <!-- EN: Burst shot count -->
   <BurstShotCount>จำนวนภาพต่อเนื่อง</BurstShotCount>
+  <!-- EN: Warmup -->
   <WarmupTime>Warmup</WarmupTime>
+  <!-- EN: Melee warmup -->
   <MeleeWarmupTime>Melee warmup</MeleeWarmupTime>
+  <!-- EN: Cooldown -->
   <CooldownTime>คูลดาวน์</CooldownTime>
+  <!-- EN: Fire rate -->
   <BurstShotFireRate>อัตราการใช้ไฟ</BurstShotFireRate>
+  <!-- EN: Range -->
   <Range>ระยะ</Range>
+  <!-- EN: Stopping power -->
+  <StoppingPower>TODO</StoppingPower>
+  <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected. -->
+  <StoppingPowerExplanation>TODO</StoppingPowerExplanation>
+  <!-- EN: Direct hit chance -->
+  <DirectHitChance>TODO</DirectHitChance>
+  <!-- EN: Miss radius -->
+  <MissRadius>TODO</MissRadius>
+  <!-- EN: Grows wild -->
   <GrowsWild>เติบโตในป่า</GrowsWild>
+  <!-- EN: Harvestable -->
   <Harvestable>สามารถเก็บเกี่ยวได้</Harvestable>
+  <!-- EN: Limited lifespan -->
   <LimitedLifespan>อายุการใช้งาน จำกัด</LimitedLifespan>
+  <!-- EN: Growing time -->
   <GrowingTime>ระยะเวลาการเจริญเติบโต</GrowingTime>
+  <!-- EN: Harvest yield -->
+  <HarvestYield>TODO</HarvestYield>
+  <!-- EN: Min growth temperature -->
+  <MinGrowthTemperature>TODO</MinGrowthTemperature>
+  <!-- EN: Max growth temperature -->
+  <MaxGrowthTemperature>TODO</MaxGrowthTemperature>
+  <!-- EN: Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth. -->
   <GrowingTimeDesc>พืชเจริญเติบโตได้เพียงส่วนเดียวของวันและเมื่อแสงสว่างเท่านั้น สถิตินี้ใช้วัดเวลาที่พื้นที่ต้องการใช้จ่ายจริงเพื่อให้ได้ขนาดเต็มที่ เวลาในการเติบโตที่แท้จริงโดยทั่วไปจะยาวประมาณสองเท่า อุณหภูมิต่ำยังช่วยชะลอการเจริญเติบโตของพืช</GrowingTimeDesc>
+  <!-- EN: days -->
   <Days>วัน</Days>
+  <!-- EN: Minimum growing skill to sow -->
   <MinGrowingSkillToSow>ทักษะการหว่าน</MinGrowingSkillToSow>
+  <!-- EN: Fertility requirement -->
   <FertilityRequirement>ต้องการความอุดมสมบูรณ์</FertilityRequirement>
+  <!-- EN: Fertility sensitivity -->
   <FertilitySensitivity>ความไวของการเจริญพันธุ์</FertilitySensitivity>
+  <!-- EN: Light requirement -->
   <LightRequirement>ต้องการแสงสว่าง</LightRequirement>
+  <!-- EN: Attributes -->
   <Attributes>Attributes</Attributes>
+  <!-- EN: Lifespan -->
   <LifeSpan>อายุขัย</LifeSpan>
+  <!-- EN: Nutrition -->
   <Nutrition>สารอาหาร</Nutrition>
+  <!-- EN: Recreation -->
   <Joy>ความสุข</Joy>
+  <!-- EN: Food quality -->
   <FoodQuality>คุณภาพอาหาร</FoodQuality>
+  <!-- EN: Walk speed -->
   <WalkSpeedProperty>ความเร็วการเดิน</WalkSpeedProperty>
+  <!-- EN: Min. food quality -->
   <MinFoodQuality>คุณภาพอาหารขึ้นต่ำ</MinFoodQuality>
+  <!-- EN: Diet -->
   <Diet>โภชนาการ</Diet>
-    <BodySize>ขนาดการ</BodySize>
+  <!-- EN: Leather type -->
+  <LeatherType>TODO</LeatherType>
+  <!-- EN: Body size -->
+  <BodySize>ขนาดการ</BodySize>
+  <!-- EN: Recruit difficulty -->
   <RecruitDifficulty>ความยากในการชักชวน</RecruitDifficulty>
+  <!-- EN: Base price -->
   <MarketValue>ราคาพื้นฐาน</MarketValue>
+  <!-- EN: Covers -->
   <Covers>หลบที่กำบัง</Covers>
+  <!-- EN: Layer -->
+  <Layer>TODO</Layer>
+  <!-- EN: Cover effectiveness -->
   <CoverEffectiveness>ประสิทธิภาพของหลบที่กำบัง</CoverEffectiveness>
+  <!-- EN: How effective this is when used as cover in a gunfight. Higher percentages will block more shots. -->
   <CoverEffectivenessExplanation>วิธีนี้มีประสิทธิภาพเมื่อใช้เป็นหลบที่กำบังในการสู้รบ เปอร์เซ็นต์ที่สูงขึ้นจะป้องกันไม่ให้มีการถ่ายภาพมากขึ้น</CoverEffectivenessExplanation>
+  <!-- EN: Experience gain factor -->
   <MedicineXpGainFactor>ปัจจัยที่ได้รับประสบการณ์</MedicineXpGainFactor>
+  <!-- EN: Mood change -->
   <MoodChange>อารมณ์เปลี่ยน</MoodChange>
+  <!-- EN: Wildness -->
   <Wildness>มุ่งมั่น</Wildness>
+  <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
   <WildnessExplanation>สิ่งมีชีวิตที่ Wilder เป็นธรรมชาติยากที่จะเชื่องฝึกและจัดการ</WildnessExplanation>
+  <!-- EN: Training decay interval -->
+  <TrainingDecayInterval>TODO</TrainingDecayInterval>
+  <!-- EN: Tameness will never decay. -->
+  <TamenessWillNotDecay>TODO</TamenessWillNotDecay>
+  <!-- EN: Animal filth rate -->
   <AnimalFilthRate>อัตราความสกปรกของสัตว์</AnimalFilthRate>
+  <!-- EN: Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
   <AnimalFilthRateExplanation>สัตว์ก่อให้เกิดความสกปรกเมื่อเคลื่อนไปมาบนพื้นที่สร้างขึ้น นี่คือจำนวนเฉลี่ยของสิ่งสกปรกที่ผลิตต่อ {0} เซลล์ที่เดินผ่านสิ่งมีชีวิตนี้\n\nสัตว์เลี้ยงที่มีขนาดใหญ่และสัตว์เลี้ยงน้อยลงทำให้เกิดสิ่งปฏิกูลมากขึ้น</AnimalFilthRateExplanation>
+  <!-- EN: Time -->
   <TimeRecordsCategory>เวลา</TimeRecordsCategory>
+  <!-- EN: Misc -->
   <MiscRecordsCategory>อื่นๆ</MiscRecordsCategory>
+  <!-- EN: Addictiveness -->
   <Addictiveness>Addictiveness</Addictiveness>
-	<PackAnimal>สัตว์ขนของ</PackAnimal>
-	<PackAnimalExplanation>ไม่ว่าจะเป็นสัตว์ชนิดนี้เหมาะสมที่จะใช้ในการพกสิ่งของในกองคาราวานในระยะทางไกล</PackAnimalExplanation>
+  <!-- EN: Pack animal -->
+  <PackAnimal>สัตว์ขนของ</PackAnimal>
+  <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
+  <PackAnimalExplanation>ไม่ว่าจะเป็นสัตว์ชนิดนี้เหมาะสมที่จะใช้ในการพกสิ่งของในกองคาราวานในระยะทางไกล</PackAnimalExplanation>
+  <!-- EN: Skill -->
   <Skill>ทักษะ</Skill>
+  <!-- EN: Success rate multiplier -->
   <SurgerySuccessChanceFactor>ตัวคูณอัตราความสำเร็จ</SurgerySuccessChanceFactor>
-  <SurgeryRequireBed>ต้องการเตียง</SurgeryRequireBed>
+  <!-- EN: Work speed governed by -->
   <WorkSpeedStat>ความเร็วในการทำงานควบคุมโดย</WorkSpeedStat>
+  <!-- EN: Output quantity governed by -->
   <EfficiencyStat>ปริมาณการส่งออกถูกควบคุมโดย</EfficiencyStat>
+  <!-- EN: Construction skill required -->
   <ConstructionSkillRequired>ต้องมีทักษะในการก่อสร้าง</ConstructionSkillRequired>
+  <!-- EN: Requires this level of Construction in order to build. -->
   <ConstructionSkillRequiredExplanation>ต้องใช้ระดับของการก่อสร้างนี้เพื่อที่จะสร้าง</ConstructionSkillRequiredExplanation>
-	
+  <!-- EN: Nuzzle interval -->
+  <NuzzleInterval>TODO</NuzzleInterval>
+  <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time. -->
+  <NuzzleIntervalExplanation>TODO</NuzzleIntervalExplanation>
+  <!-- EN: Revenge chance on harm -->
+  <HarmedRevengeChance>TODO</HarmedRevengeChance>
+  <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeing revenge, attack it from rifle range with a slow-firing weapon. -->
+  <HarmedRevengeChanceExplanation>TODO</HarmedRevengeChanceExplanation>
+  <!-- EN: Revenge chance on tame fail -->
+  <TameFailedRevengeChance>TODO</TameFailedRevengeChance>
+  <!-- EN: Terrain requirement -->
+  <TerrainRequirement>TODO</TerrainRequirement>
+  <!-- EN: Supports -->
+  <Supports>TODO</Supports>
+
   <!-- Trade -->
+  <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
   <PositiveBuysNegativeSells>ตัวเลขบวกซื้อ\nตัวเลขติดลบขาย</PositiveBuysNegativeSells>
+  <!-- EN: Price you pay to buy this. -->
   <BuyPriceDesc>ราคาที่คุณจ่ายเงินเพื่อซื้อนี้</BuyPriceDesc>
+  <!-- EN: Price you receive for selling this. -->
   <SellPriceDesc>ราคาที่คุณได้รับจากการขายนี้</SellPriceDesc>
+  <!-- EN: For this item, this price is {0}. -->
   <PriceTypeDesc>สำหรับรายการนี้, ราคานี้เป็นราคา {0}.</PriceTypeDesc>
+  <!-- EN: How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon. -->
   <ColonyCount>กี่รายการนี้อาณานิคมพร้อมที่จะค้าขาย\n\nคุณสามารถขายสินค้าให้กับผู้ค้าที่เป็นวงโคจรเท่านั้นหากอยู่กลางแจ้งและอยู่ใกล้กับสัญญาณการค้าโคจร</ColonyCount>
+  <!-- EN: How many of this item the trader has to trade. -->
   <TraderCount>มีสินค้ากี่รายการที่พ่อค้าขายได้</TraderCount>
+  <!-- EN: Accept -->
   <AcceptButton>ยอมรับ</AcceptButton>
+  <!-- EN: Reset -->
   <ResetButton>รีเซ็ต</ResetButton>
+  <!-- EN: Cancel -->
   <CancelButton>ยกเลิก</CancelButton>
+  <!-- EN: Close -->
   <CloseButton>ปิด</CloseButton>
+  <!-- EN: Your tradeable silver: {0} -->
   <YourTradeableSilver>เงินที่แลกเปลี่ยนได้: {0}</YourTradeableSilver>
-	<YourTradeableSilverTip>คุณสามารถค้าขายกับเงินที่อยู่ใกล้กับสัญญาณการค้าในวงโคจรและไม่อยู่ภายใต้หลังคา</YourTradeableSilverTip>
+  <!-- EN: You can only trade with silver that is near an orbital trade beacon and not under a roof. -->
+  <YourTradeableSilverTip>คุณสามารถค้าขายกับเงินที่อยู่ใกล้กับสัญญาณการค้าในวงโคจรและไม่อยู่ภายใต้หลังคา</YourTradeableSilverTip>
+  <!-- EN: Trader has no more. -->
   <TraderHasNoMore>พ่อค้าไม่มีเหลือแล้ว.</TraderHasNoMore>
+  <!-- EN: No more to sell. -->
   <ColonyHasNoMore>ไม่เหลืออะไรจะขายแล้ว</ColonyHasNoMore>
+  <!-- EN: Trader is not willing to buy this. -->
   <TraderWillNotTrade>พ่อค้า ไม่เต็มใจที่จะค้าในรายการนี้</TraderWillNotTrade>
+  <!-- EN: Negotiator -->
   <Negotiator>ผู้เจรจา</Negotiator>
+  <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
   <NegotiatorTalkingImpaired>ผู้เจรจาต่อรองของคุณ {0} ไม่สามารถพูดได้อย่างถูกต้องเนื่องจากสุขภาพไม่ดี\n\nส่งผลกระทบต่อราคาค้าขาย\n\nพิจารณาใช้ผู้เจรจาที่มีสุขภาพดี</NegotiatorTalkingImpaired>
+  <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
   <NegotiatorHearingImpaired>ผู้เจรจาต่อรองของคุณ {0} ไม่สามารถได้ยินเสียงได้อย่างถูกต้องเนื่องจากสุขภาพไม่ดี</NegotiatorHearingImpaired>
+  <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
   <NegotiatorCapacityImpaired>ซึ่งจะส่งผลต่อราคาการค้า\n\nพิจารณาให้ผู้เจรจามีสุขภาพดี</NegotiatorCapacityImpaired>
+  <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
   <ConfirmTraderShortFunds>ผู้ค้ามีเงินไม่เพียงพอที่จะทำธุรกรรมนี้ได้เต็มที่  ดำเนินการต่อ?</ConfirmTraderShortFunds>
+  <!-- EN: Sort by -->
   <SortBy>เรียงตาม</SortBy>
-    <TraderTypePrice>ประเภทผู้ประกอบการค้า</TraderTypePrice>
-	<Selling>ขาย</Selling>
-	<Buying>ซื้อ</Buying>
-	<ItemSellPriceFactor>ตัวคูณราคาขายสินค้า</ItemSellPriceFactor>
-	<DifficultyLevel>ระดับความยาก</DifficultyLevel>
-	<PostCurve>เส้นโค้งหลังการผลิตทั่วโลก</PostCurve>
-	<YourNegotiatorBonus>โบนัสผู้เจรจาต่อรองของคุณ</YourNegotiatorBonus>
-	<TradeWithFactionBaseBonus>การซื้อขายกับโบนัสฐานฝ่ายตรงข้าม</TradeWithFactionBaseBonus>
-	<minimum>ขั้นต่ำ</minimum>
-	<FinalPrice>ราคาสุดท้าย</FinalPrice>
-  <TradeMassUsageTooltip>การใช้มวลและการผลิตมวล</TradeMassUsageTooltip>
+  <!-- EN: trader type -->
+  <TraderTypePrice>ประเภทผู้ประกอบการค้า</TraderTypePrice>
+  <!-- EN: selling -->
+  <Selling>ขาย</Selling>
+  <!-- EN: buying -->
+  <Buying>ซื้อ</Buying>
+  <!-- EN: item sell price multiplier -->
+  <ItemSellPriceFactor>ตัวคูณราคาขายสินค้า</ItemSellPriceFactor>
+  <!-- EN: difficulty level -->
+  <DifficultyLevel>ระดับความยาก</DifficultyLevel>
+  <!-- EN: global post-process curve -->
+  <PostCurve>เส้นโค้งหลังการผลิตทั่วโลก</PostCurve>
+  <!-- EN: Your negotiator bonus -->
+  <YourNegotiatorBonus>โบนัสผู้เจรจาต่อรองของคุณ</YourNegotiatorBonus>
+  <!-- EN: Trading with faction base bonus -->
+  <TradeWithFactionBaseBonus>การซื้อขายกับโบนัสฐานฝ่ายตรงข้าม</TradeWithFactionBaseBonus>
+  <!-- EN: minimum -->
+  <minimum>ขั้นต่ำ</minimum>
+  <!-- EN: Final price -->
+  <FinalPrice>ราคาสุดท้าย</FinalPrice>
+  <!-- EN: Gift mode - offer gifts to {0}. -->
+  <GiftModeTip>TODO</GiftModeTip>
+  <!-- EN: Return to trade mode. -->
+  <TradeModeTip>TODO</TradeModeTip>
+
+  <!-- Sellable items -->
+  <!-- EN: Things this trader will buy -->
+  <SellableItemsTitle>TODO</SellableItemsTitle>
+  <!-- EN: Creatures -->
+  <PawnsTabShort>TODO</PawnsTabShort>
   
   <!-- Form caravan -->
+  <!-- EN: Form caravan -->
   <FormCaravan>แบบคาราวาน</FormCaravan>
+  <!-- EN: Number available to send with the caravan. -->
   <FormCaravanColonyThingCountTip>มีกี่รายการที่อาณานิคมนี้พร้อมที่จะมอบให้กับกองคาราวาน</FormCaravanColonyThingCountTip>
+  <!-- EN: People and animals -->
   <PawnsTab>คนและสัตว์</PawnsTab>
+  <!-- EN: Items -->
   <ItemsTab>สิ่งของ</ItemsTab>
-  <CaravanConfigTab>การกำหนดค่า</CaravanConfigTab>
+  <!-- EN: You must assign at least one non-downed colonist. -->
   <CaravanMustHaveAtLeastOneColonist>คุณต้องกำหนดอาณานิคมที่ไม่ได้ลงคะแนนอย่างน้อยหนึ่งคน</CaravanMustHaveAtLeastOneColonist>
+  <!-- EN: The chosen exit location ({0}) is inaccessible. -->
   <CaravanCouldNotFindExitSpot>ตำแหน่งทางออกที่เลือก ({0}) ไม่สามารถเข้าถึงได้</CaravanCouldNotFindExitSpot>
+  <!-- EN: Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible. -->
   <CaravanCouldNotFindPackingSpot>ไม่พบจุดบรรจุที่ถูกต้อง ตรวจสอบให้แน่ใจว่าตำแหน่งทางลงที่เลือกไว้ ({0}) สามารถเข้าถึงได้</CaravanCouldNotFindPackingSpot>
+  <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
   <CaravanCouldNotFindReachableExitSpot>คำเตือน: บางส่วนของอาณานิคมที่กำหนดไม่สามารถเข้าถึงสถานที่ทางลง ({0}).</CaravanCouldNotFindReachableExitSpot>
+  <!-- EN: {1_labelShort} is unreachable by any of the assigned colonists. -->
   <CaravanPawnIsUnreachable>{0} ไม่สามารถเข้าถึงได้โดยอาณานิคมใด ๆ ที่กำหนด</CaravanPawnIsUnreachable>
+  <!-- EN: None of the assigned colonists are able to reach the {0}. -->
   <CaravanItemIsUnreachableSingle>ไม่มีอาณานิคมที่ได้รับมอบหมายสามารถเข้าถึงได้ {0}.</CaravanItemIsUnreachableSingle>
+  <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
   <CaravanItemIsUnreachableMulti>ไม่มีอาณานิคมที่ได้รับมอบหมายสามารถเข้าถึงได้ {0}x {1}.</CaravanItemIsUnreachableMulti>
+  <!-- EN: The caravan can't carry that much. -->
   <TooBigCaravanMassUsage>กองคาราวานไม่สามารถพกพาได้มากนัก</TooBigCaravanMassUsage>
+  <!-- EN: Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus. -->
   <CaravanMassUsageTooltip>การใช้มวลชนในปัจจุบันและความจุมวลชน\n\nการใช้มวลรวมถึงวัสดุอุปกรณ์คาราวานที่กำหนดรวมทั้งอุปกรณ์ปัจจุบันของอาณานิคม\n\nคุณจะไม่สามารถส่งกองคาราวานได้หากการใช้มวลเกินความจุ</CaravanMassUsageTooltip>
+  <!-- EN: Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan. -->
+  <CaravanVisibilityTip>TODO</CaravanVisibilityTip>
+  <!-- EN: Days of food -->
+  <DaysWorthOfFood>TODO</DaysWorthOfFood>
+  <!-- EN: rot in {0} -->
+  <DaysWorthOfFoodInfoRot>{0} วันคุ้มค่าของอาหารที่จะเน่า {1} วัน</DaysWorthOfFoodInfoRot>
+  <!-- EN: Unlimited -->
+  <InfiniteDaysWorthOfFoodInfo>อาหารจะไม่มีวันหมด</InfiniteDaysWorthOfFoodInfo>
+  <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
+  <DaysWorthOfFoodTooltip>จำนวนวันโดยประมาณก่อนที่คาราวานจะหมดอาหาร\n\nโดยคำนึงถึงอาหารของมนุษย์และสัตว์และแสดงสถานการณ์ที่เลวร้ายที่สุด ซึ่งหมายความว่าหลังจากหลายวันนี้อย่างน้อยหนึ่งคนหรือสัตว์จะอดอาหาร</DaysWorthOfFoodTooltip>
+  <!-- EN: (only the first waypoint is taken into account) -->
+  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>TODO</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
+  <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
+  <DaysWorthOfFoodWarningDialog>กองคาราวานของคุณมีเท่านี้ {0} วัน ของอาหารและจะกลายเป็นหิวได้อย่างรวดเร็ว\n\nคุณแน่ใจหรือไม่ว่าต้องการสร้างคาราวานนี้?</DaysWorthOfFoodWarningDialog>
+  <!-- EN: Your caravan has no food and will become hungry very quickly. -->
+  <DaysWorthOfFoodWarningDialog_NoFood>กองคาราวานของคุณไม่มีอาหารและจะหิวอย่างรวดเร็ว\n\nคุณแน่ใจหรือไม่ว่าต้องการสร้างคาราวานนี้?</DaysWorthOfFoodWarningDialog_NoFood>
+  <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
+  <ForagedFoodPerDayTip>TODO</ForagedFoodPerDayTip>
+  <!-- EN: Forage per day -->
+  <ForagedFoodPerDay>TODO</ForagedFoodPerDay>
+  <!-- EN: A large part of the caravan's food will rot soon. -->
+  <CaravanFoodWillRotSoonWarningDialog>ส่วนใหญ่ของอาหารที่กำหนดจะเน่าเร็วๆ นี้\n\nคุณแน่ใจหรือไม่ว่าต้องการสร้างคาราวานนี้</CaravanFoodWillRotSoonWarningDialog>
+  <!-- EN: You have no caravan members capable of diplomacy or trading. -->
+  <CaravanIncapableOfSocial>คุณไม่มีสมาชิกคาราวานที่มีความสามารถทางการทูตหรือการค้าขาย</CaravanIncapableOfSocial>
+  <!-- EN: Are you sure you want to form this caravan? -->
+  <CaravanAreYouSure>คุณแน่ใจหรือไม่ว่าต้องการสร้างคาราวานนี้ ?</CaravanAreYouSure>
+  <!-- EN: You must choose a route for the caravan first. -->
+  <MessageMustChooseRouteFirst>TODO</MessageMustChooseRouteFirst>
+  <!-- EN: Your caravan is unable to leave the area. Make sure that at least one side is reachable. -->
+  <MessageNoValidExitTile>TODO</MessageNoValidExitTile>
+  <!-- EN: Weight of this item. -->
+  <ItemWeightTip>น้ำหนักของรายการนี้</ItemWeightTip>
+  <!-- EN: Market value -->
+  <MarketValueTip>มูลค่าตลาด</MarketValueTip>
+  <!-- EN: The number of days until this item starts to rot based on the average temperature in this area. -->
+  <DaysUntilRotTip>จำนวนวันจนกว่ารายการนี้จะเริ่มเน่าขึ้นอยู่กับอุณหภูมิโดยเฉลี่ยในบริเวณนี้</DaysUntilRotTip>
+  <!-- EN: How much nutrition this food provides.\n\nFor reference: adult person needs {0} nutrition per day. -->
+  <ItemNutritionTip>TODO</ItemNutritionTip>
+  <!-- EN: This animal can graze food from the environment instead of eating carried food. Grazing is only possible in some biomes and temperature ranges. -->
+  <AnimalCanGrazeTip>TODO</AnimalCanGrazeTip>
+  <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
+  <NutritionForagedPerDayTip>TODO</NutritionForagedPerDayTip>
+  <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition.\n\nCan eat: {2}\n\nLegend:\n{1}. -->
+  <NutritionEatenPerDayTip>TODO</NutritionEatenPerDayTip>
+  <!-- EN: Mass carried -->
+  <MassCarriedSimple>TODO</MassCarriedSimple>
+  <!-- EN: Mass capacity -->
+  <MassCapacity>กำลังการผลิตขนาดใหญ่</MassCapacity>
+  <!-- EN: Mass -->
+  <Mass>มวล</Mass>
+  <!-- EN: Caravan mass -->
+  <CaravanMass>TODO</CaravanMass>
+  <!-- EN: Equipment and apparel mass -->
+  <EquipmentAndApparelMass>อุปกรณ์และเครื่องนุ่งห่ม</EquipmentAndApparelMass>
+  <!-- EN: Inventory mass -->
+  <InventoryMass>มวลสินค้าคงคลัง</InventoryMass>
+  <!-- EN: Your colonists will now gather the items and leave the area. -->
+  <CaravanFormationProcessStarted>ผู้ล่าอาณานิคมของคุณจะได้รับสินค้าที่ได้รับมอบหมายและออกจากพื้นที่โดยเร็วที่สุด</CaravanFormationProcessStarted>
+  <!-- EN: Reform caravan -->
+  <ReformCaravan>ปฏิรูปคาราวาน</ReformCaravan>
+  <!-- EN: Colonists -->
+  <ColonistsSection>อาณานิคม</ColonistsSection>
+  <!-- EN: Prisoners -->
+  <PrisonersSection>นักโทษ</PrisonersSection>
+  <!-- EN: Capture -->
+  <CaptureSection>TODO</CaptureSection>
+  <!-- EN: Animals -->
+  <AnimalsSection>สัตว์</AnimalsSection>
+  <!-- EN: Choose route -->
+  <ChooseRouteButton>TODO</ChooseRouteButton>
+  <!-- EN: Abandon -->
+  <AbandonButton>ละทิ้ง</AbandonButton>
+  <!-- EN: Movement speed -->
+  <CaravanMovementSpeed>TODO</CaravanMovementSpeed>
+  <!-- EN: tiles/day -->
+  <TilesPerDay>TODO</TilesPerDay>
+  <!-- EN: Movement speed depends on the average speed of all people and animals, carried mass, and terrain movement difficulty. -->
+  <CaravanMovementSpeedTip>TODO</CaravanMovementSpeedTip>
+  <!-- EN: Animals will be able to graze -->
+  <AnimalsWillBeAbleToGraze>TODO</AnimalsWillBeAbleToGraze>
+  <!-- EN: Animals can graze -->
+  <AnimalsCanGraze>TODO</AnimalsCanGraze>
+  <!-- EN: (for {0} more days) -->
+  <PossibleToGrazeFor>TODO</PossibleToGrazeFor>
+  <!-- EN: (forever) -->
+  <PossibleToGrazeForever>TODO</PossibleToGrazeForever>
+  <!-- EN: ({0}) -->
+  <CantGrazeBecauseOfBiome>TODO</CantGrazeBecauseOfBiome>
+  <!-- EN: (too cold for {0} more days) -->
+  <CantGrazeBecauseOfTemp>TODO</CantGrazeBecauseOfTemp>
+  <!-- EN: Total nutrition -->
+  <TotalNutrition>TODO</TotalNutrition>
+  <!-- EN: Not moving -->
+  <CaravanNotMoving>TODO</CaravanNotMoving>
+  <!-- EN: Foraged nutrition per day -->
+  <ForagedNutritionPerDay>TODO</ForagedNutritionPerDay>
+  <!-- EN: Faction type -->
+  <FactionType>TODO</FactionType>
+  <!-- EN: Total body size -->
+  <TotalBodySize>TODO</TotalBodySize>
+
+  <!-- Split caravan -->
+  <!-- EN: Split caravan -->
+  <SplitCaravan>แยกกองคาราวาน</SplitCaravan>
+  <!-- EN: You must leave at least one non-downed colonist. -->
+  <SourceCaravanMustHaveAtLeastOneColonist>คุณต้องออกจากอาณานิคมที่ไม่ได้ลงแรงอย่างน้อยหนึ่งคน</SourceCaravanMustHaveAtLeastOneColonist>
+  <!-- EN: How many of this item the caravan has ready to give to the new caravan. -->
+  <SplitCaravanThingCountTip>มีกี่รายการที่คาราวานพร้อมที่จะมอบให้คาราวานใหม่</SplitCaravanThingCountTip>
+  
+  <!-- Load transporters -->
+  <!-- EN: Load {0} -->
+  <LoadTransporters>สัมภาระ {0}</LoadTransporters>
+  <!-- EN: The assigned people and items are too heavy for the transport pods. -->
+  <TooBigTransportersMassUsage>บุคคลที่ได้รับมอบหมายและสิ่งของหนักเกินไปสำหรับฝักขนส่ง</TooBigTransportersMassUsage>
+  <!-- EN: You can't send empty transport pods. -->
+  <CantSendEmptyTransportPods>คุณไม่สามารถส่งกระสวยขนส่งที่ว่างเปล่า</CantSendEmptyTransportPods>
+  <!-- EN: {1_labelShort} can't reach the transport pods. -->
+  <PawnCantReachTransporters>{0} ไม่สามารถเข้าถึงกระสวยขนส่งได้</PawnCantReachTransporters>
+  <!-- EN: There is no path between the transport pods and the {0}. -->
+  <TransporterItemIsUnreachableSingle>ไม่มีเส้นทางระหว่างกระสวยขนส่งและ {0}.</TransporterItemIsUnreachableSingle>
+  <!-- EN: There is no path between the transport pods and {0}x {1}. -->
+  <TransporterItemIsUnreachableMulti>ไม่มีเส้นทางระหว่างกระสวยขนส่งและ {0}x {1}.</TransporterItemIsUnreachableMulti>
+  
+  <!-- Comms -->
+  <!-- EN: Social skill: {0} -->
+  <SocialSkillIs>ทักษะทางสังคม: {0}</SocialSkillIs>
+  
+  <!--Research-->
+  <!-- EN: Research finished: {0} -->
+  <ResearchFinished>การวิจัยสำเร็จแล้ว: {0}</ResearchFinished>
+  <!-- EN: Research Screen -->
+  <ResearchScreen>หน้าการวิจัย</ResearchScreen>
+  
+  <!--HistoryUpload-->
+  <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
+  <HistoryUploadMessage>คุณต้องการอัปโหลดระเบียนข้อมูลการเล่นเกมของคุณไปยังเซิร์ฟเวอร์ RimWorld เพื่อช่วยให้นักพัฒนาสามารถปรับสมดุลเกมได้หรือไม่?หากคุณยอมรับข้อมูลของคุณจะได้รับการอัปโหลดทุกครั้ง {0} วัน (และในบางกรณีที่หายากอื่น ๆ เช่นการสิ้นสุดของเกม) คุณสามารถเปลี่ยนการตั้งค่าความเป็นส่วนตัวในภายหลังได้ในเมนูตัวเลือก</HistoryUploadMessage>
+  <!-- EN: Even though history is sent anonymously, you can attach your name. -->
+  <HistoryUploadMessagePlayerName>แม้ว่าจะมีการส่งประวัติโดยไม่ระบุชื่อคุณสามารถแนบชื่อของคุณได้</HistoryUploadMessagePlayerName>
+  <!-- EN: Allow uploading gameplay data -->
+  <HistoryUploadYes>อนุญาตให้อัปโหลดข้อมูลเกม</HistoryUploadYes>
+  <!-- EN: Do not allow uploading gameplay data -->
+  <HistoryUploadNo>ไม่อนุญาตให้อัปโหลดข้อมูลการเล่นเกม</HistoryUploadNo>
+  <!-- EN: Upload only this time -->
+  <HistoryUploadYesOnce>อัปโหลดเฉพาะในครั้งนี้</HistoryUploadYesOnce>
+  <!-- EN: Do not upload this time, ask me later -->
+  <HistoryUploadNoOnce>อย่าอัปโหลดเวลานี้ถามฉันทีหลัง</HistoryUploadNoOnce>
+  
+  <!-- Outfit management -->
+  <!-- EN: Outfit -->
+  <Outfit>Outfit</Outfit>
+  <!-- EN: Select outfit... -->
+  <SelectOutfit>เลือกเครื่องแต่งกาย...</SelectOutfit>
+  <!-- EN: New outfit -->
+  <NewOutfit>สร้างเครื่องแต่งกายใหม่</NewOutfit>
+  <!-- EN: Delete outfit... -->
+  <DeleteOutfit>ลบเครื่องแต่งกาย...</DeleteOutfit>
+  <!-- EN: Outfit is in use by {0}. -->
+  <OutfitInUse>เครื่องแต่งกายใช้อยู่โดย {0}</OutfitInUse>
+  <!-- EN: No outfit selected -->
+  <NoOutfitSelected>ไม่ได้เลือกเครื่องแต่งกาย</NoOutfitSelected>
+  
+  <!-- Drug policy management -->
+  <!-- EN: Drug policy -->
+  <DrugPolicy>Drug Policy</DrugPolicy>
+  <!-- EN: Select policy... -->
+  <SelectDrugPolicy>เลือกนโยบาย...</SelectDrugPolicy>
+  <!-- EN: New policy -->
+  <NewDrugPolicy>นโยบายใหม่</NewDrugPolicy>
+  <!-- EN: Delete policy... -->
+  <DeleteDrugPolicy>ลบนโยบาย...</DeleteDrugPolicy>
+  <!-- EN: Drugs policy is in use by {0}. -->
+  <DrugPolicyInUse>นโยบายยาเสพติดที่อยู่ในการใช้งานโดย {0}</DrugPolicyInUse>
+  <!-- EN: Social drugs -->
+  <SocialDrugs>Social Drugs</SocialDrugs>
+  <!-- EN: No drugs -->
+  <NoDrugs>No Drugs</NoDrugs>
+  <!-- EN: One drink per day -->
+  <OneDrinkPerDay>One Drink Per Day</OneDrinkPerDay>
+  <!-- EN: Unrestricted -->
+  <Unrestricted>Unrestricted</Unrestricted>
+  <!-- EN: No drug policy selected -->
+  <NoDrugPolicySelected>นโยบายยาเสพติดไม่ได้เลือก</NoDrugPolicySelected>
+  <!-- EN: Add drug... -->
+  <AddDrug>เพิ่มยาเสพติด...</AddDrug>
+  <!-- EN: Drug -->
+  <DrugColumnLabel>ยา</DrugColumnLabel>
+  <!-- EN: Usage -->
+  <DrugUsageColumnLabel>การใช้</DrugUsageColumnLabel>
+  <!-- EN: Frequency -->
+  <FrequencyColumnLabel>ความถี่</FrequencyColumnLabel>
+  <!-- EN: Only if mood below -->
+  <MoodThresholdColumnLabel>เฉพาะในกรณีที่อารมณ์ด้านล่าง</MoodThresholdColumnLabel>
+  <!-- EN: Only if recreation below -->
+  <JoyThresholdColumnLabel>เฉพาะในกรณีที่มีความสุขด้านล่าง</JoyThresholdColumnLabel>
+  <!-- EN: Take to inventory -->
+  <TakeToInventoryColumnLabel>ใช้เวลาในการสินค้าคงคลัง</TakeToInventoryColumnLabel>
+  <!-- EN: (no drugs) -->
+  <NoDrugsBrackets>(ไม่ใช้ยาเสพติด)</NoDrugsBrackets>
+  <!-- EN: Every day -->
+  <EveryDay>ทุกวัน</EveryDay>
+  <!-- EN: {0} times per day -->
+  <TimesPerDay>{0} ครั้งต่อวัน</TimesPerDay>
+  <!-- EN: Every {0} days -->
+  <EveryDays>ทุกๆ {0} ของวัย</EveryDays>
+  <!-- EN: Any -->
+  <NoDrugUseRequirement>ได้ทั้งหมด</NoDrugUseRequirement>
+  <!-- EN: Delete this drug. -->
+  <DeleteDrugTooltip>ลบยานี้</DeleteDrugTooltip>
+  <!-- EN: The name of a drug. -->
+  <DrugNameColumnDesc>ชื่อของยาเสพติด</DrugNameColumnDesc>
+  <!-- EN: How the drug is allowed to be used. -->
+  <DrugUsageColumnDesc>วิธีการที่ยาเสพติดได้รับอนุญาตให้ใช้</DrugUsageColumnDesc>
+  <!-- EN: How often the colonists should try to take this drug. -->
+  <FrequencyColumnDesc>บ่อยครั้งที่อาณานิคมควรพยายามใช้ยานี้</FrequencyColumnDesc>
+  <!-- EN: The colonists will take this drug only if their mood level is below this threshold. -->
+  <MoodThresholdColumnDesc>อาณานิคมจะใช้ยานี้ก็ต่อเมื่อระดับอารมณ์ต่ำกว่าเกณฑ์นี้</MoodThresholdColumnDesc>
+  <!-- EN: The colonists will take this drug only if their recreation level is below this threshold. -->
+  <JoyThresholdColumnDesc>อาณานิคมจะใช้ยานี้ก็ต่อเมื่อระดับความสุขอยู่ต่ำกว่าเกณฑ์นี้</JoyThresholdColumnDesc>
+  <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
+  <TakeToInventoryColumnDesc>ปริมาณของยาเสพติดที่จะรับเพิ่มขึ้นเมื่อรวบรวมเพื่อการบริโภคเพื่อหลีกเลี่ยงการไปเยี่ยมชมคลังสินค้ายาเสพติดทุกครั้ง</TakeToInventoryColumnDesc>
+  <!-- EN: For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
+  <DrugUsageTipForAddiction>สำหรับการเสพติด\n\nใช้ยานี้ในการให้ยาเสพติดที่กำหนดขึ้นแล้ว\n\nแม้จะถูกปิดใช้งานตัวละครบางตัวที่มีลักษณะเฉพาะหรือในช่วงพักฟื้นก็ตามอาจใช้ยานี้ต่อไป</DrugUsageTipForAddiction>
+  <!-- EN: For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
+  <DrugUsageTipForJoy>สำหรับความสุข\n\nใช้ยานี้เพื่อความสุขและวัตถุประสงค์ทางสังคม\n\nแม้จะถูกปิดใช้งานตัวละครบางตัวที่มีลักษณะเฉพาะหรือในช่วงพักฟื้นก็ตามอาจใช้ยานี้ต่อไป</DrugUsageTipForJoy>
+  <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
+  <DrugUsageTipScheduled>ตามเวลาที่กำหนด\n\nใช้ยานี้ในช่วงเวลาที่กำหนดเมื่อมีการระบุเงื่อนไข</DrugUsageTipScheduled>
+
+  <!-- Medical settings -->
+  <!-- EN: Defaults -->
+  <MedGroupDefaults>เพื่มเติม</MedGroupDefaults>
+  <!-- EN: Colonist -->
+  <MedGroupColonist>อาณานิคม</MedGroupColonist>
+  <!-- EN: Imprisoned colonist -->
+  <MedGroupImprisonedColonist>ที่ถูกคุมขัง อาณานิคม</MedGroupImprisonedColonist>
+  <!-- EN: Colony animal -->
+  <MedGroupColonyAnimal>อาณานิคม สัตว์</MedGroupColonyAnimal>
+  <!-- EN: Neutral animal -->
+  <MedGroupNeutralAnimal>สัตว์ เป็นกลาง</MedGroupNeutralAnimal>
+  <!-- EN: Neutral faction -->
+  <MedGroupNeutralFaction>ฝ่าย เป็นกลาง</MedGroupNeutralFaction>
+  <!-- EN: Hostile faction -->
+  <MedGroupHostileFaction>ฝ่ายศัตรู</MedGroupHostileFaction>
+  
+  <!-- Growing -->
+  <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
+  <NoGrowerCanPlant>{0} ต้องมี {1} ทักษะในการเติบโตที่จะหว่านเมล็ด\n\nไม่มีผู้เพาะปลูกที่มีทักษะนี้ดังนั้นพื้นที่แห่งนี้จะไม่ถูกหว่าน</NoGrowerCanPlant>
+
+  <!-- Abandon home -->
+  <!-- EN: Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0} -->
+  <ConfirmAbandonHomeWithColonyPawns>บางส่วนของอาณานิคมหรือสัตว์ของคุณอยู่ในบริเวณนี้ คุณแน่ใจหรือไม่ว่าต้องการละทิ้ง?\n\nคนและสัตว์ต่อไปนี้จะถูกทิ้งไว้เบื้องหลัง:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  <!-- EN: Abandoning {0} will cause the following people to get the following thoughts: -->
+  <ConfirmAbandonHomeNegativeThoughts>ทิ้ง {0} จะทำให้คนต่อไปนี้ได้รับความคิดต่อไปนี้:</ConfirmAbandonHomeNegativeThoughts>
+  <!-- EN: Everyone: -->
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>ทุกคน:</ConfirmAbandonHomeNegativeThoughts_Everyone>
+  
+  <!-- Move caravan and leave prisoners and animals behind -->
+  <!-- EN: Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan? -->
+  <ConfirmMoveAutoJoinableCaravan>TODO</ConfirmMoveAutoJoinableCaravan>
+  
+  <!-- Abandon pawn -->
+  <!-- EN: Do you really want to banish {1_label}? -->
+  <ConfirmBanishPawnDialog>TODO</ConfirmBanishPawnDialog>
+  <!-- EN: {1_labelShort} will most likely die. -->
+  <ConfirmBanishPawnDialog_LeftToDie>TODO</ConfirmBanishPawnDialog_LeftToDie>
+  <!-- EN: {1_labelShort} will take the following items with {1_objective}: -->
+  <ConfirmBanishPawnDialog_Items>TODO</ConfirmBanishPawnDialog_Items>
+  <!-- EN: All colonists will get the following thoughts: -->
+  <ConfirmBanishPawnDialog_AllColonistsThoughts>TODO</ConfirmBanishPawnDialog_AllColonistsThoughts>
+  <!-- EN: Banishing {1_labelShort} will cause the following people to get the following thoughts: -->
+  <ConfirmBanishPawnDialog_IndividualThoughts>TODO</ConfirmBanishPawnDialog_IndividualThoughts>
+
+  <!-- Send transport pods which are not completely loaded -->
+  <!-- EN: Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway? -->
+  <ConfirmSendNotCompletelyLoadedPods>กลุ่มกระสวย ไม่ได้โหลดอย่างสมบูรณ์ {0} ที่ขาดหายไป. เปิดใช้หรือไม่?</ConfirmSendNotCompletelyLoadedPods>
+
+  <!-- Settle near a faction base -->
+  <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->
+  <ConfirmSettleNearFactionBase>TODO</ConfirmSettleNearFactionBase>
+  
+  <!-- Cleanup translation files -->
+  <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
+  <ConfirmCleanupTranslationFiles>TODO</ConfirmCleanupTranslationFiles>
+  <!-- EN: Yes, I have a backup -->
+  <ConfirmCleanupTranslationFiles_Confirm>TODO</ConfirmCleanupTranslationFiles_Confirm>
+
+  <!-- Load transporters -->
+  <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
+  <TransportersCaravanWillBeImmobile>TODO</TransportersCaravanWillBeImmobile>
+
+  <!-- UNUSED -->
+  <InitializingMap>กำลังจัดเตรียมแผนที่</InitializingMap>
+  <PermadeathMode>โหมด Permadeath</PermadeathMode>
+  <SurgeryRequireBed>ต้องการเตียง</SurgeryRequireBed>
+  <TradeMassUsageTooltip>การใช้มวลและการผลิตมวล</TradeMassUsageTooltip>
+  <CaravanConfigTab>การกำหนดค่า</CaravanConfigTab>
   <MassUsageInfo>{0} / {1} กิโล</MassUsageInfo>
   <DaysWorthOfFoodInfo>อาหาร {0} วัน</DaysWorthOfFoodInfo>
-  <DaysWorthOfFoodInfoRot>{0} วันคุ้มค่าของอาหารที่จะเน่า {1} วัน</DaysWorthOfFoodInfoRot>
-  <InfiniteDaysWorthOfFoodInfo>อาหารจะไม่มีวันหมด</InfiniteDaysWorthOfFoodInfo>
-  <DaysWorthOfFoodTooltip>จำนวนวันโดยประมาณก่อนที่คาราวานจะหมดอาหาร\n\nโดยคำนึงถึงอาหารของมนุษย์และสัตว์และแสดงสถานการณ์ที่เลวร้ายที่สุด ซึ่งหมายความว่าหลังจากหลายวันนี้อย่างน้อยหนึ่งคนหรือสัตว์จะอดอาหาร</DaysWorthOfFoodTooltip>
   <DaysWorthOfFoodTooltip_CanEatLocalPlants>ขึ้นอยู่กับฤดูกาลปัจจุบันอุณหภูมิและสภาพแวดล้อมที่เราคิดว่ามันจะเป็นไปได้สำหรับสัตว์กินพืชที่กินพืชในท้องถิ่น อย่างไรก็ตามสามารถเปลี่ยนแปลงได้ตลอดเวลา</DaysWorthOfFoodTooltip_CanEatLocalPlants>
   <DaysWorthOfFoodTooltip_CantEatLocalPlants>ขึ้นอยู่กับฤดูกาลปัจจุบันอุณหภูมิและสภาพแวดล้อมที่เราคิดว่ามันจะไม่เป็นไปได้สำหรับสัตว์กินพืชที่กินพืชในท้องถิ่น อย่างไรก็ตามสามารถเปลี่ยนแปลงได้ตลอดเวลา</DaysWorthOfFoodTooltip_CantEatLocalPlants>
-  <DaysWorthOfFoodWarningDialog>กองคาราวานของคุณมีเท่านี้ {0} วัน ของอาหารและจะกลายเป็นหิวได้อย่างรวดเร็ว\n\nคุณแน่ใจหรือไม่ว่าต้องการสร้างคาราวานนี้?</DaysWorthOfFoodWarningDialog>
-  <DaysWorthOfFoodWarningDialog_NoFood>กองคาราวานของคุณไม่มีอาหารและจะหิวอย่างรวดเร็ว\n\nคุณแน่ใจหรือไม่ว่าต้องการสร้างคาราวานนี้?</DaysWorthOfFoodWarningDialog_NoFood>
-  <CaravanFoodWillRotSoonWarningDialog>ส่วนใหญ่ของอาหารที่กำหนดจะเน่าเร็วๆ นี้\n\nคุณแน่ใจหรือไม่ว่าต้องการสร้างคาราวานนี้</CaravanFoodWillRotSoonWarningDialog>
-  <CaravanIncapableOfSocial>คุณไม่มีสมาชิกคาราวานที่มีความสามารถทางการทูตหรือการค้าขาย</CaravanIncapableOfSocial>
-  <CaravanAreYouSure>คุณแน่ใจหรือไม่ว่าต้องการสร้างคาราวานนี้ ?</CaravanAreYouSure>
   <NoExitDirectionForCaravanChosen>คุณต้องเลือกทิศทางการออกสำหรับกองคาราวาน</NoExitDirectionForCaravanChosen>
   <NoCaravanExitDirectionAvailable>(ไม่มีทางออกที่พร้อมใช้งาน)</NoCaravanExitDirectionAvailable>
   <ExitDirection>ทิศทางออก</ExitDirection>
   <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
-  <ItemWeightTip>น้ำหนักของรายการนี้</ItemWeightTip>
-  <MarketValueTip>มูลค่าตลาด</MarketValueTip>
-  <DaysUntilRotTip>จำนวนวันจนกว่ารายการนี้จะเริ่มเน่าขึ้นอยู่กับอุณหภูมิโดยเฉลี่ยในบริเวณนี้</DaysUntilRotTip>
-  <MassCapacity>กำลังการผลิตขนาดใหญ่</MassCapacity>
-  <Mass>มวล</Mass>
-  <EquipmentAndApparelMass>อุปกรณ์และเครื่องนุ่งห่ม</EquipmentAndApparelMass>
-  <InventoryMass>มวลสินค้าคงคลัง</InventoryMass>
-  <CaravanFormationProcessStarted>ผู้ล่าอาณานิคมของคุณจะได้รับสินค้าที่ได้รับมอบหมายและออกจากพื้นที่โดยเร็วที่สุด</CaravanFormationProcessStarted>
-  <ReformCaravan>ปฏิรูปคาราวาน</ReformCaravan>
-  <ColonistsSection>อาณานิคม</ColonistsSection>
-  <PrisonersSection>นักโทษ</PrisonersSection>
-  <AnimalsSection>สัตว์</AnimalsSection>
   <EstimatedTimeToDestinationButton>เวลาไปถึงปลายทาง</EstimatedTimeToDestinationButton>
-  <AbandonButton>ละทิ้ง</AbandonButton>
- 
-  <!-- Split caravan -->
-  <SplitCaravan>แยกกองคาราวาน</SplitCaravan>
-  <SourceCaravanMustHaveAtLeastOneColonist>คุณต้องออกจากอาณานิคมที่ไม่ได้ลงแรงอย่างน้อยหนึ่งคน</SourceCaravanMustHaveAtLeastOneColonist>
   <CaravanSplitSourceLabel>ปัจจุบัน</CaravanSplitSourceLabel>
   <CaravanSplitDestLabel>ใหม่</CaravanSplitDestLabel>
-  <SplitCaravanThingCountTip>มีกี่รายการที่คาราวานพร้อมที่จะมอบให้คาราวานใหม่</SplitCaravanThingCountTip>
   <SplitCaravanMassUsageTooltip>การใช้มวลชนในปัจจุบันและความจุมวลชน</SplitCaravanMassUsageTooltip>
-
-  <!-- Load transporters -->
-  <LoadTransporters>สัมภาระ {0}</LoadTransporters>
-  <TooBigTransportersMassUsage>บุคคลที่ได้รับมอบหมายและสิ่งของหนักเกินไปสำหรับฝักขนส่ง</TooBigTransportersMassUsage>
-  <CantSendEmptyTransportPods>คุณไม่สามารถส่งกระสวยขนส่งที่ว่างเปล่า</CantSendEmptyTransportPods>
-  <PawnCantReachTransporters>{0} ไม่สามารถเข้าถึงกระสวยขนส่งได้</PawnCantReachTransporters>
-  <TransporterItemIsUnreachableSingle>ไม่มีเส้นทางระหว่างกระสวยขนส่งและ {0}.</TransporterItemIsUnreachableSingle>
-  <TransporterItemIsUnreachableMulti>ไม่มีเส้นทางระหว่างกระสวยขนส่งและ {0}x {1}.</TransporterItemIsUnreachableMulti>
   <TransportersMassUsageTooltip>การใช้มวลชนในปัจจุบันและความจุมวลชน\n\nคุณจะไม่สามารถส่งกระสวยขนส่งได้หากการใช้มวลเกินความจุ</TransportersMassUsageTooltip>
-  
-  <!-- Comms -->
-  <SocialSkillIs>ทักษะทางสังคม: {0}</SocialSkillIs>
-  
-  <!--Research-->
-  <ResearchFinished>การวิจัยสำเร็จแล้ว: {0}</ResearchFinished>
-  <ResearchScreen>หน้าการวิจัย</ResearchScreen>
-  
-  <!--HistoryUpload-->
-  <HistoryUploadMessage>คุณต้องการอัปโหลดระเบียนข้อมูลการเล่นเกมของคุณไปยังเซิร์ฟเวอร์ RimWorld เพื่อช่วยให้นักพัฒนาสามารถปรับสมดุลเกมได้หรือไม่?หากคุณยอมรับข้อมูลของคุณจะได้รับการอัปโหลดทุกครั้ง {0} วัน (และในบางกรณีที่หายากอื่น ๆ เช่นการสิ้นสุดของเกม) คุณสามารถเปลี่ยนการตั้งค่าความเป็นส่วนตัวในภายหลังได้ในเมนูตัวเลือก</HistoryUploadMessage>
-  <HistoryUploadMessagePlayerName>แม้ว่าจะมีการส่งประวัติโดยไม่ระบุชื่อคุณสามารถแนบชื่อของคุณได้</HistoryUploadMessagePlayerName>
-  <HistoryUploadYes>อนุญาตให้อัปโหลดข้อมูลเกม</HistoryUploadYes>
-  <HistoryUploadNo>ไม่อนุญาตให้อัปโหลดข้อมูลการเล่นเกม</HistoryUploadNo>
-  <HistoryUploadYesOnce>อัปโหลดเฉพาะในครั้งนี้</HistoryUploadYesOnce>
-  <HistoryUploadNoOnce>อย่าอัปโหลดเวลานี้ถามฉันทีหลัง</HistoryUploadNoOnce>
-	
-  <!-- Outfit management -->
-  <Outfit>Outfit</Outfit>
-  <SelectOutfit>เลือกเครื่องแต่งกาย...</SelectOutfit>
-  <NewOutfit>สร้างเครื่องแต่งกายใหม่</NewOutfit>
-  <DeleteOutfit>ลบเครื่องแต่งกาย...</DeleteOutfit>
-  <OutfitInUse>เครื่องแต่งกายใช้อยู่โดย {0}</OutfitInUse>
-  <NoOutfitSelected>ไม่ได้เลือกเครื่องแต่งกาย</NoOutfitSelected>
-  
-  <!-- Drug policy management -->
-  <DrugPolicy>Drug Policy</DrugPolicy>
-  <SelectDrugPolicy>เลือกนโยบาย...</SelectDrugPolicy>
-  <NewDrugPolicy>นโยบายใหม่</NewDrugPolicy>
-  <DeleteDrugPolicy>ลบนโยบาย...</DeleteDrugPolicy>
-  <DrugPolicyInUse>นโยบายยาเสพติดที่อยู่ในการใช้งานโดย {0}</DrugPolicyInUse>
-  <SocialDrugs>Social Drugs</SocialDrugs>
-  <NoDrugs>No Drugs</NoDrugs>
-  <OneDrinkPerDay>One Drink Per Day</OneDrinkPerDay>
-  <Unrestricted>Unrestricted</Unrestricted>
-  <NoDrugPolicySelected>นโยบายยาเสพติดไม่ได้เลือก</NoDrugPolicySelected>
-  <AddDrug>เพิ่มยาเสพติด...</AddDrug>
-  <DrugColumnLabel>ยา</DrugColumnLabel>
-  <DrugUsageColumnLabel>การใช้</DrugUsageColumnLabel>
-  <FrequencyColumnLabel>ความถี่</FrequencyColumnLabel>
-  <MoodThresholdColumnLabel>เฉพาะในกรณีที่อารมณ์ด้านล่าง</MoodThresholdColumnLabel>
-  <JoyThresholdColumnLabel>เฉพาะในกรณีที่มีความสุขด้านล่าง</JoyThresholdColumnLabel>
-  <TakeToInventoryColumnLabel>ใช้เวลาในการสินค้าคงคลัง</TakeToInventoryColumnLabel>
-  <NoDrugsBrackets>(ไม่ใช้ยาเสพติด)</NoDrugsBrackets>
-  <EveryDay>ทุกวัน</EveryDay>
-  <TimesPerDay>{0} ครั้งต่อวัน</TimesPerDay>
-  <EveryDays>ทุกๆ {0} ของวัย</EveryDays>
-  <NoDrugUseRequirement>ได้ทั้งหมด</NoDrugUseRequirement>
-  <DeleteDrugTooltip>ลบยานี้</DeleteDrugTooltip>
-  <DrugNameColumnDesc>ชื่อของยาเสพติด</DrugNameColumnDesc>
-  <DrugUsageColumnDesc>วิธีการที่ยาเสพติดได้รับอนุญาตให้ใช้</DrugUsageColumnDesc>
-  <FrequencyColumnDesc>บ่อยครั้งที่อาณานิคมควรพยายามใช้ยานี้</FrequencyColumnDesc>
-  <MoodThresholdColumnDesc>อาณานิคมจะใช้ยานี้ก็ต่อเมื่อระดับอารมณ์ต่ำกว่าเกณฑ์นี้</MoodThresholdColumnDesc>
-  <JoyThresholdColumnDesc>อาณานิคมจะใช้ยานี้ก็ต่อเมื่อระดับความสุขอยู่ต่ำกว่าเกณฑ์นี้</JoyThresholdColumnDesc>
-  <TakeToInventoryColumnDesc>ปริมาณของยาเสพติดที่จะรับเพิ่มขึ้นเมื่อรวบรวมเพื่อการบริโภคเพื่อหลีกเลี่ยงการไปเยี่ยมชมคลังสินค้ายาเสพติดทุกครั้ง</TakeToInventoryColumnDesc>
-	<DrugUsageTipForAddiction>สำหรับการเสพติด\n\nใช้ยานี้ในการให้ยาเสพติดที่กำหนดขึ้นแล้ว\n\nแม้จะถูกปิดใช้งานตัวละครบางตัวที่มีลักษณะเฉพาะหรือในช่วงพักฟื้นก็ตามอาจใช้ยานี้ต่อไป</DrugUsageTipForAddiction>
-	<DrugUsageTipForJoy>สำหรับความสุข\n\nใช้ยานี้เพื่อความสุขและวัตถุประสงค์ทางสังคม\n\nแม้จะถูกปิดใช้งานตัวละครบางตัวที่มีลักษณะเฉพาะหรือในช่วงพักฟื้นก็ตามอาจใช้ยานี้ต่อไป</DrugUsageTipForJoy>
-  <DrugUsageTipScheduled>ตามเวลาที่กำหนด\n\nใช้ยานี้ในช่วงเวลาที่กำหนดเมื่อมีการระบุเงื่อนไข</DrugUsageTipScheduled>
- 
-  <!-- Medical settings -->
-  <MedGroupDefaults>เพื่มเติม</MedGroupDefaults>
-  <MedGroupColonist>อาณานิคม</MedGroupColonist>
-  <MedGroupImprisonedColonist>ที่ถูกคุมขัง อาณานิคม</MedGroupImprisonedColonist>
-  <MedGroupColonyAnimal>อาณานิคม สัตว์</MedGroupColonyAnimal>
-  <MedGroupNeutralAnimal>สัตว์ เป็นกลาง</MedGroupNeutralAnimal>
-  <MedGroupNeutralFaction>ฝ่าย เป็นกลาง</MedGroupNeutralFaction>
-  <MedGroupHostileFaction>ฝ่ายศัตรู</MedGroupHostileFaction>
- 
-  <!-- Growing -->
-  <NoGrowerCanPlant>{0} ต้องมี {1} ทักษะในการเติบโตที่จะหว่านเมล็ด\n\nไม่มีผู้เพาะปลูกที่มีทักษะนี้ดังนั้นพื้นที่แห่งนี้จะไม่ถูกหว่าน</NoGrowerCanPlant>
- 
-  <!-- Abandon home -->
-  <ConfirmAbandonHomeWithColonyPawns>บางส่วนของอาณานิคมหรือสัตว์ของคุณอยู่ในบริเวณนี้ คุณแน่ใจหรือไม่ว่าต้องการละทิ้ง?\n\nคนและสัตว์ต่อไปนี้จะถูกทิ้งไว้เบื้องหลัง:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
-  <ConfirmAbandonHomeNegativeThoughts>ทิ้ง {0} จะทำให้คนต่อไปนี้ได้รับความคิดต่อไปนี้:</ConfirmAbandonHomeNegativeThoughts>
-  <ConfirmAbandonHomeNegativeThoughts_Everyone>ทุกคน:</ConfirmAbandonHomeNegativeThoughts_Everyone>
-  
-  <!-- Move caravan and leave prisoners and animals behind -->
   <ConfirmLeavePrisonersOrAnimalsBehind>ยังคงมีนักโทษหรือสัตว์เหลืออยู่ในพื้นที่นี้และนี่เป็นเพียงกองคาราวานเท่านั้นที่สามารถเข้าร่วมได้ในขณะนี้\n\nถ้าคุณย้ายกองคาราวานของคุณพวกเขาจะไม่สามารถออกจากพื้นที่จนกว่าคุณจะกลับมา นักโทษจะเริ่มหลบหนีขณะที่สัตว์กำลังรอคุณอยู่\n\nหากคุณตัดสินใจที่จะรอพวกเขาจะพยายามเข้าร่วมกองคาราวานของคุณโดยเร็วที่สุด\n\nคุณแน่ใจหรือไม่ว่าต้องการย้ายกองคาราวานของคุณ?</ConfirmLeavePrisonersOrAnimalsBehind>
-  
-  <!-- Abandon pawn -->
   <ConfirmAbandonPawnDialog>คุณต้องการจะละทิ้ง {0}?</ConfirmAbandonPawnDialog>
   <ConfirmAbandonPawnDialog_LeftToDie>{0} ส่วนใหญ่มีแนวโน้มที่จะตาย</ConfirmAbandonPawnDialog_LeftToDie>
   <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} จะใช้รายการต่อไปนี้ด้วย [PAWN_objective]:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
   <ConfirmAbandonPawnDialog_AllColonistsThoughts>ผู้ล่าอาณานิคมทุกคนจะได้รับความคิดดังต่อไปนี้:</ConfirmAbandonPawnDialog_AllColonistsThoughts>
   <ConfirmAbandonPawnDialog_IndividualThoughts>ทิ้ง {0} จะทำให้คนต่อไปนี้ได้รับความคิดต่อไปนี้:</ConfirmAbandonPawnDialog_IndividualThoughts>
-  
-  <!-- Send transport pods which are not completely loaded -->
-  <ConfirmSendNotCompletelyLoadedPods>กลุ่มกระสวย ไม่ได้โหลดอย่างสมบูรณ์ {0} ที่ขาดหายไป. เปิดใช้หรือไม่?</ConfirmSendNotCompletelyLoadedPods>
-  
+
 </LanguageData>

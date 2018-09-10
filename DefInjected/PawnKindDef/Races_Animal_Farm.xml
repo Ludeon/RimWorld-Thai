@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alpaca -->
+  <Alpaca.label>อัลปาก้า</Alpaca.label>
+  <Alpaca.lifeStages.0.label>ลูกอัลปาก้า</Alpaca.lifeStages.0.label>
+  <Alpaca.lifeStages.1.label>อัลปาก้าวัยรุ่น</Alpaca.lifeStages.1.label>
+  <Alpaca.lifeStages.2.label>อัลปาก้า</Alpaca.lifeStages.2.label>
+  
+  <!-- EN: chicken -->
+  <Chicken.label>ไก่</Chicken.label>
+  <!-- EN: hen -->
+  <Chicken.labelFemale>แม่ไก่</Chicken.labelFemale>
+  <!-- EN: rooster -->
+  <Chicken.labelMale>ไก่โต้ง</Chicken.labelMale>
+  <!-- EN: chick -->
+  <Chicken.lifeStages.chick.label>ลูกเจี๊ยบ</Chicken.lifeStages.chick.label>
+  <Chicken.lifeStages.cockerel.labelFemale>แม่ไก่วัยรุ่น</Chicken.lifeStages.cockerel.labelFemale>
+  <!-- EN: cockerel -->
+  <Chicken.lifeStages.cockerel.labelMale>ไก่กระทง</Chicken.lifeStages.cockerel.labelMale>
+  <Chicken.lifeStages.2.labelFemale>แม่ไก่</Chicken.lifeStages.2.labelFemale>
+  <Chicken.lifeStages.2.labelMale>ไก่โต้ง</Chicken.lifeStages.2.labelMale>
+  
+  <!-- EN: cow -->
+  <Cow.label>วัว</Cow.label>
+  <!-- EN: cow -->
+  <Cow.labelFemale>TODO</Cow.labelFemale>
+  <!-- EN: bull -->
+  <Cow.labelMale>TODO</Cow.labelMale>
+  <!-- EN: calf -->
+  <Cow.lifeStages.calf.label>ลูกวัว</Cow.lifeStages.calf.label>
+  <!-- EN: calves -->
+  <Cow.lifeStages.calf.labelPlural>TODO</Cow.lifeStages.calf.labelPlural>
+  <Cow.lifeStages.1.label>วัววัยรุ่น</Cow.lifeStages.1.label>
+  <Cow.lifeStages.1.labelFemale>วัววัยรุ่นตัวเมีย</Cow.lifeStages.1.labelFemale>
+  <Cow.lifeStages.1.labelMale>วัววัยรุ่นตัวผู้</Cow.lifeStages.1.labelMale>
+  <Cow.lifeStages.2.label>วัว</Cow.lifeStages.2.label>
+  <Cow.lifeStages.2.labelFemale>แม่วัว</Cow.lifeStages.2.labelFemale>
+  <Cow.lifeStages.2.labelMale>พ่อวัว</Cow.lifeStages.2.labelMale>
+  
+  <!-- EN: pig -->
+  <Pig.label>หมู</Pig.label>
+  <!-- EN: sow -->
+  <Pig.labelFemale>TODO</Pig.labelFemale>
+  <!-- EN: piglet -->
+  <Pig.lifeStages.piglet.label>ลูกหมู</Pig.lifeStages.piglet.label>
+  <Pig.lifeStages.1.label>หมูวัยรุ่น</Pig.lifeStages.1.label>
+  <Pig.lifeStages.1.labelFemale>หมูวัยรุ่นตัวเมีย</Pig.lifeStages.1.labelFemale>
+  <Pig.lifeStages.1.labelMale>หมูวัยรุ่นตัวผู้</Pig.lifeStages.1.labelMale>
+  <Pig.lifeStages.2.label>หมู</Pig.lifeStages.2.label>
+  <Pig.lifeStages.2.labelFemale>หมูตัวเมีย</Pig.lifeStages.2.labelFemale>
+  <Pig.lifeStages.2.labelMale>หมูตัวผู้</Pig.lifeStages.2.labelMale>
+  
+</LanguageData>

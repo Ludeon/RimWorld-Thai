@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: malnutrition -->
   <Malnutrition.label>โรคขาดสารอาหาร</Malnutrition.label>
-  <Malnutrition.stages.0.label>เล็กน้อย</Malnutrition.stages.0.label>
-  <Malnutrition.stages.1.label>ขั้นต้น</Malnutrition.stages.1.label>
-  <Malnutrition.stages.2.label>ขั้นกลาง</Malnutrition.stages.2.label>
-  <Malnutrition.stages.3.label>ขั้นรุนแรง</Malnutrition.stages.3.label>
-  <Malnutrition.stages.4.label>ขั้นอันตราย</Malnutrition.stages.4.label>
-
+  <!-- EN: trivial -->
+  <Malnutrition.stages.trivial.label>เล็กน้อย</Malnutrition.stages.trivial.label>
+  <!-- EN: minor -->
+  <Malnutrition.stages.minor.label>ขั้นต้น</Malnutrition.stages.minor.label>
+  <!-- EN: moderate -->
+  <Malnutrition.stages.moderate.label>ขั้นกลาง</Malnutrition.stages.moderate.label>
+  <!-- EN: severe -->
+  <Malnutrition.stages.severe.label>ขั้นรุนแรง</Malnutrition.stages.severe.label>
+  <!-- EN: extreme -->
+  <Malnutrition.stages.extreme.label>ขั้นอันตราย</Malnutrition.stages.extreme.label>
+  
 </LanguageData>

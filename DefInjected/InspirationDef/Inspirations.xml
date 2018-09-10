@@ -1,46 +1,74 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<WorkFrenzy.label>แรงบันดาลใจ: Work Frenzy</WorkFrenzy.label>
-	<WorkFrenzy.beginLetterLabel>Work Frenzy</WorkFrenzy.beginLetterLabel>
-	<WorkFrenzy.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว [PAWN_pronoun] จะทำงานได้เร็วขึ้น 2.5 เท่าใน 24 ชั่วโมงถัดไป</WorkFrenzy.beginLetter>
-	<WorkFrenzy.endMessage>{0} ไม่มีแรงบันดาลใจอีกแล้ว (Work Frenzy)</WorkFrenzy.endMessage>
-	<WorkFrenzy.baseInspectLine>แรงบันดาลใจ: Work Frenzy</WorkFrenzy.baseInspectLine>
-
-	<GoFrenzy.label>แรงบันดาลใจ: Go Frenzy</GoFrenzy.label>
-	<GoFrenzy.beginLetterLabel>Go Frenzy</GoFrenzy.beginLetterLabel>
-	<GoFrenzy.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว [PAWN_pronoun] จะทำงานได้เร็วขึ้นอีก 1.5 เท่าใน 24 ชั่วโมงถัดไป</GoFrenzy.beginLetter>
-	<GoFrenzy.endMessage>{0} ไม่มีแรงบันดาลใจอีกแล้ว (Go Frenzy)</GoFrenzy.endMessage>
-	<GoFrenzy.baseInspectLine>แรงบันดาลใจ: Go Frenzy</GoFrenzy.baseInspectLine>
-
-	<ShootFrenzy.label>แรงบันดาลใจ: Shoot Frenzy</ShootFrenzy.label>
-	<ShootFrenzy.beginLetterLabel>Shoot Frenzy</ShootFrenzy.beginLetterLabel>
-	<ShootFrenzy.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว [PAWN_pronoun] จะยิงแม่นขึ้น 3 วันข้างหน้า</ShootFrenzy.beginLetter>
-	<ShootFrenzy.endMessage>{0} ไม่มีแรงบันดาลใจอีกแล้ว (Shoot Frenzy).</ShootFrenzy.endMessage>
-	<ShootFrenzy.baseInspectLine>แรงบันดาลใจ: Shoot Frenzy</ShootFrenzy.baseInspectLine>
-
-	<InspiredTrade.label>แรงบันดาลใจ: แรงบันดาลใจตัวแทนจำหน่าย</InspiredTrade.label>
-	<InspiredTrade.beginLetterLabel>แรงบันดาลใจตัวแทนจำหน่าย</InspiredTrade.beginLetterLabel>
-	<InspiredTrade.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว [PAWN_pronoun] จะมีราคาที่ดีในการซื้อขายต่อไปของ HISEM \n\nแรงบันดาลใจจะหมดอายุหลังจาก 8 วันหรือเมื่อการซื้อขายเสร็จสิ้น</InspiredTrade.beginLetter>
-	<InspiredTrade.endMessage>{0} ไม่มีแรงบันดาลใจอีกแล้ว (ผู้ขาย)</InspiredTrade.endMessage>
-	<InspiredTrade.baseInspectLine>แรงบันดาลใจ: ผู้ขาย</InspiredTrade.baseInspectLine>
-
-	<InspiredRecruitment.label>แรงบันดาลใจ: แรงบันดาลใจรับสมัครงาน</InspiredRecruitment.label>
-	<InspiredRecruitment.beginLetterLabel>แรงบันดาลใจรับสมัครงาน</InspiredRecruitment.beginLetterLabel>
-	<InspiredRecruitment.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว [PAWN_pronoun] จะรับสมัครนักโทษคนถัดไปของ HISEN ไม่ว่าจะยากแค่ไหน \n\nแรงบันดาลใจจะสิ้นสุดลงหลังจาก 8 วันหรือเมื่อมีการคัดเลือกนักโทษ</InspiredRecruitment.beginLetter>
-	<InspiredRecruitment.endMessage>{0} ไม่มีแรงบันดาลใจอีกแล้ว (นายหน้า)</InspiredRecruitment.endMessage>
-	<InspiredRecruitment.baseInspectLine>แรงบันดาลใจ: นายหน้า</InspiredRecruitment.baseInspectLine>
-
-	<InspiredSurgery.label>แรงบันดาลใจ: แรงบันดาลใจศัลยแพทย์ที่ได้รับ</InspiredSurgery.label>
-	<InspiredSurgery.beginLetterLabel>ศัลยแพทย์ที่ได้รับแรงบันดาลใจ</InspiredSurgery.beginLetterLabel>
-	<InspiredSurgery.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว ความน่าจะเป็นของ [PAWN_possessive]er ที่ล้มเหลวในการผ่าตัดต่อไปลดลง 10 เท่า \n\nแรงบันดาลใจจะสิ้นสุดลงหลังจาก 8 วันหรือเมื่อได้รับการผ่าตัดแล้ว</InspiredSurgery.beginLetter>
-	<InspiredSurgery.endMessage>{0} ไม่ได้รับแรงบันดาลใจอีกแล้ว (ศัลยแพทย์)</InspiredSurgery.endMessage>
-	<InspiredSurgery.baseInspectLine>แรงบันดาลใจ: ศัลยแพทย์</InspiredSurgery.baseInspectLine>
-
-	<InspiredArt.label>แรงบันดาลใจ: แรงบันดาลใจศิลปิน</InspiredArt.label>
-	<InspiredArt.beginLetterLabel>ศิลปินแรงบันดาลใจ</InspiredArt.beginLetterLabel>
-	<InspiredArt.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว งานศิลปะแต่ละชิ้นที่ [PAWN_pronoun] ทำเสร็จจะดีกว่า 3 ระดับคุณภาพ \n\nแรงบันดาลใจจะสิ้นสุดลงหลังจาก 8 วันหรือเมื่อชิ้นงานเสร็จสมบูรณ์</InspiredArt.beginLetter>
-	<InspiredArt.endMessage>{0} ไม่มีแรงบันดาลใจอีกแล้ว (ศิลปิน)</InspiredArt.endMessage>
-	<InspiredArt.baseInspectLine>แรงบันดาลใจ: ศิลปิน</InspiredArt.baseInspectLine>
-
+  
+  <!-- EN: go frenzy -->
+  <Frenzy_Go.label>แรงบันดาลใจ: Go Frenzy</Frenzy_Go.label>
+  <!-- EN: Inspired: Go frenzy -->
+  <Frenzy_Go.baseInspectLine>แรงบันดาลใจ: Go Frenzy</Frenzy_Go.baseInspectLine>
+  <!-- EN: [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will move faster for the next 8 days. -->
+  <Frenzy_Go.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว [PAWN_pronoun] จะทำงานได้เร็วขึ้นอีก 1.5 เท่าใน 24 ชั่วโมงถัดไป</Frenzy_Go.beginLetter>
+  <Frenzy_Go.beginLetterLabel>Go Frenzy</Frenzy_Go.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (go frenzy). -->
+  <Frenzy_Go.endMessage>{0} ไม่มีแรงบันดาลใจอีกแล้ว (Go Frenzy)</Frenzy_Go.endMessage>
+  
+  <!-- EN: shoot frenzy -->
+  <Frenzy_Shoot.label>แรงบันดาลใจ: Shoot Frenzy</Frenzy_Shoot.label>
+  <!-- EN: Inspired: Shoot frenzy -->
+  <Frenzy_Shoot.baseInspectLine>แรงบันดาลใจ: Shoot Frenzy</Frenzy_Shoot.baseInspectLine>
+  <!-- EN: [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will shoot more accurately for the next 8 days. -->
+  <Frenzy_Shoot.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว [PAWN_pronoun] จะยิงแม่นขึ้น 3 วันข้างหน้า</Frenzy_Shoot.beginLetter>
+  <Frenzy_Shoot.beginLetterLabel>Shoot Frenzy</Frenzy_Shoot.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (shoot frenzy). -->
+  <Frenzy_Shoot.endMessage>{0} ไม่มีแรงบันดาลใจอีกแล้ว (Shoot Frenzy).</Frenzy_Shoot.endMessage>
+  
+  <!-- EN: work frenzy -->
+  <Frenzy_Work.label>แรงบันดาลใจ: Work Frenzy</Frenzy_Work.label>
+  <!-- EN: Inspired: Work frenzy -->
+  <Frenzy_Work.baseInspectLine>แรงบันดาลใจ: Work Frenzy</Frenzy_Work.baseInspectLine>
+  <!-- EN: [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will work faster for the next 8 days. -->
+  <Frenzy_Work.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว [PAWN_pronoun] จะทำงานได้เร็วขึ้น 2.5 เท่าใน 24 ชั่วโมงถัดไป</Frenzy_Work.beginLetter>
+  <Frenzy_Work.beginLetterLabel>Work Frenzy</Frenzy_Work.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (work frenzy). -->
+  <Frenzy_Work.endMessage>{0} ไม่มีแรงบันดาลใจอีกแล้ว (Work Frenzy)</Frenzy_Work.endMessage>
+  
+  <!-- EN: inspired creativity -->
+  <Inspired_Creativity.label>แรงบันดาลใจ: แรงบันดาลใจศิลปิน</Inspired_Creativity.label>
+  <!-- EN: Inspired: Inspired creativity -->
+  <Inspired_Creativity.baseInspectLine>แรงบันดาลใจ: ศิลปิน</Inspired_Creativity.baseInspectLine>
+  <!-- EN: [PAWN_nameIndef] has experienced an inspiration!\n\nThe next item, art, or furniture [PAWN_pronoun] creates will be two quality levels higher than it would otherwise be. This even allows the creation of legendary items.\n\nThe inspiration will end after 8 days, or when the creation is completed. -->
+  <Inspired_Creativity.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว งานศิลปะแต่ละชิ้นที่ [PAWN_pronoun] ทำเสร็จจะดีกว่า 3 ระดับคุณภาพ \n\nแรงบันดาลใจจะสิ้นสุดลงหลังจาก 8 วันหรือเมื่อชิ้นงานเสร็จสมบูรณ์</Inspired_Creativity.beginLetter>
+  <Inspired_Creativity.beginLetterLabel>ศิลปินแรงบันดาลใจ</Inspired_Creativity.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (inspired creativity). -->
+  <Inspired_Creativity.endMessage>{0} ไม่มีแรงบันดาลใจอีกแล้ว (ศิลปิน)</Inspired_Creativity.endMessage>
+  
+  <!-- EN: inspired recruitment -->
+  <Inspired_Recruitment.label>แรงบันดาลใจ: แรงบันดาลใจรับสมัครงาน</Inspired_Recruitment.label>
+  <!-- EN: Inspired: Inspired recruitment -->
+  <Inspired_Recruitment.baseInspectLine>แรงบันดาลใจ: นายหน้า</Inspired_Recruitment.baseInspectLine>
+  <!-- EN: [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited. -->
+  <Inspired_Recruitment.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว [PAWN_pronoun] จะรับสมัครนักโทษคนถัดไปของ HISEN ไม่ว่าจะยากแค่ไหน \n\nแรงบันดาลใจจะสิ้นสุดลงหลังจาก 8 วันหรือเมื่อมีการคัดเลือกนักโทษ</Inspired_Recruitment.beginLetter>
+  <Inspired_Recruitment.beginLetterLabel>แรงบันดาลใจรับสมัครงาน</Inspired_Recruitment.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (inspired recruitment). -->
+  <Inspired_Recruitment.endMessage>{0} ไม่มีแรงบันดาลใจอีกแล้ว (นายหน้า)</Inspired_Recruitment.endMessage>
+  
+  <!-- EN: inspired surgery -->
+  <Inspired_Surgery.label>แรงบันดาลใจ: แรงบันดาลใจศัลยแพทย์ที่ได้รับ</Inspired_Surgery.label>
+  <!-- EN: Inspired: Inspired surgery -->
+  <Inspired_Surgery.baseInspectLine>แรงบันดาลใจ: ศัลยแพทย์</Inspired_Surgery.baseInspectLine>
+  <!-- EN: [PAWN_nameIndef] has experienced an inspiration!\n\nThe next time [PAWN_objective] performs a surgery, [PAWN_possessive] chance of success will be doubled. A small minimum chance of failure still applies.\n\nThe inspiration will end after 8 days, or when the surgery is performed. -->
+  <Inspired_Surgery.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว ความน่าจะเป็นของ [PAWN_possessive]er ที่ล้มเหลวในการผ่าตัดต่อไปลดลง 10 เท่า \n\nแรงบันดาลใจจะสิ้นสุดลงหลังจาก 8 วันหรือเมื่อได้รับการผ่าตัดแล้ว</Inspired_Surgery.beginLetter>
+  <Inspired_Surgery.beginLetterLabel>ศัลยแพทย์ที่ได้รับแรงบันดาลใจ</Inspired_Surgery.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (inspired surgery). -->
+  <Inspired_Surgery.endMessage>{0} ไม่ได้รับแรงบันดาลใจอีกแล้ว (ศัลยแพทย์)</Inspired_Surgery.endMessage>
+  
+  <!-- EN: inspired trade -->
+  <Inspired_Trade.label>แรงบันดาลใจ: แรงบันดาลใจตัวแทนจำหน่าย</Inspired_Trade.label>
+  <!-- EN: Inspired: Inspired trade -->
+  <Inspired_Trade.baseInspectLine>แรงบันดาลใจ: ผู้ขาย</Inspired_Trade.baseInspectLine>
+  <!-- EN: [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will get a significant trade price bonus when closing [PAWN_possessive] next trade deal.\n\nThe inspiration will expire after 8 days, or when the deal is done. -->
+  <Inspired_Trade.beginLetter>{0} ได้รับแรงบันดาลใจมาแล้ว [PAWN_pronoun] จะมีราคาที่ดีในการซื้อขายต่อไปของ HISEM \n\nแรงบันดาลใจจะหมดอายุหลังจาก 8 วันหรือเมื่อการซื้อขายเสร็จสิ้น</Inspired_Trade.beginLetter>
+  <Inspired_Trade.beginLetterLabel>แรงบันดาลใจตัวแทนจำหน่าย</Inspired_Trade.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (inspired trade). -->
+  <Inspired_Trade.endMessage>{0} ไม่มีแรงบันดาลใจอีกแล้ว (ผู้ขาย)</Inspired_Trade.endMessage>
+  
 </LanguageData>

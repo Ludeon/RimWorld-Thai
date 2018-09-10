@@ -1,15 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Work.label>งาน</Work.label>
-  <Meditative.label>ทำสมาธิ</Meditative.label>
-  <Lewd.label>ทำเรื่องตัณหา</Lewd.label>
-  <Social.label>เข้าสังคม</Social.label>
+  
+  <!-- EN: chemical consumption -->
   <Chemical.label>เคมี</Chemical.label>
+  
+  <!-- EN: cerebral play -->
+  <Gaming_Cerebral.label>เล่นเกม (ใช้สมอง)</Gaming_Cerebral.label>
+  
+  <!-- EN: dexterity play -->
+  <Gaming_Dexterity.label>เล่นเกม (ความแม่นยำ)</Gaming_Dexterity.label>
+  
+  <!-- EN: food consumption -->
   <Gluttonous.label>ตะกละ</Gluttonous.label>
-  <GamingDexterity.label>เล่นเกม (ความแม่นยำ)</GamingDexterity.label>
-  <GamingCerebral.label>เล่นเกม (ใช้สมอง)</GamingCerebral.label>
+  
+  <!-- UNUSED -->
+  <Lewd.label>ทำเรื่องตัณหา</Lewd.label>
+  
+  <!-- EN: solitary relaxation -->
+  <Meditative.label>ทำสมาธิ</Meditative.label>
+  
+  <!-- UNUSED -->
   <Passive.label>อยู่เฉยๆ</Passive.label>
+  
+  <!-- EN: social interaction -->
+  <Social.label>เข้าสังคม</Social.label>
+  
+  <!-- UNUSED -->
   <Study.label>เรียนรู้</Study.label>
-
+  
+  <!-- EN: telescope study -->
+  <Telescope.label>TODO</Telescope.label>
+  
+  <!-- EN: television watching -->
+  <Television.label>TODO</Television.label>
+  
+  <!-- UNUSED -->
+  <Work.label>งาน</Work.label>
+  
 </LanguageData>

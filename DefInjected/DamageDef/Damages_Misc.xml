@@ -1,22 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Deterioration.label>การเสื่อมสภาพ</Deterioration.label>
-  <Deterioration.deathMessage>{0} เสื่อมสภาพ</Deterioration.deathMessage>
   
-  <Mining.label>การขุดเหมืองแร่</Mining.label>
-  <Mining.deathMessage>{0} การขุดเหมืองแร่</Mining.deathMessage>
-
-  <Rotting.label>การเน่าเสีย</Rotting.label>
-  <Rotting.deathMessage>{0} เน่าเสีย</Rotting.deathMessage>
-  
-  <Extinguish.label>การดับมอด</Extinguish.label>
-  <Extinguish.deathMessage>{0} จากการดับมอด</Extinguish.deathMessage>
-  
+  <!-- EN: bomb -->
   <Bomb.label>ระเบิด</Bomb.label>
+  <!-- EN: {0} has died in an explosion. -->
   <Bomb.deathMessage>{0} โดนระเบิดจนถึงแก่ความตาย</Bomb.deathMessage>
   
+  <!-- EN: bomb -->
+  <BombSuper.label>TODO</BombSuper.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <BombSuper.deathMessage>TODO</BombSuper.deathMessage>
+  
+  <!-- EN: deterioration -->
+  <Deterioration.label>การเสื่อมสภาพ</Deterioration.label>
+  <!-- EN: {0} has been killed. -->
+  <Deterioration.deathMessage>{0} เสื่อมสภาพ</Deterioration.deathMessage>
+  
+  <!-- EN: extinguish -->
+  <Extinguish.label>การดับมอด</Extinguish.label>
+  <!-- EN: {0} has been killed. -->
+  <Extinguish.deathMessage>{0} จากการดับมอด</Extinguish.deathMessage>
+  
+  <!-- EN: mining -->
+  <Mining.label>การขุดเหมืองแร่</Mining.label>
+  <!-- EN: {0} has been killed. -->
+  <Mining.deathMessage>{0} การขุดเหมืองแร่</Mining.deathMessage>
+  
+  <!-- EN: rotting -->
+  <Rotting.label>การเน่าเสีย</Rotting.label>
+  <!-- EN: {0} has been killed. -->
+  <Rotting.deathMessage>{0} เน่าเสีย</Rotting.deathMessage>
+  
+  <!-- EN: smoke -->
   <Smoke.label>ควัน</Smoke.label>
+  <!-- EN: {0} has been killed. -->
   <Smoke.deathMessage>{0} เสียชีวิตจากการสูดดมควัน</Smoke.deathMessage>
   
 </LanguageData>

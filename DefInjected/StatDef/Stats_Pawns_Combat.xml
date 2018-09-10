@@ -1,22 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<!-- ================================== Melee =======================================-->
-	
+  
+  <!-- EN: aiming time -->
+  <AimingDelayFactor.label>Aiming Delay Factor</AimingDelayFactor.label>
+  <!-- EN: How long it takes to shoot after choosing a target. -->
+  <AimingDelayFactor.description>Wie lange das Individiuum benötigt, sein Ziel ins Visier zu nehmen.</AimingDelayFactor.description>
+  
+  <!-- EN: melee armor penetration -->
+  <MeleeArmorPenetration.label>TODO</MeleeArmorPenetration.label>
+  <!-- EN: Average armor penetration of all attacks in melee combat. This stat includes currently used weapon. -->
+  <MeleeArmorPenetration.description>TODO</MeleeArmorPenetration.description>
+  
+  <!-- EN: melee dodge chance -->
+  <MeleeDodgeChance.label>Melee Dodge Chance</MeleeDodgeChance.label>
+  <!-- EN: Chance to dodge a melee attack that would've otherwise hit. Characters will not dodge while aiming or firing a ranged weapon. -->
+  <MeleeDodgeChance.description>Wahrscheinlichkeit einem Treffer auszuweichen der uns sonst getroffen hätte. Es kann nicht ausgewichen werden, wenn gerade mit einer Fernwaffe gezielt oder geschossen wird.</MeleeDodgeChance.description>
+  
+  <!-- EN: melee DPS -->
   <MeleeDPS.label>ความเสียหายที่เกิดชุลมุนต่อวินาที</MeleeDPS.label>
+  <!-- EN: Average damage per second in melee combat. This stat ignores target defenses like dodging and armor. -->
   <MeleeDPS.description>Durchschnittlicher Nahkampfschaden pro Sekunde. Dieser Wert ignoriert Gegnerische Verteidigung, wie ausweichen und Rüstung.</MeleeDPS.description>
   
+  <!-- EN: melee hit chance -->
   <MeleeHitChance.label>Melee Hit Chance</MeleeHitChance.label>
+  <!-- EN: Chance to hit a target in melee. The target can still dodge even if we would've hit. -->
   <MeleeHitChance.description>Wahrscheinlichkeit das Ziel im Nahkampf zu treffen. Das Ziel kann noch ausweichen, selbst wenn wir treffen.</MeleeHitChance.description>
   
-  <MeleeDodgeChance.label>Melee Dodge Chance</MeleeDodgeChance.label>
-  <MeleeDodgeChance.description>Wahrscheinlichkeit einem Treffer auszuweichen der uns sonst getroffen hätte. Es kann nicht ausgewichen werden, wenn gerade mit einer Fernwaffe gezielt oder geschossen wird.</MeleeDodgeChance.description>
-
-	<!-- ================================== Shooting =======================================-->
+  <!-- UNUSED -->
   <ShootingAccuracy.label>ยิงแม่น</ShootingAccuracy.label>
   <ShootingAccuracy.description>Die Trefferchance im Fernkampf.</ShootingAccuracy.description>
-
-  <AimingDelayFactor.label>Aiming Delay Factor</AimingDelayFactor.label>
-  <AimingDelayFactor.description>Wie lange das Individiuum benötigt, sein Ziel ins Visier zu nehmen.</AimingDelayFactor.description>
-
+  
+  <!-- EN: shooting accuracy -->
+  <ShootingAccuracyPawn.label>TODO</ShootingAccuracyPawn.label>
+  <!-- EN: Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
+  <ShootingAccuracyPawn.description>TODO</ShootingAccuracyPawn.description>
+  
 </LanguageData>

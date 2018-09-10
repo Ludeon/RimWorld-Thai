@@ -1,124 +1,192 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Mental breaks: extreme -->
-
-  <Berserk.label>บ้าคลั่ง</Berserk.label>
-  <Berserk.beginLetterLabel>บ้าคลั่ง</Berserk.beginLetterLabel>
-  <Berserk.beginLetter>{0} เกิดอาการบ้าคลั่ง!</Berserk.beginLetter>
-  <Berserk.recoveryMessage>โทสะของ {0} ที่ทำให้บ้าคลั่งระงับลงแล้ว</Berserk.recoveryMessage>
-  <Berserk.inspectLine>ภาวะทางจิต: บ้าคลั่ง</Berserk.inspectLine>
-
-  <FireStartingSpree.label>จุดไฟด้วยความสนุกสนาน</FireStartingSpree.label>
-  <FireStartingSpree.beginLetterLabel>จุดไฟด้วยความสนุกสนาน</FireStartingSpree.beginLetterLabel>
-  <FireStartingSpree.beginLetter>{0} จุดไฟด้วยความสนุกสนาน.</FireStartingSpree.beginLetter>
-  <FireStartingSpree.recoveryMessage>{0} เลิกจุดไฟด้วยความสนุกสนาน</FireStartingSpree.recoveryMessage>
-  <FireStartingSpree.baseInspectLine>ภาวะทางจิต: จุดไฟด้วยความสนุกสนาน</FireStartingSpree.baseInspectLine>
-
-  <GiveUpExit.label>ออกจากอาณานิคม</GiveUpExit.label>
-  <GiveUpExit.beginLetterLabel>ออกจากอาณานิคม</GiveUpExit.beginLetterLabel>
-  <GiveUpExit.beginLetter>{0} จะออกจากอาณานิคม</GiveUpExit.beginLetter>
-  <GiveUpExit.recoveryMessage>{0} ได้มีการเปลี่ยนแปลงของจิตใจและจะกลับเข้ามาอาณานิคม</GiveUpExit.recoveryMessage>
-  <GiveUpExit.baseInspectLine>ภาวะทางจิต: ออกจากอาณานิคม</GiveUpExit.baseInspectLine>
-
   
-  <BingingDrugExtreme.label>มึนเมายาเสพติด</BingingDrugExtreme.label>
-  <BingingDrugExtreme.baseInspectLine>สภาพ: มึนเมายาเสพติด</BingingDrugExtreme.baseInspectLine>
-  
-  <Jailbreaker.label>กระตุ้นให้นักโทษหนี</Jailbreaker.label>
-  <Jailbreaker.beginLetterLabel>คนหลบหนี</Jailbreaker.beginLetterLabel>
-  <Jailbreaker.beginLetter>{0} มีปัญหาและจะพยายามชักชวนให้นักโทษคนอื่น ๆ หนีคุก</Jailbreaker.beginLetter>
-  <Jailbreaker.recoveryMessage>{0} ไม่ชักชวนให้นักโทษคนอื่นให้ออกมาอีกแล้ว</Jailbreaker.recoveryMessage>
-  <Jailbreaker.baseInspectLine>ภาวะทางจิต: คนหลบหนี</Jailbreaker.baseInspectLine>
-
-  <Slaughterer.label>เพชฌฆาต</Slaughterer.label>
-  <Slaughterer.beginLetterLabel>เพชฌฆาต</Slaughterer.beginLetterLabel>
-  <Slaughterer.beginLetter>{0} มีอาการผิดปกติทางจิตและจะระบายความโกรธให้กับสัตว์ของคุณ</Slaughterer.beginLetter>
-  <Slaughterer.recoveryMessage>{0} ไม่ฆ่าสัตว์แบบสุ่มอีกต่อไป</Slaughterer.recoveryMessage>
-  <Slaughterer.baseInspectLine>ภาวะทางจิต: เพชฌฆาต</Slaughterer.baseInspectLine>
-
-  <MurderousRage.label>กระหายเลือด</MurderousRage.label>
-  <MurderousRage.beginLetterLabel>กระหายเลือด</MurderousRage.beginLetterLabel>
-  <MurderousRage.beginLetter>{0} อยู่ในความกระหายเลือด [PAWN_pronoun] จะฆ่า {1}</MurderousRage.beginLetter>
-  <MurderousRage.recoveryMessage>{0} ไม่อยู่ในภาวะกระหายเลือดอีกแล้ว</MurderousRage.recoveryMessage>
-  <MurderousRage.baseInspectLine>ภาวะทางจิต: กระหายเลือด</MurderousRage.baseInspectLine>
-
-  <!-- Mental breaks: serious -->
-
-  <BingingDrugMajor.label>มึนเมายาเสพติด</BingingDrugMajor.label>
-  <BingingDrugMajor.baseInspectLine>สภาพ: มึนเมายาเสพติด</BingingDrugMajor.baseInspectLine>
-
-  <WanderPsychotic.label>โรคจิต</WanderPsychotic.label>
-  <WanderPsychotic.beginLetterLabel>ความงุนงง</WanderPsychotic.beginLetterLabel>
-  <WanderPsychotic.beginLetter>{0} จะเดินไปรอบ ๆ ในสถานะโรคจิต</WanderPsychotic.beginLetter>
-  <WanderPsychotic.recoveryMessage>{0} เลิกโรคจิต</WanderPsychotic.recoveryMessage>
-  <WanderPsychotic.baseInspectLine>ภาวะทางจิต: โรคจิต</WanderPsychotic.baseInspectLine>
-
-  <Tantrum.label>อารมณ์ฉุนเฉียว</Tantrum.label>
-  <Tantrum.beginLetterLabel>อารมณ์ฉุนเฉียว</Tantrum.beginLetterLabel>
-  <Tantrum.beginLetter>{0} มีอารมณ์ฉุนเฉียว</Tantrum.beginLetter>
-  <Tantrum.recoveryMessage>{0} ไม่มีอารมณ์โกรธอีกต่อไป</Tantrum.recoveryMessage>
-  <Tantrum.baseInspectLine>ภาวะทางจิต: อารมณ์ฉุนเฉียว</Tantrum.baseInspectLine>
-
-  <TargetedTantrum.label>อารมณ์ฉุนเฉียว</TargetedTantrum.label>
-  <TargetedTantrum.beginLetterLabel>อารมณ์ฉุนเฉียว</TargetedTantrum.beginLetterLabel>
-  <TargetedTantrum.beginLetter>{0} มีอารมณ์ฉุนเฉียว [PAWN_pronoun] จะทำลาย {1}</TargetedTantrum.beginLetter>
-  <TargetedTantrum.recoveryMessage>{0} ไม่มีอารมณ์โกรธอีกต่อไป</TargetedTantrum.recoveryMessage>
-  <TargetedTantrum.baseInspectLine>ภาวะทางจิต: อารมณ์ฉุนเฉียว</TargetedTantrum.baseInspectLine>
-
+  <!-- EN: tantrum -->
   <BedroomTantrum.label>อารมณ์ฉุนเฉียว</BedroomTantrum.label>
-  <BedroomTantrum.beginLetterLabel>อารมณ์ฉุนเฉียว</BedroomTantrum.beginLetterLabel>
-  <BedroomTantrum.beginLetter>{0} มีอารมณ์ฉุนเฉียว [PAWN_pronoun] จะข้ามความโกรธของ HISE ไปที่เฟอร์นิเจอร์ในพื้นที่ของ HISEM</BedroomTantrum.beginLetter>
-  <BedroomTantrum.recoveryMessage>{0} ไม่มีอารมณ์โกรธอีกต่อไป</BedroomTantrum.recoveryMessage>
+  <!-- EN: Mental state: Tantrum -->
   <BedroomTantrum.baseInspectLine>ภาวะทางจิต: อารมณ์ฉุนเฉียว</BedroomTantrum.baseInspectLine>
-
-  <SadisticRage.label>โกรธซาดิสต์</SadisticRage.label>
-  <SadisticRage.beginLetterLabel>โกรธซาดิสต์</SadisticRage.beginLetterLabel>
-  <SadisticRage.beginLetter>{0} อยู่ในความโกรธซาดิสต์ [PAWN_pronoun] จะข้ามความโกรธของ HISE ไปยังผู้ต้องหา</SadisticRage.beginLetter>
-  <SadisticRage.recoveryMessage>{0} ไม่ได้อยู่ในความโกรธซาดิสต์</SadisticRage.recoveryMessage>
-  <SadisticRage.baseInspectLine>ภาวะทางจิต: โกรธซาดิสต์</SadisticRage.baseInspectLine>
-
+  <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to smash things in [PAWN_possessive] room. -->
+  <BedroomTantrum.beginLetter>{0} มีอารมณ์ฉุนเฉียว [PAWN_pronoun] จะข้ามความโกรธของ HISE ไปที่เฟอร์นิเจอร์ในพื้นที่ของ HISEM</BedroomTantrum.beginLetter>
+  <BedroomTantrum.beginLetterLabel>อารมณ์ฉุนเฉียว</BedroomTantrum.beginLetterLabel>
+  <!-- EN: {0} is no longer having a tantrum. -->
+  <BedroomTantrum.recoveryMessage>{0} ไม่มีอารมณ์โกรธอีกต่อไป</BedroomTantrum.recoveryMessage>
+  
+  <!-- EN: berserk -->
+  <Berserk.label>บ้าคลั่ง</Berserk.label>
+  <!-- EN: Mental state: Berserk -->
+  <Berserk.baseInspectLine>TODO</Berserk.baseInspectLine>
+  <!-- EN: {0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees. -->
+  <Berserk.beginLetter>{0} เกิดอาการบ้าคลั่ง!</Berserk.beginLetter>
+  <Berserk.beginLetterLabel>บ้าคลั่ง</Berserk.beginLetterLabel>
+  <!-- EN: {0}'s berserk rage has come to an end. -->
+  <Berserk.recoveryMessage>โทสะของ {0} ที่ทำให้บ้าคลั่งระงับลงแล้ว</Berserk.recoveryMessage>
+  
+  <!-- UNUSED -->
+  <Berserk.inspectLine>ภาวะทางจิต: บ้าคลั่ง</Berserk.inspectLine>
+  
+  <!-- EN: binging on drug -->
+  <Binging_DrugExtreme.label>มึนเมายาเสพติด</Binging_DrugExtreme.label>
+  <!-- EN: Mental state: Binging on {0} -->
+  <Binging_DrugExtreme.baseInspectLine>สภาพ: มึนเมายาเสพติด</Binging_DrugExtreme.baseInspectLine>
+  
+  <!-- EN: binging on drug -->
+  <Binging_DrugMajor.label>มึนเมายาเสพติด</Binging_DrugMajor.label>
+  <!-- EN: Mental state: Binging on {0} -->
+  <Binging_DrugMajor.baseInspectLine>สภาพ: มึนเมายาเสพติด</Binging_DrugMajor.baseInspectLine>
+  
+  <!-- EN: binging on food -->
+  <Binging_Food.label>กินอาหารอย่างบ้าคลั่ง</Binging_Food.label>
+  <!-- EN: Mental state: Pigging out -->
+  <Binging_Food.baseInspectLine>ภาวะทางจิต: กินอาหารอย่างบ้าคลั่ง</Binging_Food.baseInspectLine>
+  <!-- EN: {0} is pigging out on food. -->
+  <Binging_Food.beginLetter>{0} กินอาหารอย่างบ้าคลั่ง</Binging_Food.beginLetter>
+  <!-- EN: food binge -->
+  <Binging_Food.beginLetterLabel>กินอาหารอย่างบ้าคลั่ง</Binging_Food.beginLetterLabel>
+  <!-- EN: {0} is no longer pigging out on food. -->
+  <Binging_Food.recoveryMessage>{0} เลิกกินอาหารอย่างบ้าคลั่ง</Binging_Food.recoveryMessage>
+  
+  <!-- EN: corpse obsession -->
   <CorpseObsession.label>ความหลงใหลในร่างกายที่ตายแล้ว</CorpseObsession.label>
-  <CorpseObsession.beginLetterLabel>ความหลงใหลในร่างกายที่ตายแล้ว</CorpseObsession.beginLetterLabel>
-  <CorpseObsession.beginLetter>{0} มีความหลงใหลในซากศพ [PAWN_pronoun] จะขุดซากศพ</CorpseObsession.beginLetter>
-  <CorpseObsession.recoveryMessage>{0} ไม่มีความครอบงำของศพอีกต่อไป</CorpseObsession.recoveryMessage>
+  <!-- EN: Mental state: Corpse obsession -->
   <CorpseObsession.baseInspectLine>ภาวะทางจิต: ความหลงใหลในร่างกายที่ตายแล้ว</CorpseObsession.baseInspectLine>
-
-  <!-- Mental breaks: minor -->
-
-  <BingingFood.label>กินอาหารอย่างบ้าคลั่ง</BingingFood.label>
-  <BingingFood.beginLetterLabel>กินอาหารอย่างบ้าคลั่ง</BingingFood.beginLetterLabel>
-  <BingingFood.beginLetter>{0} กินอาหารอย่างบ้าคลั่ง</BingingFood.beginLetter>
-  <BingingFood.recoveryMessage>{0} เลิกกินอาหารอย่างบ้าคลั่ง</BingingFood.recoveryMessage>
-  <BingingFood.baseInspectLine>ภาวะทางจิต: กินอาหารอย่างบ้าคลั่ง</BingingFood.baseInspectLine>
+  <!-- EN: {0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to dig up a corpse and present it for all to see. -->
+  <CorpseObsession.beginLetter>{0} มีความหลงใหลในซากศพ [PAWN_pronoun] จะขุดซากศพ</CorpseObsession.beginLetter>
+  <CorpseObsession.beginLetterLabel>ความหลงใหลในร่างกายที่ตายแล้ว</CorpseObsession.beginLetterLabel>
+  <!-- EN: {0} is no longer having a corpse obsession. -->
+  <CorpseObsession.recoveryMessage>{0} ไม่มีความครอบงำของศพอีกต่อไป</CorpseObsession.recoveryMessage>
   
-  <WanderSad.label>โศกเศร้า</WanderSad.label>
-  <WanderSad.beginLetterLabel>โศกเศร้า</WanderSad.beginLetterLabel>
-  <WanderSad.beginLetter>{0} จะเดินไปรอบ ๆ ในความโศกเศร้า</WanderSad.beginLetter>
-  <WanderSad.recoveryMessage>{0} เลิกในความโศกเศร้า</WanderSad.recoveryMessage>
-  <WanderSad.baseInspectLine>ภาวะทางจิต: โศกเศร้า</WanderSad.baseInspectLine>
+  <!-- EN: fire starting spree -->
+  <FireStartingSpree.label>จุดไฟด้วยความสนุกสนาน</FireStartingSpree.label>
+  <!-- EN: Mental state: Fire starting spree -->
+  <FireStartingSpree.baseInspectLine>ภาวะทางจิต: จุดไฟด้วยความสนุกสนาน</FireStartingSpree.baseInspectLine>
+  <!-- EN: {0} is on a fire starting spree.\n\n[PAWN_pronoun] will wander around for a while, randomly starting fires. -->
+  <FireStartingSpree.beginLetter>{0} จุดไฟด้วยความสนุกสนาน.</FireStartingSpree.beginLetter>
+  <FireStartingSpree.beginLetterLabel>จุดไฟด้วยความสนุกสนาน</FireStartingSpree.beginLetterLabel>
+  <!-- EN: {0} is no longer on a fire starting spree. -->
+  <FireStartingSpree.recoveryMessage>{0} เลิกจุดไฟด้วยความสนุกสนาน</FireStartingSpree.recoveryMessage>
   
-  <WanderOwnRoom.label>นั่งอยู่คนเดียว</WanderOwnRoom.label>
-  <WanderOwnRoom.beginLetterLabel>ซ่อนตัวอยู่ในห้องพัก</WanderOwnRoom.beginLetterLabel>
-  <WanderOwnRoom.beginLetter>{0} ซ่อนอยู่ในห้องของเขา</WanderOwnRoom.beginLetter>
-  <WanderOwnRoom.recoveryMessage>{0} เลิกซ่อนอยู่ในห้องของเขา</WanderOwnRoom.recoveryMessage>
-  <WanderOwnRoom.baseInspectLine>ภาวะทางจิต: นั่งอยู่คนเดียว</WanderOwnRoom.baseInspectLine>
-
+  <!-- EN: giving up and leaving -->
+  <GiveUpExit.label>ออกจากอาณานิคม</GiveUpExit.label>
+  <!-- EN: Mental state: Given up and leaving -->
+  <GiveUpExit.baseInspectLine>ภาวะทางจิต: ออกจากอาณานิคม</GiveUpExit.baseInspectLine>
+  <!-- EN: {0} has given up on this community.\n\n[PAWN_pronoun] has decided to leave and pursue a better life elsewhere. You can try to arrest [PAWN_objective] as [PAWN_pronoun] leaves. Otherwise, you may still see [PAWN_objective] again some day. -->
+  <GiveUpExit.beginLetter>{0} จะออกจากอาณานิคม</GiveUpExit.beginLetter>
+  <!-- EN: gave up -->
+  <GiveUpExit.beginLetterLabel>ออกจากอาณานิคม</GiveUpExit.beginLetterLabel>
+  <!-- EN: {0} has had a change of heart and is coming back to the colony. -->
+  <GiveUpExit.recoveryMessage>{0} ได้มีการเปลี่ยนแปลงของจิตใจและจะกลับเข้ามาอาณานิคม</GiveUpExit.recoveryMessage>
+  
+  <!-- EN: insulting spree -->
   <InsultingSpree.label>สบประมาท</InsultingSpree.label>
-  <InsultingSpree.beginLetterLabel>สบประมาท</InsultingSpree.beginLetterLabel>
-  <InsultingSpree.beginLetter>{0} กำลังสบประมาท</InsultingSpree.beginLetter>
-  <InsultingSpree.recoveryMessage>{0} ไม่มีการสบประมาทอีกแล้ว</InsultingSpree.recoveryMessage>
+  <!-- EN: Mental state: Insulting spree -->
   <InsultingSpree.baseInspectLine>ภาวะทางจิต: สบประมาท</InsultingSpree.baseInspectLine>
+  <!-- EN: {0} is on an insulting spree.\n\n[PAWN_pronoun] will wander around, randomly insulting others. -->
+  <InsultingSpree.beginLetter>{0} กำลังสบประมาท</InsultingSpree.beginLetter>
+  <InsultingSpree.beginLetterLabel>สบประมาท</InsultingSpree.beginLetterLabel>
+  <!-- EN: {0} is no longer on an insulting spree. -->
+  <InsultingSpree.recoveryMessage>{0} ไม่มีการสบประมาทอีกแล้ว</InsultingSpree.recoveryMessage>
   
+  <!-- EN: inducing prisoner to escape -->
+  <Jailbreaker.label>กระตุ้นให้นักโทษหนี</Jailbreaker.label>
+  <!-- EN: Mental state: Jailbreaker -->
+  <Jailbreaker.baseInspectLine>ภาวะทางจิต: คนหลบหนี</Jailbreaker.baseInspectLine>
+  <!-- EN: {0} has a mental breakdown and is going to induce prisoners to escape. -->
+  <Jailbreaker.beginLetter>{0} มีปัญหาและจะพยายามชักชวนให้นักโทษคนอื่น ๆ หนีคุก</Jailbreaker.beginLetter>
+  <!-- EN: jailbreaker -->
+  <Jailbreaker.beginLetterLabel>คนหลบหนี</Jailbreaker.beginLetterLabel>
+  <!-- EN: {0} is no longer inducing prisoners to escape. -->
+  <Jailbreaker.recoveryMessage>{0} ไม่ชักชวนให้นักโทษคนอื่นให้ออกมาอีกแล้ว</Jailbreaker.recoveryMessage>
+  
+  <!-- EN: murderous rage -->
+  <MurderousRage.label>กระหายเลือด</MurderousRage.label>
+  <!-- EN: Mental state: Murderous rage -->
+  <MurderousRage.baseInspectLine>ภาวะทางจิต: กระหายเลือด</MurderousRage.baseInspectLine>
+  <!-- EN: {0} has flown into a murderous rage.\n\n[PAWN_pronoun] has decided to kill {1}. -->
+  <MurderousRage.beginLetter>{0} อยู่ในความกระหายเลือด [PAWN_pronoun] จะฆ่า {1}</MurderousRage.beginLetter>
+  <MurderousRage.beginLetterLabel>กระหายเลือด</MurderousRage.beginLetterLabel>
+  <!-- EN: {0} is no longer in a murderous rage. -->
+  <MurderousRage.recoveryMessage>{0} ไม่อยู่ในภาวะกระหายเลือดอีกแล้ว</MurderousRage.recoveryMessage>
+  
+  <!-- EN: sadistic rage -->
+  <SadisticRage.label>โกรธซาดิสต์</SadisticRage.label>
+  <!-- EN: Mental state: Sadistic rage -->
+  <SadisticRage.baseInspectLine>ภาวะทางจิต: โกรธซาดิสต์</SadisticRage.baseInspectLine>
+  <!-- EN: {0} has flown into a sadistic rage.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on the prisoners. -->
+  <SadisticRage.beginLetter>{0} อยู่ในความโกรธซาดิสต์ [PAWN_pronoun] จะข้ามความโกรธของ HISE ไปยังผู้ต้องหา</SadisticRage.beginLetter>
+  <SadisticRage.beginLetterLabel>โกรธซาดิสต์</SadisticRage.beginLetterLabel>
+  <!-- EN: {0} is no longer in a sadistic rage. -->
+  <SadisticRage.recoveryMessage>{0} ไม่ได้อยู่ในความโกรธซาดิสต์</SadisticRage.recoveryMessage>
+  
+  <!-- EN: slaughterer -->
+  <Slaughterer.label>เพชฌฆาต</Slaughterer.label>
+  <!-- EN: Mental state: Slaughterer -->
+  <Slaughterer.baseInspectLine>ภาวะทางจิต: เพชฌฆาต</Slaughterer.baseInspectLine>
+  <!-- EN: {0} has a mental breakdown and is going to vent [PAWN_possessive] anger on your animals. -->
+  <Slaughterer.beginLetter>{0} มีอาการผิดปกติทางจิตและจะระบายความโกรธให้กับสัตว์ของคุณ</Slaughterer.beginLetter>
+  <Slaughterer.beginLetterLabel>เพชฌฆาต</Slaughterer.beginLetterLabel>
+  <!-- EN: {0} is no longer slaughtering random animals. -->
+  <Slaughterer.recoveryMessage>{0} ไม่ฆ่าสัตว์แบบสุ่มอีกต่อไป</Slaughterer.recoveryMessage>
+  
+  <!-- EN: tantrum -->
+  <Tantrum.label>อารมณ์ฉุนเฉียว</Tantrum.label>
+  <!-- EN: Mental state: Tantrum -->
+  <Tantrum.baseInspectLine>ภาวะทางจิต: อารมณ์ฉุนเฉียว</Tantrum.baseInspectLine>
+  <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] will smash up random furniture, items and structures. -->
+  <Tantrum.beginLetter>{0} มีอารมณ์ฉุนเฉียว</Tantrum.beginLetter>
+  <Tantrum.beginLetterLabel>อารมณ์ฉุนเฉียว</Tantrum.beginLetterLabel>
+  <!-- EN: {0} is no longer having a tantrum. -->
+  <Tantrum.recoveryMessage>{0} ไม่มีอารมณ์โกรธอีกต่อไป</Tantrum.recoveryMessage>
+  
+  <!-- EN: insulting spree -->
   <TargetedInsultingSpree.label>สบประมาท</TargetedInsultingSpree.label>
-  <TargetedInsultingSpree.beginLetterLabel>สบประมาท</TargetedInsultingSpree.beginLetterLabel>
-  <TargetedInsultingSpree.beginLetter>{0} กำลังสบประมาทต่อ {1}</TargetedInsultingSpree.beginLetter>
-  <TargetedInsultingSpree.recoveryMessage>{0} ไม่มีการสบประมาทอีกแล้ว</TargetedInsultingSpree.recoveryMessage>
+  <!-- EN: Mental state: Insulting spree against {0} -->
   <TargetedInsultingSpree.baseInspectLine>ภาวะทางจิต: สบประมาท กับ {0}</TargetedInsultingSpree.baseInspectLine>
-
-
-
-
-  <!-- Unused? -->
-
+  <!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
+  <TargetedInsultingSpree.beginLetter>{0} กำลังสบประมาทต่อ {1}</TargetedInsultingSpree.beginLetter>
+  <TargetedInsultingSpree.beginLetterLabel>สบประมาท</TargetedInsultingSpree.beginLetterLabel>
+  <TargetedInsultingSpree.recoveryMessage>{0} ไม่มีการสบประมาทอีกแล้ว</TargetedInsultingSpree.recoveryMessage>
+  
+  <!-- EN: tantrum -->
+  <TargetedTantrum.label>อารมณ์ฉุนเฉียว</TargetedTantrum.label>
+  <!-- EN: Mental state: Tantrum -->
+  <TargetedTantrum.baseInspectLine>ภาวะทางจิต: อารมณ์ฉุนเฉียว</TargetedTantrum.baseInspectLine>
+  <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to destroy {1}. -->
+  <TargetedTantrum.beginLetter>{0} มีอารมณ์ฉุนเฉียว [PAWN_pronoun] จะทำลาย {1}</TargetedTantrum.beginLetter>
+  <TargetedTantrum.beginLetterLabel>อารมณ์ฉุนเฉียว</TargetedTantrum.beginLetterLabel>
+  <!-- EN: {0} is no longer having a tantrum. -->
+  <TargetedTantrum.recoveryMessage>{0} ไม่มีอารมณ์โกรธอีกต่อไป</TargetedTantrum.recoveryMessage>
+  
+  <!-- EN: sitting alone -->
+  <Wander_OwnRoom.label>นั่งอยู่คนเดียว</Wander_OwnRoom.label>
+  <!-- EN: Mental state: Hiding in room -->
+  <Wander_OwnRoom.baseInspectLine>ภาวะทางจิต: นั่งอยู่คนเดียว</Wander_OwnRoom.baseInspectLine>
+  <!-- EN: {0} is hiding in [PAWN_possessive] room. -->
+  <Wander_OwnRoom.beginLetter>{0} ซ่อนอยู่ในห้องของเขา</Wander_OwnRoom.beginLetter>
+  <!-- EN: hide in room -->
+  <Wander_OwnRoom.beginLetterLabel>ซ่อนตัวอยู่ในห้องพัก</Wander_OwnRoom.beginLetterLabel>
+  <!-- EN: {0} is no longer hiding in [PAWN_possessive] room. -->
+  <Wander_OwnRoom.recoveryMessage>{0} เลิกซ่อนอยู่ในห้องของเขา</Wander_OwnRoom.recoveryMessage>
+  
+  <!-- EN: wandering in psychosis -->
+  <Wander_Psychotic.label>โรคจิต</Wander_Psychotic.label>
+  <!-- EN: Mental state: Psychotic wandering -->
+  <Wander_Psychotic.baseInspectLine>ภาวะทางจิต: โรคจิต</Wander_Psychotic.baseInspectLine>
+  <!-- EN: {0} is wandering around in a psychotic state. -->
+  <Wander_Psychotic.beginLetter>{0} จะเดินไปรอบ ๆ ในสถานะโรคจิต</Wander_Psychotic.beginLetter>
+  <!-- EN: daze -->
+  <Wander_Psychotic.beginLetterLabel>ความงุนงง</Wander_Psychotic.beginLetterLabel>
+  <!-- EN: {0} is no longer wandering in a psychotic state. -->
+  <Wander_Psychotic.recoveryMessage>{0} เลิกโรคจิต</Wander_Psychotic.recoveryMessage>
+  
+  <!-- EN: sad wandering -->
+  <Wander_Sad.label>โศกเศร้า</Wander_Sad.label>
+  <!-- EN: Mental state: Sad wandering -->
+  <Wander_Sad.baseInspectLine>ภาวะทางจิต: โศกเศร้า</Wander_Sad.baseInspectLine>
+  <!-- EN: {0} has broken down and is wandering around in sadness. -->
+  <Wander_Sad.beginLetter>{0} จะเดินไปรอบ ๆ ในความโศกเศร้า</Wander_Sad.beginLetter>
+  <!-- EN: sad wander -->
+  <Wander_Sad.beginLetterLabel>โศกเศร้า</Wander_Sad.beginLetterLabel>
+  <!-- EN: {0} is no longer wandering in sadness. -->
+  <Wander_Sad.recoveryMessage>{0} เลิกในความโศกเศร้า</Wander_Sad.recoveryMessage>
+  
 </LanguageData>

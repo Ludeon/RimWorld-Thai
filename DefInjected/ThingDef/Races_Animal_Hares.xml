@@ -1,22 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: hare -->
   <Hare.label>กระต่าย</Hare.label>
+  <!-- EN: This small, solitary herbivore can swiftly hop away from danger. -->
   <Hare.description>Dieser kleine Pflanzenfresser kann schnell vor Gefahren davonhüpfen.</Hare.description>
-  <Hare_Leather.label>แผ่นหนังกระต่าย</Hare_Leather.label>
-  <Hare_Leather.description>Das Fell eines Hasen.</Hare_Leather.description>
-  <Hare_Leather.stuffProps.stuffAdjective>แผ่นหนังกระต่าย</Hare_Leather.stuffProps.stuffAdjective>
-  <Hare_Meat.label>เนื้อกระต่าย</Hare_Meat.label>
-  <Hare_Meat.description>Das Fleisch eines Hasen.</Hare_Meat.description>
-  <Hare_Corpse.label>ซากกระต่าย</Hare_Corpse.label>
-  <Hare_Corpse.description>Die Leiche eines Hasen.</Hare_Corpse.description>
-
+  <!-- EN: head -->
+  <Hare.tools.head.label>TODO</Hare.tools.head.label>
+  
+  <!-- EN: snowhare -->
   <Snowhare.label>กระต่ายหิมะ</Snowhare.label>
+  <!-- EN: This hardy animal survives the brutal winters of its homelands by burrowing through snow to find edible plants. -->
   <Snowhare.description>Dieses widerstandsfähige Tier überlebt die härtesten Winter des Nordens indem es sich durch den Schnee gräbt und dort seine Nahrung sucht, oder die härtesten Monate in einem Winterschlaf übersteht.</Snowhare.description>
-  <Snowhare_Leather.label>แผ่นหนังกระต่ายหิมะ</Snowhare_Leather.label>
-  <Snowhare_Leather.description>Das Fell eines Schneehasen.</Snowhare_Leather.description>
-  <Snowhare_Leather.stuffProps.stuffAdjective>แผ่นหนังกระต่ายหิมะ</Snowhare_Leather.stuffProps.stuffAdjective>
-  <Snowhare_Corpse.label>ซากกระต่ายหิมะ</Snowhare_Corpse.label>
-  <Snowhare_Corpse.description>Die Leiche eines Schneehasen.</Snowhare_Corpse.description>
-
+  <!-- EN: head -->
+  <Snowhare.tools.head.label>TODO</Snowhare.tools.head.label>
+  
 </LanguageData>

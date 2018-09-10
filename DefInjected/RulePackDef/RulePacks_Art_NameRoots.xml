@@ -1,52 +1,42 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<ArtName_Weapon.rulePack.rulesStrings>
-		<li>art_name->[badassconcept]</li>
-		<li>art_name->[badassanimal]</li>
-		<li>art_name->[badassadjective] [badassanimal]</li>
-		<li>art_name->[badasscolor]e [badassanimal]</li>
-		<li>art_name->[badassconcept] [badasscolor]</li>
-		<li>art_name->[anyPawn_nameShort]'s [badassconcept]</li>
-		<li>art_name->[badassconcept]e von [anyPawn_nameShort]</li>
-		<li>art_name->[badasscolor]e [anyPawn_nameShort]</li>
-		<li>art_name->[anyPawn_nameShort]'s [badassanimal]</li>
-		<li>art_name->[anyPawn_nameShort]'s [badassperson]</li>
-	</ArtName_Weapon.rulePack.rulesStrings>
-
-	<ArtName_Sculpture.rulePack.rulesStrings>
-		<li>art_name->[anyPawn_nameShort]'s [artname]</li>
-		<li>art_name->[anyPawn_nameShort] [trans] [color]</li>
-		<li>art_name->[artname] [trans] [anyPawn_nameShort]</li>
-		<li>art_name->[artname] [trans] [concept]e</li>
-		<li>art_name->[artname] [romannumeral]</li>
-		<li>art_name->[concept]e [trans] [anyPawn_nameShort]</li>
-		<li>art_name->[concept]e [trans] [anyPawn_nameShort]</li>
-		<li>art_name->[concept]e</li>
-		<li>art_name->[color]e [concept]e</li>
-		<li>art_name->[color]e [artname]</li>
-		<li>art_name->[color]e [terrainfeature]</li>
-		<li>art_name->Eine [art_adjective] [concept]</li>
-		<li>art_name->[concept]e Nr. [digit]</li>
-		<li>art_name->[artname] Nr. [digit]</li>
-		<li>art_name->[artname] Nr. [digit][digit]</li>
-		<li>art_name->[digit] [trans] [anyPawn_nameShort]</li>
-	</ArtName_Sculpture.rulePack.rulesStrings>
-
-	<ArtName_Furniture.rulePack.rulesStrings>
-		<li>art_name->[anyPawn_nameShort]'s [positiveconcept]</li>
-		<li>art_name->[positiveconcept]</li>
-		<li>art_name->[animal]</li>
-		<li>art_name->[badasscolor] [animal]</li>
-		<li>art_name->[anyPawn_nameShort]'s [color]</li>
-	</ArtName_Furniture.rulePack.rulesStrings>
-
-	<ArtName_SarcophagusPlate.rulePack.rulesStrings>
-		<li>art_name->[angstyadjective] [anyPawn_nameShort]</li>
-		<li>art_name->[anyPawn_nameShort]</li>
-		<li>art_name->[color]e [anyPawn_nameShort]</li>
-		<li>art_name->[angstyadjective] [angstyconcept]</li>
-		<li>art_name->[angstyadjective] [badassconcept]</li>
-	</ArtName_SarcophagusPlate.rulePack.rulesStrings>
-
+  
+  <!-- UNUSED -->
+  <NamerArtFurniture.rulePack.rulesStrings>
+    <li>art_name->[anyPawn_nameShort]'s [positiveconcept]</li>
+    <li>art_name->[positiveconcept]</li>
+    <li>art_name->[animal]</li>
+    <li>art_name->[badasscolor] [animal]</li>
+    <li>art_name->[anyPawn_nameShort]'s [color]</li>
+  </NamerArtFurniture.rulePack.rulesStrings>
+  
+  <!-- UNUSED -->
+  <NamerArtSarcophagusPlate.rulePack.rulesStrings>
+    <li>art_name->[angstyadjective] [anyPawn_nameShort]</li>
+    <li>art_name->[anyPawn_nameShort]</li>
+    <li>art_name->[color]e [anyPawn_nameShort]</li>
+    <li>art_name->[angstyadjective] [angstyconcept]</li>
+    <li>art_name->[angstyadjective] [badassconcept]</li>
+  </NamerArtSarcophagusPlate.rulePack.rulesStrings>
+  
+  <!-- UNUSED -->
+  <NamerArtSculpture.rulePack.rulesStrings>
+    <li>art_name->[anyPawn_nameShort]'s [artname]</li>
+    <li>art_name->[anyPawn_nameShort] [trans] [color]</li>
+    <li>art_name->[artname] [trans] [anyPawn_nameShort]</li>
+    <li>art_name->[artname] [trans] [concept]e</li>
+    <li>art_name->[artname] [romannumeral]</li>
+    <li>art_name->[concept]e [trans] [anyPawn_nameShort]</li>
+    <li>art_name->[concept]e [trans] [anyPawn_nameShort]</li>
+    <li>art_name->[concept]e</li>
+    <li>art_name->[color]e [concept]e</li>
+    <li>art_name->[color]e [artname]</li>
+    <li>art_name->[color]e [terrainfeature]</li>
+    <li>art_name->Eine [art_adjective] [concept]</li>
+    <li>art_name->[concept]e Nr. [digit]</li>
+    <li>art_name->[artname] Nr. [digit]</li>
+    <li>art_name->[artname] Nr. [digit][digit]</li>
+    <li>art_name->[digit] [trans] [anyPawn_nameShort]</li>
+  </NamerArtSculpture.rulePack.rulesStrings>
+  
 </LanguageData>

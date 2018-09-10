@@ -1,68 +1,172 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
- <!-- General -->
-  <Goto.reportString>กำลังไปที่</Goto.reportString>
-  <GotoSafeTemperature.reportString>กำลังหาที่ๆอุณหภูมิปลอดภัย</GotoSafeTemperature.reportString>
-  <GotoWander.reportString>กำลังไปเดิน แบบว่างๆ</GotoWander.reportString>
-  <Wait.reportString>กำลังรอ</Wait.reportString>
-  <WaitMaintainPosture.reportString>ยืน</WaitMaintainPosture.reportString>
-  <WaitDowned.reportString>ล้ม</WaitDowned.reportString>
-  <WaitSafeTemperature.reportString>กำลังรออุณหภูมิที่ปลอดภัย</WaitSafeTemperature.reportString>
-  <WaitWander.reportString>กำลังเดิน แบบว่างๆ</WaitWander.reportString>
-  <WaitCombat.reportString>กำลังรอเป้าหมาย</WaitCombat.reportString>
-  <AttackStatic.reportString>กำลังโจมตี TargetA</AttackStatic.reportString>
+  
+  <!-- EN: melee attacking TargetA. -->
   <AttackMelee.reportString>กำลังโจมตี TargetA ในระยะประชิด</AttackMelee.reportString>
-  <SocialFight.reportString>กำลังต่อสู้กับ TargetA.</SocialFight.reportString>
-  <UseVerbOnThing.reportString>ทำอะไรบางอย่าง</UseVerbOnThing.reportString> 
-  <Equip.reportString>กำลังติดตั้ง TargetA</Equip.reportString>
-  <TakeInventory.reportString>กำลังหยิบ TargetA</TakeInventory.reportString>
-  <GiveToPackAnimal.reportString>กำลังติดตั้งสัตว์ขนของ TargetA.</GiveToPackAnimal.reportString>
-  <Wear.reportString>กำลังสวมใส่ TargetA</Wear.reportString>
-  <RemoveApparel.reportString>กำลังถอดเครื่องแต่งกาย TargetA</RemoveApparel.reportString>
-  <DropEquipment.reportString>TargetA ตก</DropEquipment.reportString>
-  <Strip.reportString>กำลังปอก TargetA</Strip.reportString>
-  <Open.reportString>กำลังเปิด TargetA.</Open.reportString>
-  <RearmTrap.reportString>กำลังติดตั้งกับดัก TargetA.</RearmTrap.reportString>
-  <Refuel.reportString>กำลังติดตั้งกับดักใหม่ TargetA.</Refuel.reportString>
-  <FillFermentingBarrel.reportString>กำลังกรอก TargetA.</FillFermentingBarrel.reportString>
-  <TakeBeerOutOfFermentingBarrel.reportString>กำลังเอาเบียร์ออกจาก TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
-  <UnloadInventory.reportString>ปล่อย TargetA.</UnloadInventory.reportString>
-  <UnloadYourInventory.reportString>ปล่อยสินค้าคงคลัง</UnloadYourInventory.reportString>
-  <ManTurret.reportString>กำลังเติมเชื้อ TargetA.</ManTurret.reportString>
-  <EnterCryptosleepCasket.reportString>กำลังเข้าเครื่องนอนแช่แข็ง</EnterCryptosleepCasket.reportString>
-  <UseNeurotrainer.reportString>กำลังใช่ neurotrainer</UseNeurotrainer.reportString>
-  <UseArtifact.reportString>กำลังใช่งานสิ่งประดิษฐ์</UseArtifact.reportString>
-  <UseItem.reportString>กำลังใช่ TargetA.</UseItem.reportString>
-  <TriggerFirefoamPopper.reportString>กำลังใช่เครื่องดับเพลิงอัตโนมัติ</TriggerFirefoamPopper.reportString>
-  <ClearSnow.reportString>กำลังทำความสะอาดหิมะ</ClearSnow.reportString>
-  <Vomit.reportString>กำลังอาเจียน</Vomit.reportString>
-  <Flick.reportString>กำลังกดสวิทช์</Flick.reportString>
-  <TradeWithPawn.reportString>กำลังทำการการค้ากับ TargetA.</TradeWithPawn.reportString>
-  <Flee.reportString>อิสระ</Flee.reportString>
-  <FleeAndCower.reportString>อิสระ</FleeAndCower.reportString>
-  <EnterTransporter.reportString>เข้าสู่ TargetA.</EnterTransporter.reportString>
-
-  <Resurrect.reportString>ชุบชีวิต TargetA.</Resurrect.reportString>
-  <Insult.reportString>สบประมาท TargetA.</Insult.reportString>
-  <HaulCorpseToPublicPlace.reportString>ลาก TargetA.</HaulCorpseToPublicPlace.reportString>
-  <InducePrisonerToEscape.reportString>ทำให้ TargetA หนีไป</InducePrisonerToEscape.reportString>
-
   
-  <!-- Fire -->
+  <!-- EN: attacking TargetA. -->
+  <AttackStatic.reportString>กำลังโจมตี TargetA</AttackStatic.reportString>
   
-  <Ignite.reportString>กำลังจุดประกายไฟ TargetA.</Ignite.reportString>
+  <!-- EN: beating fire out. -->
   <BeatFire.reportString>กำลังเต้นรอบไฟ</BeatFire.reportString>
-  <ExtinguishSelf.reportString>กำลังดับเพลิงด้วยตนเอง</ExtinguishSelf.reportString>
-    
-  <!-- Need satisfaction -->
   
+  <!-- EN: clearing snow. -->
+  <ClearSnow.reportString>กำลังทำความสะอาดหิมะ</ClearSnow.reportString>
+  
+  <!-- EN: dropping TargetA. -->
+  <DropEquipment.reportString>TargetA ตก</DropEquipment.reportString>
+  
+  <!-- EN: entering cryptosleep casket. -->
+  <EnterCryptosleepCasket.reportString>กำลังเข้าเครื่องนอนแช่แข็ง</EnterCryptosleepCasket.reportString>
+  
+  <!-- EN: entering TargetA. -->
+  <EnterTransporter.reportString>เข้าสู่ TargetA.</EnterTransporter.reportString>
+  
+  <!-- EN: equipping TargetA. -->
+  <Equip.reportString>กำลังติดตั้ง TargetA</Equip.reportString>
+  
+  <!-- EN: extinguishing self. -->
+  <ExtinguishSelf.reportString>กำลังดับเพลิงด้วยตนเอง</ExtinguishSelf.reportString>
+  
+  <!-- EN: filling TargetA. -->
+  <FillFermentingBarrel.reportString>กำลังกรอก TargetA.</FillFermentingBarrel.reportString>
+  
+  <!-- EN: fleeing. -->
+  <Flee.reportString>อิสระ</Flee.reportString>
+  
+  <!-- EN: fleeing. -->
+  <FleeAndCower.reportString>อิสระ</FleeAndCower.reportString>
+  
+  <!-- EN: flicking switch. -->
+  <Flick.reportString>กำลังกดสวิทช์</Flick.reportString>
+  
+  <!-- EN: following TargetA. -->
+  <Follow.reportString>TODO</Follow.reportString>
+  
+  <!-- EN: following TargetA. -->
+  <FollowClose.reportString>TODO</FollowClose.reportString>
+  
+  <!-- EN: taking TargetA. -->
+  <GiveToPackAnimal.reportString>กำลังติดตั้งสัตว์ขนของ TargetA.</GiveToPackAnimal.reportString>
+  
+  <!-- EN: moving. -->
+  <Goto.reportString>กำลังไปที่</Goto.reportString>
+  
+  <!-- EN: seeking safe temperature. -->
+  <GotoSafeTemperature.reportString>กำลังหาที่ๆอุณหภูมิปลอดภัย</GotoSafeTemperature.reportString>
+  
+  <!-- EN: wandering. -->
+  <GotoWander.reportString>กำลังไปเดิน แบบว่างๆ</GotoWander.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulCorpseToPublicPlace.reportString>ลาก TargetA.</HaulCorpseToPublicPlace.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToTransporter.reportString>TODO</HaulToTransporter.reportString>
+  
+  <!-- EN: igniting TargetA. -->
+  <Ignite.reportString>กำลังจุดประกายไฟ TargetA.</Ignite.reportString>
+  
+  <!-- EN: inducing TargetA to escape. -->
+  <InducePrisonerToEscape.reportString>ทำให้ TargetA หนีไป</InducePrisonerToEscape.reportString>
+  
+  <!-- EN: consuming TargetA. -->
   <Ingest.reportString>กำลังกิน TargetA.</Ingest.reportString>
+  
+  <!-- EN: insulting TargetA. -->
+  <Insult.reportString>สบประมาท TargetA.</Insult.reportString>
+  
+  <!-- EN: lying down. -->
   <LayDown.reportString>กำลังนอนเล่น</LayDown.reportString>
-
-
-  <!--============ Love ============-->
-
+  
+  <!-- EN: lovin'. -->
   <Lovin.reportString>โคตรรัก</Lovin.reportString>
-
+  
+  <!-- EN: operating turret. -->
+  <ManTurret.reportString>กำลังเติมเชื้อ TargetA.</ManTurret.reportString>
+  
+  <!-- EN: opening TargetA. -->
+  <Open.reportString>กำลังเปิด TargetA.</Open.reportString>
+  
+  <!-- UNUSED -->
+  <RearmTrap.reportString>กำลังติดตั้งกับดัก TargetA.</RearmTrap.reportString>
+  
+  <!-- EN: rearming TargetA. -->
+  <RearmTurret.reportString>TODO</RearmTurret.reportString>
+  
+  <!-- EN: rearming TargetA. -->
+  <RearmTurretAtomic.reportString>TODO</RearmTurretAtomic.reportString>
+  
+  <!-- EN: refueling TargetA. -->
+  <Refuel.reportString>กำลังติดตั้งกับดักใหม่ TargetA.</Refuel.reportString>
+  
+  <!-- EN: refueling TargetA. -->
+  <RefuelAtomic.reportString>TODO</RefuelAtomic.reportString>
+  
+  <!-- EN: removing TargetA. -->
+  <RemoveApparel.reportString>กำลังถอดเครื่องแต่งกาย TargetA</RemoveApparel.reportString>
+  
+  <!-- EN: resurrecting TargetA. -->
+  <Resurrect.reportString>ชุบชีวิต TargetA.</Resurrect.reportString>
+  
+  <!-- EN: fighting with TargetA. -->
+  <SocialFight.reportString>กำลังต่อสู้กับ TargetA.</SocialFight.reportString>
+  
+  <!-- EN: stripping TargetA. -->
+  <Strip.reportString>กำลังปอก TargetA</Strip.reportString>
+  
+  <!-- EN: taking beer out of TargetA. -->
+  <TakeBeerOutOfFermentingBarrel.reportString>กำลังเอาเบียร์ออกจาก TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+  
+  <!-- EN: taking TargetA. -->
+  <TakeInventory.reportString>กำลังหยิบ TargetA</TakeInventory.reportString>
+  
+  <!-- EN: trading with TargetA. -->
+  <TradeWithPawn.reportString>กำลังทำการการค้ากับ TargetA.</TradeWithPawn.reportString>
+  
+  <!-- EN: triggering firefoam popper. -->
+  <TriggerFirefoamPopper.reportString>กำลังใช่เครื่องดับเพลิงอัตโนมัติ</TriggerFirefoamPopper.reportString>
+  
+  <!-- EN: unloading TargetA. -->
+  <UnloadInventory.reportString>ปล่อย TargetA.</UnloadInventory.reportString>
+  
+  <!-- EN: unloading inventory. -->
+  <UnloadYourInventory.reportString>ปล่อยสินค้าคงคลัง</UnloadYourInventory.reportString>
+  
+  <!-- EN: activating artifact. -->
+  <UseArtifact.reportString>กำลังใช่งานสิ่งประดิษฐ์</UseArtifact.reportString>
+  
+  <!-- EN: using TargetA. -->
+  <UseItem.reportString>กำลังใช่ TargetA.</UseItem.reportString>
+  
+  <!-- EN: using neurotrainer. -->
+  <UseNeurotrainer.reportString>กำลังใช่ neurotrainer</UseNeurotrainer.reportString>
+  
+  <!-- EN: Doing something. -->
+  <UseVerbOnThing.reportString>ทำอะไรบางอย่าง</UseVerbOnThing.reportString>
+  
+  <!-- EN: vomiting. -->
+  <Vomit.reportString>กำลังอาเจียน</Vomit.reportString>
+  
+  <!-- EN: standing. -->
+  <Wait.reportString>กำลังรอ</Wait.reportString>
+  
+  <!-- EN: watching for targets. -->
+  <Wait_Combat.reportString>กำลังรอเป้าหมาย</Wait_Combat.reportString>
+  
+  <!-- EN: downed. -->
+  <Wait_Downed.reportString>ล้ม</Wait_Downed.reportString>
+  
+  <!-- EN: standing. -->
+  <Wait_MaintainPosture.reportString>ยืน</Wait_MaintainPosture.reportString>
+  
+  <!-- EN: waiting in safe temperature. -->
+  <Wait_SafeTemperature.reportString>กำลังรออุณหภูมิที่ปลอดภัย</Wait_SafeTemperature.reportString>
+  
+  <!-- EN: wandering. -->
+  <Wait_Wander.reportString>กำลังเดิน แบบว่างๆ</Wait_Wander.reportString>
+  
+  <!-- EN: wearing TargetA. -->
+  <Wear.reportString>กำลังสวมใส่ TargetA</Wear.reportString>
+  
 </LanguageData>

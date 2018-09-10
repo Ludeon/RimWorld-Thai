@@ -1,17 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Flame.label>เปลวไฟ</Flame.label>
-	<Flame.deathMessage>{0} โดนไหม้จนตาย</Flame.deathMessage>
-
-	<!-- Burn is like Flame, but doesn't ignite anything -->
-	<Burn.label>เผา</Burn.label>
-	<Burn.deathMessage>{0}  โดนเผาจนตาย</Burn.deathMessage>
   
-	<Frostbite.label>น้ำแข็งกัด</Frostbite.label>
-	<Frostbite.deathMessage>{0} ถูกน้ำแข็งกัดจนถึงแก่ความตาย</Frostbite.deathMessage>
-
-	<TornadoScratch.label>รอยขีดข่วน</TornadoScratch.label>
-	<TornadoScratch.deathMessage>{0} ถูกรอยขีดข่วนในพายุทอร์นาโด</TornadoScratch.deathMessage>
-
+  <!-- EN: burn -->
+  <Burn.label>เผา</Burn.label>
+  <!-- EN: {0} has burned to death. -->
+  <Burn.deathMessage>{0}  โดนเผาจนตาย</Burn.deathMessage>
+  
+  <!-- EN: flame -->
+  <Flame.label>เปลวไฟ</Flame.label>
+  <!-- EN: {0} has burned to death. -->
+  <Flame.deathMessage>{0} โดนไหม้จนตาย</Flame.deathMessage>
+  
+  <!-- EN: frostbite -->
+  <Frostbite.label>น้ำแข็งกัด</Frostbite.label>
+  <!-- EN: {0} has succumbed to frostbite. -->
+  <Frostbite.deathMessage>{0} ถูกน้ำแข็งกัดจนถึงแก่ความตาย</Frostbite.deathMessage>
+  
+  <!-- EN: scratch -->
+  <TornadoScratch.label>รอยขีดข่วน</TornadoScratch.label>
+  <!-- EN: {0} has been killed by a tornado. -->
+  <TornadoScratch.deathMessage>{0} ถูกรอยขีดข่วนในพายุทอร์นาโด</TornadoScratch.deathMessage>
+  
 </LanguageData>

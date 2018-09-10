@@ -1,16 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <SculptureSmall.label>ประติมากรรม (เล็ก)</SculptureSmall.label>
-  <SculptureSmall.description>Ein büstengroßes Stück eines Materials, das zu einem Kunstwerk geformt wurde.</SculptureSmall.description>
-
-  <SculptureLarge.label>ประติมากรรม (ใหญ่)</SculptureLarge.label>
-  <SculptureLarge.description>Ein menschengroßes Stück eines Materials, das zu einem Kunstwerk geformt wurde.</SculptureLarge.description>
-
+  
+  <!-- EN: grand sculpture -->
   <SculptureGrand.label>ประติมากรรม (ยิ่งใหญ่)</SculptureGrand.label>
+  <!-- EN: A huge sculpture sized to dominate a room. -->
   <SculptureGrand.description>Ein fahrzeuggroßes Stück eines Materials, das zu einem Kunstwerk geformt wurde.</SculptureGrand.description>
-
+  
+  <!-- EN: large sculpture -->
+  <SculptureLarge.label>ประติมากรรม (ใหญ่)</SculptureLarge.label>
+  <!-- EN: A person-sized piece of material sculpted into an artistic form. -->
+  <SculptureLarge.description>Ein menschengroßes Stück eines Materials, das zu einem Kunstwerk geformt wurde.</SculptureLarge.description>
+  
+  <!-- EN: small sculpture -->
+  <SculptureSmall.label>ประติมากรรม (เล็ก)</SculptureSmall.label>
+  <!-- EN: A torso-sized piece of material sculpted into an artistic form. -->
+  <SculptureSmall.description>Ein büstengroßes Stück eines Materials, das zu einem Kunstwerk geformt wurde.</SculptureSmall.description>
+  
+  <!-- EN: snowman -->
   <Snowman.label>สโนแมน</Snowman.label>
+  <!-- EN: A set of large snowballs piled and shaped to resemble a person. People make these for the fun of it. -->
   <Snowman.description>Zwei bis drei aufeinander gestellte Schneekugeln wurden so geformt, dass sie eine Person darstellen.</Snowman.description>
-
+  
 </LanguageData>

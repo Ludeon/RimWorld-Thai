@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Stab.label>แทง</Stab.label>
-  <Cut.label>ฟัน</Cut.label>
-  <Blunt.label>ทุบ</Blunt.label>
-  <Scratch.label>ขวน</Scratch.label>
-  <Poke.label>สะกิด</Poke.label>
+  
   <Bite.label>กัด</Bite.label>
+  
+  <Blunt.label>ทุบ</Blunt.label>
+  
+  <Cut.label>ฟัน</Cut.label>
+  
+  <Poke.label>สะกิด</Poke.label>
+  
+  <Scratch.label>ขวน</Scratch.label>
+  
+  <Stab.label>แทง</Stab.label>
+  
   <ToxicBite.label>กัดพิษ</ToxicBite.label>
-
+  
 </LanguageData>

@@ -1,34 +1,111 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Torso.label>ลำตัว</Torso.label>
-  <UpperHead.label>หัวส่วนบน</UpperHead.label>
-  <FullHead.label>หัวทั้งหัว</FullHead.label>
-  <Eyes.label>นัยน์ตา</Eyes.label>
-  <Teeth.label>ฟัน</Teeth.label>
-  <Mouth.label>ปาก</Mouth.label>
-  <Neck.label>คอ</Neck.label>
+  
+  <!-- EN: arms -->
   <Arms.label>แขน</Arms.label>
-  <Shoulders.label>ไหล่</Shoulders.label>
-  <Hands.label>มือ</Hands.label>
-  <LeftHand.label>มือซ้าย</LeftHand.label>
-  <RightHand.label>มือขวา</RightHand.label>
-  <Waist.label>เอว</Waist.label>
-  <Legs.label>ขา</Legs.label>
-  <Feet.label>เท้า</Feet.label>
-  <FrontLeftPaw.label>อุ้งเท้าหน้าข้างซ้าย</FrontLeftPaw.label>
-  <FrontRightPaw.label>อุ้งเท้าหน้าข้างขวา</FrontRightPaw.label>
-  <HeadAttackTool.label>หัว</HeadAttackTool.label>
-  <FrontLeftLeg.label>เท้าหน้าข้างซ้าย</FrontLeftLeg.label>
-  <FrontRightLeg.label>เท้าหน้าข้างขวา</FrontRightLeg.label>
-  <FrontLeftClaws.label>กรงเล็บหน้าข้างซ้าย</FrontLeftClaws.label>
-  <FrontRightClaws.label>กรงเล็บหน้าข้างขวา</FrontRightClaws.label>
-  <LeftBlade.label>ใบมีดซ้าย</LeftBlade.label>
-  <RightBlade.label>ใบมีดขวา</RightBlade.label>
-  <TuskAttackTool.label>งา</TuskAttackTool.label>
-  <HornAttackTool.label>เขา</HornAttackTool.label>
-  <HeadClaw.label>กรงเล็บ</HeadClaw.label>
-  <TurtleBeakAttackTool.label>จงอยปาก</TurtleBeakAttackTool.label>
+  
+  <!-- EN: beak -->
   <Beak.label>จงอยปากนก</Beak.label>
-
+  
+  <!-- EN: eyes -->
+  <Eyes.label>นัยน์ตา</Eyes.label>
+  
+  <!-- EN: feet -->
+  <Feet.label>เท้า</Feet.label>
+  
+  <!-- EN: front left claws -->
+  <FrontLeftClaws.label>กรงเล็บหน้าข้างซ้าย</FrontLeftClaws.label>
+  <!-- EN: claws -->
+  <FrontLeftClaws.labelShort>TODO</FrontLeftClaws.labelShort>
+  
+  <!-- EN: front left leg -->
+  <FrontLeftLeg.label>เท้าหน้าข้างซ้าย</FrontLeftLeg.label>
+  <!-- EN: leg -->
+  <FrontLeftLeg.labelShort>TODO</FrontLeftLeg.labelShort>
+  
+  <!-- EN: front left paw -->
+  <FrontLeftPaw.label>อุ้งเท้าหน้าข้างซ้าย</FrontLeftPaw.label>
+  <!-- EN: paw -->
+  <FrontLeftPaw.labelShort>TODO</FrontLeftPaw.labelShort>
+  
+  <!-- EN: front right claws -->
+  <FrontRightClaws.label>กรงเล็บหน้าข้างขวา</FrontRightClaws.label>
+  <!-- EN: claws -->
+  <FrontRightClaws.labelShort>TODO</FrontRightClaws.labelShort>
+  
+  <!-- EN: front right leg -->
+  <FrontRightLeg.label>เท้าหน้าข้างขวา</FrontRightLeg.label>
+  <!-- EN: leg -->
+  <FrontRightLeg.labelShort>TODO</FrontRightLeg.labelShort>
+  
+  <!-- EN: front right paw -->
+  <FrontRightPaw.label>อุ้งเท้าหน้าข้างขวา</FrontRightPaw.label>
+  <!-- EN: paw -->
+  <FrontRightPaw.labelShort>TODO</FrontRightPaw.labelShort>
+  
+  <!-- EN: full head -->
+  <FullHead.label>หัวทั้งหัว</FullHead.label>
+  
+  <!-- EN: hands -->
+  <Hands.label>มือ</Hands.label>
+  
+  <!-- EN: head -->
+  <HeadAttackTool.label>หัว</HeadAttackTool.label>
+  
+  <!-- EN: claw -->
+  <HeadClaw.label>กรงเล็บ</HeadClaw.label>
+  
+  <!-- EN: horn -->
+  <HornAttackTool.label>เขา</HornAttackTool.label>
+  
+  <!-- EN: left blade -->
+  <LeftBlade.label>ใบมีดซ้าย</LeftBlade.label>
+  <!-- EN: blade -->
+  <LeftBlade.labelShort>TODO</LeftBlade.labelShort>
+  
+  <!-- EN: left fist -->
+  <LeftHand.label>มือซ้าย</LeftHand.label>
+  <!-- EN: fist -->
+  <LeftHand.labelShort>TODO</LeftHand.labelShort>
+  
+  <!-- EN: legs -->
+  <Legs.label>ขา</Legs.label>
+  
+  <!-- EN: mouth -->
+  <Mouth.label>ปาก</Mouth.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>คอ</Neck.label>
+  
+  <!-- EN: right blade -->
+  <RightBlade.label>ใบมีดขวา</RightBlade.label>
+  <!-- EN: blade -->
+  <RightBlade.labelShort>TODO</RightBlade.labelShort>
+  
+  <!-- EN: right fist -->
+  <RightHand.label>มือขวา</RightHand.label>
+  <!-- EN: fist -->
+  <RightHand.labelShort>TODO</RightHand.labelShort>
+  
+  <!-- EN: shoulders -->
+  <Shoulders.label>ไหล่</Shoulders.label>
+  
+  <!-- EN: teeth -->
+  <Teeth.label>ฟัน</Teeth.label>
+  
+  <!-- EN: torso -->
+  <Torso.label>ลำตัว</Torso.label>
+  
+  <!-- EN: beak -->
+  <TurtleBeakAttackTool.label>จงอยปาก</TurtleBeakAttackTool.label>
+  
+  <!-- EN: tusks -->
+  <TuskAttackTool.label>งา</TuskAttackTool.label>
+  
+  <!-- EN: upper head -->
+  <UpperHead.label>หัวส่วนบน</UpperHead.label>
+  
+  <!-- EN: waist -->
+  <Waist.label>เอว</Waist.label>
+  
 </LanguageData>

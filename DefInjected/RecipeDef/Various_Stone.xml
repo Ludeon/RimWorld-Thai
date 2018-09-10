@@ -1,39 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<!-- Sandstone -->
-
-	<MakeStoneBlocksSandstone.label>ทำ บล็อกหินทราย</MakeStoneBlocksSandstone.label>
-	<MakeStoneBlocksSandstone.description>Verarbeite Sandsteinbrocken in nutzbare Steinblöcke.</MakeStoneBlocksSandstone.description>
-	<MakeStoneBlocksSandstone.jobString>กำลังทำบล็อกหินทราย</MakeStoneBlocksSandstone.jobString>
-
-
-	<!-- Granite -->
-
-	<MakeStoneBlocksGranite.label>ทำ บล็อกหินแกรนิต</MakeStoneBlocksGranite.label>
-	<MakeStoneBlocksGranite.description>Verarbeite Granitbrocken in nutzbare Steinblöcke.</MakeStoneBlocksGranite.description>
-	<MakeStoneBlocksGranite.jobString>กำลังทำบล็อกหินแกรนิต</MakeStoneBlocksGranite.jobString>
-
-
-	<!-- Limestone -->
-
-	<MakeStoneBlocksLimestone.label>ทำ บล็อกหินปูน</MakeStoneBlocksLimestone.label>
-	<MakeStoneBlocksLimestone.description>Verarbeite Kalksteinbrocken in nutzbare Steinblöcke.</MakeStoneBlocksLimestone.description>
-	<MakeStoneBlocksLimestone.jobString>กำลังทำบล็อกหินปูน</MakeStoneBlocksLimestone.jobString>
-
-
-	<!-- Slate -->
-
-	<MakeStoneBlocksSlate.label>ทำ บล็อกหินชนวน</MakeStoneBlocksSlate.label>
-	<MakeStoneBlocksSlate.description>Verarbeite Schieferbrocken in nutzbare Steinblöcke.</MakeStoneBlocksSlate.description>
-	<MakeStoneBlocksSlate.jobString>กำลังทำบล็อกหินปูน</MakeStoneBlocksSlate.jobString>
-
-
-	<!-- Marble -->
-
-	<MakeStoneBlocksMarble.label>ทำ บล็อกหินอ่อน</MakeStoneBlocksMarble.label>
-	<MakeStoneBlocksMarble.description>Verarbeite Marmorbrocken in nutzbare Steinblöcke.</MakeStoneBlocksMarble.description>
-	<MakeStoneBlocksMarble.jobString>กำลังทำบล็อกหินปูน</MakeStoneBlocksMarble.jobString>
-
-
+  
+  <!-- EN: make granite blocks -->
+  <Make_StoneBlocksGranite.label>ทำ บล็อกหินแกรนิต</Make_StoneBlocksGranite.label>
+  <!-- EN: Cuts granite chunks into usable blocks. -->
+  <Make_StoneBlocksGranite.description>Verarbeite Granitbrocken in nutzbare Steinblöcke.</Make_StoneBlocksGranite.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksGranite.jobString>กำลังทำบล็อกหินแกรนิต</Make_StoneBlocksGranite.jobString>
+  
+  <!-- EN: make limestone blocks -->
+  <Make_StoneBlocksLimestone.label>ทำ บล็อกหินปูน</Make_StoneBlocksLimestone.label>
+  <!-- EN: Cuts limestone chunks into usable blocks. -->
+  <Make_StoneBlocksLimestone.description>Verarbeite Kalksteinbrocken in nutzbare Steinblöcke.</Make_StoneBlocksLimestone.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksLimestone.jobString>กำลังทำบล็อกหินปูน</Make_StoneBlocksLimestone.jobString>
+  
+  <!-- EN: make marble blocks -->
+  <Make_StoneBlocksMarble.label>ทำ บล็อกหินอ่อน</Make_StoneBlocksMarble.label>
+  <!-- EN: Cuts marble chunks into usable blocks. -->
+  <Make_StoneBlocksMarble.description>Verarbeite Marmorbrocken in nutzbare Steinblöcke.</Make_StoneBlocksMarble.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksMarble.jobString>กำลังทำบล็อกหินปูน</Make_StoneBlocksMarble.jobString>
+  
+  <!-- EN: make sandstone blocks -->
+  <Make_StoneBlocksSandstone.label>ทำ บล็อกหินทราย</Make_StoneBlocksSandstone.label>
+  <!-- EN: Cuts sandstone chunks into usable blocks. -->
+  <Make_StoneBlocksSandstone.description>Verarbeite Sandsteinbrocken in nutzbare Steinblöcke.</Make_StoneBlocksSandstone.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksSandstone.jobString>กำลังทำบล็อกหินทราย</Make_StoneBlocksSandstone.jobString>
+  
+  <!-- EN: make slate blocks -->
+  <Make_StoneBlocksSlate.label>ทำ บล็อกหินชนวน</Make_StoneBlocksSlate.label>
+  <!-- EN: Cuts slate chunks into usable blocks. -->
+  <Make_StoneBlocksSlate.description>Verarbeite Schieferbrocken in nutzbare Steinblöcke.</Make_StoneBlocksSlate.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksSlate.jobString>กำลังทำบล็อกหินปูน</Make_StoneBlocksSlate.jobString>
+  
 </LanguageData>

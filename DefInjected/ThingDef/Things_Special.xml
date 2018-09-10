@@ -1,17 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <RectTrigger.label>Rect Trigger</RectTrigger.label>
-  <RectTrigger.description>Ein rechteckiger Auslöser.</RectTrigger.description>
-
-  <DropPodIncoming.label>กระสวยขนส่ง กำลังเข้ามา</DropPodIncoming.label>
-
+  
+  <!-- EN: drop pod -->
+  <ActiveDropPod.label>TODO</ActiveDropPod.label>
+  
+  <!-- UNUSED -->
   <DropPod.label>กระสวยขนส่ง</DropPod.label>
-
+  
+  <!-- EN: fire -->
   <Fire.label>ไฟไหม้</Fire.label>
-
+  
+  <!-- EN: spark -->
   <Spark.label>จุดประกาย</Spark.label>
-
+  
+  <!-- UNUSED -->
   <TemporaryRegionBarrier.label>Temporary Region Barrier</TemporaryRegionBarrier.label>
   
 </LanguageData>

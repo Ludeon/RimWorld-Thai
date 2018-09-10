@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alcohol addiction -->
+  <AlcoholAddiction.label>ติดยาเสพติด แอลกอฮอล์</AlcoholAddiction.label>
+  <AlcoholAddiction.stages.0.label>ลงแดง</AlcoholAddiction.stages.0.label>
+  <!-- EN: withdrawal -->
+  <AlcoholAddiction.stages.withdrawal.label>TODO</AlcoholAddiction.stages.withdrawal.label>
+  
+  <!-- EN: alcohol -->
+  <AlcoholHigh.label>เมาแอลกอฮอล์</AlcoholHigh.label>
+  <!-- EN: drunkenness -->
+  <AlcoholHigh.labelNoun>เมาแอลกอฮอล์</AlcoholHigh.labelNoun>
+  <!-- EN: warm -->
+  <AlcoholHigh.stages.warm.label>อุ่นเล็กน้อย (ไม่มีอาการ)</AlcoholHigh.stages.warm.label>
+  <!-- EN: tipsy -->
+  <AlcoholHigh.stages.tipsy.label>อุ่น</AlcoholHigh.stages.tipsy.label>
+  <!-- EN: drunk -->
+  <AlcoholHigh.stages.drunk.label>กรึ่มๆ</AlcoholHigh.stages.drunk.label>
+  <!-- EN: hammered -->
+  <AlcoholHigh.stages.hammered.label>เมา</AlcoholHigh.stages.hammered.label>
+  <!-- EN: blackout -->
+  <AlcoholHigh.stages.blackout.label>ปวดหัว</AlcoholHigh.stages.blackout.label>
+  
+  <!-- EN: alcohol tolerance -->
+  <AlcoholTolerance.label>ดือยา แอลกอฮอล์</AlcoholTolerance.label>
+  <!-- EN: small -->
+  <AlcoholTolerance.stages.small-0.label>TODO</AlcoholTolerance.stages.small-0.label>
+  <!-- EN: small -->
+  <AlcoholTolerance.stages.small-1.label>ต่ำ</AlcoholTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <AlcoholTolerance.stages.large.label>ปานกลาง</AlcoholTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <AlcoholTolerance.stages.massive.label>มาก</AlcoholTolerance.stages.massive.label>
+  
+  <!-- EN: hangover -->
+  <Hangover.label>เมาค้าง</Hangover.label>
+  <!-- EN: a hangover -->
+  <Hangover.labelNoun>เมาค้าง</Hangover.labelNoun>
+  <!-- EN: slight -->
+  <Hangover.stages.slight.label>เล็กน้อย</Hangover.stages.slight.label>
+  <!-- EN: strong -->
+  <Hangover.stages.strong.label>รุนแรง</Hangover.stages.strong.label>
+  <!-- EN: pounding -->
+  <Hangover.stages.pounding.label>ปวดหัวจะระเบิด</Hangover.stages.pounding.label>
+  
+</LanguageData>

@@ -1,50 +1,154 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- base -->
-
-  <Torso.label>ลำตัว</Torso.label>
-  <LeftShoulder.label>ไหล่ซ้าย</LeftShoulder.label>
+  
+  <!-- EN: arm -->
+  <Arm.label>TODO</Arm.label>
+  
+  <!-- EN: clavicle -->
+  <Clavicle.label>TODO</Clavicle.label>
+  
+  <!-- EN: femur -->
+  <Femur.label>TODO</Femur.label>
+  
+  <!-- EN: finger -->
+  <Finger.label>TODO</Finger.label>
+  
+  <!-- EN: hand -->
+  <Hand.label>TODO</Hand.label>
+  
+  <!-- EN: humerus -->
+  <Humerus.label>TODO</Humerus.label>
+  
+  <!-- UNUSED -->
   <LeftArm.label>แขนซ้าย</LeftArm.label>
-  <LeftHand.label>มือซ้าย</LeftHand.label>
-  <LeftHandPinky.label>นิ้วก้อยมือซ้าย</LeftHandPinky.label>
-  <LeftHandRingFinger.label>นิ้วนางมือซ้าย</LeftHandRingFinger.label>
-  <LeftHandMiddleFinger.label>นิ้วกลางมือซ้าย</LeftHandMiddleFinger.label>
-  <LeftHandIndexFinger.label>นิ้วชี้มือซ้าย</LeftHandIndexFinger.label>
-  <LeftHandThumb.label>นิ้วโป้งมือซ้าย</LeftHandThumb.label>
-  <RightShoulder.label>ไหล่ขวา</RightShoulder.label>
-  <RightArm.label>แขนขวา</RightArm.label>
-  <RightHand.label>มือขวา</RightHand.label>
-  <RightHandPinky.label>นิ้วก้อยมือขวา</RightHandPinky.label>
-  <RightHandRingFinger.label>นิ้วนางมือขวา</RightHandRingFinger.label>
-  <RightHandMiddleFinger.label>นิ้วกลางมือขวา</RightHandMiddleFinger.label>
-  <RightHandIndexFinger.label>นิ้วชี้มือขวา</RightHandIndexFinger.label>
-  <RightHandThumb.label>นิ้วโป้งมือขวา</RightHandThumb.label>
-  <Waist.label>เอว</Waist.label>
-  <LeftFootLittleToe.label>นิ้วก้อยเท้าซ้าย</LeftFootLittleToe.label>
-  <LeftFootFourthToe.label>นิ้วนางเท้าซ้าย</LeftFootFourthToe.label>
-  <LeftFootMiddleToe.label>นิ้วกลางเท้าซ้าย</LeftFootMiddleToe.label>
-  <LeftFootSecondToe.label>นิ้วชี้เท้าซ้าย</LeftFootSecondToe.label>
-  <LeftFootBigToe.label>นิ้วโป้งเท้าซ้าย</LeftFootBigToe.label>
-  <RightFootLittleToe.label>นิ้วก้อยเท้าขวา</RightFootLittleToe.label>
-  <RightFootFourthToe.label>นิ้วนางเท้าขวา</RightFootFourthToe.label>
-  <RightFootMiddleToe.label>นิ้วกลางเท้าขวา</RightFootMiddleToe.label>
-  <RightFootSecondToe.label>นิ้วชี้เท้าขวา</RightFootSecondToe.label>
-  <RightFootBigToe.label>นิ้วโป้งเท้าขวา</RightFootBigToe.label>
-
-  <!-- Bones -->
-
+  
+  <!-- UNUSED -->
   <LeftClavicle.label>กระดูกไหปลาร้าซ้าย</LeftClavicle.label>
-  <RightClavicle.label>กระดูกไหปลาร้าขวา</RightClavicle.label>
-  <Sternum.label>กระดูกสันอก</Sternum.label>
-  <LeftHumerus.label>กระดูกต้นแขนซ้าย</LeftHumerus.label>
-  <RightHumerus.label>กระดูกต้นแขนขวา</RightHumerus.label>
-  <LeftRadius.label>กระดูกหน้าแขนซ้าย</LeftRadius.label>
-  <RightRadius.label>กระดูกหน้าแขนขวา</RightRadius.label>
-  <Pelvis.label>กระดูกเชิงกราน</Pelvis.label>
+  
+  <!-- UNUSED -->
   <LeftFemur.label>กระดูกต้นขาซ้าย</LeftFemur.label>
-  <RightFemur.label>กระดูกต้นขาขวา</RightFemur.label>
+  
+  <!-- UNUSED -->
+  <LeftFootBigToe.label>นิ้วโป้งเท้าซ้าย</LeftFootBigToe.label>
+  
+  <!-- UNUSED -->
+  <LeftFootFourthToe.label>นิ้วนางเท้าซ้าย</LeftFootFourthToe.label>
+  
+  <!-- UNUSED -->
+  <LeftFootLittleToe.label>นิ้วก้อยเท้าซ้าย</LeftFootLittleToe.label>
+  
+  <!-- UNUSED -->
+  <LeftFootMiddleToe.label>นิ้วกลางเท้าซ้าย</LeftFootMiddleToe.label>
+  
+  <!-- UNUSED -->
+  <LeftFootSecondToe.label>นิ้วชี้เท้าซ้าย</LeftFootSecondToe.label>
+  
+  <!-- UNUSED -->
+  <LeftHand.label>มือซ้าย</LeftHand.label>
+  
+  <!-- UNUSED -->
+  <LeftHandIndexFinger.label>นิ้วชี้มือซ้าย</LeftHandIndexFinger.label>
+  
+  <!-- UNUSED -->
+  <LeftHandMiddleFinger.label>นิ้วกลางมือซ้าย</LeftHandMiddleFinger.label>
+  
+  <!-- UNUSED -->
+  <LeftHandPinky.label>นิ้วก้อยมือซ้าย</LeftHandPinky.label>
+  
+  <!-- UNUSED -->
+  <LeftHandRingFinger.label>นิ้วนางมือซ้าย</LeftHandRingFinger.label>
+  
+  <!-- UNUSED -->
+  <LeftHandThumb.label>นิ้วโป้งมือซ้าย</LeftHandThumb.label>
+  
+  <!-- UNUSED -->
+  <LeftHumerus.label>กระดูกต้นแขนซ้าย</LeftHumerus.label>
+  
+  <!-- UNUSED -->
+  <LeftRadius.label>กระดูกหน้าแขนซ้าย</LeftRadius.label>
+  
+  <!-- UNUSED -->
+  <LeftShoulder.label>ไหล่ซ้าย</LeftShoulder.label>
+  
+  <!-- UNUSED -->
   <LeftTibia.label>กระดูกแข้งซ้าย</LeftTibia.label>
+  
+  <!-- EN: pelvis -->
+  <Pelvis.label>กระดูกเชิงกราน</Pelvis.label>
+  
+  <!-- EN: radius -->
+  <Radius.label>TODO</Radius.label>
+  
+  <!-- UNUSED -->
+  <RightArm.label>แขนขวา</RightArm.label>
+  
+  <!-- UNUSED -->
+  <RightClavicle.label>กระดูกไหปลาร้าขวา</RightClavicle.label>
+  
+  <!-- UNUSED -->
+  <RightFemur.label>กระดูกต้นขาขวา</RightFemur.label>
+  
+  <!-- UNUSED -->
+  <RightFootBigToe.label>นิ้วโป้งเท้าขวา</RightFootBigToe.label>
+  
+  <!-- UNUSED -->
+  <RightFootFourthToe.label>นิ้วนางเท้าขวา</RightFootFourthToe.label>
+  
+  <!-- UNUSED -->
+  <RightFootLittleToe.label>นิ้วก้อยเท้าขวา</RightFootLittleToe.label>
+  
+  <!-- UNUSED -->
+  <RightFootMiddleToe.label>นิ้วกลางเท้าขวา</RightFootMiddleToe.label>
+  
+  <!-- UNUSED -->
+  <RightFootSecondToe.label>นิ้วชี้เท้าขวา</RightFootSecondToe.label>
+  
+  <!-- UNUSED -->
+  <RightHand.label>มือขวา</RightHand.label>
+  
+  <!-- UNUSED -->
+  <RightHandIndexFinger.label>นิ้วชี้มือขวา</RightHandIndexFinger.label>
+  
+  <!-- UNUSED -->
+  <RightHandMiddleFinger.label>นิ้วกลางมือขวา</RightHandMiddleFinger.label>
+  
+  <!-- UNUSED -->
+  <RightHandPinky.label>นิ้วก้อยมือขวา</RightHandPinky.label>
+  
+  <!-- UNUSED -->
+  <RightHandRingFinger.label>นิ้วนางมือขวา</RightHandRingFinger.label>
+  
+  <!-- UNUSED -->
+  <RightHandThumb.label>นิ้วโป้งมือขวา</RightHandThumb.label>
+  
+  <!-- UNUSED -->
+  <RightHumerus.label>กระดูกต้นแขนขวา</RightHumerus.label>
+  
+  <!-- UNUSED -->
+  <RightRadius.label>กระดูกหน้าแขนขวา</RightRadius.label>
+  
+  <!-- UNUSED -->
+  <RightShoulder.label>ไหล่ขวา</RightShoulder.label>
+  
+  <!-- UNUSED -->
   <RightTibia.label>กระดูกแข้งขวา</RightTibia.label>
-
+  
+  <!-- EN: shoulder -->
+  <Shoulder.label>TODO</Shoulder.label>
+  
+  <!-- EN: sternum -->
+  <Sternum.label>กระดูกสันอก</Sternum.label>
+  
+  <!-- EN: tibia -->
+  <Tibia.label>TODO</Tibia.label>
+  
+  <!-- EN: toe -->
+  <Toe.label>TODO</Toe.label>
+  
+  <!-- EN: torso -->
+  <Torso.label>ลำตัว</Torso.label>
+  
+  <!-- EN: waist -->
+  <Waist.label>เอว</Waist.label>
+  
 </LanguageData>

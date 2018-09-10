@@ -1,23 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: cook fine meal -->
+  <CookMealFine.label>ปรุง มื้ออาหารแบบพิถีพิถัน</CookMealFine.label>
+  <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
+  <CookMealFine.description>ปรุงมื้ออาหารที่ซับซ้อนขึ้นจากการผสมผสานวัตถุดิบระหว่างเนื้อกับพืช</CookMealFine.description>
+  <!-- EN: Cooking fine meal. -->
+  <CookMealFine.jobString>กำลังปรุงมื้ออาหารแบบพิถีพิถัน</CookMealFine.jobString>
+  
+  <!-- EN: cook lavish meal -->
+  <CookMealLavish.label>ปรุงมื้อ อาหารแบบสุดหรู</CookMealLavish.label>
+  <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
+  <CookMealLavish.description>ปรุงอาหารที่ซับซ้อนอย่างมากขึ้นมาจากการรวมเอาวัตถุดิบอย่างเนื้อและพืช วัตถุดิบส่วนใหญ่จะเสียปล่าว</CookMealLavish.description>
+  <!-- EN: Cooking lavish meal. -->
+  <CookMealLavish.jobString>กำลังปรุงมื้ออาหารแบบสุดหรู</CookMealLavish.jobString>
+  
+  <!-- EN: cook simple meal -->
   <CookMealSimple.label>ปรุง มื้ออาหารแบบง่ายๆ</CookMealSimple.label>
+  <!-- EN: Cook a straightforward meal from one ingredient. -->
   <CookMealSimple.description>ปรุงอาหารอย่างตรงๆขึ้นมาจากวัตถุดิบชนิดเดียว</CookMealSimple.description>
+  <!-- EN: Cooking simple meal. -->
   <CookMealSimple.jobString>กำลังปรุงมื้ออาหารแบบง่ายๆ</CookMealSimple.jobString>
+  
+  <!-- UNUSED -->
   <CookMealSimpleCampfire.label>ปรุง มื้ออาหารแบบง่ายๆ</CookMealSimpleCampfire.label>
   <CookMealSimpleCampfire.description>ปรุงอาหารอย่างตรงๆขึ้นมาจากวัตถุดิบชนิดเดียวด้วยกองไฟ</CookMealSimpleCampfire.description>
   <CookMealSimpleCampfire.jobString>กำลังปรุงมื้ออาหารแบบง่ายๆด้วยกองไฟ</CookMealSimpleCampfire.jobString>
-
-  <CookMealFine.label>ปรุง มื้ออาหารแบบพิถีพิถัน</CookMealFine.label>
-  <CookMealFine.description>ปรุงมื้ออาหารที่ซับซ้อนขึ้นจากการผสมผสานวัตถุดิบระหว่างเนื้อกับพืช</CookMealFine.description>
-  <CookMealFine.jobString>กำลังปรุงมื้ออาหารแบบพิถีพิถัน</CookMealFine.jobString>
-
-  <CookMealLavish.label>ปรุงมื้อ อาหารแบบสุดหรู</CookMealLavish.label>
-  <CookMealLavish.description>ปรุงอาหารที่ซับซ้อนอย่างมากขึ้นมาจากการรวมเอาวัตถุดิบอย่างเนื้อและพืช วัตถุดิบส่วนใหญ่จะเสียปล่าว</CookMealLavish.description>
-  <CookMealLavish.jobString>กำลังปรุงมื้ออาหารแบบสุดหรู</CookMealLavish.jobString>
-
+  
+  <!-- EN: cook packaged survival meal -->
   <CookMealSurvival.label>ปรุง อาหารเอาตัวรอด</CookMealSurvival.label>
+  <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
   <CookMealSurvival.description>ปรุงอาหารฉุกเฉินจากพืชต่างๆและเนื้อสัตว์ อย่างไรก็ตามในขณะที่จำนวนมากของส่วนผสมที่มีการสูญเสีย</CookMealSurvival.description>
+  <!-- EN: Cooking survival meal. -->
   <CookMealSurvival.jobString>กำลังปรุงอาหารเอาตัวรอด</CookMealSurvival.jobString>
-
+  
 </LanguageData>

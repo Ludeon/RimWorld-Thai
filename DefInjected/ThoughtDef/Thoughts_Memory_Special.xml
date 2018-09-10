@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <ArtifactMoodBoost.stages.0.label>ความรู้สึกแปลก ๆ</ArtifactMoodBoost.stages.0.label>
-  <ArtifactMoodBoost.stages.0.description>ฉันรู้สึกแปลก แต่ยังผ่อนคลายมาก</ArtifactMoodBoost.stages.0.description>
-
+  
+  <!-- EN: strange feeling -->
+  <ArtifactMoodBoost.stages.strange_feeling.label>ความรู้สึกแปลก ๆ</ArtifactMoodBoost.stages.strange_feeling.label>
+  <!-- EN: I feel strange, but also very relaxed. -->
+  <ArtifactMoodBoost.stages.strange_feeling.description>ฉันรู้สึกแปลก แต่ยังผ่อนคลายมาก</ArtifactMoodBoost.stages.strange_feeling.description>
+  
 </LanguageData>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: หยาบ หินแกรนิต -->
+  <Granite_Rough.label>หินแกรนิตหยาบ</Granite_Rough.label>
+  <!-- EN: หยาบ, เหมือนธรรมชาติ หินแกรนิต แผ่น -->
+  <Granite_Rough.description>Rauer, natürlicher Boden aus Granit.</Granite_Rough.description>
+  
+  <!-- EN: ตัดหยาบ หินแกรนิต -->
+  <Granite_RoughHewn.label>หินแกรนิตหยาบโค่น</Granite_RoughHewn.label>
+  <!-- EN: ตัดอย่างยาบ, เหมือนธรรมชาติ หินแกรนิต แผ่น -->
+  <Granite_RoughHewn.description>Grob geschnittener Boden aus Granit.</Granite_RoughHewn.description>
+  
+  <!-- EN: เรียบ หินแกรนิต -->
+  <Granite_Smooth.label>หินแกรนิตเรียบ</Granite_Smooth.label>
+  <!-- EN: ขัดเรียบ เหมือนธรรมชาติ หินแกรนิต แผ่น -->
+  <Granite_Smooth.description>Geglätteter, natürlicher Boden aus Granit.</Granite_Smooth.description>
+  
+  <!-- EN: หยาบ หินปูน -->
+  <Limestone_Rough.label>หินปูนหยาบ</Limestone_Rough.label>
+  <!-- EN: หยาบ, เหมือนธรรมชาติ หินปูน แผ่น -->
+  <Limestone_Rough.description>Rauer, natürlicher Boden aus Kalkstein.</Limestone_Rough.description>
+  
+  <!-- EN: ตัดหยาบ หินปูน -->
+  <Limestone_RoughHewn.label>หินปูนหยาบโค่น</Limestone_RoughHewn.label>
+  <!-- EN: ตัดอย่างยาบ, เหมือนธรรมชาติ หินปูน แผ่น -->
+  <Limestone_RoughHewn.description>Grob geschnittener Boden aus Kalkstein.</Limestone_RoughHewn.description>
+  
+  <!-- EN: เรียบ หินปูน -->
+  <Limestone_Smooth.label>หินปูนเรียบ</Limestone_Smooth.label>
+  <!-- EN: ขัดเรียบ เหมือนธรรมชาติ หินปูน แผ่น -->
+  <Limestone_Smooth.description>Geglätteter, natürlicher Boden aus Kalkstein.</Limestone_Smooth.description>
+  
+  <!-- EN: หยาบ หินอ่อน -->
+  <Marble_Rough.label>หินอ่อนหยาบ</Marble_Rough.label>
+  <!-- EN: หยาบ, เหมือนธรรมชาติ หินอ่อน แผ่น -->
+  <Marble_Rough.description>Rauer, natürlicher Boden aus Marmor.</Marble_Rough.description>
+  
+  <!-- EN: ตัดหยาบ หินอ่อน -->
+  <Marble_RoughHewn.label>หินอ่อนหยาบโค่น</Marble_RoughHewn.label>
+  <!-- EN: ตัดอย่างยาบ, เหมือนธรรมชาติ หินอ่อน แผ่น -->
+  <Marble_RoughHewn.description>Grob geschnittener Boden aus Marmor.</Marble_RoughHewn.description>
+  
+  <!-- EN: เรียบ หินอ่อน -->
+  <Marble_Smooth.label>หินอ่อนเรียบ</Marble_Smooth.label>
+  <!-- EN: ขัดเรียบ เหมือนธรรมชาติ หินอ่อน แผ่น -->
+  <Marble_Smooth.description>Geglätteter, natürlicher Boden aus Marmor.</Marble_Smooth.description>
+  
+  <!-- EN: หยาบ หินทราย -->
+  <Sandstone_Rough.label>หินทรายหยาบ</Sandstone_Rough.label>
+  <!-- EN: หยาบ, เหมือนธรรมชาติ หินทราย แผ่น -->
+  <Sandstone_Rough.description>Rauer, natürlicher Boden aus Sandstein.</Sandstone_Rough.description>
+  
+  <!-- EN: ตัดหยาบ หินทราย -->
+  <Sandstone_RoughHewn.label>หินทรายหยาบโค่น</Sandstone_RoughHewn.label>
+  <!-- EN: ตัดอย่างยาบ, เหมือนธรรมชาติ หินทราย แผ่น -->
+  <Sandstone_RoughHewn.description>Grob geschnittener Boden aus Sandstein.</Sandstone_RoughHewn.description>
+  
+  <!-- EN: เรียบ หินทราย -->
+  <Sandstone_Smooth.label>หินทรายเรียบ</Sandstone_Smooth.label>
+  <!-- EN: ขัดเรียบ เหมือนธรรมชาติ หินทราย แผ่น -->
+  <Sandstone_Smooth.description>Geglätteter, natürlicher Boden aus Sandstein.</Sandstone_Smooth.description>
+  
+  <!-- EN: หยาบ หินชนวน -->
+  <Slate_Rough.label>หินชนวนหยาบ</Slate_Rough.label>
+  <!-- EN: หยาบ, เหมือนธรรมชาติ หินชนวน แผ่น -->
+  <Slate_Rough.description>Rauer, natürlicher Boden aus Schiefer.</Slate_Rough.description>
+  
+  <!-- EN: ตัดหยาบ หินชนวน -->
+  <Slate_RoughHewn.label>หินชนวนหยาบโค่น</Slate_RoughHewn.label>
+  <!-- EN: ตัดอย่างยาบ, เหมือนธรรมชาติ หินชนวน แผ่น -->
+  <Slate_RoughHewn.description>Grob geschnittener Boden aus Schiefer.</Slate_RoughHewn.description>
+  
+  <!-- EN: เรียบ หินชนวน -->
+  <Slate_Smooth.label>หินชนวนเรียบ</Slate_Smooth.label>
+  <!-- EN: ขัดเรียบ เหมือนธรรมชาติ หินชนวน แผ่น -->
+  <Slate_Smooth.description>Geglätteter, natürlicher Boden aus Schiefer.</Slate_Smooth.description>
+  
+</LanguageData>

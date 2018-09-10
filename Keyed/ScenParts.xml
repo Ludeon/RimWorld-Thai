@@ -1,44 +1,69 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- ======================== Non-grouped ========================-->
   
+  <!-- EN: Your faction will be a {0}. -->
   <ScenPart_PlayerFaction>ฝ่ายของคุณจะเป็น {0}.</ScenPart_PlayerFaction>
 
+  <!-- EN: Start with {0} people, chosen from {1}. -->
   <ScenPart_StartWithPawns>เริ่มกับ {0} คน</ScenPart_StartWithPawns>
+  <!-- EN: chosen from -->
   <ScenPart_StartWithPawns_OutOf>เลือกจาก</ScenPart_StartWithPawns_OutOf>
+  <!-- EN: random pet -->
   <RandomPet>สุ่ม สัตว์เลี้ยง</RandomPet>
 
+  <!-- EN: Start with research: {0} -->
   <ScenPart_StartingResearchFinished>เริ่มต้นด้วยการวิจัย: {0}</ScenPart_StartingResearchFinished>
   
+  <!-- EN: Arrive in drop pods. -->
   <ScenPart_ArriveInDropPods>มาโดย drop pods.</ScenPart_ArriveInDropPods>
 
+  <!-- EN: The stat "{0}" will be universally multiplied by {1}. -->
   <ScenPart_StatFactor>ค่าทักษะ "{0}" จะถูกคูณโดยรวมด้วย {1}.</ScenPart_StatFactor>
 
-
   <!-- Pawn modifiers -->
+  <!-- EN: {0} have a {1} chance to start with {2}. -->
   <ScenPart_PawnsHaveHediff>{0} มี {1} โอกาสที่จะเริ่มต้นด้วย {2}.</ScenPart_PawnsHaveHediff>
+  <!-- EN: severity: {0} -->
   <ConfigurableSeverity>ความรุนแรง: {0}</ConfigurableSeverity>
 
+  <!-- EN: {0} have a {1} chance to have their {2} set between {3} and {4}. -->
   <ScenPart_SetNeed>{0} มี {1} โอกาสที่จะมีของพวก {2} ตั้งอยู่ระหว่าง {3} และ {4}.</ScenPart_SetNeed>
+  <!-- EN: level: {0} -->
   <ConfigurableLevel>ระดับ: {0}</ConfigurableLevel>
 
+  <!-- EN: {0} have a {1} chance to start with trait: {2} -->
   <ScenPart_PawnsHaveTrait>{0} มี {1} โอกาสที่จะเริ่มต้นด้วยลักษณะ: {2}</ScenPart_PawnsHaveTrait>
+  <!-- EN: Characters and creatures explode on death ({0}, radius {1}). -->
   <ScenPart_OnPawnDeathExplode>ตัวละคร และ สิ่งมีชีวิต มีโอกาสที่ระเบิดตาย ({0}, ในขอบเขต {1}).</ScenPart_OnPawnDeathExplode>
-
+  <!-- EN: {0} start naked. -->
+  <ScenPart_PawnsAreNaked>TODO</ScenPart_PawnsAreNaked>
+  
   <!-- Pawn filters -->
+  <!-- EN: Your people will be at least {0} years old. -->
   <ScenPart_StartingPawnAgeMin>คนของคุณจะมีอายุอย่างน้อย {0} ปี.</ScenPart_StartingPawnAgeMin>
+  <!-- EN: Your people will be at most {0} years old. -->
   <ScenPart_StartingPawnAgeMax>คนของคุณจะมีอายุมากถึง {0} ปี</ScenPart_StartingPawnAgeMax>
+  <!-- EN: Your people will be between {0} and {1} years old. -->
   <ScenPart_StartingPawnAgeRange>คนของคุณจะมีอายุระหว่าง {0} และ {1} ปี</ScenPart_StartingPawnAgeRange>
-
 
   <!-- ======================== Grouped ========================-->
 
+  <!-- EN: Start with -->
   <ScenPart_StartWith>เรี่มต้นด้วย</ScenPart_StartWith>
+  <!-- EN: Map is scattered with -->
   <ScenPart_MapScatteredWith>แผนที่จะกระจายอยู่กับ</ScenPart_MapScatteredWith>
-  <ScenPart_PermaMapCondition>สถานะแผนที่ถาวร(s)</ScenPart_PermaMapCondition>
+  <!-- EN: Permanent game condition(s) -->
+  <ScenPart_PermaGameCondition>TODO</ScenPart_PermaGameCondition>
+  <!-- EN: Incident(s) disabled -->
   <ScenPart_DisableIncident>เหตุการ (s) ปิด</ScenPart_DisableIncident>
+  <!-- EN: Incident created -->
   <ScenPart_CreateIncident>เหตุการ สร้างขึ้น</ScenPart_CreateIncident>
+  <!-- EN: Can never build -->
   <ScenPart_DisallowBuilding>ไม่สามารถสร้าง</ScenPart_DisallowBuilding>
+
+  <!-- UNUSED -->
+  <ScenPart_PermaMapCondition>สถานะแผนที่ถาวร(s)</ScenPart_PermaMapCondition>
 
 </LanguageData>

@@ -1,17 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<!-- Temporary hack; ranged weapons need to use the old pre-flavorful-combat system to avoid a rebalance cascade. -->
-	<RangedStab.label>ตะเข็บ</RangedStab.label>
-	<RangedStab.deathMessage>{0} ถูกแทง</RangedStab.deathMessage>
-
-	<Bullet.label>กระสุน</Bullet.label>
-	<Bullet.deathMessage>{0} ถูกยิงจนถึงแก่ความตาย</Bullet.deathMessage>
-
-	<Arrow.label>ลูกธนู</Arrow.label>
-	<Arrow.deathMessage>{0} ถูกยิงจนถึงแก่ความตาย</Arrow.deathMessage>
-
-	<ArrowHighVelocity.label>ลูกศร</ArrowHighVelocity.label>
-	<ArrowHighVelocity.deathMessage>{0} ถูกยิง</ArrowHighVelocity.deathMessage>
-
+  
+  <!-- EN: arrow -->
+  <Arrow.label>ลูกธนู</Arrow.label>
+  <!-- EN: {0} has been shot to death by an arrow. -->
+  <Arrow.deathMessage>{0} ถูกยิงจนถึงแก่ความตาย</Arrow.deathMessage>
+  
+  <!-- EN: arrow -->
+  <ArrowHighVelocity.label>ลูกศร</ArrowHighVelocity.label>
+  <!-- EN: {0} has been shot to death by an arrow. -->
+  <ArrowHighVelocity.deathMessage>{0} ถูกยิง</ArrowHighVelocity.deathMessage>
+  
+  <!-- EN: bullet -->
+  <Bullet.label>กระสุน</Bullet.label>
+  <!-- EN: {0} has been shot to death. -->
+  <Bullet.deathMessage>{0} ถูกยิงจนถึงแก่ความตาย</Bullet.deathMessage>
+  
+  <!-- EN: stab -->
+  <RangedStab.label>ตะเข็บ</RangedStab.label>
+  <!-- EN: {0} has been stabbed to death. -->
+  <RangedStab.deathMessage>{0} ถูกแทง</RangedStab.deathMessage>
+  
 </LanguageData>

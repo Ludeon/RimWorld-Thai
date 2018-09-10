@@ -1,77 +1,151 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MapDollyUp.label>เลื่อนขึ้น</MapDollyUp.label>
-  <MapDollyDown.label>เลื่อนลง</MapDollyDown.label>
-  <MapDollyLeft.label>เลื่อนไปทางซ้าย</MapDollyLeft.label>
-  <MapDollyRight.label>เลื่อนไปทางขวา</MapDollyRight.label>
-  <MapZoomIn.label>ซูมเข้า</MapZoomIn.label>
-  <MapZoomOut.label>ซูมออก</MapZoomOut.label>
-
-  <!-- Map play -->
-
-  <TakeScreenshot.label>ใช้ภาพหน้าจอ</TakeScreenshot.label>
-  <ToggleScreenshotMode.label>ภาพหน้าจอโหมดสลับ</ToggleScreenshotMode.label>
-  <SelectNextInCell.label>เลือกถัดไปในเซลล์</SelectNextInCell.label>
-  <TogglePause.label>สลับการหยุดชั่วคราว</TogglePause.label>
-  <TimeSpeedNormal.label>เวลาความเร็วปกติ</TimeSpeedNormal.label>
-  <TimeSpeedFast.label>เวลาความเร็ว รวดเร็ว</TimeSpeedFast.label>
-  <TimeSpeedSuperfast.label>เวลาความเร็ว เร็วมาก</TimeSpeedSuperfast.label>
-  <TimeSpeedUltrafast.label>เวลาความเร็ว เร็วมากสุดๆ</TimeSpeedUltrafast.label>
-  <PreviousColonist.label>อาณานิคมก่อนหน้า</PreviousColonist.label>
-  <NextColonist.label>อาณานิคมถัดไป</NextColonist.label>
-
-  <!-- Misc (re-used) -->
-
+  
+  <!-- EN: accept -->
+  <Accept.label>TODO</Accept.label>
+  
+  <!-- EN: cancel -->
+  <Cancel.label>TODO</Cancel.label>
+  
+  <!-- EN: draft -->
+  <Command_ColonistDraft.label>Command Colonist Draft</Command_ColonistDraft.label>
+  
+  <!-- EN: toggle forbidden -->
+  <Command_ItemForbid.label>Command Item Forbid</Command_ItemForbid.label>
+  
+  <!-- EN: toggle power -->
+  <Command_TogglePower.label>Command Toggle Power</Command_TogglePower.label>
+  
+  <!-- EN: cancel -->
+  <Designator_Cancel.label>Designator Cancel</Designator_Cancel.label>
+  
+  <!-- EN: deconstruct -->
+  <Designator_Deconstruct.label>Designator Deconstruct</Designator_Deconstruct.label>
+  
+  <!-- EN: rotate left -->
+  <Designator_RotateLeft.label>Designator Rotate Left</Designator_RotateLeft.label>
+  
+  <!-- EN: rotate right -->
+  <Designator_RotateRight.label>Designator Rotate Right</Designator_RotateRight.label>
+  
+  <!-- EN: tick once -->
+  <Dev_TickOnce.label>Tick Once</Dev_TickOnce.label>
+  
+  <!-- EN: toggle debug actions menu -->
+  <Dev_ToggleDebugActionsMenu.label>ToggleDebug Actions Menu</Dev_ToggleDebugActionsMenu.label>
+  
+  <!-- EN: toggle debug inspector -->
+  <Dev_ToggleDebugInspector.label>Toggle Debug Inspector</Dev_ToggleDebugInspector.label>
+  
+  <!-- EN: toggle debug log -->
+  <Dev_ToggleDebugLog.label>Toggle Debug Log</Dev_ToggleDebugLog.label>
+  
+  <!-- EN: toggle debug log menu -->
+  <Dev_ToggleDebugLogMenu.label>Toggle Debug Log Menu</Dev_ToggleDebugLogMenu.label>
+  
+  <!-- EN: toggle debug settings menu -->
+  <Dev_ToggleDebugSettingsMenu.label>Toggle Debug Settings Menu</Dev_ToggleDebugSettingsMenu.label>
+  
+  <!-- EN: toggle god mode -->
+  <Dev_ToggleGodMode.label>Toggle God Mode</Dev_ToggleGodMode.label>
+  
+  <!-- EN: dolly down -->
+  <MapDolly_Down.label>เลื่อนลง</MapDolly_Down.label>
+  
+  <!-- EN: dolly left -->
+  <MapDolly_Left.label>เลื่อนไปทางซ้าย</MapDolly_Left.label>
+  
+  <!-- EN: dolly right -->
+  <MapDolly_Right.label>เลื่อนไปทางขวา</MapDolly_Right.label>
+  
+  <!-- EN: dolly up -->
+  <MapDolly_Up.label>เลื่อนขึ้น</MapDolly_Up.label>
+  
+  <!-- EN: zoom in -->
+  <MapZoom_In.label>ซูมเข้า</MapZoom_In.label>
+  
+  <!-- EN: zoom out -->
+  <MapZoom_Out.label>ซูมออก</MapZoom_Out.label>
+  
+  <!-- EN: Misc 1 -->
   <Misc1.label>Misc 1</Misc1.label>
-  <Misc2.label>Misc 2</Misc2.label>
-  <Misc3.label>Misc 3</Misc3.label>
-  <Misc4.label>Misc 4</Misc4.label>
-  <Misc5.label>Misc 5</Misc5.label>
-  <Misc6.label>Misc 6</Misc6.label>
-  <Misc7.label>Misc 7</Misc7.label>
-  <Misc8.label>Misc 8</Misc8.label>
-  <Misc9.label>Misc 9</Misc9.label>
+  
+  <!-- EN: Misc 10 -->
   <Misc10.label>Misc 10</Misc10.label>
+  
+  <!-- EN: Misc 11 -->
   <Misc11.label>Misc 11</Misc11.label>
+  
+  <!-- EN: Misc 12 -->
   <Misc12.label>Misc 12</Misc12.label>
-
-  <!-- Selection special -->
-
-  <CommandTogglePower.label>Command Toggle Power</CommandTogglePower.label>
-  <CommandItemForbid.label>Command Item Forbid</CommandItemForbid.label>
-  <CommandColonistDraft.label>Command Colonist Draft</CommandColonistDraft.label>
-  <ModifierIncrement10x.label>เพิ่ม 10x</ModifierIncrement10x.label>
-  <ModifierIncrement100x.label>เพิ่ม 100x</ModifierIncrement100x.label>
-
-  <!-- Architect: Common -->
-
-  <DesignatorCancel.label>Designator Cancel</DesignatorCancel.label>
-  <DesignatorDeconstruct.label>Designator Deconstruct</DesignatorDeconstruct.label>
-  <DesignatorRotateLeft.label>Designator Rotate Left</DesignatorRotateLeft.label>
-  <DesignatorRotateRight.label>Designator Rotate Right</DesignatorRotateRight.label>
-
-  <!-- Debug -->
-
-  <ToggleDebugLog.label>Toggle Debug Log</ToggleDebugLog.label>
-  <TickOnce.label>Tick Once</TickOnce.label>
-  <ToggleGodMode.label>Toggle God Mode</ToggleGodMode.label>
-  <ToggleDebugActionsMenu.label>ToggleDebug Actions Menu</ToggleDebugActionsMenu.label>
-  <ToggleDebugLogMenu.label>Toggle Debug Log Menu</ToggleDebugLogMenu.label>
-  <ToggleDebugInspector.label>Toggle Debug Inspector</ToggleDebugInspector.label>
-  <ToggleDebugSettingsMenu.label>Toggle Debug Settings Menu</ToggleDebugSettingsMenu.label>
-
-
-  <!-- Main Tabs
-
-  <MainTab_Architect.label>ARCHITEKT öffnen/schließen</MainTab_Architect.label>
-  <MainTab_Work.label>ARBEIT öffnen/schließen</MainTab_Work.label>
-  <MainTab_Restrict.label>BESCHRÄNKUNG öffnen/schließen</MainTab_Restrict.label>
-  <MainTab_Assign.label>ZUWEISUNG öffnen/schließen</MainTab_Assign.label>
-  <MainTab_Animals.label>TIERE öffnen/schließen</MainTab_Animals.label>
-  <MainTab_World.label>WELT öffnen/schließen</MainTab_World.label>
-  <MainTab_History.label>GESCHICHTE öffnen/schließen</MainTab_History.label>
-  <MainTab_Factions.label>FRAKTIONEN öffnen/schließen</MainTab_Factions.label>
-
-  -->
+  
+  <!-- EN: Misc 2 -->
+  <Misc2.label>Misc 2</Misc2.label>
+  
+  <!-- EN: Misc 3 -->
+  <Misc3.label>Misc 3</Misc3.label>
+  
+  <!-- EN: Misc 4 -->
+  <Misc4.label>Misc 4</Misc4.label>
+  
+  <!-- EN: Misc 5 -->
+  <Misc5.label>Misc 5</Misc5.label>
+  
+  <!-- EN: Misc 6 -->
+  <Misc6.label>Misc 6</Misc6.label>
+  
+  <!-- EN: Misc 7 -->
+  <Misc7.label>Misc 7</Misc7.label>
+  
+  <!-- EN: Misc 8 -->
+  <Misc8.label>Misc 8</Misc8.label>
+  
+  <!-- EN: Misc 9 -->
+  <Misc9.label>Misc 9</Misc9.label>
+  
+  <!-- EN: increment 100x -->
+  <ModifierIncrement_100x.label>เพิ่ม 100x</ModifierIncrement_100x.label>
+  
+  <!-- EN: increment 10x -->
+  <ModifierIncrement_10x.label>เพิ่ม 10x</ModifierIncrement_10x.label>
+  
+  <!-- EN: next colonist -->
+  <NextColonist.label>อาณานิคมถัดไป</NextColonist.label>
+  
+  <!-- EN: previous colonist -->
+  <PreviousColonist.label>อาณานิคมก่อนหน้า</PreviousColonist.label>
+  
+  <!-- EN: queue order -->
+  <QueueOrder.label>TODO</QueueOrder.label>
+  
+  <!-- EN: select next in cell -->
+  <SelectNextInCell.label>เลือกถัดไปในเซลล์</SelectNextInCell.label>
+  
+  <!-- EN: take screenshot -->
+  <TakeScreenshot.label>ใช้ภาพหน้าจอ</TakeScreenshot.label>
+  
+  <!-- EN: game speed: Fast -->
+  <TimeSpeed_Fast.label>เวลาความเร็ว รวดเร็ว</TimeSpeed_Fast.label>
+  
+  <!-- EN: game speed: Normal -->
+  <TimeSpeed_Normal.label>เวลาความเร็วปกติ</TimeSpeed_Normal.label>
+  
+  <!-- EN: game speed: Super fast -->
+  <TimeSpeed_Superfast.label>เวลาความเร็ว เร็วมาก</TimeSpeed_Superfast.label>
+  
+  <!-- EN: game speed: Ultra fast (debug) -->
+  <TimeSpeed_Ultrafast.label>เวลาความเร็ว เร็วมากสุดๆ</TimeSpeed_Ultrafast.label>
+  
+  <!-- EN: toggle beauty display -->
+  <ToggleBeautyDisplay.label>TODO</ToggleBeautyDisplay.label>
+  
+  <!-- EN: pause/resume game -->
+  <TogglePause.label>สลับการหยุดชั่วคราว</TogglePause.label>
+  
+  <!-- EN: toggle room stats display -->
+  <ToggleRoomStatsDisplay.label>TODO</ToggleRoomStatsDisplay.label>
+  
+  <!-- EN: toggle screenshot mode -->
+  <ToggleScreenshotMode.label>ภาพหน้าจอโหมดสลับ</ToggleScreenshotMode.label>
+  
 </LanguageData>

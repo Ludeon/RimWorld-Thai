@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: caribou -->
+  <Caribou.label>กวางเรนเดียร์</Caribou.label>
+  <!-- EN: caribou -->
+  <Caribou.labelPlural>TODO</Caribou.labelPlural>
+  <!-- EN: caribou calf -->
+  <Caribou.lifeStages.caribou_calf.label>ลูกกวางเรนเดียร์</Caribou.lifeStages.caribou_calf.label>
+  <!-- EN: caribou calves -->
+  <Caribou.lifeStages.caribou_calf.labelPlural>TODO</Caribou.lifeStages.caribou_calf.labelPlural>
+  <Caribou.lifeStages.1.label>กวางเรนเดียร์วัยรุ่น</Caribou.lifeStages.1.label>
+  <Caribou.lifeStages.1.labelFemale>กวางเรนเดียร์วัยรุ่นตัวเมีย</Caribou.lifeStages.1.labelFemale>
+  <Caribou.lifeStages.1.labelMale>กวางเรนเดียร์รุ่นตัวผู้</Caribou.lifeStages.1.labelMale>
+  <Caribou.lifeStages.2.label>กวางเรนเดียร์</Caribou.lifeStages.2.label>
+  <Caribou.lifeStages.2.labelFemale>กวางเรนเดียร์ตัวเมีย</Caribou.lifeStages.2.labelFemale>
+  <Caribou.lifeStages.2.labelMale>กวางเรนเดียร์ตัวผู้</Caribou.lifeStages.2.labelMale>
+  
+  <!-- EN: deer -->
+  <Deer.label>กวาง</Deer.label>
+  <!-- EN: doe -->
+  <Deer.labelFemale>กวางต้วเมีย</Deer.labelFemale>
+  <!-- EN: buck -->
+  <Deer.labelMale>กวางต้วผู้</Deer.labelMale>
+  <!-- EN: deer -->
+  <Deer.labelPlural>TODO</Deer.labelPlural>
+  <Deer.lifeStages.0.label>ลูกกวาง</Deer.lifeStages.0.label>
+  <Deer.lifeStages.1.labelFemale>กวางวัยรุ่นตัวเมีย</Deer.lifeStages.1.labelFemale>
+  <Deer.lifeStages.1.labelMale>กวางวัยรุ่นตัวผู้</Deer.lifeStages.1.labelMale>
+  <Deer.lifeStages.2.labelFemale>กวางตัวเมีย</Deer.lifeStages.2.labelFemale>
+  <Deer.lifeStages.2.labelMale>กวางตัวผู้</Deer.lifeStages.2.labelMale>
+  
+  <!-- EN: elk -->
+  <Elk.label>กวางเอลก์</Elk.label>
+  <!-- EN: elk -->
+  <Elk.labelPlural>TODO</Elk.labelPlural>
+  <!-- EN: elk calf -->
+  <Elk.lifeStages.elk_calf.label>ลูกกวางเอลก์</Elk.lifeStages.elk_calf.label>
+  <!-- EN: elk calves -->
+  <Elk.lifeStages.elk_calf.labelPlural>TODO</Elk.lifeStages.elk_calf.labelPlural>
+  <Elk.lifeStages.1.label>กวางเอลก์วัยรุ่น</Elk.lifeStages.1.label>
+  <Elk.lifeStages.1.labelFemale>กวางเอลก์วัยรุ่นตัวเมีย</Elk.lifeStages.1.labelFemale>
+  <Elk.lifeStages.1.labelMale>กวางเอลก์วัยรุ่นตัวผู้</Elk.lifeStages.1.labelMale>
+  <Elk.lifeStages.2.label>กวางเอลก์</Elk.lifeStages.2.label>
+  <Elk.lifeStages.2.labelFemale>กวางเอลก์ตัวเมีย</Elk.lifeStages.2.labelFemale>
+  <Elk.lifeStages.2.labelMale>กวางเอลก์ตัวผู้</Elk.lifeStages.2.labelMale>
+  
+  <!-- EN: ibex -->
+  <Ibex.label>แพะภูเขา</Ibex.label>
+  <!-- EN: ibex doe -->
+  <Ibex.labelFemale>แพะภูเขา</Ibex.labelFemale>
+  <!-- EN: ibex ram -->
+  <Ibex.labelMale>แพะภูเขา</Ibex.labelMale>
+  <!-- EN: ibex -->
+  <Ibex.labelPlural>TODO</Ibex.labelPlural>
+  <Ibex.lifeStages.0.label>ลูกแพะภูเขา</Ibex.lifeStages.0.label>
+  <Ibex.lifeStages.1.label>แพะภูเขาวัยรุ่น</Ibex.lifeStages.1.label>
+  <Ibex.lifeStages.1.labelFemale>แพะภูเขาตัวเมีย</Ibex.lifeStages.1.labelFemale>
+  <Ibex.lifeStages.1.labelMale>แพะภูเขาวัยรุ่นตัวผู้</Ibex.lifeStages.1.labelMale>
+  <Ibex.lifeStages.2.label>แพะภูเขา</Ibex.lifeStages.2.label>
+  <Ibex.lifeStages.2.labelFemale>แพะภูเขาตัวเมีย</Ibex.lifeStages.2.labelFemale>
+  <Ibex.lifeStages.2.labelMale>แพะภูเขาตัวผู้</Ibex.lifeStages.2.labelMale>
+  
+  <!-- EN: tortoise -->
+  <Tortoise.label>เต่า</Tortoise.label>
+  <Tortoise.lifeStages.0.label>ลูกเต่า</Tortoise.lifeStages.0.label>
+  <Tortoise.lifeStages.1.label>เต่าวัยรุ่น</Tortoise.lifeStages.1.label>
+  <Tortoise.lifeStages.2.label>เต่า</Tortoise.lifeStages.2.label>
+  
+  <!-- EN: wild boar -->
+  <WildBoar.label>หมูป่า</WildBoar.label>
+  <WildBoar.lifeStages.0.label>ลูกหมูป่า</WildBoar.lifeStages.0.label>
+  <WildBoar.lifeStages.1.label>หมูป่าวันรุ่น</WildBoar.lifeStages.1.label>
+  <WildBoar.lifeStages.2.label>หมูป่า</WildBoar.lifeStages.2.label>
+  
+</LanguageData>

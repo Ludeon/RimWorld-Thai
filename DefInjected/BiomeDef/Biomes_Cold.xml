@@ -1,19 +1,29 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: boreal forest -->
   <BorealForest.label>ป่าเขตเหนือ</BorealForest.label>
+  <!-- EN: Forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals, and have warm summers. -->
   <BorealForest.description>ป่าสนทางทิศเหนือ แม้จะมีฤดูหนาวที่ทารุณ, ป่าเขตเหนือก็คงความหลากหลายทางประชากรของสัตว์เล็กและใหญ่ไว้</BorealForest.description>
-
-  <Tundra.label>ทุ่งทุนดร้า</Tundra.label>
-  <Tundra.description>ทุ่งราบที่ถูกแช่แข็งเกือบหมด แทบจะไม่มีต้นไม้ใบหญ้า มีสัตว์เล็กจำนวนน้อยอาศัยรวมกับสัตว์กินหญ้าอพยพฝูงใหญ่และนักล่าของพวกมัน</Tundra.description>
-
+  
+  <!-- EN: cold bog -->
   <ColdBog.label>บึงเย็น</ColdBog.label>
+  <!-- EN: A wetland packed with trees and vines. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Disease is endemic in this dense, wet ecosystem. -->
   <ColdBog.description>พื้นที่ชุ่มน้ำมีสัตว์น้อย แต่มีชีวิตที่ร่ำรวย ส่วนใหญ่จะมีการขัดและปลูกต้นไม้น้อยกว่าที่หนองน้ำปกติ ดินส่วนใหญ่ไม่แข็งแรงพอที่จะสนับสนุนโครงสร้างหนักดังนั้นการอยู่รอดจึงค่อนข้างยาก</ColdBog.description>
-
+  
+  <!-- EN: ice sheet -->
   <IceSheet.label>แผ่นน้ำแข็ง</IceSheet.label>
+  <!-- EN: Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost. -->
   <IceSheet.description>พื้นผิวนั้นเป็นแผ่นน้ำแข็งปกคลุมอยู่ ซึ่งสามารถหนาได้ถึงหลายกิโลเมตร ที่นี่ไม่มีทางเข้าถึงผิวดินได้, จึงไม่มีพืชเลย สัตว์ที่เคยพบที่นี่ก็อพยพย้ายไปที่อื่นหมดแล้ว - หรืออย่างแย่ก็หายสาบสูญ</IceSheet.description>
-
+  
+  <!-- EN: sea ice -->
   <SeaIce.label>ทะเลน้ำแข็ง</SeaIce.label>
+  <!-- EN: Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life. -->
   <SeaIce.description>น้ำแข็งที่ลอยอยู่ในน้ำ ไม่มีดินไม่มีต้นไม้ไม่มีแร่ธาตุและสัตว์น้อยมากคือ เนื่องจากหิมะจำนวนมากและหุบเขาน้ำแข็งในการเดินทางผ่านบริเวณนี้คือเหนื่อยมาก</SeaIce.description>
-	
+  
+  <!-- EN: tundra -->
+  <Tundra.label>ทุ่งทุนดร้า</Tundra.label>
+  <!-- EN: These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspersed with large herds of migratory grazers and their predators. -->
+  <Tundra.description>ทุ่งราบที่ถูกแช่แข็งเกือบหมด แทบจะไม่มีต้นไม้ใบหญ้า มีสัตว์เล็กจำนวนน้อยอาศัยรวมกับสัตว์กินหญ้าอพยพฝูงใหญ่และนักล่าของพวกมัน</Tundra.description>
+  
 </LanguageData>

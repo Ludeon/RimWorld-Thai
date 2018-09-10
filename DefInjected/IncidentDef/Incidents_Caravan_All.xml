@@ -1,24 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<!-- =============================== Threats =============================== -->
-
-	<Ambush.label>โดนดักโจมตี</Ambush.label>
-	<Ambush.letterText>คาราวานของคุณจาก {0} จาก {1} บุก!</Ambush.letterText>
-	<Ambush.letterLabel>คาราวานถูกซุ่มโจมตี</Ambush.letterLabel>
-
-	<ManhunterAmbush.label>สัตว์ดักโจมตี</ManhunterAmbush.label>
-	<ManhunterAmbush.letterText>คาราวานของคุณถูกสัตว์ล่า {0} บุก!</ManhunterAmbush.letterText>
-	<ManhunterAmbush.letterLabel>คาราวานถูกโจมตี (สัตว์)</ManhunterAmbush.letterLabel>
-
-	<!--================================ Good ================================-->
-
-	<CaravanMeeting.label>เจอคาราวาน</CaravanMeeting.label>
-
-	<!--==================================== Bad ==================================-->
-
-	<CaravanDemand.label>คาราวานต้องการ</CaravanDemand.label>
-	<CaravanDemand.letterText>คาราวานของคุณจาก {0} จาก {1} ล่อเข้าไปซุ่ม!</CaravanDemand.letterText>
-	<CaravanDemand.letterLabel>คาราวานในการซุ่มโจมตี</CaravanDemand.letterLabel>
-
+  
+  <!-- EN: ambush -->
+  <Ambush.label>โดนดักโจมตี</Ambush.label>
+  <!-- EN: Caravan ambushed -->
+  <Ambush.letterLabel>คาราวานถูกซุ่มโจมตี</Ambush.letterLabel>
+  <!-- EN: {0} has been ambushed by {1} from {2}! -->
+  <Ambush.letterText>คาราวานของคุณจาก {0} จาก {1} บุก!</Ambush.letterText>
+  
+  <!-- EN: payment demand -->
+  <CaravanDemand.label>คาราวานต้องการ</CaravanDemand.label>
+  <CaravanDemand.letterLabel>คาราวานในการซุ่มโจมตี</CaravanDemand.letterLabel>
+  <CaravanDemand.letterText>คาราวานของคุณจาก {0} จาก {1} ล่อเข้าไปซุ่ม!</CaravanDemand.letterText>
+  
+  <!-- EN: caravan meeting -->
+  <CaravanMeeting.label>เจอคาราวาน</CaravanMeeting.label>
+  
+  <!-- EN: manhunter ambush -->
+  <ManhunterAmbush.label>สัตว์ดักโจมตี</ManhunterAmbush.label>
+  <!-- EN: Caravan ambushed (manhunters) -->
+  <ManhunterAmbush.letterLabel>คาราวานถูกโจมตี (สัตว์)</ManhunterAmbush.letterLabel>
+  <!-- EN: {0} has been ambushed by manhunting {1}! -->
+  <ManhunterAmbush.letterText>คาราวานของคุณถูกสัตว์ล่า {0} บุก!</ManhunterAmbush.letterText>
+  
 </LanguageData>

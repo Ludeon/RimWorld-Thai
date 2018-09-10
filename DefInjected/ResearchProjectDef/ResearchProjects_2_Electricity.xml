@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: air conditioning -->
+  <AirConditioning.label>เครื่องปรับอากาศ</AirConditioning.label>
+  <!-- EN: Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
+  <AirConditioning.description>ปลดล็อคเครื่องปรับอากาศที่มีที่ร้อนและความเย็นสามารถควบคุมได้</AirConditioning.description>
+  
+  <!-- EN: autodoor -->
+  <Autodoors.label>ประตูเลื่อนอัตโนมัติ</Autodoors.label>
+  <!-- EN: Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
+  <Autodoors.description>เปิดประตูอัตโนมัติเปิดให้อนุญาตให้มีทางเดินโดยไม่ต้องชะลอตัวลง</Autodoors.description>
+  
+  <!-- EN: battery -->
+  <Batteries.label>แบตเตอร์รี</Batteries.label>
+  <!-- EN: Build batteries for storing electricity. -->
+  <Batteries.description>แบตเตอรี่สำหรับการจัดเก็บพลังงานไฟฟ้า</Batteries.description>
+  
+  <!-- EN: biofuel refining -->
+  <BiofuelRefining.label>โรงกลั่นน้ํามันเชื้อเพลิง</BiofuelRefining.label>
+  <!-- EN: Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
+  <BiofuelRefining.description>สร้างโรงกลั่นน้ำมันเชื้อเพลิงที่จะทำให้ chemfuel จากไม้</BiofuelRefining.description>
+  
+  <!-- EN: blowback operation -->
+  <BlowbackOperation.label>ปืนระบบ Blowback</BlowbackOperation.label>
+  <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
+  <BlowbackOperation.description>ผลิตอาวุธอัตโนมัติกึ่งอัตโนมัติและอัตโนมัติอย่างง่ายเช่นปืนพกอัตโนมัติปืนกลเบาและหนัก ..</BlowbackOperation.description>
+  
+  <!-- EN: electricity -->
+  <Electricity.label>ไฟฟ้า</Electricity.label>
+  <!-- EN: Harness the power of electricity for a hundred different tasks. -->
+  <Electricity.description>สร้างและใช้ไฟฟ้าสำหรับการปรุงอาหารและงานอื่น ๆ ที่เรียบง่าย</Electricity.description>
+  
+  <!-- EN: firefoam -->
+  <Firefoam.label>เครื่องดับไฟ</Firefoam.label>
+  <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
+  <Firefoam.description>ได้รับอนุญาตให้ก่อสร้างเครื่องดับไฟโฟมเคมี นี่คือการป้องกันอัคคีภัยของวัตถุที่มีการฉีดพ่นโฟมดับกลั้นเปลวไฟ</Firefoam.description>
+  
+  <!-- EN: flak armor -->
+  <FlakArmor.label>TODO</FlakArmor.label>
+  <!-- EN: Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
+  <FlakArmor.description>TODO</FlakArmor.description>
+  
+  <!-- EN: gas operation -->
+  <GasOperation.label>ปืนระบบ แก๊ส</GasOperation.label>
+  <!-- EN: Craft high-power guns like chain shotguns, LMGs, and heavy SMGs. -->
+  <GasOperation.description>ผลิตอาวุธกึ่งอัตโนมัติและอัตโนมัติขั้นสูงเพิ่มเติมเช่นปืนลูกซองอัตโนมัติและปืนกลเบา</GasOperation.description>
+  
+  <!-- EN: geothermal power -->
+  <GeothermalPower.label>พลังงานไอน้ำ</GeothermalPower.label>
+  <!-- EN: Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
+  <GeothermalPower.description>ปลดเทคโนโลยีพลังงานไอน้ำ รับอนุญาตให้ก่อสร้างโรงไฟฟ้าพลังงานความร้อนใต้พิภพพุอบไอน้ำเพื่อผลิตกระแสไฟฟ้าอย่างต่อเนื่อง</GeothermalPower.description>
+  
+  <!-- EN: gunsmithing -->
+  <Gunsmithing.label>การสร้างอาวุธ</Gunsmithing.label>
+  <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
+  <Gunsmithing.description>ผลิตอาวุธที่ใช้งานง่ายและใช้งานได้ง่ายเช่นปืนพกปืนลูกซองปืนไรเฟิลและไฟโปรเจ็กเตอร์</Gunsmithing.description>
+  
+  <!-- EN: gun turrets -->
+  <GunTurrets.label>ป้อมปืน</GunTurrets.label>
+  <!-- EN: Produce simple automated gun turrets. -->
+  <GunTurrets.description>ช่วยให้การผลิตของป้อมปืนอัตโนมัติ</GunTurrets.description>
+  
+  <!-- EN: hydroponics -->
+  <Hydroponics.label>การปลูกผักในที่ร่ม</Hydroponics.label>
+  <!-- EN: Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside. -->
+  <Hydroponics.description>ปลดล็อคถังไฮโดรโปนิ นี้จะช่วยให้การเพาะปลูกของพืชภายในอาคารโดยไม่คำนึงถึงอิทธิพลภายนอก</Hydroponics.description>
+  
+  <!-- EN: IEDs -->
+  <IEDs.label>กับระเบิด ทำด้วยมือ</IEDs.label>
+  <!-- EN: Build improvised traps from any kind of mortar shell. -->
+  <IEDs.description>กับดักระเบิด จาก กระสุนปืนใหญ่</IEDs.description>
+  
+  <!-- EN: machining -->
+  <Machining.label>เครื่องจักต</Machining.label>
+  <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to disassemble dead mechanoids for resources. -->
+  <Machining.description>เครื่องจักต สำหรับคราฟปืน หรือ แยกชิ้นส่วนหุ่นยน</Machining.description>
+  
+  <!-- EN: mortars -->
+  <Mortars.label>ปืนครก</Mortars.label>
+  <!-- EN: Build mortars which can lob shells long distances - even over walls. -->
+  <Mortars.description>ปืนครก นี้จะช่วยให้ยิงไปยังวัตถุที่ห่างไกล</Mortars.description>
+  
+  <!-- EN: nutrient paste -->
+  <NutrientPaste.label>เครื่องผลิตเจลสารอาหาร</NutrientPaste.label>
+  <!-- EN: Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
+  <NutrientPaste.description>ปลดล็อคตู้วางโภชนาการซึ่งจะทำให้มันผลิตเจลสารอาหาร</NutrientPaste.description>
+  
+  <!-- EN: packaged survival meal -->
+  <PackagedSurvivalMeal.label>อาหารเอาตัวรอด</PackagedSurvivalMeal.label>
+  <!-- EN: Produce packaged survival meals which never go bad. Great for traveling. -->
+  <PackagedSurvivalMeal.description>ช่วยให้การผลิตอาหารเอาตัวรอด มันเป็นอาหารที่ยากที่จะไม่เลวร้าย เหมาะมากสำหรับการเดินทาง</PackagedSurvivalMeal.description>
+  
+  <!-- EN: prosthetics -->
+  <Prosthetics.label>TODO</Prosthetics.label>
+  <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
+  <Prosthetics.description>TODO</Prosthetics.description>
+  
+  <!-- EN: smokepop belts -->
+  <SmokepopBelt.label>เข็มขัด Smokepop</SmokepopBelt.label>
+  <!-- EN: Build smokepop belts which generate an automatic defensive smokescreen when the user is shot. -->
+  <SmokepopBelt.description>ปลดล็อคการผลิตเข็มขัด Smokepop ที่จะซ่อนผู้ใช้ในผนังของควัน</SmokepopBelt.description>
+  
+  <!-- EN: solar panel -->
+  <SolarPanels.label>แสงโสล้าเซล</SolarPanels.label>
+  <!-- EN: Build solar panels for electricity generation. -->
+  <SolarPanels.description>ปลดล็อคเซลล์แสงอาทิตย์ที่สามารถสร้างพลังงานไฟฟ้าจากแสงอาทิตย์</SolarPanels.description>
+  
+  <!-- EN: sterile materials -->
+  <SterileMaterials.label>TODO</SterileMaterials.label>
+  <!-- EN: Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking. -->
+  <SterileMaterials.description>TODO</SterileMaterials.description>
+  
+  <!-- EN: tube television -->
+  <TubeTelevision.label>โทรทัศน์</TubeTelevision.label>
+  <!-- EN: Produce tube televisions for recreational watching. -->
+  <TubeTelevision.description>ปลดล็อคโทรทัศน์</TubeTelevision.description>
+  
+  <!-- EN: watermill generator -->
+  <WatermillGenerator.label>TODO</WatermillGenerator.label>
+  <!-- EN: Build watermill generators on rivers to generate a steady supply of power. -->
+  <WatermillGenerator.description>TODO</WatermillGenerator.description>
+  
+</LanguageData>

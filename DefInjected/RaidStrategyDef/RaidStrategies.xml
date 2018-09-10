@@ -1,27 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <ImmediateAttack.letterLabelEnemy>ศัตรูจู่โจม</ImmediateAttack.letterLabelEnemy>
-  <ImmediateAttack.arrivalTextEnemy>พวกเขาโจมตีทันที</ImmediateAttack.arrivalTextEnemy>
-  <ImmediateAttack.letterLabelFriendly>พันธมิตร</ImmediateAttack.letterLabelFriendly>
-  <ImmediateAttack.arrivalTextFriendly>ทันทีที่พวกเขารีบเร่งที่จะช่วยคุณ</ImmediateAttack.arrivalTextFriendly>
-
-  <ImmediateAttackSmart.letterLabelEnemy>ศัตรูจู่โจมฉลาด</ImmediateAttackSmart.letterLabelEnemy>
-  <ImmediateAttackSmart.arrivalTextEnemy>พวกเขาโจมตีทันที\n\nแต่ระวัง - ดำเนินการต่อคุณดูเหมือนสมาร์ทผิดปกติ</ImmediateAttackSmart.arrivalTextEnemy>
-  <ImmediateAttackSmart.letterLabelFriendly>พันธมิตร</ImmediateAttackSmart.letterLabelFriendly>
-  <ImmediateAttackSmart.arrivalTextFriendly>ทันทีที่พวกเขารีบเร่งที่จะช่วยคุณ</ImmediateAttackSmart.arrivalTextFriendly>
-
-  <StageThenAttack.letterLabelEnemy>ศัตรูจู่โจมตั่งท่า</StageThenAttack.letterLabelEnemy>
-  <StageThenAttack.arrivalTextEnemy>คุณจะยังคงเตรียมความพร้อมก่อนการโจมตี\n\nเตรียมการป้องกันหรือปกป้องมันด้วยการตียึดเอาเสียก่อน</StageThenAttack.arrivalTextEnemy>
-  <StageThenAttack.letterLabelFriendly>พันธมิตร</StageThenAttack.letterLabelFriendly>
-  <StageThenAttack.arrivalTextFriendly>คุณจำเป็นต้องเตรียมความพร้อมตัวเองในขณะที่ก่อนที่พวกเขาสามารถช่วยให้คุณ</StageThenAttack.arrivalTextFriendly>
-
-  <ImmediateAttackSappers.letterLabelEnemy>ศัตรูจู่โจมเจาะกำแพง</ImmediateAttackSappers.letterLabelEnemy>
-  <ImmediateAttackSappers.arrivalTextEnemy>มันดูเหมือนว่าพวกเขาต้องการที่จะขุดอุโมงค์เพื่อหลีกเลี่ยงการป้องกันของคุณ</ImmediateAttackSappers.arrivalTextEnemy>
   
-  <Siege.letterLabelEnemy>โดนล้อม</Siege.letterLabelEnemy>
+  <!-- EN: They are attacking immediately. -->
+  <ImmediateAttack.arrivalTextEnemy>พวกเขาโจมตีทันที</ImmediateAttack.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttack.arrivalTextFriendly>ทันทีที่พวกเขารีบเร่งที่จะช่วยคุณ</ImmediateAttack.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttack.letterLabelEnemy>ศัตรูจู่โจม</ImmediateAttack.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttack.letterLabelFriendly>พันธมิตร</ImmediateAttack.letterLabelFriendly>
+  
+  <!-- EN: It looks like they want to use sappers to tunnel around your defenses. -->
+  <ImmediateAttackSappers.arrivalTextEnemy>มันดูเหมือนว่าพวกเขาต้องการที่จะขุดอุโมงค์เพื่อหลีกเลี่ยงการป้องกันของคุณ</ImmediateAttackSappers.arrivalTextEnemy>
+  <!-- EN: Raid -->
+  <ImmediateAttackSappers.letterLabelEnemy>ศัตรูจู่โจมเจาะกำแพง</ImmediateAttackSappers.letterLabelEnemy>
+  
+  <!-- EN: They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
+  <ImmediateAttackSmart.arrivalTextEnemy>พวกเขาโจมตีทันที\n\nแต่ระวัง - ดำเนินการต่อคุณดูเหมือนสมาร์ทผิดปกติ</ImmediateAttackSmart.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackSmart.arrivalTextFriendly>ทันทีที่พวกเขารีบเร่งที่จะช่วยคุณ</ImmediateAttackSmart.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackSmart.letterLabelEnemy>ศัตรูจู่โจมฉลาด</ImmediateAttackSmart.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackSmart.letterLabelFriendly>พันธมิตร</ImmediateAttackSmart.letterLabelFriendly>
+  
+  <!-- EN: It looks like they want to besiege the colony and pound you with mortars from a distance. You can try to wait them out - or go get them. -->
   <Siege.arrivalTextEnemy>มันดูราวกับว่าพวกเขาต้องการที่จะวางล้อมอาณานิคม พวกเขาจะใช้ครกถล่มอาณานิคมของคุณจากระยะไกล ไม่ว่าคุณจะรอจนกว่ามันมากกว่าหรือคุณโจมตีพวกเขา</Siege.arrivalTextEnemy>
-  <Siege.letterLabelFriendly>พันธมิตร</Siege.letterLabelFriendly>
+  <!-- EN: It looks like they want to use siege tactics to help you. -->
   <Siege.arrivalTextFriendly>มันดูราวกับว่าพวกเขาต้องการที่จะช่วยให้คุณมีเครื่องมือล้อม</Siege.arrivalTextFriendly>
-
+  <!-- EN: Siege -->
+  <Siege.letterLabelEnemy>โดนล้อม</Siege.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <Siege.letterLabelFriendly>พันธมิตร</Siege.letterLabelFriendly>
+  
+  <!-- EN: They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively. -->
+  <StageThenAttack.arrivalTextEnemy>คุณจะยังคงเตรียมความพร้อมก่อนการโจมตี\n\nเตรียมการป้องกันหรือปกป้องมันด้วยการตียึดเอาเสียก่อน</StageThenAttack.arrivalTextEnemy>
+  <!-- EN: They will prepare for a while before moving in to help you. -->
+  <StageThenAttack.arrivalTextFriendly>คุณจำเป็นต้องเตรียมความพร้อมตัวเองในขณะที่ก่อนที่พวกเขาสามารถช่วยให้คุณ</StageThenAttack.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <StageThenAttack.letterLabelEnemy>ศัตรูจู่โจมตั่งท่า</StageThenAttack.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <StageThenAttack.letterLabelFriendly>พันธมิตร</StageThenAttack.letterLabelFriendly>
+  
 </LanguageData>

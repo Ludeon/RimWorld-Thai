@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bearskin -->
+  <Leather_Bear.label>แผ่นหนังหมีกริซลี</Leather_Bear.label>
+  <!-- EN: The strong furry leather of a bear. Compared to most leather, it is quite a bit tougher and a bit better at all kinds of temperature regulation. -->
+  <Leather_Bear.description>Das Fell eines Grizzly Bären.</Leather_Bear.description>
+  <Leather_Bear.stuffProps.stuffAdjective>แผ่นหนังหมีกริซลี</Leather_Bear.stuffProps.stuffAdjective>
+  
+  <!-- EN: birdskin -->
+  <Leather_Bird.label>แผ่นหนังนกนกแคสโซแวรี</Leather_Bird.label>
+  <!-- EN: Tanned, dried, scraped bird skin. It is quite delicate. Without its feathers, it provides little protection from heat or cold. -->
+  <Leather_Bird.description>Das Leder eines Kasuars.</Leather_Bird.description>
+  <Leather_Bird.stuffProps.stuffAdjective>แผ่นหนังนกนกแคสโซแวรี</Leather_Bird.stuffProps.stuffAdjective>
+  
+  <!-- EN: bluefur -->
+  <Leather_Bluefur.label>แผ่นหนัง Muffalo</Leather_Bluefur.label>
+  <!-- EN: The furry pelt of muffalo. Recognizable by its distinctive blue tint. Good at temperature regulation in cold climates. -->
+  <Leather_Bluefur.description>Das Leder eines Muffalo.</Leather_Bluefur.description>
+  <Leather_Bluefur.stuffProps.stuffAdjective>หนัง Muffalo</Leather_Bluefur.stuffProps.stuffAdjective>
+  
+  <!-- EN: camelhide -->
+  <Leather_Camel.label>แผ่นหนังอูฐ</Leather_Camel.label>
+  <!-- EN: Tanned, dried, scraped camel skin. Good at temperature regulation in hot climates. -->
+  <Leather_Camel.description>Das Leder eines Dromedars.</Leather_Camel.description>
+  <Leather_Camel.stuffProps.stuffAdjective>แผ่นหนังอูฐ</Leather_Camel.stuffProps.stuffAdjective>
+  
+  <!-- EN: chinchilla fur -->
+  <Leather_Chinchilla.label>แผ่นหนังชินชิลล่า</Leather_Chinchilla.label>
+  <!-- EN: Tanned, dried, scraped chinchilla skin. Known as an extremely luxurious and insulating fur, it is exceptionally valuable. -->
+  <Leather_Chinchilla.description>Das Fell eines Chinchillas.</Leather_Chinchilla.description>
+  <Leather_Chinchilla.stuffProps.stuffAdjective>แผ่นหนังชินชิลล่า</Leather_Chinchilla.stuffProps.stuffAdjective>
+  
+  <!-- EN: dog leather -->
+  <Leather_Dog.label>แผ่นหนังหมายอร์กเชอร์เทร์เรียร์</Leather_Dog.label>
+  <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
+  <Leather_Dog.description>Das Leder eines Yorkshire-Terriers.</Leather_Dog.description>
+  <Leather_Dog.stuffProps.stuffAdjective>แผ่นหนังหมายอร์กเชอร์เทร์เรียร์</Leather_Dog.stuffProps.stuffAdjective>
+  
+  <!-- EN: elephant leather -->
+  <Leather_Elephant.label>แผ่นหนังช้าง</Leather_Elephant.label>
+  <!-- EN: Tanned, dried, scraped elephant skin. While quite tough, it is a poor insulator. -->
+  <Leather_Elephant.description>Das Haut eines Elefanten.</Leather_Elephant.description>
+  <Leather_Elephant.stuffProps.stuffAdjective>แผ่นหนังช้าง</Leather_Elephant.stuffProps.stuffAdjective>
+  
+  <!-- EN: foxfur -->
+  <Leather_Fox.label>แผ่นหนังหมาจิ้งจอก</Leather_Fox.label>
+  <!-- EN: The pelt of a fox. It protects well from the cold and is quite luxurious, fetching a high price. -->
+  <Leather_Fox.description>Das Fell eines Wüstenfuchses.</Leather_Fox.description>
+  <Leather_Fox.stuffProps.stuffAdjective>แผ่นหนังหมาจิ้งจอก</Leather_Fox.stuffProps.stuffAdjective>
+  
+  <!-- EN: heavy fur -->
+  <Leather_Heavy.label>TODO</Leather_Heavy.label>
+  <!-- EN: Thick leather covered in a long, rugged mat of fur. Harvested from a large, hardy animal. This thick skin insulates and protects very well. -->
+  <Leather_Heavy.description>TODO</Leather_Heavy.description>
+  
+  <!-- EN: human leather -->
+  <Leather_Human.label>แผ่นหนังมนุษย์</Leather_Human.label>
+  <!-- EN: Tanned, dried, scraped human skin. Most people find this material horrifying. Some find it fascinating. While a decent leather, it neither protects nor insulates particularly well. -->
+  <Leather_Human.description>Etwas Leder aus Menschenhaut gemacht.</Leather_Human.description>
+  <Leather_Human.stuffProps.stuffAdjective>แผ่นหนังมนุษย์</Leather_Human.stuffProps.stuffAdjective>
+  
+  <!-- EN: lightleather -->
+  <Leather_Light.label>แผ่นหนังกระต่าย</Leather_Light.label>
+  <!-- EN: Lightweight, thin leather. Probably harvested from a small animal. Not as protective as thicker leathers. -->
+  <Leather_Light.description>Das Fell eines Hasen.</Leather_Light.description>
+  <Leather_Light.stuffProps.stuffAdjective>แผ่นหนังกระต่าย</Leather_Light.stuffProps.stuffAdjective>
+  
+  <!-- EN: lizardskin -->
+  <Leather_Lizard.label>แผ่นหนัง อีกัวน่า</Leather_Lizard.label>
+  <!-- EN: The tanned skin of a cold-blooded reptile. Lizardskin is reasonably tough, but does not insulate well at all. -->
+  <Leather_Lizard.description>Die Haut eines Leguans.</Leather_Lizard.description>
+  <Leather_Lizard.stuffProps.stuffAdjective>แผ่นหนัง อีกัวน่า</Leather_Lizard.stuffProps.stuffAdjective>
+  
+  <!-- EN: panthera fur -->
+  <Leather_Panthera.label>แผ่นหนังเสือภูเขา</Leather_Panthera.label>
+  <!-- EN: A soft furry pelt harvested from a big cat. It is difficult to pierce and insulates well against heat. -->
+  <Leather_Panthera.description>Das Fell eines Pumas.</Leather_Panthera.description>
+  <Leather_Panthera.stuffProps.stuffAdjective>แผ่นหนังเสือภูเขา</Leather_Panthera.stuffProps.stuffAdjective>
+  
+  <!-- EN: patchleather -->
+  <Leather_Patch.label>TODO</Leather_Patch.label>
+  <!-- EN: A weak textile created by cutting up and sewing together various types of leathers. Regardless of what kind of leather is used to create it, patchleather's irregular seams make it less tough and less insulating than any intact leather. -->
+  <Leather_Patch.description>TODO</Leather_Patch.description>
+  
+  <!-- EN: pigskin -->
+  <Leather_Pig.label>แผ่นหนังหมู</Leather_Pig.label>
+  <!-- EN: Tanned, dried, scraped pig skin. While a decent leather, it neither protects nor insulates particularly well. -->
+  <Leather_Pig.description>Die Haut eines Schweins.</Leather_Pig.description>
+  <Leather_Pig.stuffProps.stuffAdjective>แผ่นหนังหมู</Leather_Pig.stuffProps.stuffAdjective>
+  
+  <!-- EN: plainleather -->
+  <Leather_Plain.label>แผ่นหนังกาเซลล์</Leather_Plain.label>
+  <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
+  <Leather_Plain.description>Das Leder einer Gazelle.</Leather_Plain.description>
+  <Leather_Plain.stuffProps.stuffAdjective>แผ่นหนังกาเซลล์</Leather_Plain.stuffProps.stuffAdjective>
+  
+  <!-- EN: rhinoceros leather -->
+  <Leather_Rhinoceros.label>แผ่นหนังแรด</Leather_Rhinoceros.label>
+  <!-- EN: Tanned, dried, scraped rhinocerous skin. It is exceptionally durable in combat, but provides little protection from weather. -->
+  <Leather_Rhinoceros.description>Die Haut eines Nashorns.</Leather_Rhinoceros.description>
+  <Leather_Rhinoceros.stuffProps.stuffAdjective>แผ่นหนังแรด</Leather_Rhinoceros.stuffProps.stuffAdjective>
+  
+  <!-- EN: thrumbofur -->
+  <Leather_Thrumbo.label>แผ่นหนังธรัมโบ</Leather_Thrumbo.label>
+  <!-- EN: Furry pelt of a thrumbo. Luxurious and extraordinarily durable. Used for the highest-quality crafts for its insulation and strength. -->
+  <Leather_Thrumbo.description>Das Fell eines Thrumbos.</Leather_Thrumbo.description>
+  <Leather_Thrumbo.stuffProps.stuffAdjective>แผ่นหนังธรัมโบ</Leather_Thrumbo.stuffProps.stuffAdjective>
+  
+  <!-- EN: wolfskin -->
+  <Leather_Wolf.label>แผ่นหนังหมาวาร์ก</Leather_Wolf.label>
+  <!-- EN: A soft furry pelt harvested from a wolf-like creature. It is difficult to pierce and insulates well against cold. -->
+  <Leather_Wolf.description>Das Fell eines Warges.</Leather_Wolf.description>
+  <Leather_Wolf.stuffProps.stuffAdjective>แผ่นหนังหมาวาร์ก</Leather_Wolf.stuffProps.stuffAdjective>
+  
+</LanguageData>

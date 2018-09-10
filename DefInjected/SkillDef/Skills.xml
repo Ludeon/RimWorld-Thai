@@ -1,52 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-	
-  <Shooting.label>การยิง</Shooting.label>
-  <Shooting.skillLabel>การยิง</Shooting.skillLabel>
-  <Shooting.description>การใช้งานของทุกอาวุธรชนิดที่มีการโจมตีไกล</Shooting.description>
-
-  <Melee.label>การต่อสู้ประชิด</Melee.label>
-  <Melee.skillLabel>การต่อสู้ประชิด</Melee.skillLabel>
-  <Melee.description>การใช้งานของทุกประเภทของอาวุธระยะประชิดเช่นเดียวกับอาวุธสงคราม</Melee.description>
-
-  <Social.label>สังคม</Social.label>
-  <Social.skillLabel>สังคม</Social.skillLabel>
-  <Social.description>ต่อรอง, โน้มน้าวใจ, การจัดการ, ผู้นำ และส่งเสริมให้ผู้อื่น</Social.description>
-
+  
+  <!-- EN: animals -->
   <Animals.label>สัตว์</Animals.label>
-  <Animals.skillLabel>สัตว์</Animals.skillLabel>
+  <!-- EN: Taming, training, and controlling animals. -->
   <Animals.description>การฝึกอบรม,การจัดการ และ การควบคุมสัตว์</Animals.description>
-
-  <Medicine.label>รักษา</Medicine.label>
-  <Medicine.skillLabel>รักษา</Medicine.skillLabel>
-  <Medicine.description>การรักษาบาดแผลและการติดเชื้อ, และมีประสิทธิภาพมากขึ้นของการดำเนินงาน</Medicine.description>
-
-  <Cooking.label>ทำอาหาร</Cooking.label>
-  <Cooking.skillLabel>ทำอาหาร</Cooking.skillLabel>
-  <Cooking.description>สร้างอาหารจากวัตถุดิบ</Cooking.description>
-
-  <Construction.label>ก่อสร้าง</Construction.label>
-  <Construction.skillLabel>ก่อสร้าง</Construction.skillLabel>
-  <Construction.description>วิศวกรด้านการออกแบบที่ดีขึ้นสร้างโครงสร้างและเฟอร์นิเจอร์ที่เร็วขึ้นและมีคุณภาพดีกว่า</Construction.description>
-
-  <Growing.label>เพาะปลูก</Growing.label>
-  <Growing.skillLabel>เพาะปลูก</Growing.skillLabel>
-  <Growing.description>หว่านเมล็ด, เพาะปลูก และการเก็บเกี่ยวของพืช</Growing.description>
-
-  <Mining.label>ขุดเหมือง</Mining.label>
-  <Mining.skillLabel>ขุดเหมือง</Mining.skillLabel>
-  <Mining.description>ขุดเหมืองและแร่ธาตุที่ฝังอยู่</Mining.description>
-
+  <!-- EN: animals -->
+  <Animals.skillLabel>สัตว์</Animals.skillLabel>
+  
+  <!-- EN: artistic -->
   <Artistic.label>ศิลปะ</Artistic.label>
-  <Artistic.skillLabel>ศิลปะ</Artistic.skillLabel>
+  <!-- EN: Crafting art. -->
   <Artistic.description>สร้างงานศิลปะ</Artistic.description>
-
+  <!-- EN: artistic -->
+  <Artistic.skillLabel>ศิลปะ</Artistic.skillLabel>
+  
+  <!-- EN: construction -->
+  <Construction.label>ก่อสร้าง</Construction.label>
+  <!-- EN: Constructing and deconstructing structures and furniture. -->
+  <Construction.description>วิศวกรด้านการออกแบบที่ดีขึ้นสร้างโครงสร้างและเฟอร์นิเจอร์ที่เร็วขึ้นและมีคุณภาพดีกว่า</Construction.description>
+  <!-- EN: construction -->
+  <Construction.skillLabel>ก่อสร้าง</Construction.skillLabel>
+  
+  <!-- EN: cooking -->
+  <Cooking.label>ทำอาหาร</Cooking.label>
+  <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
+  <Cooking.description>สร้างอาหารจากวัตถุดิบ</Cooking.description>
+  <!-- EN: cooking -->
+  <Cooking.skillLabel>ทำอาหาร</Cooking.skillLabel>
+  
+  <!-- EN: crafting -->
   <Crafting.label>งานฝีมือ</Crafting.label>
-  <Crafting.skillLabel>งานฝีมือ</Crafting.skillLabel>
+  <!-- EN: Crafting general items including weapons, components, and refined resources. -->
   <Crafting.description>สร้างวัตถุ เช่น ใช้เครื่องมือและเครื่องมือสร้างอาวุธ</Crafting.description>
-
+  <!-- EN: crafting -->
+  <Crafting.skillLabel>งานฝีมือ</Crafting.skillLabel>
+  
+  <!-- EN: intellectual -->
   <Intellectual.label>งานวิจัย</Intellectual.label>
-  <Intellectual.skillLabel>งานวิจัย</Intellectual.skillLabel>
+  <!-- EN: Researching and drug synthesis. -->
   <Intellectual.description>ตรวจสอบหลักฐานดำเนินการทดลองและเรียนรู้</Intellectual.description>
-
+  <!-- EN: intellectual -->
+  <Intellectual.skillLabel>งานวิจัย</Intellectual.skillLabel>
+  
+  <!-- EN: medical -->
+  <Medicine.label>รักษา</Medicine.label>
+  <!-- EN: Tending wounds and diseases and performing surgery. -->
+  <Medicine.description>การรักษาบาดแผลและการติดเชื้อ, และมีประสิทธิภาพมากขึ้นของการดำเนินงาน</Medicine.description>
+  <!-- EN: medical -->
+  <Medicine.skillLabel>รักษา</Medicine.skillLabel>
+  
+  <!-- EN: melee -->
+  <Melee.label>การต่อสู้ประชิด</Melee.label>
+  <!-- EN: Melee combat, both armed and unarmed. -->
+  <Melee.description>การใช้งานของทุกประเภทของอาวุธระยะประชิดเช่นเดียวกับอาวุธสงคราม</Melee.description>
+  <!-- EN: melee -->
+  <Melee.skillLabel>การต่อสู้ประชิด</Melee.skillLabel>
+  
+  <!-- EN: mining -->
+  <Mining.label>ขุดเหมือง</Mining.label>
+  <!-- EN: Digging tunnels and extracting buried resources. -->
+  <Mining.description>ขุดเหมืองและแร่ธาตุที่ฝังอยู่</Mining.description>
+  <!-- EN: mining -->
+  <Mining.skillLabel>ขุดเหมือง</Mining.skillLabel>
+  
+  <!-- EN: plants -->
+  <Plants.label>เพาะปลูก</Plants.label>
+  <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
+  <Plants.description>หว่านเมล็ด, เพาะปลูก และการเก็บเกี่ยวของพืช</Plants.description>
+  <!-- EN: plants -->
+  <Plants.skillLabel>เพาะปลูก</Plants.skillLabel>
+  
+  <!-- EN: shooting -->
+  <Shooting.label>การยิง</Shooting.label>
+  <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
+  <Shooting.description>การใช้งานของทุกอาวุธรชนิดที่มีการโจมตีไกล</Shooting.description>
+  <!-- EN: shooting -->
+  <Shooting.skillLabel>การยิง</Shooting.skillLabel>
+  
+  <!-- EN: social -->
+  <Social.label>สังคม</Social.label>
+  <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
+  <Social.description>ต่อรอง, โน้มน้าวใจ, การจัดการ, ผู้นำ และส่งเสริมให้ผู้อื่น</Social.description>
+  <!-- EN: social -->
+  <Social.skillLabel>สังคม</Social.skillLabel>
+  
 </LanguageData>

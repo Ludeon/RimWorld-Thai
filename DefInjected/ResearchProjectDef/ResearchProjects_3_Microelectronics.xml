@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: colored lights -->
+  <ColoredLights.label>ไฟแสงหลายสี</ColoredLights.label>
+  <!-- EN: Construct colored lights for decorative purposes. Cosmetic only. -->
+  <ColoredLights.description>เปลี่ยนสีโคมไฟสำหรับการตกแต่ง</ColoredLights.description>
+  
+  <!-- EN: flatscreen television -->
+  <FlatscreenTelevision.label>TODO</FlatscreenTelevision.label>
+  <!-- EN: Produce high-resolution flatscreen televisions for greater enjoyment. -->
+  <FlatscreenTelevision.description>TODO</FlatscreenTelevision.description>
+  
+  <!-- EN: autocannon turret -->
+  <HeavyTurrets.label>TODO</HeavyTurrets.label>
+  <!-- EN: Produce the heavy, long-ranged autocannon turret. -->
+  <HeavyTurrets.description>TODO</HeavyTurrets.description>
+  
+  <!-- EN: hospital bed -->
+  <HospitalBed.label>เตียงพยาบาล</HospitalBed.label>
+  <!-- EN: Construct hospital beds which improve medical outcomes. -->
+  <HospitalBed.description>ปลดล็อคเตียงของโรงพยาบาลพิเศษ เหล่านี้จะเพิ่มโอกาสในการรักษาที่ประสบความสำเร็จและวิธีการทางการแพทย์และการผ่าตัด</HospitalBed.description>
+  
+  <!-- EN: long-range mineral scanner -->
+  <LongRangeMineralScanner.label>เครื่องสเกนเนอร์ระยะไกล</LongRangeMineralScanner.label>
+  <!-- EN: Construct long-range mineral scanners your researchers can use to detect precious minerals across the planet. Can be tuned to find a specific mineral. Requires advanced components to construct. -->
+  <LongRangeMineralScanner.description>เครื่องสเกนเนอร์หาแร่ธาตุจากระยะไกลโดยอัตโนมัติสำหรับแร่ธาตุที่มีคุณค่าเหมือนเช่น ทองและหยกในพื้นที่ใกล้เคียง ( แต่ไม่ได้อยู่ในพื้นที่ที่สแกนเนอร์ได้รับการติดตั้ง) การศึกษา\n\nแร่ธาตุที่มีค่าเฉลี่ยของทุกๆ 30 บล็อกเปิดเผยในรัศมี 30 กระเบื้อง\n\nสแกนเนอร์ที่จะสร้างมากกว่าหนึ่งในพื้นที่เดียวกันมีน้อยจะไม่มีผลกระทบ</LongRangeMineralScanner.description>
+  
+  <!-- EN: medicine production -->
+  <MedicineProduction.label>การผลิตยารักษา</MedicineProduction.label>
+  <!-- EN: Produce standard industrial-tech medicine by combining herbal medicine, neutroamine, and cloth. -->
+  <MedicineProduction.description>มาทางการแพทย์จากเว็บไซต์ ยาสมุนไพร Neutramin และ ผ้า</MedicineProduction.description>
+  
+  <!-- EN: microelectronics -->
+  <MicroelectronicsBasics.label>อิเล็กโทนิคเบื้องต้น</MicroelectronicsBasics.label>
+  <!-- EN: Work with complex microelectronics. This unlocks the hi-tech research bench and comms console. -->
+  <MicroelectronicsBasics.description>พื้นฐานสำหรับการทำงานกับอุปกรณ์อิเล็กทรอนิกส์ที่ซับซ้อน นี้เผยห้องปฏิบัติการที่มีเทคโนโลยีสูงอุปกรณ์วิทยุและโครงการวิจัยอื่น ๆ เช่น CRT และ Kryoschlafkapseln</MicroelectronicsBasics.description>
+  
+  <!-- EN: moisture pump -->
+  <MoisturePump.label>ปั้มดูดความชื่น</MoisturePump.label>
+  <!-- EN: Construct moisture pumps, which very slowly normalize the moisture in the ground around them. They can turn wet ground dry and convert soft sand into normal sand. -->
+  <MoisturePump.description>ได้รับอนุญาตให้ก่อสร้างของปั้มดูดความชื่นชุดดินที่ชื้นแห้งช้า</MoisturePump.description>
+  
+  <!-- EN: multibarrel weapons -->
+  <MultibarrelWeapons.label>ปืนมินิกัน</MultibarrelWeapons.label>
+  <!-- EN: Assemble miniguns. -->
+  <MultibarrelWeapons.description>ช่วยให้การก่อสร้าง ปืนมินิกัน</MultibarrelWeapons.description>
+  
+  <!-- EN: precision rifling -->
+  <PrecisionRifling.label>อาวุธที่มีความแม่นยำ</PrecisionRifling.label>
+  <!-- EN: Craft precisely-machined guns like assault rifles and sniper rifles. -->
+  <PrecisionRifling.description>ผลิตปืนไรเฟิล</PrecisionRifling.description>
+  
+  <!-- EN: shield belt -->
+  <ShieldBelt.label>เข้มขัดโล่</ShieldBelt.label>
+  <!-- EN: Build shield belts, which use momentun-repulsion technology to block ranged attacks coming in or going out. -->
+  <ShieldBelt.description>เทคโนโลยีข้อมูล Impulsinvertierende ช่วยให้การผลิตของเข็มขัดพลังงานโล่ขีปนาวุธต่อต้านจากอาวุธอยู่ในช่วง ปัจจัยการผลิต แต่ยังออก ..</ShieldBelt.description>
+  
+  <!-- EN: transport pod -->
+  <TransportPod.label>กระสวยขนส่ง</TransportPod.label>
+  <!-- EN: Construct launchable transport pods that you can use to send people and supplies long distances across the planet's surface. Can be used for raiding, travel, sending gifts, and more. -->
+  <TransportPod.description>กระสวยขนส่งคุณสามารถขนส่งคนและวัสดุการพิมพ์ได้อย่างรวดเร็วในระยะทางไกล</TransportPod.description>
+  
+</LanguageData>

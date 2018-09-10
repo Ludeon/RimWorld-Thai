@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cougar -->
+  <Cougar.label>เสือภูเขา</Cougar.label>
+  <Cougar.lifeStages.0.label>ลูกเสือภูเขา</Cougar.lifeStages.0.label>
+  <Cougar.lifeStages.1.label>เสือภูเขาวัยรุ่น</Cougar.lifeStages.1.label>
+  <Cougar.lifeStages.2.label>เสือภูเขา</Cougar.lifeStages.2.label>
+  
+  <!-- EN: lynx -->
+  <Lynx.label>แมวป่า</Lynx.label>
+  <!-- EN: lynx -->
+  <Lynx.labelPlural>TODO</Lynx.labelPlural>
+  <!-- EN: lynx kitten -->
+  <Lynx.lifeStages.lynx_kitten.label>ลูกแมวป่า</Lynx.lifeStages.lynx_kitten.label>
+  <Lynx.lifeStages.1.label>แมวป่าวัยรุ่น</Lynx.lifeStages.1.label>
+  <Lynx.lifeStages.2.label>แมวป่า</Lynx.lifeStages.2.label>
+  
+  <!-- EN: panther -->
+  <Panther.label>เสือดำ</Panther.label>
+  <Panther.lifeStages.0.label>ลูกเสือดำ</Panther.lifeStages.0.label>
+  <Panther.lifeStages.1.label>เสือดำวัยรุ่น</Panther.lifeStages.1.label>
+  <Panther.lifeStages.2.label>เสือดำ</Panther.lifeStages.2.label>
+  
+</LanguageData>

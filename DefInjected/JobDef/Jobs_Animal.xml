@@ -1,10 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Nuzzle.reportString>อ้อน TargetA</Nuzzle.reportString>
-  <Mate.reportString>จับคู่ผสมพันธุ์</Mate.reportString>
+  
+  <!-- EN: laying egg. -->
   <LayEgg.reportString>วางไข่</LayEgg.reportString>
-  <PredatorHunt.reportString>ล่า TargetA</PredatorHunt.reportString>
+  
+  <!-- EN: maintaining TargetA. -->
   <Maintain.reportString>รักษา TargetA.</Maintain.reportString>
+  
+  <!-- EN: mating with TargetA. -->
+  <Mate.reportString>จับคู่ผสมพันธุ์</Mate.reportString>
+  
+  <!-- EN: nuzzling TargetA. -->
+  <Nuzzle.reportString>อ้อน TargetA</Nuzzle.reportString>
+  
+  <!-- EN: hunting TargetA. -->
+  <PredatorHunt.reportString>ล่า TargetA</PredatorHunt.reportString>
   
 </LanguageData>

@@ -1,69 +1,151 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Root.label>Root</Root.label>  
   
-    <!-- Foods -->
-	
-  <Foods.label>อาหาร</Foods.label>
-  <FoodMeals.label>มื้ออาหาร</FoodMeals.label>
-  <FoodRaw.label>อาหารดิบ</FoodRaw.label>
-  <MeatRaw.label>เนื้อดิบ</MeatRaw.label>
-  <PlantFoodRaw.label>พืชอาหารดิบ</PlantFoodRaw.label>
+  <!-- EN: animal products -->
   <AnimalProductRaw.label>สัตว์วัตถุดิบสินค้า</AnimalProductRaw.label>
-  <EggsUnfertilized.label>ไข่ (ยังไม่ผสม)</EggsUnfertilized.label>
-  <EggsFertilized.label>ไข่ (ผสมแล้ว)</EggsFertilized.label>
   
-   <!-- Manufactured -->
-  
-  <Manufactured.label>สิ่งประดิษฐ์</Manufactured.label>
-  <Textiles.label>สิ่งทอผ้า</Textiles.label>
-  <Leathers.label>แผ่นหนัง</Leathers.label>
-  <Medicine.label>ยารักษา</Medicine.label> 
-  <Drugs.label>ยาเสพติด</Drugs.label>
-  <MortarShells.label>กระสุนปืนใหญ่</MortarShells.label>
-  
-   <!-- Raw resources -->
-	
-  <ResourcesRaw.label>ทรัพยากรวัตถุดิบ</ResourcesRaw.label>
-  <PlantMatter.label>ซากของพืช</PlantMatter.label>
-  <StoneBlocks.label>บล็อกหิน</StoneBlocks.label>
-  
-   <!-- Items -->
-   
-  <Items.label>ไอเทม</Items.label>
-  <Art.label>ศิลปะ</Art.label>
-  <Furniture.label>เฟอร์นิเจอร์</Furniture.label>
-  <Unfinished.label>ยังไม่เสร็จ</Unfinished.label>
-  <Artifacts.label>สิ่งประดิษฐ์</Artifacts.label>
-  <BodyParts.label>ส่วนของร่างกาย</BodyParts.label>
-  <BodyPartsNatural.label>ส่วนของร่างกายตามธรรมชาติ</BodyPartsNatural.label>
-  <BodyPartsArtificial.label>ส่วนต่างๆของร่างกายเทียม</BodyPartsArtificial.label>
-
-  <!-- Weapons -->
-  
-  <Weapons.label>อาวุธ</Weapons.label>
-  <WeaponsMelee.label>อาวุธระยะประชิด</WeaponsMelee.label>
-  <WeaponsRanged.label>อาวุธระยะไกล</WeaponsRanged.label>
-  <Grenades.label>ระเบิดมือ</Grenades.label>
-  
-  <!-- Apparel -->
-  
+  <!-- EN: apparel -->
   <Apparel.label>เสื้อผ้า</Apparel.label>
-  <Headgear.label>หมวก</Headgear.label>
   
-  <!-- Chunks -->
+  <!-- UNUSED -->
+  <Art.label>ศิลปะ</Art.label>
   
+  <!-- EN: artifacts -->
+  <Artifacts.label>สิ่งประดิษฐ์</Artifacts.label>
+  
+  <!-- EN: body parts -->
+  <BodyParts.label>ส่วนของร่างกาย</BodyParts.label>
+  
+  <!-- EN: artificial -->
+  <BodyPartsArtificial.label>ส่วนต่างๆของร่างกายเทียม</BodyPartsArtificial.label>
+  
+  <!-- EN: natural -->
+  <BodyPartsNatural.label>ส่วนของร่างกายตามธรรมชาติ</BodyPartsNatural.label>
+  
+  <!-- EN: buildings -->
+  <Buildings.label>TODO</Buildings.label>
+  
+  <!-- EN: art -->
+  <BuildingsArt.label>TODO</BuildingsArt.label>
+  
+  <!-- EN: furniture -->
+  <BuildingsFurniture.label>TODO</BuildingsFurniture.label>
+  
+  <!-- EN: recreation -->
+  <BuildingsJoy.label>TODO</BuildingsJoy.label>
+  
+  <!-- EN: misc -->
+  <BuildingsMisc.label>TODO</BuildingsMisc.label>
+  
+  <!-- EN: power -->
+  <BuildingsPower.label>TODO</BuildingsPower.label>
+  
+  <!-- EN: production -->
+  <BuildingsProduction.label>TODO</BuildingsProduction.label>
+  
+  <!-- EN: security -->
+  <BuildingsSecurity.label>TODO</BuildingsSecurity.label>
+  
+  <!-- EN: special -->
+  <BuildingsSpecial.label>TODO</BuildingsSpecial.label>
+  
+  <!-- EN: temperature -->
+  <BuildingsTemperature.label>TODO</BuildingsTemperature.label>
+  
+  <!-- EN: chunks -->
   <Chunks.label>ก้อน</Chunks.label>
-  <StoneChunks.label>ก้อนหิน</StoneChunks.label>
   
-  <!-- Corpses -->
-  
+  <!-- EN: corpses -->
   <Corpses.label>ซากศพ</Corpses.label>
-  <CorpsesHumanlike.label>ศพมนุษย์</CorpsesHumanlike.label>
+  
+  <!-- EN: animal corpses -->
   <CorpsesAnimal.label>ซากสัตว์</CorpsesAnimal.label>
+  
+  <!-- EN: humanlike corpses -->
+  <CorpsesHumanlike.label>ศพมนุษย์</CorpsesHumanlike.label>
+  
+  <!-- EN: insect corpses -->
   <CorpsesInsect.label>ศพแมลง</CorpsesInsect.label>
+  
+  <!-- EN: mechanoid corpses -->
   <CorpsesMechanoid.label>ซากหุ่นยน</CorpsesMechanoid.label>
   
+  <!-- EN: drugs -->
+  <Drugs.label>ยาเสพติด</Drugs.label>
+  
+  <!-- EN: eggs (fert.) -->
+  <EggsFertilized.label>ไข่ (ผสมแล้ว)</EggsFertilized.label>
+  
+  <!-- EN: eggs (unfert.) -->
+  <EggsUnfertilized.label>ไข่ (ยังไม่ผสม)</EggsUnfertilized.label>
+  
+  <!-- EN: meals -->
+  <FoodMeals.label>มื้ออาหาร</FoodMeals.label>
+  
+  <!-- EN: raw food -->
+  <FoodRaw.label>อาหารดิบ</FoodRaw.label>
+  
+  <!-- EN: foods -->
+  <Foods.label>อาหาร</Foods.label>
+  
+  <!-- UNUSED -->
+  <Furniture.label>เฟอร์นิเจอร์</Furniture.label>
+  
+  <!-- EN: grenades -->
+  <Grenades.label>ระเบิดมือ</Grenades.label>
+  
+  <!-- EN: headgear -->
+  <Headgear.label>หมวก</Headgear.label>
+  
+  <!-- EN: items -->
+  <Items.label>ไอเทม</Items.label>
+  
+  <!-- EN: leathers -->
+  <Leathers.label>แผ่นหนัง</Leathers.label>
+  
+  <!-- EN: manufactured -->
+  <Manufactured.label>สิ่งประดิษฐ์</Manufactured.label>
+  
+  <!-- EN: meat -->
+  <MeatRaw.label>เนื้อดิบ</MeatRaw.label>
+  
+  <!-- EN: medicine -->
+  <Medicine.label>ยารักษา</Medicine.label>
+  
+  <!-- EN: mortar shells -->
+  <MortarShells.label>กระสุนปืนใหญ่</MortarShells.label>
+  
+  <!-- EN: vegetarian -->
+  <PlantFoodRaw.label>พืชอาหารดิบ</PlantFoodRaw.label>
+  
+  <!-- EN: plant matter -->
+  <PlantMatter.label>ซากของพืช</PlantMatter.label>
+  
+  <!-- EN: raw resources -->
+  <ResourcesRaw.label>ทรัพยากรวัตถุดิบ</ResourcesRaw.label>
+  
+  <!-- EN: root -->
+  <Root.label>Root</Root.label>
+  
+  <!-- EN: stone blocks -->
+  <StoneBlocks.label>บล็อกหิน</StoneBlocks.label>
+  
+  <!-- EN: stone chunks -->
+  <StoneChunks.label>ก้อนหิน</StoneChunks.label>
+  
+  <!-- EN: textiles -->
+  <Textiles.label>สิ่งทอผ้า</Textiles.label>
+  
+  <!-- EN: unfinished -->
+  <Unfinished.label>ยังไม่เสร็จ</Unfinished.label>
+  
+  <!-- EN: weapons -->
+  <Weapons.label>อาวุธ</Weapons.label>
+  
+  <!-- EN: melee weapons -->
+  <WeaponsMelee.label>อาวุธระยะประชิด</WeaponsMelee.label>
+  
+  <!-- EN: ranged weapons -->
+  <WeaponsRanged.label>อาวุธระยะไกล</WeaponsRanged.label>
   
 </LanguageData>

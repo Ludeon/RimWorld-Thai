@@ -1,72 +1,151 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Item hauling -->
-
-  <HaulToCell.reportString>กำลังขน TargetA</HaulToCell.reportString>
-  <HaulToContainer.reportString>กำลังขน TargetA</HaulToContainer.reportString>
-
-  <!--============= Special hauling ===============-->
   
-  <Steal.reportString>ขโมย TargetA.</Steal.reportString>
-  <Kidnap.reportString>กำลังลักพาตัว TargetA</Kidnap.reportString>
+  <!-- EN: arresting TargetA. -->
+  <Arrest.reportString>กำลังจับกุม TargetA</Arrest.reportString>
+  
+  <!-- EN: building roof. -->
+  <BuildRoof.reportString>กำลังสร้างหลังคา</BuildRoof.reportString>
+  
+  <!-- UNUSED -->
+  <BuryCorpse.reportString>กำลังฝัง TargetA</BuryCorpse.reportString>
+  
+  <!-- EN: capturing TargetA. -->
+  <Capture.reportString>กำลังจับตัว TargetA</Capture.reportString>
+  
+  <!-- EN: carrying TargetA. -->
   <CarryDownedPawnToExit.reportString>กำลังขน TargetA.</CarryDownedPawnToExit.reportString>
   
-  <!-- Pawn hauling -->
-
-  <Rescue.reportString>กำลังช่วยเหลือ TargetA</Rescue.reportString>
+  <!-- EN: carrying TargetA to cryptosleep casket. -->
   <CarryToCryptosleepCasket.reportString>กำลังแบก TargetA ไปยังเครื่องนอนแช่แข็ง</CarryToCryptosleepCasket.reportString>
-  <Capture.reportString>กำลังจับตัว TargetA</Capture.reportString>
-  <Arrest.reportString>กำลังจับกุม TargetA</Arrest.reportString>
-  <ReleasePrisoner.reportString>กำลังปล่อยตัว TargetA</ReleasePrisoner.reportString>
-  <EscortPrisonerToBed.reportString>กำลังนำตัวนักโทษ TargetA ไปยังเตียง</EscortPrisonerToBed.reportString>
-  <TakeWoundedPrisonerToBed.reportString>กำลังนำตัวนักโทษ TargetA ที่บาดเจ็บไปยังเตียง</TakeWoundedPrisonerToBed.reportString>
-  <TakeToBedToOperate.reportString>กำลังนำ TargetA ไปยังเตียง</TakeToBedToOperate.reportString>
-
-  <!-- Animal handling -->
-
-  <Slaughter.reportString>กำลังเชือด TargetA</Slaughter.reportString>
-  <Shear.reportString>กำลังตัดขน TargetA</Shear.reportString>
-  <Milk.reportString>กำลังรีดนม TargetA</Milk.reportString>
-  <Tame.reportString>กำลังทำ TargetA ให้เชื่อง</Tame.reportString>
-  <Train.reportString>กำลังฝึก TargetA</Train.reportString>
-
   
-  <!-- Construction and repair -->
+  <!-- EN: cleaning TargetA. -->
+  <Clean.reportString>กำลังทำความสะอาด TargetA</Clean.reportString>
   
-  <PlaceNoCostFrame.reportString>กำลังสร้าง TargetA</PlaceNoCostFrame.reportString>
-  <FinishFrame.reportString>กำลังสร้าง TargetA</FinishFrame.reportString>
+  <!-- EN: cutting TargetA. -->
+  <CutPlant.reportString>กำลังตัด TargetA</CutPlant.reportString>
+  
+  <!-- EN: cutting TargetA. -->
+  <CutPlantDesignated.reportString>TODO</CutPlantDesignated.reportString>
+  
+  <!-- EN: deconstructing TargetA. -->
   <Deconstruct.reportString>กำลังรื้อถอน TargetA</Deconstruct.reportString>
-  <Uninstall.reportString>กำลังถอด TargetA</Uninstall.reportString>
-  <Repair.reportString>กำลังซ่อมแซม TargetA</Repair.reportString>
+  
+  <!-- EN: feeding TargetA to TargetB. -->
+  <DeliverFood.reportString>กำลังนำ TargetA ไปที่ TargetB</DeliverFood.reportString>
+  
+  <!-- EN: doing bill at TargetA. -->
+  <DoBill.reportString>กำลังทำตามใบสั่งอยู่ที่ TargetA</DoBill.reportString>
+  
+  <!-- EN: escorting prisoner TargetA. -->
+  <EscortPrisonerToBed.reportString>กำลังนำตัวนักโทษ TargetA ไปยังเตียง</EscortPrisonerToBed.reportString>
+  
+  <!-- EN: feeding TargetA to TargetB. -->
+  <FeedPatient.reportString>กำลังป้อน TargetA ให้ TargetB</FeedPatient.reportString>
+  
+  <!-- EN: building TargetA. -->
+  <FinishFrame.reportString>กำลังสร้าง TargetA</FinishFrame.reportString>
+  
+  <!-- EN: replacing broken components in TargetA. -->
   <FixBrokenDownBuilding.reportString>กำลังเปลี่ยนชิ้นส่วนใน TargetA ที่เสียหาย</FixBrokenDownBuilding.reportString>
-  <BuildRoof.reportString>กำลังสร้างหลังคา</BuildRoof.reportString>
+  
+  <!-- EN: harvesting TargetA. -->
+  <Harvest.reportString>กำลังเก็บเกี่ยว TargetA</Harvest.reportString>
+  
+  <!-- EN: harvesting TargetA. -->
+  <HarvestDesignated.reportString>TODO</HarvestDesignated.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToCell.reportString>กำลังขน TargetA</HaulToCell.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToContainer.reportString>กำลังขน TargetA</HaulToContainer.reportString>
+  
+  <!-- EN: hunting TargetA. -->
+  <Hunt.reportString>กำลังล่า TargetA</Hunt.reportString>
+  
+  <!-- EN: kidnapping TargetA. -->
+  <Kidnap.reportString>กำลังลักพาตัว TargetA</Kidnap.reportString>
+  
+  <!-- EN: milking TargetA. -->
+  <Milk.reportString>กำลังรีดนม TargetA</Milk.reportString>
+  
+  <!-- EN: digging at TargetA. -->
+  <Mine.reportString>กำลังขุดเหมือง</Mine.reportString>
+  
+  <!-- EN: drilling at TargetA. -->
+  <OperateDeepDrill.reportString>กำลังเจาะ TargetA.</OperateDeepDrill.reportString>
+  
+  <!-- EN: scanning at TargetA. -->
+  <OperateScanner.reportString>TODO</OperateScanner.reportString>
+  
+  <!-- EN: building TargetA. -->
+  <PlaceNoCostFrame.reportString>กำลังสร้าง TargetA</PlaceNoCostFrame.reportString>
+  
+  <!-- EN: attempting to recruit TargetA. -->
+  <PrisonerAttemptRecruit.reportString>กำลังพยายามชักชวน TargetA</PrisonerAttemptRecruit.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <PrisonerExecution.reportString>กำลังประหาร TargetA</PrisonerExecution.reportString>
+  
+  <!-- UNUSED -->
+  <PrisonerFriendlyChat.reportString>กำลังคุยกับนักโทษ TargetA</PrisonerFriendlyChat.reportString>
+  
+  <!-- EN: releasing TargetA. -->
+  <ReleasePrisoner.reportString>กำลังปล่อยตัว TargetA</ReleasePrisoner.reportString>
+  
+  <!-- EN: removing floor. -->
+  <RemoveFloor.reportString>กำลังเอาพื้นออก</RemoveFloor.reportString>
+  
+  <!-- EN: removing roof. -->
   <RemoveRoof.reportString>กำลังถอนหลังคา</RemoveRoof.reportString>
   
-  <!-- Medical -->
+  <!-- EN: repairing TargetA. -->
+  <Repair.reportString>กำลังซ่อมแซม TargetA</Repair.reportString>
   
-  <FeedPatient.reportString>กำลังป้อน TargetA ให้ TargetB</FeedPatient.reportString>
+  <!-- EN: rescuing TargetA. -->
+  <Rescue.reportString>กำลังช่วยเหลือ TargetA</Rescue.reportString>
+  
+  <!-- EN: researching. -->
+  <Research.reportString>กำลังวิจัย</Research.reportString>
+  
+  <!-- EN: shearing TargetA. -->
+  <Shear.reportString>กำลังตัดขน TargetA</Shear.reportString>
+  
+  <!-- EN: slaughtering TargetA. -->
+  <Slaughter.reportString>กำลังเชือด TargetA</Slaughter.reportString>
+  
+  <!-- EN: smoothing floor. -->
+  <SmoothFloor.reportString>กำลังขัดพื้น</SmoothFloor.reportString>
+  
+  <!-- EN: smoothing wall. -->
+  <SmoothWall.reportString>TODO</SmoothWall.reportString>
+  
+  <!-- EN: sowing TargetA. -->
+  <Sow.reportString>กำลังหว่านเมล็ด TargetA</Sow.reportString>
+  
+  <!-- EN: stealing TargetA. -->
+  <Steal.reportString>ขโมย TargetA.</Steal.reportString>
+  
+  <!-- EN: taking TargetA to bed. -->
+  <TakeToBedToOperate.reportString>กำลังนำ TargetA ไปยังเตียง</TakeToBedToOperate.reportString>
+  
+  <!-- EN: taking wounded prisoner TargetA. -->
+  <TakeWoundedPrisonerToBed.reportString>กำลังนำตัวนักโทษ TargetA ที่บาดเจ็บไปยังเตียง</TakeWoundedPrisonerToBed.reportString>
+  
+  <!-- EN: taming TargetA. -->
+  <Tame.reportString>กำลังทำ TargetA ให้เชื่อง</Tame.reportString>
+  
+  <!-- EN: tending to TargetA. -->
   <TendPatient.reportString>กำลังตรงไปหา TargetA</TendPatient.reportString>
   
+  <!-- EN: training TargetA. -->
+  <Train.reportString>กำลังฝึก TargetA</Train.reportString>
   
-  <!-- Misc -->
-
-  <DeliverFood.reportString>กำลังนำ TargetA ไปที่ TargetB</DeliverFood.reportString>
-  <DoBill.reportString>กำลังทำตามใบสั่งอยู่ที่ TargetA</DoBill.reportString>
-  <Clean.reportString>กำลังทำความสะอาด TargetA</Clean.reportString>
-  <Research.reportString>กำลังวิจัย</Research.reportString>
-  <Hunt.reportString>กำลังล่า TargetA</Hunt.reportString>
+  <!-- EN: uninstalling TargetA. -->
+  <Uninstall.reportString>กำลังถอด TargetA</Uninstall.reportString>
+  
+  <!-- EN: using comms console. -->
   <UseCommsConsole.reportString>กำลังใช้เครื่องควมคุมการสื่อสาร</UseCommsConsole.reportString>
-  <Mine.reportString>กำลังขุดเหมือง</Mine.reportString>
-  <SmoothFloor.reportString>กำลังขัดพื้น</SmoothFloor.reportString>
-  <RemoveFloor.reportString>กำลังเอาพื้นออก</RemoveFloor.reportString>
-  <Sow.reportString>กำลังหว่านเมล็ด TargetA</Sow.reportString>
-  <Harvest.reportString>กำลังเก็บเกี่ยว TargetA</Harvest.reportString>
-  <CutPlant.reportString>กำลังตัด TargetA</CutPlant.reportString>
-  <PrisonerFriendlyChat.reportString>กำลังคุยกับนักโทษ TargetA</PrisonerFriendlyChat.reportString>
-  <PrisonerAttemptRecruit.reportString>กำลังพยายามชักชวน TargetA</PrisonerAttemptRecruit.reportString>
-  <PrisonerExecution.reportString>กำลังประหาร TargetA</PrisonerExecution.reportString>
-  <BuryCorpse.reportString>กำลังฝัง TargetA</BuryCorpse.reportString>
-  <OperateDeepDrill.reportString>กำลังเจาะ TargetA.</OperateDeepDrill.reportString>
   
 </LanguageData>

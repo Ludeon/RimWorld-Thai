@@ -1,8 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<RepeatCount.label>ทำซ้ำ X ครั้ง</RepeatCount.label>
-	<TargetCount.label>ทำซ้ำจนกว่าคุณจะมี X</TargetCount.label>
-	<Forever.label>ทำซ้ำตลอดไป</Forever.label>
-	
+  
+  <!-- EN: do forever -->
+  <Forever.label>ทำซ้ำตลอดไป</Forever.label>
+  
+  <!-- EN: do X times -->
+  <RepeatCount.label>ทำซ้ำ X ครั้ง</RepeatCount.label>
+  
+  <!-- EN: do until you have X -->
+  <TargetCount.label>ทำซ้ำจนกว่าคุณจะมี X</TargetCount.label>
+  
 </LanguageData>

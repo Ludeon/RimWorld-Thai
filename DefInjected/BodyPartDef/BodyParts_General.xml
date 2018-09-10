@@ -1,21 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Head.label>หัว</Head.label>
-  <Skull.label>กระโหลก</Skull.label>
+  
+  <!-- EN: brain -->
   <Brain.label>สมอง</Brain.label>
-  <LeftEye.label>ตาซ้าย</LeftEye.label>
-  <RightEye.label>ตาขวา</RightEye.label>
-  <LeftEar.label>หูข้างซ้าย</LeftEar.label>
-  <RightEar.label>หูข้างขวา</RightEar.label>
-  <Nose.label>จมูก</Nose.label>
+  
+  <!-- EN: ear -->
+  <Ear.label>TODO</Ear.label>
+  
+  <!-- EN: eye -->
+  <Eye.label>TODO</Eye.label>
+  
+  <!-- EN: foot -->
+  <Foot.label>TODO</Foot.label>
+  
+  <!-- EN: head -->
+  <Head.label>หัว</Head.label>
+  
+  <!-- EN: jaw -->
   <Jaw.label>ขากรรไกร</Jaw.label>
-  <Neck.label>คอ</Neck.label>
-  <Rib.label>ซี่โครง</Rib.label>
-  <Spine.label>กระดูกสันหลัง</Spine.label>
-  <LeftLeg.label>ขาซ้าย</LeftLeg.label>
+  
+  <!-- UNUSED -->
+  <LeftEar.label>หูข้างซ้าย</LeftEar.label>
+  
+  <!-- UNUSED -->
+  <LeftEye.label>ตาซ้าย</LeftEye.label>
+  
+  <!-- UNUSED -->
   <LeftFoot.label>เท้าซ้าย</LeftFoot.label>
-  <RightLeg.label>ขาขวา</RightLeg.label>
+  
+  <!-- UNUSED -->
+  <LeftLeg.label>ขาซ้าย</LeftLeg.label>
+  
+  <!-- EN: leg -->
+  <Leg.label>TODO</Leg.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>คอ</Neck.label>
+  
+  <!-- EN: nose -->
+  <Nose.label>จมูก</Nose.label>
+  
+  <!-- UNUSED -->
+  <Rib.label>ซี่โครง</Rib.label>
+  
+  <!-- EN: ribcage -->
+  <Ribcage.label>TODO</Ribcage.label>
+  
+  <!-- UNUSED -->
+  <RightEar.label>หูข้างขวา</RightEar.label>
+  
+  <!-- UNUSED -->
+  <RightEye.label>ตาขวา</RightEye.label>
+  
+  <!-- UNUSED -->
   <RightFoot.label>เท้าขวา</RightFoot.label>
-
+  
+  <!-- UNUSED -->
+  <RightLeg.label>ขาขวา</RightLeg.label>
+  
+  <!-- EN: skull -->
+  <Skull.label>กระโหลก</Skull.label>
+  
+  <!-- EN: spine -->
+  <Spine.label>กระดูกสันหลัง</Spine.label>
+  
 </LanguageData>

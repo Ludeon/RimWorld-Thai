@@ -1,36 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MakeStoneBlocksAny.label>ทำ บล็อกหิน</MakeStoneBlocksAny.label>
-  <MakeStoneBlocksAny.description>ตัดก้อนหินให้กลายเป็นบล็อกที่ใช้งานได้</MakeStoneBlocksAny.description>
-  <MakeStoneBlocksAny.jobString>กำลังตัดหิน</MakeStoneBlocksAny.jobString>
-
-  <ExtractMetalFromSlag.label>หลอมโลหะ จากขี้แร่</ExtractMetalFromSlag.label>
-  <ExtractMetalFromSlag.description>ใช้ความร้อนและแม่เหล็กไฟฟ้าแรงสูง เพื่อแยกโลหะที่มีประโยชน์ออกจากก้อนขี้แร่</ExtractMetalFromSlag.description>
-  <ExtractMetalFromSlag.jobString>กำลังสกัดโลหะอกกจากขี้แร่</ExtractMetalFromSlag.jobString>
-
-  <SmeltWeapon.label>หลอมโลหะ จากอาวุธ</SmeltWeapon.label>
-  <SmeltWeapon.description>ใช้ความร้อนและแม่เหล็กไฟฟ้าแรงสูง เพื่อแยกโลหะที่มีประโยชน์ออกจากอาวุธ</SmeltWeapon.description>
-  <SmeltWeapon.jobString>กำลังหลอมโลหะจากอาวุธ</SmeltWeapon.jobString>
-
+  
+  <!-- EN: destroy weapon -->
   <DestroyWeapon.label>ทำลาย อาวุธ</DestroyWeapon.label>
+  <!-- EN: Use heat to destroy unwanted weapons. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
   <DestroyWeapon.description>Verwende Wärme, um nicht benötigte Waffen zu zerstören. Schneller als Einschmelzen und funktioniert auch bei nicht schmelzbaren Waffen, erzeugt aber keine Rohstoffe.</DestroyWeapon.description>
+  <!-- EN: Destroying weapon. -->
   <DestroyWeapon.jobString>กำลังทำลายอาวุธ</DestroyWeapon.jobString>
   
-  <MakeComponent.label>ทำ ส่วนประกอบ</MakeComponent.label>
-  <MakeComponent.description>ทำส่วนประกอบขึ้นมา</MakeComponent.description>
-  <MakeComponent.jobString>กำลังทำส่วนประกอบ</MakeComponent.jobString>
-
-  <MakeChemfuelFromWood.label>ทำ เชื้อเพลิง (ไม้)</MakeChemfuelFromWood.label>
-  <MakeChemfuelFromWood.description>Raffiniere Kraftstoff durch Vergasen von Holz.</MakeChemfuelFromWood.description>
-  <MakeChemfuelFromWood.jobString>กำลังทำเชื้อเพลิง</MakeChemfuelFromWood.jobString>
-
-  <MakeChemfuelFromOrganics.label>ทำ เชื้อเพลิง (ออร์แกนิค)</MakeChemfuelFromOrganics.label>
-  <MakeChemfuelFromOrganics.description>Raffiniere Kraftstoff, indem Biodiesel aus organischer Materie extrahiert wird.</MakeChemfuelFromOrganics.description>
-  <MakeChemfuelFromOrganics.jobString>กำลังทำเชื้อเพลิง</MakeChemfuelFromOrganics.jobString>
-
-  <MakeAdvancedComponent.label>ทำ คอมโพเนนต์ขั้นสูง</MakeAdvancedComponent.label>
-  <MakeAdvancedComponent.description>Produziere ein hochentwickeltes Bauteil.</MakeAdvancedComponent.description>
-  <MakeAdvancedComponent.jobString>กำลังทำคอมโพเนนต์ขั้นสูง</MakeAdvancedComponent.jobString>
-
+  <!-- EN: smelt metal from slag -->
+  <ExtractMetalFromSlag.label>หลอมโลหะ จากขี้แร่</ExtractMetalFromSlag.label>
+  <!-- EN: Use heat and strong electromagnets to extract useful metal from slag chunks. -->
+  <ExtractMetalFromSlag.description>ใช้ความร้อนและแม่เหล็กไฟฟ้าแรงสูง เพื่อแยกโลหะที่มีประโยชน์ออกจากก้อนขี้แร่</ExtractMetalFromSlag.description>
+  <!-- EN: Smelting metal from slag. -->
+  <ExtractMetalFromSlag.jobString>กำลังสกัดโลหะอกกจากขี้แร่</ExtractMetalFromSlag.jobString>
+  
+  <!-- EN: make chemfuel from organics -->
+  <Make_ChemfuelFromOrganics.label>ทำ เชื้อเพลิง (ออร์แกนิค)</Make_ChemfuelFromOrganics.label>
+  <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. -->
+  <Make_ChemfuelFromOrganics.description>Raffiniere Kraftstoff, indem Biodiesel aus organischer Materie extrahiert wird.</Make_ChemfuelFromOrganics.description>
+  <!-- EN: Refining chemfuel from organics. -->
+  <Make_ChemfuelFromOrganics.jobString>กำลังทำเชื้อเพลิง</Make_ChemfuelFromOrganics.jobString>
+  
+  <!-- EN: make chemfuel from wood -->
+  <Make_ChemfuelFromWood.label>ทำ เชื้อเพลิง (ไม้)</Make_ChemfuelFromWood.label>
+  <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
+  <Make_ChemfuelFromWood.description>Raffiniere Kraftstoff durch Vergasen von Holz.</Make_ChemfuelFromWood.description>
+  <!-- EN: Refining chemfuel from wood. -->
+  <Make_ChemfuelFromWood.jobString>กำลังทำเชื้อเพลิง</Make_ChemfuelFromWood.jobString>
+  
+  <!-- EN: make component -->
+  <Make_ComponentIndustrial.label>ทำ ส่วนประกอบ</Make_ComponentIndustrial.label>
+  <!-- EN: Make a component. -->
+  <Make_ComponentIndustrial.description>ทำส่วนประกอบขึ้นมา</Make_ComponentIndustrial.description>
+  <!-- EN: Making component. -->
+  <Make_ComponentIndustrial.jobString>กำลังทำส่วนประกอบ</Make_ComponentIndustrial.jobString>
+  
+  <!-- EN: make advanced component -->
+  <Make_ComponentSpacer.label>ทำ คอมโพเนนต์ขั้นสูง</Make_ComponentSpacer.label>
+  <!-- EN: Make an advanced component. -->
+  <Make_ComponentSpacer.description>Produziere ein hochentwickeltes Bauteil.</Make_ComponentSpacer.description>
+  <!-- EN: Making advanced component. -->
+  <Make_ComponentSpacer.jobString>กำลังทำคอมโพเนนต์ขั้นสูง</Make_ComponentSpacer.jobString>
+  
+  <!-- EN: make patchleather -->
+  <Make_Patchleather.label>TODO</Make_Patchleather.label>
+  <!-- EN: Combine various types of leather to create weak patchleather. -->
+  <Make_Patchleather.description>TODO</Make_Patchleather.description>
+  <!-- EN: Making patchleather. -->
+  <Make_Patchleather.jobString>TODO</Make_Patchleather.jobString>
+  
+  <!-- EN: make any stone blocks -->
+  <Make_StoneBlocksAny.label>ทำ บล็อกหิน</Make_StoneBlocksAny.label>
+  <!-- EN: Cut rock chunks into usable stone blocks. -->
+  <Make_StoneBlocksAny.description>ตัดก้อนหินให้กลายเป็นบล็อกที่ใช้งานได้</Make_StoneBlocksAny.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksAny.jobString>กำลังตัดหิน</Make_StoneBlocksAny.jobString>
+  
+  <!-- EN: smelt weapon -->
+  <SmeltWeapon.label>หลอมโลหะ จากอาวุธ</SmeltWeapon.label>
+  <!-- EN: Use heat and strong electromagnets to break down weapons into useful resources. -->
+  <SmeltWeapon.description>ใช้ความร้อนและแม่เหล็กไฟฟ้าแรงสูง เพื่อแยกโลหะที่มีประโยชน์ออกจากอาวุธ</SmeltWeapon.description>
+  <!-- EN: Smelting weapon. -->
+  <SmeltWeapon.jobString>กำลังหลอมโลหะจากอาวุธ</SmeltWeapon.jobString>
+  
 </LanguageData>

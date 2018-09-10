@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wake-up addiction -->
+  <WakeUpAddiction.label>ติด wake-up</WakeUpAddiction.label>
+  <WakeUpAddiction.stages.0.label>ลงแดง</WakeUpAddiction.stages.0.label>
+  <!-- EN: withdrawal -->
+  <WakeUpAddiction.stages.withdrawal.label>TODO</WakeUpAddiction.stages.withdrawal.label>
+  
+  <!-- EN: high on wake-up -->
+  <WakeUpHigh.label>เมา wake-up</WakeUpHigh.label>
+  <!-- EN: a wake-up high -->
+  <WakeUpHigh.labelNoun>เมา wake-up</WakeUpHigh.labelNoun>
+  
+  <!-- EN: wake-up tolerance -->
+  <WakeUpTolerance.label>ดือยา wake-up</WakeUpTolerance.label>
+  <!-- EN: small -->
+  <WakeUpTolerance.stages.small-0.label>TODO</WakeUpTolerance.stages.small-0.label>
+  <!-- EN: small -->
+  <WakeUpTolerance.stages.small-1.label>ต่ำ</WakeUpTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <WakeUpTolerance.stages.large.label>ปานกลาง</WakeUpTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <WakeUpTolerance.stages.massive.label>มาก</WakeUpTolerance.stages.massive.label>
+  
+</LanguageData>

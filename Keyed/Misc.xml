@@ -1,75 +1,140 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Autosaving -->
   <Autosaving>กำลังเซฟเกมอัตโนมัติ</Autosaving>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
   <GameStartDialog>คุณสามคนได้ตื่นขึ้นมาในโลงคริปโตสลีป ตามเสียงไซเรนและเสียงเหล็กที่ฉีกออก คุณพยายามไปที่พ็อดหลบหนี ก่อนที่ยานจะฉีกเป็นชิ้นเล็กชิ้นน้อย\n\nในเวลาต่อมา, คุณลงจอดบนดาวชายขอบระบบที่ไม่ทราบข้อมูล\n\nชิ้นส่วนของยานที่ แหลกออกนั้นตกอยู่รอบๆคุณ, คุณเริ่มวางแผนเพื่อจะเอาชีวิตรอด</GameStartDialog>
+  <!-- EN: Colony -->
   <Colony>อาณานิคม</Colony>
+  <!-- EN: You can only change language from the options screen on the main menu. -->
   <ChangeLanguageFromMainMenu>คุณสามารถเปลี่ยนภาษาจากหน้าจอตัวเลือกบนเมนูหลัก.</ChangeLanguageFromMainMenu>
+  <!-- EN: and -->
   <AndLower>และ</AndLower>
+  <!-- EN: disabled -->
   <DisabledLower>ปิดการทำงาน</DisabledLower>
 
-
+  <!-- EN: Version {0} -->
   <VersionIndicator>เวอร์ชัน {0}</VersionIndicator>
+  <!-- EN: development build -->
   <DevelopmentBuildLower>การพัฒนาสร้าง</DevelopmentBuildLower>
+  <!-- EN: Compiled {0} -->
   <CompiledOn>รวบรวม {0}</CompiledOn>
+  <!-- EN: Logged into Steam as {0} -->
   <LoggedIntoSteamAs>เข้าสู่ระบบ Steam as {0}</LoggedIntoSteamAs>
 
   <!-- General-use words -->
+  <!-- EN: Yes -->
   <Yes>ใช่</Yes>
+  <!-- EN: No -->
   <No>ไม่</No>
+  <!-- EN: min -->
   <min>ต่ำ</min>
+  <!-- EN: max -->
   <max>สูง</max>
+  <!-- EN: chance -->
   <chance>โอกาส</chance>
+  <!-- EN: context -->
   <context>สิ่งแวดล้อม</context>
+  <!-- EN: multiplier -->
   <multiplier>ตัวคูณ</multiplier>
+  <!-- EN: damage -->
   <damage>ความเสียหาย</damage>
+  <!-- EN: radius -->
   <radius>ขอบเขต</radius>
+  <!-- EN: duration (days) -->
   <durationDays>ระยะเวลา (วัน)</durationDays>
+  <!-- EN: interval (days) -->
   <intervalDays>ระยะห่าง (วัน)</intervalDays>
+  <!-- EN: repeat -->
   <repeat>ทำซ้ำ</repeat>
-	<default>ค่าเริ่มต้น</default>
-	<distance>ระยะทาง</distance>
+  <!-- EN: default -->
+  <default>ค่าเริ่มต้น</default>
+  <!-- EN: distance -->
+  <distance>ระยะทาง</distance>
+  <!-- EN: YES -->
+  <YesUppercase>TODO</YesUppercase>
+  <!-- EN: NO -->
+  <NoUppercase>TODO</NoUppercase>
+  <!-- EN: kg -->
+  <kg>TODO</kg>
+  <!-- EN: Day -->
+  <Day>วัน</Day>
+  <!-- EN: day -->
+  <day>TODO</day>
+  <!-- EN: Default -->
+  <Default>TODO</Default>
+  <!-- EN: Average -->
+  <Average>TODO</Average>
 
   <!-- Content generation-->
   
-	<MeatLabel>เนื้อ{0}</MeatLabel>
+  <!-- EN: {0} meat -->
+  <MeatLabel>เนื้อ{0}</MeatLabel>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <MeatDesc>เนื้อเชือดดิบ สามารถปรุงลงในอาหารหรือกินอาหารดิบ</MeatDesc>
+  <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
+  <MeatInsectDesc>TODO</MeatInsectDesc>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
+  <MeatHumanDesc>TODO</MeatHumanDesc>
 
-  <LeatherLabel>แผ่นหนัง{0}</LeatherLabel>
-  <LeatherDesc>แผ่นหนังทำขึ้นจากหนังของ{0}</LeatherDesc>
-
+  <!-- EN: {0} corpse -->
   <CorpseLabel>ศพ {0}</CorpseLabel>
-	<CorpseDesc>ศพของ{0}</CorpseDesc>
+  <!-- EN: Dead body of a {0}. -->
+  <CorpseDesc>ศพของ{0}</CorpseDesc>
+  <!-- EN: {1_label} (dead) -->
   <DeadLabel>{0} (ตายแล้ว)</DeadLabel>
 
+  <!-- EN: rough {0} -->
   <RoughStoneTerrainLabel>หยาบ {0}</RoughStoneTerrainLabel>
+  <!-- EN: Rough, natural {0} ground. -->
   <RoughStoneTerrainDesc>หยาบ, เหมือนธรรมชาติ {0} แผ่น</RoughStoneTerrainDesc>
+  <!-- EN: rough-hewn {0} -->
   <RoughHewnStoneTerrainLabel>ตัดหยาบ {0}</RoughHewnStoneTerrainLabel>
+  <!-- EN: Roughly cut natural {0} floor. -->
   <RoughHewnStoneTerrainDesc>ตัดอย่างยาบ, เหมือนธรรมชาติ {0} แผ่น</RoughHewnStoneTerrainDesc>
+  <!-- EN: smooth {0} -->
   <SmoothStoneTerrainLabel>เรียบ {0}</SmoothStoneTerrainLabel>
+  <!-- EN: Smoothed natural {0} floor. -->
   <SmoothStoneTerrainDesc>ขัดเรียบ เหมือนธรรมชาติ {0} แผ่น</SmoothStoneTerrainDesc>
 
+  <!-- EN:  (blueprint) -->
   <BlueprintLabelExtra> (พิมพ์เขียว)</BlueprintLabelExtra>
+  <!-- EN:  (building) -->
   <FrameLabelExtra> (อาคาร)</FrameLabelExtra>
 
+  <!-- EN: Unaffiliated -->
+  <FactionUnaffiliated>TODO</FactionUnaffiliated>
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <!-- EN: {0} {1} -->
   <ThingMadeOfStuffLabel>{1} {0}</ThingMadeOfStuffLabel>
 
+  <!-- EN: {PAWN_labelShort}'s {1} -->
   <SomeonesRoom>{1} ของ {0}</SomeonesRoom>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
   <CouplesRoom>{2} ของ {0} และ {1}</CouplesRoom>
   
+  <!-- EN: (various) -->
   <VariousLabel>(หลายอย่าง)</VariousLabel>
 
   <!-- History events -->
+  <!-- EN: Colonist died -->
   <ColonistDied>ชาวอาณานิคมตาย</ColonistDied>
   
   <!-- Rotation -->
+  <!-- EN: North -->
   <North>ทิศเหนือ</North>
+  <!-- EN: South -->
   <South>ทิศใต้</South>
+  <!-- EN: West -->
   <West>ทิศตะวันตก</West>
-  <East>ทิศตะวันออก</East>  
+  <!-- EN: East -->
+  <East>ทิศตะวันออก</East>
   
-  
+  <!-- UNUSED -->
+  <LeatherLabel>แผ่นหนัง{0}</LeatherLabel>
+  <LeatherDesc>แผ่นหนังทำขึ้นจากหนังของ{0}</LeatherDesc>
+
 </LanguageData>

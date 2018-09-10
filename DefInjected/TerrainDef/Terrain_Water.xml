@@ -1,11 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: marsh -->
+  <Marsh.label>บึง</Marsh.label>
+  <!-- EN: water -->
+  <Marsh.tools.water.label>TODO</Marsh.tools.water.label>
+  <!-- EN: mud -->
+  <Marsh.tools.mud.label>TODO</Marsh.tools.mud.label>
+  
+  <!-- EN: deep water -->
   <WaterDeep.label>น้ำลึก</WaterDeep.label>
-  <WaterOceanDeep.label>น้ำลึกมหาสมุทร</WaterOceanDeep.label>
-  <WaterMovingDeep.label>น้ำไหล น้ำลึก</WaterMovingDeep.label>
-  <WaterShallow.label>น้ำตื้น</WaterShallow.label>
-  <WaterOceanShallow.label>น้ำทะเลตื้น</WaterOceanShallow.label>
+  <!-- EN: water -->
+  <WaterDeep.tools.water.label>TODO</WaterDeep.tools.water.label>
+  
+  <!-- EN: chest-deep moving water -->
+  <WaterMovingChestDeep.label>น้ำไหล น้ำลึก</WaterMovingChestDeep.label>
+  <!-- EN: water -->
+  <WaterMovingChestDeep.tools.water.label>TODO</WaterMovingChestDeep.tools.water.label>
+  
+  <!-- EN: shallow moving water -->
   <WaterMovingShallow.label>น้ำไหล น้ำตื้น</WaterMovingShallow.label>
-
+  <!-- EN: water -->
+  <WaterMovingShallow.tools.water.label>TODO</WaterMovingShallow.tools.water.label>
+  
+  <!-- EN: deep ocean water -->
+  <WaterOceanDeep.label>น้ำลึกมหาสมุทร</WaterOceanDeep.label>
+  <!-- EN: water -->
+  <WaterOceanDeep.tools.water.label>TODO</WaterOceanDeep.tools.water.label>
+  
+  <!-- EN: shallow ocean water -->
+  <WaterOceanShallow.label>น้ำทะเลตื้น</WaterOceanShallow.label>
+  <!-- EN: water -->
+  <WaterOceanShallow.tools.water.label>TODO</WaterOceanShallow.tools.water.label>
+  
+  <!-- EN: shallow water -->
+  <WaterShallow.label>น้ำตื้น</WaterShallow.label>
+  <!-- EN: water -->
+  <WaterShallow.tools.water.label>TODO</WaterShallow.tools.water.label>
+  
 </LanguageData>

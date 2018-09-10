@@ -1,40 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Orders.label>คำสั่ง</Orders.label>
-  <Orders.description>กำหนดวิธีการโต้ตอบกับสิ่งต่างๆ</Orders.description>
-
-  <Zone.label>โซน</Zone.label>
-  <Zone.description>กำหนดโซน และเขตที่จะให้ชาวอาณานิคม ทำกิจกรรมต่างๆ</Zone.description>
-
-  <Structure.label>โครงสร้าง</Structure.label>
-  <Structure.description>ก่อสร้างโครงสร้าง อย่างเช่นกำแพง และสายไฟ</Structure.description>
-
-  <Production.label>การผลิต</Production.label>
-  <Production.description>สิ่งก่อสร้างที่ใช้กับการผลิตสิ่งต่างๆ</Production.description>
-
-  <Furniture.label>เฟอร์นิเจอร์</Furniture.label>
-  <Furniture.description>สิ่งก่อสร้างขนาดเล็ก ไว้ตกแต่งและมีประโยชน์</Furniture.description>
-
-  <Power.label>พลังงาน</Power.label>
-  <Power.description>ผลิตพลังงานไฟฟ้า ส่งกระแส และการจัดการงานไฟฟ้า</Power.description>
-
-  <Security.label>ความปลอดภัย</Security.label>
-  <Security.description>สิ่งก่อสร้างด้านความปลอดภัยและการรบ</Security.description>
-
-  <Misc.label>อื่นๆ</Misc.label>
-  <Misc.description>สิ่งก่อสร้างอื่นๆ</Misc.description>
-
+  
+  <!-- EN: floors -->
   <Floors.label>พื้น</Floors.label>
   <Floors.description>งานพื้น</Floors.description>
-
+  
+  <!-- EN: furniture -->
+  <Furniture.label>เฟอร์นิเจอร์</Furniture.label>
+  <Furniture.description>สิ่งก่อสร้างขนาดเล็ก ไว้ตกแต่งและมีประโยชน์</Furniture.description>
+  
+  <!-- EN: recreation -->
   <Joy.label>ความสุข</Joy.label>
   <Joy.description>สิ่งบันเทิงหรือเพลิดเพลินสำหรับชาวอาณานิคม</Joy.description>
-
+  
+  <!-- EN: misc -->
+  <Misc.label>อื่นๆ</Misc.label>
+  <Misc.description>สิ่งก่อสร้างอื่นๆ</Misc.description>
+  
+  <!-- EN: orders -->
+  <Orders.label>คำสั่ง</Orders.label>
+  <Orders.description>กำหนดวิธีการโต้ตอบกับสิ่งต่างๆ</Orders.description>
+  
+  <!-- EN: power -->
+  <Power.label>พลังงาน</Power.label>
+  <Power.description>ผลิตพลังงานไฟฟ้า ส่งกระแส และการจัดการงานไฟฟ้า</Power.description>
+  
+  <!-- EN: production -->
+  <Production.label>การผลิต</Production.label>
+  <Production.description>สิ่งก่อสร้างที่ใช้กับการผลิตสิ่งต่างๆ</Production.description>
+  
+  <!-- EN: security -->
+  <Security.label>ความปลอดภัย</Security.label>
+  <Security.description>สิ่งก่อสร้างด้านความปลอดภัยและการรบ</Security.description>
+  
+  <!-- EN: ship -->
   <Ship.label>ยาน</Ship.label>
   <Ship.description>ชิ้นส่วนประกอบสำหรับยานที่คุณจะใช้หนี</Ship.description>
-
+  
+  <!-- EN: structure -->
+  <Structure.label>โครงสร้าง</Structure.label>
+  <Structure.description>ก่อสร้างโครงสร้าง อย่างเช่นกำแพง และสายไฟ</Structure.description>
+  
+  <!-- EN: temperature -->
   <Temperature.label>อุณหภูมิ</Temperature.label>
   <Temperature.description>สิ่งที่ใช้สำหรับควบคุมอุณหภูมิ</Temperature.description>
-
+  
+  <!-- EN: zone -->
+  <Zone.label>โซน</Zone.label>
+  <Zone.description>กำหนดโซน และเขตที่จะให้ชาวอาณานิคม ทำกิจกรรมต่างๆ</Zone.description>
+  
 </LanguageData>

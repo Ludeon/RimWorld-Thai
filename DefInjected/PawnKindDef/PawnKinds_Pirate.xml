@@ -1,9 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: drifter -->
   <Drifter.label>ดริฟเตอร์</Drifter.label>
-  <Scavenger.label>นักล่าขยะ</Scavenger.label>
-  <Thrasher.label>แธรชเชอร์</Thrasher.label>
+  
+  <!-- EN: pirate gunner -->
   <Pirate.label>โจรสลัด</Pirate.label>
-
+  
+  <!-- EN: scavenger gunner -->
+  <Scavenger.label>นักล่าขยะ</Scavenger.label>
+  
+  <!-- EN: scavenger thrasher -->
+  <Thrasher.label>แธรชเชอร์</Thrasher.label>
+  
 </LanguageData>

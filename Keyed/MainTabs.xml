@@ -1,76 +1,161 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Work tab -->
+  <!-- EN: Manual priorities -->
   <ManualPriorities>จัดลำดับความสำคัญ\nด้วยตัวเอง</ManualPriorities>
+  <!-- EN: higher priority -->
   <HigherPriority>สำคัญมากกว่า</HigherPriority>
+  <!-- EN: lower priority -->
   <LowerPriority>สำคัญน้อยกว่า</LowerPriority>
+  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} / {2} -->
   <RelevantSkills>ทักษะที่เกี่ยวข้อง: {0}\nค่าเฉลี่ยของทักษะที่เกี่ยวข้อง: {1} / {2}</RelevantSkills>
+  <!-- EN: Click to jump to: -->
   <ClickToJumpTo>คลิกเพื่อกระโดดไปที่:</ClickToJumpTo>
+  <!-- EN: {1_labelShort} cannot do this kind of work. -->
   <CannotDoThisWork>{0} ไม่สามารถทำงานประเภทนี้ได้</CannotDoThisWork>
+  <!-- EN: (none) -->
   <NoneBrackets>(ไม่มี)</NoneBrackets>
+  <!-- EN: This colonist is not able to do any work of this type because of his health condition. -->
   <IncapableOfWorkTypeBecauseOfCapacities>อาณานิคมนี้ไม่สามารถทำงานประเภทนี้เนื่องจากสภาพสุขภาพของเขา</IncapableOfWorkTypeBecauseOfCapacities>
+  <!-- EN: E -->
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
+  <!-- EN: Warning: The average of relevant skills is very low. -->
   <SelectedWorkTypeWithVeryBadSkill>คำเตือน: ทักษะต่ำมากสำหรับงานนี้</SelectedWorkTypeWithVeryBadSkill>
   
   <!-- Assign tab -->
+  <!-- EN: Manage outfits -->
   <ManageOutfits>จัดการเครื่องแต่งกาย</ManageOutfits>
+  <!-- EN: Clear forced -->
   <ClearForcedApparel>ล้างการถูกบังคับ</ClearForcedApparel>
+  <!-- EN: forced -->
   <ApparelForcedLower>ถูกบังคับ</ApparelForcedLower>
+  <!-- EN: Forced apparel -->
   <ForcedApparel>เครื่องแต่งกายที่ถูกบังคับใส่</ForcedApparel>
+  <!-- EN: Edit... -->
   <AssignTabEdit>แก้ไข...</AssignTabEdit>
+  <!-- EN: Manage drug policies -->
   <ManageDrugPolicies>จัดการนโยบายยาเสพติด</ManageDrugPolicies>
   
   <!-- Restrictions tab -->
+  <!-- EN: Copy -->
   <Copy>ขัดลอก</Copy>
+  <!-- EN: Paste -->
   <Paste>วาง</Paste>
+  <!-- EN: Allowed area -->
   <AllowedArea>เขตพื้นที่อนุญาต</AllowedArea>
   
   <!-- Animals tab -->
+  <!-- EN: Master -->
   <Master>เจ้านาย</Master>
+  <!-- EN: Pregnant ({0} / {1}) -->
   <PregnantIconDesc>ตั้งครรภ์ ({0} / {1})</PregnantIconDesc>
+  <!-- EN: Bonded to -->
+  <BondedTo>TODO</BondedTo>
+  
+  <!-- Wildlife tab -->
+  <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
+  <IsPredator>TODO</IsPredator>
   
   <!-- Factions tab -->
+  <!-- EN: Hostile -->
   <Hostile>ศัตรู</Hostile>
+  <!-- EN: Ally -->
+  <Ally>TODO</Ally>
+  <!-- EN: defeated -->
   <DefeatedLower>พ่ายแพ้</DefeatedLower>
+  <!-- EN: Enemy of {0} -->
   <HostileTo>ศัตรูของ {0}</HostileTo>
-  <CurrentGoodwill>ค่าความนิยมในปัจจุบันของฝ่ายนี้</CurrentGoodwill>
+  <!-- EN: Current goodwill and relations status with this faction. -->
+  <CurrentGoodwillTip>TODO</CurrentGoodwillTip>
+  <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
+  <CurrentGoodwillTip_PermanentEnemy>TODO</CurrentGoodwillTip_PermanentEnemy>
+  <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Ally>TODO</CurrentGoodwillTip_Ally>
+  <!-- EN: This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you. -->
+  <CurrentGoodwillTip_Neutral>TODO</CurrentGoodwillTip_Neutral>
+  <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Hostile>TODO</CurrentGoodwillTip_Hostile>
+  <!-- EN: This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day. -->
+  <CurrentGoodwillTip_NaturalGoodwill>TODO</CurrentGoodwillTip_NaturalGoodwill>
   
-  	<!-- Social tab -->
-	<Friend>เพื่อน</Friend>
-	<Rival>คู่ต่อสู้</Rival>
-	<Acquaintance>คนรู้จัก</Acquaintance>
+  <!-- Social tab -->
+  <!-- EN: Friend -->
+  <Friend>เพื่อน</Friend>
+  <!-- EN: Rival -->
+  <Rival>คู่ต่อสู้</Rival>
+  <!-- EN: Acquaintance -->
+  <Acquaintance>คนรู้จัก</Acquaintance>
   
   <!-- History tab - subtabs -->
+  <!-- EN: Graph -->
   <Graph>กราฟ</Graph>
+  <!-- EN: Messages -->
+  <Messages>TODO</Messages>
+  <!-- EN: Statistics -->
   <Statistics>สถิติ</Statistics>
-
+  
   <!-- History tab - Graphs -->
+  <!-- EN: Select graph -->
   <SelectGraph>เลือกกราฟ</SelectGraph>
+  <!-- EN: Last 30 days -->
   <Last30Days>30 วันล่าสุด</Last30Days>
+  <!-- EN: Last 100 days -->
   <Last100Days>100 วันล่าสุด</Last100Days>
+  <!-- EN: Last 300 days -->
   <Last300Days>300 วันล่าสุด</Last300Days>
+  <!-- EN: All -->
   <AllDays>ทั้งหมด</AllDays>
-  <Day>วัน</Day>
+  <!-- EN: Value -->
   <Value>ค่า</Value>
+  <!-- EN: External -->
   <External>ภายนอก</External>
 
+  <!-- History tab - Messages -->
+  <!-- EN: Show letters -->
+  <ShowLetters>TODO</ShowLetters>
+  <!-- EN: Show messages -->
+  <ShowMessages>TODO</ShowMessages>
+  <!-- EN: Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages. -->
+  <PinArchivableTip>TODO</PinArchivableTip>
+  <!-- EN: no messages -->
+  <NoMessages>TODO</NoMessages>
+
   <!-- History tab - Statistics -->
+  <!-- EN: Play time -->
   <Playtime>เวลาที่เล่น</Playtime>
+  <!-- EN: Storyteller -->
   <Storyteller>ผู้เล่า</Storyteller>
+  <!-- EN: Colony wealth (this map) -->
   <ThisMapColonyWealthTotal>ความมั่งคั่งของอาณานิคม (แผนที่นี้)</ThisMapColonyWealthTotal>
+  <!-- EN: Colony wealth (items) (this map) -->
   <ThisMapColonyWealthItems>ความมั่งคั่งของอาณานิคม  (ไอเท็ม) (แผนที่นี้)</ThisMapColonyWealthItems>
+  <!-- EN: Colony wealth (buildings) (this map) -->
   <ThisMapColonyWealthBuildings>ความมั่งคั่งของอาณานิคม  (สิ่งปลูกสร้าง) (แผนที่นี้)</ThisMapColonyWealthBuildings>
+  <!-- EN: Colony wealth (people and animals) (this map) -->
+  <ThisMapColonyWealthColonistsAndTameAnimals>TODO</ThisMapColonyWealthColonistsAndTameAnimals>
+  <!-- EN: Major threats -->
   <NumThreatBigs>ภยันตรายหลัก</NumThreatBigs>
+  <!-- EN: Enemy raids -->
   <NumEnemyRaids>ศัตรูมาบุกปล้น</NumEnemyRaids>
+  <!-- EN: Damage taken (this map) -->
   <ThisMapDamageTaken>ความมั่งคั่งของอาณานิคม  (แผนที่นี้)</ThisMapDamageTaken>
+  <!-- EN: Colonists killed -->
   <ColonistsKilled>ชาวอาณานิคมที่ถูกฆ่า</ColonistsKilled>
+  <!-- EN: Colonists launched into space -->
   <ColonistsLaunched>ชาวอาณานิคมที่ถูกส่งไปยังอวกาศ</ColonistsLaunched>
-  
+
   <!-- Research tab -->
+  <!-- EN: project tech level -->
   <ProjectTechLevel>ระดับเทคโนโลยี</ProjectTechLevel>
+  <!-- EN: your tech level -->
   <YourTechLevel>ระดับเทคโนโลยีของคุณ</YourTechLevel>
+  <!-- EN: cost multiplier -->
   <ResearchCostMultiplier>ตัวคูณค่าใช้จ่าย</ResearchCostMultiplier>
+  <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
   <ResearchCostComparison>ต้นทุนโครงการ {0} กลายเป็น {1} สำหรับคุณเนื่องจากระดับเทคโนโลยีของคุณ</ResearchCostComparison>
   
+  <!-- UNUSED -->
+  <CurrentGoodwill>ค่าความนิยมในปัจจุบันของฝ่ายนี้</CurrentGoodwill>
+
 </LanguageData>

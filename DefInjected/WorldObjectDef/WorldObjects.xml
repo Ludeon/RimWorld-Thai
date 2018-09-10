@@ -1,34 +1,49 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: abandoned settlement -->
+  <AbandonedSettlement.label>ฐานที่ถูกทิ้งร้าง</AbandonedSettlement.label>
+  <!-- EN: An abandoned settlement. -->
+  <AbandonedSettlement.description>ฐานที่ถูกทอดทิ้งของฝ่ายหนึ่งฝ่ายใดฝ่ายหนึ่ง</AbandonedSettlement.description>
+  
+  <!-- EN: attacked caravan -->
+  <AttackedNonPlayerCaravan.label>โจมตีกองคาราวาน</AttackedNonPlayerCaravan.label>
+  <!-- EN: A caravan under attack. -->
+  <AttackedNonPlayerCaravan.description>กองคาราวานที่ถูกโจมตี</AttackedNonPlayerCaravan.description>
+  
+  <!-- EN: caravan -->
   <Caravan.label>คาราวาน</Caravan.label>
+  <!-- EN: A group of traveling people. -->
   <Caravan.description>กลุ่มของคนที่เดินทาง</Caravan.description>
   
-  <FactionBase.label>ฐาน</FactionBase.label>
-  <FactionBase.description>เป็นฐานหนึ่งของกลุ่ม</FactionBase.description>
+  <!-- EN: destroyed settlement -->
+  <DestroyedSettlement.label>ฐานที่ถูกทำลาย</DestroyedSettlement.label>
+  <!-- EN: A destroyed settlement. -->
+  <DestroyedSettlement.description>ฐานที่ถูกทำลายของฝ่ายหนึ่งฝ่ายใดฝ่ายหนึ่ง</DestroyedSettlement.description>
   
-  <AbandonedFactionBase.label>ฐานที่ถูกทิ้งร้าง</AbandonedFactionBase.label>
-  <AbandonedFactionBase.description>ฐานที่ถูกทอดทิ้งของฝ่ายหนึ่งฝ่ายใดฝ่ายหนึ่ง</AbandonedFactionBase.description>
-  
-  <DestroyedFactionBase.label>ฐานที่ถูกทำลาย</DestroyedFactionBase.label>
-  <DestroyedFactionBase.description>ฐานที่ถูกทำลายของฝ่ายหนึ่งฝ่ายใดฝ่ายหนึ่ง</DestroyedFactionBase.description>
-
+  <!-- EN: landed ship -->
   <EscapeShip.label>ปลายทางการเดินทาง</EscapeShip.label>
+  <!-- EN: The location of a hidden ship which can help you escape the planet. -->
   <EscapeShip.description>ตำแหน่งของยานที่ซ่อนอยู่ซึ่งสามารถช่วยให้คุณหลบหนีออกจากโลกได้</EscapeShip.description>
   
-  <AttackedCaravan.label>โจมตีกองคาราวาน</AttackedCaravan.label>
-  <AttackedCaravan.description>กองคาราวานที่ถูกโจมตี</AttackedCaravan.description>
+  <!-- EN: peace talks -->
+  <PeaceTalks.label>การเจรจาสันติภาพ</PeaceTalks.label>
+  <!-- EN: A site designated for peace talks. -->
+  <PeaceTalks.description>เป็นสถานที่ ที่เป็นกลางที่ควรมีการเจรจาสันติภาพ</PeaceTalks.description>
   
-  <TravelingTransportPods.label>กระสวยขนส่ง</TravelingTransportPods.label>
-  <TravelingTransportPods.description>กระสวยขนส่งในเที่ยวบิน</TravelingTransportPods.description>
-  
+  <!-- EN: waypoint -->
   <RoutePlannerWaypoint.label>จุดเป้าหมาย</RoutePlannerWaypoint.label>
+  <!-- EN: A temporary waypoint. -->
   <RoutePlannerWaypoint.description>จุดชั่วคราว</RoutePlannerWaypoint.description>
   
-  <Ambush.label>ที่ซุ่มโจมตี</Ambush.label>
-  <Ambush.description>บนการใช้การโจมตีจากการซุ่มโจมตี</Ambush.description>
-   
-  <PeaceTalks.label>การเจรจาสันติภาพ</PeaceTalks.label>
-  <PeaceTalks.description>เป็นสถานที่ ที่เป็นกลางที่ควรมีการเจรจาสันติภาพ</PeaceTalks.description>
-     
+  <!-- EN: settlement -->
+  <Settlement.label>ฐาน</Settlement.label>
+  <!-- EN: A base of one of the factions. -->
+  <Settlement.description>เป็นฐานหนึ่งของกลุ่ม</Settlement.description>
+  
+  <!-- EN: transport pods -->
+  <TravelingTransportPods.label>กระสวยขนส่ง</TravelingTransportPods.label>
+  <!-- EN: Transport pods in flight. -->
+  <TravelingTransportPods.description>กระสวยขนส่งในเที่ยวบิน</TravelingTransportPods.description>
+  
 </LanguageData>

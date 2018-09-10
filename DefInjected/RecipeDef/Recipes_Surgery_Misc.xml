@@ -1,46 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-
-	<!-- Anesthetize -->
-
-    <Anesthetize.label>ใส่ยา นอนหลับ</Anesthetize.label>
-    <Anesthetize.description>สิ่งมีชีวิตที่ดมยาสลบโดยการบริหารยาชา</Anesthetize.description>
-    <Anesthetize.jobString>กำลังใส่ยานอนหลับ</Anesthetize.jobString>
-
-
-	<!-- Euthanasia -->
-
-    <Euthanize.label>การุณยฆาต</Euthanize.label>
-    <Euthanize.description>ทำให้จบชีวิต</Euthanize.description>
-    <Euthanize.jobString>กำลังทำการุณยฆาต</Euthanize.jobString>
-
-    <ShutDownMechanoid.label>ปิด เครื่อง</ShutDownMechanoid.label>
-    <ShutDownMechanoid.description>ปิดเครื่องเมคานอยด์</ShutDownMechanoid.description>
-    <ShutDownMechanoid.jobString>กำลังปิดเครื่อง</ShutDownMechanoid.jobString>
-
-
-	<!-- removing hediffs (e.g. diseases) -->
-
-    <ExciseCarcinoma.label>ตัด ก้อนมะเร็ง</ExciseCarcinoma.label>
-    <ExciseCarcinoma.description>ตัดเอาก้อนมะเร็งออก</ExciseCarcinoma.description>
-    <ExciseCarcinoma.jobString>กำลังผ่าตัดก้อนมะเร็ง</ExciseCarcinoma.jobString>
-    <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} ได้ตัดก้อนมะเร็งให้กับ {1} เป็นผลสำเร็จ</ExciseCarcinoma.successfullyRemovedHediffMessage>
-
-	<!-- removing body parts -->
-
-    <RemoveBodyPart.label>เอา อวัยวะออก</RemoveBodyPart.label>
-    <RemoveBodyPart.description>เอาอวัยวะออกไป</RemoveBodyPart.description>
-    <RemoveBodyPart.jobString>กำลังเอาอวัยวะออก</RemoveBodyPart.jobString>
-
-    <RemoveMechanoidBodyPart.label>เอาชิ้นส่วน อวัยวะออก</RemoveMechanoidBodyPart.label>
-    <RemoveMechanoidBodyPart.description>เอาชิ้นส่วนอวัยวะของเมคานอยด์ออก</RemoveMechanoidBodyPart.description>
-    <RemoveMechanoidBodyPart.jobString>กำลังเอาชิ้นส่วนอวัยวะออก</RemoveMechanoidBodyPart.jobString>
-
-	<!-- special administer -->
-
-	<AdministerMechSerumHealer.label>Verabreiche Heilungsnaniten</AdministerMechSerumHealer.label>
-	<AdministerMechSerumHealer.description>Verabreiche Heilungsnaniten.</AdministerMechSerumHealer.description>
-	<AdministerMechSerumHealer.jobString>Verabreicht Heilungsnaniten.</AdministerMechSerumHealer.jobString>
-
+  
+  <!-- EN: administer healer mech serum -->
+  <AdministerMechSerumHealer.label>Verabreiche Heilungsnaniten</AdministerMechSerumHealer.label>
+  <!-- EN: Administer a healer mech serum. -->
+  <AdministerMechSerumHealer.description>Verabreiche Heilungsnaniten.</AdministerMechSerumHealer.description>
+  <!-- EN: Administering healer mech serum. -->
+  <AdministerMechSerumHealer.jobString>Verabreicht Heilungsnaniten.</AdministerMechSerumHealer.jobString>
+  
+  <!-- EN: anesthetize -->
+  <Anesthetize.label>ใส่ยา นอนหลับ</Anesthetize.label>
+  <!-- EN: Render a creature unconscious by administering general anesthetic. -->
+  <Anesthetize.description>สิ่งมีชีวิตที่ดมยาสลบโดยการบริหารยาชา</Anesthetize.description>
+  <!-- EN: Anesthetizing. -->
+  <Anesthetize.jobString>กำลังใส่ยานอนหลับ</Anesthetize.jobString>
+  
+  <!-- EN: euthanize by cut -->
+  <Euthanize.label>การุณยฆาต</Euthanize.label>
+  <!-- EN: Euthanize a creature by cutting. -->
+  <Euthanize.description>ทำให้จบชีวิต</Euthanize.description>
+  <!-- EN: Euthanizing by cutting. -->
+  <Euthanize.jobString>กำลังทำการุณยฆาต</Euthanize.jobString>
+  
+  <!-- EN: excise carcinoma -->
+  <ExciseCarcinoma.label>ตัด ก้อนมะเร็ง</ExciseCarcinoma.label>
+  <!-- EN: Excise a carcinoma. -->
+  <ExciseCarcinoma.description>ตัดเอาก้อนมะเร็งออก</ExciseCarcinoma.description>
+  <!-- EN: Excising carcinoma. -->
+  <ExciseCarcinoma.jobString>กำลังผ่าตัดก้อนมะเร็ง</ExciseCarcinoma.jobString>
+  <!-- EN: {0} has successfully excised {1}'s carcinoma. -->
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} ได้ตัดก้อนมะเร็งให้กับ {1} เป็นผลสำเร็จ</ExciseCarcinoma.successfullyRemovedHediffMessage>
+  
+  <!-- EN: remove part -->
+  <RemoveBodyPart.label>เอา อวัยวะออก</RemoveBodyPart.label>
+  <!-- EN: Remove a body part. -->
+  <RemoveBodyPart.description>เอาอวัยวะออกไป</RemoveBodyPart.description>
+  <!-- EN: Removing body part. -->
+  <RemoveBodyPart.jobString>กำลังเอาอวัยวะออก</RemoveBodyPart.jobString>
+  
+  <!-- UNUSED -->
+  <RemoveMechanoidBodyPart.label>เอาชิ้นส่วน อวัยวะออก</RemoveMechanoidBodyPart.label>
+  <RemoveMechanoidBodyPart.description>เอาชิ้นส่วนอวัยวะของเมคานอยด์ออก</RemoveMechanoidBodyPart.description>
+  <RemoveMechanoidBodyPart.jobString>กำลังเอาชิ้นส่วนอวัยวะออก</RemoveMechanoidBodyPart.jobString>
+  
+  <!-- UNUSED -->
+  <ShutDownMechanoid.label>ปิด เครื่อง</ShutDownMechanoid.label>
+  <ShutDownMechanoid.description>ปิดเครื่องเมคานอยด์</ShutDownMechanoid.description>
+  <ShutDownMechanoid.jobString>กำลังปิดเครื่อง</ShutDownMechanoid.jobString>
+  
 </LanguageData>

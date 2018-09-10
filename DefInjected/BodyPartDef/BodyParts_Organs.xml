@@ -1,12 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: heart -->
   <Heart.label>หัวใจ</Heart.label>
-  <LeftLung.label>ปอดข้างซ้าย</LeftLung.label>
-  <RightLung.label>ปอดข้างขวา</RightLung.label>
+  
+  <!-- EN: kidney -->
+  <Kidney.label>TODO</Kidney.label>
+  
+  <!-- UNUSED -->
   <LeftKidney.label>ไตข้างซ้าย</LeftKidney.label>
-  <RightKidney.label>ไตข้างขวา</RightKidney.label>
+  
+  <!-- UNUSED -->
+  <LeftLung.label>ปอดข้างซ้าย</LeftLung.label>
+  
+  <!-- EN: liver -->
   <Liver.label>ตับ</Liver.label>
+  
+  <!-- EN: lung -->
+  <Lung.label>TODO</Lung.label>
+  
+  <!-- UNUSED -->
+  <RightKidney.label>ไตข้างขวา</RightKidney.label>
+  
+  <!-- UNUSED -->
+  <RightLung.label>ปอดข้างขวา</RightLung.label>
+  
+  <!-- EN: stomach -->
   <Stomach.label>กระเพาะอาหาร</Stomach.label>
-
+  
 </LanguageData>

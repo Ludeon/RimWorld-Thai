@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sky-high expectations -->
+  <LowExpectations.stages.skyhigh_expectations.label>ความคาดหวังต่ำปานกลาง</LowExpectations.stages.skyhigh_expectations.label>
+  <!-- EN: This place is really rich. I should be made very comfortable here. -->
+  <LowExpectations.stages.skyhigh_expectations.description>ที่นี่ไม่ค่อยรวยนัก ฉันไม่คาดหวังว่าจะได้รับการบำรุงบำเรอนัก</LowExpectations.stages.skyhigh_expectations.description>
+  <!-- EN: high expectations -->
+  <LowExpectations.stages.high_expectations.label>ความคาดหวังต่ำ</LowExpectations.stages.high_expectations.label>
+  <!-- EN: This place is almost rich. There's no reason I shouldn't have the things I want. -->
+  <LowExpectations.stages.high_expectations.description>ที่นี่ไม่ได้มีความร่ำรวยหรูหรามากนัก ฉันจำเป็นต้องทำตัวให้แข็งแรง</LowExpectations.stages.high_expectations.description>
+  <!-- EN: moderate expectations -->
+  <LowExpectations.stages.moderate_expectations.label>ความคาดหวังต่ำมาก</LowExpectations.stages.moderate_expectations.label>
+  <!-- EN: This place isn't quite rich. I can't expect to be totally pampered. -->
+  <LowExpectations.stages.moderate_expectations.description>ที่นี่ติดอยู่ในความยากจน ฉันไม่หวังความสะดวกสบายที่นี่; ฉันจำเป็นต้องทำตัวให้แข็งแรง</LowExpectations.stages.moderate_expectations.description>
+  <!-- EN: low expectations -->
+  <LowExpectations.stages.low_expectations.label>ความคาดหวังต่ำที่สุด</LowExpectations.stages.low_expectations.label>
+  <!-- EN: This place doesn't have the wealth for many luxuries. I can't expect great comforts. -->
+  <LowExpectations.stages.low_expectations.description>ฉันอยู่ข้างนอกนี่โดยแทบไม่มีที่อยู่เลย ฉันควรทำตัวให้แข็งแกร่งเหมือนเหล็กกล้าเพื่อรอดชีวิต!</LowExpectations.stages.low_expectations.description>
+  <!-- EN: very low expectations -->
+  <LowExpectations.stages.very_low_expectations.label>TODO</LowExpectations.stages.very_low_expectations.label>
+  <!-- EN: This place is poverty-stricken. I need to keep myself strong to survive. -->
+  <LowExpectations.stages.very_low_expectations.description>TODO</LowExpectations.stages.very_low_expectations.description>
+  <!-- EN: extremely low expectations -->
+  <LowExpectations.stages.extremely_low_expectations.label>TODO</LowExpectations.stages.extremely_low_expectations.label>
+  <!-- EN: There's nothing here to make me comfortable. I'd better steel myself to survive. -->
+  <LowExpectations.stages.extremely_low_expectations.description>TODO</LowExpectations.stages.extremely_low_expectations.description>
+  
+</LanguageData>

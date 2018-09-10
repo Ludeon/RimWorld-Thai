@@ -1,22 +1,28 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <GrizzlyBear.label>หมีกริซลี</GrizzlyBear.label>
-  <GrizzlyBear.description>Riesige allesfressende Säugetiere, die sich am kalten Klima angepasst haben. Ihr Speck und ihr dickes Fell halten sie in den Wintermonaten schön warm\n\nAuch wenn ihre normale Ernährung aus Fisch, Beeren, Honig und ergattertem Fleisch besteht, ist der Grizzly mit seiner massiven Stärke und seinen tötlichen Klauen durchaus auch in der Lage lebende Beute zu erlegen. Er ist erschreckend schnell für eine so massive Kreatur.</GrizzlyBear.description>
-  <GrizzlyBear_Leather.label>แผ่นหนังหมีกริซลี</GrizzlyBear_Leather.label>
-  <GrizzlyBear_Leather.description>Das Fell eines Grizzly Bären.</GrizzlyBear_Leather.description>
-  <GrizzlyBear_Leather.stuffProps.stuffAdjective>แผ่นหนังหมีกริซลี</GrizzlyBear_Leather.stuffProps.stuffAdjective>
-  <GrizzlyBear_Meat.label>เนื้อหมีกริซลี</GrizzlyBear_Meat.label>
-  <GrizzlyBear_Meat.description>Das Fleisch eines Grizzly Bären.</GrizzlyBear_Meat.description>
-  <GrizzlyBear_Corpse.label>ซากหมีกริซลี</GrizzlyBear_Corpse.label>
-  <GrizzlyBear_Corpse.description>Die Leiche eines Grizzly Bären.</GrizzlyBear_Corpse.description>
-
-  <PolarBear.label>หมีขั้วโลก</PolarBear.label>
-  <PolarBear.description>Ein großer weißer Bär der in den Weiten des Nordens lebt. Ihr dickes Fell und Körperfett hilft ihnen auch im tiefsten Winter warm zu bleiben.\n\nObwohl ihre normale Nahrung aus Fisch und erbeutetem Fleisch besteht, ist der Eisbär mit seiner massiven Stärke und seinen tödlichen Klauen durchaus auch in der Lage lebende Beute zu erlegen. Er ist erschreckend schnell für eine so massive Kreatur.</PolarBear.description>
-  <PolarBear_Leather.label>แผ่นหนังหมีขั้วโลก</PolarBear_Leather.label>
-  <PolarBear_Leather.description>Das Fell eines Eisbären.</PolarBear_Leather.description>
-  <PolarBear_Leather.stuffProps.stuffAdjective>แผ่นหนังหมีขั้วโลก</PolarBear_Leather.stuffProps.stuffAdjective>
-  <PolarBear_Corpse.label>ซากหมีขั้วโลก</PolarBear_Corpse.label>
-  <PolarBear_Corpse.description>Die Leiche eines Eisbären.</PolarBear_Corpse.description>
-
+  
+  <!-- EN: grizzly bear -->
+  <Bear_Grizzly.label>หมีกริซลี</Bear_Grizzly.label>
+  <!-- EN: A huge omnivorous mammal adapted for cold climates. Bears' thick blubber and fur keeps them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the grizzly is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
+  <Bear_Grizzly.description>Riesige allesfressende Säugetiere, die sich am kalten Klima angepasst haben. Ihr Speck und ihr dickes Fell halten sie in den Wintermonaten schön warm\n\nAuch wenn ihre normale Ernährung aus Fisch, Beeren, Honig und ergattertem Fleisch besteht, ist der Grizzly mit seiner massiven Stärke und seinen tötlichen Klauen durchaus auch in der Lage lebende Beute zu erlegen. Er ist erschreckend schnell für eine so massive Kreatur.</Bear_Grizzly.description>
+  <!-- EN: bear meat -->
+  <Bear_Grizzly.race.meatLabel>TODO</Bear_Grizzly.race.meatLabel>
+  <!-- EN: left claw -->
+  <Bear_Grizzly.tools.left_claw.label>TODO</Bear_Grizzly.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Bear_Grizzly.tools.right_claw.label>TODO</Bear_Grizzly.tools.right_claw.label>
+  <!-- EN: head -->
+  <Bear_Grizzly.tools.head.label>TODO</Bear_Grizzly.tools.head.label>
+  
+  <!-- EN: polar bear -->
+  <Bear_Polar.label>หมีขั้วโลก</Bear_Polar.label>
+  <!-- EN: A great white bear adapted for frozen climates. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish and scavenged meat, the polar bear can also use its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
+  <Bear_Polar.description>Ein großer weißer Bär der in den Weiten des Nordens lebt. Ihr dickes Fell und Körperfett hilft ihnen auch im tiefsten Winter warm zu bleiben.\n\nObwohl ihre normale Nahrung aus Fisch und erbeutetem Fleisch besteht, ist der Eisbär mit seiner massiven Stärke und seinen tödlichen Klauen durchaus auch in der Lage lebende Beute zu erlegen. Er ist erschreckend schnell für eine so massive Kreatur.</Bear_Polar.description>
+  <!-- EN: left claw -->
+  <Bear_Polar.tools.left_claw.label>TODO</Bear_Polar.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Bear_Polar.tools.right_claw.label>TODO</Bear_Polar.tools.right_claw.label>
+  <!-- EN: head -->
+  <Bear_Polar.tools.head.label>TODO</Bear_Polar.tools.head.label>
+  
 </LanguageData>

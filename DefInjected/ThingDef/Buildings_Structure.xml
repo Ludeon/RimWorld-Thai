@@ -1,17 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Doors -->
-
-  <Door.label>ประตู</Door.label>
-  <Door.description>Trennt Räume. Muss von Hand geöffnet und geschlossen werden, wodurch die Kolonisten verlangsamt werden.</Door.description>
-
+  
+  <!-- EN: autodoor -->
   <Autodoor.label>ประตูอัตโนมัติ</Autodoor.label>
+  <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
   <Autodoor.description>Trennt Räume. Stromgebundene Variante. Kolonisten können passieren, ohne verlangsamt zu werden.</Autodoor.description>
-
-  <!-- Walls -->
-
+  
+  <!-- EN: door -->
+  <Door.label>ประตู</Door.label>
+  <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
+  <Door.description>Trennt Räume. Muss von Hand geöffnet und geschlossen werden, wodurch die Kolonisten verlangsamt werden.</Door.description>
+  
+  <!-- EN: wall -->
   <Wall.label>กำแพง</Wall.label>
+  <!-- EN: An impassable wall. Capable of holding up a roof. -->
   <Wall.description>Eine unpassierbare Wand, die ein Dach tragen kann.</Wall.description>
-
+  
 </LanguageData>

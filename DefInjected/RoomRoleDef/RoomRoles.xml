@@ -1,19 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <None.label>ไม่มี</None.label>
-  <Room.label>ห้อง</Room.label>
-  <Bedroom.label>ห้องนอน</Bedroom.label>
-  <PrisonCell.label>ห้องขัง</PrisonCell.label>
-  <DiningRoom.label>ห้องรับประทานอาหาร</DiningRoom.label>
-  <RecRoom.label>ห้องสังสรรค์</RecRoom.label>
-  <Hospital.label>ห้องพยาบาล</Hospital.label>
-  <Laboratory.label>ห้องวิจัย</Laboratory.label>
-  <Workshop.label>โรงงาน</Workshop.label>
-  <Barracks.label>ห้องพักทหาร</Barracks.label>
-  <PrisonBarracks.label>ห้องพักเรือนจำ</PrisonBarracks.label>
-  <Kitchen.label>ห้องครัว</Kitchen.label>
-  <Tomb.label>ห้องสุสาน</Tomb.label>
+  
+  <!-- EN: barn -->
   <Barn.label>โรงนา</Barn.label>
-
+  
+  <!-- EN: barracks -->
+  <Barracks.label>ห้องพักทหาร</Barracks.label>
+  
+  <!-- EN: bedroom -->
+  <Bedroom.label>ห้องนอน</Bedroom.label>
+  
+  <!-- EN: dining room -->
+  <DiningRoom.label>ห้องรับประทานอาหาร</DiningRoom.label>
+  
+  <!-- EN: hospital -->
+  <Hospital.label>ห้องพยาบาล</Hospital.label>
+  
+  <!-- EN: kitchen -->
+  <Kitchen.label>ห้องครัว</Kitchen.label>
+  
+  <!-- EN: laboratory -->
+  <Laboratory.label>ห้องวิจัย</Laboratory.label>
+  
+  <!-- EN: none -->
+  <None.label>ไม่มี</None.label>
+  
+  <!-- EN: prison barracks -->
+  <PrisonBarracks.label>ห้องพักเรือนจำ</PrisonBarracks.label>
+  
+  <!-- EN: prison cell -->
+  <PrisonCell.label>ห้องขัง</PrisonCell.label>
+  
+  <!-- EN: rec room -->
+  <RecRoom.label>ห้องสังสรรค์</RecRoom.label>
+  
+  <!-- EN: room -->
+  <Room.label>ห้อง</Room.label>
+  
+  <!-- EN: tomb -->
+  <Tomb.label>ห้องสุสาน</Tomb.label>
+  
+  <!-- EN: workshop -->
+  <Workshop.label>โรงงาน</Workshop.label>
+  
 </LanguageData>

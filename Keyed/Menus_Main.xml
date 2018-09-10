@@ -1,189 +1,395 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!--=========== Main menu ==========-->
+  <!-- Main menu -->
+  <!-- EN: Tutorial -->
   <Tutorial>โหมดฝึก</Tutorial>
+  <!-- EN: New colony -->
   <NewColony>เริ่มอาณานิคมใหม่</NewColony>
+  <!-- EN: Back to game -->
   <BackToGame>กลับสู่เกม</BackToGame>
+  <!-- EN: Review scenario -->
   <ReviewScenario>วิจารณ์สถานการณ์</ReviewScenario>
+  <!-- EN: Save -->
   <Save>เซฟ</Save>
+  <!-- EN: Load game -->
   <LoadGame>โหลด</LoadGame>
+  <!-- EN: Options -->
   <Options>ตัวเลือก</Options>
+  <!-- EN: Mods -->
   <Mods>Mods</Mods>
+  <!-- EN: Save translation report -->
+  <SaveTranslationReport>TODO</SaveTranslationReport>
+  <!-- EN: Generating translation report -->
+  <GeneratingTranslationReport>TODO</GeneratingTranslationReport>
+  <!-- EN: Cleanup translation files -->
+  <CleanupTranslationFiles>TODO</CleanupTranslationFiles>
+  <!-- EN: Cleaning translation files -->
+  <CleaningTranslationFiles>TODO</CleaningTranslationFiles>
+  <!-- EN: Credits -->
   <Credits>เครดิต</Credits>
+  <!-- EN: Quit to main menu -->
   <QuitToMainMenu>ออกสู่เมนูหลัก</QuitToMainMenu>
+  <!-- EN: Save and quit to menu -->
   <SaveAndQuitToMainMenu>เซฟและออกไปยังเมนู</SaveAndQuitToMainMenu>
+  <!-- EN: Quit to OS -->
   <QuitToOS>ออกจากเกม</QuitToOS>
+  <!-- EN: Save and quit to OS -->
   <SaveAndQuitToOS>เซฟและออกจากเกม</SaveAndQuitToOS>
+  <!-- EN: Fiction primer -->
   <FictionPrimer>ไพรเมอร์นิยาย</FictionPrimer>
+  <!-- EN: Ludeon blog -->
   <LudeonBlog>บล็อกของลูเดียน</LudeonBlog>
+  <!-- EN: Forums -->
   <Forums>ฟอรั่ม</Forums>
+  <!-- EN: Official wiki -->
   <OfficialWiki>วิกิพีเดียของทางการ</OfficialWiki>
+  <!-- EN: Tynan's twitter -->
   <TynansTwitter>ทวิตเตอร์ของ ไทนัน</TynansTwitter>
+  <!-- EN: Tynan's design book -->
   <TynansDesignBook>หนังสือการออกแบบ\nของ ไทนัน</TynansDesignBook>
+  <!-- EN: Help translate RimWorld -->
   <HelpTranslate>ช่วยแปลภาษาให้ Rimworld</HelpTranslate>
+  <!-- EN: Buy soundtrack -->
   <BuySoundtrack>ซื้อ Soundtrack</BuySoundtrack>
+  <!-- EN: Create world -->
   <CreateWorld>สร้างโลก</CreateWorld>
 
-  <!--=========== Create/review world ================-->
+  <!-- Main menu translations info window -->
+  <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
+  <TranslationThanks>TODO</TranslationThanks>
+  <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
+  <TranslationHowToContribute>TODO</TranslationHowToContribute>
+  <!-- EN: Learn more -->
+  <LearnMore>TODO</LearnMore>
+
+  <!-- Main menu dev build -->
+  <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
+  <DevBuildWarning>TODO</DevBuildWarning>
+
+  <!-- Create/review world -->
+  <!-- EN: Review world -->
   <ReviewWorld>วิจารณ์โลก</ReviewWorld>
+  <!-- EN: Generate -->
   <WorldGenerate>ก่อกำเนิด</WorldGenerate>
+  <!-- EN: Save and finish -->
   <WorldSaveAndFinish>เซฟและเสร็จสิ้น</WorldSaveAndFinish>
+  <!-- EN: Reset -->
   <Reset>รีเซ็ต</Reset>
+  <!-- EN: Globe coverage -->
   <PlanetCoverage>คุ้มครองโลก</PlanetCoverage>
+  <!-- EN: Overall rainfall -->
   <PlanetRainfall>ปริมาณน้ำฝนโดยรวม</PlanetRainfall>
+  <!-- EN: Overall temperature -->
   <PlanetTemperature>อุณหภูมิโดยรวม</PlanetTemperature>
+  <!-- EN: Low -->
   <PlanetRainfall_Low>ต่ำ</PlanetRainfall_Low>
+  <!-- EN: Normal -->
   <PlanetRainfall_Normal>ปกติ</PlanetRainfall_Normal>
+  <!-- EN: High -->
   <PlanetRainfall_High>สูง</PlanetRainfall_High>
+  <!-- EN: Low -->
   <PlanetTemperature_Low>ต่ำ</PlanetTemperature_Low>
+  <!-- EN: Normal -->
   <PlanetTemperature_Normal>ปกติ</PlanetTemperature_Normal>
+  <!-- EN: High -->
   <PlanetTemperature_High>สูง</PlanetTemperature_High>
+  <!-- EN: Seed -->
   <WorldSeed>Seed</WorldSeed>
+  <!-- EN: Randomize seed -->
   <RandomizeSeed>สุ่มค่า seed</RandomizeSeed>
+  <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
   <PlanetCoverageTip>ดาวเคราะห์มีขนาดเส้นผ่าศูนย์กลางเหมือนกัน แต่เนื่องจากมีขนาดใหญ่กว่าที่จำเป็นสำหรับการเล่นเราจึงไม่สร้างพื้นผิวทั้งหมดเพราะอาจใช้เวลานานมาก นี่คือเปอร์เซ็นต์ของพื้นผิวที่คุณต้องการสร้างขึ้น</PlanetCoverageTip>
+  <!-- EN: Factions -->
   <WorldFactionsTab>ฝ่าย</WorldFactionsTab>
 
-  <!--=========== Select world ===================-->
+  <!-- Select world -->
+  <!-- EN: Select world -->
   <SelectWorld>เลือกโลก</SelectWorld>
+  <!-- EN: Select -->
   <WorldChooseButton>เลือก</WorldChooseButton>
+  <!-- EN: No world files found. Create a world first. -->
   <NoWorldsFilesFound>ไม่พบไฟล์ข้อมูลโลก ต้องสร้างโลกก่อน</NoWorldsFilesFound>
   
-  <!--=========== Version info ==========-->
+  <!-- Version info -->
+  <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
   <BuildNowAvailable>เวอร์ชัน {0} พร้อมใช้งานแล้ว ตรวจสอบ ludeon.com เพื่อดูข้อมูลเพิ่มเติม</BuildNowAvailable>
-	<BuildUpToDate>นี่คือเวอร์ชันล่าสุด</BuildUpToDate>
-	<ErrorGettingVersionInfo>เกิดข้อผิดพลาดในการเรียกข้อมูลเวอร์ชัน: {0}</ErrorGettingVersionInfo>
-	<LoadingVersionInfo>กำลังโหลดข้อมูลเวอร์ชัน...</LoadingVersionInfo>
+  <!-- EN: This is the latest version. -->
+  <BuildUpToDate>นี่คือเวอร์ชันล่าสุด</BuildUpToDate>
+  <!-- EN: Error getting version info: {0} -->
+  <ErrorGettingVersionInfo>เกิดข้อผิดพลาดในการเรียกข้อมูลเวอร์ชัน: {0}</ErrorGettingVersionInfo>
+  <!-- EN: Loading version info... -->
+  <LoadingVersionInfo>กำลังโหลดข้อมูลเวอร์ชัน...</LoadingVersionInfo>
 
-  <!--=========== World generator =========-->
+  <!-- World generator -->
+  <!-- EN: Generate world -->
   <GenerateWorld>ก่อกำเนิดโลก</GenerateWorld>
 
-  <!--=========== Mods screen ==========-->
+  <!-- Mods config -->
+  <!-- EN: Open Steam Workshop -->
   <OpenSteamWorkshop>เปิด Steam Workshop</OpenSteamWorkshop>
+  <!-- EN: Get mods from forum -->
   <GetModsFromForum>เลือกหา Mods ของเกม จาก โฟลเดอร์</GetModsFromForum>
+  <!-- EN: Open mods data folder -->
   <OpenModsDataFolder>เปิดโฟลเดอร์ข้อมูล Mods</OpenModsDataFolder>
+  <!-- EN: Show mods data location -->
+  <ShowModsDataLocation>TODO</ShowModsDataLocation>
+  <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
   <ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
+  <!-- EN: Are you sure you want to delete all the content for {0}? -->
   <ConfirmDeleteMod>คุณแน่ใจหรือไม่ว่าต้องการลบเนื้อหาทั้งหมดสำหรับ {0}?</ConfirmDeleteMod>
+  <!-- EN: Unsubscribe -->
   <Unsubscribe>ยกเลิกการรับข่าวสาร</Unsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe from {0}? -->
   <ConfirmUnsubscribe>คุณแน่ใจหรือไม่ว่าต้องการยกเลิกการสมัคร {0}?</ConfirmUnsubscribe>
+  <!-- EN: Author -->
   <Author>ผู้ผลิต</Author>
+  <!-- EN: Workshop page -->
   <WorkshopPage>หน้า Workshop</WorkshopPage>
+  <!-- EN: Upload to Steam Workshop -->
   <UploadToSteamWorkshop>อัปโหลดไปยัง Steam Workshop</UploadToSteamWorkshop>
+  <!-- EN: Update on Steam Workshop -->
   <UpdateOnSteamWorkshop>อัปเดตบน Steam Workshop</UpdateOnSteamWorkshop>
+  <!-- EN: Upload already in progress. -->
   <UploadAlreadyInProgress>การอัปโหลดกำลังอยู่ในการดำเนินการ</UploadAlreadyInProgress>
+  <!-- EN: Workshop submission failed.\n\nReason: {0} -->
   <WorkshopSubmissionFailed>Workshop อัปโหลดล้มเหลว\n\nเหตุผล: {0}</WorkshopSubmissionFailed>
+  <!-- EN: Successfully uploaded {0}. -->
   <WorkshopUploadSucceeded>อัปโหลดสำเร็จ {0}.</WorkshopUploadSucceeded>
+  <!-- EN: Downloading -->
   <Downloading>ดาวน์โหลด</Downloading>
+  <!-- EN: Source -->
   <Source>แหล่ง</Source>
+  <!-- EN: For version: {0} -->
   <ModTargetVersion>สำหรับเวอร์ชัน: {0}</ModTargetVersion>
+  <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
   <ModNotMadeForThisVersion>Mod นี้ไม่ได้ทำขึ้นสำหรับ RimWorld รุ่นนี้และอาจทำงานไม่ถูกต้อง</ModNotMadeForThisVersion>
-  <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>. -->
+  <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion>{0}&lt;/targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Drag to reorder -->
   <DragToReorder>ลากเพื่อเรียงลำดับใหม่</DragToReorder>
   
-  <!--=========== Select scenario =============-->
+  <!-- Select scenario -->
+  <!-- EN: Choose scenario -->
   <ChooseScenario>เลือกสถานการณ์</ChooseScenario>
+  <!-- EN: Custom -->
   <ScenariosCustom>กำหนดเอง</ScenariosCustom>
+  <!-- EN: Steam Workshop -->
   <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+  <!-- EN: Scenario editor -->
   <ScenarioEditor>แก้ไขสถานการณ์</ScenarioEditor>
+  <!-- EN: Delete -->
   <Delete>ลบ</Delete>
   
-  <!--============ Scenario editor ===============-->
+  <!-- Scenario editor -->
+  <!-- EN: seed -->
   <Seed>seed</Seed>
+  <!-- EN: Load -->
   <Load>Load</Load>
+  <!-- EN: edit mode -->
   <EditMode>โหมดแก้ไข</EditMode>
+  <!-- EN: Summary -->
   <Summary>สรุป</Summary>
+  <!-- EN: Add part -->
   <AddPart>เพิ่มส่วน</AddPart>
+  <!-- EN: All text fields must be filled. -->
   <TextFieldsMustBeFilled>ต้องใส่กรอกช่องข้อความทั้งหมด</TextFieldsMustBeFilled>
+  <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
   <ConfirmSteamWorkshopUpload>คุณแน่ใจหรือไม่ว่าต้องการอัปโหลดข้อมูลนี้ไปที่ Steam Workshop?\n\nคุณต้องยอมรับข้อกำหนดในการให้บริการของ Steam Workshop ค้นหาคำศัพท์เต็มรูปแบบที่นี่:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
   <ConfirmContentAuthor>เห็นได้ชัดว่าคุณควรอัปโหลดเนื้อหาที่คุณสร้างขึ้นเองเท่านั้น\n\nคุณได้สร้างเนื้อหานี้ด้วยตัวคุณเองหรือไม่ ?</ConfirmContentAuthor>
+  <!-- EN: Incompatible -->
   <Incompatible>เข้ากันไม่ได้</Incompatible>
+  <!-- EN: Too many (max {0}):  -->
   <TooMany>มากเกินไป (สูงสุด {0}): </TooMany>
+  <!-- EN: Can be updated on Workshop, since you are the author. -->
   <CanBeUpdatedOnWorkshop>สามารถอัปเดต Workshop ได้เนื่องจากคุณเป็นผู้เขียน</CanBeUpdatedOnWorkshop>
   
-  <!--=========== Select storyteller ==========-->
+  <!-- Select storyteller -->
+  <!-- EN: Choose AI Storyteller -->
   <ChooseAIStoryteller>เลือก AI Storyteller</ChooseAIStoryteller>
+  <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
   <HowStorytellersWork>AI Storyteller จะเป็นผู้สร้างเหตุการณ์เช่นโจรสลัดบุกปล้น, การดรอปทรัพยากร, หรือการโจมตีของสัตว์ การตัดสินใจของพวกเขา จะมีผลกับเรื่องราวที่เกิดขึ้น ในอาณานิคมของคุณ</HowStorytellersWork>
+  <!-- EN: Please choose a difficulty setting. -->
   <MustChooseDifficulty>กรุณาเลือกระดับความยาก</MustChooseDifficulty>
+  <!-- EN: Difficulty -->
   <Difficulty>ระดับความยาก</Difficulty>
+  <!-- EN: Commitment mode -->
+  <CommitmentMode>TODO</CommitmentMode>
+  <!-- EN: Reload anytime mode -->
+  <ReloadAnytimeMode>TODO</ReloadAnytimeMode>
+  <!-- EN: Please choose commitment mode or reload anytime mode. -->
+  <MustChoosePermadeath>TODO</MustChoosePermadeath>
+  <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
+  <ReloadAnytimeModeInfo>TODO</ReloadAnytimeModeInfo>
+  <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
+  <PermadeathModeInfo>ในโหมด Permadeath คุณจะได้รับไฟล์บันทึกหนึ่งไฟล์และสามารถบันทึกได้เมื่อเลิกเล่นเกมเท่านั้น คุณไม่สามารถโหลดเกมใหม่เพื่อแก้ไขข้อผิดพลาดได้และเมื่ออาณานิคมตายแล้ว\n\nนี่เป็นวิธีที่ RimWorld ตั้งใจที่จะเล่นโดยทุกครั้งที่น่าทึ่ง - ไม่ว่าจะเป็นเรื่องเศร้าหรือความหวัง - เล่นออกไปอย่างเต็มที่</PermadeathModeInfo>
+  <!-- EN: Storyteller and difficulty can be changed any time. -->
+  <CanChangeStorytellerSettingsDuringPlay>TODO</CanChangeStorytellerSettingsDuringPlay>
+  <!-- EN: Merciless mode -->
+  <UnlockExtremeDifficulty>TODO</UnlockExtremeDifficulty>
+  <!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
+  <ConfirmUnlockExtremeDifficulty>TODO</ConfirmUnlockExtremeDifficulty>
 
-  <!--=========== Landing site select =========-->
+  <!-- Landing site select -->
+  <!-- EN: Select landing site -->
   <SelectLandingSite>เลือกพื้นที่ลงจอด</SelectLandingSite>
+  <!-- EN: Select random site -->
   <SelectRandomSite>สุ่มเลือกพื้นที่</SelectRandomSite>
+  <!-- EN: Select site -->
   <SelectSite>เลือกพื้นที่</SelectSite>
+  <!-- EN: Please select a landing site. -->
   <MustSelectLandingSite>กรุณาเลือกพื้นที่ลงจอด</MustSelectLandingSite>
+  <!-- EN: You cannot land on this biome: {0} -->
   <CannotLandBiome>คุณไม่สามารถลงจอดบนชีวนิเวศนี้ได้: {0}</CannotLandBiome>
+  <!-- EN: Biome not implemented -->
   <BiomeNotImplemented>ระบบนิเวศน์ไม่สามารถทำได้</BiomeNotImplemented>
+  <!-- EN: You cannot land on impassable mountains. -->
   <CannotLandImpassableMountains>คุณไม่สามารถลงจอดบนภูเขาไม่ได้</CannotLandImpassableMountains>
+  <!-- EN: {0} already have a base there. -->
   <BaseAlreadyThere>{0} สร้างฐานอยู่ที่นี่แล้ว</BaseAlreadyThere>
+  <!-- EN: You already have a base there. -->
   <YourBaseAlreadyThere>คุณมีฐานอยู่ที่นั่นแล้ว</YourBaseAlreadyThere>
+  <!-- EN: This tile is occupied. -->
   <TileOccupied>กระเบื้องนี้ถูกครอบครอง</TileOccupied>
+  <!-- EN: Settlements cannot be directly adjacent to each other. -->
   <FactionBaseAdjacent>การตั้งถิ่นฐานไม่สามารถอยู่ติดกันได้โดยตรง</FactionBaseAdjacent>
+  <!-- EN: Biome -->
   <Biome>ระบบนิเวศน์</Biome>
+  <!-- EN: Terrain -->
   <Terrain>ภูมิประเทศ</Terrain>
+  <!-- EN: Road -->
   <Road>ถนน</Road>
+  <!-- EN: River -->
   <River>แม่น้ำ</River>
+  <!-- EN: Elevation -->
   <Elevation>การยกระดับ</Elevation>
+  <!-- EN: Fertility -->
   <Fertility>ความสมบูรณ์</Fertility>
+  <!-- EN: Average temperature -->
   <AvgTemp>อุณหภูมิเฉลี่ย</AvgTemp>
-  <AvgSummerTemp>เฉลี่ยอุณหภูมิ (ฤดูหนาวร้อน): {0}</AvgSummerTemp>
-    <AvgWinterTemp>เฉลี่ยอุณหภูมิ (ฤดูหนาว): {0}</AvgWinterTemp>
-    <Rainfall>ปริมาณฝน</Rainfall>
+  <!-- EN: Rainfall -->
+  <Rainfall>ปริมาณฝน</Rainfall>
+  <!-- EN: Special features -->
   <SpecialFeatures>ความสามารถพิเศษ</SpecialFeatures>
+  <!-- EN: northern coast -->
   <HasCoast0>ชายฝั่งทางทิศเหนือ</HasCoast0>
+  <!-- EN: eastern coast -->
   <HasCoast1>ชายฝั่งทางทิศตะวันออก</HasCoast1>
+  <!-- EN: southern coast -->
   <HasCoast2>ชายฝั่งทางทิศตะวันตก</HasCoast2>
+  <!-- EN: western coast -->
   <HasCoast3>ชายฝั่งทางทิศใต้</HasCoast3>
+  <!-- EN: caves -->
   <HasCaves>ถ่ำ</HasCaves>
+  <!-- EN: Faction base -->
   <FactionBase>ฐานของฝ่าย</FactionBase>
+  <!-- EN: Stone types -->
   <StoneTypesHere>ประเภทหิน</StoneTypesHere>
+  <!-- EN: Time zone -->
   <TimeZone>เขตเวลา</TimeZone>
-	<MovementTimeNow>เวลาเคลื่อนไหวในปัจจุบัน</MovementTimeNow>
-	<MovementTimeSummer>เวลาเคลื่อนไหวในช่วงฤดูร้อน</MovementTimeSummer>
-	<MovementTimeWinter>เวลาเคลื่อนไหวในช่วงฤดูหนาว</MovementTimeWinter>
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty>TODO</MovementDifficulty>
+  <!-- EN: Animals can graze now -->
   <AnimalsCanGrazeNow>สัตว์สามารถกินหญ้าได้ในขณะนี้</AnimalsCanGrazeNow>
+  <!-- EN: Average disease frequency -->
   <AverageDiseaseFrequency>ความถี่ของโรคระบาด</AverageDiseaseFrequency>
+  <!-- EN: per year -->
   <PerYear>ต่อปี</PerYear>
+  <!-- EN: Forageability -->
+  <Forageability>TODO</Forageability>
+  <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
+  <ConfirmRequiredWorkTypeDisabledForEveryone>TODO</ConfirmRequiredWorkTypeDisabledForEveryone>
 
-  
-    <!--=========== Character chooser ==========-->
+  <!-- Character chooser -->
+  <!-- EN: Create characters -->
   <CreateCharacters>สร้างตัวละคร</CreateCharacters>
+  <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
   <FirstNameDesc>ชื่อของตัวละคร\n\nนี่แสดงเฉพาะในเมนูบางเมนูเท่านั้น</FirstNameDesc>
+  <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
   <ShortIdentifierDesc>ชื่อเรียกสั้นๆของตัวละคร\n\nซึ่งจะปรากฏตลอดเวลา อาจเป็นชื่อหรือนามสกุล, หรือชื่อเล่นที่แยกกันอย่างสมบูรณ์.</ShortIdentifierDesc>
+  <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
   <LastNameDesc>นามสกุลของตัวละคร\n\nนี้จะปรากฏเฉพาะในบางเมนู.</LastNameDesc>
+  <!-- EN: Randomize -->
   <Randomize>สุ่ม</Randomize>
+  <!-- EN: age {0} -->
   <AgeIndicator>อายุ {0}</AgeIndicator>
+  <!-- EN: Backstory -->
   <Backstory>เรื่องปูมหลัง</Backstory>
+  <!-- EN: Incapable of -->
   <IncapableOf>สิ่งที่ไม่อาจทำได้</IncapableOf>
+  <!-- EN: Traits -->
   <Traits>คุณสมบัติ</Traits>
+  <!-- EN: Permanent mood effect -->
   <PermanentMoodEffect>ผลกระทบอารมณ์ถาวร</PermanentMoodEffect>
+  <!-- EN: Skills -->
   <Skills>ทักษะ</Skills>
+  <!-- EN: none -->
   <NoneLower>ไม่มี</NoneLower>
+  <!-- EN: Adulthood -->
   <Adulthood>ตอนเป็นผู้ใหญ่</Adulthood>
+  <!-- EN: Childhood -->
   <Childhood>ตอนวัยเด็ก</Childhood>
+  <!-- EN: Current -->
+  <Current>TODO</Current>
+  <!-- EN: male -->
   <Male>ผู้ชาย</Male>
+  <!-- EN: female -->
   <Female>ผู้หญิง</Female>
+  <!-- EN: male -->
+  <MaleAnimal>TODO</MaleAnimal>
+  <!-- EN: female -->
+  <FemaleAnimal>TODO</FemaleAnimal>
+  <!-- EN: Pain -->
   <Pain>ความเจ็บปวด</Pain>
+  <!-- EN: Health -->
   <Health>สุขภาพ</Health>
+  <!-- EN: Relations -->
   <Relations>ความสัมพันธ์</Relations>
+  <!-- EN: Team skills -->
   <TeamSkills>ทักษะของทีม</TeamSkills>
+  <!-- EN: Selected -->
   <StartingPawnsSelected>ถูกเลือก</StartingPawnsSelected>
+  <!-- EN: Left behind -->
   <StartingPawnsLeftBehind>ถูกทิ้ง</StartingPawnsLeftBehind>
-
-  <!--=========== Misc ==========-->
+  
+  <!-- Misc -->
+  <!-- EN: Start -->
   <Start>เริ่ม</Start>
+  <!-- EN: Advanced -->
   <Advanced>ขั้นสูง</Advanced>
+  <!-- EN: Next -->
   <Next>ถัดไป</Next>
+  <!-- EN: Back -->
   <Back>กลับ</Back>
+  <!-- EN: Gameplay -->
   <Gameplay>เกมเพลย์</Gameplay>
+  <!-- EN: Really quit? You'll lose unsaved progress. -->
   <ConfirmQuit>คุณต้องการจะออกจริงๆ? คุณจะเสียทุกอย่างที่เล่นมาและคุณยังไม่ได้เซฟ</ConfirmQuit>
+  <!-- EN: Each person needs a valid name. -->
   <EveryoneNeedsValidName>แต่ละคนต้องการชื่อที่ถูกต้อง</EveryoneNeedsValidName>
+  <!-- EN: None of the selected people can do the following jobs -->
+  <RequiredWorkTypeDisabledForEveryone>TODO</RequiredWorkTypeDisabledForEveryone>
+  <!-- EN: Quit -->
   <Quit>เลิก</Quit>
+  <!-- EN: Ignore -->
   <Ignore>ไม่สนใจ</Ignore>
   
-  <!--============ Progress bar==============-->
+  <!-- Progress bar -->
+  <!-- EN: Generating world -->
   <GeneratingWorld>กำลังสร้างโลก</GeneratingWorld>
+  <!-- EN: Generating planet -->
   <GeneratingPlanet>กำลังสร้างดาวเคราะห์</GeneratingPlanet>
+  <!-- EN: Generating map -->
   <GeneratingMap>กำลังสร้างแผนที่</GeneratingMap>
+  <!-- EN: Generating map for new encounter -->
   <GeneratingMapForNewEncounter>สร้างแผนทีสำหรับการเผชิญหน้าครั้งใหม่</GeneratingMapForNewEncounter>
+
+  <!-- UNUSED -->
+  <AvgSummerTemp>เฉลี่ยอุณหภูมิ (ฤดูหนาวร้อน): {0}</AvgSummerTemp>
+  <AvgWinterTemp>เฉลี่ยอุณหภูมิ (ฤดูหนาว): {0}</AvgWinterTemp>
+  <MovementTimeNow>เวลาเคลื่อนไหวในปัจจุบัน</MovementTimeNow>
+  <MovementTimeSummer>เวลาเคลื่อนไหวในช่วงฤดูร้อน</MovementTimeSummer>
+  <MovementTimeWinter>เวลาเคลื่อนไหวในช่วงฤดูหนาว</MovementTimeWinter>
 
 </LanguageData>

@@ -1,13 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Buildable biomes -->
-
+  
+  <!-- EN: tropical rainforest -->
   <TropicalRainforest.label>ป่าดงดิบ</TropicalRainforest.label>
+  <!-- EN: A thick, moist jungle, buzzing with animal life and infested with disease. Despite its visual beauty, this is a very dangerous biome. Choking overgrowth, aggressive animals, and constant sickness are why some explorers call this the "green hell". -->
   <TropicalRainforest.description>ป่าดงดิบชิ้น สัตว์โลกที่ดุร้ายและโตเกินปกติอาศัยอยู่อย่างหนาแน่น ทำให้ยากที่จะสร้างสิ่งปลูกสร้างและเอาชีวิตรอด</TropicalRainforest.description>
-
+  
+  <!-- EN: tropical swamp -->
   <TropicalSwamp.label>ป่าดิบชื้น</TropicalSwamp.label>
+  <!-- EN: A plant-choked, steamy swamp seething with parasites and pathogens. Much of the land is too marshy to build on. Difficult movement, aggressive animals, and rampant disease make living here a nightmare. -->
   <TropicalSwamp.description>ป่าทึบที่มีบึงและโคลนเป็นจำนวนมาก การเคลื่อนย้ายที่ยากลำบากพื้นที่น้อยที่โครงสร้างที่หนักกว่าสามารถสร้างได้สัตว์ก้าวร้าวและความเจ็บป่วยที่คงที่ทำให้ชีวิตอยู่ที่นี่เป็นฝันร้าย</TropicalSwamp.description>
-
-
+  
 </LanguageData>

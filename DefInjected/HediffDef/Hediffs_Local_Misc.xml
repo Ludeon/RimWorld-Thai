@@ -1,20 +1,35 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <TraumaSavant.label>ซ่อก</TraumaSavant.label>
-  <TraumaSavant.labelNoun>ซ่อก</TraumaSavant.labelNoun>
-
+  
+  <!-- EN: chemical damage -->
   <ChemicalDamageModerate.label>ความเสียหายทางเคมี</ChemicalDamageModerate.label>
   
+  <!-- EN: chemical damage -->
   <ChemicalDamageSevere.label>ความเสียหายทางเคมี</ChemicalDamageSevere.label>
- 
+  
+  <!-- EN: cirrhosis -->
   <Cirrhosis.label>โรคตับแข็ง</Cirrhosis.label>
-	
+  
+  <!-- EN: resurrection psychosis -->
   <ResurrectionPsychosis.label>โรคจิตฟื้นคืนชีพ</ResurrectionPsychosis.label>
-  <ResurrectionPsychosis.stages.0.label>ขั้นต้น</ResurrectionPsychosis.stages.0.label>
-  <ResurrectionPsychosis.stages.1.label>ขั้นต้น</ResurrectionPsychosis.stages.1.label>
-  <ResurrectionPsychosis.stages.2.label>ขั้นกลาง</ResurrectionPsychosis.stages.2.label>
-  <ResurrectionPsychosis.stages.3.label>ขั้นสูง</ResurrectionPsychosis.stages.3.label>
-  <ResurrectionPsychosis.stages.4.label>ขั้นเต็ม</ResurrectionPsychosis.stages.4.label>
-
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-0.label>ขั้นต้น</ResurrectionPsychosis.stages.early-0.label>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-1.label>ขั้นต้น</ResurrectionPsychosis.stages.early-1.label>
+  <!-- EN: moderate -->
+  <ResurrectionPsychosis.stages.moderate.label>ขั้นกลาง</ResurrectionPsychosis.stages.moderate.label>
+  <!-- EN: advanced -->
+  <ResurrectionPsychosis.stages.advanced.label>ขั้นสูง</ResurrectionPsychosis.stages.advanced.label>
+  <!-- EN: severe -->
+  <ResurrectionPsychosis.stages.severe.label>ขั้นเต็ม</ResurrectionPsychosis.stages.severe.label>
+  <!-- EN: total -->
+  <ResurrectionPsychosis.stages.total.label>TODO</ResurrectionPsychosis.stages.total.label>
+  <!-- EN: catatonic -->
+  <ResurrectionPsychosis.stages.catatonic.label>TODO</ResurrectionPsychosis.stages.catatonic.label>
+  
+  <!-- EN: trauma savant -->
+  <TraumaSavant.label>ซ่อก</TraumaSavant.label>
+  <!-- EN: trauma -->
+  <TraumaSavant.labelNoun>ซ่อก</TraumaSavant.labelNoun>
+  
 </LanguageData>

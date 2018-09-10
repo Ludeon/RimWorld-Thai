@@ -1,33 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- General -->
-
-  <Basics.label>รากฐาน</Basics.label>
-  <BasicsPawn.label>รากฐาน</BasicsPawn.label>
-  <BasicsNonPawn.label>รากฐาน</BasicsNonPawn.label>
-
-  <!-- Non-pawn -->
-
-  <Apparel.label>เครื่องนุ่งห่ม</Apparel.label>
-  <Weapon.label>อาวุธ</Weapon.label>
-  <Building.label>อาคาร</Building.label>
-
-  <!-- Virtual categories -->
-
-  <EquippedStatOffsets.label>ค่าที่จะเพิ่มเมื่อการติดตั้ง</EquippedStatOffsets.label>
-  <StuffStatFactors.label>ที่จะคูณค่าสำหรับผลิตภัณฑ์ในขั้นสุดท้าย</StuffStatFactors.label>
-  <StuffStatOffsets.label>ที่จะเพิ่มค่าสำหรับผลิตภัณฑ์ในขั้นสุดท้าย</StuffStatOffsets.label>
-  <StuffOfEquipmentStatFactors.label>ที่จะคูณค่าสำหรับเครื่องจักรอุปกรณ์การผลิต</StuffOfEquipmentStatFactors.label>
-
-  <Surgery.label>ศัลยกรรม</Surgery.label>
-
   
-  <!-- Pawn -->
-
+  <!-- EN: Apparel -->
+  <Apparel.label>เครื่องนุ่งห่ม</Apparel.label>
+  
+  <!-- EN: Basics -->
+  <Basics.label>รากฐาน</Basics.label>
+  
+  <!-- EN: Basics -->
+  <BasicsNonPawn.label>รากฐาน</BasicsNonPawn.label>
+  
+  <!-- EN: Basics -->
+  <BasicsPawn.label>รากฐาน</BasicsPawn.label>
+  
+  <!-- EN: Building -->
+  <Building.label>อาคาร</Building.label>
+  
+  <!-- EN: Offsets when equipped -->
+  <EquippedStatOffsets.label>ค่าที่จะเพิ่มเมื่อการติดตั้ง</EquippedStatOffsets.label>
+  
+  <!-- EN: Combat -->
   <PawnCombat.label>สู้</PawnCombat.label>
-  <PawnSocial.label>สังคม</PawnSocial.label>
+  
+  <!-- EN: Misc -->
   <PawnMisc.label>เบ็ดเตล็ด</PawnMisc.label>
+  
+  <!-- EN: Social -->
+  <PawnSocial.label>สังคม</PawnSocial.label>
+  
+  <!-- EN: Work -->
   <PawnWork.label>การทำงาน</PawnWork.label>
-
+  
+  <!-- EN: Multipliers when equipment made of this -->
+  <StuffOfEquipmentStatFactors.label>ที่จะคูณค่าสำหรับเครื่องจักรอุปกรณ์การผลิต</StuffOfEquipmentStatFactors.label>
+  
+  <!-- EN: Multipliers when made of this -->
+  <StuffStatFactors.label>ที่จะคูณค่าสำหรับผลิตภัณฑ์ในขั้นสุดท้าย</StuffStatFactors.label>
+  
+  <!-- EN: Offsets when made of this -->
+  <StuffStatOffsets.label>ที่จะเพิ่มค่าสำหรับผลิตภัณฑ์ในขั้นสุดท้าย</StuffStatOffsets.label>
+  
+  <!-- EN: Surgical -->
+  <Surgery.label>ศัลยกรรม</Surgery.label>
+  
+  <!-- EN: Weapon -->
+  <Weapon.label>อาวุธ</Weapon.label>
+  
 </LanguageData>
