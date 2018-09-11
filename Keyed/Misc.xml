@@ -132,9 +132,5 @@
   <West>ทิศตะวันตก</West>
   <!-- EN: East -->
   <East>ทิศตะวันออก</East>
-  
-  <!-- UNUSED -->
-  <LeatherLabel>แผ่นหนัง{0}</LeatherLabel>
-  <LeatherDesc>แผ่นหนังทำขึ้นจากหนังของ{0}</LeatherDesc>
 
 </LanguageData>

@@ -373,11 +373,5 @@
   <FreePrisoner>TODO</FreePrisoner>
   <!-- EN: Offer help -->
   <OfferHelp>TODO</OfferHelp>
-  
-  <!-- UNUSED -->
-  <MissingSkill>ทักษะต่ำเกินไป</MissingSkill>
-  <NoEmptyGraveLower>ไม่มีหลุมฝังศพที่ว่างเปล่าที่กำหนดค่าให้เก็บไว้</NoEmptyGraveLower>
-  <VisitSite>เยือน {0}</VisitSite>
-  <AttackSite>โจมตี {0}</AttackSite>
 
 </LanguageData>

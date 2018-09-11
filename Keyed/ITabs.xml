@@ -286,12 +286,4 @@
   <!-- EN: Do you really want to remove {0}? -->
   <ConfirmRemoveItemDialog>TODO</ConfirmRemoveItemDialog>
 
-  <!-- UNUSED -->
-  <TabCombat>การต่อสู้</TabCombat>
-  <NoInjuries>(ไม่มีอาการบาดเจ็บ)</NoInjuries>
-  <Harvest>เก็บเกี่ยว</Harvest>
-  <TrainableIntelligence>สติปัญญาที่สามารถฝึกหัดได้</TrainableIntelligence>
-  <AverageArmor>เกราะเฉลี่ย</AverageArmor>
-  <ArmorElectric>ไฟฟ้า</ArmorElectric>
-
 </LanguageData>

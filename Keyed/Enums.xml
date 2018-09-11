@@ -51,7 +51,7 @@
   <!-- EN: corpses -->
   <FoodTypeFlags_Corpse>ศพ</FoodTypeFlags_Corpse>
   <!-- EN: seeds -->
-  <FoodTypeFlags_Seed>TODO</FoodTypeFlags_Seed>
+  <FoodTypeFlags_Seed>เมล็ดพืช</FoodTypeFlags_Seed>
   <!-- EN: animal products -->
   <FoodTypeFlags_AnimalProduct>ผลิตผลจากสัตว์</FoodTypeFlags_AnimalProduct>
   <!-- EN: live plants -->
@@ -294,13 +294,5 @@
   <PsychicDroneLevel_BadHigh>TODO</PsychicDroneLevel_BadHigh>
   <!-- EN: extreme -->
   <PsychicDroneLevel_BadExtreme>TODO</PsychicDroneLevel_BadExtreme>
-
-  <!-- UNUSED -->
-  <FoodTypeFlags_Seeds>เมล็ดพืช</FoodTypeFlags_Seeds>
-  <QualityCategory_Shoddy>แย่มาก</QualityCategory_Shoddy>
-  <QualityCategory_Superior>ดีเยี่ยม</QualityCategory_Superior>
-  <QualityCategoryShort_Shoddy>แย่มาก</QualityCategoryShort_Shoddy>
-  <QualityCategoryShort_Superior>ดีเยี่ยม</QualityCategoryShort_Superior>
-  <TechLevel_Transcendent>เหนือธรรมชาติ</TechLevel_Transcendent>
 
 </LanguageData>

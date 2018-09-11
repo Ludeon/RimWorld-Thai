@@ -73,9 +73,5 @@
   <Lasted>อยู่ถึง</Lasted>
   <!-- EN: occurred {0} ago -->
   <OccurredTimeAgo>เกิดขึ้นเมื่อ {0} ที่ผ่านมา</OccurredTimeAgo>
-  
-  <!-- UNUSED -->
-  <Period1Season>1 ฤดู</Period1Season>
-  <PeriodSeasons>{0} ฤดู</PeriodSeasons>
 
 </LanguageData>

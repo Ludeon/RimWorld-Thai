@@ -223,15 +223,4 @@
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
   <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>TODO</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
 
-  <!-- UNUSED -->
-  <DesignatorSmoothFloor>ขัดพื้นให้เรียบ</DesignatorSmoothFloor>
-  <DesignatorSmoothFloorDesc>กำหนดพื้นหินหยาบที่จะขัดให้เรียบ</DesignatorSmoothFloorDesc>
-  <DesignatorAreaBuildRoofClear>ล้างเขคที่สร้างหลังคา</DesignatorAreaBuildRoofClear>
-  <DesignatorAreaBuildRoofClearDesc>เอาเขตที่จะสร้างหลังคาออก,หลังคาที่มีอยู่จะยังคงอยู่แต่ชาวอาณานิคมจะไม่สร้างขึ้นมา</DesignatorAreaBuildRoofClearDesc>
-  <DesignatorAreaNoRoofClear>ล้างเขตปลอด\nหลังคา</DesignatorAreaNoRoofClear>
-  <DesignatorAreaNoRoofClearDesc>เอาเขตปลอดหลังคาออก หลังคาจะสร้างที่นี่, และหลังคาที่มีอยู่จะไม่ถูกรื้อลงมา</DesignatorAreaNoRoofClearDesc>
-  <DesignatorRearmTrap>ขึ้นกับดักใหม่</DesignatorRearmTrap>
-  <DesignatorRearmTrapDesc>ขี้นกับดักที่เด้งแล้วใหม่ เพื่อที่มันจะได้ลั่นอีกครั้ง</DesignatorRearmTrapDesc>
-  <TerrainBeingSmoothed>พื้นนั้นถูกกำหนดให้ขัดให้เรียบแล้ว</TerrainBeingSmoothed>
-
 </LanguageData>

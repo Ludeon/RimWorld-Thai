@@ -232,29 +232,4 @@
   <!-- EN: Because you are no longer hostile with {0}, the following sites are no longer available -->
   <LetterSiteNoLongerHostileMulti>TODO</LetterSiteNoLongerHostileMulti>
 
-  <!-- UNUSED -->
-  <EnemyRaidWalkIn>กลุ่ม {0} ของ {1} ได้เดินทางมาถึงบริเวณใกล้เคียง</EnemyRaidWalkIn>
-  <EnemyRaidEdgeDrop>กลุ่ม {0} ของ {1} ได้เข้ามาอยู่ในกระสวยตกอยู่บริเวณใกล้เคียง</EnemyRaidEdgeDrop>
-  <EnemyRaidCenterDrop>กลุ่ม {0} ของ {1}ได้ลดลงในขวาด้านบนของคุณ!</EnemyRaidCenterDrop>
-  <FriendlyRaidWalkIn>กลุ่มพันธมิตร {0} ของ {1} ได้เดินทางมาถึงบริเวณใกล้เคียง</FriendlyRaidWalkIn>
-  <FriendlyRaidEdgeDrop>กลุ่มพันธมิตร {0} ของ {1} ได้ลดลงจากวงโคจรอยู่บริเวณใกล้เคียง</FriendlyRaidEdgeDrop>
-  <FriendlyRaidCenterDrop>กลุ่มพันธมิตร {0} ของ {1} ได้ลดลงจากวงโคจรขวาด้านบนของคุณ!</FriendlyRaidCenterDrop>
-  <LetterLabelWandererJoin>คนหลงทางเข้าร่วม</LetterLabelWandererJoin>
-  <WandererJoin>{0} ชื่อ [PAWN_nameDef] จะเข้าร่วมอาณานิคม {1}.</WandererJoin>
-  <PsychicDroneLevelLow>ต่ำ</PsychicDroneLevelLow>
-  <PsychicDroneLevelMedium>ปานกลาง</PsychicDroneLevelMedium>
-  <PsychicDroneLevelHigh>สูง</PsychicDroneLevelHigh>
-  <PsychicDroneLevelExtreme>สูงจัด</PsychicDroneLevelExtreme>
-  <LetterLabelBuildingBrokenDown>{0} เสีย</LetterLabelBuildingBrokenDown>
-  <LetterBuildingBrokenDown>หนึ่งในเครื่องใช่ของคุณ ({0}) เสีย มันจะไม่ทำงานจนกว่าอาณานิคมคุณซ่อมและแก้ไขมัน</LetterBuildingBrokenDown>
-  <ItemStashQuestTitle>โอกาสสะสมรายการ</ItemStashQuestTitle>
-  <ItemStashQuest_Accept>ยอมรับ</ItemStashQuest_Accept>
-  <ItemStashQuest_Reject>ปฏิเสธ</ItemStashQuest_Reject>
-  <ItemStashQuestFeeDemand>{0} ยินดีที่จะบอกตำแหน่งที่เก็บสะสมไว้เพื่อแลกกับ {1} เงิน</ItemStashQuestFeeDemand>
-  <ItemStashSitePart_Unknown>น่าเสียดาย {0} ไม่มีใครรู้ว่าใครหรือจะทำอะไร - ถ้ามีอะไร - อาจจะเฝ้าสะสมไว้</ItemStashSitePart_Unknown>
-  <ItemStashSitePart_Nothing>{0} กล่าวว่าที่ซ่อนไม่ได้เป็น</ItemStashSitePart_Nothing>
-  <ItemStashSitePart_Outpost>{0} กล่าวว่ามีด่านของศัตรูอยู่ใกล้ ๆ</ItemStashSitePart_Outpost>
-  <ItemStashSitePart_Turrets>{0} กล่าวว่าที่ซ่อนอยู่ล้อมรอบด้วยป้อมปราการศัตรู</ItemStashSitePart_Turrets>
-  <ItemStashSitePart_Manhunters>{0} กล่าวว่ามีกลุ่มของสัตว์ที่กำลังล่าสัตว์อยู่ใกล้ ๆ</ItemStashSitePart_Manhunters>
-
 </LanguageData>

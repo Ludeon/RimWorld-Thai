@@ -523,20 +523,4 @@
   <!-- EN: Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}. -->
   <MessageCapturingWillAngerFaction>TODO</MessageCapturingWillAngerFaction>
 
-  <!-- UNUSED -->
-  <MessageMustDesignateSmoothableFloor>ต้องระบุพื้นผิวหินขรุขระ</MessageMustDesignateSmoothableFloor>
-  <MessagePawnExitMapRelationsGain>เนื่องจาก {0} ออกจากแผนที่ความสัมพันธ์กับ {1} จึงดีขึ้นโดย {2}</MessagePawnExitMapRelationsGain>
-  <MessageFailedToSendCaravanBecausePawnLost>ไม่สามารถส่งกองคาราวานเนื่องจากหนึ่งในอาณานิคมนักโทษหรือสัตว์สูญหาย</MessageFailedToSendCaravanBecausePawnLost>
-  <MessageAmbushVictory>ชัยชนะ! ใน {0} กองคาราวานจะได้รับการปฏิรูปโดยอัตโนมัติ คุณสามารถปฏิรูปกองคาราวานได้ในหน้าจอโลก</MessageAmbushVictory>
-  <MessageAutomaticallyReformedCaravan>อาณานิคมของคุณได้ปฏิรูปกองคาราวาน</MessageAutomaticallyReformedCaravan>
-  <MessageOldWoundHealed>เนื่องจาก {0}  {1} ของ {2} ได้รับการเยียวยา</MessageOldWoundHealed>
-  <MessageAttackedCaravanIsNowHostile>เนื่องจากคุณโจมตีกองคาราวาน {0} ฝ่ายนี้จึงเป็นปฏิปักษ์กับคุณ</MessageAttackedCaravanIsNowHostile>
-  <MessageFactionPawnCrushed>{0} คนสูญเสียหลังคายุบ ความสัมพันธ์ของกลุ่ม: {1}</MessageFactionPawnCrushed>
-  <MessageFactionPawnLost>{0} สูญหาย {1} ความสัมพันธ์ของกลุ่ม: {2}</MessageFactionPawnLost>
-  <MessageTransportPodsArrived_BecameHostile>{0} ตอนนี้เป็นศัตรูกับคุณ</MessageTransportPodsArrived_BecameHostile>
-  <MessageFailedToLoadTransportersBecauseColonistLost>ขั้นตอนการโหลดถูกยกเลิกเนื่องจากผู้ล่าอาณานิคมรายหนึ่งหายไป</MessageFailedToLoadTransportersBecauseColonistLost>
-  <MessageCantAbandonLastColonist>คุณไม่สามารถละทิ้งอาณานิคมล่าสุดได้</MessageCantAbandonLastColonist>
-  <MessageCaravanRunOutOfFood>{0} หมดอาหาร ({1}) แล้ว</MessageCaravanRunOutOfFood>
-  <MessagePrisonerRescued>คุณได้ช่วย [PAWN_nameDef] และ [PAWN_pronoun] ได้เข้าร่วมอาณานิคมของคุณแล้ว</MessagePrisonerRescued>
-
 </LanguageData>

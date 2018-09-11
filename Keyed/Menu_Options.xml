@@ -19,7 +19,7 @@
   <!-- EN: Pause on load -->
   <PauseOnLoad>หยุดเกมไว้ตอนโหลด</PauseOnLoad>
   <!-- EN: Pause on urgent letter -->
-  <PauseOnUrgentLetter>หยุดเกมเมือมีจดหมายฉุกเฉิน</PauseOnUrgentLetter>
+  <PauseOnUrgentLetter>หยุดเกมเมื่อมีจดหมายฉุกเฉิน</PauseOnUrgentLetter>
   <!-- EN: Custom cursor -->
   <CustomCursor>ใช้เมาส์ที่ปรับแต่ง</CustomCursor>
   <!-- EN: Hats shown only on game map -->
@@ -92,12 +92,5 @@
   <RestoreToDefaultSettings>TODO</RestoreToDefaultSettings>
   <!-- EN: Your options have been reset. The game will now restart automatically. -->
   <ResetAndRestart>TODO</ResetAndRestart>
-  
-  <!-- UNUSED -->
-  <MaxNumberOfPlayerHomes>จำนวนสูงสุดของอาณานิคม: {0}</MaxNumberOfPlayerHomes>
-  <Privacy>ความเป็นส่วนตัว</Privacy>
-  <UserName>ยูเซอร์ เนม</UserName>
-  <ChooseHistoryUploadPref>ข้อมูลอัปโหลดการเล่นเกม pref</ChooseHistoryUploadPref>
-  <AboutHistoryUpload>ข้อมูลเกมสำหรับผู้ใช้ช่วยให้นักพัฒนาสามารถปรับสมดุลเกมได้ หากคุณยอมรับข้อมูลของคุณจะถูกส่งทุก {0} วันทำการ (และในบางกรณีที่หายากอื่น ๆ เช่นการสิ้นสุดของเกม) ไปยังเซิร์ฟเวอร์ RimWorld และทำการวิเคราะห์ ข้อมูลเกมเพลย์ที่อัปโหลดประกอบด้วยสถิติและประวัติที่เกี่ยวข้องกับเกมเท่านั้น - ไม่มีการส่งข้อมูลส่วนบุคคลยกเว้นชื่อผู้ใช้ซึ่งหมายความว่าเป็นชื่อที่ไม่ระบุชื่ออย่างสมบูรณ์</AboutHistoryUpload>
 
 </LanguageData>

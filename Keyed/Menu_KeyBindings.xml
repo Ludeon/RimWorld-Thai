@@ -2,11 +2,11 @@
 <LanguageData>
 
   <!-- EN: Save -->
-  <SaveButton>เซฟ</SaveButton>
+  <SaveButton>บันทึก</SaveButton>
   <!-- EN: Clear -->
   <ClearBinding>ล้าง</ClearBinding>
   <!-- EN: Reset to default -->
-  <ResetBinding>รีเซ็ตเป็น Default</ResetBinding>
+  <ResetBinding>รีเซ็ตเป็นค่าเริ่มต้น</ResetBinding>
   <!-- EN: Left-click to bind this key or right-click for options -->
   <BindingButtonToolTip>คลิกซ้ายเพื่อผูกคีย์นี้หรือคลิกขวาสำหรับตัวเลือก</BindingButtonToolTip>
   <!-- EN: Press any key or Esc to cancel... -->

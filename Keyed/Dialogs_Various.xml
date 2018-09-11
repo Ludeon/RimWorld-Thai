@@ -825,30 +825,4 @@
   <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
   <TransportersCaravanWillBeImmobile>TODO</TransportersCaravanWillBeImmobile>
 
-  <!-- UNUSED -->
-  <InitializingMap>กำลังจัดเตรียมแผนที่</InitializingMap>
-  <PermadeathMode>โหมด Permadeath</PermadeathMode>
-  <SurgeryRequireBed>ต้องการเตียง</SurgeryRequireBed>
-  <TradeMassUsageTooltip>การใช้มวลและการผลิตมวล</TradeMassUsageTooltip>
-  <CaravanConfigTab>การกำหนดค่า</CaravanConfigTab>
-  <MassUsageInfo>{0} / {1} กิโล</MassUsageInfo>
-  <DaysWorthOfFoodInfo>อาหาร {0} วัน</DaysWorthOfFoodInfo>
-  <DaysWorthOfFoodTooltip_CanEatLocalPlants>ขึ้นอยู่กับฤดูกาลปัจจุบันอุณหภูมิและสภาพแวดล้อมที่เราคิดว่ามันจะเป็นไปได้สำหรับสัตว์กินพืชที่กินพืชในท้องถิ่น อย่างไรก็ตามสามารถเปลี่ยนแปลงได้ตลอดเวลา</DaysWorthOfFoodTooltip_CanEatLocalPlants>
-  <DaysWorthOfFoodTooltip_CantEatLocalPlants>ขึ้นอยู่กับฤดูกาลปัจจุบันอุณหภูมิและสภาพแวดล้อมที่เราคิดว่ามันจะไม่เป็นไปได้สำหรับสัตว์กินพืชที่กินพืชในท้องถิ่น อย่างไรก็ตามสามารถเปลี่ยนแปลงได้ตลอดเวลา</DaysWorthOfFoodTooltip_CantEatLocalPlants>
-  <NoExitDirectionForCaravanChosen>คุณต้องเลือกทิศทางการออกสำหรับกองคาราวาน</NoExitDirectionForCaravanChosen>
-  <NoCaravanExitDirectionAvailable>(ไม่มีทางออกที่พร้อมใช้งาน)</NoCaravanExitDirectionAvailable>
-  <ExitDirection>ทิศทางออก</ExitDirection>
-  <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
-  <EstimatedTimeToDestinationButton>เวลาไปถึงปลายทาง</EstimatedTimeToDestinationButton>
-  <CaravanSplitSourceLabel>ปัจจุบัน</CaravanSplitSourceLabel>
-  <CaravanSplitDestLabel>ใหม่</CaravanSplitDestLabel>
-  <SplitCaravanMassUsageTooltip>การใช้มวลชนในปัจจุบันและความจุมวลชน</SplitCaravanMassUsageTooltip>
-  <TransportersMassUsageTooltip>การใช้มวลชนในปัจจุบันและความจุมวลชน\n\nคุณจะไม่สามารถส่งกระสวยขนส่งได้หากการใช้มวลเกินความจุ</TransportersMassUsageTooltip>
-  <ConfirmLeavePrisonersOrAnimalsBehind>ยังคงมีนักโทษหรือสัตว์เหลืออยู่ในพื้นที่นี้และนี่เป็นเพียงกองคาราวานเท่านั้นที่สามารถเข้าร่วมได้ในขณะนี้\n\nถ้าคุณย้ายกองคาราวานของคุณพวกเขาจะไม่สามารถออกจากพื้นที่จนกว่าคุณจะกลับมา นักโทษจะเริ่มหลบหนีขณะที่สัตว์กำลังรอคุณอยู่\n\nหากคุณตัดสินใจที่จะรอพวกเขาจะพยายามเข้าร่วมกองคาราวานของคุณโดยเร็วที่สุด\n\nคุณแน่ใจหรือไม่ว่าต้องการย้ายกองคาราวานของคุณ?</ConfirmLeavePrisonersOrAnimalsBehind>
-  <ConfirmAbandonPawnDialog>คุณต้องการจะละทิ้ง {0}?</ConfirmAbandonPawnDialog>
-  <ConfirmAbandonPawnDialog_LeftToDie>{0} ส่วนใหญ่มีแนวโน้มที่จะตาย</ConfirmAbandonPawnDialog_LeftToDie>
-  <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} จะใช้รายการต่อไปนี้ด้วย [PAWN_objective]:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
-  <ConfirmAbandonPawnDialog_AllColonistsThoughts>ผู้ล่าอาณานิคมทุกคนจะได้รับความคิดดังต่อไปนี้:</ConfirmAbandonPawnDialog_AllColonistsThoughts>
-  <ConfirmAbandonPawnDialog_IndividualThoughts>ทิ้ง {0} จะทำให้คนต่อไปนี้ได้รับความคิดต่อไปนี้:</ConfirmAbandonPawnDialog_IndividualThoughts>
-
 </LanguageData>

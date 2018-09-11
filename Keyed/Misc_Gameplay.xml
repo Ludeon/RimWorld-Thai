@@ -1051,26 +1051,4 @@
   <!-- EN: See available orders... -->
   <ClickToSeeAvailableOrders_Empty>TODO</ClickToSeeAvailableOrders_Empty>
 
-  <!-- UNUSED -->
-  <NextTreatmentIn>รักษาครั้งถัดไปใน {0}</NextTreatmentIn>
-  <CaravanMemberMentalBreak>หยุดเนื่องจาก: {0} เสียสติ</CaravanMemberMentalBreak>
-  <CaravanHoursPerTile>ซ./ช่อง</CaravanHoursPerTile>
-  <CaravanBaseMovementTime>เวลาเคลื่อนที่เรี่มต้น</CaravanBaseMovementTime>
-  <StealthFactor>การลักลอบ</StealthFactor>
-  <DeterioratingDueToBeingUnroofed>กำลังเสื่อมโซมเนื่อกจากไม่ได้อยู่ใต้หลังคา</DeterioratingDueToBeingUnroofed>
-  <LongRangeMineralScannerEfficiency>อย่างมีประสิทธิภาพ: {0}</LongRangeMineralScannerEfficiency>
-  <SomeItemStashContents>เนื้อหาบางส่วน: {0}.</SomeItemStashContents>
-  <AreaAnimalDefaultLabel>{0} อาณาเขตสัตว์</AreaAnimalDefaultLabel>
-  <NewAreaAnimal>สร้างอาณาเขตสัตว์ใหม่</NewAreaAnimal>
-  <CannotGrowTooCold>ไม่สามารถเพาะปลูกได้ - ฤดูที่อากาศเย็น</CannotGrowTooCold>
-  <ShowEnvironmentToggleButton>สลับการแสดงผลด้านสิ่งแวดล้อม\n\nแสดงความสวยงามและสถิติห้องพักของสภาพแวดล้อมตามที่เห็นได้จากที่เมาส์ชี้</ShowEnvironmentToggleButton>
-  <MapConditionsTip>เงื่อนไขพิเศษส่งผลกระทบต่อพื้นที่ในขณะนี้</MapConditionsTip>
-  <HibernateCompleteLabel>เครื่องปฏิกรณ์พร้อม</HibernateCompleteLabel>
-  <HibernateComplete>Charlon Whitestone ได้ทำลำดับการกู้คืนข้อมูลการทำไฮเบอร์เนตเสร็จสิ้น เครื่องปฏิกรณ์พร้อมที่จะบินขึ้น</HibernateComplete>
-  <TrapArmed>ตั้งแล้ว</TrapArmed>
-  <TrapNotArmed>ยังไม่ได้ตั้ง</TrapNotArmed>
-  <TrapRearmingCost>ค่าตั้งใหม่: {0}</TrapRearmingCost>
-  <EstimatedTimeToThisWaypoint>เวลา จุดนี้: {0}</EstimatedTimeToThisWaypoint>
-  <EstimatedTimeToThisWaypointFromPrevious>เวลาระหว่างจุดเชื่อมต่อนี้กับ จุด ก่อนหน้า: {0}</EstimatedTimeToThisWaypointFromPrevious>
-
 </LanguageData>

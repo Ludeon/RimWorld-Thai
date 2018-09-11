@@ -381,29 +381,5 @@
   <LetterLabelTraitDisease>TODO</LetterLabelTraitDisease>
   <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
   <LetterTraitDisease>TODO</LetterTraitDisease>
-
-  <!-- UNUSED -->
-  <RelationsBrokenDown>ความสัมพันธ์กับ {0} ได้พังลงแล้ว ตอนนี้พวกเขาเป็นศัตรูกับคุณ</RelationsBrokenDown>
-  <RelationsWarmed>ความสัมพันธ์กับ {0} ดีขึ้น พวกเขาจะไม่เป็นคัตรูกับคุณอีกต่อไป.</RelationsWarmed>
-  <RelationsBrokenCapture>เพราะคุณจับตัว {0} มา, ตอนนี้ {1} จึงเป็นศัตรูกับคุณ</RelationsBrokenCapture>
-  <ColonyGoodwill>ค่าความนิยมอาณานิคม</ColonyGoodwill>
-  <MentalBreakLetterLabel>Mental break</MentalBreakLetterLabel>
-  <MentalBreakReason>The final straw was: {0}.</MentalBreakReason>
-  <LetterRelatedPawnsTradingWithFactionBase>ฝ่ายขายกำลังขายคนที่มีความสัมพันธ์กับอาณานิคมหรือนักโทษของคุณ:</LetterRelatedPawnsTradingWithFactionBase>
-  <LetterNewLovers>{0} และ {1} มีความคิดเหมือนๆกันและตอนนี้คบกันอยู่</LetterNewLovers>
-  <LetterLabelRelationsChangeGood>ความคิดเห็นที่ดี</LetterLabelRelationsChangeGood>
-  <LetterLabelRelationsChangeBad>ความคิดเห็นที่ไม่ดี</LetterLabelRelationsChangeBad>
-  <LetterLabelBondedAnimalDied>ความตายของสัตว์ที่มีสายสัมพันธ์ด้วย</LetterLabelBondedAnimalDied>
-  <LetterBondedAnimalDied>{0}, ซึ่งผูกสัมพันธ์กับ {1}, ได้ตายลงแล้ว. มันจะมีผลกับอารมณ์ของ {1}</LetterBondedAnimalDied>
-  <LetterNamedBondedAnimalDied>{0} ที่มีชื่อว่า {1}, ซึ่งผูกสัมพันธ์กับ {2}, ได้ตายลงแล้ว มันจะมีผลกับอารมณ์ของ {2}</LetterNamedBondedAnimalDied>
-  <LetterBondedAnimalDiedMulti>{0} ได้ตายลงแล้ว มันจะมีผลกับอารมณ์ของคนดังต่อไปนี้:\n\n{1}</LetterBondedAnimalDiedMulti>
-  <LetterNamedBondedAnimalDiedMulti>{0} ที่มีชื่อว่า {1} ได้ตายลงแล้ว มันจะมีผลกับอารมณ์ของคนดังต่อไปนี้:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
-  <LetterLabelFormedCaravan>คาราวานพร้อม</LetterLabelFormedCaravan>
-  <LetterFormedCaravan>กองคาราวานของคุณได้ออกจากพื้นที่และรอคำสั่งบนแผนที่โลก</LetterFormedCaravan>
-  <LetterCaravanEnteredEnemyBaseBecameHostile>{0} มาถึงแล้ว {1} และพร้อมที่จะเริ่มการโจมตี\n\nเนื่องจากวิธีการที่เป็นมิตรของคุณ, {2} ตอนนี้เป็นศัตรูกับคุณ</LetterCaravanEnteredEnemyBaseBecameHostile>
-  <LetterLabelPawnsLostDueToMapCountdown>ถูกทิ้งไว้</LetterLabelPawnsLostDueToMapCountdown>
-  <LetterPawnsLostDueToMapCountdown>สัตว์บางตัวหรือนักโทษของคุณถูกทิ้งไว้ในถิ่นทุรกันดาร:\n\n{0}</LetterPawnsLostDueToMapCountdown>
-  <LetterLabelSleepingMechanoids>mechanoids นอนหลับ</LetterLabelSleepingMechanoids>
-  <LetterSleepingMechanoids>มีกลุ่ม mechanoids ที่กำลังนอนหลับอยู่บริเวณนี้\n\n mechanoids อาจจะ ตื่นหรือไม่ตื่นขึ้น เมื่อคุณเข้าไปบริเวณนี้</LetterSleepingMechanoids>
-
+  
 </LanguageData>

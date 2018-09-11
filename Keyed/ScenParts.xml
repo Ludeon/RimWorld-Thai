@@ -63,7 +63,4 @@
   <!-- EN: Can never build -->
   <ScenPart_DisallowBuilding>ไม่สามารถสร้าง</ScenPart_DisallowBuilding>
 
-  <!-- UNUSED -->
-  <ScenPart_PermaMapCondition>สถานะแผนที่ถาวร(s)</ScenPart_PermaMapCondition>
-
 </LanguageData>

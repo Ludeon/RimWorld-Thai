@@ -454,9 +454,4 @@
   <!-- EN: Attack this settlement. -->
   <CommandAttackSettlementDesc>TODO</CommandAttackSettlementDesc>
 
-  <!-- UNUSED -->
-  <CommandAllowFiringLabel>อนุญาตให้ยิง</CommandAllowFiringLabel>
-  <CommandAllowFiringDesc>สลับให้ยิงได้\n\nเมื่อปิดการใช้งานตัวละครนี้จะไม่ยิงโดยอัตโนมัติในเป้าหมายที่อยู่ในระยะไกล ไม่ส่งผลกระทบต่อการต่อสู้ระยะประชิด</CommandAllowFiringDesc>
-  <CommandExtractShellFailNoShell>ไม่มีการโหลดกระสุนปืนใหญ่</CommandExtractShellFailNoShell>
-
 </LanguageData>
