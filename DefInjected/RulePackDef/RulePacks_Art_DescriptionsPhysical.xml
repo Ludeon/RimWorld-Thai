@@ -8,8 +8,8 @@
   -->
   <ArtDescription_Furniture.rulePack.rulesStrings>
     <li>physical_description_root->เฟอร์นิเจอร์หมีแกะสลักด้วย [depiction] ของ [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->เฟอร์นิเจอร์ถือ [depiction] ของ [image]. [desc_sentence_group]</li>
     <li>physical_description_root->การแกะสลักบนชิ้นส่วนของเฟอร์นิเจอร์ [depicts] ของ [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->เฟอร์นิเจอร์หมี [depiction] ของ [image]. [desc_sentence_group]</li>
   </ArtDescription_Furniture.rulePack.rulesStrings>
   
   <!-- EN:

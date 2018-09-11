@@ -10,12 +10,7 @@
     <li>nearnameinitial(p=3)->[PlaceOutlander]</li>
     <li>nearnameinitial->[Direction] [PlaceOutlander]</li>
   -->
-  <NamerFactionOutlander.rulePack.rulesStrings>
-    <li>rule->[positiveconcept] [terrainfeature]</li>
-    <li>rule->[outlander] จาก [terrainfeature]</li>
-    <li>rule->[outlander] [community]</li>
-    <li>rule->[community] ที่ [terrainfeature]</li>
-  </NamerFactionOutlander.rulePack.rulesStrings>
+  <NamerFactionOutlander.rulePack.rulesStrings>TODO</NamerFactionOutlander.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->The [AnimalBadass]s</li>
@@ -46,27 +41,7 @@
     <li>r_name->[Weapon] [groupname]</li>
     <li>r_name->[ConceptBadass] [groupname]</li>
   -->
-  <NamerFactionPirate.rulePack.rulesStrings>
-    <li>name->[badassanimal]</li>
-    <li>name->[badassanimal] ผู้ชาย</li>
-    <li>name->[badassconcept] der [badassanimal]</li>
-    <li>name->[badassconcept] der [badassanimal]</li>
-    <li>name->[badassperson]</li>
-    <li>name->[weapon] ผู้ชาย</li>
-    <li>name->[weapon]</li>
-    <li>name->[weapon] [badassanimal]s</li>
-    <li>name->[badasscolor]e [weapon]</li>
-    <li>name->[badasscolor]e [badassanimal]</li>
-    <li>name->[badasscolor]e [badassperson]</li>
-    <li>name->[badassperson] [groupname]</li>
-    <li>name->[badassadjective] [groupname]</li>
-    <li>name->[badassadjective]en [badassanimal]</li>
-    <li>name->[badassadjective]en [badassperson]</li>
-    <li>name->[weapon] [groupname]</li>
-    <li>name->[badassconcept] [groupname]</li>
-    <li>name->[badassconcept] [groupname]</li>
-    <li>name->[badassanimal] จาก [terrainfeature]</li>
-  </NamerFactionPirate.rulePack.rulesStrings>
+  <NamerFactionPirate.rulePack.rulesStrings>TODO</NamerFactionPirate.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[tribalworld] [political_union_tribal]</li>
@@ -76,15 +51,7 @@
     <li>r_name->The [Color] [Animal] [WordTribal]</li>
     <li>r_name->The [WordTribal] of the [TerrainFeature]</li>
   -->
-  <NamerFactionTribal.rulePack.rulesStrings>
-    <li>name->[tribalword] [tribalword]</li>
-    <li>name->[tribalword] [tribalword]</li>
-    <li>name->[tribalword] [tribalword] [tribalword]</li>
-    <li>name->[tribalword] จาก [animal]</li>
-    <li>name->[color]-[animal] [tribalword]</li>
-    <li>name->[tribalword] จาก [terrainfeature]</li>
-    <li>name->[color] [terrainfeature] คน</li>
-  </NamerFactionTribal.rulePack.rulesStrings>
+  <NamerFactionTribal.rulePack.rulesStrings>TODO</NamerFactionTribal.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->Colony</li>

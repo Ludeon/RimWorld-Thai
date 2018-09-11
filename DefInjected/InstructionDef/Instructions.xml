@@ -80,9 +80,9 @@
   <ChangeWorkSettings.text>TODO</ChangeWorkSettings.text>
   
   <!-- EN: Please choose a temperate forest landing site with flat terrain. -->
-  <ChooseLandingSite.rejectInputMessage>TODO</ChooseLandingSite.rejectInputMessage>
+  <ChooseLandingSite.rejectInputMessage>จุดลงจอด โปรดเลือกภูมิประเทศเป็นพื้นราบ และอยู่ในป่าเขตอบอุ่น</ChooseLandingSite.rejectInputMessage>
   <!-- EN: Here, you choose your landing site.\n\nThere are lots of biomes, but for now, let's start with a friendly one.\n\nClick a landing site with temperate forest biome and flat terrain, and click NEXT.\n\nYou can use the TERRAIN tab to view information about the selected tile. -->
-  <ChooseLandingSite.text>TODO</ChooseLandingSite.text>
+  <ChooseLandingSite.text>ตอนนี้ คุณจะต้องเลือกจุดลงจอด\n\nเกมมีไบโอมหลากหลายให้เลือก แต่เราจะเลือกเริ่มแบบเป็นมิตรไปก่อน\n\nคลิกเลือกจุดลงจอด ที่อยู่ในไบโอม "ป่าเขตอบอุ่น" จากนั้นคลิก 'ถัดไป'\n\nคุณสามารถกด 'ภูมิประเทศ' เพื่อดูข้อมูลเพิ่มเติม เกี่ยวกับบริเวณที่เลือกได้</ChooseLandingSite.text>
   
   <!-- EN: Please choose a storyteller in the Options menu to end the tutorial. -->
   <ChooseStoryteller.rejectInputMessage>TODO</ChooseStoryteller.rejectInputMessage>
@@ -95,7 +95,7 @@
   <ChopTrees.text>TODO</ChopTrees.text>
   
   <!-- EN: Welcome to RimWorld! This tutorial will teach you how to play the game.\n\nThe first step is to generate a world to play in.\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
-  <CreateWorldParams.text>ยินดีต้อนรับสู่ RimWorld! กวดวิชานี้จะแสดงวิธีการเล่น\n\nแรกที่คุณต้องสร้างโลก\n\nในหน้านี้คุณสามารถเปลี่ยนคุณสมบัติของโลก\n\nตั้งค่าเริ่มต้นเป็นสิ่งที่ดี - ตอนนี้คลิกที่สร้าง!</CreateWorldParams.text>
+  <CreateWorldParams.text>ยินดีต้อนรับสู่ RimWorld! บทเรียนเหล่านี้เพื่อสอนวิธีเล่นเกมให้คุณ\n\nเริ่มอย่างแรกต้องทำคือ ให้กำเนิดโลกที่จะเล่น\n\nหน้านี้ สำหรับปรับแต่งว่าคุณจะสร้างโลกแบบไหน\n\nค่าเริ่มต้นที่เห็นถือว่าตั้งไว้ดีแล้ว - คุณจะกด'สร้าง'เลยก็ได้!</CreateWorldParams.text>
   
   <!-- EN: Send colonists here\ntouching sandbags for cover -->
   <DownRaider.onMapInstruction>TODO</DownRaider.onMapInstruction>

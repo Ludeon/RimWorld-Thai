@@ -3,7 +3,7 @@
 
   <!-- Main menu -->
   <!-- EN: Tutorial -->
-  <Tutorial>โหมดฝึก</Tutorial>
+  <Tutorial>ฝึกหัดเล่น</Tutorial>
   <!-- EN: New colony -->
   <NewColony>เริ่มอาณานิคมใหม่</NewColony>
   <!-- EN: Back to game -->
@@ -11,57 +11,57 @@
   <!-- EN: Review scenario -->
   <ReviewScenario>วิจารณ์สถานการณ์</ReviewScenario>
   <!-- EN: Save -->
-  <Save>เซฟ</Save>
+  <Save>บันทึก</Save>
   <!-- EN: Load game -->
   <LoadGame>โหลด</LoadGame>
   <!-- EN: Options -->
   <Options>ตัวเลือก</Options>
   <!-- EN: Mods -->
   <Mods>Mods</Mods>
-  <!-- EN: Save translation report -->
-  <SaveTranslationReport>TODO</SaveTranslationReport>
-  <!-- EN: Generating translation report -->
-  <GeneratingTranslationReport>TODO</GeneratingTranslationReport>
-  <!-- EN: Cleanup translation files -->
-  <CleanupTranslationFiles>TODO</CleanupTranslationFiles>
-  <!-- EN: Cleaning translation files -->
-  <CleaningTranslationFiles>TODO</CleaningTranslationFiles>
   <!-- EN: Credits -->
   <Credits>เครดิต</Credits>
   <!-- EN: Quit to main menu -->
   <QuitToMainMenu>ออกสู่เมนูหลัก</QuitToMainMenu>
   <!-- EN: Save and quit to menu -->
-  <SaveAndQuitToMainMenu>เซฟและออกไปยังเมนู</SaveAndQuitToMainMenu>
+  <SaveAndQuitToMainMenu>บันทึกและออกไปยังเมนู</SaveAndQuitToMainMenu>
   <!-- EN: Quit to OS -->
   <QuitToOS>ออกจากเกม</QuitToOS>
   <!-- EN: Save and quit to OS -->
-  <SaveAndQuitToOS>เซฟและออกจากเกม</SaveAndQuitToOS>
+  <SaveAndQuitToOS>บันทึกและออกจากเกม</SaveAndQuitToOS>
   <!-- EN: Fiction primer -->
-  <FictionPrimer>ไพรเมอร์นิยาย</FictionPrimer>
+  <FictionPrimer>จุดประกายฟิคชั่น</FictionPrimer>
   <!-- EN: Ludeon blog -->
-  <LudeonBlog>บล็อกของลูเดียน</LudeonBlog>
+  <LudeonBlog>บล็อกของ Ludeon</LudeonBlog>
   <!-- EN: Forums -->
   <Forums>ฟอรั่ม</Forums>
   <!-- EN: Official wiki -->
-  <OfficialWiki>วิกิพีเดียของทางการ</OfficialWiki>
+  <OfficialWiki>วิกิอย่างเป็นทางการ</OfficialWiki>
   <!-- EN: Tynan's twitter -->
-  <TynansTwitter>ทวิตเตอร์ของ ไทนัน</TynansTwitter>
+  <TynansTwitter>ทวิตเตอร์ของ Tynan</TynansTwitter>
   <!-- EN: Tynan's design book -->
-  <TynansDesignBook>หนังสือการออกแบบ\nของ ไทนัน</TynansDesignBook>
+  <TynansDesignBook>หนังสือการออกแบบ\nของ Tynan</TynansDesignBook>
   <!-- EN: Help translate RimWorld -->
-  <HelpTranslate>ช่วยแปลภาษาให้ Rimworld</HelpTranslate>
+  <HelpTranslate>ช่วยแปลภาษา Rimworld</HelpTranslate>
   <!-- EN: Buy soundtrack -->
   <BuySoundtrack>ซื้อ Soundtrack</BuySoundtrack>
   <!-- EN: Create world -->
-  <CreateWorld>สร้างโลก</CreateWorld>
+  <CreateWorld>ก่อกำเนิดสร้างโลก</CreateWorld>
 
   <!-- Main menu translations info window -->
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
-  <TranslationThanks>TODO</TranslationThanks>
+  <TranslationThanks>การแปลภาษาทั้งหมดของ RimWorld เกิดจากแฟนเกมช่วยกันทำ การแปลภาษาประสบความสำเร็จได้ ก็ด้วยฝีมืออาสาสมัครเหล่านี้:\n\n{0}</TranslationThanks>
   <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
-  <TranslationHowToContribute>TODO</TranslationHowToContribute>
+  <TranslationHowToContribute>คุณเองสามารถช่วยแปลได้ ดูขึ้นตอนร่วมแปล คลิกปุ่มเรียนรู้เพิ่มเติม (จะเปิดเว็บบราวเซอร์) ด้านล่าง</TranslationHowToContribute>
   <!-- EN: Learn more -->
-  <LearnMore>TODO</LearnMore>
+  <LearnMore>เรียนรู้เพิ่มเติม</LearnMore>
+  <!-- EN: Save translation report -->
+  <SaveTranslationReport>Save translation report</SaveTranslationReport>
+  <!-- EN: Generating translation report -->
+  <GeneratingTranslationReport>Generating translation report</GeneratingTranslationReport>
+  <!-- EN: Cleanup translation files -->
+  <CleanupTranslationFiles>Cleanup translation files</CleanupTranslationFiles>
+  <!-- EN: Cleaning translation files -->
+  <CleaningTranslationFiles>Cleaning translation files</CleaningTranslationFiles>
 
   <!-- Main menu dev build -->
   <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
@@ -71,23 +71,23 @@
   <!-- EN: Review world -->
   <ReviewWorld>วิจารณ์โลก</ReviewWorld>
   <!-- EN: Generate -->
-  <WorldGenerate>ก่อกำเนิด</WorldGenerate>
+  <WorldGenerate>สร้าง</WorldGenerate>
   <!-- EN: Save and finish -->
   <WorldSaveAndFinish>เซฟและเสร็จสิ้น</WorldSaveAndFinish>
   <!-- EN: Reset -->
   <Reset>รีเซ็ต</Reset>
   <!-- EN: Globe coverage -->
-  <PlanetCoverage>คุ้มครองโลก</PlanetCoverage>
+  <PlanetCoverage>พื้นที่ครอบคลุมบนดวงเคราะห์</PlanetCoverage>
   <!-- EN: Overall rainfall -->
   <PlanetRainfall>ปริมาณน้ำฝนโดยรวม</PlanetRainfall>
   <!-- EN: Overall temperature -->
   <PlanetTemperature>อุณหภูมิโดยรวม</PlanetTemperature>
   <!-- EN: Low -->
-  <PlanetRainfall_Low>ต่ำ</PlanetRainfall_Low>
+  <PlanetRainfall_Low>น้อย</PlanetRainfall_Low>
   <!-- EN: Normal -->
-  <PlanetRainfall_Normal>ปกติ</PlanetRainfall_Normal>
+  <PlanetRainfall_Normal>ปานกลาง</PlanetRainfall_Normal>
   <!-- EN: High -->
-  <PlanetRainfall_High>สูง</PlanetRainfall_High>
+  <PlanetRainfall_High>มาก</PlanetRainfall_High>
   <!-- EN: Low -->
   <PlanetTemperature_Low>ต่ำ</PlanetTemperature_Low>
   <!-- EN: Normal -->
@@ -97,11 +97,11 @@
   <!-- EN: Seed -->
   <WorldSeed>Seed</WorldSeed>
   <!-- EN: Randomize seed -->
-  <RandomizeSeed>สุ่มค่า seed</RandomizeSeed>
+  <RandomizeSeed>สุ่มค่า Seed</RandomizeSeed>
   <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
-  <PlanetCoverageTip>ดาวเคราะห์มีขนาดเส้นผ่าศูนย์กลางเหมือนกัน แต่เนื่องจากมีขนาดใหญ่กว่าที่จำเป็นสำหรับการเล่นเราจึงไม่สร้างพื้นผิวทั้งหมดเพราะอาจใช้เวลานานมาก นี่คือเปอร์เซ็นต์ของพื้นผิวที่คุณต้องการสร้างขึ้น</PlanetCoverageTip>
+  <PlanetCoverageTip>ดาวเคราะห์ขนาดเส้นผ่าศูนย์กลางเท่ากันหมด แต่เนื่องว่าดวงดาวขนาดใหญ่เกินจำเป็น (สำหรับการเล่นทั่วๆไป) เราจึงไม่สร้างพื้นผิวทั้งหมดของดาวเคราะห์ เพราะจะกินเวลานานเอามาก ค่าเปอร์เซ็นต์นี้คือร้อยละของพื้นผิว ที่คุณต้องการสร้างบนดาวเคราะห์</PlanetCoverageTip>
   <!-- EN: Factions -->
-  <WorldFactionsTab>ฝ่าย</WorldFactionsTab>
+  <WorldFactionsTab>กลุ่มก๊ก</WorldFactionsTab>
 
   <!-- Select world -->
   <!-- EN: Select world -->
@@ -113,7 +113,7 @@
   
   <!-- Version info -->
   <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
-  <BuildNowAvailable>เวอร์ชัน {0} พร้อมใช้งานแล้ว ตรวจสอบ ludeon.com เพื่อดูข้อมูลเพิ่มเติม</BuildNowAvailable>
+  <BuildNowAvailable>เวอร์ชัน {0} พร้อมใช้งานแล้ว ตรวจสอบ ludeon.com สำหรับข้อมูลเพิ่มเติม</BuildNowAvailable>
   <!-- EN: This is the latest version. -->
   <BuildUpToDate>นี่คือเวอร์ชันล่าสุด</BuildUpToDate>
   <!-- EN: Error getting version info: {0} -->
@@ -129,19 +129,19 @@
   <!-- EN: Open Steam Workshop -->
   <OpenSteamWorkshop>เปิด Steam Workshop</OpenSteamWorkshop>
   <!-- EN: Get mods from forum -->
-  <GetModsFromForum>เลือกหา Mods ของเกม จาก โฟลเดอร์</GetModsFromForum>
+  <GetModsFromForum>เลือกหา Mods จากฟอรั่ม</GetModsFromForum>
   <!-- EN: Open mods data folder -->
   <OpenModsDataFolder>เปิดโฟลเดอร์ข้อมูล Mods</OpenModsDataFolder>
   <!-- EN: Show mods data location -->
   <ShowModsDataLocation>TODO</ShowModsDataLocation>
   <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
-  <ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
+  <ConfirmDisableCoreMod>TODO</ConfirmDisableCoreMod>
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
-  <ConfirmDeleteMod>คุณแน่ใจหรือไม่ว่าต้องการลบเนื้อหาทั้งหมดสำหรับ {0}?</ConfirmDeleteMod>
+  <ConfirmDeleteMod>คุณแน่ใจหรือ ว่าต้องการลบเนื้อหาทั้งหมดสำหรับ {0}?</ConfirmDeleteMod>
   <!-- EN: Unsubscribe -->
-  <Unsubscribe>ยกเลิกการรับข่าวสาร</Unsubscribe>
+  <Unsubscribe>ยกเลิกรับข่าวสาร</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
-  <ConfirmUnsubscribe>คุณแน่ใจหรือไม่ว่าต้องการยกเลิกการสมัคร {0}?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribe>คุณแน่ใจหรือ ว่าต้องการยกเลิกการสมัคร {0}?</ConfirmUnsubscribe>
   <!-- EN: Author -->
   <Author>ผู้ผลิต</Author>
   <!-- EN: Workshop page -->
@@ -151,21 +151,21 @@
   <!-- EN: Update on Steam Workshop -->
   <UpdateOnSteamWorkshop>อัปเดตบน Steam Workshop</UpdateOnSteamWorkshop>
   <!-- EN: Upload already in progress. -->
-  <UploadAlreadyInProgress>การอัปโหลดกำลังอยู่ในการดำเนินการ</UploadAlreadyInProgress>
+  <UploadAlreadyInProgress>กำลังดำเนินการอัปโหลด</UploadAlreadyInProgress>
   <!-- EN: Workshop submission failed.\n\nReason: {0} -->
-  <WorkshopSubmissionFailed>Workshop อัปโหลดล้มเหลว\n\nเหตุผล: {0}</WorkshopSubmissionFailed>
+  <WorkshopSubmissionFailed>ส่งขึ้น Workshop ล้มเหลว\n\nเหตุผล: {0}</WorkshopSubmissionFailed>
   <!-- EN: Successfully uploaded {0}. -->
   <WorkshopUploadSucceeded>อัปโหลดสำเร็จ {0}.</WorkshopUploadSucceeded>
   <!-- EN: Downloading -->
-  <Downloading>ดาวน์โหลด</Downloading>
+  <Downloading>กำลังดาวน์โหลด</Downloading>
   <!-- EN: Source -->
   <Source>แหล่ง</Source>
   <!-- EN: For version: {0} -->
   <ModTargetVersion>สำหรับเวอร์ชัน: {0}</ModTargetVersion>
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
-  <ModNotMadeForThisVersion>Mod นี้ไม่ได้ทำขึ้นสำหรับ RimWorld รุ่นนี้และอาจทำงานไม่ถูกต้อง</ModNotMadeForThisVersion>
+  <ModNotMadeForThisVersion>Mod นี้ไม่ได้ทำขึ้นสำหรับ RimWorld รุ่นนี้ และอาจทำงานไม่ถูกต้อง</ModNotMadeForThisVersion>
   <!-- EN: Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>. -->
-  <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion>{0}&lt;/targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedTargetVersion>TODO</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Drag to reorder -->
   <DragToReorder>ลากเพื่อเรียงลำดับใหม่</DragToReorder>
   
@@ -203,7 +203,7 @@
   <!-- EN: Too many (max {0}):  -->
   <TooMany>มากเกินไป (สูงสุด {0}): </TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
-  <CanBeUpdatedOnWorkshop>สามารถอัปเดต Workshop ได้เนื่องจากคุณเป็นผู้เขียน</CanBeUpdatedOnWorkshop>
+  <CanBeUpdatedOnWorkshop>สามารถอัปเดตขึ้น Workshop ได้ เนื่องจากคุณเป็นผู้ผลิต</CanBeUpdatedOnWorkshop>
   
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
@@ -331,17 +331,17 @@
   <!-- EN: Childhood -->
   <Childhood>ตอนวัยเด็ก</Childhood>
   <!-- EN: Current -->
-  <Current>TODO</Current>
+  <Current>ตอนนี้</Current>
   <!-- EN: male -->
-  <Male>ผู้ชาย</Male>
+  <Male>ชาย</Male>
   <!-- EN: female -->
-  <Female>ผู้หญิง</Female>
+  <Female>หญิง</Female>
   <!-- EN: male -->
-  <MaleAnimal>TODO</MaleAnimal>
+  <MaleAnimal>ตัวผู้</MaleAnimal>
   <!-- EN: female -->
-  <FemaleAnimal>TODO</FemaleAnimal>
+  <FemaleAnimal>ตัวเมีย</FemaleAnimal>
   <!-- EN: Pain -->
-  <Pain>ความเจ็บปวด</Pain>
+  <Pain>เจ็บปวด</Pain>
   <!-- EN: Health -->
   <Health>สุขภาพ</Health>
   <!-- EN: Relations -->
@@ -355,17 +355,17 @@
   
   <!-- Misc -->
   <!-- EN: Start -->
-  <Start>เริ่ม</Start>
+  <Start>เริ่มเล่น</Start>
   <!-- EN: Advanced -->
   <Advanced>ขั้นสูง</Advanced>
   <!-- EN: Next -->
   <Next>ถัดไป</Next>
   <!-- EN: Back -->
-  <Back>กลับ</Back>
+  <Back>ย้อนกลับ</Back>
   <!-- EN: Gameplay -->
   <Gameplay>เกมเพลย์</Gameplay>
   <!-- EN: Really quit? You'll lose unsaved progress. -->
-  <ConfirmQuit>คุณต้องการจะออกจริงๆ? คุณจะเสียทุกอย่างที่เล่นมาและคุณยังไม่ได้เซฟ</ConfirmQuit>
+  <ConfirmQuit>คุณต้องการออกจริงๆ? คุณจะเสียความคืบหน้าหากยังไม่ได้เซฟเกม</ConfirmQuit>
   <!-- EN: Each person needs a valid name. -->
   <EveryoneNeedsValidName>แต่ละคนต้องการชื่อที่ถูกต้อง</EveryoneNeedsValidName>
   <!-- EN: None of the selected people can do the following jobs -->
@@ -384,12 +384,5 @@
   <GeneratingMap>กำลังสร้างแผนที่</GeneratingMap>
   <!-- EN: Generating map for new encounter -->
   <GeneratingMapForNewEncounter>สร้างแผนทีสำหรับการเผชิญหน้าครั้งใหม่</GeneratingMapForNewEncounter>
-
-  <!-- UNUSED -->
-  <AvgSummerTemp>เฉลี่ยอุณหภูมิ (ฤดูหนาวร้อน): {0}</AvgSummerTemp>
-  <AvgWinterTemp>เฉลี่ยอุณหภูมิ (ฤดูหนาว): {0}</AvgWinterTemp>
-  <MovementTimeNow>เวลาเคลื่อนไหวในปัจจุบัน</MovementTimeNow>
-  <MovementTimeSummer>เวลาเคลื่อนไหวในช่วงฤดูร้อน</MovementTimeSummer>
-  <MovementTimeWinter>เวลาเคลื่อนไหวในช่วงฤดูหนาว</MovementTimeWinter>
 
 </LanguageData>

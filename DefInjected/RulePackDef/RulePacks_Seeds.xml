@@ -19,28 +19,6 @@
     <li>r_seed->[businesstype]</li>
     <li>r_seed->[Community]</li>
   -->
-  <SeedGenerator.rulePack.rulesStrings>
-    <li>seed->[personseedmale]</li>
-    <li>seed->[personseedmale]</li>
-    <li>seed->[personseedmale]</li>
-    <li>seed->[personseedfemale]</li>
-    <li>seed->[personseedfemale]</li>
-    <li>seed->[personseedfemale]</li>
-    <li>seed->[animal]</li>
-    <li>seed->[terrainfeature]</li>
-    <li>seed->[outlander]</li>
-    <li>seed->[apparel]</li>
-    <li>seed->[adjective]</li>
-    <li>seed->[concept]</li>
-    <li>seed->[tribalword]</li>
-    <li>seed->[rareseed]</li>
-    <li>seed->[rareseed]</li>
-    <li>rareseed->[weapon]</li>
-    <li>rareseed->[color]</li>
-    <li>rareseed->[game]</li>
-    <li>rareseed->[businessseed]</li>
-    <li>rareseed->[businesstype]</li>
-    <li>rareseed->[community]</li>
-  </SeedGenerator.rulePack.rulesStrings>
+  <SeedGenerator.rulePack.rulesStrings>TODO</SeedGenerator.rulePack.rulesStrings>
   
 </LanguageData>

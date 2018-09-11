@@ -9,14 +9,7 @@
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it's not working out.</li>
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</li>
   -->
-  <Breakup.logRulesInitiator.rulesStrings>
-    <li>logentry->บอกเลิกกับ [other_nameShortIndef]</li>
-  </Breakup.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <Breakup.logRulesRecipient.rulesStrings>
-    <li>logentry->ถูก [other_nameShortIndef] บอกเลิก</li>
-  </Breakup.logRulesRecipient.rulesStrings>
+  <Breakup.logRulesInitiator.rulesStrings>TODO</Breakup.logRulesInitiator.rulesStrings>
   
   <!-- EN: marriage proposal -->
   <MarriageProposal.label>ขอแต่งงาน</MarriageProposal.label>
@@ -25,14 +18,7 @@
     <li>r_logentry->[INITIATOR_nameDef] proposed a lifelong commitment to [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [RECIPIENT_objective].</li>
   -->
-  <MarriageProposal.logRulesInitiator.rulesStrings>
-    <li>logentry->ขอ [other_nameShortIndef] แต่งงาน</li>
-  </MarriageProposal.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <MarriageProposal.logRulesRecipient.rulesStrings>
-    <li>logentry->ถูก [other_nameShortIndef] ขอแต่งงาน</li>
-  </MarriageProposal.logRulesRecipient.rulesStrings>
+  <MarriageProposal.logRulesInitiator.rulesStrings>TODO</MarriageProposal.logRulesInitiator.rulesStrings>
   
   <!-- EN: romance attempt -->
   <RomanceAttempt.label>จีบ</RomanceAttempt.label>
@@ -99,12 +85,7 @@
     <li>romantic_noun(p=2)->[NaturalObject]</li>
   -->
   <RomanceAttempt.logRulesInitiator.rulesStrings>
-    <li>logentry->พยายามจีบ [other_nameShortIndef] ให้มารักกัน</li>
+    <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] โดยการ [wootactic].</li>
   </RomanceAttempt.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <RomanceAttempt.logRulesRecipient.rulesStrings>
-    <li>logentry->ถูก [other_nameShortIndef] จีบ</li>
-  </RomanceAttempt.logRulesRecipient.rulesStrings>
-  
+    
 </LanguageData>

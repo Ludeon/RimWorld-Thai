@@ -15,19 +15,6 @@
     <li>r_name->[Color] [story]</li>
     <li>r_name->[story] [RomanNumeral]</li>
   -->
-  <NamerScenario.rulePack.rulesStrings>
-    <li>name->[story] [trans] จาก [weapon]</li>
-    <li>name->[story] [trans] จาก [animal]</li>
-    <li>name->[story] [trans] จาก [terrainfeature]</li>
-    <li>name->[story] [trans] [outlander]s</li>
-    <li>name->[story] [trans] [concept]</li>
-    <li>name->[concept] [story]</li>
-    <li>name->[story] [trans] จาก [community]</li>
-    <li>name->a [adjective] [story]</li>
-    <li>name->[story] [trans] der [game]</li>
-    <li>name->[story] ใน [color] และ [color]</li>
-    <li>name->[color] [story]</li>
-    <li>name->[story] [romannumeral]</li>
-  </NamerScenario.rulePack.rulesStrings>
+  <NamerScenario.rulePack.rulesStrings>TODO</NamerScenario.rulePack.rulesStrings>
   
 </LanguageData>
