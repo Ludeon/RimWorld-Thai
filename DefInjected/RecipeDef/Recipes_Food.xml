@@ -11,13 +11,8 @@
   <!-- EN: make pemmican -->
   <Make_Pemmican.label>ทำ อาหารแห้ง</Make_Pemmican.label>
   <!-- EN: Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
-  <Make_Pemmican.description>Produziert Dörrfleisch, eine konservierte Kombination aus Fleisch- und Pflanzennahrung. Es schmeckt nicht herrausragend, aber hält ungekühlt ein ganzes Jahr..</Make_Pemmican.description>
+  <Make_Pemmican.description>TODO</Make_Pemmican.description>
   <!-- EN: Making pemmican. -->
   <Make_Pemmican.jobString>กำลังทำอาหารแห้ง</Make_Pemmican.jobString>
-  
-  <!-- UNUSED -->
-  <Make_PemmicanCampfire.label>ทำ อาหารแห้ง</Make_PemmicanCampfire.label>
-  <Make_PemmicanCampfire.description>Produziert Dörrfleisch, eine konservierte Kombination aus Fleisch- und Pflanzennahrung. Es schmeckt nicht herrausragend, aber hält ungekühlt ein ganzes Jahr..</Make_PemmicanCampfire.description>
-  <Make_PemmicanCampfire.jobString>กำลังทำอาหารแห้ง</Make_PemmicanCampfire.jobString>
   
 </LanguageData>

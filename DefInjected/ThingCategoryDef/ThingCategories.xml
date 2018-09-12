@@ -7,9 +7,6 @@
   <!-- EN: apparel -->
   <Apparel.label>เสื้อผ้า</Apparel.label>
   
-  <!-- UNUSED -->
-  <Art.label>ศิลปะ</Art.label>
-  
   <!-- EN: artifacts -->
   <Artifacts.label>สิ่งประดิษฐ์</Artifacts.label>
   
@@ -87,9 +84,6 @@
   
   <!-- EN: foods -->
   <Foods.label>อาหาร</Foods.label>
-  
-  <!-- UNUSED -->
-  <Furniture.label>เฟอร์นิเจอร์</Furniture.label>
   
   <!-- EN: grenades -->
   <Grenades.label>ระเบิดมือ</Grenades.label>

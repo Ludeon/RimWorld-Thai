@@ -7,9 +7,6 @@
   <!-- EN: building roof. -->
   <BuildRoof.reportString>กำลังสร้างหลังคา</BuildRoof.reportString>
   
-  <!-- UNUSED -->
-  <BuryCorpse.reportString>กำลังฝัง TargetA</BuryCorpse.reportString>
-  
   <!-- EN: capturing TargetA. -->
   <Capture.reportString>กำลังจับตัว TargetA</Capture.reportString>
   
@@ -87,9 +84,6 @@
   
   <!-- EN: executing TargetA. -->
   <PrisonerExecution.reportString>กำลังประหาร TargetA</PrisonerExecution.reportString>
-  
-  <!-- UNUSED -->
-  <PrisonerFriendlyChat.reportString>กำลังคุยกับนักโทษ TargetA</PrisonerFriendlyChat.reportString>
   
   <!-- EN: releasing TargetA. -->
   <ReleasePrisoner.reportString>กำลังปล่อยตัว TargetA</ReleasePrisoner.reportString>

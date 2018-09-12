@@ -31,12 +31,4 @@
   <!-- EN: Strive to survive on a rough, tough planet.\n\nRecommended for: Players with experience with RimWorld, looking to play a rough story requiring skill to survive.\n\nThere will be good times and bad times; triumph and tragedy. It's all for the drama. -->
   <Rough.description>TODO</Rough.description>
   
-  <!-- UNUSED -->
-  <VeryEasy.label>เล่นอิสระ (VeryEasy)</VeryEasy.label>
-  <VeryEasy.description>เป็นเกมที่มีสไตล์การเล่นที่เน้นไปยังการสร้างอาณานิคม ภายในสภาพแวดล้อมที่เหมือนกระบะทราย ภยันตรายยังคงมีอยู่ แต่จะอ่อนมาก</VeryEasy.description>
-  
-  <!-- UNUSED -->
-  <VeryHard.label>สุดโต่ง (VeryHard)</VeryHard.label>
-  <VeryHard.description>แข็งแกร่งกว่ามีดใบเพชรซะอีก ศัตรูนั้นแข็งแกร่ง ราคาสินค้าต่างๆจะย่ำแย่ อาหารจะขาดแคลน และชาวอาณานิคมจะอารมณ์บูด สำหรับคนที่สนุกกับการทรมานตนแบบดิจิตัล</VeryHard.description>
-  
 </LanguageData>

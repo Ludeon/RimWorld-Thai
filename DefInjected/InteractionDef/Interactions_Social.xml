@@ -20,9 +20,7 @@
     <li>commentedabout->commented about</li>
     <li>commentedabout->told a joke about</li>
   -->
-  <Chitchat.logRulesInitiator.rulesStrings>
-    <li>logentry->คุยเล่นสนุกๆกับ [other_nameShortIndef]</li>
-  </Chitchat.logRulesInitiator.rulesStrings>
+  <Chitchat.logRulesInitiator.rulesStrings>TODO</Chitchat.logRulesInitiator.rulesStrings>
   
   <!-- EN: deep talk -->
   <DeepTalk.label>คุยลึกซึ้ง</DeepTalk.label>
@@ -41,9 +39,7 @@
     <li>talkedabout->connected on the topic of</li>
     <li>subject->[TalkTopicHeavy]</li>
   -->
-  <DeepTalk.logRulesInitiator.rulesStrings>
-    <li>logentry->คุยเรื่องลึกซึ้งกับ [other_nameShortIndef]</li>
-  </DeepTalk.logRulesInitiator.rulesStrings>
+  <DeepTalk.logRulesInitiator.rulesStrings>TODO</DeepTalk.logRulesInitiator.rulesStrings>
   
   <!-- EN: insult -->
   <Insult.label>สบประมาท</Insult.label>
@@ -66,14 +62,7 @@
     <li>insultcomparison(p=2)->[Animal]</li>
     <li>insultcomparison->[Enemy]</li>
   -->
-  <Insult.logRulesInitiator.rulesStrings>
-    <li>logentry->สบประมาท [other_nameShortIndef]</li>
-  </Insult.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <Insult.logRulesRecipient.rulesStrings>
-    <li>logentry->ถูก [other_nameShortIndef] สบประมาท</li>
-  </Insult.logRulesRecipient.rulesStrings>
+  <Insult.logRulesInitiator.rulesStrings>TODO</Insult.logRulesInitiator.rulesStrings>
   
   <!-- EN: kind words -->
   <KindWords.label>คำพูดดีๆ</KindWords.label>
@@ -93,14 +82,7 @@
     <li>complimented->expressed appreciation for</li>
     <li>complimented->said good things about</li>
   -->
-  <KindWords.logRulesInitiator.rulesStrings>
-    <li>logentry->คำพูดดีๆกับ [other_nameShortIndef]</li>
-  </KindWords.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <KindWords.logRulesRecipient.rulesStrings>
-    <li>logentry->ถูก [other_nameShortIndef] คำพูดดีๆ</li>
-  </KindWords.logRulesRecipient.rulesStrings>
+  <KindWords.logRulesInitiator.rulesStrings>TODO</KindWords.logRulesInitiator.rulesStrings>
   
   <!-- EN: slight -->
   <Slight.label>ดูหมิ่น</Slight.label>
@@ -121,13 +103,6 @@
     <li>madefunof->made a contemptuous remark about</li>
     <li>madefunof->offered a backhanded compliment about</li>
   -->
-  <Slight.logRulesInitiator.rulesStrings>
-    <li>logentry->ดูหมิ่น [other_nameShortIndef]</li>
-  </Slight.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <Slight.logRulesRecipient.rulesStrings>
-    <li>logentry->ถูก [other_nameShortIndef] ดูหมิ่น</li>
-  </Slight.logRulesRecipient.rulesStrings>
-  
+  <Slight.logRulesInitiator.rulesStrings>TODO</Slight.logRulesInitiator.rulesStrings>
+
 </LanguageData>

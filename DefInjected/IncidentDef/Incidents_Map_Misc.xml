@@ -81,11 +81,6 @@
   <!-- EN: thrumbos pass -->
   <ThrumboPasses.label>ธรัมโบเดินผ่าน</ThrumboPasses.label>
   
-  <!-- UNUSED -->
-  <Tornado.label>พายุทอร์นาโด</Tornado.label>
-  <Tornado.letterLabel>พายุทอร์นาโด</Tornado.letterLabel>
-  <Tornado.letterText>พายุทอร์นาโดเกิดขึ้น! \ n\nมันจะกำจัดพื้นที่ทุกอย่างออกไปจากในพื้นที่</Tornado.letterText>
-  
   <!-- EN: toxic fallout -->
   <ToxicFallout.label>สารเคมีโปรยตัว</ToxicFallout.label>
   <!-- EN: Toxic fallout -->

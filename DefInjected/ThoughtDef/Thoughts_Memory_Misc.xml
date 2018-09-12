@@ -6,10 +6,6 @@
   <!-- EN: I had to eat a meal off the ground. Can't we get a table around here? -->
   <AteWithoutTable.stages.ate_without_table.description>ฉันต้องกินบนพื้น เราไม่สามารถหาโต๊ะมาไว้แถวนี้ได้หรอ?</AteWithoutTable.stages.ate_without_table.description>
   
-  <!-- UNUSED -->
-  <BondedAnimalAbandoned.stages.0.label>สัตว์เลี้ยง {0} ทิ้งไว้ข้างหลัง</BondedAnimalAbandoned.stages.0.label>
-  <BondedAnimalAbandoned.stages.0.description>สัตว์ที่เชื่องของฉันถูกทิ้งร้างอยู่กลางไม่มีที่ไหนเลย!</BondedAnimalAbandoned.stages.0.description>
-  
   <!-- EN: bonded animal {0} banished -->
   <BondedAnimalBanished.stages.bonded_animal_banished.label>TODO</BondedAnimalBanished.stages.bonded_animal_banished.label>
   <!-- EN: My bonded animal was banished! -->
@@ -24,14 +20,6 @@
   <Catharsis.stages.catharsis.label>ปลดปล่อยอารมณ์</Catharsis.stages.catharsis.label>
   <!-- EN: It felt good to finally unbottle my feelings. -->
   <Catharsis.stages.catharsis.description>รู้สึกดีที่ได้ปลดปล่อยความรู้สึกของฉันในที่สุด</Catharsis.stages.catharsis.description>
-  
-  <!-- UNUSED -->
-  <ColonistAbandoned.stages.0.label>ออกจากอาณานิคม</ColonistAbandoned.stages.0.label>
-  <ColonistAbandoned.stages.0.description>เราเพิ่งทิ้งคนไว้ข้างหลัง ฉันหวังว่าพวกเขาจะทำให้ แต่ฉันก็เป็นห่วง</ColonistAbandoned.stages.0.description>
-  
-  <!-- UNUSED -->
-  <ColonistAbandonedToDie.stages.0.label>อาณานิคมทิ้งให้ตาย</ColonistAbandonedToDie.stages.0.label>
-  <ColonistAbandonedToDie.stages.0.description>เราปล่อยให้คนที่อยู่ข้างหลังอยู่ในลักษณะที่เกือบจะไม่มีทางที่พวกเขาจะอยู่รอดได้</ColonistAbandonedToDie.stages.0.description>
   
   <!-- EN: colonist banished -->
   <ColonistBanished.stages.colonist_banished.label>TODO</ColonistBanished.stages.colonist_banished.label>
@@ -51,18 +39,10 @@
   <!-- EN: defeated hostile leader -->
   <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>TODO</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
   
-  <!-- UNUSED -->
-  <DefeatedMajorEnemy.stages.0.label>{0} ได้พ่ายแพ้</DefeatedMajorEnemy.stages.0.label>
-  <DefeatedMajorEnemy.stages.0.description>ฉันหยุดภัยคุกคามคลั้งใหญ่! ฉันเป็นวีรบุรุษ!</DefeatedMajorEnemy.stages.0.description>
-  
   <!-- EN: failed to rescue {0} -->
   <FailedToRescueRelative.stages.failed_to_rescue.label>{0} ไม่สามารถช่วยชีวิตได้</FailedToRescueRelative.stages.failed_to_rescue.label>
   <!-- EN: We had a chance to rescue my relative, and failed. I could have helped! -->
   <FailedToRescueRelative.stages.failed_to_rescue.description>เราไม่สามารถช่วยคนในครอบครัวของฉันได้ การที่เราสามารถช่วยเขาได้แต่ ทำไม่สำเหร็จทำให้ฉันเสียใจอย่างมาก กับการเสียคนที่รักไป </FailedToRescueRelative.stages.failed_to_rescue.description>
-  
-  <!-- UNUSED -->
-  <GreenThumbHappy.stages.0.label>ปลูกพืช</GreenThumbHappy.stages.0.label>
-  <GreenThumbHappy.stages.0.description>สิ่งที่โลกต้องการคือพืชมากขึ้น!</GreenThumbHappy.stages.0.description>
   
   <!-- EN: killed someone -->
   <KilledHumanlikeBloodlust.stages.killed_someone.label>ฆ่าใครบางคน</KilledHumanlikeBloodlust.stages.killed_someone.label>
@@ -123,10 +103,6 @@
   <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>มองเห็นศพเน่าเปื่อย</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
   <!-- EN: I saw a rotting corpse laying on the ground. It was disgusting. -->
   <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>ฉันเห็นซากศพที่เน่าเปื่อยวางอยู่บนพื้น มันน่าขยะแขยง...</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
-  
-  <!-- UNUSED -->
-  <PrisonerAbandonedToDie.stages.0.label>นักโทษที่เหลือจะตาย</PrisonerAbandonedToDie.stages.0.label>
-  <PrisonerAbandonedToDie.stages.0.description>เราทิ้งผู้ต้องหาไว้ข้างหลังในแบบที่ทำให้พวกเขาไม่สามารถรอดได้</PrisonerAbandonedToDie.stages.0.description>
   
   <!-- EN: prisoner banished to death -->
   <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>TODO</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>

@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: flu -->
-  <Animal_Flu.label>TODO</Animal_Flu.label>
+  <Animal_Flu.label>ไข้หวัดในสัตว์</Animal_Flu.label>
   <!-- EN: minor -->
-  <Animal_Flu.stages.minor.label>TODO</Animal_Flu.stages.minor.label>
+  <Animal_Flu.stages.minor.label>ขั้นต้น</Animal_Flu.stages.minor.label>
   <!-- EN: major -->
-  <Animal_Flu.stages.major.label>TODO</Animal_Flu.stages.major.label>
+  <Animal_Flu.stages.major.label>อาการหนัก</Animal_Flu.stages.major.label>
   <!-- EN: extreme -->
-  <Animal_Flu.stages.extreme.label>TODO</Animal_Flu.stages.extreme.label>
+  <Animal_Flu.stages.extreme.label>อันตราย</Animal_Flu.stages.extreme.label>
   
   <!-- EN: plague -->
-  <Animal_Plague.label>TODO</Animal_Plague.label>
+  <Animal_Plague.label>โรคระบาดรุนแรงในสัตว์</Animal_Plague.label>
   <!-- EN: minor -->
-  <Animal_Plague.stages.minor.label>TODO</Animal_Plague.stages.minor.label>
+  <Animal_Plague.stages.minor.label>ขั้นต้น</Animal_Plague.stages.minor.label>
   <!-- EN: major -->
-  <Animal_Plague.stages.major.label>TODO</Animal_Plague.stages.major.label>
+  <Animal_Plague.stages.major.label>อาการหนัก</Animal_Plague.stages.major.label>
   <!-- EN: extreme -->
-  <Animal_Plague.stages.extreme-0.label>TODO</Animal_Plague.stages.extreme-0.label>
+  <Animal_Plague.stages.extreme-0.label>อันตราย</Animal_Plague.stages.extreme-0.label>
   <!-- EN: extreme -->
-  <Animal_Plague.stages.extreme-1.label>TODO</Animal_Plague.stages.extreme-1.label>
+  <Animal_Plague.stages.extreme-1.label>อันตรายสาหัส</Animal_Plague.stages.extreme-1.label>
   
   <!-- EN: fibrous mechanites -->
   <FibrousMechanites.label>Fibrous Mechanites</FibrousMechanites.label>
@@ -32,14 +32,11 @@
   <Flu.label>โรคไข้หวัดใหญ่</Flu.label>
   <Flu.labelNoun>โรคไข้หวัดใหญ่</Flu.labelNoun>
   <!-- EN: minor -->
-  <Flu.stages.minor.label>เล็กน้อย</Flu.stages.minor.label>
+  <Flu.stages.minor.label>ขั้นต้น</Flu.stages.minor.label>
   <!-- EN: major -->
-  <Flu.stages.major.label>ขั้นต้น</Flu.stages.major.label>
+  <Flu.stages.major.label>อาการหนัก</Flu.stages.major.label>
   <!-- EN: extreme -->
-  <Flu.stages.extreme.label>ขั้นหลัก</Flu.stages.extreme.label>
-  
-  <!-- UNUSED -->
-  <Flu.stages.3.label>ขั้นอันตราย</Flu.stages.3.label>
+  <Flu.stages.extreme.label>อันตราย</Flu.stages.extreme.label>
   
   <!-- EN: gut worms -->
   <GutWorms.label>พยาธิในทางเดินอาหาร</GutWorms.label>
@@ -48,33 +45,26 @@
   <!-- EN: malaria -->
   <Malaria.label>โรคมาลาเรีย</Malaria.label>
   <!-- EN: minor -->
-  <Malaria.stages.minor.label>ขั้นเริ่มแรก</Malaria.stages.minor.label>
+  <Malaria.stages.minor.label>ขั้นต้น</Malaria.stages.minor.label>
   <!-- EN: major -->
-  <Malaria.stages.major.label>ขั้นต้น</Malaria.stages.major.label>
+  <Malaria.stages.major.label>อาการหนัก</Malaria.stages.major.label>
   <!-- EN: extreme -->
-  <Malaria.stages.extreme.label>ขั้นหลัก</Malaria.stages.extreme.label>
-  
-  <!-- UNUSED -->
-  <Malaria.stages.3.label>ขั้นอันตราย</Malaria.stages.3.label>
+  <Malaria.stages.extreme.label>อันตราย</Malaria.stages.extreme.label>
   
   <!-- EN: muscle parasites -->
   <MuscleParasites.label>ปรสิตในกล้ามเนื้อ</MuscleParasites.label>
-  <MuscleParasites.stages.0.label>เจ็บปวดเล็กน้อย</MuscleParasites.stages.0.label>
   
   <!-- EN: plague -->
-  <Plague.label>โรคกาฬโรค</Plague.label>
-  <Plague.labelNoun>โรคกาฬโรค</Plague.labelNoun>
+  <Plague.label>โรคระบาดรุนแรง</Plague.label>
+  <Plague.labelNoun>โรคระบาดรุนแรง</Plague.labelNoun>
   <!-- EN: minor -->
-  <Plague.stages.minor.label>ขั้นเริ่มแรก</Plague.stages.minor.label>
+  <Plague.stages.minor.label>ขั้นต้น</Plague.stages.minor.label>
   <!-- EN: major -->
-  <Plague.stages.major.label>ขั้นต้น</Plague.stages.major.label>
+  <Plague.stages.major.label>อาการหนัก</Plague.stages.major.label>
   <!-- EN: extreme -->
-  <Plague.stages.extreme-0.label>ขั้นหลัก</Plague.stages.extreme-0.label>
+  <Plague.stages.extreme-0.label>อันตราย</Plague.stages.extreme-0.label>
   <!-- EN: extreme -->
-  <Plague.stages.extreme-1.label>ขั้นอันตราย</Plague.stages.extreme-1.label>
-  
-  <!-- UNUSED -->
-  <Plague.stages.4.label>ขั้นอันตราย</Plague.stages.4.label>
+  <Plague.stages.extreme-1.label>อันตรายสาหัส</Plague.stages.extreme-1.label>
   
   <!-- EN: sensory mechanites -->
   <SensoryMechanites.label>Sensory Mechanites</SensoryMechanites.label>
@@ -84,20 +74,17 @@
   <SensoryMechanites.stages.intense_pain.label>เจ็บปวดอย่างรุนแรง</SensoryMechanites.stages.intense_pain.label>
   
   <!-- EN: sleeping sickness -->
-  <SleepingSickness.label>Sleeping Sickness</SleepingSickness.label>
+  <SleepingSickness.label>โรคนอนไม่หลับ</SleepingSickness.label>
   <!-- EN: minor -->
   <SleepingSickness.stages.minor-0.label>เล็กน้อย</SleepingSickness.stages.minor-0.label>
   <!-- EN: minor -->
-  <SleepingSickness.stages.minor-1.label>ขั้นเริ่มแรก</SleepingSickness.stages.minor-1.label>
+  <SleepingSickness.stages.minor-1.label>ขั้นต้น</SleepingSickness.stages.minor-1.label>
   <!-- EN: major -->
-  <SleepingSickness.stages.major.label>ขั้นต้น</SleepingSickness.stages.major.label>
+  <SleepingSickness.stages.major.label>อาการหนัก</SleepingSickness.stages.major.label>
   <!-- EN: extreme -->
-  <SleepingSickness.stages.extreme-0.label>ขั้นหลัก</SleepingSickness.stages.extreme-0.label>
+  <SleepingSickness.stages.extreme-0.label>อันตราย</SleepingSickness.stages.extreme-0.label>
   <!-- EN: extreme -->
-  <SleepingSickness.stages.extreme-1.label>ขั้นอันตราย</SleepingSickness.stages.extreme-1.label>
-  
-  <!-- UNUSED -->
-  <SleepingSickness.stages.5.label>ขั้นอันตราย</SleepingSickness.stages.5.label>
+  <SleepingSickness.stages.extreme-1.label>อันตรายสาหัส</SleepingSickness.stages.extreme-1.label>
   
   <!-- EN: infection -->
   <WoundInfection.label>แผลติดเชื้อ</WoundInfection.label>
@@ -106,10 +93,10 @@
   <!-- EN: minor -->
   <WoundInfection.stages.minor.label>ขั้นต้น</WoundInfection.stages.minor.label>
   <!-- EN: major -->
-  <WoundInfection.stages.major.label>ขั้นหลัก</WoundInfection.stages.major.label>
+  <WoundInfection.stages.major.label>อาการหนัก</WoundInfection.stages.major.label>
   <!-- EN: extreme -->
-  <WoundInfection.stages.extreme-0.label>ขั้นอันตราย</WoundInfection.stages.extreme-0.label>
+  <WoundInfection.stages.extreme-0.label>อันตราย</WoundInfection.stages.extreme-0.label>
   <!-- EN: extreme -->
-  <WoundInfection.stages.extreme-1.label>ขั้นอันตราย</WoundInfection.stages.extreme-1.label>
+  <WoundInfection.stages.extreme-1.label>อันตราย</WoundInfection.stages.extreme-1.label>
   
 </LanguageData>

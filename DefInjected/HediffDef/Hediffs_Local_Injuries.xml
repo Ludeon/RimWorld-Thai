@@ -10,7 +10,7 @@
   <!-- EN: sutured -->
   <Bite.comps.HediffComp_TendDuration.labelTendedWellInner>เย็บแผลแล้ว</Bite.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: bite scar -->
-  <Bite.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Bite.comps.HediffComp_GetsPermanent.permanentLabel>แผลเป็นจากโดนกัด</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Bitten off -->
   <Bite.injuryProps.destroyedLabel>ถูกกัดขาด</Bite.injuryProps.destroyedLabel>
   <!-- EN: Bitten out -->
@@ -19,9 +19,6 @@
   <Bite.labelNoun>ถูกกัด</Bite.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Bite.labelNounPretty>TODO</Bite.labelNounPretty>
-  
-  <!-- UNUSED -->
-  <Bite.comps.2.oldLabel>แผลเป็นโดนกัด</Bite.comps.2.oldLabel>
   
   <!-- EN: bruise -->
   <Bruise.label>ฟกช้ำ</Bruise.label>
@@ -48,7 +45,7 @@
   <!-- EN: sutured -->
   <Burn.comps.HediffComp_TendDuration.labelTendedWellInner>เย็บแผลแล้ว</Burn.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: burn scar -->
-  <Burn.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Burn.comps.HediffComp_GetsPermanent.permanentLabel>แผลเป็นจากไฟไหม้</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Burned off -->
   <Burn.injuryProps.destroyedLabel>ถูกเผาทำลาย</Burn.injuryProps.destroyedLabel>
   <!-- EN: Burned out -->
@@ -57,9 +54,6 @@
   <Burn.labelNoun>ไฟไหม้</Burn.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Burn.labelNounPretty>TODO</Burn.labelNounPretty>
-  
-  <!-- UNUSED -->
-  <Burn.comps.2.oldLabel>แผลเป็นไฟไหม้</Burn.comps.2.oldLabel>
   
   <!-- EN: crack -->
   <Crack.label>แตกร้าว</Crack.label>
@@ -87,16 +81,13 @@
   <!-- EN: sutured -->
   <Crush.comps.HediffComp_TendDuration.labelTendedWellInner>เย็บแผลแล้ว</Crush.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: mangled scar -->
-  <Crush.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Crush.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Crush.comps.HediffComp_GetsPermanent.permanentLabel>แผลเป็น</Crush.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Crushed -->
   <Crush.injuryProps.destroyedLabel>ถูกบดขยี้</Crush.injuryProps.destroyedLabel>
   <!-- EN: a crush wound -->
   <Crush.labelNoun>บดขยี้</Crush.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Crush.labelNounPretty>TODO</Crush.labelNounPretty>
-  
-  <!-- UNUSED -->
-  <Crush.comps.2.oldLabel>แผลเป็น</Crush.comps.2.oldLabel>
   
   <!-- EN: cut -->
   <Cut.label>บาด</Cut.label>
@@ -107,7 +98,7 @@
   <!-- EN: sutured -->
   <Cut.comps.HediffComp_TendDuration.labelTendedWellInner>เย็บแผลแล้ว</Cut.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: cut scar -->
-  <Cut.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Cut.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Cut.comps.HediffComp_GetsPermanent.permanentLabel>แผลเป็นจากโดนฟัน</Cut.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Cut off -->
   <Cut.injuryProps.destroyedLabel>ด้วน</Cut.injuryProps.destroyedLabel>
   <!-- EN: Cut out -->
@@ -116,9 +107,6 @@
   <Cut.labelNoun>บาด</Cut.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Cut.labelNounPretty>TODO</Cut.labelNounPretty>
-  
-  <!-- UNUSED -->
-  <Cut.comps.2.oldLabel>แผลเป็นโดนฟัน</Cut.comps.2.oldLabel>
   
   <!-- EN: frostbite -->
   <Frostbite.label>น้ำแข็งกัด</Frostbite.label>
@@ -129,15 +117,12 @@
   <!-- EN: sutured -->
   <Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>เย็บแผลแล้ว</Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: frostbite scar -->
-  <Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>แผลเป็นน้ำแข็งกัด</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Lost to frostbite -->
   <Frostbite.injuryProps.destroyedLabel>ถูกน้ำแข็งกัดกุด</Frostbite.injuryProps.destroyedLabel>
   <Frostbite.labelNoun>น้ำแข็งกัด</Frostbite.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Frostbite.labelNounPretty>TODO</Frostbite.labelNounPretty>
-  
-  <!-- UNUSED -->
-  <Frostbite.comps.2.oldLabel>แผลเป็นน้ำแข็งกัด</Frostbite.comps.2.oldLabel>
   
   <!-- EN: gunshot -->
   <Gunshot.label>ถูกยิง</Gunshot.label>
@@ -148,9 +133,9 @@
   <!-- EN: sutured -->
   <Gunshot.comps.HediffComp_TendDuration.labelTendedWellInner>เย็บแผลแล้ว</Gunshot.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: permanent gunshot injury -->
-  <Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>TODO</Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>แผลเป็นโดนยิง</Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
   <!-- EN: old gunshot -->
-  <Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>แผลเป็นเก่าโดนยิง</Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Shot off -->
   <Gunshot.injuryProps.destroyedLabel>ถูกยิงขาด</Gunshot.injuryProps.destroyedLabel>
   <!-- EN: Shot out -->
@@ -159,10 +144,6 @@
   <Gunshot.labelNoun>ถูกยิง</Gunshot.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Gunshot.labelNounPretty>TODO</Gunshot.labelNounPretty>
-  
-  <!-- UNUSED -->
-  <Gunshot.comps.2.oldLabel>แผลเป็นโดนยิง</Gunshot.comps.2.oldLabel>
-  <Gunshot.comps.2.instantlyOldLabel>แผลเป็นที่ถูกยิง</Gunshot.comps.2.instantlyOldLabel>
   
   <!-- EN: misc -->
   <Misc.label>อื่นๆ</Misc.label>
@@ -195,7 +176,7 @@
   <!-- EN: sutured -->
   <Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>เย็บแผลแล้ว</Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: scratch scar -->
-  <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>แผลเป็นโดนตะกุย</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Torn off -->
   <Scratch.injuryProps.destroyedLabel>ถูกทึ้งออก</Scratch.injuryProps.destroyedLabel>
   <!-- EN: Torn out -->
@@ -204,9 +185,6 @@
   <Scratch.labelNoun>ถูกตะกุย</Scratch.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Scratch.labelNounPretty>TODO</Scratch.labelNounPretty>
-  
-  <!-- UNUSED -->
-  <Scratch.comps.2.oldLabel>แผลเป็นโดนตะกุย</Scratch.comps.2.oldLabel>
   
   <!-- EN: shredded -->
   <Shredded.label>เป็นเศษ</Shredded.label>
@@ -217,7 +195,7 @@
   <!-- EN: sutured -->
   <Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>เย็บแผลแล้ว</Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: shredded scar -->
-  <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>แผลเป็น</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Torn off -->
   <Shredded.injuryProps.destroyedLabel>ฉีกขาด</Shredded.injuryProps.destroyedLabel>
   <!-- EN: Torn out -->
@@ -226,9 +204,6 @@
   <Shredded.labelNoun>เป็นเศษ</Shredded.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Shredded.labelNounPretty>TODO</Shredded.labelNounPretty>
-  
-  <!-- UNUSED -->
-  <Shredded.comps.2.oldLabel>แผลเป็น</Shredded.comps.2.oldLabel>
   
   <!-- EN: stab -->
   <Stab.label>ถูกแทง</Stab.label>
@@ -239,7 +214,7 @@
   <!-- EN: sutured -->
   <Stab.comps.HediffComp_TendDuration.labelTendedWellInner>เย็บแผลแล้ว</Stab.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: stab scar -->
-  <Stab.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Stab.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Stab.comps.HediffComp_GetsPermanent.permanentLabel>แผลเป็นโดนแทง</Stab.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Cut off -->
   <Stab.injuryProps.destroyedLabel>ด้วน</Stab.injuryProps.destroyedLabel>
   <!-- EN: Cut out -->
@@ -248,9 +223,6 @@
   <Stab.labelNoun>ถูกแทง</Stab.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Stab.labelNounPretty>TODO</Stab.labelNounPretty>
-  
-  <!-- UNUSED -->
-  <Stab.comps.2.oldLabel>แผลเป็นโดนแทง</Stab.comps.2.oldLabel>
   
   <!-- EN: surgical cut -->
   <SurgicalCut.label>ผ่าตัด</SurgicalCut.label>
@@ -261,15 +233,12 @@
   <!-- EN: sutured -->
   <SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>เย็บแผลแล้ว</SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: surgical scar -->
-  <SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>TODO</SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>
+  <SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>แผลเป็นจากการผ่าตัด</SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>
   <SurgicalCut.injuryProps.destroyedLabel>เอาออก</SurgicalCut.injuryProps.destroyedLabel>
   <SurgicalCut.injuryProps.destroyedOutLabel>ถูกตัดออก</SurgicalCut.injuryProps.destroyedOutLabel>
   <!-- EN: a surgical cut -->
   <SurgicalCut.labelNoun>ผ่าตัด</SurgicalCut.labelNoun>
   <!-- EN: {0} in the {1} -->
   <SurgicalCut.labelNounPretty>TODO</SurgicalCut.labelNounPretty>
-  
-  <!-- UNUSED -->
-  <SurgicalCut.comps.1.oldLabel>แผลเป็นผ่าตัด</SurgicalCut.comps.1.oldLabel>
   
 </LanguageData>

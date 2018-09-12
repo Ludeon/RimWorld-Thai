@@ -20,20 +20,6 @@
   <!-- EN: I love my work. I could do this all day, every day. -->
   <DoingPassionateWork.stages.burning_passion_for_my_work.description>TODO</DoingPassionateWork.stages.burning_passion_for_my_work.description>
   
-  <!-- UNUSED -->
-  <FeelingRandom.stages.0.label>รู้สึกเยี่ยมไปเลย</FeelingRandom.stages.0.label>
-  <FeelingRandom.stages.0.description>ไม่มีเหตุผลที่แน่ชัดนัก, ฉันแค่รู้สึกเยี่ยมไปเลยตอนนี้</FeelingRandom.stages.0.description>
-  <FeelingRandom.stages.1.label>รู้สึกดี</FeelingRandom.stages.1.label>
-  <FeelingRandom.stages.1.description>ไม่มีเหตุผลที่แน่ชัดนัก, ฉันแค่รู้สึกดีตอนนี้</FeelingRandom.stages.1.description>
-  <FeelingRandom.stages.2.label>รู้สึกไม่ดี</FeelingRandom.stages.2.label>
-  <FeelingRandom.stages.2.description>ไม่มีเหตุผลที่แน่ชัดนัก, ฉันแค่รู้สึกไม่ดีตอนนี้</FeelingRandom.stages.2.description>
-  <FeelingRandom.stages.3.label>รู้สึกแย่</FeelingRandom.stages.3.label>
-  <FeelingRandom.stages.3.description>ไม่มีเหตุผลที่แน่ชัดนัก, ฉันแค่รู้สึกแย่ตอนนี้</FeelingRandom.stages.3.description>
-  
-  <!-- UNUSED -->
-  <Imprisoned.stages.0.label>ถูกคุมขัง</Imprisoned.stages.0.label>
-  <Imprisoned.stages.0.description>ฉันเกลียดการถูกขัง</Imprisoned.stages.0.description>
-  
   <!-- EN: joywire -->
   <Joywire.stages.joywire.label>Joywire</Joywire.stages.joywire.label>
   <!-- EN: It feels amazing. -->

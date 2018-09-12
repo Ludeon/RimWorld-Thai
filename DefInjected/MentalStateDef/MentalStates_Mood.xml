@@ -6,7 +6,7 @@
   <!-- EN: Mental state: Tantrum -->
   <BedroomTantrum.baseInspectLine>ภาวะทางจิต: อารมณ์ฉุนเฉียว</BedroomTantrum.baseInspectLine>
   <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to smash things in [PAWN_possessive] room. -->
-  <BedroomTantrum.beginLetter>{0} มีอารมณ์ฉุนเฉียว [PAWN_pronoun] จะข้ามความโกรธของ HISE ไปที่เฟอร์นิเจอร์ในพื้นที่ของ HISEM</BedroomTantrum.beginLetter>
+  <BedroomTantrum.beginLetter>TODO</BedroomTantrum.beginLetter>
   <BedroomTantrum.beginLetterLabel>อารมณ์ฉุนเฉียว</BedroomTantrum.beginLetterLabel>
   <!-- EN: {0} is no longer having a tantrum. -->
   <BedroomTantrum.recoveryMessage>{0} ไม่มีอารมณ์โกรธอีกต่อไป</BedroomTantrum.recoveryMessage>
@@ -20,9 +20,6 @@
   <Berserk.beginLetterLabel>บ้าคลั่ง</Berserk.beginLetterLabel>
   <!-- EN: {0}'s berserk rage has come to an end. -->
   <Berserk.recoveryMessage>โทสะของ {0} ที่ทำให้บ้าคลั่งระงับลงแล้ว</Berserk.recoveryMessage>
-  
-  <!-- UNUSED -->
-  <Berserk.inspectLine>ภาวะทางจิต: บ้าคลั่ง</Berserk.inspectLine>
   
   <!-- EN: binging on drug -->
   <Binging_DrugExtreme.label>มึนเมายาเสพติด</Binging_DrugExtreme.label>

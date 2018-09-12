@@ -4,21 +4,17 @@
   <!-- EN: rest effectiveness -->
   <BedRestEffectiveness.label>ประสิทธิภาพที่พักพักผ่อน</BedRestEffectiveness.label>
   <!-- EN: How fast people sleeping on this gain rest. -->
-  <BedRestEffectiveness.description>Wie effektiv das Ausruhen in diesem Bett ist.</BedRestEffectiveness.description>
+  <BedRestEffectiveness.description>TODO</BedRestEffectiveness.description>
   
   <!-- EN: door opening speed -->
   <DoorOpenSpeed.label>ความเร็วในการเปิดประตู</DoorOpenSpeed.label>
   <!-- EN: The speed at which the door opens. Slow doors will slow down everyone who uses them. -->
-  <DoorOpenSpeed.description>Wie schnell sich die Tür öffnet.</DoorOpenSpeed.description>
-  
-  <!-- UNUSED -->
-  <EntertainmentStrengthFactor.label>ความบันเทิงปัจจัยที่คุ้มค่า</EntertainmentStrengthFactor.label>
-  <EntertainmentStrengthFactor.description>Wie effektiv dieser Gegenstand die Leute unterhält und ihre Stimmung verbessert.</EntertainmentStrengthFactor.description>
+  <DoorOpenSpeed.description>TODO</DoorOpenSpeed.description>
   
   <!-- EN: immunity gain speed factor -->
   <ImmunityGainSpeedFactor.label>อัตราการสร้างเสริมภูมิคุ้มกันโรค</ImmunityGainSpeedFactor.label>
   <!-- EN: Immunity gain speed is multiplied by this value. -->
-  <ImmunityGainSpeedFactor.description>Die Immunisierungsgeschwindigkeit wird mit diesem Wert multipliziert.</ImmunityGainSpeedFactor.description>
+  <ImmunityGainSpeedFactor.description>TODO</ImmunityGainSpeedFactor.description>
   
   <!-- EN: recreation power -->
   <JoyGainFactor.label>TODO</JoyGainFactor.label>
@@ -28,14 +24,14 @@
   <!-- EN: medical tend quality offset -->
   <MedicalTendQualityOffset.label>คุณภาพของการดูแล</MedicalTendQualityOffset.label>
   <!-- EN: Medical tend quality is offset by this value. -->
-  <MedicalTendQualityOffset.description>Die Behandlungsqualität hat diesen Wert als Offset.</MedicalTendQualityOffset.description>
+  <MedicalTendQualityOffset.description>TODO</MedicalTendQualityOffset.description>
   
   <!-- EN: research speed factor -->
   <ResearchSpeedFactor.label>ความเร็วในการวิจัย</ResearchSpeedFactor.label>
   <!-- EN: The speed at which people do research is multiplied by this value. -->
-  <ResearchSpeedFactor.description>Die Forschungsgeschwindigkeit wird mit diesem Wert multipliziert.</ResearchSpeedFactor.description>
+  <ResearchSpeedFactor.description>TODO</ResearchSpeedFactor.description>
   <!-- EN: Room cleanliness -->
-  <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>Raum-Sauberkeit.</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
+  <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>TODO</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
   
   <!-- EN: surgery success chance factor -->
   <SurgerySuccessChanceFactor.label>TODO</SurgerySuccessChanceFactor.label>
@@ -47,12 +43,12 @@
   <!-- EN: trap melee damage -->
   <TrapMeleeDamage.label>ความเสียหายต่อสู้</TrapMeleeDamage.label>
   <!-- EN: How much damage this trap does on average. The actual damage in any instance will vary randomly. -->
-  <TrapMeleeDamage.description>Wie viel Schaden eine Falle normalerweise verursacht. Der tatsächliche Schaden kann etwas abweichen.</TrapMeleeDamage.description>
+  <TrapMeleeDamage.description>TODO</TrapMeleeDamage.description>
   
   <!-- EN: trap spring chance -->
-  <TrapSpringChance.label>Trap Spring Chance</TrapSpringChance.label>
+  <TrapSpringChance.label>TODO</TrapSpringChance.label>
   <!-- EN: The likelihood that the trap will spring when an unaware creature passes over it. -->
-  <TrapSpringChance.description>Wie hoch die Chance ist, dass die Falle von einer unachtsamen Kreatur ausgelöst wird.</TrapSpringChance.description>
+  <TrapSpringChance.description>TODO</TrapSpringChance.description>
   
   <!-- EN: work efficiency factor -->
   <WorkTableEfficiencyFactor.label>TODO</WorkTableEfficiencyFactor.label>
@@ -62,11 +58,11 @@
   <!-- EN: work speed factor -->
   <WorkTableWorkSpeedFactor.label>ความเร็วในการทำงาน</WorkTableWorkSpeedFactor.label>
   <!-- EN: Work speed is multiplied by this value. -->
-  <WorkTableWorkSpeedFactor.description>Die Arbeitsgeschwindigkeit wird mit diesem Wert multipliziert.</WorkTableWorkSpeedFactor.description>
+  <WorkTableWorkSpeedFactor.description>TODO</WorkTableWorkSpeedFactor.description>
   
   <!-- EN: work to build -->
   <WorkToBuild.label>ค่าใช้จ่ายในการก่อสร้าง</WorkToBuild.label>
   <!-- EN: The base amount of work it takes to build a structure, once all materials are gathered. -->
-  <WorkToBuild.description>Der Mindestaufwand zum Herstellen dieser Struktur, sofern alle Materialien und Werkzeuge vorhanden sind.</WorkToBuild.description>
+  <WorkToBuild.description>TODO</WorkToBuild.description>
   
 </LanguageData>

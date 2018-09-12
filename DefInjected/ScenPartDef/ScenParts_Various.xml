@@ -8,34 +8,28 @@
   <DisableIncident.label>เหตุการณ์ปิดการใช้งาน</DisableIncident.label>
   
   <!-- EN: forced health condition -->
-  <ForcedHediff.label>Forced Hediff</ForcedHediff.label>
+  <ForcedHediff.label>TODO</ForcedHediff.label>
   
   <!-- EN: forced trait -->
-  <ForcedTrait.label>Forced Trait</ForcedTrait.label>
+  <ForcedTrait.label>TODO</ForcedTrait.label>
   
   <!-- EN: planetkiller weapon incoming -->
-  <GameCondition_Planetkiller.label>TODO</GameCondition_Planetkiller.label>
+  <GameCondition_Planetkiller.label>อาวุธทำลายดาวเคราะห์ถูกยิงมาแล้ว</GameCondition_Planetkiller.label>
   
   <!-- EN: game start dialog -->
   <GameStartDialog.label>กล่องโต้ตอบเริ่มเกม</GameStartDialog.label>
   
-  <!-- UNUSED -->
-  <MapCondition_Planetkiller.label>นักฆ่าดาวเคราะห์</MapCondition_Planetkiller.label>
-  
   <!-- EN: naked -->
-  <Naked.label>TODO</Naked.label>
+  <Naked.label>เปลือย</Naked.label>
   
   <!-- EN: characters explode on death -->
-  <OnPawnDeathExplode.label>On PawnDeath Explode</OnPawnDeathExplode.label>
+  <OnPawnDeathExplode.label>TODO</OnPawnDeathExplode.label>
   
   <!-- EN: allowed age range -->
-  <PawnFilter_Age.label>Pawn Filter Age</PawnFilter_Age.label>
+  <PawnFilter_Age.label>TODO</PawnFilter_Age.label>
   
   <!-- EN: permanent game condition -->
   <PermanentGameCondition.label>TODO</PermanentGameCondition.label>
-  
-  <!-- UNUSED -->
-  <PermanentMapCondition.label>สภาพถาวร</PermanentMapCondition.label>
   
   <!-- EN: disallow building -->
   <Rule_DisallowBuilding.label>ปิดการใช้งานอาคาร</Rule_DisallowBuilding.label>

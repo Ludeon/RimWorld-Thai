@@ -4,61 +4,57 @@
   <!-- EN: biofuel refinery -->
   <BiofuelRefinery.label>โรงกลั่นน้ํามันเชื้อเพลิง</BiofuelRefinery.label>
   <!-- EN: Refines biological matter like wood or plant matter into chemfuel. -->
-  <BiofuelRefinery.description>Eine chemische Raffinerie. Wird verwendet um aus Holz oder organischen Materialien Kraftstoff herzustellen.</BiofuelRefinery.description>
+  <BiofuelRefinery.description>TODO</BiofuelRefinery.description>
   
   <!-- EN: brewery -->
   <Brewery.label>โต๊ะหมักเหล้า</Brewery.label>
   <!-- EN: A work station with all the equipment needed mix wort for beer production. Wort must be fermented to finally become beer. -->
-  <Brewery.description>Ein Arbeitsplatz mit allem, was zum Brauen benötigt wird.</Brewery.description>
+  <Brewery.description>TODO</Brewery.description>
   
   <!-- EN: butcher spot -->
   <ButcherSpot.label>TODO</ButcherSpot.label>
   <!-- EN: A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature. -->
   <ButcherSpot.description>TODO</ButcherSpot.description>
   
-  <!-- UNUSED -->
-  <ComponentAssemblyBench.label>โต๊ะผลิตชิ้นส่วน</ComponentAssemblyBench.label>
-  <ComponentAssemblyBench.description>Ein Arbeitstisch mit speziellen Werkzeugen, an dem Bauteile aus einfacheren Materialien erstellt werden können.</ComponentAssemblyBench.description>
-  
   <!-- EN: crafting spot -->
   <CraftingSpot.label>จุดคราฟของ</CraftingSpot.label>
   <!-- EN: A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools. -->
-  <CraftingSpot.description>Ein Platz an dem man einfache Dinge wie Klingen und Bögen herstellen kann.</CraftingSpot.description>
+  <CraftingSpot.description>TODO</CraftingSpot.description>
   
   <!-- EN: deep drill -->
   <DeepDrill.label>เครื่องเจาะหิน (บนพื้นดิน)</DeepDrill.label>
   <!-- EN: A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely. -->
-  <DeepDrill.description>Eine Bohranlage um Mineralien von tief unter der Oberfläche zu fördern. Nutze den Tiefenscanner um verwendbare Mineralienadern aufzuspüren.</DeepDrill.description>
+  <DeepDrill.description>TODO</DeepDrill.description>
   
   <!-- EN: drug lab -->
   <DrugLab.label>แล็บยา</DrugLab.label>
   <!-- EN: A work bench equipped with containers, heaters, and measurement devices for producing various drugs. -->
-  <DrugLab.description>Ein Arbeitstisch, der mit unterschiedlichster Messausrüstung, Bunsenbrennern und diversen Behältern ausgestattet ist. Hier kann man eine Vielzahl von Drogen herstellen.</DrugLab.description>
+  <DrugLab.description>TODO</DrugLab.description>
   
   <!-- EN: electric crematorium -->
   <ElectricCrematorium.label>โรงเผา (ไฟฟ้า)</ElectricCrematorium.label>
   <!-- EN: A huge stone crematorium which vaporizes corpses with extremely high temperatures. -->
-  <ElectricCrematorium.description>Verbrennt Leichen. Elektrisch betrieben.</ElectricCrematorium.description>
+  <ElectricCrematorium.description>TODO</ElectricCrematorium.description>
   
   <!-- EN: electric smelter -->
   <ElectricSmelter.label>เตาหลอม (ไฟฟ้า)</ElectricSmelter.label>
   <!-- EN: Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power. -->
-  <ElectricSmelter.description>Extrahiert Metall aus Schlackebrocken und verschiedenen anderen metallenen Gegenständen. Benötigt sehr viel Strom.</ElectricSmelter.description>
+  <ElectricSmelter.description>TODO</ElectricSmelter.description>
   
   <!-- EN: electric smithy -->
   <ElectricSmithy.label>ที่ตีเหล็ก (ไฟฟ้า)</ElectricSmithy.label>
   <!-- EN: An electric-powered station for smithing non-mechanical weapons and tools. -->
-  <ElectricSmithy.description>Eine elektrisch betriebene Schmiede zur Herstellung von Werkzeugen und nicht-mechanischen Waffen.</ElectricSmithy.description>
+  <ElectricSmithy.description>TODO</ElectricSmithy.description>
   
   <!-- EN: electric stove -->
   <ElectricStove.label>เตาทำอาหาร (ไฟฟ้า)</ElectricStove.label>
   <!-- EN: An electrically-powered stove with an attached countertop for preparing meals. -->
-  <ElectricStove.description>Ein elektrischer Herd mit Arbeitsplatte für die Zubereitung von Mahlzeiten.</ElectricStove.description>
+  <ElectricStove.description>TODO</ElectricStove.description>
   
   <!-- EN: electric tailor bench -->
   <ElectricTailoringBench.label>โต๊ะตัดเย็บ (ไฟฟ้า)</ElectricTailoringBench.label>
   <!-- EN: A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed. -->
-  <ElectricTailoringBench.description>Ein Tisch mit elektrischer Nähmaschine zum schnellen Herstellen von Kleidungsstücken. Kann auch ohne Strom mit 40% der normalen Geschwindigkeit betrieben werden.</ElectricTailoringBench.description>
+  <ElectricTailoringBench.description>TODO</ElectricTailoringBench.description>
   
   <!-- EN: fabrication bench -->
   <FabricationBench.label>TODO</FabricationBench.label>
@@ -68,66 +64,66 @@
   <!-- EN: fermenting barrel -->
   <FermentingBarrel.label>ถังหมัก</FermentingBarrel.label>
   <!-- EN: A barrel for fermenting raw wort into beer. -->
-  <FermentingBarrel.description>Ein Fass um aus roher Würze Bier zu fermentieren.</FermentingBarrel.description>
+  <FermentingBarrel.description>TODO</FermentingBarrel.description>
   
   <!-- EN: fueled smithy -->
   <FueledSmithy.label>ที่ตีเหล็ก (เชื้อเพลิง)</FueledSmithy.label>
   <!-- EN: A wood-fueled station for smithing non-mechanical weapons and tools. -->
-  <FueledSmithy.description>Eine einfache mit Holz befeuerte Schmiede zur Herstellung von Werkzeugen und nicht-mechanischen Waffen.</FueledSmithy.description>
+  <FueledSmithy.description>TODO</FueledSmithy.description>
   
   <!-- EN: fueled stove -->
   <FueledStove.label>เตาทำอาหาร (เชื้อเพลิง)</FueledStove.label>
   <!-- EN: A wood-fueled stove with an attached countertop for preparing meals. -->
-  <FueledStove.description>Ein einfacher mit Holz befeuerter Herd mit Arbeitsplatte für die Zubereitung von Mahlzeiten.</FueledStove.description>
+  <FueledStove.description>TODO</FueledStove.description>
   
   <!-- EN: hand tailor bench -->
   <HandTailoringBench.label>โต๊ะตัดเย็บ (มือ)</HandTailoringBench.label>
   <!-- EN: A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench. -->
-  <HandTailoringBench.description>Ein Tisch zum manuellen Herstellen von Kleidungsstücken. Arbeitet mit 40% der Geschwindigkeit einer elektrischen Nähmaschine.</HandTailoringBench.description>
+  <HandTailoringBench.description>TODO</HandTailoringBench.description>
   
   <!-- EN: hi-tech research bench -->
   <HiTechResearchBench.label>โต๊ะวิจัย (ไฮเทค)</HiTechResearchBench.label>
   <!-- EN: A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects. -->
-  <HiTechResearchBench.description>Ein High-Tech Arbeitstisch mit Computern und elektronischer Untersuchungsausrüstung. Durch den Einsatz dieser High-Tech Werkzeuge wird die Forschung beschleunigt. Benötigt Strom.</HiTechResearchBench.description>
+  <HiTechResearchBench.description>TODO</HiTechResearchBench.description>
   
   <!-- EN: hopper -->
   <Hopper.label>ที่พักเจลสารอาหาร</Hopper.label>
   <!-- EN: Holds resources for use by machines like nutrient paste dispensers. -->
-  <Hopper.description>Lagert Rohstoffe für eine angeschlossene Maschine, wie z.B. dem Nährstoffspender.</Hopper.description>
+  <Hopper.description>TODO</Hopper.description>
   
   <!-- EN: hydroponics basin -->
   <HydroponicsBasin.label>ที่เพาะปลูกในร่ม (ไฟฟ้า)</HydroponicsBasin.label>
   <!-- EN: An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut. -->
-  <HydroponicsBasin.description>Dies ermöglicht den Agrarbetrieb auch innerhalb von Gebäuden. In Hydrokulturbecken kann man schnell ein wenig Nahrung anbauen. Das Becken benötigt Strom zum Arbeiten. Bei unterbrochener Stromversorgung werden die Pflanzen absterben.</HydroponicsBasin.description>
+  <HydroponicsBasin.description>TODO</HydroponicsBasin.description>
   
   <!-- EN: nutrient paste dispenser -->
   <NutrientPasteDispenser.label>เครื่องผลิตเจลสารอาหาร</NutrientPasteDispenser.label>
   <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
-  <NutrientPasteDispenser.description>Synthetisiert Nähstoffpaste von organischen Rohstoffen. Er benötigt weniger Zutaten und weniger Zeit als andere Herstellungsarten - aber niemand mag Nährstoffpaste. Akzeptiert rohe Nahrung, aber kein Tierfutter wie z.B. Heu.</NutrientPasteDispenser.description>
+  <NutrientPasteDispenser.description>TODO</NutrientPasteDispenser.description>
   
   <!-- EN: simple research bench -->
   <SimpleResearchBench.label>โต๊ะวิจัย (ง่าย)</SimpleResearchBench.label>
   <!-- EN: A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things. -->
-  <SimpleResearchBench.description>Eine einfache Arbeitsplatte mit Schreibutensilien und einigen wissenschaftlichen low-tech Geräten. Forscher arbeiten hier, um neue Dinge zu entdecken.</SimpleResearchBench.description>
+  <SimpleResearchBench.description>TODO</SimpleResearchBench.description>
   
   <!-- EN: butcher table -->
   <TableButcher.label>โต๊ะแล่เนื้อ</TableButcher.label>
   <!-- EN: A heavy table for butchering dead creatures into pieces of raw meat. -->
-  <TableButcher.description>Ein schwerer Tisch, auf dem Tierleichen zu rohem Fleisch verarbeitet werden.</TableButcher.description>
+  <TableButcher.description>TODO</TableButcher.description>
   
   <!-- EN: machining table -->
   <TableMachining.label>โต๊ะเครื่องจักร</TableMachining.label>
   <!-- EN: A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids. -->
-  <TableMachining.description>Ein Arbeitsplatz, an dem mechanische Maschinen wie Waffen oder Mechanoiden gebaut und zerlegt werden können.</TableMachining.description>
+  <TableMachining.description>TODO</TableMachining.description>
   
   <!-- EN: sculptor's table -->
   <TableSculpting.label>โต๊ะงานประติมากรรม</TableSculpting.label>
   <!-- EN: A workbench equipped for artistic sculpting. -->
-  <TableSculpting.description>Ein Arbeitsplatz für Künstler, ermöglicht die Fertigung von Skulpturen.</TableSculpting.description>
+  <TableSculpting.description>TODO</TableSculpting.description>
   
   <!-- EN: stonecutter's table -->
   <TableStonecutter.label>โต๊ะตัดหิน</TableStonecutter.label>
   <!-- EN: A work table with saws and chisels for cutting stone chunks into usable blocks. -->
-  <TableStonecutter.description>Ein Tisch, auf dem man Geröll zu nutzbarem Baumaterial verarbeiten kann.</TableStonecutter.description>
+  <TableStonecutter.description>TODO</TableStonecutter.description>
   
 </LanguageData>

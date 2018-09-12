@@ -4,16 +4,10 @@
   <!-- EN: drop pod -->
   <ActiveDropPod.label>TODO</ActiveDropPod.label>
   
-  <!-- UNUSED -->
-  <DropPod.label>กระสวยขนส่ง</DropPod.label>
-  
   <!-- EN: fire -->
   <Fire.label>ไฟไหม้</Fire.label>
   
   <!-- EN: spark -->
   <Spark.label>จุดประกาย</Spark.label>
-  
-  <!-- UNUSED -->
-  <TemporaryRegionBarrier.label>Temporary Region Barrier</TemporaryRegionBarrier.label>
   
 </LanguageData>

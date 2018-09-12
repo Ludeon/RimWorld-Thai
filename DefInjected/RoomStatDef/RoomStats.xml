@@ -34,10 +34,7 @@
   <Cleanliness.scoreStages.sterile.label>ปลอดเชื้อ</Cleanliness.scoreStages.sterile.label>
   
   <!-- EN: food poison chance -->
-  <FoodPoisonChance.label>TODO</FoodPoisonChance.label>
-  
-  <!-- UNUSED -->
-  <FoodPoisonChanceFactor.label>ปัจจัยโอกาสอาหารเป็นพิษ</FoodPoisonChanceFactor.label>
+  <FoodPoisonChance.label>ปัจจัยโอกาสอาหารเป็นพิษ</FoodPoisonChance.label>
   
   <!-- EN: grave visiting recreation factor -->
   <GraveVisitingJoyGainFactor.label>หลุมฝังศพไปเยี่ยมเพื่อความสุข</GraveVisitingJoyGainFactor.label>
@@ -89,10 +86,7 @@
   <Space.scoreStages.extremely_spacious.label>กว้างขวางอย่างมาก</Space.scoreStages.extremely_spacious.label>
   
   <!-- EN: surgery success chance cleanliness factor -->
-  <SurgerySuccessChanceCleanlinessFactor.label>TODO</SurgerySuccessChanceCleanlinessFactor.label>
-  
-  <!-- UNUSED -->
-  <SurgerySuccessChanceFactor.label>การผ่าตัดที่มีโอกาสประสบความสำเร็จ</SurgerySuccessChanceFactor.label>
+  <SurgerySuccessChanceCleanlinessFactor.label>การผ่าตัดที่มีโอกาสประสบความสำเร็จ</SurgerySuccessChanceCleanlinessFactor.label>
   
   <!-- EN: wealth -->
   <Wealth.label>ความมั่งคั่ง</Wealth.label>

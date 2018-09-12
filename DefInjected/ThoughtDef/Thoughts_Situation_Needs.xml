@@ -144,12 +144,4 @@
   <!-- EN: This room is so expansive, I feel free. -->
   <NeedRoomSize.stages.spacious_interior.description>TODO</NeedRoomSize.stages.spacious_interior.description>
   
-  <!-- UNUSED -->
-  <NeedSpace.stages.0.label>บรรยากาศคับแคบ</NeedSpace.stages.0.label>
-  <NeedSpace.stages.0.description>ที่นี่คับแคบมาก ฉันรู้สึกว่าไม่มีที่จะหายใจ</NeedSpace.stages.0.description>
-  <NeedSpace.stages.1.label>บรรยากาศคับแคบมาก</NeedSpace.stages.1.label>
-  <NeedSpace.stages.1.description>มันอึดอัดมากในนี้ ฉันไม่มีที่จะขยับตัวเลย ฉันรู้สึกเหมือนหนูที่อยู่ในกรงแคบๆ</NeedSpace.stages.1.description>
-  <NeedSpace.stages.2.label>ภายในกว้างขวาง</NeedSpace.stages.2.label>
-  <NeedSpace.stages.2.description>ที่นี่เป็นพื้นที่เปิดในร่มที่สบายมากๆ</NeedSpace.stages.2.description>
-  
 </LanguageData>

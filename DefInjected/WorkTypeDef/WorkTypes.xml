@@ -89,13 +89,6 @@
   <!-- EN: Extinguish -->
   <Firefighter.verb>ดับไฟ</Firefighter.verb>
   
-  <!-- UNUSED -->
-  <Flicker.labelShort>สวิตช์</Flicker.labelShort>
-  <Flicker.pawnLabel>คนกดสวิตช์</Flicker.pawnLabel>
-  <Flicker.gerundLabel>การกดสวิตช์</Flicker.gerundLabel>
-  <Flicker.verb>กดสวิตช์</Flicker.verb>
-  <Flicker.description>กดสวิตช์ ยกตัวอย่างเช่น เมื่อคุณกำหนดให้ปิดเปิดพลังงานของป้อมปืน คนกดสวิตช์ต้องกดด้วยตัวเองเพื่อปิดหรือเปิดพลังงาน</Flicker.description>
-  
   <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
   <Growing.description>หว่านเมล็ดและเก็บเกี่ยวพืชผล</Growing.description>
   <!-- EN: growing -->
@@ -172,13 +165,6 @@
   <PatientBedRest.pawnLabel>ผู้ป่วยนอนพัก</PatientBedRest.pawnLabel>
   <!-- EN: Become patient -->
   <PatientBedRest.verb>เป็นผู้ป่วย</PatientBedRest.verb>
-  
-  <!-- UNUSED -->
-  <PatientEmergency.labelShort>ผู้ป่วย</PatientEmergency.labelShort>
-  <PatientEmergency.pawnLabel>ผู้ป่วย</PatientEmergency.pawnLabel>
-  <PatientEmergency.gerundLabel>ผู้ป่วย</PatientEmergency.gerundLabel>
-  <PatientEmergency.verb>เป็นผู้ป่วย</PatientEmergency.verb>
-  <PatientEmergency.description>ไปที่เตียงแพทย์เพื่อทำการรักษาถ้าคุณมีอาการที่คุกคามเฉียบพลันถึงชีวิต</PatientEmergency.description>
   
   <!-- EN: Cut or harvest plants as designated. -->
   <PlantCutting.description>ตัดหรือเก็บเกี่ยวพืชที่กำหนด</PlantCutting.description>

@@ -15,11 +15,6 @@
   <!-- EN: build roof -->
   <BuildRoofs.verb>สร้างหลังคา</BuildRoofs.verb>
   
-  <!-- UNUSED -->
-  <BuryCorpses.label>ฝังศพ</BuryCorpses.label>
-  <BuryCorpses.verb>ฝัง</BuryCorpses.verb>
-  <BuryCorpses.gerund>กำลังฝัง</BuryCorpses.gerund>
-  
   <!-- EN: chat with prisoners -->
   <ChatWithPrisoner.label>คุยกับนักโทษ</ChatWithPrisoner.label>
   <!-- EN: chatting with -->
@@ -132,11 +127,6 @@
   <!-- EN: butcher -->
   <DoBillsButcherFlesh.verb>แล่</DoBillsButcherFlesh.verb>
   
-  <!-- UNUSED -->
-  <DoBillsComponentAssemblyBench.label>ประกอบชิ้นส่วน</DoBillsComponentAssemblyBench.label>
-  <DoBillsComponentAssemblyBench.verb>ผลิตชิ้นส่วน</DoBillsComponentAssemblyBench.verb>
-  <DoBillsComponentAssemblyBench.gerund>กำลังผลิตชิ้นส่วนที่</DoBillsComponentAssemblyBench.gerund>
-  
   <!-- EN: cook meals at stove -->
   <DoBillsCook.label>ปรุงมื้ออาหารที่เตา</DoBillsCook.label>
   <!-- EN: cooking at -->
@@ -207,11 +197,6 @@
   <!-- EN: operate on -->
   <DoBillsMedicalHumanOperation.verb>ผ่าตัด</DoBillsMedicalHumanOperation.verb>
   
-  <!-- UNUSED -->
-  <DoBillsMedicalMechanoidOperation.label>ผ่าตัดให้เมคานอยด์</DoBillsMedicalMechanoidOperation.label>
-  <DoBillsMedicalMechanoidOperation.verb>แก้ไขดัดแปลง</DoBillsMedicalMechanoidOperation.verb>
-  <DoBillsMedicalMechanoidOperation.gerund>กำลังแก้ไขดัดแปลง</DoBillsMedicalMechanoidOperation.gerund>
-  
   <!-- EN: synthesize drugs -->
   <DoBillsProduceDrugs.label>ผลิตยาเสพติด</DoBillsProduceDrugs.label>
   <!-- EN: producing drugs at -->
@@ -276,11 +261,11 @@
   <DoctorRescue.verb>ช่วยเหลือ</DoctorRescue.verb>
   
   <!-- EN: tend to patients with urgent needs -->
-  <DoctorTendEmergency.label>TODO</DoctorTendEmergency.label>
+  <DoctorTendEmergency.label>ให้การรักษาฉุกเฉิน</DoctorTendEmergency.label>
   <!-- EN: tending to -->
-  <DoctorTendEmergency.gerund>TODO</DoctorTendEmergency.gerund>
+  <DoctorTendEmergency.gerund>กำลังรักษา</DoctorTendEmergency.gerund>
   <!-- EN: tend to -->
-  <DoctorTendEmergency.verb>TODO</DoctorTendEmergency.verb>
+  <DoctorTendEmergency.verb>รักษา</DoctorTendEmergency.verb>
   
   <!-- EN: tend to animals -->
   <DoctorTendToAnimals.label>ให้การรักษาสัตว์</DoctorTendToAnimals.label>
@@ -302,11 +287,6 @@
   <DoctorTendToSelf.gerund>รักษา</DoctorTendToSelf.gerund>
   <!-- EN: tend to -->
   <DoctorTendToSelf.verb>รักษาตัวเอง</DoctorTendToSelf.verb>
-  
-  <!-- UNUSED -->
-  <DoctorTreatEmergency.label>ให้การรักษาฉุกเฉิน</DoctorTreatEmergency.label>
-  <DoctorTreatEmergency.verb>รักษา</DoctorTreatEmergency.verb>
-  <DoctorTreatEmergency.gerund>กำลังรักษา</DoctorTreatEmergency.gerund>
   
   <!-- EN: execute prisoners -->
   <DoExecution.label>ประหารนักโทษ</DoExecution.label>
@@ -441,17 +421,12 @@
   <!-- EN: open -->
   <Open.verb>เปิด</Open.verb>
   
-  <!-- UNUSED -->
-  <PatientGoToBedEmergency.label>ไปที่เตียงเพื่อรักษาฉุกเฉิน</PatientGoToBedEmergency.label>
-  <PatientGoToBedEmergency.verb>รับการรักษา</PatientGoToBedEmergency.verb>
-  <PatientGoToBedEmergency.gerund>กำลังรับการรักษา</PatientGoToBedEmergency.gerund>
-  
   <!-- EN: go to bed for emergency treatment -->
-  <PatientGoToBedEmergencyTreatment.label>TODO</PatientGoToBedEmergencyTreatment.label>
+  <PatientGoToBedEmergencyTreatment.label>ไปที่เตียงเพื่อรักษาฉุกเฉิน</PatientGoToBedEmergencyTreatment.label>
   <!-- EN: receiving treatment in -->
-  <PatientGoToBedEmergencyTreatment.gerund>TODO</PatientGoToBedEmergencyTreatment.gerund>
+  <PatientGoToBedEmergencyTreatment.gerund>กำลังรับการรักษา</PatientGoToBedEmergencyTreatment.gerund>
   <!-- EN: receive treatment in -->
-  <PatientGoToBedEmergencyTreatment.verb>TODO</PatientGoToBedEmergencyTreatment.verb>
+  <PatientGoToBedEmergencyTreatment.verb>รับการรักษา</PatientGoToBedEmergencyTreatment.verb>
   
   <!-- EN: recuperate in bed -->
   <PatientGoToBedRecuperate.label>พักฟื้นบนเตียง</PatientGoToBedRecuperate.label>
@@ -474,17 +449,12 @@
   <!-- EN: cut -->
   <PlantsCut.verb>ตัด</PlantsCut.verb>
   
-  <!-- UNUSED -->
-  <RearmTraps.label>ขึ้นกับดักใหม่</RearmTraps.label>
-  <RearmTraps.verb>ขี้นกับดัก</RearmTraps.verb>
-  <RearmTraps.gerund>กำลังขี้นกับดัก</RearmTraps.gerund>
-  
   <!-- EN: rearm turrets -->
-  <RearmTurrets.label>TODO</RearmTurrets.label>
+  <RearmTurrets.label>ขึ้นกับดักใหม่</RearmTurrets.label>
   <!-- EN: rearming -->
-  <RearmTurrets.gerund>TODO</RearmTurrets.gerund>
+  <RearmTurrets.gerund>ขี้นกับดัก</RearmTurrets.gerund>
   <!-- EN: rearm -->
-  <RearmTurrets.verb>TODO</RearmTurrets.verb>
+  <RearmTurrets.verb>กำลังขี้นกับดัก</RearmTurrets.verb>
   
   <!-- EN: refuel fuelable buildings -->
   <Refuel.label>เติมเชื้อเพลิงให้สิ่งก่อสร้าง</Refuel.label>

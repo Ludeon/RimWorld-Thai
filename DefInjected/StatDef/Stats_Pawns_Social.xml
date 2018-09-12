@@ -4,30 +4,26 @@
   <!-- EN: negotiation ability -->
   <NegotiationAbility.label>ทักษะการเจรจาต่อรอง</NegotiationAbility.label>
   <!-- EN: How effective this person is as a negotiator. This affects the speed of prisoner recruitment, impact on faction relations when giving gifts, and the outcome of peace talks. -->
-  <NegotiationAbility.description>Wie viel Auswirkung ein Geschenk auf andere Fraktionen haben wird.</NegotiationAbility.description>
-  
-  <!-- UNUSED -->
-  <RecruitPrisonerChance.label>โอกาสนที่ักโทษรับสมัคร</RecruitPrisonerChance.label>
-  <RecruitPrisonerChance.description>Wie hoch die Chance ist, um einen Gefangenen erfolgreich rekrutieren zu können.</RecruitPrisonerChance.description>
+  <NegotiationAbility.description>TODO</NegotiationAbility.description>
   
   <!-- EN: social impact -->
   <SocialImpact.label>ผลกระทบต่อสังคม</SocialImpact.label>
   <!-- EN: A multiplier on how much other people are affected by this person's social interactions. -->
-  <SocialImpact.description>Wie viel Auswirkung soziale Interaktionen auf andere haben werden.</SocialImpact.description>
+  <SocialImpact.description>TODO</SocialImpact.description>
   
   <!-- EN: tame animal chance -->
   <TameAnimalChance.label>โอกาสที่สัวค์จะเชื่อง</TameAnimalChance.label>
   <!-- EN: The base chance this person will successfully tame an animal on any given attempt. The actual chance is also affected by the animal's wildness. Failed tame attempt can induce animal attacks, especially for more vicious animals. -->
-  <TameAnimalChance.description>Wie hoch die Chance ist, um ein Tier erfolgreich zähmen zu können.</TameAnimalChance.description>
+  <TameAnimalChance.description>TODO</TameAnimalChance.description>
   
   <!-- EN: trade price improvement -->
   <TradePriceImprovement.label>ปรับปรุงราคาขายปลีก</TradePriceImprovement.label>
   <!-- EN: When this person acts as a trade negotiator, buy and sell prices are improved by this percentage. -->
-  <TradePriceImprovement.description>Um wie viel die Kauf- und Verkaufspreise beim Handeln angepasst werden.</TradePriceImprovement.description>
+  <TradePriceImprovement.description>TODO</TradePriceImprovement.description>
   
   <!-- EN: train animal chance -->
   <TrainAnimalChance.label>โอกาสที่จะสอนสัวค์สำเร็จ</TrainAnimalChance.label>
   <!-- EN: The base chance this person will make progress training an animal on a given attempt. The actual chance for a given attempt will also depend on the animal's wildness, whether it is bonded with the trainer, and so on. -->
-  <TrainAnimalChance.description>Wie hoch die Chance ist, um ein Tier erfolgreich trainieren zu können. Kann je nach Tier abweichen.</TrainAnimalChance.description>
+  <TrainAnimalChance.description>TODO</TrainAnimalChance.description>
   
 </LanguageData>

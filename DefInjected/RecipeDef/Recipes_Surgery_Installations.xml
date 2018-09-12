@@ -141,11 +141,6 @@
   <!-- EN: Installing power claw. -->
   <InstallPowerClaw.jobString>กำลังติดตั้งพาวเวอร์คลอว์</InstallPowerClaw.jobString>
   
-  <!-- UNUSED -->
-  <InstallScytherBlade.label>ติดตั้ง ใบมีดไซเธอร์</InstallScytherBlade.label>
-  <InstallScytherBlade.description>ติดตั้งใบมีดไซเธอร์</InstallScytherBlade.description>
-  <InstallScytherBlade.jobString>กำลังติดตั้งใบมีดไซเธอร์</InstallScytherBlade.jobString>
-  
   <!-- EN: install prosthetic arm -->
   <InstallSimpleProstheticArm.label>ติดตั้ง แขนเทียม</InstallSimpleProstheticArm.label>
   <!-- EN: Install a prosthetic arm. -->

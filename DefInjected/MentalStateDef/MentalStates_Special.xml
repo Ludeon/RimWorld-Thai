@@ -4,15 +4,12 @@
   <!-- EN: manhunter -->
   <Manhunter.label>ออกล่ามนุษย์</Manhunter.label>
   <!-- EN: Maddened: Manhunter -->
-  <Manhunter.baseInspectLine>TODO</Manhunter.baseInspectLine>
+  <Manhunter.baseInspectLine>หงุดหงิดบ้าคลั่ง: ออกล่ามนุษย์</Manhunter.baseInspectLine>
   <!-- EN: {0} has become a manhunter! -->
   <Manhunter.beginLetter>{0} หันมาล่ามนุษย์!</Manhunter.beginLetter>
   <Manhunter.beginLetterLabel>ล่ามนุษย์</Manhunter.beginLetterLabel>
   <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
   <Manhunter.recoveryMessage>ความกระหายเลือดของ {0} ได้หมดลงแล้ว</Manhunter.recoveryMessage>
-  
-  <!-- UNUSED -->
-  <Manhunter.inspectLine>หงุดหงิดบ้าคลั่ง: ออกล่ามนุษย์</Manhunter.inspectLine>
   
   <!-- EN: manhunter -->
   <ManhunterPermanent.label>ออกล่ามนุษย์ตลอด</ManhunterPermanent.label>
@@ -27,7 +24,7 @@
   <!-- EN: panic fleeing -->
   <PanicFlee.label>หนีอย่างเสียขวัญ</PanicFlee.label>
   <!-- EN: Mental state: Fleeing in panic -->
-  <PanicFlee.baseInspectLine>TODO</PanicFlee.baseInspectLine>
+  <PanicFlee.baseInspectLine>ภาวะทางจิต: หนีอย่างเสียขวัญ</PanicFlee.baseInspectLine>
   <!-- EN: {0} is fleeing in panic. -->
   <PanicFlee.beginLetter>{0} กำลังหนีอย่างเสียขวัญ</PanicFlee.beginLetter>
   <!-- EN: flee -->
@@ -35,17 +32,11 @@
   <!-- EN: {0} is no longer fleeing in panic. -->
   <PanicFlee.recoveryMessage>{0} เลิกหนีอย่างเสียขวัญแล้ว</PanicFlee.recoveryMessage>
   
-  <!-- UNUSED -->
-  <PanicFlee.inspectLine>ภาวะทางจิต: หนีอย่างเสียขวัญ</PanicFlee.inspectLine>
-  
   <!-- EN: social fighting -->
   <SocialFighting.label>ทะเลาะ</SocialFighting.label>
   <!-- EN: Mental state: Social fighting -->
-  <SocialFighting.baseInspectLine>TODO</SocialFighting.baseInspectLine>
+  <SocialFighting.baseInspectLine>ภาวะทางจิต: ทะเลาะ</SocialFighting.baseInspectLine>
   <SocialFighting.recoveryMessage>{0} เลิกทะเลาะแล้ว</SocialFighting.recoveryMessage>
-  
-  <!-- UNUSED -->
-  <SocialFighting.inspectLine>ภาวะทางจิต: ทะเลาะ</SocialFighting.inspectLine>
   
   <!-- EN: confused wandering -->
   <WanderConfused.label>ความสับสน</WanderConfused.label>

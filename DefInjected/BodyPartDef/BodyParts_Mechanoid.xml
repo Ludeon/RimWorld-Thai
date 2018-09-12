@@ -13,42 +13,6 @@
   <!-- EN: sound sensor -->
   <HearingSensor.label>TODO</HearingSensor.label>
   
-  <!-- UNUSED -->
-  <LeftBlade.label>ใบมีดซ้าย</LeftBlade.label>
-  
-  <!-- UNUSED -->
-  <LeftHandMechanicalIndexFinger.label>นิ้วชี้มือซ้าย</LeftHandMechanicalIndexFinger.label>
-  
-  <!-- UNUSED -->
-  <LeftHandMechanicalMiddleFinger.label>นิ้วนางมือซ้าย</LeftHandMechanicalMiddleFinger.label>
-  
-  <!-- UNUSED -->
-  <LeftHandMechanicalPinky.label>นิ้วก้อยมือซ้าย</LeftHandMechanicalPinky.label>
-  
-  <!-- UNUSED -->
-  <LeftHandMechanicalThumb.label>นิ้วโป้งมือซ้าย</LeftHandMechanicalThumb.label>
-  
-  <!-- UNUSED -->
-  <LeftHearingSensor.label>เซนเซอร์รับเสียงด้านซ้าย</LeftHearingSensor.label>
-  
-  <!-- UNUSED -->
-  <LeftMechanicalArm.label>แขนซ้าย</LeftMechanicalArm.label>
-  
-  <!-- UNUSED -->
-  <LeftMechanicalFoot.label>เท้าซ้าย</LeftMechanicalFoot.label>
-  
-  <!-- UNUSED -->
-  <LeftMechanicalHand.label>มือซ้าย</LeftMechanicalHand.label>
-  
-  <!-- UNUSED -->
-  <LeftMechanicalLeg.label>ขาซ้าย</LeftMechanicalLeg.label>
-  
-  <!-- UNUSED -->
-  <LeftMechanicalShoulder.label>ไหล่ซ้าย</LeftMechanicalShoulder.label>
-  
-  <!-- UNUSED -->
-  <LeftSightSensor.label>เซนเซอร์รับภาพด้านซ้าย</LeftSightSensor.label>
-  
   <!-- EN: arm -->
   <MechanicalArm.label>TODO</MechanicalArm.label>
   
@@ -108,42 +72,6 @@
   
   <!-- EN: reactor -->
   <Reactor.label>TODO</Reactor.label>
-  
-  <!-- UNUSED -->
-  <RightBlade.label>ใบมีดขวา</RightBlade.label>
-  
-  <!-- UNUSED -->
-  <RightHandMechanicalIndexFinger.label>นิ้วชี้มือขวา</RightHandMechanicalIndexFinger.label>
-  
-  <!-- UNUSED -->
-  <RightHandMechanicalMiddleFinger.label>นิ้วนางมือขวา</RightHandMechanicalMiddleFinger.label>
-  
-  <!-- UNUSED -->
-  <RightHandMechanicalPinky.label>นิ้วก้อยมือขวา</RightHandMechanicalPinky.label>
-  
-  <!-- UNUSED -->
-  <RightHandMechanicalThumb.label>นิ้วโป้งมือขวา</RightHandMechanicalThumb.label>
-  
-  <!-- UNUSED -->
-  <RightHearingSensor.label>เซนเซอร์รับเสียงด้านขวา</RightHearingSensor.label>
-  
-  <!-- UNUSED -->
-  <RightMechanicalArm.label>แขนขวา</RightMechanicalArm.label>
-  
-  <!-- UNUSED -->
-  <RightMechanicalFoot.label>เท้าขวา</RightMechanicalFoot.label>
-  
-  <!-- UNUSED -->
-  <RightMechanicalHand.label>มือขวา</RightMechanicalHand.label>
-  
-  <!-- UNUSED -->
-  <RightMechanicalLeg.label>ขาขวา</RightMechanicalLeg.label>
-  
-  <!-- UNUSED -->
-  <RightMechanicalShoulder.label>ไหล่ขวา</RightMechanicalShoulder.label>
-  
-  <!-- UNUSED -->
-  <RightSightSensor.label>เซนเซอร์รับภาพด้านขวา</RightSightSensor.label>
   
   <!-- EN: visual sensor -->
   <SightSensor.label>TODO</SightSensor.label>

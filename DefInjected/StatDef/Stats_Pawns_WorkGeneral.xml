@@ -4,30 +4,22 @@
   <!-- EN: animal gather speed -->
   <AnimalGatherSpeed.label>ความเร็วในการประมวลสัตว์</AnimalGatherSpeed.label>
   <!-- EN: The speed at which this person milks, shears, and otherwise gathers resources from animals. -->
-  <AnimalGatherSpeed.description>Wie schnell das Individuum melken, scheeren oder anderweitig tierische Resourcen erhalten kann.</AnimalGatherSpeed.description>
+  <AnimalGatherSpeed.description>TODO</AnimalGatherSpeed.description>
   
   <!-- EN: animal gather yield -->
   <AnimalGatherYield.label>รักษาความอุดมสมบูรณ์ของสัตว์</AnimalGatherYield.label>
   <!-- EN: The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal. Higher percentages reduce the chance of wasting the product. -->
-  <AnimalGatherYield.description>Wie ergiebig das Individuum beim melken, scheeren oder o.ä. ist. Höhere Prozentwerte reduzieren die Wahrscheinlichkeit die Materialien zu verlieren.</AnimalGatherYield.description>
-  
-  <!-- UNUSED -->
-  <ConstructFailChance.label>โอกาสก่อสร้างล้มเหลว</ConstructFailChance.label>
-  <ConstructFailChance.description>Die Wahrscheinlichkeit des Kolonisten beim konstruieren eines Gebäudes zu versagen. Er wird dabei trotzdem Zeit und etwas Material verbrauchen.</ConstructFailChance.description>
+  <AnimalGatherYield.description>TODO</AnimalGatherYield.description>
   
   <!-- EN: construction speed -->
   <ConstructionSpeed.label>ความเร็วในการก่อสร้าง</ConstructionSpeed.label>
   <!-- EN: The speed at which this person constructs and repairs buildings. -->
-  <ConstructionSpeed.description>Wie schnell das Individuum etwas aufbauen kann.</ConstructionSpeed.description>
+  <ConstructionSpeed.description>TODO</ConstructionSpeed.description>
   
   <!-- EN: construct success chance -->
   <ConstructSuccessChance.label>TODO</ConstructSuccessChance.label>
   <!-- EN: The chance that this person will succeed in constructing something. Failing means wasting time and resources. -->
   <ConstructSuccessChance.description>TODO</ConstructSuccessChance.description>
-  
-  <!-- UNUSED -->
-  <FixBrokenDownBuildingFailChance.label>โอกาสของความสำเร็จที่ซ่อม</FixBrokenDownBuildingFailChance.label>
-  <FixBrokenDownBuildingFailChance.description>Die Wahrscheinlichkeit des Kolonisten bei der Reparatur eines beschädigten Gebäudes zu versagen.</FixBrokenDownBuildingFailChance.description>
   
   <!-- EN: repair success chance -->
   <FixBrokenDownBuildingSuccessChance.label>TODO</FixBrokenDownBuildingSuccessChance.label>
@@ -42,36 +34,36 @@
   <!-- EN: mining speed -->
   <MiningSpeed.label>ความเร็วการขุดเหมืองแร่</MiningSpeed.label>
   <!-- EN: A speed at which this person digs at walls and drills for deep resources. -->
-  <MiningSpeed.description>Wie schnell das Individuum Gesteine abbauen kann.</MiningSpeed.description>
+  <MiningSpeed.description>TODO</MiningSpeed.description>
   
   <!-- EN: mining yield -->
   <MiningYield.label>ทำลายความอุดมสมบูรณ์</MiningYield.label>
   <!-- EN: The percentage of mined resources a miner will produce. This applies to both wall mining and deep drill mining. This doesn't affect the production rate of rock chunks. -->
-  <MiningYield.description>Wie ergiebig das Individuum beim Gesteine abbauen und Minengeräte bedienen ist. Das gilt für den normalen Abbau wie auch für den Tiefen-Abbau. Es hat keinen Einfluss auf den Abbau von Gesteinsbrocken.</MiningYield.description>
+  <MiningYield.description>TODO</MiningYield.description>
   
   <!-- EN: plant harvest yield -->
   <PlantHarvestYield.label>ผลผลิตพืช</PlantHarvestYield.label>
   <!-- EN: The yield this person gets when harvesting plants. Low yields give a chance that this person will accidentally waste the harvest. -->
-  <PlantHarvestYield.description>Wie ergiebig das individuum ernten kann. Ein niedriger Wert erhöht die Wahrscheinlichkeit, dass die Ernte versehentlich zerstört wird.</PlantHarvestYield.description>
+  <PlantHarvestYield.description>TODO</PlantHarvestYield.description>
   
   <!-- EN: plant work speed -->
   <PlantWorkSpeed.label>ความเร็วในการเจริญเติบโต</PlantWorkSpeed.label>
   <!-- EN: The speed at which this person sows and harvests plants. -->
-  <PlantWorkSpeed.description>Wie schnell das Individuum Pflanzen säen und ernten kann.</PlantWorkSpeed.description>
+  <PlantWorkSpeed.description>TODO</PlantWorkSpeed.description>
   
   <!-- EN: research speed -->
   <ResearchSpeed.label>ความเร็วในการวิจัย</ResearchSpeed.label>
   <!-- EN: How fast this person performs research and how quickly they can find things using scanning equipment. -->
-  <ResearchSpeed.description>Wie schnell das Individuum forschen kann.</ResearchSpeed.description>
+  <ResearchSpeed.description>TODO</ResearchSpeed.description>
   
   <!-- EN: smoothing speed -->
   <SmoothingSpeed.label>ความเร็วการปรับให้เรียบ</SmoothingSpeed.label>
   <!-- EN: A multiplier on the speed at which this person smooths rough stone floors and walls. -->
-  <SmoothingSpeed.description>Wie schnell das Individuum Böden glätten kann.</SmoothingSpeed.description>
+  <SmoothingSpeed.description>TODO</SmoothingSpeed.description>
   
   <!-- EN: global work speed -->
   <WorkSpeedGlobal.label>ความเร็วในการทำงาน</WorkSpeedGlobal.label>
   <!-- EN: A multiplier on a character's speed at doing any kind of work. -->
-  <WorkSpeedGlobal.description>Wie schnell das Individuum arbeiten kann.</WorkSpeedGlobal.description>
+  <WorkSpeedGlobal.description>TODO</WorkSpeedGlobal.description>
   
 </LanguageData>

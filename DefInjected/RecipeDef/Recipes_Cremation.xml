@@ -8,11 +8,6 @@
   <!-- EN: Burning apparel. -->
   <BurnApparel.jobString>กำลังเผาเสื้อผ้า</BurnApparel.jobString>
   
-  <!-- UNUSED -->
-  <BurnApparelCampfire.label>เผาทำลาย เสื้อผ้า</BurnApparelCampfire.label>
-  <BurnApparelCampfire.description>เผาเสื้อผ้าเพื่อทำลายให้หมดไป</BurnApparelCampfire.description>
-  <BurnApparelCampfire.jobString>กำลังเผาเสื้อผ้า</BurnApparelCampfire.jobString>
-  
   <!-- EN: burn drugs -->
   <BurnDrugs.label>เผาทำลาย ยา</BurnDrugs.label>
   <!-- EN: Burn unwanted drugs to completely destroy them. -->

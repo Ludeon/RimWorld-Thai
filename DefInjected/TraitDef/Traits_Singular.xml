@@ -76,10 +76,6 @@
   <!-- EN: {PAWN_nameDef} needs a really impressive bedroom. {PAWN_pronoun} gets a mood loss if {PAWN_pronoun} doesn't get what {PAWN_pronoun} wants. -->
   <Greedy.degreeDatas.greedy.description>[PAWN_nameDef] นั้นต้องการห้องนอนที่น่าประทับใจอย่างยิ่ง [PAWN_pronoun] จะอารมณ์เสียถ้า [PAWN_pronoun] ไม่ได้อะไรอย่างที่ [PAWN_pronoun] ต้องการ</Greedy.degreeDatas.greedy.description>
   
-  <!-- UNUSED -->
-  <GreenThumb.degreeDatas.0.label>มือเย็น</GreenThumb.degreeDatas.0.label>
-  <GreenThumb.degreeDatas.0.description>[PAWN_nameDef] มีความหลงใหลในการทำสวน [PAWN_pronoun] จะได้อารมณ์เป็นโบนัสเพิ่มสำหรับต้นไม้ทุกต้นที่ [PAWN_pronoun] ไถหว่าน</GreenThumb.degreeDatas.0.description>
-  
   <!-- EN: jealous -->
   <Jealous.degreeDatas.jealous.label>ขี้อิจฉา</Jealous.degreeDatas.jealous.label>
   <!-- EN: For {PAWN_nameDef}, it's degrading to have a less impressive bedroom than someone else. {PAWN_pronoun} gets a mood loss if any colonist has a more impressive bedroom. -->
@@ -124,10 +120,6 @@
   <QuickSleeper.degreeDatas.quick_sleeper.label>TODO</QuickSleeper.degreeDatas.quick_sleeper.label>
   <!-- EN: {PAWN_nameDef} doesn't need as much sleep as the average person. Whether {PAWN_pronoun}'s sleeping on a bed or on the ground, {PAWN_pronoun} will be fully rested in about two thirds the usual time. -->
   <QuickSleeper.degreeDatas.quick_sleeper.description>TODO</QuickSleeper.degreeDatas.quick_sleeper.description>
-  
-  <!-- UNUSED -->
-  <SuperImmune.degreeDatas.0.label>ซูเปอร์ ภูมิคุ้มกัน</SuperImmune.degreeDatas.0.label>
-  <SuperImmune.degreeDatas.0.description>[PAWN_nameDef] มีระบบภูมิคุ้มกันที่ดีมาก [PAWN_pronoun] จะได้รับภูมิคุ้มกันเร็วกว่าคนปกติ และ สามารถ รอดจากโรคที่ทำให้คนอื่นถึงแก่ชีวิตได้</SuperImmune.degreeDatas.0.description>
   
   <!-- EN: too smart -->
   <TooSmart.degreeDatas.too_smart.label>ฉลาดเกิน</TooSmart.degreeDatas.too_smart.label>

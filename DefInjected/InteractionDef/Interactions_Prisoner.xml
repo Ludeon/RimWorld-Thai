@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: try to get to know -->
   <BuildRapport.label>คุยกับนักโทษ</BuildRapport.label>
   <!-- EN:
@@ -39,15 +39,8 @@
     <li>subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic]</li>
     <li>subject(p=8)->[TalkTopicLight]</li>
   -->
-  <BuildRapport.logRulesInitiator.rulesStrings>
-    <li>logentry->พยายามเกลี้ยกล่อม [other_nameShortIndef] เกี่ยวกับความดีงามของอาณานิคมนี้</li>
-  </BuildRapport.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <BuildRapport.logRulesRecipient.rulesStrings>
-    <li>logentry->ฟัง [other_nameShortIndef] พูดเรื่องที่ว่าอาณานิคมนี้น่าอยู่แค่ไหน</li>
-  </BuildRapport.logRulesRecipient.rulesStrings>
-  
+  <BuildRapport.logRulesInitiator.rulesStrings>TODO</BuildRapport.logRulesInitiator.rulesStrings>
+
   <!-- EN: recruit attempt -->
   <RecruitAttempt.label>พยายามรับสมัคร</RecruitAttempt.label>
   <!-- EN:
@@ -56,15 +49,8 @@
     <li>goodthing(p=15)->[ConceptPositive]</li>
     <li>goodthing->free, fresh [Vegetable]s</li>
   -->
-  <RecruitAttempt.logRulesInitiator.rulesStrings>
-    <li>logentry->พยายามรับสมัคร [other_nameShortIndef]</li>
-  </RecruitAttempt.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <RecruitAttempt.logRulesRecipient.rulesStrings>
-    <li>logentry->ฟังการรับสมัครจาก [other_nameShortIndef]</li>
-  </RecruitAttempt.logRulesRecipient.rulesStrings>
-  
+  <RecruitAttempt.logRulesInitiator.rulesStrings>TODO</RecruitAttempt.logRulesInitiator.rulesStrings>
+
   <!-- EN: spark jailbreak -->
   <SparkJailbreak.label>จุดประกายให้นักโทษ</SparkJailbreak.label>
   <!-- EN:
@@ -77,13 +63,6 @@
     <li>freedom->home</li>
     <li>freedom->self-determination</li>
   -->
-  <SparkJailbreak.logRulesInitiator.rulesStrings>
-    <li>logentry->ชักนำ [other_nameShortIndef] ให้หลบหนี</li>
-  </SparkJailbreak.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <SparkJailbreak.logRulesRecipient.rulesStrings>
-    <li>logentry->ถูกชักชวนให้หลบหนีโดย [other_nameShortIndef]</li>
-  </SparkJailbreak.logRulesRecipient.rulesStrings>
-  
+  <SparkJailbreak.logRulesInitiator.rulesStrings>TODO</SparkJailbreak.logRulesInitiator.rulesStrings>
+
 </LanguageData>

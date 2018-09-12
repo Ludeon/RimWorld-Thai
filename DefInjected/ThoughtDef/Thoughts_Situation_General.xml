@@ -10,12 +10,6 @@
   <!-- EN: This thing looks like it's about to fall apart. Can't I wear something that doesn't belong in a trash heap? -->
   <ApparelDamaged.stages.tattered_apparel.description>ฉันใส่เสื้อป้าที่ขาดรุ่งริ่งแทบจะเป็นขยะอยู่แล้ว ฉันไม่มีอย่างอื่นที่ดีกว่านี้ใส่แล้วหรอ?</ApparelDamaged.stages.tattered_apparel.description>
   
-  <!-- UNUSED -->
-  <CabinFever.stages.0.label>ไข้ที่พัก (เล็กน้อย)</CabinFever.stages.0.label>
-  <CabinFever.stages.0.description>ฉันหมกตัวอยู่ข้างในมากเป็นวันๆแล้ว ฉันจำเป็นต้องออกไปข้างนอก</CabinFever.stages.0.description>
-  <CabinFever.stages.1.label>ไข้ที่พัก (อาการหนัก)</CabinFever.stages.1.label>
-  <CabinFever.stages.1.description>ฉันถูกขังเหมือนหนูในนี้มานานเหลือเกิน ฉันอยากออกไปข้างนอกจนแทบสิ้นหวังแล้ว!</CabinFever.stages.1.description>
-  
   <!-- EN: tainted {0} -->
   <DeadMansApparel.stages.tainted.label>{0} ใส่เสื้อผ้าคนที่ตายแล้ว</DeadMansApparel.stages.tainted.label>
   <!-- EN: I am wearing a piece of apparel that someone died in. It creeps me out and feels dirty. -->

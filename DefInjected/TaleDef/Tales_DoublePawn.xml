@@ -284,9 +284,6 @@
   <!-- EN: colony animal killed -->
   <KilledColonyAnimal.label>ฆ่าสัตว์ของอาณานิคม</KilledColonyAnimal.label>
   
-  <!-- UNUSED -->
-  <KilledMajorColonyEnemy.label>ฆ่าศัตรูกลุ่มใหญ่ของอาณานิคม</KilledMajorColonyEnemy.label>
-  
   <!-- EN: person recruited -->
   <Recruited.label>รับสมัครคน</Recruited.label>
   <!-- EN:

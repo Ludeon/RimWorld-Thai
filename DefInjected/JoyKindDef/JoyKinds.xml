@@ -13,28 +13,16 @@
   <!-- EN: food consumption -->
   <Gluttonous.label>ตะกละ</Gluttonous.label>
   
-  <!-- UNUSED -->
-  <Lewd.label>ทำเรื่องตัณหา</Lewd.label>
-  
   <!-- EN: solitary relaxation -->
   <Meditative.label>ทำสมาธิ</Meditative.label>
   
-  <!-- UNUSED -->
-  <Passive.label>อยู่เฉยๆ</Passive.label>
-  
   <!-- EN: social interaction -->
   <Social.label>เข้าสังคม</Social.label>
-  
-  <!-- UNUSED -->
-  <Study.label>เรียนรู้</Study.label>
   
   <!-- EN: telescope study -->
   <Telescope.label>TODO</Telescope.label>
   
   <!-- EN: television watching -->
   <Television.label>TODO</Television.label>
-  
-  <!-- UNUSED -->
-  <Work.label>งาน</Work.label>
   
 </LanguageData>

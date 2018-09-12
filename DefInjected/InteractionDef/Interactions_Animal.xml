@@ -27,14 +27,7 @@
     <li>tamed->sat patiently near</li>
     <li>tamed->whispered a story about [TalkTopicAny] to</li>
   -->
-  <AnimalChat.logRulesInitiator.rulesStrings>
-    <li>logentry->สื่อสารกันกับ [other_nameShortIndef], กำลังพยายามที่จะสร้างความเป็นมิตรด้วย</li>
-  </AnimalChat.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <AnimalChat.logRulesRecipient.rulesStrings>
-    <li>logentry->ตอบสนองกับการสื่อสารที่เป็นมิตรของ [other_nameShortIndef]</li>
-  </AnimalChat.logRulesRecipient.rulesStrings>
+  <AnimalChat.logRulesInitiator.rulesStrings>TODO</AnimalChat.logRulesInitiator.rulesStrings>
   
   <!-- EN: nuzzle -->
   <Nuzzle.label>อ้อน</Nuzzle.label>
@@ -64,14 +57,7 @@
     <li>rubbedpart->side</li>
     <li>rubbedpart->arm</li>
   -->
-  <Nuzzle.logRulesInitiator.rulesStrings>
-    <li>logentry->อ้อน [other_nameShortIndef].</li>
-  </Nuzzle.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <Nuzzle.logRulesRecipient.rulesStrings>
-    <li>logentry->ถูกอ้อนโดย [other_nameShortIndef]</li>
-  </Nuzzle.logRulesRecipient.rulesStrings>
+  <Nuzzle.logRulesInitiator.rulesStrings>TODO</Nuzzle.logRulesInitiator.rulesStrings>
   
   <!-- EN: tame attempt -->
   <TameAttempt.label>พยายามทำให้เชื่อง</TameAttempt.label>
@@ -92,14 +78,7 @@
     <li>r_logentry->[INITIATOR_nameDef] pointed at the ground, demanding that [RECIPIENT_nameDef] come.</li>
     <li>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a first command.</li>
   -->
-  <TameAttempt.logRulesInitiator.rulesStrings>
-    <li>logentry->พยายามทำให้ [other_nameShortIndef] เชื่อง</li>
-  </TameAttempt.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <TameAttempt.logRulesRecipient.rulesStrings>
-    <li>logentry->มองดู [other_nameShortIndef] พยายามทำให้ตัวมันเองเชื่อง</li>
-  </TameAttempt.logRulesRecipient.rulesStrings>
+  <TameAttempt.logRulesInitiator.rulesStrings>TODO</TameAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: train attempt -->
   <TrainAttempt.label>พยายามฝึกสัตว์</TrainAttempt.label>
@@ -115,13 +94,6 @@
     <li>tried->tried</li>
     <li>tried->attempted</li>
   -->
-  <TrainAttempt.logRulesInitiator.rulesStrings>
-    <li>logentry->ฝึกแล้ว [other_nameShortIndef]</li>
-  </TrainAttempt.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <TrainAttempt.logRulesRecipient.rulesStrings>
-    <li>logentry->ถูกฝึกโดย [other_nameShortIndef]</li>
-  </TrainAttempt.logRulesRecipient.rulesStrings>
+  <TrainAttempt.logRulesInitiator.rulesStrings>TODO</TrainAttempt.logRulesInitiator.rulesStrings>
   
 </LanguageData>

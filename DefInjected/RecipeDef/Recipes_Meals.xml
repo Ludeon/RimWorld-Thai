@@ -22,11 +22,6 @@
   <!-- EN: Cooking simple meal. -->
   <CookMealSimple.jobString>กำลังปรุงมื้ออาหารแบบง่ายๆ</CookMealSimple.jobString>
   
-  <!-- UNUSED -->
-  <CookMealSimpleCampfire.label>ปรุง มื้ออาหารแบบง่ายๆ</CookMealSimpleCampfire.label>
-  <CookMealSimpleCampfire.description>ปรุงอาหารอย่างตรงๆขึ้นมาจากวัตถุดิบชนิดเดียวด้วยกองไฟ</CookMealSimpleCampfire.description>
-  <CookMealSimpleCampfire.jobString>กำลังปรุงมื้ออาหารแบบง่ายๆด้วยกองไฟ</CookMealSimpleCampfire.jobString>
-  
   <!-- EN: cook packaged survival meal -->
   <CookMealSurvival.label>ปรุง อาหารเอาตัวรอด</CookMealSurvival.label>
   <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->

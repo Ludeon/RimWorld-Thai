@@ -38,14 +38,4 @@
   <!-- EN: Removing body part. -->
   <RemoveBodyPart.jobString>กำลังเอาอวัยวะออก</RemoveBodyPart.jobString>
   
-  <!-- UNUSED -->
-  <RemoveMechanoidBodyPart.label>เอาชิ้นส่วน อวัยวะออก</RemoveMechanoidBodyPart.label>
-  <RemoveMechanoidBodyPart.description>เอาชิ้นส่วนอวัยวะของเมคานอยด์ออก</RemoveMechanoidBodyPart.description>
-  <RemoveMechanoidBodyPart.jobString>กำลังเอาชิ้นส่วนอวัยวะออก</RemoveMechanoidBodyPart.jobString>
-  
-  <!-- UNUSED -->
-  <ShutDownMechanoid.label>ปิด เครื่อง</ShutDownMechanoid.label>
-  <ShutDownMechanoid.description>ปิดเครื่องเมคานอยด์</ShutDownMechanoid.description>
-  <ShutDownMechanoid.jobString>กำลังปิดเครื่อง</ShutDownMechanoid.jobString>
-  
 </LanguageData>

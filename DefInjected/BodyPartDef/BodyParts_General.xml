@@ -19,18 +19,6 @@
   <!-- EN: jaw -->
   <Jaw.label>ขากรรไกร</Jaw.label>
   
-  <!-- UNUSED -->
-  <LeftEar.label>หูข้างซ้าย</LeftEar.label>
-  
-  <!-- UNUSED -->
-  <LeftEye.label>ตาซ้าย</LeftEye.label>
-  
-  <!-- UNUSED -->
-  <LeftFoot.label>เท้าซ้าย</LeftFoot.label>
-  
-  <!-- UNUSED -->
-  <LeftLeg.label>ขาซ้าย</LeftLeg.label>
-  
   <!-- EN: leg -->
   <Leg.label>TODO</Leg.label>
   
@@ -40,23 +28,8 @@
   <!-- EN: nose -->
   <Nose.label>จมูก</Nose.label>
   
-  <!-- UNUSED -->
-  <Rib.label>ซี่โครง</Rib.label>
-  
   <!-- EN: ribcage -->
-  <Ribcage.label>TODO</Ribcage.label>
-  
-  <!-- UNUSED -->
-  <RightEar.label>หูข้างขวา</RightEar.label>
-  
-  <!-- UNUSED -->
-  <RightEye.label>ตาขวา</RightEye.label>
-  
-  <!-- UNUSED -->
-  <RightFoot.label>เท้าขวา</RightFoot.label>
-  
-  <!-- UNUSED -->
-  <RightLeg.label>ขาขวา</RightLeg.label>
+  <Ribcage.label>ซี่โครง</Ribcage.label>
   
   <!-- EN: skull -->
   <Skull.label>กระโหลก</Skull.label>

@@ -87,12 +87,9 @@
   
   <!-- EN: opening TargetA. -->
   <Open.reportString>กำลังเปิด TargetA.</Open.reportString>
-  
-  <!-- UNUSED -->
-  <RearmTrap.reportString>กำลังติดตั้งกับดัก TargetA.</RearmTrap.reportString>
-  
+   
   <!-- EN: rearming TargetA. -->
-  <RearmTurret.reportString>TODO</RearmTurret.reportString>
+  <RearmTurret.reportString>กำลังตั้ง TargetA ใหม่</RearmTurret.reportString>
   
   <!-- EN: rearming TargetA. -->
   <RearmTurretAtomic.reportString>TODO</RearmTurretAtomic.reportString>
@@ -140,7 +137,7 @@
   <UseItem.reportString>กำลังใช่ TargetA.</UseItem.reportString>
   
   <!-- EN: using neurotrainer. -->
-  <UseNeurotrainer.reportString>กำลังใช่ neurotrainer</UseNeurotrainer.reportString>
+  <UseNeurotrainer.reportString>กำลังใช้ neurotrainer</UseNeurotrainer.reportString>
   
   <!-- EN: Doing something. -->
   <UseVerbOnThing.reportString>ทำอะไรบางอย่าง</UseVerbOnThing.reportString>

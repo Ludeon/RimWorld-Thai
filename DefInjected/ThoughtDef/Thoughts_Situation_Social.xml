@@ -60,9 +60,6 @@
   <!-- EN: killed colony animal -->
   <KilledColonyAnimal.stages.killed_colony_animal.label>ฆ่าสัตว์อาณานิคม</KilledColonyAnimal.stages.killed_colony_animal.label>
   
-  <!-- UNUSED -->
-  <KilledMajorColonyEnemy.stages.0.label>ฆ่าศัตรูที่สำคัญ</KilledMajorColonyEnemy.stages.0.label>
-  
   <!-- EN: man -->
   <Man.stages.man.label>ผู้ชาย</Man.stages.man.label>
   

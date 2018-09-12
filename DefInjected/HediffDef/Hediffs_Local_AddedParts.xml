@@ -77,9 +77,6 @@
   <!-- EN: a power claw -->
   <PowerClaw.labelNoun>พาวเวอร์คลอว์</PowerClaw.labelNoun>
   
-  <!-- UNUSED -->
-  <PowerClaw.comps.0.tools.1.label>แหลม</PowerClaw.comps.0.tools.1.label>
-  
   <!-- EN: prosthetic arm -->
   <SimpleProstheticArm.label>แขนเทียม</SimpleProstheticArm.label>
   <!-- EN: fist -->
