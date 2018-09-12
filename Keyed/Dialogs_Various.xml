@@ -8,7 +8,7 @@
   <!-- EN: OK -->
   <OK>ตกลง</OK>
   <!-- EN: Close -->
-  <Close>TODO</Close>
+  <Close>ปิด</Close>
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
@@ -18,9 +18,9 @@
   <!-- EN: Saved games from the old version should be compatible, however some mods may stop working. -->
   <GameUpdatedToNewVersionSavesCompatible>เกมที่บันทึกไว้จากเวอร์ชันเก่าควรเข้ากันได้แต่บาง mods อาจหยุดทำงาน</GameUpdatedToNewVersionSavesCompatible>
   <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
-  <GameUpdatedToNewVersionNonSteam>Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions.</GameUpdatedToNewVersionNonSteam>
+  <GameUpdatedToNewVersionNonSteam>TODO</GameUpdatedToNewVersionNonSteam>
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this. -->
-  <GameUpdatedToNewVersionSteam>หากคุณต้องการใช้เวอร์ชันเดิมต่อไปคุณสามารถเลือกใช้คุณลักษณะ "Betas" ของ Steam ได้\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this.</GameUpdatedToNewVersionSteam>
+  <GameUpdatedToNewVersionSteam>TODO</GameUpdatedToNewVersionSteam>
   
   <!-- Recovered from errors caused by mods -->
   <!-- EN: Recovered from incompatible or corrupted mods errors -->
@@ -82,23 +82,23 @@
   
   <!-- Save/load -->
   <!-- EN: Save -->
-  <SaveGameButton>เซฟ</SaveGameButton>
+  <SaveGameButton>บันทึก</SaveGameButton>
   <!-- EN: Load -->
   <LoadGameButton>โหลด</LoadGameButton>
   <!-- EN: Overwrite -->
-  <OverwriteButton>เซฟทับ</OverwriteButton>
+  <OverwriteButton>บันทึกทับ</OverwriteButton>
   <!-- EN: Really delete {0}? -->
   <ConfirmDelete>คุณจะลบ {0} ใช่ไหม</ConfirmDelete>
   <!-- EN: Delete this savegame. -->
   <DeleteThisSavegame>ลบไฟล์เซฟเกมส์</DeleteThisSavegame>
   <!-- EN: Saved as {0}. -->
-  <SavedAs>เซฟเป็น {0}.</SavedAs>
+  <SavedAs>บันทึกเป็น {0}.</SavedAs>
   <!-- EN: Please enter a name. -->
   <NeedAName>กรุณาใส่ชื่อ</NeedAName>
   <!-- EN: Loading -->
   <LoadingLongEvent>กำลังโหลด</LoadingLongEvent>
   <!-- EN: Saving -->
-  <SavingLongEvent>กำลังเซฟ</SavingLongEvent>
+  <SavingLongEvent>กำลังบันทึก</SavingLongEvent>
   <!-- EN: (Permadeath) -->
   <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
@@ -204,9 +204,9 @@
   
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
-  <MapTemperatureDangerWarning>Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season.</MapTemperatureDangerWarning>
+  <MapTemperatureDangerWarning>TODO</MapTemperatureDangerWarning>
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
-  <MapSizePerformanceWarning>Warning: Performance may degrade at larger map sizes. Ludeonicrous size is untested and will almost certainly not play well.</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>TODO</MapSizePerformanceWarning>
   <!-- EN: Map size -->
   <MapSize>ขนาดแผนที่</MapSize>
   <!-- EN: {0}x{0} ({1} cells) -->
@@ -218,9 +218,9 @@
   <!-- EN: Large -->
   <MapSizeLarge>ใหญ่</MapSizeLarge>
   <!-- EN: Extreme (test) -->
-  <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
+  <MapSizeExtreme>มโหฬาร (ทดสอบ)</MapSizeExtreme>
   <!-- EN: Starting season -->
-  <MapStartSeason>ฤดุที่เริ่มต้น:</MapStartSeason>
+  <MapStartSeason>ฤดูที่เริ่มต้น:</MapStartSeason>
   <!-- EN: Auto -->
   <MapStartSeasonDefault>อัตโนมัติ</MapStartSeasonDefault>
   <!-- EN: Notice -->
@@ -240,7 +240,7 @@
   <!-- EN: Details -->
   <Details>รายละเอียด</Details>
   <!-- EN: Ingredient radius -->
-  <IngredientSearchRadius>Ingredient radius</IngredientSearchRadius>
+  <IngredientSearchRadius>TODO</IngredientSearchRadius>
   <!-- EN: Currently have -->
   <CurrentlyHave>ตอนนี้มีอยู่</CurrentlyHave>
   <!-- EN: Counting -->
@@ -305,11 +305,11 @@
   <!-- EN: Accuracy -->
   <Accuracy>ความแม่นยำ</Accuracy>
   <!-- EN: Burst shot count -->
-  <BurstShotCount>จำนวนภาพต่อเนื่อง</BurstShotCount>
+  <BurstShotCount>TODO</BurstShotCount>
   <!-- EN: Warmup -->
-  <WarmupTime>Warmup</WarmupTime>
+  <WarmupTime>TODO</WarmupTime>
   <!-- EN: Melee warmup -->
-  <MeleeWarmupTime>Melee warmup</MeleeWarmupTime>
+  <MeleeWarmupTime>TODO</MeleeWarmupTime>
   <!-- EN: Cooldown -->
   <CooldownTime>คูลดาวน์</CooldownTime>
   <!-- EN: Fire rate -->
@@ -351,7 +351,7 @@
   <!-- EN: Light requirement -->
   <LightRequirement>ต้องการแสงสว่าง</LightRequirement>
   <!-- EN: Attributes -->
-  <Attributes>Attributes</Attributes>
+  <Attributes>TODO</Attributes>
   <!-- EN: Lifespan -->
   <LifeSpan>อายุขัย</LifeSpan>
   <!-- EN: Nutrition -->
@@ -403,7 +403,7 @@
   <!-- EN: Misc -->
   <MiscRecordsCategory>อื่นๆ</MiscRecordsCategory>
   <!-- EN: Addictiveness -->
-  <Addictiveness>Addictiveness</Addictiveness>
+  <Addictiveness>TODO</Addictiveness>
   <!-- EN: Pack animal -->
   <PackAnimal>สัตว์ขนของ</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
@@ -685,7 +685,7 @@
   
   <!-- Outfit management -->
   <!-- EN: Outfit -->
-  <Outfit>Outfit</Outfit>
+  <Outfit>เครื่องแต่งกาย</Outfit>
   <!-- EN: Select outfit... -->
   <SelectOutfit>เลือกเครื่องแต่งกาย...</SelectOutfit>
   <!-- EN: New outfit -->
@@ -709,13 +709,13 @@
   <!-- EN: Drugs policy is in use by {0}. -->
   <DrugPolicyInUse>นโยบายยาเสพติดที่อยู่ในการใช้งานโดย {0}</DrugPolicyInUse>
   <!-- EN: Social drugs -->
-  <SocialDrugs>Social Drugs</SocialDrugs>
+  <SocialDrugs>ยาเพื่อเข้าสังคม</SocialDrugs>
   <!-- EN: No drugs -->
-  <NoDrugs>No Drugs</NoDrugs>
+  <NoDrugs>ไม่ใช้ยา</NoDrugs>
   <!-- EN: One drink per day -->
-  <OneDrinkPerDay>One Drink Per Day</OneDrinkPerDay>
+  <OneDrinkPerDay>เสพวันละหนึ่งหน</OneDrinkPerDay>
   <!-- EN: Unrestricted -->
-  <Unrestricted>Unrestricted</Unrestricted>
+  <Unrestricted>ไม่ห้ามปราม</Unrestricted>
   <!-- EN: No drug policy selected -->
   <NoDrugPolicySelected>นโยบายยาเสพติดไม่ได้เลือก</NoDrugPolicySelected>
   <!-- EN: Add drug... -->

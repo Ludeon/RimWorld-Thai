@@ -9,15 +9,23 @@
   <!-- EN: Back to game -->
   <BackToGame>กลับสู่เกม</BackToGame>
   <!-- EN: Review scenario -->
-  <ReviewScenario>วิจารณ์สถานการณ์</ReviewScenario>
+  <ReviewScenario>รายละเอียดโครงเรื่อง</ReviewScenario>
   <!-- EN: Save -->
   <Save>บันทึก</Save>
   <!-- EN: Load game -->
-  <LoadGame>โหลด</LoadGame>
+  <LoadGame>โหลดเกม</LoadGame>
   <!-- EN: Options -->
   <Options>ตัวเลือก</Options>
   <!-- EN: Mods -->
   <Mods>Mods</Mods>
+  <!-- EN: Save translation report -->
+  <SaveTranslationReport>Save translation report</SaveTranslationReport>
+  <!-- EN: Generating translation report -->
+  <GeneratingTranslationReport>Generating translation report</GeneratingTranslationReport>
+  <!-- EN: Cleanup translation files -->
+  <CleanupTranslationFiles>Cleanup translation files</CleanupTranslationFiles>
+  <!-- EN: Cleaning translation files -->
+  <CleaningTranslationFiles>Cleaning translation files</CleaningTranslationFiles>
   <!-- EN: Credits -->
   <Credits>เครดิต</Credits>
   <!-- EN: Quit to main menu -->
@@ -49,19 +57,11 @@
 
   <!-- Main menu translations info window -->
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
-  <TranslationThanks>การแปลภาษาทั้งหมดของ RimWorld เกิดจากแฟนเกมช่วยกันทำ การแปลภาษาประสบความสำเร็จได้ ก็ด้วยฝีมืออาสาสมัครเหล่านี้:\n\n{0}</TranslationThanks>
+  <TranslationThanks>การแปลภาษาทั้งหมดของ RimWorld เกิดจากแฟนเกมช่วยกันทำ ซึ่งประสบความสำเร็จได้ ก็ด้วยฝีมือแฟนเกม อาสาสมัครเหล่านี้:\n\n{0}</TranslationThanks>
   <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
-  <TranslationHowToContribute>คุณเองสามารถช่วยแปลได้ ดูขึ้นตอนร่วมแปล คลิกปุ่มเรียนรู้เพิ่มเติม (จะเปิดเว็บบราวเซอร์) ด้านล่าง</TranslationHowToContribute>
+  <TranslationHowToContribute>คุณเองสามารถช่วยแปลได้ ดูขึ้นตอนร่วมแปล คลิก 'เรียนรู้เพิ่มเติม' ด้านล่าง (เปิดเว็บบราวเซอร์) </TranslationHowToContribute>
   <!-- EN: Learn more -->
   <LearnMore>เรียนรู้เพิ่มเติม</LearnMore>
-  <!-- EN: Save translation report -->
-  <SaveTranslationReport>Save translation report</SaveTranslationReport>
-  <!-- EN: Generating translation report -->
-  <GeneratingTranslationReport>Generating translation report</GeneratingTranslationReport>
-  <!-- EN: Cleanup translation files -->
-  <CleanupTranslationFiles>Cleanup translation files</CleanupTranslationFiles>
-  <!-- EN: Cleaning translation files -->
-  <CleaningTranslationFiles>Cleaning translation files</CleaningTranslationFiles>
 
   <!-- Main menu dev build -->
   <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->

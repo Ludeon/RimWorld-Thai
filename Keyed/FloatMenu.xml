@@ -113,7 +113,7 @@
   <!-- EN: too bright -->
   <CantSowCavePlantBecauseOfLight>สว่างเกินไป</CantSowCavePlantBecauseOfLight>
   <!-- EN: unroofed -->
-  <CantSowCavePlantBecauseUnroofed>unroofed</CantSowCavePlantBecauseUnroofed>
+  <CantSowCavePlantBecauseUnroofed>ไร้หลังคา</CantSowCavePlantBecauseUnroofed>
   <!-- EN: incapable of deconstruction -->
   <IncapableOfDeconstruction>TODO</IncapableOfDeconstruction>
   <!-- EN: incapable of mining -->
@@ -373,5 +373,5 @@
   <FreePrisoner>TODO</FreePrisoner>
   <!-- EN: Offer help -->
   <OfferHelp>TODO</OfferHelp>
-
+  
 </LanguageData>

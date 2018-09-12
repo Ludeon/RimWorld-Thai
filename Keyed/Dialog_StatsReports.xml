@@ -31,13 +31,13 @@
   <!-- EN: {0} importance -->
   <HealthFactorPercentImpact>{0} สำคัญ</HealthFactorPercentImpact>
   <!-- EN: {0} impact -->
-  <HealthOffsetScale>{0} impact</HealthOffsetScale>
+  <HealthOffsetScale>{0} กระแทก</HealthOffsetScale>
   <!-- EN: {0} max -->
   <HealthFactorMaxImpact>{0} เต็ม</HealthFactorMaxImpact>
   <!-- EN: if below {0} -->
-  <HealthFactorAllowedDefect>if below {0}</HealthFactorAllowedDefect>
+  <HealthFactorAllowedDefect>ถ้าอยู่ต่ำกว่า {0}</HealthFactorAllowedDefect>
   <!-- EN: Post-process curve -->
-  <StatsReport_PostProcessed>Post-processed curved</StatsReport_PostProcessed>
+  <StatsReport_PostProcessed>Post-processed curve</StatsReport_PostProcessed>
   <!-- EN: Final value -->
   <StatsReport_FinalValue>ค่าสุดท้าย</StatsReport_FinalValue>
   <!-- EN: Materials and labor -->

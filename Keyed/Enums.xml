@@ -31,13 +31,13 @@
 
   <!-- Storage priority labels -->
   <!-- EN: unstored -->
-  <StoragePriorityUnstored>unstored</StoragePriorityUnstored>
+  <StoragePriorityUnstored>ขนของออก</StoragePriorityUnstored>
   <!-- EN: low -->
   <StoragePriorityLow>ต่ำ</StoragePriorityLow>
   <!-- EN: normal -->
   <StoragePriorityNormal>ปกติ</StoragePriorityNormal>
   <!-- EN: preferred -->
-  <StoragePriorityPreferred>แนะนำ</StoragePriorityPreferred>
+  <StoragePriorityPreferred>ให้ก่อน</StoragePriorityPreferred>
   <!-- EN: important -->
   <StoragePriorityImportant>สำคัญ</StoragePriorityImportant>
   <!-- EN: critical -->
@@ -187,13 +187,13 @@
   <!-- EN: neolithic -->
   <TechLevel_Neolithic>ยุคนีโอะลีธอิค</TechLevel_Neolithic>
   <!-- EN: medieval -->
-  <TechLevel_Medieval>สมัยกลาง</TechLevel_Medieval>
+  <TechLevel_Medieval>ยุคสมัยกลาง</TechLevel_Medieval>
   <!-- EN: industrial -->
-  <TechLevel_Industrial>อุตสาหกรรม</TechLevel_Industrial>
+  <TechLevel_Industrial>ยุคอุตสาหกรรม</TechLevel_Industrial>
   <!-- EN: spacer -->
-  <TechLevel_Spacer>spacer</TechLevel_Spacer>
+  <TechLevel_Spacer>ยุคอวกาศ</TechLevel_Spacer>
   <!-- EN: ultra -->
-  <TechLevel_Ultra>รุนแรง</TechLevel_Ultra>
+  <TechLevel_Ultra>อัลตร้า</TechLevel_Ultra>
   <!-- EN: archotech -->
   <TechLevel_Archotech>TODO</TechLevel_Archotech>
 

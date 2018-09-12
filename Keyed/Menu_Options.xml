@@ -85,7 +85,7 @@
   <!-- EN: Select mod... -->
   <SelectMod>เลือก mod...</SelectMod>
   <!-- EN: No configurable mods loaded. -->
-  <NoConfigurableMods>No configurable mods loaded.</NoConfigurableMods>
+  <NoConfigurableMods>ไม่มี mod ที่ตั้งค่าได้ใดๆโดนโหลด</NoConfigurableMods>
   
   <!-- Options reset -->
   <!-- EN: Restore to default settings -->
