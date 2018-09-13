@@ -150,7 +150,7 @@
   
   <!-- Pawn naming -->
   <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
-  <PawnGainsName>ชื่อเล่นของอาณานิคมอยู่ในขณะนี้ {0}.</PawnGainsName>
+  <PawnGainsName>ตอนนี้คนนี้มีชื่อเล่นว่า {0}. {PAWN_possessive} มีบรรดาศักดิ์ {PAWN_title}</PawnGainsName>
   <!-- EN: The animal's name is now {0}. -->
   <AnimalGainsName>TODO</AnimalGainsName>
 
@@ -267,9 +267,9 @@
   <!-- EN: Requires {0} nutrition -->
   <BillRequiresNutrition>ต้องการ {0} อาหารการกิน</BillRequiresNutrition>
   <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
-  <BillRequiresMayVary>โน้ต: วัตถุดิบขนาดเล็กอย่างทอง ต้องใช้มากขึ้น 20 เท่า</BillRequiresMayVary>
+  <BillRequiresMayVary>โน้ต: วัตถุดิบขนาดเล็กอย่างทอง ต้องใช้มากขึ้น {0} เท่า</BillRequiresMayVary>
   <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
-  <ThisIsSmallVolume>นี่เป็นวัตถุดิบขนาดเล็ก แปลว่าแต่ละ 'หน่วย' มีค่าเป็น 1/20 ของวัตถุดิบขนาดปกติ ดังนั้น, เพื่อเติมให้เท่ากับความต้องการของวัตถุดิบ, คุณจะต้องใช้มากขึ้น 20 เท่าจากธรรมดา</ThisIsSmallVolume>
+  <ThisIsSmallVolume>นี่เป็นวัตถุดิบขนาดเล็ก แปลว่าแต่ละ 'หน่วย' มีค่าเป็น 1/{0} ของวัตถุดิบขนาดปกติ ดังนั้น, เพื่อเติมให้เท่ากับความต้องการของวัตถุดิบ, คุณจะต้องใช้มากขึ้น {0} เท่าจากธรรมดา</ThisIsSmallVolume>
   <!-- EN: ingredients -->
   <UsableIngredients>วัตถุดิบ</UsableIngredients>
   <!-- EN: To {0} -->
@@ -469,11 +469,11 @@
   <!-- EN: Negotiator -->
   <Negotiator>ผู้เจรจา</Negotiator>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
-  <NegotiatorTalkingImpaired>ผู้เจรจาต่อรองของคุณ {0} ไม่สามารถพูดได้อย่างถูกต้องเนื่องจากสุขภาพไม่ดี\n\nส่งผลกระทบต่อราคาค้าขาย\n\nพิจารณาใช้ผู้เจรจาที่มีสุขภาพดี</NegotiatorTalkingImpaired>
+  <NegotiatorTalkingImpaired>ผู้เจรจาต่อรองของคุณ {1_labelShort} ไม่สามารถพูดได้อย่างถูกต้องเนื่องจากสุขภาพไม่ดี</NegotiatorTalkingImpaired>
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
-  <NegotiatorHearingImpaired>ผู้เจรจาต่อรองของคุณ {0} ไม่สามารถได้ยินเสียงได้อย่างถูกต้องเนื่องจากสุขภาพไม่ดี</NegotiatorHearingImpaired>
+  <NegotiatorHearingImpaired>ผู้เจรจาต่อรองของคุณ {1_labelShort} ไม่สามารถได้ยินเสียงได้อย่างถูกต้องเนื่องจากสุขภาพไม่ดี</NegotiatorHearingImpaired>
   <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
-  <NegotiatorCapacityImpaired>ซึ่งจะส่งผลต่อราคาการค้า\n\nพิจารณาให้ผู้เจรจามีสุขภาพดี</NegotiatorCapacityImpaired>
+  <NegotiatorCapacityImpaired>ซึ่งจะส่งผลต่อราคาการค้าขาย\n\nพิจารณาให้ผู้เจรจามีสุขภาพดี</NegotiatorCapacityImpaired>
   <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
   <ConfirmTraderShortFunds>ผู้ค้ามีเงินไม่เพียงพอที่จะทำธุรกรรมนี้ได้เต็มที่  ดำเนินการต่อ?</ConfirmTraderShortFunds>
   <!-- EN: Sort by -->
@@ -527,7 +527,7 @@
   <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
   <CaravanCouldNotFindReachableExitSpot>คำเตือน: บางส่วนของอาณานิคมที่กำหนดไม่สามารถเข้าถึงสถานที่ทางลง ({0}).</CaravanCouldNotFindReachableExitSpot>
   <!-- EN: {1_labelShort} is unreachable by any of the assigned colonists. -->
-  <CaravanPawnIsUnreachable>{0} ไม่สามารถเข้าถึงได้โดยอาณานิคมใด ๆ ที่กำหนด</CaravanPawnIsUnreachable>
+  <CaravanPawnIsUnreachable>{1_labelShort} ไม่สามารถเข้าถึงได้โดยอาณานิคมใด ๆ ที่กำหนด</CaravanPawnIsUnreachable>
   <!-- EN: None of the assigned colonists are able to reach the {0}. -->
   <CaravanItemIsUnreachableSingle>ไม่มีอาณานิคมที่ได้รับมอบหมายสามารถเข้าถึงได้ {0}.</CaravanItemIsUnreachableSingle>
   <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
@@ -653,7 +653,7 @@
   <!-- EN: You can't send empty transport pods. -->
   <CantSendEmptyTransportPods>คุณไม่สามารถส่งกระสวยขนส่งที่ว่างเปล่า</CantSendEmptyTransportPods>
   <!-- EN: {1_labelShort} can't reach the transport pods. -->
-  <PawnCantReachTransporters>{0} ไม่สามารถเข้าถึงกระสวยขนส่งได้</PawnCantReachTransporters>
+  <PawnCantReachTransporters>{1_labelShort} ไม่สามารถเข้าถึงกระสวยขนส่งได้</PawnCantReachTransporters>
   <!-- EN: There is no path between the transport pods and the {0}. -->
   <TransporterItemIsUnreachableSingle>ไม่มีเส้นทางระหว่างกระสวยขนส่งและ {0}.</TransporterItemIsUnreachableSingle>
   <!-- EN: There is no path between the transport pods and {0}x {1}. -->
@@ -809,7 +809,7 @@
 
   <!-- Send transport pods which are not completely loaded -->
   <!-- EN: Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway? -->
-  <ConfirmSendNotCompletelyLoadedPods>กลุ่มกระสวย ไม่ได้โหลดอย่างสมบูรณ์ {0} ที่ขาดหายไป. เปิดใช้หรือไม่?</ConfirmSendNotCompletelyLoadedPods>
+  <ConfirmSendNotCompletelyLoadedPods>กลุ่มกระสวย ไม่ได้โหลดอย่างสมบูรณ์ {1_labelShort} ที่ขาดหายไป. เปิดใช้หรือไม่?</ConfirmSendNotCompletelyLoadedPods>
 
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->

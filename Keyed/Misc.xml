@@ -81,9 +81,9 @@
   <!-- EN: {0} corpse -->
   <CorpseLabel>ศพ {0}</CorpseLabel>
   <!-- EN: Dead body of a {0}. -->
-  <CorpseDesc>ศพของ{0}</CorpseDesc>
+  <CorpseDesc>ศพของ {0}</CorpseDesc>
   <!-- EN: {1_label} (dead) -->
-  <DeadLabel>{0} (ตายแล้ว)</DeadLabel>
+  <DeadLabel>{1_label} (ตาย)</DeadLabel>
 
   <!-- EN: rough {0} -->
   <RoughStoneTerrainLabel>หยาบ {0}</RoughStoneTerrainLabel>
@@ -112,9 +112,9 @@
   <ThingMadeOfStuffLabel>{1} {0}</ThingMadeOfStuffLabel>
 
   <!-- EN: {PAWN_labelShort}'s {1} -->
-  <SomeonesRoom>{1} ของ {0}</SomeonesRoom>
+  <SomeonesRoom>{PAWN_labelShort} ของ {1}</SomeonesRoom>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
-  <CouplesRoom>{2} ของ {0} และ {1}</CouplesRoom>
+  <CouplesRoom>{PAWN1_labelShort} และ {PAWN2_labelShort} {2}</CouplesRoom>
   
   <!-- EN: (various) -->
   <VariousLabel>(หลายอย่าง)</VariousLabel>

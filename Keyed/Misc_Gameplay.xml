@@ -199,7 +199,7 @@
   <!-- EN: Ideal fermenting temperature -->
   <IdealFermentingTemperature>อุณหภูมิหมักที่พอเหมาะ</IdealFermentingTemperature>
   <!-- EN: {0} effect multiplier: {1} -->
-  <DrugEffectMultiplier>{0} ตัวคุณเอฟเฟค</DrugEffectMultiplier>
+  <DrugEffectMultiplier>{0} ตัวคุณเอฟเฟค: {1}</DrugEffectMultiplier>
   <!-- EN: Visiting {0}. -->
   <CaravanVisiting>เข้ามาเยี่ยมชม {0}.</CaravanVisiting>
   <!-- EN: Entering {0}. -->
@@ -257,15 +257,15 @@
   <!-- EN: Closed -->
   <VentClosed>ปิด</VentClosed>
   <!-- EN: worn by {1_labelShort} -->
-  <WornBy>สวมใส่โดย {0}</WornBy>
+  <WornBy>สวมใส่โดย {1_labelShort}</WornBy>
   <!-- EN: equipped by {1_labelShort} -->
-  <EquippedBy>ติดตั้งโดย {0}</EquippedBy>
+  <EquippedBy>สวมใส่โดย {1_labelShort}</EquippedBy>
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
-  <QuestTargetDestroyInspectString>{0} ต้องการทำลายสิ่งนี้\n    รางวัล: {1}.</QuestTargetDestroyInspectString>
+  <QuestTargetDestroyInspectString>{0} ต้องการทำลายสิ่งนี้\n    รางวัล: {1} ({2})</QuestTargetDestroyInspectString>
   <!-- EN: Time left: {0} -->
   <WorldObjectTimeout>เวลาที่เหลือ: {0}</WorldObjectTimeout>
   <!-- EN: Contents: {0} ({1}) -->
-  <ItemStashContents>สารบัญ: {0}.</ItemStashContents>
+  <ItemStashContents>สารบัญ: {0} ({1})</ItemStashContents>
   <!-- EN: Click to sort by this column. -->
   <ClickToSortByThisColumn>คลิกเพื่อจัดเรียงตามคอลัมน์นี้</ClickToSortByThisColumn>
   <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
@@ -429,11 +429,11 @@
   <!-- EN: Cannot order characters you do not control. -->
   <CannotOrderNonControlled>ไม่สามารถสั่งยูนิตที่ไม่ได้ควบคุม</CannotOrderNonControlled>
   <!-- EN: {1_labelShort} is incapable of violence. -->
-  <IsIncapableOfViolence>{0} ไม่สามารถใช้ความรุนแรงได้</IsIncapableOfViolence>
+  <IsIncapableOfViolence>{1_labelShort} ไม่สามารถใช้ความรุนแรงได้</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
   <IsIncapableOfViolenceShort>ไม่สามารถใช้ความรุนแรงได้</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
-  <IsNotDrafted>{0} ไม่ได้ถูกเกณฑ์</IsNotDrafted>
+  <IsNotDrafted>{1_labelShort} ไม่ได้ถูกเกณฑ์</IsNotDrafted>
 
   <!-- Snow -->
   <!-- EN: No snow -->
@@ -459,15 +459,15 @@
   <!-- EN: roofed -->
   <Roofed>TODO</Roofed>
   <!-- EN: Shell loaded: {1_label} -->
-  <ShellLoaded>กระสุนโหลดเรียบร้อยแล้ว</ShellLoaded>
+  <ShellLoaded>กระสุนโหลดแล้ว: {1_label}</ShellLoaded>
   <!-- EN: Not loaded -->
   <ShellNotLoaded>ยังไม่ได้โหลดกระสุน</ShellNotLoaded>
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
-  <ReportHaulingTo>กำลังขน {0} ไปที่ {1}</ReportHaulingTo>
+  <ReportHaulingTo>กำลังขน {THING_label} ไป {DESTINATION}</ReportHaulingTo>
   <!-- EN: hauling {1_label}. -->
-  <ReportHauling>กำลังขน {0}</ReportHauling>
+  <ReportHauling>กำลังขน {1_label}</ReportHauling>
   <!-- EN: hauling. -->
   <ReportHaulingUnknown>กำลังขนของ</ReportHaulingUnknown>
   <!-- EN: sleeping. -->
@@ -497,7 +497,7 @@
   <!-- EN: extinguishing fire. -->
   <ReportExtinguishingFire>กำลังดับไฟ</ReportExtinguishingFire>
   <!-- EN: extinguishing fire on {TARGET_label}. -->
-  <ReportExtinguishingFireOn>กำลังดับไฟ กับ {0}.</ReportExtinguishingFireOn>
+  <ReportExtinguishingFireOn>กำลังดับไฟ {TARGET_label}.</ReportExtinguishingFireOn>
   <!-- EN: digging up corpse. -->
   <ReportDiggingUpCorpse>ขุดศพ</ReportDiggingUpCorpse>
 
@@ -527,7 +527,7 @@
   <!-- EN: Cover -->
   <ShootingCover>กำบัง</ShootingCover>
   <!-- EN: {COVER_label} stops {1} -->
-  <CoverThingBlocksPercentOfShots>{0} หยุด {1}</CoverThingBlocksPercentOfShots>
+  <CoverThingBlocksPercentOfShots>{COVER_label} หยุด {1}</CoverThingBlocksPercentOfShots>
   <!-- EN: no cover -->
   <NoCoverLower>ไม่มีกำบัง</NoCoverLower>
   <!-- EN: Execution -->
@@ -563,11 +563,11 @@
 
   <!-- Pawn info readout -->
   <!-- EN: {PAWN_gender} {1} -->
-  <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
+  <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
   <PawnMainDescFactionedWrap>{0} แห่ง {1}</PawnMainDescFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
-  <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
+  <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
   <Faction>ฝ่าย</Faction>
   <!-- EN: Equipped -->
@@ -667,7 +667,7 @@
 
   <!-- Shooting tooltip -->
   <!-- EN: Shot by {1_labelShort} -->
-  <ShotBy>โดนยิงโดย {0}</ShotBy>
+  <ShotBy>ถูกยิงโดย {1_labelShort}</ShotBy>
   <!-- EN: Cannot hit target. -->
   <CannotHit>ไม่สามารถยิงเป้าหมายได้</CannotHit>
   <!-- EN: Manhunter chance per hit -->
@@ -773,7 +773,7 @@
   <!-- EN: Fire -->
   <Fire>เพลิงไหม้</Fire>
   <!-- EN: Fire on {1_label} -->
-  <FireOn>เพลิงไหม้บน {0}</FireOn>
+  <FireOn>เพลิงไหม้บน {1_label}</FireOn>
   <!-- EN: Burning -->
   <Burning>กำลังไหม้</Burning>
   <!-- EN: fire size {0} -->
@@ -829,7 +829,7 @@
   <!-- EN: Contains -->
   <CasketContains>บรรจุ</CasketContains>
   <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
-  <CasketWarning>คำเตือน!\n\n[PAWN_nameDef] เป็นผู้ตั้งอาณานิคมที่ไม่เสียค่าใช้จ่ายครั้งล่าสุดของคุณ! ถ้าคุณปล่อยให้เขาก้าวเข้าไปในเครื่องนอนแช่แข็งคุณอาจไม่สามารถเล่นต่อได้ คุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ</CasketWarning>
+  <CasketWarning>คำเตือน!\n\n{PAWN_nameDef} เป็นชาวอาณานิคมคนสุดท้ายที่ยืนยัดอยู่! หากคุณปล่อยให้{PAWN_objective}ก้าวเข้าสู่เครื่องแช่แข็ง คุณจะไม่สามารถเล่นต่อได้. แน่ใจหรือว่าจะดำเนินการต่อ?</CasketWarning>
 
   <!-- Ship launch report -->
   <!-- EN: Cannot launch. -->
@@ -857,7 +857,7 @@
 
   <!-- Neurotrainer -->
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
-  <NeurotrainerUsed>{0} ใช้ {1} Neurotrainer ไปจากระดับ {2} ถึงระดับ {3}</NeurotrainerUsed>
+  <NeurotrainerUsed>{USER_labelShort} ใช้ {1} Neurotrainer ไปจากระดับ {2} ถึงระดับ {3}</NeurotrainerUsed>
 
   <!-- Minification -->
   <!-- EN: Installed -->
@@ -925,11 +925,11 @@
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
-  <DiseaseGrowthModeChanged_Growing>{0} ของ {1} กำลังเติบโตขึ้น</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort} ของ {1} กำลังเติบโตขึ้น</DiseaseGrowthModeChanged_Growing>
   <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
-  <DiseaseGrowthModeChanged_Stable>{0} ของ {1} มีเสถียรภาพแล้ว</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort} ของ {1} มีเสถียรภาพแล้ว</DiseaseGrowthModeChanged_Stable>
   <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
-  <DiseaseGrowthModeChanged_Remission>{0} ของ {1} อยู่ในระหว่างการผ่อนผัน</DiseaseGrowthModeChanged_Remission>
+  <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort} ของ {1} อยู่ในระหว่างการผ่อนผัน</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
   <!-- EN: Usable now. -->
@@ -939,13 +939,13 @@
   <!-- EN: blocked -->
   <MarriageSpotNotStandable>ถูกบัง</MarriageSpotNotStandable>
   <!-- EN: too dangerous for {1_labelShort} -->
-  <MarriageSpotDangerous>อันตรายเกินไปสำหรับ {0}</MarriageSpotDangerous>
+  <MarriageSpotDangerous>อันตรายเกินไปสำหรับ {1_labelShort}</MarriageSpotDangerous>
   <!-- EN: forbidden for {1_labelShort} -->
-  <MarriageSpotForbidden>สิ่งต้องห้ามสำหรับ {0}</MarriageSpotForbidden>
+  <MarriageSpotForbidden>สิ่งต้องห้ามสำหรับ {1_labelShort}</MarriageSpotForbidden>
   <!-- EN: reserved -->
   <MarriageSpotReserved>ถูกจอง</MarriageSpotReserved>
   <!-- EN: unreachable for {1_labelShort} -->
-  <MarriageSpotUnreachable>ไม่สามารถเข้าถึงได้สำหรับ {0}</MarriageSpotUnreachable>
+  <MarriageSpotUnreachable>ไม่สามารถเข้าถึงได้สำหรับ {1_labelShort}</MarriageSpotUnreachable>
   <!-- EN: in prison cell -->
   <MarriageSpotInPrisonCell>ในห้องขัง</MarriageSpotInPrisonCell>
   <!-- EN: uncomfortable temperature -->
@@ -983,7 +983,7 @@
   <!-- EN: No resources below. -->
   <DeepDrillNoResources>TODO</DeepDrillNoResources>
   <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
-  <DeepDrillExhausted>ทรัพยากรการเจาะลึกหมดไปแล้ว</DeepDrillExhausted>
+  <DeepDrillExhausted>ทรัพยากรโดยลึกถูกเจาะหมดแล้ว การเจาะถูกห้ามโดยอัตโนมัติ ถอนห้ามเพื่อเริ่มขุด {0}</DeepDrillExhausted>
   <!-- EN: Deep drill resources exhausted. -->
   <DeepDrillExhaustedNoFallback>TODO</DeepDrillExhaustedNoFallback>
 

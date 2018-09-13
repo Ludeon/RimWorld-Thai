@@ -19,21 +19,21 @@
   
   <!-- Misc -->
   <!-- EN: Abandon {{1_labelShort}}x {1_labelShort} -->
-  <AbandonSliderText>ทอดทิ้ง {{0}}x {0}</AbandonSliderText>
+  <AbandonSliderText>ทอดทิ้ง {{1_labelShort}}x {1_labelShort}</AbandonSliderText>
   <!-- EN: Do you really want to abandon {1_label}?\n\nAbandoned items vanish and can never be recovered. -->
-  <ConfirmAbandonItemDialog>คุณจะแน่ใจไหมว่าคุณจะ ทอดทิ้ง {0}?\n\nของที่ทอดทิ้งจะหายไป จะไม่สามารถกลับคืนมาได้</ConfirmAbandonItemDialog>
+  <ConfirmAbandonItemDialog>คุณจะแน่ใจจริงๆว่าจะทอดทิ้ง {1_label}?\n\nไอเท็มที่ทิ้งจะหายไป และไม่สามารถเอากลับคืนมาได้</ConfirmAbandonItemDialog>
   <!-- EN: Abandon -->
   <AbandonTip>ทอดทิ้ง</AbandonTip>
   <!-- EN: Banish -->
   <BanishTip>ขับไล่</BanishTip>
   <!-- EN: Abandon specific count -->
-  <AbandonSpecificCountTip>จำนวนที่จะต้องทอดทิ้ง</AbandonSpecificCountTip>
+  <AbandonSpecificCountTip>จำนวนที่จะต้องการทิ้ง</AbandonSpecificCountTip>
   <!-- EN: Abandon (all) -->
   <AbandonAllTip>ทอดทิ้ง (ทั้งหมด)</AbandonAllTip>
   <!-- EN: Abandoned items vanish and can never be recovered. -->
-  <AbandonItemTipExtraText>ของที่ทอดทิ้งจะหายไป จะไม่สามารถกลับคืนมาได้</AbandonItemTipExtraText>
+  <AbandonItemTipExtraText>ไอเท็มที่ทอดทิ้งจะหายไป จะไม่สามารถกลับคืนมาได้</AbandonItemTipExtraText>
   <!-- EN: {1_labelShort} will most likely die. -->
-  <BanishTipWillDie>{0} น่าจะเสียชัวิต</BanishTipWillDie>
+  <BanishTipWillDie>เป็นไปได้มากว่า {1_labelShort} จะตายในที่สุด</BanishTipWillDie>
   
   <!-- Caravan inspect -->
   <!-- EN: Colonists -->

@@ -49,7 +49,7 @@
   <!-- EN: Low food -->
   <LowFood>อาหารมีจำนวนน้อย</LowFood>
   <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
-  <LowFoodDesc>คุณมีอาหารเหลืออยู่ในคลังแค่เพียง {0} ชุดที่มีค่าเต็มหลอด ซึ่งน้อยจนเป็นอันตราย\n\nเพาะปลูก, ซื้อ, ค้นหา, หรือฆ่ามาเป็นอาหาร</LowFoodDesc>
+  <LowFoodDesc>คุณมีอาหารเหลืออยู่ในคลังแค่เพียง {0} ชุดที่มีค่าเต็มหลอด ซึ่งน้อยจนเป็นอันตราย\n    ชาวอาณานิคม และนักโทษ ได้อาหาร: {1}\n    วันที่อาหารเหลือในคลัง: {2}\n\nเพาะปลูก, ซื้อ, ค้นหา, หรือฆ่ามาเป็นอาหาร</LowFoodDesc>
 
   <!-- EN: Low medicine -->
   <LowMedicine>ยามีจำนวนน้อย</LowMedicine>
@@ -106,7 +106,7 @@
   <!-- EN: Need recreation variety -->
   <NeedJoySource>ต้องการแหล่งความสุข</NeedJoySource>
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
-  <NeedJoySourceDesc>อาณานิคมของคุณจำเป็นต้องตอบสนองความสุขของพวกเขา แต่คุณยังไม่ได้สร้างแหล่งที่มาของความสุขใด ๆ\n\nช่วยให้พวกเขาโดยการสร้างที่ปาขาเกือกม้าและตารางหมากรุกหรือแหล่งความสุขอื่น ๆ</NeedJoySourceDesc>
+  <NeedJoySourceDesc>ใน {1} มีกิจกรรมนันทนาการเพียงแค่ {0} ประเภทให้เลือก โดยจากระดับความคาดหวังในตอนนี้ ({2}) ชาวอาณานิคมต้องการกิจกรรม {3} ประเภทจึงจะพึงพอใจ ควรสร้างกิจกรรมนันทนาการให้สดใหม่และหลากหลาย\n\n{4}\n\n{5}\n\nโน้ต: คุณสามารถเช็คประเภทกิจกรรมที่เกิดจากไอเท็มใดๆ ได้ในหน้าสถิติของไอเท็ม กดปุ่ม 'i' เพื่อเข้าไปดู</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
   <AvailableRecreationTypes>TODO</AvailableRecreationTypes>
   <!-- EN: Missing recreation types -->

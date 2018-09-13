@@ -8,7 +8,7 @@
   <!-- EN: Year -->
   <ClockYear>ปี</ClockYear>
   <!-- EN: Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
-  <DateReadoutTip>วันที่ผ่านมาตั้งแต่มาถึงของคุณ: {0}\nมี {1} วันในแต่ละฤดู\nฤดูนี้: {2}</DateReadoutTip>
+  <DateReadoutTip>ผ่านไป {0} วันตั้งแต่คุณมาถึงที่นี่\nQuadrum ปัจจุบันคือ: {4}\nฤดูท้องถิ่นตอนนี้: {2}\n\nหนึ่งปีแบ่งออกเป็น 4 quadrums และนับเป็นหนึ่ง quadrum ทุกๆ {3} วัน. โดย Quadrums นั้นเหมือนกันหมดทุกที่ ในขณะที่ฤดูแตกต่างกันไป ตามแต่พื้นที่ท้องถิ่นนั้นๆ\n\nเทียบฤดูในท้องถิ่นนี้ แต่ละ quadrums คือ\n{5}</DateReadoutTip>
 
   <!-- EN: {0} of {1}, {2} -->
   <FullDate>วันที่ {0} ใน {1}, ปี {2}</FullDate>

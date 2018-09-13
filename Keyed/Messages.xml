@@ -48,27 +48,27 @@
   <MessageBillComplete>บิลเรียบร้อยแล้ว: {0}.</MessageBillComplete>
 
   <!-- EN: {1_label} is fully healed. -->
-  <MessageFullyHealed>{0} หายสนิท</MessageFullyHealed>
+  <MessageFullyHealed>{1_label} หายสนิท</MessageFullyHealed>
 
   <!-- EN: Prisoner {1_labelShort} is escaping. -->
-  <MessagePrisonerIsEscaping>นักโทษ {0} กำลังหนี</MessagePrisonerIsEscaping>
+  <MessagePrisonerIsEscaping>นักโทษ {1_labelShort} หลบหนี</MessagePrisonerIsEscaping>
 
   <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
-  <MessageOutOfNearbyShellsFor>{0} ไม่พบเปลือกหอยที่ไม่มีการเก็บรักษาไว้ใกล้ ๆ {1}.</MessageOutOfNearbyShellsFor>
+  <MessageOutOfNearbyShellsFor>{PAWN_labelShort} ไม่พบกระสุนที่ไม่มีการรักษาไว้ใกล้ ๆ {GUN_label}</MessageOutOfNearbyShellsFor>
 
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} chance to attack when harmed from rifle range. Chance is higher if closer, less with good hunter stealth. -->
-  <MessageAnimalsGoPsychoHunted>การเตือน: {0} มักโจมตีเมื่อถูกทำร้าย</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalsGoPsychoHunted>คำเตือน: {ANIMAL_kindBasePlural} มีโอกาศ {1} จะโจมตีกลับ เมื่อถูกทำร้ายจากระยะไรเฟิล โอกาศสูงขึ้นเมื่อเข้าใกล้ โอกาศน้อยลงเมื่อผู้ล่าพลางตัวดี</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
-  <MessageAnimalManhuntsOnTameFailed>การเตือน: {0} อาจโจมตีเมื่อพยายามลวง ( โอกาส {1} ).</MessageAnimalManhuntsOnTameFailed>
+  <MessageAnimalManhuntsOnTameFailed>คำเตือน: {ANIMAL_kindBasePlural} อาจโจมตี หากความพยายามทำให้เชื่องพลาด (โอกาส {1})</MessageAnimalManhuntsOnTameFailed>
   
   <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>รับสมัครใหม่</LetterLabelMessageRecruitSuccess>
   <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull} ({2} chance). -->
-  <MessageRecruitSuccess>{0} คัดเลือกเรียบร้อยแล้ว {1} (โอกาส {2} ).</MessageRecruitSuccess>
+  <MessageRecruitSuccess>{RECRUITER_nameFull} คัดเลือกเรียบร้อยแล้ว {RECRUITEE_nameFull} (โอกาส {2}).</MessageRecruitSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). -->
-  <MessageTameSuccess>{0} ประสบความสำเร็จในการฝึก {1} (โอกาส {2}).</MessageTameSuccess>
+  <MessageTameSuccess>{RECRUITER_labelShort} ประสบความสำเร็จในการดึง {1} เข้าร่วม (โอกาส {2}).</MessageTameSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance) and named {RECRUITEE_objective} {RECRUITEE_nameFull}. -->
-  <MessageTameAndNameSuccess>{0} ประสบความสำเร็จในการฝึก {1} (โอกาส {2}) และตั้งชื่อ [PAWN_objective] {3}.</MessageTameAndNameSuccess>
+  <MessageTameAndNameSuccess>{RECRUITER_labelShort} ประสบความสำเร็จในการดึง {1} เข้าร่วม (โอกาส {2}) และตั้งชื่อ {RECRUITEE_objective} {RECRUITEE_nameFull}.</MessageTameAndNameSuccess>
 
   <!-- EN: The colony cannot afford this deal. -->
   <MessageColonyCannotAfford>อาณานิคมไม่สามารถจัดการเรื่องนี้ได้</MessageColonyCannotAfford>
@@ -112,34 +112,34 @@
   <MessageMustDesignateUnforbiddable>TODO</MessageMustDesignateUnforbiddable>
 
   <!-- EN: {1_labelShort} has refused to be arrested! -->
-  <MessageRefusedArrest>{0} ได้ปฏิเสธที่จะถูกจับกุม!</MessageRefusedArrest>
+  <MessageRefusedArrest>{1_labelShort} ปฏิเสธที่จะถูกจับกุม!</MessageRefusedArrest>
   
   <!-- EN: There are no medical beds available. -->
   <MessageNoMedicalBeds>ไม่มีเตียงเสริมสำหรับแพทย์</MessageNoMedicalBeds>
   <!-- EN: There are no animal beds available. -->
   <MessageNoAnimalBeds>ไม่มีเตียงสัตว์เลี้ยงให้บริการ</MessageNoAnimalBeds>
   <!-- EN: Operation requires {0} or better, but {PAWN_labelShort}'s current medical care mode is "{2}". -->
-  <MessageTooLowMedCare>ต้องใช้งาน {0} หรือดีกว่า แต่ {1} โหมดการดูแลทางการแพทย์ปัจจุบันคือ "{2}".</MessageTooLowMedCare>
+  <MessageTooLowMedCare>ต้องใช้งาน {0} หรือดีกว่านั้น แต่ {PAWN_labelShort} โหมดการดูแลทางการแพทย์ปัจจุบันคือ "{2}".</MessageTooLowMedCare>
   
   <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
-  <PawnDiedBecauseOf>{0} ตายเพราะ {1}.</PawnDiedBecauseOf>
+  <PawnDiedBecauseOf>{PAWN_labelShort} เสียชีวิต ด้วยสาเหตุ: {1}</PawnDiedBecauseOf>
   <!-- EN: {1_labelShort} has died. -->
-  <PawnDied>TODO</PawnDied>
+  <PawnDied>{1_labelShort} เสียชีวิต</PawnDied>
 
   <!-- EN: {1_label} is no longer incapable of walking. -->
-  <MessageNoLongerDowned>{0} ไม่ยอมเชื้อฟังอีกต่อไป</MessageNoLongerDowned>
+  <MessageNoLongerDowned>{1_label} หมดความสามารถในการเดิน</MessageNoLongerDowned>
 
   <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
-  <MessageInvoluntarySleep>{0} ล้มลงเนื่องจากความเหนื่อยล้าอย่างมาก</MessageInvoluntarySleep>
+  <MessageInvoluntarySleep>{1_labelShort} ล้มลงจากความเหนื่อยล้าอย่างหนัก</MessageInvoluntarySleep>
 
   <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort}. -->
-  <MessageMedicalOperationFailureMinor>{0} ล้มเหลวในทางเล็ก ๆ ขณะปฏิบัติการอยู่ {1}.</MessageMedicalOperationFailureMinor>
+  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} พลาดเล็กๆน้อยๆในขณะดำเนินการให้ {PATIENT_labelShort}.</MessageMedicalOperationFailureMinor>
   <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {patient.LabelShort}. -->
-  <MessageMedicalOperationFailureCatastrophic>{0} ล้มเหลวในขณะดำเนินการ {1}.</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} ผิดพลาดใหญ่หลวงในขณะดำเนินการให้ {patient.LabelShort}.</MessageMedicalOperationFailureCatastrophic>
   <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort}. -->
-  <MessageMedicalOperationFailureRidiculous>{0} ล้มเหลวในทางไร้สาระขณะปฏิบัติการ {1}.</MessageMedicalOperationFailureRidiculous>
+  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} พลาดแบบแปลกๆในขณะดำเนินการให้ {PATIENT_labelShort}.</MessageMedicalOperationFailureRidiculous>
   <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2} -->
-  <MessageMedicalOperationFailureFatal>{0} ผ้าตัดล้มเหลวเสียชีวิต {1} เนื่องจากการท้าทายพิเศษ: {2}</MessageMedicalOperationFailureFatal>
+  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} เกิดล้มเหลวร้ายแรงในขณะดำเนินการให้ {PATIENT_labelShort} เนื่องจากอุปสรรคพิเศษ: {2}</MessageMedicalOperationFailureFatal>
 
   <!-- EN: This operation will anger {0}. -->
   <MessageMedicalOperationWillAngerFaction>การดำเนินการนี้จะโกรธ {0}.</MessageMedicalOperationWillAngerFaction>
@@ -152,15 +152,15 @@
   <MessageGaveBirth>{0} ให้กำเนิด</MessageGaveBirth>
 
   <!-- EN: {NAMER_nameFull} has named {1} {NAMEE_nameFull} after being nuzzled. -->
-  <MessageNuzzledPawnGaveNameTo>{0} ได้ตั้งชื่อว่า {1} {2} ถูกสัตว์อ้อน</MessageNuzzledPawnGaveNameTo>
+  <MessageNuzzledPawnGaveNameTo>{NAMER_nameFull} ตั้งชื่อ {1} ว่า {NAMEE_nameFull} หลังถูกอ้อน</MessageNuzzledPawnGaveNameTo>
 
   <!-- EN: No handler can tame {ANIMAL_kindBase} (requires level {1} in {2}, best handler {HANDLER_labelShort} has {4}). -->
-  <MessageNoHandlerSkilledEnough>ไม่มีตัวจัดการสามารถควบคุมได้ {0} (ต้องการระดับ {1} ใน {2} ตัวจัดการที่ดีที่สุด {3} มี {4})</MessageNoHandlerSkilledEnough>
+  <MessageNoHandlerSkilledEnough>ไม่มีตัวจัดการสามารถควบคุมได้ {ANIMAL_kindBase} (ต้องการระดับ {1} ใน {2} ตัวจัดการที่ดีที่สุด {HANDLER_labelShort} มี {4})</MessageNoHandlerSkilledEnough>
   
   <!-- EN: {EATEN_labelShort} has been eaten by {PREDATOR}. -->
-  <MessageEatenByPredator>{0} กินแล้วโดย {1}</MessageEatenByPredator>
+  <MessageEatenByPredator>{EATEN_labelShort} โดน {PREDATOR} กิน</MessageEatenByPredator>
   <!-- EN: {PREY_labelShort} is being attacked by {PREDATOR}! -->
-  <MessageAttackedByPredator>{0} กำลังถูกโจมตีโดย {1}!</MessageAttackedByPredator>
+  <MessageAttackedByPredator>{PREY_labelShort0} กำลังถูกโจมตีโดย {PREDATOR}!</MessageAttackedByPredator>
   
   <!-- EN: A bug hive has reproduced itself. -->
   <MessageHiveReproduced>กลุ่มข้อผิดพลาดได้ทำซ้ำเอง</MessageHiveReproduced>
@@ -169,38 +169,38 @@
   <MessageTraderCaravanLeaving>คาราวานการค้าจาก {0} กำลังจะออกเดินทาง</MessageTraderCaravanLeaving>
   
   <!-- EN: {1_labelShort} is dead. -->
-  <MessageCantSelectDeadPawn>{0} ตายแล้ว</MessageCantSelectDeadPawn>
+  <MessageCantSelectDeadPawn>{1_labelShort} ตายแล้ว</MessageCantSelectDeadPawn>
   <!-- EN: {1_labelShort} is off the map. -->
-  <MessageCantSelectOffMapPawn>{0} ออกแผนที่</MessageCantSelectOffMapPawn>
+  <MessageCantSelectOffMapPawn>{1_labelShort} ออกนอกแผนที่</MessageCantSelectOffMapPawn>
   
   <!-- EN: {PAWN1_labelShort} started a social fight with {PAWN2_labelShort}. -->
-  <MessageSocialFight>{0} เริ่มการต่อสู้ทางสังคมกับ {1} เหตุผล: {2}</MessageSocialFight>
+  <MessageSocialFight>{PAWN1_labelShort} เริ่มการต่อสู้ทางสังคมกับ {PAWN2_labelShort}</MessageSocialFight>
   
   <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}’s marriage. -->
-  <MessageNewMarriageCeremony>ชาวอาณานิคมกำลังรวบรวมเพื่อเฉลิมฉลองการแต่งงาน {0} และ {1}</MessageNewMarriageCeremony>
+  <MessageNewMarriageCeremony>ชาวอาณานิคมกำลังรวบตัว เพื่อเฉลิมฉลองการแต่งงานของ {PAWN1_labelShort} และ {PAWN2_labelShort}</MessageNewMarriageCeremony>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony! -->
-  <MessageMarriageCeremonyStarts>{0} และ {1} กำลังเริ่มพิธีแต่งงาน!</MessageMarriageCeremonyStarts>
+  <MessageMarriageCeremonyStarts>{PAWN1_labelShort} และ {PAWN2_labelShort1} กำลังเริ่มพิธีแต่งงาน!</MessageMarriageCeremonyStarts>
   <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has been called off. -->
-  <MessageMarriageCeremonyCalledOff>พิธีสมรส {0} และ {1} ถูกเรียกปิด</MessageMarriageCeremonyCalledOff>
+  <MessageMarriageCeremonyCalledOff>พิธีสมรส {PAWN1_labelShort} และ {PAWN2_labelShort} ถูกยกเลิก</MessageMarriageCeremonyCalledOff>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} have married. Colonists are now celebrating the occasion. -->
-  <MessageNewlyMarried>{0} และ {1} แต่งงานแล้ว ชาวอาณานิคมกำลังฉลองโอกาสนี้</MessageNewlyMarried>
+  <MessageNewlyMarried>{PAWN1_labelShort} และ {PAWN2_labelShort} เป็นคู่สมรสกัน ชาวอาณานิคมเฉลิมฉลองในโอกาสนี้</MessageNewlyMarried>
   <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has finished. -->
-  <MessageMarriageCeremonyAfterPartyFinished>พิธีสมรส {0} และ {1} เสร็จสิ้นแล้ว</MessageMarriageCeremonyAfterPartyFinished>
+  <MessageMarriageCeremonyAfterPartyFinished>พิธีสมรส {PAWN1_labelShort} และ {PAWN2_labelShort} เสร็จสิ้นแล้ว</MessageMarriageCeremonyAfterPartyFinished>
   
   <!-- EN: {HUMAN_labelShort} and {ANIMAL_labelShort} have formed a bond. -->
-  <MessageNewBondRelation>{0} และ {1} ได้สร้างความผูกพัน</MessageNewBondRelation>
+  <MessageNewBondRelation>{HUMAN_labelShort} และ {ANIMAL_labelShort} เกิดสัมพันธภาพต่อกัน</MessageNewBondRelation>
   <!-- EN: {HUMAN_labelShort} and {1} have formed a bond. {HUMAN_labelShort} has named {ANIMAL_objective} {ANIMAL_nameFull}. -->
-  <MessageNewBondRelationNewName>{0} และ {1} ได้สร้างความผูกพัน {0} ได้ตั้งชื่อ [PAWN_objective] {2}.</MessageNewBondRelationNewName>
+  <MessageNewBondRelationNewName>{HUMAN_labelShort} กับ {1} เกิดสัมพันธภาพต่อกัน. {HUMAN_labelShort} จึงตั้งชื่อ{ANIMAL_objective}ว่า {ANIMAL_nameFull}.</MessageNewBondRelationNewName>
   
   <!-- EN: {ANIMAL} has a mental break because of {HUMAN_labelShort}'s death. -->
-  <MessageBondedAnimalMentalBreak>{0} มีอาการผิดปกติทางจิตเพราะความตายของ {1}</MessageBondedAnimalMentalBreak>
+  <MessageBondedAnimalMentalBreak>{ANIMAL} มีอาการผิดปกติทางจิตเพราะการตายของ {HUMAN_labelShort}</MessageBondedAnimalMentalBreak>
   <!-- EN: {ANIMAL_kindIndef} named {ANIMAL_label} has a mental break because of {HUMAN_labelShort}'s death. -->
-  <MessageNamedBondedAnimalMentalBreak>{0} ชื่อ {1} มีอาการผิดปกติทางจิตเพราะความตายของ {2}</MessageNamedBondedAnimalMentalBreak>
+  <MessageNamedBondedAnimalMentalBreak>{ANIMAL_kindIndef} ชื่อ {ANIMAL_label} มีอาการผิดปกติทางจิตเพราะการตายของ {HUMAN_labelShort}</MessageNamedBondedAnimalMentalBreak>
   <!-- EN: {0} animals have a mental break because of {HUMAN_labelShort}'s death. -->
-  <MessageBondedAnimalsMentalBreak>{0} สัตว์มีอาการผิดปกติทางจิตเพราะความตายของ {1}</MessageBondedAnimalsMentalBreak>
+  <MessageBondedAnimalsMentalBreak>{0} มีอาการผิดปกติทางจิตเพราะการตายของ {HUMAN_labelShort}</MessageBondedAnimalsMentalBreak>
   
   <!-- EN: {SURGEON_labelShort} has successfully removed {PATIENT_labelShort}'s {HEDIFF}. -->
-  <MessageSuccessfullyRemovedHediff>{0} ได้ดำเนินการเรียบร้อยแล้ว {1} ของ {2}</MessageSuccessfullyRemovedHediff>
+  <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort} ดำเนินการกับ {PATIENT_labelShort} โดย {HEDIFF} สำเร็จ</MessageSuccessfullyRemovedHediff>
   
   <!-- EN: Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources. -->
   <MessageShipChunkDrop>กลุ่มยานอวกาศหลุดจากอวกาศและเข้ามาใกล้ ๆ</MessageShipChunkDrop>
@@ -214,25 +214,25 @@
   <MessageCannotSellItemsReason>บางรายการไม่สามารถซื้อขายได้เนื่องจาก: </MessageCannotSellItemsReason>
 
   <!-- EN: {WORKER_labelShort} failed while constructing {0}. Some resources have been wasted. -->
-  <MessageConstructionFailed>{1} ล้มเหลวขณะสร้าง {0} ทรัพยากรบางอย่างสูญเปล่า</MessageConstructionFailed>
+  <MessageConstructionFailed>{WORKER_labelShort} ล้มเหลวขณะก่อสร้าง {0} ทรัพยากรบางอย่างสูญเปล่า</MessageConstructionFailed>
 
   <!-- EN: Screenshot saved as: {0} -->
   <MessageScreenshotSavedAs>ภาพหน้าจอบันทึกเป็น: {0}</MessageScreenshotSavedAs>
   
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer social fighting. -->
-  <MessageNoLongerSocialFighting>{0} และ {1} ไม่มีการต่อสู้ทางสังคมอีกแล้ว</MessageNoLongerSocialFighting>
+  <MessageNoLongerSocialFighting>{PAWN1_labelShort} และ {PAWN2_labelShort} หยุดการต่อสู้ทางสังคมแล้ว</MessageNoLongerSocialFighting>
   
   <!-- EN: {2_labelShort} is no longer binging on {1}. -->
-  <MessageNoLongerBingingOnDrug>{0} ไม่ได้เกิดขึ้นอีกต่อไปใน {1}</MessageNoLongerBingingOnDrug>
+  <MessageNoLongerBingingOnDrug>{2_labelShort} ไม่ได้เกิดขึ้นอีกต่อไปใน {1}</MessageNoLongerBingingOnDrug>
 
   <!-- EN: {PAWN_labelShort} is no longer on an insulting spree against {TARGET_label}. -->
   <MessageNoLongerOnTargetedInsultingSpree>TODO</MessageNoLongerOnTargetedInsultingSpree>
 
   <!-- EN: {1_label} has rotted away in storage. -->
-  <MessageRottedAwayInStorage>{0} ได้เน่าอยู่ในที่จัดเก็บ</MessageRottedAwayInStorage>
+  <MessageRottedAwayInStorage>{1_label} ได้เน่าอยู่ในที่จัดเก็บ</MessageRottedAwayInStorage>
   
   <!-- EN: {PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}. -->
-  <MessageFoodPoisoning>{0} ได้รับอาหารเป็นพิษจาก: {1}</MessageFoodPoisoning>
+  <MessageFoodPoisoning>{PAWN_labelShort} ได้รับอาหารเป็นพิษจาก: {FOOD_labelShort} สาเหตุ: {2}</MessageFoodPoisoning>
   
   <!-- EN: {0} has been removed from the caravan. -->
   <MessagePawnLostWhileFormingCaravan>TODO</MessagePawnLostWhileFormingCaravan>
@@ -260,13 +260,13 @@
   <!-- EN: {0} has died because of poison. -->
   <MessagePlantDiedOfPoison>{0} ตายเนื่องจากยาพิษ</MessagePlantDiedOfPoison>
   <!-- EN: {1_label} has died because of blight. -->
-  <MessagePlantDiedOfBlight>{0} ตายเนื่องโรคระบาด</MessagePlantDiedOfBlight>
+  <MessagePlantDiedOfBlight>{1_label} ตายเนื่องโรคระบาด</MessagePlantDiedOfBlight>
 
   <!-- EN: {1_labelShort} is being burned by superheated air! -->
-  <MessagePawnBeingBurned>{0} กำลังถูกเผาด้วยอากาศร้อนจัด!</MessagePawnBeingBurned>
+  <MessagePawnBeingBurned>{1_labelShort} กำลังถูกเผาด้วยอากาศร้อนจัด!</MessagePawnBeingBurned>
 
   <!-- EN: {INGESTER} has accidentally overdosed while consuming {DRUG_labelShort}! -->
-  <MessageAccidentalOverdose>{0} ได้ล่วงล้ำโดยไม่ตั้งใจในขณะที่บริโภค {1}!</MessageAccidentalOverdose>
+  <MessageAccidentalOverdose>{INGESTER} ได้ล่วงล้ำโดยไม่ตั้งใจในขณะที่บริโภค {DRUG_labelShort}!</MessageAccidentalOverdose>
   
   <!-- EN: {0} has arrived at its destination. -->
   <MessageCaravanArrivedAtDestination>{0} ถึงจุดหมายแล้ว</MessageCaravanArrivedAtDestination>
@@ -278,7 +278,7 @@
   <MessageCaravanEnteredWorldObject>{0} เข้ามาแล้ว {1}.</MessageCaravanEnteredWorldObject>
   
   <!-- EN: {1_labelShort} has left the area and formed a caravan. -->
-  <MessagePawnLeftMapAndCreatedCaravan>{0} ได้ออกจากพื้นที่และสร้างคาราวาน</MessagePawnLeftMapAndCreatedCaravan>
+  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort} ได้ออกจากพื้นที่และสร้างคาราวาน</MessagePawnLeftMapAndCreatedCaravan>
   <!-- EN: Your animals are moving to join it. -->
   <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>TODO</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
   
@@ -289,7 +289,7 @@
   <MessagePermanentWoundHealed>TODO</MessagePermanentWoundHealed>
 
   <!-- EN: Since you rescued {!_objective}, {1_labelShort} has joined your group! -->
-  <MessageRescueeJoined>ตั้งแต่คุณช่วย [PAWN_objective], {0} เข้าร่วมกลุ่มของคุณแล้ว!</MessageRescueeJoined>
+  <MessageRescueeJoined>หลังคุณช่วย {!_objective}, {1_labelShort} จึงเข้าร่วมกลุ่มของคุณ!</MessageRescueeJoined>
   
   <!-- EN: Some transport pods are unreachable. -->
   <MessageTransporterUnreachable>ไม่สามารถขนส่งกระสวยได้</MessageTransporterUnreachable>
@@ -309,10 +309,10 @@
   <!-- EN: Your transport pods have arrived, but since there were no colonists inside, the contents are lost. -->
   <MessageTransportPodsArrivedAndLost>กระสวยขนส่งของคุณมาถึงแล้ว แต่เนื่องจากไม่มีอาณานิคมอยู่ภายในเนื้อหาจึงหายไป</MessageTransportPodsArrivedAndLost>
   <!-- EN: Your transport pods have arrived. The contents have been added to {0}. -->
-  <MessageTransportPodsArrivedAndAddedToCaravan>กระสวยขนส่งของคุณมาถึงแล้ว มีการเพิ่มเนื้อหาลงในกองคาราวานของคุณแล้ว</MessageTransportPodsArrivedAndAddedToCaravan>
+  <MessageTransportPodsArrivedAndAddedToCaravan>กระสวยขนส่งของคุณมาถึงแล้ว เพิ่มสิ่งเหล่านี้ลง {0}</MessageTransportPodsArrivedAndAddedToCaravan>
   
   <!-- EN: Your colonists have finished loading the transport pods. -->
-  <MessageFinishedLoadingTransporters>ชาวอาณานิคมของคุณเสร็จสิ้นการโหลดกระสวยขนส่งแล้ว</MessageFinishedLoadingTransporters>
+  <MessageFinishedLoadingTransporters>ชาวอาณานิคมของคุณโหลดกระสวยขนส่งเสร็จสิ้นแล้ว</MessageFinishedLoadingTransporters>
 
   <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
   <MessageCantLoadMoreIntoTransporters>TODO</MessageCantLoadMoreIntoTransporters>
@@ -329,12 +329,12 @@
   <MessageCantBanishLastColonist>TODO</MessageCantBanishLastColonist>
   
   <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
-  <MessageCantEquipIncapableOfViolence>ไม่สามารถให้: {0} ไม่มีความรุนแรง</MessageCantEquipIncapableOfViolence>
+  <MessageCantEquipIncapableOfViolence>สวมใส่ไม่ได้: {1_labelShort} ไม่สามารถใช้ความรุนแรงได้</MessageCantEquipIncapableOfViolence>
   <!-- EN: Cannot equip: incapable. -->
-  <MessageCantEquipIncapableOfManipulation>ไม่สามารถให้: ไม่สามารถ</MessageCantEquipIncapableOfManipulation>
+  <MessageCantEquipIncapableOfManipulation>สวมใส่ไม่ได้: ไม่สามารถ</MessageCantEquipIncapableOfManipulation>
   
   <!-- EN: Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
-  <MessageSlaughteringBondedAnimal>เนื่องจากพวกเขาถูกผูกมัดการฆ่า {0} จะทำให้ {1} ไม่พอใจ</MessageSlaughteringBondedAnimal>
+  <MessageSlaughteringBondedAnimal>เนื่องจากสัมพันธภาพของพวกเขา การฆ่า {DESIGNATED_labelShort} จะทำให้ {BONDED_labelShort} ไม่พอใจ</MessageSlaughteringBondedAnimal>
   
   <!-- EN: {0} has run out of food ({PAWN_label}). -->
   <MessageCaravanRanOutOfFood>TODO</MessageCaravanRanOutOfFood>
@@ -352,9 +352,9 @@
   <MessageDefendersAttacking>{0} จาก {1} กำลังโจมตี {2} ของคุณ</MessageDefendersAttacking>
 
   <!-- EN: To self-tend, {1_labelShort} must also be assigned to Doctor work. -->
-  <MessageSelfTendUnsatisfied>หากต้องการมีแนวโน้มในการทำงานด้วยตัวเอง {0} จะต้องได้รับมอบหมายให้ทำงานด้าน Doctor ด้วย</MessageSelfTendUnsatisfied>
+  <MessageSelfTendUnsatisfied>หากต้องการมีแนวโน้มในการทำงานด้วยตัวเอง {1_labelShort} จะต้องได้รับมอบหมายให้ทำงานด้าน Doctor ด้วย</MessageSelfTendUnsatisfied>
   <!-- EN: {1_labelShort} is incapable of doing Doctor work, and so cannot ever self-tend. -->
-  <MessageCannotSelfTendEver>{0} ไม่สามารถทำงานเป็นหมอได้และไม่เคยมีแนวโน้มในตัวเองมากนัก</MessageCannotSelfTendEver>
+  <MessageCannotSelfTendEver>{1_labelShort} ไม่สามารถทำงานเป็นหมอได้และไม่เคยมีแนวโน้มในตัวเองมากนัก</MessageCannotSelfTendEver>
   
   <!-- EN: This tile is impassable. -->
   <MessageCantAddWaypointBecauseImpassable>จุดนี้ไม่สามารถใช้ได้</MessageCantAddWaypointBecauseImpassable>
@@ -374,7 +374,7 @@
   <MessageSiteCountdownBecauseNoEnemiesInitially>ใน {0} กองคาราวานจะได้รับการปฏิรูปโดยอัตโนมัติ คุณสามารถปฏิรูปกองคาราวานได้ในหน้าจอโลก</MessageSiteCountdownBecauseNoEnemiesInitially>
 
   <!-- EN: Cannot banish {1_labelShort} since {1_pronoun} cannot walk. -->
-  <MessageCantBanishDownedPawn>ไม่สามารถขับไล่ {0} เนื่องจาก [PAWN_pronoun] ไม่สามารถเดินได้</MessageCantBanishDownedPawn>
+  <MessageCantBanishDownedPawn>ไม่สามารถขับไล่ {1_labelShort} เนื่องจาก {1_pronoun} เดินไม่ได้</MessageCantBanishDownedPawn>
 
   <!-- EN: {0} have woken up. -->
   <MessageSleepingPawnsWokenUp>{0} ได้ตื่นขึ้นแล้ว</MessageSleepingPawnsWokenUp>
@@ -393,9 +393,9 @@
   <MessagePawnResurrected>{0} ได้กลับมามีชีวิตอยู่ !</MessagePawnResurrected>
 
   <!-- EN: You have failed to rescue {PAWN_labelShort}. This will make {RELATIVE_labelShort} sad. -->
-  <MessageFailedToRescueRelative>คุณได้ล้มเหลวในการช่วย {0} มันจะทำให้ {1} เศร้า</MessageFailedToRescueRelative>
+  <MessageFailedToRescueRelative>คุณได้ล้มเหลวในการช่วย {PAWN_labelShort} มันจะทำให้ {RELATIVE_labelShort} เศร้า</MessageFailedToRescueRelative>
   <!-- EN: You have rescued {PAWN_labelShort}. This will make {RELATIVE_labelShort} happy. -->
-  <MessageRescuedRelative>คุณได้ช่วย {0}  มันจะทำให้ {1} มีความสุข</MessageRescuedRelative>
+  <MessageRescuedRelative>คุณได้ช่วย {PAWN_labelShort}  มันจะทำให้ {RELATIVE_labelShort} มีความสุข</MessageRescuedRelative>
 
   <!-- EN: The tornado has left the map. -->
   <MessageTornadoLeftMap>ทอนนาโด ได้ไปจากพื้นที่นี้แล้ว</MessageTornadoLeftMap>
@@ -409,10 +409,10 @@
   <MessageWarningCavePlantsExposedToLight>คำเตือน: {0} ไม่สามารถมีชีวิตอยู่ได้ถ้าโดนแสง</MessageWarningCavePlantsExposedToLight>
 
   <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageTargetedTantrumChangedTarget>{0} ไม่สามารถเข้าหา {1}  [PAWN_pronoun] ตัดสินใจที่จะ [PAWN_possessive] ความโมโหไปที่ {2}.</MessageTargetedTantrumChangedTarget>
+  <MessageTargetedTantrumChangedTarget>{PAWN_labelShort} ไม่สามารถเข้าหา {OLDTARGET_label} ได้ ดังนั้น{PAWN_pronoun}จึงตัดสินใจที่จะ{PAWN_possessive}ความโมโหไปที่ {TARGET_label}</MessageTargetedTantrumChangedTarget>
 
   <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageTargetedInsultingSpreeChangedTarget>{0} ไม่สามารถเข้าหา {1}  [PAWN_pronoun] ตัดสินใจที่จะ [PAWN_possessive] ความโมโหไปที่ {2}.</MessageTargetedInsultingSpreeChangedTarget>
+  <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort} ไม่สามารถเข้าหา {OLDTARGET_label} ได้ ดังนั้น{PAWN_pronoun}จึงตัดสินใจที่จะ{PAWN_possessive}ความโมโหไปที่ {TARGET_label}</MessageTargetedInsultingSpreeChangedTarget>
 
   <!-- EN: {PAWN_labelShort} has decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
   <MessageMurderousRageChangedTarget>TODO</MessageMurderousRageChangedTarget>

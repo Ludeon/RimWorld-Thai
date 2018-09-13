@@ -53,7 +53,7 @@
   <!-- EN: SUSPENDED -->
   <SuspendedCaps>ระงับแล้ว</SuspendedCaps>
   <!-- EN: Worker: {1_labelShort} -->
-  <BoundWorkerIs>คนงาน: {0}</BoundWorkerIs>
+  <BoundWorkerIs>คนงาน: {1_labelShort}</BoundWorkerIs>
   <!-- EN: Plant -->
   <PlantVerb>ปลูก</PlantVerb>
   <!-- EN: Copied bill cannot be pasted here. -->
@@ -133,7 +133,7 @@
   <!-- EN: Overview -->
   <HealthOverview>โดยรวม</HealthOverview>
   <!-- EN: Operations ({0}) -->
-  <MedicalOperationsShort>การผ้าตัด ({0})</MedicalOperationsShort>
+  <MedicalOperationsShort>ดำเนินการ ({0})</MedicalOperationsShort>
   <!-- EN: Modifications ({0}) -->
   <MedicalOperationsMechanoidsShort>การปรับเปลี่ยน ({0})</MedicalOperationsMechanoidsShort>
   <!-- EN: Medical operations -->
@@ -159,7 +159,7 @@
   <!-- EN: Self-tend -->
   <SelfTend>รักษาตัวเอง</SelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
-  <SelfTendTip>เปิดใช้งานการรักษาตัวเองจะมีแนวโน้มที่จะรักษาน้อยลงเป็น {1} ของประสิทธิภาพโดยปกติ</SelfTendTip>
+  <SelfTendTip>{0} เปิดใช้งานการรักษาตัวเอง จะมีแนวโน้มที่จะรักษาน้อยลงเป็น {1} ของประสิทธิภาพโดยปกติ</SelfTendTip>
   
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
@@ -197,7 +197,7 @@
   <!-- EN: Requires trainability {0}. -->
   <CannotTrainNotSmartEnough>ต้องใช้ {0}. สติปัญญาที่สามารถสอนได้</CannotTrainNotSmartEnough>
   <!-- EN: {1_labelShort} is too small to train this. -->
-  <CannotTrainTooSmall>{0} มีขนาดเล็กเกินไปที่จะฝึกนี้</CannotTrainTooSmall>
+  <CannotTrainTooSmall>{1_labelShort} มีขนาดเล็กเกินไปที่จะฝึก</CannotTrainTooSmall>
 
   <!-- EN: Prerequisite needed: {0} -->
   <TrainingNeedsPrerequisite>จำเป็นต้องมี: {0}</TrainingNeedsPrerequisite>
@@ -214,9 +214,9 @@
   <!-- EN: Faction leader -->
   <FactionLeader>ผู้นำฝ่าย</FactionLeader>
   <!-- EN: Opinion of {1_labelShort} -->
-  <OpinionOf>ความคิดเห็นของ {0}</OpinionOf>
+  <OpinionOf>ความคิดเห็นของ {1_labelShort}</OpinionOf>
   <!-- EN: {1_labelShort}'s opinion of me -->
-  <SomeonesOpinionOfMe>{0} ความคิดเห็นของฉัน</SomeonesOpinionOfMe>
+  <SomeonesOpinionOfMe>{1_labelShort} ความคิดเห็นของฉัน</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->
   <IAmDead>ฉันตาย</IAmDead>
   <!-- EN: I'm a psychopath -->

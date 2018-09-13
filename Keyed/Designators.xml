@@ -181,11 +181,11 @@
   <!-- EN: Cannot place in undiscovered areas. -->
   <CannotPlaceInUndiscovered>ไม่สามารถวางในเขตที่ยังไม่สำรวจ</CannotPlaceInUndiscovered>
   <!-- EN: Interaction spot is blocked by {1_labelShort}. -->
-  <InteractionSpotBlocked>จุดปฏิสัมพันธ์ถูกขวางไว้ด้วย {0}</InteractionSpotBlocked>
+  <InteractionSpotBlocked>จุดปฏิสัมพันธ์ถูกขวางไว้ด้วย {1_labelShort}</InteractionSpotBlocked>
   <!-- EN: Interaction spot is out of bounds. -->
   <InteractionSpotOutOfBounds>จุดปฏิสัมพันธ์นั้นออกนอกขอบเขต</InteractionSpotOutOfBounds>
   <!-- EN: Interaction spot will be blocked by {1_labelShort}. -->
-  <InteractionSpotWillBeBlocked>จุดปฏิสัมพันธ์จะถูกขวางไว้ด้วย {0}</InteractionSpotWillBeBlocked>
+  <InteractionSpotWillBeBlocked>จุดปฏิสัมพันธ์จะถูกขวางไว้ด้วย {1_labelShort}</InteractionSpotWillBeBlocked>
   <!-- EN: {0} would block {1}'s interaction spot. -->
   <WouldBlockInteractionSpot>{0} อาจจะขวางจุดปฏิสัมพันธ์ของ {1}</WouldBlockInteractionSpot>
   <!-- EN: The terrain here is already {0}. -->

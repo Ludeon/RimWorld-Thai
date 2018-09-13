@@ -40,7 +40,7 @@
   <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
   <CommandToggleDraftDesc>เปลี่ยนร่างทหาร\n\nคนร่างมีคำสั่งและต่อสู้ พวกเขาจะไม่ทำงาน กินหรือพักผ่อน</CommandToggleDraftDesc>
   <!-- EN: {1_labelShort} cannot walk. -->
-  <IsIncapped>{0} ไม่สามารถเดินได้.</IsIncapped>
+  <IsIncapped>{1_labelShort} เดินไม่ได้.</IsIncapped>
 
   <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>TODO</CommandFireAtWillLabel>

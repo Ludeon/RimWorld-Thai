@@ -6,9 +6,9 @@
   <!-- EN: {0} demands that you make a gesture of goodwill, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nMuttering an insult, {0_pronoun} disconnects. -->
   <FactionGreetingHostileAppreciative>TODO</FactionGreetingHostileAppreciative>
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} warily and asks what business you want to handle. -->
-  <FactionGreetingWary>{0} ทักทาย {1} อย่างสุขุม และถามถึงธุระ[PAWN_possessive]</FactionGreetingWary>
+  <FactionGreetingWary>{0} ทักทาย {NEGOTIATOR_labelShort} อย่างระมัดระวัง และถามถึงมีธุระที่ต้องการ</FactionGreetingWary>
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can do to help you. -->
-  <FactionGreetingWarm>{0} ทักทาย {1} อย่างอบอุ่น และถามถึงความเป็นไปของอาณานิคมว่าเป็นอย่างไรบ้าง</FactionGreetingWarm>
+  <FactionGreetingWarm>{0} ทักทาย {NEGOTIATOR_labelShort} อย่างอบอุ่น และถามถึง {LEADER_pronoun} สามารถช่วยอะไรคุณได้บ้าง</FactionGreetingWarm>
 
   <!-- EN: Disconnect -->
   <Disconnect>ตัดการติดต่อ</Disconnect>
