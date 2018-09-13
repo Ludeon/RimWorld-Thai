@@ -1,40 +1,41 @@
-# RimWorld-Thai
-[ลิสคำแปลเจอบ่อย](/wordbook.md)
+# RimWorld Thai
 
-This is the Thai translation data for RimWorld.
+This is the thai translation data for RimWorld.
 
-See more contribute info: http://ludeon.com/forums/index.php?topic=2933.0
+Compatible with RimWorld build: `1.0.2022`
 
-### **Status Update 09-2018**
+`Strings` and `Backstories` are not translated yet.
 
-> Focusing on clean-up, still have many error after run translation clean-up tool.
-> 
-> Some of badly translated text and old-version german template text, are replace with TODO for now (I'll re-translate those later anyway)
+We appreciate any help, to contribute see: http://ludeon.com/forums/index.php?topic=2933.0
 
-> หลังอัพเดต Beta 19 ตอนนี้ยังมี error จำนวนมาก กำลังไล่แก้
+------
 
-หากมีข้อสงสัย คำถาม เปิด [Issue](https://github.com/Ludeon/RimWorld-Thai/issues) พูดคุยกันครับ
+Quick summary from current translation report:
+  * :ballot_box_with_check: (0) General load errors
+  * :ballot_box_with_check: (0) Def-injected translations load errors
+  * :ballot_box_with_check: (0) Backstories load errors
+  * :black_square_button: (503) Missing keyed translations
+  * :black_square_button: (4536) Def-injected translations missing
+  * :black_square_button: (2055) Backstory translations missing
+  * :ballot_box_with_check: (0) Unnecessary def-injected translations (marked as NoTranslate)
+  * :ballot_box_with_check: (0) Def-injected translations using old, renamed defs (fixed automatically but can break in the next RimWorld version)
+  * :ballot_box_with_check: (0) Argument count mismatches (may or may not be incorrect)
+  * :ballot_box_with_check: (0) Unnecessary keyed translations (will never be used)
+  * :white_square_button: (56) Keyed translations matching English (maybe ok)
+  * :ballot_box_with_check: (0) Backstory translations matching English (maybe ok)
 
+**Remember to always test your translation in game first, it's super easy to mess-up when translate without real context of the game**
 
+## ริมเวิลด์ ภาษาไทย
 
-:eyeglasses: อย่าลืมเปลี่ยนภาษาภายในเกมนะครับ :3
+ข้อมูลแปลภาษาไทยเกม ริมเวิลด์ (RimWorld)
 
-# Changelogs
-## Rev 1 - 1.0.2022 (2018-09-11)
-- ใช้ cleaner tool ให้เข้ากับ RimWorld v1.0 (Unstable)
-- ตามแก้ error ด้วยมือ ตามลิสจาก translation report tool
-- เปลื่ยนข้อความเก่าๆยังไม่แปลภาษาเยอรมัน ให้เป็นคีย์เวิร์ด TODO เพื่อเกมจะแทนที่ด้วยภาษาอังกฤษ
+ใช้ได้กับ RimWorld เวอร์ชั่น: `1.0.2022`
 
-## Beta 18 (2017-12-22)
-- แก้คำผิด
-- แปลบางส่วนเพิ่มเติม
-- ทำให้รองรับกับ beta 18
+ตอนนี้ยังไม่ได้แปล `Strings` กับ `Backstories` เลยซักนิด
 
-## Alpha 17 (2017-05-28)
-- แก้คำผิด
-- แปลคำพูดของตัวละคร
-- เพื่มคำอธิบาย (ยกเว้นสิ่งของ)
-- แปล Event ทั้งหมด พร้อมคำอธิบายใน Event
-- แปล คำเตือนทั้งหมด พร้อมคำอธิบายในคำเตือน
-- แปลสิ่งที่เพื่มเข้ามาใน alpha 17 ทั้งหมด
-	
+ต้องการคนช่วยแปลครับ เข้าไปดูรายละเอียด วิธีการ ได้ที่ http://ludeon.com/forums/index.php?topic=2933.0
+
+มีข้อสงสัย คำถาม เปิด [Issue](https://github.com/Ludeon/RimWorld-Thai/issues) พูดคุยได้ครับ
+
+:grey_exclamation: >>> [คำควรใช้](https://github.com/Ludeon/RimWorld-Thai/wiki/Glossary) <<<

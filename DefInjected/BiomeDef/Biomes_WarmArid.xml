@@ -12,7 +12,7 @@
   <Desert.description>แห้งแล้งมาก, เป็นพื้นที่ร้อนที่พยุงชีวิตได้ไม่มากนัก</Desert.description>
   
   <!-- EN: extreme desert -->
-  <ExtremeDesert.label>ทะเลทรายสุดโต่ง</ExtremeDesert.label>
+  <ExtremeDesert.label>ทะเลทรายสุดขั้ว</ExtremeDesert.label>
   <!-- EN: An extremely hot, dry area, devoid of almost all life. Searing heat and a near total lack of arable land make it very difficult to survive here. -->
   <ExtremeDesert.description>ร้อนอย่างสุดๆ, พื้นที่แห้งแล้ง, แทบจะไร้ซึ่งสิ่งมีชีวิตทั้งมวล ความร้อนอันเวิ้งว้างและพืชที่จำกัด ทำให้ยากมากที่จะอยู่รอดที่นี่, แม้แต่สัตว์ที่ปรับตัวอย่างดีแล้วก็ตาม</ExtremeDesert.description>
   
