@@ -4,17 +4,17 @@
   <!-- EN: billiards table -->
   <BilliardsTable.label>โต๊ะบิลเลียด</BilliardsTable.label>
   <!-- EN: A soft-topped bounded table for playing a variety of billiards-type games. It trains shooting ability. -->
-  <BilliardsTable.description>Ein Tisch mit einer weichen Oberfläche zum Spielen der verschiedenen Billardarten.</BilliardsTable.description>
+  <BilliardsTable.description>TODO</BilliardsTable.description>
   
   <!-- EN: chess table -->
   <ChessTable.label>โต๊ะหมากรุก</ChessTable.label>
   <!-- EN: The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills. -->
-  <ChessTable.description>Das antike Spiel der Könige. Bringt Spaß für ein paar Stunden. Sogar dann, wenn man alleine spielt.</ChessTable.description>
+  <ChessTable.description>TODO</ChessTable.description>
   
   <!-- EN: flatscreen television -->
   <FlatscreenTelevision.label>โทรทัศน์จอแบน</FlatscreenTelevision.label>
   <!-- EN: A high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
-  <FlatscreenTelevision.description>Ein high-tech Flachbildschirm mit kristallklarem Bild und starken Farben. Hat einen besseren Unterhaltungswert als ein unscharfer Röhren-Fernseher.</FlatscreenTelevision.description>
+  <FlatscreenTelevision.description>TODO</FlatscreenTelevision.description>
   
   <!-- EN: game-of-Ur board -->
   <GameOfUrBoard.label>TODO</GameOfUrBoard.label>
@@ -29,12 +29,12 @@
   <!-- EN: horseshoes pin -->
   <HorseshoesPin.label>เสาปาเกือกม้า</HorseshoesPin.label>
   <!-- EN: A simple ancient game played with a horseshoes and a large pin in the ground. Players toss horseshoes to try to get them to land on the pin. It's relaxing, and trains shooting skills. -->
-  <HorseshoesPin.description>Ein einfaches antikes Spiel, das mit ein paar Hufeisen und einem großen Stab gespielt wird. Die Spieler werfen ihre Hufeisen über eine festgelegte Entfernung und versuchen, dass es so nah wie möglich am Stab landet. Es entspannt und ist nebenbei noch gut für die Auge-Hand-Koordination.</HorseshoesPin.description>
+  <HorseshoesPin.description>TODO</HorseshoesPin.description>
   
   <!-- EN: megascreen television -->
   <MegascreenTelevision.label>โทรทัศน์จอเมกะ</MegascreenTelevision.label>
   <!-- EN: A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
-  <MegascreenTelevision.description>Ein riesiger high-tech Fernseher. Gigantische ultra-klare Bilder springen fast aus dem Bildschirm. Sehr unterhaltsam.</MegascreenTelevision.description>
+  <MegascreenTelevision.description>TODO</MegascreenTelevision.description>
   
   <!-- EN: poker table -->
   <PokerTable.label>TODO</PokerTable.label>
@@ -44,11 +44,11 @@
   <!-- EN: telescope -->
   <Telescope.label>กล้องโทรทรรศน์</Telescope.label>
   <!-- EN: A telescope for doing amateur astronomy. It's a relaxing hobby for a certain kind of person. Can only be used outdoors. -->
-  <Telescope.description>Ein Teleskop für den Amateur-Astronomen. Für bestimmte Arten von Personen ist es ein entspannendes Hobby mit dem sie Spaß haben.</Telescope.description>
+  <Telescope.description>TODO</Telescope.description>
   
   <!-- EN: tube television -->
   <TubeTelevision.label>โทรทัศน์จอโค้ง</TubeTelevision.label>
   <!-- EN: A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting. -->
-  <TubeTelevision.description>Ein Bildschirm mit einer Kathodenstrahlröhre um die unterschiedlichsten bewegten Bilder mit Ton darzustellen. Sogar auf den Randwelten gibt es oft einen alten Sender, der etwas sendet, was zumindest ansatzweise interessant ist.</TubeTelevision.description>
+  <TubeTelevision.description>TODO</TubeTelevision.description>
   
 </LanguageData>

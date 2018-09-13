@@ -4,35 +4,35 @@
   <!-- EN: granite blocks -->
   <BlocksGranite.label>บล็อกหินแกรนิต</BlocksGranite.label>
   <!-- EN: Blocks of solid granite. Granite is a very hard stone. -->
-  <BlocksGranite.description>Blöcke aus solidem Granit. Granit ist ein sehr hartes Gestein.</BlocksGranite.description>
+  <BlocksGranite.description>TODO</BlocksGranite.description>
   <!-- EN: granite -->
   <BlocksGranite.stuffProps.stuffAdjective>บล็อกหินแกรนิต</BlocksGranite.stuffProps.stuffAdjective>
   
   <!-- EN: limestone blocks -->
   <BlocksLimestone.label>บล็อกหินปูน</BlocksLimestone.label>
   <!-- EN: Blocks of solid limestone. -->
-  <BlocksLimestone.description>Blöcke aus solidem Kalkstein.</BlocksLimestone.description>
+  <BlocksLimestone.description>TODO</BlocksLimestone.description>
   <!-- EN: limestone -->
   <BlocksLimestone.stuffProps.stuffAdjective>บล็อกหินปูน</BlocksLimestone.stuffProps.stuffAdjective>
   
   <!-- EN: marble blocks -->
   <BlocksMarble.label>บล็อกหินอ่อน</BlocksMarble.label>
   <!-- EN: Blocks of solid marble. Marble is a soft, beautiful stone, known for being easy to sculpt. -->
-  <BlocksMarble.description>Blöcke aus solidem Marmor. Marmor ist ein sehr schönes, weiches Gestein, das bei Bildhauern beliebt ist.</BlocksMarble.description>
+  <BlocksMarble.description>TODO</BlocksMarble.description>
   <!-- EN: marble -->
   <BlocksMarble.stuffProps.stuffAdjective>บล็อกหินอ่อน</BlocksMarble.stuffProps.stuffAdjective>
   
   <!-- EN: sandstone blocks -->
   <BlocksSandstone.label>บล็อกหินทราย</BlocksSandstone.label>
   <!-- EN: Blocks of solid sandstone. Sandstone is a relatively soft rock and chips easily. -->
-  <BlocksSandstone.description>Blöcke aus solidem Sandstein. Sandstein ist ein relativ weiches Gestein, das leicht splittert.</BlocksSandstone.description>
+  <BlocksSandstone.description>TODO</BlocksSandstone.description>
   <!-- EN: sandstone -->
   <BlocksSandstone.stuffProps.stuffAdjective>บล็อกหินทราย</BlocksSandstone.stuffProps.stuffAdjective>
   
   <!-- EN: slate blocks -->
   <BlocksSlate.label>บล็อกหินชนวน</BlocksSlate.label>
   <!-- EN: Blocks of solid slate. A dull-looking rock that chips easily. -->
-  <BlocksSlate.description>Blöcke aus solidem Schiefer. Ein mattes Gestein, das leicht splittert.</BlocksSlate.description>
+  <BlocksSlate.description>TODO</BlocksSlate.description>
   <!-- EN: slate -->
   <BlocksSlate.stuffProps.stuffAdjective>บล็อกหินชนวน</BlocksSlate.stuffProps.stuffAdjective>
   
@@ -69,27 +69,27 @@
   <!-- EN: granite -->
   <Granite.label>หินแกรนิต</Granite.label>
   <!-- EN: A very hard igneous rock. -->
-  <Granite.description>Ein sehr hartes vulkanisches Gestein.</Granite.description>
+  <Granite.description>TODO</Granite.description>
   
   <!-- EN: limestone -->
   <Limestone.label>หินปูน</Limestone.label>
   <!-- EN: A sedimentary rock formed from the compacted remains of ancient seashells. -->
-  <Limestone.description>Ein Sedimentgestein, das aus den gepressten Überresten uralter Muscheln besteht.</Limestone.description>
+  <Limestone.description>TODO</Limestone.description>
   
   <!-- EN: marble -->
   <Marble.label>หินอ่อน</Marble.label>
   <!-- EN: A soft metamorphic rock. -->
-  <Marble.description>Ein weiches metamorphoses Gestein.</Marble.description>
+  <Marble.description>TODO</Marble.description>
   
   <!-- EN: sandstone -->
   <Sandstone.label>หินทราย</Sandstone.label>
   <!-- EN: A sedimentary rock composed of sand particles compressed together. -->
-  <Sandstone.description>Ein Sedimentgestein, das aus gepressten Sandteilchen besteht.</Sandstone.description>
+  <Sandstone.description>TODO</Sandstone.description>
   
   <!-- EN: slate -->
   <Slate.label>หินชนวน</Slate.label>
   <!-- EN: A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. -->
-  <Slate.description>Ein dunkelfarbenes metamorphoses Schichtgestein. Die feinen Schichten sorgen für die typische Schiefer-Spaltung.</Slate.description>
+  <Slate.description>TODO</Slate.description>
   
   <!-- EN: smoothed granite -->
   <SmoothedGranite.label>TODO</SmoothedGranite.label>

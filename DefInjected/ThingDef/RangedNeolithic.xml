@@ -13,7 +13,7 @@
   <!-- EN: greatbow -->
   <Bow_Great.label>ธนูยาว</Bow_Great.label>
   <!-- EN: A powerful greatbow. Fires a heavy arrow long distances. -->
-  <Bow_Great.description>Ein starker Langbogen. Verschießt einen starken Pfeil über eine längere Distanz.</Bow_Great.description>
+  <Bow_Great.description>TODO</Bow_Great.description>
   <!-- EN: limb -->
   <Bow_Great.tools.limb.label>TODO</Bow_Great.tools.limb.label>
   <!-- EN: greatbow -->
@@ -31,7 +31,7 @@
   <!-- EN: short bow -->
   <Bow_Short.label>ธนู</Bow_Short.label>
   <!-- EN: A simple short selfbow made from a single piece of wood. -->
-  <Bow_Short.description>Ein einfacher Bogen, der mit primitivsten Technologien, aber hohem Geschick hergestellt wurde.</Bow_Short.description>
+  <Bow_Short.description>TODO</Bow_Short.description>
   <!-- EN: limb -->
   <Bow_Short.tools.limb.label>TODO</Bow_Short.tools.limb.label>
   <!-- EN: short bow -->
@@ -40,7 +40,7 @@
   <!-- EN: pila -->
   <Pila.label>หอกปา</Pila.label>
   <!-- EN: Pila are spears for throwing. They take a long time to throw, but one hit can do heavy damage. This weapon represents a bundle of pila and can be thrown over and over. The singular of pila is pilum. -->
-  <Pila.description>Mehrere, nicht wiederverwendbare Wurfspeere.</Pila.description>
+  <Pila.description>TODO</Pila.description>
   <!-- EN: shaft -->
   <Pila.tools.shaft.label>TODO</Pila.tools.shaft.label>
   <!-- EN: point -->

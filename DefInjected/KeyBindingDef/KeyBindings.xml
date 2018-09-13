@@ -8,46 +8,46 @@
   <Cancel.label>TODO</Cancel.label>
   
   <!-- EN: draft -->
-  <Command_ColonistDraft.label>Command Colonist Draft</Command_ColonistDraft.label>
+  <Command_ColonistDraft.label>TODO</Command_ColonistDraft.label>
   
   <!-- EN: toggle forbidden -->
-  <Command_ItemForbid.label>Command Item Forbid</Command_ItemForbid.label>
+  <Command_ItemForbid.label>TODO</Command_ItemForbid.label>
   
   <!-- EN: toggle power -->
-  <Command_TogglePower.label>Command Toggle Power</Command_TogglePower.label>
+  <Command_TogglePower.label>TODO</Command_TogglePower.label>
   
   <!-- EN: cancel -->
-  <Designator_Cancel.label>Designator Cancel</Designator_Cancel.label>
+  <Designator_Cancel.label>TODO</Designator_Cancel.label>
   
   <!-- EN: deconstruct -->
-  <Designator_Deconstruct.label>Designator Deconstruct</Designator_Deconstruct.label>
+  <Designator_Deconstruct.label>TODO</Designator_Deconstruct.label>
   
   <!-- EN: rotate left -->
-  <Designator_RotateLeft.label>Designator Rotate Left</Designator_RotateLeft.label>
+  <Designator_RotateLeft.label>TODO</Designator_RotateLeft.label>
   
   <!-- EN: rotate right -->
-  <Designator_RotateRight.label>Designator Rotate Right</Designator_RotateRight.label>
+  <Designator_RotateRight.label>TODO</Designator_RotateRight.label>
   
   <!-- EN: tick once -->
-  <Dev_TickOnce.label>Tick Once</Dev_TickOnce.label>
+  <Dev_TickOnce.label>TODO</Dev_TickOnce.label>
   
   <!-- EN: toggle debug actions menu -->
-  <Dev_ToggleDebugActionsMenu.label>ToggleDebug Actions Menu</Dev_ToggleDebugActionsMenu.label>
+  <Dev_ToggleDebugActionsMenu.label>TODO</Dev_ToggleDebugActionsMenu.label>
   
   <!-- EN: toggle debug inspector -->
-  <Dev_ToggleDebugInspector.label>Toggle Debug Inspector</Dev_ToggleDebugInspector.label>
+  <Dev_ToggleDebugInspector.label>TODO</Dev_ToggleDebugInspector.label>
   
   <!-- EN: toggle debug log -->
-  <Dev_ToggleDebugLog.label>Toggle Debug Log</Dev_ToggleDebugLog.label>
+  <Dev_ToggleDebugLog.label>TODO</Dev_ToggleDebugLog.label>
   
   <!-- EN: toggle debug log menu -->
-  <Dev_ToggleDebugLogMenu.label>Toggle Debug Log Menu</Dev_ToggleDebugLogMenu.label>
+  <Dev_ToggleDebugLogMenu.label>TODO</Dev_ToggleDebugLogMenu.label>
   
   <!-- EN: toggle debug settings menu -->
-  <Dev_ToggleDebugSettingsMenu.label>Toggle Debug Settings Menu</Dev_ToggleDebugSettingsMenu.label>
+  <Dev_ToggleDebugSettingsMenu.label>TODO</Dev_ToggleDebugSettingsMenu.label>
   
   <!-- EN: toggle god mode -->
-  <Dev_ToggleGodMode.label>Toggle God Mode</Dev_ToggleGodMode.label>
+  <Dev_ToggleGodMode.label>TODO</Dev_ToggleGodMode.label>
   
   <!-- EN: dolly down -->
   <MapDolly_Down.label>เลื่อนลง</MapDolly_Down.label>

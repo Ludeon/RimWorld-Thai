@@ -4,51 +4,51 @@
   <!-- EN: granite flagstone -->
   <FlagstoneGranite.label>กระเบื้องปูพื้นหินแกรนิต</FlagstoneGranite.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneGranite.description>Grobgeschnittene Steinplatten. Nicht sonderlich schön, aber sie sind eine sehr gute Oberfläche für Straßen und Wege. Steinplatten abzureißen bringt keine Rohstoffe.</FlagstoneGranite.description>
+  <FlagstoneGranite.description>TODO</FlagstoneGranite.description>
   
   <!-- EN: limestone flagstone -->
   <FlagstoneLimestone.label>กระเบื้องปูพื้นหินปูน</FlagstoneLimestone.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneLimestone.description>Grobgeschnittene Steinplatten. Nicht sonderlich schön, aber sie sind eine sehr gute Oberfläche für Straßen und Wege. Steinplatten abzureißen bringt keine Rohstoffe.</FlagstoneLimestone.description>
+  <FlagstoneLimestone.description>TODO</FlagstoneLimestone.description>
   
   <!-- EN: marble flagstone -->
   <FlagstoneMarble.label>กระเบื้องปูพื้นหินอ่อน</FlagstoneMarble.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneMarble.description>Grobgeschnittene Steinplatten. Nicht sonderlich schön, aber sie sind eine sehr gute Oberfläche für Straßen und Wege. Steinplatten abzureißen bringt keine Rohstoffe.</FlagstoneMarble.description>
+  <FlagstoneMarble.description>TODO</FlagstoneMarble.description>
   
   <!-- EN: sandstone flagstone -->
   <FlagstoneSandstone.label>กระเบื้องปูพื้นหินทราย</FlagstoneSandstone.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneSandstone.description>Grobgeschnittene Steinplatten. Nicht sonderlich schön, aber sie sind eine sehr gute Oberfläche für Straßen und Wege. Steinplatten abzureißen bringt keine Rohstoffe.</FlagstoneSandstone.description>
+  <FlagstoneSandstone.description>TODO</FlagstoneSandstone.description>
   
   <!-- EN: slate flagstone -->
   <FlagstoneSlate.label>กระเบื้องปูพื้นหินชนวน</FlagstoneSlate.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneSlate.description>Grobgeschnittene Steinplatten. Nicht sonderlich schön, aber sie sind eine sehr gute Oberfläche für Straßen und Wege. Steinplatten abzureißen bringt keine Rohstoffe.</FlagstoneSlate.description>
+  <FlagstoneSlate.description>TODO</FlagstoneSlate.description>
   
   <!-- EN: granite tile -->
   <TileGranite.label>กระเบื้อง (แกรนิต)</TileGranite.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileGranite.description>Solide Steinplatten, für das Burg-Feeling. Sieht gut aus, aber es dauert eine Weile sie zu verlegen.</TileGranite.description>
+  <TileGranite.description>TODO</TileGranite.description>
   
   <!-- EN: limestone tile -->
   <TileLimestone.label>กระเบื้อง (หินปูน)</TileLimestone.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileLimestone.description>Solide Steinplatten, für das Burg-Feeling. Sieht gut aus, aber es dauert eine Weile sie zu verlegen.</TileLimestone.description>
+  <TileLimestone.description>TODO</TileLimestone.description>
   
   <!-- EN: marble tile -->
   <TileMarble.label>กระเบื้อง (หินอ่อน)</TileMarble.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileMarble.description>Solide Steinplatten, für das Burg-Feeling. Sieht gut aus, aber es dauert eine Weile sie zu verlegen.</TileMarble.description>
+  <TileMarble.description>TODO</TileMarble.description>
   
   <!-- EN: sandstone tile -->
   <TileSandstone.label>กระเบื้อง (หินทราย)</TileSandstone.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileSandstone.description>Solide Steinplatten, für das Burg-Feeling. Sieht gut aus, aber es dauert eine Weile sie zu verlegen.</TileSandstone.description>
+  <TileSandstone.description>TODO</TileSandstone.description>
   
   <!-- EN: slate tile -->
   <TileSlate.label>กระเบื้อง (ชนวน)</TileSlate.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileSlate.description>Solide Steinplatten, für das Burg-Feeling. Sieht gut aus, aber es dauert eine Weile sie zu verlegen.</TileSlate.description>
+  <TileSlate.description>TODO</TileSlate.description>
   
 </LanguageData>

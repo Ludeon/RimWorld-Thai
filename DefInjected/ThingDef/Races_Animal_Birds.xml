@@ -4,7 +4,7 @@
   <!-- EN: cassowary -->
   <Cassowary.label>นกแคสโซแวรี</Cassowary.label>
   <!-- EN: A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers. -->
-  <Cassowary.description>Ein großer flugunfähiger Vogel mit einem hell leuchtendem Federkleid. Auch wenn es wunderschön aussieht, sollte man seinem Tritt möglichst aus dem Weg gehen.</Cassowary.description>
+  <Cassowary.description>TODO</Cassowary.description>
   <!-- EN: bird meat -->
   <Cassowary.race.meatLabel>TODO</Cassowary.race.meatLabel>
   <!-- EN: claws -->
@@ -17,7 +17,7 @@
   <!-- EN: emu -->
   <Emu.label>นกอีมู</Emu.label>
   <!-- EN: A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge. -->
-  <Emu.description>Ein großer flugunfähiger Vogel mit Knopfaugen in seinem hässlichen Gesicht. Mit seiner üblen Einstellung ist er der Trottel der natürlichen Welt..</Emu.description>
+  <Emu.description>TODO</Emu.description>
   <!-- EN: claws -->
   <Emu.tools.claws.label>TODO</Emu.tools.claws.label>
   <!-- EN: beak -->
@@ -28,7 +28,7 @@
   <!-- EN: ostrich -->
   <Ostrich.label>นกกระจอกเทศ</Ostrich.label>
   <!-- EN: The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered. -->
-  <Ostrich.description>Der größte flugunfähige Vogel der alten Erde ist aufgrund seines begehrten Fleisches, der Federn und des Leders nahezu ausgestorben gewesen.</Ostrich.description>
+  <Ostrich.description>TODO</Ostrich.description>
   <!-- EN: claws -->
   <Ostrich.tools.claws.label>TODO</Ostrich.tools.claws.label>
   <!-- EN: beak -->
@@ -39,7 +39,7 @@
   <!-- EN: turkey -->
   <Turkey.label>ไก่งวง</Turkey.label>
   <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->
-  <Turkey.description>Ein kleiner, fetter flugunfähiger Vogel, der für seinen urkomischen Paarungsruf bekannt ist. Er ist schon lange domestiziert, lebt aber auch in freier Wildbahn.</Turkey.description>
+  <Turkey.description>TODO</Turkey.description>
   <!-- EN: claws -->
   <Turkey.tools.claws.label>TODO</Turkey.tools.claws.label>
   <!-- EN: beak -->

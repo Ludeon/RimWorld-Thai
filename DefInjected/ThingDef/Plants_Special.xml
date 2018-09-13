@@ -4,11 +4,11 @@
   <!-- EN: burned tree -->
   <BurnedTree.label>ซาก ต้นไม้</BurnedTree.label>
   <!-- EN: A burned tree stump. It's ugly and yields no usable wood. -->
-  <BurnedTree.description>Ein verbrannter Baum. Ergibt kein brauchbares Holz.</BurnedTree.description>
+  <BurnedTree.description>TODO</BurnedTree.description>
   
   <!-- EN: ambrosia bush -->
   <Plant_Ambrosia.label>Plant Ambrosia</Plant_Ambrosia.label>
   <!-- EN: A rare wild bush which yields the ambrosia fruit. Ambrosia fruit is delicious and produces a drug-like mood boost. Ambrosia cannot be farmed, which makes wild ambrosia groves very valuable.\n\nIts rarity, beauty, and desirability are why ambrosia was named after the food of the ancient Greek gods. -->
-  <Plant_Ambrosia.description>Ein selten wachsender Busch von dem man die Ambrosia Frucht ernten kann. Ambrosia ist sehr lecker und erzeugt einen geringfügig süchtigmachenden chemischen Wärme-Effekt.</Plant_Ambrosia.description>
+  <Plant_Ambrosia.description>TODO</Plant_Ambrosia.description>
   
 </LanguageData>

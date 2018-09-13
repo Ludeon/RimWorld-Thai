@@ -4,56 +4,56 @@
   <!-- EN: cassowary egg (fert.) -->
   <EggCassowaryFertilized.label>ไขนกแคสโซแวรี (ปฏิสนธิ)</EggCassowaryFertilized.label>
   <!-- EN: A fertilized cassowary egg. If all goes well, it should hatch into a baby cassowary. It can be eaten raw, but it's much better cooked. -->
-  <EggCassowaryFertilized.description>Ein befruchtetes Kasuar-Ei. Wenn alles gut läuft, schlüpft daraus ein junger Kasuar. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggCassowaryFertilized.description>
+  <EggCassowaryFertilized.description>TODO</EggCassowaryFertilized.description>
   
   <!-- EN: chicken egg (fert.) -->
   <EggChickenFertilized.label>ไข่ไก่ (ปฏิสนธิ)</EggChickenFertilized.label>
   <!-- EN: A fertilized chicken egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked. -->
-  <EggChickenFertilized.description>Ein befruchtetes Hühner-Ei. Wenn alles gut läuft, schlüpft daraus ein kleines Küken. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggChickenFertilized.description>
+  <EggChickenFertilized.description>TODO</EggChickenFertilized.description>
   
   <!-- EN: chicken egg (unfert.) -->
   <EggChickenUnfertilized.label>ไข่ไก่ (ไม่ปฏิสนธิ)</EggChickenUnfertilized.label>
   <!-- EN: An unfertilized chicken egg. It can be eaten raw, but it's much, much better cooked. -->
-  <EggChickenUnfertilized.description>Ein unbefruchtetes Hühner-Ei. Es kann roh gegessen werden, ist gekocht aber viel besser.</EggChickenUnfertilized.description>
+  <EggChickenUnfertilized.description>TODO</EggChickenUnfertilized.description>
   
   <!-- EN: cobra egg (fert.) -->
   <EggCobraFertilized.label>ไข่งูเห่า (ปฏิสนธิ)</EggCobraFertilized.label>
   <!-- EN: A fertilized cobra egg. If all goes well, it should hatch into a baby cobra. It can be eaten raw, but it's much better cooked. -->
-  <EggCobraFertilized.description>Ein befruchtetes Kobra-Ei. Wenn alles gut läuft, schlüpft daraus eine junge Kobra. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggCobraFertilized.description>
+  <EggCobraFertilized.description>TODO</EggCobraFertilized.description>
   
   <!-- EN: emu egg (fert.) -->
   <EggEmuFertilized.label>ไข่นกอีมู (ปฏิสนธิ)</EggEmuFertilized.label>
   <!-- EN: A fertilized emu egg. If all goes well, it should hatch into a baby emu. It can be eaten raw, but it's much better cooked. -->
-  <EggEmuFertilized.description>Ein befruchtetes Emu-Ei. Wenn alles gut läuft, schlüpft daraus ein junges Emu. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggEmuFertilized.description>
+  <EggEmuFertilized.description>TODO</EggEmuFertilized.description>
   
   <!-- EN: iguana egg (fert.) -->
   <EggIguanaFertilized.label>ไข่อีกัวน่า (ปฏิสนธิ)</EggIguanaFertilized.label>
   <!-- EN: A fertilized iguana egg. If all goes well, it should hatch into a baby iguana. It can be eaten raw, but it's much better cooked. -->
-  <EggIguanaFertilized.description>Ein befruchtetes Leguan-Ei. Wenn alles gut läuft, schlüpft daraus ein junger Leguan. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggIguanaFertilized.description>
+  <EggIguanaFertilized.description>TODO</EggIguanaFertilized.description>
   
   <!-- EN: ostrich egg (fert.) -->
   <EggOstrichFertilized.label>ไข่นกกระจอกเทศ  (ปฏิสนธิ)</EggOstrichFertilized.label>
   <!-- EN: A fertilized ostrich egg. If all goes well, it should hatch into a baby ostrich. It can be eaten raw, but it's much better cooked. -->
-  <EggOstrichFertilized.description>Ein befruchtetes Straußen Ei. Wenn alles gut läuft, schlüpft daraus ein junger Strauß. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggOstrichFertilized.description>
+  <EggOstrichFertilized.description>TODO</EggOstrichFertilized.description>
   
   <!-- EN: tortoise egg (fert.) -->
   <EggTortoiseFertilized.label>ไข่เต่า (ปฏิสนธิ)</EggTortoiseFertilized.label>
   <!-- EN: A fertilized tortoise egg. If all goes well, it should hatch into a baby tortoise. It can be eaten raw, but it's much better cooked. -->
-  <EggTortoiseFertilized.description>Ein befruchtetes Schildkröten-Ei. Wenn alles gut läuft, schlüpft daraus eine junge Schildkröte. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggTortoiseFertilized.description>
+  <EggTortoiseFertilized.description>TODO</EggTortoiseFertilized.description>
   
   <!-- EN: turkey egg (fert.) -->
   <EggTurkeyFertilized.label>ไข่ไก่งวง (ปฏิสนธิ)</EggTurkeyFertilized.label>
   <!-- EN: A fertilized turkey egg. If all goes well, it should hatch into a baby turkey. It can be eaten raw, but it's much better cooked. -->
-  <EggTurkeyFertilized.description>Ein befruchtetes Truthahn-Ei. Wenn alles gut läuft, schlüpft daraus ein junger Truthahn. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggTurkeyFertilized.description>
+  <EggTurkeyFertilized.description>TODO</EggTurkeyFertilized.description>
   
   <!-- EN: insect jelly -->
   <InsectJelly.label>เยลลี่ แมลง</InsectJelly.label>
   <!-- EN: Jelly stored and used as food by oversized insects. It is smooth, rich, and fulfills the recreation need of those who consume it. Because of its unique biological properties, it can nourish almost any creature and never rots. -->
-  <InsectJelly.description>Gelee als Nahrung von überdimensionierten Insekten gehortet. Es ist süffig, reich und hat eine aufheiternde Wirkung. Aufgrund ihrer einzigartigen biologischen Eigenschaften kann es nahezu jede Kreatur ernähren und es vedirbt nicht.</InsectJelly.description>
+  <InsectJelly.description>TODO</InsectJelly.description>
   
   <!-- EN: milk -->
   <Milk.label>นม</Milk.label>
   <!-- EN: Milk from an animal. -->
-  <Milk.description>Milch von einem Tier.</Milk.description>
+  <Milk.description>TODO</Milk.description>
   
 </LanguageData>

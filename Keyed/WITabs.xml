@@ -13,9 +13,9 @@
   <!-- EN: Needs -->
   <TabCaravanNeeds>จำเป็น</TabCaravanNeeds>
   <!-- EN: Gear -->
-  <TabCaravanGear>คลัง</TabCaravanGear>
+  <TabCaravanGear>อุปกรณ์</TabCaravanGear>
   <!-- EN: Items -->
-  <TabCaravanItems>สิ่งของ</TabCaravanItems>
+  <TabCaravanItems>ไอเท็ม</TabCaravanItems>
   
   <!-- Misc -->
   <!-- EN: Abandon {{1_labelShort}}x {1_labelShort} -->
@@ -69,6 +69,6 @@
   <!-- EN: Seed -->
   <PlanetSeed>Seed</PlanetSeed>
   <!-- EN: Coverage -->
-  <PlanetCoverageShort>ความคุ้มครอง</PlanetCoverageShort>
+  <PlanetCoverageShort>ครอบคลุม</PlanetCoverageShort>
 
 </LanguageData>

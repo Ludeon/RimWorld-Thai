@@ -4,27 +4,27 @@
   <!-- EN: animal bed -->
   <AnimalBed.label>เตียง (สัตว์)</AnimalBed.label>
   <!-- EN: A soft bed for animals to sleep on. Fits any animal. -->
-  <AnimalBed.description>Ein weiches Bett auf dem Tiere schlafen können. Passend für alle Tierarten.</AnimalBed.description>
+  <AnimalBed.description>TODO</AnimalBed.description>
   
   <!-- EN: animal sleeping box -->
   <AnimalSleepingBox.label>กล่องนอน (สัตว์)</AnimalSleepingBox.label>
   <!-- EN: A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs. -->
-  <AnimalSleepingBox.description>Eine kleine Kiste in der Tiere schlafen können. Passend für kleinere Tiere, wie Hühner, Katzen oder kleine Hunde</AnimalSleepingBox.description>
+  <AnimalSleepingBox.description>TODO</AnimalSleepingBox.description>
   
   <!-- EN: animal sleeping spot -->
   <AnimalSleepingSpot.label>ที่นอนว่างเปล่า (สัตว์)</AnimalSleepingSpot.label>
   <!-- EN: Designates a spot on the ground where animals should sleep. -->
-  <AnimalSleepingSpot.description>Definiert eine Stelle auf dem Boden, auf der Tiere schlafen sollen.</AnimalSleepingSpot.description>
+  <AnimalSleepingSpot.description>TODO</AnimalSleepingSpot.description>
   
   <!-- EN: armchair -->
   <Armchair.label>เก้าอี้นวม</Armchair.label>
   <!-- EN: A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
-  <Armchair.description>Ein großer, weicher und bequemer Sitz. Sehr gut zum Entspannen.</Armchair.description>
+  <Armchair.description>TODO</Armchair.description>
   
   <!-- EN: bed -->
   <Bed.label>เตียง</Bed.label>
   <!-- EN: A cozy mattress and sheets on a frame for resting. -->
-  <Bed.description>Eine gemütliche Matratze mit Bettwäsche auf einem Rahmen. Ein guter Ort zum Ausruhen.</Bed.description>
+  <Bed.description>TODO</Bed.description>
   
   <!-- EN: bedroll -->
   <Bedroll.label>TODO</Bedroll.label>
@@ -39,12 +39,12 @@
   <!-- EN: dining chair -->
   <DiningChair.label>เก้าอี้</DiningChair.label>
   <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
-  <DiningChair.description>Ein komfortabler und gut aussehender Stuhl.</DiningChair.description>
+  <DiningChair.description>TODO</DiningChair.description>
   
   <!-- EN: double bed -->
   <DoubleBed.label>เตียงคู่</DoubleBed.label>
   <!-- EN: A simple double-wide bed that fits two people. -->
-  <DoubleBed.description>Ein einfaches Doppelbett mit genug Platz für Zwei.</DoubleBed.description>
+  <DoubleBed.description>TODO</DoubleBed.description>
   
   <!-- EN: double sleeping spot -->
   <DoubleSleepingSpot.label>TODO</DoubleSleepingSpot.label>
@@ -64,59 +64,59 @@
   <!-- EN: hospital bed -->
   <HospitalBed.label>เตียงพยาบาล</HospitalBed.label>
   <!-- EN: A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
-  <HospitalBed.description>Ein Bett, das speziell für die Behandlung verletzter Personen entworfen wurde. Verbessert die Wahrscheinlichkeit, medizinische Behandlungen sowie Operationen erfolgreich durchzuführen.</HospitalBed.description>
+  <HospitalBed.description>TODO</HospitalBed.description>
   
   <!-- EN: plant pot -->
   <PlantPot.label>กระถางต้นไม้</PlantPot.label>
   <!-- EN: Plant decorative flowers here to improve the mood of people nearby. -->
-  <PlantPot.description>Hier kann man Blumen anpflanzen, um die Laune der Personen in der Nähe zu verbessern.</PlantPot.description>
+  <PlantPot.description>TODO</PlantPot.description>
   
   <!-- EN: royal bed -->
   <RoyalBed.label>เตียงแบบหรู</RoyalBed.label>
   <!-- EN: A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two. -->
-  <RoyalBed.description>Ein luxuriöses, mit Gold verziertes Bett, das gerade ausreichend für die Person von Adel ist. Sehr bequem und schön und mit ausreichend Platz für Zwei.</RoyalBed.description>
+  <RoyalBed.description>TODO</RoyalBed.description>
   
   <!-- EN: shelf -->
   <Shelf.label>ชั้นวางของ</Shelf.label>
   <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not deteriorate, even if outside. -->
-  <Shelf.description>Hier gelagerte Ausrüstung verrottet nicht, auch nicht im Freien.</Shelf.description>
+  <Shelf.description>TODO</Shelf.description>
   
   <!-- EN: sleeping spot -->
   <SleepingSpot.label>ที่นอนว่างเปล่า</SleepingSpot.label>
   <!-- EN: Designates a spot on the ground where people should sleep. Not comfortable. -->
-  <SleepingSpot.description>Definiert eine Stelle auf dem Boden, auf der Leute schlafen sollen. Nicht sonderlich bequem.</SleepingSpot.description>
+  <SleepingSpot.description>TODO</SleepingSpot.description>
   
   <!-- EN: standing lamp -->
   <StandingLamp.label>โคมไฟตั้งยืน</StandingLamp.label>
   <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
-  <StandingLamp.description>Stehlampe, die eine Fläche beleuchtet.</StandingLamp.description>
+  <StandingLamp.description>TODO</StandingLamp.description>
   
   <!-- EN: standing lamp (blue) -->
   <StandingLamp_Blue.label>โคมไฟยืน (น้ำเงิน)</StandingLamp_Blue.label>
   <!-- EN: A standing lamp that lights an area in blue. -->
-  <StandingLamp_Blue.description>Stehlampe, die eine Fläche blau beleuchtet.</StandingLamp_Blue.description>
+  <StandingLamp_Blue.description>TODO</StandingLamp_Blue.description>
   
   <!-- EN: standing lamp (green) -->
   <StandingLamp_Green.label>โคมไฟยืน (เขียว)</StandingLamp_Green.label>
   <!-- EN: A standing lamp that lights an area in green. -->
-  <StandingLamp_Green.description>Stehlampe, die eine Fläche grün beleuchtet.</StandingLamp_Green.description>
+  <StandingLamp_Green.description>TODO</StandingLamp_Green.description>
   
   <!-- EN: standing lamp (red) -->
   <StandingLamp_Red.label>โคมไฟยืน (แดง)</StandingLamp_Red.label>
   <!-- EN: A standing lamp that lights an area in red. -->
-  <StandingLamp_Red.description>Stehlampe, die eine Fläche rot beleuchtet.</StandingLamp_Red.description>
+  <StandingLamp_Red.description>TODO</StandingLamp_Red.description>
   
   <!-- EN: stool -->
   <Stool.label>ม้านั่ง</Stool.label>
   <!-- EN: A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
-  <Stool.description>Eine einfache Oberfläche, auf der man sitzen kann.</Stool.description>
+  <Stool.description>TODO</Stool.description>
   
   <!-- EN: sun lamp -->
   <SunLamp.label>โคมไฟยืน (แสงอาทิตย์)</SunLamp.label>
   <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
-  <SunLamp.description>Beleuchtet eine Fläche so stark, dass Pflanzen wachsen können.</SunLamp.description>
+  <SunLamp.description>TODO</SunLamp.description>
   <!-- EN: Off for plant resting period -->
-  <SunLamp.comps.CompSchedule.offMessage>Aus während Ruhephase der Pflanzen</SunLamp.comps.CompSchedule.offMessage>
+  <SunLamp.comps.CompSchedule.offMessage>TODO</SunLamp.comps.CompSchedule.offMessage>
   
   <!-- EN: table (1x2) -->
   <Table1x2c.label>TODO</Table1x2c.label>
@@ -126,12 +126,12 @@
   <!-- EN: table (2x2) -->
   <Table2x2c.label>โต๊ะ (สั้น)</Table2x2c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Table2x2c.description>Sie essen am Tisch, sofern Stühle vorhanden sind.</Table2x2c.description>
+  <Table2x2c.description>TODO</Table2x2c.description>
   
   <!-- EN: table (2x4) -->
   <Table2x4c.label>โต๊ะ (ยาว)</Table2x4c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Table2x4c.description>Sie essen am Tisch, sofern Stühle vorhanden sind.</Table2x4c.description>
+  <Table2x4c.description>TODO</Table2x4c.description>
   
   <!-- EN: table (3x3) -->
   <Table3x3c.label>TODO</Table3x3c.label>
@@ -141,6 +141,6 @@
   <!-- EN: torch lamp -->
   <TorchLamp.label>คบเพลิง</TorchLamp.label>
   <!-- EN: A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
-  <TorchLamp.description>Eine hölzerne Fackel, die eine Fläche beleuchtet. Sie kann automatisch mit Treibstoff aufgefüllt werden. Erzeugt eine geringe Menge Wärme.</TorchLamp.description>
+  <TorchLamp.description>TODO</TorchLamp.description>
   
 </LanguageData>

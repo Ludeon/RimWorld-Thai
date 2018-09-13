@@ -4,41 +4,41 @@
   <!-- EN: architect -->
   <Architect.label>สถาปนิก</Architect.label>
   <!-- EN: General-use controls for the architect mode menu. -->
-  <Architect.description>Allgemeingültige Tasten für das ARCHITEKT Menü.</Architect.description>
+  <Architect.description>TODO</Architect.description>
   
   <!-- EN: developer tools -->
   <Development.label>พัฒนาการ</Development.label>
   <!-- EN: Controls for developers and modders. Active in development mode only. -->
-  <Development.description>Tasten für Entwickler und Modder. Nur im Entwicklungsmodus aktiv.</Development.description>
+  <Development.description>TODO</Development.description>
   
   <!-- EN: in-game global -->
   <Game.label>เกมส์</Game.label>
   <!-- EN: Colony mode controls that apply in most situations. -->
-  <Game.description>Koloniesteuerungsbefehle, die fast immer aktiv sind.</Game.description>
+  <Game.description>TODO</Game.description>
   
   <!-- EN: camera -->
   <GameMapCamera.label>มุมกล้องในเกม</GameMapCamera.label>
   <!-- EN: Controls for the camera. -->
-  <GameMapCamera.description>Die Steuerung der Kamera.</GameMapCamera.description>
+  <GameMapCamera.description>TODO</GameMapCamera.description>
   
   <!-- EN: main tabs -->
   <MainTabs.label>แท็บหลัก</MainTabs.label>
   <!-- EN: Controls for the main tabs. -->
-  <MainTabs.description>Tastenbelegung für die Hauptschaltflächen.</MainTabs.description>
+  <MainTabs.description>TODO</MainTabs.description>
   
   <!-- EN: modifiers -->
   <Modifiers.label>การปรับเปลี่ยน</Modifiers.label>
   <!-- EN: Controls used to modify other actions. -->
-  <Modifiers.description>Tasten um andere Aktionen zu modifizieren.</Modifiers.description>
+  <Modifiers.description>TODO</Modifiers.description>
   
   <!-- EN: misc -->
   <SelectionMisc.label>ตัวเลือกอื่น ๆ</SelectionMisc.label>
   <!-- EN: Generic controls that are re-used by many items and objects throughout the game. -->
-  <SelectionMisc.description>Generische Tasten, die von vielen Gegenständen und Objekten im Spiel verwendet werden.</SelectionMisc.description>
+  <SelectionMisc.description>TODO</SelectionMisc.description>
   
   <!-- EN: special -->
   <SelectionSpecial.label>ตัวเลือกพิเศษ</SelectionSpecial.label>
   <!-- EN: Special controls reserved for specific functions on specific objects. -->
-  <SelectionSpecial.description>Spezielle Tasten, die speziellen Funktionen an definierten Objekten dienen.</SelectionSpecial.description>
+  <SelectionSpecial.description>TODO</SelectionSpecial.description>
   
 </LanguageData>

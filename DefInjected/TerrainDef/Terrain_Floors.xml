@@ -4,61 +4,61 @@
   <!-- EN: blue carpet -->
   <CarpetBlue.label>พรมน้ำเงิน</CarpetBlue.label>
   <!-- EN: Toe-hugging plush carpet in a cool blue color. -->
-  <CarpetBlue.description>Plüschteppich in einem kühlen Blau.</CarpetBlue.description>
+  <CarpetBlue.description>TODO</CarpetBlue.description>
   
   <!-- EN: cream carpet -->
   <CarpetCream.label>พรมครีม</CarpetCream.label>
   <!-- EN: Inviting cream-colored carpet. -->
-  <CarpetCream.description>Ein einladender Cremefarbener Teppich.</CarpetCream.description>
+  <CarpetCream.description>TODO</CarpetCream.description>
   
   <!-- EN: dark carpet -->
   <CarpetDark.label>พรมเทา</CarpetDark.label>
   <!-- EN: Professional-looking dark gray carpet. -->
-  <CarpetDark.description>Ein professionell aussehender dunkel-grauer Teppich.</CarpetDark.description>
+  <CarpetDark.description>TODO</CarpetDark.description>
   
   <!-- EN: green carpet -->
   <CarpetGreen.label>พรมเขียว</CarpetGreen.label>
   <!-- EN: Naturalistic-feeling green carpet. Earth tones, dude. -->
-  <CarpetGreen.description>Ein Teppich in einem natürlichen Grün.</CarpetGreen.description>
+  <CarpetGreen.description>TODO</CarpetGreen.description>
   
   <!-- EN: red carpet -->
   <CarpetRed.label>พรมแดง</CarpetRed.label>
   <!-- EN: Plush carpet in a lovely rose hue. -->
-  <CarpetRed.description>Plüschteppich in einem schönen roten Farbton.</CarpetRed.description>
+  <CarpetRed.description>TODO</CarpetRed.description>
   
   <!-- EN: concrete -->
   <Concrete.label>คอนกรีต</Concrete.label>
   <!-- EN: Rough concrete. It is fast to walk on, cheap, and quick to build, but quite ugly. -->
-  <Concrete.description>Schnell ausgegossener Beton. Man kann darauf schnell laufen, er ist billig und schnell gegossen. Allerdings ist er auch recht hässlich.</Concrete.description>
+  <Concrete.description>TODO</Concrete.description>
   
   <!-- EN: gold tile -->
   <GoldTile.label>พิ้นทอง</GoldTile.label>
   <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
-  <GoldTile.description>Die absolut schönste und eindrucksvollste Art einen Raum auszustatten. Ist aber sehr teuer und es dauert sehr lange sie zu verlegen.</GoldTile.description>
+  <GoldTile.description>TODO</GoldTile.description>
   
   <!-- EN: metal tile -->
   <MetalTile.label>พื้นโลหะ</MetalTile.label>
   <!-- EN: Metal tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
-  <MetalTile.description>Metallfliesen, für den Raumschiff-Look. Sieht gut aus, benötigt aber viel Material und Arbeitszeit.</MetalTile.description>
+  <MetalTile.description>TODO</MetalTile.description>
   
   <!-- EN: paved tile -->
   <PavedTile.label>พื้นปูน</PavedTile.label>
   <!-- EN: Concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build. -->
-  <PavedTile.description>Gebrauchstaugliche Betonplatten. Billig und man kann darauf schnell laufen, allerdings benötigt es mehr Arbeitszeit und vom Aussehen her ist er eher neutral.</PavedTile.description>
+  <PavedTile.description>TODO</PavedTile.description>
   
   <!-- EN: silver tile -->
   <SilverTile.label>พิ้นเงิน</SilverTile.label>
   <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness. -->
-  <SilverTile.description>Teuer und braucht lange zum Verlegen, sieht aber sehr gut aus. Passend für Luxusräume aller Art.</SilverTile.description>
+  <SilverTile.description>TODO</SilverTile.description>
   
   <!-- EN: sterile tile -->
   <SterileTile.label>พื้นปลอดเชื้อ</SterileTile.label>
   <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
-  <SterileTile.description>Sterilraumfliesen helfen dabei einen Raum sauber zu halten. Sehr nützlich in Krankenhäusern um das Infektionsrisiko von Patienten zu reduzieren. Sieht neutral aus und braucht lange zum Verlegen.</SterileTile.description>
+  <SterileTile.description>TODO</SterileTile.description>
   
   <!-- EN: wood floor -->
   <WoodPlankFloor.label>พื้นกระดานไม้</WoodPlankFloor.label>
   <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
-  <WoodPlankFloor.description>Ein Holzfußboden. Für das warme, heimische Gefühl.</WoodPlankFloor.description>
+  <WoodPlankFloor.description>TODO</WoodPlankFloor.description>
   
 </LanguageData>

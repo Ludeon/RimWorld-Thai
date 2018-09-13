@@ -9,7 +9,7 @@
   <!-- EN: medical potency -->
   <MedicalPotency.label>ศักยภาพการแพทย์</MedicalPotency.label>
   <!-- EN: How effective this is when used to tend wounds and diseases, or do surgery. Higher medical potency improves the quality of tending, and acts as a multiplier on the chance of success during surgery. Medical potency is just one factor in medical outcomes, among many others, including doctor ability, equipment, cleanliness, and luck. -->
-  <MedicalPotency.description>Wie effektiv dieses Objekt zum Heilen von Wunden und Krankheiten sowie bei Operationen ist. Je größer das Heilpotential, desto höher die Chance, dass die Wunden eines Patienten erfolgreich verarztet werden, und desto kleiner Chance, dass bei Operationen Komplikationen auftreten können.</MedicalPotency.description>
+  <MedicalPotency.description>TODO</MedicalPotency.description>
   
   <!-- EN: medical tend quality maximum -->
   <MedicalQualityMax.label>TODO</MedicalQualityMax.label>

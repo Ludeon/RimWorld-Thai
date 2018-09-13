@@ -9,21 +9,21 @@
   <!-- EN: bush -->
   <Plant_Bush.label>พุ่มไม้</Plant_Bush.label>
   <!-- EN: A short shrub. Does not typically talk. -->
-  <Plant_Bush.description>Ein kleines Gebüsch. Spricht im Normalfall nicht.</Plant_Bush.description>
+  <Plant_Bush.description>TODO</Plant_Bush.description>
   
   <!-- EN: grass -->
   <Plant_Grass.label>หญ้า</Plant_Grass.label>
   <!-- EN: Wild grass. Grows anywhere there is a little light and minimally fertile ground. -->
-  <Plant_Grass.description>Raues, wildes Gras. Benötigt nur wenig Licht und minimale Nährstoffe im Boden.</Plant_Grass.description>
+  <Plant_Grass.description>TODO</Plant_Grass.description>
   
   <!-- EN: wild healroot -->
   <Plant_HealrootWild.label>ต้น Wild Healroot</Plant_HealrootWild.label>
   <!-- EN: A slow-growing plant which yields herbal medicine when harvested.\n\nThis wild breed of healroot is hardier than domesticated healroot, but too difficult to cultivate. It is prized by tribespeople in colder climates. -->
-  <Plant_HealrootWild.description>Eine langsam wachsende Pflanze aus der Kräutermedizin hergestellt werden kann.\n\nDiese wilde Variante der Heilwurzel ist schwer zu kultivieren. Sie wird von Ureinwohnern in kühleren Gegenden sehr geschätzt.</Plant_HealrootWild.description>
+  <Plant_HealrootWild.description>TODO</Plant_HealrootWild.description>
   
   <!-- EN: tall grass -->
   <Plant_TallGrass.label>หญ้าสูง</Plant_TallGrass.label>
   <!-- EN: Wild tall grass. Slows down anyone moving over it. -->
-  <Plant_TallGrass.description>Wildes, hohes Gras. Es bewirkt starke Verlangsamung für Passanten.</Plant_TallGrass.description>
+  <Plant_TallGrass.description>TODO</Plant_TallGrass.description>
   
 </LanguageData>

@@ -4,7 +4,7 @@
   <!-- EN: destroy weapon -->
   <DestroyWeapon.label>ทำลาย อาวุธ</DestroyWeapon.label>
   <!-- EN: Use heat to destroy unwanted weapons. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
-  <DestroyWeapon.description>Verwende Wärme, um nicht benötigte Waffen zu zerstören. Schneller als Einschmelzen und funktioniert auch bei nicht schmelzbaren Waffen, erzeugt aber keine Rohstoffe.</DestroyWeapon.description>
+  <DestroyWeapon.description>TODO</DestroyWeapon.description>
   <!-- EN: Destroying weapon. -->
   <DestroyWeapon.jobString>กำลังทำลายอาวุธ</DestroyWeapon.jobString>
   
@@ -18,14 +18,14 @@
   <!-- EN: make chemfuel from organics -->
   <Make_ChemfuelFromOrganics.label>ทำ เชื้อเพลิง (ออร์แกนิค)</Make_ChemfuelFromOrganics.label>
   <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. -->
-  <Make_ChemfuelFromOrganics.description>Raffiniere Kraftstoff, indem Biodiesel aus organischer Materie extrahiert wird.</Make_ChemfuelFromOrganics.description>
+  <Make_ChemfuelFromOrganics.description>TODO</Make_ChemfuelFromOrganics.description>
   <!-- EN: Refining chemfuel from organics. -->
   <Make_ChemfuelFromOrganics.jobString>กำลังทำเชื้อเพลิง</Make_ChemfuelFromOrganics.jobString>
   
   <!-- EN: make chemfuel from wood -->
   <Make_ChemfuelFromWood.label>ทำ เชื้อเพลิง (ไม้)</Make_ChemfuelFromWood.label>
   <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
-  <Make_ChemfuelFromWood.description>Raffiniere Kraftstoff durch Vergasen von Holz.</Make_ChemfuelFromWood.description>
+  <Make_ChemfuelFromWood.description>TODO</Make_ChemfuelFromWood.description>
   <!-- EN: Refining chemfuel from wood. -->
   <Make_ChemfuelFromWood.jobString>กำลังทำเชื้อเพลิง</Make_ChemfuelFromWood.jobString>
   
@@ -39,7 +39,7 @@
   <!-- EN: make advanced component -->
   <Make_ComponentSpacer.label>ทำ คอมโพเนนต์ขั้นสูง</Make_ComponentSpacer.label>
   <!-- EN: Make an advanced component. -->
-  <Make_ComponentSpacer.description>Produziere ein hochentwickeltes Bauteil.</Make_ComponentSpacer.description>
+  <Make_ComponentSpacer.description>TODO</Make_ComponentSpacer.description>
   <!-- EN: Making advanced component. -->
   <Make_ComponentSpacer.jobString>กำลังทำคอมโพเนนต์ขั้นสูง</Make_ComponentSpacer.jobString>
   

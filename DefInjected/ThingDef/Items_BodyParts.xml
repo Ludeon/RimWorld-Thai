@@ -19,7 +19,7 @@
   <!-- EN: bionic arm -->
   <BionicArm.label>แขนไบโอนิค</BionicArm.label>
   <!-- EN: An advanced artificial arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
-  <BionicArm.description>Die fortschrittlichste Version eines Ersatzarmes. Verleiht dem Träger extreme Stärke.</BionicArm.description>
+  <BionicArm.description>TODO</BionicArm.description>
   
   <!-- EN: bionic ear -->
   <BionicEar.label>TODO</BionicEar.label>
@@ -29,7 +29,7 @@
   <!-- EN: bionic eye -->
   <BionicEye.label>ตาไบโอนิค</BionicEye.label>
   <!-- EN: An advanced artifical eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
-  <BionicEye.description>Fortschrittlichste Technologie ermöglicht es nicht nur, ein verlorenes Auge zu ersetzen, sondern stellt dem Benutzer zusätzlich erweiterte optische Möglichkeiten zur Verfügung.</BionicEye.description>
+  <BionicEye.description>TODO</BionicEye.description>
   
   <!-- EN: bionic heart -->
   <BionicHeart.label>TODO</BionicHeart.label>
@@ -39,7 +39,7 @@
   <!-- EN: bionic leg -->
   <BionicLeg.label>ขาไบโอนิค</BionicLeg.label>
   <!-- EN: An advanced artificial leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
-  <BionicLeg.description>Das bionische Bein benutzt Spitzentechnologie, um dem Träger extreme Laufqualität und -stärke zu bieten.</BionicLeg.description>
+  <BionicLeg.description>TODO</BionicLeg.description>
   
   <!-- EN: bionic spine -->
   <BionicSpine.label>TODO</BionicSpine.label>
@@ -59,32 +59,32 @@
   <!-- EN: heart -->
   <Heart.label>หัวใจ</Heart.label>
   <!-- EN: A biological human heart. Pumps blood around the body. -->
-  <Heart.description>Pumpt das Blut durch den ganzen Körper. Bereit für einen neuen Eigentümer.</Heart.description>
+  <Heart.description>TODO</Heart.description>
   
   <!-- EN: kidney -->
   <Kidney.label>ไต</Kidney.label>
   <!-- EN: A biological human kidney. Filters and removes waste products from the blood. -->
-  <Kidney.description>Filtert und entfernt Abfallprodukte aus dem Blutkreislauf.</Kidney.description>
+  <Kidney.description>TODO</Kidney.description>
   
   <!-- EN: liver -->
   <Liver.label>ตับ</Liver.label>
   <!-- EN: A biological human liver. Plays an important role in metabolism. -->
-  <Liver.description>Spielt eine wichtige Rolle im Stoffwechsel des Körpers.</Liver.description>
+  <Liver.description>TODO</Liver.description>
   
   <!-- EN: lung -->
   <Lung.label>ปอด</Lung.label>
   <!-- EN: A biological human lung. A pair of these form the core of the human respiratory system. -->
-  <Lung.description>Dieser unersetzliche Körperteil wird zum Atmen benötigt.</Lung.description>
+  <Lung.description>TODO</Lung.description>
   
   <!-- EN: power claw -->
   <PowerClaw.label>กรงเล็บพลังงาน</PowerClaw.label>
   <!-- EN: A combat-oriented hand replacement consisting of a mechanical hand with a vicious claw on each finger. It is vicious in combat, and its powerful mini-servos can crush a skull like a natural hand crushes an egg. The blades can be retracted, making it as useful as a biological hand for non-combat tasks. -->
-  <PowerClaw.description>Ein tödlicher Handersatz, der aus drei scharfen Klauen besteht.</PowerClaw.description>
+  <PowerClaw.description>TODO</PowerClaw.description>
   
   <!-- EN: prosthetic arm -->
   <SimpleProstheticArm.label>แขนเทียมที่เรียบง่าย</SimpleProstheticArm.label>
   <!-- EN: An arm prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm. -->
-  <SimpleProstheticArm.description>Eine einfache, aber belastbare Armprothese.</SimpleProstheticArm.description>
+  <SimpleProstheticArm.description>TODO</SimpleProstheticArm.description>
   
   <!-- EN: prosthetic heart -->
   <SimpleProstheticHeart.label>TODO</SimpleProstheticHeart.label>
@@ -94,6 +94,6 @@
   <!-- EN: prosthetic leg -->
   <SimpleProstheticLeg.label>ขาเทียมที่เรียบง่าย</SimpleProstheticLeg.label>
   <!-- EN: A leg prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg. -->
-  <SimpleProstheticLeg.description>Eine einfache Beinprothese, um ein fehlendes Bein zu ersetzen. Nicht sonderlich bequem, aber effektiv.</SimpleProstheticLeg.description>
+  <SimpleProstheticLeg.description>TODO</SimpleProstheticLeg.description>
   
 </LanguageData>

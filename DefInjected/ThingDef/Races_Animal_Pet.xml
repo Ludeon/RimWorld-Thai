@@ -4,7 +4,7 @@
   <!-- EN: cat -->
   <Cat.label>แมว</Cat.label>
   <!-- EN: One of mankind's first pets, the cat is a small mammal which hunts vermin. Known for their aloofness, cats are nevertheless popular companions because of their independence, calm disposition, and fine, pettable fur. -->
-  <Cat.description>Als eines der ersten Haustiere des Menschen ist die Katze ein kleines Säugetier, das Ungeziefer jagd. Bekannt für ihre Unnahbarkeit ist die Katze trotz allem ein beliebter Begleiter aufgrund ihrer Ruhe, Unabhängigkeit und ihres feinen, geschmeidigen Fells, das einen zum Streicheln einlädt.</Cat.description>
+  <Cat.description>TODO</Cat.description>
   <!-- EN: left claw -->
   <Cat.tools.left_claw.label>TODO</Cat.tools.left_claw.label>
   <!-- EN: right claw -->
@@ -15,7 +15,7 @@
   <!-- EN: husky -->
   <Husky.label>หมาไซบีเรียนฮัสกี</Husky.label>
   <!-- EN: A large, energetic dog with a thick fur coat for remaining comfortable in arctic environments. -->
-  <Husky.description>Ein großer, lebhafter Hund mit einem dicken Fell, damit es ihm auch unter arktischen Bedingungen angenehm bleibt.</Husky.description>
+  <Husky.description>TODO</Husky.description>
   <!-- EN: left claw -->
   <Husky.tools.left_claw.label>TODO</Husky.tools.left_claw.label>
   <!-- EN: right claw -->
@@ -26,7 +26,7 @@
   <!-- EN: labrador retriever -->
   <LabradorRetriever.label>หมาแลบราดอร์ริทรีฟเวอร์</LabradorRetriever.label>
   <!-- EN: A very versatile, medium-sized dog. Originally bred to retrieve birds shot on the hunt, the lab is also an excellent guard dog, play pal, and family friend. -->
-  <LabradorRetriever.description>Ein sehr vielseitiger mittelgroßer Hund. Ursprünglich gezüchtet um bei der Jagd geschossene Vögel zu holen, ist der Labrador außerdem ein erstklassiger Wachhund, Spielgefährte und Familienfreund.</LabradorRetriever.description>
+  <LabradorRetriever.description>TODO</LabradorRetriever.description>
   <!-- EN: left claw -->
   <LabradorRetriever.tools.left_claw.label>TODO</LabradorRetriever.tools.left_claw.label>
   <!-- EN: right claw -->
@@ -37,7 +37,7 @@
   <!-- EN: yorkshire terrier -->
   <YorkshireTerrier.label>หมายอร์กเชอร์เทร์เรียร์</YorkshireTerrier.label>
   <!-- EN: A small, even-tempered dog. Originally bred to hunt rats, it later became a show and companionship animal. Some consider it useless, but the mood boost it gives by nuzzling can outweight the cost of feeding it. -->
-  <YorkshireTerrier.description>Ein kleiner ausgeglichener Hund. Er wurde ursprünglich zur Jagd auf Ratten gezüchtet, bevor er später ein Vorzeige- und Begleittier wurde.</YorkshireTerrier.description>
+  <YorkshireTerrier.description>TODO</YorkshireTerrier.description>
   <!-- EN: left claw -->
   <YorkshireTerrier.tools.left_claw.label>TODO</YorkshireTerrier.tools.left_claw.label>
   <!-- EN: right claw -->

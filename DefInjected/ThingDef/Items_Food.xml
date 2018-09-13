@@ -4,36 +4,36 @@
   <!-- EN: kibble -->
   <Kibble.label>อาหารสัตว์</Kibble.label>
   <!-- EN: Animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it. -->
-  <Kibble.description>Trockenfutter für Tiere, das aus einer Mischung verschiedener Fleisch- und Pflanzenarten hergestellt wurde.</Kibble.description>
+  <Kibble.description>TODO</Kibble.description>
   
   <!-- EN: fine meal -->
   <MealFine.label>อาหารอร่อย</MealFine.label>
   <!-- EN: A complex dish assembled with care from a variety of ingredients. -->
-  <MealFine.description>Ein komplexes Gericht, mit einer großen Zutatenvariation.</MealFine.description>
+  <MealFine.description>TODO</MealFine.description>
   
   <!-- EN: lavish meal -->
   <MealLavish.label>อาหารฟุ่มเฟือย</MealLavish.label>
   <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
-  <MealLavish.description>Ein Meisterwerk der Kochkunst. Dieses Essen nährt Körper, Geist und Seele.</MealLavish.description>
+  <MealLavish.description>TODO</MealLavish.description>
   
   <!-- EN: nutrient paste meal -->
   <MealNutrientPaste.label>เจลสารอาหาร</MealNutrientPaste.label>
   <!-- EN: A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting. -->
-  <MealNutrientPaste.description>Eine synthetische Mischung aus Proteinen, Vitaminen, Kohlenhydraten, Aminosäuren und Mineralien. Also kurz gesagt: Alles, was der Körper braucht. Aber auch verdammt widerlich.</MealNutrientPaste.description>
+  <MealNutrientPaste.description>TODO</MealNutrientPaste.description>
   
   <!-- EN: simple meal -->
   <MealSimple.label>อาหารง่าย</MealSimple.label>
   <!-- EN: A simple meal quickly cooked from one main ingredient. -->
-  <MealSimple.description>Eine einfache Mahlzeit, die schnell mit ein paar wenigen Zutaten zubereitet wurde.</MealSimple.description>
+  <MealSimple.description>TODO</MealSimple.description>
   
   <!-- EN: packaged survival meal -->
   <MealSurvivalPack.label>อาหารเอาตัวรอด</MealSurvivalPack.label>
   <!-- EN: A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can still deteriorate if left outside. Great for traveling. -->
-  <MealSurvivalPack.description>Eine Qualitätsmahlzeit in gepresster Form. Diese Mahlzeit soll im Notfall das Überleben sicherstellen.</MealSurvivalPack.description>
+  <MealSurvivalPack.description>TODO</MealSurvivalPack.description>
   
   <!-- EN: pemmican -->
   <Pemmican.label>อาหารแห้ง</Pemmican.label>
   <!-- EN: A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling. -->
-  <Pemmican.description>Eine nahrhafte und haltbare Mischung aus zerstoßenem Dörrfleisch, Fett und pflanzlichen Zutaten. Schmeckt nach nichts, aber nicht abstoßend. Es hält auch ohne Kühlung eine sehr lange Zeit.</Pemmican.description>
+  <Pemmican.description>TODO</Pemmican.description>
   
 </LanguageData>

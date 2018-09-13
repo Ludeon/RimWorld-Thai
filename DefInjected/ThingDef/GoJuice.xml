@@ -4,10 +4,10 @@
   <!-- EN: go-juice -->
   <GoJuice.label>GoJuice</GoJuice.label>
   <!-- EN: A synthetic performance-enhancing drug developed for space marines during the early days of interplanetary warfare. Go-juice blocks pain, increases movement speed, and improves the user's melee and shooting abilities.\n\nMilitary chemists who created it were never able to remove its addictiveness. Some saw this as a downside; others saw it as a benefit. -->
-  <GoJuice.description>Eine synthetische Kampfdroge die für die ersten interplanetarischen Kämpfe entwickelt wurde. GoJuice blockiert Schmerzen und erhöht die Nah- und Fernkampffähigkeiten des Benutzers. Zusätzlich erhöht es die Bewegungsgeschwindigkeit. Allerdings konnten die Chemiker die diese Droge entwickelt haben, ihre Suchteigenschaften nie entfernen.</GoJuice.description>
+  <GoJuice.description>TODO</GoJuice.description>
   <!-- EN: Inject {0} -->
-  <GoJuice.ingestible.ingestCommandString>Nimm GoJuice ein.</GoJuice.ingestible.ingestCommandString>
+  <GoJuice.ingestible.ingestCommandString>TODO</GoJuice.ingestible.ingestCommandString>
   <!-- EN: Injecting {0}. -->
-  <GoJuice.ingestible.ingestReportString>Nimmt GoJuice ein.</GoJuice.ingestible.ingestReportString>
+  <GoJuice.ingestible.ingestReportString>TODO</GoJuice.ingestible.ingestReportString>
   
 </LanguageData>

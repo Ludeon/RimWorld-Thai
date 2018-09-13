@@ -4,12 +4,12 @@
   <!-- EN: chemfuel -->
   <Chemfuel.label>เชื้อเพลิงสารเคมี</Chemfuel.label>
   <!-- EN: A volatile liquid chemical. Used to fuel engines and rockets, or to transmute into propellant for projectiles, or as an incendiary weapon. -->
-  <Chemfuel.description>Ein unstabiler chemischer Treibstoff mit dem man Raketen und andere Maschinen antreiben kann.</Chemfuel.description>
+  <Chemfuel.description>TODO</Chemfuel.description>
   
   <!-- EN: component -->
   <ComponentIndustrial.label>ส่วนประกอบ</ComponentIndustrial.label>
   <!-- EN: Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics. -->
-  <ComponentIndustrial.description>Verschiedene Getriebe, Kondensatoren, Leiterplatten, Röhren, Räder, Sensoren, Chips, Prozessoren und andere elekronische und industirelle Teile. Notwendig zum Bauen und Reparieren von komplexen Maschinen und elektronischen Anlagen.</ComponentIndustrial.description>
+  <ComponentIndustrial.description>TODO</ComponentIndustrial.description>
   
   <!-- EN: advanced component -->
   <ComponentSpacer.label>TODO</ComponentSpacer.label>
@@ -19,21 +19,21 @@
   <!-- EN: herbal medicine -->
   <MedicineHerbal.label>ยาสมุนไพร</MedicineHerbal.label>
   <!-- EN: A pack of herbal concoctions extracted from the healroot plant. It is less potent than industrial pharmaceuticals, but much better than nothing. -->
-  <MedicineHerbal.description>Die Zutaten für die Kräutermedizin werden aus der Heilwurzel gewonnen. Sie wirkt nicht ganz so gut wie industriell hergestellte, aber viel besser als gar keine Medizin.</MedicineHerbal.description>
+  <MedicineHerbal.description>TODO</MedicineHerbal.description>
   
   <!-- EN: medicine -->
   <MedicineIndustrial.label>ยา</MedicineIndustrial.label>
   <!-- EN: A kit of industrial-era medical equipment. It contains basic drugs, tools for suturing and bone setting, diagnostic devices, and various pads and fluids. -->
-  <MedicineIndustrial.description>Ärzte verwenden diese Medizin zur Behandlung von Verwundeten.</MedicineIndustrial.description>
+  <MedicineIndustrial.description>TODO</MedicineIndustrial.description>
   
   <!-- EN: glitterworld medicine -->
   <MedicineUltratech.label>ยา Glitterworld</MedicineUltratech.label>
   <!-- EN: A kit of advanced ultra-tech medical supplies, probably manufactured on a distant glitterworld. It contains advanced polymorphic drugs, nanite diagnostic and healing assisters, a mini-imager, and various multi-use tools. -->
-  <MedicineUltratech.description>Fortschrittliche medizinische Versorgung von einer High-Tech-Glitzerwelt.</MedicineUltratech.description>
+  <MedicineUltratech.description>TODO</MedicineUltratech.description>
   
   <!-- EN: neutroamine -->
   <Neutroamine.label>Neutroamine</Neutroamine.label>
   <!-- EN: A synthetic precursor chemical. While it is useless on its own, many drugs require neutroamine as an ingredient. -->
-  <Neutroamine.description>Ein synthetisch-chemischer Neutralisator. Eigentlich ohne jeden Nutzen, wird aber bei der Produktion vieler Drogen als Zutat benötigt.</Neutroamine.description>
+  <Neutroamine.description>TODO</Neutroamine.description>
   
 </LanguageData>

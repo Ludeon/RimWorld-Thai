@@ -4,19 +4,19 @@
   <!-- EN: none -->
   <WorkTagNone>ไม่มี</WorkTagNone>
   <!-- EN: intellectual -->
-  <WorkTagIntellectual>ความคิด</WorkTagIntellectual>
+  <WorkTagIntellectual>สติปัญญา</WorkTagIntellectual>
   <!-- EN: dumb labor -->
   <WorkTagManualDumb>กรรมกร</WorkTagManualDumb>
   <!-- EN: skilled labor -->
   <WorkTagManualSkilled>แรงงานทักษะ</WorkTagManualSkilled>
   <!-- EN: violent -->
-  <WorkTagViolent>ความรุนแรง</WorkTagViolent>
+  <WorkTagViolent>รุนแรง</WorkTagViolent>
   <!-- EN: caring -->
   <WorkTagCaring>ดูแล</WorkTagCaring>
   <!-- EN: social -->
   <WorkTagSocial>สังคม</WorkTagSocial>
   <!-- EN: animals -->
-  <WorkTagAnimals>เกี่ยวกับสัตว์</WorkTagAnimals>
+  <WorkTagAnimals>ดูแลสัตว์</WorkTagAnimals>
   <!-- EN: artistic -->
   <WorkTagArtistic>ศิลปะ</WorkTagArtistic>
   <!-- EN: crafting -->
@@ -32,6 +32,6 @@
   <!-- EN: plant work -->
   <WorkTagPlantWork>เพาะปลูก</WorkTagPlantWork>
   <!-- EN: mining -->
-  <WorkTagMining>เหมืองแร่</WorkTagMining>
+  <WorkTagMining>ขุดเหมือง</WorkTagMining>
 
 </LanguageData>

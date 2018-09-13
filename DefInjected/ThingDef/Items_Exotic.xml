@@ -4,12 +4,12 @@
   <!-- EN: AI persona core -->
   <AIPersonaCore.label>แกน  AI (ยาน)</AIPersonaCore.label>
   <!-- EN: A hyper-advanced computer core that houses a peak-human-equivalent AI persona. In its isolated state, the core is dormant. Installed in a proper support structure, however, it can become a mind of great power. -->
-  <AIPersonaCore.description>Ein hochentwickelter Computerkern, der eine übermenschliche KI beherbergt. In ihrem isolierten Zustand ist der Kern inaktiv. Aber in eine passende Hilfsstruktur eingebaut, wird daraus ein Verstand mit beängstigender Leistung.</AIPersonaCore.description>
+  <AIPersonaCore.description>TODO</AIPersonaCore.description>
   
   <!-- EN: elephant tusk -->
   <ElephantTusk.label>งาช้าง</ElephantTusk.label>
   <!-- EN: An elephant's tusk. It is very durable and valuable. While somewhat unwieldy as a melee weapon, it can still be deadly. -->
-  <ElephantTusk.description>Der Stoßzahn eines Elefanten. Sehr haltbar und wertvoll. Tödlich, aber etwas unhandlich als Waffe.</ElephantTusk.description>
+  <ElephantTusk.description>TODO</ElephantTusk.description>
   <!-- EN: point -->
   <ElephantTusk.tools.point.label>TODO</ElephantTusk.tools.point.label>
   <!-- EN: base -->
@@ -25,7 +25,7 @@
   <!-- EN: neurotrainer mech serum -->
   <MechSerumNeurotrainer.label>เครื่องฝึกสกิล</MechSerumNeurotrainer.label>
   <!-- EN: A one-use super-dose of mechanites tuned to train a specific skill. The dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
-  <MechSerumNeurotrainer.description>Ein Gerät der Nanotechnologie für den Einmalgebrauch. Der Neurotrainer implantiert Nanotechnik in das Gehirn des Benutzers, welche die Fähigkeiten im festgelegten Bereich verbessern.</MechSerumNeurotrainer.description>
+  <MechSerumNeurotrainer.description>TODO</MechSerumNeurotrainer.description>
   <!-- EN: Use neurotrainer mech serum to learn {0} -->
   <MechSerumNeurotrainer.comps.CompNeurotrainer.useLabel>TODO</MechSerumNeurotrainer.comps.CompNeurotrainer.useLabel>
   
@@ -46,7 +46,7 @@
   <!-- EN: thrumbo horn -->
   <ThrumboHorn.label>เขา ธรัมโบ</ThrumboHorn.label>
   <!-- EN: A thrumbo's horn. It's razor-sharp, rock-hard, and priceless in most markets. This is a true trophy, as well as a deadly melee weapon. -->
-  <ThrumboHorn.description>Das Horn eines Thrumbos. Es ist rasiermesserscharf, sehr hart und unbezahlbar auf den meisten Märkten. Eine echte Trophäe.</ThrumboHorn.description>
+  <ThrumboHorn.description>TODO</ThrumboHorn.description>
   <!-- EN: point -->
   <ThrumboHorn.tools.point.label>TODO</ThrumboHorn.tools.point.label>
   <!-- EN: base -->

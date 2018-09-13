@@ -4,16 +4,16 @@
   <!-- EN: autodoor -->
   <Autodoor.label>ประตูอัตโนมัติ</Autodoor.label>
   <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
-  <Autodoor.description>Trennt Räume. Stromgebundene Variante. Kolonisten können passieren, ohne verlangsamt zu werden.</Autodoor.description>
+  <Autodoor.description>TODO</Autodoor.description>
   
   <!-- EN: door -->
   <Door.label>ประตู</Door.label>
   <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
-  <Door.description>Trennt Räume. Muss von Hand geöffnet und geschlossen werden, wodurch die Kolonisten verlangsamt werden.</Door.description>
+  <Door.description>TODO</Door.description>
   
   <!-- EN: wall -->
   <Wall.label>กำแพง</Wall.label>
   <!-- EN: An impassable wall. Capable of holding up a roof. -->
-  <Wall.description>Eine unpassierbare Wand, die ein Dach tragen kann.</Wall.description>
+  <Wall.description>TODO</Wall.description>
   
 </LanguageData>

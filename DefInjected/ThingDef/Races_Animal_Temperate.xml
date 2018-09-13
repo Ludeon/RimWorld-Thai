@@ -4,7 +4,7 @@
   <!-- EN: caribou -->
   <Caribou.label>กวางเรนเดียร์</Caribou.label>
   <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
-  <Caribou.description>Ein großes Mitglied der Rotwild-Familie, das sich sehr gut an das kalte Klima angepasst hat.</Caribou.description>
+  <Caribou.description>TODO</Caribou.description>
   <!-- EN: left hoof -->
   <Caribou.tools.left_hoof.label>TODO</Caribou.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -15,7 +15,7 @@
   <!-- EN: deer -->
   <Deer.label>กวาง</Deer.label>
   <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. -->
-  <Deer.description>Ein mittelgroßes pflanzenfressendes Herdentier. Friedlich, solange man es nicht stört.</Deer.description>
+  <Deer.description>TODO</Deer.description>
   <!-- EN: venison -->
   <Deer.race.meatLabel>TODO</Deer.race.meatLabel>
   <!-- EN: left hoof -->
@@ -30,7 +30,7 @@
   <!-- EN: elk -->
   <Elk.label>กวางเอลก์</Elk.label>
   <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
-  <Elk.description>Ein großes Mitglied der Rotwild-Familie, das sich sehr gut an das kalte Klima angepasst hat.</Elk.description>
+  <Elk.description>TODO</Elk.description>
   <!-- EN: left hoof -->
   <Elk.tools.left_hoof.label>TODO</Elk.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -41,7 +41,7 @@
   <!-- EN: ibex -->
   <Ibex.label>แพะภูเขา</Ibex.label>
   <!-- EN: The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
-  <Ibex.description>Ein widerstandsfähiger wilder Verwandter der Hausziege. Steinböcke leben in kargen Gebieten, in denen keine Antilope überleben könnte und ernähren sich von Moosen und seltenen Bergpflanzen. Sie sind bekannt dafür an steilsten Klippen herumzuhüpfen.. Und für ihren aggressiven Ramm-Angriff.</Ibex.description>
+  <Ibex.description>TODO</Ibex.description>
   <!-- EN: left hoof -->
   <Ibex.tools.left_hoof.label>TODO</Ibex.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -52,7 +52,7 @@
   <!-- EN: tortoise -->
   <Tortoise.label>เต่าบก</Tortoise.label>
   <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
-  <Tortoise.description>Dieses stark gepanzerte, an Land lebende Reptil ist bekannt für seine langsame Gangart und seinen überraschend heftigen Biss.</Tortoise.description>
+  <Tortoise.description>TODO</Tortoise.description>
   <!-- EN: beak -->
   <Tortoise.tools.beak.label>TODO</Tortoise.tools.beak.label>
   <!-- EN: head -->
@@ -61,7 +61,7 @@
   <!-- EN: wild boar -->
   <WildBoar.label>หมูป่า</WildBoar.label>
   <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
-  <WildBoar.description>Auch wenn einige Kulturen es als unrein ansehen, ist dieser verwilderte Nachfahre des Hausschweins bekannt für den speziellen Geschmack des Fleisches.</WildBoar.description>
+  <WildBoar.description>TODO</WildBoar.description>
   <!-- EN: tusk -->
   <WildBoar.tools.tusk.label>TODO</WildBoar.tools.tusk.label>
   <!-- EN: head -->
