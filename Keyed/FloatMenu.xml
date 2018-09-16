@@ -202,8 +202,8 @@
   <PickUpAll>หยิบ {1_label} (ทั้งหมด)</PickUpAll>
   <!-- EN: Pick up {1_labelShort}... -->
   <PickUpSome>หยิบ {1_labelShort}...</PickUpSome>
-  <!-- EN: Pick up {1_labelShort} x{{1_labelShort}} -->
-  <PickUpCount>หยิบ {1_labelShort} x{{1_labelShort}}</PickUpCount>
+  <!-- EN: Pick up {1_labelShort} x{{0}} -->
+  <PickUpCount>หยิบ {1_labelShort} x{{0}}</PickUpCount>
   
   <!-- EN: Cannot give {1_label} to pack animal -->
   <CannotGiveToPackAnimal>ไม่สามารถให้ {1_label} สัตว์ขนของ</CannotGiveToPackAnimal>
@@ -215,8 +215,8 @@
   <GiveToPackAnimalAll>ให้ {1_label} สัตว์ขนของ (ทั้งหมด)</GiveToPackAnimalAll>
   <!-- EN: Give {1_labelShort} to pack animal... -->
   <GiveToPackAnimalSome>ให้ {1_labelShort} สัตว์ขนของ...</GiveToPackAnimalSome>
-  <!-- EN: Take {1_labelShort} x{{1_labelShort}} -->
-  <GiveToPackAnimalCount>เอา {1_labelShort} x{{1_labelShort}}</GiveToPackAnimalCount>
+  <!-- EN: Take {1_labelShort} x{{0}} -->
+  <GiveToPackAnimalCount>เอา {1_labelShort} x{{0}}</GiveToPackAnimalCount>
   
   <!-- EN: Cannot load {1_label} into caravan -->
   <CannotLoadIntoCaravan>TODO</CannotLoadIntoCaravan>
@@ -228,7 +228,7 @@
   <LoadIntoCaravanAll>TODO</LoadIntoCaravanAll>
   <!-- EN: Load {1_labelShort} into caravan... -->
   <LoadIntoCaravanSome>TODO</LoadIntoCaravanSome>
-  <!-- EN: Load {1_labelShort} x{{1_labelShort}} -->
+  <!-- EN: Load {1_labelShort} x{{0}} -->
   <LoadIntoCaravanCount>TODO</LoadIntoCaravanCount>
   <!-- EN: overweight -->
   <OverweightLower>TODO</OverweightLower>

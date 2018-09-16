@@ -7,8 +7,6 @@
   <Manhunters.description>กลุ่มของสัตว์ ที่กำลัง กระหายเลือด</Manhunters.description>
   <!-- EN: There are manhunting animals in this area. -->
   <Manhunters.arrivedLetter>TODO</Manhunters.arrivedLetter>
-  <!-- EN: Manhunters -->
-  <Manhunters.arrivedLetterLabel>TODO</Manhunters.arrivedLetterLabel>
   <!-- EN: there is a group of {0} manhunting {1} wandering nearby -->
   <Manhunters.descriptionDialogue>กลุ่มของสัตว์ ที่กำลัง กระหายเลือด</Manhunters.descriptionDialogue>
   

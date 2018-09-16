@@ -18,8 +18,8 @@
   <TabCaravanItems>ไอเท็ม</TabCaravanItems>
   
   <!-- Misc -->
-  <!-- EN: Abandon {{1_labelShort}}x {1_labelShort} -->
-  <AbandonSliderText>ทอดทิ้ง {{1_labelShort}}x {1_labelShort}</AbandonSliderText>
+  <!-- EN: Abandon {{0}}x {1_labelShort} -->
+  <AbandonSliderText>ทอดทิ้ง {{0}}x {1_labelShort}</AbandonSliderText>
   <!-- EN: Do you really want to abandon {1_label}?\n\nAbandoned items vanish and can never be recovered. -->
   <ConfirmAbandonItemDialog>คุณจะแน่ใจจริงๆว่าจะทอดทิ้ง {1_label}?\n\nไอเท็มที่ทิ้งจะหายไป และไม่สามารถเอากลับคืนมาได้</ConfirmAbandonItemDialog>
   <!-- EN: Abandon -->

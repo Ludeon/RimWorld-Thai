@@ -29,7 +29,7 @@
   <!-- EN: Credits -->
   <Credits>เครดิต</Credits>
   <!-- EN: Quit to main menu -->
-  <QuitToMainMenu>ออกสู่เมนูหลัก</QuitToMainMenu>
+  <QuitToMainMenu>ออกไปเมนูหลัก</QuitToMainMenu>
   <!-- EN: Save and quit to menu -->
   <SaveAndQuitToMainMenu>บันทึกและออกไปยังเมนู</SaveAndQuitToMainMenu>
   <!-- EN: Quit to OS -->
@@ -49,9 +49,9 @@
   <!-- EN: Tynan's design book -->
   <TynansDesignBook>หนังสือการออกแบบ\nของ Tynan</TynansDesignBook>
   <!-- EN: Help translate RimWorld -->
-  <HelpTranslate>ช่วยแปลภาษา Rimworld</HelpTranslate>
+  <HelpTranslate>ช่วยแปลภาษา RimWorld</HelpTranslate>
   <!-- EN: Buy soundtrack -->
-  <BuySoundtrack>ซื้อ Soundtrack</BuySoundtrack>
+  <BuySoundtrack>ซื้อเพลงประกอบ</BuySoundtrack>
   <!-- EN: Create world -->
   <CreateWorld>ก่อกำเนิดสร้างโลก</CreateWorld>
 
@@ -65,7 +65,7 @@
 
   <!-- Main menu dev build -->
   <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
-  <DevBuildWarning>TODO</DevBuildWarning>
+  <DevBuildWarning>คำเตือน: นี่คือ unstable development build. หมายความว่าเรากำลังทดลองดีไซน์แปลกๆใหม่ๆ และพัฒนาด้านเทคนิคของเกมอยู่\n\nบางอย่างในเกมเราจงใจไม่ให้สมดุล อันนับเป็นวิธีดีไซน์เกมแบบคลาสสิกแบบหนึ่ง คือดันสมดุลของเกมไปสุดโต่ง เพื่อจะได้เข้าใจว่าข้อจำกัดของสมดุลเกมนั้นอยู่ตรงไหน จากนั้นใช้ข้อมูลที่ได้มาเพื่อตัดสินใจจุดสมดุลสุดท้าย\n\nและบางทีก็อาจจะมีบัค แบบที่ถึงขั้นเกมพังอะไรเช่นนั้น รวมถึง ความเข้ากันได้ของเซฟเกม อาจหมดไปได้ทุกเมื่อ\n\nถ้าคุณโอเคกับที่ว่ามาทั้งหมดนี้ ก็ขอบคุณที่ช่วยเราทดสอบ แต่หากคุณไม่อยากเป็นหนูให้การทดลองนี้ กรุณาเลือกเล่นเวอร์ชั่น stable ล่าสุด</DevBuildWarning>
 
   <!-- Create/review world -->
   <!-- EN: Review world -->
@@ -73,11 +73,11 @@
   <!-- EN: Generate -->
   <WorldGenerate>สร้าง</WorldGenerate>
   <!-- EN: Save and finish -->
-  <WorldSaveAndFinish>เซฟและเสร็จสิ้น</WorldSaveAndFinish>
+  <WorldSaveAndFinish>บันทึกและจบ</WorldSaveAndFinish>
   <!-- EN: Reset -->
   <Reset>รีเซ็ต</Reset>
   <!-- EN: Globe coverage -->
-  <PlanetCoverage>พื้นที่ครอบคลุมบนดวงเคราะห์</PlanetCoverage>
+  <PlanetCoverage>พื้นที่ครอบคลุมดวงเคราะห์</PlanetCoverage>
   <!-- EN: Overall rainfall -->
   <PlanetRainfall>ปริมาณน้ำฝนโดยรวม</PlanetRainfall>
   <!-- EN: Overall temperature -->
@@ -131,9 +131,9 @@
   <!-- EN: Get mods from forum -->
   <GetModsFromForum>เลือกหา Mods จากฟอรั่ม</GetModsFromForum>
   <!-- EN: Open mods data folder -->
-  <OpenModsDataFolder>เปิดโฟลเดอร์ข้อมูล Mods</OpenModsDataFolder>
+  <OpenModsDataFolder>เปิดโฟลเดอร์ข้อมูล mods</OpenModsDataFolder>
   <!-- EN: Show mods data location -->
-  <ShowModsDataLocation>TODO</ShowModsDataLocation>
+  <ShowModsDataLocation>เปิดตำแหน่งข้อมูล mods</ShowModsDataLocation>
   <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
   <ConfirmDisableCoreMod>TODO</ConfirmDisableCoreMod>
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
@@ -185,7 +185,7 @@
   <!-- EN: seed -->
   <Seed>seed</Seed>
   <!-- EN: Load -->
-  <Load>Load</Load>
+  <Load>โหลด</Load>
   <!-- EN: edit mode -->
   <EditMode>โหมดแก้ไข</EditMode>
   <!-- EN: Summary -->

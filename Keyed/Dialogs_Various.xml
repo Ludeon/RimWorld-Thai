@@ -4,7 +4,7 @@
   <!-- EN: Confirm -->
   <Confirm>ยืนยัน</Confirm>
   <!-- EN: Go back -->
-  <GoBack>กลับไป</GoBack>
+  <GoBack>ย้อนกลับ</GoBack>
   <!-- EN: OK -->
   <OK>ตกลง</OK>
   <!-- EN: Close -->
@@ -12,7 +12,7 @@
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
-  <GameUpdatedToNewVersionInitial>RimWorld ได้รับการปรับปรุงจากรุ่น {0} เป็นเวอร์ชัน {1}.</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionInitial>RimWorld ปรับปรุงจากเวอร์ชั่น {0} เป็นเวอร์ชัน {1}</GameUpdatedToNewVersionInitial>
   <!-- EN: This may cause saved games and mods from the old version to stop working. -->
   <GameUpdatedToNewVersionSavesIncompatible>ซึ่งอาจทำให้เกมที่บันทึกไว้และ mods จากเวอร์ชันเก่าหยุดทำงาน</GameUpdatedToNewVersionSavesIncompatible>
   <!-- EN: Saved games from the old version should be compatible, however some mods may stop working. -->
@@ -58,27 +58,27 @@
   
   <!-- Long events -->
   <!-- EN: Initializing interface -->
-  <InitializingInterface>กำลังจัดเตรียมอินเตอร์เฟซ</InitializingInterface>
+  <InitializingInterface>จัดเตรียม interface</InitializingInterface>
   <!-- EN: Unloading unused assets -->
-  <UnloadingUnusedAssets>กำลังอันโหลด asset ที่ไม่ได้ใช้</UnloadingUnusedAssets>
+  <UnloadingUnusedAssets>นำ assets ที่ไม่ได้ใช้ออก</UnloadingUnusedAssets>
   <!-- EN: Loading all active mods -->
-  <LoadingAllActiveMods>กำลังโหลด active mods ทั้งหมด</LoadingAllActiveMods>
+  <LoadingAllActiveMods>โหลด mods ทั้งหมดที่เปิดทำงาน</LoadingAllActiveMods>
   <!-- EN: Loading defs -->
-  <LoadingDefs>กำลังโหลด Defs</LoadingDefs>
+  <LoadingDefs>โหลด defs</LoadingDefs>
   <!-- EN: Loading assets -->
-  <LoadingAssets>กำลังโหลด Assets</LoadingAssets>
+  <LoadingAssets>โหลด assets</LoadingAssets>
   <!-- EN: Initializing -->
-  <Initializing>กำลังจัดเตรียม</Initializing>
+  <Initializing>เตรียมการขั้นต้น</Initializing>
   <!-- EN: Loading world -->
-  <LoadingWorld>กำลังโหลดโลก</LoadingWorld>
+  <LoadingWorld>โหลดโลก</LoadingWorld>
   <!-- EN: Loading map -->
-  <LoadingMap>กำลังโหลดแผนที่</LoadingMap>
+  <LoadingMap>โหลดแผนที่</LoadingMap>
   <!-- EN: Initializing game -->
-  <InitializingGame>TODO</InitializingGame>
+  <InitializingGame>จัดเตรียมเกม</InitializingGame>
   <!-- EN: Spawning things -->
-  <SpawningAllThings>กำลังจัดวางทุกสิ่งทุกอย่าง</SpawningAllThings>
+  <SpawningAllThings>จัดวางทุกสิ่งอย่าง</SpawningAllThings>
   <!-- EN: Spawning colonists -->
-  <SpawningColonists>กำลังจัดวางอาณานิคม</SpawningColonists>
+  <SpawningColonists>จัดวางชาวนิคม</SpawningColonists>
   
   <!-- Save/load -->
   <!-- EN: Save -->

@@ -138,7 +138,6 @@
   <LetterLabelNoticedRelatedPawns>ความสัมพันธ์</LetterLabelNoticedRelatedPawns>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of {1}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are: -->
   <LetterRelatedPawnsRaidEnemy>มีคนที่มีความสัมพันธ์กับ {0} ของคุณ หรือเป็นนักโทษในกลุ่ม {1} ที่พึ่งมาถึง\n\nโปรดจำไว้ว่าแม้พวกเขาจะมีความสัมพันธ์เกี่ยวข้องกัน พวกเขาสามารถโจมตีกันและกันได้ หากสัมพันธภาพแต่ละฝ่ายไม่ดี\n\nคนเหล่านี้คือ:</LetterRelatedPawnsRaidEnemy>
-
   <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of friendly {1}: -->
   <LetterRelatedPawnsRaidFriendly>มีคนที่มีความสัมพันธ์กับ {0} ของคุณ หรือเป็นนักโทษในกลุ่มเป็นมิตรที่พึ่งมาถึง {1}:</LetterRelatedPawnsRaidFriendly>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group: -->
@@ -237,11 +236,11 @@
   <!-- EN: All members of {0} have died. -->
   <LetterAllCaravanColonistsDied>สมาชิกทั้งหมดใน {0} เสียชีวิต</LetterAllCaravanColonistsDied>
   
-  <!-- Caravan entered ambush map -->
-  <!-- EN: Caravan arrived at ambush -->
-  <LetterLabelCaravanEnteredAmbushMap>คาราวานมาถึงที่ซุ่มโจมตี</LetterLabelCaravanEnteredAmbushMap>
-  <!-- EN: {0} has arrived at the ambush site. -->
-  <LetterCaravanEnteredAmbushMap>{0} ได้มาถึงสถานที่ซุ่มโจมตี</LetterCaravanEnteredAmbushMap>
+  <!-- Caravan entered map -->
+  <!-- EN: Caravan arrived at {0_label} -->
+  <LetterLabelCaravanEnteredMap>คาราวานมาถึง {0_label}</LetterLabelCaravanEnteredMap>
+  <!-- EN: {0} has arrived at {1_definite}. -->
+  <LetterCaravanEnteredMap>{0} เดินทางมาถึง {1_definite}</LetterCaravanEnteredMap>
   
   <!-- Caravan entered enemy base -->
   <!-- EN: Attack begun -->
@@ -365,10 +364,6 @@
   <!-- EN: You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group.\n\nYou can take {PAWN_objective} with you by reforming the caravan in the World screen by selecting this area and choosing the "Reform caravan" option. -->
   <LetterRescueQuestFinished>TODO</LetterRescueQuestFinished>
 
-  <!-- Player entered site (generic label) -->
-  <!-- EN: Arrived at site -->
-  <LetterLabelPlayerEnteredNewSiteGeneric>TODO</LetterLabelPlayerEnteredNewSiteGeneric>
-
   <!-- Predator hunting colonist -->
   <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->
   <LetterLabelPredatorHuntingColonist>TODO</LetterLabelPredatorHuntingColonist>
@@ -382,5 +377,5 @@
   <LetterLabelTraitDisease>TODO</LetterLabelTraitDisease>
   <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
   <LetterTraitDisease>TODO</LetterTraitDisease>
-  
+
 </LanguageData>

@@ -3,62 +3,38 @@
   
   <!-- EN: พื้น tab -->
   <Architect_Floors.label>เมนู ชั้น</Architect_Floors.label>
-  <!-- EN: Key bindings for the "พื้น" section of the Architect menu -->
-  <Architect_Floors.description>TODO</Architect_Floors.description>
   
   <!-- EN: เฟอร์นิเจอร์ tab -->
   <Architect_Furniture.label>เมนู เฟอร์นิเจอร์</Architect_Furniture.label>
-  <!-- EN: Key bindings for the "เฟอร์นิเจอร์" section of the Architect menu -->
-  <Architect_Furniture.description>TODO</Architect_Furniture.description>
   
   <!-- EN: ความสุข tab -->
   <Architect_Joy.label>เมนู ความสุข</Architect_Joy.label>
-  <!-- EN: Key bindings for the "ความสุข" section of the Architect menu -->
-  <Architect_Joy.description>TODO</Architect_Joy.description>
   
   <!-- EN: อื่นๆ tab -->
   <Architect_Misc.label>เมนู เบ็ดเตล็ด</Architect_Misc.label>
-  <!-- EN: Key bindings for the "อื่นๆ" section of the Architect menu -->
-  <Architect_Misc.description>TODO</Architect_Misc.description>
   
   <!-- EN: คำสั่ง tab -->
   <Architect_Orders.label>เมนูคำสั่ง</Architect_Orders.label>
-  <!-- EN: Key bindings for the "คำสั่ง" section of the Architect menu -->
-  <Architect_Orders.description>TODO</Architect_Orders.description>
   
   <!-- EN: พลังงาน tab -->
   <Architect_Power.label>เมนู ปัจจุบัน</Architect_Power.label>
-  <!-- EN: Key bindings for the "พลังงาน" section of the Architect menu -->
-  <Architect_Power.description>TODO</Architect_Power.description>
   
   <!-- EN: การผลิต tab -->
   <Architect_Production.label>เมนู การผลิต</Architect_Production.label>
-  <!-- EN: Key bindings for the "การผลิต" section of the Architect menu -->
-  <Architect_Production.description>TODO</Architect_Production.description>
   
   <!-- EN: ความปลอดภัย tab -->
   <Architect_Security.label>เมนู ความปลอดภัย</Architect_Security.label>
-  <!-- EN: Key bindings for the "ความปลอดภัย" section of the Architect menu -->
-  <Architect_Security.description>TODO</Architect_Security.description>
   
   <!-- EN: ยาน tab -->
   <Architect_Ship.label>เมนู ยานอวกาศ</Architect_Ship.label>
-  <!-- EN: Key bindings for the "ยาน" section of the Architect menu -->
-  <Architect_Ship.description>TODO</Architect_Ship.description>
   
   <!-- EN: โครงสร้าง tab -->
   <Architect_Structure.label>เมนู โครงสร้าง</Architect_Structure.label>
-  <!-- EN: Key bindings for the "โครงสร้าง" section of the Architect menu -->
-  <Architect_Structure.description>TODO</Architect_Structure.description>
   
   <!-- EN: อุณหภูมิ tab -->
   <Architect_Temperature.label>เมนู อุณหภูมิ</Architect_Temperature.label>
-  <!-- EN: Key bindings for the "อุณหภูมิ" section of the Architect menu -->
-  <Architect_Temperature.description>TODO</Architect_Temperature.description>
   
   <!-- EN: โซน tab -->
   <Architect_Zone.label>เมนู โซน / พื้นที่</Architect_Zone.label>
-  <!-- EN: Key bindings for the "โซน" section of the Architect menu -->
-  <Architect_Zone.description>TODO</Architect_Zone.description>
   
 </LanguageData>

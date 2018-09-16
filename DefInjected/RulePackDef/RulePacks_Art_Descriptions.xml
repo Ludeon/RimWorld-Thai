@@ -57,7 +57,6 @@
     <li>artextra_clause->a [PAWN_adj] [PersonJob] watches over all while [emotional_expression]</li>
     <li>artextra_clause->the head of a [PAWN_adj] [PersonJob] watches over all</li>
     <li>artextra_clause->the whole image is depicted by the careful arrangement of [subimageplural]</li>
-    <li>artextra_clause->[subimagesingle] [side_position] [symbolizes] [ConceptAny]</li>
     <li>subimageany->[subimagesingle]</li>
     <li>subimageany->[subimageplural]</li>
     <li>subimagesingle(p=4)->a [Character]</li>
@@ -114,6 +113,7 @@
     <li>side_position->beneath the main subject</li>
     <li>side_position->behind the focal point</li>
     <li>style_clause(p=4)->the work [symbolizes] [ConceptAny]</li>
+    <li>artextra_clause->[subimagesingle] [side_position] [symbolizes] [ConceptAny]</li>
     <li>style_clause->the work is infused with the idea of [ConceptAny] and is done in a [artstyle_adj] style</li>
     <li>style_clause->the work is executed in a [artstyle_adj] style</li>
     <li>style_clause->the [artstyle_adj] style of the central scene clashes with the [artstyle_adj] depiction of the background</li>

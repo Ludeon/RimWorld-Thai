@@ -989,13 +989,13 @@
 
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
-  <LearningHelper>หน้าต่าง ตัวช่วยภายในเกม</LearningHelper>
+  <LearningHelper>ตัวช่วยฝึกหัดเล่น</LearningHelper>
   <!-- EN: Mark as learned -->
-  <MarkLearned>ทำเครื่องหมายว่าได้เรียนรู้</MarkLearned>
+  <MarkLearned>มาร์คว่าเรียนรู้</MarkLearned>
   <!-- EN: Already learned -->
   <AlreadyLearned>เรียนรู้แล้ว</AlreadyLearned>
   <!-- EN: Filter -->
-  <Filter>กรอง</Filter>
+  <Filter>ตัวกรอง</Filter>
 
   <!-- Compass -->
   <!-- EN: Shows the north direction. Click to rotate the camera so the north pole is up. -->

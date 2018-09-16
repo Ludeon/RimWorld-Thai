@@ -3646,14 +3646,14 @@
     <desc>TODO</desc>
   </NobleWard81>
   
-  <Novelist28>
+  <Novelist7>
     <!-- EN: novelist -->
     <title>TODO</title>
     <!-- EN: novelist -->
     <titleShort>TODO</titleShort>
-    <!-- EN: [PAWN_nameDef] lived on a glitterworld, penning wildly successful novels. [PAWN_pronoun] lived a carefree lifestyle, spending [PAWN_possessive] days writing and [PAWN_possessive] nights partying...and never did a day's manual labour in [PAWN_possessive] life. -->
+    <!-- EN: [PAWN_nameDef] lived on a glitterworld, penning wildly successful novels. [PAWN_pronoun] lived a carefree lifestyle, spending [PAWN_possessive] days writing and [PAWN_possessive] nights partying - and never did a day's manual labour in [PAWN_possessive] life. -->
     <desc>TODO</desc>
-  </Novelist28>
+  </Novelist7>
   
   <Nurse53>
     <!-- EN: nurse -->
@@ -4789,15 +4789,6 @@
     <desc>TODO</desc>
   </SpaceMarine16>
   
-  <SpaceMarine17>
-    <!-- EN: space marine -->
-    <title>TODO</title>
-    <!-- EN: marine -->
-    <titleShort>TODO</titleShort>
-    <!-- EN: [PAWN_nameDef] joined Interplanetary Marines to travel the stars fight for [PAWN_possessive] planet. [PAWN_pronoun] distinguished himself in several battles.\n\n[PAWN_possessive] experiences desensitized him to people around him, and his social skills degraded. But, he did learn how to fight. -->
-    <desc>TODO</desc>
-  </SpaceMarine17>
-  
   <SpaceMarine27>
     <!-- EN: space marine -->
     <title>TODO</title>
@@ -4806,6 +4797,15 @@
     <!-- EN: Soren joined a squad of space marines known for their brutal efficiency at killing. His last name and his lack of emotion during combat inspired his nickname: Grim. -->
     <desc>TODO</desc>
   </SpaceMarine27>
+  
+  <SpaceMarine48>
+    <!-- EN: space marine -->
+    <title>TODO</title>
+    <!-- EN: marine -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_nameDef] joined Interplanetary Marines to travel the stars and fight for [PAWN_possessive] planet. [PAWN_pronoun] distinguished himself in several battles.\n\n[PAWN_possessive] experiences desensitized him to people around him, and his social skills degraded. But, he did learn how to fight. -->
+    <desc>TODO</desc>
+  </SpaceMarine48>
   
   <SpaceMarine51>
     <!-- EN: space marine -->

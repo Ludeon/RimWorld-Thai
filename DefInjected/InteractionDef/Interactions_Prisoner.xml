@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: try to get to know -->
   <BuildRapport.label>คุยกับนักโทษ</BuildRapport.label>
   <!-- EN:
@@ -40,7 +40,7 @@
     <li>subject(p=8)->[TalkTopicLight]</li>
   -->
   <BuildRapport.logRulesInitiator.rulesStrings>TODO</BuildRapport.logRulesInitiator.rulesStrings>
-
+  
   <!-- EN: recruit attempt -->
   <RecruitAttempt.label>พยายามรับสมัคร</RecruitAttempt.label>
   <!-- EN:
@@ -50,7 +50,7 @@
     <li>goodthing->free, fresh [Vegetable]s</li>
   -->
   <RecruitAttempt.logRulesInitiator.rulesStrings>TODO</RecruitAttempt.logRulesInitiator.rulesStrings>
-
+  
   <!-- EN: spark jailbreak -->
   <SparkJailbreak.label>จุดประกายให้นักโทษ</SparkJailbreak.label>
   <!-- EN:
@@ -64,5 +64,5 @@
     <li>freedom->self-determination</li>
   -->
   <SparkJailbreak.logRulesInitiator.rulesStrings>TODO</SparkJailbreak.logRulesInitiator.rulesStrings>
-
+  
 </LanguageData>

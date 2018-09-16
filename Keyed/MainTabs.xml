@@ -154,5 +154,5 @@
   <ResearchCostMultiplier>ตัวคูณค่าใช้จ่าย</ResearchCostMultiplier>
   <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
   <ResearchCostComparison>ต้นทุนโครงการ {0} กลายเป็น {1} สำหรับคุณเนื่องจากระดับเทคโนโลยีของคุณ</ResearchCostComparison>
-
+  
 </LanguageData>
