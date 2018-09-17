@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: belt -->
-  <Belt.label>TODO</Belt.label>
+  <Belt.label>เข็มขัด</Belt.label>
   
   <!-- EN: middle -->
-  <Middle.label>TODO</Middle.label>
+  <Middle.label>ชั้นกลาง</Middle.label>
   
   <!-- EN: skin -->
-  <OnSkin.label>TODO</OnSkin.label>
+  <OnSkin.label>บนผิวหนัง</OnSkin.label>
   
   <!-- EN: headgear -->
-  <Overhead.label>TODO</Overhead.label>
+  <Overhead.label>สวมหัว</Overhead.label>
   
   <!-- EN: outer -->
-  <Shell.label>TODO</Shell.label>
+  <Shell.label>ชั้นนอก</Shell.label>
   
 </LanguageData>

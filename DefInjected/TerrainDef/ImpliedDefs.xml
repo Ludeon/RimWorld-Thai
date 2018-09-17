@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: หยาบ หินแกรนิต -->
+  <!-- EN: หินแกรนิตหยาบ -->
   <Granite_Rough.label>หินแกรนิตหยาบ</Granite_Rough.label>
   
   <!-- EN: ตัดหยาบ หินแกรนิต -->
@@ -10,7 +10,7 @@
   <!-- EN: เรียบ หินแกรนิต -->
   <Granite_Smooth.label>หินแกรนิตเรียบ</Granite_Smooth.label>
   
-  <!-- EN: หยาบ หินปูน -->
+  <!-- EN: หินปูนหยาบ -->
   <Limestone_Rough.label>หินปูนหยาบ</Limestone_Rough.label>
   
   <!-- EN: ตัดหยาบ หินปูน -->
@@ -19,7 +19,7 @@
   <!-- EN: เรียบ หินปูน -->
   <Limestone_Smooth.label>หินปูนเรียบ</Limestone_Smooth.label>
   
-  <!-- EN: หยาบ หินอ่อน -->
+  <!-- EN: หินอ่อนหยาบ -->
   <Marble_Rough.label>หินอ่อนหยาบ</Marble_Rough.label>
   
   <!-- EN: ตัดหยาบ หินอ่อน -->
@@ -28,7 +28,7 @@
   <!-- EN: เรียบ หินอ่อน -->
   <Marble_Smooth.label>หินอ่อนเรียบ</Marble_Smooth.label>
   
-  <!-- EN: หยาบ หินทราย -->
+  <!-- EN: หินทรายหยาบ -->
   <Sandstone_Rough.label>หินทรายหยาบ</Sandstone_Rough.label>
   
   <!-- EN: ตัดหยาบ หินทราย -->
@@ -37,7 +37,7 @@
   <!-- EN: เรียบ หินทราย -->
   <Sandstone_Smooth.label>หินทรายเรียบ</Sandstone_Smooth.label>
   
-  <!-- EN: หยาบ หินชนวน -->
+  <!-- EN: หินชนวนหยาบ -->
   <Slate_Rough.label>หินชนวนหยาบ</Slate_Rough.label>
   
   <!-- EN: ตัดหยาบ หินชนวน -->

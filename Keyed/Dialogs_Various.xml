@@ -204,13 +204,13 @@
   
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
-  <MapTemperatureDangerWarning>TODO</MapTemperatureDangerWarning>
+  <MapTemperatureDangerWarning>คำเตือน: คุณจะลงจอดในสภาพแวดล้อม\nหนาวเย็น ซึ่งอาจยากเกิน หรือบางทีก็เป็นไปไม่ได้\nที่จะเอาชีวิตรอด ถ้าคุณไม่ได้ตั้งใจไปเผชิญความท้าทายโหดหินแบบนั้น โปรดเลือกจุดลงจอดหรือฤดูกาลอื่นๆ</MapTemperatureDangerWarning>
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
-  <MapSizePerformanceWarning>TODO</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>เกมถูกดีไซน์มาให้เล่นบนแผนที่ขนาดกลาง ซึ่งก็ให้พื้นที่ว่างพอสมควรแล้ว!\n\nแผนที่ขนาดใหญ่ ไม่ใช่แค่ทำให้ประสิทธิภาพลดลง แต่จริงๆทำลายเกมดีไซน์ไปด้วย เอไอจะเริ่มตัดสินใจแย่ๆ สมดุลเกมโดนผลกระทบในหลายๆทาง แผนที่ขนาดแบบนี้ใส่มากับเกมเป็นประเพณีและใช้งานด้านทดสอบเท่านั้น\n\nกรุณาอย่าเลือกขนาดพวกนี้ โดยไม่มีเหตุผลอันสมควร</MapSizePerformanceWarning>
   <!-- EN: Map size -->
   <MapSize>ขนาดแผนที่</MapSize>
   <!-- EN: {0}x{0} ({1} cells) -->
-  <MapSizeDesc>{0}x{0} ({1} cells)</MapSizeDesc>
+  <MapSizeDesc>{0}x{0} ({1} ช่อง)</MapSizeDesc>
   <!-- EN: Small -->
   <MapSizeSmall>เล็ก</MapSizeSmall>
   <!-- EN: Medium -->
@@ -220,11 +220,11 @@
   <!-- EN: Extreme (test) -->
   <MapSizeExtreme>มโหฬาร (ทดสอบ)</MapSizeExtreme>
   <!-- EN: Starting season -->
-  <MapStartSeason>ฤดูที่เริ่มต้น:</MapStartSeason>
+  <MapStartSeason>ฤดูกาลเริ่มต้น:</MapStartSeason>
   <!-- EN: Auto -->
   <MapStartSeasonDefault>อัตโนมัติ</MapStartSeasonDefault>
   <!-- EN: Notice -->
-  <Notice>TODO</Notice>
+  <Notice>ประกาศ</Notice>
 
   <!-- Bill config -->
   <!-- EN: Suspended -->

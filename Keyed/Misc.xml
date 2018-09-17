@@ -79,7 +79,7 @@
   <MeatHumanDesc>เนื้อเชือดดิบ สามารถใช้ปรุงเป็นอาหาร หรือกินดิบๆ แม้มนุษย์ส่วนใหญ่ไม่ค่อยชอบไอเดียนี้เลย</MeatHumanDesc>
 
   <!-- EN: {0} corpse -->
-  <CorpseLabel>{0} ศพ</CorpseLabel>
+  <CorpseLabel>ศพ{0}</CorpseLabel>
   <!-- EN: Dead body of a {0}. -->
   <CorpseDesc>ศพของ {0}</CorpseDesc>
   <!-- EN: {1_label} (dead) -->

@@ -2,43 +2,39 @@
 <LanguageData>
   
   <!-- EN: ancients -->
-  <Ancients.label>ชาวอวกาศ</Ancients.label>
-  <Ancients.description>ผู้คนจากอวกาศอันห่างไกล</Ancients.description>
+  <Ancients.label>ชนโบราณ</Ancients.label>
   <!-- EN: Ancients -->
-  <Ancients.fixedName>ชาวอวกาศ</Ancients.fixedName>
+  <Ancients.fixedName>ชนโบราณ</Ancients.fixedName>
   <!-- EN: ancient -->
-  <Ancients.pawnSingular>TODO</Ancients.pawnSingular>
+  <Ancients.pawnSingular>ชนโบราณ</Ancients.pawnSingular>
   <!-- EN: ancients -->
-  <Ancients.pawnsPlural>เหล่าชาวอวกาศ</Ancients.pawnsPlural>
+  <Ancients.pawnsPlural>เหล่าชนโบราณ</Ancients.pawnsPlural>
   
   <!-- EN: ancients -->
-  <AncientsHostile.label>ชาวอวกาศไม่เป็นมิตร</AncientsHostile.label>
-  <AncientsHostile.description>ผู้คนจากอวกาศอันห่างไกล</AncientsHostile.description>
+  <AncientsHostile.label>ชนโบราณ</AncientsHostile.label>
   <!-- EN: Ancients -->
-  <AncientsHostile.fixedName>ชาวอวกาศไม่เป็นมิตร</AncientsHostile.fixedName>
+  <AncientsHostile.fixedName>ชนโบราณ</AncientsHostile.fixedName>
   <!-- EN: ancient -->
-  <AncientsHostile.pawnSingular>TODO</AncientsHostile.pawnSingular>
+  <AncientsHostile.pawnSingular>ชนโบราณ</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->
-  <AncientsHostile.pawnsPlural>เหล่าชาวอวกาศไม่เป็นมิตร</AncientsHostile.pawnsPlural>
+  <AncientsHostile.pawnsPlural>เหล่าชนโบราณ</AncientsHostile.pawnsPlural>
   
   <!-- EN: insects -->
-  <Insect.label>แมลง</Insect.label>
-  <Insect.description>แมลงที่ดุร้ายและก้าวร้าว</Insect.description>
+  <Insect.label>ฝูงแมลง</Insect.label>
   <!-- EN: insects -->
-  <Insect.fixedName>แมลง</Insect.fixedName>
+  <Insect.fixedName>ฝูงแมลง</Insect.fixedName>
   <!-- EN: insect -->
-  <Insect.pawnSingular>TODO</Insect.pawnSingular>
+  <Insect.pawnSingular>แมลง</Insect.pawnSingular>
   <!-- EN: insects -->
-  <Insect.pawnsPlural>พวกแมลง</Insect.pawnsPlural>
+  <Insect.pawnsPlural>ฝูงแมลง</Insect.pawnsPlural>
   
   <!-- EN: mechanoid hive -->
   <Mechanoid.label>รังเมคานอยด์</Mechanoid.label>
-  <Mechanoid.description>รังของเครื่องจักรที่คัดลอกทวีจำนวนตัวเอง</Mechanoid.description>
   <!-- EN: a mechanoid hive -->
   <Mechanoid.fixedName>รังเมคานอยด์</Mechanoid.fixedName>
   <!-- EN: mechanoid -->
-  <Mechanoid.pawnSingular>TODO</Mechanoid.pawnSingular>
+  <Mechanoid.pawnSingular>เมคานอยด์</Mechanoid.pawnSingular>
   <!-- EN: mechanoids -->
-  <Mechanoid.pawnsPlural>พวกเมคานอยด์</Mechanoid.pawnsPlural>
+  <Mechanoid.pawnsPlural>ฝูงเมคานอยด์</Mechanoid.pawnsPlural>
   
 </LanguageData>
