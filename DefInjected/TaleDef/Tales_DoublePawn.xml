@@ -279,7 +279,7 @@
   </KilledBy.rulePack.rulesStrings>
   
   <!-- EN: colonist killed -->
-  <KilledColonist.label>ฆ่าชาวอาณานิคม</KilledColonist.label>
+  <KilledColonist.label>ฆ่าชาวนิคม</KilledColonist.label>
   
   <!-- EN: colony animal killed -->
   <KilledColonyAnimal.label>ฆ่าสัตว์ของอาณานิคม</KilledColonyAnimal.label>
@@ -306,7 +306,7 @@
   <Recruited.rulePack.rulesStrings>
     <li>tale_noun->การรับสมัคร [joiner_nameShortDef]</li>
     <li>image->[recruiter_nameFull] รับสมัคร [joiner_nameFull] [circumstance_group]</li>
-    <li>image->[recruiter_nameFull] ทำการต้อนรับ [joiner_nameFull] ที่ [joiner_pronoun] กลายเป็นชาวอาณานิคม [circumstance_group]</li>
+    <li>image->[recruiter_nameFull] ทำการต้อนรับ [joiner_nameFull] ที่ [joiner_pronoun] กลายเป็นชาวนิคม [circumstance_group]</li>
     <li>image->[recruiter_nameFull] พูดเกลี้ยกล่อม [joiner_nameFull] [circumstance_group]</li>
     <li>circumstance_phrase->ด้วยความหวังดีอย่างเห็นได้ชัด</li>
     <li>circumstance_phrase->ด้วยการจับมืออย่างเต็มใจ</li>

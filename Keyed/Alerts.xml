@@ -17,14 +17,14 @@
   <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
   <BreakRiskExtremeDesc>อาณานิคมเหล่านี้อยู่ในอารมณ์ที่ไม่ดีมาก (และอาจจะมีความรุนแรง) จิตตกเวลาใดก็ได้:\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
-  <BreakRiskDescEnding>ตรวจสอบความต้องการของอาณานิคมเหล่านี้แท็บเพื่อดูสิ่งที่รบกวนพวกเขา\n\nที่จะทำให้ชาวอาณานิคมรู้สึกดีขึ้นคุณสามารถทำสิ่งที่ต้องการทำให้พวกเขาอาหารดีๆให้พวกเขามีความสุขมากขึ้นชั่วโมงต่อวันและวัตถุมีความสุขและวางไว้ในสภาพแวดล้อมที่สวยงามหรือให้พวกเขาดื่มเบียร์และสูบบูรีและอื่น ๆ อีกมากมาย</BreakRiskDescEnding>
+  <BreakRiskDescEnding>ตรวจสอบความต้องการของอาณานิคมเหล่านี้แท็บเพื่อดูสิ่งที่รบกวนพวกเขา\n\nที่จะทำให้ชาวนิคมรู้สึกดีขึ้นคุณสามารถทำสิ่งที่ต้องการทำให้พวกเขาอาหารดีๆให้พวกเขามีความสุขมากขึ้นชั่วโมงต่อวันและวัตถุมีความสุขและวางไว้ในสภาพแวดล้อมที่สวยงามหรือให้พวกเขาดื่มเบียร์และสูบบูรีและอื่น ๆ อีกมากมาย</BreakRiskDescEnding>
   
   <!-- EN: Colonist needs rescue -->
-  <ColonistNeedsRescue>ชาวอาณานิคมต้องการการช่วยเหลือ</ColonistNeedsRescue>
+  <ColonistNeedsRescue>ชาวนิคมต้องการการช่วยเหลือ</ColonistNeedsRescue>
   <!-- EN: Colonists need rescue -->
-  <ColonistsNeedRescue>ชาวอาณานิคม+ต้องการการช่วยเหลือ</ColonistsNeedRescue>
+  <ColonistsNeedRescue>ชาวนิคม+ต้องการการช่วยเหลือ</ColonistsNeedRescue>
   <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue. -->
-  <ColonistsNeedRescueDesc>ชาวอาณานิคมนี้นอนเดี้ยงอยู่บนพื้น:\n\n{0}\nส่งชาวอาณานิคมคนอื่น เข้าช่วยเหลือและแบกพวกเขา กลับมาที่เตียง\n\n(เพื่อช่วยเหลือ, เลือกชาวอาณานิคมคนอื่น, คลิกขวาบนเหยื่อแล้วเลือกช่วยเหลือ</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>ชาวนิคมนี้นอนเดี้ยงอยู่บนพื้น:\n\n{0}\nส่งชาวนิคมคนอื่น เข้าช่วยเหลือและแบกพวกเขา กลับมาที่เตียง\n\n(เพื่อช่วยเหลือ, เลือกชาวนิคมคนอื่น, คลิกขวาบนเหยื่อแล้วเลือกช่วยเหลือ</ColonistsNeedRescueDesc>
 
   <!-- EN: Need defenses -->
   <NeedDefenses>ต้องการการป้องกัน</NeedDefenses>
@@ -34,22 +34,22 @@
   <!-- EN: Need doctor -->
   <NeedDoctor>ต้องการหมอ</NeedDoctor>
   <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
-  <NeedDoctorDesc>ชาวอาณานิคมนี้ต้องการการดูแลทางการแพทย์, แต่คุณไม่มีชาวอาณานิคมที่สุขภาพดีคนไหนที่มอบหมายให้เป็นแพทย์\n\n{0}\n มอบหมายให้ชาวอาณานิคมที่สุขภาพดีทำงานด้านแพทย์ ถ้าทิ้งไว้ไม่รักษา, บาดแผลอาจจะไม่มีทางหายอย่างถูกต้องและอาจจะเป็นอย่างถาวร</NeedDoctorDesc>
+  <NeedDoctorDesc>ชาวนิคมนี้ต้องการการดูแลทางการแพทย์, แต่คุณไม่มีชาวนิคมที่สุขภาพดีคนไหนที่มอบหมายให้เป็นแพทย์\n\n{0}\n มอบหมายให้ชาวนิคมที่สุขภาพดีทำงานด้านแพทย์ ถ้าทิ้งไว้ไม่รักษา, บาดแผลอาจจะไม่มีทางหายอย่างถูกต้องและอาจจะเป็นอย่างถาวร</NeedDoctorDesc>
 
   <!-- EN: Need miner -->
   <NeedMiner>ต้องการคนเหมือง</NeedMiner>
   <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
-  <NeedMinerDesc>คุณกำหนดให้ขุดเหมืองหินบางส่วน, แต่ไม่มีชาวอาณานิคมคนไหนทำงานด้านขุดเหมือง\n\nมอบหมายให้ชาวอาณานิคมสักคนทำงานขุดเหมือง</NeedMinerDesc>
+  <NeedMinerDesc>คุณกำหนดให้ขุดเหมืองหินบางส่วน, แต่ไม่มีชาวนิคมคนไหนทำงานด้านขุดเหมือง\n\nมอบหมายให้ชาวนิคมสักคนทำงานขุดเหมือง</NeedMinerDesc>
 
   <!-- EN: Need warden -->
   <NeedWarden>ต้องการผู้คุม</NeedWarden>
   <!-- EN: You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type. -->
-  <NeedWardenDesc>คุณมีนักโทษ, แต่ไม่มีชาวอาณานิคมคนไหนที่ทำงานเป็นผู้คุม\n\nมอบหมายให้ชาวอาณานิคมสักคนทำงานเป็นผู้คุม</NeedWardenDesc>
+  <NeedWardenDesc>คุณมีนักโทษ, แต่ไม่มีชาวนิคมคนไหนที่ทำงานเป็นผู้คุม\n\nมอบหมายให้ชาวนิคมสักคนทำงานเป็นผู้คุม</NeedWardenDesc>
 
   <!-- EN: Low food -->
   <LowFood>อาหารมีจำนวนน้อย</LowFood>
   <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
-  <LowFoodDesc>คุณมีอาหารเหลืออยู่ในคลังแค่เพียง {0} ชุดที่มีค่าเต็มหลอด ซึ่งน้อยจนเป็นอันตราย\n    ชาวอาณานิคม และนักโทษ ได้อาหาร: {1}\n    วันที่อาหารเหลือในคลัง: {2}\n\nเพาะปลูก, ซื้อ, ค้นหา, หรือฆ่ามาเป็นอาหาร</LowFoodDesc>
+  <LowFoodDesc>คุณมีอาหารเหลืออยู่ในคลังแค่เพียง {0} ชุดที่มีค่าเต็มหลอด ซึ่งน้อยจนเป็นอันตราย\n    ชาวนิคม และนักโทษ ได้อาหาร: {1}\n    วันที่อาหารเหลือในคลัง: {2}\n\nเพาะปลูก, ซื้อ, ค้นหา, หรือฆ่ามาเป็นอาหาร</LowFoodDesc>
 
   <!-- EN: Low medicine -->
   <LowMedicine>ยามีจำนวนน้อย</LowMedicine>
@@ -59,14 +59,14 @@
   <NoMedicineDesc>คุณไม่มียาเหลืออยู่ในคลังแล้ว\n\nซื้อยาเพิ่มได้จากพ่อค้า</NoMedicineDesc>
   
   <!-- EN: Need colonist beds -->
-  <NeedColonistBeds>ต้องการเตียงให้\nชาวอาณานิคม</NeedColonistBeds>
+  <NeedColonistBeds>ต้องการเตียงให้\nชาวนิคม</NeedColonistBeds>
   <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
-  <NeedColonistBedsDesc>คุณมีชาวอาณานิคมมากกว่าเตียงที่มี บางคนจะขาดที่ๆจะนอน\n\nถ้าไม่สร้างเตียงเพิ่ม, ก็เปลี่ยนเตียงนักโทษให้เป็นเตียงชาวอาณานิคม\n\nถ้าคุณไม่มีวัตถุดิบ, จุดนอนนั้นฟรี และสามารถติดตั้งได้ทันที</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>คุณมีชาวนิคมมากกว่าเตียงที่มี บางคนจะขาดที่ๆจะนอน\n\nถ้าไม่สร้างเตียงเพิ่ม, ก็เปลี่ยนเตียงนักโทษให้เป็นเตียงชาวนิคม\n\nถ้าคุณไม่มีวัตถุดิบ, จุดนอนนั้นฟรี และสามารถติดตั้งได้ทันที</NeedColonistBedsDesc>
 
   <!-- EN: Hunter lacks ranged weapon -->
   <HunterLacksWeapon>นักล่าขาดอาวุธ</HunterLacksWeapon>
   <!-- EN: A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon. -->
-  <HunterLacksWeaponDesc>ชาวอาณานิคมถูกกำหนดให้เป็นนักล่าแต่กลับไม่มีอาวุธ เขาจะไม่ออกล่าจนกว่าจะได้ถืออาวุธ\n\nเพื่อลดการบาดเจ็บ, เราแนะนำให้มอบอาวุธพิสัยไกลแก่พวกเขา</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>ชาวนิคมถูกกำหนดให้เป็นนักล่าแต่กลับไม่มีอาวุธ เขาจะไม่ออกล่าจนกว่าจะได้ถืออาวุธ\n\nเพื่อลดการบาดเจ็บ, เราแนะนำให้มอบอาวุธพิสัยไกลแก่พวกเขา</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
   <AlertTatteredApparel>เครื่องแต่งกายที่ขาด</AlertTatteredApparel>
@@ -81,7 +81,7 @@
   <!-- EN: Starvation -->
   <Starvation>ภาวะอดอยาก</Starvation>
   <!-- EN: These colonists are starving:\n\n{0}\nGet them some food. -->
-  <StarvationDesc>ชาวอาณานิคมนี้กำลังอดอยาก:\n\n{0}\nหาอาหารให้พวกเขาทาน</StarvationDesc>
+  <StarvationDesc>ชาวนิคมนี้กำลังอดอยาก:\n\n{0}\nหาอาหารให้พวกเขาทาน</StarvationDesc>
 
   <!-- EN: Animal starvation -->
   <StarvationAnimals>สัตว์มีภาวะอดอยาก</StarvationAnimals>
@@ -91,7 +91,7 @@
   <!-- EN: Exhaustion -->
   <Exhaustion>หมดแรง</Exhaustion>
   <!-- EN: These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
-  <ExhaustionDesc>ชาวอาณานิคมนี้หมดแรงข้าวต้มและต้องการพักผ่อน:\n\n{0}\nให้พวกเขาพัก ต้องการเตียงที่กำหนดให้สำหรับชาวอาณานิคมใช้ แล้วก็ให้แน่ใจว่าพวกเขาไม่ได้ถูกเกณฑ์อยู่</ExhaustionDesc>
+  <ExhaustionDesc>ชาวนิคมนี้หมดแรงข้าวต้มและต้องการพักผ่อน:\n\n{0}\nให้พวกเขาพัก ต้องการเตียงที่กำหนดให้สำหรับชาวนิคมใช้ แล้วก็ให้แน่ใจว่าพวกเขาไม่ได้ถูกเกณฑ์อยู่</ExhaustionDesc>
 
   <!-- EN: Need food hopper -->
   <NeedFoodHopper>ต้องการถังป้อนอาหาร</NeedFoodHopper>
@@ -101,12 +101,12 @@
   <!-- EN: Need meal source -->
   <NeedMealSource>ต้องการที่ประกอบอาหาร</NeedMealSource>
   <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
-  <NeedMealSourceDesc>คุณไม่มีทางไหนที่จะประกอบมื้ออาหารขึ้นมาจากอาหารดิบเลย\n\nสร้างเตา, กองไฟ, หรือเครื่องจำหน่ายอาหาร\n\n(ไม่สามารถอยู่ในห้องขังได้, ไม่อย่างนั้นชาวอาณานิคมก็ไม่สามารถใช้งานมันได้)</NeedMealSourceDesc>
+  <NeedMealSourceDesc>คุณไม่มีทางไหนที่จะประกอบมื้ออาหารขึ้นมาจากอาหารดิบเลย\n\nสร้างเตา, กองไฟ, หรือเครื่องจำหน่ายอาหาร\n\n(ไม่สามารถอยู่ในห้องขังได้, ไม่อย่างนั้นชาวนิคมก็ไม่สามารถใช้งานมันได้)</NeedMealSourceDesc>
 
   <!-- EN: Need recreation variety -->
   <NeedJoySource>ต้องการแหล่งความสุข</NeedJoySource>
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
-  <NeedJoySourceDesc>ใน {1} มีกิจกรรมนันทนาการเพียงแค่ {0} ประเภทให้เลือก โดยจากระดับความคาดหวังในตอนนี้ ({2}) ชาวอาณานิคมต้องการกิจกรรม {3} ประเภทจึงจะพึงพอใจ ควรสร้างกิจกรรมนันทนาการให้สดใหม่และหลากหลาย\n\n{4}\n\n{5}\n\nโน้ต: คุณสามารถเช็คประเภทกิจกรรมที่เกิดจากไอเท็มใดๆ ได้ในหน้าสถิติของไอเท็ม กดปุ่ม 'i' เพื่อเข้าไปดู</NeedJoySourceDesc>
+  <NeedJoySourceDesc>ใน {1} มีกิจกรรมนันทนาการเพียงแค่ {0} ประเภทให้เลือก โดยจากระดับความคาดหวังในตอนนี้ ({2}) ชาวนิคมต้องการกิจกรรม {3} ประเภทจึงจะพึงพอใจ ควรสร้างกิจกรรมนันทนาการให้สดใหม่และหลากหลาย\n\n{4}\n\n{5}\n\nโน้ต: คุณสามารถเช็คประเภทกิจกรรมที่เกิดจากไอเท็มใดๆ ได้ในหน้าสถิติของไอเท็ม กดปุ่ม 'i' เพื่อเข้าไปดู</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
   <AvailableRecreationTypes>TODO</AvailableRecreationTypes>
   <!-- EN: Missing recreation types -->
@@ -129,12 +129,12 @@
   <!-- EN: Brawler has ranged weapon -->
   <BrawlerHasRangedWeapon>นักเลงถืออาวุธพิสัยไกล</BrawlerHasRangedWeapon>
   <!-- EN: One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy. -->
-  <BrawlerHasRangedWeaponDesc>หนึ่งในชาวอาณานิคมนั้นมีอุปนิสัยนักเลง แต่เขากำลังถืออาวุธพิสัยไกล ซึ่งนั่นจะทำให้เขาไม่มีความสุขเอามากๆ</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeaponDesc>หนึ่งในชาวนิคมนั้นมีอุปนิสัยนักเลง แต่เขากำลังถืออาวุธพิสัยไกล ซึ่งนั่นจะทำให้เขาไม่มีความสุขเอามากๆ</BrawlerHasRangedWeaponDesc>
 
   <!-- EN: Shield user has ranged weapon -->
   <ShieldUserHasRangedWeapon>ผู้ใช้โล่ห์ถืออาวุธพิสัยไกล</ShieldUserHasRangedWeapon>
   <!-- EN: One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them). -->
-  <ShieldUserHasRangedWeaponDesc>หนึ่งในชาวอาณานิคมนั้นถือโล่ห์ส่วนบุคคล และอาวุธพิสัยไกล เขาจะไม่สามารถยิงต่อสู้ทะลุโล่ห์ได้ (ยกเว้นว่าเป้าหมายนั้นแตะตัวอยู่แล้ว)</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeaponDesc>หนึ่งในชาวนิคมนั้นถือโล่ห์ส่วนบุคคล และอาวุธพิสัยไกล เขาจะไม่สามารถยิงต่อสู้ทะลุโล่ห์ได้ (ยกเว้นว่าเป้าหมายนั้นแตะตัวอยู่แล้ว)</ShieldUserHasRangedWeaponDesc>
 
   <!-- EN: Need research project -->
   <NeedResearchProject>ต้องการโครงการวิจัย</NeedResearchProject>
@@ -142,14 +142,14 @@
   <NeedResearchProjectDesc>คุณมีอุปกรณ์ในการวิจัยอยู่ แต่ว่ายังไม่ได้เลือกโครงการ\n\nเปิดเมนูวิจัย และเลือกโครงการ</NeedResearchProjectDesc>
   
   <!-- EN: {0} colonists idle -->
-  <ColonistsIdle>มีชาวอาณานิคมว่าง {0} คน</ColonistsIdle>
+  <ColonistsIdle>มีชาวนิคมว่าง {0} คน</ColonistsIdle>
   <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
   <ColonistsIdleDesc>อาณานิคมเหล่านี้จะเดินไปอย่างขี่เกียจ:\n\n{0}\nคุณควรจะหาสิ่งที่มีประสิทธิผลให้ทำ</ColonistsIdleDesc>
 
   <!-- EN: Colonist needs treatment -->
-  <ColonistNeedsTreatment>ชาวอาณานิคม\nต้องการ การรักษา</ColonistNeedsTreatment>
+  <ColonistNeedsTreatment>ชาวนิคม\nต้องการ การรักษา</ColonistNeedsTreatment>
   <!-- EN: These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.) -->
-  <ColonistNeedsTreatmentDesc>ชาวอาณานิคมนี้ต้องการการรักษา ถ้าไม่เช่นนั้น, อาจจะตายจากพิษบาดแผล, หรือบาดแผลอาจจะถาวร\n\n{0}\nรักษาโดยการส่งตัวไปยังเตียงแพทย์\n\n(ก่อนอื่น, กำหนดเตียงแพทย์โดยการเลือกแล้วเปลื่ยนเป็นเตียงแพทย์ จากนั้นเลือกชาวอาณานิคมที่บาดเจ็บแล้วคลิกขวาที่เตียงแพทย์เพื่อทำให้พวกเขาเป็นผู้ป่วย)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>ชาวนิคมนี้ต้องการการรักษา ถ้าไม่เช่นนั้น, อาจจะตายจากพิษบาดแผล, หรือบาดแผลอาจจะถาวร\n\n{0}\nรักษาโดยการส่งตัวไปยังเตียงแพทย์\n\n(ก่อนอื่น, กำหนดเตียงแพทย์โดยการเลือกแล้วเปลื่ยนเป็นเตียงแพทย์ จากนั้นเลือกชาวนิคมที่บาดเจ็บแล้วคลิกขวาที่เตียงแพทย์เพื่อทำให้พวกเขาเป็นผู้ป่วย)</ColonistNeedsTreatmentDesc>
 
   <!-- EN: Hypothermia -->
   <AlertHypothermia>ไฮโปเธอร์เมีย</AlertHypothermia>
@@ -171,7 +171,7 @@
   <!-- EN: People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical care possible. -->
   <PawnsWithLifeThreateningDiseaseDesc>ผู้คนมีความเสี่ยงต่อการเสียชีวิตเนื่องจากเจ็บป่วยรุนแรง:\n\n{0}\nตรวจสอบให้แน่ใจว่าพวกเขามีสุขภาพที่ดีที่สุด</PawnsWithLifeThreateningDiseaseDesc>
   <!-- EN: People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>ผู้คนมีความเสี่ยงต่อการเสียชีวิตเนื่องจากเจ็บป่วยรุนแรง:\n\n{0}\nถ้าเป็นไปได้ให้พิจารณาการตัดแขนขาที่ติดเชื้อและการเปลี่ยนแขนขาเพื่อให้ชาวอาณานิคมมีชีวิตอยู่</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>ผู้คนมีความเสี่ยงต่อการเสียชีวิตเนื่องจากเจ็บป่วยรุนแรง:\n\n{0}\nถ้าเป็นไปได้ให้พิจารณาการตัดแขนขาที่ติดเชื้อและการเปลี่ยนแขนขาเพื่อให้ชาวนิคมมีชีวิตอยู่</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
   <!-- EN: Billiards needs space -->
   <BilliardsNeedsSpace>โต๊ะบิลเลียดต้องการพื้นที่</BilliardsNeedsSpace>

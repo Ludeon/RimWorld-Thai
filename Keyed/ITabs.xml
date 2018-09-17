@@ -47,7 +47,7 @@
   <!-- EN: Add bill -->
   <AddBill>เพิ่มใบสั่ง</AddBill>
   <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
-  <RecipeRequiresSkills>งาน {0} ชาวอาณานิคมของคุณไม่มีทักษะด้านนี้, จึงไม่มีใครที่จะทำปฏิบัติงานสิ่งนี้</RecipeRequiresSkills>
+  <RecipeRequiresSkills>งาน {0} ชาวนิคมของคุณไม่มีทักษะด้านนี้, จึงไม่มีใครที่จะทำปฏิบัติงานสิ่งนี้</RecipeRequiresSkills>
   <!-- EN: Min skill -->
   <MinimumSkill>ทักษะขั้นต่้ำ</MinimumSkill>
   <!-- EN: SUSPENDED -->

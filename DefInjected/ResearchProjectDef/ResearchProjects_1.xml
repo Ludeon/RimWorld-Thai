@@ -89,7 +89,7 @@
   <!-- EN: smithing -->
   <Smithing.label>การตีเหล็ก</Smithing.label>
   <!-- EN: Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles. -->
-  <Smithing.description>ช่วยให้ชาวอาณานิคมสร้างอาวุธโลหะและเครื่องมือที่สามารถผลิตได้</Smithing.description>
+  <Smithing.description>ช่วยให้ชาวนิคมสร้างอาวุธโลหะและเครื่องมือที่สามารถผลิตได้</Smithing.description>
   
   <!-- EN: stonecutting -->
   <Stonecutting.label>การตัดหิน</Stonecutting.label>

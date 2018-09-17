@@ -2,20 +2,20 @@
 <LanguageData>
   
   <!-- EN: New Arrivals -->
-  <PlayerColony.label>อาณานิคมใหม่</PlayerColony.label>
+  <PlayerColony.label>ผู้มาใหม่</PlayerColony.label>
   <!-- EN: A colony of recently-arrived off-worlders. -->
-  <PlayerColony.description>ชุมชนอาณานิคมของคุณ</PlayerColony.description>
+  <PlayerColony.description>อาณานิคมของพวกต่างโลกที่เพิ่งมาถึง</PlayerColony.description>
   <!-- EN: colonist -->
-  <PlayerColony.pawnSingular>TODO</PlayerColony.pawnSingular>
+  <PlayerColony.pawnSingular>ชาวนิคม</PlayerColony.pawnSingular>
   <!-- EN: colonists -->
-  <PlayerColony.pawnsPlural>เหล่าชาวอาณานิคม</PlayerColony.pawnsPlural>
+  <PlayerColony.pawnsPlural>เหล่าชาวนิคม</PlayerColony.pawnsPlural>
   
   <!-- EN: New Tribe -->
   <PlayerTribe.label>เผ่าใหม่</PlayerTribe.label>
   <!-- EN: A small tribe. -->
-  <PlayerTribe.description>ชุมชนเผ่าของคุณ</PlayerTribe.description>
+  <PlayerTribe.description>ชนเผ่าเล็กๆ</PlayerTribe.description>
   <!-- EN: tribesman -->
-  <PlayerTribe.pawnSingular>TODO</PlayerTribe.pawnSingular>
+  <PlayerTribe.pawnSingular>ชาวเผ่า</PlayerTribe.pawnSingular>
   <!-- EN: tribespeople -->
   <PlayerTribe.pawnsPlural>เหล่าชาวเผ่า</PlayerTribe.pawnsPlural>
   

@@ -36,7 +36,7 @@
   <!-- EN: Psychic ship -->
   <PsychicEmanatorShipPartCrash.letterLabel>ยานพลังจิต</PsychicEmanatorShipPartCrash.letterLabel>
   <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nYour colonists can feel it in the back of their mind, exhorting unspeakable acts. It must have an onboard AI persona with psychic projection ability. And this AI is not friendly.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
-  <PsychicEmanatorShipPartCrash.letterText>ชิ้นส่วนขนาดใหญ่ของยานโบราณได้ตกลงมาใกล้ๆ\n\nชาวอาณานิคมของคุณสัมผัสได้ในส่วนลึกของจิตใจ เตือนสติถึงการกระทำที่พูดไม่ถูก มันต้องมี AI persona ติดตั้งอยู่ซึ่งมีคุณสมบัติในการฉายภาพจิต และ AI นี้ไม่เป็นมิตร\n\nทำลายมันให้เร็วที่สุดเท่าที่จะเป็นไปได้</PsychicEmanatorShipPartCrash.letterText>
+  <PsychicEmanatorShipPartCrash.letterText>ชิ้นส่วนขนาดใหญ่ของยานโบราณได้ตกลงมาใกล้ๆ\n\nชาวนิคมของคุณสัมผัสได้ในส่วนลึกของจิตใจ เตือนสติถึงการกระทำที่พูดไม่ถูก มันต้องมี AI persona ติดตั้งอยู่ซึ่งมีคุณสมบัติในการฉายภาพจิต และ AI นี้ไม่เป็นมิตร\n\nทำลายมันให้เร็วที่สุดเท่าที่จะเป็นไปได้</PsychicEmanatorShipPartCrash.letterText>
   
   <!-- EN: enemy raid -->
   <RaidEnemy.label>ศัตรูจู่โจม</RaidEnemy.label>

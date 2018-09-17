@@ -42,7 +42,7 @@
   <!-- EN: restrict -->
   <Restrict.label>ข้อจำกัด</Restrict.label>
   <!-- EN: Restrict colonists to certain activities at certain times of day, or to specific allowed areas. -->
-  <Restrict.description>การ จำกัด ชนิดของการดำเนินงานให้ชาวอาณานิคมในระหว่างวันหรือกำหนดที่เขาอาจจะอยู่</Restrict.description>
+  <Restrict.description>การ จำกัด ชนิดของการดำเนินงานให้ชาวนิคมในระหว่างวันหรือกำหนดที่เขาอาจจะอยู่</Restrict.description>
   
   <!-- EN: wildlife -->
   <Wildlife.label>TODO</Wildlife.label>
@@ -52,7 +52,7 @@
   <!-- EN: work -->
   <Work.label>งาน</Work.label>
   <!-- EN: Choose which colonist does what kinds of work, and in what order. -->
-  <Work.description>ตัดสินใจให้ชาวอาณานิคม เลือกงานที่จะทำ</Work.description>
+  <Work.description>ตัดสินใจให้ชาวนิคม เลือกงานที่จะทำ</Work.description>
   
   <!-- EN: world -->
   <World.label>โลก</World.label>

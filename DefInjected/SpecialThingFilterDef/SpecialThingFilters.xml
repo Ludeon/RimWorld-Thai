@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: allow colonist corpses -->
-  <AllowCorpsesColonist.label>อนุญาตศพชาวอาณานิคม</AllowCorpsesColonist.label>
+  <AllowCorpsesColonist.label>อนุญาตศพชาวนิคม</AllowCorpsesColonist.label>
   <!-- EN: Allow the dead bodies of colonists. -->
-  <AllowCorpsesColonist.description>อนุญาตสำหรับศพที่เป็นชาวอาณานิคม</AllowCorpsesColonist.description>
+  <AllowCorpsesColonist.description>อนุญาตสำหรับศพที่เป็นชาวนิคม</AllowCorpsesColonist.description>
   
   <!-- EN: allow stranger corpses -->
   <AllowCorpsesStranger.label>อนุญาตศพคนแปลกหน้า</AllowCorpsesStranger.label>

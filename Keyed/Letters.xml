@@ -160,7 +160,7 @@
   <!-- EN: (relationship) -->
   <RelationshipAppendedLetterSuffix>(ครอบครัว)</RelationshipAppendedLetterSuffix>
   <!-- EN: {PAWN_nameDef} has a relationship with a colonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
-  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef} เป็นสมาชิกครอบครัวของชาวอาณานิคม {PAWN_pronoun} เป็น{RELATIVE_labelShort} ของ {1}</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef} เป็นสมาชิกครอบครัวของชาวนิคม {PAWN_pronoun} เป็น{RELATIVE_labelShort} ของ {1}</RelationshipAppendedLetterTextColonist>
   <!-- EN: {PAWN_nameDef} has a relationship with one of your prisoners. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
   <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef} เป็นสมาชิกครอบครัวของหนึ่งในนักโทษของคุณ {PAWN_pronoun} เป็น {RELATIVE_labelShort} ของ {1}</RelationshipAppendedLetterTextPrisoner>
   
@@ -180,7 +180,7 @@
   <!-- EN: Rejected proposal -->
   <LetterLabelRejectedProposal>ปฏิเสธการขอแต่งงาน</LetterLabelRejectedProposal>
   <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
-  <LetterAcceptedProposal>{1} รับคำขอแต่งงานของ {0}\n\nณ จุดๆนึงในวันหรือฤดูข้างหน้า, พวกเขาจะจัดพิธีแต่งงานและเชิญชาวอาณานิคมทั้งหมดมา พิจารณาการวางจุดแต่งงานถ้าต้องการควบคุมตำแหน่งการจัดพิธี</LetterAcceptedProposal>
+  <LetterAcceptedProposal>{1} รับคำขอแต่งงานของ {0}\n\nณ จุดๆนึงในวันหรือฤดูข้างหน้า, พวกเขาจะจัดพิธีแต่งงานและเชิญชาวนิคมทั้งหมดมา พิจารณาการวางจุดแต่งงานถ้าต้องการควบคุมตำแหน่งการจัดพิธี</LetterAcceptedProposal>
   <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
   <LetterRejectedProposal>{INITIATOR_nameFull} คงไม่มีความสุขกับเรื่องนี้แน่</LetterRejectedProposal>
   

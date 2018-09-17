@@ -5,9 +5,9 @@
   <!-- EN: Forbid -->
   <CommandForbid>ห้าม</CommandForbid>
   <!-- EN: Forbidden - colonists will not interact with this. -->
-  <CommandForbiddenDesc>หวงห้าม - ชาวอาณานิคมจะไม่ยุ่งกับสิ่งนี้</CommandForbiddenDesc>
+  <CommandForbiddenDesc>หวงห้าม - ชาวนิคมจะไม่ยุ่งกับสิ่งนี้</CommandForbiddenDesc>
   <!-- EN: Not forbidden - colonists may interact with this. -->
-  <CommandNotForbiddenDesc>ไม่หวงห้าม - ชาวอาณานิคมสามารถยุ่งด้วยได้</CommandNotForbiddenDesc>
+  <CommandNotForbiddenDesc>ไม่หวงห้าม - ชาวนิคมสามารถยุ่งด้วยได้</CommandNotForbiddenDesc>
 
   <!-- Power -->
   <!-- EN: Toggle power -->
@@ -18,7 +18,7 @@
   <!-- EN: Designate toggle power -->
   <CommandDesignateTogglePowerLabel>ปิดไฟฟ้า </CommandDesignateTogglePowerLabel>
   <!-- EN: Designate this thing to have power toggled. A colonist will come soon to flick the switch. -->
-  <CommandDesignateTogglePowerDesc>กำหนดสิ่งนี้ให้ปิดไฟฟ้า ชาวอาณานิคมจะมาปิดสวิตช์ชั่วคราว</CommandDesignateTogglePowerDesc>
+  <CommandDesignateTogglePowerDesc>กำหนดสิ่งนี้ให้ปิดไฟฟ้า ชาวนิคมจะมาปิดสวิตช์ชั่วคราว</CommandDesignateTogglePowerDesc>
   
   <!-- EN: Reconnect -->
   <CommandTryReconnectLabel>เชื่อมต่อใหม่</CommandTryReconnectLabel>
@@ -178,11 +178,11 @@
   <!-- EN: Passage forbidden -->
   <CommandToggleDoorForbid>ทางห้ามผ่าน</CommandToggleDoorForbid>
   <!-- EN: When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door. -->
-  <CommandToggleDoorForbidDesc>ประตูต้องห้ามชาวอาณานิคมและพันธมิตรจะไม่ผ่านมันไป นี้ไม่ได้ส่งผลกระทบต่อวิธีการที่ศัตรูหรือสัตว์โต้ตอบกับประตู</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorForbidDesc>ประตูต้องห้ามชาวนิคมและพันธมิตรจะไม่ผ่านมันไป นี้ไม่ได้ส่งผลกระทบต่อวิธีการที่ศัตรูหรือสัตว์โต้ตอบกับประตู</CommandToggleDoorForbidDesc>
   <!-- EN: Hold open -->
   <CommandToggleDoorHoldOpen>เปิดค้างไว้</CommandToggleDoorHoldOpen>
   <!-- EN: When active, your colonists will not close the door after passing through. -->
-  <CommandToggleDoorHoldOpenDesc>เมื่อใช้งานชาวอาณานิคมของคุณจะไม่ปิดประตูหลังจากผ่าน</CommandToggleDoorHoldOpenDesc>
+  <CommandToggleDoorHoldOpenDesc>เมื่อใช้งานชาวนิคมของคุณจะไม่ปิดประตูหลังจากผ่าน</CommandToggleDoorHoldOpenDesc>
 
   <!-- Temperature control -->
   <!-- EN: Reset -->
@@ -234,13 +234,13 @@
   <!-- EN: Attack -->
   <CommandSquadAttack>โจมตี</CommandSquadAttack>
   <!-- EN: Order selected colonists to attack designated target. -->
-  <CommandSquadAttackDesc>สั่งให้ชาวอาณานิคมที่เลือกโจมตีเป้าหมายที่กำหนด</CommandSquadAttackDesc>
+  <CommandSquadAttackDesc>สั่งให้ชาวนิคมที่เลือกโจมตีเป้าหมายที่กำหนด</CommandSquadAttackDesc>
   
   <!-- Melee attack -->
   <!-- EN: Melee attack -->
   <CommandMeleeAttack>การโจมตีระยะประชิด</CommandMeleeAttack>
   <!-- EN: Order selected colonists to attack designated target using only fists and melee weapons. -->
-  <CommandMeleeAttackDesc>สั่งให้ชาวอาณานิคมที่เลือกเพื่อโจมตีเป้าหมายที่กำหนดโดยใช้เพียงกำปั้นและอาวุธระยะประชิด</CommandMeleeAttackDesc>
+  <CommandMeleeAttackDesc>สั่งให้ชาวนิคมที่เลือกเพื่อโจมตีเป้าหมายที่กำหนดโดยใช้เพียงกำปั้นและอาวุธระยะประชิด</CommandMeleeAttackDesc>
 
   <!-- Hold fire -->
   <!-- EN: Hold fire -->
@@ -270,7 +270,7 @@
   <!-- EN: Form caravan -->
   <CommandFormCaravan>สร้าง คาราวาน</CommandFormCaravan>
   <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
-  <CommandFormCaravanDesc>สร้างกลุ่มของอาณานิคมที่สามารถเดินทางไปยังพื้นที่ใหม่ได้ ชาวอาณานิคมจะรวบรวมอุปกรณ์และสัตว์ที่ได้รับมอบหมายทั้งหมดออกจากพื้นที่ปัจจุบันและรอคำสั่งซื้อเพิ่มเติม</CommandFormCaravanDesc>
+  <CommandFormCaravanDesc>สร้างกลุ่มของอาณานิคมที่สามารถเดินทางไปยังพื้นที่ใหม่ได้ ชาวนิคมจะรวบรวมอุปกรณ์และสัตว์ที่ได้รับมอบหมายทั้งหมดออกจากพื้นที่ปัจจุบันและรอคำสั่งซื้อเพิ่มเติม</CommandFormCaravanDesc>
   
   <!-- Reform caravan -->
   <!-- EN: Reform caravan -->

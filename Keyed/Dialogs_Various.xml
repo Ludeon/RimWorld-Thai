@@ -14,9 +14,9 @@
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
   <GameUpdatedToNewVersionInitial>RimWorld ปรับปรุงจากเวอร์ชั่น {0} เป็นเวอร์ชัน {1}</GameUpdatedToNewVersionInitial>
   <!-- EN: This may cause saved games and mods from the old version to stop working. -->
-  <GameUpdatedToNewVersionSavesIncompatible>ซึ่งอาจทำให้เกมที่บันทึกไว้และ mods จากเวอร์ชันเก่าหยุดทำงาน</GameUpdatedToNewVersionSavesIncompatible>
+  <GameUpdatedToNewVersionSavesIncompatible>ซึ่งอาจทำให้เกมที่เซฟไว้และ mods จากเวอร์ชันเก่าหยุดทำงาน</GameUpdatedToNewVersionSavesIncompatible>
   <!-- EN: Saved games from the old version should be compatible, however some mods may stop working. -->
-  <GameUpdatedToNewVersionSavesCompatible>เกมที่บันทึกไว้จากเวอร์ชันเก่าควรเข้ากันได้แต่บาง mods อาจหยุดทำงาน</GameUpdatedToNewVersionSavesCompatible>
+  <GameUpdatedToNewVersionSavesCompatible>เกมที่เซฟไว้จากเวอร์ชันเก่าควรเข้ากันได้แต่บาง mods อาจหยุดทำงาน</GameUpdatedToNewVersionSavesCompatible>
   <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
   <GameUpdatedToNewVersionNonSteam>TODO</GameUpdatedToNewVersionNonSteam>
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this. -->
@@ -68,7 +68,7 @@
   <!-- EN: Loading assets -->
   <LoadingAssets>โหลด assets</LoadingAssets>
   <!-- EN: Initializing -->
-  <Initializing>เตรียมการขั้นต้น</Initializing>
+  <Initializing>เตรียมการ</Initializing>
   <!-- EN: Loading world -->
   <LoadingWorld>โหลดโลก</LoadingWorld>
   <!-- EN: Loading map -->
@@ -82,33 +82,33 @@
   
   <!-- Save/load -->
   <!-- EN: Save -->
-  <SaveGameButton>บันทึก</SaveGameButton>
+  <SaveGameButton>เซฟ</SaveGameButton>
   <!-- EN: Load -->
   <LoadGameButton>โหลด</LoadGameButton>
   <!-- EN: Overwrite -->
-  <OverwriteButton>บันทึกทับ</OverwriteButton>
+  <OverwriteButton>เซฟทับ</OverwriteButton>
   <!-- EN: Really delete {0}? -->
   <ConfirmDelete>คุณจะลบ {0} ใช่ไหม</ConfirmDelete>
   <!-- EN: Delete this savegame. -->
   <DeleteThisSavegame>ลบไฟล์เซฟเกมส์</DeleteThisSavegame>
   <!-- EN: Saved as {0}. -->
-  <SavedAs>บันทึกเป็น {0}.</SavedAs>
+  <SavedAs>เซฟเป็น {0}.</SavedAs>
   <!-- EN: Please enter a name. -->
   <NeedAName>กรุณาใส่ชื่อ</NeedAName>
   <!-- EN: Loading -->
   <LoadingLongEvent>กำลังโหลด</LoadingLongEvent>
   <!-- EN: Saving -->
-  <SavingLongEvent>กำลังบันทึก</SavingLongEvent>
+  <SavingLongEvent>กำลังเซฟ</SavingLongEvent>
   <!-- EN: (Permadeath) -->
   <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
-  <SaveIsFromDifferentGameVersion>เรากำลังใช้งานเวอร์ชัน {0} แต่บันทึกข้อมูลมาจาก {1}, ซึ่งเป็นเวอร์ชันที่แตกต่างกันทั้งหมด\n\nการพยายามโหลดข้อมูลนี้อาจไม่ทำงาน</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameVersion>เรากำลังใช้งานเวอร์ชัน {0} แต่เซฟข้อมูลมาจาก {1}, ซึ่งเป็นเวอร์ชันที่แตกต่างกันทั้งหมด\n\nการพยายามโหลดข้อมูลนี้อาจไม่ทำงาน</SaveIsFromDifferentGameVersion>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
-  <SaveIsFromDifferentGameBuild>เรากำลังใช้งานเวอร์ชัน {0} แต่บันทึกข้อมูลมาจาก {1}, ซึ่งเป็นการสร้างที่แตกต่างกัน\n\nการพยายามโหลดข้อมูลนี้จะยังคงทำงานอยู่</SaveIsFromDifferentGameBuild>
+  <SaveIsFromDifferentGameBuild>เรากำลังใช้งานเวอร์ชัน {0} แต่เซฟข้อมูลมาจาก {1}, ซึ่งเป็นการสร้างที่แตกต่างกัน\n\nการพยายามโหลดข้อมูลนี้จะยังคงทำงานอยู่</SaveIsFromDifferentGameBuild>
   <!-- EN: Save data was saved with our game version and should work without issue. -->
-  <SaveIsFromThisGameBuild>บันทึกข้อมูลไว้ด้วยเวอร์ชันเกมของเราและควรทำงานโดยไม่มีปัญหา</SaveIsFromThisGameBuild>
+  <SaveIsFromThisGameBuild>เซฟข้อมูลไว้ด้วยเวอร์ชันเกมของเราและควรทำงานโดยไม่มีปัญหา</SaveIsFromThisGameBuild>
   <!-- EN: Save data is in an unknown format and almost certainly will not load properly. -->
-  <SaveIsUnknownFormat>บันทึกข้อมูลอยู่ในรูปแบบที่ไม่รู้จักและเกือบจะไม่โหลดอย่างถูกต้อง</SaveIsUnknownFormat>
+  <SaveIsUnknownFormat>เซฟข้อมูลอยู่ในรูปแบบที่ไม่รู้จักและเกือบจะไม่โหลดอย่างถูกต้อง</SaveIsUnknownFormat>
   <!-- EN: There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
   <ProblemSavingFile>เกิดปัญหาในการบันทึกไฟล์ {0}:\n\n{1}</ProblemSavingFile>
   <!-- EN: Load anyway -->
@@ -158,15 +158,15 @@
   <!-- EN: Version mismatch -->
   <VersionMismatch>รุ่นไม่ตรงกัน</VersionMismatch>
   <!-- EN: This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes. -->
-  <SaveGameIncompatibleWarningText>บันทึกแผนที่ด้วยเวอร์ชันเกมแล้ว{0}\nเรากำลังเรียกใช้เวอร์ชันเกม {1}\n\nการโหลดการบันทึกนี้อาจทำให้เกิดข้อผิดพลาดและเกิดข้อขัดข้อง</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningText>เซฟแผนที่ด้วยเวอร์ชันเกมแล้ว{0}\nเรากำลังเรียกใช้เวอร์ชันเกม {1}\n\nการโหลดการเซฟนี้อาจทำให้เกิดข้อผิดพลาดและเกิดข้อขัดข้อง</SaveGameIncompatibleWarningText>
   <!-- EN: World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch. -->
   <WorldFileVersionMismatch>ไฟล์ทั่วโลกถูกสร้างขึ้นพร้อมกับเวอร์ชันเกม {0}\nเรากำลังเรียกใช้เวอร์ชันเกม {1}\n\nการโหลดโลกใบนี้อาจก่อให้เกิดข้อบกพร่องและล่ม คุณอาจจะสร้างโลกใหม่ตั้งแต่เริ่มต้น</WorldFileVersionMismatch>
   <!-- EN: This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
-  <FileIncompatibleWarning>ไฟล์นี้ได้รับการบันทึกด้วยเวอร์ชันเกม {0}\nเรากำลังเรียกใช้เวอร์ชันเกม {1}\n\nการโหลดไฟล์นี้อาจทำให้เกิดข้อบกพร่องและล่ม</FileIncompatibleWarning>
+  <FileIncompatibleWarning>ไฟล์นี้ได้รับการเซฟด้วยเวอร์ชันเกม {0}\nเรากำลังเรียกใช้เวอร์ชันเกม {1}\n\nการโหลดไฟล์นี้อาจทำให้เกิดข้อบกพร่องและล่ม</FileIncompatibleWarning>
   <!-- EN: Mods mismatch -->
   <ModsMismatchWarningTitle>Mods mismatch</ModsMismatchWarningTitle>
   <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
-  <ModsMismatchWarningText>แผนที่ได้รับการบันทึกไว้ด้วยชุดของ mod ที่ใช้งานอยู่กว่าที่เรากำลังทำงานอยู่ นี้อาจหรือไม่อาจทำให้เกิดปัญหาขึ้นอยู่กับสิ่งที่เหล่านี้ mods ทำ\n\nบันทึกแผนที่ด้วย (ตามลำดับนี้):\n\n{0}\n\nเรากำลังทำงานด้วย:\n\n{1}</ModsMismatchWarningText>
+  <ModsMismatchWarningText>แผนที่ได้รับการเซฟไว้ด้วยชุดของ mod ที่ใช้งานอยู่กว่าที่เรากำลังทำงานอยู่ นี้อาจหรือไม่อาจทำให้เกิดปัญหาขึ้นอยู่กับสิ่งที่เหล่านี้ mods ทำ\n\nเซฟแผนที่ด้วย (ตามลำดับนี้):\n\n{0}\n\nเรากำลังทำงานด้วย:\n\n{1}</ModsMismatchWarningText>
 
   <!-- Resolution change dialog -->
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
@@ -194,7 +194,7 @@
   <!-- EN: Locked -->
   <Locked>ล็อก</Locked>
   <!-- EN: Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now. -->
-  <ResearchMenuWithoutBench>จนกว่าคุณจะสร้างโต๊ะวิจัย ชาวอาณานิคมของคุณจะไม่สามารถทำวิจัยได้\n\nอย่างไรก็ตามคุณยังสามารถดูโครงการวิจัยนี้ได้</ResearchMenuWithoutBench>
+  <ResearchMenuWithoutBench>จนกว่าคุณจะสร้างโต๊ะวิจัย ชาวนิคมของคุณจะไม่สามารถทำวิจัยได้\n\nอย่างไรก็ตามคุณยังสามารถดูโครงการวิจัยนี้ได้</ResearchMenuWithoutBench>
   <!-- EN: Research prerequisites -->
   <ResearchPrerequisites>ข้อกำหนดเบื้องต้นการวิจัย</ResearchPrerequisites>
   <!-- EN: Required research bench -->
@@ -817,9 +817,9 @@
   
   <!-- Cleanup translation files -->
   <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
-  <ConfirmCleanupTranslationFiles>TODO</ConfirmCleanupTranslationFiles>
+  <ConfirmCleanupTranslationFiles>Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool.  </ConfirmCleanupTranslationFiles>
   <!-- EN: Yes, I have a backup -->
-  <ConfirmCleanupTranslationFiles_Confirm>TODO</ConfirmCleanupTranslationFiles_Confirm>
+  <ConfirmCleanupTranslationFiles_Confirm>Yes, I have a backup</ConfirmCleanupTranslationFiles_Confirm>
 
   <!-- Load transporters -->
   <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->

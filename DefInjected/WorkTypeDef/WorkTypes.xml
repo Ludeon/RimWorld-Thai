@@ -68,7 +68,7 @@
   <Crafting.verb>สร้างที่</Crafting.verb>
   
   <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->
-  <Doctor.description>รักษาอาการป่วย นำอาหารไปให้ผู้ป่วยและช่วยให้กำลังใจ และทำการผ่าตัดตามที่มอบหมายให้ แพทย์จะดูแลหมดทั้งชาวอาณานิคม และนักโทษ</Doctor.description>
+  <Doctor.description>รักษาอาการป่วย นำอาหารไปให้ผู้ป่วยและช่วยให้กำลังใจ และทำการผ่าตัดตามที่มอบหมายให้ แพทย์จะดูแลหมดทั้งชาวนิคม และนักโทษ</Doctor.description>
   <!-- EN: doctoring -->
   <Doctor.gerundLabel>การแพทย์</Doctor.gerundLabel>
   <!-- EN: Doctor -->

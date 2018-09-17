@@ -113,7 +113,7 @@
   <!-- EN: Psychic drone -->
   <LetterLabelPsychicDrone>โดรนพลังจิต</LetterLabelPsychicDrone>
   <!-- EN: Every colonist of the {0} gender winces in pain!\n\nSome distant engine of hatred is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
-  <LetterIncidentPsychicDrone>ชาวอาณานิคมเพศ{0}ทุกคนเสียวสะดุ้งด้วยความเจ็บปวด!\n\nเครื่องจักรแห่งความเกลียดชังกำลังปลุกเร้า มันปล่อยโดรนพลังจิตที่ทรงพลังออกมาทั่วทั้งภูมิภาคนี้, โดยความถี่นั่นเหมือนจะมีผลกับแค่เพศ{0} ในช่วงเวลาไม่กี่วันนี้, อารมณ์ของบางคนจะแย่ลง\n\nโดรนพลังจิตเลเวล {1}</LetterIncidentPsychicDrone>
+  <LetterIncidentPsychicDrone>ชาวนิคมเพศ{0}ทุกคนเสียวสะดุ้งด้วยความเจ็บปวด!\n\nเครื่องจักรแห่งความเกลียดชังกำลังปลุกเร้า มันปล่อยโดรนพลังจิตที่ทรงพลังออกมาทั่วทั้งภูมิภาคนี้, โดยความถี่นั่นเหมือนจะมีผลกับแค่เพศ{0} ในช่วงเวลาไม่กี่วันนี้, อารมณ์ของบางคนจะแย่ลง\n\nโดรนพลังจิตเลเวล {1}</LetterIncidentPsychicDrone>
 
   <!-- EN: Psychic soothe -->
   <LetterLabelPsychicSoothe>พลังจิตปลอบประโลม</LetterLabelPsychicSoothe>
@@ -170,7 +170,7 @@
   <!-- EN: Ransom demand at {0} -->
   <RansomDemandTitle>เรียกค่าไถ่ที่ {0}</RansomDemandTitle>
   <!-- EN: {1} contacts you on radio. They are holding former colonist {PAWN_labelShort} for ransom.\n\nThey're willing to release {PAWN_objective} back to you in exchange for {2} silver. -->
-  <RansomDemand>{1} ติดต่อคุณผ่านวิทยุ พวกเขาจับอดีตชาวอาณานิคม {PAWN_labelShort} เพื่อเรียกค่าไถ่\n\nพวกเขายินดีที่จะปล่อย {PAWN_objective} กลับคืนคุณ แลกเปลี่ยนกับแร่เงิน {2}</RansomDemand>
+  <RansomDemand>{1} ติดต่อคุณผ่านวิทยุ พวกเขาจับอดีตชาวนิคม {PAWN_labelShort} เพื่อเรียกค่าไถ่\n\nพวกเขายินดีที่จะปล่อย {PAWN_objective} กลับคืนคุณ แลกเปลี่ยนกับแร่เงิน {2}</RansomDemand>
   <!-- EN: Accept -->
   <RansomDemand_Accept>ตกลง</RansomDemand_Accept>
   <!-- EN: Reject -->

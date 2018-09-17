@@ -79,7 +79,7 @@
   <!-- EN: jealous -->
   <Jealous.degreeDatas.jealous.label>ขี้อิจฉา</Jealous.degreeDatas.jealous.label>
   <!-- EN: For {PAWN_nameDef}, it's degrading to have a less impressive bedroom than someone else. {PAWN_pronoun} gets a mood loss if any colonist has a more impressive bedroom. -->
-  <Jealous.degreeDatas.jealous.description>สำหรับ [PAWN_nameDef] แล้ว, ถือเป็นความขายหน้าถ้ามีห้องนอนที่น่าประทับใจน้อยกว่าใครคนไหน [PAWN_pronoun] จะอารมณ์เสียถ้าชาวอาณานิคมคนใด มีห้องนอนที่น่าประทับใจมากกว่า</Jealous.degreeDatas.jealous.description>
+  <Jealous.degreeDatas.jealous.description>สำหรับ [PAWN_nameDef] แล้ว, ถือเป็นความขายหน้าถ้ามีห้องนอนที่น่าประทับใจน้อยกว่าใครคนไหน [PAWN_pronoun] จะอารมณ์เสียถ้าชาวนิคมคนใด มีห้องนอนที่น่าประทับใจมากกว่า</Jealous.degreeDatas.jealous.description>
   
   <!-- EN: kind -->
   <Kind.degreeDatas.kind.label>ใจดี</Kind.degreeDatas.kind.label>

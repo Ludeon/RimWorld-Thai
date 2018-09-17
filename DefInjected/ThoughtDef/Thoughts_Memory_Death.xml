@@ -12,21 +12,21 @@
   <KnowColonistDied.stages.colonist_died.description>คนของเราเสียชีวิต เราควรจะสามารถดูแลคนของเราได้</KnowColonistDied.stages.colonist_died.description>
   
   <!-- EN: justified execution of colonist -->
-  <KnowColonistExecuted.stages.justified_execution_of_colonist.label>ชาวอาณานิคมถูกทำให้ตาย</KnowColonistExecuted.stages.justified_execution_of_colonist.label>
+  <KnowColonistExecuted.stages.justified_execution_of_colonist.label>ชาวนิคมถูกทำให้ตาย</KnowColonistExecuted.stages.justified_execution_of_colonist.label>
   <!-- EN: A guilty colonist was executed. It was justified, but still sad. -->
-  <KnowColonistExecuted.stages.justified_execution_of_colonist.description>ชาวอาณานิคมถูกทำให้ตาย</KnowColonistExecuted.stages.justified_execution_of_colonist.description>
+  <KnowColonistExecuted.stages.justified_execution_of_colonist.description>ชาวนิคมถูกทำให้ตาย</KnowColonistExecuted.stages.justified_execution_of_colonist.description>
   <!-- EN: colonist euthanized -->
-  <KnowColonistExecuted.stages.colonist_euthanized.label>ชาวอาณานิคมถูกประหาร</KnowColonistExecuted.stages.colonist_euthanized.label>
+  <KnowColonistExecuted.stages.colonist_euthanized.label>ชาวนิคมถูกประหาร</KnowColonistExecuted.stages.colonist_euthanized.label>
   <!-- EN: A colonist was euthanized. It was humane, but still sad. -->
-  <KnowColonistExecuted.stages.colonist_euthanized.description>ชาวอาณานิคมถูกฆ่าตายอย่างเลือดเย็น อาณานิคมนี้ดูเหมือนจะชั่วร้ายมากขึ้นทุกวัน</KnowColonistExecuted.stages.colonist_euthanized.description>
+  <KnowColonistExecuted.stages.colonist_euthanized.description>ชาวนิคมถูกฆ่าตายอย่างเลือดเย็น อาณานิคมนี้ดูเหมือนจะชั่วร้ายมากขึ้นทุกวัน</KnowColonistExecuted.stages.colonist_euthanized.description>
   <!-- EN: colonist executed -->
-  <KnowColonistExecuted.stages.colonist_executed.label>อวัยวะของชาวอาณานิคมถูกเก็บเกี่ยวและตาย</KnowColonistExecuted.stages.colonist_executed.label>
+  <KnowColonistExecuted.stages.colonist_executed.label>อวัยวะของชาวนิคมถูกเก็บเกี่ยวและตาย</KnowColonistExecuted.stages.colonist_executed.label>
   <!-- EN: A colonist was killed in cold blood. It seemed a bit evil. -->
-  <KnowColonistExecuted.stages.colonist_executed.description>ชาวอาณานิคมตายเพราะบางคนนำอวัยวะของเขาออกไป มันเลวร้ายมาก</KnowColonistExecuted.stages.colonist_executed.description>
+  <KnowColonistExecuted.stages.colonist_executed.description>ชาวนิคมตายเพราะบางคนนำอวัยวะของเขาออกไป มันเลวร้ายมาก</KnowColonistExecuted.stages.colonist_executed.description>
   <!-- EN: colonist organ-harvested -->
-  <KnowColonistExecuted.stages.colonist_organharvested.label>ชาวอาณานิคมเสียชีวิตในการเก็บเกี่ยวอวัยวะ</KnowColonistExecuted.stages.colonist_organharvested.label>
+  <KnowColonistExecuted.stages.colonist_organharvested.label>ชาวนิคมเสียชีวิตในการเก็บเกี่ยวอวัยวะ</KnowColonistExecuted.stages.colonist_organharvested.label>
   <!-- EN: A colonist died because someone took body parts from him. It's horrible. -->
-  <KnowColonistExecuted.stages.colonist_organharvested.description>ชาวอาณานิคมเสียชีวิตหลังจากที่ถูกถอดออกอวัยวะเขา นั่นเป็นสิ่งที่โหดร้าย</KnowColonistExecuted.stages.colonist_organharvested.description>
+  <KnowColonistExecuted.stages.colonist_organharvested.description>ชาวนิคมเสียชีวิตหลังจากที่ถูกถอดออกอวัยวะเขา นั่นเป็นสิ่งที่โหดร้าย</KnowColonistExecuted.stages.colonist_organharvested.description>
   
   <!-- EN: justified execution -->
   <KnowGuestExecuted.stages.justified_execution.label>บางคนถูกทำให้ตาย</KnowGuestExecuted.stages.justified_execution.label>

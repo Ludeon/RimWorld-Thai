@@ -177,13 +177,13 @@
   <MessageSocialFight>{PAWN1_labelShort} เริ่มการต่อสู้ทางสังคมกับ {PAWN2_labelShort}</MessageSocialFight>
   
   <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}’s marriage. -->
-  <MessageNewMarriageCeremony>ชาวอาณานิคมกำลังรวบตัว เพื่อเฉลิมฉลองการแต่งงานของ {PAWN1_labelShort} และ {PAWN2_labelShort}</MessageNewMarriageCeremony>
+  <MessageNewMarriageCeremony>ชาวนิคมกำลังรวบตัว เพื่อเฉลิมฉลองการแต่งงานของ {PAWN1_labelShort} และ {PAWN2_labelShort}</MessageNewMarriageCeremony>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony! -->
   <MessageMarriageCeremonyStarts>{PAWN1_labelShort} และ {PAWN2_labelShort1} กำลังเริ่มพิธีแต่งงาน!</MessageMarriageCeremonyStarts>
   <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has been called off. -->
   <MessageMarriageCeremonyCalledOff>พิธีสมรส {PAWN1_labelShort} และ {PAWN2_labelShort} ถูกยกเลิก</MessageMarriageCeremonyCalledOff>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} have married. Colonists are now celebrating the occasion. -->
-  <MessageNewlyMarried>{PAWN1_labelShort} และ {PAWN2_labelShort} เป็นคู่สมรสกัน ชาวอาณานิคมเฉลิมฉลองในโอกาสนี้</MessageNewlyMarried>
+  <MessageNewlyMarried>{PAWN1_labelShort} และ {PAWN2_labelShort} เป็นคู่สมรสกัน ชาวนิคมเฉลิมฉลองในโอกาสนี้</MessageNewlyMarried>
   <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has finished. -->
   <MessageMarriageCeremonyAfterPartyFinished>พิธีสมรส {PAWN1_labelShort} และ {PAWN2_labelShort} เสร็จสิ้นแล้ว</MessageMarriageCeremonyAfterPartyFinished>
   
@@ -306,7 +306,7 @@
   <MessageTransportPodsArrivedAndAddedToCaravan>กระสวยขนส่งของคุณมาถึงแล้ว เพิ่มสิ่งเหล่านี้ลง {0}</MessageTransportPodsArrivedAndAddedToCaravan>
   
   <!-- EN: Your colonists have finished loading the transport pods. -->
-  <MessageFinishedLoadingTransporters>ชาวอาณานิคมของคุณโหลดกระสวยขนส่งเสร็จสิ้นแล้ว</MessageFinishedLoadingTransporters>
+  <MessageFinishedLoadingTransporters>ชาวนิคมของคุณโหลดกระสวยขนส่งเสร็จสิ้นแล้ว</MessageFinishedLoadingTransporters>
 
   <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
   <MessageCantLoadMoreIntoTransporters>TODO</MessageCantLoadMoreIntoTransporters>

@@ -141,9 +141,9 @@
   <!-- EN: Damage taken (this map) -->
   <ThisMapDamageTaken>ความมั่งคั่งของอาณานิคม  (แผนที่นี้)</ThisMapDamageTaken>
   <!-- EN: Colonists killed -->
-  <ColonistsKilled>ชาวอาณานิคมที่ถูกฆ่า</ColonistsKilled>
+  <ColonistsKilled>ชาวนิคมที่ถูกฆ่า</ColonistsKilled>
   <!-- EN: Colonists launched into space -->
-  <ColonistsLaunched>ชาวอาณานิคมที่ถูกส่งไปยังอวกาศ</ColonistsLaunched>
+  <ColonistsLaunched>ชาวนิคมที่ถูกส่งไปยังอวกาศ</ColonistsLaunched>
 
   <!-- Research tab -->
   <!-- EN: project tech level -->

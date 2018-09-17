@@ -11,7 +11,7 @@
   
   <!-- EN: recreation -->
   <Joy.label>ความสุข</Joy.label>
-  <Joy.description>สิ่งบันเทิงหรือเพลิดเพลินสำหรับชาวอาณานิคม</Joy.description>
+  <Joy.description>สิ่งบันเทิงหรือเพลิดเพลินสำหรับชาวนิคม</Joy.description>
   
   <!-- EN: misc -->
   <Misc.label>อื่นๆ</Misc.label>
@@ -47,6 +47,6 @@
   
   <!-- EN: zone -->
   <Zone.label>โซน</Zone.label>
-  <Zone.description>กำหนดโซน และเขตที่จะให้ชาวอาณานิคม ทำกิจกรรมต่างๆ</Zone.description>
+  <Zone.description>กำหนดโซน และเขตที่จะให้ชาวนิคม ทำกิจกรรมต่างๆ</Zone.description>
   
 </LanguageData>

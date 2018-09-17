@@ -49,7 +49,7 @@
   <!-- EN: psychic drone -->
   <PsychicDrone.label>โดรนหุ่นพลังจิต</PsychicDrone.label>
   <!-- EN: A distant, powerful AI is emitting waves of psychic force that are driving people towards insanity. -->
-  <PsychicDrone.description>ปัญญาประดิษฐ์ที่ห่างไกลส่งเสียงคลื่นพลังจิต ครวญเพลงนี้ได้รับผลกระทบในระยะยาวสภาพจิตใจของชาวอาณานิคมและสามารถนำไปสู่ประสาทเสีย</PsychicDrone.description>
+  <PsychicDrone.description>ปัญญาประดิษฐ์ที่ห่างไกลส่งเสียงคลื่นพลังจิต ครวญเพลงนี้ได้รับผลกระทบในระยะยาวสภาพจิตใจของชาวนิคมและสามารถนำไปสู่ประสาทเสีย</PsychicDrone.description>
   <!-- EN: The psychic drone is ending. -->
   <PsychicDrone.endMessage>เสียงพึมพำพลังจิตกำลังจะสิ้นสุดลง</PsychicDrone.endMessage>
   

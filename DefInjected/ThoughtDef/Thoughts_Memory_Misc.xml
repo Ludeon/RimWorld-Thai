@@ -60,9 +60,9 @@
   <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>เราได้ฆ่าคน ราวกับว่ามันเป็นสัตว์</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>
   
   <!-- EN: colonist's organ harvested -->
-  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>อวัยวะของชาวอาณานิคมถูกเก็บเกี่ยวเอาออก</KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>
+  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>อวัยวะของชาวนิคมถูกเก็บเกี่ยวเอาออก</KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>
   <!-- EN: Someone took body parts from a colonist. It's horrible, breaking someone down for parts when they have no choice. -->
-  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>บางคนนำเอาอวัยวะออกจากชาวอาณานิคม มันเลวร้ายมาก, ที่แยกชิ้นส่วนบางคนออกเป็นชิ้นๆ เมื่อไม่มีทางเลือก</KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>
+  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>บางคนนำเอาอวัยวะออกจากชาวนิคม มันเลวร้ายมาก, ที่แยกชิ้นส่วนบางคนออกเป็นชิ้นๆ เมื่อไม่มีทางเลือก</KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>
   
   <!-- EN: someone's organ harvested -->
   <KnowGuestOrganHarvested.stages.someones_organ_harvested.label>อวัยวะของบางคนถูกเก็บเกี่ยวออก</KnowGuestOrganHarvested.stages.someones_organ_harvested.label>
@@ -77,7 +77,7 @@
   <!-- EN: my organ harvested -->
   <MyOrganHarvested.stages.my_organ_harvested.label>อวัยวะของฉันถูกเก็บเกี่ยวแล้ว</MyOrganHarvested.stages.my_organ_harvested.label>
   <!-- EN: The colony harvested body parts from me! They're breaking me down like an old engine! -->
-  <MyOrganHarvested.stages.my_organ_harvested.description>ชาวอาณานิคมตัดอวัยวะของฉันออกไป! พวกเขารื้อชิ้นส่วนฉันอย่างกับเป็นเครื่องยนต์เก่าๆ!</MyOrganHarvested.stages.my_organ_harvested.description>
+  <MyOrganHarvested.stages.my_organ_harvested.description>ชาวนิคมตัดอวัยวะของฉันออกไป! พวกเขารื้อชิ้นส่วนฉันอย่างกับเป็นเครื่องยนต์เก่าๆ!</MyOrganHarvested.stages.my_organ_harvested.description>
   
   <!-- EN: initial hope -->
   <NewColonyHope.stages.initial_hope.label>ความหวังกับอาณานิคมใหม่</NewColonyHope.stages.initial_hope.label>

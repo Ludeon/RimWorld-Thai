@@ -2,33 +2,33 @@
 <LanguageData>
   
   <!-- EN: builder -->
-  <Easy.label>นักสร้างฐาน (Easy)</Easy.label>
+  <Easy.label>นักสร้าง (Builder)</Easy.label>
   <!-- EN: Build a colony, while still having a taste of danger.\n\nRecommended for: Players who are new to this kind of game, and players who want to build a perfect colony.\n\nMajor threats appear, but they're weaker than other modes. Some extremely dangerous events are disabled. -->
-  <Easy.description>เป็นเกมที่มีสไตล์การเล่นที่เน้นไปที่การสร้างฐาน ภยันตรายจะลดขนาดลงนิดนึง</Easy.description>
+  <Easy.description>ก่อสร้างอาณานิคมโดยที่ยังมีรสชาดภัยอันตรายอยู่บ้าง\n\nแนะนำสำหรับ: ผู้เล่นที่ใหม่กับเกมประเภทนี้ และผู้เล่นที่อยากจะก่อสร้างอาณานิคมอันเพอร์เฟ็ค\n\nภัยคุกคามใหญ่ๆยังคงเกิดขึ้น แต่ถือว่าอ่อนลงเมื่อเทียบโหมดอื่น และภยันตรายใหญ่หลวงบางประการถูกปิดไป</Easy.description>
   
   <!-- EN: merciless -->
-  <Extreme.label>TODO</Extreme.label>
+  <Extreme.label>ไร้ความปราณี (Merciless)</Extreme.label>
   <!-- EN: Apply mastery of every RimWorld skill for just a chance to survive a harrowing trial against a merciless, unfair world.\n\nRecommended for: Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n\nThis level is about dealing with losses, because preventing them is impossible. You'll spend a lot of time fighting wounded and recovering, and you'll need to sacrifice people and things you love. Unfair challenges and capricious death may come at any time. -->
-  <Extreme.description>TODO</Extreme.description>
+  <Extreme.description>นำทักษะความชำนาญใน RimWorld ทุกอย่างมาใช้ เพื่อให้มีโอกาศรอด ต่อการย่ำยีจากความไร้ปราณีอย่างอยุติธรรม ของโลกใบนี้\n\nแนะนำสำหรับ: ผู้เล่นมีประสบการณ์ ที่อยากลองเผชิญหน้าความทารุณ ความท้าทายไร้ซึ่งความชอบธรรมใดๆ ที่แม้ทักษะความชำนาญอันใหญ่ยิ่ง ยังไม่แน่ว่าจะรอดพ้นจากความตายไป\n\nในระดับนี้แล้ว มันเป็นเรื่องของการจัดการความสูญเสีย เพราะว่าเป็นไปไม่ได้เลยที่จะป้องกันไว้ก่อน คุณจะใช้เวลามากมายไปกับเยียวยาบาดแผลและฟื้นตัว และคุณจำเป็นต้องเสียสละผู้คน สิ่งของ อันเป็นไปรักไป นี่เป็นความท้าทายแบบไม่มีคำว่าแฟร์ ความตายจะถึงมาตามอำเภอใจ ในเวลาใดก็ได้</Extreme.description>
   
   <!-- EN: savage -->
-  <Hard.label>ท้าทาย (Hard)</Hard.label>
+  <Hard.label>ดิบเถื่อน (Savage)</Hard.label>
   <!-- EN: Face brutal survival challenges. The price of survival is blood.\n\nRecommended for: Experienced players who want to experience great tests and sacrifice.\n\nSucceeding at this level requires diverse strategies, and disciplined preparation, and luck. Threats can spike and combine in vicious ways. Even if you play well, some challenges will be impossible to overcome without losses. -->
-  <Hard.description>มันเป็นเกมที่ท้าทาย ระดับนี้ต้องอาศัยกลยุทธ ยุทธวิธี และโชคช่วยในการเอาตัวรอด ซึ่งเป็นทางที่ควรค่าแก่การเล่น Rimworld อย่างแท้จริง</Hard.description>
+  <Hard.description>เผชิญหน้าความท้าทายแสนทารุณในการเอาชีวิตรอด ราคาของการอยู่รอดคือเลือด\n\nแนะนำสำหรับ: ผู้เล่นมีประสบการณ์ ที่อยากลองประสบการเสียสละและบททดสอบอันยิ่งใหญ่\n\nเพื่อพบเจอความสำเร็จในระดับนี้ ต้องการแผนการหลากหลายครอบคลุม การเตรียมพร้อมเข้มงวด และโชค. กล่าวแล้วภัยคุกคามมาแบบถาโถม ไปในทิศทางที่ชั่วร้าย ขนาดที่แม้คุณเล่นดี ความท้าทายบางอย่างยังเป็นไปไม่ได้ ที่จะก้าวข้าม โดยไม่เกิดการสูญเสีย</Hard.description>
   
   <!-- EN: medium -->
-  <Medium.label>ลำบาก (Medium)</Medium.label>
+  <Medium.label>ปานกลาง (Medium)</Medium.label>
   <!-- EN: Build a community while facing down dangerous threats.\n\nRecommended for: Experienced strategy game players on their first game of RimWorld, or skilled RimWorld players who want some breathing room to pursue funny or weird goals.\n\nThere's room to grow and thrive, but it's still a dangerous planet. -->
-  <Medium.description>มันเป็นดาวที่ยากลำบาก ภยันตรายต่างๆอาจจะค่อนข้างอันตราย และก็ไม่มีโบนัสสำหรับอารมณ์ของชาวอาณานิคมหรือผลผลิตทางการเกษตร</Medium.description>
+  <Medium.description>ก่อร่างสร้างชุมชนไปพร้อมกับเผชิญหน้าภัยคุกคามอันตราย\n\nแนะนำสำหรับ: ผู้เล่นที่มีประสบการณ์เกมวางแผนมาก่อน มาเล่น RimWorld เป็นครั้งแรก หรือผู้เล่น RimWorld อันชำนาญแล้วแต่ต้องการช่องว่างให้หายใจบ้าง เพื่อความสนุกและเป้าหมายแปลกๆ\n\nมีช่องว่างให้เจริญเติบโตและก้าวหน้ารุ่งเรือง แต่นับว่ายังอยู่บนดาวเคราะห์อันตราย</Medium.description>
   
   <!-- EN: peaceful -->
   <Peaceful.label>เงียบสงบ (Peaceful)</Peaceful.label>
   <!-- EN: Build a community in sandbox environment.\n\nRecommendeed for: Players who want to focus on the community-building aspects of RimWorld.\n\nThis mode disables major threatening events, but challenges like disease, mental breaks, and mad animals still occur. -->
-  <Peaceful.description>สำหรับผู้ที่ต้องการพักผ่อนและสร้างอาณานิคมในสภาพแวดล้อมแบบ Sandbox\n\nเหตุการณ์ที่คุกคามที่สำคัญ ๆ ถูกปิดใช้งาน แต่อาณานิคมยังคงไม่สบายใจและสัตว์ก็ยังคงคลั่งไคล้ได้ตลอดเวลา</Peaceful.description>
+  <Peaceful.description>ก่อร่างสร้างชุมชนในสภาพแวดล้อม Sandbox \n\nแนะนำสำหรับ: ผู้เล่นที่โฟกัสไปยังมุมการก่อสร้างและชุมชนของ RimWorld\n\nโหมดนี้ปิดใช้งานเหตุการณ์คุกคามส่วนใหญ่ไป แต่ความท้าทายอย่างโรคระบาด สติแตก และสัตว์คลั่ง ก็ยังคงเกิดขึ้นอยู่</Peaceful.description>
   
   <!-- EN: rough -->
-  <Rough.label>TODO</Rough.label>
+  <Rough.label>ทุรกันดาร (Rough)</Rough.label>
   <!-- EN: Strive to survive on a rough, tough planet.\n\nRecommended for: Players with experience with RimWorld, looking to play a rough story requiring skill to survive.\n\nThere will be good times and bad times; triumph and tragedy. It's all for the drama. -->
-  <Rough.description>TODO</Rough.description>
+  <Rough.description>นำพาความเจริญ บนดาวเคราะห์อันทรหด ทุรกันดาร\n\nแนะนำสำหรับ: ผู้เล่นที่มีประสบการณ์เล่น RimWorld มองหาเรื่องราวยากลำบาก ซึ่งเรียกร้องความเชี่ยวชาญจึงจะรอดไปได้\n\nมีทั้งเวลาดีและร้าย ชัยชนะและโศกนาฎกรรม ทั้งหมดทั้งมวลเพื่อความเร้าใจ</Rough.description>
   
 </LanguageData>

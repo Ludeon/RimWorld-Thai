@@ -15,7 +15,7 @@
   <!-- EN: In prison cell: For prisoner use -->
   <InPrisonCell>TODO</InPrisonCell>
   <!-- EN: For colonist use -->
-  <ForColonistUse>สำหรับชาวอาณานิคม</ForColonistUse>
+  <ForColonistUse>สำหรับชาวนิคม</ForColonistUse>
   <!-- EN: Medical -->
   <MedicalBed>การแพทย์</MedicalBed>
   <!-- EN: Owner -->
@@ -23,7 +23,7 @@
   <!-- EN: Owners -->
   <Owners>เจ้าของ</Owners>
   <!-- EN: Assigned colonist -->
-  <AssignedColonist>ชาวอาณานิคมที่ได้รับมอบหมาย</AssignedColonist>
+  <AssignedColonist>ชาวนิคมที่ได้รับมอบหมาย</AssignedColonist>
   <!-- EN: Died on the {0} -->
   <DiedOn>TODO</DiedOn>
   <!-- EN: Nobody -->
@@ -83,7 +83,7 @@
   <!-- EN: Rename animal -->
   <RenameAnimal>TODO</RenameAnimal>
   <!-- EN: Rename colonist -->
-  <RenameColonist>เปลี่ยนชื่อชาวอาณานิคม</RenameColonist>
+  <RenameColonist>เปลี่ยนชื่อชาวนิคม</RenameColonist>
   <!-- EN: unknown -->
   <UnknownLower>ไม่ทราบ</UnknownLower>
   <!-- EN: On -->
@@ -829,7 +829,7 @@
   <!-- EN: Contains -->
   <CasketContains>บรรจุ</CasketContains>
   <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
-  <CasketWarning>คำเตือน!\n\n{PAWN_nameDef} เป็นชาวอาณานิคมคนสุดท้ายที่ยืนยัดอยู่! หากคุณปล่อยให้{PAWN_objective}ก้าวเข้าสู่เครื่องแช่แข็ง คุณจะไม่สามารถเล่นต่อได้. แน่ใจหรือว่าจะดำเนินการต่อ?</CasketWarning>
+  <CasketWarning>คำเตือน!\n\n{PAWN_nameDef} เป็นชาวนิคมคนสุดท้ายที่ยืนยัดอยู่! หากคุณปล่อยให้{PAWN_objective}ก้าวเข้าสู่เครื่องแช่แข็ง คุณจะไม่สามารถเล่นต่อได้. แน่ใจหรือว่าจะดำเนินการต่อ?</CasketWarning>
 
   <!-- Ship launch report -->
   <!-- EN: Cannot launch. -->
