@@ -5,12 +5,12 @@
   <ColonistMood.label>อารมณ์ของชาวนิคม</ColonistMood.label>
   
   <!-- EN: debug -->
-  <Debug.label>TODO</Debug.label>
+  <Debug.label>Debug</Debug.label>
   
   <!-- EN: population -->
-  <Population.label>ประชากร</Population.label>
+  <Population.label>จำนวนประชากร</Population.label>
   
   <!-- EN: wealth -->
-  <Wealth.label>ความร่ำรวย</Wealth.label>
+  <Wealth.label>ความมั่งคั่งร่ำรวย</Wealth.label>
   
 </LanguageData>

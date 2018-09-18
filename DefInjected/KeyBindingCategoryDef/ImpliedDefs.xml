@@ -2,22 +2,22 @@
 <LanguageData>
   
   <!-- EN: พื้น tab -->
-  <Architect_Floors.label>เมนู ชั้น</Architect_Floors.label>
+  <Architect_Floors.label>เมนู พื้น</Architect_Floors.label>
   
   <!-- EN: เฟอร์นิเจอร์ tab -->
   <Architect_Furniture.label>เมนู เฟอร์นิเจอร์</Architect_Furniture.label>
   
   <!-- EN: ความสุข tab -->
-  <Architect_Joy.label>เมนู ความสุข</Architect_Joy.label>
+  <Architect_Joy.label>เมนู ผ่อนคลาย</Architect_Joy.label>
   
   <!-- EN: อื่นๆ tab -->
   <Architect_Misc.label>เมนู เบ็ดเตล็ด</Architect_Misc.label>
   
   <!-- EN: คำสั่ง tab -->
-  <Architect_Orders.label>เมนูคำสั่ง</Architect_Orders.label>
+  <Architect_Orders.label>เมนู สั่งการ</Architect_Orders.label>
   
   <!-- EN: พลังงาน tab -->
-  <Architect_Power.label>เมนู ปัจจุบัน</Architect_Power.label>
+  <Architect_Power.label>เมนู พลังงาน</Architect_Power.label>
   
   <!-- EN: การผลิต tab -->
   <Architect_Production.label>เมนู การผลิต</Architect_Production.label>
@@ -26,7 +26,7 @@
   <Architect_Security.label>เมนู ความปลอดภัย</Architect_Security.label>
   
   <!-- EN: ยาน tab -->
-  <Architect_Ship.label>เมนู ยานอวกาศ</Architect_Ship.label>
+  <Architect_Ship.label>เมนู ยาน</Architect_Ship.label>
   
   <!-- EN: โครงสร้าง tab -->
   <Architect_Structure.label>เมนู โครงสร้าง</Architect_Structure.label>
@@ -35,6 +35,6 @@
   <Architect_Temperature.label>เมนู อุณหภูมิ</Architect_Temperature.label>
   
   <!-- EN: โซน tab -->
-  <Architect_Zone.label>เมนู โซน / พื้นที่</Architect_Zone.label>
+  <Architect_Zone.label>เมนู โซน</Architect_Zone.label>
   
 </LanguageData>

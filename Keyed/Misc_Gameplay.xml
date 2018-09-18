@@ -601,7 +601,7 @@
   <!-- EN: Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again. -->
   <SelectNextInSquareTip>เลือกของต่อไปในช่องเดียวกัน\n\nกด: {0}\n\nคุณสามารถทำแบบนี้ได้ด้วยการกดช้าๆในช่องนี้อีกครั้งหนึ่ง</SelectNextInSquareTip>
   <!-- EN: View information about this object. -->
-  <DefInfoTip>ดูข้อมูลเกียวกับสิ่งของชิ้นนี้</DefInfoTip>
+  <DefInfoTip>ดูข้อมูลเกี่ยวกับสิ่งนี้</DefInfoTip>
 
   <!-- Hostility response -->
   <!-- EN: Change how this person will react to nearby enemies when not drafted. -->

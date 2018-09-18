@@ -49,9 +49,9 @@
   <DesignatorMineDesc>กำหนดเขตของหินที่จะถูกขุดเหมืองออก</DesignatorMineDesc>
 
   <!-- EN: Smooth surface -->
-  <DesignatorSmoothSurface>TODO</DesignatorSmoothSurface>
+  <DesignatorSmoothSurface>ขัดพื้นผิว</DesignatorSmoothSurface>
   <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
-  <DesignatorSmoothSurfaceDesc>TODO</DesignatorSmoothSurfaceDesc>
+  <DesignatorSmoothSurfaceDesc>กำหนดกำแพงหรือผืนดินที่เป็นหินหยาบเพื่อขัดให้เรียบ</DesignatorSmoothSurfaceDesc>
 
   <!-- EN: Plan -->
   <DesignatorPlan>ผัง</DesignatorPlan>
@@ -64,14 +64,14 @@
   <DesignatorPlanRemoveDesc>เอาผังที่กำหนดออก</DesignatorPlanRemoveDesc>
 
   <!-- EN: Forbid -->
-  <DesignatorForbid>TODO</DesignatorForbid>
+  <DesignatorForbid>ห้าม</DesignatorForbid>
   <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
-  <DesignatorForbidDesc>TODO</DesignatorForbidDesc>
+  <DesignatorForbidDesc>มาร์คไอเท็มว่าเป็นสิ่งต้องห้าม ชาวนิคมจะไม่สามารถทำอะไรกับไอเท็มที่ระบุได้</DesignatorForbidDesc>
 
   <!-- EN: Unforbid -->
-  <DesignatorUnforbid>TODO</DesignatorUnforbid>
+  <DesignatorUnforbid>ถอนห้าม</DesignatorUnforbid>
   <!-- EN: Mark items as unforbidden. Colonists will be able to interact with the designated items. -->
-  <DesignatorUnforbidDesc>TODO</DesignatorUnforbidDesc>
+  <DesignatorUnforbidDesc>มาร์คไอเท็มว่าไม่ใช่สิ่งต้องห้าม ชาวนิคมจะสามารถจับต้องไอเท็มที่ระบุได้</DesignatorUnforbidDesc>
 
   <!-- EN: Expand home area -->
   <DesignatorAreaHomeExpand>ขยายเขตบ้าน</DesignatorAreaHomeExpand>
@@ -93,9 +93,9 @@
   <DesignatorAreaNoRoofExpandDesc>สร้างเขตที่จะไม่มีหลังคา และจะรื้อหลังคาแบบบางที่มีก่อนหน้านี้ลงมา</DesignatorAreaNoRoofExpandDesc>
 
   <!-- EN: Ignore roof area -->
-  <DesignatorAreaIgnoreRoofExpand>TODO</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpand>ละเขตหลังคา</DesignatorAreaIgnoreRoofExpand>
   <!-- EN: Colonists will ignore roofs in this area. -->
-  <DesignatorAreaIgnoreRoofExpandDesc>TODO</DesignatorAreaIgnoreRoofExpandDesc>
+  <DesignatorAreaIgnoreRoofExpandDesc>ชาวนิคมจะไม่สนใจหลังคาในพื้นที่นี้</DesignatorAreaIgnoreRoofExpandDesc>
 
   <!-- EN: Expand snow clear area -->
   <DesignatorAreaSnowClearExpand>ขยายเขตปลอดหิมะ</DesignatorAreaSnowClearExpand>
@@ -127,14 +127,14 @@
   <DesignatorZoneCreateStorageDumpingDesc>สร้างที่เก็บของที่ชาวนิคมจะเก็บขยะไว้\nเครื่องมือนี้สามารถใช้ขยายที่ทิ้งที่มีอยู่แล้วก็ได้เช่นกัน</DesignatorZoneCreateStorageDumpingDesc>
 
   <!-- EN: Shrink zones -->
-  <DesignatorZoneDelete>ลบโซน</DesignatorZoneDelete>
+  <DesignatorZoneDelete>ย่อโซน</DesignatorZoneDelete>
   <!-- EN: Shrink zone -->
-  <DesignatorZoneDeleteSingular>TODO</DesignatorZoneDeleteSingular>
+  <DesignatorZoneDeleteSingular>ย่อโซน</DesignatorZoneDeleteSingular>
   <!-- EN: Remove zones, like stockpile zones or growing zones. -->
-  <DesignatorZoneDeleteDesc>เอาโซนออก, เช่นโซนที่เก็บของหรือโซนเพาะปลูก</DesignatorZoneDeleteDesc>
+  <DesignatorZoneDeleteDesc>เอาโซนออก อย่างเช่นโซนคลังเก็บของ หรือโซนเพาะปลูก</DesignatorZoneDeleteDesc>
 
   <!-- EN: Expand zone -->
-  <DesignatorZoneExpand>TODO</DesignatorZoneExpand>
+  <DesignatorZoneExpand>ขยายโซน</DesignatorZoneExpand>
   
   <!-- EN: Claim -->
   <DesignatorClaim>อ้างกรรมสิทธิ์</DesignatorClaim>
@@ -147,9 +147,9 @@
   <DesignatorRemoveFloorDesc>เอาพื้นออกเพื่อเผยให้เห็นแผ่นดินข้างใต้</DesignatorRemoveFloorDesc>
 
   <!-- EN: Remove bridge -->
-  <DesignatorRemoveBridge>TODO</DesignatorRemoveBridge>
+  <DesignatorRemoveBridge>รื้อสะพาน</DesignatorRemoveBridge>
   <!-- EN: Remove bridges to reveal the terrain underneath. -->
-  <DesignatorRemoveBridgeDesc>TODO</DesignatorRemoveBridgeDesc>
+  <DesignatorRemoveBridgeDesc>รื้อสะพาน เปิดเผยผืนดินเบื้องล่าง</DesignatorRemoveBridgeDesc>
 
   <!-- EN: Strip -->
   <DesignatorStrip>แก้ผ้า</DesignatorStrip>
@@ -191,7 +191,7 @@
   <!-- EN: The terrain here is already {0}. -->
   <TerrainIsAlready>พื้นที่นี่นั้น {0} อยู่แล้ว</TerrainIsAlready>
   <!-- EN: The surface is already marked for smoothing. -->
-  <SurfaceBeingSmoothed>TODO</SurfaceBeingSmoothed>
+  <SurfaceBeingSmoothed>พื้นผิวมาร์คไว้แล้วว่าจะขัด</SurfaceBeingSmoothed>
   <!-- EN: Identical thing already exists here. -->
   <IdenticalThingExists>สิ่งที่เหมือนกันมีอยู่แล้วที่นี่</IdenticalThingExists>
   <!-- EN: Identical blueprint already exists here. -->
@@ -205,7 +205,7 @@
   <!-- EN: Must target a removable floor. -->
   <TerrainMustBeRemovable>ต้องชี้ที่พื้นปูที่เอาออกได้</TerrainMustBeRemovable>
   <!-- EN: The waterwheel must be on moving water. -->
-  <MustBeOnMovingWater>TODO</MustBeOnMovingWater>
+  <MustBeOnMovingWater>กังหันน้ำต้องอยู่ในน้ำไหล</MustBeOnMovingWater>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
@@ -219,8 +219,8 @@
   <!-- EN: Construction needed -->
   <ConstructionNeeded>การก่อสร้างจำเป็น</ConstructionNeeded>
   <!-- EN: None of your {0} have this skill. -->
-  <NoColonistWithConstructionSkillTip>TODO</NoColonistWithConstructionSkillTip>
+  <NoColonistWithConstructionSkillTip>ไม่มีใครใน {0} มีทักษะได้</NoColonistWithConstructionSkillTip>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
-  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>TODO</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
+  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>ทั้งหมดใน {0} ซึ่งมีทักษะนี้ ไม่ได้รับมอบหมายให้ทำ {1}</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
 
 </LanguageData>

@@ -4,26 +4,26 @@
   <!-- EN: haul -->
   <Haul.label>ขนของ</Haul.label>
   <!-- EN: The animal will randomly haul items from time to time (though it can't be directed to haul specific items). -->
-  <Haul.description>สัตว์นั้นสามารถขนของต่างๆได้</Haul.description>
+  <Haul.description>สัตว์จะสุ่มขนไอเท็มเป็นบางครั้งบางคราว (แต่ว่าไม่สามารถสั่งไปขนไอเท็มนั้นนี้ได้ตรงๆ)</Haul.description>
   
   <!-- EN: obedience -->
   <Obedience.label>เชื่อฟัง</Obedience.label>
   <!-- EN: The animal can be assigned a master who it will follow and defend. -->
-  <Obedience.description>สัตว์นั้นสามารถกำหนดให้มีเจ้านายผู้ต้องคอยติดตามและปกป้อง</Obedience.description>
+  <Obedience.description>สัตว์สามารถมอบหมายหน้าที่ ให้คอยติดตามและปกป้องเจ้านาย</Obedience.description>
   
   <!-- EN: release -->
   <Release.label>ปล่อย</Release.label>
   <!-- EN: The animal can be released to attack distant targets instead of just defending its master. -->
-  <Release.description>สัตว์นั้นสามารถปล่อยไปโจมตีจากระยะไกลแทนที่จะปกป้องเจ้านาย</Release.description>
+  <Release.description>สัตว์สามารถปล่อยออกไปโจมตีระยะไกลได้ แทนที่จะแค่รอปกป้องเจ้านาย</Release.description>
   
   <!-- EN: rescue -->
   <Rescue.label>ช่วยเหลือ</Rescue.label>
   <!-- EN: The animal will rescue wounded allies and drag them to safety. -->
-  <Rescue.description>สัตว์นั้นสามารถช่วยเหลือพันธมิตรที่บาดเจ็บและ\nลากพวกเขากลับมายังที่ปลอดภัย</Rescue.description>
+  <Rescue.description>สัตว์จะช่วยเหลือพันธมิตรที่บาดเจ็บ และลากพวกเขามายังที่ปลอดภัย</Rescue.description>
   
   <!-- EN: tameness -->
-  <Tameness.label>TODO</Tameness.label>
+  <Tameness.label>เชื่องเชื่อ</Tameness.label>
   <!-- EN: The animal can learn to consider itself a member of your colony. -->
-  <Tameness.description>TODO</Tameness.description>
+  <Tameness.description>สัตว์สามารถเรียนรู้ที่จะคิดพิจารณาได้ว่า ตัวเองเป็นหนึ่งในสมาชิกขางอาณานิคมคุณ</Tameness.description>
   
 </LanguageData>

@@ -19,9 +19,9 @@
   <!-- EN: This colonist is not able to do any work of this type because of his health condition. -->
   <IncapableOfWorkTypeBecauseOfCapacities>อาณานิคมนี้ไม่สามารถทำงานประเภทนี้เนื่องจากสภาพสุขภาพของเขา</IncapableOfWorkTypeBecauseOfCapacities>
   <!-- EN: E -->
-  <EmergencyWorkMarker>E</EmergencyWorkMarker>
+  <EmergencyWorkMarker>ฉ</EmergencyWorkMarker>
   <!-- EN: Warning: The average of relevant skills is very low. -->
-  <SelectedWorkTypeWithVeryBadSkill>คำเตือน: ทักษะต่ำมากสำหรับงานนี้</SelectedWorkTypeWithVeryBadSkill>
+  <SelectedWorkTypeWithVeryBadSkill>คำเตือน: ทักษะที่เกี่ยวข้องโดยเฉลี่ยต่ำมาก</SelectedWorkTypeWithVeryBadSkill>
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
@@ -35,15 +35,15 @@
   <!-- EN: Edit... -->
   <AssignTabEdit>แก้ไข...</AssignTabEdit>
   <!-- EN: Manage drug policies -->
-  <ManageDrugPolicies>จัดการนโยบายยาเสพติด</ManageDrugPolicies>
+  <ManageDrugPolicies>กำหนดนโยบายการใช้ยา</ManageDrugPolicies>
   
   <!-- Restrictions tab -->
   <!-- EN: Copy -->
-  <Copy>ขัดลอก</Copy>
+  <Copy>คัดลอก</Copy>
   <!-- EN: Paste -->
   <Paste>วาง</Paste>
   <!-- EN: Allowed area -->
-  <AllowedArea>เขตพื้นที่อนุญาต</AllowedArea>
+  <AllowedArea>พื้นที่อนุญาต</AllowedArea>
   
   <!-- Animals tab -->
   <!-- EN: Master -->
@@ -51,39 +51,39 @@
   <!-- EN: Pregnant ({0} / {1}) -->
   <PregnantIconDesc>ตั้งครรภ์ ({0} / {1})</PregnantIconDesc>
   <!-- EN: Bonded to -->
-  <BondedTo>TODO</BondedTo>
+  <BondedTo>ผูกพันธ์กับ</BondedTo>
   
   <!-- Wildlife tab -->
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
-  <IsPredator>TODO</IsPredator>
+  <IsPredator>สิ่งมีชีวิตนี้นับเป็นผู้ล่า เมื่อหิวโหยมันจะออกล่าสิ่งมีชีวิตเล็กกว่า - นั่นรวมถึงคน</IsPredator>
   
   <!-- Factions tab -->
   <!-- EN: Hostile -->
-  <Hostile>ศัตรู</Hostile>
+  <Hostile>ปรปักษ์</Hostile>
   <!-- EN: Ally -->
-  <Ally>TODO</Ally>
+  <Ally>พันธมิตร</Ally>
   <!-- EN: defeated -->
-  <DefeatedLower>พ่ายแพ้</DefeatedLower>
+  <DefeatedLower>พ่ายแพ้ให้</DefeatedLower>
   <!-- EN: Enemy of {0} -->
-  <HostileTo>ศัตรูของ {0}</HostileTo>
+  <HostileTo>เป็นศัตรูกับ {0}</HostileTo>
   <!-- EN: Current goodwill and relations status with this faction. -->
   <CurrentGoodwillTip>ความนิยมและสถานะความสัมพันธ์ในปัจจุบันของฝ่ายนี้</CurrentGoodwillTip>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
-  <CurrentGoodwillTip_PermanentEnemy>TODO</CurrentGoodwillTip_PermanentEnemy>
+  <CurrentGoodwillTip_PermanentEnemy>ฝักฝ่ายนี้เป็นปรปักษ์กันถาวร พวกเขาจะบุกปล้นถิ่นฐานและกองคาราวานของคุณ ความสัมพันธ์กับพวกเขาจะไม่ดีขึ้นเลยไม่ว่าด้วยเหตุผลอะไร</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
-  <CurrentGoodwillTip_Ally>TODO</CurrentGoodwillTip_Ally>
+  <CurrentGoodwillTip_Ally>ฝักฝ่ายนี้เป็นพันธมิตรกัน พวกจะส่งนักสู้มาช่วยเหลือคุณหากสามารถ ถ้าความสัมพันธ์ตกลงต่ำกว่า {0} พวกเขาจะกลายเป็นกลาง</CurrentGoodwillTip_Ally>
   <!-- EN: This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you. -->
-  <CurrentGoodwillTip_Neutral>TODO</CurrentGoodwillTip_Neutral>
+  <CurrentGoodwillTip_Neutral>ฝักฝ่ายนี้เป็นกลาง พวกเขาจะแลกเปลื่ยนและพูดคุยกับคุณโดยอิสระ ถ้าความสัมพันธ์ตกลงต่ำกว่า {0} พวกเขาจะกลายเป็นปรปักษ์ และถ้าความสัมพันธ์เพิ่มสูงกว่า {1} พวกเขาจะกลายเป็นพันธมิตร และเริ่มทำงานเต็มใจเพื่อช่วยเหลือคุณ</CurrentGoodwillTip_Neutral>
   <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
-  <CurrentGoodwillTip_Hostile>TODO</CurrentGoodwillTip_Hostile>
+  <CurrentGoodwillTip_Hostile>ฝักฝ่ายนี้เป็นปรปักษ์ พวกเขาจะบุกปล้นถิ่นฐานและกองคาราวานของคุณ ถ้าความสัมพันธ์เพิ่มสูงกว่า {0} พวกเขาจะกลายเป็นกลาง</CurrentGoodwillTip_Hostile>
   <!-- EN: This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day. -->
-  <CurrentGoodwillTip_NaturalGoodwill>TODO</CurrentGoodwillTip_NaturalGoodwill>
+  <CurrentGoodwillTip_NaturalGoodwill>ฝักฝ่ายนี้มีไมตรีจิตอยู่ระหว่าง {0} ถึง {1} หากค่าไมตรีจิตสูงกว่า {1} มันจะลดลง {3} ต่อวัน หากค่าไมตรีจิตต่ำกว่า {0} มันจะเพิ่มขึ้น {2} ต่อวัน</CurrentGoodwillTip_NaturalGoodwill>
   
   <!-- Social tab -->
   <!-- EN: Friend -->
   <Friend>เพื่อน</Friend>
   <!-- EN: Rival -->
-  <Rival>คู่ต่อสู้</Rival>
+  <Rival>คู่แข่ง</Rival>
   <!-- EN: Acquaintance -->
   <Acquaintance>คนรู้จัก</Acquaintance>
   
@@ -91,7 +91,7 @@
   <!-- EN: Graph -->
   <Graph>กราฟ</Graph>
   <!-- EN: Messages -->
-  <Messages>TODO</Messages>
+  <Messages>ข้อความ</Messages>
   <!-- EN: Statistics -->
   <Statistics>สถิติ</Statistics>
   
@@ -107,52 +107,52 @@
   <!-- EN: All -->
   <AllDays>ทั้งหมด</AllDays>
   <!-- EN: Value -->
-  <Value>ค่า</Value>
+  <Value>คุณค่า</Value>
   <!-- EN: External -->
   <External>ภายนอก</External>
 
   <!-- History tab - Messages -->
   <!-- EN: Show letters -->
-  <ShowLetters>TODO</ShowLetters>
+  <ShowLetters>แสดงจดหมาย</ShowLetters>
   <!-- EN: Show messages -->
-  <ShowMessages>TODO</ShowMessages>
+  <ShowMessages>แสดงข้อความ</ShowMessages>
   <!-- EN: Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages. -->
-  <PinArchivableTip>TODO</PinArchivableTip>
+  <PinArchivableTip>ปักหรือไม่ปักหมุดให้ข้อความนี้\n\nข้อความไม่ปักหมุดที่เก่าสุด จะถูกลบทิ้งโดยอัตโนมัติ เมื่อรายการไปถึงจำนวนสูงสุดที่ {0} ข้อความ</PinArchivableTip>
   <!-- EN: no messages -->
-  <NoMessages>TODO</NoMessages>
+  <NoMessages>ไม่มีข้อความใดๆ</NoMessages>
 
   <!-- History tab - Statistics -->
   <!-- EN: Play time -->
-  <Playtime>เวลาที่เล่น</Playtime>
+  <Playtime>เล่นมาเป็นเวลา</Playtime>
   <!-- EN: Storyteller -->
-  <Storyteller>ผู้เล่า</Storyteller>
+  <Storyteller>ผู้ดำเนินเรื่อง</Storyteller>
   <!-- EN: Colony wealth (this map) -->
-  <ThisMapColonyWealthTotal>ความมั่งคั่งของอาณานิคม (แผนที่นี้)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthTotal>ความมั่งคั่งของอาณานิคม (ในแผนที่นี้)</ThisMapColonyWealthTotal>
   <!-- EN: Colony wealth (items) (this map) -->
-  <ThisMapColonyWealthItems>ความมั่งคั่งของอาณานิคม  (ไอเท็ม) (แผนที่นี้)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthItems>ความมั่งคั่งของอาณานิคม (ไอเท็ม) (ในแผนที่นี้)</ThisMapColonyWealthItems>
   <!-- EN: Colony wealth (buildings) (this map) -->
-  <ThisMapColonyWealthBuildings>ความมั่งคั่งของอาณานิคม  (สิ่งปลูกสร้าง) (แผนที่นี้)</ThisMapColonyWealthBuildings>
+  <ThisMapColonyWealthBuildings>ความมั่งคั่งของอาณานิคม (สิ่งปลูกสร้าง) (ในแผนที่นี้)</ThisMapColonyWealthBuildings>
   <!-- EN: Colony wealth (people and animals) (this map) -->
-  <ThisMapColonyWealthColonistsAndTameAnimals>TODO</ThisMapColonyWealthColonistsAndTameAnimals>
+  <ThisMapColonyWealthColonistsAndTameAnimals>ความมั่งคั่งของอาณานิคม (คนและสัตว์) (ในแผนที่นี้)</ThisMapColonyWealthColonistsAndTameAnimals>
   <!-- EN: Major threats -->
-  <NumThreatBigs>ภยันตรายหลัก</NumThreatBigs>
+  <NumThreatBigs>ภัยคุมคามหลักๆ</NumThreatBigs>
   <!-- EN: Enemy raids -->
   <NumEnemyRaids>ศัตรูมาบุกปล้น</NumEnemyRaids>
   <!-- EN: Damage taken (this map) -->
-  <ThisMapDamageTaken>ความมั่งคั่งของอาณานิคม  (แผนที่นี้)</ThisMapDamageTaken>
+  <ThisMapDamageTaken>ความมั่งคั่งของอาณานิคม (ในแผนที่นี้)</ThisMapDamageTaken>
   <!-- EN: Colonists killed -->
-  <ColonistsKilled>ชาวนิคมที่ถูกฆ่า</ColonistsKilled>
+  <ColonistsKilled>ชาวนิคมที่ถูกฆ่าตาย</ColonistsKilled>
   <!-- EN: Colonists launched into space -->
-  <ColonistsLaunched>ชาวนิคมที่ถูกส่งไปยังอวกาศ</ColonistsLaunched>
+  <ColonistsLaunched>ชาวนิคมที่ถูกส่งขึ้นอวกาศ</ColonistsLaunched>
 
   <!-- Research tab -->
   <!-- EN: project tech level -->
-  <ProjectTechLevel>ระดับเทคโนโลยี</ProjectTechLevel>
+  <ProjectTechLevel>ระดับเทคโนโลยีของโครงการ</ProjectTechLevel>
   <!-- EN: your tech level -->
   <YourTechLevel>ระดับเทคโนโลยีของคุณ</YourTechLevel>
   <!-- EN: cost multiplier -->
   <ResearchCostMultiplier>ตัวคูณค่าใช้จ่าย</ResearchCostMultiplier>
   <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
-  <ResearchCostComparison>ต้นทุนโครงการ {0} กลายเป็น {1} สำหรับคุณเนื่องจากระดับเทคโนโลยีของคุณ</ResearchCostComparison>
+  <ResearchCostComparison>ต้นทุนโครงการ {0} กลายเป็น {1} สำหรับคุณ เนื่องจากระดับเทคโนโลยีของคุณตอนนี้</ResearchCostComparison>
   
 </LanguageData>
