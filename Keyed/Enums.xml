@@ -207,9 +207,9 @@
   <!-- EN: all characters -->
   <PawnGenerationContext_All>ตัวละครทุกตัว</PawnGenerationContext_All>
   <!-- EN: player starting characters -->
-  <PawnGenerationContext_PlayerStarter>player starting characters</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_PlayerStarter>ตัวละครเริ่มต้นของผู้เล่น</PawnGenerationContext_PlayerStarter>
   <!-- EN: non-player characters -->
-  <PawnGenerationContext_NonPlayer>non-player characters</PawnGenerationContext_NonPlayer>
+  <PawnGenerationContext_NonPlayer>ตัวละครที่ไม่ใช่ของผู้เล่น</PawnGenerationContext_NonPlayer>
   
   <!-- Animal name display mode -->
   <!-- EN: Show animal names -->
