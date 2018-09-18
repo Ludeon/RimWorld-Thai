@@ -1,74 +1,46 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!-- WITab titles -->
-  <!-- EN: Terrain -->
   <TabTerrain>ภูมิประเทศ</TabTerrain>
-  <!-- EN: Planet -->
   <TabPlanet>ดาวเคราะห์</TabPlanet>
-  <!-- EN: Social -->
   <TabCaravanSocial>สังคม</TabCaravanSocial>
-  <!-- EN: Health -->
   <TabCaravanHealth>สุขภาพ</TabCaravanHealth>
-  <!-- EN: Needs -->
   <TabCaravanNeeds>จำเป็น</TabCaravanNeeds>
-  <!-- EN: Gear -->
-  <TabCaravanGear>อุปกรณ์</TabCaravanGear>
-  <!-- EN: Items -->
-  <TabCaravanItems>ไอเท็ม</TabCaravanItems>
+  <TabCaravanGear>คลัง</TabCaravanGear>
+  <TabCaravanItems>สิ่งของ</TabCaravanItems>
   
   <!-- Misc -->
-  <!-- EN: Abandon {{0}}x {1_labelShort} -->
-  <AbandonSliderText>ทอดทิ้ง {{0}}x {1_labelShort}</AbandonSliderText>
-  <!-- EN: Do you really want to abandon {1_label}?\n\nAbandoned items vanish and can never be recovered. -->
-  <ConfirmAbandonItemDialog>คุณจะแน่ใจจริงๆว่าจะทอดทิ้ง {1_label}?\n\nไอเท็มที่ทิ้งจะหายไป และไม่สามารถเอากลับคืนมาได้</ConfirmAbandonItemDialog>
-  <!-- EN: Abandon -->
+  <AbandonSliderText>ทอดทิ้ง {{0}}x {0}</AbandonSliderText>
+  <ConfirmAbandonItemDialog>คุณจะแน่ใจไหมว่าคุณจะ ทอดทิ้ง {0}?\n\nของที่ทอดทิ้งจะหายไป จะไม่สามารถกลับคืนมาได้</ConfirmAbandonItemDialog>
   <AbandonTip>ทอดทิ้ง</AbandonTip>
-  <!-- EN: Banish -->
   <BanishTip>ขับไล่</BanishTip>
-  <!-- EN: Abandon specific count -->
-  <AbandonSpecificCountTip>จำนวนที่จะต้องการทิ้ง</AbandonSpecificCountTip>
-  <!-- EN: Abandon (all) -->
+  <AbandonSpecificCountTip>จำนวนที่จะต้องทอดทิ้ง</AbandonSpecificCountTip>
   <AbandonAllTip>ทอดทิ้ง (ทั้งหมด)</AbandonAllTip>
-  <!-- EN: Abandoned items vanish and can never be recovered. -->
-  <AbandonItemTipExtraText>ไอเท็มที่ทอดทิ้งจะหายไป จะไม่สามารถกลับคืนมาได้</AbandonItemTipExtraText>
-  <!-- EN: {1_labelShort} will most likely die. -->
-  <BanishTipWillDie>เป็นไปได้มากว่า {1_labelShort} จะตายในที่สุด</BanishTipWillDie>
+  <AbandonItemTipExtraText>ของที่ทอดทิ้งจะหายไป จะไม่สามารถกลับคืนมาได้</AbandonItemTipExtraText>
+  <BanishTipWillDie>{0} น่าจะเสียชัวิต</BanishTipWillDie>
   
   <!-- Caravan inspect -->
-  <!-- EN: Colonists -->
-  <CaravanColonists>ชาวนิคม</CaravanColonists>
-  <!-- EN: Prisoners and animals -->
+  <CaravanColonists>ชาวอาณานิคม</CaravanColonists>
   <CaravanPrisonersAndAnimals>นักโทษและสัตว์</CaravanPrisonersAndAnimals>
-  <!-- EN: Inventory -->
   <CaravanItems>ไอเท็ม</CaravanItems>
-  <!-- EN: Click to open a tab with more details. -->
   <OpenSpecificTabButtonTip>คลิกเพื่อเปิดแท็บที่มีรายละเอียดมากขึ้น</OpenSpecificTabButtonTip>
-  <!-- EN: Prisoners -->
   <CaravanPrisoners>นักโทษ</CaravanPrisoners>
-  <!-- EN: Inventory -->
   <CaravanWeaponsAndApparel>ไอเท็ม</CaravanWeaponsAndApparel>
-  <!-- EN: None capable -->
   <NoneCapable>ไม่สามารถทำได้</NoneCapable>
-  <!-- EN: Caravan not moving -->
-  <GainingJoyBecauseCaravanNotMoving>TODO</GainingJoyBecauseCaravanNotMoving>
-  
+  <GainingJoyBecauseCaravanNotMoving>คาราวานไม่เคลื่อนที่</GainingJoyBecauseCaravanNotMoving>
+
   <!-- Caravan gear -->
-  <!-- EN: Drag to rearrange. -->
   <DragToRearrange>ลากเพื่อจัดเรียง</DragToRearrange>
 
   <!-- Caravan items -->
-  <!-- EN: Assign drug policies -->
-  <AssignDrugPolicies>TODO</AssignDrugPolicies>
+  <AssignDrugPolicies>กำหนดนโยบายด้านยาเสพติด</AssignDrugPolicies>
 
   <!-- Caravan health -->
-  <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
-  <BeCarriedIfSickTip>TODO</BeCarriedIfSickTip>
-  
+  <BeCarriedIfSickTip>ไม่ว่าจะเป็นคนหรือสัตว์ตัวนี้ควรจะดำเนินการโดยสมาชิกคนอื่น ๆ ในกองคาราวานเมื่อเบื่อ \n\nสมาชิกในกองคาราวานสามารถอยู่ได้แม้ว่าขบวนคาราวานกำลังเคลื่อนที่อยู่ แต่ก็ชะลอตัวลง</BeCarriedIfSickTip>
+    
   <!-- Planet -->
-  <!-- EN: Seed -->
   <PlanetSeed>Seed</PlanetSeed>
-  <!-- EN: Coverage -->
-  <PlanetCoverageShort>ครอบคลุม</PlanetCoverageShort>
+  <PlanetCoverageShort>ความคุ้มครอง</PlanetCoverageShort>
 
 </LanguageData>

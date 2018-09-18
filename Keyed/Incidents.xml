@@ -1,235 +1,142 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- EN: Mad {ANIMAL_labelShort} -->
-  <LetterLabelAnimalInsanitySingle>{ANIMAL_labelShort} คลั่ง!</LetterLabelAnimalInsanitySingle>
-  <!-- EN: A local {ANIMAL_label} has gone mad. It will attack everyone it sees. -->
-  <AnimalInsanitySingle>{ANIMAL_label} เกิดอาการบ้าคลั่ง. มันจะโจมตีทุกคนที่เห็น</AnimalInsanitySingle>
-  <!-- EN: Mad {0} -->
-  <LetterLabelAnimalInsanityMultiple>{0} คลั่ง!</LetterLabelAnimalInsanityMultiple>
-  <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
+  <LetterLabelAnimalInsanitySingle>สัตว์คลั่ง !</LetterLabelAnimalInsanitySingle>
+  <AnimalInsanitySingle>มี {0}  เกิดอาการบ้าคลั่ง. มันจะโจมตีทุกคนที่เห็น</AnimalInsanitySingle>
+  <LetterLabelAnimalInsanityMultiple>ฝูงสัตว์บ้าคลั่ง !</LetterLabelAnimalInsanityMultiple>
   <AnimalInsanityMultiple>การจัดเรียงของคลื่นพลังจิตบางส่วนได้กวาดผ่านภูมิทัศน์ อาณานิคมของคุณจะถูก แต่ ...\n\nดูเหมือนว่า {0} ในพื้นที่ได้รับการบ้าคลั่ง</AnimalInsanityMultiple>
 
-  <!-- EN: Blight -->
   <LetterLabelCropBlight>พืชผลถูกทำลาย</LetterLabelCropBlight>
-  <!-- EN: A colonist has noticed blight on your crops! You should cut or burn the blighted plants before the blight spreads. -->
   <LetterCropBlight>มีสิ่งลึกลับได้ทำลายพืชผลของเรา</LetterCropBlight>
 
-  <!-- EN: Miracle -->
   <LetterLabelMiracleHeal>ปาฏิหาริย์ !!</LetterLabelMiracleHeal>
-  <!-- EN: {0} has experienced a miraculous recovery! -->
   <MiracleHeal>{0} มีประสบการณ์การฟื้นตัวที่น่าอัศจรรย์!!</MiracleHeal>
 
   <!-- Enemy raids -->
-  <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
-  <EnemyRaidLeaderPresent>หนึ่งใน {LEADER_factionPawnsPlural} - {LEADER_labelShort} เป็นผู้นำของฝ่าย</EnemyRaidLeaderPresent>
+  <EnemyRaidLeaderPresent>หนึ่งใน {0} - {1} เป็นผู้นำของฝ่าย</EnemyRaidLeaderPresent>
 
   <!-- Friendly raids -->
-  <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
-  <FriendlyRaidLeaderPresent>หนึ่งใน {LEADER_factionPawnsPlural} - {LEADER_labelShort} เป็นผู้นำของฝ่าย</FriendlyRaidLeaderPresent>
+  <FriendlyRaidLeaderPresent>หนึ่งใน {0} - {1} เป็นผู้นำของฝ่าย</FriendlyRaidLeaderPresent>
+  
+  <LetterLabelRefugeePodCrash>การะสวยหลบหนี</LetterLabelRefugeePodCrash>
+  <RefugeePodCrash> [PAWN_title] ชื่อ [PAWN_nameDef] กำลังชนเข้ากับลำเลียงขนส่งที่อยู่ใกล้ ๆ ถ้า [PAWN_pronoun] รอดชีวิตจากผลกระทบได้ [PAWN_pronoun] จะได้รับบาดเจ็บสาหัส</RefugeePodCrash>
+  <RefugeePodCrash_Factionless>[PAWN_nameDef] ไม่มีส่วนเกี่ยวข้องกับฝ่ายใดฝ่ายหนึ่ง คุณสามารถช่วยเหลือ [PAWN_objective] และหวังว่า [PAWN_pronoun] จะเข้าร่วมได้อย่างเสรีหรือจับ [PAWN_objective] เพื่อรับสมัครหรือเป็นทาส</RefugeePodCrash_Factionless>
+  <RefugeePodCrash_Hostile>[PAWN_nameDef] มาจากศัตรูของคุณ [PAWN_factionName] คุณสามารถถ่ายภาพ [PAWN_objective] เพื่อวัตถุประสงค์ในการสรรหาหรือเป็นทาส</RefugeePodCrash_Hostile>
+  <RefugeePodCrash_NonHostile>[PAWN_nameDef] มาจาก [PAWN_factionName] ถ้าคุณช่วยเหลือ [PAWN_objective], [PAWN_pronoun] อาจเข้าร่วมได้อย่างอิสระ มิฉะนั้น [PAWN_pronon] จะกลับบ้านและกระจายความปรารถนาดีระหว่างฝ่ายของคุณ\n\nนอกจากนี้คุณยังสามารถจับ [PAWN_objective] เพื่อวัตถุประสงค์ในการสรรหาหรือเป็นทาสด้วยเช่นกัน แต่เรื่องนี้จะโกรธฝ่าย [PAWN_possessive]</RefugeePodCrash_NonHostile>
 
-  <!-- EN: Transport pod crash -->
-  <LetterLabelRefugeePodCrash>กระสวยขนส่งตก</LetterLabelRefugeePodCrash>
-  <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
-  <RefugeePodCrash>{PAWN_titleIndef} ชื่อ {PAWN_nameDef} ในกระสวยขนส่ง กำลังดิ่งตกลงมาใกล้ๆ\n\nถ้า {PAWN_pronoun} รอดชีวิตแรงกระแทก, {PAWN_pronoun} จะบาดเจ็บสาหัส</RefugeePodCrash>
-  <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
-  <RefugeePodCrash_Factionless>TODO</RefugeePodCrash_Factionless>
-  <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
-  <RefugeePodCrash_Hostile>TODO</RefugeePodCrash_Hostile>
-  <!-- EN: {PAWN_nameDef} is from {PAWN_factionName}. If you rescue {PAWN_objective}, {PAWN_pronoun} may join freely. Otherwise, {PAWN_pronoun} will return home and spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction. -->
-  <RefugeePodCrash_NonHostile>TODO</RefugeePodCrash_NonHostile>
+  <LetterLabelCargoPodCrash>กระส่วยขนส่งสินค้า</LetterLabelCargoPodCrash>
+  <CargoPodCrash>คุณตรวจพบกลุ่มสินค้าที่อยู่ใกล้ ๆ\n\nบางทีคุณอาจจะพบบางสิ่งบางอย่างที่มีประโยชน์ในซากปรักหักพัง</CargoPodCrash>
 
-  <!-- EN: Cargo pods -->
-  <LetterLabelCargoPodCrash>กระสวยสิ่งของ</LetterLabelCargoPodCrash>
-  <!-- EN: You have detected a cluster of cargo pods crashing nearby.\n\nPerhaps you'll find something useful in the wreckage. -->
-  <CargoPodCrash>คุณได้ตรวจพบกลุ่มของกระสวยสิ่งของอยู่บริเวณใกล้เคียง\n\nบางทีคุณอาจจะพบสิ่งที่มีประโยชน์ในซากกระสวย</CargoPodCrash>
-
-  <!-- EN: an electrical conduit -->
   <AnElectricalConduit>ท่อสายไฟ</AnElectricalConduit>
-  <!-- EN: A fault in {0} has caused a short circuit. -->
-  <ShortCircuit>ความผิดพลาดใน {0} ก่อให้เกิดการลัดวงจร</ShortCircuit>
-  <!-- EN: A fault in {0} has caused a short circuit which started a fire. -->
-  <ShortCircuitStartedFire>ความผิดพลาดใน {0} ก่อให้เกิดการลัดวงจร จนไฟลุกไหม้</ShortCircuitStartedFire>
-  <!-- EN: All {0} Wd of energy in the connected batteries has been discharged in an electrical explosion. -->
+  <ShortCircuit>ความผิดพลาดใน {0} ได้ก่อให้เกิดการลัดวงจร \n\nทั้งหมด {1} ของพลังงานในแบตเตอรี่ ที่เชื่อมต่อได้ปล่อยออกมา ทำให้เกิดการลัดวงจรจึงระเบิด</ShortCircuit>
+  <ShortCircuitStartedFire>เกิดข้อผิดพลาด {0} เกิดลัดวงจรซึ่งเริ่มมีไฟลุกไหม้</ShortCircuitStartedFire>
   <ShortCircuitDischargedEnergy>{0} ทั้งหมดมีการปล่อยพลังงานในแบตเตอรี่ที่เชื่อมต่อไว้ในการระเบิดด้วยไฟฟ้า</ShortCircuitDischargedEnergy>
-  <!-- EN: This large amount of power has created an explosion of considerable size. -->
   <ShortCircuitWasLarge>ใช้ไฟจำนวนมากของการใช้พลังงานอาจเกิดการระเบิดที่มีขนาดพอสมควร</ShortCircuitWasLarge>
-  <!-- EN: That really is a huge explosion. Wow. -->
   <ShortCircuitWasHuge>ที่จริงเป็นระเบิดขนาดใหญ่ ว้าว</ShortCircuitWasHuge>
 
-  <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}. -->
   <TraderArrival>ยานจะผ่านการค้าในบริเวณใกล้เคียง\n\nพวกเขาเป็นที่รู้จักกัน {0}. พวกเขาเป็น {1}.</TraderArrival>
 
-  <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
-  <SingleTravelerPassing>{PAWN_title} จาก {1} กำลังเดินผ่าน {PAWN_pronoun} มีชื่อว่า {2}</SingleTravelerPassing>
-  <!-- EN: A group of travelers from {0} are passing by. -->
+  <SingleTravelerPassing>{0} จาก {1} กำลังเดินผ่าน [PAWN_pronoun] มีชื่อว่า {2}</SingleTravelerPassing>
   <GroupTravelersPassing>กลุ่มของนักเดินทางจาก {0} จะเดินผ่าน</GroupTravelersPassing>
 
-  <!-- EN: Visitor -->
   <LetterLabelSingleVisitorArrives>ผู้มาเยือน</LetterLabelSingleVisitorArrives>
-  <!-- EN: {PAWN_titleIndef} from {1} is visiting the colony.\n\n{PAWN_pronoun} is named {PAWN_nameFull}.{3}{4} -->
-  <SingleVisitorArrives>{PAWN_titleIndef} จาก {1} มาเยือนอาณานิคม\n\n{PAWN_pronoun} นั้นมีชื่อว่า {PAWN_nameFull}.{3}{4}</SingleVisitorArrives>
-  <!-- EN: {PAWN_pronoun} seems to have a few items to trade. -->
-  <SingleVisitorArrivesTraderInfo>ดูเหมือนว่า {PAWN_pronoun} มีของบางสิ่งมาแลกเปลี่ยน</SingleVisitorArrivesTraderInfo>
-  <!-- EN: {PAWN_pronoun} is the leader of the faction. -->
-  <SingleVisitorArrivesLeaderInfo>เป็นผู้นำของฝ่าย {PAWN_pronoun}</SingleVisitorArrivesLeaderInfo>
-  <!-- EN: Visitors -->
+  <SingleVisitorArrives>{0} จาก {1} มาเยือนอาณานิคม\n\n[PAWN_pronoun] นั้นมีชื่อว่า {2}.{3}</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>ดูเหมือนว่า \n\n[PAWN_pronoun] จะมีของบางสิ่งมาแลกเปลี่ยน</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>เป็นผู้นำของฝ่าย \n\n[PAWN_pronoun]</SingleVisitorArrivesLeaderInfo>
   <LetterLabelGroupVisitorsArrive>ผู้มาเยือน</LetterLabelGroupVisitorsArrive>
-  <!-- EN: A group from {0} are visiting the colony.{1}{2} -->
-  <GroupVisitorsArrive>กลุ่มจาก {0} มาเยือนอาณานิคม {1}{2}</GroupVisitorsArrive>
-  <!-- EN: They seem to have a few items to trade. -->
+  <GroupVisitorsArrive>กลุ่มจาก {0} มาเยือนอาณานิคม{1}</GroupVisitorsArrive>
   <GroupVisitorsArriveTraderInfo>\n\nพวกเขาดูเหมือนว่าจะมีของบางสิ่งมาแลกเปลี่ยน</GroupVisitorsArriveTraderInfo>
-  <!-- EN: One of the visitors - {1_labelShort}, is the leader of the faction. -->
-  <GroupVisitorsArriveLeaderInfo>\n\nหนึ่งในผู้มาเยือน - {1_labelShort}, เป็นผู้นำของฝ่าย</GroupVisitorsArriveLeaderInfo>
-  <!-- EN: Visitors from {0} are leaving. -->
+  <GroupVisitorsArriveLeaderInfo>\n\nหนึ่งในผู้มาเยือน - {0}, เป็นผู้นำของฝ่าย</GroupVisitorsArriveLeaderInfo>
   <VisitorsLeaving>ผู้มาเยือนจาก {0} กำลังจากไป</VisitorsLeaving>
 
-  <!-- EN: Manhunter pack -->
   <LetterLabelManhunterPackArrived>ฝูงสัตว์โจมตี</LetterLabelManhunterPackArrived>
-  <!-- EN: A pack of man-hunting {0} have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack turrets that are powered down, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
-  <ManhunterPackArrived>กลุ่มสัตว์ล่ามนุษย์ {0} เข้ามาในพื้นที่ พวกมันมาเดินเตร่ล่าเนื้อของสัตว์มนุษย์\n\nพวกมันผ่านประตูไม่ได้ เพียงหลบอยู่ข้างในแล้วคุณจะปลอดภัย พวกมันไม่โจมตีป้อมปืนที่ไม่ทำงาน ดังนั้นปิดป้อมปืนของคุณไม่ให้โดนทำลาย\n\n{0} จะออกจากพื้นที่ในอีก 2-3 วัน คุณสามารถเลือกได้ว่าจะซ่อนและรอ หรือสู้พวกมัน</ManhunterPackArrived>
+  <ManhunterPackArrived>กลุ่มสัตว์ {0}  ได้เข้ามาในพื้นที่ พวกเขาจะเดินเตร่พื้นที่การล่าบมนุษย์\n\nพวกเขาไม่สามารถผ่านประตูดังนั้นถ้าคุณอยู่หลังกำแพงคุณควรจะปลอดภัย พวกเขาจะไม่โจมตีป้อมปืนที่ใช้งานไม่ได้ดังนั้นปิดป้อมปืนของคุณออกถ้าคุณต้องการจะเก็บมันไว้\n\nพวกเขาจะออกจากพื้นที่ในอีก 2-3 วัน</ManhunterPackArrived>
   
   <!-- Crashed ship part-->
-  <!-- EN: The ancient structure has emitted a psychic pulse that has driven nearby animals mad. -->
   <MessageAnimalInsanityPulse>โครงสร้างโบราณได้ปล่อยชีพจรพลังจิตที่มีการขับเคลื่อนสัตว์ใกล้เคียงบ้า</MessageAnimalInsanityPulse>
-  <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
   <LetterShipPartDroveColonistInsane>ส่วนยานที่ตกกระแทกได้ส่งคลื่นพลังจิตที่เน้นการขับเคลื่อนผู้ล่าอาณานิคม {0} คนบ้า</LetterShipPartDroveColonistInsane>
-  <!-- EN: Awoke {0} days ago -->
   <AwokeDaysAgo>ตื่นขึ้นมา {0} วันที่ผ่านมา</AwokeDaysAgo>
-  <!-- EN: Psychic drone level: {0} -->
   <PsychicDroneLevel>ระดับพลังเสียงของพลังจิต: {0}</PsychicDroneLevel>
-  <!-- EN: Drone intensifies -->
   <LetterLabelPsychicDroneLevelIncreased>ผึ้งตัวผู้จะทวีความรุนแรง</LetterLabelPsychicDroneLevelIncreased>
-  <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every humanlike in the area now feels more disturbed, terrified, and paranoid. -->
   <LetterPsychicDroneLevelIncreased>ตอนนี้ยานที่ตกกระแทกตอนนี้กำลังเปล่งเสียงทรงกลมที่มีพลังมากขึ้น Humanlike ทุกคนในพื้นที่ตอนนี้รู้สึกรบกวนมากขึ้นกลัวและหวาดระแวง</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
-  <!-- EN: Agent -->
   <LetterLabelAgentRevealed>ตัวประกัน</LetterLabelAgentRevealed>
-  <!-- EN: {0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now. -->
   <LetterAgentRevealed>{0} ได้รับการเปิดเผยในฐานะตัวประกันของศัตรูของคุณ {1}.\n\nพวกเขากำลังพยายามที่จะหลบหนีในขณะนี้</LetterAgentRevealed>
 
   <!-- Distant psychic drone -->
-  <!-- EN: Psychic drone -->
   <LetterLabelPsychicDrone>โดรนพลังจิต</LetterLabelPsychicDrone>
-  <!-- EN: Every colonist of the {0} gender winces in pain!\n\nSome distant engine of hatred is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
-  <LetterIncidentPsychicDrone>ชาวนิคมเพศ{0}ทุกคนเสียวสะดุ้งด้วยความเจ็บปวด!\n\nเครื่องจักรแห่งความเกลียดชังกำลังปลุกเร้า มันปล่อยโดรนพลังจิตที่ทรงพลังออกมาทั่วทั้งภูมิภาคนี้, โดยความถี่นั่นเหมือนจะมีผลกับแค่เพศ{0} ในช่วงเวลาไม่กี่วันนี้, อารมณ์ของบางคนจะแย่ลง\n\nโดรนพลังจิตเลเวล {1}</LetterIncidentPsychicDrone>
+  <LetterIncidentPsychicDrone>ชาวอาณานิคมทุกคนที่มีเพศ {0} เสียวสะดุ้งด้วยความเจ็บปวด!\n\nเครื่องยนต์แห่งความเกลียดที่อยู่ห่างไกลกำลังแกว่ง มันปล่อยโดรนพลังจิตที่ทรงพลังออกมาทั่วทั้งภูมิภาคนี้, ซึ่งความถี่นั่นเหมือนจะมีผลกับเพศ {0} ในช่วงเวลาไม่กี่วันนี้, อารมณ์ของบางคนจะแย่ลงพอควร</LetterIncidentPsychicDrone>
 
-  <!-- EN: Psychic soothe -->
   <LetterLabelPsychicSoothe>พลังจิตปลอบประโลม</LetterLabelPsychicSoothe>
-  <!-- EN: Every colonist of the {0} gender smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit better. -->
   <LetterIncidentPsychicSoothe>อาณานิคมของคุณเพศ {0} มีรอยยิ้มกับความพึงพอใจ!\n\nเครื่องยนต์แห่งความสุขที่ไกล่เกลี่ยจะทำให้ตื่นเต้นเร้าใจเป็นที่คาดการณ์เสียงทรงพลังจิตทั่วทั้งภูมิภาคนี้ ในความถี่ที่ดูเหมือนจะส่งผลต่อเพศ {0} ไม่กี่วันอารมณ์ของบางคนจะดีขึ้นนิดหน่อย.</LetterIncidentPsychicSoothe>
 
   <!-- Beavers -->
-  <!-- EN: Beavers! -->
   <LetterLabelBeaversArrived>อัลฟาบีเวอร์!</LetterLabelBeaversArrived>
-  <!-- EN: A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last source of wood in the region. -->
   <BeaversArrived>กลุ่มอัลฟาบีเวอร์ที่หิวกระหายมาถึงแล้ว\n\nพยายามกำจัดพวกมันก่อนที่ต้นไม้ทุกต้นในบริเวณนี้จะไม่เหลือซาก</BeaversArrived>
   
   <!-- Refugee chased -->
-  <!-- EN: Refugee chased at {0} -->
   <RefugeeChasedTitle>ผู้ลี้ภัยโดนไล่ล่าที่ {0}</RefugeeChasedTitle>
-  <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} calls you from nearby. {PAWN_pronoun} is being chased by {2} from {3}!\n\n{PAWN_pronoun} begs for safety and offers to join your colony. {PAWN_pronoun} tells you {PAWN_pronoun} is {4} years old, but there's no time to collect more information.\n\nBe warned - if you accept, you'll have to fight off the {2} on {PAWN_possessive} tail. Their group is composed of:\n\n{5} -->
-  <RefugeeChasedInitial>{PAWN_titleIndef} ชื่อ {PAWN_nameDef} โทรมาหาคุณจากสถานที่ใกล้เคียง. {PAWN_pronoun} ถูกไล่ล่าโดย {2} จาก {3}!\n\n{PAWN_pronoun}ร้องขอความคุ้มครอง และเสนอเข้าร่วมอาณานิคมของคุณ  {PAWN_pronoun} บอกคุณว่า {PAWN_pronoun} มีอายุ {4} ปี แต่มีเวลาน้อยเกินไปสำหรับข่างกรองอื่นๆ\n\nข้อตักเตือน - ถ้าคุณยอมรับ, คุณจะต้องสู้กับ {2} ที่ไล่ล่า {PAWN_possessive} มา ซึ่งพวกเขาประกอบด้วย:\n\n{5}</RefugeeChasedInitial>
-  <!-- EN: Offer safety -->
-  <RefugeeChasedInitial_Accept>เสนอให้ความคุ้มครอง</RefugeeChasedInitial_Accept>
-  <!-- EN: Ignore the message -->
-  <RefugeeChasedInitial_Reject>ไม่สนใจข้อความ</RefugeeChasedInitial_Reject>
-  <!-- EN: {1_labelShort} screams in panic through the tinny speaker before you cut off the transmission. -->
-  <RefugeeChasedRejected>{1_labelShort} ร้องเรียกด้วยความตื่นตระหนกผ่านลำโพงเล็กๆนั้น ก่อนที่คุณจะตัดสายไป</RefugeeChasedRejected>
+  <RefugeeChasedInitial>{1} ชื่อ {0} โทรมาหาคุณจากสถานที่ใกล้เคียง. [PAWN_pronoun] ถูกไล่ล่า {2} จาก {3}!\n\n[PAWN_pronoun]ขอให้คุ้มกันและเสนอที่จะเข้าร่วมเป็นอาณานิคมของคุณ  [PAWN_pronoun] มีอายุทางชีวภาพมา {4} ปี\n\nได้รับการเตือน - ถ้าคุณยอมรับ, คุณจะต้องต่อสู้กับ {2} ด้านหลัง [PAWN_possessive]</RefugeeChasedInitial>
+  <RefugeeChasedInitial_Accept>รับขอเสนอความปลอดภัย</RefugeeChasedInitial_Accept>
+  <RefugeeChasedInitial_Reject>ไม่สนใจ</RefugeeChasedInitial_Reject>
+  <RefugeeChasedRejected>{0} กรีดร้องด้วยความหวาดกลัวผ่านลำโพงก่อนที่คุณจะตัดสาย</RefugeeChasedRejected>
 
   <!-- Self-tame -->
-  <!-- EN: {1_kind} self-tamed -->
-  <LetterLabelAnimalSelfTame>{1_kind} สัตว์เชื่อง</LetterLabelAnimalSelfTame>
-  <!-- EN: {0} has become tame. -->
-  <LetterAnimalSelfTame>TODO</LetterAnimalSelfTame>
-  <!-- EN: {0} has become tame. It is now designated {ANIMAL_nameFull}. -->
-  <LetterAnimalSelfTameAndNameNumerical>TODO</LetterAnimalSelfTameAndNameNumerical>
-  <!-- EN: {0} has become tame. Colonists have decided to name it {ANIMAL_nameFull}. -->
-  <LetterAnimalSelfTameAndName>{0} กลายเป็นสัตว์เชื่อง ชาวนิคมได้ตัดสินใจที่จะตั้งชื่อ {ANIMAL_nameFull}.</LetterAnimalSelfTameAndName>
+  <LetterLabelAnimalSelfTame>{0} สัตว์เชื่อง</LetterLabelAnimalSelfTame>
+  <LetterAnimalSelfTame>{0} ได้กลายเป็นที่เชื่องต่อ</LetterAnimalSelfTame>
+  <LetterAnimalSelfTameAndNameNumerical>{0} ได้กลายเป็นสัตว์เชื่อง ตอนนี้กำหนดไว้ {1}.</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndName>{0} กลายเป็นสัตว์เชื่อง อาณานิคมได้ตัดสินใจที่จะตั้งชื่อ {1}.</LetterAnimalSelfTameAndName>
 
   <!-- Farm animals wander in -->
-  <!-- EN: {0} join -->
   <LetterLabelFarmAnimalsWanderIn>{0} เข้าร่วม</LetterLabelFarmAnimalsWanderIn>
-  <!-- EN: A group of {0}, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony. -->
   <LetterFarmAnimalsWanderIn>กลุ่มของ {0} ถูกทอดทิ้งหรือสูญหายได้เดินเข้ามาในพื้นที่\n\nพวกเขาดูเหมือนคุ้นเคยกับการติดต่อของมนุษย์และจะเข้าร่วมอาณานิคม</LetterFarmAnimalsWanderIn>
   
   <!-- Thrumbo passes -->
-  <!-- EN: Rare thrumbos -->
   <LetterLabelThrumboPasses>ธรัมโบ หายาก</LetterLabelThrumboPasses>
-  <!-- EN: A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days. -->
   <LetterThrumboPasses>ฝูงเล็ก ๆ ของ ธรัมโบ ได้เดินเข้ามาในพื้นที่\n\nโดยธรรมชาติของสิ่งมีชีวิตหายากเหล่านี้เป็นอันตรายมากเมื่อต้องเผชิญ พ่อค้าบางคนมีความเต็มใจที่จะจ่ายเงินเป็นจำนวนมากสำหรับหนังที่มีค่าของพวกเขาและฮอร์น\n\nธรัมโบ จะออกจากพื้นที่ในไม่กี่วัน</LetterThrumboPasses>
   
   <!-- Trader caravan -->
-  <!-- EN: {1} from {0} -->
-  <LetterLabelTraderCaravanArrival>{1} จาก {0}</LetterLabelTraderCaravanArrival>
-  <!-- EN: A caravan from {0} is approaching. They are a {1}.\n\nThey will hang around the colony for a few days before leaving. You can attack them - but this will anger their faction! -->
-  <LetterTraderCaravanArrival>คาราวานแลกเปลี่ยนจาก {0} ใกล้จะมาถึง พวกเขาเป็น {1}\n\nพวกเขาจะวนเวียนอยู่ในอาณานิคมไม่กี่วันก่อนจะจากไป คุณเลือกโจมตีพวกเชาได้ - แต่นั่นจะสร้างความโกรธเคืองจากฝักฝ่ายของพวกเขา!</LetterTraderCaravanArrival>
-  
+  <LetterLabelTraderCaravanArrival>พ่อค้าจาก {0}</LetterLabelTraderCaravanArrival>
+  <LetterTraderCaravanArrival>คาราวานแลกเปลี่ยนจาก {0} กำลังมาถึง\n\nพวกเขาจะอยู่แถวอาณานิคมไม่กี่วันก่อนจะจากไป คุณสามารถโจมตีได้ - แต่นั่นจะทำให้ฝ่ายของพวกเขาโกรธแน่!</LetterTraderCaravanArrival>
+
   <!-- Ransom demand -->
-  <!-- EN: Ransom demand at {0} -->
-  <RansomDemandTitle>เรียกค่าไถ่ที่ {0}</RansomDemandTitle>
-  <!-- EN: {1} contacts you on radio. They are holding former colonist {PAWN_labelShort} for ransom.\n\nThey're willing to release {PAWN_objective} back to you in exchange for {2} silver. -->
-  <RansomDemand>{1} ติดต่อคุณผ่านวิทยุ พวกเขาจับอดีตชาวนิคม {PAWN_labelShort} เพื่อเรียกค่าไถ่\n\nพวกเขายินดีที่จะปล่อย {PAWN_objective} กลับคืนคุณ แลกเปลี่ยนกับแร่เงิน {2}</RansomDemand>
-  <!-- EN: Accept -->
-  <RansomDemand_Accept>ตกลง</RansomDemand_Accept>
-  <!-- EN: Reject -->
-  <RansomDemand_Reject>ปฏิเสธ</RansomDemand_Reject>
+  	<RansomDemandTitle>เรียกค่าไถ่ที่ {0}</RansomDemandTitle>
+    <RansomDemand>{1} ติดต่อคุณในวิทยุ พวกเขาจับสมาชิกอาณานิคมในอดีต {0} เพื่อเรียกค่าไถ่\n\nพวกเขายินดีที่จะปล่อย [PAWN_objective] กลับไปหาคุณแลกเปลี่ยนสำหรับ {2}</RansomDemand>
+  <RansomDemand_Accept>ยอมรับ</RansomDemand_Accept>
+  <RansomDemand_Reject>ปฏิเสธ</RansomDemand_Reject> 
   
   <!-- Journey-related -->
-  <!-- EN: A friendly AI from your past named Charlon Whitestone has sent you a message!\n\nHe reveals that he has a starship hidden on this planet, and sends you its world coordinates.\n\nThe starship is currently in deep hibernation mode. You'll have to start it up when you arrive, then defend it from raiders trying to steal it until the startup sequence completes.\n\nIf you can get the ship off the ground, Charlon will take you off this rimworld, to the stars. -->
   <JourneyOffer>AI ที่เป็นมิตร จากอดีตของคุณชื่อ Charlon Whitestone ได้ส่งข้อความถึงคุณ!\n\nเขาแสดงให้เห็นว่าเขามียานอวกาศซ่อนอยู่บนดาวเคราะห์ดวงนี้และส่งพิกัดโลกไปให้คุณ\n\nถ้าคุณเดินทางไปที่ยาน, Charlon จะนำคุณออกจากโลกใบนี้ไปสู่ดาวฤกษ์</JourneyOffer>
-  <!-- EN: Ship found -->
   <EscapeShipFoundLabel>พบยานแล้ว</EscapeShipFoundLabel>
-  <!-- EN: You've reached the coordinates sent by Charlon Whitestone and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\nCharlon Whitestone warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <EscapeShipFound>คุณถึงพิกัดที่ Charlon Whitestone ส่งมาและค้นพบเอ็นเตอร์ไพรส์ที่ซ่อนอยู่\n\nเครื่องปฏิกรณ์ของยานยังคงอยู่ในโหมดไฮเบอร์เนต ลึกดังนั้นจึงไม่สามารถบินได้ คุณสามารถเริ่มต้นใช้งานได้โดยโต้ตอบกับแกนหลักของคอมพิวเตอร์\n\nCharlon Whitestone เตือนคุณว่ากระบวนการเริ่มต้นใช้งานจะใช้เวลาประมาณ 15 วันและลายเซ็นของพลังงานจะตรวจจับได้จากระยะไกล พลังงานประเภทบ่งชี้ถึง การบินระหว่างดวงดาวและจะดึงดูดแก๊งของผู้บุกรุกและนักล่าสมบัติ ตรวจสอบให้แน่ใจว่าการป้องกันของคุณได้รับการจัดเตรียมไว้พร้อมแล้ว</EscapeShipFound>
-  <!-- EN: Ship destroyed -->
   <EscapeShipLostLabel>ยานถูกทำลาย</EscapeShipLostLabel>
-  <!-- EN: Charlon Whitestone sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
   <EscapeShipLost>Charlon Whitestone ส่งข้อความถึงคุณ\n\nเขาเห็นว่าคุณสูญเสียการควบคุมยาน เพื่อป้องกันไม่ให้มันตกไปอยู่ในมือคนผิดเขาถูกบังคับให้ทริกเกอร์กลไกการทำลายตัวเองของยาน ยานลำนี้เป็นเพียงแค่ รู ในพื้นดินไปแล้ว\n\nคุณจำเป็นต้องหาทางออกอื่นจากดาวนี้</EscapeShipLost>
 
   <!-- Caravan meeting -->
-  <!-- EN: Caravan meeting by {0} -->
   <CaravanMeetingTitle>การประชุม Caravan โดย {0}</CaravanMeetingTitle>
-  <!-- EN: {0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2} -->
-  <CaravanMeeting>{0}ได้พบกับกองคาราวานจาก {1} อย่างสงบ คาราวานอื่นประกอบด้วย:n\n{2}</CaravanMeeting>
-  <!-- EN: Trade -->
-  <CaravanMeeting_Trade>ซื้อขาย</CaravanMeeting_Trade>
-  <!-- EN: Attack -->
+  <CaravanMeeting>กองคาราวานของคุณได้พบกับกองคาราวานอย่างสงบจาก {0}. คาราวานอื่นประกอบด้วย:n\n{1}</CaravanMeeting>
+  <CaravanMeeting_Trade>ค้าขาย</CaravanMeeting_Trade>
   <CaravanMeeting_Attack>โจมตี</CaravanMeeting_Attack>
-  <!-- EN: Move on -->
   <CaravanMeeting_MoveOn>เดินต่อไป</CaravanMeeting_MoveOn>
-  <!-- EN: no caravan members capable of trading -->
-  <CaravanMeeting_TradeIncapable>TODO</CaravanMeeting_TradeIncapable>
-  
+  <CaravanMeeting_TradeIncapable>ไม่มีสมาชิกคาราวานที่มีความสามารถในการซื้อขาย</CaravanMeeting_TradeIncapable>
+
   <!-- Caravan request -->
-  <!-- EN: Caravan request -->
   <LetterLabelCaravanRequest>คำขอคาราวาน</LetterLabelCaravanRequest>
-  <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
-  <LetterCaravanRequest>ถิ่นฐานใกล้เคียง, {0}, ติดต่อคุณพร้อมส่งคำขอทำการค้าพิเศษ พวกเขาต้องการซื้อ:\n\n  {1} (มูลค่า {2})\n\nในการแลกเปลื่ยน พวกเขาเสนอ:\n\n  {3} (มูลค่า {4})\n\nคำขอนี้หมดอายุหลังจาก: {5}\n\nถ้าคุณต้องการทำการค้านี้ ให้ส่งคาราวานพร้อมสิ่งที่โดนร้องขอมา คาดการเวลาใช้เดินทาง {6} คุณสามารถเรียกดูข้อเสนอนี้ได้อีกครั้ง โดยเลือก {0} บนแผนที่โลก</LetterCaravanRequest>
-  <!-- EN: Requesting: {0} ({3}), Reward: {1} ({4}) ({2} left) -->
-  <CaravanRequestInfo>ต้องการ: {0} ({3}), รางวัล: {1} ({4}) ({2} ซ้าย)</CaravanRequestInfo>
-  <!-- EN: normal quality or better -->
-  <NormalQualityOrBetter>TODO</NormalQualityOrBetter>
+  <LetterCaravanRequest>การตั้งถิ่นฐานใกล้เคียง, {0}, ติดต่อคุณด้วยคำขอการค้าพิเศษ พวกเขาต้องการซื้อ:\n\n  {1}\n\nในทางกลับกันพวกเขาเสนอ:\n\n  {2}\n\nคำขอนี้หมดอายุหลังจาก: {3}\n\nถ้าคุณต้องการทำการค้าส่งคาราวานพร้อมอุปกรณ์ที่ต้องการ คุณสามารถตรวจสอบข้อเสนอนี้โดยเลือก {0} บนแผนที่โลก</LetterCaravanRequest>
+  <CaravanRequestInfo>ร้องขอ: {0}, รางวัล: {1} ({2} ซ้าย)</CaravanRequestInfo>
+  <NormalQualityOrBetter>คุณภาพปกติหรือดีกว่า</NormalQualityOrBetter>
 
   <!-- Caravan demand -->
-  <!-- EN: Caravan demand by {0} -->
   <CaravanDemandTitle>ต้องการคาราวานโดย {0}</CaravanDemandTitle>
-  <!-- EN: {0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3} -->
-  <CaravanDemand>{0} ถูกดักโดยกลุ่ม {2} {4} จาก {1}. พวกเขาจะโจมตีเว้นแต่คุณให้เหล่านี้แก่พวกเขา:\n\n{3}</CaravanDemand>
-  <!-- EN: Give and pass -->
+  <CaravanDemand>กองคาราวานของคุณถูกซุ่มโจมตีโดยกลุ่ม {1} {3} จาก {0}. พวกเขาจะโจมตีเว้นแต่คุณจะให้พวกเขา:\n\n{2}</CaravanDemand>
   <CaravanDemand_Give>ให้และผ่าน</CaravanDemand_Give>
-  <!-- EN: Refuse and fight -->
   <CaravanDemand_Fight>ปฏิเสธและต่อสู้</CaravanDemand_Fight>
 
   <!-- Site no longer hostile -->
-  <!-- EN: Quest no longer available -->
-  <LetterLabelSiteNoLongerHostile>TODO</LetterLabelSiteNoLongerHostile>
-  <!-- EN: Quests no longer available -->
-  <LetterLabelSiteNoLongerHostileMulti>TODO</LetterLabelSiteNoLongerHostileMulti>
-  <!-- EN: Because you are no longer hostile with {0}, the {1} site is no longer available. -->
-  <LetterSiteNoLongerHostile>TODO</LetterSiteNoLongerHostile>
-  <!-- EN: Because you are no longer hostile with {0}, the following sites are no longer available -->
-  <LetterSiteNoLongerHostileMulti>TODO</LetterSiteNoLongerHostileMulti>
+  <LetterLabelSiteNoLongerHostile>ภารกิจไม่สามารถใช้ได้อีกต่อไป</LetterLabelSiteNoLongerHostile>
+  <LetterLabelSiteNoLongerHostileMulti>เควสไม่สามารถใช้งานได้อีกต่อไป</LetterLabelSiteNoLongerHostileMulti>
+  <LetterSiteNoLongerHostile>เนื่องจากคุณไม่เป็นมิตรกับ {0} แล้ว {1} จะไม่สามารถใช้งานได้อีกต่อไป</LetterSiteNoLongerHostile>
+  <LetterSiteNoLongerHostileMulti>เนื่องจากคุณไม่เป็นมิตรกับ {0} อีกต่อไปนี้จึงไม่สามารถใช้งานได้อีกต่อไป</LetterSiteNoLongerHostileMulti>
 
 </LanguageData>

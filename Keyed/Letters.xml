@@ -1,381 +1,190 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- EN: Jump to location -->
   <JumpToLocation>กระโดดไปยังตำแหน่ง</JumpToLocation>
-  <!-- EN: Postpone -->
   <PostponeLetter>เลื่อนเวลา</PostponeLetter>
-  <!-- EN: Reject -->
   <RejectLetter>ปฏิเสธ</RejectLetter>
   
-  <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>ฤดูร้อน</LetterLabelFirstSummerWarning>
-  <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
   <FirstSummerWarning>หน้าร้อนเริ่มขึ้นแล้ว! แต่หน้าหนาวกำลังคืบคลานเข้ามา\n\nพืชอาหารของคุณจะไม่เจริญเติบโตได้ในช่วงฤดูหนาว ให้แน่ใจว่าคุณได้เก็บมูลค่าของอาหารตอนนี้ในขณะที่คุณยังไม่สามารถปลูกมันได้\n\nคุณสามารถสร้างห้องทำความเย็น เพื่อป้องกันการแย่งอาหาร\n\nและพยายามที่จะซื้อขโมยหรือทำผ้าเตี่ยวผืนบางหรือคุณจะก้าวเท้าออกไปด้านนอกแบบหนาวๆ</FirstSummerWarning>
 
-  <!-- EN: Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again. -->
-  <LetterRelationsChange_Hostile>TODO</LetterRelationsChange_Hostile>
-  <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you.\n\nThis happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
-  <LetterRelationsChange_NeutralFromHostile>TODO</LetterRelationsChange_NeutralFromHostile>
-  <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied.\n\nWhile they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
-  <LetterRelationsChange_NeutralFromAlly>TODO</LetterRelationsChange_NeutralFromAlly>
-  <!-- EN: Relations with {0} have become very close. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral. -->
-  <LetterRelationsChange_Ally>TODO</LetterRelationsChange_Ally>
+  <RelationsBrokenDown>ความสัมพันธ์กับ {0} ได้พังลงแล้ว ตอนนี้พวกเขาเป็นศัตรูกับคุณ</RelationsBrokenDown>
+  <RelationsWarmed>ความสัมพันธ์กับ {0} ดีขึ้น พวกเขาจะไม่เป็นคัตรูกับคุณอีกต่อไป.</RelationsWarmed>
 
-  <!-- EN: goodwill -->
-  <goodwill>TODO</goodwill>
-  <!-- EN: Neutral -->
+  <RelationsBrokenCapture>เพราะคุณจับตัว {0} มา, ตอนนี้ {1} จึงเป็นศัตรูกับคุณ</RelationsBrokenCapture>
+
+  <ColonyGoodwill>ค่าความนิยมอาณานิคม</ColonyGoodwill>
   <Neutral>เป็นกลาง</Neutral>
-  <!-- EN: Death -->
-  <Death>TODO</Death>
 
-  <!-- EN: A {1_label} has short-circuited in the rain and started a fire. -->
-  <ShortCircuitRain>{1_label} ลัดวงจรในสายฝนและเริ่มลุกไหม้</ShortCircuitRain>
+  <ShortCircuitRain>{0} ลัดวงจรในสายฝนและเริ่มลุกไหม้</ShortCircuitRain>
 
-  <!-- EN: Area revealed -->
   <LetterLabelAreaRevealed>พื้นที่ถูกเปิดเผย</LetterLabelAreaRevealed>
-  <!-- EN: A new area has been revealed. -->
   <AreaRevealed>มีการเปิดเผยพื้นที่ใหม่</AreaRevealed>
-  <!-- EN: A new area has been revealed. It contains ancient, hostile mechanoids. -->
   <AreaRevealedWithMechanoids>มีการเปิดเผยพื้นที่ใหม่ มันมีโบราณรังเมคานอยด์ ไม่เป็นมิตร</AreaRevealedWithMechanoids>
 
-  <!-- EN: A roof has collapsed because it was too far from any support. -->
   <RoofCollapsed>หลังคาถล่มลงมาเพราะอยู่ห่างจากสิ่งที่ค้ำ</RoofCollapsed>
-  <!-- EN: These things were crushed: -->
   <TheseThingsCrushed>สิ่งเหล่านี้ถูกบดขยี้:</TheseThingsCrushed>
-  <!-- EN: Nothing was crushed. -->
   <NothingCrushed>ไม่มีอะไรถูกบดขยี้</NothingCrushed>
-  <!-- EN: Roof collapse -->
   <LetterLabelRoofCollapsed>หลังคาถล่ม</LetterLabelRoofCollapsed>
   
-  <!-- EN: {0} successfully recruited {1} ({2} chance). -->
   <RecruitSuccess>{0} คัดเลือกเรียบร้อยแล้ว {1} ( โอกาส {2} ).</RecruitSuccess>
-  <!-- EN: {0} failed to recruit {1} ({2} chance). -->
   <RecruitFail>{0} ล้มเหลวในการรับสมัคร {1} ( โอกาส {2} ).</RecruitFail>
 
-  <!-- EN: {PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. If {PAWN_nameDef} dies, {RELATIVE_labelShort} will suffer from long-lasting grief. However, if you manage to rescue {PAWN_nameDef}, {RELATIVE_labelShort} will be very happy for a long time. -->
-  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} คือ {RELATIVE_labelShort} ของ {1}. ถ้า {PAWN_nameDef} ตาย {RELATIVE_labelShort} จะทุกข์ทรมานจากความเศร้าโศกอย่างยาวนาน อย่างไรก็ตาม ถ้าคุณช่วยชีวิต {PAWN_nameDef} ได้, {RELATIVE_labelShort} จะมีความสุขเป็นเวลานาน</RelatedPawnInvolvedInQuest>
-
-  <!-- EN: Birthday -->
+  <RelatedPawnInvolvedInQuest>[PAWN_nameDef] คือ {0} ของ {1}. ถ้า [PAWN_nameDef] ตาย {0} จะทุกข์ทรมานจากความเศร้าโศกอย่างยาวนาน อย่างไรก็ตาม, ถ้าคุณช่วยชีวิต [PAWN_nameDef] ได้, {0} จะมีความสุขเป็นเวลานาน</RelatedPawnInvolvedInQuest>
+ 
   <LetterLabelBirthday>วันเกิด</LetterLabelBirthday>
-  <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
   <BirthdayChronological>เป็นวันเกิด {0}ของวันนี้! , {1} มีอายุ {3} ปี\n\nตามลำดับ {1} เพิ่งเปลี่ยน {2}\n\nโปรดทราบว่าเนื่องจากคนอายุไม่มากในขณะที่อยู่ใน เครื่องนอนแช่แข็ง วันเกิดตามลำดับจะแยกออกจากวันเกิดทางชีวภาพ</BirthdayChronological>
-  <!-- EN: {0_nameFull} has reached the biological age of {1}.\n\nUnfortunately, {0_nameFull} has gained the following diseases due to aging:\n{2} -->
   <BirthdayBiologicalAgeInjuries>{0} มีอายุครบบริบูรณ์ทางชีวภาพ {1} ปีแล้ว\n\nน่าเสียดาย, {0} ได้รับโรคต่อไปนี้เนื่องจากการเสื่อมสภาพ:\n{2}</BirthdayBiologicalAgeInjuries>
 
-  <!-- EN: Disease -->
   <LetterLabelNewDisease>โรคภัย</LetterLabelNewDisease>
-  <!-- EN: {PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewDisease>{PAWN} ป่วยจาก {1}.\n\nตรวจดูให้แน่ใจว่าคุณมีเตียงพยาบาลและแพทย์ ให้แน่ใจว่า {PAWN_definite} ได้รับการรักษาที่เหมาะสมและใช้เวลาในเตียงให้มากที่สุด</NewDisease>
-  <!-- EN: {PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewPartDisease>{PAWN} ป่วยจาก {3}. การติดเชื้อ {PAWN_possessive} {1}.\n\nตรวจดูให้แน่ใจว่าคุณมีเตียงพยาบาลและแพทย์ ตรวจสอบให้แน่ใจว่า {PAWN_definite} ได้รับการรักษาที่เหมาะสมและใช้เวลาในการนอนหลับให้มากที่สุดเท่าที่จะเป็นไปได้</NewPartDisease>
-  <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
-  <NewDiseaseAnimal>TODO</NewDiseaseAnimal>
-  <!-- EN: {PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1} -->
-  <NewPartDiseaseAnimal>TODO</NewPartDiseaseAnimal>
+  <NewDisease>{0} ได้รับป่วย {1}.\n\nตรวจดูให้แน่ใจว่าคุณมีเตียงทางการแพทย์และแพทย์ {2} ได้รับการรักษาที่เหมาะสมและใช้เวลาในเตียงให้มากที่สุด</NewDisease>
+  <NewPartDisease>{0} ได้รับป่วย {3}. การติดเชื้ออยู่ใน {1} [PAWN_possessive].\n\nตรวจดูให้แน่ใจว่าคุณมีเตียงทางการแพทย์และแพทย์  ตรวจสอบให้แน่ใจว่า {2} ได้รับการรักษาที่เหมาะสมและใช้เวลาในการนอนหลับให้มากที่สุดเท่าที่จะเป็นไปได้</NewPartDisease>
 
-  <!-- EN: {1_labelShort} was formerly part of your faction. -->
-  <PawnWasFormerlyColonist>{1_labelShort} เคยเป็นส่วนหนึ่งของฝ่ายของคุณแล้ว</PawnWasFormerlyColonist>
-  <!-- EN: {1_labelShort} has these relationships with your colonists: -->
-  <PawnHasTheseRelationshipsWithColonists>{1_labelShort} มีความสัมพันธ์กับอาณานิคมของคุณ:</PawnHasTheseRelationshipsWithColonists>
-  <!-- EN: The camp will disappear after {0} days. If you miss this opportunity, you may never hear from {PRISONER_labelShort} again. -->
-  <PrisonerRescueTimeout>ค่ายจะหายไปหลังจาก {0} วัน หากคุณพลาดโอกาสนี้คุณอาจไม่เคยได้ยินจาก {PRISONER_labelShort} อีกเลย</PrisonerRescueTimeout>
+  <PawnWasFormerlyColonist>{0} เคยเป็นส่วนหนึ่งของฝ่ายของคุณแล้ว</PawnWasFormerlyColonist>
+  <PawnHasTheseRelationshipsWithColonists>{0} มีความสัมพันธ์กับอาณานิคมของคุณ:</PawnHasTheseRelationshipsWithColonists>
+  <PrisonerRescueTimeout>ค่ายจะหายไปหลังจาก {0} วัน หากคุณพลาดโอกาสนี้คุณอาจไม่เคยได้ยินจาก {1} อีกเลย</PrisonerRescueTimeout>
 
-  <!-- EN: Ancient danger -->
   <LetterLabelAncientShrineWarning>ภยันตรายจากโบราณกาล</LetterLabelAncientShrineWarning>
-  <!-- EN: As {0} draws near the ancient wall, a sense of foreboding overcomes {PAWN_objective}. {PAWN_pronoun} isn't sure why, but {PAWN_pronoun} feels that this dusty structure may contain great danger. -->
-  <AncientShrineWarning>เมื่อ{0}เข้าไปใกล้กำแพงโบราณ ลางสังหรณ์ใจเข้าครอบ{PAWN_objective}. {PAWN_pronoun} ไม่แน่ใจว่าทำไม, แต่ {PAWN_pronoun} รู้สึกได้ว่าโครงสร้างฝุ่นจับนี้ อาจจะกักเอาภยันตรายที่ใหญ่หลวงไว้</AncientShrineWarning>
+  <AncientShrineWarning>{0} ที่ถูกดึงเข้าไปใกล้กำแพงโบราณ, ความสังหรณ์ใจก็เข้าครอบ [PAWN_objective]. [PAWN_pronoun] ไม่แน่ใจว่าทำไม, แต่ [PAWN_pronoun] รู้สึกได้ว่าโครงสร้างฝุ่นจับนี้อาจจะกักเอาภยันตรายที่ใหญ่หลวงไว้</AncientShrineWarning>
 
-  <!-- EN: We have struck {0}! -->
   <StruckMineable>เราได้พบ {0} !</StruckMineable>
 
-  <!-- EN: {0} revenge -->
   <LetterLabelAnimalManhunterRevenge>{0} ล้างแค้น</LetterLabelAnimalManhunterRevenge>
-  <!-- EN: {1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep. -->
-  <AnimalManhunterFromDamage>{1_indefinite} โจมตีตอบโต้หลังโดนทำลาย!\n\nมันไล่ล่าทุกสิ่งเป็นรูปร่างมนุษย์เท่าที่เอื้อมถึง จะสงบลงในตอนมันหลับ</AnimalManhunterFromDamage>
-  <!-- EN: {1_indefinite} is attacking due to a botched taming attempt! -->
-  <AnimalManhunterFromTaming>{1_indefinite} กำลังทำร้ายคุณที่คุณไปทำให้เชื่อง!</AnimalManhunterFromTaming>
-  <!-- EN: Other {1_kindBasePlural} nearby have also become enraged! -->
-  <AnimalManhunterOthers>อื่นๆ {1_kindBasePlural} ที่อยู่ใกล้เคียงได้กลายเป็นการล้างแค้น!</AnimalManhunterOthers>
+  <AnimalManhunterFromDamage>{0} กำลังทำร้ายคุณที่คุณไปไลล่าเขา!</AnimalManhunterFromDamage>
+  <AnimalManhunterFromTaming>{0} กำลังทำร้ายคุณที่คุณไปทำให้เชื่อง!</AnimalManhunterFromTaming>
+  <AnimalManhunterOthers>อื่น ๆ {0} ที่อยู่ใกล้เคียงได้กลายเป็นการล้างแค้น!</AnimalManhunterOthers>
 
-  <!-- EN: {1_labelShort} hit trap -->
-  <LetterFriendlyTrapSprungLabel>{1_labelShort} ถูกกับดักเข้า</LetterFriendlyTrapSprungLabel>
-  <!-- EN: {1_labelShort} has accidentally sprung a trap and taken damage from it. -->
-  <LetterFriendlyTrapSprung>{1_labelShort} บังเอิญลั่นกับดักและได้รับความเสียหาย</LetterFriendlyTrapSprung>
+  <LetterFriendlyTrapSprungLabel>{0} ถูกกับดักเข้า</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprung>{0} บังเอิญลั่นกับดักและได้รับความเสียหาย</LetterFriendlyTrapSprung>
 
-  <!-- EN: {PAWN_labelShort} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2} -->
-  <LetterHealthComplications>{PAWN_labelShort} มีพัฒนาการทางสุขภาพ: {1}\n\nนี่เป็นภาวะแทรกซ้อนจาก: {2}.</LetterHealthComplications>
-  <!-- EN: {PAWN_labelShort}: {1} -->
-  <LetterHealthComplicationsLabel>{PAWN_labelShort}: {1}</LetterHealthComplicationsLabel>
+  <LetterHealthComplications>{0} มีพัฒนาการทางสุขภาพ: {1}\n\nนี่เป็นภาวะแทรกซ้อนจาก: {2}.</LetterHealthComplications>
+  <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
   
-  <!-- EN: {PAWN_labelShort} has developed a health condition: {1}. -->
-  <LetterHediffFromRandomHediffGiver>{PAWN_labelShort} มีพัฒนาการทางสุขภาพ: {1}.</LetterHediffFromRandomHediffGiver>
-  <!-- EN: {PAWN_labelShort}: {1} -->
-  <LetterHediffFromRandomHediffGiverLabel>{PAWN_labelShort}: {1}</LetterHediffFromRandomHediffGiverLabel>
+  <LetterHediffFromRandomHediffGiver>{0} มีพัฒนาการทางสุขภาพ: {1}.</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
   
-  <!-- EN: {1} died: {0} -->
-  <LetterLeadersDeathLabel>{1} เสียชีวิต: {0}</LetterLeadersDeathLabel>
-  <!-- EN: {OLDLEADER_nameFull}, {3} of {1}, has died.\n\nThe new {3} is {NEWLEADER_nameFull}. -->
-  <LetterLeadersDeath>TODO</LetterLeadersDeath>
-
-  <!-- EN: New {1}: {0} -->
-  <LetterLeaderChangedLabel>ใหม่ {1}: {0}</LetterLeaderChangedLabel>
-  <!-- EN: {OLDLEADER_nameFull} is no longer {3} of {1}.\n\nThe new {3} is {NEWLEADER_nameFull}. -->
-  <LetterLeaderChanged>{OLDLEADER_nameFull} ไม่มี {3} จาก {1} อีกแล้ว\n\nใหม่ {3} คือ {NEWLEADER_nameFull}</LetterLeaderChanged>
-  
-  <!-- EN: The final straw was: {0} -->
-  <FinalStraw>TODO</FinalStraw>
-  <!-- EN: The last event was -->
-  <LastFactionRelationsEvent>TODO</LastFactionRelationsEvent>
-
-  <!-- EN: Read more -->
-  <ReadMore>TODO</ReadMore>
-  <!-- EN: The last events in {PAWN_definite}'s life -->
-  <LastEventsInLife>TODO</LastEventsInLife>
-  
+  <LetterLeadersDeathLabel>การเสียชีวิตของผู้นำ</LetterLeadersDeathLabel>
+  <LetterLeadersDeath>ผู้นำ {0} ของฝ่าย {1} เสียชีวิตแล้วและถูกแทนที่ด้วย {2}</LetterLeadersDeath>
+ 
+ 	<LetterLeaderChangedLabel>ใหม่ {1}: {0}</LetterLeaderChangedLabel>
+	<LetterLeaderChanged>{0} ไม่มี {3} จาก {1} อีกแล้ว\n\nใหม่ {3} คือ {2}</LetterLeaderChanged>
+ 
+  <MentalBreakLetterLabel>Mental break</MentalBreakLetterLabel>
+  <MentalBreakReason>The final straw was: {0}.</MentalBreakReason>
+ 
   <!-- Related pawns -->
-  <!-- EN: Relationship -->
-  <LetterLabelNoticedRelatedPawns>ความสัมพันธ์</LetterLabelNoticedRelatedPawns>
-  <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of {1}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are: -->
-  <LetterRelatedPawnsRaidEnemy>มีคนที่มีความสัมพันธ์กับ {0} ของคุณ หรือเป็นนักโทษในกลุ่ม {1} ที่พึ่งมาถึง\n\nโปรดจำไว้ว่าแม้พวกเขาจะมีความสัมพันธ์เกี่ยวข้องกัน พวกเขาสามารถโจมตีกันและกันได้ หากสัมพันธภาพแต่ละฝ่ายไม่ดี\n\nคนเหล่านี้คือ:</LetterRelatedPawnsRaidEnemy>
-  <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of friendly {1}: -->
-  <LetterRelatedPawnsRaidFriendly>มีคนที่มีความสัมพันธ์กับ {0} ของคุณ หรือเป็นนักโทษในกลุ่มเป็นมิตรที่พึ่งมาถึง {1}:</LetterRelatedPawnsRaidFriendly>
-  <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group: -->
-  <LetterRelatedPawnsNeutralGroup>มีคนที่มีความสัมพันธ์กับ {0} ของคุณ หรือเป็นนักโทษในกลุ่มที่พึ่งมาถึง:</LetterRelatedPawnsNeutralGroup>
-  <!-- EN: The orbital trader is selling people who have relationships with your {0} or prisoners: -->
-  <LetterRelatedPawnsTradeShip>พ่อค้าวงโคจร ขายมนุษย์ซึ่งมีความสัมพันธ์กับ{0}หรือนักโทษของคุณ:</LetterRelatedPawnsTradeShip>
-  <!-- EN: The settlement is selling people who have relationships with your {0} or prisoners: -->
-  <LetterRelatedPawnsTradingWithSettlement>TODO</LetterRelatedPawnsTradingWithSettlement>
-  <!-- EN: The caravan is selling people who have relationships with your {0} or prisoners: -->
-  <LetterRelatedPawnsTradingWithOtherCaravan>คาราวาน ขายมนุษย์ซึ่งมีความสัมพันธ์กับ{0}หรือนักโทษของคุณ:</LetterRelatedPawnsTradingWithOtherCaravan>
-  <!-- EN: There are people who have relationships with your {0} or prisoners in the group: -->
-  <LetterRelatedPawnsGroupGeneric>TODO</LetterRelatedPawnsGroupGeneric>
-  <!-- EN: There are people who have relationships with your {0} or prisoners in the area where your {0} have landed. -->
-  <LetterRelatedPawnsInMapWherePlayerLanded>TODO</LetterRelatedPawnsInMapWherePlayerLanded>
-  <!-- EN: There are people who have relationships with your {0} or prisoners in this settlement: -->
-  <LetterRelatedPawnsSettlement>TODO</LetterRelatedPawnsSettlement>
-  <!-- EN: There are people who have relationships with your {0} or prisoners in this area: -->
-  <LetterRelatedPawnsSite>TODO</LetterRelatedPawnsSite>
-
-  <!-- EN: (relationship) -->
+  <LetterLabelNoticedRelatedPawns>ครอบครัว</LetterLabelNoticedRelatedPawns>
+  <LetterRelatedPawnsRaidEnemy>มีผู้ที่มีความสัมพันธ์กับอาณานิคมหรือนักโทษในกลุ่มที่มาถึง{0}.\n\nโปรดจำไว้ว่าแม้ว่าจะเกี่ยวข้องกัน แต่ก็ยังคงโจมตีกันเนื่องจากความสัมพันธ์ที่ไม่ดีของกลุ่ม\n\nคนเหล่านี้:</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidFriendly>มีผู้ที่มีความสัมพันธ์กับอาณานิคมหรือนักโทษในกลุ่มเพื่อนที่เดินทางมาถึง{0}:</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsNeutralGroup>มีผู้ที่มีความสัมพันธ์กับอาณานิคมหรือนักโทษในกลุ่มที่เดินทางมาถึง:</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsTradeShip>พ่อค้าวงโคจรขายคนที่มีความสัมพันธ์กับอาณานิคมหรือนักโทษของคุณ:</LetterRelatedPawnsTradeShip>
+  <LetterRelatedPawnsTradingWithFactionBase>ฝ่ายขายกำลังขายคนที่มีความสัมพันธ์กับอาณานิคมหรือนักโทษของคุณ:</LetterRelatedPawnsTradingWithFactionBase>
+  <LetterRelatedPawnsTradingWithOtherCaravan>คาราวานขายคนที่มีความสัมพันธ์กับอาณานิคมหรือนักโทษของคุณ:</LetterRelatedPawnsTradingWithOtherCaravan>
+    
   <RelationshipAppendedLetterSuffix>(ครอบครัว)</RelationshipAppendedLetterSuffix>
-  <!-- EN: {PAWN_nameDef} has a relationship with a colonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
-  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef} เป็นสมาชิกครอบครัวของชาวนิคม {PAWN_pronoun} เป็น{RELATIVE_labelShort} ของ {1}</RelationshipAppendedLetterTextColonist>
-  <!-- EN: {PAWN_nameDef} has a relationship with one of your prisoners. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
-  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef} เป็นสมาชิกครอบครัวของหนึ่งในนักโทษของคุณ {PAWN_pronoun} เป็น {RELATIVE_labelShort} ของ {1}</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterTextColonist>[PAWN_nameDef] เป็นสมาชิกครอบครัวของชาวอาณานิคม [PAWN_pronoun] เป็น {1} ของ {0}</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>[PAWN_nameDef] เป็นสมาชิกครอบครัวของหนึ่งในนักโทษของคุณ [PAWN_pronoun] เป็น {1} ของ {0}</RelationshipAppendedLetterTextPrisoner>
   
   <!-- Attempt romance / propose interaction -->
-  <!-- EN: Affair -->
-  <LetterLabelAffair>มีชู้</LetterLabelAffair>
-  <!-- EN: {PAWN1_labelShort}, married to {SPOUSE_labelShort}, has begun an affair with {PAWN2_labelShort}. -->
-  <LetterAffair>{PAWN1_labelShort}, แต่งงานแล้วกับ {SPOUSE_labelShort}, เริ่มเป็นชู้กับ {PAWN2_labelShort}</LetterAffair>
-  <!-- EN: New lovers -->
+  <LetterLabelAffair>เป็นชู้</LetterLabelAffair>
+  <LetterAffair>{0}, แต่งงานแล้วกับ {1}, เริ่มเป็นชู้กับ {2}</LetterAffair>
   <LetterLabelNewLovers>คู่รักใหม่</LetterLabelNewLovers>
-  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
-  <LetterNoLongerLovers>{PAWN1_labelShort} และ {PAWN2_labelShort} ไม่ได้คบกันแล้ว</LetterNoLongerLovers>
-  <!-- EN: Breakup -->
+  <LetterNewLovers>{0} และ {1} มีความคิดเหมือนๆกันและตอนนี้คบกันอยู่</LetterNewLovers>
+  <LetterNoLongerLovers>{0} และ {1} ไม่ได้คบกันแล้ว</LetterNoLongerLovers>
   <LetterLabelBreakup>โดนบอกเลิก</LetterLabelBreakup>
-  <!-- EN: Marriage is on! -->
   <LetterLabelAcceptedProposal>ดำเนินการแต่งงาน!</LetterLabelAcceptedProposal>
-  <!-- EN: Rejected proposal -->
   <LetterLabelRejectedProposal>ปฏิเสธการขอแต่งงาน</LetterLabelRejectedProposal>
-  <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
-  <LetterAcceptedProposal>{1} รับคำขอแต่งงานของ {0}\n\nณ จุดๆนึงในวันหรือฤดูข้างหน้า, พวกเขาจะจัดพิธีแต่งงานและเชิญชาวนิคมทั้งหมดมา พิจารณาการวางจุดแต่งงานถ้าต้องการควบคุมตำแหน่งการจัดพิธี</LetterAcceptedProposal>
-  <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
-  <LetterRejectedProposal>{INITIATOR_nameFull} คงไม่มีความสุขกับเรื่องนี้แน่</LetterRejectedProposal>
+  <LetterAcceptedProposal>{1} รับคำขอแต่งงานของ {0}\n\nณ จุดๆนึงในวันหรือฤดูข้างหน้า, พวกเขาจะจัดพิธีแต่งงานและเชิญชาวอาณานิคมทั้งหมดมา พิจารณาการวางจุดแต่งงานถ้าต้องการควบคุมตำแหน่งการจัดพิธี</LetterAcceptedProposal>
+  <LetterRejectedProposal>{1} ปฏิเสธคำขอแต่งงานของ {0}, {0} คงไม่มีความสุขกับเรื่องนี้แน่</LetterRejectedProposal>
   
   <!-- Generalized letter labels -->
-  <!-- EN: Hostile: {0} -->
-  <LetterLabelRelationsChange_Hostile>TODO</LetterLabelRelationsChange_Hostile>
-  <!-- EN: Allied: {0} -->
-  <LetterLabelRelationsChange_Ally>TODO</LetterLabelRelationsChange_Ally>
-  <!-- EN: Enemy now neutral: {0} -->
-  <LetterLabelRelationsChange_NeutralFromHostile>TODO</LetterLabelRelationsChange_NeutralFromHostile>
-  <!-- EN: Ally now neutral: {0} -->
-  <LetterLabelRelationsChange_NeutralFromAlly>TODO</LetterLabelRelationsChange_NeutralFromAlly>
-  <!-- EN: Zzztt... -->
+  <LetterLabelRelationsChangeGood>ความคิดเห็นที่ดี</LetterLabelRelationsChangeGood>
+  <LetterLabelRelationsChangeBad>ความคิดเห็นที่ไม่ดี</LetterLabelRelationsChangeBad>
   <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
-  <!-- EN: Mental break -->
   <LetterLabelMentalBreakdown>สติแตก</LetterLabelMentalBreakdown>
   
   <!-- Bonded animals -->
-  <!-- EN: bonded animal -->
-  <LetterLabelSuffixBondedAnimalDied>TODO</LetterLabelSuffixBondedAnimalDied>
-  <!-- EN: {ANIMAL_definite} was bonded to {HUMAN_labelShort}. It will affect {HUMAN_labelShort}'s mood. -->
-  <LetterPartBondedAnimalDied>TODO</LetterPartBondedAnimalDied>
-  <!-- EN: It will affect mood of the following people:\n\n{0} -->
-  <LetterPartBondedAnimalDiedMulti>TODO</LetterPartBondedAnimalDiedMulti>
+  <LetterLabelBondedAnimalDied>ความตายของสัตว์ที่มีสายสัมพันธ์ด้วย</LetterLabelBondedAnimalDied>
+  <LetterBondedAnimalDied>{0}, ซึ่งผูกสัมพันธ์กับ {1}, ได้ตายลงแล้ว. มันจะมีผลกับอารมณ์ของ {1}</LetterBondedAnimalDied>
+  <LetterNamedBondedAnimalDied>{0} ที่มีชื่อว่า {1}, ซึ่งผูกสัมพันธ์กับ {2}, ได้ตายลงแล้ว มันจะมีผลกับอารมณ์ของ {2}</LetterNamedBondedAnimalDied>
+  <LetterBondedAnimalDiedMulti>{0} ได้ตายลงแล้ว มันจะมีผลกับอารมณ์ของคนดังต่อไปนี้:\n\n{1}</LetterBondedAnimalDiedMulti>
+  <LetterNamedBondedAnimalDiedMulti>{0} ที่มีชื่อว่า {1} ได้ตายลงแล้ว มันจะมีผลกับอารมณ์ของคนดังต่อไปนี้:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
 
   <!-- Prison break -->
-  <!-- EN: Prison break -->
   <LetterLabelPrisonBreak>นักโทษแหกคุก</LetterLabelPrisonBreak>
-  <!-- EN: Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy. -->
   <LetterPrisonBreak>นักโทษได้แสดงการแหกคุก! พวกเขาได้ทำลายกุญแจล็อคประตูและกำลังออกทางออก พวกเขาอาจจะหาอาวุธสู้หรือพยายามหลบหนี นักโทษเหล่านี้มีส่วนเกี่ยวข้อง: \ n \ n {0} \ n \ n ผู้คุมขังมีแนวโน้มที่จะพยายามฝ่าฝืนเมื่อพวกเขาไม่มีความสุขมีจำนวนมากและมีสุขภาพดี</LetterPrisonBreak>
   
   <!-- Party -->
-  <!-- EN: Party -->
   <LetterLabelNewParty>สังสรรค์</LetterLabelNewParty>
-  <!-- EN: {1_labelShort} is throwing a party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost. -->
-  <LetterNewParty>{1_labelShort} ได้จัดงานสังสรรค์ขึ้น! ทุกคนที่ไปจะได้รับพลังแห่งความสุขและสังคม, และเพิ่มอารมณ์เชิงบวกให้ยาวนาน</LetterNewParty>
-
+  <LetterNewParty>{0} ได้จัดงานสังสรรค์ขึ้น! ทุกคนที่ไปจะได้รับพลังแห่งความสุขและสังคม, และเพิ่มอารมณ์เชิงบวกให้ยาวนาน</LetterNewParty>
+  
   <!-- Newly addicted -->
-  <!-- EN: {0} addiction -->
   <LetterLabelNewlyAddicted>{0} ติดยาเสพติด</LetterLabelNewlyAddicted>
-  <!-- EN: {PAWN_labelShort} has developed an addiction to {1}.\n\n{PAWN_pronoun} now has a need for {1}, visible on {PAWN_possessive} Needs tab. {PAWN_pronoun} will automatically consume the drug to fulfil {PAWN_possessive} need. If {PAWN_pronoun} cannot get any {1}, {PAWN_pronoun} will go into withdrawal. -->
-  <LetterNewlyAddicted>{PAWN_labelShort} เสพ {1} จนติด.\n\n{PAWN_pronoun} ตอนนี้มีความจำเป็นต้องใช้ {1}, {PAWN_possessive}ปรากฏในแท็บความจำเป็น. {PAWN_pronoun} จะใช้ยาเพื่อตอบสนองความต้องการของ{PAWN_possessive}โดยอัตโนมัติ ถ้า {PAWN_pronoun} ไม่สามารถได้รับ {1}, {PAWN_pronoun} จะเข้าสู่ช่วงลงแดง</LetterNewlyAddicted>
+  <LetterNewlyAddicted>{0} ได้ติดยาเสพติด {1}.\n\n[PAWN_pronoun] ตอนนี้มีความต้องการ {1}, [PAWN_possessive] ปรากฏในแท็บความต้องการ. [PAWN_pronoun] จะใช้ยาเพื่อตอบสนองความต้องการของเขาโดยอัตโนมัติ ถ้า [PAWN_pronoun] ไม่สามารถรับใด ๆ {1}, [PAWN_pronoun] จะถอนตัวออกไป</LetterNewlyAddicted>
   
   <!-- Drug binge -->
-  <!-- EN: {0} binge -->
   <LetterLabelDrugBinge>{0} ดื่มสุรา</LetterLabelDrugBinge>
-  <!-- EN: {2_label} is binging on {1}. -->
-  <LetterDrugBinge>{2_label} กำลังเกิดขึ้นที่ {1}</LetterDrugBinge>
+  <LetterDrugBinge>{0} กำลังเกิดขึ้นที่ {1}</LetterDrugBinge>
+  
+  <!-- Formed caravan -->
+  <LetterLabelFormedCaravan>คาราวานพร้อม</LetterLabelFormedCaravan>
+  <LetterFormedCaravan>กองคาราวานของคุณได้ออกจากพื้นที่และรอคำสั่งบนแผนที่โลก</LetterFormedCaravan>
   
   <!-- Caravan destroyed -->
-  <!-- EN: Caravan destroyed -->
   <LetterLabelAllCaravanColonistsDied>คาราวานเสียชีวิต</LetterLabelAllCaravanColonistsDied>
-  <!-- EN: All members of {0} have died. -->
-  <LetterAllCaravanColonistsDied>สมาชิกทั้งหมดใน {0} เสียชีวิต</LetterAllCaravanColonistsDied>
+  <LetterAllCaravanColonistsDied>สมาชิกในกองคาราวานของคุณเสียชีวิตแล้ว</LetterAllCaravanColonistsDied>
   
-  <!-- Caravan entered map -->
-  <!-- EN: Caravan arrived at {0_label} -->
-  <LetterLabelCaravanEnteredMap>คาราวานมาถึง {0_label}</LetterLabelCaravanEnteredMap>
-  <!-- EN: {0} has arrived at {1_definite}. -->
-  <LetterCaravanEnteredMap>{0} เดินทางมาถึง {1_definite}</LetterCaravanEnteredMap>
+  <!-- Caravan entered ambush map -->
+  <LetterLabelCaravanEnteredAmbushMap>คาราวานมาถึงที่ซุ่มโจมตี</LetterLabelCaravanEnteredAmbushMap>
+  <LetterCaravanEnteredAmbushMap>{0} ได้มาถึงสถานที่ซุ่มโจมตี</LetterCaravanEnteredAmbushMap>
   
   <!-- Caravan entered enemy base -->
-  <!-- EN: Attack begun -->
   <LetterLabelCaravanEnteredEnemyBase>การโจมตีเริ่มขึ้น</LetterLabelCaravanEnteredEnemyBase>
-  <!-- EN: {0} has arrived at {1} and is ready to begin the attack. -->
   <LetterCaravanEnteredEnemyBase>{0} มาถึงแล้ว {1} และพร้อมที่จะเริ่มการโจมตี</LetterCaravanEnteredEnemyBase>
-
-  <!-- Transport pods landed in enemy base -->
-  <!-- EN: Attack begun -->
-  <LetterLabelTransportPodsLandedInEnemyBase>TODO</LetterLabelTransportPodsLandedInEnemyBase>
-  <!-- EN: Your transport pods have arrived at {0}. -->
-  <LetterTransportPodsLandedInEnemyBase>TODO</LetterTransportPodsLandedInEnemyBase>
+  <LetterCaravanEnteredEnemyBaseBecameHostile>{0} มาถึงแล้ว {1} และพร้อมที่จะเริ่มการโจมตี\n\nเนื่องจากวิธีการที่เป็นมิตรของคุณ, {2} ตอนนี้เป็นศัตรูกับคุณ</LetterCaravanEnteredEnemyBaseBecameHostile>
   
   <!-- Faction base defeated -->
-  <!-- EN: Base destroyed -->
   <LetterLabelFactionBaseDefeated>ฐานถูกทำลาย</LetterLabelFactionBaseDefeated>
-  <!-- EN: The enemy base {0} has been destroyed.\n\nIn {1}, the caravan will automatically be reformed. You can reform the caravan now in the World screen by selecting the destroyed base and choosing the "Reform caravan" option. -->
   <LetterFactionBaseDefeated>ด่านของศัตรู {0} ถูกทำลาย\n\nคุณมี {1} ชั่วโมงในการรวบรวมสินค้าก่อนที่อาณานิคมของคุณจะปฏิรูปกองคาราวาน</LetterFactionBaseDefeated>
-  <!-- EN: This was the last base of {0}, which means this faction doesn't exist anymore. -->
   <LetterFactionBaseDefeated_FactionDestroyed>นี่เป็นฐานสุดท้ายของ {0}, ซึ่งหมายความว่าฝ่ายนี้ไม่มีอีกต่อไป</LetterFactionBaseDefeated_FactionDestroyed>
   
+  <!-- Pawns lost due to map countdown -->
+  <LetterLabelPawnsLostDueToMapCountdown>ถูกทิ้งไว้</LetterLabelPawnsLostDueToMapCountdown>
+  <LetterPawnsLostDueToMapCountdown>สัตว์บางตัวหรือนักโทษของคุณถูกทิ้งไว้ในถิ่นทุรกันดาร:\n\n{0}</LetterPawnsLostDueToMapCountdown>
+
   <!-- Quest completed -->
-  <!-- EN: Quest completed -->
   <LetterLabelDefeatAllEnemiesQuestCompleted>ภารกิจเสร็จสิ้น</LetterLabelDefeatAllEnemiesQuestCompleted>
-  <!-- EN: You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}. -->
   <LetterDefeatAllEnemiesQuestCompleted>ศัตรูของคุณได้รับการพ่ายแพ้!\n\nการชำระเงินจาก {0}มาถึงแล้ว, และความสัมพันธ์ของกลุ่มได้ดีขึ้นโดย {1}.</LetterDefeatAllEnemiesQuestCompleted>
 
   <!-- Found lump of precious resources -->
-  <!-- EN: Precious minerals found -->
-  <LetterLabelFoundPreciousLump>พบแร่ธาตุมีค่า</LetterLabelFoundPreciousLump>
-  <!-- EN: Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} nearby.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}. -->
-  <LetterFoundPreciousLump>โดยการใช้เครื่องสแกนแร่ระยะไกล {WORKER_labelShort}ค้นพบก้อนแร่ {0} อยู่ใกล้เคียง\n\nโชคไม่ค่อยดีตรงมันอาจอยู่ตรงนั้นไม่นาน - คนอื่นอาจไปขุดใน {1} วัน หากเราขุดไม่ทัน\n\n{2}</LetterFoundPreciousLump>
-  
+  <LetterLabelFoundPreciousLump>พบแร่ธาตุที่มีค่า</LetterLabelFoundPreciousLump>
+  <LetterFoundPreciousLump>เครื่องสแกนแร่ในระยะยาวของคุณได้พบก้อนแร่ธาตุที่ใกล้เคียง\n\nเราไม่รู้ว่าใครหรือจะทำอะไร - ถ้ามีอะไร - อาจกำลังเฝ้าระวังอยู่</LetterFoundPreciousLump>
+   
+  <!-- Sleeping mechanoids -->
+  <LetterLabelSleepingMechanoids>mechanoids นอนหลับ</LetterLabelSleepingMechanoids>
+  <LetterSleepingMechanoids>มีกลุ่ม mechanoids ที่กำลังนอนหลับอยู่บริเวณนี้\n\n mechanoids อาจจะ ตื่นหรือไม่ตื่นขึ้น เมื่อคุณเข้าไปบริเวณนี้</LetterSleepingMechanoids>
+
   <!-- Ambush -->
-  <!-- EN: Ambush -->
   <LetterLabelAmbushInExistingMap>ซุ่มโจมตี</LetterLabelAmbushInExistingMap>
-  <!-- EN: Your {0} have been ambushed! -->
   <LetterAmbushInExistingMap>คุณ {0} ถูกซุ่มโจมตี</LetterAmbushInExistingMap>
 
   <!-- Peace talks -->
-  <!-- EN: Peace talks disaster -->
   <LetterLabelPeaceTalks_Disaster> เจรจาสงบศึก เป็น หายนะ</LetterLabelPeaceTalks_Disaster>
-  <!-- EN: The talks were a disaster. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}. -->
   <LetterPeaceTalks_Disaster> การเจรจาสงบศึก เป็น หายนะ. พวกภูตแทบจะทักทายกันไม่เสร็ญก่อนที่ การเจรจาจะกลายเป็นเพียงการด่ากันและการใส่ร้ายกันและกัน\n\nหลังจากที่คาราวานออกเดินทางก่อนเวลา {0} จาก {1} ตามมาที่คาราวาน และ โจมตี\n\nความสัมพันธ์ กับ {1}: {2}.</LetterPeaceTalks_Disaster>
-  <!-- EN: Peace talks backfire -->
   <LetterLabelPeaceTalks_Backfire>เจรจาสงบศึก ล้มเหลว</LetterLabelPeaceTalks_Backfire>
-  <!-- EN: The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}. -->
   <LetterPeaceTalks_Backfire>เจรจาสงบศึก ล้มเหลว ถึงแม้จะแลกเปลี่ยนคำทักทายกัน, การเจรจาไปไม่ถึงไหน และ ข้อเสนอบางข้อถูกคิดว่า เป็นคำด่า\n\nความสัมพันธ์ กับ {0}: {1}.</LetterPeaceTalks_Backfire>
-  <!-- EN: Peace talks flounder -->
   <LetterLabelPeaceTalks_TalksFlounder>เจรจาสงบศึกไปไม่ถึงไหน</LetterLabelPeaceTalks_TalksFlounder>
-  <!-- EN: The talks floundered. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged. -->
   <LetterPeaceTalks_TalksFlounder>เจรจาสงบศึกไปไม่ถึงไหน ถึงแม้จะสือสารกันได้อย่างชัดเจนแต่ การเจรจาไปไม่ถึงไหน\n\nความสัมพันธ์ กับ {0} ไม่เปลียนแปลง</LetterPeaceTalks_TalksFlounder>
-  <!-- EN: Peace talks success -->
   <LetterLabelPeaceTalks_Success>เจรจาสงบศึกสำเร็จ</LetterLabelPeaceTalks_Success>
-  <!-- EN: The talks were a success. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}. -->
   <LetterPeaceTalks_Success>เจรจาสงบศึกสำเร็จ ทั้งสองฝั่งได้ตกลงและแก้ปัญหาร่วมกันอย่างรวดเร็ว\n\nความสัมพันธ์ กับ {0} ได้เพื่มขึ้น {1}</LetterPeaceTalks_Success>
-  <!-- EN: Peace talks triumph -->
   <LetterLabelPeaceTalks_Triumph>เจรจาสงบศึกสำเร็จอย่างมาก</LetterLabelPeaceTalks_Triumph>
-  <!-- EN: The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2} -->
   <LetterPeaceTalks_Triumph>เจรจาสงบศึกสำเร็จอย่างมาก ! พวกภูตคุยกันอย่างสนิทสนมเหมือนเป็นเพื่อนสนิท และ ช่วยกันแก้ปัญหาเรื่องใหญ่ๆ ร่วมกันอย่างรวดเร็ว\n\nความสัมพันธ์ กับ {0} ได้เพื่มขึ้น {1}\n\nหลังจากที่คาราวานออกเดินทาง {0} เสนอของขวัญ: {2} ให้คุณ</LetterPeaceTalks_Triumph>
-  <!-- EN: {PAWN_labelShort}, your negotiator, has gained {1} social experience. -->
-  <PeaceTalksSocialXPGain>{PAWN_labelShort}, ภูตของคุณได้รับแต้มประสบการณ์ ทักษะทางสังคม  {1} </PeaceTalksSocialXPGain>
+  <PeaceTalksSocialXPGain>{0}, ภูตของคุณได้รับแต้มประสบการณ์ ทักษะทางสังคม  {1} </PeaceTalksSocialXPGain>
 
   <!-- Run wild mental break -->
-  <!-- EN: {0} is fed up with civilization.\n\n{0_pronoun} realized that wild creatures are always free. So, {0_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame {0_objective} to get {0_objective} back. -->
   <LetterRunWildMentalBreak>{0} ได้ตัดสินใจที่จะออกจากกลุ่มของคุณและไปอาศัยอยู่กับสัตว์ </LetterRunWildMentalBreak>
 
   <!-- Catatonic mental break -->
-  <!-- EN: {0} has suffered a total mental breakdown and entered a catatonic state. {0_pronoun} will recover in several days. -->
   <LetterCatatonicMentalBreak>{0} สติแตกอย่างมากซึ่งจะใช้เวลาหลายวันจนกว่าจะหายเป็นปกติ</LetterCatatonicMentalBreak>
-
-  <!-- EN: AI Core Offer -->
-  <LetterLabelAICoreOffer>TODO</LetterLabelAICoreOffer>
-  <!-- EN: {PAWN_definite} of {1} contacts you with an offer of information: the location of an AI persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested. -->
-  <LetterAICoreOffer>TODO</LetterAICoreOffer>
-
-  <!-- EN: Legendary Work -->
-  <LetterCraftedLegendaryLabel>TODO</LetterCraftedLegendaryLabel>
-  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\nNews of this valuable artifact will spread across the world. -->
-  <LetterCraftedLegendaryMessage>TODO</LetterCraftedLegendaryMessage>
-
-  <!-- Pawns lost because map closed -->
-  <!-- EN: Caravan lost -->
-  <LetterLabelPawnsLostBecauseMapClosed_Caravan>TODO</LetterLabelPawnsLostBecauseMapClosed_Caravan>
-  <!-- EN: Your caravan has been lost. The following people and animals have been lost with it -->
-  <LetterPawnsLostBecauseMapClosed_Caravan>TODO</LetterPawnsLostBecauseMapClosed_Caravan>
-  <!-- EN: Inhabitants abandoned -->
-  <LetterLabelPawnsLostBecauseMapClosed_Home>TODO</LetterLabelPawnsLostBecauseMapClosed_Home>
-  <!-- EN: The following people and animals have been abandoned -->
-  <LetterPawnsLostBecauseMapClosed_Home>TODO</LetterPawnsLostBecauseMapClosed_Home>
-
-  <!-- Hibernate complete -->
-  <!-- EN: Reactor ready -->
-  <LetterLabelHibernateComplete>TODO</LetterLabelHibernateComplete>
-  <!-- EN: Charlon Whitestone has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff. -->
-  <LetterHibernateComplete>TODO</LetterHibernateComplete>
-  <!-- EN: The reactor's power up sequence is complete. It is now ready to power a liftoff. -->
-  <LetterHibernateCompleteStandalone>TODO</LetterHibernateCompleteStandalone>
-
-  <!-- Visitors gave gift -->
-  <!-- EN: Gift from {0} -->
-  <LetterLabelVisitorsGaveGift>TODO</LetterLabelVisitorsGaveGift>
-  <!-- EN: {0} from {PAWN_factionName} have left a gift:\n\n{1} -->
-  <LetterVisitorsGaveGift>TODO</LetterVisitorsGaveGift>
-
-  <!-- Faction base proximity -->
-  <!-- EN: Faction base proximity -->
-  <LetterLabelFactionBaseProximity>TODO</LetterLabelFactionBaseProximity>
-  <!-- EN: Because you are so close to other factions, they feel you're encroaching on their territory.\n\nFor the last quadrum, faction relations have been reduced by: -->
-  <LetterFactionBaseProximity>TODO</LetterFactionBaseProximity>
-
-  <!-- Caravans battlefield victory -->
-  <!-- EN: Caravan battle won -->
-  <LetterLabelCaravansBattlefieldVictory>TODO</LetterLabelCaravansBattlefieldVictory>
-  <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, the caravan will be reformed automatically. -->
-  <LetterCaravansBattlefieldVictory>TODO</LetterCaravansBattlefieldVictory>
-
-  <!-- Rescue quest -->
-  <!-- EN: Rescuee joins -->
-  <LetterLabelRescueQuestFinished>TODO</LetterLabelRescueQuestFinished>
-  <!-- EN: You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group.\n\nYou can take {PAWN_objective} with you by reforming the caravan in the World screen by selecting this area and choosing the "Reform caravan" option. -->
-  <LetterRescueQuestFinished>TODO</LetterRescueQuestFinished>
-
-  <!-- Predator hunting colonist -->
-  <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->
-  <LetterLabelPredatorHuntingColonist>TODO</LetterLabelPredatorHuntingColonist>
-  <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
-  <LetterPredatorHuntingColonist>TODO</LetterPredatorHuntingColonist>
-
-  <!-- Disease -->
-  <!-- EN: {0} blocked {1} on: {2}. -->
-  <LetterDisease_Blocked>TODO</LetterDisease_Blocked>
-  <!-- EN: Disease ({0}) -->
-  <LetterLabelTraitDisease>TODO</LetterLabelTraitDisease>
-  <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
-  <LetterTraitDisease>TODO</LetterTraitDisease>
 
 </LanguageData>

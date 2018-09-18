@@ -1,116 +1,61 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- EN: Tool -->
-  <Tool>TODO</Tool>
-  <!-- EN: damage -->
-  <DamageLower>TODO</DamageLower>
-  <!-- EN: seconds per attack -->
-  <SecondsPerAttackLower>TODO</SecondsPerAttackLower>
-
-  <!-- EN: Base value -->
   <StatsReport_BaseValue>ค่าพื้นฐาน</StatsReport_BaseValue>
-  <!-- EN: Relevant traits -->
   <StatsReport_RelevantTraits>คุณสมบัติที่เกี่ยวข้อง</StatsReport_RelevantTraits>
-  <!-- EN: Relevant gear -->
   <StatsReport_RelevantGear>อุปกรณ์ที่เกี่ยวข้อง</StatsReport_RelevantGear>
-  <!-- EN: Relevant health conditions -->
+
+  <StatsReport_BaseValue>มูลค่าฐาน</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>ลักษณะที่เกี่ยวข้อง</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>เกียร์ที่เกี่ยวข้อง</StatsReport_RelevantGear>
   <StatsReport_RelevantHediffs>สภาวะสุขภาพที่เกี่ยวข้อง</StatsReport_RelevantHediffs>
-  <!-- EN: Life stage -->
   <StatsReport_LifeStage>ช่วงชีวิต</StatsReport_LifeStage>
-  <!-- EN: Material -->
   <StatsReport_Material>วัสดุ</StatsReport_Material>
-  <!-- EN: Character quality -->
   <StatsReport_CharacterQuality>คุณภาพของตัวละคร</StatsReport_CharacterQuality>
-  <!-- EN: Skills -->
   <StatsReport_Skills>ปัจจัยทางทักษะ</StatsReport_Skills>
-  <!-- EN: Other stats -->
   <StatsReport_OtherStats>ปัจจัยทางสถิติอื่นๆ</StatsReport_OtherStats>
-  <!-- EN: Health -->
   <StatsReport_Health>สุขภาพ</StatsReport_Health>
-  <!-- EN: {0} importance -->
   <HealthFactorPercentImpact>{0} สำคัญ</HealthFactorPercentImpact>
-  <!-- EN: {0} impact -->
-  <HealthOffsetScale>{0} กระแทก</HealthOffsetScale>
-  <!-- EN: {0} max -->
+  <HealthOffsetScale>{0} ส่งผลกระทบ</HealthOffsetScale> 	
   <HealthFactorMaxImpact>{0} เต็ม</HealthFactorMaxImpact>
-  <!-- EN: if below {0} -->
-  <HealthFactorAllowedDefect>ถ้าอยู่ต่ำกว่า {0}</HealthFactorAllowedDefect>
-  <!-- EN: Post-process curve -->
-  <StatsReport_PostProcessed>Post-processed curve</StatsReport_PostProcessed>
-  <!-- EN: Final value -->
+  <HealthFactorAllowedDefect>ถ้าด้านล่าง {0}</HealthFactorAllowedDefect> 
+  <StatsReport_PostProcessed>โพสต์ที่ประมวลผลโค้ง</StatsReport_PostProcessed>
   <StatsReport_FinalValue>ค่าสุดท้าย</StatsReport_FinalValue>
-  <!-- EN: Materials and labor -->
   <StatsReport_MarketValueFromStuffsAndWork>ค่าทางการตลาดนั้นถูกคำนวนจากวัสดุของสิ่งก่อสร้างและปริมาณงาน</StatsReport_MarketValueFromStuffsAndWork>
-  <!-- EN: Quality multiplier -->
   <StatsReport_QualityMultiplier>ตัวคูณคุณภาพ</StatsReport_QualityMultiplier>
-  <!-- EN: Max gain -->
-  <StatsReport_MaxGain>TODO</StatsReport_MaxGain>
-  <!-- EN: Multiplier for age {0} -->
+  <StatsReport_MaxGain>ได้รับสูงสุด</StatsReport_MaxGain>
   <StatsReport_AgeMultiplier>ตัวคูณสำหรับอายุ {0}</StatsReport_AgeMultiplier>
-  <!-- EN: Multiplier for health {0} -->
   <StatsReport_HealthMultiplier>ตัวคูณสำหรับสุขภาพ {0}</StatsReport_HealthMultiplier>
-  <!-- EN: Multiplier for mood {0} -->
   <StatsReport_MoodMultiplier>ตัวคูณสำหรับอารมณ์ {0}</StatsReport_MoodMultiplier>
-  <!-- EN: Multiplier for light {0} -->
-  <StatsReport_LightMultiplier>ตัวคูณสำหรับแสง {0}</StatsReport_LightMultiplier>
-  <!-- EN: Multiplier for difficulty {0} -->
+  <StatsReport_LightMultiplier>ตัวคูณสำหรับแสง {0}</StatsReport_LightMultiplier>	
   <StatsReport_DifficultyMultiplier>ตัวคูณสำหรับระดับความยาก {0}</StatsReport_DifficultyMultiplier>
-  <!-- EN: In bed -->
   <StatsReport_InBed>อยู่บนเตียง</StatsReport_InBed>
-  <!-- EN: Facilities -->
   <StatsReport_Facilities>สิ่งอำนวยความสะดวก</StatsReport_Facilities>
-  <!-- EN: Multiplier for body size {0} -->
   <StatsReport_BodySize>ตัวคูณสำหรับขนาดตัว {0}</StatsReport_BodySize>
-  <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
   <StatsReport_MeleeDPSExplanation>สถิตินั้นแสดงในรูปแบบดังต่อไปนี้:\nDPS ( ความเสียหายของการสู้ระยะประชิด / Cooldown เป็นวินาที / โอกาสโดนในการสู้ระยะประชิด )\n\nDPS = ความเสียหายของการสู้ระยะประชิด * โอกาสโดนในการสู้ระยะประชิด / Cooldown เป็นวินาที</StatsReport_MeleeDPSExplanation>
-  <!-- EN: Melee damage -->
   <StatsReport_MeleeDamage>ความเสียหายของการสู้ระยะประชิด</StatsReport_MeleeDamage>
-  <!-- EN: Cooldown -->
   <StatsReport_Cooldown>คูลดาวน์</StatsReport_Cooldown>
-  <!-- EN: Melee hit chance -->
   <StatsReport_MeleeHitChance>โอกาสโดนในการสู้ระยะประชิด</StatsReport_MeleeHitChance>
-  <!-- EN: {0} s -->
   <StatsReport_CooldownFormat>{0} วิ</StatsReport_CooldownFormat>
-  <!-- EN: Life expectancy -->
   <StatsReport_LifeExpectancy>ความคาดหมายในชีวิต</StatsReport_LifeExpectancy>
-  <!-- EN: Multiplier for missing body parts -->
   <StatsReport_MissingBodyParts>ตัวคูณสำหรับอวัยวะที่หายไป</StatsReport_MissingBodyParts>
-  <!-- EN: Gear and inventory -->
   <StatsReport_GearAndInventoryMass>คลังและมวลสินค้าคงคลัง</StatsReport_GearAndInventoryMass>
-  <!-- EN: Multiplier for worn by corpse -->
   <StatsReport_WornByCorpse>ตัวคูณสำหรับสวมใส่โดยศพ</StatsReport_WornByCorpse>
-  <!-- EN: average of all attacks -->
   <AverageOfAllAttacks>ค่าเฉลี่ยของการโจมตีทั้งหมด</AverageOfAllAttacks>
-  <!-- EN: Scenario -->
   <StatsReport_ScenarioFactor>สถานการณ์</StatsReport_ScenarioFactor>
-  <!-- EN: Ingredients -->
   <StatsReport_IngredientsMass>ส่วนผสม</StatsReport_IngredientsMass>
-  <!-- EN: Permanently disabled. -->
   <StatsReport_PermanentlyDisabled>ปิดใช้งานอย่างถาวร</StatsReport_PermanentlyDisabled>
-  <!-- EN: {0} -->
   <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
-  <!-- EN: Added body parts -->
   <StatsReport_AddedBodyPartsMass>เพิ่มส่วนต่างๆในร่างกาย</StatsReport_AddedBodyPartsMass>
-  <!-- EN: Material effect multiplier -->
-  <StatsReport_StuffEffectMultiplier>TODO</StatsReport_StuffEffectMultiplier>
-  <!-- EN: Resting -->
-  <StatsReport_Resting>TODO</StatsReport_Resting>
-  <!-- EN: recreation type -->
-  <StatsReport_JoyKind>TODO</StatsReport_JoyKind>
-  <!-- EN: work to uninstall -->
-  <StatsReport_WorkToUninstall>TODO</StatsReport_WorkToUninstall>
-  <!-- EN: Multiplier for growth {0} -->
-  <StatsReport_PlantGrowth>TODO</StatsReport_PlantGrowth>
-  <!-- EN: scaled because wild -->
-  <StatsReport_PlantGrowth_Wild>TODO</StatsReport_PlantGrowth_Wild>
-  <!-- EN: Not flesh -->
-  <StatsReport_NotFlesh>TODO</StatsReport_NotFlesh>
-  <!-- EN: Not fresh -->
-  <StatsReport_NotFresh>TODO</StatsReport_NotFresh>
-  <!-- EN: Wild man -->
-  <StatsReport_WildMan>TODO</StatsReport_WildMan>
-  <!-- EN: Attack -->
-  <StatsReport_NonToolAttack>TODO</StatsReport_NonToolAttack>
+  <StatsReport_StuffEffectMultiplier>ตัวคูณผลกระทบของเนื้อหา</StatsReport_StuffEffectMultiplier>
+  <StatsReport_Resting>พักผ่อน</StatsReport_Resting>
+  <StatsReport_JoyKind>ประเภทนันทนาการ</StatsReport_JoyKind>
+  <StatsReport_WorkToUninstall>ทำงานเพื่อถอนการติดตั้ง</StatsReport_WorkToUninstall>
+  <StatsReport_PlantGrowth>ตัวคูณสำหรับการเจริญเติบโต {0}</StatsReport_PlantGrowth>
+  <StatsReport_PlantGrowth_Wild>ปรับขนาดเนื่องจากป่า</StatsReport_PlantGrowth_Wild>
+  <StatsReport_NotFlesh>ไม่ใช่เนื้อ</StatsReport_NotFlesh>
+  <StatsReport_NotFresh>ไม่ใช่เนื้อ</StatsReport_NotFresh>
+  <StatsReport_WildMan>คนป่า</StatsReport_WildMan>
+  <StatsReport_NonToolAttack>โจมตี</StatsReport_NonToolAttack>
 
 </LanguageData>
