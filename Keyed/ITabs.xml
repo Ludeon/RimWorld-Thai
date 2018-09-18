@@ -17,75 +17,75 @@
   <!-- EN: Gear -->
   <TabGear>อุปกรณ์</TabGear>
   <!-- EN: Needs -->
-  <TabNeeds>ความต้องการ</TabNeeds>
+  <TabNeeds>ต้องการ</TabNeeds>
   <!-- EN: Storage -->
-  <TabStorage>คลัง</TabStorage>
+  <TabStorage>ที่เก็บ</TabStorage>
   <!-- EN: Shells -->
   <TabShells>กระสุนปืนใหญ่</TabShells>
   <!-- EN: Health -->
   <TabHealth>สุขภาพ</TabHealth>
   <!-- EN: Race -->
-  <TabRace>เผ่า</TabRace>
+  <TabRace>เผ่าพันธุ์</TabRace>
   <!-- EN: Basics -->
   <TabBasics>พื้นฐาน</TabBasics>
   <!-- EN: Stats -->
   <TabStats>สถิติ</TabStats>
   <!-- EN: Records -->
-  <TabRecords>บันทึก</TabRecords>
+  <TabRecords>ประวัติ</TabRecords>
   <!-- EN: Art -->
   <TabArt>ศิลปะ</TabArt>
   <!-- EN: Social -->
   <TabSocial>สังคม</TabSocial>
   <!-- EN: Log -->
-  <TabLog>TODO</TabLog>
+  <TabLog>บันทึก</TabLog>
   <!-- EN: Caravan -->
-  <TabFormingCaravan>TODO</TabFormingCaravan>
+  <TabFormingCaravan>คาราวาน</TabFormingCaravan>
   <!-- EN: Contents -->
-  <TabTransporterContents>TODO</TabTransporterContents>
+  <TabTransporterContents>เนื้อหา</TabTransporterContents>
 
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
   <AddBill>เพิ่มใบสั่ง</AddBill>
   <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
-  <RecipeRequiresSkills>งาน {0} ชาวนิคมของคุณไม่มีทักษะด้านนี้, จึงไม่มีใครที่จะทำปฏิบัติงานสิ่งนี้</RecipeRequiresSkills>
+  <RecipeRequiresSkills>กระบวนการทำ {0} ต้องใช้ทักษะด้านล่าง ไม่มีชาวนิคมคนไหนมีทักษะด้านนี้ จึงไม่มีใครสามารถปฏิบัติตามใบสั่งได้</RecipeRequiresSkills>
   <!-- EN: Min skill -->
   <MinimumSkill>ทักษะขั้นต่้ำ</MinimumSkill>
   <!-- EN: SUSPENDED -->
-  <SuspendedCaps>ระงับแล้ว</SuspendedCaps>
+  <SuspendedCaps>ถูกระงับ</SuspendedCaps>
   <!-- EN: Worker: {1_labelShort} -->
   <BoundWorkerIs>คนงาน: {1_labelShort}</BoundWorkerIs>
   <!-- EN: Plant -->
   <PlantVerb>ปลูก</PlantVerb>
   <!-- EN: Copied bill cannot be pasted here. -->
-  <ClipboardBillNotAvailableHere>TODO</ClipboardBillNotAvailableHere>
+  <ClipboardBillNotAvailableHere>ใบสั่งที่คัดลอกมาวางที่นี่ไม่ได้</ClipboardBillNotAvailableHere>
   <!-- EN: Move up -->
-  <ReorderBillUpTip>TODO</ReorderBillUpTip>
+  <ReorderBillUpTip>เลื่อนขึ้น</ReorderBillUpTip>
   <!-- EN: Move down -->
-  <ReorderBillDownTip>TODO</ReorderBillDownTip>
+  <ReorderBillDownTip>เลื่อนลง</ReorderBillDownTip>
   <!-- EN: Delete -->
-  <DeleteBillTip>TODO</DeleteBillTip>
+  <DeleteBillTip>ลบออก</DeleteBillTip>
   <!-- EN: Copy to the clipboard -->
-  <CopyBillTip>TODO</CopyBillTip>
+  <CopyBillTip>คัดลอกลงคลิปบอร์ด</CopyBillTip>
   <!-- EN: Suspend -->
-  <SuspendBillTip>TODO</SuspendBillTip>
+  <SuspendBillTip>ระงับ</SuspendBillTip>
   <!-- EN: Paste -->
-  <PasteBillTip>TODO</PasteBillTip>
+  <PasteBillTip>วาง</PasteBillTip>
   <!-- EN: can't add more -->
-  <PasteBillTip_LimitReached>TODO</PasteBillTip_LimitReached>
+  <PasteBillTip_LimitReached>เพิ่มไม่ได้แล้ว</PasteBillTip_LimitReached>
 
   <!-- Guest/prisoner tab -->
   <!-- EN: Resistance remaining -->
-  <RecruitmentResistance>TODO</RecruitmentResistance>
+  <RecruitmentResistance>ยังคงขัดขืนอยู่</RecruitmentResistance>
   <!-- EN: Recruitment difficulty -->
-  <RecruitmentDifficulty>ความยากในการชักชวนให้เข้าร่วม</RecruitmentDifficulty>
+  <RecruitmentDifficulty>ความยากในการชักชวนเข้าร่วม</RecruitmentDifficulty>
   <!-- EN: Gets food -->
   <GetsFood>ได้รับอาหาร</GetsFood>
   <!-- EN: Doctors care -->
-  <DoctorsCare>การดูแลทางการแพทย์</DoctorsCare>
+  <DoctorsCare>ได้รับการดูแลจากแพทย์</DoctorsCare>
   <!-- EN: Gets medicine -->
   <GetsMedicine>ได้รับการรักษาด้วยยา</GetsMedicine>
   <!-- EN: Try to recruit -->
-  <ShouldTryToRecruit>ลองพยายามชักชวนให้เข้าร่วม</ShouldTryToRecruit>
+  <ShouldTryToRecruit>ลองพยายามชักชวนเข้าร่วม</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
   <ConsideredGuilty>ถือว่ามีความผิด (จะหมดอายุใน {0})</ConsideredGuilty>
 
@@ -97,7 +97,7 @@
   <!-- EN: Part efficiency -->
   <PartEfficiency>ประสิทธิภาพชิ้นส่วน</PartEfficiency>
   <!-- EN: Body part efficiency -->
-  <BodyPartEfficiency>ประสิทธิภาพของส่วนของร่างกาย</BodyPartEfficiency>
+  <BodyPartEfficiency>ประสิทธิภาพชิ้นส่วนร่างกาย</BodyPartEfficiency>
   <!-- EN: Gone -->
   <MissingBodyPart>หายไป</MissingBodyPart>
   <!-- EN: Destroyed -->
@@ -115,19 +115,19 @@
   <!-- EN: Injured -->
   <Injured>บาดเจ็บ</Injured>
   <!-- EN: no health conditions -->
-  <NoHealthConditions>TODO</NoHealthConditions>
+  <NoHealthConditions>ไม่มีสภาวะด้านสุขภาพ</NoHealthConditions>
   <!-- EN: Whole body -->
   <WholeBody>ทั้งตัว</WholeBody>
   <!-- EN: Data processing -->
-  <DataProcessing>การประมวลผล</DataProcessing>
+  <DataProcessing>ประมวลผลข้อมูล</DataProcessing>
   <!-- EN: Communication -->
   <Communication>การสื่อสาร</Communication>
   <!-- EN: Affects -->
-  <Affects>กระทบกระเทือน</Affects>
+  <Affects>กระทบ</Affects>
   <!-- EN: Bleeding -->
   <BleedingRate>อัตราเลือดออก</BleedingRate>
   <!-- EN: death in {0} -->
-  <TimeToDeath>การเสียชีวิตใน {0}</TimeToDeath>
+  <TimeToDeath>เสียชีวิตใน {0}</TimeToDeath>
   <!-- EN: no immediate danger -->
   <WontBleedOutSoon>ไม่มีอันตรายทันที</WontBleedOutSoon>
   <!-- EN: Overview -->
@@ -137,11 +137,11 @@
   <!-- EN: Modifications ({0}) -->
   <MedicalOperationsMechanoidsShort>การปรับเปลี่ยน ({0})</MedicalOperationsMechanoidsShort>
   <!-- EN: Medical operations -->
-  <MedicalOperations>การดำเนินงานด้านการแพทย์</MedicalOperations>
+  <MedicalOperations>ดำเนินงานด้านการแพทย์</MedicalOperations>
   <!-- EN: amputate -->
-  <Amputate>ตัดแขนขา</Amputate>
+  <Amputate>ตัดทิ้ง</Amputate>
   <!-- EN: harvest -->
-  <HarvestOrgan>TODO</HarvestOrgan>
+  <HarvestOrgan>เก็บเกี่ยว</HarvestOrgan>
   <!-- EN: remove -->
   <RemoveOrgan>เอาออก</RemoveOrgan>
   <!-- EN: memory -->
@@ -155,11 +155,11 @@
   <!-- EN: Pain -->
   <PainFactor>ความเจ็บปวด</PainFactor>
   <!-- EN: Prevents infection -->
-  <PreventsInfection>ป้องกันการติดเชื้อ</PreventsInfection>
+  <PreventsInfection>ป้องกันจากการติดเชื้อ</PreventsInfection>
   <!-- EN: Self-tend -->
   <SelfTend>รักษาตัวเอง</SelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
-  <SelfTendTip>{0} เปิดใช้งานการรักษาตัวเอง จะมีแนวโน้มที่จะรักษาน้อยลงเป็น {1} ของประสิทธิภาพโดยปกติ</SelfTendTip>
+  <SelfTendTip>{0} เปิดใช้งานให้รักษาตัวเองอัตโนมัติ จะรักษาด้วยตัวเอง ณ ตรงนั้น ที่ {1} ของประสิทธิภาพโดยปกติ</SelfTendTip>
   
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
@@ -169,11 +169,11 @@
   <!-- EN: Poor -->
   <Poor>แย่</Poor>
   <!-- EN: Weakened -->
-  <Weakened>อ่อนแรงลง</Weakened>
+  <Weakened>อ่อนแอ</Weakened>
   <!-- EN: OK -->
-  <GoodCondition>สบายดี</GoodCondition>
+  <GoodCondition>โอเค</GoodCondition>
   <!-- EN: Enhanced -->
-  <Enhanced>ดีเพิ่มขึ้น</Enhanced>
+  <Enhanced>ดีกว่าเดิม</Enhanced>
   <!-- EN: Seriously impaired -->
   <SeriouslyImpaired>พิการหนัก</SeriouslyImpaired>
   <!-- EN: Impaired -->
@@ -181,23 +181,23 @@
   <!-- EN: Slightly impaired -->
   <SlightlyImpaired>พิการเล็กน้อย</SlightlyImpaired>
   <!-- EN: None -->
-  <NoPain>ไม่มีความเจ็บ</NoPain>
+  <NoPain>ไม่ปวด</NoPain>
   <!-- EN: Little -->
   <LittlePain>เล็กน้อย</LittlePain>
   <!-- EN: Medium -->
   <MediumPain>ปานกลาง</MediumPain>
   <!-- EN: Severe -->
-  <SeverePain>สาหัส</SeverePain>
+  <SeverePain>รุนแรง</SeverePain>
   <!-- EN: Extreme -->
-  <ExtremePain>อันตราย</ExtremePain>
+  <ExtremePain>สุดขีด</ExtremePain>
 
   <!-- Training tab -->
   <!-- EN: Trainability -->
-  <Trainability>TODO</Trainability>
+  <Trainability>ศักยภาพในการฝึกฝน</Trainability>
   <!-- EN: Requires trainability {0}. -->
-  <CannotTrainNotSmartEnough>ต้องใช้ {0}. สติปัญญาที่สามารถสอนได้</CannotTrainNotSmartEnough>
+  <CannotTrainNotSmartEnough>ต้องใช้ศักยภาพในการฝึกฝน {0}</CannotTrainNotSmartEnough>
   <!-- EN: {1_labelShort} is too small to train this. -->
-  <CannotTrainTooSmall>{1_labelShort} มีขนาดเล็กเกินไปที่จะฝึก</CannotTrainTooSmall>
+  <CannotTrainTooSmall>{1_labelShort} มีขนาดเล็กเกินจะฝึกสิ่งนี้</CannotTrainTooSmall>
 
   <!-- EN: Prerequisite needed: {0} -->
   <TrainingNeedsPrerequisite>จำเป็นต้องมี: {0}</TrainingNeedsPrerequisite>
@@ -208,7 +208,7 @@
   <!-- EN: Kidnapped -->
   <Kidnapped>ถูกลักพาตัว</Kidnapped>
   <!-- EN: Missing -->
-  <Missing>หายไป</Missing>
+  <Missing>หายตัวไป</Missing>
   <!-- EN: Slave -->
   <Slave>ทาส</Slave>
   <!-- EN: Faction leader -->
@@ -216,74 +216,74 @@
   <!-- EN: Opinion of {1_labelShort} -->
   <OpinionOf>ความคิดเห็นของ {1_labelShort}</OpinionOf>
   <!-- EN: {1_labelShort}'s opinion of me -->
-  <SomeonesOpinionOfMe>{1_labelShort} ความคิดเห็นของฉัน</SomeonesOpinionOfMe>
+  <SomeonesOpinionOfMe>{1_labelShort} มีความคิดเห็นต่อฉัน</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->
   <IAmDead>ฉันตาย</IAmDead>
   <!-- EN: I'm a psychopath -->
-  <IAmPsychopath>ฉันกำลังบ้า</IAmPsychopath>
+  <IAmPsychopath>ฉันเป็นพวกจิตวิปลาส</IAmPsychopath>
   
   <!-- Gear tab -->
   <!-- EN: Overall armor -->
-  <OverallArmor>TODO</OverallArmor>
+  <OverallArmor>เกราะโดยรวม</OverallArmor>
   <!-- EN: Mass carried: {0} / {1} kg -->
-  <MassCarried>น้ำหนักในการถือ: {0} / {1} กีโล</MassCarried>
+  <MassCarried>มวลที่แบกอยู่: {0} / {1} กิโล</MassCarried>
   <!-- EN: Comfortable temperature range -->
-  <ComfyTemperatureRange>ช่วงอุณหภูมิที่สมบูรณ์</ComfyTemperatureRange>
+  <ComfyTemperatureRange>ช่วงอุณหภูมิที่เหมาะสม</ComfyTemperatureRange>
   <!-- EN: Blunt -->
-  <ArmorBlunt>ถื่อ</ArmorBlunt>
+  <ArmorBlunt>กันกระแทก</ArmorBlunt>
   <!-- EN: Sharp -->
-  <ArmorSharp>คม</ArmorSharp>
+  <ArmorSharp>กันคม</ArmorSharp>
   <!-- EN: Heat -->
   <ArmorHeat>ความร้อน</ArmorHeat>
   
   <!-- Log tab -->
   <!-- EN: Show all -->
-  <ShowAll>TODO</ShowAll>
+  <ShowAll>แสดงทั้งหมด</ShowAll>
   <!-- EN: Show combat -->
-  <ShowCombat>TODO</ShowCombat>
+  <ShowCombat>แสดงการต่อสู้</ShowCombat>
   <!-- EN: Show social -->
-  <ShowSocial>TODO</ShowSocial>
+  <ShowSocial>แสดงการเข้าสังคม</ShowSocial>
   <!-- EN: no recent entries -->
-  <NoRecentEntries>TODO</NoRecentEntries>
+  <NoRecentEntries>ไม่มีข้อมูลล่าสุด</NoRecentEntries>
   <!-- EN: Copy log to the clipboard. -->
-  <CopyLogTip>TODO</CopyLogTip>
+  <CopyLogTip>คัดลอกบันทึกไปคลิปบอร์ด</CopyLogTip>
 
   <!-- Forming caravan tab -->
   <!-- EN: Gathering animals -->
-  <FormingCaravanStatus_GatheringAnimals>TODO</FormingCaravanStatus_GatheringAnimals>
+  <FormingCaravanStatus_GatheringAnimals>รวบรวมสัตว์</FormingCaravanStatus_GatheringAnimals>
   <!-- EN: Gathering animals (waiting) -->
-  <FormingCaravanStatus_GatheringAnimals_Pause>TODO</FormingCaravanStatus_GatheringAnimals_Pause>
+  <FormingCaravanStatus_GatheringAnimals_Pause>รวบรวมสัตว์ (กำลังรอ)</FormingCaravanStatus_GatheringAnimals_Pause>
   <!-- EN: Gathering items -->
-  <FormingCaravanStatus_GatheringItems>TODO</FormingCaravanStatus_GatheringItems>
+  <FormingCaravanStatus_GatheringItems>รวบรวมไอเท็ม</FormingCaravanStatus_GatheringItems>
   <!-- EN: Gathering items (waiting) -->
-  <FormingCaravanStatus_GatheringItems_Pause>TODO</FormingCaravanStatus_GatheringItems_Pause>
+  <FormingCaravanStatus_GatheringItems_Pause>รวบรวมไอเท็ม (กำลังรอ)</FormingCaravanStatus_GatheringItems_Pause>
   <!-- EN: Gathering slaves -->
-  <FormingCaravanStatus_GatheringSlaves>TODO</FormingCaravanStatus_GatheringSlaves>
+  <FormingCaravanStatus_GatheringSlaves>รวบรวมทาส</FormingCaravanStatus_GatheringSlaves>
   <!-- EN: Gathering slaves (waiting) -->
-  <FormingCaravanStatus_GatheringSlaves_Pause>TODO</FormingCaravanStatus_GatheringSlaves_Pause>
+  <FormingCaravanStatus_GatheringSlaves_Pause>รวบรวมทาส (กำลังรอ)</FormingCaravanStatus_GatheringSlaves_Pause>
   <!-- EN: Leaving -->
-  <FormingCaravanStatus_Leaving>TODO</FormingCaravanStatus_Leaving>
+  <FormingCaravanStatus_Leaving>กำลงจะออกเดินทาง</FormingCaravanStatus_Leaving>
   <!-- EN: Leaving (waiting) -->
-  <FormingCaravanStatus_Leaving_Pause>TODO</FormingCaravanStatus_Leaving_Pause>
+  <FormingCaravanStatus_Leaving_Pause>กำลงจะออกเดินทาง (กำลังรอ)</FormingCaravanStatus_Leaving_Pause>
   <!-- EN: Waiting -->
-  <FormingCaravanStatus_Waiting>TODO</FormingCaravanStatus_Waiting>
+  <FormingCaravanStatus_Waiting>กำลังรอ</FormingCaravanStatus_Waiting>
   <!-- EN: Members -->
-  <CaravanMembers>TODO</CaravanMembers>
+  <CaravanMembers>สมาชิก</CaravanMembers>
   <!-- EN: Animals -->
-  <CaravanAnimals>TODO</CaravanAnimals>
+  <CaravanAnimals>สัตว์</CaravanAnimals>
   <!-- EN: Items to load -->
-  <ItemsToLoad>TODO</ItemsToLoad>
+  <ItemsToLoad>ไอเท็มที่จะโหลด</ItemsToLoad>
   <!-- EN: Loaded items -->
-  <LoadedItems>TODO</LoadedItems>
+  <LoadedItems>ไอเท็มโหลดแล้ว</LoadedItems>
   <!-- EN: pack animals -->
-  <PackAnimalsCountLower>TODO</PackAnimalsCountLower>
+  <PackAnimalsCountLower>กลุ่มสัตว์</PackAnimalsCountLower>
   <!-- EN: mentally broken -->
-  <InMentalStateCountLower>TODO</InMentalStateCountLower>
+  <InMentalStateCountLower>สติแตกแล้ว</InMentalStateCountLower>
 
   <!-- Transporter contents -->
   <!-- EN: Remove {{0}}x {0} -->
-  <RemoveSliderText>TODO</RemoveSliderText>
+  <RemoveSliderText>เอาออก {{0}}x {0}</RemoveSliderText>
   <!-- EN: Do you really want to remove {0}? -->
-  <ConfirmRemoveItemDialog>TODO</ConfirmRemoveItemDialog>
+  <ConfirmRemoveItemDialog>คุณต้องการเอา {0} ออกจริงๆ?</ConfirmRemoveItemDialog>
 
 </LanguageData>

@@ -4,18 +4,18 @@ This is the Thai translation data for RimWorld.
 
 Compatible with RimWorld version: `1.0.2029` build: `2018-09-17`
 
-`Strings` and `Backstories` are not translated yet, These are planned to translate last after finished with all `Keyed` and `DefInjected`.
+`Strings` and `Backstories` are not translated yet.
 
 We appreciate any willing to help, to contribute see: http://ludeon.com/forums/index.php?topic=2933.0
 
 ------------------------------------
 
-Quick summary from current translation report (/w notes):
+Quick summary from current translation report (w/ notes):
   * :ballot_box_with_check: (0) General load errors
   * :ballot_box_with_check: (0) Def-injected translations load errors
   * :ballot_box_with_check: (0) Backstories load errors
-  * :black_square_button: (466) Missing keyed translations
-  * :black_square_button: (5025) Def-injected translations missing
+  * :black_square_button: (425) Missing keyed translations
+  * :black_square_button: (5024) Def-injected translations missing
   * :black_square_button: (2055) Backstory translations missing
     > This will be translate last, after all other translations is done, the problem it's simply lack of man-power.
     > 
@@ -25,7 +25,7 @@ Quick summary from current translation report (/w notes):
   * :ballot_box_with_check: (0) Argument count mismatches (may or may not be incorrect)
   * :ballot_box_with_check: (0) Unnecessary keyed translations (will never be used)
   * :white_square_button: (56) Keyed translations matching English (maybe ok)
-    > You can safely ignore these, most of the time it's intended to leave as English (some no suitable word in Thai, some should not translate, etc.)
+    > You can safely ignore these, most of the time it's intended to leave as English (e.g. no suitable word in Thai, not really need to translate, etc.)
     >
     > For example, all subjects in `Credits.xml` and Quadrums name in `Time.xml` will not be translated.
     >

@@ -11,7 +11,7 @@
   <!-- EN: Health -->
   <TabCaravanHealth>สุขภาพ</TabCaravanHealth>
   <!-- EN: Needs -->
-  <TabCaravanNeeds>จำเป็น</TabCaravanNeeds>
+  <TabCaravanNeeds>สิ่งจำเป็น</TabCaravanNeeds>
   <!-- EN: Gear -->
   <TabCaravanGear>อุปกรณ์</TabCaravanGear>
   <!-- EN: Items -->
@@ -19,21 +19,21 @@
   
   <!-- Misc -->
   <!-- EN: Abandon {{0}}x {1_labelShort} -->
-  <AbandonSliderText>ทอดทิ้ง {{0}}x {1_labelShort}</AbandonSliderText>
+  <AbandonSliderText>ทิ้ง {{0}}x {1_labelShort}</AbandonSliderText>
   <!-- EN: Do you really want to abandon {1_label}?\n\nAbandoned items vanish and can never be recovered. -->
-  <ConfirmAbandonItemDialog>คุณจะแน่ใจจริงๆว่าจะทอดทิ้ง {1_label}?\n\nไอเท็มที่ทิ้งจะหายไป และไม่สามารถเอากลับคืนมาได้</ConfirmAbandonItemDialog>
+  <ConfirmAbandonItemDialog>คุณจะแน่ใจจริงๆว่าจะทิ้ง {1_label}?\n\nไอเท็มที่ทิ้งจะหายไป และไม่สามารถเอากลับคืนมาได้</ConfirmAbandonItemDialog>
   <!-- EN: Abandon -->
-  <AbandonTip>ทอดทิ้ง</AbandonTip>
+  <AbandonTip>ทิ้ง</AbandonTip>
   <!-- EN: Banish -->
   <BanishTip>ขับไล่</BanishTip>
   <!-- EN: Abandon specific count -->
   <AbandonSpecificCountTip>จำนวนที่จะต้องการทิ้ง</AbandonSpecificCountTip>
   <!-- EN: Abandon (all) -->
-  <AbandonAllTip>ทอดทิ้ง (ทั้งหมด)</AbandonAllTip>
+  <AbandonAllTip>ทิ้ง (ทั้งหมด)</AbandonAllTip>
   <!-- EN: Abandoned items vanish and can never be recovered. -->
-  <AbandonItemTipExtraText>ไอเท็มที่ทอดทิ้งจะหายไป จะไม่สามารถกลับคืนมาได้</AbandonItemTipExtraText>
+  <AbandonItemTipExtraText>ไอเท็มที่ทิ้งจะหายไป และไม่สามารถเอากลับคืนมาได้</AbandonItemTipExtraText>
   <!-- EN: {1_labelShort} will most likely die. -->
-  <BanishTipWillDie>เป็นไปได้มากว่า {1_labelShort} จะตายในที่สุด</BanishTipWillDie>
+  <BanishTipWillDie>เป็นไปได้มากว่า {1_labelShort} จะตาย</BanishTipWillDie>
   
   <!-- Caravan inspect -->
   <!-- EN: Colonists -->
@@ -41,17 +41,17 @@
   <!-- EN: Prisoners and animals -->
   <CaravanPrisonersAndAnimals>นักโทษและสัตว์</CaravanPrisonersAndAnimals>
   <!-- EN: Inventory -->
-  <CaravanItems>ไอเท็ม</CaravanItems>
+  <CaravanItems>รายการไอเท็ม</CaravanItems>
   <!-- EN: Click to open a tab with more details. -->
   <OpenSpecificTabButtonTip>คลิกเพื่อเปิดแท็บที่มีรายละเอียดมากขึ้น</OpenSpecificTabButtonTip>
   <!-- EN: Prisoners -->
   <CaravanPrisoners>นักโทษ</CaravanPrisoners>
   <!-- EN: Inventory -->
-  <CaravanWeaponsAndApparel>ไอเท็ม</CaravanWeaponsAndApparel>
+  <CaravanWeaponsAndApparel>รายการไอเท็ม</CaravanWeaponsAndApparel>
   <!-- EN: None capable -->
-  <NoneCapable>ไม่สามารถทำได้</NoneCapable>
+  <NoneCapable>ไม่มีผู้ที่สามารถทำได้</NoneCapable>
   <!-- EN: Caravan not moving -->
-  <GainingJoyBecauseCaravanNotMoving>TODO</GainingJoyBecauseCaravanNotMoving>
+  <GainingJoyBecauseCaravanNotMoving>คาราวานไม่เคลื่อนที่</GainingJoyBecauseCaravanNotMoving>
   
   <!-- Caravan gear -->
   <!-- EN: Drag to rearrange. -->
@@ -59,16 +59,16 @@
 
   <!-- Caravan items -->
   <!-- EN: Assign drug policies -->
-  <AssignDrugPolicies>TODO</AssignDrugPolicies>
+  <AssignDrugPolicies>กำหนดนโยบายด้านยา</AssignDrugPolicies>
 
   <!-- Caravan health -->
   <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
-  <BeCarriedIfSickTip>TODO</BeCarriedIfSickTip>
+  <BeCarriedIfSickTip>เมื่อป่วยจะให้สมาชิกคาราวานมาช่วยแบกคนหรือสัตว์นี้หรือไม่\n\nสมาชิกคาราวานที่โดนแบก จะได้พักผ่อนแม้ตอนคาราวานเคลื่อนที่ แต่พวกเขาจะเดินทางได้ช้าลง</BeCarriedIfSickTip>
   
   <!-- Planet -->
   <!-- EN: Seed -->
   <PlanetSeed>Seed</PlanetSeed>
   <!-- EN: Coverage -->
-  <PlanetCoverageShort>ครอบคลุม</PlanetCoverageShort>
+  <PlanetCoverageShort>พื้นที่ครอบคลุม</PlanetCoverageShort>
 
 </LanguageData>

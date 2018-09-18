@@ -11,13 +11,13 @@
   <MarketValue.label>ราคาตลาด</MarketValue.label>
   
   <!-- EN: mass -->
-  <Mass.label>TODO</Mass.label>
+  <Mass.label>มวล</Mass.label>
   
   <!-- EN: name -->
   <Name.label>ชื่อ</Name.label>
   
   <!-- EN: none -->
-  <None.label>ไม่มี</None.label>
+  <None.label>ไม่เรียง</None.label>
   
   <!-- EN: quality -->
   <Quality.label>คุณภาพ</Quality.label>

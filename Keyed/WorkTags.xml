@@ -2,25 +2,25 @@
 <LanguageData>
 
   <!-- EN: none -->
-  <WorkTagNone>ไม่มี</WorkTagNone>
+  <WorkTagNone>ไม่ทำ</WorkTagNone>
   <!-- EN: intellectual -->
-  <WorkTagIntellectual>สติปัญญา</WorkTagIntellectual>
+  <WorkTagIntellectual>ใช้สติปัญญา</WorkTagIntellectual>
   <!-- EN: dumb labor -->
   <WorkTagManualDumb>กรรมกร</WorkTagManualDumb>
   <!-- EN: skilled labor -->
   <WorkTagManualSkilled>แรงงานทักษะ</WorkTagManualSkilled>
   <!-- EN: violent -->
-  <WorkTagViolent>รุนแรง</WorkTagViolent>
+  <WorkTagViolent>ใช้ความรุนแรง</WorkTagViolent>
   <!-- EN: caring -->
   <WorkTagCaring>ดูแล</WorkTagCaring>
   <!-- EN: social -->
-  <WorkTagSocial>สังคม</WorkTagSocial>
+  <WorkTagSocial>เข้าสังคม</WorkTagSocial>
   <!-- EN: animals -->
   <WorkTagAnimals>ดูแลสัตว์</WorkTagAnimals>
   <!-- EN: artistic -->
-  <WorkTagArtistic>ศิลปะ</WorkTagArtistic>
+  <WorkTagArtistic>สร้างสรรค์งานศิลป์</WorkTagArtistic>
   <!-- EN: crafting -->
-  <WorkTagCrafting>งานฝีมือ</WorkTagCrafting>
+  <WorkTagCrafting>ทำงานฝีมือ</WorkTagCrafting>
   <!-- EN: cooking -->
   <WorkTagCooking>ทำอาหาร</WorkTagCooking>
   <!-- EN: firefighting -->

@@ -71,7 +71,7 @@
   <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->
   <MaxPermadeathAutosaveIntervalInfo>ช่วงเวลาเซฟเกมอัตโนมัติในโหมดตายถาวร สูงสุด {0} ต่อวัน</MaxPermadeathAutosaveIntervalInfo>
   <!-- EN: Mod Settings -->
-  <ModSettings>ตั้งค่า Mod</ModSettings>
+  <ModSettings>ตั้งค่า mod</ModSettings>
   <!-- EN: Permanently disable development mode -->
   <PermanentlyDisableDevMode>ปิดใช้ โหมดพัฒนา ถาวร</PermanentlyDisableDevMode>
 
