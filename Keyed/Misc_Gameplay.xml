@@ -1,519 +1,1054 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Various -->
-  	<HitPointsBasic>สถานะ</HitPointsBasic>
+  <!-- EN: hit points -->
+  <HitPointsBasic>สถานะ</HitPointsBasic>
+  <!-- EN: Work left -->
   <WorkLeft>งานที่เหลืออยู่</WorkLeft>
+  <!-- EN: Contents -->
   <Contents>บรรจุ</Contents>
+  <!-- EN: Contained resources -->
   <ContainedResources>ทรัพยากรที่มีอยู่</ContainedResources>
+  <!-- EN: For prisoner use -->
   <ForPrisonerUse>สำหรับนักโทษ</ForPrisonerUse>
-  <ForColonistUse>สำหรับชาวอาณานิคม</ForColonistUse>
+  <!-- EN: In prison cell: For prisoner use -->
+  <InPrisonCell>TODO</InPrisonCell>
+  <!-- EN: For colonist use -->
+  <ForColonistUse>สำหรับชาวนิคม</ForColonistUse>
+  <!-- EN: Medical -->
   <MedicalBed>การแพทย์</MedicalBed>
+  <!-- EN: Owner -->
   <Owner>เจ้าของ</Owner>
+  <!-- EN: Owners -->
   <Owners>เจ้าของ</Owners>
-  <AssignedColonist>ชาวอาณานิคมที่ได้รับมอบหมาย</AssignedColonist>
+  <!-- EN: Assigned colonist -->
+  <AssignedColonist>ชาวนิคมที่ได้รับมอบหมาย</AssignedColonist>
+  <!-- EN: Died on the {0} -->
+  <DiedOn>TODO</DiedOn>
+  <!-- EN: Nobody -->
   <Nobody>ไม่มีใคร</Nobody>
+  <!-- EN: Unowned -->
   <Unowned>ไม่มีเจ้าของ</Unowned>
+  <!-- EN: Dead for {0} -->
   <DeadTime>ตายมาแล้ว {0}</DeadTime>
+  <!-- EN: walk speed {0} -->
   <WalkSpeed>ความเร็วในการเดิน {0}</WalkSpeed>
+  <!-- EN: fert. -->
   <FertShort>จาก</FertShort>
+  <!-- EN: dying -->
   <DyingLower>กำลังตาย</DyingLower>
+  <!-- EN: Filth on feet: -->
   <FilthOnFeet>ความสกปรกที่เท้า:</FilthOnFeet>
+  <!-- EN: not enough stored -->
   <NotEnoughStoredLower>พื้นที่ไม่เพียงพอ</NotEnoughStoredLower>
+  <!-- EN: nothing -->
   <NothingLower>ไม่มีอะไร</NothingLower>
+  <!-- EN: Adapted -->
   <Adapted>ปรับตัวแล้ว</Adapted>
+  <!-- EN: fresh -->
   <FreshMissingBodyPart>สด</FreshMissingBodyPart>
+  <!-- EN: developed immunity -->
   <DevelopedImmunityLower>พัฒนาภูมิคุ้มกันแล้ว</DevelopedImmunityLower>
+  <!-- EN: Needs tending now -->
   <NeedsTendingNow>ต้องการ การดูแล</NeedsTendingNow>
-  <NextTreatmentIn>รักษาครั้งถัดไปใน {0}</NextTreatmentIn>
+  <!-- EN: Can tend now -->
+  <CanTendNow>TODO</CanTendNow>
+  <!-- EN: Tending expires in {0} -->
+  <TreatmentExpiresIn>TODO</TreatmentExpiresIn>
+  <!-- EN: Can be tended in {0} -->
+  <NextTendIn>TODO</NextTendIn>
+  <!-- EN: Tend quality -->
+  <TendQuality>TODO</TendQuality>
+  <!-- EN: no {0} -->
   <MissingMedicalBillIngredient>ไม่มี {0}</MissingMedicalBillIngredient>
+  <!-- EN: Immunity -->
   <Immunity>ภูมิคุ้มกัน</Immunity>
+  <!-- EN: Race -->
   <Race>เผ่า</Race>
+  <!-- EN: Description -->
   <Description>คำอธิบาย</Description>
+  <!-- EN: Equipment -->
   <Equipment>อุปกรณ์</Equipment>
+  <!-- EN: Apparel -->
   <Apparel>เสื้อผ้า</Apparel>
+  <!-- EN: Inventory -->
   <Inventory>สิ่งของทรัพย์สิน</Inventory>
+  <!-- EN: Information -->
   <ThingInfo>ข้อมูล</ThingInfo>
+  <!-- EN: Drop -->
   <DropThing>วาง</DropThing>
+  <!-- EN: Rename -->
   <Rename>เปลี่ยนชื่อ</Rename>
-  <RenameColonist>เปลี่ยนชื่อชาวอาณานิคม</RenameColonist>
+  <!-- EN: Rename animal -->
+  <RenameAnimal>TODO</RenameAnimal>
+  <!-- EN: Rename colonist -->
+  <RenameColonist>เปลี่ยนชื่อชาวนิคม</RenameColonist>
+  <!-- EN: unknown -->
   <UnknownLower>ไม่ทราบ</UnknownLower>
+  <!-- EN: On -->
   <On>เปิด</On>
+  <!-- EN: Off -->
   <Off>ปิด</Off>
+  <!-- EN: Power -->
   <PowerSwitch_Power>สวิตช์พลังงาน</PowerSwitch_Power>
+  <!-- EN: Recreation type tolerances -->
   <JoyTolerances>ความคลาดเคลื่อนของความสุข</JoyTolerances>
+  <!-- EN: Milk fullness -->
   <MilkFullness>ความเต็มของนม</MilkFullness>
+  <!-- EN: Wool growth -->
   <WoolGrowth>การเจริญเติบโตของขน</WoolGrowth>
+  <!-- EN: Egg progress -->
   <EggProgress>การพัฒนาการของไข่</EggProgress>
+  <!-- EN: Fertilized -->
   <Fertilized>ถูกผสมแล้ว</Fertilized>
+  <!-- EN: Progress stopped until fertilized -->
   <ProgressStoppedUntilFertilized>การปฏิสนธิหยุดความคืบหน้า</ProgressStoppedUntilFertilized>
+  <!-- EN: need {0} level {2}, have {1} -->
   <SkillTooLow>ต้องการ {0} ระดับ {2}, มี {1}</SkillTooLow>
-  	<Freezing>แช่แข็ง</Freezing>
-	<Overheating>ความร้อนสูงเกินไป</Overheating>
-	<RuinedByTemperature>เสียเพราะอุณหภูมิ</RuinedByTemperature>
-    <CorpsePercentMissing>อวัยวะของศพที่สูญหาย</CorpsePercentMissing>
-    <HiveReproducesIn>พันธุ์ใน</HiveReproducesIn>
-	<DormantHiveNotReproducing>จำศีลอยู่: ไม่สืบพันธุ์</DormantHiveNotReproducing>
-	<NextSpawnedItemIn>ต่อไปใน {0}</NextSpawnedItemIn>
-    <BrokenDown>พัง</BrokenDown>
-    <BondBrackets>(พันธบัตร)</BondBrackets>
-    <Fuel>เชื้อเพลิง</Fuel>
+  <!-- EN: Freezing -->
+  <Freezing>แช่แข็ง</Freezing>
+  <!-- EN: Overheating -->
+  <Overheating>ความร้อนสูงเกินไป</Overheating>
+  <!-- EN: Ruined by temperature. -->
+  <RuinedByTemperature>เสียเพราะอุณหภูมิ</RuinedByTemperature>
+  <!-- EN: Missing body parts -->
+  <CorpsePercentMissing>อวัยวะของศพที่สูญหาย</CorpsePercentMissing>
+  <!-- EN: Reproduces in -->
+  <HiveReproducesIn>พันธุ์ใน</HiveReproducesIn>
+  <!-- EN: Dormant: Not reproducing. -->
+  <DormantHiveNotReproducing>จำศีลอยู่: ไม่สืบพันธุ์</DormantHiveNotReproducing>
+  <!-- EN: Next {0} in -->
+  <NextSpawnedItemIn>ต่อไปใน {0}</NextSpawnedItemIn>
+  <!-- EN: Broken down -->
+  <BrokenDown>พัง</BrokenDown>
+  <!-- EN: (bond) -->
+  <BondBrackets>(พันธบัตร)</BondBrackets>
+  <!-- EN: Fuel -->
+  <Fuel>เชื้อเพลิง</Fuel>
+  <!-- EN: Fuel -->
   <FuelLevelGizmoLabel>เชื้อเพลิง</FuelLevelGizmoLabel>
+  <!-- EN: Set target fuel level to {0} -->
   <SetTargetFuelLevel>ตั้งระดับเชื่อเพลืงของเป้าหมายเป็น {0}</SetTargetFuelLevel>
+  <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
   <SetPodLauncherTargetFuelLevel>อวัยวะของศพที่สูญหายเป็น {0}\nระยะทางเต็ม: {1} ช่อง</SetPodLauncherTargetFuelLevel>
+  <!-- EN: Target fuel level: {0} -->
   <ConfiguredTargetFuelLevel>ระดับเชื่อเพลืงของเป้าหมาย: {0}</ConfiguredTargetFuelLevel>
-    <Enemies>ศัตรู</Enemies>
-    <TimePassed>เวลาผ่านไป</TimePassed>
-    <CurrentRadius>ขอบเขตปัจจุบัน</CurrentRadius>
-    <RadiusExpandsIn>ขอบเขตที่ขยาด</RadiusExpandsIn>
-    <Permanent>ถาวร</Permanent>
-	<CaravanResting>พักผ่อน</CaravanResting>
+  <!-- EN: enemies -->
+  <Enemies>ศัตรู</Enemies>
+  <!-- EN: time passed -->
+  <TimePassed>เวลาผ่านไป</TimePassed>
+  <!-- EN: current radius -->
+  <CurrentRadius>ขอบเขตปัจจุบัน</CurrentRadius>
+  <!-- EN: radius expands in -->
+  <RadiusExpandsIn>ขอบเขตที่ขยาด</RadiusExpandsIn>
+  <!-- EN: permanent -->
+  <Permanent>ถาวร</Permanent>
+  <!-- EN: Resting -->
+  <CaravanResting>พักผ่อน</CaravanResting>
+  <!-- EN: using 1 bedroll -->
+  <UsingBedroll>TODO</UsingBedroll>
+  <!-- EN: using {0} bedrolls -->
+  <UsingBedrolls>TODO</UsingBedrolls>
+  <!-- EN: Est. time to destination: {0} days -->
   <CaravanEstimatedTimeToDestination>ระยะเวลาในการเดินทาง: {0}</CaravanEstimatedTimeToDestination>
+  <!-- EN: Estimated days to arrive: {0} -->
+  <CaravanEstimatedDaysToDestination>TODO</CaravanEstimatedDaysToDestination>
+  <!-- EN: Immobilized: Too much weight. -->
   <CaravanImmobilizedByMass>ไม่สามารถเคลื่อนที่ได้: น้ำหนักมากเกินไป</CaravanImmobilizedByMass>
+  <!-- EN: Out of food. -->
   <CaravanOutOfFood>อาหารหมด</CaravanOutOfFood>
+  <!-- EN: Days of food: {0} -->
   <CaravanDaysOfFood>มีเสบียงสำหรับ {0} วัน</CaravanDaysOfFood>
+  <!-- EN: Days of food: {0} (rot in {1} days) -->
   <CaravanDaysOfFoodRot>อาหารต่อวัน : {0}, เสียใน {1} วัน</CaravanDaysOfFoodRot>
-    <CaravanMemberMentalBreak>หยุดเนื่องจาก: {0} เสียสติ</CaravanMemberMentalBreak>
-	<AllCaravanMembersDowned>หยุดเนื่องจาก: ทุกคนไม่สามารถเคลื่อนที่ได้</AllCaravanMembersDowned>
+  <!-- EN: Stopped because: Everyone is downed. -->
+  <AllCaravanMembersDowned>หยุดเนื่องจาก: ทุกคนไม่สามารถเคลื่อนที่ได้</AllCaravanMembersDowned>
+  <!-- EN: Stopped because: Everyone has a mental break. -->
   <AllCaravanMembersMentalBreak>หยุดเพราะ: ทุกคนมีอาการผิดปกติทางจิต</AllCaravanMembersMentalBreak>
+  <!-- EN: {0} {1} -->
+  <CaravanColonistsCount>TODO</CaravanColonistsCount>
+  <!-- EN: 1 animal -->
+  <CaravanAnimal>TODO</CaravanAnimal>
+  <!-- EN: {0} animals -->
+  <CaravanAnimalsCount>TODO</CaravanAnimalsCount>
+  <!-- EN: 1 prisoner -->
+  <CaravanPrisoner>TODO</CaravanPrisoner>
+  <!-- EN: {0} prisoners -->
+  <CaravanPrisonersCount>TODO</CaravanPrisonersCount>
+  <!-- EN: {0} in mental state -->
+  <CaravanPawnsInMentalState>TODO</CaravanPawnsInMentalState>
+  <!-- EN: {0} downed -->
+  <CaravanPawnsDowned>TODO</CaravanPawnsDowned>
+  <!-- EN: Traveling. -->
   <CaravanTraveling>การเดินทาง</CaravanTraveling>
-	<CaravanWaiting>รอ</CaravanWaiting>
-	<CaravanHoursPerTile>ซ./ช่อง</CaravanHoursPerTile>
-	<CaravanBaseMovementTime>เวลาเคลื่อนที่เรี่มต้น</CaravanBaseMovementTime>
-	<CurrentTileMovementTime>เวลาเคลื่อนที่ตอนนี้ของช่อง</CurrentTileMovementTime>
-  <StealthFactor>การลักลอบ</StealthFactor>
-    <Temperature>อุณหภูมิ</Temperature>
-    <BadTemperature>อุณหภูมิที่ไม่ดี</BadTemperature>
-    <IdealFermentingTemperature>อุณหภูมิหมักที่พอเหมาะ</IdealFermentingTemperature>
-    <DrugEffectMultiplier>{0} ตัวคุณเอฟเฟค</DrugEffectMultiplier>
-    <CaravanVisiting>เข้ามาเยี่ยมชม {0}.</CaravanVisiting>
-	<CaravanEntering>กำลังเข้า {0}.</CaravanEntering>
-	<CaravanAttacking>กำลังโจมตี {0}.</CaravanAttacking>
-	<WasWornByCorpse>ถูกใส่ตัวศพ</WasWornByCorpse>
-	<WornByCorpseChar>D</WornByCorpseChar>
-	<DeterioratingDueToBeingUnroofed>กำลังเสื่อมโซมเนื่อกจากไม่ได้อยู่ใต้หลังคา</DeterioratingDueToBeingUnroofed>
+  <!-- EN: Waiting. -->
+  <CaravanWaiting>รอ</CaravanWaiting>
+  <!-- EN: Being carried due to illness -->
+  <BeingCarriedDueToIllness>TODO</BeingCarriedDueToIllness>
+  <!-- EN: Using bedrolls due to illness -->
+  <UsingBedrollsDueToIllness>TODO</UsingBedrollsDueToIllness>
+  <!-- EN: Current tile movement time -->
+  <CurrentTileMovementTime>เวลาเคลื่อนที่ตอนนี้ของช่อง</CurrentTileMovementTime>
+  <!-- EN: Visibility -->
+  <Visibility>TODO</Visibility>
+  <!-- EN: Temperature -->
+  <Temperature>อุณหภูมิ</Temperature>
+  <!-- EN: bad temperature -->
+  <BadTemperature>อุณหภูมิที่ไม่ดี</BadTemperature>
+  <!-- EN: Ideal fermenting temperature -->
+  <IdealFermentingTemperature>อุณหภูมิหมักที่พอเหมาะ</IdealFermentingTemperature>
+  <!-- EN: {0} effect multiplier: {1} -->
+  <DrugEffectMultiplier>{0} ตัวคุณเอฟเฟค: {1}</DrugEffectMultiplier>
+  <!-- EN: Visiting {0}. -->
+  <CaravanVisiting>เข้ามาเยี่ยมชม {0}.</CaravanVisiting>
+  <!-- EN: Entering {0}. -->
+  <CaravanEntering>กำลังเข้า {0}.</CaravanEntering>
+  <!-- EN: Attacking {0}. -->
+  <CaravanAttacking>กำลังโจมตี {0}.</CaravanAttacking>
+  <!-- EN: Offering gifts to {0}. -->
+  <CaravanOfferingGifts>TODO</CaravanOfferingGifts>
+  <!-- EN: Tainted from being worn by a corpse. -->
+  <WasWornByCorpse>ถูกใส่ตัวศพ</WasWornByCorpse>
+  <!-- EN: T -->
+  <WornByCorpseChar>D</WornByCorpseChar>
+  <!-- EN: unroofed -->
+  <DeterioratingUnroofed>TODO</DeterioratingUnroofed>
+  <!-- EN: outdoors -->
+  <DeterioratingOutdoors>TODO</DeterioratingOutdoors>
+  <!-- EN: Deteriorating because of -->
+  <DeterioratingBecauseOf>TODO</DeterioratingBecauseOf>
+  <!-- EN: Map -->
   <Map>แผนที่</Map>
+  <!-- EN: {0} until leaving -->
   <ForceExitAndRemoveMapCountdown>{0} ชั่วโมงจนกว่าจะเคลื่อนที่ออก</ForceExitAndRemoveMapCountdown>
+  <!-- EN: Your colonists will automatically reform the caravan and leave this area in {0}. -->
   <ForceExitAndRemoveMapCountdownTip>ชาวอนานิคมของคุณจะจัดคาราวานแล้วออจากที่นี้ในเวลา {0} ชั่วโมง</ForceExitAndRemoveMapCountdownTip>
-	<Room>ห้อง</Room>
-	<BeautyHere>ความงามที่นี่</BeautyHere>
-	<NoPower>ไม่มีพลัง</NoPower>
-	<WorkSpeedPenalty>ความเร็วในการทำงานจะถูดลดลง</WorkSpeedPenalty>
+  <!-- EN: Room -->
+  <Room>ห้อง</Room>
+  <!-- EN: Beauty here -->
+  <BeautyHere>ความงามที่นี่</BeautyHere>
+  <!-- EN: No power -->
+  <NoPower>ไม่มีพลัง</NoPower>
+  <!-- EN: Work speed penalty -->
+  <WorkSpeedPenalty>ความเร็วในการทำงานจะถูดลดลง</WorkSpeedPenalty>
+  <!-- EN: DISABLED -->
   <DisabledCommand>ปิดการใช่งาน</DisabledCommand>
+  <!-- EN: Ready for launch. -->
   <ReadyForLaunch>พร้อมจะปล่อย</ReadyForLaunch>
+  <!-- EN: Not ready for launch -->
   <NotReadyForLaunch>ไม่พร้อมที่จะปล่อย</NotReadyForLaunch>
+  <!-- EN: no fueling port -->
   <NotAllInGroupConnectedToFuelingPort>ไม่มีช่องเชื้อเพลิง</NotAllInGroupConnectedToFuelingPort>
+  <!-- EN: no fuel -->
   <NotAllFuelingPortSourcesInGroupHaveAnyFuel>ไม่มีเชื้อเพลิง</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <!-- EN: loading in progress -->
   <TransportPodInGroupHasSomethingLeftToLoad>กำลังโหลด</TransportPodInGroupHasSomethingLeftToLoad>
+  <!-- EN: Beyond maximum range -->
   <TransportPodDestinationBeyondMaximumRange>ไกลเกินกว่าระยะทางสูงสุด</TransportPodDestinationBeyondMaximumRange>
+  <!-- EN: Not enough fuel -->
   <TransportPodNotEnoughFuel>เชื้อเพลิงไม่พอ</TransportPodNotEnoughFuel>
+  <!-- EN: {0} of {1} -->
   <SettlementTrader>{0} จาก {1}</SettlementTrader>
-	<RoomSurgerySuccessChanceFactor>ปัจจัยความสำเร็จของห้องผ่าตัด</RoomSurgerySuccessChanceFactor>
-	<RoomInfectionChanceFactor>ห้องมีแนวโน้มเสี่ยงต่อการติดเชื้อ</RoomInfectionChanceFactor>
+  <!-- EN: Surgery success chance multiplier from room -->
+  <RoomSurgerySuccessChanceFactor>ปัจจัยความสำเร็จของห้องผ่าตัด</RoomSurgerySuccessChanceFactor>
+  <!-- EN: Infection chance multiplier from room -->
+  <RoomInfectionChanceFactor>ห้องมีแนวโน้มเสี่ยงต่อการติดเชื้อ</RoomInfectionChanceFactor>
+  <!-- EN: Closed -->
   <VentClosed>ปิด</VentClosed>
-  <WornBy>สวมใส่โดย {0}</WornBy>
-  <EquippedBy>ติดตั้งโดย {0}</EquippedBy>
-	<QuestTargetDestroyInspectString>{0} ต้องการทำลายสิ่งนี้\n    รางวัล: {1}.</QuestTargetDestroyInspectString>
-	<WorldObjectTimeout>เวลาที่เหลือ: {0}</WorldObjectTimeout>
-	<LongRangeMineralScannerEfficiency>อย่างมีประสิทธิภาพ: {0}</LongRangeMineralScannerEfficiency>
-	<ItemStashContents>สารบัญ: {0}.</ItemStashContents>
-	<SomeItemStashContents>เนื้อหาบางส่วน: {0}.</SomeItemStashContents>
-	<ClickToSortByThisColumn>คลิกเพื่อจัดเรียงตามคอลัมน์นี้</ClickToSortByThisColumn>
-	<WorkPriorityShiftClickTip>Shift + click: เพิ่มความสำคัญ\nShift + right click: ลดความสำคัญ</WorkPriorityShiftClickTip>
-	<WorkPriorityShiftClickEnableDisableTip>Shift + click: เปิดใช้งานทั้งหมด\nShift + right click: ปิดการใช้งานทั้งหมด</WorkPriorityShiftClickEnableDisableTip>
-	<AllowedAreaShiftClickTip>Shift + click: ตั้งค่าทั้งหมดไว้ที่บ้าน\nShift + right click: ตั้งค่าทั้งหมดให้ไม่ จำกัด</AllowedAreaShiftClickTip>
-	<CheckboxShiftClickTip>Shift + click: เลือกทั้งหมด\nShift + right click: ยกเลิกการเลือกทั้งหมด</CheckboxShiftClickTip>
-	<KnownSiteThreat>การคุกคาม: {0}.</KnownSiteThreat>
-	<KnownSiteThreats>ภัยคุกคาม: {0}.</KnownSiteThreats>
-	<KnownSiteThreatsNone>ภัยคุกคาม: none.</KnownSiteThreatsNone>
+  <!-- EN: worn by {1_labelShort} -->
+  <WornBy>สวมใส่โดย {1_labelShort}</WornBy>
+  <!-- EN: equipped by {1_labelShort} -->
+  <EquippedBy>สวมใส่โดย {1_labelShort}</EquippedBy>
+  <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
+  <QuestTargetDestroyInspectString>{0} ต้องการทำลายสิ่งนี้\n    รางวัล: {1} ({2})</QuestTargetDestroyInspectString>
+  <!-- EN: Time left: {0} -->
+  <WorldObjectTimeout>เวลาที่เหลือ: {0}</WorldObjectTimeout>
+  <!-- EN: Contents: {0} ({1}) -->
+  <ItemStashContents>สารบัญ: {0} ({1})</ItemStashContents>
+  <!-- EN: Click to sort by this column. -->
+  <ClickToSortByThisColumn>คลิกเพื่อจัดเรียงตามคอลัมน์นี้</ClickToSortByThisColumn>
+  <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
+  <WorkPriorityShiftClickTip>Shift + click: เพิ่มความสำคัญ\nShift + right click: ลดความสำคัญ</WorkPriorityShiftClickTip>
+  <!-- EN: Shift + click: Enable all\nShift + right click: Disable all -->
+  <WorkPriorityShiftClickEnableDisableTip>Shift + click: เปิดใช้งานทั้งหมด\nShift + right click: ปิดการใช้งานทั้งหมด</WorkPriorityShiftClickEnableDisableTip>
+  <!-- EN: Shift + click: Set all to home\nShift + right click: Set all to unrestricted -->
+  <AllowedAreaShiftClickTip>Shift + click: ตั้งค่าทั้งหมดไว้ที่บ้าน\nShift + right click: ตั้งค่าทั้งหมดให้ไม่ จำกัด</AllowedAreaShiftClickTip>
+  <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
+  <CheckboxShiftClickTip>Shift + click: เลือกทั้งหมด\nShift + right click: ยกเลิกการเลือกทั้งหมด</CheckboxShiftClickTip>
+  <!-- EN: Known threat: {0} -->
+  <KnownSiteThreat>การคุกคาม: {0}.</KnownSiteThreat>
+  <!-- EN: Known threats: {0} -->
+  <KnownSiteThreats>ภัยคุกคาม: {0}.</KnownSiteThreats>
+  <!-- EN: Known threats: None -->
+  <KnownSiteThreatsNone>ภัยคุกคาม: none.</KnownSiteThreatsNone>
+  <!-- EN: Skill Requirements -->
   <SkillRequirements>ทักษะที่ต้องการ</SkillRequirements>
+  <!-- EN: Products -->
   <Products>ผลิต</Products>
-  <DeepDrillExhausted>ทรัพยากรการเจาะลึกหมดไปแล้ว</DeepDrillExhausted>
+  <!-- EN: {0} of {1} -->
   <Relationship>{0} ของ {1}</Relationship>
+  <!-- EN: Prisoner -->
   <Prisoner>นักโทษ</Prisoner>
+  <!-- EN: Refugee -->
   <Refugee>ผู้ลี้ภัย</Refugee>
+  <!-- EN: Terrain movement difficulty -->
+  <TileMovementDifficulty>TODO</TileMovementDifficulty>
+  <!-- EN: Impassable -->
+  <Impassable>TODO</Impassable>
+  <!-- EN: Caravan movement speed -->
+  <CaravanMovementSpeedFull>TODO</CaravanMovementSpeedFull>
+  <!-- EN: downed -->
+  <DownedLower>TODO</DownedLower>
+  <!-- EN: carried -->
+  <Carried>TODO</Carried>
+  <!-- EN: Avg. person move speed -->
+  <AverageCaravanMemberMoveSpeed>TODO</AverageCaravanMemberMoveSpeed>
+  <!-- EN: Multiplier for carried mass: {0} -->
+  <MultiplierForCarriedMass>TODO</MultiplierForCarriedMass>
+  <!-- EN: Caravan members speed -->
+  <FinalCaravanPawnsMovementSpeed>TODO</FinalCaravanPawnsMovementSpeed>
+  <!-- EN: Final speed -->
+  <FinalCaravanMovementSpeed>TODO</FinalCaravanMovementSpeed>
+  <!-- EN: Winter -->
+  <Winter>TODO</Winter>
+  <!-- EN: {0} in winter -->
+  <MovementDifficultyOffsetInWinter>TODO</MovementDifficultyOffsetInWinter>
+  <!-- EN: to -->
+  <RangeTo>TODO</RangeTo>
+  <!-- EN: No letter -->
+  <NoDietCategoryLetter>TODO</NoDietCategoryLetter>
+  <!-- EN: Expires in -->
+  <ExpiresIn>TODO</ExpiresIn>
+  <!-- EN: {1_labelShort}'s caravan -->
+  <CaravanLeaderCaravanName>TODO</CaravanLeaderCaravanName>
+  <!-- EN: Reason -->
+  <Reason>TODO</Reason>
+  <!-- EN: Relations with {0} -->
+  <RelationsWith>TODO</RelationsWith>
+  <!-- EN: captured by {0} -->
+  <capturedBy>TODO</capturedBy>
+  <!-- EN: your caravan -->
+  <yourCaravan>TODO</yourCaravan>
+  <!-- EN: {0} wildness -->
+  <CreatureWildness>TODO</CreatureWildness>
+  <!-- EN: {0} trainability -->
+  <CreatureTrainability>TODO</CreatureTrainability>
+  <!-- EN: {0} with {1} -->
+  <ProximitySingleGoodwillChange>TODO</ProximitySingleGoodwillChange>
+  <!-- EN: You can't re-enter for another {0} days. -->
+  <EnterCooldown>TODO</EnterCooldown>
+  <!-- EN: Caravan -->
+  <Caravan>TODO</Caravan>
+  <!-- EN: there may be danger there -->
+  <HiddenOrNoSitePartDescription>TODO</HiddenOrNoSitePartDescription>
+  <!-- EN: lump of {0} -->
+  <PreciousLumpLabel>TODO</PreciousLumpLabel>
+  <!-- EN: no active research project -->
+  <NoActiveResearchProjectToFinish>TODO</NoActiveResearchProjectToFinish>
+  <!-- EN: turret -->
+  <Turret>TODO</Turret>
+  <!-- EN: turrets -->
+  <Turrets>TODO</Turrets>
+  <!-- EN: mortar -->
+  <Mortar>TODO</Mortar>
+  <!-- EN: mortars -->
+  <Mortars>TODO</Mortars>
+  <!-- EN: enemy -->
+  <Enemy>TODO</Enemy>
 
-    <!-- Fermentation barrel -->
-    <ContainsWort>มี {0} / {1} น้ำหมักเบียร์</ContainsWort>
-    <ContainsBeer>มี {0} / {1} เบียร์</ContainsBeer>
-    <Fermented>ดอง</Fermented>
-    <FermentationProgress>ความคืบหน้า: {0} (เสร็จสิ้นในเวลาประมาณ {1}).</FermentationProgress>
-    <FermentationBarrelOutOfIdealTemperature>อุณหภูมิที่ไม่เหมาะ ความเร็วในการหมักคูณโดย: {0}</FermentationBarrelOutOfIdealTemperature>
- 
-    <!--TextMotes-->
-    <Headshot>ยิงเข้าหัว</Headshot>
-    <TextMote_TreatSuccess>การรักษาสำเร็จ!\nมีโอกาส {0}</TextMote_TreatSuccess>
-    <TextMote_TreatFailed>การรักษาลัมเหลว\nมีโอกาส {0}</TextMote_TreatFailed>
-    <TextMote_HarvestFailed>เก็บเกี่ยว\nล้มเหลว</TextMote_HarvestFailed>
-	<TextMote_YieldWasted>ผล\nที่สูญเสียไป</TextMote_YieldWasted>
-	<TextMote_ProductWasted>สินค้า\nที่สูญเสียไป</TextMote_ProductWasted>
-    <TextMote_RecruitFail>รับสมัคร ล้มเหลว!\nมีโอกาส{0}</TextMote_RecruitFail>
-    <TextMote_TameFail>ทำให้เชื่องล้มเหลว\nมีโอกาส {0}</TextMote_TameFail>
-    <TextMote_TameSuccess>เชื่องแล้ว!\nมีโอกาส {0}</TextMote_TameSuccess>
-    <TextMote_TrainFail>ฝึกล้มเหลว: {0}\nมีโอกาส {1}</TextMote_TrainFail>
-    <TextMote_TrainSuccess>ฝึกแล้ว: {0}\nมีโอกาส {1}</TextMote_TrainSuccess>
-    <TextMote_FixBrokenDownBuildingFail>ซ่อมแซม\nล้มเหลว</TextMote_FixBrokenDownBuildingFail>
-    <TextMote_ConstructionFail>การก่อสร้าง\nล้มเหลว</TextMote_ConstructionFail>
-	<TextMote_Dodge>หลบ</TextMote_Dodge>
-	<TextMote_Tended>มีแนวโน้มที่ {0}</TextMote_Tended>
+  <!-- Fermentation barrel -->
+  <!-- EN: Contains {0} / {1} wort. -->
+  <ContainsWort>มี {0} / {1} น้ำหมักเบียร์</ContainsWort>
+  <!-- EN: Contains {0} / {1} beer. -->
+  <ContainsBeer>มี {0} / {1} เบียร์</ContainsBeer>
+  <!-- EN: Fermented -->
+  <Fermented>ดอง</Fermented>
+  <!-- EN: Progress: {0} ({1} left) -->
+  <FermentationProgress>ความคืบหน้า: {0} (เสร็จสิ้นในเวลาประมาณ {1}).</FermentationProgress>
+  <!-- EN: Non-ideal temperature. Fermentation speed: {0} -->
+  <FermentationBarrelOutOfIdealTemperature>อุณหภูมิที่ไม่เหมาะ ความเร็วในการหมักคูณโดย: {0}</FermentationBarrelOutOfIdealTemperature>
 
-    <!-- Areas -->
-    <Home>บ้าน</Home>
-    <BuildRoof>สร้างหลังคา</BuildRoof>
-    <NoRoof>ไม่มีหลังคา</NoRoof>
-    <SnowClear>ทำความสอาดหิมะ</SnowClear>
-    <AreaDefaultLabel>{0} อาณาเขต</AreaDefaultLabel>
-    <AreaAnimalDefaultLabel>{0} อาณาเขตสัตว์</AreaAnimalDefaultLabel>
-    <NoAreaAllowed>ไม่จำกัด</NoAreaAllowed>
-    <NewArea>สร้างอาณาเขตใหม่</NewArea>
-    <NewAreaAnimal>สร้างอาณาเขตสัตว์ใหม่</NewAreaAnimal>
-    <InvertArea>กลับด้าน</InvertArea>
-  
-    <!-- Control -->
-    <CannotOrderNonControlled>ไม่สามารถสั่งยูนิตที่ไม่ได้ควบคุม</CannotOrderNonControlled>
-    <IsIncapableOfViolence>{0} ไม่สามารถใช้ความรุนแรงได้</IsIncapableOfViolence>
-    <IsIncapableOfViolenceShort>ไม่สามารถใช้ความรุนแรงได้</IsIncapableOfViolenceShort>
-    <IsNotDrafted>{0} ไม่ได้ถูกเกณฑ์</IsNotDrafted>
-  
-    <!-- Snow -->
-    <SnowNone>ไม่มีหิมะ</SnowNone>
-    <SnowDusting>หิมะ (โปรยปราย)</SnowDusting>
-    <SnowThin>หิมะ (บาง)</SnowThin>
-    <SnowMedium>หิมะ (ปานกลาง)</SnowMedium>
-    <SnowThick>หิมะ (หนา)</SnowThick>
-  
-    <!-- Turrets -->
-    <GunInstalled>ปืนติดตั้งแล้ว</GunInstalled>
-    <MinimumRange>ระยะขั้นต่ำ</MinimumRange>
-    <CanFireIn>สามารถยิงได้ใน</CanFireIn>
-    <ShellLoaded>กระสุนโหลดเรียบร้อยแล้ว</ShellLoaded>
-    <ShellNotLoaded>ยังไม่ได้โหลดกระสุน</ShellNotLoaded>
-  
-    <!-- Job reports -->
-	<ReportHaulingTo>กำลังขน {0} ไปที่ {1}</ReportHaulingTo>
-	<ReportHauling>กำลังขน {0}</ReportHauling>
-	<ReportHaulingUnknown>กำลังขนของ</ReportHaulingUnknown>
-    <ReportSleeping>กำลังนอนหลับ</ReportSleeping>
-    <ReportResting>กำลังพักผ่อน</ReportResting>
-    <WatchingSunrise>กำลังดูพระอาทิตย์ขึ้น</WatchingSunrise>
-    <CloudWatching>กำลังมองดูเมฆ</CloudWatching>
-    <WatchingSunset>กำลังดูพระอาทิตย์อัสดง</WatchingSunset>
-    <Stargazing>กำลังเหม่อดูดาวพร่างพราว</Stargazing>
-    <WatchingEclipse>กำลังดูจันทรุปราคา</WatchingEclipse>
-	<WatchingAurora>กำลังดูออโรร่า</WatchingAurora>
-    <UsingVerb>กำลังใช้ {0} กับ {1}.</UsingVerb>
-    <AreaLower>พื้นที่</AreaLower>    
-    <ReportCowering>กำลังหลบ</ReportCowering>
-    <ReportStanding>กำลังยืน</ReportStanding>
-    <ReportExtinguishingFire>กำลังดับไฟ</ReportExtinguishingFire>
-    <ReportExtinguishingFireOn>กำลังดับไฟ กับ {0}.</ReportExtinguishingFireOn>
-	<ReportDiggingUpCorpse>ขุดศพ</ReportDiggingUpCorpse>
+  <!-- TextMotes -->
+  <!-- EN: Headshot -->
+  <Headshot>ยิงเข้าหัว</Headshot>
+  <!-- EN: Treatment success!\n{0} chance -->
+  <TextMote_TreatSuccess>การรักษาสำเร็จ!\nมีโอกาส {0}</TextMote_TreatSuccess>
+  <!-- EN: Treatment failed\n{0} chance -->
+  <TextMote_TreatFailed>การรักษาลัมเหลว\nมีโอกาส {0}</TextMote_TreatFailed>
+  <!-- EN: Harvest\nbotched -->
+  <TextMote_HarvestFailed>เก็บเกี่ยว\nล้มเหลว</TextMote_HarvestFailed>
+  <!-- EN: Yield\nwasted -->
+  <TextMote_YieldWasted>ผล\nที่สูญเสียไป</TextMote_YieldWasted>
+  <!-- EN: Product\nwasted -->
+  <TextMote_ProductWasted>สินค้า\nที่สูญเสียไป</TextMote_ProductWasted>
+  <!-- EN: Recruit failed!\n{0} chance -->
+  <TextMote_RecruitFail>รับสมัคร ล้มเหลว!\nมีโอกาส{0}</TextMote_RecruitFail>
+  <!-- EN: Resistance\n{0} to {1} -->
+  <TextMote_ResistanceReduced>TODO</TextMote_ResistanceReduced>
+  <!-- EN: Tame failed\n{0} chance -->
+  <TextMote_TameFail>ทำให้เชื่องล้มเหลว\nมีโอกาส {0}</TextMote_TameFail>
+  <!-- EN: Tamed!\n{0} chance -->
+  <TextMote_TameSuccess>เชื่องแล้ว!\nมีโอกาส {0}</TextMote_TameSuccess>
+  <!-- EN: Failed training: {0}\n{1} chance -->
+  <TextMote_TrainFail>ฝึกล้มเหลว: {0}\nมีโอกาส {1}</TextMote_TrainFail>
+  <!-- EN: Trained: {0}\n{1} chance -->
+  <TextMote_TrainSuccess>ฝึกแล้ว: {0}\nมีโอกาส {1}</TextMote_TrainSuccess>
+  <!-- EN: Repair\nbotched -->
+  <TextMote_FixBrokenDownBuildingFail>ซ่อมแซม\nล้มเหลว</TextMote_FixBrokenDownBuildingFail>
+  <!-- EN: Construction\nbotched -->
+  <TextMote_ConstructionFail>การก่อสร้าง\nล้มเหลว</TextMote_ConstructionFail>
+  <!-- EN: Dodge -->
+  <TextMote_Dodge>หลบ</TextMote_Dodge>
+  <!-- EN: {0} tended -->
+  <TextMote_Tended>มีแนวโน้มที่ {0}</TextMote_Tended>
+  <!-- EN: low mood -->
+  <lowMood>TODO</lowMood>
+  <!-- EN: low opinion -->
+  <lowOpinion>TODO</lowOpinion>
 
-    <!-- Lord job reports -->
-    <LordReportAttendingMarriageCeremony>เข้าร่วมพิธีแต่งงาน</LordReportAttendingMarriageCeremony>
-    <LordReportAttendingParty>บุคคลที่เข้าร่วม</LordReportAttendingParty>
-	<LordReportFormingCaravan>การขึ้นรูปคาราวาน</LordReportFormingCaravan>
-	
-	<!-- Shooting report -->
-    <WeaponMissRadius>พลาดกับรัศมีอาวุธ</WeaponMissRadius>
-	<ShootReportShooterAbility>คนยิง</ShootReportShooterAbility>
-	<ShootReportWeapon>อาวุธ</ShootReportWeapon>
-	<Darkness>ความมืด</Darkness>
-	<TargetProne>เป้าหมาย หลบ</TargetProne>
-	<TargetSize>ขนาดเป้าหมาย</TargetSize>
-	<Weather>ภูมิอากาศ</Weather>
-	<ShootingCover>กำบัง</ShootingCover>
-	<CoverThingBlocksPercentOfShots>{0} หยุด {1}</CoverThingBlocksPercentOfShots>
-	<NoCoverLower>ไม่มีกำบัง</NoCoverLower>
-    <Execution>ประหาร</Execution>
-	
-    <!-- Generated recipes -->
-    <RecipeMake>ทำ {0}</RecipeMake>
-    <RecipeMakeJobString>กำลังทำ {0}</RecipeMakeJobString>
-    <RecipeAdminister>ให้ {0}</RecipeAdminister>
-	<RecipeAdministerJobString>กำลังให้ {0}.</RecipeAdministerJobString>
-    <TeetotalerUnhappy>คนที่มึนเมาจะไม่มีความสุข</TeetotalerUnhappy>
-    <ProsthophobeUnhappy>Prosthophobe จะไม่มีความสุข</ProsthophobeUnhappy>
+  <!-- Areas -->
+  <!-- EN: Home -->
+  <Home>บ้าน</Home>
+  <!-- EN: Build roof -->
+  <BuildRoof>สร้างหลังคา</BuildRoof>
+  <!-- EN: No roof -->
+  <NoRoof>ไม่มีหลังคา</NoRoof>
+  <!-- EN: Snow clear -->
+  <SnowClear>ทำความสอาดหิมะ</SnowClear>
+  <!-- EN: Area {0} -->
+  <AreaDefaultLabel>{0} อาณาเขต</AreaDefaultLabel>
+  <!-- EN: Unrestricted -->
+  <NoAreaAllowed>ไม่จำกัด</NoAreaAllowed>
+  <!-- EN: New area -->
+  <NewArea>สร้างอาณาเขตใหม่</NewArea>
+  <!-- EN: Invert -->
+  <InvertArea>กลับด้าน</InvertArea>
 
-    <!-- Thoughts -->
-    <ThoughtExpiresIn>หมดอายุใน: {0}</ThoughtExpiresIn>
-    <ThoughtStartsExpiringIn>เริ่มหมดอายุใน: {0}</ThoughtStartsExpiringIn>
-    <ThoughtFinishesExpiringIn>หมดอายุเสร็ญใน: {0}</ThoughtFinishesExpiringIn>
-    <MentalBreakThresholdExtreme>กำลังจะสติแตก</MentalBreakThresholdExtreme>
-    <MentalBreakThresholdMajor>ใกล้จะสติแตก</MentalBreakThresholdMajor>
-    <MentalBreakThresholdMinor>จะสติแตก</MentalBreakThresholdMinor>
+  <!-- Control -->
+  <!-- EN: Cannot order characters you do not control. -->
+  <CannotOrderNonControlled>ไม่สามารถสั่งยูนิตที่ไม่ได้ควบคุม</CannotOrderNonControlled>
+  <!-- EN: {1_labelShort} is incapable of violence. -->
+  <IsIncapableOfViolence>{1_labelShort} ไม่สามารถใช้ความรุนแรงได้</IsIncapableOfViolence>
+  <!-- EN: incapable of violence -->
+  <IsIncapableOfViolenceShort>ไม่สามารถใช้ความรุนแรงได้</IsIncapableOfViolenceShort>
+  <!-- EN: {1_labelShort} is not drafted. -->
+  <IsNotDrafted>{1_labelShort} ไม่ได้ถูกเกณฑ์</IsNotDrafted>
 
-    <!-- Pawn info readout -->
-    <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
-    <PawnMainDescFactionedWrap>{0} แห่ง {1}</PawnMainDescFactionedWrap>
-    <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
-    <Faction>ฝ่าย</Faction>
-    <Equipped>สวมใส่แล้ว</Equipped>
-    <EquippedNothing>ไม่มีอะไร</EquippedNothing>
-	<Dead>ตาย</Dead>
-	<Unconscious>ไม่ได้สติ</Unconscious>
-	<PainShock>กำลังช็อกเหนื่อง จากความเจ็บป่วด</PainShock>
-	<PainShockShort>อาการช็อกจากการปวด</PainShockShort>
-    <Incapacitated>ไม่สามารถเคลื่อนที่ได้</Incapacitated>
-    <InRestraints>ถูกกักขัง (เคลื่อนที่ช้า)</InRestraints>
-    <Carrying>กำลังถือ</Carrying>
-	<AffectedBy>ได้รับผลกระทบ โดย:</AffectedBy>
+  <!-- Snow -->
+  <!-- EN: No snow -->
+  <SnowNone>ไม่มีหิมะ</SnowNone>
+  <!-- EN: Snow (dusting) -->
+  <SnowDusting>หิมะ (โปรยปราย)</SnowDusting>
+  <!-- EN: Snow (thin) -->
+  <SnowThin>หิมะ (บาง)</SnowThin>
+  <!-- EN: Snow (medium) -->
+  <SnowMedium>หิมะ (ปานกลาง)</SnowMedium>
+  <!-- EN: Snow (thick) -->
+  <SnowThick>หิมะ (หนา)</SnowThick>
+
+  <!-- Turrets -->
+  <!-- EN: Installed -->
+  <GunInstalled>ปืนติดตั้งแล้ว</GunInstalled>
+  <!-- EN: Minimum range -->
+  <MinimumRange>ระยะขั้นต่ำ</MinimumRange>
+  <!-- EN: Can fire in -->
+  <CanFireIn>สามารถยิงได้ใน</CanFireIn>
+  <!-- EN: Cannot fire -->
+  <CannotFire>TODO</CannotFire>
+  <!-- EN: roofed -->
+  <Roofed>TODO</Roofed>
+  <!-- EN: Shell loaded: {1_label} -->
+  <ShellLoaded>กระสุนโหลดแล้ว: {1_label}</ShellLoaded>
+  <!-- EN: Not loaded -->
+  <ShellNotLoaded>ยังไม่ได้โหลดกระสุน</ShellNotLoaded>
+
+  <!-- Job reports -->
+  <!-- EN: hauling {THING_label} to {DESTINATION}. -->
+  <ReportHaulingTo>กำลังขน {THING_label} ไป {DESTINATION}</ReportHaulingTo>
+  <!-- EN: hauling {1_label}. -->
+  <ReportHauling>กำลังขน {1_label}</ReportHauling>
+  <!-- EN: hauling. -->
+  <ReportHaulingUnknown>กำลังขนของ</ReportHaulingUnknown>
+  <!-- EN: sleeping. -->
+  <ReportSleeping>กำลังนอนหลับ</ReportSleeping>
+  <!-- EN: resting. -->
+  <ReportResting>กำลังพักผ่อน</ReportResting>
+  <!-- EN: watching the sunrise. -->
+  <WatchingSunrise>กำลังดูพระอาทิตย์ขึ้น</WatchingSunrise>
+  <!-- EN: cloudwatching. -->
+  <CloudWatching>กำลังมองดูเมฆ</CloudWatching>
+  <!-- EN: watching the sunset. -->
+  <WatchingSunset>กำลังดูพระอาทิตย์อัสดง</WatchingSunset>
+  <!-- EN: stargazing. -->
+  <Stargazing>กำลังเหม่อดูดาวพร่างพราว</Stargazing>
+  <!-- EN: watching the eclipse. -->
+  <WatchingEclipse>กำลังดูจันทรุปราคา</WatchingEclipse>
+  <!-- EN: watching the aurora. -->
+  <WatchingAurora>กำลังดูออโรร่า</WatchingAurora>
+  <!-- EN: using {0} on {1}. -->
+  <UsingVerb>กำลังใช้ {0} กับ {1}.</UsingVerb>
+  <!-- EN: area -->
+  <AreaLower>พื้นที่</AreaLower>
+  <!-- EN: cowering. -->
+  <ReportCowering>กำลังหลบ</ReportCowering>
+  <!-- EN: standing. -->
+  <ReportStanding>กำลังยืน</ReportStanding>
+  <!-- EN: extinguishing fire. -->
+  <ReportExtinguishingFire>กำลังดับไฟ</ReportExtinguishingFire>
+  <!-- EN: extinguishing fire on {TARGET_label}. -->
+  <ReportExtinguishingFireOn>กำลังดับไฟ {TARGET_label}.</ReportExtinguishingFireOn>
+  <!-- EN: digging up corpse. -->
+  <ReportDiggingUpCorpse>ขุดศพ</ReportDiggingUpCorpse>
+
+  <!-- Lord job reports -->
+  <!-- EN: Attending marriage ceremony -->
+  <LordReportAttendingMarriageCeremony>เข้าร่วมพิธีแต่งงาน</LordReportAttendingMarriageCeremony>
+  <!-- EN: Attending party -->
+  <LordReportAttendingParty>บุคคลที่เข้าร่วม</LordReportAttendingParty>
+  <!-- EN: Forming caravan -->
+  <LordReportFormingCaravan>การขึ้นรูปคาราวาน</LordReportFormingCaravan>
+
+  <!-- Shooting report -->
+  <!-- EN: Weapon miss radius -->
+  <WeaponMissRadius>พลาดกับรัศมีอาวุธ</WeaponMissRadius>
+  <!-- EN: Shooter -->
+  <ShootReportShooterAbility>คนยิง</ShootReportShooterAbility>
+  <!-- EN: Weapon -->
+  <ShootReportWeapon>อาวุธ</ShootReportWeapon>
+  <!-- EN: Darkness -->
+  <Darkness>ความมืด</Darkness>
+  <!-- EN: Target lying down -->
+  <TargetProne>เป้าหมาย หลบ</TargetProne>
+  <!-- EN: Target size -->
+  <TargetSize>ขนาดเป้าหมาย</TargetSize>
+  <!-- EN: Weather -->
+  <Weather>ภูมิอากาศ</Weather>
+  <!-- EN: Cover -->
+  <ShootingCover>กำบัง</ShootingCover>
+  <!-- EN: {COVER_label} stops {1} -->
+  <CoverThingBlocksPercentOfShots>{COVER_label} หยุด {1}</CoverThingBlocksPercentOfShots>
+  <!-- EN: no cover -->
+  <NoCoverLower>ไม่มีกำบัง</NoCoverLower>
+  <!-- EN: Execution -->
+  <Execution>ประหาร</Execution>
+
+  <!-- Generated recipes -->
+  <!-- EN: make {0} -->
+  <RecipeMake>ทำ {0}</RecipeMake>
+  <!-- EN: Making {0}. -->
+  <RecipeMakeJobString>กำลังทำ {0}</RecipeMakeJobString>
+  <!-- EN: administer {0} -->
+  <RecipeAdminister>ให้ {0}</RecipeAdminister>
+  <!-- EN: Administering {0}. -->
+  <RecipeAdministerJobString>กำลังให้ {0}.</RecipeAdministerJobString>
+  <!-- EN: teetotaler will be unhappy -->
+  <TeetotalerUnhappy>คนที่มึนเมาจะไม่มีความสุข</TeetotalerUnhappy>
+  <!-- EN: body purist will be unhappy -->
+  <ProsthophobeUnhappy>Prosthophobe จะไม่มีความสุข</ProsthophobeUnhappy>
+
+  <!-- Thoughts -->
+  <!-- EN: Expires in: {0} -->
+  <ThoughtExpiresIn>หมดอายุใน: {0}</ThoughtExpiresIn>
+  <!-- EN: Starts expiring in: {0} -->
+  <ThoughtStartsExpiringIn>เริ่มหมดอายุใน: {0}</ThoughtStartsExpiringIn>
+  <!-- EN: Finishes expiring in: {0} -->
+  <ThoughtFinishesExpiringIn>หมดอายุเสร็ญใน: {0}</ThoughtFinishesExpiringIn>
+  <!-- EN: Extreme break threshold -->
+  <MentalBreakThresholdExtreme>กำลังจะสติแตก</MentalBreakThresholdExtreme>
+  <!-- EN: Major break threshold -->
+  <MentalBreakThresholdMajor>ใกล้จะสติแตก</MentalBreakThresholdMajor>
+  <!-- EN: Minor break threshold -->
+  <MentalBreakThresholdMinor>จะสติแตก</MentalBreakThresholdMinor>
+
+  <!-- Pawn info readout -->
+  <!-- EN: {PAWN_gender} {1} -->
+  <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
+  <!-- EN: {0} of {1} -->
+  <PawnMainDescFactionedWrap>{0} แห่ง {1}</PawnMainDescFactionedWrap>
+  <!-- EN: {2_lifeStageAdjective} {0} -->
+  <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
+  <!-- EN: Faction -->
+  <Faction>ฝ่าย</Faction>
+  <!-- EN: Equipped -->
+  <Equipped>สวมใส่แล้ว</Equipped>
+  <!-- EN: nothing -->
+  <EquippedNothing>ไม่มีอะไร</EquippedNothing>
+  <!-- EN: Dead -->
+  <Dead>ตาย</Dead>
+  <!-- EN: Unconscious -->
+  <Unconscious>ไม่ได้สติ</Unconscious>
+  <!-- EN: In shock due to pain -->
+  <PainShock>กำลังช็อกเหนื่อง จากความเจ็บป่วด</PainShock>
+  <!-- EN: Pain shock -->
+  <PainShockShort>อาการช็อกจากการปวด</PainShockShort>
+  <!-- EN: Incapacitated -->
+  <Incapacitated>ไม่สามารถเคลื่อนที่ได้</Incapacitated>
+  <!-- EN: In restraints (slowed) -->
+  <InRestraints>ถูกกักขัง (เคลื่อนที่ช้า)</InRestraints>
+  <!-- EN: Carrying -->
+  <Carrying>กำลังถือ</Carrying>
+  <!-- EN: Affected by: -->
+  <AffectedBy>ได้รับผลกระทบ โดย:</AffectedBy>
+  <!-- EN: Queued -->
   <Queued>รอคิว</Queued>
+  <!-- EN: State -->
+  <State>TODO</State>
+  <!-- EN: stun -->
+  <StunLower>TODO</StunLower>
 
-    <!-- Inspector general stuff -->
-    <SelectNextInSquareTip>เลือกของต่อไปในช่องเดียวกัน\n\nกด: {0}\n\nคุณสามารถทำแบบนี้ได้ด้วยการกดช้าๆในช่องนี้อีกครั้งหนึ่ง</SelectNextInSquareTip>
-    <DefInfoTip>ดูข้อมูลเกียวกับสิ่งของชิ้นนี้</DefInfoTip>
-  
-    <!-- Hostility response -->
-    <HostilityReponseTip>เปลี่ยนว่าชาวอานานิคมจะตอบสนองกับศัตรูยังไงเมื่อไม่ได้ถูกเกณฑ์</HostilityReponseTip>
-    <HostilityResponseCurrentMode>โหมดปัจจุบัน</HostilityResponseCurrentMode>
-  
-	<!-- like 'Blood of John' -->
-	<OfLower>แห่ง</OfLower>
+  <!-- Inspector general stuff -->
+  <!-- EN: Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again. -->
+  <SelectNextInSquareTip>เลือกของต่อไปในช่องเดียวกัน\n\nกด: {0}\n\nคุณสามารถทำแบบนี้ได้ด้วยการกดช้าๆในช่องนี้อีกครั้งหนึ่ง</SelectNextInSquareTip>
+  <!-- EN: View information about this object. -->
+  <DefInfoTip>ดูข้อมูลเกียวกับสิ่งของชิ้นนี้</DefInfoTip>
 
-	<!-- Power readout -->
-	<PowerNotConnected>ไม่ได้เชื่อมต่อพลังงาน</PowerNotConnected>
-    <PowerConnectedRateStored>อัตราการเชื่อมต่อ / จัดเก็บ: {0} สัปดาห์ / {1} Wd</PowerConnectedRateStored>
-    <PowerNeeded>ต้องการพลังงาน</PowerNeeded>
-    <PowerOutput>พลังงานขาออก</PowerOutput>
-    <PowerBatteryStored>เก็บแล้ว</PowerBatteryStored>
-    <PowerBatteryEfficiency>ประสิทธิภาพ</PowerBatteryEfficiency>
-	<SelfDischarging>ปลดไฟด้วยตนเอง</SelfDischarging>
+  <!-- Hostility response -->
+  <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
+  <HostilityReponseTip>เปลี่ยนว่าชาวอานานิคมจะตอบสนองกับศัตรูยังไงเมื่อไม่ได้ถูกเกณฑ์</HostilityReponseTip>
+  <!-- EN: Current mode -->
+  <HostilityResponseCurrentMode>โหมดปัจจุบัน</HostilityResponseCurrentMode>
 
-    <!-- Temperature control -->
-    <TargetTemperature>อุณหภูมิเป้าหมาย</TargetTemperature>
-    <PowerConsumptionMode>กระแสที่ใช้</PowerConsumptionMode>
-    <PowerConsumptionHigh>สูง</PowerConsumptionHigh>
-    <PowerConsumptionLow>ต่ำ</PowerConsumptionLow>
-  
-    <!-- Temperature readout -->
-    <Indoors>ในร่ม</Indoors>
-    <IndoorsUnroofed>ไม่มีหลังคา</IndoorsUnroofed>
-    <Outdoors>กลางแจ้ง</Outdoors>
-  
-    <!--Rotting-->
-	<RotStateFresh>สด</RotStateFresh>
-	<RotStateRotting>เน่า</RotStateRotting>
-	<RotStateDessicated>แห้งกรัง</RotStateDessicated>
-	
-    <!-- Shooting tooltip -->
-    <ShotBy>โดนยิงโดย {0}</ShotBy>
-    <CannotHit>ไม่สามารถยิงเป้าหมายได้</CannotHit>
+  <!-- like 'Blood of John' -->
+  <!-- EN: of -->
+  <OfLower>แห่ง</OfLower>
 
-    <!-- Rotting -->
-    <CurrentlyFrozen>แช่แข็ง (จะไม่เสีย)</CurrentlyFrozen>
-    <CurrentlyRefrigerated>อยู่ในตู้เย็น (เสียใน {0})</CurrentlyRefrigerated>
-    <NotRefrigerated>ไม่ได้อยู่ในตู้เย็น (เสียใน {0})</NotRefrigerated>
-    <OverADecade>มากกว่าสิบปี</OverADecade>
-    <LessThanADay>ไม่ถึงวัน</LessThanADay>
-  
-    <!-- Meal -->
-    <Ingredients>วัตถุดิบ</Ingredients>
+  <!-- Power readout -->
+  <!-- EN: Not connected to power. -->
+  <PowerNotConnected>ไม่ได้เชื่อมต่อพลังงาน</PowerNotConnected>
+  <!-- EN: Grid excess/stored: {0} W / {1} Wd -->
+  <PowerConnectedRateStored>อัตราการเชื่อมต่อ / จัดเก็บ: {0} สัปดาห์ / {1} Wd</PowerConnectedRateStored>
+  <!-- EN: Power needed -->
+  <PowerNeeded>ต้องการพลังงาน</PowerNeeded>
+  <!-- EN: Power output -->
+  <PowerOutput>พลังงานขาออก</PowerOutput>
+  <!-- EN: Stored -->
+  <PowerBatteryStored>เก็บแล้ว</PowerBatteryStored>
+  <!-- EN: Efficiency -->
+  <PowerBatteryEfficiency>ประสิทธิภาพ</PowerBatteryEfficiency>
+  <!-- EN: Self-discharging -->
+  <SelfDischarging>ปลดไฟด้วยตนเอง</SelfDischarging>
 
-    <!-- Plants -->
-    <PercentGrowth>เจริญเติบโตแล้ว {0}</PercentGrowth>
-    <GrowthRate>อัตราการเจริญเติบโต</GrowthRate>
-    <FullyGrownIn>โตเต็มที่ใน {0} ของช่วงการเติบโต</FullyGrownIn>
-    <PlantNeedsLightLevel>ต้องการระดับแสงสว่าง</PlantNeedsLightLevel>
-    <PlantResting>กำลังพักผ่อน</PlantResting>
-    <OutOfIdealTemperatureRange>อยู่นอกอุณหภูมิที่เหมาะสม (กำลังโตที่ {0}% ของความเร็วปกติ)</OutOfIdealTemperatureRange>
-    <OutOfIdealTemperatureRangeNotGrowing>อยู่นอกอุณหภูมิที่เหมาะสม (หยุดโต)</OutOfIdealTemperatureRangeNotGrowing>
-    <ReadyToHarvest>พร้อมเก็บเกี่ยว</ReadyToHarvest>
-    <Mature>โตเต็มวัย</Mature>
-    <OutdoorGrowingPeriod>ช่วงเวลาเพาะปลูก: {0}</OutdoorGrowingPeriod>
-    <NoGrowingPeriod>ไมมีทาง</NoGrowingPeriod>
-    <GrowYearRound>ตลอดทั้งปี</GrowYearRound>
-    <GrowSeasonHereNow>ขณะนี้เป็นฤดูเพาะปลูก</GrowSeasonHereNow>
-    <CannotGrowTooCold>ไม่สามารถเพาะปลูกได้ - ฤดูที่อากาศเย็น</CannotGrowTooCold>
-	<Blighted>โรคระบาด</Blighted>
-	<DyingBecauseExposedToLight>กำลังตายเนื่องจากโดนแสง</DyingBecauseExposedToLight>
+  <!-- Temperature control -->
+  <!-- EN: Target temperature -->
+  <TargetTemperature>อุณหภูมิเป้าหมาย</TargetTemperature>
+  <!-- EN: Current power use -->
+  <PowerConsumptionMode>กระแสที่ใช้</PowerConsumptionMode>
+  <!-- EN: high -->
+  <PowerConsumptionHigh>สูง</PowerConsumptionHigh>
+  <!-- EN: low -->
+  <PowerConsumptionLow>ต่ำ</PowerConsumptionLow>
 
-    <!-- Zones -->
-    <Zone>โซน</Zone>
-    <GrowingZone>โซน (เพาะปลูก)</GrowingZone>
-    <Stockpile>โซน (เก็บของ)</Stockpile>
-    <DumpingStockpile>โซน (ทิ้งของ)</DumpingStockpile>
-    <Priority>ลำดับความสำคัญ</Priority>
-    <ClearAll>ล้างทั้งหมด</ClearAll>
-    <AllowAll>อนุญาตทั้งหมด</AllowAll>
+  <!-- Temperature readout -->
+  <!-- EN: Indoors -->
+  <Indoors>ในร่ม</Indoors>
+  <!-- EN: Unroofed -->
+  <IndoorsUnroofed>ไม่มีหลังคา</IndoorsUnroofed>
+  <!-- EN: Outdoors -->
+  <Outdoors>กลางแจ้ง</Outdoors>
 
-    <!-- ThingFilter -->
-	<HitPoints>{0} ความทน</HitPoints>
-	<AnyQuality>คุณภาพไหนก็ได้</AnyQuality>
-	<OnlyQuality>{0} เท่านั้น</OnlyQuality>
+  <!-- Rotting -->
+  <!-- EN: Fresh -->
+  <RotStateFresh>สด</RotStateFresh>
+  <!-- EN: Rotting -->
+  <RotStateRotting>เน่า</RotStateRotting>
+  <!-- EN: Dessicated -->
+  <RotStateDessicated>แห้งกรัง</RotStateDessicated>
+  <!-- EN: Frozen (won't spoil) -->
+  <CurrentlyFrozen>แช่แข็ง (จะไม่เสีย)</CurrentlyFrozen>
+  <!-- EN: Refrigerated (spoils in {0}) -->
+  <CurrentlyRefrigerated>อยู่ในตู้เย็น (เสียใน {0})</CurrentlyRefrigerated>
+  <!-- EN: Not refrigerated (spoils in {0}) -->
+  <NotRefrigerated>ไม่ได้อยู่ในตู้เย็น (เสียใน {0})</NotRefrigerated>
+  <!-- EN: over a decade -->
+  <OverADecade>มากกว่าสิบปี</OverADecade>
+  <!-- EN: less than a day -->
+  <LessThanADay>ไม่ถึงวัน</LessThanADay>
 
-	<!-- Mouseover indicator -->
-    <Undiscovered>ยังไม่ได้เปิด</Undiscovered>
-  
-	<!-- Buttons -->
-	<ShowLearningHelperWhenEmptyToggleButton>สลับการมองเห็นของผู้ช่วยการเรียนรู้เมื่อว่างเปล่า\n\nผู้ช่วยการเรียนรู้จะมองเห็นได้เสมอหากมีแนวคิดที่จะเปิดใช้งาน การสลับนี้ทำให้หายไปเมื่อไม่มีแนวคิดใช้งานได้</ShowLearningHelperWhenEmptyToggleButton>
-	<ZoneVisibilityToggleButton>สลับการมองเห็นของโซน</ZoneVisibilityToggleButton>
-	<ShowEnvironmentToggleButton>สลับการแสดงผลด้านสิ่งแวดล้อม\n\nแสดงความสวยงามและสถิติห้องพักของสภาพแวดล้อมตามที่เห็นได้จากที่เมาส์ชี้</ShowEnvironmentToggleButton>
-	<ShowColonistBarToggleButton>สลับแถบอาณานิคม\n\nแสดงไอคอนและสถานะพื้นฐานสำหรับอาณานิคมทั้งหมดที่ด้านบนของหน้าจอ</ShowColonistBarToggleButton>
-	<AutoHomeAreaToggleButton>สลับการขยายพื้นที่บ้านโดยอัตโนมัติรอบ ๆ อาคารใหม่</AutoHomeAreaToggleButton>
-	<CategorizedResourceReadoutToggleButton>สลับโหมดการจัดหมวดหมู่ในการอ่านข้อมูลทรัพยากร</CategorizedResourceReadoutToggleButton>
-	<ShowAnimalNamesToggleButton>สลับการแสดงชื่อสัตว์สำหรับสัตว์เชื่องสัตว์ที่มีชื่อ</ShowAnimalNamesToggleButton>
-	<ShowRoofOverlayToggleButton>สลับการมองเห็นของหลังคา</ShowRoofOverlayToggleButton>
-	<LockNorthUpToggleButton>ล็อคการหมุนของกล้องเพื่อให้ขั้วโลกเหนืออยู่เสมอ</LockNorthUpToggleButton>
-	<UsePlanetDayNightSystemToggleButton>สลับระบบไฟ วัน / คืน</UsePlanetDayNightSystemToggleButton>
-	<ShowExpandingIconsToggleButton>สลับการแสดงไอคอนการขยายแทนไอคอนปกติสำหรับวัตถุที่อยู่ไกล</ShowExpandingIconsToggleButton>
-  	<ShowWorldFeaturesToggleButton>สลับการมองเห็นชื่อของลักษณะดิน</ShowWorldFeaturesToggleButton>
+  <!-- Shooting tooltip -->
+  <!-- EN: Shot by {1_labelShort} -->
+  <ShotBy>ถูกยิงโดย {1_labelShort}</ShotBy>
+  <!-- EN: Cannot hit target. -->
+  <CannotHit>ไม่สามารถยิงเป้าหมายได้</CannotHit>
+  <!-- EN: Manhunter chance per hit -->
+  <ManhunterPerHit>TODO</ManhunterPerHit>
 
-    <!-- Fire -->
-    <Fire>เพลิงไหม้</Fire>
-    <FireOn>เพลิงไหม้บน {0}</FireOn>
-    <Burning>กำลังไหม้</Burning>
-    <FireSizeLower>ขนาดของเพลิง {0}</FireSizeLower>
- 
-    <!-- Map conditions (eclipse, solar flare, etc )-->
-    <MapConditionsTip>เงื่อนไขพิเศษส่งผลกระทบต่อพื้นที่ในขณะนี้</MapConditionsTip>
-    <TimeLeft>เวลาที่เหลือ</TimeLeft>
-    <ImpactDate>วันที่ส่งผลกระทบต่อ</ImpactDate>
-  
-    <!-- Building placement -->
-    <NoStuffsToBuildWith>คุณไม่มีวัสดุที่สามารถใช้งานได้จากการที่จะสร้างสิ่งนี้</NoStuffsToBuildWith>
+  <!-- Meal -->
+  <!-- EN: Ingredients -->
+  <Ingredients>วัตถุดิบ</Ingredients>
 
-	<!-- Building placement restricters -->
-	<WillGetWorkSpeedPenalty>{0} จะมีโทษปรับความเร็วในการทำงาน</WillGetWorkSpeedPenalty>
-	<MustPlaceUnroofed>ไม่สามารถวางใต้หลังคาได้</MustPlaceUnroofed>
-	<MustPlaceHeadOnShipBeam>ต้องวางกับศีรษะแนบลำแสงโครงสร้างยาน</MustPlaceHeadOnShipBeam>
-	<MustPlaceNextToHopperAccepter>ต้องวางข้างสิ่งที่ต้องการถัง</MustPlaceNextToHopperAccepter>
-	<MustPlaceOnSteamGeyser>ต้องวางตรงกับพ่นไอน้ำ</MustPlaceOnSteamGeyser>
-	<MustPlaceCoolerWithFreeSpaces>ทั้งด้านร้อนและเย็นของเครื่องทำความเย็นต้องสัมผัส</MustPlaceCoolerWithFreeSpaces>
-	<MustPlaceVentWithFreeSpaces>ทั้งสองฝ่ายต้องเปิดรับอากาศ</MustPlaceVentWithFreeSpaces>
-	<MustPlaceAdjacentStandable>ต้องอยู่ในพื้นที่ที่สามารถยืนได้ทุกด้าน</MustPlaceAdjacentStandable>
-	<MustPlaceNearFuelingPort>ต้องอยู่ติดกับเครื่องยิงกระสวยการเติมเชื้อเพลิงของแท่นวาง</MustPlaceNearFuelingPort>
-	
-	<!-- Wind Turbine -->
-    <WindTurbine_WindPathIsBlockedBy>ถูกขวางโดย</WindTurbine_WindPathIsBlockedBy>
-    <WindTurbine_WindPathIsBlockedByRoof>ถูกขวางโดย หลังคา</WindTurbine_WindPathIsBlockedByRoof>
+  <!-- Plants -->
+  <!-- EN: {0} grown -->
+  <PercentGrowth>เจริญเติบโตแล้ว {0}</PercentGrowth>
+  <!-- EN: Growth rate -->
+  <GrowthRate>อัตราการเจริญเติบโต</GrowthRate>
+  <!-- EN: Fully grown in {0} of growth. -->
+  <FullyGrownIn>โตเต็มที่ใน {0} ของช่วงการเติบโต</FullyGrownIn>
+  <!-- EN: Needs light level -->
+  <PlantNeedsLightLevel>ต้องการระดับแสงสว่าง</PlantNeedsLightLevel>
+  <!-- EN: Resting -->
+  <PlantResting>กำลังพักผ่อน</PlantResting>
+  <!-- EN: Non-ideal temperature. Temperature growth multiplier: {0}% -->
+  <OutOfIdealTemperatureRange>อยู่นอกอุณหภูมิที่เหมาะสม (กำลังโตที่ {0}% ของความเร็วปกติ)</OutOfIdealTemperatureRange>
+  <!-- EN: Non-ideal temperature. Not growing. -->
+  <OutOfIdealTemperatureRangeNotGrowing>อยู่นอกอุณหภูมิที่เหมาะสม (หยุดโต)</OutOfIdealTemperatureRangeNotGrowing>
+  <!-- EN: Ready to harvest. -->
+  <ReadyToHarvest>พร้อมเก็บเกี่ยว</ReadyToHarvest>
+  <!-- EN: Mature. -->
+  <Mature>โตเต็มวัย</Mature>
+  <!-- EN: Growing period -->
+  <OutdoorGrowingPeriod>ช่วงเวลาเพาะปลูก: {0}</OutdoorGrowingPeriod>
+  <!-- EN: Never -->
+  <NoGrowingPeriod>ไมมีทาง</NoGrowingPeriod>
+  <!-- EN: Year-round -->
+  <GrowYearRound>ตลอดทั้งปี</GrowYearRound>
+  <!-- EN: Growing season here now. -->
+  <GrowSeasonHereNow>ขณะนี้เป็นฤดูเพาะปลูก</GrowSeasonHereNow>
+  <!-- EN: Cannot grow (bad seasonal temperature). -->
+  <CannotGrowBadSeasonTemperature>TODO</CannotGrowBadSeasonTemperature>
+  <!-- EN: Blighted -->
+  <Blighted>โรคระบาด</Blighted>
+  <!-- EN: Dying because exposed to light -->
+  <DyingBecauseExposedToLight>กำลังตายเนื่องจากโดนแสง</DyingBecauseExposedToLight>
 
-    <!-- Cryptosleep casket -->
-    <CasketContains>บรรจุ</CasketContains>
-    <CasketWarning>คำเตือน!\n\n[PAWN_nameDef] เป็นผู้ตั้งอาณานิคมที่ไม่เสียค่าใช้จ่ายครั้งล่าสุดของคุณ! ถ้าคุณปล่อยให้เขาก้าวเข้าไปในเครื่องนอนแช่แข็งคุณอาจไม่สามารถเล่นต่อได้ คุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ</CasketWarning>
+  <!-- Zones -->
+  <!-- EN: Zone -->
+  <Zone>โซน</Zone>
+  <!-- EN: Growing zone -->
+  <GrowingZone>โซน (เพาะปลูก)</GrowingZone>
+  <!-- EN: Stockpile zone -->
+  <Stockpile>โซน (เก็บของ)</Stockpile>
+  <!-- EN: Dumping stockpile zone -->
+  <DumpingStockpile>โซน (ทิ้งของ)</DumpingStockpile>
+  <!-- EN: Priority -->
+  <Priority>ลำดับความสำคัญ</Priority>
+  <!-- EN: Clear all -->
+  <ClearAll>ล้างทั้งหมด</ClearAll>
+  <!-- EN: Allow all -->
+  <AllowAll>อนุญาตทั้งหมด</AllowAll>
 
-    <!-- Ship launch report -->
-    <ShipReportCannotLaunch>ไม่สามารถยิงได้</ShipReportCannotLaunch>
-    <ShipReportCanLaunch>พร้อมจะยิงแล้ว</ShipReportCanLaunch>
-    <ShipReportMissingPart>ขาดชิ้นสวนสำคัญ</ShipReportMissingPart>
-  <ShipReportMissingPartRequires>ต้องมี</ShipReportMissingPartRequires>    
-	<ShipReportNoFullPods>ไม่มีเตียงแซ่แข็งที่เต็ม</ShipReportNoFullPods>
+  <!-- ThingFilter -->
+  <!-- EN: {0} hit points -->
+  <HitPoints>{0} ความทน</HitPoints>
+  <!-- EN: any quality -->
+  <AnyQuality>คุณภาพไหนก็ได้</AnyQuality>
+  <!-- EN: {0} only -->
+  <OnlyQuality>{0} เท่านั้น</OnlyQuality>
+
+  <!-- Mouseover indicator -->
+  <!-- EN: Undiscovered -->
+  <Undiscovered>ยังไม่ได้เปิด</Undiscovered>
+
+  <!-- Buttons -->
+  <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
+  <ShowLearningHelperWhenEmptyToggleButton>สลับการมองเห็นของผู้ช่วยการเรียนรู้เมื่อว่างเปล่า\n\nผู้ช่วยการเรียนรู้จะมองเห็นได้เสมอหากมีแนวคิดที่จะเปิดใช้งาน การสลับนี้ทำให้หายไปเมื่อไม่มีแนวคิดใช้งานได้</ShowLearningHelperWhenEmptyToggleButton>
+  <!-- EN: Toggle visiblity of zones. -->
+  <ZoneVisibilityToggleButton>สลับการมองเห็นของโซน</ZoneVisibilityToggleButton>
+  <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing. -->
+  <ShowBeautyToggleButton>TODO</ShowBeautyToggleButton>
+  <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing. -->
+  <ShowRoomStatsToggleButton>TODO</ShowRoomStatsToggleButton>
+  <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
+  <ShowColonistBarToggleButton>สลับแถบอาณานิคม\n\nแสดงไอคอนและสถานะพื้นฐานสำหรับอาณานิคมทั้งหมดที่ด้านบนของหน้าจอ</ShowColonistBarToggleButton>
+  <!-- EN: Toggle automatically expanding the home area around new constructions. -->
+  <AutoHomeAreaToggleButton>สลับการขยายพื้นที่บ้านโดยอัตโนมัติรอบ ๆ อาคารใหม่</AutoHomeAreaToggleButton>
+  <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
+  <AutoRebuildButton>TODO</AutoRebuildButton>
+  <!-- EN: Toggle categorized mode on the resource readout. -->
+  <CategorizedResourceReadoutToggleButton>สลับโหมดการจัดหมวดหมู่ในการอ่านข้อมูลทรัพยากร</CategorizedResourceReadoutToggleButton>
+  <!-- EN: Toggle displaying animal names for tame named animals. -->
+  <ShowAnimalNamesToggleButton>สลับการแสดงชื่อสัตว์สำหรับสัตว์เชื่องสัตว์ที่มีชื่อ</ShowAnimalNamesToggleButton>
+  <!-- EN: Toggle visibility of roofs. -->
+  <ShowRoofOverlayToggleButton>สลับการมองเห็นของหลังคา</ShowRoofOverlayToggleButton>
+  <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
+  <LockNorthUpToggleButton>ล็อคการหมุนของกล้องเพื่อให้ขั้วโลกเหนืออยู่เสมอ</LockNorthUpToggleButton>
+  <!-- EN: Toggle day/night lighting system. -->
+  <UsePlanetDayNightSystemToggleButton>สลับระบบไฟ วัน / คืน</UsePlanetDayNightSystemToggleButton>
+  <!-- EN: Toggle displaying expanding icons instead of the regular icons for distant objects. -->
+  <ShowExpandingIconsToggleButton>สลับการแสดงไอคอนการขยายแทนไอคอนปกติสำหรับวัตถุที่อยู่ไกล</ShowExpandingIconsToggleButton>
+  <!-- EN: Toggle visibility of names of landforms. -->
+  <ShowWorldFeaturesToggleButton>สลับการมองเห็นชื่อของลักษณะดิน</ShowWorldFeaturesToggleButton>
+
+  <!-- Fire -->
+  <!-- EN: Fire -->
+  <Fire>เพลิงไหม้</Fire>
+  <!-- EN: Fire on {1_label} -->
+  <FireOn>เพลิงไหม้บน {1_label}</FireOn>
+  <!-- EN: Burning -->
+  <Burning>กำลังไหม้</Burning>
+  <!-- EN: fire size {0} -->
+  <FireSizeLower>ขนาดของเพลิง {0}</FireSizeLower>
+
+  <!-- Game conditions -->
+  <!-- EN: Special conditions affecting the area right now. -->
+  <GameConditionsTip>TODO</GameConditionsTip>
+  <!-- EN: time left -->
+  <TimeLeft>เวลาที่เหลือ</TimeLeft>
+  <!-- EN: impact date -->
+  <ImpactDate>วันที่ส่งผลกระทบต่อ</ImpactDate>
+
+  <!-- Building placement -->
+  <!-- EN: You have no usable materials from which to build this. -->
+  <NoStuffsToBuildWith>คุณไม่มีวัสดุที่สามารถใช้งานได้จากการที่จะสร้างสิ่งนี้</NoStuffsToBuildWith>
+
+  <!-- Building placement restricters -->
+  <!-- EN: {0} will have work speed penalty -->
+  <WillGetWorkSpeedPenalty>{0} จะมีโทษปรับความเร็วในการทำงาน</WillGetWorkSpeedPenalty>
+  <!-- EN: Cannot be placed under a roof. -->
+  <MustPlaceUnroofed>ไม่สามารถวางใต้หลังคาได้</MustPlaceUnroofed>
+  <!-- EN: Must place with head attached to ship structural beam. -->
+  <MustPlaceHeadOnShipBeam>ต้องวางกับศีรษะแนบลำแสงโครงสร้างยาน</MustPlaceHeadOnShipBeam>
+  <!-- EN: Must be placed next to something that needs a hopper. -->
+  <MustPlaceNextToHopperAccepter>ต้องวางข้างสิ่งที่ต้องการถัง</MustPlaceNextToHopperAccepter>
+  <!-- EN: Must be placed directly on a steam geyser. -->
+  <MustPlaceOnSteamGeyser>ต้องวางตรงกับพ่นไอน้ำ</MustPlaceOnSteamGeyser>
+  <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
+  <MustPlaceCoolerWithFreeSpaces>ทั้งด้านร้อนและเย็นของเครื่องทำความเย็นต้องสัมผัส</MustPlaceCoolerWithFreeSpaces>
+  <!-- EN: Both the sides must be exposed for air to pass through. -->
+  <MustPlaceVentWithFreeSpaces>ทั้งสองฝ่ายต้องเปิดรับอากาศ</MustPlaceVentWithFreeSpaces>
+  <!-- EN: Must be placed with standable space on all sides. -->
+  <MustPlaceAdjacentStandable>ต้องอยู่ในพื้นที่ที่สามารถยืนได้ทุกด้าน</MustPlaceAdjacentStandable>
+  <!-- EN: Must be placed next to a pod launcher's fueling port. -->
+  <MustPlaceNearFuelingPort>ต้องอยู่ติดกับเครื่องยิงกระสวยการเติมเชื้อเพลิงของแท่นวาง</MustPlaceNearFuelingPort>
+  <!-- EN: Must be placed on drillable resources. -->
+  <MustPlaceOnDrillable>TODO</MustPlaceOnDrillable>
+  <!-- EN: Cannot be placed next to traps. -->
+  <CannotPlaceAdjacentTrap>TODO</CannotPlaceAdjacentTrap>
+
+  <!-- Wind Turbine -->
+  <!-- EN: Blocked by -->
+  <WindTurbine_WindPathIsBlockedBy>ถูกขวางโดย</WindTurbine_WindPathIsBlockedBy>
+  <!-- EN: Blocked by roof -->
+  <WindTurbine_WindPathIsBlockedByRoof>ถูกขวางโดย หลังคา</WindTurbine_WindPathIsBlockedByRoof>
+
+  <!-- Watermill generator -->
+  <!-- EN: Flow reduced: Turbulence from other watermill -->
+  <Watermill_WaterUsedTwice>TODO</Watermill_WaterUsedTwice>
+
+  <!-- Cryptosleep casket -->
+  <!-- EN: Contains -->
+  <CasketContains>บรรจุ</CasketContains>
+  <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
+  <CasketWarning>คำเตือน!\n\n{PAWN_nameDef} เป็นชาวนิคมคนสุดท้ายที่ยืนยัดอยู่! หากคุณปล่อยให้{PAWN_objective}ก้าวเข้าสู่เครื่องแช่แข็ง คุณจะไม่สามารถเล่นต่อได้. แน่ใจหรือว่าจะดำเนินการต่อ?</CasketWarning>
+
+  <!-- Ship launch report -->
+  <!-- EN: Cannot launch. -->
+  <ShipReportCannotLaunch>ไม่สามารถยิงได้</ShipReportCannotLaunch>
+  <!-- EN: Ready for launch. -->
+  <ShipReportCanLaunch>พร้อมจะยิงแล้ว</ShipReportCanLaunch>
+  <!-- EN: Missing critical component -->
+  <ShipReportMissingPart>ขาดชิ้นสวนสำคัญ</ShipReportMissingPart>
+  <!-- EN: requires -->
+  <ShipReportMissingPartRequires>ต้องมี</ShipReportMissingPartRequires>
+  <!-- EN: No full cryptosleep caskets -->
+  <ShipReportNoFullPods>ไม่มีเตียงแซ่แข็งที่เต็ม</ShipReportNoFullPods>
+  <!-- EN: Hibernating component -->
   <ShipReportHibernating>คอมโพเนนต์ไฮเบอร์เนต</ShipReportHibernating>
+  <!-- EN: Component not yet ready -->
   <ShipReportNotReady>คอมโพเนนต์ยังไม่พร้อม</ShipReportNotReady>
+  <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <HibernateWarning>Charlon Whitestone พร้อมแล้วที่จะเริ่มลำดับการกู้คืนข้อมูลไฮเบอร์เนตของเครื่องปฏิกรณ์\n\nเครื่องปฏิกรณ์ของยานยังคงอยู่ในโหมดไฮเบอร์เนต ลึกดังนั้นจึงไม่สามารถบินได้ คุณสามารถเริ่มต้นใช้งานได้โดยโต้ตอบกับแกนหลักของคอมพิวเตอร์\n\nCharlon Whitestone เตือนคุณว่ากระบวนการเริ่มต้นใช้งานจะใช้เวลาประมาณ 15 วันและลายเซ็นของพลังงานจะตรวจจับได้จากระยะไกล พลังงานประเภทบ่งชี้ถึง การบินระหว่างดวงดาวและจะดึงดูดแก๊งของผู้บุกรุกและนักล่าสมบัติ ตรวจสอบให้แน่ใจว่าการป้องกันของคุณได้รับการจัดเตรียมไว้พร้อมแล้ว</HibernateWarning>
-  <HibernateCompleteLabel>เครื่องปฏิกรณ์พร้อม</HibernateCompleteLabel>
-  <HibernateComplete>Charlon Whitestone ได้ทำลำดับการกู้คืนข้อมูลการทำไฮเบอร์เนตเสร็จสิ้น เครื่องปฏิกรณ์พร้อมที่จะบินขึ้น</HibernateComplete>
+  <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <HibernateWarningStandalone>TODO</HibernateWarningStandalone>
+  <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
+  <HibernateWarningPacifist>TODO</HibernateWarningPacifist>
+  <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
+  <HibernateWarningStandalonePacifist>TODO</HibernateWarningStandalonePacifist>
 
-    <!-- Neurotrainer -->
-    <NeurotrainerUsed>{0} ใช้ {1} Neurotrainer ไปจากระดับ {2} ถึงระดับ {3}</NeurotrainerUsed>
-  
-    <!-- Minification -->
-    <Installed>ติดตั้งแล้ว</Installed>
-    <NotInstalled>ยังไม่ได้ติดตั้ง</NotInstalled>
+  <!-- Neurotrainer -->
+  <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
+  <NeurotrainerUsed>{USER_labelShort} ใช้ {1} Neurotrainer ไปจากระดับ {2} ถึงระดับ {3}</NeurotrainerUsed>
 
-    <!-- Art -->
-    <Title>ชื่อผลงาน</Title>
-    <Untitled>ไม่มีชื่อ</Untitled>
-  
-    <!-- Unfinished thing -->
-    <UnfinishedItem>{0} ยังไม่เสร็จ</UnfinishedItem>
-    <UnfinishedItemWithStuff>{0} {1} ยังไม่เสร็จ</UnfinishedItemWithStuff>
+  <!-- Minification -->
+  <!-- EN: Installed -->
+  <Installed>ติดตั้งแล้ว</Installed>
+  <!-- EN: Not installed -->
+  <NotInstalled>ยังไม่ได้ติดตั้ง</NotInstalled>
 
-    <!-- Quality -->
-    <Quality>คุณภาพ</Quality>
-    <QualityDescription>คุณภาพของไอเท็มหมายถึงว่าไอเท็มถูกสร้างมาดีแค่ไหน</QualityDescription>
-    <QualityIs>คุณภาพ: {0}</QualityIs>
-    
-    <!-- Mood descriptions -->
-    <Mood_MentalState>มีภาวะทางจิต</Mood_MentalState>
-    <Mood_AboutToBreak>ใกล้จะสติแตก</Mood_AboutToBreak>
-    <Mood_OnEdge>หมิ่นเหม่</Mood_OnEdge>
-    <Mood_Stressed>เครียด</Mood_Stressed>
-    <Mood_Neutral>กลางๆ</Mood_Neutral>
-	<Mood_Content>พึงพอใจ</Mood_Content>
-    <Mood_Happy>มีความสุข</Mood_Happy>
-  
-    <!-- Game over -->
-    <GameOverEveryoneDead>ทุกคนตายแล้วหรือหายไป เรื่องนี้จบลงแล้ว\n\nอาจจะมีคนอื่นมาหาซากปรักหักพังของสถานที่แห่งนี้</GameOverEveryoneDead>
-    <GameOverShipLaunched>คุณได้เปิดตัวยาน! ผู้ล่าอาณานิคมเหล่านี้หลบหนี:\n\n{0}\nผู้ล่าอาณานิคมเหล่านี้ถูกทิ้งไว้เบื้องหลัง:\n\n{1}\nAI ของคุณจะพยายามนำยานไปยังสถานที่ที่ปลอดภัย อาจพบดาวเคราะห์ที่รุ่งเรืองสำหรับคุณในระบบนี้ หรืออาจดำเนินการเดินทางยาวนานหลายศตวรรษไปยังดาวดวงอื่น มันอาจจะตัดสินใจที่จะซ่อนตัวอยู่ใต้น้ำแข็งในดาวเคราะห์น้อยไม่กี่พันปีรอคนที่จะสร้างโลกแห่งความสุกใหม่ที่นี่\n\nคุณจะพบเมื่อตื่นนอน</GameOverShipLaunched>
-    <GameOverPlanetkillerImpact>เมื่อใกล้เคียงกับความเร็วแสงอาวุธของดาวเคราะห์นั้นกระแทกลงกับพื้นด้วยแรงเป็นล้านล้านระเบิดไฮโดรเจน เหมือนยิงบอลลูนน้ำที่มีปืนไรเฟิล, โลกนี้กลายเป็นของเหลวภายใต้การกระแทกและฉีดพ่นตัวหลอมละลายของมันไปทั่วจักรวาล\n\nส่วนหนึ่งของ {0} เป็นดาวเคราะห์น้อยขนาดเล็ก ส่วนที่เหลือเป็นหลอมเหลว, Hellscape กัมมันตภาพรังสี, กระแทกอย่างต่อเนื่องโดยมีการเกิดแผ่นดินไหวสูงเป็นกิโลเมตร\n\nคุณไม่รอด</GameOverPlanetkillerImpact>
-	<GameOverArrivedAtJourneyDestination>เมื่อคุณขึ้นยานคุณได้รับการต้อนรับโดยลูกเรือด้วยอาวุธที่เปิดกว้าง พวกเขาดูเหมือนจะดีใจที่พวกเขาอาจใช้เวลาอีกอย่างน้อยหนึ่งคนกับพวกเขา\n\nผู้ล่าอาณานิคมเหล่านี้หลบหนี:\n\n{0}\nผู้ล่าอาณานิคมเหล่านี้ถูกทิ้งไว้เบื้องหลัง:\n\n{1}\nขณะนี้ AI จะพยายามนำยานไปยังสถานที่ที่ปลอดภัย อาจพบดาวเคราะห์ที่รุ่งเรืองสำหรับคุณในระบบนี้ หรืออาจดำเนินการเดินทางยาวนานหลายศตวรรษไปยังดาวดวงอื่น มันอาจจะตัดสินใจที่จะซ่อนตัวอยู่ใต้น้ำแข็งในดาวเคราะห์น้อยไม่กี่พันปีรอคนที่จะสร้างโลกแห่งความสุกใหม่ที่นี่\n\nขณะที่คุณลงไปนอน เครื่องนอนแช่แข็ง คุณลังเลสักครู่และรู้สึกไม่แน่ใจเล็กน้อยเกี่ยวกับว่าคุณสามารถไว้ใจคนเหล่านี้ได้หรือไม่\n\nคุณจะพบเมื่อตื่นนอน</GameOverArrivedAtJourneyDestination>
-    <GameOverKeepPlaying>เล่นต่อไป</GameOverKeepPlaying>
-    <GameOverMainMenu>หน้าเมนูหลัก</GameOverMainMenu>
-  
-    <!-- Generic lifespan -->
-    <LifespanExpiry>หมดอายุใน:</LifespanExpiry>
-  
-    <!-- Traps -->
-    <TrapArmed>ตั้งแล้ว</TrapArmed>
-    <TrapNotArmed>ยังไม่ได้ตั้ง</TrapNotArmed>
-    <TrapRearmingCost>ค่าตั้งใหม่: {0}</TrapRearmingCost>
-  
-    <!-- Facilities -->
-    <InactiveFacility>เฉื่อยชา</InactiveFacility>
-  
-    <!-- Hediffs growth modes -->
-    <DiseaseGrowthModeChanged_Growing>{0} ของ {1} กำลังเติบโตขึ้น</DiseaseGrowthModeChanged_Growing>
-    <DiseaseGrowthModeChanged_Stable>{0} ของ {1} มีเสถียรภาพแล้ว</DiseaseGrowthModeChanged_Stable>
-    <DiseaseGrowthModeChanged_Remission>{0} ของ {1} อยู่ในระหว่างการผ่อนผัน</DiseaseGrowthModeChanged_Remission>
+  <!-- Art -->
+  <!-- EN: Title -->
+  <Title>ชื่อผลงาน</Title>
+  <!-- EN: Untitled -->
+  <Untitled>ไม่มีชื่อ</Untitled>
 
-    <!-- Marriage spot -->
-    <MarriageSpotUsable>สามารถใช้งานได้ในขณะนี้</MarriageSpotUsable>
-    <MarriageSpotNotUsable>ไม่ได้ใช้งาน : {0}.</MarriageSpotNotUsable>
-    <MarriageSpotNotStandable>ถูกบัง</MarriageSpotNotStandable>
-    <MarriageSpotDangerous>อันตรายเกินไปสำหรับ {0}</MarriageSpotDangerous>
-    <MarriageSpotForbidden>สิ่งต้องห้ามสำหรับ {0}</MarriageSpotForbidden>
-    <MarriageSpotReserved>ถูกจอง</MarriageSpotReserved>
-    <MarriageSpotUnreachable>ไม่สามารถเข้าถึงได้สำหรับ {0}</MarriageSpotUnreachable>
-    <MarriageSpotInPrisonCell>ในห้องขัง</MarriageSpotInPrisonCell>
-    <NotEnjoyableOutsideTemperature>อุณหภูมิอึดอัด</NotEnjoyableOutsideTemperature>
-  
-    <!-- Colonist bar -->
-    <ActivityIconMedicalRest>พักผ่อนทางการแพทย์</ActivityIconMedicalRest>
-    <ActivityIconSleeping>นอนหลับ</ActivityIconSleeping>
-    <ActivityIconFleeing>หลบหนี</ActivityIconFleeing>
-    <ActivityIconAttacking>ต่อสู้</ActivityIconAttacking>
-    <ActivityIconIdle>ว่าง</ActivityIconIdle>
-    <ActivityIconBurning>เผาไหม้</ActivityIconBurning>
+  <!-- Unfinished thing -->
+  <!-- EN: Unfinished {0} -->
+  <UnfinishedItem>{0} ยังไม่เสร็จ</UnfinishedItem>
+  <!-- EN: Unfinished {0} {1} -->
+  <UnfinishedItemWithStuff>{0} {1} ยังไม่เสร็จ</UnfinishedItemWithStuff>
 
-    <!-- Maintainable -->
-    <DueForMaintenance>ต้องได้รับการดูแล</DueForMaintenance>
-    <DeterioratingDueToLackOfMaintenance>กำลังเสื่อมโซมเนื่อกจากไม่ได้รับการดูแล</DeterioratingDueToLackOfMaintenance>
-  
-    <!-- Deep drill -->
-    <ProgressToNextLump>ความคืบหน้าในก้อนต่อไป</ProgressToNextLump>
-    <ResourceBelow>ทรัพยากรด้านล่าง</ResourceBelow>
-  
-    <!-- Learning helper -->
-    <LearningHelper>หน้าต่าง ตัวช่วยภายในเกม</LearningHelper>
-    <MarkLearned>ทำเครื่องหมายว่าได้เรียนรู้</MarkLearned>
-    <AlreadyLearned>เรียนรู้แล้ว</AlreadyLearned>
-    <Filter>กรอง</Filter>
-  
-	<!-- Compass -->
-	<CompassTip>แสดงทิศทางทิศเหนือ คลิกเพื่อหมุนกล้องเพื่อให้ขั้วโลกเหนือขึ้น</CompassTip>
+  <!-- Quality -->
+  <!-- EN: Quality -->
+  <Quality>คุณภาพ</Quality>
+  <!-- EN: An item's quality is how well-made it is. -->
+  <QualityDescription>คุณภาพของไอเท็มหมายถึงว่าไอเท็มถูกสร้างมาดีแค่ไหน</QualityDescription>
+  <!-- EN: Quality: {0} -->
+  <QualityIs>คุณภาพ: {0}</QualityIs>
 
-  <!-- Distance measure -->
+  <!-- Mood descriptions -->
+  <!-- EN: mental state -->
+  <Mood_MentalState>มีภาวะทางจิต</Mood_MentalState>
+  <!-- EN: about to break -->
+  <Mood_AboutToBreak>ใกล้จะสติแตก</Mood_AboutToBreak>
+  <!-- EN: on edge -->
+  <Mood_OnEdge>หมิ่นเหม่</Mood_OnEdge>
+  <!-- EN: stressed -->
+  <Mood_Stressed>เครียด</Mood_Stressed>
+  <!-- EN: neutral -->
+  <Mood_Neutral>กลางๆ</Mood_Neutral>
+  <!-- EN: content -->
+  <Mood_Content>พึงพอใจ</Mood_Content>
+  <!-- EN: happy -->
+  <Mood_Happy>มีความสุข</Mood_Happy>
+
+  <!-- Game over -->
+  <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
+  <GameOverEveryoneDead>ทุกคนตายแล้วหรือหายไป เรื่องนี้จบลงแล้ว\n\nอาจจะมีคนอื่นมาหาซากปรักหักพังของสถานที่แห่งนี้</GameOverEveryoneDead>
+  <!-- EN: You've launched the ship! These colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nYour AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
+  <GameOverShipLaunched>คุณได้เปิดตัวยาน! ผู้ล่าอาณานิคมเหล่านี้หลบหนี:\n\n{0}\nผู้ล่าอาณานิคมเหล่านี้ถูกทิ้งไว้เบื้องหลัง:\n\n{1}\nAI ของคุณจะพยายามนำยานไปยังสถานที่ที่ปลอดภัย อาจพบดาวเคราะห์ที่รุ่งเรืองสำหรับคุณในระบบนี้ หรืออาจดำเนินการเดินทางยาวนานหลายศตวรรษไปยังดาวดวงอื่น มันอาจจะตัดสินใจที่จะซ่อนตัวอยู่ใต้น้ำแข็งในดาวเคราะห์น้อยไม่กี่พันปีรอคนที่จะสร้างโลกแห่งความสุกใหม่ที่นี่\n\nคุณจะพบเมื่อตื่นนอน</GameOverShipLaunched>
+  <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
+  <GameOverPlanetkillerImpact>เมื่อใกล้เคียงกับความเร็วแสงอาวุธของดาวเคราะห์นั้นกระแทกลงกับพื้นด้วยแรงเป็นล้านล้านระเบิดไฮโดรเจน เหมือนยิงบอลลูนน้ำที่มีปืนไรเฟิล, โลกนี้กลายเป็นของเหลวภายใต้การกระแทกและฉีดพ่นตัวหลอมละลายของมันไปทั่วจักรวาล\n\nส่วนหนึ่งของ {0} เป็นดาวเคราะห์น้อยขนาดเล็ก ส่วนที่เหลือเป็นหลอมเหลว, Hellscape กัมมันตภาพรังสี, กระแทกอย่างต่อเนื่องโดยมีการเกิดแผ่นดินไหวสูงเป็นกิโลเมตร\n\nคุณไม่รอด</GameOverPlanetkillerImpact>
+  <!-- EN: As you get on board the ship you are greeted by the crew with open arms. They seem to be glad they could take at least one more person with them.\n\nThese colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nThe AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nAs you enter the cryptosleep pod you hesitate for a moment and feel slightly uncertain about whether you can trust these people.\n\nYou'll find out when you wake up. -->
+  <GameOverArrivedAtJourneyDestination>เมื่อคุณขึ้นยานคุณได้รับการต้อนรับโดยลูกเรือด้วยอาวุธที่เปิดกว้าง พวกเขาดูเหมือนจะดีใจที่พวกเขาอาจใช้เวลาอีกอย่างน้อยหนึ่งคนกับพวกเขา\n\nผู้ล่าอาณานิคมเหล่านี้หลบหนี:\n\n{0}\nผู้ล่าอาณานิคมเหล่านี้ถูกทิ้งไว้เบื้องหลัง:\n\n{1}\nขณะนี้ AI จะพยายามนำยานไปยังสถานที่ที่ปลอดภัย อาจพบดาวเคราะห์ที่รุ่งเรืองสำหรับคุณในระบบนี้ หรืออาจดำเนินการเดินทางยาวนานหลายศตวรรษไปยังดาวดวงอื่น มันอาจจะตัดสินใจที่จะซ่อนตัวอยู่ใต้น้ำแข็งในดาวเคราะห์น้อยไม่กี่พันปีรอคนที่จะสร้างโลกแห่งความสุกใหม่ที่นี่\n\nขณะที่คุณลงไปนอน เครื่องนอนแช่แข็ง คุณลังเลสักครู่และรู้สึกไม่แน่ใจเล็กน้อยเกี่ยวกับว่าคุณสามารถไว้ใจคนเหล่านี้ได้หรือไม่\n\nคุณจะพบเมื่อตื่นนอน</GameOverArrivedAtJourneyDestination>
+  <!-- EN: Keep playing -->
+  <GameOverKeepPlaying>เล่นต่อไป</GameOverKeepPlaying>
+  <!-- EN: Main menu -->
+  <GameOverMainMenu>หน้าเมนูหลัก</GameOverMainMenu>
+
+  <!-- Generic lifespan -->
+  <!-- EN: Expires in: -->
+  <LifespanExpiry>หมดอายุใน:</LifespanExpiry>
+
+  <!-- Facilities -->
+  <!-- EN: inactive -->
+  <InactiveFacility>เฉื่อยชา</InactiveFacility>
+
+  <!-- Hediffs growth modes -->
+  <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
+  <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort} ของ {1} กำลังเติบโตขึ้น</DiseaseGrowthModeChanged_Growing>
+  <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
+  <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort} ของ {1} มีเสถียรภาพแล้ว</DiseaseGrowthModeChanged_Stable>
+  <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
+  <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort} ของ {1} อยู่ในระหว่างการผ่อนผัน</DiseaseGrowthModeChanged_Remission>
+
+  <!-- Marriage spot -->
+  <!-- EN: Usable now. -->
+  <MarriageSpotUsable>สามารถใช้งานได้ในขณะนี้</MarriageSpotUsable>
+  <!-- EN: Not usable: {0}. -->
+  <MarriageSpotNotUsable>ไม่ได้ใช้งาน : {0}.</MarriageSpotNotUsable>
+  <!-- EN: blocked -->
+  <MarriageSpotNotStandable>ถูกบัง</MarriageSpotNotStandable>
+  <!-- EN: too dangerous for {1_labelShort} -->
+  <MarriageSpotDangerous>อันตรายเกินไปสำหรับ {1_labelShort}</MarriageSpotDangerous>
+  <!-- EN: forbidden for {1_labelShort} -->
+  <MarriageSpotForbidden>สิ่งต้องห้ามสำหรับ {1_labelShort}</MarriageSpotForbidden>
+  <!-- EN: reserved -->
+  <MarriageSpotReserved>ถูกจอง</MarriageSpotReserved>
+  <!-- EN: unreachable for {1_labelShort} -->
+  <MarriageSpotUnreachable>ไม่สามารถเข้าถึงได้สำหรับ {1_labelShort}</MarriageSpotUnreachable>
+  <!-- EN: in prison cell -->
+  <MarriageSpotInPrisonCell>ในห้องขัง</MarriageSpotInPrisonCell>
+  <!-- EN: uncomfortable temperature -->
+  <NotEnjoyableOutsideTemperature>อุณหภูมิอึดอัด</NotEnjoyableOutsideTemperature>
+
+  <!-- Colonist bar -->
+  <!-- EN: Medical rest -->
+  <ActivityIconMedicalRest>พักผ่อนทางการแพทย์</ActivityIconMedicalRest>
+  <!-- EN: Sleeping -->
+  <ActivityIconSleeping>นอนหลับ</ActivityIconSleeping>
+  <!-- EN: Fleeing -->
+  <ActivityIconFleeing>หลบหนี</ActivityIconFleeing>
+  <!-- EN: Fighting -->
+  <ActivityIconAttacking>ต่อสู้</ActivityIconAttacking>
+  <!-- EN: Idle -->
+  <ActivityIconIdle>ว่าง</ActivityIconIdle>
+  <!-- EN: Burning -->
+  <ActivityIconBurning>เผาไหม้</ActivityIconBurning>
+  <!-- EN: Forming a caravan -->
+  <ActivityIconFormingCaravan>TODO</ActivityIconFormingCaravan>
+
+  <!-- Maintainable -->
+  <!-- EN: Due for maintenance. -->
+  <DueForMaintenance>ต้องได้รับการดูแล</DueForMaintenance>
+  <!-- EN: Deteriorating due to lack of maintenance. -->
+  <DeterioratingDueToLackOfMaintenance>กำลังเสื่อมโซมเนื่อกจากไม่ได้รับการดูแล</DeterioratingDueToLackOfMaintenance>
+
+  <!-- Deep drill -->
+  <!-- EN: Progress to next lump -->
+  <ProgressToNextLump>ความคืบหน้าในก้อนต่อไป</ProgressToNextLump>
+  <!-- EN: Resource below -->
+  <ResourceBelow>ทรัพยากรด้านล่าง</ResourceBelow>
+  <!-- EN: Progress to next portion -->
+  <ProgressToNextPortion>TODO</ProgressToNextPortion>
+  <!-- EN: No resources below. -->
+  <DeepDrillNoResources>TODO</DeepDrillNoResources>
+  <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
+  <DeepDrillExhausted>ทรัพยากรโดยลึกถูกเจาะหมดแล้ว การเจาะถูกห้ามโดยอัตโนมัติ ถอนห้ามเพื่อเริ่มขุด {0}</DeepDrillExhausted>
+  <!-- EN: Deep drill resources exhausted. -->
+  <DeepDrillExhaustedNoFallback>TODO</DeepDrillExhaustedNoFallback>
+
+  <!-- Learning helper -->
+  <!-- EN: Learning helper -->
+  <LearningHelper>ตัวช่วยฝึกหัดเล่น</LearningHelper>
+  <!-- EN: Mark as learned -->
+  <MarkLearned>มาร์คว่าเรียนรู้</MarkLearned>
+  <!-- EN: Already learned -->
+  <AlreadyLearned>เรียนรู้แล้ว</AlreadyLearned>
+  <!-- EN: Filter -->
+  <Filter>ตัวกรอง</Filter>
+
+  <!-- Compass -->
+  <!-- EN: Shows the north direction. Click to rotate the camera so the north pole is up. -->
+  <CompassTip>แสดงทิศทางทิศเหนือ คลิกเพื่อหมุนกล้องเพื่อให้ขั้วโลกเหนือขึ้น</CompassTip>
+
+  <!-- World route planner -->
+  <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
   <RoutePlannerButtonTip>คลิกเพื่อเข้าสู่โหมดวางแผนซึ่งคุณสามารถวางแผนการเดินทางของคุณและคำนวณระยะทางระหว่างจุดต่างๆได้</RoutePlannerButtonTip>
+  <!-- EN: Add two or more waypoints. -->
   <RoutePlannerAddTwoOrMoreWaypoints>เพิ่มจุดต่างๆสองจุดขึ้นไป</RoutePlannerAddTwoOrMoreWaypoints>
+  <!-- EN: Add one or more waypoints. -->
   <RoutePlannerAddOneOrMoreWaypoints>เพิ่มจุดหนึ่งจุดหรือมากกว่า</RoutePlannerAddOneOrMoreWaypoints>
+  <!-- EN: Total route time: {0} -->
   <RoutePlannerEstTimeToFinalDest>เวลาเส้นทางทั้งหมด: {0}</RoutePlannerEstTimeToFinalDest>
+  <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
   <RoutePlannerUsingAverageTicksPerMoveWarning>โหมดการวางแผนใช้ความเร็วเริ่มต้นของคาราวาน ความเร็วของคุณอาจแตกต่างกันไป</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <!-- EN: Calculating for: {0} -->
   <RoutePlannerUsingTicksPerMoveOfCaravan>กำลังคำนวณสำหรับ: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <!-- EN: Right mouse button: Add/remove waypoints. -->
   <RoutePlannerPressRMBToAddAndRemoveWaypoints>คลิกเมาส์ขวา: เพิ่ม/ลบ จุดต่างๆ</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <!-- EN: ESC: Exit planning mode. -->
   <RoutePlannerPressEscapeToExit>ESC: ออกจากโหมดการวางแผน</RoutePlannerPressEscapeToExit>
+  <!-- EN: ESC: Return to the caravan formation dialog. -->
   <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: กลับไปที่กล่องโต้ตอบการสร้างกองคาราวาน</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
-  <EstimatedTimeToThisWaypoint>เวลา จุดนี้: {0}</EstimatedTimeToThisWaypoint>
-  <EstimatedTimeToThisWaypointFromPrevious>เวลาระหว่างจุดเชื่อมต่อนี้กับ จุด ก่อนหน้า: {0}</EstimatedTimeToThisWaypointFromPrevious>
+  <!-- EN: Est. travel time: {0} -->
+  <EstimatedTimeToWaypoint>TODO</EstimatedTimeToWaypoint>
+  <!-- EN: Est. travel time (from previous waypoint): {0} -->
+  <EstimatedTimeToWaypointFromPrevious>TODO</EstimatedTimeToWaypointFromPrevious>
+  <!-- EN: Est. travel time: {0} -->
+  <EstimatedTimeToTile>TODO</EstimatedTimeToTile>
+  <!-- EN: Foraged food amount -->
+  <ForagedFoodAmount>TODO</ForagedFoodAmount>
 
   <!-- Outfits -->
-  <OutfitAnything>Anything</OutfitAnything>
-  <OutfitWorker>Worker</OutfitWorker>
-  <OutfitSoldier>Soldier</OutfitSoldier>
-  <OutfitNudist>Nudist</OutfitNudist>
-  
+  <!-- EN: Anything -->
+  <OutfitAnything>อะไรก็ได้</OutfitAnything>
+  <!-- EN: Worker -->
+  <OutfitWorker>ชุดทำงาน</OutfitWorker>
+  <!-- EN: Soldier -->
+  <OutfitSoldier>ชุดทหาร</OutfitSoldier>
+  <!-- EN: Nudist -->
+  <OutfitNudist>เปลือยกาย</OutfitNudist>
+
   <!-- Hibernatable -->
+  <!-- EN: Hibernating -->
   <HibernatableHibernating>จำศีล</HibernatableHibernating>
+  <!-- EN: Starting up -->
   <HibernatableStartingUp>กำลังเรีม</HibernatableStartingUp>
+
+  <!-- Transport pods -->
+  <!-- EN: {0}: See available orders... -->
+  <ClickToSeeAvailableOrders_WorldObject>TODO</ClickToSeeAvailableOrders_WorldObject>
+  <!-- EN: See available orders... -->
+  <ClickToSeeAvailableOrders_Empty>TODO</ClickToSeeAvailableOrders_Empty>
 
 </LanguageData>

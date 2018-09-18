@@ -1,45 +1,77 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: d -->
   <LetterDay>ว</LetterDay>
+  <!-- EN: h -->
   <LetterHour>ชม</LetterHour>
+  <!-- EN: m -->
   <LetterMinute>น</LetterMinute>
+  <!-- EN: s -->
   <LetterSecond>วิ</LetterSecond>
   
+  <!-- EN: days -->
   <DaysLower>วัน</DaysLower>
+  <!-- EN: seconds -->
   <SecondsLower>วินาที</SecondsLower>
 
+  <!-- EN: spring -->
   <SeasonSpring>ฤดูใบไม้ผลิ</SeasonSpring>
+  <!-- EN: summer -->
   <SeasonSummer>ฤดูร้อน</SeasonSummer>
+  <!-- EN: fall -->
   <SeasonFall>ฤดูใบไม้ร่วง</SeasonFall>
+  <!-- EN: winter -->
   <SeasonWinter>ฤดูหนาว</SeasonWinter>
+  <!-- EN: permanent summer -->
   <SeasonPermanentSummer>ฤดูร้อนตลอดการ</SeasonPermanentSummer>
+  <!-- EN: permanent winter -->
   <SeasonPermanentWinter>ฤดูหนาวตลอดการ</SeasonPermanentWinter>
 
+  <!-- EN: Aprimay -->
   <QuadrumAprimay>Aprimay</QuadrumAprimay>
+  <!-- EN: Jugust -->
   <QuadrumJugust>Jugust</QuadrumJugust>
+  <!-- EN: Septober -->
   <QuadrumSeptober>Septober</QuadrumSeptober>
+  <!-- EN: Decembary -->
   <QuadrumDecembary>Decembary</QuadrumDecembary>
-
+  
+  <!-- EN: Born: {0} -->
   <Born>เกิด: {0}</Born>
-  <AgeChronological>อายุเชิงกาลภาพ: {0} ปี, {1} ฤดู, {2} วัน</AgeChronological>
-  <AgeBiological>อายุเชิงชีวภาพ: {0} ปี, {1} ฤดู, {2} วัน</AgeBiological>
+  <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
+  <AgeChronological>อายุทางกาลภาพ: {0} ปี, {1} ฤดู, {2} วัน</AgeChronological>
+  <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
+  <AgeBiological>อายุทางชีวภาพ: {0} ปี, {1} ฤดู, {2} วัน</AgeBiological>
 
   <!-- Date periods -->
+  <!-- EN: 1 year -->
   <Period1Year>1 ปี</Period1Year>
+  <!-- EN: {0} years -->
   <PeriodYears>{0} ปี</PeriodYears>
-  <Period1Season>1 ฤดู</Period1Season>
-  <PeriodSeasons>{0} ฤดู</PeriodSeasons>
+  <!-- EN: 1 quadrum -->
+  <Period1Quadrum>1 quadrum</Period1Quadrum>
+  <!-- EN: {0} quadrums -->
+  <PeriodQuadrums>{0} quadrums</PeriodQuadrums>
+  <!-- EN: 1 day -->
   <Period1Day>1 วัน</Period1Day>
+  <!-- EN: {0} days -->
   <PeriodDays>{0} วัน</PeriodDays>
+  <!-- EN: 1 hour -->
   <Period1Hour>1 ชั่วโมง</Period1Hour>
+  <!-- EN: {0} hours -->
   <PeriodHours>{0} ชั่วโมง</PeriodHours>
-  <Period1Second>1 second</Period1Second>
-  <PeriodSeconds>{0} seconds</PeriodSeconds>
+  <!-- EN: 1 second -->
+  <Period1Second>1 วินาที</Period1Second>
+  <!-- EN: {0} seconds -->
+  <PeriodSeconds>{0} วินาที</PeriodSeconds>
 
   <!-- Misc -->
+  <!-- EN: Started -->
   <Started>เริ่มต้น</Started>
+  <!-- EN: Lasted -->
   <Lasted>อยู่ถึง</Lasted>
+  <!-- EN: occurred {0} ago -->
   <OccurredTimeAgo>เกิดขึ้นเมื่อ {0} ที่ผ่านมา</OccurredTimeAgo>
   
 </LanguageData>
