@@ -697,7 +697,7 @@
   <!-- EN: Mature. -->
   <Mature>โตเต็มวัย</Mature>
   <!-- EN: Growing period -->
-  <OutdoorGrowingPeriod>ช่วงเวลาเพาะปลูก: {0}</OutdoorGrowingPeriod>
+  <OutdoorGrowingPeriod>ช่วงเวลาเพาะปลูก</OutdoorGrowingPeriod>
   <!-- EN: Never -->
   <NoGrowingPeriod>ไมมีทาง</NoGrowingPeriod>
   <!-- EN: Year-round -->

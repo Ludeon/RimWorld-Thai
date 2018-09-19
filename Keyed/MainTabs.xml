@@ -69,15 +69,15 @@
   <!-- EN: Current goodwill and relations status with this faction. -->
   <CurrentGoodwillTip>ความนิยมและสถานะความสัมพันธ์ในปัจจุบันของฝ่ายนี้</CurrentGoodwillTip>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
-  <CurrentGoodwillTip_PermanentEnemy>ฝักฝ่ายนี้เป็นปรปักษ์กันถาวร พวกเขาจะบุกปล้นถิ่นฐานและกองคาราวานของคุณ ความสัมพันธ์กับพวกเขาจะไม่ดีขึ้นเลยไม่ว่าด้วยเหตุผลอะไร</CurrentGoodwillTip_PermanentEnemy>
+  <CurrentGoodwillTip_PermanentEnemy>ฝ่ายนี้เป็นปรปักษ์กันถาวร พวกเขาจะบุกปล้นถิ่นฐานและกองคาราวานของคุณ ความสัมพันธ์กับพวกเขาจะไม่ดีขึ้นเลยไม่ว่าด้วยเหตุผลอะไร</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
-  <CurrentGoodwillTip_Ally>ฝักฝ่ายนี้เป็นพันธมิตรกัน พวกจะส่งนักสู้มาช่วยเหลือคุณหากสามารถ ถ้าความสัมพันธ์ตกลงต่ำกว่า {0} พวกเขาจะกลายเป็นกลาง</CurrentGoodwillTip_Ally>
+  <CurrentGoodwillTip_Ally>ฝ่ายนี้เป็นพันธมิตรกัน พวกจะส่งนักสู้มาช่วยเหลือคุณหากสามารถ ถ้าความสัมพันธ์ตกลงต่ำกว่า {0} พวกเขาจะกลายเป็นกลาง</CurrentGoodwillTip_Ally>
   <!-- EN: This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you. -->
-  <CurrentGoodwillTip_Neutral>ฝักฝ่ายนี้เป็นกลาง พวกเขาจะแลกเปลื่ยนและพูดคุยกับคุณโดยอิสระ ถ้าความสัมพันธ์ตกลงต่ำกว่า {0} พวกเขาจะกลายเป็นปรปักษ์ และถ้าความสัมพันธ์เพิ่มสูงกว่า {1} พวกเขาจะกลายเป็นพันธมิตร และเริ่มทำงานเต็มใจเพื่อช่วยเหลือคุณ</CurrentGoodwillTip_Neutral>
+  <CurrentGoodwillTip_Neutral>ฝ่ายนี้เป็นกลาง พวกเขาจะแลกเปลื่ยนและพูดคุยกับคุณโดยอิสระ ถ้าความสัมพันธ์ตกลงต่ำกว่า {0} พวกเขาจะกลายเป็นปรปักษ์ และถ้าความสัมพันธ์เพิ่มสูงกว่า {1} พวกเขาจะกลายเป็นพันธมิตร และเริ่มเต็มใจทำเพื่อช่วยเหลือคุณ</CurrentGoodwillTip_Neutral>
   <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
-  <CurrentGoodwillTip_Hostile>ฝักฝ่ายนี้เป็นปรปักษ์ พวกเขาจะบุกปล้นถิ่นฐานและกองคาราวานของคุณ ถ้าความสัมพันธ์เพิ่มสูงกว่า {0} พวกเขาจะกลายเป็นกลาง</CurrentGoodwillTip_Hostile>
+  <CurrentGoodwillTip_Hostile>ฝ่ายนี้เป็นปรปักษ์ พวกเขาจะบุกปล้นถิ่นฐานและกองคาราวานของคุณ ถ้าความสัมพันธ์เพิ่มสูงกว่า {0} พวกเขาจะกลายเป็นกลาง</CurrentGoodwillTip_Hostile>
   <!-- EN: This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day. -->
-  <CurrentGoodwillTip_NaturalGoodwill>ฝักฝ่ายนี้มีไมตรีจิตอยู่ระหว่าง {0} ถึง {1} หากค่าไมตรีจิตสูงกว่า {1} มันจะลดลง {3} ต่อวัน หากค่าไมตรีจิตต่ำกว่า {0} มันจะเพิ่มขึ้น {2} ต่อวัน</CurrentGoodwillTip_NaturalGoodwill>
+  <CurrentGoodwillTip_NaturalGoodwill>ฝ่ายนี้มีไมตรีจิตอยู่ระหว่าง {0} ถึง {1} หากค่าไมตรีจิตสูงกว่า {1} ก็จะลดลง {3} ต่อวัน หากค่าไมตรีจิตต่ำกว่า {0} ก็จะเพิ่มขึ้น {2} ต่อวัน</CurrentGoodwillTip_NaturalGoodwill>
   
   <!-- Social tab -->
   <!-- EN: Friend -->

@@ -2,11 +2,11 @@
 <LanguageData>
 
   <!-- EN: Tool -->
-  <Tool>TODO</Tool>
+  <Tool>เครื่องมือ</Tool>
   <!-- EN: damage -->
-  <DamageLower>TODO</DamageLower>
+  <DamageLower>เสียหาย</DamageLower>
   <!-- EN: seconds per attack -->
-  <SecondsPerAttackLower>TODO</SecondsPerAttackLower>
+  <SecondsPerAttackLower>วินาทีต่อการโจมตี</SecondsPerAttackLower>
 
   <!-- EN: Base value -->
   <StatsReport_BaseValue>ค่าพื้นฐาน</StatsReport_BaseValue>
@@ -45,7 +45,7 @@
   <!-- EN: Quality multiplier -->
   <StatsReport_QualityMultiplier>ตัวคูณคุณภาพ</StatsReport_QualityMultiplier>
   <!-- EN: Max gain -->
-  <StatsReport_MaxGain>TODO</StatsReport_MaxGain>
+  <StatsReport_MaxGain>ได้รับมากสุด</StatsReport_MaxGain>
   <!-- EN: Multiplier for age {0} -->
   <StatsReport_AgeMultiplier>ตัวคูณสำหรับอายุ {0}</StatsReport_AgeMultiplier>
   <!-- EN: Multiplier for health {0} -->
@@ -93,24 +93,24 @@
   <!-- EN: Added body parts -->
   <StatsReport_AddedBodyPartsMass>เพิ่มส่วนต่างๆในร่างกาย</StatsReport_AddedBodyPartsMass>
   <!-- EN: Material effect multiplier -->
-  <StatsReport_StuffEffectMultiplier>TODO</StatsReport_StuffEffectMultiplier>
+  <StatsReport_StuffEffectMultiplier>ตัวคูณอิทธิพลจากวัสดุ</StatsReport_StuffEffectMultiplier>
   <!-- EN: Resting -->
-  <StatsReport_Resting>TODO</StatsReport_Resting>
+  <StatsReport_Resting>กำลังพักผ่อน</StatsReport_Resting>
   <!-- EN: recreation type -->
-  <StatsReport_JoyKind>TODO</StatsReport_JoyKind>
+  <StatsReport_JoyKind>ชนิดนันทนาการ</StatsReport_JoyKind>
   <!-- EN: work to uninstall -->
-  <StatsReport_WorkToUninstall>TODO</StatsReport_WorkToUninstall>
+  <StatsReport_WorkToUninstall>ทำงานเพื่อถอนติดตั้ง</StatsReport_WorkToUninstall>
   <!-- EN: Multiplier for growth {0} -->
-  <StatsReport_PlantGrowth>TODO</StatsReport_PlantGrowth>
+  <StatsReport_PlantGrowth>ตัวคูณสำหรับการเติบโต {0}</StatsReport_PlantGrowth>
   <!-- EN: scaled because wild -->
-  <StatsReport_PlantGrowth_Wild>TODO</StatsReport_PlantGrowth_Wild>
+  <StatsReport_PlantGrowth_Wild>ขนาดใหญ่เนื่องจากอยู่ในป่า</StatsReport_PlantGrowth_Wild>
   <!-- EN: Not flesh -->
-  <StatsReport_NotFlesh>TODO</StatsReport_NotFlesh>
+  <StatsReport_NotFlesh>ไม่มีเนื้อหนัง</StatsReport_NotFlesh>
   <!-- EN: Not fresh -->
-  <StatsReport_NotFresh>TODO</StatsReport_NotFresh>
+  <StatsReport_NotFresh>ไม่สดใหม่</StatsReport_NotFresh>
   <!-- EN: Wild man -->
-  <StatsReport_WildMan>TODO</StatsReport_WildMan>
+  <StatsReport_WildMan>คนป่า</StatsReport_WildMan>
   <!-- EN: Attack -->
-  <StatsReport_NonToolAttack>TODO</StatsReport_NonToolAttack>
+  <StatsReport_NonToolAttack>โจมตี</StatsReport_NonToolAttack>
 
 </LanguageData>

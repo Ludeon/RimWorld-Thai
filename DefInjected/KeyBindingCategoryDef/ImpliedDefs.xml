@@ -7,13 +7,13 @@
   <!-- EN: เฟอร์นิเจอร์ tab -->
   <Architect_Furniture.label>เมนู เฟอร์นิเจอร์</Architect_Furniture.label>
   
-  <!-- EN: ความสุข tab -->
+  <!-- EN: ผ่อนคลาย tab -->
   <Architect_Joy.label>เมนู ผ่อนคลาย</Architect_Joy.label>
   
-  <!-- EN: อื่นๆ tab -->
+  <!-- EN: เบ็ดเตล็ด tab -->
   <Architect_Misc.label>เมนู เบ็ดเตล็ด</Architect_Misc.label>
   
-  <!-- EN: คำสั่ง tab -->
+  <!-- EN: สั่งการ tab -->
   <Architect_Orders.label>เมนู สั่งการ</Architect_Orders.label>
   
   <!-- EN: พลังงาน tab -->

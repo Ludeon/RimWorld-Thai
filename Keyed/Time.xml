@@ -24,9 +24,9 @@
   <!-- EN: winter -->
   <SeasonWinter>ฤดูหนาว</SeasonWinter>
   <!-- EN: permanent summer -->
-  <SeasonPermanentSummer>ฤดูร้อนตลอดการ</SeasonPermanentSummer>
+  <SeasonPermanentSummer>ฤดูร้อนถาวร</SeasonPermanentSummer>
   <!-- EN: permanent winter -->
-  <SeasonPermanentWinter>ฤดูหนาวตลอดการ</SeasonPermanentWinter>
+  <SeasonPermanentWinter>ฤดูหนาวถาวร</SeasonPermanentWinter>
 
   <!-- EN: Aprimay -->
   <QuadrumAprimay>Aprimay</QuadrumAprimay>

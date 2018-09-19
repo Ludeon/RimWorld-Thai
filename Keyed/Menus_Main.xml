@@ -165,7 +165,7 @@
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
   <ModNotMadeForThisVersion>Mod นี้ไม่ได้ทำขึ้นสำหรับ RimWorld เวอร์ชั่นนี้ และก็คงทำงานไม่ถูกต้อง</ModNotMadeForThisVersion>
   <!-- EN: Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>. -->
-  <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: {0}.</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Drag to reorder -->
   <DragToReorder>ลากเพื่อเรียงลำดับ</DragToReorder>
   
@@ -231,15 +231,15 @@
   <!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
   <ConfirmUnlockExtremeDifficulty>'โหมดไร้ความปราณี' เป็นเกมโหมดพิเศษ ซึ่งเพิ่มความท้าทายทุกอย่างขึ้นเป็นระดับยากสุดโต่ง (extreme)\n\nโหมดไร้ความปราณีจะปลดล็อคอัตโนมัติเองอยู่แล้ว เมื่อคุณเล่นไปถึงเหตุการณ์สำคัญบางอย่าง แต่ว่าคุณสามารถเลือกปลดล็อคในตอนนี้เลยก็ได้ \n\nตัวเลือกนี้ แนะนำเฉพาะคนที่เคยเคลียร์เกมแบบยากสุดมาแล้วซักรอบ-สองรอบ คุณฝีมือขั้นเทพยังต้องการโอกาศล้มเหลวอยู่ แม้ว่าจะเล่นดีแค่ไหนก็ตาม</ConfirmUnlockExtremeDifficulty>
 
-  <!-- Landing site select -->
-  <!-- EN: Select landing site -->
-  <SelectLandingSite>เลือกพื้นที่ลงจอด</SelectLandingSite>
+  <!-- Site select -->
+  <!-- EN: Select starting site -->
+  <SelectStartingSite>TODO</SelectStartingSite>
   <!-- EN: Select random site -->
   <SelectRandomSite>สุ่มเลือกพื้นที่</SelectRandomSite>
   <!-- EN: Select site -->
   <SelectSite>เลือกพื้นที่</SelectSite>
-  <!-- EN: Please select a landing site. -->
-  <MustSelectLandingSite>กรุณาเลือก พื้นที่ลงจอด</MustSelectLandingSite>
+  <!-- EN: Please select a site. -->
+  <MustSelectStartingSite>TODO</MustSelectStartingSite>
   <!-- EN: You cannot land on this biome: {0} -->
   <CannotLandBiome>คุณไม่สามารถลงจอดบนไบโอมนี้ได้: {0}</CannotLandBiome>
   <!-- EN: Biome not implemented -->
@@ -263,7 +263,7 @@
   <!-- EN: River -->
   <River>แม่น้ำ</River>
   <!-- EN: Elevation -->
-  <Elevation>ระดับยกสูง</Elevation>
+  <Elevation>ระดับพื้นยกสูง</Elevation>
   <!-- EN: Fertility -->
   <Fertility>ความสมบูรณ์</Fertility>
   <!-- EN: Average temperature -->
@@ -283,7 +283,7 @@
   <!-- EN: caves -->
   <HasCaves>ถ่ำ</HasCaves>
   <!-- EN: Faction base -->
-  <FactionBase>ฐานของฝักฝ่าย</FactionBase>
+  <FactionBase>ฐานของฝ่าย</FactionBase>
   <!-- EN: Stone types -->
   <StoneTypesHere>ประเภทหิน</StoneTypesHere>
   <!-- EN: Time zone -->

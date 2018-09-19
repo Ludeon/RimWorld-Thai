@@ -37,7 +37,7 @@
   <!-- EN: normal -->
   <StoragePriorityNormal>ปกติ</StoragePriorityNormal>
   <!-- EN: preferred -->
-  <StoragePriorityPreferred>ให้ก่อน</StoragePriorityPreferred>
+  <StoragePriorityPreferred>เลือกก่อน</StoragePriorityPreferred>
   <!-- EN: important -->
   <StoragePriorityImportant>สำคัญ</StoragePriorityImportant>
   <!-- EN: critical -->
@@ -55,9 +55,9 @@
   <!-- EN: animal products -->
   <FoodTypeFlags_AnimalProduct>ผลิตผลจากสัตว์</FoodTypeFlags_AnimalProduct>
   <!-- EN: live plants -->
-  <FoodTypeFlags_Plant>พืชที่มีชีวิต</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Plant>พืชมีชีวิต</FoodTypeFlags_Plant>
   <!-- EN: live trees -->
-  <FoodTypeFlags_Tree>ต้นไม้ที่มีชีวิต</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Tree>ต้นไม้มีชีวิต</FoodTypeFlags_Tree>
   <!-- EN: meals -->
   <FoodTypeFlags_Meal>มื้ออาหาร</FoodTypeFlags_Meal>
   <!-- EN: processed foods -->
@@ -69,13 +69,13 @@
 
   <!-- Quality category -->
   <!-- EN: awful -->
-  <QualityCategory_Awful>ห่วย</QualityCategory_Awful>
+  <QualityCategory_Awful>ห่วยแตก</QualityCategory_Awful>
   <!-- EN: poor -->
-  <QualityCategory_Poor>แย่</QualityCategory_Poor>
+  <QualityCategory_Poor>ย่ำแย่</QualityCategory_Poor>
   <!-- EN: normal -->
   <QualityCategory_Normal>ปกติ</QualityCategory_Normal>
   <!-- EN: good -->
-  <QualityCategory_Good>ดี</QualityCategory_Good>
+  <QualityCategory_Good>งานดี</QualityCategory_Good>
   <!-- EN: excellent -->
   <QualityCategory_Excellent>เป็นเลิศ</QualityCategory_Excellent>
   <!-- EN: masterwork -->
@@ -101,7 +101,7 @@
   <!-- EN: Starving -->
   <HungerLevel_Starving>อดอยาก</HungerLevel_Starving>
   <!-- EN: Urgently hungry -->
-  <HungerLevel_UrgentlyHungry>หิวมาก</HungerLevel_UrgentlyHungry>
+  <HungerLevel_UrgentlyHungry>หิวโซ</HungerLevel_UrgentlyHungry>
   <!-- EN: Hungry -->
   <HungerLevel_Hungry>หิว</HungerLevel_Hungry>
   <!-- EN: Fed -->
@@ -119,7 +119,7 @@
 
   <!-- Hilliness -->
   <!-- EN: flat -->
-  <Hilliness_Flat>ราบ</Hilliness_Flat>
+  <Hilliness_Flat>พื้นราบ</Hilliness_Flat>
   <!-- EN: small hills -->
   <Hilliness_SmallHills>เนินเล็กๆ</Hilliness_SmallHills>
   <!-- EN: large hills -->
@@ -127,25 +127,25 @@
   <!-- EN: mountainous -->
   <Hilliness_Mountainous>ภูเขา</Hilliness_Mountainous>
   <!-- EN: impassable -->
-  <Hilliness_Impassable>พื้นที่เป็นทางตัน</Hilliness_Impassable>
+  <Hilliness_Impassable>ผ่านไม่ได้</Hilliness_Impassable>
   
   <!-- Steam workshop interaction -->
   <!-- EN: Creating -->
   <WorkshopInteractStage_CreatingItem>กำลังสร้าง</WorkshopInteractStage_CreatingItem>
   <!-- EN: Submitting -->
-  <WorkshopInteractStage_SubmittingItem>ส่ง</WorkshopInteractStage_SubmittingItem>
+  <WorkshopInteractStage_SubmittingItem>กำลังส่ง</WorkshopInteractStage_SubmittingItem>
   <!-- EN: Invalid -->
   <EItemUpdateStatus_k_EItemUpdateStatusInvalid>ไม่ถูกต้อง</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
   <!-- EN: Preparing config data -->
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>กำลังเตรียมข้อมูล config</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>กำลังเตรียมข้อมูลคอนฟิก</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
   <!-- EN: Preparing content files -->
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>การจัดเตรียมไฟล์เนื้อหา</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>กำลังเตรียมไฟล์เนื้อหา</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
   <!-- EN: Uploading content -->
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>กำลังอัปโหลดเนื้อหา</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
   <!-- EN: Uploading preview file -->
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>กำลังอัปโหลดไฟล์ดูตัวอย่าง</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>กำลังอัปโหลดไฟล์ดัวอย่าง</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
   <!-- EN: Committing changes -->
-  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>มีการเปลี่ยนแปลง</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>กำลัง commit การเปลี่ยนแปลง</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
   <!-- EN: local folder -->
@@ -155,15 +155,15 @@
   
   <!-- Medical care category -->
   <!-- EN: No medical care -->
-  <MedicalCareCategory_NoCare>ไม่มีการดูแลทางการแพทย์</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoCare>ไม่ได้รับการดูแลทางการแพทย์</MedicalCareCategory_NoCare>
   <!-- EN: Doctor care, but no medicine -->
-  <MedicalCareCategory_NoMeds>ให้แพทย์ดูแล, แต่ไม่ให้ยา</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_NoMeds>ได้รับการดูแลจากแพทย์ แต่ไม่ให้ยา</MedicalCareCategory_NoMeds>
   <!-- EN: Herbal medicine or worse -->
-  <MedicalCareCategory_HerbalOrWorse>ให้ยาสมุนไหรหรือแย่กว่า</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_HerbalOrWorse>ให้ยาสมุนไพรหรือแย่กว่า</MedicalCareCategory_HerbalOrWorse>
   <!-- EN: Industrial-tech medicine or worse -->
   <MedicalCareCategory_NormalOrWorse>ให้ยาสามัญหรือแย่กว่า</MedicalCareCategory_NormalOrWorse>
   <!-- EN: Best quality medicine -->
-  <MedicalCareCategory_Best>ให้ยาคุณภาพเยี่ยมหรือแย่กว่า</MedicalCareCategory_Best>
+  <MedicalCareCategory_Best>ให้ยาคุณภาพดีที่สุด</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
   <!-- EN: Ignore -->
@@ -175,7 +175,7 @@
   
   <!-- HediffGrowthMode -->
   <!-- EN: growing -->
-  <HediffGrowthMode_Growing>กำลังปลูก</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Growing>ปลูกถ่าย</HediffGrowthMode_Growing>
   <!-- EN: stable -->
   <HediffGrowthMode_Stable>คงที่</HediffGrowthMode_Stable>
   <!-- EN: remission -->
@@ -183,9 +183,9 @@
 
   <!-- TechLevel -->
   <!-- EN: animal -->
-  <TechLevel_Animal>สัตว์</TechLevel_Animal>
+  <TechLevel_Animal>ยุคสัตว์</TechLevel_Animal>
   <!-- EN: neolithic -->
-  <TechLevel_Neolithic>ยุคนีโอะลีธอิค</TechLevel_Neolithic>
+  <TechLevel_Neolithic>ยุคหินใหม่</TechLevel_Neolithic>
   <!-- EN: medieval -->
   <TechLevel_Medieval>ยุคสมัยกลาง</TechLevel_Medieval>
   <!-- EN: industrial -->
@@ -195,7 +195,7 @@
   <!-- EN: ultra -->
   <TechLevel_Ultra>อัลตร้า</TechLevel_Ultra>
   <!-- EN: archotech -->
-  <TechLevel_Archotech>TODO</TechLevel_Archotech>
+  <TechLevel_Archotech>Archotech</TechLevel_Archotech>
 
   <!-- Player pawns arrive method -->
   <!-- EN: Standing -->
@@ -215,9 +215,9 @@
   <!-- EN: Show animal names -->
   <ShowAnimalNames>แสดงชื่อสัตว์</ShowAnimalNames>
   <!-- EN: Tame (named only) -->
-  <AnimalNameDisplayMode_TameNamed>เชื่อฟัง (ชื่อเท่านั้น)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameNamed>เชื่อง (เฉพาะชื่อ)</AnimalNameDisplayMode_TameNamed>
   <!-- EN: Tame (all) -->
-  <AnimalNameDisplayMode_TameAll>เชื่อฟัง (ทั้งหมด)</AnimalNameDisplayMode_TameAll>
+  <AnimalNameDisplayMode_TameAll>เชื่อง (ทั้งหมด)</AnimalNameDisplayMode_TameAll>
   
   <!-- Temperature -->
   <!-- EN: Celsius -->
@@ -229,70 +229,70 @@
   
   <!-- Direction8Way -->
   <!-- EN: N -->
-  <Direction8Way_North_Short>ทิศเหนือ</Direction8Way_North_Short>
+  <Direction8Way_North_Short>N</Direction8Way_North_Short>
   <!-- EN: NE -->
-  <Direction8Way_NorthEast_Short>ทิศตะวันออกเฉียงเหนือ</Direction8Way_NorthEast_Short>
+  <Direction8Way_NorthEast_Short>NE</Direction8Way_NorthEast_Short>
   <!-- EN: E -->
-  <Direction8Way_East_Short>ทิศตะวันออก</Direction8Way_East_Short>
+  <Direction8Way_East_Short>E</Direction8Way_East_Short>
   <!-- EN: SE -->
-  <Direction8Way_SouthEast_Short>ทิศตะวันออกเฉียงใต้</Direction8Way_SouthEast_Short>
+  <Direction8Way_SouthEast_Short>SE</Direction8Way_SouthEast_Short>
   <!-- EN: S -->
-  <Direction8Way_South_Short>ทิศใต้</Direction8Way_South_Short>
+  <Direction8Way_South_Short>S</Direction8Way_South_Short>
   <!-- EN: SW -->
-  <Direction8Way_SouthWest_Short>ทิศตะวันตกเฉียงใต้</Direction8Way_SouthWest_Short>
+  <Direction8Way_SouthWest_Short>SW</Direction8Way_SouthWest_Short>
   <!-- EN: W -->
-  <Direction8Way_West_Short>ทิศตะวันตก</Direction8Way_West_Short>
+  <Direction8Way_West_Short>W</Direction8Way_West_Short>
   <!-- EN: NW -->
-  <Direction8Way_NorthWest_Short>ทิศตะวันตกเฉียงเหนือ</Direction8Way_NorthWest_Short>
+  <Direction8Way_NorthWest_Short>NW</Direction8Way_NorthWest_Short>
   
   <!-- Diet category -->
   <!-- EN: Never eats -->
-  <DietCategory_NeverEats>TODO</DietCategory_NeverEats>
+  <DietCategory_NeverEats>ไม่กินอาหาร</DietCategory_NeverEats>
   <!-- EN: Herbivorous -->
-  <DietCategory_Herbivorous>TODO</DietCategory_Herbivorous>
+  <DietCategory_Herbivorous>กินพืช</DietCategory_Herbivorous>
   <!-- EN: Dendrovorous -->
-  <DietCategory_Dendrovorous>TODO</DietCategory_Dendrovorous>
+  <DietCategory_Dendrovorous>กินต้นไม้</DietCategory_Dendrovorous>
   <!-- EN: Ovivorous -->
-  <DietCategory_Ovivorous>TODO</DietCategory_Ovivorous>
+  <DietCategory_Ovivorous>ออกไข่</DietCategory_Ovivorous>
   <!-- EN: Omnivorous -->
-  <DietCategory_Omnivorous>TODO</DietCategory_Omnivorous>
+  <DietCategory_Omnivorous>กินพืชและสัตว์</DietCategory_Omnivorous>
   <!-- EN: Carnivorous -->
-  <DietCategory_Carnivorous>TODO</DietCategory_Carnivorous>
+  <DietCategory_Carnivorous>กินสัตว์</DietCategory_Carnivorous>
   <!-- EN: - -->
-  <DietCategory_NeverEats_Short>TODO</DietCategory_NeverEats_Short>
+  <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
   <!-- EN: H -->
-  <DietCategory_Herbivorous_Short>TODO</DietCategory_Herbivorous_Short>
+  <DietCategory_Herbivorous_Short>พืช</DietCategory_Herbivorous_Short>
   <!-- EN: D -->
-  <DietCategory_Dendrovorous_Short>TODO</DietCategory_Dendrovorous_Short>
+  <DietCategory_Dendrovorous_Short>ไม้</DietCategory_Dendrovorous_Short>
   <!-- EN: Ov -->
-  <DietCategory_Ovivorous_Short>TODO</DietCategory_Ovivorous_Short>
+  <DietCategory_Ovivorous_Short>ไข่</DietCategory_Ovivorous_Short>
   <!-- EN: O -->
-  <DietCategory_Omnivorous_Short>TODO</DietCategory_Omnivorous_Short>
+  <DietCategory_Omnivorous_Short>พ-ส</DietCategory_Omnivorous_Short>
   <!-- EN: C -->
-  <DietCategory_Carnivorous_Short>TODO</DietCategory_Carnivorous_Short>
+  <DietCategory_Carnivorous_Short>สัตว์</DietCategory_Carnivorous_Short>
 
   <!-- Food poison cause -->
   <!-- EN: incompetent cook -->
-  <FoodPoisonCause_IncompetentCook>TODO</FoodPoisonCause_IncompetentCook>
+  <FoodPoisonCause_IncompetentCook>คนครัวไร้ความสามารถ</FoodPoisonCause_IncompetentCook>
   <!-- EN: dirty cooking area -->
-  <FoodPoisonCause_FilthyKitchen>TODO</FoodPoisonCause_FilthyKitchen>
+  <FoodPoisonCause_FilthyKitchen>พื้นที่ทำอาหารสกปรก</FoodPoisonCause_FilthyKitchen>
   <!-- EN: rotten food -->
-  <FoodPoisonCause_Rotten>TODO</FoodPoisonCause_Rotten>
+  <FoodPoisonCause_Rotten>อาหารเน่า</FoodPoisonCause_Rotten>
   <!-- EN: dangerous food type -->
-  <FoodPoisonCause_DangerousFoodType>TODO</FoodPoisonCause_DangerousFoodType>
+  <FoodPoisonCause_DangerousFoodType>อาการประเภทอันตราย</FoodPoisonCause_DangerousFoodType>
 
   <!-- Psychic drone level -->
   <!-- EN: none -->
-  <PsychicDroneLevel_None>TODO</PsychicDroneLevel_None>
+  <PsychicDroneLevel_None>ไม่มี</PsychicDroneLevel_None>
   <!-- EN: medium -->
-  <PsychicDroneLevel_GoodMedium>TODO</PsychicDroneLevel_GoodMedium>
+  <PsychicDroneLevel_GoodMedium>กลาง</PsychicDroneLevel_GoodMedium>
   <!-- EN: low -->
-  <PsychicDroneLevel_BadLow>TODO</PsychicDroneLevel_BadLow>
+  <PsychicDroneLevel_BadLow>ต่ำ</PsychicDroneLevel_BadLow>
   <!-- EN: medium -->
-  <PsychicDroneLevel_BadMedium>TODO</PsychicDroneLevel_BadMedium>
+  <PsychicDroneLevel_BadMedium>กลาง</PsychicDroneLevel_BadMedium>
   <!-- EN: high -->
-  <PsychicDroneLevel_BadHigh>TODO</PsychicDroneLevel_BadHigh>
+  <PsychicDroneLevel_BadHigh>สูง</PsychicDroneLevel_BadHigh>
   <!-- EN: extreme -->
-  <PsychicDroneLevel_BadExtreme>TODO</PsychicDroneLevel_BadExtreme>
+  <PsychicDroneLevel_BadExtreme>สุดๆ</PsychicDroneLevel_BadExtreme>
 
 </LanguageData>

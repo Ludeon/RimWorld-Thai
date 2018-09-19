@@ -4,7 +4,7 @@
   <!-- EN: Autosaving -->
   <Autosaving>เซฟเกมอัตโนมัติ</Autosaving>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
-  <GameStartDialog>ทั้งสามตื่นขึ้นมาในโลงคริพโตสลีป จากเสียงไซเรนและเหล็กที่ฉีกขาด คุณเร่งไปที่พ็อดหลบหนีทันอย่างหวุดวิด ก่อนที่ยานจะฉีกขาดออกเป็นชิ้นเล็กชิ้นน้อย\n\nในเวลาต่อมา คุณลงจอดบนดาวชายขอบอวกาศที่ไม่มีใครทราบ\n\nขณะที่ชิ้นส่วนของยานอวกาศอันแหลกเหลวตกลงมาโดยรอบ คุณเริ่มวางแผนเพื่อจะเอาชีวิตรอด</GameStartDialog>
+  <GameStartDialog>ทั้งสามตื่นขึ้นมาในโลงคริพโตสลีป จากเสียงไซเรนและเหล็กที่ฉีกขาด คุณขึ้นกระสวยหลบหนีทันอย่างหวุดวิด ก่อนที่ยานจะฉีกขาดออกเป็นชิ้นเล็กชิ้นน้อย\n\nในเวลาต่อมา คุณลงจอดบนดาวชายขอบที่ไม่มีใครรู้จัก\n\nขณะที่ชิ้นส่วนของยานอวกาศอันแหลกเหลวตกลงมาโดยรอบ คุณเริ่มวางแผนเพื่อจะเอาชีวิตรอด</GameStartDialog>
   <!-- EN: Colony -->
   <Colony>อาณานิคม</Colony>
   <!-- EN: You can only change language from the options screen on the main menu. -->

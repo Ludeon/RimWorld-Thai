@@ -13,7 +13,7 @@
   
   <!-- EN: heater -->
   <Heater.label>ฮีตเตอร์</Heater.label>
-  <!-- EN: An device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
+  <!-- EN: A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
   <Heater.description>TODO</Heater.description>
   
   <!-- EN: passive cooler -->
