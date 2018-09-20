@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: execution cut -->
-  <ExecutionCut.label>ประหาร</ExecutionCut.label>
+  <ExecutionCut.label>ฟันประหาร</ExecutionCut.label>
   <!-- EN: {0} has been executed by cutting. -->
-  <ExecutionCut.deathMessage>{0} ได้ถูกประหาร</ExecutionCut.deathMessage>
+  <ExecutionCut.deathMessage>{0} ถูกประหารโดยการฟัน</ExecutionCut.deathMessage>
   
   <!-- EN: surgical cut -->
   <SurgicalCut.label>แผลผ่าตัด</SurgicalCut.label>

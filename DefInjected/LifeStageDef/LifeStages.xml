@@ -5,28 +5,28 @@
   <AnimalAdult.label>โตเต็มวัย</AnimalAdult.label>
   
   <!-- EN: baby -->
-  <AnimalBaby.label>วัยทารก</AnimalBaby.label>
+  <AnimalBaby.label>ทารก</AnimalBaby.label>
   
   <!-- EN: baby -->
-  <AnimalBabyTiny.label>วัยทารก</AnimalBabyTiny.label>
+  <AnimalBabyTiny.label>ทารกน้อย</AnimalBabyTiny.label>
   
   <!-- EN: juvenile -->
-  <AnimalJuvenile.label>วัยรุ่น</AnimalJuvenile.label>
+  <AnimalJuvenile.label>วัยเยาว์</AnimalJuvenile.label>
   
   <!-- EN: adult -->
-  <EusocialInsectAdult.label>ตัวเต็มวัย</EusocialInsectAdult.label>
+  <EusocialInsectAdult.label>โตเต็มวัย</EusocialInsectAdult.label>
   
   <!-- EN: immature -->
-  <EusocialInsectJuvenile.label>วัยรุ่น</EusocialInsectJuvenile.label>
+  <EusocialInsectJuvenile.label>ตัวอ่อน</EusocialInsectJuvenile.label>
   
   <!-- EN: larva -->
-  <EusocialInsectLarva.label>ตัวอ่อน</EusocialInsectLarva.label>
+  <EusocialInsectLarva.label>ดักแด้</EusocialInsectLarva.label>
   
   <!-- EN: adult -->
   <HumanlikeAdult.label>ผู้ใหญ่</HumanlikeAdult.label>
   
   <!-- EN: baby -->
-  <HumanlikeBaby.label>วัยทารก</HumanlikeBaby.label>
+  <HumanlikeBaby.label>ทารก</HumanlikeBaby.label>
   
   <!-- EN: child -->
   <HumanlikeChild.label>วัยเด็ก</HumanlikeChild.label>
@@ -37,7 +37,7 @@
   <HumanlikeTeenager.adjective>วัยรุ่น</HumanlikeTeenager.adjective>
   
   <!-- EN: toddler -->
-  <HumanlikeToddler.label>วัยเตาะแตะ</HumanlikeToddler.label>
+  <HumanlikeToddler.label>เด็กเล็ก</HumanlikeToddler.label>
   
   <!-- EN: fully-formed -->
   <MechanoidFullyFormed.label>ร่างสมบูรณ์</MechanoidFullyFormed.label>

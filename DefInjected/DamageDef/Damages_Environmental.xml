@@ -4,7 +4,7 @@
   <!-- EN: burn -->
   <Burn.label>เผา</Burn.label>
   <!-- EN: {0} has burned to death. -->
-  <Burn.deathMessage>{0}  โดนเผาจนตาย</Burn.deathMessage>
+  <Burn.deathMessage>{0} โดนเผาจนตาย</Burn.deathMessage>
   
   <!-- EN: flame -->
   <Flame.label>เปลวไฟ</Flame.label>
@@ -17,8 +17,8 @@
   <Frostbite.deathMessage>{0} ถูกน้ำแข็งกัดจนถึงแก่ความตาย</Frostbite.deathMessage>
   
   <!-- EN: scratch -->
-  <TornadoScratch.label>รอยขีดข่วน</TornadoScratch.label>
+  <TornadoScratch.label>ขีดข่วนจากพายุ</TornadoScratch.label>
   <!-- EN: {0} has been killed by a tornado. -->
-  <TornadoScratch.deathMessage>{0} ถูกรอยขีดข่วนในพายุทอร์นาโด</TornadoScratch.deathMessage>
+  <TornadoScratch.deathMessage>{0} เสียชีวิตในพายุทอร์นาโด</TornadoScratch.deathMessage>
   
 </LanguageData>

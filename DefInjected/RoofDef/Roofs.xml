@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: constructed roof -->
-  <RoofConstructed.label>มีเพดาน</RoofConstructed.label>
+  <RoofConstructed.label>โครงสร้างหลังคา</RoofConstructed.label>
   
   <!-- EN: overhead mountain -->
-  <RoofRockThick.label>มีเพดาน (แบบหนา)</RoofRockThick.label>
+  <RoofRockThick.label>ภูเขาอยู่เหนือหัว</RoofRockThick.label>
   
   <!-- EN: rock roof (thin) -->
-  <RoofRockThin.label>มีเพดาน (แบบบาง)</RoofRockThin.label>
+  <RoofRockThin.label>หลังคาหิน (บาง)</RoofRockThin.label>
   
 </LanguageData>

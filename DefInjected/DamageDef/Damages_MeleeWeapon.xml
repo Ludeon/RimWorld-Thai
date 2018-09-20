@@ -7,9 +7,9 @@
   <Bite.deathMessage>{0} ถูกกัดจนถึงแก่ความตาย</Bite.deathMessage>
   
   <!-- EN: blunt -->
-  <Blunt.label>ทุบ</Blunt.label>
+  <Blunt.label>กระแทก</Blunt.label>
   <!-- EN: {0} has been beaten to death. -->
-  <Blunt.deathMessage>{0} ถูกทุบจนถึงแก่ความตาย</Blunt.deathMessage>
+  <Blunt.deathMessage>{0} ถูกทุบตีจนถึงแก่ความตาย</Blunt.deathMessage>
   
   <!-- EN: crush -->
   <Crush.label>บดขยี้</Crush.label>
@@ -22,14 +22,14 @@
   <Cut.deathMessage>{0} ถูกฟันจนถึงแก่ความตาย</Cut.deathMessage>
   
   <!-- EN: blunt -->
-  <Poke.label>Stich</Poke.label>
+  <Poke.label>กระทุ้ง</Poke.label>
   <!-- EN: {0} has been beaten to death. -->
-  <Poke.deathMessage>{0} wurde erstochen.</Poke.deathMessage>
+  <Poke.deathMessage>{0} ถูกทุบตีจนถึงแก่ความตาย</Poke.deathMessage>
   
   <!-- EN: scratch -->
   <Scratch.label>ตะกุย</Scratch.label>
   <!-- EN: {0} has been torn to death. -->
-  <Scratch.deathMessage>{0} ถูกฉีกจนถึงแก่ความตาย</Scratch.deathMessage>
+  <Scratch.deathMessage>{0} ถูกฉีกตะกุยจนถึงแก่ความตาย</Scratch.deathMessage>
   
   <!-- EN: stab -->
   <Stab.label>แทง</Stab.label>
@@ -37,8 +37,8 @@
   <Stab.deathMessage>{0} ถูกแทงจนถึงแก่ความตาย</Stab.deathMessage>
   
   <!-- EN: toxic bite -->
-  <ToxicBite.label>เคมีกัด</ToxicBite.label>
+  <ToxicBite.label>เขี้ยวพิษ</ToxicBite.label>
   <!-- EN: {0} has been bitten to death. -->
-  <ToxicBite.deathMessage>{0} ถูกเคมีกัดจนถึงแก่ความตาย</ToxicBite.deathMessage>
+  <ToxicBite.deathMessage>{0} ถูกกัดจนถึงแก่ความตาย</ToxicBite.deathMessage>
   
 </LanguageData>

@@ -112,7 +112,7 @@
   <!-- EN: There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
   <ProblemSavingFile>เกิดปัญหาในการบันทึกไฟล์ {0}:\n\n{1}</ProblemSavingFile>
   <!-- EN: Load anyway -->
-  <LoadAnyway>โหลดไม่ว่าอย่างไรก็ตาม</LoadAnyway>
+  <LoadAnyway>โหลดเกมอยู่ดี</LoadAnyway>
   <!-- EN: Load mod list from save -->
   <ChangeLoadedMods>โหลด mod list จาก เซฟ</ChangeLoadedMods>
   <!-- EN: Some mods are unavailable, and need to be installed -->
@@ -156,13 +156,13 @@
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
-  <VersionMismatch>รุ่นไม่ตรงกัน</VersionMismatch>
+  <VersionMismatch>เวอร์ชั่นไม่ตรงกัน</VersionMismatch>
   <!-- EN: This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes. -->
-  <SaveGameIncompatibleWarningText>เซฟแผนที่ด้วยเวอร์ชันเกมแล้ว{0}\nเรากำลังเรียกใช้เวอร์ชันเกม {1}\n\nการโหลดการเซฟนี้อาจทำให้เกิดข้อผิดพลาดและเกิดข้อขัดข้อง</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningText>เซฟเกมด้วยเวอร์ชั่น {0}\nเกมทำงานด้วยเวอร์ชั่น {1}\n\nการโหลดเซฟนี้ อาจจะทำให้เกิดข้อผิดพลาดและแครชได้</SaveGameIncompatibleWarningText>
   <!-- EN: World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch. -->
   <WorldFileVersionMismatch>ไฟล์ทั่วโลกถูกสร้างขึ้นพร้อมกับเวอร์ชันเกม {0}\nเรากำลังเรียกใช้เวอร์ชันเกม {1}\n\nการโหลดโลกใบนี้อาจก่อให้เกิดข้อบกพร่องและล่ม คุณอาจจะสร้างโลกใหม่ตั้งแต่เริ่มต้น</WorldFileVersionMismatch>
   <!-- EN: This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
-  <FileIncompatibleWarning>ไฟล์นี้ได้รับการเซฟด้วยเวอร์ชันเกม {0}\nเรากำลังเรียกใช้เวอร์ชันเกม {1}\n\nการโหลดไฟล์นี้อาจทำให้เกิดข้อบกพร่องและล่ม</FileIncompatibleWarning>
+  <FileIncompatibleWarning>เซฟเกมด้วยเวอร์ชั่น {0}\nเกมทำงานด้วยเวอร์ชั่น {1}\n\nการโหลดเซฟนี้ อาจจะทำให้เกิดข้อผิดพลาดและแครชได้</FileIncompatibleWarning>
   <!-- EN: Mods mismatch -->
   <ModsMismatchWarningTitle>Mods mismatch</ModsMismatchWarningTitle>
   <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
