@@ -40,9 +40,9 @@
   <!-- EN: Born: {0} -->
   <Born>เกิด: {0}</Born>
   <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
-  <AgeChronological>อายุทางกาลภาพ: {0} ปี, {1} ฤดู, {2} วัน</AgeChronological>
+  <AgeChronological>อายุทางกาลภาพ: {0} ปี, {1} ฤดูกาล, {2} วัน</AgeChronological>
   <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
-  <AgeBiological>อายุทางชีวภาพ: {0} ปี, {1} ฤดู, {2} วัน</AgeBiological>
+  <AgeBiological>อายุทางชีวภาพ: {0} ปี, {1} ฤดูกาล, {2} วัน</AgeBiological>
 
   <!-- Date periods -->
   <!-- EN: 1 year -->

@@ -4,17 +4,17 @@
   <!-- EN: Cassandra Classic -->
   <Cassandra.label>คาสซานดร้า ดั้งเดิม (Cassandra Classic)</Cassandra.label>
   <!-- EN: Cassandra creates story events on a classic increasing curve of challenge and tension. She'll push you with dangerous events, then give breathing room, then come back to push once more. -->
-  <Cassandra.description>คาสซานดร้าสร้างเหตุการณ์ เรื่องราว ตามสูตรดั้งเดิมในการเพิ่มระดับความตึงเคลียดและท้าทาย เธอจะดันเหตุการณ์อันตรายให้เกิด จากนั้นให้เวลาหายใจหายคอ จากนั้นก็กลับไปดันเหตุการณ์ให้เกิดอีก</Cassandra.description>
+  <Cassandra.description>คาสซานดร้าสร้างเหตุการณ์ เรื่องราว ตามสูตรดั้งเดิม ค่อยๆเพิ่มระดับความตึงเคลียดและท้าทาย เธอจะดันเหตุการณ์อันตรายให้เกิด จากนั้นให้เวลาหายใจหายคอ จากนั้นก็กลับไปดันเหตุการณ์ให้เกิดอีก</Cassandra.description>
   
   <!-- EN: Phoebe Chillax -->
   <Phoebe.label>โฟบี ตามสบาย (Phoebe Chillax)</Phoebe.label>
   <!-- EN: Phoebe gives lots of time between disasters to build your colony. But beware - at high difficulties, she'll hit as hard as anyone. -->
-  <Phoebe.description>โฟบีเว้นช่วงเวลาให้ยาวนานระหว่างการเกิดภัยพิบัติ เพื่อให้คุณได้สร้างอาณานิคม แต่ระวังไว้ - ในความยากระดับสูงๆ เธอก็จัดหนักไม่แพ้คนอื่นๆเช่นกัน</Phoebe.description>
+  <Phoebe.description>โฟบีเว้นช่วงเวลาให้ยาวนานระหว่างการเกิดภัยพิบัติ เพื่อให้คุณได้สร้างอาณานิคม แต่ระวังไว้ เพราะในความยากระดับสูงๆ เธอก็จัดหนักไม่แพ้คนอื่นๆเช่นกัน</Phoebe.description>
   
   <!-- EN: Randy Random -->
   <Randy.label>แรนดี้ ส่งเดช (Randy Random)</Randy.label>
   <!-- EN: Randy doesn't follow rules. He'll generate random events, and he doesn't care if they make a story of triumph or utter hopelessness. It's all drama to him.\n\nWarning: Since Randy is truly random, he will sometimes send extremely difficult or unfair groups of events at you. It makes for high drama - and unavoidable sacrifices. -->
-  <Randy.description>แรนดี้ไม่ปฏิบัติตามกฎ เขาสร้างเหตุการณ์แบบสุ่มส่งเดช และไม่สนใจว่าจะเป็นเรื่องราวน่าฉลองหรือสิ้นหวัง ทั้งหมดล้วนเร้าใจสำหรับเขา\n\nคำเตือน: เนื่องจากแรนดี้นั้นสุ่มมั่วเอาจริงๆ บางทีเขาจึงส่งอะไรยากๆหรือกลุ่มเหตุการณ์ที่ไม่แฟร์ไปหาคุณ ก็เพื่อดราม่า - และการเสียสละอย่างเลี่ยงไม่ได้</Randy.description>
+  <Randy.description>แรนดี้ไม่ปฏิบัติตามกฎ เขาสร้างเหตุการณ์แบบสุ่มส่งเดช และไม่สนใจว่าจะเป็นเรื่องราวน่าฉลองหรือสิ้นหวัง ทั้งหมดล้วนเร้าใจสำหรับเขา\n\nคำเตือน: เนื่องจากแรนดี้นั้นสุ่มมั่วเอาจริงๆ บางทีเขาจึงส่งอะไรยากๆหรือกลุ่มเหตุการณ์ที่ไม่แฟร์ไปหาคุณ ทั้งหมดเพื่อดราม่าและการสังเวยอันไม่อาจหนี-\nพ้น</Randy.description>
   
   <!-- EN: Tutor Hidden -->
   <Tutor.label>ผู้ฝึกหัดถูกซ่อน</Tutor.label>

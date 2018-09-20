@@ -9,7 +9,7 @@
   <!-- EN: desert -->
   <Desert.label>ทะเลทราย</Desert.label>
   <!-- EN: A very dry area which supports little life. There is very little arable land, and animal life is very sparse. Deserts can be hot, or quite cold. -->
-  <Desert.description>พื้นที่แห้งแล้งมาก ซึ่งไม่อาจค้ำจุนสิ่งชีวิตได้มาก แทบไม่มีผืนดินเหมาะแก่การเพาะปลูก สัตว์ป่าขาดแคลน และทะเลทรายจะร้อนก็ได้ หรือจะเย็นมากก็ได้</Desert.description>
+  <Desert.description>พื้นที่แห้งแล้งมาก ซึ่งไม่อาจค้ำจุนสิ่งมีชีวิตได้มาก แทบไม่มีผืนดินเหมาะแก่การเพาะปลูก สัตว์ป่าขาดแคลน และทะเลทรายจะร้อนก็ได้หรือจะเย็นก็ได้</Desert.description>
   
   <!-- EN: extreme desert -->
   <ExtremeDesert.label>ทะเลทรายสุดขั้ว</ExtremeDesert.label>
