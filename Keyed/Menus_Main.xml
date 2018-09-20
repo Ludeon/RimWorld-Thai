@@ -233,13 +233,13 @@
 
   <!-- Site select -->
   <!-- EN: Select starting site -->
-  <SelectStartingSite>TODO</SelectStartingSite>
+  <SelectStartingSite>เลือกพื้นที่เริ่มต้น</SelectStartingSite>
   <!-- EN: Select random site -->
   <SelectRandomSite>สุ่มเลือกพื้นที่</SelectRandomSite>
   <!-- EN: Select site -->
   <SelectSite>เลือกพื้นที่</SelectSite>
   <!-- EN: Please select a site. -->
-  <MustSelectStartingSite>TODO</MustSelectStartingSite>
+  <MustSelectStartingSite>กรุณาเลือกพื้นที่เริ่มต้น</MustSelectStartingSite>
   <!-- EN: You cannot land on this biome: {0} -->
   <CannotLandBiome>คุณไม่สามารถลงจอดบนไบโอมนี้ได้: {0}</CannotLandBiome>
   <!-- EN: Biome not implemented -->

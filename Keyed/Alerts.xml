@@ -108,9 +108,9 @@
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
   <NeedJoySourceDesc>ใน {1} มีกิจกรรมนันทนาการเพียงแค่ {0} ประเภทให้เลือก โดยจากระดับความคาดหวังในตอนนี้ ({2}) ชาวนิคมต้องการกิจกรรม {3} ประเภทจึงจะพึงพอใจ ควรสร้างกิจกรรมนันทนาการให้สดใหม่และหลากหลาย\n\n{4}\n\n{5}\n\nโน้ต: คุณสามารถเช็คประเภทกิจกรรมที่เกิดจากไอเท็มใดๆ ได้ในหน้าสถิติของไอเท็ม กดปุ่ม 'i' เพื่อเข้าไปดู</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
-  <AvailableRecreationTypes>ชนิดสันทนาการที่มี</AvailableRecreationTypes>
+  <AvailableRecreationTypes>ประเภทสันทนาการที่มี</AvailableRecreationTypes>
   <!-- EN: Missing recreation types -->
-  <MissingRecreationTypes>ชนิดสันทนาการที่ขาด</MissingRecreationTypes>
+  <MissingRecreationTypes>ประเภทสันทนาการที่ขาด</MissingRecreationTypes>
   <!-- EN: At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended. -->
   <CurrentExpectationsAndRecreation>ในระดับความคาดหวังตอนนี้ ({0}) ทุกความอดทนตกลง {1} ต่อวันที่ตื่น แนะนำว่าควรมีสันทนาการ {2} ชนิดขึ้นไป</CurrentExpectationsAndRecreation>
   <!-- EN: bored -->
@@ -119,7 +119,7 @@
   <!-- EN: Boredom -->
   <Boredom>เบื่อหน่าย</Boredom>
   <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2} -->
-  <BoredomDesc>คนเหล่านี้ทั้งมีความต้องการและกำหนดกิจกรรมสันทนาการแล้ว แต่ก็ยังเบื่อๆจากกิจกรรมสันทนาการที่มี\n\n{0}\n\nสรรค์หาสันทนาการที่หลากหลายกว่านี้เพิ่มเติม\n\nชนิดสันทนาการสำหรับ {PAWN_labelShort} ปัจจุบัน:\n\n{2}</BoredomDesc>
+  <BoredomDesc>คนเหล่านี้ทั้งมีความต้องการและกำหนดกิจกรรมสันทนาการแล้ว แต่ก็ยังเบื่อๆจากกิจกรรมสันทนาการที่มี\n\n{0}\n\nสรรค์หาสันทนาการที่หลากหลายกว่านี้เพิ่มเติม\n\nประเภทสันทนาการสำหรับ {PAWN_labelShort} ปัจจุบัน:\n\n{2}</BoredomDesc>
 
   <!-- EN: Need batteries -->
   <NeedBatteries>ต้องการแบตเตอรี่</NeedBatteries>

@@ -34,11 +34,11 @@
   <!-- EN: misc -->
   <SelectionMisc.label>เบ็ดเตล็ด</SelectionMisc.label>
   <!-- EN: Generic controls that are re-used by many items and objects throughout the game. -->
-  <SelectionMisc.description>ปุ่มควบคุมทั่วไปซึ่งถูกนำกลับมาใช้ซ้ำๆ กับไอเท็มหรืออ็อบเจกต์ตลอดทั้งเกม</SelectionMisc.description>
+  <SelectionMisc.description>ปุ่มควบคุมทั่วไปซึ่งถูกนำกลับมาใช้ซ้ำๆ กับไอเท็มหรือวัตถุตลอดทั้งเกม</SelectionMisc.description>
   
   <!-- EN: special -->
   <SelectionSpecial.label>พิเศษ</SelectionSpecial.label>
   <!-- EN: Special controls reserved for specific functions on specific objects. -->
-  <SelectionSpecial.description>ปุ่มควบคุมพิเศษสำหรับฟังชั่นบางอย่างต่ออ็อบเจกต์</SelectionSpecial.description>
+  <SelectionSpecial.description>ปุ่มควบคุมพิเศษสำหรับฟังชั่นบางอย่างต่อวัตถุ</SelectionSpecial.description>
   
 </LanguageData>

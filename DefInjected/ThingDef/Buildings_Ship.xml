@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: ship structural beam -->
-  <Ship_Beam.label>โครงสร้างยาน</Ship_Beam.label>
+  <Ship_Beam.label>โครงสร้างคาน (ยาน)</Ship_Beam.label>
   <!-- EN: A structural beam around which a starship can be constructed. Includes all the necessary conduits and transit pipes for communications, power, and materials transport. -->
   <Ship_Beam.description>TODO</Ship_Beam.description>
   
   <!-- EN: ship computer core -->
-  <Ship_ComputerCore.label>คอมพิวเตอร์ (ยาน)</Ship_ComputerCore.label>
+  <Ship_ComputerCore.label>แกนคอมพิวเตอร์ (ยาน)</Ship_ComputerCore.label>
   <!-- EN: A computer core housing an AI persona who can guide a starship through any challenge during a multi-decade starflight. -->
   <Ship_ComputerCore.description>TODO</Ship_ComputerCore.description>
   
   <!-- EN: ship cryptosleep casket -->
-  <Ship_CryptosleepCasket.label>เครื่องที่นอนแช่แข็ง (ยาน)</Ship_CryptosleepCasket.label>
+  <Ship_CryptosleepCasket.label>โลงคริปโตสลีป (ยาน)</Ship_CryptosleepCasket.label>
   <!-- EN: A cryptosleep casket hardened against the dangers of space. Capable of maintaining a person in cryptosleep for centuries and surviving atmospheric re-entry. -->
   <Ship_CryptosleepCasket.description>TODO</Ship_CryptosleepCasket.description>
   
@@ -27,7 +27,7 @@
   <Ship_Reactor.description>TODO</Ship_Reactor.description>
   
   <!-- EN: sensor cluster -->
-  <Ship_SensorCluster.label>TODO</Ship_SensorCluster.label>
+  <Ship_SensorCluster.label>เซนเซอร์ คลัสเตอร์</Ship_SensorCluster.label>
   <!-- EN: A multi-function sensor module. Can scan and signal across the void for communications, threat detection, deception, jamming, and other purposes. -->
   <Ship_SensorCluster.description>TODO</Ship_SensorCluster.description>
   

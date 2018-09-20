@@ -209,7 +209,7 @@
   <!-- EN: player starting characters -->
   <PawnGenerationContext_PlayerStarter>ตัวละครเริ่มต้นของผู้เล่น</PawnGenerationContext_PlayerStarter>
   <!-- EN: non-player characters -->
-  <PawnGenerationContext_NonPlayer>ตัวละครที่ไม่ใช่ของผู้เล่น</PawnGenerationContext_NonPlayer>
+  <PawnGenerationContext_NonPlayer>ตัวละครที่ผู้เล่นไม่ได้ควบคุม</PawnGenerationContext_NonPlayer>
   
   <!-- Animal name display mode -->
   <!-- EN: Show animal names -->
