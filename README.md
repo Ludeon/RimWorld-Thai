@@ -2,7 +2,7 @@
 
 This is the Thai translation data for RimWorld.
 
-Compatible with RimWorld version: `1.0.2029`
+Compatible with RimWorld version: `1.0.2032`
 
 `Strings` and `Backstories` are not translated yet.
 
@@ -15,7 +15,7 @@ Quick summary from current translation report (w/ notes):
   * :ballot_box_with_check: (0) Def-injected translations load errors
   * :ballot_box_with_check: (0) Backstories load errors
   * :black_square_button: (257) Missing keyed translations
-  * :black_square_button: (4554) Def-injected translations missing
+  * :black_square_button: (4556) Def-injected translations missing
   * :black_square_button: (2055) Backstory translations missing
     > This will be translate last, after all other translations is done, the problem it's simply lack of man-power.
     > 
