@@ -2,57 +2,57 @@
 <LanguageData>
   
   <!-- EN: beetle-like -->
-  <BeetleLike.label>ด้วง</BeetleLike.label>
+  <BeetleLike.label>คล้ายแมลงปีกแข็ง</BeetleLike.label>
   <!-- EN: left elytra -->
-  <BeetleLike.corePart.parts.left_elytra.customLabel>TODO</BeetleLike.corePart.parts.left_elytra.customLabel>
+  <BeetleLike.corePart.parts.left_elytra.customLabel>ปีกซ้าย</BeetleLike.corePart.parts.left_elytra.customLabel>
   <!-- EN: right elytra -->
-  <BeetleLike.corePart.parts.right_elytra.customLabel>TODO</BeetleLike.corePart.parts.right_elytra.customLabel>
+  <BeetleLike.corePart.parts.right_elytra.customLabel>ปีกขวา</BeetleLike.corePart.parts.right_elytra.customLabel>
   <!-- EN: left eye -->
-  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>TODO</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>ตาซ้าย</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
   <!-- EN: right eye -->
-  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>TODO</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>ตาขวา</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
   <!-- EN: left antenna -->
-  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>TODO</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>หนวดซ้าย</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
   <!-- EN: right antenna -->
-  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>TODO</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>หนวดขวา</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
   <!-- EN: front left leg -->
-  <BeetleLike.corePart.parts.front_left_leg.customLabel>TODO</BeetleLike.corePart.parts.front_left_leg.customLabel>
+  <BeetleLike.corePart.parts.front_left_leg.customLabel>ขาซ้ายหน้า</BeetleLike.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front right leg -->
-  <BeetleLike.corePart.parts.front_right_leg.customLabel>TODO</BeetleLike.corePart.parts.front_right_leg.customLabel>
+  <BeetleLike.corePart.parts.front_right_leg.customLabel>ขาขวาหน้า</BeetleLike.corePart.parts.front_right_leg.customLabel>
   <!-- EN: middle left leg -->
-  <BeetleLike.corePart.parts.middle_left_leg.customLabel>TODO</BeetleLike.corePart.parts.middle_left_leg.customLabel>
+  <BeetleLike.corePart.parts.middle_left_leg.customLabel>ขากลางซ้าย</BeetleLike.corePart.parts.middle_left_leg.customLabel>
   <!-- EN: middle right leg -->
-  <BeetleLike.corePart.parts.middle_right_leg.customLabel>TODO</BeetleLike.corePart.parts.middle_right_leg.customLabel>
+  <BeetleLike.corePart.parts.middle_right_leg.customLabel>ขากลางขวา</BeetleLike.corePart.parts.middle_right_leg.customLabel>
   <!-- EN: rear left leg -->
-  <BeetleLike.corePart.parts.rear_left_leg.customLabel>TODO</BeetleLike.corePart.parts.rear_left_leg.customLabel>
+  <BeetleLike.corePart.parts.rear_left_leg.customLabel>ขาหลังซ้าย</BeetleLike.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear right leg -->
-  <BeetleLike.corePart.parts.rear_right_leg.customLabel>TODO</BeetleLike.corePart.parts.rear_right_leg.customLabel>
+  <BeetleLike.corePart.parts.rear_right_leg.customLabel>ขาหลังขวา</BeetleLike.corePart.parts.rear_right_leg.customLabel>
   
   <!-- EN: beetle-like with claw -->
-  <BeetleLikeWithClaw.label>ด้วงมีกรงเล็บ</BeetleLikeWithClaw.label>
+  <BeetleLikeWithClaw.label>คล้ายแมลงปีกแข็งมีกรงเล็บ</BeetleLikeWithClaw.label>
   <!-- EN: left elytra -->
-  <BeetleLikeWithClaw.corePart.parts.left_elytra.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.left_elytra.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.left_elytra.customLabel>ปีกซ้าย</BeetleLikeWithClaw.corePart.parts.left_elytra.customLabel>
   <!-- EN: right elytra -->
-  <BeetleLikeWithClaw.corePart.parts.right_elytra.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.right_elytra.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.right_elytra.customLabel>ปีกขวา</BeetleLikeWithClaw.corePart.parts.right_elytra.customLabel>
   <!-- EN: left eye -->
-  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>ตาซ้าย</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
   <!-- EN: right eye -->
-  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>ตาขวา</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
   <!-- EN: left antenna -->
-  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>หนวดซ้าย</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
   <!-- EN: right antenna -->
-  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>หนวดขวา</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
   <!-- EN: front left leg -->
-  <BeetleLikeWithClaw.corePart.parts.front_left_leg.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.front_left_leg.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.front_left_leg.customLabel>ขาซ้ายหน้า</BeetleLikeWithClaw.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front right leg -->
-  <BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>ขาขวาหน้า</BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>
   <!-- EN: middle left leg -->
-  <BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>ขากลางซ้าย</BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>
   <!-- EN: middle right leg -->
-  <BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>ขากลางขวา</BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>
   <!-- EN: rear left leg -->
-  <BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>ขาหลังซ้าย</BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear right leg -->
-  <BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>ขาหลังขวา</BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>
   
 </LanguageData>

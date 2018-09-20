@@ -4,11 +4,11 @@
   <!-- EN: lake -->
   <Lake.label>ทะเลสาป</Lake.label>
   <!-- EN: A large lake. Beautiful to live next to. Not so beautiful to live in. -->
-  <Lake.description>ทะเลสาบขนาดใหญ่ มันเป็นสิ่งที่ดีมากที่จะอาศัยอยู่ในทะเลสาบ,สวยน้อยลงในทะเลสาบ</Lake.description>
+  <Lake.description>ทะเลสาบขนาดใหญ่ งดงามเมื่อตอนอาศัยใกล้น้ำ - ไม่ค่อยจะงดงามเมื่อตอนอาศัยในน้ำ</Lake.description>
   
   <!-- EN: ocean -->
   <Ocean.label>มหาสมุทร</Ocean.label>
   <!-- EN: Open ocean. Great for fish. Not so great for you. -->
-  <Ocean.description>มหาสมุทรเปิด เยี่ยมสำหรับปลา - ไม่ค่อยเยี่ยมสำหรับคุณ</Ocean.description>
+  <Ocean.description>มหาสมุทรเปิด สุดยอดสำหรับปลา - ไม่ค่อยยอดสำหรับคุณ</Ocean.description>
   
 </LanguageData>

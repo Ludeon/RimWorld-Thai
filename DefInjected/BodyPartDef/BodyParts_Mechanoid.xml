@@ -5,78 +5,78 @@
   <ArtificialBrain.label>สมองกล</ArtificialBrain.label>
   
   <!-- EN: blade -->
-  <Blade.label>TODO</Blade.label>
+  <Blade.label>ใบมีด</Blade.label>
   
   <!-- EN: fluid reprocessor -->
-  <FluidReprocessor.label>TODO</FluidReprocessor.label>
+  <FluidReprocessor.label>หน่วบประมวลของเหลว</FluidReprocessor.label>
   
   <!-- EN: sound sensor -->
-  <HearingSensor.label>TODO</HearingSensor.label>
+  <HearingSensor.label>เซนเซอร์เสียง</HearingSensor.label>
   
   <!-- EN: arm -->
-  <MechanicalArm.label>TODO</MechanicalArm.label>
+  <MechanicalArm.label>แขน</MechanicalArm.label>
   
   <!-- EN: fifth body ring -->
   <MechanicalCentipedeBodyFifthRing.label>ลำตัวปล้องที่ห้า</MechanicalCentipedeBodyFifthRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodyFifthRing.labelShort>TODO</MechanicalCentipedeBodyFifthRing.labelShort>
+  <MechanicalCentipedeBodyFifthRing.labelShort>ลำตัว</MechanicalCentipedeBodyFifthRing.labelShort>
   
   <!-- EN: first body ring -->
   <MechanicalCentipedeBodyFirstRing.label>ลำตัวปล้องที่หนึ่ง</MechanicalCentipedeBodyFirstRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodyFirstRing.labelShort>TODO</MechanicalCentipedeBodyFirstRing.labelShort>
+  <MechanicalCentipedeBodyFirstRing.labelShort>ลำตัว</MechanicalCentipedeBodyFirstRing.labelShort>
   
   <!-- EN: fourth body ring -->
   <MechanicalCentipedeBodyFourthRing.label>ลำตัวปล้องที่สี่</MechanicalCentipedeBodyFourthRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodyFourthRing.labelShort>TODO</MechanicalCentipedeBodyFourthRing.labelShort>
+  <MechanicalCentipedeBodyFourthRing.labelShort>ลำตัว</MechanicalCentipedeBodyFourthRing.labelShort>
   
   <!-- EN: second body ring -->
   <MechanicalCentipedeBodySecondRing.label>ลำตัวปล้องที่สอง</MechanicalCentipedeBodySecondRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodySecondRing.labelShort>TODO</MechanicalCentipedeBodySecondRing.labelShort>
+  <MechanicalCentipedeBodySecondRing.labelShort>ลำตัว</MechanicalCentipedeBodySecondRing.labelShort>
   
   <!-- EN: sixth body ring -->
   <MechanicalCentipedeBodySixthRing.label>ลำตัวปล้องที่หก</MechanicalCentipedeBodySixthRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodySixthRing.labelShort>TODO</MechanicalCentipedeBodySixthRing.labelShort>
+  <MechanicalCentipedeBodySixthRing.labelShort>ลำตัว</MechanicalCentipedeBodySixthRing.labelShort>
   
   <!-- EN: third body ring -->
   <MechanicalCentipedeBodyThirdRing.label>ลำตัวปล้องที่สาม</MechanicalCentipedeBodyThirdRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodyThirdRing.labelShort>TODO</MechanicalCentipedeBodyThirdRing.labelShort>
+  <MechanicalCentipedeBodyThirdRing.labelShort>ลำตัว</MechanicalCentipedeBodyThirdRing.labelShort>
   
   <!-- EN: finger -->
-  <MechanicalFinger.label>TODO</MechanicalFinger.label>
+  <MechanicalFinger.label>นิ้ว</MechanicalFinger.label>
   
   <!-- EN: foot -->
-  <MechanicalFoot.label>TODO</MechanicalFoot.label>
+  <MechanicalFoot.label>เท้า</MechanicalFoot.label>
   
   <!-- EN: hand -->
-  <MechanicalHand.label>TODO</MechanicalHand.label>
+  <MechanicalHand.label>มือ</MechanicalHand.label>
   
   <!-- EN: head -->
   <MechanicalHead.label>หัว</MechanicalHead.label>
   
   <!-- EN: leg -->
-  <MechanicalLeg.label>TODO</MechanicalLeg.label>
+  <MechanicalLeg.label>ขา</MechanicalLeg.label>
   
   <!-- EN: neck -->
   <MechanicalNeck.label>คอ</MechanicalNeck.label>
   
   <!-- EN: shoulder -->
-  <MechanicalShoulder.label>TODO</MechanicalShoulder.label>
+  <MechanicalShoulder.label>ไหล่</MechanicalShoulder.label>
   
   <!-- EN: thorax -->
   <MechanicalThorax.label>หน้าอก</MechanicalThorax.label>
   
   <!-- EN: reactor -->
-  <Reactor.label>TODO</Reactor.label>
+  <Reactor.label>เตาปฏิกรณ์</Reactor.label>
   
   <!-- EN: visual sensor -->
-  <SightSensor.label>TODO</SightSensor.label>
+  <SightSensor.label>เซนเซอร์ภาพ</SightSensor.label>
   
   <!-- EN: chemical analyzer -->
-  <SmellSensor.label>เซนเซอร์รับกลิ่น</SmellSensor.label>
+  <SmellSensor.label>เซนเซอร์เคมี</SmellSensor.label>
   
 </LanguageData>

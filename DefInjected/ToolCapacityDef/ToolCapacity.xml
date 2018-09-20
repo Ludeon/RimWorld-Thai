@@ -3,16 +3,16 @@
   
   <Bite.label>กัด</Bite.label>
   
-  <Blunt.label>ทุบ</Blunt.label>
+  <Blunt.label>กระแทก</Blunt.label>
   
   <Cut.label>ฟัน</Cut.label>
   
-  <Poke.label>สะกิด</Poke.label>
+  <Poke.label>กระทุ้ง</Poke.label>
   
-  <Scratch.label>ขวน</Scratch.label>
+  <Scratch.label>ตะกุย</Scratch.label>
   
   <Stab.label>แทง</Stab.label>
   
-  <ToxicBite.label>กัดพิษ</ToxicBite.label>
+  <ToxicBite.label>เขี้ยวพิษ</ToxicBite.label>
   
 </LanguageData>

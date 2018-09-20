@@ -5,22 +5,22 @@
   <Brain.label>สมอง</Brain.label>
   
   <!-- EN: ear -->
-  <Ear.label>TODO</Ear.label>
+  <Ear.label>หู</Ear.label>
   
   <!-- EN: eye -->
-  <Eye.label>TODO</Eye.label>
+  <Eye.label>ตา</Eye.label>
   
   <!-- EN: foot -->
-  <Foot.label>TODO</Foot.label>
+  <Foot.label>เท้า</Foot.label>
   
   <!-- EN: head -->
   <Head.label>หัว</Head.label>
   
   <!-- EN: jaw -->
-  <Jaw.label>ขากรรไกร</Jaw.label>
+  <Jaw.label>กราม</Jaw.label>
   
   <!-- EN: leg -->
-  <Leg.label>TODO</Leg.label>
+  <Leg.label>ขา</Leg.label>
   
   <!-- EN: neck -->
   <Neck.label>คอ</Neck.label>
@@ -35,6 +35,6 @@
   <Skull.label>กระโหลก</Skull.label>
   
   <!-- EN: spine -->
-  <Spine.label>กระดูกสันหลัง</Spine.label>
+  <Spine.label>สันหลัง</Spine.label>
   
 </LanguageData>

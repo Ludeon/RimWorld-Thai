@@ -5,15 +5,15 @@
   <Heart.label>หัวใจ</Heart.label>
   
   <!-- EN: kidney -->
-  <Kidney.label>TODO</Kidney.label>
+  <Kidney.label>ไต</Kidney.label>
   
   <!-- EN: liver -->
   <Liver.label>ตับ</Liver.label>
   
   <!-- EN: lung -->
-  <Lung.label>TODO</Lung.label>
+  <Lung.label>ปอด</Lung.label>
   
   <!-- EN: stomach -->
-  <Stomach.label>กระเพาะอาหาร</Stomach.label>
+  <Stomach.label>กระเพาะ</Stomach.label>
   
 </LanguageData>

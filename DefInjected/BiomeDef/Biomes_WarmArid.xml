@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: arid shrubland -->
-  <AridShrubland.label>ทุ่งไม้พุ่มแล้ง</AridShrubland.label>
+  <AridShrubland.label>ทุ่งแล้งไม้พุ่ม</AridShrubland.label>
   <!-- EN: A dry region, but not dry enough to become a true desert. Open plains with grasses and bushes give way to scattered groves of trees. Plants are hardy and there is a moderate density of animals, but arable soil is hard to find. -->
-  <AridShrubland.description>เขตแห้งแล้ง แต่ไม่แห้งพอที่จะเป็นทะเลทราบอย่างแท้จริง เป็นทุ่งราบเปิดที่มีหญ้าและพุ่มไม้ที่พอจะมีต้นไม้ขึ้นกระจายอยู่ทั่วไป ต้นไม้นั้นทนทานและมีสัตว์อาศัยอยู่ปานกลาง</AridShrubland.description>
+  <AridShrubland.description>ภูมิภาคแห้งแล้ง แต่ไม่แห้งพอจะเป็นทะเลทรายแท้ เป็นทุ่งราบเปิดมีหญ้าและพุ่มไม้กระจัดกระจาย เปิดทางให้โกงกางต้นไม้เติบโต ต้นไม้เหล่านี้ทนทาน และยังมีสัตว์อาศัยอยู่หนาแน่นพอสมควร แต่ยากจะหาผืนดินเหมาะแก่การเพาะปลูก</AridShrubland.description>
   
   <!-- EN: desert -->
   <Desert.label>ทะเลทราย</Desert.label>
   <!-- EN: A very dry area which supports little life. There is very little arable land, and animal life is very sparse. Deserts can be hot, or quite cold. -->
-  <Desert.description>แห้งแล้งมาก, เป็นพื้นที่ร้อนที่พยุงชีวิตได้ไม่มากนัก</Desert.description>
+  <Desert.description>พื้นที่แห้งแล้งมาก ซึ่งไม่อาจค้ำจุนสิ่งชีวิตได้มาก แทบไม่มีผืนดินเหมาะแก่การเพาะปลูก สัตว์ป่าขาดแคลน และทะเลทรายจะร้อนก็ได้ หรือจะเย็นมากก็ได้</Desert.description>
   
   <!-- EN: extreme desert -->
   <ExtremeDesert.label>ทะเลทรายสุดขั้ว</ExtremeDesert.label>
   <!-- EN: An extremely hot, dry area, devoid of almost all life. Searing heat and a near total lack of arable land make it very difficult to survive here. -->
-  <ExtremeDesert.description>ร้อนอย่างสุดๆ, พื้นที่แห้งแล้ง, แทบจะไร้ซึ่งสิ่งมีชีวิตทั้งมวล ความร้อนอันเวิ้งว้างและพืชที่จำกัด ทำให้ยากมากที่จะอยู่รอดที่นี่, แม้แต่สัตว์ที่ปรับตัวอย่างดีแล้วก็ตาม</ExtremeDesert.description>
+  <ExtremeDesert.description>พื้นที่ร้อนสุดๆ แห้งแล้ง แทบจะไร้ซึ่งสิ่งมีชีวิตทั้งมวล ด้วยไอความร้อนและขาดผืนดินเหมาะแก่การเพาะปลูก ทำให้ยากมากๆจะอยู่รอดที่นี่</ExtremeDesert.description>
   
 </LanguageData>

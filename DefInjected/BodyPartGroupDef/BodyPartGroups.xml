@@ -5,46 +5,46 @@
   <Arms.label>แขน</Arms.label>
   
   <!-- EN: beak -->
-  <Beak.label>จงอยปากนก</Beak.label>
+  <Beak.label>จะงอยปาก</Beak.label>
   
   <!-- EN: eyes -->
-  <Eyes.label>นัยน์ตา</Eyes.label>
+  <Eyes.label>ตา</Eyes.label>
   
   <!-- EN: feet -->
   <Feet.label>เท้า</Feet.label>
   
   <!-- EN: front left claws -->
-  <FrontLeftClaws.label>กรงเล็บหน้าข้างซ้าย</FrontLeftClaws.label>
+  <FrontLeftClaws.label>กรงเล็บหน้าซ้าย</FrontLeftClaws.label>
   <!-- EN: claws -->
-  <FrontLeftClaws.labelShort>TODO</FrontLeftClaws.labelShort>
+  <FrontLeftClaws.labelShort>กรงเล็บ</FrontLeftClaws.labelShort>
   
   <!-- EN: front left leg -->
-  <FrontLeftLeg.label>เท้าหน้าข้างซ้าย</FrontLeftLeg.label>
+  <FrontLeftLeg.label>ขาหน้าซ้าย</FrontLeftLeg.label>
   <!-- EN: leg -->
-  <FrontLeftLeg.labelShort>TODO</FrontLeftLeg.labelShort>
+  <FrontLeftLeg.labelShort>ขา</FrontLeftLeg.labelShort>
   
   <!-- EN: front left paw -->
-  <FrontLeftPaw.label>อุ้งเท้าหน้าข้างซ้าย</FrontLeftPaw.label>
+  <FrontLeftPaw.label>อุ้งเท้าหน้าซ้าย</FrontLeftPaw.label>
   <!-- EN: paw -->
-  <FrontLeftPaw.labelShort>TODO</FrontLeftPaw.labelShort>
+  <FrontLeftPaw.labelShort>อุ้งเท้า</FrontLeftPaw.labelShort>
   
   <!-- EN: front right claws -->
-  <FrontRightClaws.label>กรงเล็บหน้าข้างขวา</FrontRightClaws.label>
+  <FrontRightClaws.label>กรงเล็บหน้าขวา</FrontRightClaws.label>
   <!-- EN: claws -->
-  <FrontRightClaws.labelShort>TODO</FrontRightClaws.labelShort>
+  <FrontRightClaws.labelShort>กรงเล็บ</FrontRightClaws.labelShort>
   
   <!-- EN: front right leg -->
-  <FrontRightLeg.label>เท้าหน้าข้างขวา</FrontRightLeg.label>
+  <FrontRightLeg.label>ขาหน้าขวา</FrontRightLeg.label>
   <!-- EN: leg -->
-  <FrontRightLeg.labelShort>TODO</FrontRightLeg.labelShort>
+  <FrontRightLeg.labelShort>ขา</FrontRightLeg.labelShort>
   
   <!-- EN: front right paw -->
-  <FrontRightPaw.label>อุ้งเท้าหน้าข้างขวา</FrontRightPaw.label>
+  <FrontRightPaw.label>อุ้งเท้าหน้าขวา</FrontRightPaw.label>
   <!-- EN: paw -->
-  <FrontRightPaw.labelShort>TODO</FrontRightPaw.labelShort>
+  <FrontRightPaw.labelShort>อุ้งเท้า</FrontRightPaw.labelShort>
   
   <!-- EN: full head -->
-  <FullHead.label>หัวทั้งหัว</FullHead.label>
+  <FullHead.label>ทั้งหัว</FullHead.label>
   
   <!-- EN: hands -->
   <Hands.label>มือ</Hands.label>
@@ -61,12 +61,12 @@
   <!-- EN: left blade -->
   <LeftBlade.label>ใบมีดซ้าย</LeftBlade.label>
   <!-- EN: blade -->
-  <LeftBlade.labelShort>TODO</LeftBlade.labelShort>
+  <LeftBlade.labelShort>ใบมีด</LeftBlade.labelShort>
   
   <!-- EN: left fist -->
-  <LeftHand.label>มือซ้าย</LeftHand.label>
+  <LeftHand.label>หมัดซ้าย</LeftHand.label>
   <!-- EN: fist -->
-  <LeftHand.labelShort>TODO</LeftHand.labelShort>
+  <LeftHand.labelShort>หมัด</LeftHand.labelShort>
   
   <!-- EN: legs -->
   <Legs.label>ขา</Legs.label>
@@ -80,12 +80,12 @@
   <!-- EN: right blade -->
   <RightBlade.label>ใบมีดขวา</RightBlade.label>
   <!-- EN: blade -->
-  <RightBlade.labelShort>TODO</RightBlade.labelShort>
+  <RightBlade.labelShort>ใบมีด</RightBlade.labelShort>
   
   <!-- EN: right fist -->
-  <RightHand.label>มือขวา</RightHand.label>
+  <RightHand.label>หมัดขวา</RightHand.label>
   <!-- EN: fist -->
-  <RightHand.labelShort>TODO</RightHand.labelShort>
+  <RightHand.labelShort>หมัด</RightHand.labelShort>
   
   <!-- EN: shoulders -->
   <Shoulders.label>ไหล่</Shoulders.label>
@@ -97,10 +97,10 @@
   <Torso.label>ลำตัว</Torso.label>
   
   <!-- EN: beak -->
-  <TurtleBeakAttackTool.label>จงอยปาก</TurtleBeakAttackTool.label>
+  <TurtleBeakAttackTool.label>จะงอยปาก</TurtleBeakAttackTool.label>
   
   <!-- EN: tusks -->
-  <TuskAttackTool.label>งา</TuskAttackTool.label>
+  <TuskAttackTool.label>เขี้ยว</TuskAttackTool.label>
   
   <!-- EN: upper head -->
   <UpperHead.label>หัวส่วนบน</UpperHead.label>

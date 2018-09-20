@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: ambush -->
-  <Ambush.label>ที่ซุ่มโจมตี</Ambush.label>
+  <Ambush.label>โดนดักซุ่ม</Ambush.label>
   <!-- EN: An ongoing ambush battle. -->
-  <Ambush.description>บนการใช้การโจมตีจากการซุ่มโจมตี</Ambush.description>
+  <Ambush.description>กำลังต่อสู้ในศึกซุ่มโจมตี</Ambush.description>
   
 </LanguageData>

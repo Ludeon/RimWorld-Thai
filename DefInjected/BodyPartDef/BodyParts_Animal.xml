@@ -2,30 +2,31 @@
 <LanguageData>
   
   <!-- EN: jaw -->
-  <AnimalJaw.label>ลำคอ</AnimalJaw.label>
+  <AnimalJaw.label>กราม</AnimalJaw.label>
   
   <!-- EN: antenna -->
-  <Antenna.label>TODO</Antenna.label>
+  <Antenna.label>หนวด</Antenna.label>
   
   <!-- EN: beak -->
-  <Beak.label>จงอยปาก</Beak.label>
+  <Beak.label>จะงอยปาก</Beak.label>
   
   <!-- EN: body -->
   <Body.label>ลำตัว</Body.label>
   
   <!-- EN: elytra -->
-  <Elytra.label>TODO</Elytra.label>
+  <Elytra.label>ปีกแข็ง</Elytra.label>
   
   <!-- EN: front claw -->
-  <FrontClaw.label>TODO</FrontClaw.label>
+  <FrontClaw.label>กรงเล็บหน้า</FrontClaw.label>
+
   <!-- EN: claw -->
-  <FrontClaw.labelShort>TODO</FrontClaw.labelShort>
+  <FrontClaw.labelShort>กรงเล็บ</FrontClaw.labelShort>
   
   <!-- EN: head claw -->
   <HeadClaw.label>หัวกรงเล็บ</HeadClaw.label>
   
   <!-- EN: hoof -->
-  <Hoof.label>TODO</Hoof.label>
+  <Hoof.label>กีบ</Hoof.label>
   
   <!-- EN: horn -->
   <Horn.label>เขา</Horn.label>
@@ -40,19 +41,19 @@
   <InsectHeart.label>หัวใจแมลง</InsectHeart.label>
   
   <!-- EN: leg -->
-  <InsectLeg.label>TODO</InsectLeg.label>
+  <InsectLeg.label>ขาแมลง</InsectLeg.label>
   
   <!-- EN: mouth -->
   <InsectMouth.label>ปากแมลง</InsectMouth.label>
   
   <!-- EN: nostril -->
-  <InsectNostril.label>จมูกแมลง</InsectNostril.label>
+  <InsectNostril.label>รูจมูกแมลง</InsectNostril.label>
   
   <!-- EN: jowl -->
   <Jowl.label>แก้ม</Jowl.label>
   
   <!-- EN: paw -->
-  <Paw.label>TODO</Paw.label>
+  <Paw.label>อุ้งเท้า</Paw.label>
   
   <!-- EN: plastron -->
   <Plastron.label>พลาสตรอน</Plastron.label>
@@ -61,9 +62,10 @@
   <Pronotum.label>โปรโนตัม</Pronotum.label>
   
   <!-- EN: rear claw -->
-  <RearClaw.label>TODO</RearClaw.label>
+  <RearClaw.label>กรงเล็บหลัง</RearClaw.label>
+
   <!-- EN: claw -->
-  <RearClaw.labelShort>TODO</RearClaw.labelShort>
+  <RearClaw.labelShort>กรงเล็บ</RearClaw.labelShort>
   
   <!-- EN: shell -->
   <Shell.label>กระดอง</Shell.label>
@@ -84,12 +86,12 @@
   <Trunk.label>งวง</Trunk.label>
   
   <!-- EN: beak -->
-  <TurtleBeak.label>จงอยปากเต่า</TurtleBeak.label>
+  <TurtleBeak.label>จะงอยปากเต่า</TurtleBeak.label>
   
   <!-- EN: shell -->
   <TurtleShell.label>กระดองเต่า</TurtleShell.label>
   
   <!-- EN: tusk -->
-  <Tusk.label>TODO</Tusk.label>
+  <Tusk.label>เขี้ยว</Tusk.label>
   
 </LanguageData>

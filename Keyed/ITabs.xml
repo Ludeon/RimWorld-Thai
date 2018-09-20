@@ -159,7 +159,7 @@
   <!-- EN: Self-tend -->
   <SelfTend>รักษาตัวเอง</SelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
-  <SelfTendTip>{0} เปิดใช้งานให้รักษาตัวเองอัตโนมัติ จะรักษาด้วยตัวเอง ณ ตรงนั้น ที่ {1} ของประสิทธิภาพโดยปกติ</SelfTendTip>
+  <SelfTendTip>เปิดให้{0}รักษาด้วยตนเองโดยอัตโนมัติในสถานที่นั้นเลย มีผล {1} ของประสิทธิภาพการรักษาปกติ</SelfTendTip>
   
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
