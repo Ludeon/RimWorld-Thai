@@ -12,5 +12,9 @@
       <roleKey>Credit_Translator</roleKey>
       <creditee>Nutnoppachai Wuttiwaranon</creditee>
     </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Panithan Tangchitwiriyakun (@hapnait)</creditee>
+    </li>
   </credits>
 </LanguageInfo>
