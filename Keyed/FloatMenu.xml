@@ -26,7 +26,7 @@
   <!-- EN: out of range -->
   <OutOfRange>เกินระยะ</OutOfRange>
   <!-- EN: too close -->
-  <TooClose>TODO</TooClose>
+  <TooClose>ใกล้เกินไป</TooClose>
   <!-- EN: cannot hit target -->
   <CannotHitTarget>ไม่สามารถยิงเป้าหมายได้</CannotHitTarget>
   <!-- EN: {1_labelShort} is incapable of violence -->
@@ -61,19 +61,19 @@
   <!-- EN: no empty, accessible spot configured to store it -->
   <NoEmptyPlaceLower>ไม่มีสถานที่ว่างที่กำหนดค่าไว้</NoEmptyPlaceLower>
   <!-- EN: no stack available to merge into -->
-  <NoMergeTarget>TODO</NoMergeTarget>
+  <NoMergeTarget>ไม่มีกองที่จะรวมเข้าด้วยกัน</NoMergeTarget>
   <!-- EN: already filled enough -->
   <AlreadyFilledLower>เต็มไปหมดแล้ว</AlreadyFilledLower>
   <!-- EN: need material -->
   <MissingMaterials>ไม่มี materials</MissingMaterials>
   <!-- EN: under required skill {0} -->
-  <UnderRequiredSkill>TODO</UnderRequiredSkill>
+  <UnderRequiredSkill>ทักษะเรียกร้องต่ำกว่า {0}</UnderRequiredSkill>
   <!-- EN: under allowed skill {0} -->
-  <UnderAllowedSkill>TODO</UnderAllowedSkill>
+  <UnderAllowedSkill>ทักษะอณุญาตต่ำกว่า {0}</UnderAllowedSkill>
   <!-- EN: above allowed skill {0} -->
-  <AboveAllowedSkill>TODO</AboveAllowedSkill>
+  <AboveAllowedSkill>ทักษะอณุญาตสูงกว่า {0}</AboveAllowedSkill>
   <!-- EN: missing required skill level -->
-  <MissingRequiredSkillLevel>TODO</MissingRequiredSkillLevel>
+  <MissingRequiredSkillLevel>เลเวลน้อยไปสำหรับทักษะที่เรียกร้อง</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
   <AnimalInteractedTooRecently>เมื่อเร็ว ๆ นี้ความสัมพันธ์ของสัตว์มากเกินไป</AnimalInteractedTooRecently>
   <!-- EN: no usable food -->
@@ -83,11 +83,11 @@
   <!-- EN: animals skill too low - need {0} -->
   <AnimalsSkillTooLow>สัตว์ทักษะต่ำเกินไป - ต้องการ {0}</AnimalsSkillTooLow>
   <!-- EN: animal downed -->
-  <CantInteractAnimalDowned>TODO</CantInteractAnimalDowned>
+  <CantInteractAnimalDowned>สัตว์ล้ม</CantInteractAnimalDowned>
   <!-- EN: animal sleeping -->
-  <CantInteractAnimalAsleep>TODO</CantInteractAnimalAsleep>
+  <CantInteractAnimalAsleep>สัตว์กำลังหลับ</CantInteractAnimalAsleep>
   <!-- EN: animal busy -->
-  <CantInteractAnimalBusy>TODO</CantInteractAnimalBusy>
+  <CantInteractAnimalBusy>สัตว์ไม่ว่าง</CantInteractAnimalBusy>
   <!-- EN: construction skill too low -->
   <ConstructionSkillTooLow>ทักษะการก่อสร้างต่ำเกินไป</ConstructionSkillTooLow>
   <!-- EN: need components -->
@@ -109,17 +109,17 @@
   <!-- EN: not ready for surgery -->
   <NotSurgeryReady>ไม่พร้อมสำหรับการผ่าตัด</NotSurgeryReady>
   <!-- EN: skill incapable -->
-  <SkillDisabled>TODO</SkillDisabled>
+  <SkillDisabled>ทักษะไม่ถึง</SkillDisabled>
   <!-- EN: too bright -->
   <CantSowCavePlantBecauseOfLight>สว่างเกินไป</CantSowCavePlantBecauseOfLight>
   <!-- EN: unroofed -->
   <CantSowCavePlantBecauseUnroofed>ไร้หลังคา</CantSowCavePlantBecauseUnroofed>
   <!-- EN: incapable of deconstruction -->
-  <IncapableOfDeconstruction>TODO</IncapableOfDeconstruction>
+  <IncapableOfDeconstruction>ไร้ความสามารถในการรื้อถอน</IncapableOfDeconstruction>
   <!-- EN: incapable of mining -->
-  <IncapableOfMining>TODO</IncapableOfMining>
+  <IncapableOfMining>ไร้ความสามารถในการขุดเหมือง</IncapableOfMining>
   <!-- EN: angers faction -->
-  <AngersFaction>TODO</AngersFaction>
+  <AngersFaction>ทำให้ฝ่ายโมโห</AngersFaction>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>บริโภค {1_labelShort}</ConsumeThing>
@@ -183,7 +183,7 @@
   <!-- EN: Cannot equip {0} -->
   <CannotEquip>ไม่สามารถสวม {0} ได้</CannotEquip>
   <!-- EN: Cannot man {1_labelShort} -->
-  <CannotManThing>TODO</CannotManThing>
+  <CannotManThing>ไม่สามารถประทับ {1_labelShort}</CannotManThing>
   
   <!-- EN: Force wear {1_labelShort} -->
   <ForceWear>บังคับให้ใส่ {1_labelShort}</ForceWear>
@@ -219,26 +219,26 @@
   <GiveToPackAnimalCount>เอา {1_labelShort} x{{0}}</GiveToPackAnimalCount>
   
   <!-- EN: Cannot load {1_label} into caravan -->
-  <CannotLoadIntoCaravan>TODO</CannotLoadIntoCaravan>
+  <CannotLoadIntoCaravan>ไม่สามารถโหลด {1_label} ไปกับคาราวานได้</CannotLoadIntoCaravan>
   <!-- EN: Cannot load {1_label} (all) into caravan -->
-  <CannotLoadIntoCaravanAll>TODO</CannotLoadIntoCaravanAll>
+  <CannotLoadIntoCaravanAll>ไม่สามารถโหลด {1_label} (ทั้งหมด) ไปกับคาราวานได้ </CannotLoadIntoCaravanAll>
   <!-- EN: Load {1_label} into caravan -->
-  <LoadIntoCaravan>TODO</LoadIntoCaravan>
+  <LoadIntoCaravan>โหลด {1_label} ไปกับคาราวาน</LoadIntoCaravan>
   <!-- EN: Load {1_label} (all) into caravan -->
-  <LoadIntoCaravanAll>TODO</LoadIntoCaravanAll>
+  <LoadIntoCaravanAll>โหลด {1_label} (ทั้งหมด) ไปกับคาราวาน</LoadIntoCaravanAll>
   <!-- EN: Load {1_labelShort} into caravan... -->
-  <LoadIntoCaravanSome>TODO</LoadIntoCaravanSome>
+  <LoadIntoCaravanSome>โหลด {1_label} ไปกับคาราวาน...</LoadIntoCaravanSome>
   <!-- EN: Load {1_labelShort} x{{0}} -->
-  <LoadIntoCaravanCount>TODO</LoadIntoCaravanCount>
+  <LoadIntoCaravanCount>โหลด {1_label} x{{0}}</LoadIntoCaravanCount>
   <!-- EN: overweight -->
-  <OverweightLower>TODO</OverweightLower>
+  <OverweightLower>น้ำหนักเกิน</OverweightLower>
 
   <!-- EN: Cannot carry {1_label} and leave the area -->
-  <CannotCarryToExit>ไม่สามารถพกพา {1_label} และออกจากพื้นที่</CannotCarryToExit>
+  <CannotCarryToExit>ไม่สามารถแบก {1_label} และออกจากพื้นที่</CannotCarryToExit>
   <!-- EN: Carry {1_label} and leave the area -->
-  <CarryToExit>พกพา {1_label} และออกจากพื้นที่</CarryToExit>
+  <CarryToExit>แบก {1_label} และออกจากพื้นที่</CarryToExit>
   <!-- EN: Capture {1_label} and leave the area -->
-  <CarryToExitAndCapture>TODO</CarryToExitAndCapture>
+  <CarryToExitAndCapture>จับ {1_label} และออกจากพื้นที่</CarryToExitAndCapture>
   
   <!-- EN: Strip {1_label} -->
   <Strip>แก้ผ้า {1_label}</Strip>
@@ -274,11 +274,11 @@
   <!-- EN: Attack {0} -->
   <AttackSettlement>โจมตี {0}</AttackSettlement>
   <!-- EN: Approach {0} -->
-  <ApproachSite>TODO</ApproachSite>
+  <ApproachSite>เข้าหา {0}</ApproachSite>
   <!-- EN: Approaching {0} -->
-  <ApproachingSite>TODO</ApproachingSite>
+  <ApproachingSite>กำลังเข้าหา {0}</ApproachingSite>
   <!-- EN: Offer gifts -->
-  <OfferGifts>TODO</OfferGifts>
+  <OfferGifts>นำเสนอของขวัญ</OfferGifts>
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
@@ -290,7 +290,7 @@
   <!-- EN: Cannot {0} {2_labelShort} -->
   <CannotGenericWork>ไม่สามารถ {0} {2_labelShort} ได้</CannotGenericWork>
   <!-- EN: Cannot {0} -->
-  <CannotGenericWorkCustom>TODO</CannotGenericWorkCustom>
+  <CannotGenericWorkCustom>ไม่สามารถ {0}</CannotGenericWorkCustom>
 
   <!-- EN: Cannot prioritize (incapable of {0}) -->
   <CannotMissingHealthActivities>ไม่สามารถจัดความสำคัญได้ (ไม่สามารถที่จะ {0})</CannotMissingHealthActivities>
@@ -305,12 +305,12 @@
   <!-- EN: Cannot prioritize (will never {0}) -->
   <CannotPrioritizeWorkGiverDisabled>ไม่สามารถจัดลำดับความสำคัญได้ (ไม่ได้กำหนดให้ {0})</CannotPrioritizeWorkGiverDisabled>
   <!-- EN: will never {0} -->
-  <WillNever>TODO</WillNever>
+  <WillNever>จะไม่เคย {0}</WillNever>
 
   <!-- EN: Cannot prioritize (not assigned to {0}) -->
   <CannotPrioritizeNotAssignedToWorkType>ไม่สามารถจัดความสำคัญได้ (ไม่ได้กำหนดให้ {0})</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
-  <NotAssigned>TODO</NotAssigned>
+  <NotAssigned>ยังไม่ถูกกำหนด</NotAssigned>
 
   <!-- EN: Cannot prioritize (research is a long-term task) -->
   <CannotPrioritizeResearch>ไม่สามารถจัดความสำคัญได้(การวิจัยเป็นงานระยะยาว)</CannotPrioritizeResearch>
@@ -318,7 +318,7 @@
   <!-- EN: Cannot prioritize ({1_label} is forbidden) -->
   <CannotPrioritizeForbidden>ไม่สามารถจัดความสำคัญได้ ({1_label}  นั้นถูกหวงห้าม)</CannotPrioritizeForbidden>
   <!-- EN: Cannot prioritize (forbidden) -->
-  <CannotPrioritizeCellForbidden>TODO</CannotPrioritizeCellForbidden>
+  <CannotPrioritizeCellForbidden>ไม่สามารถจัดความสำคัญได้ (หวงห้าม)</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
   <CannotPrioritizeForbiddenOutsideAllowedArea>ไม่สามารถจัดความสำคัญได้ ({0} ที่ได้รับอนุญาตนอกพื้นที่)</CannotPrioritizeForbiddenOutsideAllowedArea>
 
@@ -331,9 +331,9 @@
   <!-- EN: Drop in center -->
   <DropInCenter>ลงใจกลาง</DropInCenter>
   <!-- EN: Attack {0}: Drop at edge -->
-  <AttackAndDropAtEdge>TODO</AttackAndDropAtEdge>
+  <AttackAndDropAtEdge>โจมตี {0}: ลงที่ขอบ</AttackAndDropAtEdge>
   <!-- EN: Attack {0}: Drop in center -->
-  <AttackAndDropInCenter>TODO</AttackAndDropInCenter>
+  <AttackAndDropInCenter>โจมตี {0}: ลงใจกลาง</AttackAndDropInCenter>
   
   <!-- EN: vomiting -->
   <VomitingLower>อาเจียน</VomitingLower>
@@ -346,32 +346,32 @@
   <RemoveWaypoint>ลบจุดบอกทางนี้</RemoveWaypoint>
 
   <!-- EN: Cancel all designations -->
-  <RemoveAllDesignations>TODO</RemoveAllDesignations>
+  <RemoveAllDesignations>ยกเลิกการระบุทั้งหมด</RemoveAllDesignations>
   <!-- EN: Designate all -->
-  <DesignateAll>TODO</DesignateAll>
+  <DesignateAll>ระบุทั้งหมด</DesignateAll>
   <!-- EN: {0} affected -->
-  <CountToDesignate>TODO</CountToDesignate>
+  <CountToDesignate>{0} โดนผลกระทบ</CountToDesignate>
   <!-- EN: Forbid all items -->
-  <ForbidAllItems>TODO</ForbidAllItems>
+  <ForbidAllItems>หวงห้ามไอเท็มทั้งหมด</ForbidAllItems>
   <!-- EN: Unforbid all items -->
-  <UnforbidAllItems>TODO</UnforbidAllItems>
+  <UnforbidAllItems>ถอนห้ามไอเท็มทั้งหมด</UnforbidAllItems>
 
   <!-- Transport pods -->
   <!-- EN: Zoom in and choose a landing spot in {0} -->
-  <LandInExistingMap>TODO</LandInExistingMap>
+  <LandInExistingMap>ซูมเข้าและเลือกพื้นที่ลงจอดใน {0}</LandInExistingMap>
   <!-- EN: The contents will be lost -->
-  <TransportPodsContentsWillBeLost>TODO</TransportPodsContentsWillBeLost>
+  <TransportPodsContentsWillBeLost>จะสูญเสียสิ่งของภายใน</TransportPodsContentsWillBeLost>
   <!-- EN: Form caravan here -->
-  <FormCaravanHere>TODO</FormCaravanHere>
+  <FormCaravanHere>จัดตั้งกองคาราวานที่นี่</FormCaravanHere>
   <!-- EN: Give to {0} -->
-  <GiveToCaravan>TODO</GiveToCaravan>
+  <GiveToCaravan>ให้กับ {0}</GiveToCaravan>
   <!-- EN: Give as a gift to {0} ({1}) -->
-  <GiveGiftViaTransportPods>TODO</GiveGiftViaTransportPods>
+  <GiveGiftViaTransportPods>ให้เป็นของขวัญกับ {0} ({1})</GiveGiftViaTransportPods>
 
   <!-- Rescue quest -->
   <!-- EN: Free prisoner -->
-  <FreePrisoner>TODO</FreePrisoner>
+  <FreePrisoner>ช่วยปล่อยนักโทษ</FreePrisoner>
   <!-- EN: Offer help -->
-  <OfferHelp>TODO</OfferHelp>
+  <OfferHelp>เสนอช่วยเหลือ</OfferHelp>
   
 </LanguageData>

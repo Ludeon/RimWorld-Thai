@@ -2,13 +2,13 @@
 <LanguageData>
 
   <!-- EN: a -->
-  <IndefiniteArticle>a</IndefiniteArticle>
+  <IndefiniteArticle></IndefiniteArticle>
   <!-- EN: the -->
-  <DefiniteArticle>the</DefiniteArticle>
+  <DefiniteArticle></DefiniteArticle>
   <!-- EN: a {0} -->
-  <IndefiniteForm>a {0}</IndefiniteForm>
+  <IndefiniteForm>{0}</IndefiniteForm>
   <!-- EN: the {0} -->
-  <DefiniteForm>the {0}</DefiniteForm>
+  <DefiniteForm>{0}</DefiniteForm>
 
   <!-- EN: its -->
   <Proits>ของมัน</Proits>

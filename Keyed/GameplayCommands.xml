@@ -43,9 +43,9 @@
   <IsIncapped>{1_labelShort} เดินไม่ได้.</IsIncapped>
 
   <!-- EN: Fire at will -->
-  <CommandFireAtWillLabel>TODO</CommandFireAtWillLabel>
+  <CommandFireAtWillLabel>ยิงได้ตามใจ</CommandFireAtWillLabel>
   <!-- EN: Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat. -->
-  <CommandFireAtWillDesc>TODO</CommandFireAtWillDesc>
+  <CommandFireAtWillDesc>เปิด-ปิดให้ยิงปืนได้ทุกเมื่อตามใจ\n\nเมื่อปิดใช้ ตัวละครนี้จะไม่ยิงใส่เป้าหมายจากระยะไกล ไม่มีผลกับการสู้ระยะประชิด</CommandFireAtWillDesc>
   
   <!-- EN: Clear prioritized work -->
   <CommandClearPrioritizedWork>จัดลำดับความสำคัญการทำงานที่ชัดเจน</CommandClearPrioritizedWork>
@@ -73,7 +73,7 @@
   <!-- EN: Assign -->
   <BuildingAssign>กำหนด</BuildingAssign>
   <!-- EN: Reassign -->
-  <BuildingReassign>TODO</BuildingReassign>
+  <BuildingReassign>กำหนดใหม่</BuildingReassign>
   <!-- EN: Unassign -->
   <BuildingUnassign>เลิกกำหนด</BuildingUnassign>
   <!-- EN: For prisoners -->
@@ -228,7 +228,7 @@
   <!-- EN: While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master. -->
   <CommandReleaseAnimalsDesc>ในขณะที่เปิดไว้, สัตว์จะไปโจมตีล่วงหน้าก่อน และในขณะที่ปิด, พวกมันจะรักษาระยะและอยู่คุ้มกันเจ้านาย</CommandReleaseAnimalsDesc>
   <!-- EN: No animals available. -->
-  <CommandReleaseAnimalsFail_NoAnimals>TODO</CommandReleaseAnimalsFail_NoAnimals>
+  <CommandReleaseAnimalsFail_NoAnimals>ไม่มีสัตว์เลี้ยงให้ปล่อย</CommandReleaseAnimalsFail_NoAnimals>
   
   <!-- Squad attack -->
   <!-- EN: Attack -->
@@ -258,7 +258,7 @@
   
   <!-- Select mineral to scan for (long-range mineral scanner) -->
   <!-- EN: Tuned to -->
-  <CommandSelectMineralToScanFor>TODO</CommandSelectMineralToScanFor>
+  <CommandSelectMineralToScanFor>หันหา</CommandSelectMineralToScanFor>
 
   <!-- Build copy -->
   <!-- EN: Build copy -->
@@ -324,15 +324,15 @@
 
   <!-- Remove from caravan -->
   <!-- EN: Remove from caravan -->
-  <CommandRemoveFromCaravan>TODO</CommandRemoveFromCaravan>
+  <CommandRemoveFromCaravan>นำออกคาราวาน</CommandRemoveFromCaravan>
   <!-- EN: Remove this person or animal from the caravan. -->
-  <CommandRemoveFromCaravanDesc>TODO</CommandRemoveFromCaravanDesc>
+  <CommandRemoveFromCaravanDesc>นำคนหรือสัตว์นี้ออกจากกองคาราวาน</CommandRemoveFromCaravanDesc>
   
   <!-- Add to caravan -->
   <!-- EN: Add to caravan -->
-  <CommandAddToCaravan>TODO</CommandAddToCaravan>
+  <CommandAddToCaravan>เพิ่มเข้าคาราวาน</CommandAddToCaravan>
   <!-- EN: Add this person or animal to the forming caravan. -->
-  <CommandAddToCaravanDesc>TODO</CommandAddToCaravanDesc>
+  <CommandAddToCaravanDesc>เพิ่มคนหรือสัตว์นี้เข้าไปกองคาราวาน</CommandAddToCaravanDesc>
   
   <!-- Show map -->
   <!-- EN: Zoom in -->
@@ -350,9 +350,9 @@
 
   <!-- Offer gifts -->
   <!-- EN: Offer gifts -->
-  <CommandOfferGifts>TODO</CommandOfferGifts>
+  <CommandOfferGifts>เสนอของขวัญ</CommandOfferGifts>
   <!-- EN: Offer gifts to this faction. -->
-  <CommandOfferGiftsDesc>TODO</CommandOfferGiftsDesc>
+  <CommandOfferGiftsDesc>นำเสนอของขวัญให้ฝักฝ่ายนี้</CommandOfferGiftsDesc>
 
   <!-- Fulfill request -->
   <!-- EN: Fulfill trade offer -->
@@ -438,20 +438,20 @@
 
   <!-- Pause caravan -->
   <!-- EN: Rest -->
-  <CommandPauseCaravan>TODO</CommandPauseCaravan>
+  <CommandPauseCaravan>พัก</CommandPauseCaravan>
   <!-- EN: Start resting. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1} -->
-  <CommandToggleCaravanPauseDesc>TODO</CommandToggleCaravanPauseDesc>
+  <CommandToggleCaravanPauseDesc>เพิ่มผักผ่อน มีประโยชน์ดังนี้:\n\n  - ผู้คนได้ปฏิสัมพันธ์ทางสังคมกัน\n  - ออกหาอาหารเร็วขึ้น {0} เท่า\n  - ระยะมองเห็นไกลขึ้น {1} เท่า</CommandToggleCaravanPauseDesc>
   
   <!-- Show sellable items -->
   <!-- EN: Show what will buy -->
-  <CommandShowSellableItems>TODO</CommandShowSellableItems>
+  <CommandShowSellableItems>แสดงว่าอะไรจะซื้อ</CommandShowSellableItems>
   <!-- EN: Show everything this trader wants to buy. -->
-  <CommandShowSellableItemsDesc>TODO</CommandShowSellableItemsDesc>
+  <CommandShowSellableItemsDesc>แสดงทุกอย่างที่ผู้ค้าคนนี้รับซื้อ</CommandShowSellableItemsDesc>
 
   <!-- Attack settlement -->
   <!-- EN: Attack -->
-  <CommandAttackSettlement>TODO</CommandAttackSettlement>
+  <CommandAttackSettlement>โจมตี</CommandAttackSettlement>
   <!-- EN: Attack this settlement. -->
-  <CommandAttackSettlementDesc>TODO</CommandAttackSettlementDesc>
+  <CommandAttackSettlementDesc>โจมตีถิ่นฐานนี้</CommandAttackSettlementDesc>
 
 </LanguageData>
