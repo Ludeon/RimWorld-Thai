@@ -2,16 +2,16 @@
 <LanguageData>
 
   <!-- EN: Jump to location -->
-  <JumpToLocation>กระโดดไปยังตำแหน่ง</JumpToLocation>
+  <JumpToLocation>กระโดดไปตำแหน่งนั้น</JumpToLocation>
   <!-- EN: Postpone -->
-  <PostponeLetter>เลื่อนเวลา</PostponeLetter>
+  <PostponeLetter>เลื่อนออกไป</PostponeLetter>
   <!-- EN: Reject -->
   <RejectLetter>ปฏิเสธ</RejectLetter>
   
   <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>ฤดูร้อน</LetterLabelFirstSummerWarning>
   <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
-  <FirstSummerWarning>หน้าร้อนเริ่มขึ้นแล้ว! แต่หน้าหนาวกำลังคืบคลานเข้ามา\n\nพืชอาหารของคุณจะไม่เจริญเติบโตได้ในช่วงฤดูหนาว ให้แน่ใจว่าคุณได้เก็บมูลค่าของอาหารตอนนี้ในขณะที่คุณยังไม่สามารถปลูกมันได้\n\nคุณสามารถสร้างห้องทำความเย็น เพื่อป้องกันการแย่งอาหาร\n\nและพยายามที่จะซื้อขโมยหรือทำผ้าเตี่ยวผืนบางหรือคุณจะก้าวเท้าออกไปด้านนอกแบบหนาวๆ</FirstSummerWarning>
+  <FirstSummerWarning>หน้าร้อนเริ่มขึ้นแล้ว! แต่หน้าหนาวกำลังคืบคลานเข้ามา\n\nพืชผลอาหารของคุณจะไม่เจริญเติบโตในช่วงฤดูหนาว โปรดแน่ใจว่าคุณได้จัดเก็บอาหารไว้เพียงพอต่อการมีชีวิตรอด คุณสามารถสร้างห้องทำความเย็นเพื่อป้องกันอาหารเน่าเสียได้\n\nควรเตรียมเสื้อคลุมไว้ ไม่ว่าจะซื้อ ขโมย หรือทำเองก็ตาม ไม่งั้นคุณอาจแข็งตายเมื่อออกไปกลางแจ้ง</FirstSummerWarning>
 
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again. -->
   <LetterRelationsChange_Hostile>TODO</LetterRelationsChange_Hostile>
@@ -23,11 +23,11 @@
   <LetterRelationsChange_Ally>TODO</LetterRelationsChange_Ally>
 
   <!-- EN: goodwill -->
-  <goodwill>TODO</goodwill>
+  <goodwill>ไมตรีจิต</goodwill>
   <!-- EN: Neutral -->
   <Neutral>เป็นกลาง</Neutral>
   <!-- EN: Death -->
-  <Death>TODO</Death>
+  <Death>เสียชีวิต</Death>
 
   <!-- EN: A {1_label} has short-circuited in the rain and started a fire. -->
   <ShortCircuitRain>{1_label} ลัดวงจรในสายฝนและเริ่มลุกไหม้</ShortCircuitRain>

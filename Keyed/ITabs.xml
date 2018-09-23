@@ -5,11 +5,11 @@
   <!-- EN: Bills -->
   <TabBills>ใบสั่ง</TabBills>
   <!-- EN: Growing -->
-  <TabGrowing>ปลูกผัก</TabGrowing>
+  <TabGrowing>ปลูกพืช</TabGrowing>
   <!-- EN: Bio -->
   <TabCharacter>ตัวละคร</TabCharacter>
   <!-- EN: Training -->
-  <TabTraining>การอบรม</TabTraining>
+  <TabTraining>ฝึกฝน</TabTraining>
   <!-- EN: Prisoner -->
   <TabPrisoner>นักโทษ</TabPrisoner>
   <!-- EN: Guest -->
@@ -19,9 +19,9 @@
   <!-- EN: Needs -->
   <TabNeeds>ต้องการ</TabNeeds>
   <!-- EN: Storage -->
-  <TabStorage>ที่เก็บ</TabStorage>
+  <TabStorage>คลัง</TabStorage>
   <!-- EN: Shells -->
-  <TabShells>กระสุนปืนใหญ่</TabShells>
+  <TabShells>ลูกปืนใหญ่</TabShells>
   <!-- EN: Health -->
   <TabHealth>สุขภาพ</TabHealth>
   <!-- EN: Race -->
@@ -41,7 +41,7 @@
   <!-- EN: Caravan -->
   <TabFormingCaravan>คาราวาน</TabFormingCaravan>
   <!-- EN: Contents -->
-  <TabTransporterContents>เนื้อหา</TabTransporterContents>
+  <TabTransporterContents>บรรทุก</TabTransporterContents>
 
   <!-- Bills tab  -->
   <!-- EN: Add bill -->

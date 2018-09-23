@@ -23,7 +23,7 @@
   <!-- EN: The gods were very angry. The blood machines came at night. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped. Now, after a harrowing journey on foot, with no close friends to turn to, you must build a new home in the wilderness, like your ancestors did. -->
   <LostTribe.scenario.parts.GameStartDialog.text>พระเจ้าทรงพิโรธโกรธเคืองยิ่ง เครื่องจักรสูบเลือด..มันโผล่มากลางดึก พวกมันกวาดล้างผ่านหมู่บ้านของคุณ ฆ่าฟัน และเผาคนของคุณ ด้วยใบมีดและปีศาจไฟ\n\nมีเพียงไม่กี่คนที่หนีรอด และในตอนนี้ หลังการเดินทางด้วยเท้าอันแสนทรมาน โดยที่ไม่มีเพื่อนสนิทให้หันหา คุณต้องสร้างบ้านใหม่ในที่รกร้างว่างเปล่า เหมือนที่บรรพบุรุษของคุณเคยทำ</LostTribe.scenario.parts.GameStartDialog.text>
   <!-- EN: Five lost tribespeople attempt to rebuild. Difficult. -->
-  <LostTribe.scenario.summary>ห้าชนเผ่าหลงทางในความพยายามสร้างตัวขึ้นใหม่ ยาก</LostTribe.scenario.summary>
+  <LostTribe.scenario.summary>ห้าชนเผ่าผู้หลงทาง ในความพยายามสร้างตัวขึ้นใหม่ ยาก</LostTribe.scenario.summary>
   
   <!-- EN: Naked Brutality -->
   <NakedBrutality.label>โหดเปลือยกาย (Naked Brutality)</NakedBrutality.label>
@@ -39,16 +39,16 @@
   <NakedBrutality.scenario.summary>เปลือยเปล่า ตัวคนเดียว ไร้การเตรียมพร้อมใดๆ คุณจะรอดชีวิตได้หรือ? ความยากสุดโต่ง ไม่มีคำว่าแฟร์</NakedBrutality.scenario.summary>
   
   <!-- EN: The Rich Explorer -->
-  <TheRichExplorer.label>นักสำรวจผู้มั่งคั่ง (The Rich Explorer)</TheRichExplorer.label>
+  <TheRichExplorer.label>นักสำรวจผู้มั่งมี (The Rich Explorer)</TheRichExplorer.label>
   <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
-  <TheRichExplorer.description>คนเรียกคุณว่าบ้า ทิ้งบ้านเกิด glitterworld ของคุณมา ทว่าคุณปรารถนามาตลอดจะออกสำรวจดวงดาว(นอก neurosimulator) และตอนนี้คุณมาถึงจุดจบของการเดินทางอันยาวนานในคริปโตสลีป ลงจอดบนดาวชาวขอบไม่มีใครรู้ เพื่อพบเห็นว่าโลกมันเป็นอย่างไร\n\nโน้ต: เนื่องจากตัวละครเริ่มต้นของคุณขาดทักษะบางอย่าง โครงเรื่องนี้ยากเป็นพิเศษช่วงเริ่มเกม</TheRichExplorer.description>
+  <TheRichExplorer.description>คนเรียกคุณว่าบ้าที่ทิ้ง glitterworld บ้านเกิดของคุณ แต่คุณปรารถนามาตลอดที่จะออกสำรวจดวงดาว(นอก neurosimulator) และตอนนี้การเดินทางอันยาวนานในคริปโตสลีปของคุณมาถึงจุดจบแล้ว\nคุณลงจอดบนดาวชาวขอบไม่มีใครรู้ เพื่อพบเห็นว่าโลกมันเป็นอย่างไร\n\nโน้ต: เนื่องจากตัวละครเริ่มต้นของคุณขาดทักษะบางอย่าง โครงเรื่องนี้ยากเป็นพิเศษช่วงเริ่มเกม</TheRichExplorer.description>
   <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
-  <TheRichExplorer.scenario.description>คนเรียกคุณว่าบ้า ทิ้งบ้านเกิด glitterworld ของคุณมา ทว่าคุณปรารถนามาตลอดจะออกสำรวจดวงดาว(นอก neurosimulator) และตอนนี้คุณมาถึงจุดจบของการเดินทางอันยาวนานในคริปโตสลีป ลงจอดบนดาวชาวขอบไม่มีใครรู้ เพื่อพบเห็นว่าโลกมันเป็นอย่างไร\n\nโน้ต: เนื่องจากตัวละครเริ่มต้นของคุณขาดทักษะบางอย่าง โครงเรื่องนี้ยากเป็นพิเศษช่วงเริ่มเกม</TheRichExplorer.scenario.description>
+  <TheRichExplorer.scenario.description>คนเรียกคุณว่าบ้าที่ทิ้ง glitterworld บ้านเกิดของคุณ แต่คุณปรารถนามาตลอดที่จะออกสำรวจดวงดาว(นอก neurosimulator) และตอนนี้การเดินทางอันยาวนานในคริปโตสลีปของคุณมาถึงจุดจบแล้ว\nคุณลงจอดบนดาวชาวขอบไม่มีใครรู้ เพื่อพบเห็นว่าโลกมันเป็นอย่างไร\n\nโน้ต: เนื่องจากตัวละครเริ่มต้นของคุณขาดทักษะบางอย่าง โครงเรื่องนี้ยากเป็นพิเศษช่วงเริ่มเกม</TheRichExplorer.scenario.description>
   <!-- EN: The Rich Explorer -->
-  <TheRichExplorer.scenario.name>นักสำรวจผู้มั่งคั่ง (The Rich Explorer)</TheRichExplorer.scenario.name>
+  <TheRichExplorer.scenario.name>นักสำรวจผู้มั่งมี (The Rich Explorer)</TheRichExplorer.scenario.name>
   <!-- EN: The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - the grit and consequence of real life, like they talk about in the history books. You wanted to know what real challenge and consequence feel like.\n\nNow, after a journey of decades in cryptosleep, you're landing on this unknown rimworld. Real consequences await you. -->
   <TheRichExplorer.scenario.parts.GameStartDialog.text>ไม่ว่าจะ neurosimulations, holo-games, หรือมั่วสุมหมู่ ก็ไม่เคยเพียงพอสำหรับคุณ คุณต้องการมากกว่านั้น - ความทรหดและผลสืบเนื่องจากการใช้ชีวิตจริงๆจังๆเหมือนเวลาที่คนพูดถึงในหนังสือประวัติศาสตร์ คุณต้องการจะรู้ว่าความท้าทายและผลกระทบนั้นรู้สึกยังไง\n\nณ ตอนนี้ หลังจากเดินทางยาวนานในคริปโตสลีป คุณลงจอดบนดางชายขอบที่ไม่มีใครรู้จัก ผลลัพท์ที่แท้จริงรอคุณอยู่</TheRichExplorer.scenario.parts.GameStartDialog.text>
   <!-- EN: One rich explorer out to experience the universe. Extra difficult. -->
-  <TheRichExplorer.scenario.summary>หนึ่งผู้มั่งมีออกสำรวจจักรวาลอันกว่าใหญ่ ยากเป็นพิเศษ</TheRichExplorer.scenario.summary>
+  <TheRichExplorer.scenario.summary>หนึ่งนักสำรวจอันร่ำรวย ออกสำรวจจักรวาลอันกว่าใหญ่ ยากเป็นพิเศษ</TheRichExplorer.scenario.summary>
   
 </LanguageData>

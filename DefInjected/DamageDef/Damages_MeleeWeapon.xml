@@ -12,7 +12,7 @@
   <Blunt.deathMessage>{0} ถูกทุบตีจนถึงแก่ความตาย</Blunt.deathMessage>
   
   <!-- EN: crush -->
-  <Crush.label>บดขยี้</Crush.label>
+  <Crush.label>บด</Crush.label>
   <!-- EN: {0} has been crushed to death. -->
   <Crush.deathMessage>{0} ถูกบดขยี้จนถึงแก่ความตาย</Crush.deathMessage>
   
@@ -27,9 +27,9 @@
   <Poke.deathMessage>{0} ถูกทุบตีจนถึงแก่ความตาย</Poke.deathMessage>
   
   <!-- EN: scratch -->
-  <Scratch.label>ตะกุย</Scratch.label>
+  <Scratch.label>ข่วน</Scratch.label>
   <!-- EN: {0} has been torn to death. -->
-  <Scratch.deathMessage>{0} ถูกฉีกตะกุยจนถึงแก่ความตาย</Scratch.deathMessage>
+  <Scratch.deathMessage>{0} ถูกฉีกจนถึงแก่ความตาย</Scratch.deathMessage>
   
   <!-- EN: stab -->
   <Stab.label>แทง</Stab.label>

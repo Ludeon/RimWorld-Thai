@@ -40,7 +40,7 @@
   <Research.description>พิจารณาและเลือกโครงการวิจัย</Research.description>
   
   <!-- EN: restrict -->
-  <Restrict.label>จำกัดควบคุม</Restrict.label>
+  <Restrict.label>จำกัด</Restrict.label>
   <!-- EN: Restrict colonists to certain activities at certain times of day, or to specific allowed areas. -->
   <Restrict.description>ควบคุมให้ชาวนิคมทำกิจกรรมเวลาใดในแต่ละวัน หรือกำหนดพื้นที่ๆอณุญาต</Restrict.description>
   

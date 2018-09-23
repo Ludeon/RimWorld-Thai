@@ -168,7 +168,7 @@
   <MissingBodyPart.labelNounPretty>TODO</MissingBodyPart.labelNounPretty>
   
   <!-- EN: scratch -->
-  <Scratch.label>ถูกตะกุย</Scratch.label>
+  <Scratch.label>ถูกข่วน</Scratch.label>
   <!-- EN: set -->
   <Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>เข้าเฝือกแล้ว</Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -176,13 +176,13 @@
   <!-- EN: sutured -->
   <Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>เย็บแผลแล้ว</Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: scratch scar -->
-  <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>แผลเป็นโดนตะกุย</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>แผลเป็นโดนข่วน</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Torn off -->
   <Scratch.injuryProps.destroyedLabel>ถูกทึ้งออก</Scratch.injuryProps.destroyedLabel>
   <!-- EN: Torn out -->
   <Scratch.injuryProps.destroyedOutLabel>ฉีกขาด</Scratch.injuryProps.destroyedOutLabel>
   <!-- EN: a scratch -->
-  <Scratch.labelNoun>ถูกตะกุย</Scratch.labelNoun>
+  <Scratch.labelNoun>ถูกข่วน</Scratch.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Scratch.labelNounPretty>TODO</Scratch.labelNounPretty>
   

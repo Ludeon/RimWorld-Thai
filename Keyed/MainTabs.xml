@@ -35,9 +35,9 @@
   <!-- EN: Edit... -->
   <AssignTabEdit>แก้ไข...</AssignTabEdit>
   <!-- EN: Manage drug policies -->
-  <ManageDrugPolicies>กำหนดนโยบายการใช้ยา</ManageDrugPolicies>
+  <ManageDrugPolicies>จัดการนโยบายการใช้ยา</ManageDrugPolicies>
   <!-- EN: Manage food restrictions -->
-  <ManageFoodRestrictions>TODO</ManageFoodRestrictions>
+  <ManageFoodRestrictions>จัดการการควบคุมอาหาร</ManageFoodRestrictions>
   
   <!-- Restrictions tab -->
   <!-- EN: Copy -->

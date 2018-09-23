@@ -679,7 +679,7 @@
 
   <!-- Plants -->
   <!-- EN: {0} grown -->
-  <PercentGrowth>เจริญเติบโตแล้ว {0}</PercentGrowth>
+  <PercentGrowth>เติบโตแล้ว {0}</PercentGrowth>
   <!-- EN: Growth rate -->
   <GrowthRate>อัตราการเจริญเติบโต</GrowthRate>
   <!-- EN: Fully grown in {0} of growth. -->
