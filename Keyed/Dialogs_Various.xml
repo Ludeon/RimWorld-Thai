@@ -708,6 +708,8 @@
   <DeleteDrugPolicy>ลบนโยบาย...</DeleteDrugPolicy>
   <!-- EN: Drugs policy is in use by {0}. -->
   <DrugPolicyInUse>นโยบายยาเสพติดที่อยู่ในการใช้งานโดย {0}</DrugPolicyInUse>
+  <!-- EN: Food restriction is in use by {0}. -->
+  <FoodRestrictionInUse>TODO</FoodRestrictionInUse>
   <!-- EN: Social drugs -->
   <SocialDrugs>ยาเพื่อเข้าสังคม</SocialDrugs>
   <!-- EN: No drugs -->
@@ -762,6 +764,30 @@
   <DrugUsageTipForJoy>สำหรับความสุข\n\nใช้ยานี้เพื่อความสุขและวัตถุประสงค์ทางสังคม\n\nแม้จะถูกปิดใช้งานตัวละครบางตัวที่มีลักษณะเฉพาะหรือในช่วงพักฟื้นก็ตามอาจใช้ยานี้ต่อไป</DrugUsageTipForJoy>
   <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
   <DrugUsageTipScheduled>ตามเวลาที่กำหนด\n\nใช้ยานี้ในช่วงเวลาที่กำหนดเมื่อมีการระบุเงื่อนไข</DrugUsageTipScheduled>
+
+  <!-- Food restriction management -->
+  <!-- EN: Food restriction -->
+  <FoodRestriction>TODO</FoodRestriction>
+  <!-- EN: Lavish -->
+  <FoodRestrictionLavish>TODO</FoodRestrictionLavish>
+  <!-- EN: Fine -->
+  <FoodRestrictionFine>TODO</FoodRestrictionFine>
+  <!-- EN: Simple -->
+  <FoodRestrictionSimple>TODO</FoodRestrictionSimple>
+  <!-- EN: Paste -->
+  <FoodRestrictionPaste>TODO</FoodRestrictionPaste>
+  <!-- EN: Raw -->
+  <FoodRestrictionRaw>TODO</FoodRestrictionRaw>
+  <!-- EN: Nothing -->
+  <FoodRestrictionNothing>TODO</FoodRestrictionNothing>
+  <!-- EN: Select food restriction -->
+  <SelectFoodRestriction>TODO</SelectFoodRestriction>
+  <!-- EN: New food restriction -->
+  <NewFoodRestriction>TODO</NewFoodRestriction>
+  <!-- EN: Delete food restriction -->
+  <DeleteFoodRestriction>TODO</DeleteFoodRestriction>
+  <!-- EN: No food restriction selected -->
+  <NoFoodRestrictionSelected>TODO</NoFoodRestrictionSelected>
 
   <!-- Medical settings -->
   <!-- EN: Defaults -->
