@@ -4,11 +4,11 @@
   <!-- EN: burned carpet -->
   <BurnedCarpet.label>พรมไหม้</BurnedCarpet.label>
   <!-- EN: Burned-out carpet. -->
-  <BurnedCarpet.description>TODO</BurnedCarpet.description>
+  <BurnedCarpet.description>พรมโดนเผาจนไหม้</BurnedCarpet.description>
   
   <!-- EN: burned wood floor -->
-  <BurnedWoodPlankFloor.label>พื้นไม้ที่โดนเผา</BurnedWoodPlankFloor.label>
+  <BurnedWoodPlankFloor.label>พื้นไม้ไหม้</BurnedWoodPlankFloor.label>
   <!-- EN: Burned-out wood plank flooring. -->
-  <BurnedWoodPlankFloor.description>TODO</BurnedWoodPlankFloor.description>
+  <BurnedWoodPlankFloor.description>พื้นแผ่นไม้กระดานโดนเผาจนไหม้</BurnedWoodPlankFloor.description>
   
 </LanguageData>

@@ -5,22 +5,22 @@
   <Apparel.label>เครื่องนุ่งห่ม</Apparel.label>
   
   <!-- EN: Basics -->
-  <Basics.label>รากฐาน</Basics.label>
+  <Basics.label>พื้นฐาน</Basics.label>
   
   <!-- EN: Basics -->
-  <BasicsNonPawn.label>รากฐาน</BasicsNonPawn.label>
+  <BasicsNonPawn.label>พื้นฐาน</BasicsNonPawn.label>
   
   <!-- EN: Basics -->
-  <BasicsPawn.label>รากฐาน</BasicsPawn.label>
+  <BasicsPawn.label>พื้นฐาน</BasicsPawn.label>
   
   <!-- EN: Building -->
-  <Building.label>อาคาร</Building.label>
+  <Building.label>สิ่งปลูกสร้าง</Building.label>
   
   <!-- EN: Offsets when equipped -->
-  <EquippedStatOffsets.label>ค่าที่จะเพิ่มเมื่อการติดตั้ง</EquippedStatOffsets.label>
+  <EquippedStatOffsets.label>หักล้างเมื่อสวมใส่</EquippedStatOffsets.label>
   
   <!-- EN: Combat -->
-  <PawnCombat.label>สู้</PawnCombat.label>
+  <PawnCombat.label>ต่อสู้</PawnCombat.label>
   
   <!-- EN: Misc -->
   <PawnMisc.label>เบ็ดเตล็ด</PawnMisc.label>
@@ -29,16 +29,16 @@
   <PawnSocial.label>สังคม</PawnSocial.label>
   
   <!-- EN: Work -->
-  <PawnWork.label>การทำงาน</PawnWork.label>
+  <PawnWork.label>ทำงาน</PawnWork.label>
   
   <!-- EN: Multipliers when equipment made of this -->
-  <StuffOfEquipmentStatFactors.label>ที่จะคูณค่าสำหรับเครื่องจักรอุปกรณ์การผลิต</StuffOfEquipmentStatFactors.label>
+  <StuffOfEquipmentStatFactors.label>ทวีคูณเมื่อนำไปใช้สร้างอุปกรณ์</StuffOfEquipmentStatFactors.label>
   
   <!-- EN: Multipliers when made of this -->
-  <StuffStatFactors.label>ที่จะคูณค่าสำหรับผลิตภัณฑ์ในขั้นสุดท้าย</StuffStatFactors.label>
+  <StuffStatFactors.label>ทวีคูณเมื่อนำไปใช้ผลิต</StuffStatFactors.label>
   
   <!-- EN: Offsets when made of this -->
-  <StuffStatOffsets.label>ที่จะเพิ่มค่าสำหรับผลิตภัณฑ์ในขั้นสุดท้าย</StuffStatOffsets.label>
+  <StuffStatOffsets.label>หักล้างเมื่อนำไปใช้ผลิต</StuffStatOffsets.label>
   
   <!-- EN: Surgical -->
   <Surgery.label>ศัลยกรรม</Surgery.label>

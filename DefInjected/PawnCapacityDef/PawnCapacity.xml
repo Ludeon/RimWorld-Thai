@@ -4,12 +4,12 @@
   <!-- EN: blood filtration -->
   <BloodFiltration.label>การกรองโลหิต</BloodFiltration.label>
   <!-- EN: fluid reprocessing -->
-  <BloodFiltration.labelMechanoids>TODO</BloodFiltration.labelMechanoids>
+  <BloodFiltration.labelMechanoids>การเปลื่ยนถ่ายของเหลว</BloodFiltration.labelMechanoids>
   
   <!-- EN: blood pumping -->
   <BloodPumping.label>การสูบฉีดโลหิต</BloodPumping.label>
   <!-- EN: power generation -->
-  <BloodPumping.labelMechanoids>TODO</BloodPumping.labelMechanoids>
+  <BloodPumping.labelMechanoids>การสร้างพลังงาน</BloodPumping.labelMechanoids>
   
   <!-- EN: breathing -->
   <Breathing.label>การหายใจ</Breathing.label>
@@ -29,7 +29,7 @@
   <Manipulation.label>การใช้มือ</Manipulation.label>
   
   <!-- EN: metabolism -->
-  <Metabolism.label>อัตราการเผาผลาญ</Metabolism.label>
+  <Metabolism.label>การเผาผลาญ</Metabolism.label>
   
   <!-- EN: moving -->
   <Moving.label>การเคลื่อนไหว</Moving.label>

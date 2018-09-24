@@ -2,30 +2,30 @@
 <LanguageData>
   
   <!-- EN: bridgeable -->
-  <Bridgeable.label>TODO</Bridgeable.label>
+  <Bridgeable.label>สร้างสะพานได้</Bridgeable.label>
   
   <!-- EN: diggable -->
-  <Diggable.label>TODO</Diggable.label>
+  <Diggable.label>ขุดเจาะได้</Diggable.label>
   
   <!-- EN: growable -->
-  <GrowSoil.label>TODO</GrowSoil.label>
+  <GrowSoil.label>ปลูกพืชได้</GrowSoil.label>
   
   <!-- EN: heavy -->
-  <Heavy.label>TODO</Heavy.label>
+  <Heavy.label>หนัก</Heavy.label>
   
   <!-- EN: light -->
-  <Light.label>TODO</Light.label>
+  <Light.label>เบา</Light.label>
   
   <!-- EN: medium -->
-  <Medium.label>TODO</Medium.label>
+  <Medium.label>ปานกลาง</Medium.label>
   
   <!-- EN: moving water -->
-  <MovingFluid.label>TODO</MovingFluid.label>
+  <MovingFluid.label>สายน้ำไหล</MovingFluid.label>
   
   <!-- EN: shallow water -->
-  <ShallowWater.label>TODO</ShallowWater.label>
+  <ShallowWater.label>น้ำตื้น</ShallowWater.label>
   
   <!-- EN: smoothable -->
-  <SmoothableStone.label>TODO</SmoothableStone.label>
+  <SmoothableStone.label>ขัดเรียบได้</SmoothableStone.label>
   
 </LanguageData>

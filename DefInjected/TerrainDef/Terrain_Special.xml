@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: bridge -->
-  <Bridge.label>TODO</Bridge.label>
+  <Bridge.label>สะพาน</Bridge.label>
   <!-- EN: A flat wooden surface on supportive beams which can be built over water. You can build non-heavy structures on bridges, but be careful - bridges are fragile. If a bridge falls, buildings on top of it fall as well. -->
-  <Bridge.description>TODO</Bridge.description>
+  <Bridge.description>พื้นไม้ราบวางบนคานรองรับ ซึ่งสามารถสร้างบนน้ำได้ คุณสามารถสร้างโครงสร้างเบาบนสะพานได้ แต่ระวังไว้ สะพานเสียหายง่าย ถ้าสะพานพัง สิ่งก่อสร้างด้านบนก็พังตามไปด้วย</Bridge.description>
   
   <!-- EN: underwall -->
-  <Underwall.label>Underwall</Underwall.label>
+  <Underwall.label>ใต้กำแพง</Underwall.label>
   
 </LanguageData>

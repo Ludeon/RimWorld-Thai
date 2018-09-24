@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: recruit -->
-  <AttemptRecruit.label>พูดคุย และ ชักชวน</AttemptRecruit.label>
+  <AttemptRecruit.label>ชักชวน</AttemptRecruit.label>
   
   <!-- EN: execute -->
   <Execution.label>ประหาร</Execution.label>
@@ -11,9 +11,9 @@
   <NoInteraction.label>ไม่มีปฏิสัมพันธ์</NoInteraction.label>
   
   <!-- EN: reduce resistance -->
-  <ReduceResistance.label>TODO</ReduceResistance.label>
+  <ReduceResistance.label>ลดแรงต้าน</ReduceResistance.label>
   
   <!-- EN: release -->
-  <Release.label>ปล่อย</Release.label>
+  <Release.label>ปล่อยตัว</Release.label>
   
 </LanguageData>
