@@ -11,46 +11,46 @@
 
   <!-- Power -->
   <!-- EN: Toggle power -->
-  <CommandTogglePowerLabel>เปิด/ปิดพลังงาน</CommandTogglePowerLabel>
+  <CommandTogglePowerLabel>เปิด-ปิด พลังงาน</CommandTogglePowerLabel>
   <!-- EN: Toggle power. -->
-  <CommandTogglePowerDesc>เปิด/ปิดพลังงาน</CommandTogglePowerDesc>
+  <CommandTogglePowerDesc>เปิด-ปิด พลังงาน</CommandTogglePowerDesc>
   
   <!-- EN: Designate toggle power -->
-  <CommandDesignateTogglePowerLabel>ปิดไฟฟ้า </CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerLabel>สลับไฟฟ้า </CommandDesignateTogglePowerLabel>
   <!-- EN: Designate this thing to have power toggled. A colonist will come soon to flick the switch. -->
-  <CommandDesignateTogglePowerDesc>กำหนดสิ่งนี้ให้ปิดไฟฟ้า ชาวนิคมจะมาปิดสวิตช์ชั่วคราว</CommandDesignateTogglePowerDesc>
+  <CommandDesignateTogglePowerDesc>ระบุสิ่งนี้ให้ถูกเปิด-ปิด ชาวนิคมจะมาสลับสวิตช์เร็วๆนี้</CommandDesignateTogglePowerDesc>
   
   <!-- EN: Reconnect -->
   <CommandTryReconnectLabel>เชื่อมต่อใหม่</CommandTryReconnectLabel>
   <!-- EN: Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby. -->
-  <CommandTryReconnectDesc>ลองเชื่อมต่อกับเน็ตเวิร์กพลังงานอื่นภายในรัศมีการเชื่อมต่อ นี่เป็นประโยชน์ถ้าฉันเชื่อมต่อกับเครือข่ายที่ไม่ได้รับการยกเว้น แต่มีที่จอดยานใกล้เคียง</CommandTryReconnectDesc>
+  <CommandTryReconnectDesc>ลองเชื่อมกับโครงข่ายอื่นภายในรัศมี เป็นประโยชน์ตอนนี้เชื่อมต่อกับโครงข่ายที่ไม่มีไฟฟ้า และมีอีกโครงข่ายมีไฟฟ้าใกล้ๆ</CommandTryReconnectDesc>
 
   <!-- EN: Gather spot -->
   <CommandGatherSpotToggleLabel>จุดรวมพล</CommandGatherSpotToggleLabel>
   <!-- EN: Active - colonists will gather around this object. -->
-  <CommandGatherSpotToggleDescActive>ผู้ที่ทำงานอยู่ - อาณานิคมจะรวบรวมข้อมูลเกี่ยวกับวัตถุนี้</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescActive>ใช้งาน - ชาวนิคมจะรวมตัวรอบวัตถุนี้</CommandGatherSpotToggleDescActive>
   <!-- EN: Inactive - colonists will not gather around this object. -->
-  <CommandGatherSpotToggleDescInactive>ไม่ใช้งาน - อาณานิคมจะไม่รวบรวมรอบวัตถุนี้</CommandGatherSpotToggleDescInactive>
+  <CommandGatherSpotToggleDescInactive>ไม่ใช้งาน - ชาวนิคม *ไม่* รวมตัวรอบวัตถุนี้</CommandGatherSpotToggleDescInactive>
   
   <!-- Drafting -->
   <!-- EN: Draft -->
   <CommandDraftLabel>เกณฑ์</CommandDraftLabel>
   <!-- EN: Undraft -->
-  <CommandUndraftLabel>เลิกเกณฑ์</CommandUndraftLabel>
+  <CommandUndraftLabel>เลิก</CommandUndraftLabel>
   <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
-  <CommandToggleDraftDesc>เปลี่ยนร่างทหาร\n\nคนร่างมีคำสั่งและต่อสู้ พวกเขาจะไม่ทำงาน กินหรือพักผ่อน</CommandToggleDraftDesc>
+  <CommandToggleDraftDesc>สลับการเกณฑ์ทหาร\n\nคนโดนเกณฑ์จะรอรับคำสั่งและต่อสู้ พวกเขาจะไม่ทำงาน กิน หรือพัก</CommandToggleDraftDesc>
   <!-- EN: {1_labelShort} cannot walk. -->
   <IsIncapped>{1_labelShort} เดินไม่ได้.</IsIncapped>
 
   <!-- EN: Fire at will -->
-  <CommandFireAtWillLabel>ยิงได้ตามใจ</CommandFireAtWillLabel>
+  <CommandFireAtWillLabel>ยิงตามใจ</CommandFireAtWillLabel>
   <!-- EN: Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat. -->
-  <CommandFireAtWillDesc>เปิด-ปิดให้ยิงปืนได้ทุกเมื่อตามใจ\n\nเมื่อปิดใช้ ตัวละครนี้จะไม่ยิงใส่เป้าหมายจากระยะไกล ไม่มีผลกับการสู้ระยะประชิด</CommandFireAtWillDesc>
+  <CommandFireAtWillDesc>เปิด-ปิด ยิงปืนได้ตามใจ\n\nเมื่อปิด ตัวละครนี้ จะไม่ยิงใส่เป้าหมายจากระยะไกล ไม่มีผลกับการรบระยะประชิด</CommandFireAtWillDesc>
   
   <!-- EN: Clear prioritized work -->
-  <CommandClearPrioritizedWork>จัดลำดับความสำคัญการทำงานที่ชัดเจน</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWork>ล้างลำดับงานสำคัญ</CommandClearPrioritizedWork>
   <!-- EN: Clear any prioritized work you assigned. The character will go back to their usual self-directed activities. -->
-  <CommandClearPrioritizedWorkDesc>ล้างการจัดลำดับความสำคัญที่คุณได้รับมอบหมาย ตัวละครจะกลับไปทำกิจกรรมกำกับตนเองตามปกติ</CommandClearPrioritizedWorkDesc>
+  <CommandClearPrioritizedWorkDesc>ล้างลำดับงานสำคัญที่คุณกำหนดให้ ตัวละครจะกลับไป ทำกิจกรรมของตนเอง ตามปกติ</CommandClearPrioritizedWorkDesc>
   
   <!-- EN: Cancel -->
   <CommandCancelConstructionLabel>ยกเลิก</CommandCancelConstructionLabel>
@@ -58,18 +58,18 @@
   <CommandCancelConstructionDesc>ยกเลิกการก่อสร้างนี้</CommandCancelConstructionDesc>
 
   <!-- EN: Get out of bed -->
-  <CommandGetOutOfBedLabel>ลุกออกจากเตียง</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedLabel>ออกจากเตียง</CommandGetOutOfBedLabel>
   <!-- EN: Get out of current bed. -->
-  <CommandGetOutOfBedDesc>ลุกออกจากเตียงในปัจจุบัน</CommandGetOutOfBedDesc>
+  <CommandGetOutOfBedDesc>ลุกออกจากเตียงปัจจุบัน</CommandGetOutOfBedDesc>
 
   <!-- EN: Set owner -->
-  <CommandBedSetOwnerLabel>กำหนดเจ้าของ</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerLabel>ตั้งเจ้าของ</CommandBedSetOwnerLabel>
   <!-- EN: Assign this bed to be owned by a specific colonist. -->
-  <CommandBedSetOwnerDesc>กำหนดเตียงนี้ให้เป็นของอาณานิคมที่เฉพาะเจาะจง</CommandBedSetOwnerDesc>
+  <CommandBedSetOwnerDesc>กำหนดเตียงนี้ ให้เป็นของชาวนิคมคนใด</CommandBedSetOwnerDesc>
   <!-- EN: Assign colonist -->
-  <CommandGraveAssignColonistLabel>กำหนดอาณานิคม</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistLabel>กำหนดชาวนิคม</CommandGraveAssignColonistLabel>
   <!-- EN: Assign this grave to be owned by a specific colonist. -->
-  <CommandGraveAssignColonistDesc>กำหนดหลุมฝังศพนี้ให้เป็นเจ้าของโดยอาณานิคมเฉพาะเจาะจง</CommandGraveAssignColonistDesc>
+  <CommandGraveAssignColonistDesc>กำหนดหลุมฝังศพนี้ ให้เป็นของชาวนิคมคนใด</CommandGraveAssignColonistDesc>
   <!-- EN: Assign -->
   <BuildingAssign>กำหนด</BuildingAssign>
   <!-- EN: Reassign -->
@@ -77,21 +77,21 @@
   <!-- EN: Unassign -->
   <BuildingUnassign>เลิกกำหนด</BuildingUnassign>
   <!-- EN: For prisoners -->
-  <CommandBedSetForPrisonersLabel>ตั้งเป็นสำหรับ (นักโทษ)</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersLabel>สำหรับนักโทษ</CommandBedSetForPrisonersLabel>
   <!-- EN: Whether beds in this room should be used by prisoners. -->
-  <CommandBedSetForPrisonersDesc>กำหนดเตียงในห้องนี้เพื่อใช้โดยนักโทษ</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersDesc>กำหนดเตียงในห้องนี้ ว่าควรใช้โดยนักโทษ</CommandBedSetForPrisonersDesc>
   <!-- EN: Only beds in enclosed spaces can be set for prisoners. -->
-  <CommandBedSetForPrisonersFailOutdoors>ไม่สามารถตั้งเตียงกลางแจ้งสำหรับนักโทษได้</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetForPrisonersFailOutdoors>เตียงต้องอยู่ในพื้นที่ปิด จึงจะสามารถตั้ง ให้ใช้สำหรับนักโทษได้</CommandBedSetForPrisonersFailOutdoors>
   <!-- EN: Medical -->
-  <CommandBedSetAsMedicalLabel>ตั้งเป็นสำหรับ (การแพทย์)</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalLabel>เตียงแพทย์</CommandBedSetAsMedicalLabel>
   <!-- EN: Whether this bed is for medical use. -->
-  <CommandBedSetAsMedicalDesc>กำหนดเตียงนี้สำหรับการใช้งานทางการแพทย์</CommandBedSetAsMedicalDesc>
+  <CommandBedSetAsMedicalDesc>กำหนดว่าเตียงนี้ สำหรับใช้งานทางการแพทย์</CommandBedSetAsMedicalDesc>
   <!-- EN: Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
-  <TurningOnPrisonerBedWarning>การเปิดโหมดนักโทษมีผลต่อห้องทั้งห้องเนื่องจากนักโทษและอาณานิคมไม่สามารถนอนในห้องเดียวกันได้\n\nคนเหล่านี้จะสูญเสียการเป็นเจ้าของเตียงของพวกเขา:</TurningOnPrisonerBedWarning>
+  <TurningOnPrisonerBedWarning>การเปิดโหมดนักโทษมีผลต่อทั้งห้อง (เนื่องจากนักโทษและชาวนิคม ไม่สามารถนอนในห้องเดียวกันได้)\n\nคนเหล่านี้จะสูญเสียการเป็นเจ้าของเตียง:</TurningOnPrisonerBedWarning>
   <!-- EN: Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
-  <TurningOffPrisonerBedWarning>การปิดโหมดนักโทษมีผลต่อห้องทั้งห้องเนื่องจากนักโทษและอาณานิคมไม่สามารถนอนในห้องเดียวกันได้\n\nคนเหล่านี้จะสูญเสียการเป็นเจ้าของเตียงของพวกเขา:</TurningOffPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>การปิดโหมดนักโทษมีผลต่อทั้งห้อง (เนื่องจากนักโทษและชาวนิคม ไม่สามารถนอนในห้องเดียวกันได้)\n\nคนเหล่านี้จะสูญเสียการเป็นเจ้าของเตียง:</TurningOffPrisonerBedWarning>
   <!-- EN: Are you sure you want to do this? -->
-  <AreYouSure>คุณแน่ใจหรือไม่ว่าต้องการทำเช่นนี้?</AreYouSure>
+  <AreYouSure>คุณแน่ใจหรือว่าต้องการทำเช่นนี้?</AreYouSure>
 
   <!-- EN: Detonate -->
   <CommandDetonateLabel>จุดระเบิด</CommandDetonateLabel>
@@ -99,96 +99,96 @@
   <CommandDetonateDesc>เริ่มนับถอยหลังสู่การระเบิด</CommandDetonateDesc>
 
   <!-- EN: Rename -->
-  <CommandRenameZoneLabel>แก้ไขชื่อ</CommandRenameZoneLabel>
+  <CommandRenameZoneLabel>เปลื่ยนชื่อ</CommandRenameZoneLabel>
   <!-- EN: Rename this zone. -->
-  <CommandRenameZoneDesc>แก้ไขชื่อโซนนี้</CommandRenameZoneDesc>
+  <CommandRenameZoneDesc>แก้ไขชื่อโซน</CommandRenameZoneDesc>
 
   <!-- EN: Hide -->
   <CommandHideZoneLabel>ซ่อน</CommandHideZoneLabel>
   <!-- EN: Unhide -->
   <CommandUnhideZoneLabel>เลิกซ่อน</CommandUnhideZoneLabel>
   <!-- EN: Hide/unhide this zone. -->
-  <CommandHideZoneDesc>ซ่อน/เลิกซ่อนโซนนี้</CommandHideZoneDesc>
+  <CommandHideZoneDesc>ซ่อน/เลิกซ่อน โซน</CommandHideZoneDesc>
 
   <!-- EN: Delete -->
-  <CommandDeleteZoneLabel>ลบทิ้ง</CommandDeleteZoneLabel>
+  <CommandDeleteZoneLabel>ลบ</CommandDeleteZoneLabel>
   <!-- EN: Delete this zone. -->
   <CommandDeleteZoneDesc>ลบโซนนี้ทิ้ง</CommandDeleteZoneDesc>
 
   <!-- EN: Copy settings -->
-  <CommandCopyZoneSettingsLabel>ลอกการตั้งค่า</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsLabel>ลอกตั้งค่า</CommandCopyZoneSettingsLabel>
   <!-- EN: Copy this zone's settings to the clipboard so you can paste them onto another zone. -->
-  <CommandCopyZoneSettingsDesc>คัดลอกการตั้งค่าของโซนนี้ไปยังคลิปบอร์ดเพื่อให้คุณสามารถวางลงในอีกโซนหนึ่งได้</CommandCopyZoneSettingsDesc>
+  <CommandCopyZoneSettingsDesc>คัดลอกการตั้งค่าโซนนี้ลงคลิปบอร์ด เพื่อให้คุณสามารถวางในอีกโซนหนึ่งได้</CommandCopyZoneSettingsDesc>
 
   <!-- EN: Paste settings -->
-  <CommandPasteZoneSettingsLabel>วางการตั้งค่า</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsLabel>วางตั้งค่า</CommandPasteZoneSettingsLabel>
   <!-- EN: Overwrite this zone's settings with those previously copied to the clipboard. -->
-  <CommandPasteZoneSettingsDesc>เขียนทับการตั้งค่าของโซนนี้กับการคัดลอกก่อนหน้านี้ไปยังคลิปบอร์ด</CommandPasteZoneSettingsDesc>
+  <CommandPasteZoneSettingsDesc>เขียนทับการตั้งค่าของโซนนี้ ด้วยการตั้งค่าที่คัดลอกไว้ในคลิปบอร์ด</CommandPasteZoneSettingsDesc>
 
   <!-- EN: Allow sowing -->
-  <CommandAllowSow>อนุญาตให้หว่านเมล็ด</CommandAllowSow>
+  <CommandAllowSow>ให้หว่านเมล็ด</CommandAllowSow>
   <!-- EN: When disabled, colonists will never sow plants in this zone. They will still harvest. -->
-  <CommandAllowSowDesc>เมื่อปิดการใช้งานอาณานิคมจะไม่หว่านพืชในเขตนี้ พวกเขาจะยังคงเก็บเกี่ยว</CommandAllowSowDesc>
+  <CommandAllowSowDesc>เมื่อปิดใช้งาน ชาวนิคมจะไม่หว่านเมล็ดพืชในโซนนี้ แต่พวกเขายังคงเก็บเกี่ยวอยู่</CommandAllowSowDesc>
 
   <!-- Artillery -->
   <!-- EN: Set forced target -->
-  <CommandSetForceAttackTarget>กำหนดเป้าหมายที่บังคับ</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTarget>บังคับเป้าหมาย</CommandSetForceAttackTarget>
   <!-- EN: Sets a target that this turret must attack continuously as long as it can. -->
-  <CommandSetForceAttackTargetDesc>กำหนดเป้าหมายให้ป้อมปืนนี้ต้องโจมตีอย่างต่อเนื่องตราบเท่าที่ทำได้</CommandSetForceAttackTargetDesc>
+  <CommandSetForceAttackTargetDesc>ตั้งเป้าหมายให้ป้อมปืนนี้ ต้องโจมตีต่อเนื่อง ตราบเท่าที่ทำได้</CommandSetForceAttackTargetDesc>
   <!-- EN: Stop forced attack -->
-  <CommandStopForceAttack>หยุดการโจมตีที่ถูกบังคับ</CommandStopForceAttack>
+  <CommandStopForceAttack>หยุดบังคับโจม</CommandStopForceAttack>
   <!-- EN: Stops force-attacking and allows the turret to fire as it wishes. -->
-  <CommandStopForceAttackDesc>หยุดการโจมตีด้วยพลังและช่วยให้ป้อมปืนยิงได้ตามที่ต้องการ</CommandStopForceAttackDesc>
+  <CommandStopForceAttackDesc>หยุดการบังคับโจมตี และปล่อยให้ป้อมปืนเลือกยิงตามใจ</CommandStopForceAttackDesc>
   <!-- EN: Not currently force-attacking. -->
-  <CommandStopAttackFailNotForceAttacking>ยังไม่ได้บังคับให้โจมตี</CommandStopAttackFailNotForceAttacking>
+  <CommandStopAttackFailNotForceAttacking>ตอนนี้ไม่บังคับให้โจมตี</CommandStopAttackFailNotForceAttacking>
   <!-- EN: Extract shell -->
-  <CommandExtractShell>เก็บ กระสุนปืนใหญ่</CommandExtractShell>
+  <CommandExtractShell>คลายปลอก</CommandExtractShell>
   <!-- EN: Unloads the current shell so it can be replaced with different ammunition. -->
-  <CommandExtractShellDesc>ยกเลิกการโหลดกระสุนปืนใหญ่ ปัจจุบันเพื่อให้สามารถแทนที่ด้วยกระสุนต่างๆ</CommandExtractShellDesc>
+  <CommandExtractShellDesc>นำกระสุนปืนใหญ่ตอนนี้ออกมา เพื่อให้สามารถแทนด้วยกระสุนต่างชนิดได้</CommandExtractShellDesc>
   <!-- EN: Target beyond maximum range. -->
-  <MessageTargetBeyondMaximumRange>เป้าหมายอยู่ไกลเกิน</MessageTargetBeyondMaximumRange>
+  <MessageTargetBeyondMaximumRange>เป้าหมายไกลเกินกว่าระยะสูงสุด</MessageTargetBeyondMaximumRange>
   <!-- EN: Target below minimum range. -->
-  <MessageTargetBelowMinimumRange>เป้าหมายอยู่ใกล้เกิน</MessageTargetBelowMinimumRange>
+  <MessageTargetBelowMinimumRange>เป้าหมายใกล้กว่าระยะขั้นต่ำ</MessageTargetBelowMinimumRange>
   <!-- EN: Warning: The mortar won't fire because it's set to "Hold fire". -->
-  <MessageTurretWontFireBecauseHoldFire>คำเตือน: ปืนครกไม่สามารถยิงได้เนื่องจากถูกตั้งเป็น "ห้ามยิง"  </MessageTurretWontFireBecauseHoldFire>
+  <MessageTurretWontFireBecauseHoldFire>คำเตือน: ปืนครกไม่ยิง เนื่องจากถูกตั้งเป็น "ห้ามยิง"  </MessageTurretWontFireBecauseHoldFire>
   
   <!-- Ship computer core -->
   <!-- EN: Launch ship -->
-  <CommandShipLaunch>เปิดยาน</CommandShipLaunch>
+  <CommandShipLaunch>ปล่อยยาน</CommandShipLaunch>
   <!-- EN: Start the ship launch sequence with the current configuration. -->
-  <CommandShipLaunchDesc>เริ่มยานโดยใช้การกำหนดค่าปัจจุบัน</CommandShipLaunchDesc>
+  <CommandShipLaunchDesc>สตาร์ทกระบวนการเริ่มต้นของยาน โดยใช้องค์ประกอบปัจจุบัน</CommandShipLaunchDesc>
   <!-- EN: Show launch report -->
-  <CommandShipLaunchReport>แสดงรายงานการเปิดตัว</CommandShipLaunchReport>
+  <CommandShipLaunchReport>แสดงรายงานการ</CommandShipLaunchReport>
   <!-- EN: Show a readiness report about the ship's launch capability. -->
-  <CommandShipLaunchReportDesc>แสดงรายงานความพร้อมเกี่ยวกับความสามารถในการเปิดตัวยาน</CommandShipLaunchReportDesc>
+  <CommandShipLaunchReportDesc>แสดงรายงานความพร้อม เกี่ยวกับความสามารถในการปล่อยยาน</CommandShipLaunchReportDesc>
   <!-- EN: Start ship -->
-  <CommandShipStartup>เริ่มเดินยาน</CommandShipStartup>
+  <CommandShipStartup>สตาร์ทยาน</CommandShipStartup>
   <!-- EN: Wake up hibernating ship components. -->
-  <CommandShipStartupDesc>ตื่นขึ้นมาในส่วนของอุปกรณ์ที่จำศีล</CommandShipStartupDesc>
+  <CommandShipStartupDesc>ปลุกชิ้นส่วนอุปกรณ์ที่จำศีล</CommandShipStartupDesc>
 
   <!-- Pod -->
   <!-- EN: Eject sleeper -->
-  <CommandPodEject>ออกจากการนอน</CommandPodEject>
+  <CommandPodEject>ดีดตัว สลีปเปอร์</CommandPodEject>
   <!-- EN: Wake up the cryptosleeper and eject them. -->
-  <CommandPodEjectDesc>ตื่นขึ้นจากเครื่องนอนแช่แข็ง และไล่พวกเขา</CommandPodEjectDesc>
+  <CommandPodEjectDesc>ปลุกพวกที่อยู่ในคริปโตสลีป และดีดตัวพวกเขาออก</CommandPodEjectDesc>
   <!-- EN: Contains nobody. -->
-  <CommandPodEjectFailEmpty>ไม่มีใครเลย.</CommandPodEjectFailEmpty>
+  <CommandPodEjectFailEmpty>ไม่มีใครเลย</CommandPodEjectFailEmpty>
 
   <!-- Door -->
   <!-- EN: Passage forbidden -->
   <CommandToggleDoorForbid>ทางห้ามผ่าน</CommandToggleDoorForbid>
   <!-- EN: When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door. -->
-  <CommandToggleDoorForbidDesc>ประตูต้องห้ามชาวนิคมและพันธมิตรจะไม่ผ่านมันไป นี้ไม่ได้ส่งผลกระทบต่อวิธีการที่ศัตรูหรือสัตว์โต้ตอบกับประตู</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorForbidDesc>เมื่อหวงห้ามประตู ชาวนิคมและพันธมิตรจะเดินไม่ผ่าน แต่ไม่กระทบต่อการที่ศัตรูหรือสัตว์ โต้ตอบกับประตู</CommandToggleDoorForbidDesc>
   <!-- EN: Hold open -->
-  <CommandToggleDoorHoldOpen>เปิดค้างไว้</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpen>เปิดค้าง</CommandToggleDoorHoldOpen>
   <!-- EN: When active, your colonists will not close the door after passing through. -->
-  <CommandToggleDoorHoldOpenDesc>เมื่อใช้งานชาวนิคมของคุณจะไม่ปิดประตูหลังจากผ่าน</CommandToggleDoorHoldOpenDesc>
+  <CommandToggleDoorHoldOpenDesc>เมื่อใช้งาน ชาวนิคมของคุณจะไม่ปิดประตู หลังจากผ่านไปแล้ว</CommandToggleDoorHoldOpenDesc>
 
   <!-- Temperature control -->
   <!-- EN: Reset -->
   <CommandResetTemp>รีเซ็ต</CommandResetTemp>
   <!-- EN: Reset the target temperature to room temperature. -->
-  <CommandResetTempDesc>ตั้งค่าอุณหภูมิเป้าหมายไปที่อุณหภูมิห้อง.</CommandResetTempDesc>
+  <CommandResetTempDesc>รีเซ็ตอุณหภูมิเป้าหมาย เท่าระดับอุณหภูมิห้อง.</CommandResetTempDesc>
   <!-- EN: Raise the target temperature. -->
   <CommandRaiseTempDesc>เพิ่มอุณหภูมิเป้าหมาย</CommandRaiseTempDesc>
   <!-- EN: Lower the target temperature. -->
@@ -198,35 +198,35 @@
   <!-- EN: Install -->
   <CommandInstall>ติดตั้ง</CommandInstall>
   <!-- EN: This item is currently packaged up for storage and transport. Use this command to install this item in a final location. -->
-  <CommandInstallDesc>รายการนี้จัดทำขึ้นเพื่อจัดเก็บและขนส่ง ใช้คำสั่งนี้เพื่อติดตั้งรายการนี้ในตำแหน่งสุดท้าย</CommandInstallDesc>
+  <CommandInstallDesc>ไอเท็มตอนนี้อยู่ในหีบห่อ เพื่อการจัดเก็บและขนส่ง ใช้คำสั่งนี้เพื่อติดตั้งไอเท็ม ไปยังตำแหน่งในที่สุด</CommandInstallDesc>
   <!-- EN: Reinstall at... -->
   <CommandReinstall>ติดตั้งใหม่ที่...</CommandReinstall>
   <!-- EN: Designate this item to be uninstalled and reinstalled somewhere else. -->
-  <CommandReinstallDesc>กำหนดรายการนี้เพื่อยกเลิกการติดตั้งและติดตั้งใหม่ที่อื่น</CommandReinstallDesc>
+  <CommandReinstallDesc>บ่งชี้ว่าไอเท็มนี้ จะถูกรื้อและนำไปติดตั้งใหม่ที่อื่น</CommandReinstallDesc>
   
   <!-- Trade beacon -->
   <!-- EN: Create a stockpile around this building exactly matching the shape of the beacon's launch radius. -->
-  <CommandMakeBeaconStockpileDesc>สร้างคลังสินค้ารอบอาคารนี้ตรงกับรูปร่างของรัศมีการเปิดตัวบีคอน</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileDesc>สร้างคลังเก็บของรอบๆอาคารนี้ ให้ตรงกับรูปร่างรัศมีที่ปล่อยจากบีคอน</CommandMakeBeaconStockpileDesc>
   <!-- EN: Create stockpile -->
-  <CommandMakeBeaconStockpileLabel>สร้างที่เก็บของ</CommandMakeBeaconStockpileLabel>
+  <CommandMakeBeaconStockpileLabel>สร้างคลัง</CommandMakeBeaconStockpileLabel>
 
   <!-- Sun lamp -->
   <!-- EN: Create a growing zone around this building exactly matching the shape of the lamp's light radius. -->
-  <CommandSunLampMakeGrowingZoneDesc>สร้างโซนที่กำลังเติบโตรอบตัวอาคารนี้ตรงกับรูปร่างของรัศมีแสงของหลอดไฟ</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneDesc>สร้างโซนเพาะปลูกรอบๆอาคารนี้ ให้ตรงกับรูปร่างรัศมีจากแสงของหลอดไฟ</CommandSunLampMakeGrowingZoneDesc>
   <!-- EN: Create growing zone -->
   <CommandSunLampMakeGrowingZoneLabel>สร้างโซนเพาะปลูก</CommandSunLampMakeGrowingZoneLabel>
 
   <!-- Trap -->
   <!-- EN: Auto Rearm -->
-  <CommandAutoRearm>ตั้งกับดักอัตโนมัติ</CommandAutoRearm>
+  <CommandAutoRearm>กับดักออโต้</CommandAutoRearm>
   <!-- EN: If this is on, this trap will automatically be replaced after it springs. -->
-  <CommandAutoRearmDesc>หากเปิดอยู่ให้กับดักนี้จะถูกกำหนดขึ้นโดยอัตโนมัติเมื่อมีสปริง</CommandAutoRearmDesc>
+  <CommandAutoRearmDesc>ในขณะที่เปิดใช้ กับดักนี้จะถูกเปลื่ยนอัตโนมัติ เมื่อกับดักทำงานไปแล้ว</CommandAutoRearmDesc>
   
   <!-- Animal control -->
   <!-- EN: Release animals -->
   <CommandReleaseAnimalsLabel>ปล่อยสัตว์</CommandReleaseAnimalsLabel>
   <!-- EN: While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master. -->
-  <CommandReleaseAnimalsDesc>ในขณะที่เปิดไว้, สัตว์จะไปโจมตีล่วงหน้าก่อน และในขณะที่ปิด, พวกมันจะรักษาระยะและอยู่คุ้มกันเจ้านาย</CommandReleaseAnimalsDesc>
+  <CommandReleaseAnimalsDesc>ในขณะที่เปิดไช้ สัตว์เลี้ยงจะไปโจมตีเป้าหมายระยะไกลล่วงหน้า / ในขณะที่ปิดไช้ สัตว์จะคงอยู่ใกล้ๆ คอยคุ้มกันเจ้านาย</CommandReleaseAnimalsDesc>
   <!-- EN: No animals available. -->
   <CommandReleaseAnimalsFail_NoAnimals>ไม่มีสัตว์เลี้ยงให้ปล่อย</CommandReleaseAnimalsFail_NoAnimals>
   
@@ -234,27 +234,27 @@
   <!-- EN: Attack -->
   <CommandSquadAttack>โจมตี</CommandSquadAttack>
   <!-- EN: Order selected colonists to attack designated target. -->
-  <CommandSquadAttackDesc>สั่งให้ชาวนิคมที่เลือกโจมตีเป้าหมายที่กำหนด</CommandSquadAttackDesc>
+  <CommandSquadAttackDesc>สั่งให้ชาวนิคมที่เลือก โจมตีเป้าหมายที่ระบุ</CommandSquadAttackDesc>
   
   <!-- Melee attack -->
   <!-- EN: Melee attack -->
-  <CommandMeleeAttack>การโจมตีระยะประชิด</CommandMeleeAttack>
+  <CommandMeleeAttack>รบประชิด</CommandMeleeAttack>
   <!-- EN: Order selected colonists to attack designated target using only fists and melee weapons. -->
-  <CommandMeleeAttackDesc>สั่งให้ชาวนิคมที่เลือกเพื่อโจมตีเป้าหมายที่กำหนดโดยใช้เพียงกำปั้นและอาวุธระยะประชิด</CommandMeleeAttackDesc>
+  <CommandMeleeAttackDesc>สั่งให้ชาวนิคมที่เลือก โจมตีเป้าหมาย โดยใช้เพียงกำปั้น และอาวุธระยะประชิด</CommandMeleeAttackDesc>
 
   <!-- Hold fire -->
   <!-- EN: Hold fire -->
-  <CommandHoldFire>โจมตีที่ต่อเนื่อง</CommandHoldFire>
+  <CommandHoldFire>หยุดโจมตี</CommandHoldFire>
   <!-- EN: End any ongoing attacks. -->
-  <CommandHoldFireDesc>ยุติการโจมตีที่ต่อเนื่อง</CommandHoldFireDesc>
+  <CommandHoldFireDesc>ยุติการโจมตีใดๆก็ตามที่ดำเนินอยู่</CommandHoldFireDesc>
   
   <!-- Select plant to grow -->
   <!-- EN: Select plant to grow -->
-  <CommandSelectPlantToGrowMulti>เลือกพืชที่จะปลูก</CommandSelectPlantToGrowMulti>
+  <CommandSelectPlantToGrowMulti>เลือกพันธู์พืชที่จะปลูก</CommandSelectPlantToGrowMulti>
   <!-- EN: Plant: {0} -->
   <CommandSelectPlantToGrow>ปลูก: {0}</CommandSelectPlantToGrow>
   <!-- EN: Determine which plant should be sown here. -->
-  <CommandSelectPlantToGrowDesc>กำหนดพืชที่ควรจะหว่านที่นี่</CommandSelectPlantToGrowDesc>
+  <CommandSelectPlantToGrowDesc>ตัดสินใจพืชชนิดใด ที่ควรจะหว่านเมล็ดที่นี่</CommandSelectPlantToGrowDesc>
   
   <!-- Select mineral to scan for (long-range mineral scanner) -->
   <!-- EN: Tuned to -->
@@ -262,47 +262,47 @@
 
   <!-- Build copy -->
   <!-- EN: Build copy -->
-  <CommandBuildCopy>สร้างก๊อบปี</CommandBuildCopy>
+  <CommandBuildCopy>คัดลอก</CommandBuildCopy>
   <!-- EN: Build a copy of this building. -->
-  <CommandBuildCopyDesc>สร้างก๊อบปีของอาคารนี้</CommandBuildCopyDesc>
+  <CommandBuildCopyDesc>สร้างก๊อบปีของสิ่งก่อสร้างนี้</CommandBuildCopyDesc>
   
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
-  <CommandFormCaravan>สร้าง คาราวาน</CommandFormCaravan>
+  <CommandFormCaravan>จัดตั้งคาราวาน</CommandFormCaravan>
   <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
-  <CommandFormCaravanDesc>สร้างกลุ่มของอาณานิคมที่สามารถเดินทางไปยังพื้นที่ใหม่ได้ ชาวนิคมจะรวบรวมอุปกรณ์และสัตว์ที่ได้รับมอบหมายทั้งหมดออกจากพื้นที่ปัจจุบันและรอคำสั่งซื้อเพิ่มเติม</CommandFormCaravanDesc>
+  <CommandFormCaravanDesc>จัดตั้งกลุ่มชาวนิคมเพื่อเดินทางไปยังพื้นที่ใหม่ๆ ชาวนิคมจะรวบรวมเสบียงที่กำหนด และสัตว์ที่จะไปด้วยกัน จากนั้นออกจากพื้นที่ปัจจุบัน และรอคำสั่งต่อไป</CommandFormCaravanDesc>
   
   <!-- Reform caravan -->
   <!-- EN: Reform caravan -->
-  <CommandReformCaravan>ปรับปรุง คาราวาน</CommandReformCaravan>
+  <CommandReformCaravan>รวมตัวคาราวาน</CommandReformCaravan>
   <!-- EN: Reform a group of colonists. The colonists will leave their current area and await further orders. -->
-  <CommandReformCaravanDesc>ปฏิรูปกลุ่มอาณานิคม ผู้ล่าอาณานิคมจะออกจากพื้นที่ปัจจุบันของตนและรอคำสั่งซื้อเพิ่มเติม</CommandReformCaravanDesc>
+  <CommandReformCaravanDesc>กลุ่มของชาวนิคมจะมารวมตัวกันใหม่ จากนั้นออกจากพื้นที่ปัจจุบัน และรอคำสั่งต่อไป</CommandReformCaravanDesc>
   <!-- EN: There are still some enemies in this area. -->
   <CommandReformCaravanFailHostilePawns>ยังคงมีศัตรูอยู่ในบริเวณนี้</CommandReformCaravanFailHostilePawns>
   
   <!-- Split caravan -->
   <!-- EN: Split -->
-  <CommandSplitCaravan>แบ่งกองคาราวาน</CommandSplitCaravan>
+  <CommandSplitCaravan>แบ่งคาราวาน</CommandSplitCaravan>
   <!-- EN: Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other. -->
-  <CommandSplitCaravanDesc>แบ่งกองคาราวานออกเป็นสองส่วน คาราวานสามารถรวมเข้าด้วยกันได้ในภายหลังตราบเท่าที่พวกเขาอยู่ใกล้กันและกัน</CommandSplitCaravanDesc>
+  <CommandSplitCaravanDesc>แบ่งกองคาราวานออกเป็นสองส่วน คาราวานสามารถรวมเข้าด้วยกันได้ในภายหลัง ตราบเท่าที่พวกเขาอยู่ใกล้กันและกัน</CommandSplitCaravanDesc>
   
   <!-- Merge caravan -->
   <!-- EN: Merge -->
   <CommandMergeCaravans>รวมคาราวาน</CommandMergeCaravans>
   <!-- EN: Merge selected caravans. -->
-  <CommandMergeCaravansDesc>รวมคาราวานที่เลือกไว้</CommandMergeCaravansDesc>
+  <CommandMergeCaravansDesc>รวมคาราวานที่เลือก</CommandMergeCaravansDesc>
   <!-- EN: Select all caravans which should be merged. The caravans must be close to each other. -->
   <CommandMergeCaravansFailCaravansNotSelected>เลือกคาราวานทั้งหมดที่ควรจะผสาน คาราวานต้องอยู่ใกล้กันและกัน</CommandMergeCaravansFailCaravansNotSelected>
   
   <!-- Settle -->
   <!-- EN: Settle -->
-  <CommandSettle>สร้างบ้านใหม่</CommandSettle>
+  <CommandSettle>ตั้งถิ่นฐาน</CommandSettle>
   <!-- EN: Settle in this area. Your colonists will enter this area and you will be able to start building a new home. -->
-  <CommandSettleDesc>ตั้งถิ่นฐานในบริเวณนี้ อาณานิคมของคุณจะเข้าสู่พื้นที่นี้และคุณจะสามารถเริ่มสร้างบ้านใหม่ได้</CommandSettleDesc>
+  <CommandSettleDesc>ตั้งถิ่นฐานในบริเวณนี้ ชาวนิคมของคุณจะเข้าสู่พื้นที่นี้ และคุณจะสามารถเริ่มสร้างบ้านใหม่ได้</CommandSettleDesc>
   <!-- EN: Your faction can only have one base. -->
   <CommandSettleFailAlreadyHaveBase>ฝ่ายของคุณสามารถมีได้เพียงฐานเดียวเท่านั้น</CommandSettleFailAlreadyHaveBase>
   <!-- EN: Reached maximum number of colonies. -->
-  <CommandSettleFailReachedMaximumNumberOfBases>มีอาณานิคมครบจำนวนแล้ว</CommandSettleFailReachedMaximumNumberOfBases>
+  <CommandSettleFailReachedMaximumNumberOfBases>มีอาณานิคมเต็มจำนวนแล้ว</CommandSettleFailReachedMaximumNumberOfBases>
   <!-- EN: There isn't anybody there to claim the area. -->
   <CommandSettleFailNoColonists>ไม่มีใครไปอ้างสิทธิ์ในพื้นที่นี้</CommandSettleFailNoColonists>
   <!-- EN: There are enemies in this area. -->
@@ -312,15 +312,15 @@
   <!-- EN: Abandon -->
   <CommandAbandonHome>ละทิ้ง</CommandAbandonHome>
   <!-- EN: Abandon this area. The area will become inaccessible and you will not be able to return here ever again. After abandoning your home, you will be able to order one of your caravans to settle in a new area. -->
-  <CommandAbandonHomeDesc>ละทิ้งบริเวณนี้ พื้นที่จะไม่สามารถเข้าถึงได้และคุณจะไม่สามารถกลับมาที่นี่ได้อีกครั้ง หลังจากออกจากบ้านคุณจะสามารถสั่งหนึ่งในคาราวานของคุณเพื่อสร้างในพื้นที่ใหม่</CommandAbandonHomeDesc>
+  <CommandAbandonHomeDesc>ละทิ้งพื้นที่นี้ บริเวณนี้จะไม่สามารถเข้าถึงได้อีก และคุณจะไม่สามารถกลับมาที่นี่ได้อีกเลย หลังจากทิ้งบ้านคุณไป คุณจะสามารถสั่งการหนึ่งในคาราวานของคุณ ให้ตั้งถิ่นฐานในพื้นที่ใหม่ได้</CommandAbandonHomeDesc>
   <!-- EN: All of your colonists are there. -->
-  <CommandAbandonHomeFailAllColonistsThere>อาณานิคมทั้งหมดของคุณอยู่ที่นั่น</CommandAbandonHomeFailAllColonistsThere>
+  <CommandAbandonHomeFailAllColonistsThere>ชาวนิคมทั้งหมดของคุณอยู่ที่นั่น</CommandAbandonHomeFailAllColonistsThere>
   
   <!-- Cancel forming caravan -->
   <!-- EN: Cancel forming caravan -->
-  <CommandCancelFormingCaravan>ยกเลิกการขึ้นรูปคาราวาน</CommandCancelFormingCaravan>
+  <CommandCancelFormingCaravan>ยกเลิกจัดตั้ง กองคาราวาน</CommandCancelFormingCaravan>
   <!-- EN: Terminate the caravan formation process. -->
-  <CommandCancelFormingCaravanDesc>ยุติกระบวนการสร้างกองคาราวาน</CommandCancelFormingCaravanDesc>
+  <CommandCancelFormingCaravanDesc>ยุติกระบวนการจัดตั้งกองคาราวาน</CommandCancelFormingCaravanDesc>
 
   <!-- Remove from caravan -->
   <!-- EN: Remove from caravan -->
@@ -342,25 +342,25 @@
   
   <!-- Trade -->
   <!-- EN: Trade -->
-  <CommandTrade>การค้า</CommandTrade>
+  <CommandTrade>ค้าขาย</CommandTrade>
   <!-- EN: Trade with this faction. -->
-  <CommandTradeDesc>การค้ากับฝ่ายนี้</CommandTradeDesc>
+  <CommandTradeDesc>ข้าขายแลกเปลื่ยนกับฝ่ายนี้</CommandTradeDesc>
   <!-- EN: There isn't any conscious and capable negotiator. -->
-  <CommandTradeFailNoNegotiator>ไม่มีสติจะไม่เจรจาต่อรอง</CommandTradeFailNoNegotiator>
+  <CommandTradeFailNoNegotiator>ไม่มีคนต่อรองที่มีความสามารถ หรือยังมีสติอยู่</CommandTradeFailNoNegotiator>
 
   <!-- Offer gifts -->
   <!-- EN: Offer gifts -->
   <CommandOfferGifts>เสนอของขวัญ</CommandOfferGifts>
   <!-- EN: Offer gifts to this faction. -->
-  <CommandOfferGiftsDesc>นำเสนอของขวัญให้ฝักฝ่ายนี้</CommandOfferGiftsDesc>
+  <CommandOfferGiftsDesc>นำเสนอของขวัญให้ฝ่ายนี้</CommandOfferGiftsDesc>
 
   <!-- Fulfill request -->
   <!-- EN: Fulfill trade offer -->
-  <CommandFulfillTradeOffer>ปฏิบัติตามข้อเสนอการค้า</CommandFulfillTradeOffer>
+  <CommandFulfillTradeOffer>เติมเต็มข้อเสนอ</CommandFulfillTradeOffer>
   <!-- EN: Fulfill the settlement's request for goods and claim your reward. -->
-  <CommandFulfillTradeOfferDesc>ปฏิบัติตามคำร้องขอข้อเสนอการค้าของนิคมอุตสาหกรรมและเรียกร้องค่าตอบแทนของคุณ</CommandFulfillTradeOfferDesc>
+  <CommandFulfillTradeOfferDesc>ปฏิบัติตามข้อเสนอที่ถิ่นฐานนี้ต้องการ และรับรางวัลของคุณ</CommandFulfillTradeOfferDesc>
   <!-- EN: Your caravan must have {0} to fulfill this trade offer. -->
-  <CommandFulfillTradeOfferFailInsufficient>กองคาราวานของคุณต้องมี {0} เพื่อตอบสนองข้อเสนอการค้านี้</CommandFulfillTradeOfferFailInsufficient>
+  <CommandFulfillTradeOfferFailInsufficient>กองคาราวานของคุณต้องมี {0} เพื่อตอบสนองข้อเสนอนี้</CommandFulfillTradeOfferFailInsufficient>
   <!-- EN: Offer {0} for {1}? -->
   <CommandFulfillTradeOfferConfirm>เสนอ {0} สำหรับ {1}?</CommandFulfillTradeOfferConfirm>
   
@@ -368,85 +368,85 @@
   <!-- EN: Take off -->
   <CommandTakeOff>บินขึ้น</CommandTakeOff>
   <!-- EN: Get on board the ship and escape the planet. -->
-  <CommandTakeOffDesc>ลงยานและออกจากโลก</CommandTakeOffDesc>
+  <CommandTakeOffDesc>ขึ้นยานและหลบหนีออกจากดาวเคราะห์</CommandTakeOffDesc>
   <!-- EN: Are you sure you want to launch the ship?\n\nEveryone in this area will escape the planet. Everyone else will be left behind. -->
-  <CommandTakeOffConfirmation>คุณแน่ใจหรือไม่ว่าต้องการเปิดยาน?\n\nทุกคนในพื้นที่นี้จะออกจากโลกได้ คนอื่นจะถูกทิ้งไว้ข้างหลัง</CommandTakeOffConfirmation>
+  <CommandTakeOffConfirmation>คุณแน่ใจหรือ ว่าต้องการปล่อยยาน?\n\nทุกคนในบริเวณนี้จะหลบหนีออกจากดาวเคราห์ คนอื่นนอกจากนี้จะถูกทิ้งไว้ข้างหลัง</CommandTakeOffConfirmation>
   
   <!-- Set target fuel level -->
   <!-- EN: Set target fuel level -->
-  <CommandSetTargetFuelLevel>กำหนดระดับเชื้อเพลิง</CommandSetTargetFuelLevel>
+  <CommandSetTargetFuelLevel>ตั้งระดับเชื้อเพลิง</CommandSetTargetFuelLevel>
   <!-- EN: Set the target fuel level. Colonists will attempt to fill this up to the target fuel level. -->
-  <CommandSetTargetFuelLevelDesc>กำหนดระดับเชื้อเพลิง ผู้ล่าอาณานิคมจะพยายามเติมเชื้อเพลิงให้เต็มระดับ</CommandSetTargetFuelLevelDesc>
+  <CommandSetTargetFuelLevelDesc>ตั้งระดับเชื้อเพลิงเป้าหมาย ชาวนิคมจะพยายามเติมเชื้อเพลิง จนถึงระดับที่ระบุ</CommandSetTargetFuelLevelDesc>
   
   <!-- Cancel load -->
   <!-- EN: Cancel load -->
   <CommandCancelLoad>ยกเลิกโหลด</CommandCancelLoad>
   <!-- EN: Cancel loading this with people or items and eject everything already loaded. -->
-  <CommandCancelLoadDesc>ยกเลิกการโหลดข้อมูลนี้กับบุคคลหรือรายการและนำทุกอย่างที่โหลดไปแล้ว</CommandCancelLoadDesc>
+  <CommandCancelLoadDesc>ยกเลิกการโหลดคนหรือไอเท็มขึ้นไป และดีดสิ่งที่โหลดไปแล้วออกมาหมด</CommandCancelLoadDesc>
   
   <!-- Launch group -->
   <!-- EN: Launch group -->
-  <CommandLaunchGroup>เปิดกลุ่ม</CommandLaunchGroup>
+  <CommandLaunchGroup>ปล่อยกลุ่ม</CommandLaunchGroup>
   <!-- EN: Initiates the targeting process for launching a group of transport pods. The next step is choosing a target. The pods will fly and land together. -->
-  <CommandLaunchGroupDesc>เริ่มกระบวนการกำหนดเป้าหมายสำหรับการเปิดกลุ่มของกลุ่มการขนส่ง ขั้นตอนต่อไปคือการเลือกเป้าหมาย กระสวยจะบินและลงที่ดินด้วยกัน</CommandLaunchGroupDesc>
+  <CommandLaunchGroupDesc>เริ่มกระบวนการหาเป้าหมาย สำหรับการปล่อยตัวกลุ่มกระสวยขนส่ง ขั้นตอนต่อไปคือการเลือกเป้าหมาย กระสวยจะบินและลงจอดไปด้วยกัน</CommandLaunchGroupDesc>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
-  <CommandLaunchGroupFailNotConnectedToFuelingPort>กระสวยขนส่งบางส่วนในกลุ่มโหลดนี้ไม่ได้เชื่อมต่อกับพอร์ตการเติมเชื้อเพลิง</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>บางกระสวยขนส่งในกลุ่มกำลังโหลด ไม่ได้เชื่อมต่อช่องเติมเชื้อเพลิง</CommandLaunchGroupFailNotConnectedToFuelingPort>
   <!-- EN: Some pod launchers in this group have no fuel. -->
-  <CommandLaunchGroupFailNoFuel>เครื่องยิงกระสวยบางชนิดในกลุ่มนี้ไม่มีเชื้อเพลิง</CommandLaunchGroupFailNoFuel>
+  <CommandLaunchGroupFailNoFuel>เครื่องยิงกระสวยบางส่วนในกลุ่มนี้ ไม่มีเชื้อเพลิง</CommandLaunchGroupFailNoFuel>
   <!-- EN: Some pod launchers are under a roof. -->
-  <CommandLaunchGroupFailUnderRoof>เครื่องยิงกระสวยบางตัวอยู่ใต้หลังคา</CommandLaunchGroupFailUnderRoof>
+  <CommandLaunchGroupFailUnderRoof>เครื่องยิงกระสวย อยู่ใต้หลังคา</CommandLaunchGroupFailUnderRoof>
   
   <!-- Load transporter -->
   <!-- EN: Load launch group of {0} -->
-  <CommandLoadTransporter>โหลดกลุ่มการเปิดตัวของ {0}</CommandLoadTransporter>
+  <CommandLoadTransporter>โหลดกลุ่มปล่อยตัว ของ {0}</CommandLoadTransporter>
   <!-- EN: Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandLoadTransporterDesc>กำหนดขนย้ายที่เลือก (s) เป็นกลุ่มเปิดตัว เปิดกล่องโต้ตอบการโหลดเพื่อให้คุณสามารถตัดสินใจว่าใครและสิ่งที่ควรจะโหลดภายใน</CommandLoadTransporterDesc>
+  <CommandLoadTransporterDesc>นิยมยานบรรทุกที่เลือกให้เป็นกลุ่มปล่อยตัว เปิดหน้าต่างโหลดของ เพื่อคุณสามารถตัดสินใจได้ว่าใครและสิ่งใด ควรจะโหลดเข้าภายใน</CommandLoadTransporterDesc>
   <!-- EN: The transport pod is not connected to a fueling port. -->
-  <CommandLoadTransporterFailNotConnectedToFuelingPort>กระสวยขนส่งไม่ได้เชื่อมต่อกับพอร์ตการเติมน้ำมัน</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  <CommandLoadTransporterFailNotConnectedToFuelingPort>กระสวยขนส่งไม่ได้เชื่อมต่อกับช่องเติมน้ำมัน</CommandLoadTransporterFailNotConnectedToFuelingPort>
   <!-- EN: The pod launcher has no fuel. -->
-  <CommandLoadTransporterFailNoFuel>ปล่อยกระสวยมีไม่มีเชื้อเพลิง</CommandLoadTransporterFailNoFuel>
+  <CommandLoadTransporterFailNoFuel>เครื่องยิงกระสวยไม่มีเชื้อเพลิง</CommandLoadTransporterFailNoFuel>
   
   <!-- Select previous transporter -->
   <!-- EN: Select previous in launch group -->
-  <CommandSelectPreviousTransporter>เลือกกลุ่มที่เปิดตัวก่อนหน้านี้</CommandSelectPreviousTransporter>
+  <CommandSelectPreviousTransporter>เลือกกลุ่มปล่อยก่อนหน้า</CommandSelectPreviousTransporter>
   <!-- EN: Select previous transport pod in this launch group. -->
-  <CommandSelectPreviousTransporterDesc>เลือกกระสวยขนส่งก่อนหน้านี้ในกลุ่มการเปิดตัวนี้</CommandSelectPreviousTransporterDesc>
+  <CommandSelectPreviousTransporterDesc>เลือกกระสวยขนส่งก่อนหน้า ในกลุ่มปล่อยตัวนี้</CommandSelectPreviousTransporterDesc>
   
   <!-- Select all transporters -->
   <!-- EN: Select launch group -->
-  <CommandSelectAllTransporters>เลือกกลุ่มการเปิดตัว</CommandSelectAllTransporters>
+  <CommandSelectAllTransporters>เลือกกลุ่มปล่อยตัว</CommandSelectAllTransporters>
   <!-- EN: Select all transport pods in this launch group. -->
-  <CommandSelectAllTransportersDesc>เลือกกระสวยขนส่งทั้งหมดในกลุ่มการเปิดตัวนี้</CommandSelectAllTransportersDesc>
+  <CommandSelectAllTransportersDesc>เลือกกระสวยขนส่งทั้งหมด ในกลุ่มปล่อยตัวนี้</CommandSelectAllTransportersDesc>
   
   <!-- Select next transporter -->
   <!-- EN: Select next in launch group -->
-  <CommandSelectNextTransporter>เลือกกลุ่มการเปิดตัวถัดไป</CommandSelectNextTransporter>
+  <CommandSelectNextTransporter>เลือกถัดไป ในกลุ่มปล่อยตัว</CommandSelectNextTransporter>
   <!-- EN: Select next transport pod in this launch group. -->
-  <CommandSelectNextTransporterDesc>เลือกกลุ่มขนส่งต่อไปในกลุ่มเปิดตัวนี้</CommandSelectNextTransporterDesc>
+  <CommandSelectNextTransporterDesc>เลือกกระสวยขนส่งถัดไป ในกลุ่มปล่อยตัวนี้</CommandSelectNextTransporterDesc>
   
   <!-- Vent -->
   <!-- EN: Designate open/close -->
-  <CommandDesignateOpenCloseVentLabel>กำหนด เปิด/ปิด</CommandDesignateOpenCloseVentLabel>
+  <CommandDesignateOpenCloseVentLabel>ระบุการ เปิด/ปิด</CommandDesignateOpenCloseVentLabel>
   <!-- EN: Designate this vent to be opened or closed. A colonist will come soon to perform the task. -->
-  <CommandDesignateOpenCloseVentDesc>กำหนดช่องระบายอากาศนี้จะได้รับการเปิดหรือปิด อาณานิคมจะมาเร็ว ๆ นี้ที่จะทำงาน</CommandDesignateOpenCloseVentDesc>
+  <CommandDesignateOpenCloseVentDesc>บ่งชี้ช่องระบายอากาศให้เปิดหรือปิด ชาวนิคมจะมาโดยเร็วเพื่อทำงานนี้</CommandDesignateOpenCloseVentDesc>
   
   <!-- Remove waypoint -->
   <!-- EN: Remove -->
-  <CommandRemoveWaypointLabel>เอาออก</CommandRemoveWaypointLabel>
+  <CommandRemoveWaypointLabel>ลบออก</CommandRemoveWaypointLabel>
   <!-- EN: Remove this waypoint. -->
-  <CommandRemoveWaypointDesc>นำ กระสวยนี้ออก</CommandRemoveWaypointDesc>
+  <CommandRemoveWaypointDesc>ลบเวย์พอยท์นี้</CommandRemoveWaypointDesc>
 
   <!-- Pause caravan -->
   <!-- EN: Rest -->
   <CommandPauseCaravan>พัก</CommandPauseCaravan>
   <!-- EN: Start resting. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1} -->
-  <CommandToggleCaravanPauseDesc>เพิ่มผักผ่อน มีประโยชน์ดังนี้:\n\n  - ผู้คนได้ปฏิสัมพันธ์ทางสังคมกัน\n  - ออกหาอาหารเร็วขึ้น {0} เท่า\n  - ระยะมองเห็นไกลขึ้น {1} เท่า</CommandToggleCaravanPauseDesc>
+  <CommandToggleCaravanPauseDesc>เริ่มพักผ่อน มีประโยชน์ดังนี้:\n\n  - ผู้คนได้ปฏิสัมพันธ์ทางสังคมกัน\n  - ออกหาอาหารเร็วขึ้น {0} เท่า\n  - ระยะมองเห็นไกลทวีคูณขึ้น {1} เท่า</CommandToggleCaravanPauseDesc>
   
   <!-- Show sellable items -->
   <!-- EN: Show what will buy -->
   <CommandShowSellableItems>แสดงว่าอะไรจะซื้อ</CommandShowSellableItems>
   <!-- EN: Show everything this trader wants to buy. -->
-  <CommandShowSellableItemsDesc>แสดงทุกอย่างที่ผู้ค้าคนนี้รับซื้อ</CommandShowSellableItemsDesc>
+  <CommandShowSellableItemsDesc>แสดงทุกอย่างที่พ่อค้าคนนี้รับซื้อ</CommandShowSellableItemsDesc>
 
   <!-- Attack settlement -->
   <!-- EN: Attack -->
