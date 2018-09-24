@@ -14,7 +14,7 @@ Quick summary from current translation report (w/ notes):
   * :ballot_box_with_check: (0) General load errors
   * :ballot_box_with_check: (0) Def-injected translations load errors
   * :ballot_box_with_check: (0) Backstories load errors
-  * :black_square_button: (210) Missing keyed translations
+  * :black_square_button: (196) Missing keyed translations
   * :black_square_button: (4499) Def-injected translations missing
   * :black_square_button: (2055) Backstory translations missing
     > This will be translate last, after all other translations is done, the problem it's simply lack of man-power.

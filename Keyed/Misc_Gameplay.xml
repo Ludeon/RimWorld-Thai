@@ -71,7 +71,7 @@
   <!-- EN: Equipment -->
   <Equipment>อุปกรณ์</Equipment>
   <!-- EN: Apparel -->
-  <Apparel>เสื้อผ้า</Apparel>
+  <Apparel>เครื่องนุ่งห่ม</Apparel>
   <!-- EN: Inventory -->
   <Inventory>ของติดตัว</Inventory>
   <!-- EN: Information -->
@@ -563,7 +563,7 @@
 
   <!-- Pawn info readout -->
   <!-- EN: {PAWN_gender} {1} -->
-  <PawnMainDescGendered>{1} {PAWN_gender}</PawnMainDescGendered>
+  <PawnMainDescGendered>{1} เพศ{PAWN_gender}</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
   <PawnMainDescFactionedWrap>{0} ฝ่าย{1}</PawnMainDescFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->

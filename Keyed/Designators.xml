@@ -4,152 +4,152 @@
   <!-- EN: Cancel -->
   <DesignatorCancel>ยกเลิก</DesignatorCancel>
   <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
-  <DesignatorCancelDesc>ยกเลิกกำหนดการสร้าง, ขุดเหมือง, ขนของ, เก็บเกี่ยว, และที่กำหนดอื่นๆทั้งหมด</DesignatorCancelDesc>
+  <DesignatorCancelDesc>ยกเลิกการกระทำ ไม่ว่าจะก่อสร้าง, ขุดเหมือง, ขนของ, เก็บเกี่ยว, และอื่นๆทั้งหมด ที่ได้บ่งชี้ไว้</DesignatorCancelDesc>
 
   <!-- EN: Cut plants -->
-  <DesignatorCutPlants>ตัดต้นไม้</DesignatorCutPlants>
+  <DesignatorCutPlants>ตัดพืชไม้</DesignatorCutPlants>
   <!-- EN: Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested. -->
-  <DesignatorCutPlantsDesc>กำหนดต้นไม้ที่จะโค่นและทำลายทิ้ง ต้นไม้จะถูกเอาออกทั้งหมด ส่วนผลผลิตที่มีจะเก็บเกี่ยวเอาไว้</DesignatorCutPlantsDesc>
+  <DesignatorCutPlantsDesc>ทำเครื่องหมายพืชที่จะตัดและทำลายทิ้ง พืชพันธุ์จะถูกเอาออกทั้งหมด ส่วนอาหารหรือผลผลิตที่มี จะถูกเก็บเกี่ยวไว้</DesignatorCutPlantsDesc>
 
   <!-- EN: Deconstruct -->
-  <DesignatorDeconstruct>รื้อสิ่งก่อสร้าง</DesignatorDeconstruct>
+  <DesignatorDeconstruct>รื้อถอน</DesignatorDeconstruct>
   <!-- EN: Deconstruct this and reclaim part of its resources. -->
-  <DesignatorDeconstructDesc>รื้อสิ้งก่อสร้างนี้ และเอาชิ้นส่วนวัสดุกลับคืนมา</DesignatorDeconstructDesc>
+  <DesignatorDeconstructDesc>รื้อถอนสิ่งนี้ และได้ทรัพยากร\nบางส่วนกลับคืนมา</DesignatorDeconstructDesc>
 
   <!-- EN: Uninstall -->
-  <DesignatorUninstall>ถอนการติดตั้ง</DesignatorUninstall>
+  <DesignatorUninstall>ถอนติดตั้ง</DesignatorUninstall>
   <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
-  <DesignatorUninstallDesc>ถอนการติดตั้งเพื่อที่จะได้ย้าย, ขาย, หรือเอาไปติดตั้งที่อื่น</DesignatorUninstallDesc>
+  <DesignatorUninstallDesc>ถอนการติดตั้งสิ่งนี้ เพิ่อให้สามารถ ย้าย, ขาย, หรือนำไปติดตั้งที่อื่นได้</DesignatorUninstallDesc>
 
   <!-- EN: Harvest -->
   <DesignatorHarvest>เก็บเกี่ยว</DesignatorHarvest>
   <!-- EN: Marks plants to be harvested for their food or other products. -->
-  <DesignatorHarvestDesc>กำหนดต้นไม้ที่จะเก็บเกี่ยวเอามาเป็นอาหารและผลผลิตอื่นๆ</DesignatorHarvestDesc>
+  <DesignatorHarvestDesc>ทำเครื่องหมายพืชที่จะเก็บเกี่ยว มาเป็นอาหาร และผลผลิตอื่นๆ</DesignatorHarvestDesc>
 
   <!-- EN: Chop wood -->
   <DesignatorHarvestWood>ตัดไม้</DesignatorHarvestWood>
   <!-- EN: Marks trees to be chopped down for wood. -->
-  <DesignatorHarvestWoodDesc>กำหนดต้นไม้ที่จะโค่นมาเป็นไม้</DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWoodDesc>ทำเครื่องหมายต้นไม้ ที่จะโค่นลงมาเป็นไม้</DesignatorHarvestWoodDesc>
 
   <!-- EN: Haul things -->
   <DesignatorHaulThings>ขนของ</DesignatorHaulThings>
   <!-- EN: Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
-  <DesignatorHaulThingsDesc>กำหนดก้อนหินและสิ่งของอื่นๆที่จะขนไปยังเขตที่ทิ้ง ไม่จำเป็นสำหรับอาหารหรือศพ, ซึ่งขนได้โดนปกติอยู่แล้ว</DesignatorHaulThingsDesc>
+  <DesignatorHaulThingsDesc>ทำเครื่องหมายก้อนหิน และไอเท็มอื่นๆ ซึ่งจะขนไปยังพื้นที่ทิ้งของ ไม่จำเป็นสำหรับพวกอาหารหรือศพ ซึ่งขนได้โดนปกติอยู่แล้ว</DesignatorHaulThingsDesc>
   <!-- EN: Can only designate haulable but non-always-hauled things (like rock chunks). -->
-  <MustHaulHaulables>สามารถกำหนดสิ่งที่ขนได้แต่ไม่ใช่สิ่งที่ปกติขนได้อยู่แล้วเท่านั้น (เช่นก้อนหิน)</MustHaulHaulables>
+  <MustHaulHaulables>สามารถบ่งชี้สิ่ง *ที่ขนได้* เท่านั้น ไม่ใช่ *สิ่งไม่ได้ขนเสมอไป* (เช่นก้อนหิน)</MustHaulHaulables>
 
   <!-- EN: Hunt -->
   <DesignatorHunt>ล่าสัตว์</DesignatorHunt>
   <!-- EN: Mark animals to be hunted by your hunters. -->
-  <DesignatorHuntDesc>กำหนดสัตว์ที่จะล่าโดยนักล่าของคุณ</DesignatorHuntDesc>
+  <DesignatorHuntDesc>ทำเครื่องหมายสัตว์ ที่จะให้พราน\nของคุณออกล่า</DesignatorHuntDesc>
 
   <!-- EN: Mine -->
   <DesignatorMine>ขุดเหมือง</DesignatorMine>
   <!-- EN: Designate areas of rock to be mined out. -->
-  <DesignatorMineDesc>กำหนดเขตของหินที่จะถูกขุดเหมืองออก</DesignatorMineDesc>
+  <DesignatorMineDesc>บ่งชี้พื้นที่ของหิน ที่จะถูกขุด</DesignatorMineDesc>
 
   <!-- EN: Smooth surface -->
   <DesignatorSmoothSurface>ขัดพื้นผิว</DesignatorSmoothSurface>
   <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
-  <DesignatorSmoothSurfaceDesc>กำหนดกำแพงหรือผืนดินที่เป็นหินหยาบเพื่อขัดให้เรียบ</DesignatorSmoothSurfaceDesc>
+  <DesignatorSmoothSurfaceDesc>บ่งชี้พื้นหรือกำแพงหินหยาบ ที่จะถูกทำให้เรียบ</DesignatorSmoothSurfaceDesc>
 
   <!-- EN: Plan -->
-  <DesignatorPlan>ผัง</DesignatorPlan>
+  <DesignatorPlan>แผนผัง</DesignatorPlan>
   <!-- EN: Place planning designations. These don't do anything except help you plan future expansions. -->
-  <DesignatorPlanDesc>กำหนดวางผัง ไม่ได้มีอะไรนอกจากช่วยในการวางแผนการขยายในอนาคต</DesignatorPlanDesc>
+  <DesignatorPlanDesc>วางแบบแปลนที่บ่งชี้ไว้ ซึ่งไม่ได้ทำอะไรเลย นอกจากช่วยในการวางแผน ขยับขยายในอนาคต</DesignatorPlanDesc>
 
   <!-- EN: Remove plans -->
-  <DesignatorPlanRemove>เอาผังออก</DesignatorPlanRemove>
+  <DesignatorPlanRemove>ลบแผนผัง</DesignatorPlanRemove>
   <!-- EN: Remove planning designations. -->
-  <DesignatorPlanRemoveDesc>เอาผังที่กำหนดออก</DesignatorPlanRemoveDesc>
+  <DesignatorPlanRemoveDesc>เอาแบบแปลนที่บ่งชี้ไว้ออก</DesignatorPlanRemoveDesc>
 
   <!-- EN: Forbid -->
   <DesignatorForbid>ห้าม</DesignatorForbid>
   <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
-  <DesignatorForbidDesc>มาร์คไอเท็มว่าเป็นสิ่งต้องห้าม ชาวนิคมจะไม่สามารถทำอะไรกับไอเท็มที่ระบุได้</DesignatorForbidDesc>
+  <DesignatorForbidDesc>ทำเครื่องหมายไอเท็ม ว่าเป็นสิ่งต้องห้าม\n\nชาวนิคมจะไม่สามารถทำอะไร กับไอเท็มที่ระบุได้</DesignatorForbidDesc>
 
   <!-- EN: Unforbid -->
   <DesignatorUnforbid>ถอนห้าม</DesignatorUnforbid>
   <!-- EN: Mark items as unforbidden. Colonists will be able to interact with the designated items. -->
-  <DesignatorUnforbidDesc>มาร์คไอเท็มว่าไม่ใช่สิ่งต้องห้าม ชาวนิคมจะสามารถจับต้องไอเท็มที่ระบุได้</DesignatorUnforbidDesc>
+  <DesignatorUnforbidDesc>ทำเครื่องหมายไอเท็ม ว่าไม่ใช่สิ่งต้องห้าม\n\nชาวนิคมจะสามารถจับต้อง ไอเท็มที่ระบุได้</DesignatorUnforbidDesc>
 
   <!-- EN: Expand home area -->
   <DesignatorAreaHomeExpand>ขยายเขตบ้าน</DesignatorAreaHomeExpand>
   <!-- EN: Colonists will repair buildings, clean floors, and extinguish fires only in the home area. -->
-  <DesignatorAreaHomeExpandDesc>ชาวนิคมจะซ่อมแซมอาคาร, กวาดพื้น, และดับเพลิงไหม้เฉพาะในเขตบ้านนี้เท่านั้น</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeExpandDesc>ชาวนิคมจะซ่อมแซมอาคาร, ทำความสะอาดพื้น, ดับเพลิง เฉพาะใน *เขตบ้าน* เท่านั้น</DesignatorAreaHomeExpandDesc>
   <!-- EN: Clear home area -->
   <DesignatorAreaHomeClear>ล้างเขตบ้าน</DesignatorAreaHomeClear>
   <!-- EN: Removes a home area. Colonists will no longer clean, repair, or extinguish fires here. -->
-  <DesignatorAreaHomeClearDesc>เอาเขตบ้านออก ชาวนิคมจะไม่ทำความสะอาด, ซ่อมแซม, หรือดับเพลิงที่นี่</DesignatorAreaHomeClearDesc>
+  <DesignatorAreaHomeClearDesc>ลบเขตบ้านออก ชาวนิคมจะไม่ ทำความสะอาด, ซ่อมแซม, หรือดับเพลิง</DesignatorAreaHomeClearDesc>
 
   <!-- EN: Build roof area -->
-  <DesignatorAreaBuildRoofExpand>ขยายเขคที่สร้างหลังคา</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpand>ขยายเขตหลังคา</DesignatorAreaBuildRoofExpand>
   <!-- EN: Colonists will build roofs in this area. -->
-  <DesignatorAreaBuildRoofExpandDesc>ชาวนิคมจะสร้างหลังคาในพื้นที่นี้</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofExpandDesc>ชาวนิคมจะสร้างหลังคาในบริเวณนี้</DesignatorAreaBuildRoofExpandDesc>
 
   <!-- EN: Remove roof area -->
-  <DesignatorAreaNoRoofExpand>ขยายเขตปลอดหลังคา</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpand>ลบเขตหลังคา</DesignatorAreaNoRoofExpand>
   <!-- EN: Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
-  <DesignatorAreaNoRoofExpandDesc>สร้างเขตที่จะไม่มีหลังคา และจะรื้อหลังคาแบบบางที่มีก่อนหน้านี้ลงมา</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofExpandDesc>ชาวนิคมจะรื้อหลังคาในบริเวณนี้ (ยกเว้นภูเขาเหนือหัว ซึ่งรื้อไม่ได้)</DesignatorAreaNoRoofExpandDesc>
 
   <!-- EN: Ignore roof area -->
-  <DesignatorAreaIgnoreRoofExpand>ละเขตหลังคา</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpand>เมินเขตหลังคา</DesignatorAreaIgnoreRoofExpand>
   <!-- EN: Colonists will ignore roofs in this area. -->
-  <DesignatorAreaIgnoreRoofExpandDesc>ชาวนิคมจะไม่สนใจหลังคาในพื้นที่นี้</DesignatorAreaIgnoreRoofExpandDesc>
+  <DesignatorAreaIgnoreRoofExpandDesc>ชาวนิคมจะไม่สนใจ ว่าในบริเวณนี้ จะมีหลังคาหรือไม่</DesignatorAreaIgnoreRoofExpandDesc>
 
   <!-- EN: Expand snow clear area -->
-  <DesignatorAreaSnowClearExpand>ขยายเขตปลอดหิมะ</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpand>ขยายเขต ปลอดหิมะ</DesignatorAreaSnowClearExpand>
   <!-- EN: Create a area which colonists will try to keep clear of snow. -->
-  <DesignatorAreaSnowClearExpandDesc>สร้างเขตที่ชาวนิคมจะพยายามกวาดหิมะออกไป</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearExpandDesc>สร้างพื้นที่เขต ซึ่งชาวนิคมจะ พยายามกวาดหิมะออก</DesignatorAreaSnowClearExpandDesc>
   <!-- EN: Clear snow clear Area -->
-  <DesignatorAreaSnowClearClear>ล้างเขตปลอด\nหิมะ</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClear>ล้างเขต ปลอดหิมะ</DesignatorAreaSnowClearClear>
   <!-- EN: Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow. -->
-  <DesignatorAreaSnowClearClearDesc>เอาเขตปลอดหิมะออก ชาวนิคมจะไม่กวาดหิมะที่นี่อีกต่อไป</DesignatorAreaSnowClearClearDesc>
+  <DesignatorAreaSnowClearClearDesc>ลบพื้นที่เขตปลอดหิมะ ชาวนิคมจะเลิกกวาดหิมะ</DesignatorAreaSnowClearClearDesc>
 
   <!-- EN: Expand allowed area -->
-  <DesignatorExpandAreaAllowed>ขยายเขตที่\nอนุญาต</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowed>ขยายเขต อนุญาต</DesignatorExpandAreaAllowed>
   <!-- EN: Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
-  <DesignatorExpandAreaAllowedDesc>ขยายเขตที่อนุญาต\n\nเขตที่อนุญาตนั้นคือพื้นที่ๆ คุณสามารถกำหนดให้ชาวนิคมอยู่ ซึ่งพวกเขาจะไม่ยอมทำงาน หรือเติมเต็มความต้องการของตัวเองนอกเขตที่อนุญาต</DesignatorExpandAreaAllowedDesc>
+  <DesignatorExpandAreaAllowedDesc>ขยายพื้นที่ขอบเขตที่อนุญาต\n\nเขตที่อนุญาต เป็นพื้นที่ที่คุณสามารถ กำหนดแก่ชาวนิคม \n\nพวกเขาจะไม่ยอมทำงาน หรือเติมเต็มความต้องการตนเอง นอกขอบเขตที่อนุญาต</DesignatorExpandAreaAllowedDesc>
   <!-- EN: Clear allowed area -->
-  <DesignatorClearAreaAllowed>ล้างเขตที่\nอนุญาต</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowed>ล้างเขตอนุญาต</DesignatorClearAreaAllowed>
   <!-- EN: Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
-  <DesignatorClearAreaAllowedDesc>ล้างเซลล์ออกจากเขตที่อนุญาต\n\nเขตที่อนุญาตนั้นคือพื้นที่ๆ คุณสามารถกำหนดให้ชาวนิคมอยู่ ซึ่งพวกเขาจะไม่ยอมทำงาน หรือเติมเต็มความต้องการของตัวเองนอกเขตที่อนุญาต</DesignatorClearAreaAllowedDesc>
+  <DesignatorClearAreaAllowedDesc>ล้างช่องออกจากขอบเขตที่อนุญาต\n\nเขตที่อนุญาต เป็นพื้นที่ที่คุณสามารถ กำหนดแก่ชาวนิคม \n\nพวกเขาจะไม่ยอมทำงาน หรือเติมเต็มความต้องการตนเอง นอกขอบเขตที่อนุญาต</DesignatorClearAreaAllowedDesc>
   <!-- EN: Manage areas... -->
-  <ManageAreas>จัดการเขต...</ManageAreas>
+  <ManageAreas>จัดการขอบเขต...</ManageAreas>
 
   <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
-  <DesignatorGrowingZoneDesc>สร้างโซนที่ชาวนิคมจะพยายามปลูกพืชเฉพาะประเภท</DesignatorGrowingZoneDesc>
+  <DesignatorGrowingZoneDesc>สร้างโซน ซึ่งชาวนิคมจะพยายาม ปลูกพืชบางชนิด</DesignatorGrowingZoneDesc>
 
   <!-- EN: Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile. -->
-  <DesignatorZoneCreateStorageResourcesDesc>สร้างที่เก็บของที่ชาวนิคม จะเก็บทรัพยากรไว้\nเครื่องมือนี้สามารถใช้ขยายที่เก็บของที่มีอยู่แล้วก็ได้เช่นกัน</DesignatorZoneCreateStorageResourcesDesc>
+  <DesignatorZoneCreateStorageResourcesDesc>สร้างสต็อกเก็บของ ที่ชาวนิคมจะเก็บทรัพยากร\n\nเครื่องมือนี้ ยังสามารถใช้ขยายพื้นที่เก็บของ ที่มีอยู่แล้วได้เช่นกัน</DesignatorZoneCreateStorageResourcesDesc>
 
   <!-- EN: Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile. -->
-  <DesignatorZoneCreateStorageDumpingDesc>สร้างที่เก็บของที่ชาวนิคมจะเก็บขยะไว้\nเครื่องมือนี้สามารถใช้ขยายที่ทิ้งที่มีอยู่แล้วก็ได้เช่นกัน</DesignatorZoneCreateStorageDumpingDesc>
+  <DesignatorZoneCreateStorageDumpingDesc>สร้างสต็อกเก็บของ ที่ชาวนิคมจะเก็บขยะ\n\nเครื่องมือนี้ ยังสามารถใช้ขยายพื้นที่เก็บของ ที่มีอยู่แล้วได้เช่นกัน</DesignatorZoneCreateStorageDumpingDesc>
 
   <!-- EN: Shrink zones -->
   <DesignatorZoneDelete>ย่อโซน</DesignatorZoneDelete>
   <!-- EN: Shrink zone -->
   <DesignatorZoneDeleteSingular>ย่อโซน</DesignatorZoneDeleteSingular>
   <!-- EN: Remove zones, like stockpile zones or growing zones. -->
-  <DesignatorZoneDeleteDesc>เอาโซนออก อย่างเช่นโซนคลังเก็บของ หรือโซนเพาะปลูก</DesignatorZoneDeleteDesc>
+  <DesignatorZoneDeleteDesc>ลบโซน อย่างเช่นโซนเก็บของ หรือโซนเพาะปลูก</DesignatorZoneDeleteDesc>
 
   <!-- EN: Expand zone -->
   <DesignatorZoneExpand>ขยายโซน</DesignatorZoneExpand>
   
   <!-- EN: Claim -->
-  <DesignatorClaim>อ้างกรรมสิทธิ์</DesignatorClaim>
+  <DesignatorClaim>อ้างสิทธิ์</DesignatorClaim>
   <!-- EN: Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists. -->
-  <DesignatorClaimDesc>อ้างเอาโครงสร้างที่เป็นกลาง ให้เป็นของอาณานิคม, รวมถึงซากโบราณและฐานปิดที่ถูกทิ้งร้าง โครงสร้างที่อ้างแล้วสามารถซ่อมแซม และดูแลรักษาโดยชาวนิคมของคุณ</DesignatorClaimDesc>
+  <DesignatorClaimDesc>ถือเอาว่า *โครงสร้างเป็นกลาง* เป็นสิทธิของอาณานิคม รวมถึงซากโบราณ และฐานที่ถูกทิ้งร้าง\n\nโครงสร้างที่อ้างสิทธิ์มา สามารถซ่อมแซมและดูแลรักษา โดยชาวนิคมของคุณ</DesignatorClaimDesc>
 
   <!-- EN: Remove floor -->
-  <DesignatorRemoveFloor>เอาพื้นออก</DesignatorRemoveFloor>
+  <DesignatorRemoveFloor>รื้อพื้น</DesignatorRemoveFloor>
   <!-- EN: Remove floors to reveal the terrain underneath. -->
-  <DesignatorRemoveFloorDesc>เอาพื้นออกเพื่อเผยให้เห็นแผ่นดินข้างใต้</DesignatorRemoveFloorDesc>
+  <DesignatorRemoveFloorDesc>เอาพื้นออก เผยให้เห็นผืนดินข้างใต้</DesignatorRemoveFloorDesc>
 
   <!-- EN: Remove bridge -->
   <DesignatorRemoveBridge>รื้อสะพาน</DesignatorRemoveBridge>
   <!-- EN: Remove bridges to reveal the terrain underneath. -->
-  <DesignatorRemoveBridgeDesc>รื้อสะพาน เปิดเผยผืนดินเบื้องล่าง</DesignatorRemoveBridgeDesc>
+  <DesignatorRemoveBridgeDesc>รื้อสะพาน เผยให้เห็นผืนดินข้างใต้</DesignatorRemoveBridgeDesc>
 
   <!-- EN: Strip -->
   <DesignatorStrip>แก้ผ้า</DesignatorStrip>
@@ -159,59 +159,59 @@
   <!-- EN: Open -->
   <DesignatorOpen>เปิด</DesignatorOpen>
   <!-- EN: Open containers. -->
-  <DesignatorOpenDesc>เปิดหลุมศพหรือที่บรรจุ</DesignatorOpenDesc>
+  <DesignatorOpenDesc>เปิดภาชนะ คอนเทนเนอร์</DesignatorOpenDesc>
   
   <!-- EN: Slaughter -->
-  <DesignatorSlaughter>เชือด</DesignatorSlaughter>
+  <DesignatorSlaughter>สังหาร</DesignatorSlaughter>
   <!-- EN: Slaughter a tame animal. -->
-  <DesignatorSlaughterDesc>เชือดสัตว์ที่เชิ่องแล้ว</DesignatorSlaughterDesc>
+  <DesignatorSlaughterDesc>ฆ่าสัตว์เลี้ยง</DesignatorSlaughterDesc>
 
   <!-- EN: Tame -->
   <DesignatorTame>ทำให้เชื่อง</DesignatorTame>
   <!-- EN: Tame a wild animal. -->
-  <DesignatorTameDesc>ทำสัตว์ป่าให้เชื่องลง</DesignatorTameDesc>
+  <DesignatorTameDesc>ฝึกสัตว์ป่าให้เชื่อง</DesignatorTameDesc>
 
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->
-  <UnchosenStuff>เนื้อหาที่ไม่ได้เลือก</UnchosenStuff>
+  <UnchosenStuff>ยังไม่ได้เลือกวัสดุ</UnchosenStuff>
   <!-- EN: Too close to map edge. -->
   <TooCloseToMapEdge>ใกล้ขอบแผนที่มากเกินไป</TooCloseToMapEdge>
   <!-- EN: Out of bounds. -->
   <OutOfBounds>ออกนอกขอบเขต</OutOfBounds>
   <!-- EN: Cannot place in undiscovered areas. -->
-  <CannotPlaceInUndiscovered>ไม่สามารถวางในเขตที่ยังไม่สำรวจ</CannotPlaceInUndiscovered>
+  <CannotPlaceInUndiscovered>ไม่สามารถวางในพื้นที่ยังไม่ได้สำรวจ</CannotPlaceInUndiscovered>
   <!-- EN: Interaction spot is blocked by {1_labelShort}. -->
-  <InteractionSpotBlocked>จุดปฏิสัมพันธ์ถูกขวางไว้ด้วย {1_labelShort}</InteractionSpotBlocked>
+  <InteractionSpotBlocked>จุดโต้ตอบถูกขวางด้วย {1_labelShort}</InteractionSpotBlocked>
   <!-- EN: Interaction spot is out of bounds. -->
-  <InteractionSpotOutOfBounds>จุดปฏิสัมพันธ์นั้นออกนอกขอบเขต</InteractionSpotOutOfBounds>
+  <InteractionSpotOutOfBounds>จุดโต้ตอบอยู่นอกขอบเขต</InteractionSpotOutOfBounds>
   <!-- EN: Interaction spot will be blocked by {1_labelShort}. -->
-  <InteractionSpotWillBeBlocked>จุดปฏิสัมพันธ์จะถูกขวางไว้ด้วย {1_labelShort}</InteractionSpotWillBeBlocked>
+  <InteractionSpotWillBeBlocked>จุดโต้ตอบจะถูกขวางด้วย {1_labelShort}</InteractionSpotWillBeBlocked>
   <!-- EN: {0} would block {1}'s interaction spot. -->
-  <WouldBlockInteractionSpot>{0} อาจจะขวางจุดปฏิสัมพันธ์ของ {1}</WouldBlockInteractionSpot>
+  <WouldBlockInteractionSpot>{0} ไปขวางจุดโต้ตอบของ {1}</WouldBlockInteractionSpot>
   <!-- EN: The terrain here is already {0}. -->
-  <TerrainIsAlready>พื้นที่นี่นั้น {0} อยู่แล้ว</TerrainIsAlready>
+  <TerrainIsAlready>ผืนดินนี้เป็น {0} อยู่แล้ว</TerrainIsAlready>
   <!-- EN: The surface is already marked for smoothing. -->
-  <SurfaceBeingSmoothed>พื้นผิวมาร์คไว้แล้วว่าจะขัด</SurfaceBeingSmoothed>
+  <SurfaceBeingSmoothed>พื้นผิวถูกทำเครื่องหมายไว้แล้ว ว่าจะถูกทำให้เรียบ</SurfaceBeingSmoothed>
   <!-- EN: Identical thing already exists here. -->
-  <IdenticalThingExists>สิ่งที่เหมือนกันมีอยู่แล้วที่นี่</IdenticalThingExists>
+  <IdenticalThingExists>มีสิ่งที่เหมือนกัน วางอยู่ตรงนี้แล้ว</IdenticalThingExists>
   <!-- EN: Identical blueprint already exists here. -->
-  <IdenticalBlueprintExists>พิมพ์เขียวเหมือนกันมีอยู่แล้วที่นี่</IdenticalBlueprintExists>
+  <IdenticalBlueprintExists>มีพิมพ์เขียวที่เหมือนกัน วางอยู่ตรงนี้แล้ว</IdenticalBlueprintExists>
   <!-- EN: The terrain here cannot support this. -->
-  <TerrainCannotSupport>พื้นที่นี่นั้นไม่สามารถรองรับสิ่งนี้ได้</TerrainCannotSupport>
+  <TerrainCannotSupport>ภูมิประเทศตรงนี้ ไม่สามารถรองรับสิ่งนี้ได้</TerrainCannotSupport>
   <!-- EN: Space already occupied. -->
-  <SpaceAlreadyOccupied>พื้นที่ถูกจับจองแล้ว</SpaceAlreadyOccupied>
+  <SpaceAlreadyOccupied>ที่ว่างถูกครอบครองไปแล้ว</SpaceAlreadyOccupied>
   <!-- EN: Space being smoothed. -->
-  <SpaceBeingSmoothed>พื้นที่เรียบ</SpaceBeingSmoothed>
+  <SpaceBeingSmoothed>ที่ว่างถูกทำให้เรียบ</SpaceBeingSmoothed>
   <!-- EN: Must target a removable floor. -->
-  <TerrainMustBeRemovable>ต้องชี้ที่พื้นปูที่เอาออกได้</TerrainMustBeRemovable>
+  <TerrainMustBeRemovable>ต้องระบุพื้น ที่สามารถลบออกได้</TerrainMustBeRemovable>
   <!-- EN: The waterwheel must be on moving water. -->
-  <MustBeOnMovingWater>กังหันน้ำต้องอยู่ในน้ำไหล</MustBeOnMovingWater>
+  <MustBeOnMovingWater>กังหันน้ำ ต้องอยู่ในน้ำไหล</MustBeOnMovingWater>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
-  <ExpandOrCreateZone>ขยาย{0} หรือ\nสร้าง{1}ใหม่</ExpandOrCreateZone>
+  <ExpandOrCreateZone>ขยาย {0} หรือ\nสร้างใหม่ {1}</ExpandOrCreateZone>
   <!-- EN: Create new {0} -->
-  <CreateNewZone>สร้าง{0}ใหม่</CreateNewZone>
+  <CreateNewZone>สร้างใหม่ {0}</CreateNewZone>
   
   <!-- Desc helpers -->
   <!-- EN: Transmits power -->
@@ -219,8 +219,8 @@
   <!-- EN: Construction needed -->
   <ConstructionNeeded>การก่อสร้างจำเป็น</ConstructionNeeded>
   <!-- EN: None of your {0} have this skill. -->
-  <NoColonistWithConstructionSkillTip>ไม่มีใครใน {0} มีทักษะได้</NoColonistWithConstructionSkillTip>
+  <NoColonistWithConstructionSkillTip>ไม่มีใครใน {0} ของคุณมีทักษะนี้</NoColonistWithConstructionSkillTip>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
-  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>ทั้งหมดใน {0} ซึ่งมีทักษะนี้ ไม่ได้รับมอบหมายให้ทำ {1}</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
+  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>{0} ทั้งหมดของคุณที่มีทักษะนี้ ไม่ได้รับกำหนดให้ {1}</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
 
 </LanguageData>
