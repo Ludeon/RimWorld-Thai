@@ -14,7 +14,7 @@
   <ForcedTrait.label>TODO</ForcedTrait.label>
   
   <!-- EN: planetkiller weapon incoming -->
-  <GameCondition_Planetkiller.label>อาวุธทำลายดาวเคราะห์ถูกยิงมาแล้ว</GameCondition_Planetkiller.label>
+  <GameCondition_Planetkiller.label>อาวุธทำลายล้างดาวเคราะห์ถูกยิงมาแล้ว</GameCondition_Planetkiller.label>
   
   <!-- EN: game start dialog -->
   <GameStartDialog.label>กล่องโต้ตอบเริ่มเกม</GameStartDialog.label>
