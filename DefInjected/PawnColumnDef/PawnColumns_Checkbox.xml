@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: Follow master while the master is drafted. -->
-  <FollowDrafted.headerTip>การสั่งเมื่อต้นแบบอยู่ในโหมดการต่อสู้</FollowDrafted.headerTip>
+  <FollowDrafted.headerTip>คอยตามเจ้านาย ระหว่างเจ้านายถูกเกณฑ์</FollowDrafted.headerTip>
   
   <!-- EN: Follow master while the master is doing field work (hunting or taming animals). -->
-  <FollowFieldwork.headerTip>การสั่งเมื่อต้นแบบถูกทำให้เชื่องของการล่าสัตว์</FollowFieldwork.headerTip>
+  <FollowFieldwork.headerTip>คอยตามเจ้านาย ระหว่างเจ้านายทำงานกลางแจ้ง (ล่าสัตว์ หรือทำให้สัตว์เชื่อง)</FollowFieldwork.headerTip>
   
   <!-- EN: Mark animals to be hunted by your hunters. -->
-  <Hunt.headerTip>TODO</Hunt.headerTip>
+  <Hunt.headerTip>ทำเครื่องหมายสัตว์ที่จะให้พรานของคุณล่า</Hunt.headerTip>
   
   <!-- EN: Slaughter -->
   <Slaughter.headerTip>ฆ่า</Slaughter.headerTip>
   
   <!-- EN: Tame a wild animal. -->
-  <Tame.headerTip>TODO</Tame.headerTip>
+  <Tame.headerTip>ฝึกสัตว์ป่าให้เชื่อง</Tame.headerTip>
   
 </LanguageData>

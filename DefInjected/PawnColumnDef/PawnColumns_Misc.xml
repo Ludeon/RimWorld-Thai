@@ -2,27 +2,27 @@
 <LanguageData>
   
   <!-- EN: allowed area -->
-  <AllowedArea.label>พื้นที่อนุญาต</AllowedArea.label>
+  <AllowedArea.label>ขอบเขตอนุญาต</AllowedArea.label>
   
   <!-- EN: allowed area -->
-  <AllowedAreaWide.label>พื้นที่อนุญาต</AllowedAreaWide.label>
+  <AllowedAreaWide.label>ขอบเขตที่อนุญาต</AllowedAreaWide.label>
   
   <!-- EN: drug policy -->
-  <DrugPolicy.label>การใช้ยา</DrugPolicy.label>
+  <DrugPolicy.label>นโยบายการใช้ยา</DrugPolicy.label>
   
   <!-- EN: food restriction -->
-  <FoodRestriction.label>TODO</FoodRestriction.label>
+  <FoodRestriction.label>การควบคุมอาหาร</FoodRestriction.label>
   
   <!-- EN: Hostility response -->
-  <HostilityResponse.headerTip>TODO</HostilityResponse.headerTip>
+  <HostilityResponse.headerTip>ตอบสนองต่อศัตรู</HostilityResponse.headerTip>
   
   <!-- EN: master -->
   <Master.label>เจ้านาย</Master.label>
   
   <!-- EN: Medical care -->
-  <MedicalCare.headerTip>TODO</MedicalCare.headerTip>
+  <MedicalCare.headerTip>การดูแลทางแพทย์</MedicalCare.headerTip>
   
   <!-- EN: current outfit -->
-  <Outfit.label>เสื้อผ้า</Outfit.label>
+  <Outfit.label>เครื่องแต่งกาย</Outfit.label>
   
 </LanguageData>

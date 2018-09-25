@@ -7,12 +7,12 @@
   <Child.labelFemale>ลูกสาว</Child.labelFemale>
   
   <!-- EN: cousin -->
-  <Cousin.label>ญาติ</Cousin.label>
-  <Cousin.labelFemale>ญาติ</Cousin.labelFemale>
+  <Cousin.label>ลูกพี่ลูกน้อง</Cousin.label>
+  <Cousin.labelFemale>ลูกพี่ลูกน้อง</Cousin.labelFemale>
   
   <!-- EN: cousin once removed -->
-  <CousinOnceRemoved.label>หลานพี่หลานน้องผู้ชาย</CousinOnceRemoved.label>
-  <CousinOnceRemoved.labelFemale>หลานพี่หลานน้องผู้หญิง</CousinOnceRemoved.labelFemale>
+  <CousinOnceRemoved.label>หลานพี่หลานน้อง</CousinOnceRemoved.label>
+  <CousinOnceRemoved.labelFemale>หลานพี่หลานน้อง</CousinOnceRemoved.labelFemale>
   
   <!-- EN: grandson -->
   <Grandchild.label>หลานชาย</Grandchild.label>
@@ -25,9 +25,9 @@
   <GrandnephewOrGrandniece.labelFemale>เหลนสาว</GrandnephewOrGrandniece.labelFemale>
   
   <!-- EN: grandfather -->
-  <Grandparent.label>ปู่ตา</Grandparent.label>
+  <Grandparent.label>ปู่</Grandparent.label>
   <!-- EN: grandmother -->
-  <Grandparent.labelFemale>ย่ายาย</Grandparent.labelFemale>
+  <Grandparent.labelFemale>ย่า</Grandparent.labelFemale>
   
   <!-- EN: granduncle -->
   <GranduncleOrGrandaunt.label>ลุงทวด</GranduncleOrGrandaunt.label>
@@ -40,18 +40,18 @@
   <GreatGrandchild.labelFemale>เหลนสาว</GreatGrandchild.labelFemale>
   
   <!-- EN: great grandfather -->
-  <GreatGrandparent.label>ปู่ตาทวด</GreatGrandparent.label>
+  <GreatGrandparent.label>ปู่ทวด</GreatGrandparent.label>
   <!-- EN: great grandmother -->
-  <GreatGrandparent.labelFemale>ย่ายายทวด</GreatGrandparent.labelFemale>
+  <GreatGrandparent.labelFemale>ย่าทวด</GreatGrandparent.labelFemale>
   
   <!-- EN: brother -->
-  <HalfSibling.label>พี่น้องครึ่งผู้ชาย</HalfSibling.label>
+  <HalfSibling.label>พี่น้อง</HalfSibling.label>
   <!-- EN: sister -->
-  <HalfSibling.labelFemale>พี่น้องครึ่งผู้หญิง</HalfSibling.labelFemale>
+  <HalfSibling.labelFemale>พี่น้อง</HalfSibling.labelFemale>
   
   <!-- EN: kin -->
-  <Kin.label>ญาติห่างๆ</Kin.label>
-  <Kin.labelFemale>ญาติห่างๆ</Kin.labelFemale>
+  <Kin.label>ญาติ</Kin.label>
+  <Kin.labelFemale>ญาติ</Kin.labelFemale>
   
   <!-- EN: nephew -->
   <NephewOrNiece.label>หลานชาย</NephewOrNiece.label>
@@ -64,13 +64,13 @@
   <Parent.labelFemale>มารดา</Parent.labelFemale>
   
   <!-- EN: second cousin -->
-  <SecondCousin.label>หลานทวดผู้ชาย</SecondCousin.label>
-  <SecondCousin.labelFemale>หลานทวดผู้หญิง</SecondCousin.labelFemale>
+  <SecondCousin.label>เหลนพี่เหลนน้อง</SecondCousin.label>
+  <SecondCousin.labelFemale>เหลนพี่เหลนน้อง</SecondCousin.labelFemale>
   
   <!-- EN: brother -->
-  <Sibling.label>พี่น้องผู้ชาย</Sibling.label>
+  <Sibling.label>พี่น้อง</Sibling.label>
   <!-- EN: sister -->
-  <Sibling.labelFemale>พี่น้องผู้หญิง</Sibling.labelFemale>
+  <Sibling.labelFemale>พี่น้อง</Sibling.labelFemale>
   
   <!-- EN: uncle -->
   <UncleOrAunt.label>ลุง</UncleOrAunt.label>

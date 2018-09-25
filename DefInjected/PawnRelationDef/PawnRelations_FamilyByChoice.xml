@@ -35,9 +35,9 @@
   <Spouse.labelFemale>ภรรยา</Spouse.labelFemale>
   
   <!-- EN: stepson -->
-  <Stepchild.label>ลูกเลี้ยงชาย</Stepchild.label>
+  <Stepchild.label>ลูกเลี้ยง</Stepchild.label>
   <!-- EN: stepdaughter -->
-  <Stepchild.labelFemale>ลูกเลี้ยงสาว</Stepchild.labelFemale>
+  <Stepchild.labelFemale>ลูกเลี้ยง</Stepchild.labelFemale>
   
   <!-- EN: stepfather -->
   <Stepparent.label>พ่อเลี้ยง</Stepparent.label>
