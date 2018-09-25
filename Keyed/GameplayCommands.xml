@@ -158,7 +158,7 @@
   <!-- EN: Start the ship launch sequence with the current configuration. -->
   <CommandShipLaunchDesc>สตาร์ทกระบวนการเริ่มต้นของยาน โดยใช้องค์ประกอบปัจจุบัน</CommandShipLaunchDesc>
   <!-- EN: Show launch report -->
-  <CommandShipLaunchReport>แสดงรายงานการ</CommandShipLaunchReport>
+  <CommandShipLaunchReport>รายงาน การปล่อย</CommandShipLaunchReport>
   <!-- EN: Show a readiness report about the ship's launch capability. -->
   <CommandShipLaunchReportDesc>แสดงรายงานความพร้อม เกี่ยวกับความสามารถในการปล่อยยาน</CommandShipLaunchReportDesc>
   <!-- EN: Start ship -->
@@ -444,9 +444,9 @@
   
   <!-- Show sellable items -->
   <!-- EN: Show what will buy -->
-  <CommandShowSellableItems>แสดงว่าอะไรจะซื้อ</CommandShowSellableItems>
+  <CommandShowSellableItems>รายการรับซื้อ</CommandShowSellableItems>
   <!-- EN: Show everything this trader wants to buy. -->
-  <CommandShowSellableItemsDesc>แสดงทุกอย่างที่พ่อค้าคนนี้รับซื้อ</CommandShowSellableItemsDesc>
+  <CommandShowSellableItemsDesc>แสดงทุกอย่างที่พ่อค้าต้องการซื้อ</CommandShowSellableItemsDesc>
 
   <!-- Attack settlement -->
   <!-- EN: Attack -->
