@@ -2,33 +2,33 @@
 <LanguageData>
   
   <!-- EN: A group of {0} from {1} have dropped in right on top of you! -->
-  <CenterDrop.textEnemy>TODO</CenterDrop.textEnemy>
+  <CenterDrop.textEnemy>กลุ่ม{0}จาก {1} ทิ้งดิ่งลงมาใส่คุณเลย!</CenterDrop.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have dropped in right on top of you! -->
-  <CenterDrop.textFriendly>TODO</CenterDrop.textFriendly>
+  <CenterDrop.textFriendly>กลุ่มมิตร{0}จาก {1} ทิ้งดิ่งลงมาใส่คุณเลย!</CenterDrop.textFriendly>
   
   <!-- EN: A group of {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDrop.textEnemy>TODO</EdgeDrop.textEnemy>
+  <EdgeDrop.textEnemy>กลุ่ม{0}จาก {1} มาถึงด้วยกระสวยขนส่งลงจอดใกล้ๆนี้</EdgeDrop.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDrop.textFriendly>TODO</EdgeDrop.textFriendly>
+  <EdgeDrop.textFriendly>กลุ่มมิตร{0}จาก {1} มาถึงด้วยกระสวยขนส่งลงจอดใกล้ๆนี้</EdgeDrop.textFriendly>
   
   <!-- EN: Several separate groups of {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDropGroups.textEnemy>TODO</EdgeDropGroups.textEnemy>
+  <EdgeDropGroups.textEnemy>{0}จาก {1} แยกกันหลายกลุ่ม มาถึงด้วยกระสวยขนส่งลงจอดใกล้ๆนี้</EdgeDropGroups.textEnemy>
   <!-- EN: Several separate groups of friendly {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDropGroups.textFriendly>TODO</EdgeDropGroups.textFriendly>
+  <EdgeDropGroups.textFriendly>มิตร{0}จาก {1} แยกกันหลายกลุ่ม มาถึงด้วยกระสวยขนส่งลงจอดใกล้ๆนี้</EdgeDropGroups.textFriendly>
   
   <!-- EN: A group of {0} from {1} have arrived nearby. -->
-  <EdgeWalkIn.textEnemy>TODO</EdgeWalkIn.textEnemy>
+  <EdgeWalkIn.textEnemy>กลุ่ม{0}จาก {1} ได้มาถึงใกล้ๆนี้</EdgeWalkIn.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived nearby. -->
-  <EdgeWalkIn.textFriendly>TODO</EdgeWalkIn.textFriendly>
+  <EdgeWalkIn.textFriendly>กลุ่มมิตร{0}จาก {1} ได้มาถึงใกล้ๆนี้</EdgeWalkIn.textFriendly>
   
   <!-- EN: Several separate groups of {0} from {1} have arrived nearby. -->
-  <EdgeWalkInGroups.textEnemy>TODO</EdgeWalkInGroups.textEnemy>
+  <EdgeWalkInGroups.textEnemy>{0}จาก {1} แยกกันหลายกลุ่ม ได้มาถึงใกล้ๆนี้</EdgeWalkInGroups.textEnemy>
   <!-- EN: Several separate groups of friendly {0} from {1} have arrived nearby. -->
-  <EdgeWalkInGroups.textFriendly>TODO</EdgeWalkInGroups.textFriendly>
+  <EdgeWalkInGroups.textFriendly>มิตร{0}จาก {1} แยกกันหลายกลุ่ม ได้มาถึงใกล้ๆนี้</EdgeWalkInGroups.textFriendly>
   
   <!-- EN: A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
-  <RandomDrop.textEnemy>TODO</RandomDrop.textEnemy>
+  <RandomDrop.textEnemy>กลุ่ม{0}จาก {1} มาถึงด้วยกระสวยขนส่ง แต่กระสวยพวกเขาคุมไม่อยู่ กระจัดกระจายลงจอดไปทั่วบริเวณ!</RandomDrop.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
-  <RandomDrop.textFriendly>TODO</RandomDrop.textFriendly>
+  <RandomDrop.textFriendly>กลุ่มมิตร{0}จาก {1} มาถึงด้วยกระสวยขนส่ง แต่กระสวยพวกเขาคุมไม่อยู่ กระจัดกระจายลงจอดไปทั่วบริเวณ!</RandomDrop.textFriendly>
   
 </LanguageData>
