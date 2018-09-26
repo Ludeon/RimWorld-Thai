@@ -22,7 +22,7 @@
   <Rescue.description>สัตว์จะช่วยเหลือพันธมิตรที่บาดเจ็บ และลากพวกเขามายังที่ปลอดภัย</Rescue.description>
   
   <!-- EN: tameness -->
-  <Tameness.label>เชื่องเชื่อ</Tameness.label>
+  <Tameness.label>เชื่อง</Tameness.label>
   <!-- EN: The animal can learn to consider itself a member of your colony. -->
   <Tameness.description>สัตว์สามารถเรียนรู้ที่จะคิดพิจารณาได้ว่า ตัวเองเป็นหนึ่งในสมาชิกขางอาณานิคมคุณ</Tameness.description>
   

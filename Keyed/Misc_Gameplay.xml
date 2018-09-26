@@ -331,7 +331,7 @@
   <!-- EN: your caravan -->
   <yourCaravan>คาราวานคุณ</yourCaravan>
   <!-- EN: {0} wildness -->
-  <CreatureWildness>{0} ดุร้าย</CreatureWildness>
+  <CreatureWildness>{0} ความดุร้าย</CreatureWildness>
   <!-- EN: {0} trainability -->
   <CreatureTrainability>{0} ศักยภาพการฝึก</CreatureTrainability>
   <!-- EN: {0} with {1} -->

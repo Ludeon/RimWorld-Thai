@@ -4,7 +4,7 @@
   <!-- EN: Save -->
   <SaveButton>เซฟ</SaveButton>
   <!-- EN: Clear -->
-  <ClearBinding>ล้าง</ClearBinding>
+  <ClearBinding>เคลียร์</ClearBinding>
   <!-- EN: Reset to default -->
   <ResetBinding>รีเซ็ตเป็นค่าเริ่มต้น</ResetBinding>
   <!-- EN: Left-click to bind this key or right-click for options -->

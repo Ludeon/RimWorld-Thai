@@ -48,9 +48,9 @@
   <CommandFireAtWillDesc>เปิด-ปิด ยิงปืนได้ตามใจ\n\nเมื่อปิด ตัวละครนี้ จะไม่ยิงใส่เป้าหมายจากระยะไกล ไม่มีผลกับการรบระยะประชิด</CommandFireAtWillDesc>
   
   <!-- EN: Clear prioritized work -->
-  <CommandClearPrioritizedWork>ล้างลำดับงานสำคัญ</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWork>ยกเลิกลำดับ งานสำคัญ</CommandClearPrioritizedWork>
   <!-- EN: Clear any prioritized work you assigned. The character will go back to their usual self-directed activities. -->
-  <CommandClearPrioritizedWorkDesc>ล้างลำดับงานสำคัญที่คุณกำหนดให้ ตัวละครจะกลับไป ทำกิจกรรมของตนเอง ตามปกติ</CommandClearPrioritizedWorkDesc>
+  <CommandClearPrioritizedWorkDesc>เคลียร์ลำดับงานสำคัญที่คุณกำหนดให้ ตัวละครจะกลับไป ทำกิจกรรมของตนเอง ตามปกติ</CommandClearPrioritizedWorkDesc>
   
   <!-- EN: Cancel -->
   <CommandCancelConstructionLabel>ยกเลิก</CommandCancelConstructionLabel>
