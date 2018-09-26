@@ -5,13 +5,13 @@
   <Barn.label>โรงนา</Barn.label>
   
   <!-- EN: barracks -->
-  <Barracks.label>ห้องพักทหาร</Barracks.label>
+  <Barracks.label>โรงนอน</Barracks.label>
   
   <!-- EN: bedroom -->
   <Bedroom.label>ห้องนอน</Bedroom.label>
   
   <!-- EN: dining room -->
-  <DiningRoom.label>ห้องรับประทานอาหาร</DiningRoom.label>
+  <DiningRoom.label>ห้องอาหาร</DiningRoom.label>
   
   <!-- EN: hospital -->
   <Hospital.label>ห้องพยาบาล</Hospital.label>
@@ -20,13 +20,13 @@
   <Kitchen.label>ห้องครัว</Kitchen.label>
   
   <!-- EN: laboratory -->
-  <Laboratory.label>ห้องวิจัย</Laboratory.label>
+  <Laboratory.label>ห้องแล็บ</Laboratory.label>
   
   <!-- EN: none -->
   <None.label>ไม่มี</None.label>
   
   <!-- EN: prison barracks -->
-  <PrisonBarracks.label>ห้องพักเรือนจำ</PrisonBarracks.label>
+  <PrisonBarracks.label>โรงนอนนักโทษ</PrisonBarracks.label>
   
   <!-- EN: prison cell -->
   <PrisonCell.label>ห้องขัง</PrisonCell.label>

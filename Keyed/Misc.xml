@@ -112,9 +112,9 @@
   <ThingMadeOfStuffLabel>{1} {0}</ThingMadeOfStuffLabel>
 
   <!-- EN: {PAWN_labelShort}'s {1} -->
-  <SomeonesRoom>{PAWN_labelShort} ของ {1}</SomeonesRoom>
+  <SomeonesRoom>{1}ของ{PAWN_labelShort}</SomeonesRoom>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
-  <CouplesRoom>{PAWN1_labelShort} และ {PAWN2_labelShort} {2}</CouplesRoom>
+  <CouplesRoom>{2}{PAWN1_labelShort} และ {PAWN2_labelShort} {2}</CouplesRoom>
   
   <!-- EN: (various) -->
   <VariousLabel>(หลายอย่าง)</VariousLabel>
