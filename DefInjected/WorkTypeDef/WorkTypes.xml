@@ -2,42 +2,42 @@
 <LanguageData>
   
   <!-- EN: Create beautiful works of art from raw materials. -->
-  <Art.description>สร้างงานศิลปะที่สวยงามขึ้นมาจากวัสดุดิบ</Art.description>
+  <Art.description>สร้างงานศิลปะที่สวยงามขึ้นมาจากวัตถุดิบ</Art.description>
   <!-- EN: art -->
-  <Art.gerundLabel>ศิลปะ</Art.gerundLabel>
+  <Art.gerundLabel>สร้างสรรค์</Art.gerundLabel>
   <!-- EN: Art -->
   <Art.labelShort>ศิลปะ</Art.labelShort>
   <!-- EN: Artist -->
   <Art.pawnLabel>ช่างศิลป์</Art.pawnLabel>
   <!-- EN: Do art at -->
-  <Art.verb>สร้างงานศิลป์ที่</Art.verb>
+  <Art.verb>สร้างงานศิลป์</Art.verb>
   
   <!-- EN: Unskilled and easy tasks. Release prisoners and flick switches on machines. -->
-  <BasicWorker.description>งานง่ายๆ งานไม่ต้องใช้ทักษะ เช่น เปิด-ปิดสวิตช์เครื่องจักร ปล่อยนักโทษ ฯลฯ</BasicWorker.description>
+  <BasicWorker.description>งานง่าย งานไม่ต้องใช้ทักษะ เช่น เปิด-ปิดสวิตช์เครื่องจักร ปล่อยนักโทษ ฯลฯ</BasicWorker.description>
   <!-- EN: dealing with -->
-  <BasicWorker.gerundLabel>จัดการกับ</BasicWorker.gerundLabel>
+  <BasicWorker.gerundLabel>จัดการ</BasicWorker.gerundLabel>
   <!-- EN: Basic -->
   <BasicWorker.labelShort>เบสิก</BasicWorker.labelShort>
   <!-- EN: Worker -->
   <BasicWorker.pawnLabel>คนงาน</BasicWorker.pawnLabel>
   <!-- EN: Deal with -->
-  <BasicWorker.verb>จัดการกับ</BasicWorker.verb>
+  <BasicWorker.verb>จัดการ</BasicWorker.verb>
   
   <!-- EN: Clear snow and clean the floor in the home area. -->
-  <Cleaning.description>กวาดหิมะและทำความสะอาดพื้นในเขตบ้าน</Cleaning.description>
+  <Cleaning.description>กวาดหิมะและทำความสะอาดพื้น ในขอบเขตบ้าน</Cleaning.description>
   <!-- EN: cleaning -->
-  <Cleaning.gerundLabel>การทำความสะอาด</Cleaning.gerundLabel>
+  <Cleaning.gerundLabel>ทำความสะอาด</Cleaning.gerundLabel>
   <!-- EN: Clean -->
-  <Cleaning.labelShort>ทำความสะอาด</Cleaning.labelShort>
+  <Cleaning.labelShort>ความสะอาด</Cleaning.labelShort>
   <!-- EN: Cleaner -->
   <Cleaning.pawnLabel>คนทำความสะอาด</Cleaning.pawnLabel>
   <!-- EN: Clean -->
   <Cleaning.verb>ทำความสะอาด</Cleaning.verb>
   
   <!-- EN: Build things that you've designated, and fix damaged or broken-down buildings. -->
-  <Construction.description>สร้างสิ่งต่างๆตามที่กำหนด</Construction.description>
+  <Construction.description>สร้างสิ่งต่างๆตามที่บ่งชี้ และซ่อมสิ่งก่อสร้างที่พังลง</Construction.description>
   <!-- EN: constructing -->
-  <Construction.gerundLabel>การก่อสร้าง</Construction.gerundLabel>
+  <Construction.gerundLabel>ก่อสร้าง</Construction.gerundLabel>
   <!-- EN: Construct -->
   <Construction.labelShort>ก่อสร้าง</Construction.labelShort>
   <!-- EN: Constructor -->
@@ -48,29 +48,29 @@
   <!-- EN: Prepare meals and butcher meat. -->
   <Cooking.description>เตรียมมื้ออาหารและแล่เนื้อ</Cooking.description>
   <!-- EN: cooking -->
-  <Cooking.gerundLabel>การทำอาหาร</Cooking.gerundLabel>
+  <Cooking.gerundLabel>ทำอาหาร</Cooking.gerundLabel>
   <!-- EN: Cook -->
-  <Cooking.labelShort>ทำอาหาร</Cooking.labelShort>
+  <Cooking.labelShort>ทำครัว</Cooking.labelShort>
   <!-- EN: Cook -->
   <Cooking.pawnLabel>กุ๊ก</Cooking.pawnLabel>
   <!-- EN: Cook -->
   <Cooking.verb>ทำอาหาร</Cooking.verb>
   
   <!-- EN: Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more. -->
-  <Crafting.description>ทำงานทักษะต่ำทั่วไปตามโต๊ะทำงานต่างๆ รวมไปถึงการตัดหิน, หล่อโลหะ, และอื่นๆ</Crafting.description>
+  <Crafting.description>ทำงานทักษะต่ำทั่วไป ตามโต๊ะทำงานต่างๆ รวมไปถึงตัดหิน หล่อโลหะ และอื่นๆ</Crafting.description>
   <!-- EN: crafting -->
-  <Crafting.gerundLabel>การฝีมือ</Crafting.gerundLabel>
+  <Crafting.gerundLabel>สร้างงาน</Crafting.gerundLabel>
   <!-- EN: Craft -->
   <Crafting.labelShort>งานฝีมือ</Crafting.labelShort>
   <!-- EN: Crafter -->
   <Crafting.pawnLabel>ช่างฝีมือ</Crafting.pawnLabel>
   <!-- EN: Craft at -->
-  <Crafting.verb>สร้างที่</Crafting.verb>
+  <Crafting.verb>สร้างงาน</Crafting.verb>
   
   <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->
-  <Doctor.description>รักษาอาการป่วย นำอาหารไปให้ผู้ป่วยและช่วยให้กำลังใจ และทำการผ่าตัดตามที่มอบหมายให้ แพทย์จะดูแลหมดทั้งชาวนิคม และนักโทษ</Doctor.description>
+  <Doctor.description>รักษาอาการป่วย นำอาหารไปให้ ช่วยให้กำลังใจ และทำการผ่าตัดตามกำหนดไว้ แพทย์จะดูแลทั้งชาวนิคมและนักโทษ</Doctor.description>
   <!-- EN: doctoring -->
-  <Doctor.gerundLabel>การแพทย์</Doctor.gerundLabel>
+  <Doctor.gerundLabel>ดูแลรักษา</Doctor.gerundLabel>
   <!-- EN: Doctor -->
   <Doctor.labelShort>แพทย์</Doctor.labelShort>
   <!-- EN: Doctor -->
@@ -81,7 +81,7 @@
   <!-- EN: Extinguish fires in the colony. -->
   <Firefighter.description>ดับเพลิงไหม้ทั่วอาณานิคม</Firefighter.description>
   <!-- EN: firefighting -->
-  <Firefighter.gerundLabel>การดับเพลิง</Firefighter.gerundLabel>
+  <Firefighter.gerundLabel>สู้ไฟ</Firefighter.gerundLabel>
   <!-- EN: Firefight -->
   <Firefighter.labelShort>ดับเพลิง</Firefighter.labelShort>
   <!-- EN: Firefighter -->
@@ -90,9 +90,9 @@
   <Firefighter.verb>ดับไฟ</Firefighter.verb>
   
   <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
-  <Growing.description>หว่านเมล็ดและเก็บเกี่ยวพืชผล</Growing.description>
+  <Growing.description>หว่านเมล็ด เก็บเกี่ยวพืชผล และหาอาหารจากพืชป่า</Growing.description>
   <!-- EN: growing -->
-  <Growing.gerundLabel>การเกษตร</Growing.gerundLabel>
+  <Growing.gerundLabel>ทำเกษตร</Growing.gerundLabel>
   <!-- EN: Grow -->
   <Growing.labelShort>เพาะปลูก</Growing.labelShort>
   <!-- EN: Grower -->
@@ -101,9 +101,9 @@
   <Growing.verb>ปลูก</Growing.verb>
   
   <!-- EN: Tame, train, harvest resources from and slaughter animals. -->
-  <Handling.description>ทำสัตว์ให้เชื่อง, ฝึกหัดสัตว์, เก็บเกี่ยวผลผลิตจากสัตว์, และเชือดสัตว์</Handling.description>
+  <Handling.description>ทำสัตว์ให้เชื่อง ฝึกหัด เก็บเกี่ยวผล และฆ่าสัตว์</Handling.description>
   <!-- EN: handling -->
-  <Handling.gerundLabel>การเลี้ยงสัตว์</Handling.gerundLabel>
+  <Handling.gerundLabel>จัดการสัตว์</Handling.gerundLabel>
   <!-- EN: Handle -->
   <Handling.labelShort>เลี้ยงสัตว์</Handling.labelShort>
   <!-- EN: Handler -->
@@ -112,9 +112,9 @@
   <Handling.verb>ดูแล</Handling.verb>
   
   <!-- EN: Carry things to where they need to be. -->
-  <Hauling.description>แบกสิ่งต่างๆไปไว้ที่ๆควรจะอยู่</Hauling.description>
+  <Hauling.description>แบกขนสิ่งต่างๆ ไปไว้ที่ๆควรจะอยู่</Hauling.description>
   <!-- EN: hauling -->
-  <Hauling.gerundLabel>การขนส่ง</Hauling.gerundLabel>
+  <Hauling.gerundLabel>ขนย้าย</Hauling.gerundLabel>
   <!-- EN: Haul -->
   <Hauling.labelShort>ขนของ</Hauling.labelShort>
   <!-- EN: Hauler -->
@@ -123,20 +123,20 @@
   <Hauling.verb>ขนย้าย</Hauling.verb>
   
   <!-- EN: Kill animals which are designated to be hunted. -->
-  <Hunting.description>ฆ่าสัตว์ที่กำหนดให้ล่า</Hunting.description>
+  <Hunting.description>สังหารสัตว์ใดๆ ที่บ่งชี้ให้ล่า</Hunting.description>
   <!-- EN: hunting -->
-  <Hunting.gerundLabel>การล่าสัตว์</Hunting.gerundLabel>
+  <Hunting.gerundLabel>ล่าสัตว์</Hunting.gerundLabel>
   <!-- EN: Hunt -->
   <Hunting.labelShort>ล่าสัตว์</Hunting.labelShort>
   <!-- EN: Hunter -->
-  <Hunting.pawnLabel>นักล่า</Hunting.pawnLabel>
+  <Hunting.pawnLabel>พราน</Hunting.pawnLabel>
   <!-- EN: Hunt -->
   <Hunting.verb>ล่า</Hunting.verb>
   
   <!-- EN: Digging and drilling. -->
-  <Mining.description>ขุดบริเวณที่กำหนดให้ขุดเหมืองออกไป</Mining.description>
+  <Mining.description>ขุดและเจาะ</Mining.description>
   <!-- EN: mining -->
-  <Mining.gerundLabel>กาขุดเหมือง</Mining.gerundLabel>
+  <Mining.gerundLabel>ขุดเหมือง</Mining.gerundLabel>
   <!-- EN: Mine -->
   <Mining.labelShort>ขุดเหมือง</Mining.labelShort>
   <!-- EN: Miner -->
@@ -145,20 +145,20 @@
   <Mining.verb>ขุดเหมือง</Mining.verb>
   
   <!-- EN: Go to a medical bed for treatment if you have an immediately life-threatening health condition. -->
-  <Patient.description>ไปยังเตียงพยาบาล เพื่อรับการรักษาทันที หากมีสภาวะอัตรายถึงชีวิต</Patient.description>
+  <Patient.description>ไปยังเตียงพยาบาลเพื่อรับการรักษาทันที หากร่างกายมีสภาวะอันตรายถึงชีวิต</Patient.description>
   <!-- EN: patienting -->
-  <Patient.gerundLabel>ตรวจไข้</Patient.gerundLabel>
+  <Patient.gerundLabel>รับตรวจ</Patient.gerundLabel>
   <!-- EN: Patient -->
-  <Patient.labelShort>คนไข้</Patient.labelShort>
+  <Patient.labelShort>ผู้ป่วย</Patient.labelShort>
   <!-- EN: Patient -->
-  <Patient.pawnLabel>คนไข้</Patient.pawnLabel>
+  <Patient.pawnLabel>ผู้ป่วย</Patient.pawnLabel>
   <!-- EN: Become patient -->
   <Patient.verb>เป็นคนไข้</Patient.verb>
   
   <!-- EN: Rest in bed to recuperate from not-immediately-life-threatening medical problems. -->
-  <PatientBedRest.description>นอนพักผ่อนบนเตียงเพื่อฟื้นจากปัญหาสุขภาพที่ไม่คุกคามเฉียบพลันถึงชีวิต</PatientBedRest.description>
+  <PatientBedRest.description>นอนพักผ่อนบนเตียง ฟื้นตัวจากปัญหาสุขภาพ ที่ไม่คุกคามเฉียบพลันถึงชีวิต</PatientBedRest.description>
   <!-- EN: resting in bed -->
-  <PatientBedRest.gerundLabel>การนอนพัก</PatientBedRest.gerundLabel>
+  <PatientBedRest.gerundLabel>พักบนเตียง</PatientBedRest.gerundLabel>
   <!-- EN: Bed rest -->
   <PatientBedRest.labelShort>นอนพัก</PatientBedRest.labelShort>
   <!-- EN: Bed rester -->
@@ -169,9 +169,9 @@
   <!-- EN: Cut or harvest plants as designated. -->
   <PlantCutting.description>ตัดหรือเก็บเกี่ยวพืชที่กำหนด</PlantCutting.description>
   <!-- EN: plant cutting -->
-  <PlantCutting.gerundLabel>การตัดไม้</PlantCutting.gerundLabel>
+  <PlantCutting.gerundLabel>ตัดพืชตัดไม้</PlantCutting.gerundLabel>
   <!-- EN: Plant cut -->
-  <PlantCutting.labelShort>ตัดไม้</PlantCutting.labelShort>
+  <PlantCutting.labelShort>ตัดพืชไม้</PlantCutting.labelShort>
   <!-- EN: Plant cutter -->
   <PlantCutting.pawnLabel>คนตัดไม้</PlantCutting.pawnLabel>
   <!-- EN: Cut -->
@@ -180,27 +180,27 @@
   <!-- EN: Perform research work. -->
   <Research.description>ทำงานวิจัยต่างๆ</Research.description>
   <!-- EN: researching -->
-  <Research.gerundLabel>การวิจัย</Research.gerundLabel>
+  <Research.gerundLabel>ค้นคว้า</Research.gerundLabel>
   <!-- EN: Research -->
   <Research.labelShort>วิจัย</Research.labelShort>
   <!-- EN: Researcher -->
   <Research.pawnLabel>นักวิจัย</Research.pawnLabel>
   <!-- EN: Research at -->
-  <Research.verb>วิจัย</Research.verb>
+  <Research.verb>วิจัยที่</Research.verb>
   
   <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. -->
-  <Smithing.description>สร้างอาวุธและเครื่องมือต่างๆจากวัสดุดิบ ไม่ว่าจะเป็นช่างตีหล่อเองหรือใช้เครื่องจักร</Smithing.description>
+  <Smithing.description>สร้างอาวุธและเครื่องมือต่างๆจากวัตถุดิบ ไม่ว่าจะตีหล่อเอง หรือใช้เครื่องจักร</Smithing.description>
   <!-- EN: smithing -->
-  <Smithing.gerundLabel>การหล่อโลหะ</Smithing.gerundLabel>
+  <Smithing.gerundLabel>หล่อหลอมโลหะ</Smithing.gerundLabel>
   <!-- EN: Smith -->
   <Smithing.labelShort>หล่อโลหะ</Smithing.labelShort>
   <!-- EN: Smith -->
-  <Smithing.pawnLabel>ช่างหล่อโลหะ</Smithing.pawnLabel>
+  <Smithing.pawnLabel>ช่างโลหะ</Smithing.pawnLabel>
   <!-- EN: Smith at -->
   <Smithing.verb>หล่อที่</Smithing.verb>
   
   <!-- EN: Create apparel from raw materials. -->
-  <Tailoring.description>สร้างเสื้อผ้าขึ้นมาจากวัสดุดิบ</Tailoring.description>
+  <Tailoring.description>สร้างเสื้อผ้าจากวัตถุดิบ</Tailoring.description>
   <!-- EN: tailoring -->
   <Tailoring.gerundLabel>การตัดเย็บ</Tailoring.gerundLabel>
   <!-- EN: Tailor -->
@@ -211,9 +211,9 @@
   <Tailoring.verb>ตัดที่</Tailoring.verb>
   
   <!-- EN: Manage, feed, chat with, and recruit prisoners. -->
-  <Warden.description>จัดการ, ให้อาหาร, พูดคุย, และรับสมัครนักโทษ</Warden.description>
+  <Warden.description>จัดการ, ให้อาหาร, พูดคุย, และชักชวนนักโทษ</Warden.description>
   <!-- EN: wardening -->
-  <Warden.gerundLabel>การคุมนักโทษ</Warden.gerundLabel>
+  <Warden.gerundLabel>คุมนักโทษ</Warden.gerundLabel>
   <!-- EN: Warden -->
   <Warden.labelShort>ผู้คุม</Warden.labelShort>
   <!-- EN: Warden -->

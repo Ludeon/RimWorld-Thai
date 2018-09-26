@@ -371,11 +371,11 @@
 
   <!-- TextMotes -->
   <!-- EN: Headshot -->
-  <Headshot>ยิงเข้าหัว</Headshot>
+  <Headshot>ยิงหัว</Headshot>
   <!-- EN: Treatment success!\n{0} chance -->
-  <TextMote_TreatSuccess>การรักษาสำเร็จ!\nมีโอกาส {0}</TextMote_TreatSuccess>
+  <TextMote_TreatSuccess>การรักษาสำเร็จ!\nโอกาส {0}</TextMote_TreatSuccess>
   <!-- EN: Treatment failed\n{0} chance -->
-  <TextMote_TreatFailed>การรักษาลัมเหลว\nมีโอกาส {0}</TextMote_TreatFailed>
+  <TextMote_TreatFailed>การรักษาลัมเหลว\nโอกาส {0}</TextMote_TreatFailed>
   <!-- EN: Harvest\nbotched -->
   <TextMote_HarvestFailed>เก็บเกี่ยว\nล้มเหลว</TextMote_HarvestFailed>
   <!-- EN: Yield\nwasted -->
@@ -383,25 +383,25 @@
   <!-- EN: Product\nwasted -->
   <TextMote_ProductWasted>ผลิตภัณฑ์\nเสียทิ้ง</TextMote_ProductWasted>
   <!-- EN: Recruit failed!\n{0} chance -->
-  <TextMote_RecruitFail>ดึงเข้าร่วมล้มเหลว!\nมีโอกาส{0}</TextMote_RecruitFail>
+  <TextMote_RecruitFail>ชักชวนล้มเหลว!\nโอกาส{0}</TextMote_RecruitFail>
   <!-- EN: Resistance\n{0} to {1} -->
   <TextMote_ResistanceReduced>ต่อต้าน\n{0} ถึง {1}</TextMote_ResistanceReduced>
   <!-- EN: Tame failed\n{0} chance -->
-  <TextMote_TameFail>ไม่อาจทำให้เชื่อง\nมีโอกาส {0}</TextMote_TameFail>
+  <TextMote_TameFail>พลาดทำให้เชื่อง\nโอกาส {0}</TextMote_TameFail>
   <!-- EN: Tamed!\n{0} chance -->
-  <TextMote_TameSuccess>เชื่องแล้ว!\nมีโอกาส {0}</TextMote_TameSuccess>
+  <TextMote_TameSuccess>เชื่องแล้ว!\nโอกาส {0}</TextMote_TameSuccess>
   <!-- EN: Failed training: {0}\n{1} chance -->
-  <TextMote_TrainFail>ฝึกล้มเหลว: {0}\nมีโอกาส {1}</TextMote_TrainFail>
+  <TextMote_TrainFail>ฝึกล้มเหลว: {0}\nโอกาส {1}</TextMote_TrainFail>
   <!-- EN: Trained: {0}\n{1} chance -->
-  <TextMote_TrainSuccess>ฝึกแล้ว: {0}\nมีโอกาส {1}</TextMote_TrainSuccess>
+  <TextMote_TrainSuccess>ฝึก: {0}\nโอกาส {1}</TextMote_TrainSuccess>
   <!-- EN: Repair\nbotched -->
   <TextMote_FixBrokenDownBuildingFail>ซ่อมแซม\nล้มเหลว</TextMote_FixBrokenDownBuildingFail>
   <!-- EN: Construction\nbotched -->
-  <TextMote_ConstructionFail>การก่อสร้าง\nล้มเหลว</TextMote_ConstructionFail>
+  <TextMote_ConstructionFail>ก่อสร้าง\nล้มเหลว</TextMote_ConstructionFail>
   <!-- EN: Dodge -->
   <TextMote_Dodge>หลบ</TextMote_Dodge>
   <!-- EN: {0} tended -->
-  <TextMote_Tended>{0} ถูกรักษา</TextMote_Tended>
+  <TextMote_Tended>รักษาอาการ{0}</TextMote_Tended>
   <!-- EN: low mood -->
   <lowMood>อารมณ์ตกต่ำ</lowMood>
   <!-- EN: low opinion -->

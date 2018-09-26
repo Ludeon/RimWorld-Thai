@@ -33,11 +33,11 @@
   <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
   <RefugeePodCrash>{PAWN_titleIndef} ชื่อ {PAWN_nameDef} อยู่ในกระสวยขนส่ง ซึ่งกำลังตกลงมาบริเวณใกล้เคียง ถ้า{PAWN_pronoun}รอดชีวิตจากแรงกระแทก {PAWN_pronoun}จะอยู่ในสภาพบาดเจ็บสาหัส</RefugeePodCrash>
   <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
-  <RefugeePodCrash_Factionless>{PAWN_nameDef} ไม่เกี่ยวข้องกับฝ่ายใดๆ คุณสามารถช่วยชีวิต{PAWN_objective} และหวังว่า{PAWN_pronoun}จะสมัครใจเข้าร่วมเอง หรือไม่ก็จับตัว{PAWN_objective}ไว้ เพื่อเป้าหมายให้เป็นทาส หรือดึงให้เข้าร่วมต่อไป</RefugeePodCrash_Factionless>
+  <RefugeePodCrash_Factionless>{PAWN_nameDef} ไม่เกี่ยวข้องกับฝ่ายใดๆ คุณสามารถช่วยเหลือ{PAWN_objective} และหวังว่า{PAWN_pronoun}จะสมัครใจเข้าร่วมเอง หรือไม่ก็จับตัว{PAWN_objective}ไว้ เพื่อเป้าหมายให้เป็นทาส หรือดึงให้เข้าร่วมต่อไป</RefugeePodCrash_Factionless>
   <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
   <RefugeePodCrash_Hostile>{PAWN_nameDef} มาจากฝ่าย {PAWN_factionName} ซึ่งเป็นศัตรูกับคุณ คุณสามารถจับตัว{PAWN_objective}ไว้ เพื่อเป้าหมายให้เป็นทาส หรือดึงให้เข้าร่วมต่อไป</RefugeePodCrash_Hostile>
   <!-- EN: {PAWN_nameDef} is from {PAWN_factionName}. If you rescue {PAWN_objective}, {PAWN_pronoun} may join freely. Otherwise, {PAWN_pronoun} will return home and spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction. -->
-  <RefugeePodCrash_NonHostile>{PAWN_nameDef} มาจากฝ่าย {PAWN_factionName} / หากคุณช่วยชีวิต{PAWN_objective}ไว้ {PAWN_pronoun}อาจสมัครใจเข้าร่วม ไม่เช่นนั้น {PAWN_pronoun}จะเดินทางกลับบ้าน และกระจายไมตรีจิตที่เกิดขึ้นระหว่างทั้งสองฝ่าย\n\nคุณยังสามารถจับตัว{PAWN_objective}ไว้ เพื่อเป้าหมายให้เป็นทาส หรือดึงให้เข้าร่วมต่อไป แต่นั่นจะทำให้ฝ่ายของ{PAWN_possessive}โกรธ</RefugeePodCrash_NonHostile>
+  <RefugeePodCrash_NonHostile>{PAWN_nameDef} มาจากฝ่าย {PAWN_factionName} / หากคุณช่วยเหลือ{PAWN_objective}ไว้ {PAWN_pronoun}อาจสมัครใจเข้าร่วม ไม่เช่นนั้น {PAWN_pronoun}จะเดินทางกลับบ้าน และกระจายไมตรีจิตที่เกิดขึ้นระหว่างทั้งสองฝ่าย\n\nคุณยังสามารถจับตัว{PAWN_objective}ไว้ เพื่อเป้าหมายให้เป็นทาส หรือดึงให้เข้าร่วมต่อไป แต่นั่นจะทำให้ฝ่ายของ{PAWN_possessive}โกรธ</RefugeePodCrash_NonHostile>
 
   <!-- EN: Cargo pods -->
   <LetterLabelCargoPodCrash>กระสวยบรรทุกสินค้า</LetterLabelCargoPodCrash>

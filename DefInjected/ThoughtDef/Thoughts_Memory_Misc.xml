@@ -40,7 +40,7 @@
   <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>TODO</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
   
   <!-- EN: failed to rescue {0} -->
-  <FailedToRescueRelative.stages.failed_to_rescue.label>{0} ไม่สามารถช่วยชีวิตได้</FailedToRescueRelative.stages.failed_to_rescue.label>
+  <FailedToRescueRelative.stages.failed_to_rescue.label>{0} ไม่สามารถช่วยเหลือได้</FailedToRescueRelative.stages.failed_to_rescue.label>
   <!-- EN: We had a chance to rescue my relative, and failed. I could have helped! -->
   <FailedToRescueRelative.stages.failed_to_rescue.description>เราไม่สามารถช่วยคนในครอบครัวของฉันได้ การที่เราสามารถช่วยเขาได้แต่ ทำไม่สำเหร็จทำให้ฉันเสียใจอย่างมาก กับการเสียคนที่รักไป </FailedToRescueRelative.stages.failed_to_rescue.description>
   

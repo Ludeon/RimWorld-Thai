@@ -142,7 +142,7 @@
   <CannotCapture>ไม่สามารถจับตัวได้</CannotCapture>
 
   <!-- EN: Rescue {1_label} -->
-  <Rescue>ช่วยชีวิต {1_label}</Rescue>
+  <Rescue>ช่วยเหลือ {1_label}</Rescue>
   <!-- EN: Cannot rescue -->
   <CannotRescue>ไม่สามารถช่วยได้</CannotRescue>
 
@@ -297,7 +297,7 @@
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
   <!-- EN: Already {0} {2_labelShort} -->
-  <CannotGenericAlreadyAm>กำลัง{0} {2_labelShort}</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>{0} {2_labelShort} แล้ว</CannotGenericAlreadyAm>
 
   <!-- EN: Cannot prioritize (will never do {0}) -->
   <CannotPrioritizeWorkTypeDisabled>ไม่สามารถจัดลำดับความสำคัญ (จะไม่ทำ {0})</CannotPrioritizeWorkTypeDisabled>
@@ -324,7 +324,7 @@
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
-  <PrioritizeGeneric>ให้ความสำคัญในการ{0} {1} ก่อน</PrioritizeGeneric>
+  <PrioritizeGeneric>ให้ความสำคัญกับ *{1}* {0}ก่อน</PrioritizeGeneric>
   
   <!-- EN: Drop at edge -->
   <DropAtEdge>ทิ้งลงที่ขอบ</DropAtEdge>
