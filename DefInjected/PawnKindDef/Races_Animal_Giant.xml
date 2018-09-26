@@ -5,27 +5,20 @@
   <Elephant.label>ช้าง</Elephant.label>
   <!-- EN: elephant calf -->
   <Elephant.lifeStages.elephant_calf.label>ลูกช้าง</Elephant.lifeStages.elephant_calf.label>
-  <Elephant.lifeStages.1.label>ช้างวัยรุ่น</Elephant.lifeStages.1.label>
-  <Elephant.lifeStages.2.label>ช้าง</Elephant.lifeStages.2.label>
   
   <!-- EN: megasloth -->
-  <Megasloth.label>TODO</Megasloth.label>
+  <Megasloth.label>สลอธยักษ์</Megasloth.label>
   
   <!-- EN: rhinoceros -->
   <Rhinoceros.label>แรด</Rhinoceros.label>
   <!-- EN: rhinoceroses -->
-  <Rhinoceros.labelPlural>TODO</Rhinoceros.labelPlural>
-  <Rhinoceros.lifeStages.0.label>ลูกแรด</Rhinoceros.lifeStages.0.label>
-  <Rhinoceros.lifeStages.1.label>แรดวัยรุ่น</Rhinoceros.lifeStages.1.label>
-  <Rhinoceros.lifeStages.2.label>แรด</Rhinoceros.lifeStages.2.label>
+  <Rhinoceros.labelPlural>แรด</Rhinoceros.labelPlural>
   
   <!-- EN: thrumbo -->
   <Thrumbo.label>ธรัมโบ</Thrumbo.label>
   <!-- EN: thrumbo calf -->
   <Thrumbo.lifeStages.thrumbo_calf.label>ลูกธรัมโบ</Thrumbo.lifeStages.thrumbo_calf.label>
   <!-- EN: thrumbo calves -->
-  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>TODO</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
-  <Thrumbo.lifeStages.1.label>ธรัมโบวัยรุ่น</Thrumbo.lifeStages.1.label>
-  <Thrumbo.lifeStages.2.label>อัลฟ่าธรัมโบ</Thrumbo.lifeStages.2.label>
+  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>ลูกธรัมโบ</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
   
 </LanguageData>

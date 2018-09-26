@@ -5,12 +5,12 @@
   <Drifter.label>ดริฟเตอร์</Drifter.label>
   
   <!-- EN: pirate gunner -->
-  <Pirate.label>โจรสลัด</Pirate.label>
+  <Pirate.label>พลปืนโจรสลัด</Pirate.label>
   
   <!-- EN: scavenger gunner -->
-  <Scavenger.label>นักล่าขยะ</Scavenger.label>
+  <Scavenger.label>พลปืนนักล่าขยะ</Scavenger.label>
   
   <!-- EN: scavenger thrasher -->
-  <Thrasher.label>แธรชเชอร์</Thrasher.label>
+  <Thrasher.label>พลหวดนักล่าขยะ</Thrasher.label>
   
 </LanguageData>

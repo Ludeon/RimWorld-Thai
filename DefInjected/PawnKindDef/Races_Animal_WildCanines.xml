@@ -8,20 +8,16 @@
   <!-- EN: arctic fox puppy -->
   <Fox_Arctic.lifeStages.arctic_fox_puppy.label>ลูกหมาจิ้งจอกหิมะ</Fox_Arctic.lifeStages.arctic_fox_puppy.label>
   <!-- EN: arctic fox puppies -->
-  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>TODO</Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>
-  <Fox_Arctic.lifeStages.1.label>หมาจิ้งจอกหิมะวัยรุ่น</Fox_Arctic.lifeStages.1.label>
-  <Fox_Arctic.lifeStages.2.label>หมาจิ้งจอกหิมะ</Fox_Arctic.lifeStages.2.label>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>ลูกหมาจิ้งจอกหิมะ</Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>
   
   <!-- EN: fennec fox -->
-  <Fox_Fennec.label>หมาจิ้งจอก</Fox_Fennec.label>
+  <Fox_Fennec.label>หมาจิ้งจอกทะเลทราย</Fox_Fennec.label>
   <!-- EN: fennec foxes -->
-  <Fox_Fennec.labelPlural>หมาจิ้งจอก</Fox_Fennec.labelPlural>
+  <Fox_Fennec.labelPlural>หมาจิ้งจอกทะเลทราย</Fox_Fennec.labelPlural>
   <!-- EN: fennec fox puppy -->
-  <Fox_Fennec.lifeStages.fennec_fox_puppy.label>ลูกหมาจิ้งจอก</Fox_Fennec.lifeStages.fennec_fox_puppy.label>
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.label>ลูกหมาจิ้งจอกทะเลทราย</Fox_Fennec.lifeStages.fennec_fox_puppy.label>
   <!-- EN: fennec fox puppies -->
-  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>TODO</Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>
-  <Fox_Fennec.lifeStages.1.label>หมาจิ้งจอกวัยรุ่น</Fox_Fennec.lifeStages.1.label>
-  <Fox_Fennec.lifeStages.2.label>หมาจิ้งจอก</Fox_Fennec.lifeStages.2.label>
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>ลูกหมาจิ้งจอกทะเลทราย</Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>
   
   <!-- EN: red fox -->
   <Fox_Red.label>หมาจิ้งจอกแดง</Fox_Red.label>
@@ -30,18 +26,14 @@
   <!-- EN: red fox puppy -->
   <Fox_Red.lifeStages.red_fox_puppy.label>ลูกหมาจิ้งจอกแดง</Fox_Red.lifeStages.red_fox_puppy.label>
   <!-- EN: red fox puppies -->
-  <Fox_Red.lifeStages.red_fox_puppy.labelPlural>TODO</Fox_Red.lifeStages.red_fox_puppy.labelPlural>
-  <Fox_Red.lifeStages.1.label>หมาจิ้งจอกแดงวัยรุ่น</Fox_Red.lifeStages.1.label>
-  <Fox_Red.lifeStages.2.label>หมาจิ้งจอกแดง</Fox_Red.lifeStages.2.label>
+  <Fox_Red.lifeStages.red_fox_puppy.labelPlural>ลูกหมาจิ้งจอกแดง</Fox_Red.lifeStages.red_fox_puppy.labelPlural>
   
   <!-- EN: warg -->
-  <Warg.label>หมาวาร์ก</Warg.label>
+  <Warg.label>วาร์ก </Warg.label>
   <!-- EN: warg puppy -->
-  <Warg.lifeStages.warg_puppy.label>ลูกหมาวาร์ก</Warg.lifeStages.warg_puppy.label>
+  <Warg.lifeStages.warg_puppy.label>ลูกวาร์ก</Warg.lifeStages.warg_puppy.label>
   <!-- EN: warg puppies -->
-  <Warg.lifeStages.warg_puppy.labelPlural>TODO</Warg.lifeStages.warg_puppy.labelPlural>
-  <Warg.lifeStages.1.label>หมาวาร์กวัยรุ่น</Warg.lifeStages.1.label>
-  <Warg.lifeStages.2.label>หมาวาร์ก</Warg.lifeStages.2.label>
+  <Warg.lifeStages.warg_puppy.labelPlural>ลูกวาร์ก</Warg.lifeStages.warg_puppy.labelPlural>
   
   <!-- EN: arctic wolf -->
   <Wolf_Arctic.label>หมาป่าขั้วโลก</Wolf_Arctic.label>
@@ -50,9 +42,7 @@
   <!-- EN: arctic wolf puppy -->
   <Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>ลูกหมาป่าขั้วโลก</Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>
   <!-- EN: arctic wolf puppies -->
-  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>TODO</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>
-  <Wolf_Arctic.lifeStages.1.label>หมาป่าขั้วโลกวัยรุ่น</Wolf_Arctic.lifeStages.1.label>
-  <Wolf_Arctic.lifeStages.2.label>หมาป่าขั้วโลก</Wolf_Arctic.lifeStages.2.label>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>ลูกหมาป่าขั้วโลก</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>
   
   <!-- EN: timber wolf -->
   <Wolf_Timber.label>หมาป่า</Wolf_Timber.label>
@@ -61,8 +51,6 @@
   <!-- EN: timber wolf puppy -->
   <Wolf_Timber.lifeStages.timber_wolf_puppy.label>ลูกหมาป่า</Wolf_Timber.lifeStages.timber_wolf_puppy.label>
   <!-- EN: timber wolf puppies -->
-  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>TODO</Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>
-  <Wolf_Timber.lifeStages.1.label>หมาป่าวัยรุ่น</Wolf_Timber.lifeStages.1.label>
-  <Wolf_Timber.lifeStages.2.label>หมาป่า</Wolf_Timber.lifeStages.2.label>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>ลูกหมาป่า</Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>
   
 </LanguageData>

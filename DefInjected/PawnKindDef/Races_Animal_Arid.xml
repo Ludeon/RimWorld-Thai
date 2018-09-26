@@ -2,35 +2,25 @@
 <LanguageData>
   
   <!-- EN: dromedary -->
-  <Dromedary.label>อูฐ</Dromedary.label>
+  <Dromedary.label>อูฐหนอกเดียว</Dromedary.label>
   <!-- EN: dromedaries -->
-  <Dromedary.labelPlural>TODO</Dromedary.labelPlural>
+  <Dromedary.labelPlural>อูฐหนอกเดียว</Dromedary.labelPlural>
   <!-- EN: dromedary calf -->
-  <Dromedary.lifeStages.dromedary_calf.label>ลูกอูฐ</Dromedary.lifeStages.dromedary_calf.label>
+  <Dromedary.lifeStages.dromedary_calf.label>ลูกอูฐหนอกเดียว</Dromedary.lifeStages.dromedary_calf.label>
   <!-- EN: dromedary calves -->
-  <Dromedary.lifeStages.dromedary_calf.labelPlural>TODO</Dromedary.lifeStages.dromedary_calf.labelPlural>
-  <Dromedary.lifeStages.1.label>อูฐวัยรุ่น</Dromedary.lifeStages.1.label>
-  <Dromedary.lifeStages.2.label>อูฐ</Dromedary.lifeStages.2.label>
+  <Dromedary.lifeStages.dromedary_calf.labelPlural>ลูกอูฐหนอกเดียว</Dromedary.lifeStages.dromedary_calf.labelPlural>
   
   <!-- EN: gazelle -->
   <Gazelle.label>กาเซลล์</Gazelle.label>
-  <Gazelle.lifeStages.0.label>ลูกกาเซลล์</Gazelle.lifeStages.0.label>
-  <Gazelle.lifeStages.1.label>กาเซลล์วัยรุ่น</Gazelle.lifeStages.1.label>
-  <Gazelle.lifeStages.2.label>กาเซลล์</Gazelle.lifeStages.2.label>
   
   <!-- EN: iguana -->
   <Iguana.label>อิกัวน่า</Iguana.label>
-  <Iguana.lifeStages.0.label>ลูกอิกัวน่า</Iguana.lifeStages.0.label>
-  <Iguana.lifeStages.1.label>อิกัวน่าวัยรุ่น</Iguana.lifeStages.1.label>
-  <Iguana.lifeStages.2.label>อิกัวน่า</Iguana.lifeStages.2.label>
   
   <!-- EN: muffalo -->
-  <Muffalo.label>ควายมัฟฟาโล่</Muffalo.label>
+  <Muffalo.label>มัฟฟาโล่</Muffalo.label>
   <!-- EN: muffalo calf -->
-  <Muffalo.lifeStages.muffalo_calf.label>ลูกควายมัฟฟาโล่</Muffalo.lifeStages.muffalo_calf.label>
+  <Muffalo.lifeStages.muffalo_calf.label>ลูกมัฟฟาโล่</Muffalo.lifeStages.muffalo_calf.label>
   <!-- EN: muffalo calves -->
   <Muffalo.lifeStages.muffalo_calf.labelPlural>TODO</Muffalo.lifeStages.muffalo_calf.labelPlural>
-  <Muffalo.lifeStages.1.label>ควายมัฟฟาโล่วัยรุ่น</Muffalo.lifeStages.1.label>
-  <Muffalo.lifeStages.2.label>ควายมัฟฟาโล่</Muffalo.lifeStages.2.label>
   
 </LanguageData>

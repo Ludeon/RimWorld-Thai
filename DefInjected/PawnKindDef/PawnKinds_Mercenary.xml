@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: grenadier -->
-  <Grenadier_Destructive.label>พลระเบิดมือ</Grenadier_Destructive.label>
-  <Grenadier_Destructive.labelPlural>พลระเบิดมือ</Grenadier_Destructive.labelPlural>
+  <Grenadier_Destructive.label>พลระเบิด</Grenadier_Destructive.label>
+  <Grenadier_Destructive.labelPlural>พลระเบิด</Grenadier_Destructive.labelPlural>
   
   <!-- EN: EMP grenadier -->
   <Grenadier_EMP.label>พลระเบิด EMP</Grenadier_EMP.label>
   <Grenadier_EMP.labelPlural>พลระเบิด EMP</Grenadier_EMP.labelPlural>
   
   <!-- EN: elite mercenary -->
-  <Mercenary_Elite.label>ทหารรับจ้าชั้นสูง</Mercenary_Elite.label>
+  <Mercenary_Elite.label>ทหารรับจ้างหัวกะทิ</Mercenary_Elite.label>
   <!-- EN: elite mercenaries -->
-  <Mercenary_Elite.labelPlural>ทหารรับจ้าชั้นสูง</Mercenary_Elite.labelPlural>
+  <Mercenary_Elite.labelPlural>ทหารรับจ้างหัวกะทิ</Mercenary_Elite.labelPlural>
   
   <!-- EN: mercenary gunner -->
-  <Mercenary_Gunner.label>ทหารรับจ้างพลปืน</Mercenary_Gunner.label>
-  <Mercenary_Gunner.labelPlural>ทหารรับจ้าพลปืน</Mercenary_Gunner.labelPlural>
+  <Mercenary_Gunner.label>พลปืนรับจ้าง</Mercenary_Gunner.label>
+  <Mercenary_Gunner.labelPlural>พลปืนรับจ้าง</Mercenary_Gunner.labelPlural>
   
   <!-- EN: heavy mercenary -->
-  <Mercenary_Heavy.label>ทหารรับจ้าพลอาวุธหนัก</Mercenary_Heavy.label>
+  <Mercenary_Heavy.label>พลอาวุธหนักรับจ้าง</Mercenary_Heavy.label>
   <!-- EN: heavy mercenaries -->
-  <Mercenary_Heavy.labelPlural>ทหารรับจ้าพลอาวุธหนัก</Mercenary_Heavy.labelPlural>
+  <Mercenary_Heavy.labelPlural>พลอาวุธหนักรับจ้าง</Mercenary_Heavy.labelPlural>
   
   <!-- EN: mercenary slasher -->
-  <Mercenary_Slasher.label>ทหารรับจ้างผลตะลุยฟัน</Mercenary_Slasher.label>
-  <Mercenary_Slasher.labelPlural>ทหารรับจ้างผลตะลุยฟัน</Mercenary_Slasher.labelPlural>
+  <Mercenary_Slasher.label>พลตะลุยฟันรับจ้าง</Mercenary_Slasher.label>
+  <Mercenary_Slasher.labelPlural>พลตะลุยฟันรับจ้าง</Mercenary_Slasher.labelPlural>
   
   <!-- EN: mercenary sniper -->
-  <Mercenary_Sniper.label>ทหารรับจ้าพลแม่นปืนรับจ้าง</Mercenary_Sniper.label>
-  <Mercenary_Sniper.labelPlural>ทหารรับจ้าพลแม่นปืน</Mercenary_Sniper.labelPlural>
+  <Mercenary_Sniper.label>พลแม่นปืนรับจ้าง</Mercenary_Sniper.label>
+  <Mercenary_Sniper.labelPlural>พลแม่นปืนรับจ้าง</Mercenary_Sniper.labelPlural>
   
   <!-- EN: boss -->
   <PirateBoss.label>หัวหน้าโจรสลัด</PirateBoss.label>
   <!-- EN: bosses -->
-  <PirateBoss.labelPlural>TODO</PirateBoss.labelPlural>
+  <PirateBoss.labelPlural>หัวหน้าโจรสลัด</PirateBoss.labelPlural>
   
 </LanguageData>

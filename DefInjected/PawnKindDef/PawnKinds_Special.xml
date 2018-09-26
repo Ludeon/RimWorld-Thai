@@ -5,21 +5,21 @@
   <Slave.label>ทาส</Slave.label>
   
   <!-- EN: stranger in black -->
-  <StrangerInBlack.label>TODO</StrangerInBlack.label>
+  <StrangerInBlack.label>คนแปลกหน้าชุดดำ</StrangerInBlack.label>
   <!-- EN: woman in black -->
-  <StrangerInBlack.labelFemale>TODO</StrangerInBlack.labelFemale>
+  <StrangerInBlack.labelFemale>หญิงชุดดำ</StrangerInBlack.labelFemale>
   <!-- EN: man in black -->
-  <StrangerInBlack.labelMale>TODO</StrangerInBlack.labelMale>
+  <StrangerInBlack.labelMale>ชายชุดดำ</StrangerInBlack.labelMale>
   <!-- EN: strangers in black -->
-  <StrangerInBlack.labelPlural>TODO</StrangerInBlack.labelPlural>
+  <StrangerInBlack.labelPlural>คนแปลกหน้าชุดดำ</StrangerInBlack.labelPlural>
   
   <!-- EN: wild man -->
-  <WildMan.label>TODO</WildMan.label>
+  <WildMan.label>คนเถื่อน</WildMan.label>
   <!-- EN: wild woman -->
-  <WildMan.labelFemale>TODO</WildMan.labelFemale>
+  <WildMan.labelFemale>คนเถื่อน</WildMan.labelFemale>
   <!-- EN: wild women -->
-  <WildMan.labelFemalePlural>TODO</WildMan.labelFemalePlural>
+  <WildMan.labelFemalePlural>คนเถื่อน</WildMan.labelFemalePlural>
   <!-- EN: wild men -->
-  <WildMan.labelPlural>TODO</WildMan.labelPlural>
+  <WildMan.labelPlural>คนเถื่อน</WildMan.labelPlural>
   
 </LanguageData>

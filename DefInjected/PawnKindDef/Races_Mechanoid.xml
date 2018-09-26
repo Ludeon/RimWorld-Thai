@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: centipede -->
-  <Mech_Centipede.label>ตะขาบจักรกล</Mech_Centipede.label>
+  <Mech_Centipede.label>ตะขาบกล</Mech_Centipede.label>
   
   <!-- EN: lancer -->
-  <Mech_Lancer.label>TODO</Mech_Lancer.label>
+  <Mech_Lancer.label>แลนเซอร์</Mech_Lancer.label>
   
   <!-- EN: scyther -->
-  <Mech_Scyther.label>ไซเธอร์จักรกล</Mech_Scyther.label>
+  <Mech_Scyther.label>ไซเธอร์</Mech_Scyther.label>
   
 </LanguageData>

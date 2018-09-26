@@ -2,24 +2,16 @@
 <LanguageData>
   
   <!-- EN: boomalope -->
-  <Boomalope.label>บูมมาลูป</Boomalope.label>
+  <Boomalope.label>บูมมาลูบ</Boomalope.label>
   <!-- EN: boomalope calf -->
-  <Boomalope.lifeStages.boomalope_calf.label>ลูกบูมมาลูป</Boomalope.lifeStages.boomalope_calf.label>
+  <Boomalope.lifeStages.boomalope_calf.label>ลูกบูมมาลูบ</Boomalope.lifeStages.boomalope_calf.label>
   <!-- EN: boomalope calves -->
-  <Boomalope.lifeStages.boomalope_calf.labelPlural>TODO</Boomalope.lifeStages.boomalope_calf.labelPlural>
-  <Boomalope.lifeStages.1.label>บูมมาลูปวัยรุ่น</Boomalope.lifeStages.1.label>
-  <Boomalope.lifeStages.2.label>บูมมาลูป</Boomalope.lifeStages.2.label>
+  <Boomalope.lifeStages.boomalope_calf.labelPlural>ลูกบูมมาลูบ</Boomalope.lifeStages.boomalope_calf.labelPlural>
   
   <!-- EN: cobra -->
   <Cobra.label>งูเห่า</Cobra.label>
-  <Cobra.lifeStages.0.label>ลูกงูเห่า</Cobra.lifeStages.0.label>
-  <Cobra.lifeStages.1.label>งูเห่าวัยรุ่น</Cobra.lifeStages.1.label>
-  <Cobra.lifeStages.2.label>งูเห่า</Cobra.lifeStages.2.label>
   
   <!-- EN: monkey -->
   <Monkey.label>ลิง</Monkey.label>
-  <Monkey.lifeStages.0.label>ลูกลิง</Monkey.lifeStages.0.label>
-  <Monkey.lifeStages.1.label>ลิงวัยรุ่น</Monkey.lifeStages.1.label>
-  <Monkey.lifeStages.2.label>ลิง</Monkey.lifeStages.2.label>
   
 </LanguageData>

@@ -4,29 +4,17 @@
   <!-- EN: cassowary -->
   <Cassowary.label>นกแคสโซแวรี</Cassowary.label>
   <!-- EN: cassowaries -->
-  <Cassowary.labelPlural>TODO</Cassowary.labelPlural>
-  <Cassowary.lifeStages.0.label>ลูกนกแคสโซแวรี</Cassowary.lifeStages.0.label>
-  <Cassowary.lifeStages.1.label>นกแคสโซแวรีวัยรุ่น</Cassowary.lifeStages.1.label>
-  <Cassowary.lifeStages.2.label>นกแคสโซแวรี</Cassowary.lifeStages.2.label>
+  <Cassowary.labelPlural>นกแคสโซแวรี</Cassowary.labelPlural>
   
   <!-- EN: emu -->
   <Emu.label>นกอีมู</Emu.label>
-  <Emu.lifeStages.0.label>ลูกนกอีมู</Emu.lifeStages.0.label>
-  <Emu.lifeStages.1.label>นกอีมูวัยรุ่น</Emu.lifeStages.1.label>
-  <Emu.lifeStages.2.label>นกอีมู</Emu.lifeStages.2.label>
   
   <!-- EN: ostrich -->
   <Ostrich.label>นกกระจอกเทศ</Ostrich.label>
   <!-- EN: ostriches -->
-  <Ostrich.labelPlural>TODO</Ostrich.labelPlural>
-  <Ostrich.lifeStages.0.label>ลูกนกกระจอกเทศ</Ostrich.lifeStages.0.label>
-  <Ostrich.lifeStages.1.label>นกกระจอกเทศวัยรุ่น</Ostrich.lifeStages.1.label>
-  <Ostrich.lifeStages.2.label>นกกระจอกเทศ</Ostrich.lifeStages.2.label>
+  <Ostrich.labelPlural>นกกระจอกเทศ</Ostrich.labelPlural>
   
   <!-- EN: turkey -->
   <Turkey.label>ไก่งวง</Turkey.label>
-  <Turkey.lifeStages.0.label>ลูกไก่งวง</Turkey.lifeStages.0.label>
-  <Turkey.lifeStages.1.label>ไก่งวงกีวัยรุ่น</Turkey.lifeStages.1.label>
-  <Turkey.lifeStages.2.label>ไก่งวง</Turkey.lifeStages.2.label>
   
 </LanguageData>
