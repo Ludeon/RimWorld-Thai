@@ -2,77 +2,77 @@
 <LanguageData>
   
   <!-- EN: create incident -->
-  <CreateIncident.label>สร้างกิจกรรม</CreateIncident.label>
+  <CreateIncident.label>อุบัติการณ์ถูกสร้าง</CreateIncident.label>
   
   <!-- EN: disable incident -->
-  <DisableIncident.label>เหตุการณ์ปิดการใช้งาน</DisableIncident.label>
+  <DisableIncident.label>อุบัติการณ์ถูกปิด</DisableIncident.label>
   
   <!-- EN: forced health condition -->
-  <ForcedHediff.label>TODO</ForcedHediff.label>
+  <ForcedHediff.label>บังคับสภาพร่างกาย</ForcedHediff.label>
   
   <!-- EN: forced trait -->
-  <ForcedTrait.label>TODO</ForcedTrait.label>
+  <ForcedTrait.label>บังคับคุณสมบัติ</ForcedTrait.label>
   
   <!-- EN: planetkiller weapon incoming -->
-  <GameCondition_Planetkiller.label>อาวุธทำลายล้างดาวเคราะห์ถูกยิงมาแล้ว</GameCondition_Planetkiller.label>
+  <GameCondition_Planetkiller.label>ยิงอาวุธทำลายล้างดาวเคราะห์</GameCondition_Planetkiller.label>
   
   <!-- EN: game start dialog -->
-  <GameStartDialog.label>กล่องโต้ตอบเริ่มเกม</GameStartDialog.label>
+  <GameStartDialog.label>หน้าต่างเมื่อเริ่มเกม</GameStartDialog.label>
   
   <!-- EN: naked -->
   <Naked.label>เปลือย</Naked.label>
   
   <!-- EN: characters explode on death -->
-  <OnPawnDeathExplode.label>TODO</OnPawnDeathExplode.label>
+  <OnPawnDeathExplode.label>ตัวละครระเบิดเมื่อตาย</OnPawnDeathExplode.label>
   
   <!-- EN: allowed age range -->
-  <PawnFilter_Age.label>TODO</PawnFilter_Age.label>
+  <PawnFilter_Age.label>ช่วงอายุที่อณุญาต</PawnFilter_Age.label>
   
   <!-- EN: permanent game condition -->
-  <PermanentGameCondition.label>TODO</PermanentGameCondition.label>
+  <PermanentGameCondition.label>เงื่อนไขถาวร</PermanentGameCondition.label>
   
   <!-- EN: disallow building -->
-  <Rule_DisallowBuilding.label>ปิดการใช้งานอาคาร</Rule_DisallowBuilding.label>
+  <Rule_DisallowBuilding.label>ไม่อญุญาตให้ก่อสร้าง</Rule_DisallowBuilding.label>
   
   <!-- EN: cannot hunt -->
-  <Rule_DisallowDesignator_Hunt.label>ปิดการใช้งานการล่าสัตว์</Rule_DisallowDesignator_Hunt.label>
+  <Rule_DisallowDesignator_Hunt.label>ไม่อาจล่าสัตว์</Rule_DisallowDesignator_Hunt.label>
   <!-- EN: Cannot hunt. -->
-  <Rule_DisallowDesignator_Hunt.description>ไม่สามารถล่า</Rule_DisallowDesignator_Hunt.description>
+  <Rule_DisallowDesignator_Hunt.description>ไม่สามารถล่าสัตว์ได้</Rule_DisallowDesignator_Hunt.description>
   
   <!-- EN: cannot mine -->
-  <Rule_DisallowDesignator_Mine.label>ปิดการใช้งานการชุดเหมือง</Rule_DisallowDesignator_Mine.label>
+  <Rule_DisallowDesignator_Mine.label>ไม่อาจขุดเหมือง</Rule_DisallowDesignator_Mine.label>
   <!-- EN: Cannot mine. -->
-  <Rule_DisallowDesignator_Mine.description>ไม่สามารถทำเหมืองได้</Rule_DisallowDesignator_Mine.description>
+  <Rule_DisallowDesignator_Mine.description>ไม่สามารถขุดเหมืองได้</Rule_DisallowDesignator_Mine.description>
   
   <!-- EN: cannot tame -->
-  <Rule_DisallowDesignator_Tame.label>ปิดการใช้งานการทำให้สัตว์เชื่องได้</Rule_DisallowDesignator_Tame.label>
+  <Rule_DisallowDesignator_Tame.label>ไม่อาจทำให้สัตว์เชื่อง</Rule_DisallowDesignator_Tame.label>
   <!-- EN: Cannot tame animals. -->
   <Rule_DisallowDesignator_Tame.description>ไม่สามารถทำให้สัตว์เชื่องได้</Rule_DisallowDesignator_Tame.description>
   
   <!-- EN: cannot sow -->
-  <Rule_DisallowDesignator_ZoneAdd_Growing.label>ปิดการใช้งานเพื่อการเพาะปลูก</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+  <Rule_DisallowDesignator_ZoneAdd_Growing.label>ไม่อาจเพาะปลูก</Rule_DisallowDesignator_ZoneAdd_Growing.label>
   <!-- EN: Cannot sow plants on the ground. -->
-  <Rule_DisallowDesignator_ZoneAdd_Growing.description>ไม่สามารถหว่านพืชบนพื้นดินได้</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+  <Rule_DisallowDesignator_ZoneAdd_Growing.description>ไม่สามารถปลูกพืชลงดินได้</Rule_DisallowDesignator_ZoneAdd_Growing.description>
   
   <!-- EN: scattered randomly -->
-  <ScatterThingsAnywhere.label>สุ่ม</ScatterThingsAnywhere.label>
+  <ScatterThingsAnywhere.label>สุ่มกระจาย</ScatterThingsAnywhere.label>
   
   <!-- EN: start near -->
-  <ScatterThingsNearPlayerStart.label>เริ่มต้นใกล้เคียง</ScatterThingsNearPlayerStart.label>
+  <ScatterThingsNearPlayerStart.label>เริ่มต้นพร้อมของใกล้ตัว</ScatterThingsNearPlayerStart.label>
   
   <!-- EN: set need level -->
-  <SetNeedLevel.label>ปรับระดับความต้องการ</SetNeedLevel.label>
+  <SetNeedLevel.label>เซ็ตระดับความต้องการ</SetNeedLevel.label>
   
   <!-- EN: start with animal(s) -->
-  <StartingAnimal.label>เริ่มต้นด้วยสัตว์ (s)</StartingAnimal.label>
+  <StartingAnimal.label>เริ่มต้นพร้อมสัตว์เลี้ยง</StartingAnimal.label>
   
   <!-- EN: start with research -->
-  <StartingResearch.label>การทำวิจัย</StartingResearch.label>
+  <StartingResearch.label>เริ่มต้นพร้อมงานวิจัย</StartingResearch.label>
   
   <!-- EN: start with -->
-  <StartingThing_Defined.label>เริ่มต้นด้วย</StartingThing_Defined.label>
+  <StartingThing_Defined.label>เริ่มต้นพร้อม</StartingThing_Defined.label>
   
   <!-- EN: stat multiplier -->
-  <StatFactor.label>คูณสถานะ</StatFactor.label>
+  <StatFactor.label>สถานะทวีคูณ</StatFactor.label>
   
 </LanguageData>
