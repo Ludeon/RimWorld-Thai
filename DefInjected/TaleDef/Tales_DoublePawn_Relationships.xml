@@ -20,23 +20,7 @@
     <li>desc_sentence->[PURSUER_nameDef] is a near-mirror image of [ACCEPTER_nameDef].</li>
     <li>desc_sentence->[PURSUER_nameDef] is touching [ACCEPTER_nameDef] aggressively.</li>
   -->
-  <BecameLover.rulePack.rulesStrings>
-    <li>tale_noun->[firstPawn_nameShortDef] und [secondPawn_nameShortDef] wurden Geliebte</li>
-    <li>image->[circumstance_group] flüstert [firstPawn_nameFull] süße Nichtigkeiten in das Ohr von [secondPawn_nameFull]</li>
-    <li>image->[circumstance_group] führt [firstPawn_nameFull] [secondPawn_nameFull] Händchen haltend </li>
-    <li>image->[circumstance_group] spielt [firstPawn_nameFull] mit [secondPawn_nameFull] im Bett herum</li>
-    <li>image->[circumstance_group] küssen sich [firstPawn_nameFull] und [secondPawn_nameFull] leidenschaftlich</li>
-    <li>circumstance_phrase->In einem unrealistisch großem Bett</li>
-    <li>circumstance_phrase->Unter der Bettdecke</li>
-    <li>circumstance_phrase->Mit nur wenigen sichtbaren Kleidungsstücken</li>
-    <li>circumstance_phrase->In Schweiß gebadet</li>
-    <li>desc_sentence->[firstPawn_nameShortDef] kuschelt sich an [secondPawn_nameShortDef].</li>
-    <li>desc_sentence->[firstPawn_nameShortDef] und [secondPawn_nameShortDef] schauen sich tief in die Augen.</li>
-    <li>desc_sentence->[firstPawn_nameShortDef] pustet [secondPawn_nameShortDef] leicht ins Ohr.</li>
-    <li>desc_sentence->[firstPawn_nameShortDef] ist stilistisch mit [secondPawn_nameShortDef] verbunden.</li>
-    <li>desc_sentence->[firstPawn_nameShortDef] ist beinahe ein Spiegelbild von [secondPawn_nameShortDef].</li>
-    <li>desc_sentence->[firstPawn_nameShortDef] berührt [secondPawn_nameShortDef] forsch.</li>
-  </BecameLover.rulePack.rulesStrings>
+  <BecameLover.rulePack.rulesStrings>TODO</BecameLover.rulePack.rulesStrings>
   
   <!-- EN: bond developed -->
   <BondedWithAnimal.label>ผูกพันกับสัตว์</BondedWithAnimal.label>
@@ -53,19 +37,7 @@
     <li>desc_sentence->[ANIMAL_nameDef] stands tall and looks noble.</li>
     <li>desc_sentence->[ANIMAL_nameDef] is responding positively.</li>
   -->
-  <BondedWithAnimal.rulePack.rulesStrings>
-    <li>tale_noun->[human_nameShortDef]'s Bindung mit [animal_nameShortDef]</li>
-    <li>image->[human_nameFull] Bindung mit [animal_nameFull] [circumstance_group]</li>
-    <li>image->[human_nameFull] formt eine tiefe Bindung mit [animal_nameFull] [circumstance_group]</li>
-    <li>image->[human_nameFull] realisiert [human_possessive]e wahrhaftige Liebe zu [animal_nameFull] [circumstance_group]</li>
-    <li>circumstance_phrase->während andere Tiere zuschauen</li>
-    <li>circumstance_phrase->während [human_pronoun] in [animal_nameShortDef]'s Augen schaut</li>
-    <li>circumstance_phrase->mit einem Gefühl der Befriedigung</li>
-    <li>desc_sentence->[animal_nameShortDef] kuschelt sich an [human_nameShortDef].</li>
-    <li>desc_sentence->[animal_nameShortDef] schaut schläfrig und trunken vor Liebe drein.</li>
-    <li>desc_sentence->[animal_nameShortDef] steht aufrecht und sieht königlich aus.</li>
-    <li>desc_sentence->[animal_nameShortDef] reagiert positiv.</li>
-  </BondedWithAnimal.rulePack.rulesStrings>
+  <BondedWithAnimal.rulePack.rulesStrings>TODO</BondedWithAnimal.rulePack.rulesStrings>
   
   <!-- EN: breakup -->
   <Breakup.label>บอกเลิก</Breakup.label>
@@ -85,22 +57,7 @@
     <li>desc_sentence->[REJECTED_nameDef] has collapsed on the floor in a quivering heap.</li>
     <li>desc_sentence->[REJECTED_nameDef] is gesticulating angrily at [DUMPER_nameDef].</li>
   -->
-  <Breakup.rulePack.rulesStrings>
-    <li>tale_noun->der Trennung von [firstPawn_nameShortDef] und [secondPawn_nameShortDef]</li>
-    <li>image->[circumstance_group], sitzt [firstPawn_nameFull] mit [secondPawn_nameFull] für ein unangenehmes Gespräch zusammen</li>
-    <li>image->[circumstance_group], steht [firstPawn_nameFull] von [secondPawn_nameFull] etwas entfernt</li>
-    <li>image->[circumstance_group], wirft [firstPawn_nameFull] [secondPawn_nameFull] raus aus dem Bett</li>
-    <li>image->[circumstance_group], verweigert [firstPawn_nameFull] eine Umarmung von [secondPawn_nameFull]</li>
-    <li>circumstance_phrase->In einem Moment großer Trauer</li>
-    <li>circumstance_phrase->Während andere unbehaglich weg sehen</li>
-    <li>circumstance_phrase->Während andere zusehen</li>
-    <li>desc_sentence->[secondPawn_nameShortDef] weint heftig.</li>
-    <li>desc_sentence->[secondPawn_nameShortDef] schaut gleichzeitig herablassend und weinend.</li>
-    <li>desc_sentence->[secondPawn_nameShortDef] sitzt vor Schock wie versteinert da.</li>
-    <li>desc_sentence->[firstPawn_nameShortDef] ist stilistisch getrennt von [secondPawn_nameShortDef].</li>
-    <li>desc_sentence->[secondPawn_nameShortDef] ist in einem Wimmernden Haufen auf dem Boden zusammengebrochen.</li>
-    <li>desc_sentence->[secondPawn_nameShortDef] gestikuliert wütend mit [firstPawn_nameShortDef].</li>
-  </Breakup.rulePack.rulesStrings>
+  <Breakup.rulePack.rulesStrings>TODO</Breakup.rulePack.rulesStrings>
   
   <!-- EN: marriage -->
   <Marriage.label>การแต่งงาน</Marriage.label>
@@ -120,21 +77,6 @@
     <li>desc_sentence->[SPOUSE1_nameDef] is a near-mirror image of [SPOUSE2_nameDef].</li>
     <li>desc_sentence->[SPOUSE1_nameDef] is touching [SPOUSE2_nameDef] aggressively.</li>
   -->
-  <Marriage.rulePack.rulesStrings>
-    <li>tale_noun->der Hochzeit von [firstPawn_nameShortDef] und [secondPawn_nameShortDef]</li>
-    <li>image->[circumstance_group] heiratet [firstPawn_nameFull] [secondPawn_nameFull]</li>
-    <li>image->[circumstance_group] spricht [firstPawn_nameFull] [firstPawn_possessive]en Hochzeitsschwur zu [secondPawn_nameFull]</li>
-    <li>image->[circumstance_group] tritt [firstPawn_nameFull] mit [secondPawn_nameFull] vor den Traualtar</li>
-    <li>image->[circumstance_group] hält [firstPawn_nameFull] während der Hochzeitszeremonie die Hand von [secondPawn_nameFull]</li>
-    <li>circumstance_phrase->In einer würdevollen Zeremonie</li>
-    <li>circumstance_phrase->Während beide fröhlich lachen</li>
-    <li>circumstance_phrase->Während andere feierlich zusehen</li>
-    <li>desc_sentence->[firstPawn_nameShortDef] kuschelt sich an [secondPawn_nameShortDef].</li>
-    <li>desc_sentence->[firstPawn_nameShortDef] und [secondPawn_nameShortDef] schauen sich tief in die Augen.</li>
-    <li>desc_sentence->[firstPawn_nameShortDef] pustet [secondPawn_nameShortDef] leicht ins Ohr.</li>
-    <li>desc_sentence->[firstPawn_nameShortDef] ist stilistisch mit [secondPawn_nameShortDef] verbunden.</li>
-    <li>desc_sentence->[firstPawn_nameShortDef] ist beinahe ein Spiegelbild von [secondPawn_nameShortDef].</li>
-    <li>desc_sentence->[firstPawn_nameShortDef] berührt [secondPawn_nameShortDef] besitzergreifend.</li>
-  </Marriage.rulePack.rulesStrings>
+  <Marriage.rulePack.rulesStrings>TODO</Marriage.rulePack.rulesStrings>
   
 </LanguageData>

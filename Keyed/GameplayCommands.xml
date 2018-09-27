@@ -4,10 +4,12 @@
   <!-- Forbid -->
   <!-- EN: Forbid -->
   <CommandForbid>ห้าม</CommandForbid>
-  <!-- EN: Forbidden - colonists will not interact with this. -->
-  <CommandForbiddenDesc>หวงห้าม - ชาวนิคมจะไม่ยุ่งกับสิ่งนี้</CommandForbiddenDesc>
-  <!-- EN: Not forbidden - colonists may interact with this. -->
-  <CommandNotForbiddenDesc>ไม่หวงห้าม - ชาวนิคมสามารถยุ่งด้วยได้</CommandNotForbiddenDesc>
+  <!-- EN: Allow -->
+  <CommandAllow>อณุญาต</CommandAllow>
+  <!-- EN: Forbidden: Your colonists are not allowed to interact with this. Click to allow. -->
+  <CommandForbiddenDesc>หวงห้าม: ชาวนิคมไม่อาจยุ่งกับสิ่งนี้ คลิกเพื่ออณุญาต</CommandForbiddenDesc>
+  <!-- EN: Allowed: Your colonists are allowed to interact with this. Click to forbid. -->
+  <CommandNotForbiddenDesc>อณุญาต: ชาวนิคมสามารถยุ่งกับสิ่งนี้ คลิกเพื่อห้าม</CommandNotForbiddenDesc>
 
   <!-- Power -->
   <!-- EN: Toggle power -->

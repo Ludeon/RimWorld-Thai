@@ -280,8 +280,8 @@
   <KnownSiteThreat>ภัยคุกคามที่ทราบ: {0}</KnownSiteThreat>
   <!-- EN: Known threats: {0} -->
   <KnownSiteThreats>ภัยคุกคามที่ทราบ: {0}</KnownSiteThreats>
-  <!-- EN: Known threats: None -->
-  <KnownSiteThreatsNone>ภัยคุกคามที่ทราบ: ไม่มี</KnownSiteThreatsNone>
+  <!-- EN: Threats: Unknown -->
+  <KnownSiteThreatsNone>ภัยคุกคาม: ไม่ทราบ</KnownSiteThreatsNone>
   <!-- EN: Skill Requirements -->
   <SkillRequirements>ทักษะที่จำเป็น</SkillRequirements>
   <!-- EN: Products -->

@@ -8,15 +8,7 @@
   <Lit>สว่าง</Lit>
   <!-- EN: Brightly lit -->
   <LitBrightly>สว่างจ้า</LitBrightly>
-  
-  <!-- History upload pref -->
-  <!-- EN: Undecided -->
-  <Unspecified>ยังไม่ตัดสินใจ</Unspecified>
-  <!-- EN: Allow -->
-  <Always>อนุญาต</Always>
-  <!-- EN: Do not allow -->
-  <Never>ไม่อนุญาต</Never>
-  
+
   <!-- Price types -->
   <!-- EN: very cheap -->
   <PriceTypeVeryCheap>ถูกมาก</PriceTypeVeryCheap>
