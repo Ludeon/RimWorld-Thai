@@ -4,6 +4,6 @@
   <!-- EN: alcohol -->
   <Chemical_Alcohol.label>แอลกอฮอล์</Chemical_Alcohol.label>
   <!-- EN: Because of an alcohol addiction, this person needs to regularly consume alcohol to avoid withdrawal symptoms. -->
-  <Chemical_Alcohol.description>TODO</Chemical_Alcohol.description>
+  <Chemical_Alcohol.description>เพราะว่าแอลกอฮอล์นั้นเสพติด คนนี้จำเป็นต้องเสพแอลกอฮอล์เป็นประจำ เพื่อเลี่ยงอาการลงแดง</Chemical_Alcohol.description>
   
 </LanguageData>
