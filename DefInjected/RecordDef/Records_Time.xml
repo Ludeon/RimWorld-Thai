@@ -2,118 +2,118 @@
 <LanguageData>
   
   <!-- EN: time as a colonist -->
-  <TimeAsColonistOrColonyAnimal.label>เวลาที่เป็นชาวนิคม</TimeAsColonistOrColonyAnimal.label>
+  <TimeAsColonistOrColonyAnimal.label>เวลาเป็นชาวนิคม</TimeAsColonistOrColonyAnimal.label>
   <!-- EN: Total time spent loyal to your community. -->
-  <TimeAsColonistOrColonyAnimal.description>TODO</TimeAsColonistOrColonyAnimal.description>
+  <TimeAsColonistOrColonyAnimal.description>เวลาทั้งหมดที่ทุ่มเทภักดีต่อชุมชนของคุณ</TimeAsColonistOrColonyAnimal.description>
   
   <!-- EN: time as a prisoner -->
   <TimeAsPrisoner.label>เวลาเป็นนักโทษ</TimeAsPrisoner.label>
   <!-- EN: Total time spent as a prisoner. -->
-  <TimeAsPrisoner.description>TODO</TimeAsPrisoner.description>
+  <TimeAsPrisoner.description>เวลาทั้งหมดที่คุณเป็นนักโทษ</TimeAsPrisoner.description>
   
   <!-- EN: time cleaning -->
   <TimeCleaning.label>เวลาทำความสะอาด</TimeCleaning.label>
   <!-- EN: Total time spent cleaning. -->
-  <TimeCleaning.description>TODO</TimeCleaning.description>
+  <TimeCleaning.description>เวลาทั้งหมดที่ใช้ไปกับการทำความสะอาด</TimeCleaning.description>
   
   <!-- EN: time constructing -->
   <TimeConstructing.label>เวลาก่อสร้าง</TimeConstructing.label>
   <!-- EN: Total time spent constructing and deconstructing buildings. -->
-  <TimeConstructing.description>TODO</TimeConstructing.description>
+  <TimeConstructing.description>เวลาทั้งหมดที่ใช้ไปกับการสร้างและรื้อสิ่งก่อสร้าง</TimeConstructing.description>
   
   <!-- EN: time downed -->
-  <TimeDowned.label>เวลาหมดสติ</TimeDowned.label>
+  <TimeDowned.label>เวลาหมดสภาพ</TimeDowned.label>
   <!-- EN: Total time spent downed. -->
-  <TimeDowned.description>TODO</TimeDowned.description>
+  <TimeDowned.description>เวลาทั้งหมดที่หมดสภาพ</TimeDowned.description>
   
   <!-- EN: time drafted -->
-  <TimeDrafted.label>เวลา เกณฑ์ทหาร</TimeDrafted.label>
+  <TimeDrafted.label>เวลาโดนเกณฑ์</TimeDrafted.label>
   <!-- EN: Total time spent drafted. -->
-  <TimeDrafted.description>TODO</TimeDrafted.description>
+  <TimeDrafted.description>เวลาทั้งหมดที่โดนเกณฑ์</TimeDrafted.description>
   
   <!-- EN: time firefighting -->
   <TimeFirefighting.label>เวลาดับเพลิง</TimeFirefighting.label>
   <!-- EN: Total time spent firefighting. -->
-  <TimeFirefighting.description>TODO</TimeFirefighting.description>
+  <TimeFirefighting.description>เวลาทั้งหมดที่ใช้ไปกับการสู้ไฟ</TimeFirefighting.description>
   
   <!-- EN: time finding food and eating -->
-  <TimeGettingFood.label>เวลาหาอาหารและการรับประทานอาหาร</TimeGettingFood.label>
+  <TimeGettingFood.label>เวลาหาอาหารและกิน</TimeGettingFood.label>
   <!-- EN: Total time spent on finding food and eating. -->
-  <TimeGettingFood.description>TODO</TimeGettingFood.description>
+  <TimeGettingFood.description>เวลาทั้งหมดที่ใช้ไป กับการหาอาหารและรับประทาน</TimeGettingFood.description>
   
   <!-- EN: time spent on entertainment -->
-  <TimeGettingJoy.label>เวลาที่ใช้ในความบันเทิง</TimeGettingJoy.label>
+  <TimeGettingJoy.label>เวลาบันเทิง</TimeGettingJoy.label>
   <!-- EN: Total time spent on entertainment. -->
-  <TimeGettingJoy.description>TODO</TimeGettingJoy.description>
+  <TimeGettingJoy.description>เวลาทั้งหมดที่ใช้ไปกับความบันเทิง</TimeGettingJoy.description>
   
   <!-- EN: time handling animals -->
-  <TimeHandlingAnimals.label>เวลาที่ทำงานกับสัตว์</TimeHandlingAnimals.label>
+  <TimeHandlingAnimals.label>เวลาดูแลสัตว์</TimeHandlingAnimals.label>
   <!-- EN: Total time spent handling animals. -->
-  <TimeHandlingAnimals.description>TODO</TimeHandlingAnimals.description>
+  <TimeHandlingAnimals.description>เวลาทั้งหมดที่ใช้ไปการดูแลสัตว์</TimeHandlingAnimals.description>
   
   <!-- EN: time hauling -->
-  <TimeHauling.label>เวลาขน</TimeHauling.label>
+  <TimeHauling.label>เวลาขนของ</TimeHauling.label>
   <!-- EN: Total time spent hauling things. -->
-  <TimeHauling.description>TODO</TimeHauling.description>
+  <TimeHauling.description>เวลาทั้งหมดที่ใช้ไปกัยการขนของ</TimeHauling.description>
   
   <!-- EN: time hunting -->
-  <TimeHunting.label>เวลาล่วสัตว์</TimeHunting.label>
+  <TimeHunting.label>เวลาล่าสัตว์</TimeHunting.label>
   <!-- EN: Total time spent hunting. -->
-  <TimeHunting.description>TODO</TimeHunting.description>
+  <TimeHunting.description>เวลาทั้งหมดที่ใช้ไปกับการล่าสัตว์</TimeHunting.description>
   
   <!-- EN: time in a bed -->
-  <TimeInBed.label>เวลาอยู่บนเตียง</TimeInBed.label>
+  <TimeInBed.label>เวลาบนเตียง</TimeInBed.label>
   <!-- EN: Total time spent in bed. -->
-  <TimeInBed.description>TODO</TimeInBed.description>
+  <TimeInBed.description>เวลาทั้งหมดที่ใช้บนเตียง</TimeInBed.description>
   
   <!-- EN: time in a bed for medical reasons -->
-  <TimeInBedForMedicalReasons.label>เวลาอยู่บนเตียงด้วยเหตุผลทางการแพทย์</TimeInBedForMedicalReasons.label>
+  <TimeInBedForMedicalReasons.label>เวลาบนเตียงด้วยเหตุผลทางการแพทย์</TimeInBedForMedicalReasons.label>
   <!-- EN: Total time spent in bed for medical reasons: awaiting treatment, recovering from injuries or being operated on. -->
-  <TimeInBedForMedicalReasons.description>TODO</TimeInBedForMedicalReasons.description>
+  <TimeInBedForMedicalReasons.description>เวลาทั้งหมดที่ใช้บนเตียงด้วยเหตุผลทางการแพทย์: รอการรักษา ฟื้นฟูตัวจากการบาดเจ็บ หรือโดนดำเนินการด้านแพทย์</TimeInBedForMedicalReasons.description>
   
   <!-- EN: time in mental state -->
-  <TimeInMentalState.label>เวลาอยู่ในสภาพจิตใจ</TimeInMentalState.label>
+  <TimeInMentalState.label>เวลาใต้สภาพจิต</TimeInMentalState.label>
   <!-- EN: Total time spent in an abnormal mental state. -->
-  <TimeInMentalState.description>TODO</TimeInMentalState.description>
+  <TimeInMentalState.description>เวลาทั้งหมดที่สภาพจิตใจเกิดผิดปกติ</TimeInMentalState.description>
   
   <!-- EN: time mining -->
-  <TimeMining.label>เวลาการขุดเหมืองแร่</TimeMining.label>
+  <TimeMining.label>เวลาขุดเหมือง</TimeMining.label>
   <!-- EN: Total time spent mining. -->
-  <TimeMining.description>TODO</TimeMining.description>
+  <TimeMining.description>เวลาทั้งหมดที่ใช้ไปกับการขุดเหมือง</TimeMining.description>
   
   <!-- EN: time on fire -->
-  <TimeOnFire.label>เวลาในการที่โดนเผา</TimeOnFire.label>
+  <TimeOnFire.label>เวลาโดนไฟไหม้</TimeOnFire.label>
   <!-- EN: Total time spent on fire. -->
-  <TimeOnFire.description>TODO</TimeOnFire.description>
+  <TimeOnFire.description>เวลาทั้งหมดที่โดนไฟไหม้</TimeOnFire.description>
   
   <!-- EN: time repairing -->
   <TimeRepairing.label>เวลาซ่อมแซม</TimeRepairing.label>
   <!-- EN: Total time spent repairing. -->
-  <TimeRepairing.description>TODO</TimeRepairing.description>
+  <TimeRepairing.description>เวลาทั้งหมดที่ใช้ไปกับการซ่อมแซม</TimeRepairing.description>
   
   <!-- EN: time researching -->
-  <TimeResearching.label>เวลาในการค้นคว้า</TimeResearching.label>
+  <TimeResearching.label>เวลาค้นคว้าวิจัย</TimeResearching.label>
   <!-- EN: Total time spent researching. -->
-  <TimeResearching.description>TODO</TimeResearching.description>
+  <TimeResearching.description>เวลาทั้งหมดที่ใช้ไปกับการวิจัย</TimeResearching.description>
   
   <!-- EN: time sowing and harvesting -->
-  <TimeSowingAndHarvesting.label>เวลาปลูกและการเก็บเกี่ยว</TimeSowingAndHarvesting.label>
+  <TimeSowingAndHarvesting.label>เวลาปลูกและเก็บเกี่ยว</TimeSowingAndHarvesting.label>
   <!-- EN: Total time spent sowing, harvesting and cutting plants. -->
-  <TimeSowingAndHarvesting.description>TODO</TimeSowingAndHarvesting.description>
+  <TimeSowingAndHarvesting.description>เวลาทั้งหมดที่ใช้ไปกับการปลูก เก็บเกี่ยว และตัดพืช</TimeSowingAndHarvesting.description>
   
   <!-- EN: time treating and feeding -->
-  <TimeTreatingAndFeeding.label>เวลาการรักษาและการให้อาหาร</TimeTreatingAndFeeding.label>
+  <TimeTreatingAndFeeding.label>เวลาให้การรักษาและอาหาร</TimeTreatingAndFeeding.label>
   <!-- EN: Total time spent treating and feeding patients. -->
-  <TimeTreatingAndFeeding.description>TODO</TimeTreatingAndFeeding.description>
+  <TimeTreatingAndFeeding.description>เวลาทั้งหมดที่ใช้ไปกับการรักษาและให้อาหารผู้ป่วย</TimeTreatingAndFeeding.description>
   
   <!-- EN: time under a roof -->
   <TimeUnderRoof.label>เวลาภายใต้หลังคา</TimeUnderRoof.label>
   <!-- EN: Total time spent under a roof. -->
-  <TimeUnderRoof.description>TODO</TimeUnderRoof.description>
+  <TimeUnderRoof.description>เวลาทั้งหมดที่ใช้อยู๋ภายใต้หลังคา</TimeUnderRoof.description>
   
   <!-- EN: time wardening -->
-  <TimeWardening.label>เวลาที่ฉันทำงานเป็นผู้คุม</TimeWardening.label>
+  <TimeWardening.label>เวลาผู้คุม</TimeWardening.label>
   <!-- EN: Total time spent wardening. -->
-  <TimeWardening.description>TODO</TimeWardening.description>
+  <TimeWardening.description>เวลาทั้งหมดที่เป็นผู้คุม</TimeWardening.description>
   
 </LanguageData>
