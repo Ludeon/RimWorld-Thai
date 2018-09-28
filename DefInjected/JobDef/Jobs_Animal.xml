@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: laying egg. -->
-  <LayEgg.reportString>วางไข่</LayEgg.reportString>
+  <LayEgg.reportString>กำลังวางไข่</LayEgg.reportString>
   
   <!-- EN: maintaining TargetA. -->
-  <Maintain.reportString>รักษา TargetA.</Maintain.reportString>
+  <Maintain.reportString>กำลังบำรุงรักษา TargetA.</Maintain.reportString>
   
   <!-- EN: mating with TargetA. -->
-  <Mate.reportString>จับคู่ผสมพันธุ์</Mate.reportString>
+  <Mate.reportString>กำลังผสมพันธุ์กับ TargetA</Mate.reportString>
   
   <!-- EN: nuzzling TargetA. -->
-  <Nuzzle.reportString>อ้อน TargetA</Nuzzle.reportString>
+  <Nuzzle.reportString>กำลังเคล้าเคลีย TargetA</Nuzzle.reportString>
   
   <!-- EN: hunting TargetA. -->
-  <PredatorHunt.reportString>ล่า TargetA</PredatorHunt.reportString>
+  <PredatorHunt.reportString>กำลังล่า TargetA</PredatorHunt.reportString>
   
 </LanguageData>

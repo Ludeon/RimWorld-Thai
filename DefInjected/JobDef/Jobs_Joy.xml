@@ -17,10 +17,10 @@
   <Play_Chess.reportString>กำลังเล่นหมากรุก</Play_Chess.reportString>
   
   <!-- EN: playing the game of Ur. -->
-  <Play_GameOfUr.reportString>TODO</Play_GameOfUr.reportString>
+  <Play_GameOfUr.reportString>กำลังเล่นเกมแห่ง Ur</Play_GameOfUr.reportString>
   
   <!-- EN: playing hoopstone. -->
-  <Play_Hoopstone.reportString>กำลังเล่น Hoopstone.</Play_Hoopstone.reportString>
+  <Play_Hoopstone.reportString>กำลังเล่น Hoopstone</Play_Hoopstone.reportString>
   
   <!-- EN: playing horseshoes. -->
   <Play_Horseshoes.reportString>กำลังเล่นโยนเกือกม้า</Play_Horseshoes.reportString>
@@ -41,13 +41,13 @@
   <UseTelescope.reportString>กำลังส่องกล้องดูดาว</UseTelescope.reportString>
   
   <!-- EN: viewing art. -->
-  <ViewArt.reportString>กำลังมองไปที่ศิลปะ</ViewArt.reportString>
+  <ViewArt.reportString>กำลังชื่นชมงานศิลป์</ViewArt.reportString>
   
   <!-- EN: visiting grave. -->
   <VisitGrave.reportString>กำลังเยี่ยมหลุมศพ</VisitGrave.reportString>
   
   <!-- EN: cheering up patient TargetA. -->
-  <VisitSickPawn.reportString>กำลังเข้าให้กำลังใจ TargetA ที่ป่วย</VisitSickPawn.reportString>
+  <VisitSickPawn.reportString>กำลังให้กำลังใจ TargetA ที่ป่วย</VisitSickPawn.reportString>
   
   <!-- EN: watching television. -->
   <WatchTelevision.reportString>กำลังดูโทรทัศน์</WatchTelevision.reportString>
