@@ -2,10 +2,9 @@
 <LanguageData>
   
   <!-- EN: wake-up addiction -->
-  <WakeUpAddiction.label>ติด wake-up</WakeUpAddiction.label>
-  <WakeUpAddiction.stages.0.label>ลงแดง</WakeUpAddiction.stages.0.label>
+  <WakeUpAddiction.label>ติดยา wake-up</WakeUpAddiction.label>
   <!-- EN: withdrawal -->
-  <WakeUpAddiction.stages.withdrawal.label>TODO</WakeUpAddiction.stages.withdrawal.label>
+  <WakeUpAddiction.stages.withdrawal.label>ลงแดง</WakeUpAddiction.stages.withdrawal.label>
   
   <!-- EN: high on wake-up -->
   <WakeUpHigh.label>เมา wake-up</WakeUpHigh.label>
@@ -13,14 +12,14 @@
   <WakeUpHigh.labelNoun>เมา wake-up</WakeUpHigh.labelNoun>
   
   <!-- EN: wake-up tolerance -->
-  <WakeUpTolerance.label>ดือยา wake-up</WakeUpTolerance.label>
+  <WakeUpTolerance.label>ดื้อยา wake-up</WakeUpTolerance.label>
   <!-- EN: small -->
-  <WakeUpTolerance.stages.small-0.label>TODO</WakeUpTolerance.stages.small-0.label>
+  <WakeUpTolerance.stages.small-0.label>เล็กน้อย</WakeUpTolerance.stages.small-0.label>
   <!-- EN: small -->
   <WakeUpTolerance.stages.small-1.label>ต่ำ</WakeUpTolerance.stages.small-1.label>
   <!-- EN: large -->
-  <WakeUpTolerance.stages.large.label>ปานกลาง</WakeUpTolerance.stages.large.label>
+  <WakeUpTolerance.stages.large.label>มาก</WakeUpTolerance.stages.large.label>
   <!-- EN: massive -->
-  <WakeUpTolerance.stages.massive.label>มาก</WakeUpTolerance.stages.massive.label>
+  <WakeUpTolerance.stages.massive.label>รุนแรง</WakeUpTolerance.stages.massive.label>
   
 </LanguageData>

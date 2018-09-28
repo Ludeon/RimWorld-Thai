@@ -2,21 +2,20 @@
 <LanguageData>
   
   <!-- EN: psychite addiction -->
-  <PsychiteAddiction.label>ติด Psychite</PsychiteAddiction.label>
-  <PsychiteAddiction.stages.0.label>ลงแดง</PsychiteAddiction.stages.0.label>
+  <PsychiteAddiction.label>ติดยา Psychite</PsychiteAddiction.label>
   <!-- EN: withdrawal -->
-  <PsychiteAddiction.stages.withdrawal.label>TODO</PsychiteAddiction.stages.withdrawal.label>
+  <PsychiteAddiction.stages.withdrawal.label>ลงแดง</PsychiteAddiction.stages.withdrawal.label>
   
   <!-- EN: psychite tolerance -->
-  <PsychiteTolerance.label>ดือยา Psychid</PsychiteTolerance.label>
+  <PsychiteTolerance.label>ดื้อยา Psychid</PsychiteTolerance.label>
   <!-- EN: small -->
-  <PsychiteTolerance.stages.small-0.label>TODO</PsychiteTolerance.stages.small-0.label>
+  <PsychiteTolerance.stages.small-0.label>เล็กน้อย</PsychiteTolerance.stages.small-0.label>
   <!-- EN: small -->
   <PsychiteTolerance.stages.small-1.label>ต่ำ</PsychiteTolerance.stages.small-1.label>
   <!-- EN: large -->
-  <PsychiteTolerance.stages.large.label>ปานกลาง</PsychiteTolerance.stages.large.label>
+  <PsychiteTolerance.stages.large.label>มาก</PsychiteTolerance.stages.large.label>
   <!-- EN: massive -->
-  <PsychiteTolerance.stages.massive.label>มาก</PsychiteTolerance.stages.massive.label>
+  <PsychiteTolerance.stages.massive.label>รุนแรง</PsychiteTolerance.stages.massive.label>
   
   <!-- EN: high on yayo -->
   <YayoHigh.label>เมา Yayo</YayoHigh.label>

@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN: archotech arm -->
-  <ArchotechArm.label>TODO</ArchotechArm.label>
+  <ArchotechArm.label>แขนเทียม Archotech</ArchotechArm.label>
   <!-- EN: fist -->
-  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>TODO</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>กำปั้น</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: an archotech arm -->
-  <ArchotechArm.labelNoun>TODO</ArchotechArm.labelNoun>
+  <ArchotechArm.labelNoun>แขนเทียม Archotech</ArchotechArm.labelNoun>
   
   <!-- EN: archotech eye -->
-  <ArchotechEye.label>TODO</ArchotechEye.label>
+  <ArchotechEye.label>ตาเทียม Archotech</ArchotechEye.label>
   <!-- EN: an archotech eye -->
-  <ArchotechEye.labelNoun>TODO</ArchotechEye.labelNoun>
+  <ArchotechEye.labelNoun>ตาเทียม Archotech</ArchotechEye.labelNoun>
   
   <!-- EN: archotech leg -->
   <ArchotechLeg.label>TODO</ArchotechLeg.label>
@@ -26,9 +26,9 @@
   <BionicArm.labelNoun>แขนเทียมชีวกล</BionicArm.labelNoun>
   
   <!-- EN: bionic ear -->
-  <BionicEar.label>TODO</BionicEar.label>
+  <BionicEar.label>หูเทียมชีวกล</BionicEar.label>
   <!-- EN: a bionic ear -->
-  <BionicEar.labelNoun>TODO</BionicEar.labelNoun>
+  <BionicEar.labelNoun>หูเทียมชีวกล</BionicEar.labelNoun>
   
   <!-- EN: bionic eye -->
   <BionicEye.label>นัยน์ตาเทียมชีวกล</BionicEye.label>
@@ -36,9 +36,9 @@
   <BionicEye.labelNoun>นัยน์ตาเทียมชีวกล</BionicEye.labelNoun>
   
   <!-- EN: bionic heart -->
-  <BionicHeart.label>TODO</BionicHeart.label>
+  <BionicHeart.label>หัวใจเทียมชีวกล</BionicHeart.label>
   <!-- EN: a bionic heart -->
-  <BionicHeart.labelNoun>TODO</BionicHeart.labelNoun>
+  <BionicHeart.labelNoun>หัวใจเทียมชีวกล</BionicHeart.labelNoun>
   
   <!-- EN: bionic leg -->
   <BionicLeg.label>ขาเทียมชีวกล</BionicLeg.label>
@@ -46,19 +46,19 @@
   <BionicLeg.labelNoun>ขาเทียมชีวกล</BionicLeg.labelNoun>
   
   <!-- EN: bionic spine -->
-  <BionicSpine.label>TODO</BionicSpine.label>
+  <BionicSpine.label>กระดูกสันหลังเทียมชีวกล</BionicSpine.label>
   <!-- EN: a bionic spine -->
-  <BionicSpine.labelNoun>TODO</BionicSpine.labelNoun>
+  <BionicSpine.labelNoun>กระดูกสันหลังเทียมชีวกล</BionicSpine.labelNoun>
   
   <!-- EN: bionic stomach -->
-  <BionicStomach.label>TODO</BionicStomach.label>
+  <BionicStomach.label>กระเพาะเทียมชีวกล</BionicStomach.label>
   <!-- EN: a bionic stomach -->
-  <BionicStomach.labelNoun>TODO</BionicStomach.labelNoun>
+  <BionicStomach.labelNoun>กระเพาะเทียมชีวกล</BionicStomach.labelNoun>
   
   <!-- EN: cochlear implant -->
-  <CochlearImplant.label>TODO</CochlearImplant.label>
+  <CochlearImplant.label>ประสาทหูเทียม</CochlearImplant.label>
   <!-- EN: a cochlear implant -->
-  <CochlearImplant.labelNoun>TODO</CochlearImplant.labelNoun>
+  <CochlearImplant.labelNoun>ประสาทหูเทียม</CochlearImplant.labelNoun>
   
   <!-- EN: denture -->
   <Denture.label>ทันตกรรม</Denture.label>
@@ -85,9 +85,9 @@
   <SimpleProstheticArm.labelNoun>แขนเทียม</SimpleProstheticArm.labelNoun>
   
   <!-- EN: prosthetic heart -->
-  <SimpleProstheticHeart.label>TODO</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.label>หัวใจเทียม</SimpleProstheticHeart.label>
   <!-- EN: a prosthetic heart -->
-  <SimpleProstheticHeart.labelNoun>TODO</SimpleProstheticHeart.labelNoun>
+  <SimpleProstheticHeart.labelNoun>หัวใจเทียม</SimpleProstheticHeart.labelNoun>
   
   <!-- EN: prosthetic leg -->
   <SimpleProstheticLeg.label>ขาเทียม</SimpleProstheticLeg.label>
@@ -95,8 +95,8 @@
   <SimpleProstheticLeg.labelNoun>ขาเทียม</SimpleProstheticLeg.labelNoun>
   
   <!-- EN: wooden foot -->
-  <WoodenFoot.label>TODO</WoodenFoot.label>
+  <WoodenFoot.label>ขาไม้</WoodenFoot.label>
   <!-- EN: a wooden foot -->
-  <WoodenFoot.labelNoun>TODO</WoodenFoot.labelNoun>
+  <WoodenFoot.labelNoun>ขาไม้</WoodenFoot.labelNoun>
   
 </LanguageData>

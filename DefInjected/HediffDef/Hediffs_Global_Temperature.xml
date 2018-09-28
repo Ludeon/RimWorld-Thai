@@ -2,42 +2,42 @@
 <LanguageData>
   
   <!-- EN: heatstroke -->
-  <Heatstroke.label>ไข้แดด</Heatstroke.label>
+  <Heatstroke.label>ลมแดด</Heatstroke.label>
   <!-- EN: initial -->
-  <Heatstroke.stages.initial-0.label>ขั้นเริ่ม แรก(ไม่แสดงอาการ)</Heatstroke.stages.initial-0.label>
+  <Heatstroke.stages.initial-0.label>นิดๆ</Heatstroke.stages.initial-0.label>
   <!-- EN: initial -->
-  <Heatstroke.stages.initial-1.label>ขั้นเริ่มแรก</Heatstroke.stages.initial-1.label>
+  <Heatstroke.stages.initial-1.label>แรกเริ่ม</Heatstroke.stages.initial-1.label>
   <!-- EN: minor -->
-  <Heatstroke.stages.minor.label>ขั้นต้น</Heatstroke.stages.minor.label>
+  <Heatstroke.stages.minor.label>เล็กน้อย</Heatstroke.stages.minor.label>
   <!-- EN: serious -->
-  <Heatstroke.stages.serious.label>ขั้นรุนแรง</Heatstroke.stages.serious.label>
+  <Heatstroke.stages.serious.label>รุนแรง</Heatstroke.stages.serious.label>
   <!-- EN: extreme -->
-  <Heatstroke.stages.extreme.label>ขั้นอันตราย</Heatstroke.stages.extreme.label>
+  <Heatstroke.stages.extreme.label>สาหัส</Heatstroke.stages.extreme.label>
   
   <!-- EN: hypothermia -->
-  <Hypothermia.label>ไฮโปเธอร์เมีย</Hypothermia.label>
+  <Hypothermia.label>ภาวะตัวเย็นเกิน</Hypothermia.label>
   <!-- EN: shivering -->
-  <Hypothermia.stages.shivering-0.label>หนาวสั่น (ไม่แสดงอาการ)</Hypothermia.stages.shivering-0.label>
+  <Hypothermia.stages.shivering-0.label>สั่น</Hypothermia.stages.shivering-0.label>
   <!-- EN: shivering -->
-  <Hypothermia.stages.shivering-1.label>ขั้นเริ่มแรก</Hypothermia.stages.shivering-1.label>
+  <Hypothermia.stages.shivering-1.label>หนาวสั่น</Hypothermia.stages.shivering-1.label>
   <!-- EN: minor -->
-  <Hypothermia.stages.minor.label>ขั้นต้น</Hypothermia.stages.minor.label>
+  <Hypothermia.stages.minor.label>เล็กน้อย</Hypothermia.stages.minor.label>
   <!-- EN: serious -->
-  <Hypothermia.stages.serious.label>ขั้นรุนแรง</Hypothermia.stages.serious.label>
+  <Hypothermia.stages.serious.label>รุนแรง</Hypothermia.stages.serious.label>
   <!-- EN: extreme -->
-  <Hypothermia.stages.extreme.label>ขั้นอันตราย</Hypothermia.stages.extreme.label>
+  <Hypothermia.stages.extreme.label>สาหัส</Hypothermia.stages.extreme.label>
   
   <!-- EN: hypothermic slowdown -->
-  <HypothermicSlowdown.label>TODO</HypothermicSlowdown.label>
+  <HypothermicSlowdown.label>ภาวะช้าจากตัวเย็นเกิน</HypothermicSlowdown.label>
   <!-- EN: minor -->
-  <HypothermicSlowdown.stages.minor-0.label>TODO</HypothermicSlowdown.stages.minor-0.label>
+  <HypothermicSlowdown.stages.minor-0.label>นิดๆ</HypothermicSlowdown.stages.minor-0.label>
   <!-- EN: minor -->
-  <HypothermicSlowdown.stages.minor-1.label>TODO</HypothermicSlowdown.stages.minor-1.label>
+  <HypothermicSlowdown.stages.minor-1.label>เล็กน้อย</HypothermicSlowdown.stages.minor-1.label>
   <!-- EN: moderate -->
-  <HypothermicSlowdown.stages.moderate.label>TODO</HypothermicSlowdown.stages.moderate.label>
+  <HypothermicSlowdown.stages.moderate.label>ปานกลาง</HypothermicSlowdown.stages.moderate.label>
   <!-- EN: serious -->
-  <HypothermicSlowdown.stages.serious.label>TODO</HypothermicSlowdown.stages.serious.label>
+  <HypothermicSlowdown.stages.serious.label>รุนแรง</HypothermicSlowdown.stages.serious.label>
   <!-- EN: extreme -->
-  <HypothermicSlowdown.stages.extreme.label>TODO</HypothermicSlowdown.stages.extreme.label>
+  <HypothermicSlowdown.stages.extreme.label>สาหัส</HypothermicSlowdown.stages.extreme.label>
   
 </LanguageData>

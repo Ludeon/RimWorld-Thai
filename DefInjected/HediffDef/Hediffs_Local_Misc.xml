@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: chemical damage -->
-  <ChemicalDamageModerate.label>ความเสียหายทางเคมี</ChemicalDamageModerate.label>
+  <ChemicalDamageModerate.label>เสียหายจากสารเคมี</ChemicalDamageModerate.label>
   
   <!-- EN: chemical damage -->
-  <ChemicalDamageSevere.label>ความเสียหายทางเคมี</ChemicalDamageSevere.label>
+  <ChemicalDamageSevere.label>อันตรายจากสารเคมี</ChemicalDamageSevere.label>
   
   <!-- EN: cirrhosis -->
   <Cirrhosis.label>โรคตับแข็ง</Cirrhosis.label>
@@ -13,23 +13,23 @@
   <!-- EN: resurrection psychosis -->
   <ResurrectionPsychosis.label>โรคจิตฟื้นคืนชีพ</ResurrectionPsychosis.label>
   <!-- EN: early -->
-  <ResurrectionPsychosis.stages.early-0.label>ขั้นต้น</ResurrectionPsychosis.stages.early-0.label>
+  <ResurrectionPsychosis.stages.early-0.label>แรกๆ</ResurrectionPsychosis.stages.early-0.label>
   <!-- EN: early -->
   <ResurrectionPsychosis.stages.early-1.label>ขั้นต้น</ResurrectionPsychosis.stages.early-1.label>
   <!-- EN: moderate -->
-  <ResurrectionPsychosis.stages.moderate.label>ขั้นกลาง</ResurrectionPsychosis.stages.moderate.label>
+  <ResurrectionPsychosis.stages.moderate.label>ปานกลาง</ResurrectionPsychosis.stages.moderate.label>
   <!-- EN: advanced -->
-  <ResurrectionPsychosis.stages.advanced.label>ขั้นสูง</ResurrectionPsychosis.stages.advanced.label>
+  <ResurrectionPsychosis.stages.advanced.label>กระจายตัว</ResurrectionPsychosis.stages.advanced.label>
   <!-- EN: severe -->
-  <ResurrectionPsychosis.stages.severe.label>ขั้นเต็ม</ResurrectionPsychosis.stages.severe.label>
+  <ResurrectionPsychosis.stages.severe.label>รุนแรง</ResurrectionPsychosis.stages.severe.label>
   <!-- EN: total -->
-  <ResurrectionPsychosis.stages.total.label>TODO</ResurrectionPsychosis.stages.total.label>
+  <ResurrectionPsychosis.stages.total.label>ครอบงำ</ResurrectionPsychosis.stages.total.label>
   <!-- EN: catatonic -->
-  <ResurrectionPsychosis.stages.catatonic.label>TODO</ResurrectionPsychosis.stages.catatonic.label>
+  <ResurrectionPsychosis.stages.catatonic.label>แข็งทื่อ</ResurrectionPsychosis.stages.catatonic.label>
   
   <!-- EN: trauma savant -->
-  <TraumaSavant.label>ซ่อก</TraumaSavant.label>
+  <TraumaSavant.label>ศาสดาทางจิต</TraumaSavant.label>
   <!-- EN: trauma -->
-  <TraumaSavant.labelNoun>ซ่อก</TraumaSavant.labelNoun>
+  <TraumaSavant.labelNoun>บอบช้ำ</TraumaSavant.labelNoun>
   
 </LanguageData>

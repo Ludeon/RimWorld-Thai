@@ -2,36 +2,35 @@
 <LanguageData>
   
   <!-- EN: alcohol addiction -->
-  <AlcoholAddiction.label>ติดยาเสพติด แอลกอฮอล์</AlcoholAddiction.label>
-  <AlcoholAddiction.stages.0.label>ลงแดง</AlcoholAddiction.stages.0.label>
+  <AlcoholAddiction.label>ติดแอลกอฮอล์</AlcoholAddiction.label>
   <!-- EN: withdrawal -->
-  <AlcoholAddiction.stages.withdrawal.label>TODO</AlcoholAddiction.stages.withdrawal.label>
+  <AlcoholAddiction.stages.withdrawal.label>ลงแดง</AlcoholAddiction.stages.withdrawal.label>
   
   <!-- EN: alcohol -->
   <AlcoholHigh.label>เมาแอลกอฮอล์</AlcoholHigh.label>
   <!-- EN: drunkenness -->
   <AlcoholHigh.labelNoun>เมาแอลกอฮอล์</AlcoholHigh.labelNoun>
   <!-- EN: warm -->
-  <AlcoholHigh.stages.warm.label>อุ่นเล็กน้อย (ไม่มีอาการ)</AlcoholHigh.stages.warm.label>
+  <AlcoholHigh.stages.warm.label>อุ่นๆ</AlcoholHigh.stages.warm.label>
   <!-- EN: tipsy -->
-  <AlcoholHigh.stages.tipsy.label>อุ่น</AlcoholHigh.stages.tipsy.label>
+  <AlcoholHigh.stages.tipsy.label>กรึ่มๆ</AlcoholHigh.stages.tipsy.label>
   <!-- EN: drunk -->
-  <AlcoholHigh.stages.drunk.label>กรึ่มๆ</AlcoholHigh.stages.drunk.label>
+  <AlcoholHigh.stages.drunk.label>เมา</AlcoholHigh.stages.drunk.label>
   <!-- EN: hammered -->
-  <AlcoholHigh.stages.hammered.label>เมา</AlcoholHigh.stages.hammered.label>
+  <AlcoholHigh.stages.hammered.label>ปวดหัว</AlcoholHigh.stages.hammered.label>
   <!-- EN: blackout -->
-  <AlcoholHigh.stages.blackout.label>ปวดหัว</AlcoholHigh.stages.blackout.label>
+  <AlcoholHigh.stages.blackout.label>น็อค</AlcoholHigh.stages.blackout.label>
   
   <!-- EN: alcohol tolerance -->
-  <AlcoholTolerance.label>ดือยา แอลกอฮอล์</AlcoholTolerance.label>
+  <AlcoholTolerance.label>ดื้อแอลกอฮอล์</AlcoholTolerance.label>
   <!-- EN: small -->
-  <AlcoholTolerance.stages.small-0.label>TODO</AlcoholTolerance.stages.small-0.label>
+  <AlcoholTolerance.stages.small-0.label>เล็กน้อย</AlcoholTolerance.stages.small-0.label>
   <!-- EN: small -->
   <AlcoholTolerance.stages.small-1.label>ต่ำ</AlcoholTolerance.stages.small-1.label>
   <!-- EN: large -->
-  <AlcoholTolerance.stages.large.label>ปานกลาง</AlcoholTolerance.stages.large.label>
+  <AlcoholTolerance.stages.large.label>มาก</AlcoholTolerance.stages.large.label>
   <!-- EN: massive -->
-  <AlcoholTolerance.stages.massive.label>มาก</AlcoholTolerance.stages.massive.label>
+  <AlcoholTolerance.stages.massive.label>รุนแรง</AlcoholTolerance.stages.massive.label>
   
   <!-- EN: hangover -->
   <Hangover.label>เมาค้าง</Hangover.label>

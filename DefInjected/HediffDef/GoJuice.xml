@@ -3,24 +3,23 @@
   
   <!-- EN: go-juice addiction -->
   <GoJuiceAddiction.label>ติด GoJuice</GoJuiceAddiction.label>
-  <GoJuiceAddiction.stages.0.label>ลงแดง</GoJuiceAddiction.stages.0.label>
   <!-- EN: withdrawal -->
-  <GoJuiceAddiction.stages.withdrawal.label>TODO</GoJuiceAddiction.stages.withdrawal.label>
+  <GoJuiceAddiction.stages.withdrawal.label>ลงแดง</GoJuiceAddiction.stages.withdrawal.label>
   
   <!-- EN: high on go-juice -->
-  <GoJuiceHigh.label>เมา GoJuice</GoJuiceHigh.label>
+  <GoJuiceHigh.label>เมา Go-juice</GoJuiceHigh.label>
   <!-- EN: a go-juice high -->
-  <GoJuiceHigh.labelNoun>เมา Go-Juice-Rausch</GoJuiceHigh.labelNoun>
+  <GoJuiceHigh.labelNoun>เมา Go-juice</GoJuiceHigh.labelNoun>
   
   <!-- EN: go-juice tolerance -->
-  <GoJuiceTolerance.label>ดือยา GoJuice</GoJuiceTolerance.label>
+  <GoJuiceTolerance.label>ดื้อยา GoJuice</GoJuiceTolerance.label>
   <!-- EN: small -->
-  <GoJuiceTolerance.stages.small-0.label>TODO</GoJuiceTolerance.stages.small-0.label>
+  <GoJuiceTolerance.stages.small-0.label>เล็กน้อย</GoJuiceTolerance.stages.small-0.label>
   <!-- EN: small -->
   <GoJuiceTolerance.stages.small-1.label>ต่ำ</GoJuiceTolerance.stages.small-1.label>
   <!-- EN: large -->
-  <GoJuiceTolerance.stages.large.label>ปานกลาง</GoJuiceTolerance.stages.large.label>
+  <GoJuiceTolerance.stages.large.label>มาก</GoJuiceTolerance.stages.large.label>
   <!-- EN: massive -->
-  <GoJuiceTolerance.stages.massive.label>มาก</GoJuiceTolerance.stages.massive.label>
+  <GoJuiceTolerance.stages.massive.label>รุนแรง</GoJuiceTolerance.stages.massive.label>
   
 </LanguageData>
