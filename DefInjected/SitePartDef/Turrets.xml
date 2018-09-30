@@ -4,10 +4,10 @@
   <!-- EN: turrets -->
   <Turrets.label>ป้อมปืน</Turrets.label>
   <!-- EN: A group of turrets. -->
-  <Turrets.description>ป้อมปืนไม่กี่แห่ง</Turrets.description>
+  <Turrets.description>กลุ่มป้อมปืน</Turrets.description>
   <!-- EN: There are enemy turrets in this area. -->
-  <Turrets.arrivedLetter>TODO</Turrets.arrivedLetter>
+  <Turrets.arrivedLetter>มีป้อมปืนศัตรูในบริเวณนี้</Turrets.arrivedLetter>
   <!-- EN: {0} defend the site -->
-  <Turrets.descriptionDialogue>ป้อมปืนของข้าศึกช่วยป้องกันพื้นที่นี้</Turrets.descriptionDialogue>
+  <Turrets.descriptionDialogue>{0} ป้องกันสถานที่นี้</Turrets.descriptionDialogue>
   
 </LanguageData>

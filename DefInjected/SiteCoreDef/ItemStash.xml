@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: item stash -->
-  <ItemStash.label>ที่ซ่อนของมีค่า</ItemStash.label>
+  <ItemStash.label>ที่ซ่อนสมบัติ</ItemStash.label>
   <!-- EN: A stash of valuable items. -->
-  <ItemStash.description>ของมีค่าที่ซ่อนอยู่</ItemStash.description>
+  <ItemStash.description>ที่ซ่อนไอเท็มมีค่า</ItemStash.description>
   
 </LanguageData>

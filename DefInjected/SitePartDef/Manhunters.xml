@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: manhunter pack -->
-  <Manhunters.label>กลุ่มสัตว์ กระหายเลือด</Manhunters.label>
+  <Manhunters.label>ฝูงสัตวล่ามนุษย์</Manhunters.label>
   <!-- EN: A pack of manhunting animals. -->
-  <Manhunters.description>กลุ่มของสัตว์ ที่กำลัง กระหายเลือด</Manhunters.description>
+  <Manhunters.description>กลุ่มของสัตว์ที่กำลังออกล่ามนุษย์</Manhunters.description>
   <!-- EN: There are manhunting animals in this area. -->
-  <Manhunters.arrivedLetter>TODO</Manhunters.arrivedLetter>
+  <Manhunters.arrivedLetter>มีสัตว์ล่ามนุษย์ในบริเวณนี้</Manhunters.arrivedLetter>
   <!-- EN: there is a group of {0} manhunting {1} wandering nearby -->
-  <Manhunters.descriptionDialogue>กลุ่มของสัตว์ ที่กำลัง กระหายเลือด</Manhunters.descriptionDialogue>
+  <Manhunters.descriptionDialogue>มีกลุ่มของ{0} กำลังออกล่า {1} เดินเตร่อยู่ใกล้ๆ</Manhunters.descriptionDialogue>
   
 </LanguageData>

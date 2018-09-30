@@ -4,6 +4,6 @@
   <!-- EN: prisoner camp -->
   <PrisonerWillingToJoin.label>แคมป์นักโทษ</PrisonerWillingToJoin.label>
   <!-- EN: A prisoner being held by enemies. Rescue him and he will join you. -->
-  <PrisonerWillingToJoin.description>นักโทษที่ถูกกลุ่มศัตรูจับอยู่ ช่วยเขาออกมาแล้วเขาจะเข้ารวม อาณานิคม ของคุณ</PrisonerWillingToJoin.description>
+  <PrisonerWillingToJoin.description>นักโทษซึ่งโดนศัตรูจับตัวไว้ หากช่วยเหลือเขาออกมา เขาจะเข้าร่วมอาณานิคมคุณ</PrisonerWillingToJoin.description>
   
 </LanguageData>
