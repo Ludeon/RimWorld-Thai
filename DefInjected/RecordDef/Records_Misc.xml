@@ -87,9 +87,9 @@
   <MessesCleaned.description>จำนวนสิ่งสกปรกที่ฉันทำความสะอาด</MessesCleaned.description>
   
   <!-- EN: nutrition eaten -->
-  <NutritionEaten.label>สารอาหารที่กิน</NutritionEaten.label>
+  <NutritionEaten.label>สารอาหารที่ได้รับ</NutritionEaten.label>
   <!-- EN: The amount of nutrition I have eaten. -->
-  <NutritionEaten.description>ปริมาณสารอาหารที่ชั้นกิน</NutritionEaten.description>
+  <NutritionEaten.description>ปริมาณสารอาหารที่ฉันได้รับ</NutritionEaten.description>
   
   <!-- EN: operations performed -->
   <OperationsPerformed.label>ดำเนินการที่ทำ</OperationsPerformed.label>

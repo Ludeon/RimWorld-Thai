@@ -97,7 +97,7 @@
   <!-- EN: Hungry -->
   <HungerLevel_Hungry>หิว</HungerLevel_Hungry>
   <!-- EN: Fed -->
-  <HungerLevel_Fed>ทานแล้ว</HungerLevel_Fed>
+  <HungerLevel_Fed>อิ่ม</HungerLevel_Fed>
 
   <!-- -Fatigue -->
   <!-- EN: Exhausted -->
@@ -107,7 +107,7 @@
   <!-- EN: Tired -->
   <HungerLevel_Tired>เหนื่อย</HungerLevel_Tired>
   <!-- EN: Rested -->
-  <HungerLevel_Rested>พักผ่อนแล้ว</HungerLevel_Rested>
+  <HungerLevel_Rested>พักผ่อนเต็มที่</HungerLevel_Rested>
 
   <!-- Hilliness -->
   <!-- EN: flat -->
