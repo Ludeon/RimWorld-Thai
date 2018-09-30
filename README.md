@@ -2,21 +2,31 @@
 
 This is the Thai translation data for RimWorld.
 
-Compatible with RimWorld version: `1.0.2034`
+Compatible with RimWorld version: `1.0.2041` (Unstable)
 
 `Strings` and `Backstories` are not translated yet.
 
 We appreciate any willing to help, to contribute see: http://ludeon.com/forums/index.php?topic=2933.0
 
-------------------------------------
+## Manual Install
 
-Quick summary from current translation report (w/ notes):
+In case you want lastest translation, you could install it manually follow these step:
+
+> 1. `git clone` or download zip from this repo
+> 2. Extract or copy all language files to `<RimWorldDir>/Mods/Core/Languages/Thai` (create a `Thai` folder if it not exist)
+> 3. Run game and change language to `ภาษาไทย`
+> 4. Enjoy 👍
+
+## Current Status
+
+Quick summary from current translation report (w/ notes)
+
   * :ballot_box_with_check: (0) General load errors
   * :ballot_box_with_check: (0) Def-injected translations load errors
   * :ballot_box_with_check: (0) Backstories load errors
-  * :black_square_button: (198) Missing keyed translations
-  * :black_square_button: (4689) Def-injected translations missing
-  * :black_square_button: (2055) Backstory translations missing
+  * :black_square_button: (206) Missing keyed translations
+  * :black_square_button: (4541) Def-injected translations missing
+  * :black_square_button: (2073) Backstory translations missing
     > This will be translate last, after all other translations is done, the problem it's simply lack of man-power.
     > 
     > If you want to helping translate this, please go ahead. Follow contribute guide [here](http://ludeon.com/forums/index.php?topic=2933.0) and translation direction in [glossary](https://github.com/Ludeon/RimWorld-Thai/wiki/Glossary) page.
@@ -38,6 +48,6 @@ Quick summary from current translation report (w/ notes):
 
 ------------------------------------
 
-ขอบคุณที่ให้ความสนใจในการแปลเกมเป็นภาษาไทย มีข้อสงสัยหรือคำถามเพิ่มเติม โพสตอบ [กระทู้](https://ludeon.com/forums/index.php?topic=45589.0) หรือเปิด [Issue](https://github.com/Ludeon/RimWorld-Thai/issues) เพื่อพูดคุยกันได้
+ขอบคุณที่ให้ความสนใจแปลเกมภาษาไทย มีคำถาม-คำแนะนำ โพสตอบ[กระทู้](https://ludeon.com/forums/index.php?topic=45589.0) หรือเปิด [Issue](https://github.com/Ludeon/RimWorld-Thai/issues) ได้เลยครับ
 
 :star: >>> [คำควรใช้](https://github.com/Ludeon/RimWorld-Thai/wiki/Glossary) <<< :star:

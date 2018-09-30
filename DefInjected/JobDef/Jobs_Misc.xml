@@ -85,6 +85,9 @@
   <!-- EN: operating turret. -->
   <ManTurret.reportString>กำลังควบคุมป้อมปืน</ManTurret.reportString>
   
+  <!-- EN: helping TargetA. -->
+  <OfferHelp.reportString>กำลังช่วยเหลือ TargetA</OfferHelp.reportString>
+  
   <!-- EN: opening TargetA. -->
   <Open.reportString>กำลังเปิด TargetA</Open.reportString>
   

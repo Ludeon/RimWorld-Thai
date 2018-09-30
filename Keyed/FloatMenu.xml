@@ -262,6 +262,11 @@
   <TradeWith>แลกเปลี่ยนกับ {0}</TradeWith>
   <!-- EN: Cannot trade -->
   <CannotTrade>ไม่สามารถแลกเปลี่ยนได้</CannotTrade>
+
+  <!-- EN: Open {0_label} -->
+  <Open>เปิด {0_label}</Open>
+  <!-- EN: Cannot open {0_label} -->
+  <CannotOpen>ไม่สามารถเปิด {0_label}</CannotOpen>
   
   <!-- EN: Enter {0} -->
   <EnterMap>เข้า {0}</EnterMap>

@@ -125,6 +125,8 @@
   
   <!-- EN: The final straw was: {0} -->
   <FinalStraw>TODO</FinalStraw>
+  <!-- EN: This happened because of poor mood. -->
+  <MentalStateCausedByMood>TODO</MentalStateCausedByMood>
   <!-- EN: The last event was -->
   <LastFactionRelationsEvent>TODO</LastFactionRelationsEvent>
 
@@ -171,6 +173,8 @@
   <LetterAffair>{PAWN1_labelShort}, แต่งงานแล้วกับ {SPOUSE_labelShort}, เริ่มเป็นชู้กับ {PAWN2_labelShort}</LetterAffair>
   <!-- EN: New lovers -->
   <LetterLabelNewLovers>คู่รักใหม่</LetterLabelNewLovers>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed. -->
+  <LetterNewLovers>TODO</LetterNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
   <LetterNoLongerLovers>{PAWN1_labelShort} และ {PAWN2_labelShort} ไม่ได้คบกันแล้ว</LetterNoLongerLovers>
   <!-- EN: Breakup -->
@@ -305,7 +309,7 @@
   <PeaceTalksSocialXPGain>{PAWN_labelShort}, ภูตของคุณได้รับแต้มประสบการณ์ ทักษะทางสังคม  {1} </PeaceTalksSocialXPGain>
 
   <!-- Run wild mental break -->
-  <!-- EN: {0} is fed up with civilization.\n\n{0_pronoun} realized that wild creatures are always free. So, {0_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame {0_objective} to get {0_objective} back. -->
+  <!-- EN: {0} is fed up with civilization.\n\n{0_pronoun} realized that wild creatures are always free. So, {0_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {0_objective} to get {0_objective} back. -->
   <LetterRunWildMentalBreak>{0} ได้ตัดสินใจที่จะออกจากกลุ่มของคุณและไปอาศัยอยู่กับสัตว์ </LetterRunWildMentalBreak>
 
   <!-- Catatonic mental break -->

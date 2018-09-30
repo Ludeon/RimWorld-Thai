@@ -211,6 +211,8 @@
   <CaravanRequestInfo>ต้องการ: {0} ({3}), รางวัล: {1} ({4}) ({2} ซ้าย)</CaravanRequestInfo>
   <!-- EN: normal quality or better -->
   <NormalQualityOrBetter>คุณภาพปกติหรือดีกว่า</NormalQualityOrBetter>
+  <!-- EN: not tainted -->
+  <NotTainted>ไม่แปดเปื้อน</NotTainted>
 
   <!-- Caravan demand -->
   <!-- EN: Caravan demand by {0} -->

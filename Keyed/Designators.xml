@@ -198,6 +198,8 @@
   <IdenticalBlueprintExists>มีพิมพ์เขียวที่เหมือนกัน วางอยู่ตรงนี้แล้ว</IdenticalBlueprintExists>
   <!-- EN: The terrain here cannot support this. -->
   <TerrainCannotSupport>ภูมิประเทศตรงนี้ ไม่สามารถรองรับสิ่งนี้ได้</TerrainCannotSupport>
+  <!-- EN: {0_label} requires terrain that can support: {1_label} -->
+  <TerrainCannotSupport_TerrainAffordance>{0_label}ต้องอยู่ในภูมิประเทศที่รองรับ: {1_label}</TerrainCannotSupport_TerrainAffordance>
   <!-- EN: Space already occupied. -->
   <SpaceAlreadyOccupied>ที่ว่างถูกครอบครองไปแล้ว</SpaceAlreadyOccupied>
   <!-- EN: Space being smoothed. -->
