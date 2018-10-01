@@ -553,13 +553,13 @@
   <!-- EN: Starts expiring in: {0} -->
   <ThoughtStartsExpiringIn>เริ่มหมดอายุใน: {0}</ThoughtStartsExpiringIn>
   <!-- EN: Finishes expiring in: {0} -->
-  <ThoughtFinishesExpiringIn>หมดอายุจบใน: {0}</ThoughtFinishesExpiringIn>
+  <ThoughtFinishesExpiringIn>จบหมดอายุใน: {0}</ThoughtFinishesExpiringIn>
   <!-- EN: Extreme break threshold -->
-  <MentalBreakThresholdExtreme>เกิดสติแตกขั้นอันตราย</MentalBreakThresholdExtreme>
+  <MentalBreakThresholdExtreme>ขีดแบ่งสติแตกสุดขั้ว</MentalBreakThresholdExtreme>
   <!-- EN: Major break threshold -->
-  <MentalBreakThresholdMajor>เกิดสติแตกขั้นหนัก</MentalBreakThresholdMajor>
+  <MentalBreakThresholdMajor>ขีดแบ่งสติแตกหนัก</MentalBreakThresholdMajor>
   <!-- EN: Minor break threshold -->
-  <MentalBreakThresholdMinor>เกิดสติแตกขั้นต้น</MentalBreakThresholdMinor>
+  <MentalBreakThresholdMinor>ขีดแบ่งสติแตกเล็กน้อย</MentalBreakThresholdMinor>
 
   <!-- Pawn info readout -->
   <!-- EN: {PAWN_gender} {1} -->
