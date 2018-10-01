@@ -69,7 +69,7 @@
   <DesignatorForbidDesc>ทำเครื่องหมายไอเท็ม ว่าเป็นสิ่งต้องห้าม\n\nชาวนิคมจะไม่สามารถทำอะไร กับไอเท็มที่ระบุได้</DesignatorForbidDesc>
 
   <!-- EN: Allow -->
-  <DesignatorUnforbid>ถอนห้าม</DesignatorUnforbid>
+  <DesignatorUnforbid>อณุญาต</DesignatorUnforbid>
   <!-- EN: Mark items as not forbidden. Colonists will be able to interact with the designated items. -->
   <DesignatorUnforbidDesc>ทำเครื่องหมายไอเท็ม ว่าไม่ใช่สิ่งต้องห้าม\n\nชาวนิคมจะสามารถจับต้อง ไอเท็มที่ระบุได้</DesignatorUnforbidDesc>
 
