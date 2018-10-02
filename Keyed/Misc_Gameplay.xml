@@ -567,7 +567,7 @@
   <!-- EN: {0} of {1} -->
   <PawnMainDescFactionedWrap>{0} ฝ่าย{1}</PawnMainDescFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
-  <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
+  <PawnMainDescLifestageWrap>{0} {2_lifeStageAdjective}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
   <Faction>ฝักฝ่าย</Faction>
   <!-- EN: Equipped -->

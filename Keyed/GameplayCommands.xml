@@ -276,7 +276,7 @@
   
   <!-- Reform caravan -->
   <!-- EN: Reform caravan -->
-  <CommandReformCaravan>รวมตัวคาราวาน</CommandReformCaravan>
+  <CommandReformCaravan>จัดกองคาราวาน</CommandReformCaravan>
   <!-- EN: Reform a group of colonists. The colonists will leave their current area and await further orders. -->
   <CommandReformCaravanDesc>กลุ่มของชาวนิคมจะมารวมตัวกันใหม่ จากนั้นออกจากพื้นที่ปัจจุบัน และรอคำสั่งต่อไป</CommandReformCaravanDesc>
   <!-- EN: There are still some enemies in this area. -->
