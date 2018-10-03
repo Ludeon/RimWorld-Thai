@@ -2,61 +2,61 @@
 <LanguageData>
   
   <!-- EN: animal products -->
-  <AnimalProductRaw.label>สัตว์วัตถุดิบสินค้า</AnimalProductRaw.label>
+  <AnimalProductRaw.label>ผลิตภัณฑ์จากสัตว์</AnimalProductRaw.label>
   
   <!-- EN: apparel -->
   <Apparel.label>เสื้อผ้า</Apparel.label>
   
   <!-- EN: artifacts -->
-  <Artifacts.label>สิ่งประดิษฐ์</Artifacts.label>
+  <Artifacts.label>วัตถุโบราณ</Artifacts.label>
   
   <!-- EN: body parts -->
-  <BodyParts.label>ส่วนของร่างกาย</BodyParts.label>
+  <BodyParts.label>ส่วนร่างกาย</BodyParts.label>
   
   <!-- EN: artificial -->
-  <BodyPartsArtificial.label>ส่วนต่างๆของร่างกายเทียม</BodyPartsArtificial.label>
+  <BodyPartsArtificial.label>ส่วนเทียม</BodyPartsArtificial.label>
   
   <!-- EN: natural -->
-  <BodyPartsNatural.label>ส่วนของร่างกายตามธรรมชาติ</BodyPartsNatural.label>
+  <BodyPartsNatural.label>ส่วนธรรมชาติ</BodyPartsNatural.label>
   
   <!-- EN: buildings -->
-  <Buildings.label>TODO</Buildings.label>
+  <Buildings.label>สิ่งก่อสร้าง</Buildings.label>
   
   <!-- EN: art -->
-  <BuildingsArt.label>TODO</BuildingsArt.label>
+  <BuildingsArt.label>ศิลปะ</BuildingsArt.label>
   
   <!-- EN: furniture -->
-  <BuildingsFurniture.label>TODO</BuildingsFurniture.label>
+  <BuildingsFurniture.label>เฟอร์นิเจอร์</BuildingsFurniture.label>
   
   <!-- EN: recreation -->
-  <BuildingsJoy.label>TODO</BuildingsJoy.label>
+  <BuildingsJoy.label>ผ่อนคลาย</BuildingsJoy.label>
   
   <!-- EN: misc -->
-  <BuildingsMisc.label>TODO</BuildingsMisc.label>
+  <BuildingsMisc.label>เบ็ดเตล็ด</BuildingsMisc.label>
   
   <!-- EN: power -->
-  <BuildingsPower.label>TODO</BuildingsPower.label>
+  <BuildingsPower.label>พลังงาน</BuildingsPower.label>
   
   <!-- EN: production -->
-  <BuildingsProduction.label>TODO</BuildingsProduction.label>
+  <BuildingsProduction.label>การผลิต</BuildingsProduction.label>
   
   <!-- EN: security -->
-  <BuildingsSecurity.label>TODO</BuildingsSecurity.label>
+  <BuildingsSecurity.label>ความปลอดภัย</BuildingsSecurity.label>
   
   <!-- EN: special -->
-  <BuildingsSpecial.label>TODO</BuildingsSpecial.label>
+  <BuildingsSpecial.label>พิเศษ</BuildingsSpecial.label>
   
   <!-- EN: temperature -->
-  <BuildingsTemperature.label>TODO</BuildingsTemperature.label>
+  <BuildingsTemperature.label>อุณหภูมิ</BuildingsTemperature.label>
   
   <!-- EN: chunks -->
-  <Chunks.label>ก้อน</Chunks.label>
+  <Chunks.label>ชิ้นส่วน</Chunks.label>
   
   <!-- EN: corpses -->
   <Corpses.label>ซากศพ</Corpses.label>
   
   <!-- EN: animal corpses -->
-  <CorpsesAnimal.label>ซากสัตว์</CorpsesAnimal.label>
+  <CorpsesAnimal.label>ศพสัตว์</CorpsesAnimal.label>
   
   <!-- EN: humanlike corpses -->
   <CorpsesHumanlike.label>ศพมนุษย์</CorpsesHumanlike.label>
@@ -65,7 +65,7 @@
   <CorpsesInsect.label>ศพแมลง</CorpsesInsect.label>
   
   <!-- EN: mechanoid corpses -->
-  <CorpsesMechanoid.label>ซากหุ่นยน</CorpsesMechanoid.label>
+  <CorpsesMechanoid.label>ศพจักรกล</CorpsesMechanoid.label>
   
   <!-- EN: drugs -->
   <Drugs.label>ยาเสพติด</Drugs.label>
@@ -77,7 +77,7 @@
   <EggsUnfertilized.label>ไข่ (ยังไม่ผสม)</EggsUnfertilized.label>
   
   <!-- EN: meals -->
-  <FoodMeals.label>มื้ออาหาร</FoodMeals.label>
+  <FoodMeals.label>อาหารมื้อ</FoodMeals.label>
   
   <!-- EN: raw food -->
   <FoodRaw.label>อาหารดิบ</FoodRaw.label>
@@ -92,13 +92,13 @@
   <Headgear.label>หมวก</Headgear.label>
   
   <!-- EN: items -->
-  <Items.label>ไอเทม</Items.label>
+  <Items.label>ไอเท็ม</Items.label>
   
   <!-- EN: leathers -->
   <Leathers.label>แผ่นหนัง</Leathers.label>
   
   <!-- EN: manufactured -->
-  <Manufactured.label>สิ่งประดิษฐ์</Manufactured.label>
+  <Manufactured.label>ผลิตภัณฑ์</Manufactured.label>
   
   <!-- EN: meat -->
   <MeatRaw.label>เนื้อดิบ</MeatRaw.label>
@@ -110,25 +110,25 @@
   <MortarShells.label>กระสุนปืนใหญ่</MortarShells.label>
   
   <!-- EN: vegetarian -->
-  <PlantFoodRaw.label>พืชอาหารดิบ</PlantFoodRaw.label>
+  <PlantFoodRaw.label>พืชกินดิบ</PlantFoodRaw.label>
   
   <!-- EN: plant matter -->
-  <PlantMatter.label>ซากของพืช</PlantMatter.label>
+  <PlantMatter.label>วัตถุพืช</PlantMatter.label>
   
   <!-- EN: raw resources -->
-  <ResourcesRaw.label>ทรัพยากรวัตถุดิบ</ResourcesRaw.label>
+  <ResourcesRaw.label>ทรัพยากรดิบ</ResourcesRaw.label>
   
   <!-- EN: root -->
-  <Root.label>Root</Root.label>
+  <Root.label>ราก</Root.label>
   
   <!-- EN: stone blocks -->
   <StoneBlocks.label>บล็อกหิน</StoneBlocks.label>
   
   <!-- EN: stone chunks -->
-  <StoneChunks.label>ก้อนหิน</StoneChunks.label>
+  <StoneChunks.label>ชิ้นส่วนก้อนหิน</StoneChunks.label>
   
   <!-- EN: textiles -->
-  <Textiles.label>สิ่งทอผ้า</Textiles.label>
+  <Textiles.label>สิ่งทอ</Textiles.label>
   
   <!-- EN: unfinished -->
   <Unfinished.label>ยังไม่เสร็จ</Unfinished.label>

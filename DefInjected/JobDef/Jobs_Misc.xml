@@ -134,7 +134,7 @@
   <UnloadYourInventory.reportString>นำของออกจากคลังเก็บ</UnloadYourInventory.reportString>
   
   <!-- EN: activating artifact. -->
-  <UseArtifact.reportString>กำลังเปิดใช้วัถุโบราณ</UseArtifact.reportString>
+  <UseArtifact.reportString>กำลังเปิดใช้วัตถุโบราณ</UseArtifact.reportString>
   
   <!-- EN: using TargetA. -->
   <UseItem.reportString>กำลังใช้ TargetA</UseItem.reportString>
