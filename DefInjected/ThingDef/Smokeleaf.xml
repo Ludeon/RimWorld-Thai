@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: smokeleaf joint -->
-  <SmokeleafJoint.label>TODO</SmokeleafJoint.label>
+  <SmokeleafJoint.label>ยาสูบ Smokeleaf</SmokeleafJoint.label>
   <!-- EN: Smokeleaf leaves prepared in small rolls for smoking. The drug improves mood, but also increases appetite, reduces focus and slows movement. Smokeleaf use can produce a dependency.\n\nJoints can be produced at a crafting spot without equipment, and are a fixture in many traditional low-industriousness cultures. -->
-  <SmokeleafJoint.description>TODO</SmokeleafJoint.description>
+  <SmokeleafJoint.description>ใบ Smokeleaf เตรียมเป็นม้วนเล็กๆใช้สูบ ยาช่วยทำให้อารมณ์ดี แต่มันก็เพิ่มความหิว ลดโฟกัส และทำให้เคลื่อนไหวช้าลง Smokeleaf สามารถทำให้เกิดอาการเสพติดได้\n\nม้วนยาทำได้ที่ 'จุดสร้างงาน' โดยไม่ต้องใช้เครื่องมือใดๆ และเป็นสิ่งยึดเหนี่ยวในบางวัฒนธรรมที่มีอุตสาหกรรมระดับต่ำ</SmokeleafJoint.description>
   <!-- EN: Smoke {0} -->
-  <SmokeleafJoint.ingestible.ingestCommandString>TODO</SmokeleafJoint.ingestible.ingestCommandString>
+  <SmokeleafJoint.ingestible.ingestCommandString>สูบ {0}</SmokeleafJoint.ingestible.ingestCommandString>
   <!-- EN: Smoking {0}. -->
-  <SmokeleafJoint.ingestible.ingestReportString>TODO</SmokeleafJoint.ingestible.ingestReportString>
+  <SmokeleafJoint.ingestible.ingestReportString>กำลังสูบ {0}</SmokeleafJoint.ingestible.ingestReportString>
   <!-- EN: Consuming {0}. -->
-  <SmokeleafJoint.ingestible.ingestReportStringEat>TODO</SmokeleafJoint.ingestible.ingestReportStringEat>
+  <SmokeleafJoint.ingestible.ingestReportStringEat>กำลังเสพ {0}</SmokeleafJoint.ingestible.ingestReportStringEat>
   
 </LanguageData>
