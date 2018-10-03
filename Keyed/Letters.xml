@@ -126,7 +126,13 @@
   <!-- EN: The final straw was: {0} -->
   <FinalStraw>ฟางเส้นสุดท้ายคือ: {0}</FinalStraw>
   <!-- EN: This happened because of poor mood. -->
-  <MentalStateCausedByMood>นี่เกิดขึ้นเพราะอารมณ์ไม่ดี</MentalStateCausedByMood>
+  <MentalStateReason_Mood>นี่เกิดขึ้นเพราะอารมณ์ไม่ดี</MentalStateReason_Mood>
+  <!-- EN: This happened because of the trait: {0}. -->
+  <MentalStateReason_Trait>นี่เกิดขึ้นเพราะคุณสมบัติ: {0}</MentalStateReason_Trait>
+  <!-- EN: This happened because of: {0}. -->
+  <MentalStateReason_Hediff>นี่เกิดขึ้นเพราะ: {0}</MentalStateReason_Hediff>
+  <!-- EN: This happened because of {0_definite}'s death. -->
+  <MentalStateReason_BondedHumanDeath>นี่เกิดขึ้นเพราะ {0_definite} เสียชีวิต</MentalStateReason_BondedHumanDeath>
   <!-- EN: The last event was -->
   <LastFactionRelationsEvent>เหตุการณ์ล่าสุดคือ</LastFactionRelationsEvent>
 

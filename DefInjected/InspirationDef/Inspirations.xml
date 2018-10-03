@@ -50,8 +50,8 @@
   <Inspired_Surgery.label>ดลบันดาลให้ผ่าตัด</Inspired_Surgery.label>
   <!-- EN: Inspired: Inspired surgery -->
   <Inspired_Surgery.baseInspectLine>แรงบันดาลใจ: ดลบันดาลให้ผ่าตัด</Inspired_Surgery.baseInspectLine>
-  <!-- EN: [PAWN_nameIndef] has experienced an inspiration!\n\nThe next time [PAWN_objective] performs a surgery, [PAWN_possessive] chance of success will be doubled. A small minimum chance of failure still applies.\n\nThe inspiration will end after 8 days, or when the surgery is performed. -->
-  <Inspired_Surgery.beginLetter>{PAWN_nameIndef} ประสบแรงบรรดาลใจ!\n\ครั้งต่อไปที่{PAWN_objective}ดำเนินการผ่าตัด โอกาศสำเร็จ{PAWN_possessive}จะถูกเพิ่มขึ้นเท่าตัว โอกาศเล็กๆในการล้มเหลวยังมีอยู่\n\nแรงบันดาลใจจะสิ้นสุดลงหลังจาก 8 วัน หรือเมื่อได้รับการผ่าตัดแล้ว</Inspired_Surgery.beginLetter>
+  <!-- EN: [PAWN_nameIndef] has experienced an inspiration!\n\nThe next time [PAWN_pronoun] performs a surgery, [PAWN_possessive] chance of success will be doubled. A small minimum chance of failure still applies.\n\nThe inspiration will end after 8 days, or when the surgery is performed. -->
+  <Inspired_Surgery.beginLetter>{PAWN_nameIndef} ประสบแรงบรรดาลใจ!\n\ครั้งต่อไปที่{PAWN_pronoun}ดำเนินการผ่าตัด โอกาศสำเร็จ{PAWN_possessive}จะถูกเพิ่มขึ้นเท่าตัว โอกาศเล็กๆในการล้มเหลวยังมีอยู่\n\nแรงบันดาลใจจะสิ้นสุดลงหลังจาก 8 วัน หรือเมื่อได้รับการผ่าตัดแล้ว</Inspired_Surgery.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired surgery). -->
   <Inspired_Surgery.endMessage>{0} ไม่ได้รับแรงบันดาลใจอีกแล้ว (ดลบันดาลให้ผ่าตัด)</Inspired_Surgery.endMessage>
   

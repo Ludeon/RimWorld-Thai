@@ -770,9 +770,7 @@
   <ShowWorldFeaturesToggleButton>สลับมองเห็นชื่อลักษณะผืนดิน</ShowWorldFeaturesToggleButton>
 
   <!-- Fire -->
-  <!-- EN: Fire -->
-  <Fire>เพลิงไหม้</Fire>
-  <!-- EN: Fire on {1_label} -->
+  <!-- EN: fire on {1_label} -->
   <FireOn>เพลิงไหม้บน {1_label}</FireOn>
   <!-- EN: Burning -->
   <Burning>กำลังไหม้</Burning>
