@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: drop pod -->
-  <ActiveDropPod.label>TODO</ActiveDropPod.label>
+  <ActiveDropPod.label>กระสวยทิ้งดิ่ง</ActiveDropPod.label>
   
   <!-- EN: fire -->
-  <Fire.label>ไฟไหม้</Fire.label>
+  <Fire.label>ไฟ</Fire.label>
   
   <!-- EN: spark -->
-  <Spark.label>จุดประกาย</Spark.label>
+  <Spark.label>ประกายไฟ</Spark.label>
   
 </LanguageData>

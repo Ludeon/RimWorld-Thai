@@ -86,7 +86,7 @@
   <Corpse_Ibex.label>ซากแพะภูเขา</Corpse_Ibex.label>
   
   <!-- EN: ศพอีกัวน่า -->
-  <Corpse_Iguana.label>ซาก อีกัวน่า</Corpse_Iguana.label>
+  <Corpse_Iguana.label>ซากอิกัวน่า</Corpse_Iguana.label>
   
   <!-- EN: ศพหมาแลบราดอร์ริทรีฟเวอร์ -->
   <Corpse_LabradorRetriever.label>ซากหมาแลบราดอร์ริทรีฟเวอร์</Corpse_LabradorRetriever.label>
@@ -95,10 +95,10 @@
   <Corpse_Lynx.label>ซากแมวป่า</Corpse_Lynx.label>
   
   <!-- EN: ศพตะขาบจักรกล -->
-  <Corpse_Mech_Centipede.label>ตะขาบจักรกล</Corpse_Mech_Centipede.label>
+  <Corpse_Mech_Centipede.label>ซากตะขาบจักรกล</Corpse_Mech_Centipede.label>
   
   <!-- EN: ศพไซเธอร์จักรกล -->
-  <Corpse_Mech_Scyther.label>ไซเธอร์จักรกล</Corpse_Mech_Scyther.label>
+  <Corpse_Mech_Scyther.label>ซากไซเธอร์</Corpse_Mech_Scyther.label>
   
   <!-- EN: ศพด้วงยักษ์ -->
   <Corpse_Megascarab.label>ซากด้วงยักษ์</Corpse_Megascarab.label>
@@ -110,7 +110,7 @@
   <Corpse_Monkey.label>ซากลิง</Corpse_Monkey.label>
   
   <!-- EN: ศพMuffalo -->
-  <Corpse_Muffalo.label>ซาก Muffalo</Corpse_Muffalo.label>
+  <Corpse_Muffalo.label>ซากมัฟฟาโล่</Corpse_Muffalo.label>
   
   <!-- EN: ศพนกกระจอกเทศ -->
   <Corpse_Ostrich.label>ซากนกกระจอกเทศ</Corpse_Ostrich.label>
@@ -128,7 +128,7 @@
   <Corpse_Rat.label>ซากหนู</Corpse_Rat.label>
   
   <!-- EN: ศพแรด -->
-  <Corpse_Rhinoceros.label>ซาก Nashorn</Corpse_Rhinoceros.label>
+  <Corpse_Rhinoceros.label>ซากแรด</Corpse_Rhinoceros.label>
   
   <!-- EN: ศพกระต่ายหิมะ -->
   <Corpse_Snowhare.label>ซากกระต่ายหิมะ</Corpse_Snowhare.label>
@@ -143,7 +143,7 @@
   <Corpse_Thrumbo.label>ซากธรัมโบ</Corpse_Thrumbo.label>
   
   <!-- EN: ศพเต่าบก -->
-  <Corpse_Tortoise.label>ซากแผ่นหนังเต่าบก</Corpse_Tortoise.label>
+  <Corpse_Tortoise.label>ซากเต่าบก</Corpse_Tortoise.label>
   
   <!-- EN: ศพไก่งวง -->
   <Corpse_Turkey.label>ซากไก่งวง</Corpse_Turkey.label>

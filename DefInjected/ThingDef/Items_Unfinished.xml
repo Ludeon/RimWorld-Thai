@@ -2,33 +2,33 @@
 <LanguageData>
   
   <!-- EN: minified thing -->
-  <MinifiedThing.label>ประติมากรรมลดขนาดลง</MinifiedThing.label>
+  <MinifiedThing.label>ประติมากรรมขนาดจิ้ว</MinifiedThing.label>
   
   <!-- EN: unfinished apparel -->
-  <UnfinishedApparel.label>เสื้อผ้าที่ยังทำไม่เสร็จ</UnfinishedApparel.label>
+  <UnfinishedApparel.label>เสื้อผ้ายังทำไม่เสร็จ</UnfinishedApparel.label>
   
   <!-- EN: unfinished armor -->
-  <UnfinishedArmor.label>TODO</UnfinishedArmor.label>
+  <UnfinishedArmor.label>เกราะยังทำไม่เสร็จ</UnfinishedArmor.label>
   
   <!-- EN: unfinished belt -->
-  <UnfinishedBelt.label>เข็มขัดที่ยังทำไม่เสร็จ</UnfinishedBelt.label>
+  <UnfinishedBelt.label>เข็มขัดยังทำไม่เสร็จ</UnfinishedBelt.label>
   
   <!-- EN: unfinished component -->
-  <UnfinishedComponent.label>อะไหล่คอมพิวเตอร์ที่ยังทำไม่เสร็จ</UnfinishedComponent.label>
+  <UnfinishedComponent.label>ส่วนประกอบยังทำไม่เสร็จ</UnfinishedComponent.label>
   
   <!-- EN: unfinished gun -->
-  <UnfinishedGun.label>ปืนที่ยังทำไม่เสร็จ</UnfinishedGun.label>
+  <UnfinishedGun.label>ปืนยังทำไม่เสร็จ</UnfinishedGun.label>
   
   <!-- EN: unfinished armor -->
-  <UnfinishedMetallicTechArmor.label>เกราะโลหะเมทัลลิคที่ยังทำไม่เสร็จ</UnfinishedMetallicTechArmor.label>
+  <UnfinishedMetallicTechArmor.label>เกราะยังทำไม่เสร็จ</UnfinishedMetallicTechArmor.label>
   
   <!-- EN: unfinished sculpture -->
-  <UnfinishedSculpture.label>ปฏิมากรรมที่ยังทำไม่เสร็จ</UnfinishedSculpture.label>
+  <UnfinishedSculpture.label>ปฏิมากรรมยังทำไม่เสร็จ</UnfinishedSculpture.label>
   
   <!-- EN: unfinished armor -->
-  <UnfinishedTechArmor.label>เทคอาร์เมอร์ที่ยังทำไม่เสร็จ</UnfinishedTechArmor.label>
+  <UnfinishedTechArmor.label>เกราะยังทำไม่เสร็จ</UnfinishedTechArmor.label>
   
   <!-- EN: unfinished weapon -->
-  <UnfinishedWeapon.label>อาวุธที่ยังทำไม่เสร็จ</UnfinishedWeapon.label>
+  <UnfinishedWeapon.label>อาวุธยังทำไม่เสร็จ</UnfinishedWeapon.label>
   
 </LanguageData>
