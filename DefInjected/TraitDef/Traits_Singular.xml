@@ -62,14 +62,14 @@
   <Gay.degreeDatas.gay.description>[PAWN_nameDef] นั้นถูกดึงดูดให้หวั่นไหวโดยเพศเดียวกันกับ [PAWN_objective]</Gay.degreeDatas.gay.description>
   
   <!-- EN: gourmand -->
-  <Gourmand.degreeDatas.gourmand.label>TODO</Gourmand.degreeDatas.gourmand.label>
+  <Gourmand.degreeDatas.gourmand.label>ตะกละ</Gourmand.degreeDatas.gourmand.label>
   <!-- EN: {PAWN_nameDef}'s life revolves around food. {PAWN_pronoun} gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry. -->
-  <Gourmand.degreeDatas.gourmand.description>TODO</Gourmand.degreeDatas.gourmand.description>
+  <Gourmand.degreeDatas.gourmand.description>ชีวิตของ {PAWN_nameDef} วนเวียนอยู่กับอาหาร {PAWN_pronoun}หิวเร็ว ในบางโอกาศเขาโดนแรงกระตุ้นครอบงจนตะกละกินถึงที่สุด แม้ขนาดในตอนที่ไม่หิวก็ตาม</Gourmand.degreeDatas.gourmand.description>
   
   <!-- EN: great memory -->
-  <GreatMemory.degreeDatas.great_memory.label>TODO</GreatMemory.degreeDatas.great_memory.label>
+  <GreatMemory.degreeDatas.great_memory.label>ความจำดีเลิศ</GreatMemory.degreeDatas.great_memory.label>
   <!-- EN: {PAWN_nameDef} has a fantastic memory for detail. {PAWN_pronoun} will lose unused skills at half the rate of other people. -->
-  <GreatMemory.degreeDatas.great_memory.description>TODO</GreatMemory.degreeDatas.great_memory.description>
+  <GreatMemory.degreeDatas.great_memory.description>{PAWN_nameDef} มีความทรงจำชั้นเลิศกับรายละเอียดต่างๆ {PAWN_pronoun}มี 'อัตราสูญเสียทักษะที่ไม่ได้ใช้' เพียงครึ่งหนึ่งของคนอื่น</GreatMemory.degreeDatas.great_memory.description>
   
   <!-- EN: greedy -->
   <Greedy.degreeDatas.greedy.label>โลภมาก</Greedy.degreeDatas.greedy.label>
@@ -117,9 +117,9 @@
   <Pyromaniac.degreeDatas.pyromaniac.description>[PAWN_nameDef] รักไฟ [PAWN_pronoun] บางครั้งจะเริ่มเล่นไฟทำให้เกิดเพลิงไหม้ และ เขาจะไม่ดับไฟ</Pyromaniac.degreeDatas.pyromaniac.description>
   
   <!-- EN: quick sleeper -->
-  <QuickSleeper.degreeDatas.quick_sleeper.label>TODO</QuickSleeper.degreeDatas.quick_sleeper.label>
+  <QuickSleeper.degreeDatas.quick_sleeper.label>นอนเร็ว</QuickSleeper.degreeDatas.quick_sleeper.label>
   <!-- EN: {PAWN_nameDef} doesn't need as much sleep as the average person. Whether {PAWN_pronoun}'s sleeping on a bed or on the ground, {PAWN_pronoun} will be fully rested in about two thirds the usual time. -->
-  <QuickSleeper.degreeDatas.quick_sleeper.description>TODO</QuickSleeper.degreeDatas.quick_sleeper.description>
+  <QuickSleeper.degreeDatas.quick_sleeper.description>{PAWN_nameDef} ไม่ต้องการการนอนหลับให้เท่าคนทั่วๆไป ไม่ว่า{PAWN_pronoun}จะนอนบนเตียงหรือบนพื้น {PAWN_pronoun}จะผักผ่อนเต็มที่ในเวลาเพียงสองในสามของปกติ</QuickSleeper.degreeDatas.quick_sleeper.description>
   
   <!-- EN: too smart -->
   <TooSmart.degreeDatas.too_smart.label>ฉลาดเกิน</TooSmart.degreeDatas.too_smart.label>
@@ -127,9 +127,9 @@
   <TooSmart.degreeDatas.too_smart.description>[PAWN_nameDef] นั้นฉลาดเกินไปสำหรับ [PAWN_possessive] [PAWN_pronoun] เรียนรู้ทุกอย่างได้เร็วกว่าคนอื่นๆ, แต่ก็สามารถที่จะแหกคอกได้เหมือนกัน</TooSmart.degreeDatas.too_smart.description>
   
   <!-- EN: tough -->
-  <Tough.degreeDatas.tough.label>TODO</Tough.degreeDatas.tough.label>
+  <Tough.degreeDatas.tough.label>บึกบึน</Tough.degreeDatas.tough.label>
   <!-- EN: {PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill. -->
-  <Tough.degreeDatas.tough.description>TODO</Tough.degreeDatas.tough.description>
+  <Tough.degreeDatas.tough.description>{PAWN_nameDef} มีผิวหนังที่หนา กล้ามเนื้อแน่น และกระดูกแข็งแรง {PAWN_pronoun}ได้รับความเสียหายน้อยกว่าคนทั่วไปในการโจมตีแบบเดียวกัน {PAWN_pronoun}ถูกฆ่าให้ตายยากมาก</Tough.degreeDatas.tough.description>
   
   <!-- EN: transhumanist -->
   <Transhumanist.degreeDatas.transhumanist.label>หลงชีวกล</Transhumanist.degreeDatas.transhumanist.label>
@@ -137,13 +137,13 @@
   <Transhumanist.degreeDatas.transhumanist.description>[PAWN_nameDef] นั้นรู้สึกจำกัดภายในร่างกายมนุษย์ที่อ่อนแอ [PAWN_possessive] [PAWN_pronoun] ฝันถึงการที่ได้เปลี่ยนเป็นชีวกลอยู่บ่อยครั้ง</Transhumanist.degreeDatas.transhumanist.description>
   
   <!-- EN: undergrounder -->
-  <Undergrounder.degreeDatas.undergrounder.label>TODO</Undergrounder.degreeDatas.undergrounder.label>
+  <Undergrounder.degreeDatas.undergrounder.label>มนุษย์ใต้ดิน</Undergrounder.degreeDatas.undergrounder.label>
   <!-- EN: {PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever, no matter how long {PAWN_pronoun} stays inside, and is not bothered by darkness. -->
-  <Undergrounder.degreeDatas.undergrounder.description>TODO</Undergrounder.degreeDatas.undergrounder.description>
+  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef} ไม่จำเป็นต้องออกกลางแจ้งหรือเจอแสง {PAWN_pronoun}จะไม่รู้สึกโดนกักขังหรือหรือมีอาการกลัวที่แคบใดๆ ไม่ว่า{PAWN_pronoun}จะอยู่ข้างในนานแค่ไหน และก็ไม่แคร์ความมืด</Undergrounder.degreeDatas.undergrounder.description>
   
   <!-- EN: wimp -->
-  <Wimp.degreeDatas.wimp.label>ขี่ขาด</Wimp.degreeDatas.wimp.label>
+  <Wimp.degreeDatas.wimp.label>ขี้ขาด</Wimp.degreeDatas.wimp.label>
   <!-- EN: {PAWN_nameDef} is weak and cowardly. Even a little pain will immobilize {PAWN_objective}. -->
-  <Wimp.degreeDatas.wimp.description>[PAWN_nameDef] อ่อนแอและขี้ขลาด แม้แต่ความเจ็บปวดเพียงเล็กน้อยก็จะตรึง [PAWN_objective] ไว้</Wimp.degreeDatas.wimp.description>
+  <Wimp.degreeDatas.wimp.description>{PAWN_nameDef} นั้นอ่อนแอและขี้ขลาด กระทั่งความเจ็บปวดเล็กๆน้อยๆก็ทำให้{0_objective}เคลื่อนไหวไม่ได้</Wimp.degreeDatas.wimp.description>
   
 </LanguageData>
