@@ -5,7 +5,7 @@
   <Filth_AmnioticFluid.label>น้ำคร่ำ</Filth_AmnioticFluid.label>
   
   <!-- EN: animal filth -->
-  <Filth_AnimalFilth.label>คราบสัตว์ทำ</Filth_AnimalFilth.label>
+  <Filth_AnimalFilth.label>คราบสัตว์</Filth_AnimalFilth.label>
   
   <!-- EN: ash -->
   <Filth_Ash.label>ขี้เถ้า</Filth_Ash.label>
@@ -26,9 +26,9 @@
   <Filth_FireFoam.label>โฟมดับเพลิง</Filth_FireFoam.label>
   
   <!-- EN: chemfuel puddle -->
-  <Filth_Fuel.label>คราบสกปรก</Filth_Fuel.label>
+  <Filth_Fuel.label>แอ่งเชื้อเพลิงเคมี</Filth_Fuel.label>
   <!-- EN: A puddle of flammable chemfuel. -->
-  <Filth_Fuel.description>TODO</Filth_Fuel.description>
+  <Filth_Fuel.description>แอ่งของเชื้อเพลิงเคมีไวไฟ</Filth_Fuel.description>
   
   <!-- EN: building rubble -->
   <Filth_RubbleBuilding.label>เศษสิ่งก่อสร้าง</Filth_RubbleBuilding.label>
@@ -43,15 +43,15 @@
   <Filth_Slime.label>เมือก</Filth_Slime.label>
   
   <!-- EN: trash -->
-  <Filth_Trash.label>TODO</Filth_Trash.label>
+  <Filth_Trash.label>ขยะ</Filth_Trash.label>
   
   <!-- EN: vomit -->
-  <Filth_Vomit.label>อาเจียนสกปรก</Filth_Vomit.label>
+  <Filth_Vomit.label>อาเจียน</Filth_Vomit.label>
   
   <!-- EN: scattered sandbags -->
   <SandbagRubble.label>เศษกระสอบทราย</SandbagRubble.label>
   
   <!-- EN: scattered slag -->
-  <SlagRubble.label>Slag Rubble</SlagRubble.label>
+  <SlagRubble.label>เศษกากแร่</SlagRubble.label>
   
 </LanguageData>
