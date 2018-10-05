@@ -2,29 +2,29 @@
 <LanguageData>
   
   <!-- EN: orbital trader arrival -->
-  <OrbitalTraderArrival.label>พ่อค้าอาวาศมาถึงแล้ว</OrbitalTraderArrival.label>
+  <OrbitalTraderArrival.label>พ่อค้าวงโคจรมาถึง</OrbitalTraderArrival.label>
   
   <!-- EN: enemy raid (special locations) -->
-  <RaidEnemyBeacon.label>ศัตรูจู่โจม</RaidEnemyBeacon.label>
+  <RaidEnemyBeacon.label>ศัตรูบุก (ตำแหน่งพิเศษ)</RaidEnemyBeacon.label>
   
   <!-- EN: friendly raid -->
-  <RaidFriendly.label>เพื่อนมาช่วย</RaidFriendly.label>
+  <RaidFriendly.label>มิตรมาช่วย</RaidFriendly.label>
   
   <!-- EN: ship chunk drop -->
   <ShipChunkDrop.label>ชิ้นส่วนยานตก</ShipChunkDrop.label>
   
   <!-- EN: man in black -->
-  <StrangerInBlackJoin.label>TODO</StrangerInBlackJoin.label>
+  <StrangerInBlackJoin.label>ชายชุดดำ</StrangerInBlackJoin.label>
   <!-- EN: Man in black -->
-  <StrangerInBlackJoin.letterLabel>TODO</StrangerInBlackJoin.letterLabel>
+  <StrangerInBlackJoin.letterLabel>ชายในชุดดำ</StrangerInBlackJoin.letterLabel>
   <!-- EN: Sensing trouble, a mysterious [PAWN_kind] has arrived.\n\nWill [PAWN_pronoun] be able to set things right in these parts? -->
-  <StrangerInBlackJoin.letterText>TODO</StrangerInBlackJoin.letterText>
+  <StrangerInBlackJoin.letterText>ได้กลิ่นปัญหา, {PAWN_kind}ปริศนาเดินทางมาถึง\n\n{PAWN_pronoun}จะสามารถทำให้มันถูกต้องได้หรือ?</StrangerInBlackJoin.letterText>
   
   <!-- EN: trader caravan arrival -->
-  <TraderCaravanArrival.label>พ่อค้าคาราวาศมาถึงแล้ว</TraderCaravanArrival.label>
+  <TraderCaravanArrival.label>คาราวานพ่อค้ามาถึง</TraderCaravanArrival.label>
   
   <!-- EN: traveler group -->
-  <TravelerGroup.label>กลุ่มนักท่องเทียว</TravelerGroup.label>
+  <TravelerGroup.label>กลุ่มนักเดินทาง</TravelerGroup.label>
   
   <!-- EN: visitor group -->
   <VisitorGroup.label>กลุ่มผู้มาเยือน</VisitorGroup.label>

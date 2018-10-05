@@ -4,23 +4,21 @@
   <!-- EN: ambush -->
   <Ambush.label>โดนดักโจมตี</Ambush.label>
   <!-- EN: Caravan ambushed -->
-  <Ambush.letterLabel>คาราวานถูกซุ่มโจมตี</Ambush.letterLabel>
+  <Ambush.letterLabel>กองคาราวานถูกซุ่มโจมตี</Ambush.letterLabel>
   <!-- EN: {0} has been ambushed by {1} from {2}! -->
-  <Ambush.letterText>คาราวานของคุณจาก {0} จาก {1} บุก!</Ambush.letterText>
+  <Ambush.letterText>{0} ถูกซุ่มโจมตีโดย {1} จาก {2}!</Ambush.letterText>
   
   <!-- EN: payment demand -->
-  <CaravanDemand.label>คาราวานต้องการ</CaravanDemand.label>
-  <CaravanDemand.letterLabel>คาราวานในการซุ่มโจมตี</CaravanDemand.letterLabel>
-  <CaravanDemand.letterText>คาราวานของคุณจาก {0} จาก {1} ล่อเข้าไปซุ่ม!</CaravanDemand.letterText>
+  <CaravanDemand.label>เรียกค่าไถ่</CaravanDemand.label>
   
   <!-- EN: caravan meeting -->
-  <CaravanMeeting.label>เจอคาราวาน</CaravanMeeting.label>
+  <CaravanMeeting.label>พบเจอคาราวาน</CaravanMeeting.label>
   
   <!-- EN: manhunter ambush -->
-  <ManhunterAmbush.label>สัตว์ดักโจมตี</ManhunterAmbush.label>
+  <ManhunterAmbush.label>โดนสัตว์ดักโจมตี</ManhunterAmbush.label>
   <!-- EN: Caravan ambushed (manhunters) -->
-  <ManhunterAmbush.letterLabel>คาราวานถูกโจมตี (สัตว์)</ManhunterAmbush.letterLabel>
+  <ManhunterAmbush.letterLabel>กองคาราวานถูกซุ่มโจมตี (สัตว์ล่ามนุษย์)</ManhunterAmbush.letterLabel>
   <!-- EN: {0} has been ambushed by manhunting {1}! -->
-  <ManhunterAmbush.letterText>คาราวานของคุณถูกสัตว์ล่า {0} บุก!</ManhunterAmbush.letterText>
+  <ManhunterAmbush.letterText>{0} ถูกซุ่มโจมตีโดย {0}ล่ามนุษย์!</ManhunterAmbush.letterText>
   
 </LanguageData>

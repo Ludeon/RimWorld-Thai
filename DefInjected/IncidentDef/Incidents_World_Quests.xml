@@ -2,51 +2,51 @@
 <LanguageData>
   
   <!-- EN: bandit camp quest -->
-  <Quest_BanditCamp.label>เควส: ค่ายโจร</Quest_BanditCamp.label>
+  <Quest_BanditCamp.label>ภารกิจค่ายโจร</Quest_BanditCamp.label>
   <!-- EN: Bandit camp quest -->
-  <Quest_BanditCamp.letterLabel>เควส: ค่ายโจร</Quest_BanditCamp.letterLabel>
+  <Quest_BanditCamp.letterLabel>ภารกิจ: ค่ายโจร</Quest_BanditCamp.letterLabel>
   <!-- EN: {0}, {1} of {2}, has sent us a message.\n\nApparently bandits based in a nearby camp have been raiding their caravans. They've asked us to destroy it, which means eliminating all enemies and turrets.\n\n{0} says that {5}.\n\nIf we succeed, their relations will improve, and they'll send us this reward worth {6}:\n\n{3}\n\nIf we don't destroy the camp in {4} days, they will do it themselves. -->
-  <Quest_BanditCamp.letterText>{1}  {0} จาก {2}, ส่งข้อความถึงเรา\n\nเห็นว่ากลุ่มโจรที่อยู่ในบริเวณใกล้เคียงค่ายได้รับการบุกเข้าไปในคาราวานของพวกเขา พวกเขาได้ขอให้เราทำลายมันซึ่งหมายถึงการกำจัดศัตรูและป้อมปืนทั้งหมด\n\nถ้าเราประสบความสำเร็จความสัมพันธ์ของพวกเขาจะดีขึ้นและพวกเขาจะส่งรางวัลนี้ให้เรา:\n\n{3}</Quest_BanditCamp.letterText>
+  <Quest_BanditCamp.letterText>{0}, {1} แห่ง {2} ส่งข้อความถึงเรา\n\nดูเหมือนว่า มีค่ายโจรตั้งอยู่บริเวณใกล้เคียง บุกโจมตีกองคาราวานของพวกเขา พวกเขาขอให้เราทำลายมันซึ่งหมายถึงการกำจัดศัตรูและป้อมปืนทั้งหมด\n\n{0} กล่าวว่า {5}\n\nถ้าเราประสบความสำเร็จ ความสัมพันธ์กับพวกเขาจะดีขึ้น และพวกเขาจะให้รางวัลมูลค่า {6}:\n\n{3}\n\nถ้าเราไม่ทำลายค่ายใน {4} วัน พวกเขาจะทำเอง</Quest_BanditCamp.letterText>
   
   <!-- EN: incapacitated refugee quest -->
-  <Quest_DownedRefugee.label>เควส: ผู้ลี้ภัยที่ไม่สามารถเคลื่อนที่ได้</Quest_DownedRefugee.label>
+  <Quest_DownedRefugee.label>ภารกิจผู้ลี้ภัยเคลื่อนไหวไม่ได้</Quest_DownedRefugee.label>
   <!-- EN: Incapacitated refugee quest -->
-  <Quest_DownedRefugee.letterLabel>เควส:ผู้ลี้ภัยที่ไม่สามารถเคลื่อนที่ได้</Quest_DownedRefugee.letterLabel>
+  <Quest_DownedRefugee.letterLabel>เควส: ผู้ลี้ภัยที่เคลื่อนไหวไม่ได้</Quest_DownedRefugee.letterLabel>
   <!-- EN: {PAWN_nameDef} contacts you and requests help. {PAWN_pronoun} is wounded and unable to move. Without your help, {PAWN_pronoun} will die in {0} days.\n\n{PAWN_nameDef} is a {1}-year-old {2}. {PAWN_pronoun} promises to join you if you rescue {PAWN_objective}.\n\n{PAWN_nameDef} says that {3}. -->
-  <Quest_DownedRefugee.letterText>{0} ติดต่อคุณผ่านทางอากาศและขอความช่วยเหลือ [PAWN_pronoun] ได้รับบาดเจ็บและแทบไม่มีสติ โดยไม่ได้รับความช่วยเหลือ [PAWN_pronoun] จะตายภายใน {1} วัน \ n\nแต่จงระวัง: อาจเป็นอันตรายได้ที่นั่น</Quest_DownedRefugee.letterText>
+  <Quest_DownedRefugee.letterText>{PAWN_nameDef} ติดต่อขอความช่วยเหลือจากคุณ {PAWN_pronoun}เขาได้รับบากเจ็บเคลื่อนที่ไม่ได้ ถ้าไม่ได้ความช่วยเหลือจากคุณ {PAWN_pronoun}จะตายใน {0} วัน\n\n{PAWN_nameDef} เป็น{2} อายุ {1} ปี {PAWN_pronoun}ให้สัญญาว่าจะเข้าร่วมถ้าคุณช่วยเหลือ{PAWN_objective}\n\n{PAWN_nameDef} กล่าวว่า {3}</Quest_DownedRefugee.letterText>
   
   <!-- EN: item stash quest -->
-  <Quest_ItemStash.label>เควส: ที่ซ่อนไอเทม</Quest_ItemStash.label>
+  <Quest_ItemStash.label>ภารกิจที่ซ่อนสมบัติ</Quest_ItemStash.label>
   <!-- EN: Item stash quest -->
-  <Quest_ItemStash.letterLabel>เควส: ที่ซ่อนไอเทม</Quest_ItemStash.letterLabel>
+  <Quest_ItemStash.letterLabel>ภารกิจ: ที่ซ่อนสมบัติ</Quest_ItemStash.letterLabel>
   <!-- EN: {0}, {1} of {2}, has informed us of a collection of valuable items worth {6} not far from us. The collection consists of:\n\n{3}\n\nUnfortunately, it won't last - others will take the items in {4} days if we don't.\n\nBeware - valuables tend to attract danger. {0} says that {5}. -->
-  <Quest_ItemStash.letterText>{1}  {0} จาก {2}, ส่งข้อความถึงเรา\n\nพวกเขาได้รู้ ที่พบของมีค่าที่อยู่ในที่หลบภัยอยู่บริเวณใกล้เคียง ของมีค่าประกอบด้วย:\n\n{3}\n\nแต่น่าเสียดายของมีค่านั่นไม่ได้อยู่นานมากนัก   กลุ่มอื่น ๆ จะไปเอาของมีค่าแทนใร {4} วัน ถ้าคุณไม่ได้ไปเอา\n\nของมีค่าที่ดึงดูดอันตรายจึงควรระมัดระวัง\n\n{5}</Quest_ItemStash.letterText>
+  <Quest_ItemStash.letterText>{0}, {1} แห่ง {2} แจ้งให้เราทราบว่า มีคอลเล็คชั่นของไอเท็มมีค่าอยู่ไม่ไกลจากเรา มูลค่ากว่า  {6} คอลเล็คชั่นประกอบด้วย:\n\n{3}\n\nแต่โชคไม่ดี คนอื่นๆจะเอาไอเท็มไปใน {4} วัน หากเราไม่ไปเอา\n\nโปรดระวัง - ของมีค่ามักดึงดูดอันตราย {0} กล่าวว่า {5}</Quest_ItemStash.letterText>
   
   <!-- EN: item stash quest (AI core) -->
-  <Quest_ItemStashAICore.label>TODO</Quest_ItemStashAICore.label>
+  <Quest_ItemStashAICore.label>ภารกิจที่ซ่อนสมบัติ (แก่นเอไอ)</Quest_ItemStashAICore.label>
   <!-- EN: Item stash quest -->
-  <Quest_ItemStashAICore.letterLabel>TODO</Quest_ItemStashAICore.letterLabel>
+  <Quest_ItemStashAICore.letterLabel>ภารกิจ: ที่ซ่อนสมบัติ (แก่นเอไอ)</Quest_ItemStashAICore.letterLabel>
   <!-- EN: {0}, {1} of {2}, has informed us of a collection of valuable items worth {6} not far from us. The collection consists of:\n\n{3}\n\nUnfortunately, it won't last - others will take the items in {4} days if we don't.\n\nBeware - valuables tend to attract danger. {0} says that {5}. -->
-  <Quest_ItemStashAICore.letterText>TODO</Quest_ItemStashAICore.letterText>
+  <Quest_ItemStashAICore.letterText>{0}, {1} แห่ง {2} แจ้งให้เราทราบว่า มีคอลเล็คชั่นของไอเท็มมีค่าอยู่ไม่ไกลจากเรา มูลค่ากว่า  {6} คอลเล็คชั่นประกอบด้วย:\n\n{3}\n\nแต่โชคไม่ดี คนอื่นๆจะเอาไอเท็มไปใน {4} วัน หากเราไม่ไปเอา\n\nโปรดระวัง - ของมีค่ามักดึงดูดอันตราย {0} กล่าวว่า {5}</Quest_ItemStashAICore.letterText>
   
   <!-- EN: escape ship quest -->
-  <Quest_JourneyOffer.label>คำเสนอการเดินทาง</Quest_JourneyOffer.label>
+  <Quest_JourneyOffer.label>ภารกิจยานหลบหนี</Quest_JourneyOffer.label>
   
   <!-- EN: peace talks quest -->
-  <Quest_PeaceTalks.label>เควส: การเจรจาสันติภาพ</Quest_PeaceTalks.label>
+  <Quest_PeaceTalks.label>ภารกิจเจรจาสันติภาพ</Quest_PeaceTalks.label>
   <!-- EN: Peace talks quest -->
-  <Quest_PeaceTalks.letterLabel>เควส: การเจรจาสันติภาพ</Quest_PeaceTalks.letterLabel>
+  <Quest_PeaceTalks.letterLabel>ภารกิจ: การเจรจาสันติภาพ</Quest_PeaceTalks.letterLabel>
   <!-- EN: {PAWN_nameDef}, {0} of {1}, has sent us a message. {PAWN_pronoun} wants to talk with us in a nearby location.\n\nIt could be a great opportunity to improve relations with their faction and receive gifts, but beware - a poor negotiator can cause more harm than good and may even anger them.\n\nThe offer will expire after {2} days. -->
-  <Quest_PeaceTalks.letterText>[PAWN_nameDef] {0} จาก {1} ส่งข้อความถึงเรา [PAWN_pronoun] ต้องการพบปะกับเราเพื่อพูดคุยที่สถานที่ใกล้เคียง \ n\nนี้อาจเป็นวิธีที่ยอดเยี่ยมในการปรับปรุงความสัมพันธ์กับฝ่ายของพวกเขา แต่จงระวัง - ผู้เจรจาต่อรองที่ไม่ดีอาจทำอันตรายมากกว่าสิ่งที่ดีและอาจทำให้เธอเสียใจ \ n\nข้อเสนอหมดอายุภายใน {2} วัน</Quest_PeaceTalks.letterText>
+  <Quest_PeaceTalks.letterText>{PAWN_nameDef}, {0} แห่ง {1} ส่งข้อความมาถึง {PAWN_pronoun}ต้องการพูดคุยกับเราในตำแหน่งใกล้เคียงนี้\n\nนี่อาจะเป็นโอกาศอันดีมาก ที่จะพัฒนาความสัมพันธ์กับฝักฝ่ายของพวกเขา และอาจะได้รับของขวัญ แต่โปรดระวัง - นักเจรจาไร้ฝีมือสร้างเรื่องแย่มากกว่าเรื่องดี บางครั้งกระทั่งทำให้พวกเขาโกรธ\n\nข้อเสนอนี้จะหมดอายุใน {2} วัน</Quest_PeaceTalks.letterText>
   
   <!-- EN: prisoner rescue quest -->
-  <Quest_PrisonerRescue.label>เควส: นักโทษ</Quest_PrisonerRescue.label>
+  <Quest_PrisonerRescue.label>ภารกิจช่วยเหลือนักโทษ</Quest_PrisonerRescue.label>
   <!-- EN: Prisoner rescue quest -->
-  <Quest_PrisonerRescue.letterLabel>เควส: นักโทษ</Quest_PrisonerRescue.letterLabel>
+  <Quest_PrisonerRescue.letterLabel>ภารกิจ: ช่วยเหลือนักโทษ</Quest_PrisonerRescue.letterLabel>
   <!-- EN: A prisoner being held by {0} has managed to steal a radio and call you!\n\n{PAWN_nameDef} is being held at a camp nearby under armed guard. Rescue {PAWN_objective}, and {PAWN_pronoun} will join your colony. {PAWN_pronoun} is a {1}-year-old {2}. {PAWN_pronoun} says that {3}. -->
-  <Quest_PrisonerRescue.letterText>{0} นักโทษอาจขโมยวิทยุและยิงคุณ\ n\n กำลังถูกกักขังอยู่ในค่ายใกล้เคียงโดยเจ้าหน้าที่ติดอาวุธ บันทึก [PAWN_objective] และ [PAWN_pronoun] จะเข้าร่วมอาณานิคมของคุณ [PAWN_pronoun] มีอายุ {1} ปี (2)</Quest_PrisonerRescue.letterText>
+  <Quest_PrisonerRescue.letterText>นักโทษถูกจับไว้โดย {0} หาทางขโมยวิทยุได้ และโทรเรียกมาหาคุณ!\n\n{PAWN_nameDef} ถูกจับตัวอยู่ในค่ายใกล้ๆภายใต้ยามติดอาวุธ การช่วยเหลือ{PAWN_objective} จะทำให้{PAWN_pronoun}เข้าร่วบอาณานิคมคุณ {PAWN_pronoun} เป็น{2} อายุ {1} ปี {PAWN_pronoun}กล่าวว่า {3}</Quest_PrisonerRescue.letterText>
   
   <!-- EN: trade request -->
-  <Quest_TradeRequest.label>มีคำขอคาราวาน</Quest_TradeRequest.label>
+  <Quest_TradeRequest.label>คำขอแลกเปลื่ยน</Quest_TradeRequest.label>
   
 </LanguageData>
