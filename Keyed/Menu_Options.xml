@@ -31,9 +31,9 @@
   <!-- EN: Choose language -->
   <ChooseLanguage>เลือกภาษา</ChooseLanguage>
   <!-- EN: Reset learning helper -->
-  <ResetAdaptiveTutor>รีเซ็ตผู้ช่วยฝึกหัดเล่น</ResetAdaptiveTutor>
+  <ResetAdaptiveTutor>รีเซ็ตตัวช่วยฝึกหัด</ResetAdaptiveTutor>
   <!-- EN: Tutor is reset. You will be now be re-taught all lessons from scratch. -->
-  <AdaptiveTutorIsReset>ผู้ช่วยฝึกหัดถูกรีเซ็ตแล้ว คุณจะโดนสอนบทเรียนทั้งหมดใหม่ตั้งแต่แรกเริ่ม</AdaptiveTutorIsReset>
+  <AdaptiveTutorIsReset>ตัวช่วยฝึกหัดถูกรีเซ็ตแล้ว คุณจะโดนสอนบทเรียนทั้งหมดใหม่ตั้งแต่แรกเริ่ม</AdaptiveTutorIsReset>
   <!-- EN: Run in background -->
   <RunInBackground>รันเกมในเบื้องหลัง</RunInBackground>
   <!-- EN: Development mode -->

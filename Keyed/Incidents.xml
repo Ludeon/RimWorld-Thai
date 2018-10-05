@@ -11,7 +11,7 @@
   <AnimalInsanityMultiple>คลื่นพลังจิตอะไรซักอย่างกวาดผ่านภูมิประเทศไป ชาวนิคมคุณไม่เป็นอะไร แต่ว่า...\n\nดูเหมือน {0} หลายส่วนในพื้นที่ ถูกกดดันจนเกิดบ้าคลั่ง</AnimalInsanityMultiple>
 
   <!-- EN: Blight -->
-  <LetterLabelCropBlight>โรคพืชระบาด</LetterLabelCropBlight>
+  <LetterLabelCropBlight>โรคพืช</LetterLabelCropBlight>
   <!-- EN: A colonist has noticed blight on your crops! You should cut or burn the blighted plants before the blight spreads. -->
   <LetterCropBlight>ชาวนิคมสังเกตุเห็นโรคบนพืช! คุณควรตัด หรือเผา พืชที่ติดโรคทิ้ง ก่อนที่โรคพืชจะระบาดไปทั่ว</LetterCropBlight>
 

@@ -323,7 +323,7 @@
   <LetterCatatonicMentalBreak>{0} เดือดร้อนจากการสติแตกเต็มขั้นและเข้าสู่สภาวะที่ไม่สงบ {0_pronoun}จะฟื้นฟูตัวในไม่กี่วัน</LetterCatatonicMentalBreak>
 
   <!-- EN: AI Core Offer -->
-  <LetterLabelAICoreOffer>ข้อเสนอเอไอคอร์</LetterLabelAICoreOffer>
+  <LetterLabelAICoreOffer>ข้อเสนอแก่นเอไอ</LetterLabelAICoreOffer>
   <!-- EN: {PAWN_definite} of {1} contacts you with an offer of information: the location of an AI persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested. -->
   <LetterAICoreOffer>{PAWN_definite} แห่ง {1} ติดต่อคุณพร้อมเสนอข้อมูล: ตำแหน่งของแก่นเอไอ ซึ่งคุณจะต้องใช้ได้ในการสร้างยานอวกาศ พวกเขาแจ้งให้ทราบว่าไอเท็มนี้ค่อนข้างหายาก และปกติคนที่ครอบครองมันมักจะเก็บไว้ภายใต้การคุ้มกันกันแข็งแรง\n\nติดต่อพวกเขาด้วยเครื่องควมคุมการสื่อสารถ้าคุณสนใจ</LetterAICoreOffer>
 
