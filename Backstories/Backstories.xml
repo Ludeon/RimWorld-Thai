@@ -3,65 +3,66 @@
   
   <AbandonedChild47>
     <!-- EN: abandoned child -->
-    <title>TODO</title>
+    <title>เด็กโดนทิ้ง</title>
     <!-- EN: abandoned -->
-    <titleShort>TODO</titleShort>
+    <titleShort>โดนทิ้ง</titleShort>
     <!-- EN: [PAWN_nameDef] was a quick witted, funny child. One day, [PAWN_pronoun] wandered off on [PAWN_possessive] wealthy genetic parents, and was ultimately lost in a supposedly unused ore warehouse. Due to cloning technology, [PAWN_possessive] parents decided that the time looking for [PAWN_objective] was better spent on just cloning a better son. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] นั้นเฉียบแหลมและสนุกสนาน, วันหนึ่ง[PAWN_pronoun]เดินหายออกจากพ่อแม่โดยสายเลือดของ[PAWN_pronoun]แล้วหลงทางในโกดังร้าง, ด้วยเทคโนโลยีโคลนนิ่ง พ่อแม่ของ[PAWN_pronoun]ก็รู้ว่าพวกเขาควรเอาเวลาที่เสียไปในการมองหาลูกไปสร้างลูกใหม่ที่ดีกว่า </desc>
   </AbandonedChild47>
   
   <AbandonedChild60>
     <!-- EN: abandoned child -->
-    <title>TODO</title>
+    <title>เด็กโดนทิ้ง</title>
     <!-- EN: abandoned -->
-    <titleShort>TODO</titleShort>
+    <titleShort>โดนทิ้ง</titleShort>
     <!-- EN: [PAWN_nameDef] was born sickly. Thinking that [PAWN_pronoun] would only burden the tribe, [PAWN_possessive] parents left [PAWN_objective] out in the elements. Somehow, [PAWN_pronoun] survived. -->
-    <desc>TODO</desc>
+    <desc> [PAWN_nameDef] นั้นเกิดมาพร้อมกับโรค, ด้วยความคิดที่ว่า[PAWN_pronoun]จะเป็นภาระของเผ่า พ่อแม่ของ[PAWN_pronoun]ก็ทิ้ง[PAWN_pronoun]ไว้ลำพัง กลายเป็นว่าเขายังรอด</desc>
   </AbandonedChild60>
   
   <AbandonedOrphan61>
     <!-- EN: abandoned orphan -->
-    <title>TODO</title>
+    <title>เด็กกำพร้าโดนทิ้ง</title>
     <!-- EN: orphan -->
-    <titleShort>TODO</titleShort>
+    <titleShort>กำพร้า</titleShort>
     <!-- EN: Abandoned at birth, young [PAWN_nameDef] started [PAWN_possessive] life in an orphanage.\n\nA rascal and a scoundrel, [PAWN_pronoun] became a clever troublemaker. -->
-    <desc>TODO</desc>
+    <desc>โดนทิ้งตั้งแต่ยังเล็ก, [PAWN_nameDef]น้อยได้ใช้ชิวิตอยู่ในบ้านเด็กกำพร้า\n\n. เป็นนักเลงหัวโจก. [PAWN_pronoun]ก็ได้เป็นตัวปัญหาที่หลักแหลม</desc>
   </AbandonedOrphan61>
   
   <Abductee43>
     <!-- EN: abductee -->
-    <title>TODO</title>
+    <title>ถูกลักพาตัว</title>
     <!-- EN: abductee -->
-    <titleShort>TODO</titleShort>
+    <titleShort>ถูกลักพาตัว</titleShort>
     <!-- EN: [PAWN_nameDef] was abducted at a young age and forced to do menial labor on a pirate ship. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef]ถูกลักพาตัวตั้งแต่ยังเล็ก โดนบังคับให้ใช้งานในยานโจรสลัด</desc>
   </Abductee43>
   
   <Abductee80>
     <!-- EN: abductee -->
-    <title>TODO</title>
+    <title>ถูกลักพาตัว</title>
     <!-- EN: abductee -->
-    <titleShort>TODO</titleShort>
+    <titleShort>ถูกลักพาตัว</titleShort>
     <!-- EN: [PAWN_nameDef] was abducted by xenohumans when [PAWN_pronoun] was still a baby. They experimented on [PAWN_objective] to understand his genetic structure.\n\nAs [PAWN_pronoun] grew up, [PAWN_nameDef] grew a little bit too big and strong for his captors and eventually escaped. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef]โดยลักพาตัวโดยมนุษย์ต่างดาวตั้งแต่[PAWN_pronoun]ยังเด็ก. [PAWN_pronoun]ถูกทำการทดลองเพื่อทำความเข้าใจโครงสร้างพันธุกรรมของ[PAWN_pronoun].\n\nAs เมื่อ[PAWN_pronoun]โตขึ้น, [PAWN_nameDef]นั้นตัวโตและแข็งแรงเกินกว่าที่พวกที่จับเขาไปจะรับไหวแล้วก็หนีออกมาได้.</desc>
   </Abductee80>
   
   <AcademyStudent80>
     <!-- EN: academy student  -->
-    <title>TODO</title>
+    <title>นักเรียนทหาร</title>
     <!-- EN: student  -->
-    <titleShort>TODO</titleShort>
+    <titleShort>นท.</titleShort>
     <!-- EN: [PAWN_nameDef] went to school like a good space cadet would. He was very tall and was known for his good looks.\n\nThough he worried more about his hairstyle than his grades, he still somehow passed the final exams. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef]เข้าเรียนเหมือนนักเรียนจ่าอวกาศทั่วไป. เกรดของ[PAWN_pronoun]สูงเหมือนรูปร่างของ[PAWN_pronoun]. แม้ว่า[PAWN_pronoun]ยังกังวลเกี่ยวกับทรงผมของ[PAWN_pronoun] [PAWN_pronoun]ก็ยังสอบไฟนอลผ่านมาได้</desc>
   </AcademyStudent80>
   
   <AccursedChild81>
     <!-- EN: accursed child -->
-    <title>TODO</title>
+    <title>เด็กต้องสาป</title>
     <!-- EN: cursed -->
-    <titleShort>TODO</titleShort>
+    <titleShort>ต้องสาป</titleShort>
     <!-- EN: [PAWN_nameDef] was born at the peak of a lunar eclipse. The elders declared [PAWN_objective] a child of darkness brought [PAWN_objective] under their care.\n\n[PAWN_possessive] entire childhood was spent studying the lore and rituals of [PAWN_possessive] people - until the day of calling. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef]ได้เกิดมาตอนมีจันทรุปราคา. ผู้เฒ่าได้ประกาศว่า[PAWN_objective]เป็นบุตรแห่งความมืด และรับ[PAWN_objective]มาดูแล.\n\n ในวัยเด็ก[PAWN_pronoun]ได้เรียนรู้เกี่ยวกับพิธีและตำนานของเผ่าของ[PAWN_pronoun]- จนเขาเติบโต.</desc>
+    <!-- คือจะใช้คำว่า "ราหูอมจันทร์" เพื่อเพิ่มความซวยให้กับเด็กเพราะคำมันอิมแพคมากว่าจันทรุปราคาแต่ในโลกนี้ไม่มีราหู ฮรืออออ -->
   </AccursedChild81>
   
   <AceFighterPilot38>
