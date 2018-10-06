@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: ศพอัลปาก้า -->
+  <!-- EN: ศพอัลปากา -->
   <Corpse_Alpaca.label>ซากอัลปาก้า</Corpse_Alpaca.label>
   
-  <!-- EN: ศพอัลฟาบีเวอร์ -->
-  <Corpse_Alphabeaver.label>ซากอัลฟาบีเวอร์</Corpse_Alphabeaver.label>
+  <!-- EN: ศพอัลฟ่าบีเวอร์ -->
+  <Corpse_Alphabeaver.label>ซากอัลฟ่าบีเวอร์</Corpse_Alphabeaver.label>
   
   <!-- EN: ศพหมีกริซลี -->
   <Corpse_Bear_Grizzly.label>ซากหมีกริซลี</Corpse_Bear_Grizzly.label>
   
-  <!-- EN: ศพหมีขั้วโลก -->
-  <Corpse_Bear_Polar.label>ซากหมีขั้วโลก</Corpse_Bear_Polar.label>
+  <!-- EN: ศพหมีขาว -->
+  <Corpse_Bear_Polar.label>ซากหมีขาว</Corpse_Bear_Polar.label>
   
-  <!-- EN: ศพ บูมมาโลบ -->
-  <Corpse_Boomalope.label>ซากบูมมาโลบ</Corpse_Boomalope.label>
+  <!-- EN: ศพบูมมาลูบ -->
+  <Corpse_Boomalope.label>ซากบูมมาลูบ</Corpse_Boomalope.label>
   
-  <!-- EN: ศพหนูบูมแรต -->
-  <Corpse_Boomrat.label>ซากบูมแรต</Corpse_Boomrat.label>
+  <!-- EN: ศพบูมแรท -->
+  <Corpse_Boomrat.label>ซากบูมแรท</Corpse_Boomrat.label>
   
   <!-- EN: ศพคาปิบารา -->
   <Corpse_Capybara.label>ซากคาปิบารา</Corpse_Capybara.label>
   
-  <!-- EN: ศพกวางเรนเดียร์ -->
-  <Corpse_Caribou.label>ซากกวางเรนเดียร์</Corpse_Caribou.label>
+  <!-- EN: ศพกวางแคริบู -->
+  <Corpse_Caribou.label>ซากกวางแคริบู</Corpse_Caribou.label>
   
   <!-- EN: ศพนกแคสโซแวรี -->
   <Corpse_Cassowary.label>ซากนกแคสโซแวรี</Corpse_Cassowary.label>
@@ -40,8 +40,8 @@
   <!-- EN: ศพงูเห่า -->
   <Corpse_Cobra.label>ซากงูเห่า</Corpse_Cobra.label>
   
-  <!-- EN: ศพเสือภูเขา -->
-  <Corpse_Cougar.label>ซากเเสือภูเขา</Corpse_Cougar.label>
+  <!-- EN: ศพเสือคูการ์ -->
+  <Corpse_Cougar.label>ซากเสือคูการ์</Corpse_Cougar.label>
   
   <!-- EN: ศพวัว -->
   <Corpse_Cow.label>ซากวัว</Corpse_Cow.label>
@@ -49,8 +49,8 @@
   <!-- EN: ศพกวาง -->
   <Corpse_Deer.label>ซากกวาง</Corpse_Deer.label>
   
-  <!-- EN: ศพอูฐ -->
-  <Corpse_Dromedary.label>ซากอูฐ</Corpse_Dromedary.label>
+  <!-- EN: ศพอูฐหนอกเดียว -->
+  <Corpse_Dromedary.label>ซากอูฐหนอกเดียว</Corpse_Dromedary.label>
   
   <!-- EN: ศพช้าง -->
   <Corpse_Elephant.label>ซากช้าง</Corpse_Elephant.label>
@@ -61,43 +61,43 @@
   <!-- EN: ศพนกอีมู -->
   <Corpse_Emu.label>ซากนกอีมู</Corpse_Emu.label>
   
-  <!-- EN: ศพหมาจิ้งจอกหิมะ -->
-  <Corpse_Fox_Arctic.label>ซากหมาจิ้งจอกหิมะ</Corpse_Fox_Arctic.label>
+  <!-- EN: ศพจิ้งจอกหิมะ -->
+  <Corpse_Fox_Arctic.label>ซากจิ้งจอกหิมะ</Corpse_Fox_Arctic.label>
   
-  <!-- EN: ศพหมาจิ้งจอก -->
-  <Corpse_Fox_Fennec.label>ซากหมาจิ้งจอก</Corpse_Fox_Fennec.label>
+  <!-- EN: ศพจิ้งจอกทะเลทราย -->
+  <Corpse_Fox_Fennec.label>ซากจิ้งจอกทะเลทราย</Corpse_Fox_Fennec.label>
   
-  <!-- EN: ศพหมาจิ้งจอกแดง -->
-  <Corpse_Fox_Red.label>ซากหมาจิ้งจอกแดง</Corpse_Fox_Red.label>
+  <!-- EN: ศพจิ้งจอกแดง -->
+  <Corpse_Fox_Red.label>ซากจิ้งจอกแดง</Corpse_Fox_Red.label>
   
   <!-- EN: ศพกาเซลล์ -->
   <Corpse_Gazelle.label>ซากกาเซลล์</Corpse_Gazelle.label>
   
-  <!-- EN: ศพกระต่าย -->
-  <Corpse_Hare.label>ซากกระต่าย</Corpse_Hare.label>
+  <!-- EN: ศพกระต่ายป่า -->
+  <Corpse_Hare.label>ซากกระต่ายป่า</Corpse_Hare.label>
   
   <!-- EN: ศพมนุษย์ -->
   <Corpse_Human.label>ซากมนุษย์</Corpse_Human.label>
   
-  <!-- EN: ศพหมาไซบีเรียนฮัสกี -->
-  <Corpse_Husky.label>ซากหมาไซบีเรียนฮัสกี</Corpse_Husky.label>
+  <!-- EN: ศพหมาฮัสกี้ -->
+  <Corpse_Husky.label>ซากหมาฮัสกี้</Corpse_Husky.label>
   
   <!-- EN: ศพแพะภูเขา -->
   <Corpse_Ibex.label>ซากแพะภูเขา</Corpse_Ibex.label>
   
-  <!-- EN: ศพอีกัวน่า -->
+  <!-- EN: ศพอิกัวน่า -->
   <Corpse_Iguana.label>ซากอิกัวน่า</Corpse_Iguana.label>
   
-  <!-- EN: ศพหมาแลบราดอร์ริทรีฟเวอร์ -->
-  <Corpse_LabradorRetriever.label>ซากหมาแลบราดอร์ริทรีฟเวอร์</Corpse_LabradorRetriever.label>
+  <!-- EN: ศพหมาลาบราดอร์ รีทรีฟเวอร์ -->
+  <Corpse_LabradorRetriever.label>ซากหมาลาบราดอร์ รีทรีฟเวอร์</Corpse_LabradorRetriever.label>
   
   <!-- EN: ศพแมวป่า -->
   <Corpse_Lynx.label>ซากแมวป่า</Corpse_Lynx.label>
   
-  <!-- EN: ศพตะขาบจักรกล -->
-  <Corpse_Mech_Centipede.label>ซากตะขาบจักรกล</Corpse_Mech_Centipede.label>
+  <!-- EN: ศพตะขาบกล -->
+  <Corpse_Mech_Centipede.label>ซากตะขาบกล</Corpse_Mech_Centipede.label>
   
-  <!-- EN: ศพไซเธอร์จักรกล -->
+  <!-- EN: ศพไซเธอร์ -->
   <Corpse_Mech_Scyther.label>ซากไซเธอร์</Corpse_Mech_Scyther.label>
   
   <!-- EN: ศพด้วงยักษ์ -->
@@ -109,7 +109,7 @@
   <!-- EN: ศพลิง -->
   <Corpse_Monkey.label>ซากลิง</Corpse_Monkey.label>
   
-  <!-- EN: ศพMuffalo -->
+  <!-- EN: ศพมัฟฟาโล่ -->
   <Corpse_Muffalo.label>ซากมัฟฟาโล่</Corpse_Muffalo.label>
   
   <!-- EN: ศพนกกระจอกเทศ -->
@@ -142,13 +142,13 @@
   <!-- EN: ศพธรัมโบ -->
   <Corpse_Thrumbo.label>ซากธรัมโบ</Corpse_Thrumbo.label>
   
-  <!-- EN: ศพเต่าบก -->
-  <Corpse_Tortoise.label>ซากเต่าบก</Corpse_Tortoise.label>
+  <!-- EN: ศพเต่า -->
+  <Corpse_Tortoise.label>ซากเต่า</Corpse_Tortoise.label>
   
   <!-- EN: ศพไก่งวง -->
   <Corpse_Turkey.label>ซากไก่งวง</Corpse_Turkey.label>
   
-  <!-- EN: ศพหมาวาร์ก -->
+  <!-- EN: ศพวาร์ก -->
   <Corpse_Warg.label>ซากวาร์ก</Corpse_Warg.label>
   
   <!-- EN: ศพหมูป่า -->
@@ -160,32 +160,32 @@
   <!-- EN: ศพหมาป่า -->
   <Corpse_Wolf_Timber.label>ซากหมาป่า</Corpse_Wolf_Timber.label>
   
-  <!-- EN: ศพหมายอร์กเชอร์เทร์เรียร์ -->
-  <Corpse_YorkshireTerrier.label>ซากหมายอร์กเชอร์เทร์เรียร์</Corpse_YorkshireTerrier.label>
+  <!-- EN: ศพหมายอร์กเชียร์ เทอร์เรียร์ -->
+  <Corpse_YorkshireTerrier.label>ซากหมายอร์กเชียร์ เทอร์เรียร์</Corpse_YorkshireTerrier.label>
   
-  <!-- EN: เนื้อ อัลปาก้า -->
-  <Meat_Alpaca.label>เนื้ออัลปาก้า</Meat_Alpaca.label>
+  <!-- EN: เนื้อ อัลปากา -->
+  <Meat_Alpaca.label>เนื้ออัลปากา</Meat_Alpaca.label>
   
-  <!-- EN: เนื้อ อัลฟาบีเวอร์ -->
-  <Meat_Alphabeaver.label>เนื้ออัลฟาบีเวอร์</Meat_Alphabeaver.label>
+  <!-- EN: เนื้อ อัลฟ่าบีเวอร์ -->
+  <Meat_Alphabeaver.label>เนื้ออัลฟ่าบีเวอร์</Meat_Alphabeaver.label>
   
-  <!-- EN: bear meat -->
-  <Meat_Bear_Grizzly.label>เนื้อหมีกริซลี</Meat_Bear_Grizzly.label>
+  <!-- EN: เนื้อหมี -->
+  <Meat_Bear_Grizzly.label>เนื้อหมี</Meat_Bear_Grizzly.label>
   
-  <!-- EN: เนื้อ  บูมมาโลบ -->
-  <Meat_Boomalope.label>เนื้อบูมมาโลบ</Meat_Boomalope.label>
+  <!-- EN: เนื้อ บูมมาลูบ -->
+  <Meat_Boomalope.label>เนื้อบูมมาลูบ</Meat_Boomalope.label>
   
-  <!-- EN: เนื้อ หนูบูมแรต -->
-  <Meat_Boomrat.label>เนื้อบูมแรต</Meat_Boomrat.label>
+  <!-- EN: เนื้อ บูมแรท -->
+  <Meat_Boomrat.label>เนื้อบูมแรท</Meat_Boomrat.label>
   
   <!-- EN: เนื้อ คาปิบารา -->
   <Meat_Capybara.label>เนื้อคาปิบารา</Meat_Capybara.label>
   
-  <!-- EN: เนื้อ กวางเรนเดียร์ -->
-  <Meat_Caribou.label>เนื้อกวางเรนเดียร์</Meat_Caribou.label>
+  <!-- EN: เนื้อ กวางแคริบู -->
+  <Meat_Caribou.label>เนื้อกวางแคริบู</Meat_Caribou.label>
   
-  <!-- EN: bird meat -->
-  <Meat_Cassowary.label>เนื่อนกแคสโซแวรี</Meat_Cassowary.label>
+  <!-- EN: เนื้อนก -->
+  <Meat_Cassowary.label>เนื่อนก</Meat_Cassowary.label>
   
   <!-- EN: เนื้อ แมว -->
   <Meat_Cat.label>เนื้อแมว</Meat_Cat.label>
@@ -196,20 +196,20 @@
   <!-- EN: เนื้อ ชินชิลล่า -->
   <Meat_Chinchilla.label>เนื้อชินชิลล่า</Meat_Chinchilla.label>
   
-  <!-- EN: cobraflesh -->
+  <!-- EN: เนื้องูเห่า -->
   <Meat_Cobra.label>เนื้องูเห่า</Meat_Cobra.label>
   
-  <!-- EN: เนื้อ เสือภูเขา -->
+  <!-- EN: เนื้อ เสือคูการ์ -->
   <Meat_Cougar.label>เนื้อเสือภูเขา</Meat_Cougar.label>
   
-  <!-- EN: beef -->
+  <!-- EN: เนื้อวัว -->
   <Meat_Cow.label>เนื้อวัว</Meat_Cow.label>
   
-  <!-- EN: venison -->
+  <!-- EN: เนื้อกวาง -->
   <Meat_Deer.label>เนื้อกวาง</Meat_Deer.label>
   
-  <!-- EN: เนื้อ อูฐ -->
-  <Meat_Dromedary.label>เนื้ออูฐ</Meat_Dromedary.label>
+  <!-- EN: เนื้อ อูฐหนอกเดียว -->
+  <Meat_Dromedary.label>เนื้ออูฐหนอกเดียว</Meat_Dromedary.label>
   
   <!-- EN: เนื้อ ช้าง -->
   <Meat_Elephant.label>เนื้อช้าง</Meat_Elephant.label>
@@ -217,46 +217,46 @@
   <!-- EN: เนื้อ กวางเอลก์ -->
   <Meat_Elk.label>เนื้อกวางเอลก์</Meat_Elk.label>
   
-  <!-- EN: foxmeat -->
+  <!-- EN: เนื้อจิ้งจอก -->
   <Meat_Fox_Fennec.label>เนื้อหมาจิ้งจอก</Meat_Fox_Fennec.label>
   
   <!-- EN: เนื้อ กาเซลล์ -->
   <Meat_Gazelle.label>เนื้อกาเซลล์</Meat_Gazelle.label>
   
-  <!-- EN: เนื้อ กระต่าย -->
-  <Meat_Hare.label>เนื้อกระต่าย</Meat_Hare.label>
+  <!-- EN: เนื้อ กระต่ายป่า -->
+  <Meat_Hare.label>เนื้อกระต่ายป่า</Meat_Hare.label>
   
   <!-- EN: เนื้อ มนุษย์ -->
   <Meat_Human.label>เนื้อมนุษย์</Meat_Human.label>
   
-  <!-- EN: เนื้อ หมาไซบีเรียนฮัสกี -->
-  <Meat_Husky.label>เนื้อหมาไซบีเรียนฮัสกี</Meat_Husky.label>
+  <!-- EN: เนื้อ หมาฮัสกี้ -->
+  <Meat_Husky.label>เนื้อหมาฮัสกี้</Meat_Husky.label>
   
   <!-- EN: เนื้อ แพะภูเขา -->
   <Meat_Ibex.label>เนื้อแพะภูเขา</Meat_Ibex.label>
   
-  <!-- EN: เนื้อ อีกัวน่า -->
-  <Meat_Iguana.label>เนื้อ อีกัวน่า</Meat_Iguana.label>
+  <!-- EN: เนื้อ อิกัวน่า -->
+  <Meat_Iguana.label>เนื้ออิกัวน่า</Meat_Iguana.label>
   
-  <!-- EN: เนื้อ หมาแลบราดอร์ริทรีฟเวอร์ -->
-  <Meat_LabradorRetriever.label>เนื้อหมาแลบราดอร์ริทรีฟเวอร์</Meat_LabradorRetriever.label>
+  <!-- EN: เนื้อ หมาลาบราดอร์ รีทรีฟเวอร์ -->
+  <Meat_LabradorRetriever.label>เนื้อหมาลาบราดอร์ รีทรีฟเวอร์</Meat_LabradorRetriever.label>
   
   <!-- EN: เนื้อ แมวป่า -->
   <Meat_Lynx.label>เนื้อแมวป่า</Meat_Lynx.label>
   
-  <!-- EN: insect meat -->
-  <Meat_Megaspider.label>เนื้อแมงมุมยักษ์</Meat_Megaspider.label>
+  <!-- EN: เนื้อแมลง -->
+  <Meat_Megaspider.label>เนื้อแมลง</Meat_Megaspider.label>
   
   <!-- EN: เนื้อ ลิง -->
   <Meat_Monkey.label>เนื้อลิง</Meat_Monkey.label>
   
-  <!-- EN: เนื้อ Muffalo -->
-  <Meat_Muffalo.label>เนื้อ Muffalo</Meat_Muffalo.label>
+  <!-- EN: เนื้อ มัฟฟาโล่ -->
+  <Meat_Muffalo.label>เนื้อมัฟฟาโล่</Meat_Muffalo.label>
   
   <!-- EN: เนื้อ เสือดำ -->
   <Meat_Panther.label>เนื้อเสือดำ</Meat_Panther.label>
   
-  <!-- EN: pork -->
+  <!-- EN: เนื้อหมู -->
   <Meat_Pig.label>เนื้อหมู</Meat_Pig.label>
   
   <!-- EN: เนื้อ แรคคูน -->
@@ -274,19 +274,19 @@
   <!-- EN: เนื้อ ธรัมโบ -->
   <Meat_Thrumbo.label>เนื้อธรัมโบ</Meat_Thrumbo.label>
   
-  <!-- EN: เนื้อ เต่าบก -->
-  <Meat_Tortoise.label>เนื้อเต่าบก</Meat_Tortoise.label>
+  <!-- EN: เนื้อ เต่า -->
+  <Meat_Tortoise.label>เนื้อเต่า</Meat_Tortoise.label>
   
   <!-- EN: เนื้อ ไก่งวง -->
   <Meat_Turkey.label>เนื้อไก่งวง</Meat_Turkey.label>
   
-  <!-- EN: เนื้อ หมาวาร์ก -->
-  <Meat_Warg.label>เนื้อหมาวาร์ก</Meat_Warg.label>
+  <!-- EN: เนื้อ วาร์ก -->
+  <Meat_Warg.label>เนื้อวาร์ก</Meat_Warg.label>
   
-  <!-- EN: wolfmeat -->
+  <!-- EN: เนื้อหมาป่า -->
   <Meat_Wolf_Timber.label>เนื้อหมาป่า</Meat_Wolf_Timber.label>
   
-  <!-- EN: เนื้อ หมายอร์กเชอร์เทร์เรียร์ -->
-  <Meat_YorkshireTerrier.label>เนื้อหมายอร์กเชอร์เทร์เรียร์</Meat_YorkshireTerrier.label>
+  <!-- EN: เนื้อ หมายอร์กเชียร์ เทอร์เรียร์ -->
+  <Meat_YorkshireTerrier.label>เนื้อหมายอร์กเชียร์ เทอร์เรียร์</Meat_YorkshireTerrier.label>
   
 </LanguageData>

@@ -2,32 +2,32 @@
 <LanguageData>
   
   <!-- EN: centipede -->
-  <Mech_Centipede.label>ตะขาบจักรกล</Mech_Centipede.label>
+  <Mech_Centipede.label>ตะขาบกล</Mech_Centipede.label>
   <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carpace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
-  <Mech_Centipede.description>TODO</Mech_Centipede.description>
+  <Mech_Centipede.description>เมคานอยด์ชนิดใช้รบหนัก เคลื่อนที่ด้วยการร่อนไปบนขาเล็กๆจำนวนมาก จากพลังการยิงบวกกระดองที่หนาทำให้มีประสิทธิผลมาก ต่อการปะทะแนวป้องกันคงที่ที่กระจุกตัวกันอยู่ - พวกมันค่อนข้างอ่อนแอต่อยุทธวิธี ประเภทสู้พลางหนีพลาง</Mech_Centipede.description>
   <!-- EN: head -->
-  <Mech_Centipede.tools.head.label>TODO</Mech_Centipede.tools.head.label>
+  <Mech_Centipede.tools.head.label>หัว</Mech_Centipede.tools.head.label>
   
   <!-- EN: lancer -->
-  <Mech_Lancer.label>TODO</Mech_Lancer.label>
+  <Mech_Lancer.label>แลนเซอร์</Mech_Lancer.label>
   <!-- EN: A human-sized combat mechanoid with huge optical sensors on its face for aiming weapons at long range. While effective at distance, it is weaker in melee combat. Veterans of mechanoid wars know that often, the safest thing to do against a lancer is to charge. -->
-  <Mech_Lancer.description>TODO</Mech_Lancer.description>
+  <Mech_Lancer.description>เมคานอยด์รบขนาดเท่ามนุษย์ พร้อมเซนเซอร์รับภาพมหึมาบนหน้าของมัน ใช้ในการเล็งอาวุธระยะไกล ในขณะที่ประสิทธิภาพสูงมากในระยะไกล ทำให้มีจุดอ่อนที่การสู้ระยะประชิด ทหารผ่านศึกในสงครามเมคานอยด์รู้ดีกว่า บ่อยครั้ง วิธีที่ปลอดภัยที่สุดในการสู้กับแลนเซอร์ คือชาร์จเข้าใส่มัน</Mech_Lancer.description>
   <!-- EN: left fist -->
-  <Mech_Lancer.tools.left_fist.label>TODO</Mech_Lancer.tools.left_fist.label>
+  <Mech_Lancer.tools.left_fist.label>หมัดซ้าย</Mech_Lancer.tools.left_fist.label>
   <!-- EN: right fist -->
-  <Mech_Lancer.tools.right_fist.label>TODO</Mech_Lancer.tools.right_fist.label>
+  <Mech_Lancer.tools.right_fist.label>หมัดขวา</Mech_Lancer.tools.right_fist.label>
   <!-- EN: head -->
-  <Mech_Lancer.tools.head.label>TODO</Mech_Lancer.tools.head.label>
+  <Mech_Lancer.tools.head.label>หัว</Mech_Lancer.tools.head.label>
   
   <!-- EN: scyther -->
-  <Mech_Scyther.label>ไซเธอร์จักรกล</Mech_Scyther.label>
+  <Mech_Scyther.label>ไซเธอร์</Mech_Scyther.label>
   <!-- EN: Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but their mostly use two arm blades to lop off limbs or gut their victims alive. -->
-  <Mech_Scyther.description>TODO</Mech_Scyther.description>
+  <Mech_Scyther.description>สูงเรียว เร็ว เมคานอยด์รบขนาดเท่ามนุษย์ ออกแบบมาให้พุ่งเข้าประชิดและสู้ระยะใกล้ ร่างกายพวกมันปกคลุมไปด้วยหนามแหลมและใบมีด แต่ส่วนที่มันใช้บ่อยสุดคือ ใบมีดบนสองแขน ซึ่งเพียงพอต่อการตัดแขนขา หรือขว้านใส้เหยื่อทั้งเป็น</Mech_Scyther.description>
   <!-- EN: left blade -->
-  <Mech_Scyther.tools.left_blade.label>TODO</Mech_Scyther.tools.left_blade.label>
+  <Mech_Scyther.tools.left_blade.label>ใบมีดซ้าย</Mech_Scyther.tools.left_blade.label>
   <!-- EN: right blade -->
-  <Mech_Scyther.tools.right_blade.label>TODO</Mech_Scyther.tools.right_blade.label>
+  <Mech_Scyther.tools.right_blade.label>ใบมีดขวา</Mech_Scyther.tools.right_blade.label>
   <!-- EN: head -->
-  <Mech_Scyther.tools.head.label>TODO</Mech_Scyther.tools.head.label>
+  <Mech_Scyther.tools.head.label>หัว</Mech_Scyther.tools.head.label>
   
 </LanguageData>

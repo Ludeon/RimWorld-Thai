@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: hare -->
-  <Hare.label>กระต่าย</Hare.label>
+  <Hare.label>กระต่ายป่า</Hare.label>
   <!-- EN: This small, solitary herbivore can swiftly hop away from danger. -->
-  <Hare.description>TODO</Hare.description>
+  <Hare.description>สัตว์กินพืชผู้รักสันโดษนี้ สามารถกระโดดหลบจากภัยร้ายอย่างว่องไว</Hare.description>
   <!-- EN: head -->
-  <Hare.tools.head.label>TODO</Hare.tools.head.label>
+  <Hare.tools.head.label>หัว</Hare.tools.head.label>
   
   <!-- EN: snowhare -->
   <Snowhare.label>กระต่ายหิมะ</Snowhare.label>
   <!-- EN: This hardy animal survives the brutal winters of its homelands by burrowing through snow to find edible plants. -->
-  <Snowhare.description>TODO</Snowhare.description>
+  <Snowhare.description>สัตว์นี้รอดชีวิตในหิมะหนาวเหน็บบ้านของมันได้ ด้วยการขุดโพรงทะลุหิมะลงไปหาพืชกินได้</Snowhare.description>
   <!-- EN: head -->
-  <Snowhare.tools.head.label>TODO</Snowhare.tools.head.label>
+  <Snowhare.tools.head.label>หัว</Snowhare.tools.head.label>
   
 </LanguageData>

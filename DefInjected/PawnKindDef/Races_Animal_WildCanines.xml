@@ -2,31 +2,31 @@
 <LanguageData>
   
   <!-- EN: arctic fox -->
-  <Fox_Arctic.label>หมาจิ้งจอกหิมะ</Fox_Arctic.label>
+  <Fox_Arctic.label>จิ้งจอกหิมะ</Fox_Arctic.label>
   <!-- EN: arctic foxes -->
-  <Fox_Arctic.labelPlural>หมาจิ้งจอกหิมะ</Fox_Arctic.labelPlural>
+  <Fox_Arctic.labelPlural>จิ้งจอกหิมะ</Fox_Arctic.labelPlural>
   <!-- EN: arctic fox puppy -->
-  <Fox_Arctic.lifeStages.arctic_fox_puppy.label>ลูกหมาจิ้งจอกหิมะ</Fox_Arctic.lifeStages.arctic_fox_puppy.label>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.label>ลูกจิ้งจอกหิมะ</Fox_Arctic.lifeStages.arctic_fox_puppy.label>
   <!-- EN: arctic fox puppies -->
-  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>ลูกหมาจิ้งจอกหิมะ</Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>ลูกจิ้งจอกหิมะ</Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>
   
   <!-- EN: fennec fox -->
-  <Fox_Fennec.label>หมาจิ้งจอกทะเลทราย</Fox_Fennec.label>
+  <Fox_Fennec.label>จิ้งจอกทะเลทราย</Fox_Fennec.label>
   <!-- EN: fennec foxes -->
-  <Fox_Fennec.labelPlural>หมาจิ้งจอกทะเลทราย</Fox_Fennec.labelPlural>
+  <Fox_Fennec.labelPlural>จิ้งจอกทะเลทราย</Fox_Fennec.labelPlural>
   <!-- EN: fennec fox puppy -->
-  <Fox_Fennec.lifeStages.fennec_fox_puppy.label>ลูกหมาจิ้งจอกทะเลทราย</Fox_Fennec.lifeStages.fennec_fox_puppy.label>
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.label>ลูกจิ้งจอกทะเลทราย</Fox_Fennec.lifeStages.fennec_fox_puppy.label>
   <!-- EN: fennec fox puppies -->
-  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>ลูกหมาจิ้งจอกทะเลทราย</Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>ลูกจิ้งจอกทะเลทราย</Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>
   
   <!-- EN: red fox -->
-  <Fox_Red.label>หมาจิ้งจอกแดง</Fox_Red.label>
+  <Fox_Red.label>จิ้งจอกแดง</Fox_Red.label>
   <!-- EN: red foxes -->
-  <Fox_Red.labelPlural>หมาจิ้งจอกแดง</Fox_Red.labelPlural>
+  <Fox_Red.labelPlural>จิ้งจอกแดง</Fox_Red.labelPlural>
   <!-- EN: red fox puppy -->
-  <Fox_Red.lifeStages.red_fox_puppy.label>ลูกหมาจิ้งจอกแดง</Fox_Red.lifeStages.red_fox_puppy.label>
+  <Fox_Red.lifeStages.red_fox_puppy.label>ลูกจิ้งจอกแดง</Fox_Red.lifeStages.red_fox_puppy.label>
   <!-- EN: red fox puppies -->
-  <Fox_Red.lifeStages.red_fox_puppy.labelPlural>ลูกหมาจิ้งจอกแดง</Fox_Red.lifeStages.red_fox_puppy.labelPlural>
+  <Fox_Red.lifeStages.red_fox_puppy.labelPlural>ลูกจิ้งจอกแดง</Fox_Red.lifeStages.red_fox_puppy.labelPlural>
   
   <!-- EN: warg -->
   <Warg.label>วาร์ก </Warg.label>

@@ -2,36 +2,36 @@
 <LanguageData>
   
   <!-- EN: boomalope -->
-  <Boomalope.label> บูมมาโลบ</Boomalope.label>
+  <Boomalope.label>บูมมาลูบ</Boomalope.label>
   <!-- EN: Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
   <Boomalope.description>TODO</Boomalope.description>
   <!-- EN: head -->
-  <Boomalope.tools.head.label>TODO</Boomalope.tools.head.label>
+  <Boomalope.tools.head.label>หัว</Boomalope.tools.head.label>
   <!-- EN: left hoof -->
-  <Boomalope.tools.left_hoof.label>TODO</Boomalope.tools.left_hoof.label>
+  <Boomalope.tools.left_hoof.label>กีบซ้าย</Boomalope.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Boomalope.tools.right_hoof.label>TODO</Boomalope.tools.right_hoof.label>
+  <Boomalope.tools.right_hoof.label>กีบขวา</Boomalope.tools.right_hoof.label>
   
   <!-- EN: cobra -->
   <Cobra.label>งูเห่า</Cobra.label>
   <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
   <Cobra.description>TODO</Cobra.description>
   <!-- EN: cobraflesh -->
-  <Cobra.race.meatLabel>TODO</Cobra.race.meatLabel>
+  <Cobra.race.meatLabel>เนื้องูเห่า</Cobra.race.meatLabel>
   <!-- EN: venom-fangs -->
-  <Cobra.tools.venomfangs.label>TODO</Cobra.tools.venomfangs.label>
+  <Cobra.tools.venomfangs.label>เขี้ยวพิษ</Cobra.tools.venomfangs.label>
   <!-- EN: head -->
-  <Cobra.tools.head.label>TODO</Cobra.tools.head.label>
+  <Cobra.tools.head.label>หัว</Cobra.tools.head.label>
   
   <!-- EN: monkey -->
   <Monkey.label>ลิง</Monkey.label>
   <!-- EN: A small primate, the monkey can use its curly tail to grab on to branches, leaving its hands free to do other things. Monkeys are selfish but clever, and can be trained to carry out fairly complex tasks. -->
   <Monkey.description>TODO</Monkey.description>
   <!-- EN: left fist -->
-  <Monkey.tools.left_fist.label>TODO</Monkey.tools.left_fist.label>
+  <Monkey.tools.left_fist.label>หมัดซ้าย</Monkey.tools.left_fist.label>
   <!-- EN: right fist -->
-  <Monkey.tools.right_fist.label>TODO</Monkey.tools.right_fist.label>
+  <Monkey.tools.right_fist.label>หมัดขวา</Monkey.tools.right_fist.label>
   <!-- EN: head -->
-  <Monkey.tools.head.label>TODO</Monkey.tools.head.label>
+  <Monkey.tools.head.label>หัว</Monkey.tools.head.label>
   
 </LanguageData>
