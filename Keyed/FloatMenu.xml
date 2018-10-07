@@ -190,7 +190,7 @@
   <!-- EN: Cannot wear {1_label} -->
   <CannotWear>ไม่สามารถใส่ {1_label} ได้</CannotWear>
   <!-- EN: missing body parts -->
-  <CannotWearBecauseOfMissingBodyParts>ส่วนของร่างกายขาดหาย</CannotWearBecauseOfMissingBodyParts>
+  <CannotWearBecauseOfMissingBodyParts>อวัยวะขาดหาย</CannotWearBecauseOfMissingBodyParts>
   
   <!-- EN: Cannot pick up {1_label} -->
   <CannotPickUp>ไม่สามารถหยิบ {1_label}</CannotPickUp>
@@ -367,7 +367,7 @@
   <!-- EN: The contents will be lost -->
   <TransportPodsContentsWillBeLost>จะสูญเสียสิ่งของภายใน</TransportPodsContentsWillBeLost>
   <!-- EN: Form caravan here -->
-  <FormCaravanHere>จัดตั้งกองคาราวานที่นี่</FormCaravanHere>
+  <FormCaravanHere>ตั้งกองคาราวานที่นี่</FormCaravanHere>
   <!-- EN: Give to {0} -->
   <GiveToCaravan>ให้กับ {0}</GiveToCaravan>
   <!-- EN: Give as a gift to {0} ({1}) -->

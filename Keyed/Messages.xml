@@ -2,124 +2,124 @@
 <LanguageData>
 
   <!-- EN: Sieging {0} from {1} are assaulting the colony. -->
-  <MessageSiegersAssaulting>การล้อม {0} จาก {1} กำลังทำร้ายอาณานิคม</MessageSiegersAssaulting>
+  <MessageSiegersAssaulting>หน่วยปิดล้อม {0} จาก {1} จู่โจมอาณานิคม</MessageSiegersAssaulting>
 
   <!-- EN: {0} from {1} are beginning their assault. -->
-  <MessageRaidersBeginningAssault>{0} จาก {1} กำลังเริ่มโจมตี</MessageRaidersBeginningAssault>
+  <MessageRaidersBeginningAssault>{0} จาก {1} เริ่มการจู่โจม</MessageRaidersBeginningAssault>
   <!-- EN: {0} from {1} have detected you and begun their assault early. -->
-  <MessageRaidersDetectedEarlyAssault>{0} จาก {1} ตรวจพบคุณและเริ่มทำการโจมตีในช่วงต้น</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} จาก {1} ตรวจพบคุณและเริ่มจู่โจมก่อนกำหนด</MessageRaidersDetectedEarlyAssault>
   <!-- EN: {0} from {1} have decided to kidnap who they can and leave. -->
-  <MessageRaidersKidnapping>{0} จาก {1} ได้ตัดสินใจที่จะลักพาตัวและออกเดินทาง</MessageRaidersKidnapping>
+  <MessageRaidersKidnapping>{0} จาก {1} ตัดสินใจจะลักพาตัวใครก็ตามเท่าที่สามารถและจากไป</MessageRaidersKidnapping>
   <!-- EN: {0} from {1} have decided to steal what they can and leave. -->
-  <MessageRaidersStealing>{0} จาก {1} ได้ตัดสินใจที่จะขโมยสิ่งของและออกเดินทาง</MessageRaidersStealing>
+  <MessageRaidersStealing>{0} จาก {1} ตัดสินใจจะขโมยอะไรก็ตามเท่าที่สามารถและจากไป</MessageRaidersStealing>
 
   <!-- EN: {0} from {1} are leaving. -->
-  <MessageRaidersLeaving>{0} จาก {1} กำลังจะออกเดินทาง</MessageRaidersLeaving>
+  <MessageRaidersLeaving>{0} จาก {1} กำลังจากไป</MessageRaidersLeaving>
   <!-- EN: {0} from {1} have given up and are leaving. -->
-  <MessageRaidersGivenUpLeaving>{0} จาก {1} ลุกขึ้นและออกเดินทาง</MessageRaidersGivenUpLeaving>
+  <MessageRaidersGivenUpLeaving>{0} จาก {1} ยอมแพ้และจากไป</MessageRaidersGivenUpLeaving>
   <!-- EN: {0} from {1} are satisfied with the damage done and are leaving. -->
-  <MessageRaidersSatisfiedLeaving>{0} จาก {1} พอใจกับความเสียหายที่เกิดขึ้นและกำลังจะออกเดินทาง</MessageRaidersSatisfiedLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} จาก {1} พอใจกับความเสียหายที่เกิดขึ้นและจากไป</MessageRaidersSatisfiedLeaving>
 
   <!-- EN: {0} from {1} are fleeing. -->
   <MessageFightersFleeing>{0} จาก {1} กำลังหลบหนี</MessageFightersFleeing>
   <!-- EN: Friendly {0} from {1} are leaving. -->
-  <MessageFriendlyFightersLeaving>เป็นมิตร {0} จาก {1} กำลังจะออกเดินทาง</MessageFriendlyFightersLeaving>
+  <MessageFriendlyFightersLeaving>มิตร {0} จาก {1} กำลังจากไป</MessageFriendlyFightersLeaving>
 
   <!-- EN: {0} from {1} are taking a wounded guest. -->
-  <MessageVisitorsTakingWounded>{0} จาก {1} กำลังรับผู้บาดเจ็บ</MessageVisitorsTakingWounded>
+  <MessageVisitorsTakingWounded>{0} จาก {1} กำลังรับมือผู้มาเยือนที่ได้รับบาดเจ็บ</MessageVisitorsTakingWounded>
   <!-- EN: {0} from {1} have been trapped and are digging out to escape. -->
-  <MessageVisitorsTrappedLeaving>{0} จาก {1} ถูกขังอยู่และกำลังขุดออกเพื่อหนี</MessageVisitorsTrappedLeaving>
+  <MessageVisitorsTrappedLeaving>{0} จาก {1} ถูกขัง และกำลังขุดเพื่อหลบหนี</MessageVisitorsTrappedLeaving>
   <!-- EN: {0} from {1} are leaving the map because of dangerous temperature. -->
-  <MessageVisitorsDangerousTemperature>{0} จาก {1} กำลังออกจากแผนที่เนื่องจากอุณหภูมิที่เป็นอันตราย</MessageVisitorsDangerousTemperature>
+  <MessageVisitorsDangerousTemperature>{0} จาก {1} กำลังออกจากแผนที่เนื่องจากอุณหภูมิอันตราย</MessageVisitorsDangerousTemperature>
 
   <!-- EN: {0} worn by {1_nameFull} deteriorated away to nothing. -->
-  <MessageWornApparelDeterioratedAway>{0} สวมใส่โดย {1} เสื่อมลงไปไม่มีอะไร</MessageWornApparelDeterioratedAway>
+  <MessageWornApparelDeterioratedAway>{0} สวมใส่โดย {1_nameFull} เสื่อมลงจนไม่เหลืออะไร</MessageWornApparelDeterioratedAway>
 
   <!-- EN: {0} has begun. -->
-  <MessageSeasonBegun>{0} ได้เริ่มขึ้นแล้ว</MessageSeasonBegun>
+  <MessageSeasonBegun>{0} เริ่มต้นขึ้น</MessageSeasonBegun>
 
   <!-- EN: {0} has left comms range. -->
-  <MessageShipHasLeftCommsRange>{0} ได้ออกจากระยะเครื่องควมคุมการสื่อสารแล้ว</MessageShipHasLeftCommsRange>
+  <MessageShipHasLeftCommsRange>{0} ออกนอกระยะการสื่อสาร</MessageShipHasLeftCommsRange>
 
   <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
-  <MessageNeedBeaconToTradeWithShip>คุณจำเป็นต้องใช้สัญลักษณ์การค้าการโคจรเพื่อการค้ากับยาน\n\nสัญญาณบีคอนต้องมีการขับเคลื่อน</MessageNeedBeaconToTradeWithShip>
+  <MessageNeedBeaconToTradeWithShip>คุณจำเป็นต้องมี 'เทรดบีคอนวงโคจร' ที่ทำงานได้ เพื่อทำการแลกเปลื่ยนกับยาน</MessageNeedBeaconToTradeWithShip>
 
   <!-- EN: Bill complete: {0}. -->
-  <MessageBillComplete>บิลเรียบร้อยแล้ว: {0}.</MessageBillComplete>
+  <MessageBillComplete>ใบสั่งเรียบร้อย: {0}.</MessageBillComplete>
 
   <!-- EN: {1_label} is fully healed. -->
-  <MessageFullyHealed>{1_label} หายสนิท</MessageFullyHealed>
+  <MessageFullyHealed>{1_label} รักษาตัวเต็มที่จนหาย</MessageFullyHealed>
 
   <!-- EN: Prisoner {1_labelShort} is escaping. -->
-  <MessagePrisonerIsEscaping>นักโทษ {1_labelShort} หลบหนี</MessagePrisonerIsEscaping>
+  <MessagePrisonerIsEscaping>นักโทษ {1_labelShort} กำลังหลบหนี</MessagePrisonerIsEscaping>
 
   <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
-  <MessageOutOfNearbyShellsFor>{PAWN_labelShort} ไม่พบกระสุนที่ไม่มีการรักษาไว้ใกล้ ๆ {GUN_label}</MessageOutOfNearbyShellsFor>
+  <MessageOutOfNearbyShellsFor>{PAWN_labelShort} ไม่พบกระสุนปืนสำหรับ {GUN_label} ใกล้ๆตัว</MessageOutOfNearbyShellsFor>
 
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} chance to attack when harmed from rifle range. Chance is higher if closer, less with good hunter stealth. -->
-  <MessageAnimalsGoPsychoHunted>คำเตือน: {ANIMAL_kindBasePlural} มีโอกาศ {1} จะโจมตีกลับ เมื่อถูกทำร้ายจากระยะไรเฟิล โอกาศสูงขึ้นเมื่อเข้าใกล้ โอกาศน้อยลงเมื่อผู้ล่าพลางตัวดี</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalsGoPsychoHunted>คำเตือน: {ANIMAL_kindBasePlural} มีโอกาศ {1} จะโจมตีกลับเมื่อถูกทำร้ายจากระยะไรเฟิล โอกาศสูงขึ้นเมื่อเข้าใกล้ โอกาศน้อยลงเมื่อพรานพลางตัวดี</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
   <MessageAnimalManhuntsOnTameFailed>คำเตือน: {ANIMAL_kindBasePlural} อาจโจมตี หากความพยายามทำให้เชื่องพลาด (โอกาส {1})</MessageAnimalManhuntsOnTameFailed>
   
   <!-- EN: New recruit -->
-  <LetterLabelMessageRecruitSuccess>รับสมัครใหม่</LetterLabelMessageRecruitSuccess>
+  <LetterLabelMessageRecruitSuccess>ผู้เข้าร่วมคนใหม่</LetterLabelMessageRecruitSuccess>
   <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull} ({2} chance). -->
-  <MessageRecruitSuccess>{RECRUITER_nameFull} คัดเลือกเรียบร้อยแล้ว {RECRUITEE_nameFull} (โอกาส {2}).</MessageRecruitSuccess>
+  <MessageRecruitSuccess>{RECRUITER_nameFull} ประสบความสำเร็จในการชักชวน {RECRUITEE_nameFull} เข้าร่วม (โอกาส {2}).</MessageRecruitSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). -->
-  <MessageTameSuccess>{RECRUITER_labelShort} ประสบความสำเร็จในการดึง {1} เข้าร่วม (โอกาส {2}).</MessageTameSuccess>
+  <MessageTameSuccess>{RECRUITER_labelShort} ประสบความสำเร็จในการทำ {1} ให้เชื่อง (โอกาส {2}).</MessageTameSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance) and named {RECRUITEE_objective} {RECRUITEE_nameFull}. -->
-  <MessageTameAndNameSuccess>{RECRUITER_labelShort} ประสบความสำเร็จในการดึง {1} เข้าร่วม (โอกาส {2}) และตั้งชื่อ {RECRUITEE_objective} {RECRUITEE_nameFull}.</MessageTameAndNameSuccess>
+  <MessageTameAndNameSuccess>{RECRUITER_labelShort} ประสบความสำเร็จในการทำ {1} ให้เชื่อง (โอกาส {2}) และตั้งชื่อ{RECRUITEE_objective}ว่า {RECRUITEE_nameFull}.</MessageTameAndNameSuccess>
 
   <!-- EN: The colony cannot afford this deal. -->
-  <MessageColonyCannotAfford>อาณานิคมไม่สามารถจัดการเรื่องนี้ได้</MessageColonyCannotAfford>
+  <MessageColonyCannotAfford>อาณานิคมไม่สามารถแบกรับการแลกเปลื่ยนนี้ได้</MessageColonyCannotAfford>
   <!-- EN: You do not have enough silver ready to trade. -->
-  <MessageColonyNotEnoughSilver>คุณไม่มีเงินเพียงพอที่จะทำธุรกิจได้</MessageColonyNotEnoughSilver>
+  <MessageColonyNotEnoughSilver>คุณไม่มีแร่เงินเพียงพอที่จะแลกเปลื่ยน</MessageColonyNotEnoughSilver>
 
   <!-- EN: Critical alert: {0} -->
-  <MessageCriticalAlert>การแจ้งเตือนที่สำคัญ: {0}</MessageCriticalAlert>
+  <MessageCriticalAlert>แจ้งเตือนสำคัญ: {0}</MessageCriticalAlert>
 
   <!-- EN: Must designate harvestable sufficiently-grown plants. -->
-  <MessageMustDesignateHarvestable>ต้องระบุพืชที่สามารถเก็บเกี่ยวได้เพียงพอ</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestable>ต้องบ่งชี้: พืชที่โตพอจนสามารถเก็บเกี่ยวได้</MessageMustDesignateHarvestable>
   <!-- EN: Must designate wood-yielding, sufficiently-grown plants. -->
-  <MessageMustDesignateHarvestableWood>ต้องระบุไม้ที่ให้ผลผลิตพืชที่โตเต็มที่</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignateHarvestableWood>ต้องบ่งชี้: ไม้ที่โตพอให้ผลผลิต</MessageMustDesignateHarvestableWood>
   <!-- EN: Must designate plants. -->
-  <MessageMustDesignatePlants>ต้องระบุพืช</MessageMustDesignatePlants>
+  <MessageMustDesignatePlants>ต้องบ่งชี้: พืช</MessageMustDesignatePlants>
   <!-- EN: Must designate haulable items. Some items are always haulable and can't be designated. -->
-  <MessageMustDesignateHaulable>ต้องกำหนดรายการที่สามารถยึดได้ บางรายการมีการลากจูงเสมอและไม่สามารถกำหนดได้</MessageMustDesignateHaulable>
+  <MessageMustDesignateHaulable>ต้องบ่งชี้: ไอเท็มที่สามารถขนได้ บางไอเท็มสามารถขนได้เสมอ ไม่จำเป็นต้องไปบ่งชี้</MessageMustDesignateHaulable>
   <!-- EN: Must designate impassable mineable rocks. -->
-  <MessageMustDesignateMineable>ต้องระบุหินที่สามารถเคลื่อนย้ายได้ไม่สามารถถอดออกได้</MessageMustDesignateMineable>
+  <MessageMustDesignateMineable>ต้องบ่งชี้: หินที่ขุดได้ ผ่านไม่ได้</MessageMustDesignateMineable>
   <!-- EN: Must designate huntable animals. -->
-  <MessageMustDesignateHuntable>ต้องระบุสัตว์ล่าสัตว์</MessageMustDesignateHuntable>
+  <MessageMustDesignateHuntable>ต้องบ่งชี้: สัตว์ที่สามารถล่าได้</MessageMustDesignateHuntable>
   <!-- EN: Must designate tameable animals. -->
-  <MessageMustDesignateTameable>ต้องระบุสัตว์ที่สามารถเชื่อฟังได้</MessageMustDesignateTameable>
+  <MessageMustDesignateTameable>ต้องบ่งชี้: สัตว์ที่สามารถทำให้เชื่องได้</MessageMustDesignateTameable>
   <!-- EN: Must designate abandoned artificial structures. -->
-  <MessageMustDesignateClaimable>ต้องระบุโครงสร้างเทียมที่ถูกทอดทิ้ง</MessageMustDesignateClaimable>
+  <MessageMustDesignateClaimable>ต้องบ่งชี้: โครงสร้างเทียมที่ถูกทอดทิ้ง</MessageMustDesignateClaimable>
   <!-- EN: Must designate rough stone surfaces. -->
-  <MessageMustDesignateSmoothableSurface>TODO</MessageMustDesignateSmoothableSurface>
+  <MessageMustDesignateSmoothableSurface>ต้องบ่งชี้: หินที่มีพื้นผิวขลุขระ</MessageMustDesignateSmoothableSurface>
   <!-- EN: Nothing can remove thick roofs. -->
-  <MessageNothingCanRemoveThickRoofs>ไม่มีอะไรสามารถลบหลังคาหนา</MessageNothingCanRemoveThickRoofs>
+  <MessageNothingCanRemoveThickRoofs>ไม่มีอะไรสามารถเอาหลังคาหนาๆออกได้</MessageNothingCanRemoveThickRoofs>
   <!-- EN: This is already in storage and will be moved to high-priority storage as necessary. -->
-  <MessageAlreadyInStorage>ข้อมูลนี้มีอยู่ในที่จัดเก็บแล้วและจะถูกย้ายไปยังพื้นที่เก็บข้อมูลที่มีความสำคัญสูงตามที่จำเป็น</MessageAlreadyInStorage>
+  <MessageAlreadyInStorage>สิ่งนี้มีในคลังเก็บของอยู่แล้ว และจะปรับลำดับให้มีความสำคัญสูงขึ้นตามที่จำเป็น</MessageAlreadyInStorage>
   <!-- EN: Must designate corpse or downed character with strippable apparel. -->
-  <MessageMustDesignateStrippable>ต้องระบุศพหรือตัวละครที่กระดุกกระด้างด้วยเครื่องแต่งกายที่สามารถถอดออกได้</MessageMustDesignateStrippable>
+  <MessageMustDesignateStrippable>ต้องบ่งชี้: ซากศพ หรือ คนล้มหมดสภาพ ซึ่งใส่เครื่องแต่งกายที่ถอดออกได้</MessageMustDesignateStrippable>
   <!-- EN: Must designate tame animal that belongs to the colony. -->
-  <MessageMustDesignateSlaughterable>ต้องระบุสัตว์ที่เชื่องอยู่ในอาณานิคม</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateSlaughterable>ต้องบ่งชี้: สัตว์เลื้ยงที่เป็นของอาณานิคม</MessageMustDesignateSlaughterable>
   <!-- EN: Must designate full graves or containers. -->
-  <MessageMustDesignateOpenable>ต้องระบุหลุมศพเต็มรูปแบบหรือภาชนะบรรจุ</MessageMustDesignateOpenable>
+  <MessageMustDesignateOpenable>ต้องบ่งชี้: หลุมศพเต็มรูปแบบ หรือภาชนะบรรจุ</MessageMustDesignateOpenable>
   <!-- EN: Must designate unforbidden items. -->
-  <MessageMustDesignateForbiddable>TODO</MessageMustDesignateForbiddable>
+  <MessageMustDesignateForbiddable>ต้องบ่งชี้: ไอเท็มที่ไม่โดนห้าม</MessageMustDesignateForbiddable>
   <!-- EN: Must designate forbidden items. -->
-  <MessageMustDesignateUnforbiddable>TODO</MessageMustDesignateUnforbiddable>
+  <MessageMustDesignateUnforbiddable>ต้องบ่งชี้: ไอเท็มหวงห้าม</MessageMustDesignateUnforbiddable>
 
   <!-- EN: {1_labelShort} has refused to be arrested! -->
   <MessageRefusedArrest>{1_labelShort} ปฏิเสธที่จะถูกจับกุม!</MessageRefusedArrest>
   
   <!-- EN: There are no medical beds available. -->
-  <MessageNoMedicalBeds>ไม่มีเตียงเสริมสำหรับแพทย์</MessageNoMedicalBeds>
+  <MessageNoMedicalBeds>ไม่มีเตียงการแพทย์</MessageNoMedicalBeds>
   <!-- EN: There are no animal beds available. -->
-  <MessageNoAnimalBeds>ไม่มีเตียงสัตว์เลี้ยงให้บริการ</MessageNoAnimalBeds>
+  <MessageNoAnimalBeds>ไม่มีเตียงสัตว์เลี้ยง</MessageNoAnimalBeds>
   <!-- EN: Operation requires {0} or better, but {PAWN_labelShort}'s current medical care mode is "{2}". -->
-  <MessageTooLowMedCare>ต้องใช้งาน {0} หรือดีกว่านั้น แต่ {PAWN_labelShort} โหมดการดูแลทางการแพทย์ปัจจุบันคือ "{2}".</MessageTooLowMedCare>
+  <MessageTooLowMedCare>ดำเนินการต้องใช้ {0} หรือดีกว่านั้น แต่ {PAWN_labelShort} เซ็ตโหมดดูแลทางการแพทย์เป็น "{2}"</MessageTooLowMedCare>
   
   <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
   <PawnDiedBecauseOf>{PAWN_labelShort} เสียชีวิต ด้วยสาเหตุ: {1}</PawnDiedBecauseOf>
@@ -127,35 +127,35 @@
   <PawnDied>{1_labelShort} เสียชีวิต</PawnDied>
 
   <!-- EN: {1_label} is no longer incapable of walking. -->
-  <MessageNoLongerDowned>{1_label} หมดความสามารถในการเดิน</MessageNoLongerDowned>
+  <MessageNoLongerDowned>{1_label} พ้นสภาพ 'เดินไม่ได้' แล้ว</MessageNoLongerDowned>
 
   <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
-  <MessageInvoluntarySleep>{1_labelShort} ล้มลงจากความเหนื่อยล้าอย่างหนัก</MessageInvoluntarySleep>
+  <MessageInvoluntarySleep>{1_labelShort} ล้มลงจากความเหนื่อยล้าสุดขีด</MessageInvoluntarySleep>
 
   <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort}. -->
-  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} พลาดเล็กๆน้อยๆในขณะดำเนินการให้ {PATIENT_labelShort}.</MessageMedicalOperationFailureMinor>
+  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} พลาดเล็กๆน้อยๆในขณะดำเนินการให้ {PATIENT_labelShort}</MessageMedicalOperationFailureMinor>
   <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {patient.LabelShort}. -->
-  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} ผิดพลาดใหญ่หลวงในขณะดำเนินการให้ {patient.LabelShort}.</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} ผิดพลาดใหญ่หลวงในขณะดำเนินการให้ {patient.LabelShort}</MessageMedicalOperationFailureCatastrophic>
   <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort}. -->
-  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} พลาดแบบแปลกๆในขณะดำเนินการให้ {PATIENT_labelShort}.</MessageMedicalOperationFailureRidiculous>
+  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} พลาดแบบแปลกๆในขณะดำเนินการให้ {PATIENT_labelShort}</MessageMedicalOperationFailureRidiculous>
   <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2} -->
   <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} เกิดล้มเหลวร้ายแรงในขณะดำเนินการให้ {PATIENT_labelShort} เนื่องจากอุปสรรคพิเศษ: {2}</MessageMedicalOperationFailureFatal>
 
   <!-- EN: This operation will anger {0}. -->
-  <MessageMedicalOperationWillAngerFaction>การดำเนินการนี้จะโกรธ {0}.</MessageMedicalOperationWillAngerFaction>
+  <MessageMedicalOperationWillAngerFaction>ดำเนินการนี้จะทำให้ {0} โกรธ</MessageMedicalOperationWillAngerFaction>
 
   <!-- EN: {0} has miscarried due to starvation. -->
-  <MessageMiscarriedStarvation>{0} ล้มเหลวเนื่องจากความอดอยาก</MessageMiscarriedStarvation>
+  <MessageMiscarriedStarvation>{0} แท้งลูกเนื่องจากความอดอยาก</MessageMiscarriedStarvation>
   <!-- EN: {0} has miscarried due to poor health. -->
-  <MessageMiscarriedPoorHealth>{0} ได้ล้มเหลวเนื่องจากสุขภาพไม่ดี</MessageMiscarriedPoorHealth>
+  <MessageMiscarriedPoorHealth>{0} แท้งลูกเนื่องจากสุขภาพไม่ดี</MessageMiscarriedPoorHealth>
   <!-- EN: {0} has given birth. -->
   <MessageGaveBirth>{0} ให้กำเนิด</MessageGaveBirth>
 
   <!-- EN: {NAMER_nameFull} has named {1} {NAMEE_nameFull} after being nuzzled. -->
-  <MessageNuzzledPawnGaveNameTo>{NAMER_nameFull} ตั้งชื่อ {1} ว่า {NAMEE_nameFull} หลังถูกอ้อน</MessageNuzzledPawnGaveNameTo>
+  <MessageNuzzledPawnGaveNameTo>{NAMER_nameFull} ตั้งชื่อ {1} ว่า {NAMEE_nameFull} หลังถูกคลอเคลียอ้อน</MessageNuzzledPawnGaveNameTo>
 
   <!-- EN: No handler can tame {ANIMAL_kindBase} (requires level {1} in {2}, best handler {HANDLER_labelShort} has {4}). -->
-  <MessageNoHandlerSkilledEnough>ไม่มีตัวจัดการสามารถควบคุมได้ {ANIMAL_kindBase} (ต้องการระดับ {1} ใน {2} ตัวจัดการที่ดีที่สุด {HANDLER_labelShort} มี {4})</MessageNoHandlerSkilledEnough>
+  <MessageNoHandlerSkilledEnough>ไม่มีผู้ดูแลคนใดสามารถทำ {ANIMAL_kindBase} ให้เชื่องได้ (ต้องการระดับ {1} ใน {2} ซึ่งผู้ดูแลที่ดีที่สุด {HANDLER_labelShort} มี {4})</MessageNoHandlerSkilledEnough>
   
   <!-- EN: {EATEN_labelShort} has been eaten by {PREDATOR}. -->
   <MessageEatenByPredator>{EATEN_labelShort} โดน {PREDATOR} กิน</MessageEatenByPredator>
@@ -163,13 +163,13 @@
   <MessageAttackedByPredator>{PREY_labelShort0} กำลังถูกโจมตีโดย {PREDATOR}!</MessageAttackedByPredator>
   
   <!-- EN: A bug hive has reproduced itself. -->
-  <MessageHiveReproduced>กลุ่มข้อผิดพลาดได้ทำซ้ำเอง</MessageHiveReproduced>
+  <MessageHiveReproduced>รังแมลงขยายพันธุ์</MessageHiveReproduced>
   
   <!-- EN: The trade caravan from {0} is leaving. -->
-  <MessageTraderCaravanLeaving>คาราวานการค้าจาก {0} กำลังจะออกเดินทาง</MessageTraderCaravanLeaving>
+  <MessageTraderCaravanLeaving>คาราวานพ่อค้าจาก {0} กำลังจะจากไป</MessageTraderCaravanLeaving>
   
   <!-- EN: {1_labelShort} is dead. -->
-  <MessageCantSelectDeadPawn>{1_labelShort} ตายแล้ว</MessageCantSelectDeadPawn>
+  <MessageCantSelectDeadPawn>{1_labelShort} ถึงแก่กรรม</MessageCantSelectDeadPawn>
   <!-- EN: {1_labelShort} is off the map. -->
   <MessageCantSelectOffMapPawn>{1_labelShort} ออกนอกแผนที่</MessageCantSelectOffMapPawn>
   
@@ -179,347 +179,347 @@
   <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}’s marriage. -->
   <MessageNewMarriageCeremony>ชาวนิคมกำลังรวบตัว เพื่อเฉลิมฉลองการแต่งงานของ {PAWN1_labelShort} และ {PAWN2_labelShort}</MessageNewMarriageCeremony>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony! -->
-  <MessageMarriageCeremonyStarts>{PAWN1_labelShort} และ {PAWN2_labelShort1} กำลังเริ่มพิธีแต่งงาน!</MessageMarriageCeremonyStarts>
+  <MessageMarriageCeremonyStarts>{PAWN1_labelShort} และ {PAWN2_labelShort1} เริ่มพิธีแต่งงาน!</MessageMarriageCeremonyStarts>
   <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has been called off. -->
-  <MessageMarriageCeremonyCalledOff>พิธีสมรส {PAWN1_labelShort} และ {PAWN2_labelShort} ถูกยกเลิก</MessageMarriageCeremonyCalledOff>
+  <MessageMarriageCeremonyCalledOff>พิธีสมรสของ {PAWN1_labelShort} และ {PAWN2_labelShort} ถูกยกเลิก</MessageMarriageCeremonyCalledOff>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} have married. Colonists are now celebrating the occasion. -->
   <MessageNewlyMarried>{PAWN1_labelShort} และ {PAWN2_labelShort} เป็นคู่สมรสกัน ชาวนิคมเฉลิมฉลองในโอกาสนี้</MessageNewlyMarried>
   <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has finished. -->
-  <MessageMarriageCeremonyAfterPartyFinished>พิธีสมรส {PAWN1_labelShort} และ {PAWN2_labelShort} เสร็จสิ้นแล้ว</MessageMarriageCeremonyAfterPartyFinished>
+  <MessageMarriageCeremonyAfterPartyFinished>พิธีสมรสของ {PAWN1_labelShort} และ {PAWN2_labelShort} เสร็จสิ้นแล้ว</MessageMarriageCeremonyAfterPartyFinished>
   
   <!-- EN: {HUMAN_labelShort} and {ANIMAL_labelShort} have formed a bond. -->
-  <MessageNewBondRelation>{HUMAN_labelShort} และ {ANIMAL_labelShort} เกิดสัมพันธภาพต่อกัน</MessageNewBondRelation>
+  <MessageNewBondRelation>{HUMAN_labelShort} และ {ANIMAL_labelShort} เกิดพัฒนาความผูกพันธ์ต่อกัน</MessageNewBondRelation>
   <!-- EN: {HUMAN_labelShort} and {1} have formed a bond. {HUMAN_labelShort} has named {ANIMAL_objective} {ANIMAL_nameFull}. -->
-  <MessageNewBondRelationNewName>{HUMAN_labelShort} กับ {1} เกิดสัมพันธภาพต่อกัน. {HUMAN_labelShort} จึงตั้งชื่อ{ANIMAL_objective}ว่า {ANIMAL_nameFull}.</MessageNewBondRelationNewName>
+  <MessageNewBondRelationNewName>{HUMAN_labelShort} กับ {1} เกิดพัฒนาความผูกพันธ์ต่อกัน, {HUMAN_labelShort} จึงตั้งชื่อ{ANIMAL_objective}ว่า {ANIMAL_nameFull}.</MessageNewBondRelationNewName>
   
   <!-- EN: {ANIMAL} has a mental break because of {HUMAN_labelShort}'s death. -->
-  <MessageBondedAnimalMentalBreak>{ANIMAL} มีอาการผิดปกติทางจิตเพราะการตายของ {HUMAN_labelShort}</MessageBondedAnimalMentalBreak>
+  <MessageBondedAnimalMentalBreak>{ANIMAL} เกิดอาการสติแตกเพราะการตายของ {HUMAN_labelShort}</MessageBondedAnimalMentalBreak>
   <!-- EN: {ANIMAL_kindIndef} named {ANIMAL_label} has a mental break because of {HUMAN_labelShort}'s death. -->
-  <MessageNamedBondedAnimalMentalBreak>{ANIMAL_kindIndef} ชื่อ {ANIMAL_label} มีอาการผิดปกติทางจิตเพราะการตายของ {HUMAN_labelShort}</MessageNamedBondedAnimalMentalBreak>
+  <MessageNamedBondedAnimalMentalBreak>{ANIMAL_kindIndef} ชื่อ {ANIMAL_label} เกิดสติแตกเพราะการตายของ {HUMAN_labelShort}</MessageNamedBondedAnimalMentalBreak>
   <!-- EN: {0} animals have a mental break because of {HUMAN_labelShort}'s death. -->
-  <MessageBondedAnimalsMentalBreak>{0} มีอาการผิดปกติทางจิตเพราะการตายของ {HUMAN_labelShort}</MessageBondedAnimalsMentalBreak>
+  <MessageBondedAnimalsMentalBreak>สัตว์ {0} เกิดอาการสติแตกเพราะการตายของ {HUMAN_labelShort}</MessageBondedAnimalsMentalBreak>
   
   <!-- EN: {SURGEON_labelShort} has successfully removed {PATIENT_labelShort}'s {HEDIFF}. -->
-  <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort} ดำเนินการกับ {PATIENT_labelShort} โดย {HEDIFF} สำเร็จ</MessageSuccessfullyRemovedHediff>
+  <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort} ผ่าตัดนำ {HEDIFF} ของ {PATIENT_labelShort} ออกสำเร็จ</MessageSuccessfullyRemovedHediff>
   
   <!-- EN: Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources. -->
-  <MessageShipChunkDrop>กลุ่มยานอวกาศหลุดจากอวกาศและเข้ามาใกล้ ๆ</MessageShipChunkDrop>
+  <MessageShipChunkDrop>ชิ้นส่วนของยานอวกาศตกกระแทกใกล้ๆ คุณสามารถรื้อถอนมันให้กลายเป็นทรัพยากรได้</MessageShipChunkDrop>
   
   <!-- EN: The party has been called off. -->
-  <MessagePartyCalledOff>พรรคถูกเรียกออกไป</MessagePartyCalledOff>
+  <MessagePartyCalledOff>ปาตี้ถูกยกเลิก</MessagePartyCalledOff>
   <!-- EN: The party has finished. -->
-  <MessagePartyFinished>งานเลี้ยงเสร็จสิ้นแล้ว</MessagePartyFinished>
+  <MessagePartyFinished>ปาตี้เสร็จสิ้น</MessagePartyFinished>
 
   <!-- EN: Some items cannot be traded because of:  -->
-  <MessageCannotSellItemsReason>บางรายการไม่สามารถซื้อขายได้เนื่องจาก: </MessageCannotSellItemsReason>
+  <MessageCannotSellItemsReason>บางไอเท็มไม่สามารถแลกเปลื่ยนได้เนื่องจาก: </MessageCannotSellItemsReason>
 
   <!-- EN: {WORKER_labelShort} failed while constructing {0}. Some resources have been wasted. -->
   <MessageConstructionFailed>{WORKER_labelShort} ล้มเหลวขณะก่อสร้าง {0} ทรัพยากรบางอย่างสูญเปล่า</MessageConstructionFailed>
 
   <!-- EN: Screenshot saved as: {0} -->
-  <MessageScreenshotSavedAs>ภาพหน้าจอบันทึกเป็น: {0}</MessageScreenshotSavedAs>
+  <MessageScreenshotSavedAs>เซฟ Screenshot เป็น: {0}</MessageScreenshotSavedAs>
   
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer social fighting. -->
   <MessageNoLongerSocialFighting>{PAWN1_labelShort} และ {PAWN2_labelShort} หยุดการต่อสู้ทางสังคมแล้ว</MessageNoLongerSocialFighting>
   
   <!-- EN: {2_labelShort} is no longer binging on {1}. -->
-  <MessageNoLongerBingingOnDrug>{2_labelShort} ไม่ได้เกิดขึ้นอีกต่อไปใน {1}</MessageNoLongerBingingOnDrug>
+  <MessageNoLongerBingingOnDrug>{2_labelShort} เลิกเมา {1} แล้ว</MessageNoLongerBingingOnDrug>
 
   <!-- EN: {PAWN_labelShort} is no longer on an insulting spree against {TARGET_label}. -->
-  <MessageNoLongerOnTargetedInsultingSpree>TODO</MessageNoLongerOnTargetedInsultingSpree>
+  <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort} หยุดสบประมาทต่อเนื่องใส่ {TARGET_label} แล้ว</MessageNoLongerOnTargetedInsultingSpree>
 
   <!-- EN: {1_label} has rotted away in storage. -->
-  <MessageRottedAwayInStorage>{1_label} ได้เน่าอยู่ในที่จัดเก็บ</MessageRottedAwayInStorage>
+  <MessageRottedAwayInStorage>{1_label} เน่าเสียอยู่ในคลังเก็บ</MessageRottedAwayInStorage>
   
   <!-- EN: {PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}. -->
-  <MessageFoodPoisoning>{PAWN_labelShort} ได้รับอาหารเป็นพิษจาก: {FOOD_labelShort} สาเหตุ: {2}</MessageFoodPoisoning>
+  <MessageFoodPoisoning>{PAWN_labelShort} อาหารเป็นพิษจาก: {FOOD_labelShort} / สาเหตุ: {2}</MessageFoodPoisoning>
   
   <!-- EN: {0} has been removed from the caravan. -->
-  <MessagePawnLostWhileFormingCaravan>TODO</MessagePawnLostWhileFormingCaravan>
+  <MessagePawnLostWhileFormingCaravan>{0} ถูกนำออกจากกองคาราวาน</MessagePawnLostWhileFormingCaravan>
   <!-- EN: The caravan formation process has been terminated. -->
-  <MessagePawnLostWhileFormingCaravan_AllLost>TODO</MessagePawnLostWhileFormingCaravan_AllLost>
+  <MessagePawnLostWhileFormingCaravan_AllLost>กระบวนการจัดตั้งกองคาราวานถูกยกเลิก</MessagePawnLostWhileFormingCaravan_AllLost>
   <!-- EN: The caravan formation process will continue when everyone recovers from their mental break. -->
-  <MessageCaravanFormationPaused>ขั้นตอนการสร้างกองคาราวานจะดำเนินต่อไปเมื่อทุกคนฟื้นตัวจากอาการผิดปกติทางจิต</MessageCaravanFormationPaused>
+  <MessageCaravanFormationPaused>กระบวนการจัดตั้งกองคาราวานจะดำเนินต่อ เมื่อทุกคนฟื้นตัวจากอาการสติแตก</MessageCaravanFormationPaused>
   <!-- EN: Your colonists will now continue forming a caravan. -->
-  <MessageCaravanFormationUnpaused>อาณานิคมของคุณจะกลายเป็นกองคาราวานต่อไป</MessageCaravanFormationUnpaused>
+  <MessageCaravanFormationUnpaused>ชาวนิคมของคุณจะจัดตั้งกองคาราวานต่อไป</MessageCaravanFormationUnpaused>
   
   <!-- EN: One of the caravan members has a mental break. -->
-  <MessageCaravanMemberHasExtremeMentalBreak>หนึ่งในสมาชิกกองคาราวานมีอาการผิดปกติทางจิต</MessageCaravanMemberHasExtremeMentalBreak>
+  <MessageCaravanMemberHasExtremeMentalBreak>หนึ่งในสมาชิกของกองคาราวานมีอาการสติแตก</MessageCaravanMemberHasExtremeMentalBreak>
   
   <!-- EN: Warning: It can take a very long time to generate an entire planet. -->
-  <MessageMaxPlanetCoveragePerformanceWarning>คำเตือน: อาจใช้เวลานานมากในการสร้างดาวเคราะห์ทั้งหมด</MessageMaxPlanetCoveragePerformanceWarning>
+  <MessageMaxPlanetCoveragePerformanceWarning>คำเตือน: มันอาจกินเวลานานมาก ในการให้กำเนิดดาวเคราะห์ทั้งดวง</MessageMaxPlanetCoveragePerformanceWarning>
 
   <!-- EN: {0} has died because of cold. -->
   <MessagePlantDiedOfCold>{0} ตายเพราะความหนาวเย็น</MessagePlantDiedOfCold>
   <!-- EN: {0} has died from rotting due to being left unharvested. -->
-  <MessagePlantDiedOfRot_LeftUnharvested>{0} ตายเนื่องจางเน่าเสียและไม่ได้เก็บเกียว</MessagePlantDiedOfRot_LeftUnharvested>
+  <MessagePlantDiedOfRot_LeftUnharvested>{0} เน่าตาย เนื่องจากทิ้งไว้ไม่เก็บเกี่ยว</MessagePlantDiedOfRot_LeftUnharvested>
   <!-- EN: {0} has died due to being exposed to light. -->
-  <MessagePlantDiedOfRot_ExposedToLight>{0} ตายเนื่องจางโดนแสงอาทิตย์</MessagePlantDiedOfRot_ExposedToLight>
+  <MessagePlantDiedOfRot_ExposedToLight>{0} ตายเนื่องจากโดนแสง</MessagePlantDiedOfRot_ExposedToLight>
   <!-- EN: {0} has died from rotting. -->
-  <MessagePlantDiedOfRot>{0} ตายจากการเน่าเปื่อยเนื่องจากถูกทิ้งไว้ไม่ได้</MessagePlantDiedOfRot>
+  <MessagePlantDiedOfRot>{0} ตายจากการเน่าเปื่อย</MessagePlantDiedOfRot>
   <!-- EN: {0} has died because of poison. -->
-  <MessagePlantDiedOfPoison>{0} ตายเนื่องจากยาพิษ</MessagePlantDiedOfPoison>
+  <MessagePlantDiedOfPoison>{0} ตายเนื่องจากพิษ</MessagePlantDiedOfPoison>
   <!-- EN: {1_label} has died because of blight. -->
-  <MessagePlantDiedOfBlight>{1_label} ตายเนื่องโรคระบาด</MessagePlantDiedOfBlight>
+  <MessagePlantDiedOfBlight>{1_label} ตายเนื่องจากโรคระบาด</MessagePlantDiedOfBlight>
 
   <!-- EN: {1_labelShort} is being burned by superheated air! -->
   <MessagePawnBeingBurned>{1_labelShort} กำลังถูกเผาด้วยอากาศร้อนจัด!</MessagePawnBeingBurned>
 
   <!-- EN: {INGESTER} has accidentally overdosed while consuming {DRUG_labelShort}! -->
-  <MessageAccidentalOverdose>{INGESTER} ได้ล่วงล้ำโดยไม่ตั้งใจในขณะที่บริโภค {DRUG_labelShort}!</MessageAccidentalOverdose>
+  <MessageAccidentalOverdose>{INGESTER} ใช้ยาเกิดขนาดอย่างไม่ตั้งใจ ในขณะที่เสพ {DRUG_labelShort}!</MessageAccidentalOverdose>
   
   <!-- EN: {0} has arrived at its destination. -->
-  <MessageCaravanArrivedAtDestination>{0} ถึงจุดหมายแล้ว</MessageCaravanArrivedAtDestination>
+  <MessageCaravanArrivedAtDestination>{0} ถึงจุดหมายปลายทาง</MessageCaravanArrivedAtDestination>
   
   <!-- EN: {1_labelShort} has left the area and formed a caravan. -->
-  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort} ได้ออกจากพื้นที่และสร้างคาราวาน</MessagePawnLeftMapAndCreatedCaravan>
+  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort} ออกจากพื้นที่ เพื่อจัดตั้งกองคาราวาน</MessagePawnLeftMapAndCreatedCaravan>
   <!-- EN: Your animals are moving to join it. -->
-  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>TODO</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
+  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>สัตว์เลี้ยงของคุณกำลังไปเข้าร่วมคาราวานด้วย</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
   
   <!-- EN: You have successfully settled in a new area. -->
-  <MessageSettledInExistingMap>คุณได้ตัดสินแล้วในพื้นที่ใหม่</MessageSettledInExistingMap>
+  <MessageSettledInExistingMap>คุณตั้งถิ่นฐานในพื้นที่ใหม่สำเร็จ</MessageSettledInExistingMap>
   
   <!-- EN: {PAWN_labelShort}'s {2} has healed. Cause: {0} -->
-  <MessagePermanentWoundHealed>TODO</MessagePermanentWoundHealed>
+  <MessagePermanentWoundHealed>{2} ของ {PAWN_labelShort} ถูกเยียวยาจนหาย ด้วยสาเหตุ: {0}</MessagePermanentWoundHealed>
 
   <!-- EN: Since you rescued {!_objective}, {1_labelShort} has joined your group! -->
-  <MessageRescueeJoined>หลังคุณช่วย {!_objective}, {1_labelShort} จึงเข้าร่วมกลุ่มของคุณ!</MessageRescueeJoined>
+  <MessageRescueeJoined>ในเมื่อคุณช่วยเหลือ{!_objective}, {1_labelShort} จึงเข้าร่วมกลุ่มของคุณ!</MessageRescueeJoined>
   
   <!-- EN: Some transport pods are unreachable. -->
-  <MessageTransporterUnreachable>ไม่สามารถขนส่งกระสวยได้</MessageTransporterUnreachable>
+  <MessageTransporterUnreachable>กระสวยขนส่งบางส่วนเข้าไม่ถึง</MessageTransporterUnreachable>
   <!-- EN: All pod launchers connected to the selected transport pods must be adjacent. -->
-  <MessageTransportersNotAdjacent>เครื่องยิงกระสวยทั้งหมดที่เชื่อมต่อกับกระสวยขนส่งที่เลือกต้องอยู่ติดกัน</MessageTransportersNotAdjacent>
+  <MessageTransportersNotAdjacent>เครื่องปล่อยกระสวยทั้งหมดซึ่งเชื่อมต่อกับกระสวยขนส่งที่เลือก ต้องอยู่ติดกัน</MessageTransportersNotAdjacent>
   
   <!-- EN: The loading process has been canceled because one of the transport pods has been destroyed. -->
-  <MessageTransportersLoadCanceled_TransporterDestroyed>ขั้นตอนการโหลดถูกยกเลิกเนื่องจากหนึ่งในกระสวยขนส่งถูกทำลาย</MessageTransportersLoadCanceled_TransporterDestroyed>
+  <MessageTransportersLoadCanceled_TransporterDestroyed>กระบวนการโหลดถูกยกเลิก เนื่องจากหนึ่งในกระสวยขนส่งถูกทำลาย</MessageTransportersLoadCanceled_TransporterDestroyed>
   <!-- EN: The loading process has been canceled because one of the pod launchers has been destroyed. -->
-  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>ขั้นตอนการโหลดถูกยกเลิกเนื่องจากเครื่องเรียกเก็บเงินกระสวยชนิดใดชนิดหนึ่งถูกทำลาย</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>กระบวนการโหลดถูกยกเลิก เนื่องจากหนึ่งในเครื่องปล่อยกระสวยถูกทำลาย</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
   
   <!-- EN: Your colonists will now load the assigned items into the transport pods. -->
-  <MessageTransportersLoadingProcessStarted>ขณะนี้อาณานิคมของคุณจะโหลดรายการที่กำหนดไว้ในกระสวยขนส่ง</MessageTransportersLoadingProcessStarted>
+  <MessageTransportersLoadingProcessStarted>ขณะนี้ชาวนิคมของคุณ จะโหลดไอเท็มที่ระบุไว้ขึ้นกระสวยขนส่ง</MessageTransportersLoadingProcessStarted>
   
   <!-- EN: Your transport pods have arrived. -->
-  <MessageTransportPodsArrived>กระสวยขนส่งของคุณมาถึงแล้ว</MessageTransportPodsArrived>
+  <MessageTransportPodsArrived>กระสวยขนส่งของคุณมาถึง</MessageTransportPodsArrived>
   <!-- EN: Your transport pods have arrived, but since there were no colonists inside, the contents are lost. -->
-  <MessageTransportPodsArrivedAndLost>กระสวยขนส่งของคุณมาถึงแล้ว แต่เนื่องจากไม่มีอาณานิคมอยู่ภายในเนื้อหาจึงหายไป</MessageTransportPodsArrivedAndLost>
+  <MessageTransportPodsArrivedAndLost>กระสวยขนส่งของคุณมาถึง แต่เนื่องจากไม่มีชาวนิคมอยู่ภายใน ของภายในจึงสูญหาย</MessageTransportPodsArrivedAndLost>
   <!-- EN: Your transport pods have arrived. The contents have been added to {0}. -->
-  <MessageTransportPodsArrivedAndAddedToCaravan>กระสวยขนส่งของคุณมาถึงแล้ว เพิ่มสิ่งเหล่านี้ลง {0}</MessageTransportPodsArrivedAndAddedToCaravan>
+  <MessageTransportPodsArrivedAndAddedToCaravan>กระสวยขนส่งของคุณมาถึง เพิ่มสิ่งเหล่านี้ลง {0}</MessageTransportPodsArrivedAndAddedToCaravan>
   
   <!-- EN: Your colonists have finished loading the transport pods. -->
-  <MessageFinishedLoadingTransporters>ชาวนิคมของคุณโหลดกระสวยขนส่งเสร็จสิ้นแล้ว</MessageFinishedLoadingTransporters>
+  <MessageFinishedLoadingTransporters>ชาวนิคมของคุณโหลดกระสวยขนส่งเสร็จสิ้น</MessageFinishedLoadingTransporters>
 
   <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
-  <MessageCantLoadMoreIntoTransporters>TODO</MessageCantLoadMoreIntoTransporters>
+  <MessageCantLoadMoreIntoTransporters>{1} ของคุณไม่สามารถโหลดกระสวยขนส่งจนเสร็จ เนื่องจากบางไอเท็มหรือบางคนไม่พร้อม ({2_labelShort})</MessageCantLoadMoreIntoTransporters>
   
   <!-- EN: Selected destination is invalid. -->
   <MessageTransportPodsDestinationIsInvalid>ปลายทางที่เลือกไม่ถูกต้อง</MessageTransportPodsDestinationIsInvalid>
   <!-- EN: Each pod launcher would need at least {0}x chemfuel to send transport pods that far. -->
-  <MessageTransportPodsDestinationIsTooFar>เครื่องวางกระสวยแต่ละเครื่องจะต้องมีอย่างน้อย {0} x เชื้อเพลิง เพื่อส่งกระสวยขนส่งที่ไกลออกไป</MessageTransportPodsDestinationIsTooFar>
+  <MessageTransportPodsDestinationIsTooFar>เครื่องปล่อยกระสวยแต่ละเครื่อง ต้องมีเชื้อเพลิงเคมีอย่างน้อย {0}x จึงจะยิงกระสวยขนส่งไปได้ไกลขนาดนั้น</MessageTransportPodsDestinationIsTooFar>
   
   <!-- EN: The caravan has been reformed. -->
-  <MessageReformedCaravan>คาราวานได้รับการปฏิรูปแล้ว.</MessageReformedCaravan>
+  <MessageReformedCaravan>กองคาราวานถูกจัดตั้งใหม่</MessageReformedCaravan>
   
   <!-- EN: You can't banish the last colonist. -->
-  <MessageCantBanishLastColonist>TODO</MessageCantBanishLastColonist>
+  <MessageCantBanishLastColonist>คุณไม่สามารถขับไล่ชาวนิคมคนสุดท้ายได้</MessageCantBanishLastColonist>
   
   <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
-  <MessageCantEquipIncapableOfViolence>สวมใส่ไม่ได้: {1_labelShort} ไม่สามารถใช้ความรุนแรงได้</MessageCantEquipIncapableOfViolence>
+  <MessageCantEquipIncapableOfViolence>ไม่อาจใช้งาน: {1_labelShort} ไม่สามารถใช้ความรุนแรงได้</MessageCantEquipIncapableOfViolence>
   <!-- EN: Cannot equip: incapable. -->
-  <MessageCantEquipIncapableOfManipulation>สวมใส่ไม่ได้: ไม่สามารถ</MessageCantEquipIncapableOfManipulation>
+  <MessageCantEquipIncapableOfManipulation>ไม่อาจใช้งาน: ไม่สามารถ</MessageCantEquipIncapableOfManipulation>
   
   <!-- EN: Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
-  <MessageSlaughteringBondedAnimal>เนื่องจากสัมพันธภาพของพวกเขา การฆ่า {DESIGNATED_labelShort} จะทำให้ {BONDED_labelShort} ไม่พอใจ</MessageSlaughteringBondedAnimal>
+  <MessageSlaughteringBondedAnimal>เนื่องจากความผูกพันธ์ของพวกเขา การสังหาร {DESIGNATED_labelShort} จะทำให้ {BONDED_labelShort} ไม่พอใจ</MessageSlaughteringBondedAnimal>
   
   <!-- EN: {0} has run out of food ({PAWN_label}). -->
-  <MessageCaravanRanOutOfFood>TODO</MessageCaravanRanOutOfFood>
+  <MessageCaravanRanOutOfFood>{0} หมดเสบียงอาหาร ({PAWN_label})</MessageCaravanRanOutOfFood>
 
   <!-- EN: To form a caravan, select your own colony or a site where you have people. -->
-  <MessageSelectOwnBaseToFormCaravan>ในการสร้างกองคาราวานเลือกอาณานิคมของคุณเองหรือไซต์ที่คุณมีผู้คน</MessageSelectOwnBaseToFormCaravan>
+  <MessageSelectOwnBaseToFormCaravan>ในการจัดตั้งกองคาราวาน เลือกอาณานิคมของคุณเอง หรือสถานที่ที่คุณมีผู้คนอยู่</MessageSelectOwnBaseToFormCaravan>
 
   <!-- EN: At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution. -->
-  <MessageScreenResTooSmallForUIScale>ที่ความละเอียดและสัดส่วน UI อินเตอร์เฟซเกมจะไม่พอดีกับหน้าจอ โปรดลดขนาด UI หรือเพิ่มความละเอียด</MessageScreenResTooSmallForUIScale>
+  <MessageScreenResTooSmallForUIScale>ที่ความละเอียดและสัดส่วน UI ขนาดนี้ อินเตอร์เฟซเกมจะไม่พอดีกับหน้าจอ โปรดลดขนาด UI หรือเพิ่มความละเอียด</MessageScreenResTooSmallForUIScale>
   
   <!-- EN: You have to reform the caravan now. Everyone left behind will be abandoned. -->
-  <MessageYouHaveToReformCaravanNow>คุณต้องปฏิรูปคาราวานตอนนี้ ทุกคนที่ทิ้งไว้เบื้องหลังจะถูกทอดทิ้ง</MessageYouHaveToReformCaravanNow>
+  <MessageYouHaveToReformCaravanNow>คุณต้องจัดกองคาราวานทันที ทุกคนที่ปล่อยไว้เบื้องหลังจะถูกทอดทิ้ง</MessageYouHaveToReformCaravanNow>
   
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <MessageDefendersAttacking>{0} จาก {1} กำลังโจมตี {2} ของคุณ</MessageDefendersAttacking>
 
   <!-- EN: To self-tend, {1_labelShort} must also be assigned to Doctor work. -->
-  <MessageSelfTendUnsatisfied>หากต้องการมีแนวโน้มในการทำงานด้วยตัวเอง {1_labelShort} จะต้องได้รับมอบหมายให้ทำงานด้าน Doctor ด้วย</MessageSelfTendUnsatisfied>
+  <MessageSelfTendUnsatisfied>เพื่อรักษาตัวเอง {1_labelShort} จะต้องได้ถูกกำหนดให้ทำงาน 'แพทย์' ด้วย</MessageSelfTendUnsatisfied>
   <!-- EN: {1_labelShort} is incapable of doing Doctor work, and so cannot ever self-tend. -->
-  <MessageCannotSelfTendEver>{1_labelShort} ไม่สามารถทำงานเป็นหมอได้และไม่เคยมีแนวโน้มในตัวเองมากนัก</MessageCannotSelfTendEver>
+  <MessageCannotSelfTendEver>{1_labelShort} ไม่สามารถทำงาน 'แพทย์' ได้ จึงไม่อาจรักษาตัวเองได้เลย</MessageCannotSelfTendEver>
   
   <!-- EN: This tile is impassable. -->
-  <MessageCantAddWaypointBecauseImpassable>จุดนี้ไม่สามารถใช้ได้</MessageCantAddWaypointBecauseImpassable>
+  <MessageCantAddWaypointBecauseImpassable>Tile นี้ไม่สามารถผ่านได้</MessageCantAddWaypointBecauseImpassable>
   <!-- EN: It's not possible to reach this tile from the last waypoint. -->
-  <MessageCantAddWaypointBecauseUnreachable>ไม่สามารถเข้าถึงจุดนี้ได้จากจุดสุดท้าย</MessageCantAddWaypointBecauseUnreachable>
+  <MessageCantAddWaypointBecauseUnreachable>เป็นไปไม่ได้ที่จะเข้าถึง Tile นี้จากเวย์พอยท์สุดท้าย</MessageCantAddWaypointBecauseUnreachable>
   <!-- EN: You can't add more than {0} waypoints. -->
-  <MessageCantAddWaypointBecauseLimit>คุณไม่สามารถเพิ่มได้มากกว่า {0} จุด</MessageCantAddWaypointBecauseLimit>
+  <MessageCantAddWaypointBecauseLimit>คุณไม่สามารถเพิ่มเวย์พอยท์มากกว่า {0} จุด</MessageCantAddWaypointBecauseLimit>
   <!-- EN: You can't remove this waypoint. -->
-  <MessageCantRemoveWaypointBecauseFirst>คุณไม่สามารถลบจุดสังเกตนี้ได้</MessageCantRemoveWaypointBecauseFirst>
+  <MessageCantRemoveWaypointBecauseFirst>คุณไม่สามารถลบเวย์พอยท์นี้ได้</MessageCantRemoveWaypointBecauseFirst>
   
   <!-- EN: None of your wardens is capable of violence. The execution won't be performed. -->
-  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>ไม่มีผู้พิทักษ์ของคุณสามารถใช้ความรุนแรงได้ ไม่สามารถดำเนินการได้</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>ไม่มีผู้คุมคนไหนของคุณสามารถใช้ความรุนแรงได้ การประหารชีวิตจะไม่เกิดขึ้น</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
   
   <!-- EN: You have defeated all enemies. In {0}, the caravan will automatically be reformed. -->
-  <MessageSiteCountdownBecauseNoMoreEnemies>คุณได้พ่ายแพ้ศัตรูทั้งหมด ใน {0} กองคาราวานจะได้รับการปฏิรูปโดยอัตโนมัติ</MessageSiteCountdownBecauseNoMoreEnemies>
+  <MessageSiteCountdownBecauseNoMoreEnemies>คุณเอาชนะศัตรูทั้งหมด ในอีก {0} จะ 'จัดกองคาราวาน' โดยอัตโนมัติ</MessageSiteCountdownBecauseNoMoreEnemies>
   <!-- EN: In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen. -->
-  <MessageSiteCountdownBecauseNoEnemiesInitially>ใน {0} กองคาราวานจะได้รับการปฏิรูปโดยอัตโนมัติ คุณสามารถปฏิรูปกองคาราวานได้ในหน้าจอโลก</MessageSiteCountdownBecauseNoEnemiesInitially>
+  <MessageSiteCountdownBecauseNoEnemiesInitially>ในอีก {0} จะ 'จัดกองคาราวาน' โดยอัตโนมัติ คุณสามารถจัดกองคาราวานได้ทันทีเลยในหน้าจอ 'โลก'</MessageSiteCountdownBecauseNoEnemiesInitially>
 
   <!-- EN: Cannot banish {1_labelShort} since {1_pronoun} cannot walk. -->
-  <MessageCantBanishDownedPawn>ไม่สามารถขับไล่ {1_labelShort} เนื่องจาก {1_pronoun} เดินไม่ได้</MessageCantBanishDownedPawn>
+  <MessageCantBanishDownedPawn>ไม่สามารถขับไล่ {1_labelShort} เนื่องจาก{1_pronoun}ไม่สามารถเดินได้</MessageCantBanishDownedPawn>
 
   <!-- EN: {0} have woken up. -->
-  <MessageSleepingPawnsWokenUp>{0} ได้ตื่นขึ้นแล้ว</MessageSleepingPawnsWokenUp>
+  <MessageSleepingPawnsWokenUp>{0} ได้ตื่นขึ้น</MessageSleepingPawnsWokenUp>
 
   <!-- EN: Item produced: {0}. -->
-  <MessageCompSpawnerSpawnedItem>ไอเท็มที่ถูกสร้าง: {0}</MessageCompSpawnerSpawnedItem>
+  <MessageCompSpawnerSpawnedItem>ไอเท็มที่ผลิต: {0}</MessageCompSpawnerSpawnedItem>
 
   <!-- EN: Health condition healed: {0}. -->
-  <MessageHediffCuredByItem>โรคที่รักษา: {0}</MessageHediffCuredByItem>
+  <MessageHediffCuredByItem>รักษาสภาพร่างกาย: {0}</MessageHediffCuredByItem>
   <!-- EN: Body part restored: {0}. -->
-  <MessageBodyPartCuredByItem>อวัยวะที่ได้คืน: {0}</MessageBodyPartCuredByItem>
+  <MessageBodyPartCuredByItem>กู้คืนอวัยวะ: {0}</MessageBodyPartCuredByItem>
   <!-- EN: Technology given: {0}. -->
-  <MessageResearchProjectFinishedByItem>เทคโนโลยีที่ได้รับ: {0}</MessageResearchProjectFinishedByItem>
+  <MessageResearchProjectFinishedByItem>ได้เทคโนโลยี: {0}</MessageResearchProjectFinishedByItem>
 
   <!-- EN: {0} has been brought back to life! -->
-  <MessagePawnResurrected>{0} ได้กลับมามีชีวิตอยู่ !</MessagePawnResurrected>
+  <MessagePawnResurrected>{0} กลับขึ้นมามีชีวิตอีกครั้ง!</MessagePawnResurrected>
 
   <!-- EN: You have failed to rescue {PAWN_labelShort}. This will make {RELATIVE_labelShort} sad. -->
-  <MessageFailedToRescueRelative>คุณได้ล้มเหลวในการช่วย {PAWN_labelShort} มันจะทำให้ {RELATIVE_labelShort} เศร้า</MessageFailedToRescueRelative>
+  <MessageFailedToRescueRelative>คุณล้มเหลวในการช่วยเหลือ {PAWN_labelShort}, นี่ทำให้ {RELATIVE_labelShort} โศกเศร้า</MessageFailedToRescueRelative>
   <!-- EN: You have rescued {PAWN_labelShort}. This will make {RELATIVE_labelShort} happy. -->
-  <MessageRescuedRelative>คุณได้ช่วย {PAWN_labelShort}  มันจะทำให้ {RELATIVE_labelShort} มีความสุข</MessageRescuedRelative>
+  <MessageRescuedRelative>คุณช่วยเหลือ {PAWN_labelShort}, นี่ทำให้ {RELATIVE_labelShort} มีความสุข</MessageRescuedRelative>
 
   <!-- EN: The tornado has left the map. -->
-  <MessageTornadoLeftMap>ทอนนาโด ได้ไปจากพื้นที่นี้แล้ว</MessageTornadoLeftMap>
+  <MessageTornadoLeftMap>พายุหมุนออกนอกแผนที่ไป</MessageTornadoLeftMap>
   <!-- EN: The tornado has dissipated. -->
-  <MessageTornadoDissipated>ทอนนาโด ได้หยุดลงแล้ว</MessageTornadoDissipated>
+  <MessageTornadoDissipated>พายุหมุนสลายตัว</MessageTornadoDissipated>
 
   <!-- EN: No conscious, capable diplomat. -->
-  <MessagePeaceTalksNoDiplomat>ไม่มีสติ หรือ ภูตในอาณานิคม</MessagePeaceTalksNoDiplomat>
+  <MessagePeaceTalksNoDiplomat>ไม่มีนักการทูตที่มีความสามารถและสติปัญญา</MessagePeaceTalksNoDiplomat>
 
   <!-- EN: Warning: {0} cannot live when exposed to light. -->
-  <MessageWarningCavePlantsExposedToLight>คำเตือน: {0} ไม่สามารถมีชีวิตอยู่ได้ถ้าโดนแสง</MessageWarningCavePlantsExposedToLight>
+  <MessageWarningCavePlantsExposedToLight>คำเตือน: {0} จะไม่รอดถ้าโดนแสง</MessageWarningCavePlantsExposedToLight>
 
   <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageTargetedTantrumChangedTarget>{PAWN_labelShort} ไม่สามารถเข้าหา {OLDTARGET_label} ได้ ดังนั้น{PAWN_pronoun}จึงตัดสินใจที่จะ{PAWN_possessive}ความโมโหไปที่ {TARGET_label}</MessageTargetedTantrumChangedTarget>
+  <MessageTargetedTantrumChangedTarget>{PAWN_labelShort} ไม่สามารถเข้าหา {OLDTARGET_label} ได้ ดังนั้น{PAWN_pronoun}จึงตัดสินใจ หันความโกรธ{PAWN_possessive}ไปหา {TARGET_label}</MessageTargetedTantrumChangedTarget>
 
   <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort} ไม่สามารถเข้าหา {OLDTARGET_label} ได้ ดังนั้น{PAWN_pronoun}จึงตัดสินใจที่จะ{PAWN_possessive}ความโมโหไปที่ {TARGET_label}</MessageTargetedInsultingSpreeChangedTarget>
+  <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort} ไม่สามารถเข้าหา {OLDTARGET_label} ได้ ดังนั้น{PAWN_pronoun}จึงตัดสินใจ หันความดูแคลน{PAWN_possessive}ไปหา {TARGET_label}</MessageTargetedInsultingSpreeChangedTarget>
 
   <!-- EN: {PAWN_labelShort} has decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageMurderousRageChangedTarget>TODO</MessageMurderousRageChangedTarget>
+  <MessageMurderousRageChangedTarget>{PAWN_labelShort} ตัดสินใจหันความโกรธ{PAWN_possessive}ไปหา {TARGET_label}</MessageMurderousRageChangedTarget>
 
   <!-- EN: {0} cannot grow underneath a roof. -->
-  <MessagePlantIncompatibleWithRoof>TODO</MessagePlantIncompatibleWithRoof>
+  <MessagePlantIncompatibleWithRoof>{0} ไม่สามารถเติบโตใต้หลังคาได้</MessagePlantIncompatibleWithRoof>
   <!-- EN: Cannot build a roof over {0}. -->
-  <MessageRoofIncompatibleWithPlant>TODO</MessageRoofIncompatibleWithPlant>
+  <MessageRoofIncompatibleWithPlant>ไม่สามารถสร้างหลงคาบน {0} ได้</MessageRoofIncompatibleWithPlant>
 
   <!-- EN: Caravan will automatically travel to the first waypoint. -->
-  <MessageChoseRoute>TODO</MessageChoseRoute>
+  <MessageChoseRoute>กองคาราวานจะเคลื่อนที่ไปยังเวย์พอยท์แรกโดยอัตโนมัติ</MessageChoseRoute>
 
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}. -->
-  <MessageCraftedMasterwork>TODO</MessageCraftedMasterwork>
+  <MessageCraftedMasterwork>{WORKER_labelShort} สร้างสรรค์ผลงาน {CRAFTED_labelShort}</MessageCraftedMasterwork>
 
   <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
-  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>TODO</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>เพื่อออกจากพื้นที่ ใช้ปุ่ม 'จัดกองคาราวาน' ในหน้าจอ 'โลก'</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
   <!-- EN: You can't leave the map now. -->
-  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>TODO</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>คุณไม่สามารถออกนอกแผนที่ตอนนี้</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
 
   <!-- EN: Relations with {0} have changed from {1} to {2}. -->
-  <MessageGoodwillChanged>TODO</MessageGoodwillChanged>
+  <MessageGoodwillChanged>ความสัมพันธ์กับ {0} เปลื่ยนจาก {1} เป็น {2}</MessageGoodwillChanged>
   <!-- EN: Relations with {0} have changed from {1} to {2} ({3}). -->
-  <MessageGoodwillChangedWithReason>TODO</MessageGoodwillChangedWithReason>
+  <MessageGoodwillChangedWithReason>ความสัมพันธ์กับ {0} เปลื่ยนจาก {1} เป็น {2} ({3})</MessageGoodwillChangedWithReason>
   <!-- EN: attacked {1_labelShort} -->
-  <GoodwillChangedReason_AttackedPawn>TODO</GoodwillChangedReason_AttackedPawn>
+  <GoodwillChangedReason_AttackedPawn>โจมตี {1_labelShort}</GoodwillChangedReason_AttackedPawn>
   <!-- EN: used {ITEM_labelShort} on {TARGET_labelShort} -->
-  <GoodwillChangedReason_UsedItem>TODO</GoodwillChangedReason_UsedItem>
+  <GoodwillChangedReason_UsedItem>ใช้ {ITEM_labelShort} กับ {TARGET_labelShort}</GoodwillChangedReason_UsedItem>
   <!-- EN: harvested {0} -->
-  <GoodwillChangedReason_RemovedBodyPart>TODO</GoodwillChangedReason_RemovedBodyPart>
+  <GoodwillChangedReason_RemovedBodyPart>เก็บเกี่ยว {0}</GoodwillChangedReason_RemovedBodyPart>
   <!-- EN: needlessly installed {0} -->
-  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>TODO</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
+  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>ติดตั้ง {0} โดยไม่จำเป็น</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
   <!-- EN: captured {1_labelShort} -->
-  <GoodwillChangedReason_CapturedPawn>TODO</GoodwillChangedReason_CapturedPawn>
+  <GoodwillChangedReason_CapturedPawn>จับตัว {1_labelShort}</GoodwillChangedReason_CapturedPawn>
   <!-- EN: {1_labelShort} crushed -->
-  <GoodwillChangedReason_PawnCrushed>TODO</GoodwillChangedReason_PawnCrushed>
+  <GoodwillChangedReason_PawnCrushed>{1_labelShort} โดนทับ</GoodwillChangedReason_PawnCrushed>
   <!-- EN: {1_labelShort} died -->
-  <GoodwillChangedReason_PawnDied>TODO</GoodwillChangedReason_PawnDied>
+  <GoodwillChangedReason_PawnDied>{1_labelShort} ตาย</GoodwillChangedReason_PawnDied>
   <!-- EN: traded -->
-  <GoodwillChangedReason_Traded>TODO</GoodwillChangedReason_Traded>
+  <GoodwillChangedReason_Traded>แลกเปลื่ยน</GoodwillChangedReason_Traded>
   <!-- EN: attacked a caravan -->
-  <GoodwillChangedReason_AttackedCaravan>TODO</GoodwillChangedReason_AttackedCaravan>
+  <GoodwillChangedReason_AttackedCaravan>โจมตีกองคาราวาน</GoodwillChangedReason_AttackedCaravan>
   <!-- EN: natural tendency to reach {0} over time -->
-  <GoodwillChangedReason_NaturallyOverTime>TODO</GoodwillChangedReason_NaturallyOverTime>
+  <GoodwillChangedReason_NaturallyOverTime>แนวโน้มตามธรรมชาติที่จะเข้าถึง {0} ตามกาลเวลา</GoodwillChangedReason_NaturallyOverTime>
   <!-- EN: {1_labelShort} exited the map healthy -->
-  <GoodwillChangedReason_ExitedMapHealthy>TODO</GoodwillChangedReason_ExitedMapHealthy>
+  <GoodwillChangedReason_ExitedMapHealthy>{1_labelShort} ออกจากแผนที่ด้วยสุขภาพดี</GoodwillChangedReason_ExitedMapHealthy>
   <!-- EN: tended to {1_labelShort} -->
-  <GoodwillChangedReason_Tended>TODO</GoodwillChangedReason_Tended>
+  <GoodwillChangedReason_Tended>ดูแลรักษา {1_labelShort}</GoodwillChangedReason_Tended>
   <!-- EN: received a gift -->
-  <GoodwillChangedReason_ReceivedGift>TODO</GoodwillChangedReason_ReceivedGift>
+  <GoodwillChangedReason_ReceivedGift>ได้รับของขวัญ</GoodwillChangedReason_ReceivedGift>
   <!-- EN: fulfilled a trade offer -->
-  <GoodwillChangedReason_FulfilledTradeRequest>TODO</GoodwillChangedReason_FulfilledTradeRequest>
+  <GoodwillChangedReason_FulfilledTradeRequest>เติบเต็มข้อเสนอแลกเปลื่ยน</GoodwillChangedReason_FulfilledTradeRequest>
 
   <!-- EN: {0} accept your gift but they don't appreciate it. -->
-  <MessageGiftGivenButNotAppreciated>TODO</MessageGiftGivenButNotAppreciated>
+  <MessageGiftGivenButNotAppreciated>{0} รับของขวัญจากคุณ แต่ไม่เห็นคุณค่าของมัน</MessageGiftGivenButNotAppreciated>
 
   <!-- EN: The caravan is already encumbered and can't carry anything else. -->
-  <MessageCantGiveGiftBecauseCantCarryEncumbered>TODO</MessageCantGiveGiftBecauseCantCarryEncumbered>
+  <MessageCantGiveGiftBecauseCantCarryEncumbered>กองคาราวานแบกเกินขนาดแล้ว ไม่สามารถแบกอะไรเพิ่มได้</MessageCantGiveGiftBecauseCantCarryEncumbered>
   <!-- EN: The caravan can't carry that much. The gifts weigh {0} but the caravan can only carry {1} more. -->
-  <MessageCantGiveGiftBecauseCantCarry>TODO</MessageCantGiveGiftBecauseCantCarry>
+  <MessageCantGiveGiftBecauseCantCarry>กองคาราวานไม่สามารถแบกได้เยอะขนาดนั้น ของขวัญน้ำหนัก {0} แต่คาราวานสามารถแบกได้อีกแค่ {1}</MessageCantGiveGiftBecauseCantCarry>
 
   <!-- EN: {0} has formed and is now traveling on the world map. -->
-  <MessageFormedCaravan>TODO</MessageFormedCaravan>
+  <MessageFormedCaravan>{0} ถูกตั้งขึ้น และกำลังเดินทางในแผนที่โลก</MessageFormedCaravan>
   <!-- EN: Orders -->
-  <MessageFormedCaravan_Orders>TODO</MessageFormedCaravan_Orders>
+  <MessageFormedCaravan_Orders>คำสั่ง</MessageFormedCaravan_Orders>
 
   <!-- EN: {1}'s "{0}" can no longer deliver to deleted stockpile {2}. -->
-  <MessageBillValidationStoreZoneDeleted>TODO</MessageBillValidationStoreZoneDeleted>
+  <MessageBillValidationStoreZoneDeleted>"{0}" โดย {1} ไม่สามารถนำไปเก็บในคลัง {2} ที่ถูกลบ</MessageBillValidationStoreZoneDeleted>
   <!-- EN: {1}'s "{0}" can no longer deliver to unavailable stockpile {2}. -->
-  <MessageBillValidationStoreZoneUnavailable>TODO</MessageBillValidationStoreZoneUnavailable>
+  <MessageBillValidationStoreZoneUnavailable>"{0}" โดย {1} ไม่สามารถนำไปเก็บในคลัง {2} ที่ไม่ว่าง</MessageBillValidationStoreZoneUnavailable>
   <!-- EN: {0} can no longer work on "{1}" at {2}. The restriction has been removed. -->
-  <MessageBillValidationPawnUnavailable>TODO</MessageBillValidationPawnUnavailable>
+  <MessageBillValidationPawnUnavailable>{0} ไม่สามารถทำงานกับ "{1}" ที่ {2} ได้อีก การควบคุมถูกยกเลิกไป</MessageBillValidationPawnUnavailable>
   <!-- EN: {1}'s "{0}" can no longer count items in deleted stockpile {2}. -->
-  <MessageBillValidationIncludeZoneDeleted>TODO</MessageBillValidationIncludeZoneDeleted>
+  <MessageBillValidationIncludeZoneDeleted>"{0}" โดย {1} ไม่สามารถนับจำนวนไอเท็มในคลัง {2} ที่ถูกลบ</MessageBillValidationIncludeZoneDeleted>
   <!-- EN: {1}'s "{0}" can no longer count items in unavailable stockpile {2}. -->
-  <MessageBillValidationIncludeZoneUnavailable>TODO</MessageBillValidationIncludeZoneUnavailable>
+  <MessageBillValidationIncludeZoneUnavailable>"{0}" โดย {1} ไม่สามารถนับจำนวนไอเท็มในคลัง {2} ที่ไม่ว่าง</MessageBillValidationIncludeZoneUnavailable>
   <!-- EN: {1}'s "{0}" can no longer deliver all products to stockpile {2}. -->
-  <MessageBillValidationStoreZoneInsufficient>TODO</MessageBillValidationStoreZoneInsufficient>
+  <MessageBillValidationStoreZoneInsufficient>"{0}" โดย {1} ไม่สามารถนำทุกผลผลิตไปเก็บในคลัง {2} ได้</MessageBillValidationStoreZoneInsufficient>
 
   <!-- EN: Because of a lack of taming maintenance, {1_labelShort} has returned to the wild. -->
-  <MessageAnimalReturnedWild>TODO</MessageAnimalReturnedWild>
+  <MessageAnimalReturnedWild>เนื่องจากขาดการดูแลที่เพียงพอ {1_labelShort} กลับไปเป็นสัตว์ป่า</MessageAnimalReturnedWild>
   <!-- EN: Due to a lack of maintenance training, {ANIMAL_labelShort} has lost a skill: {1} -->
-  <MessageAnimalLostSkill>TODO</MessageAnimalLostSkill>
+  <MessageAnimalLostSkill>เนื่องจากขาดการฝีกฝนที่เพียงพอ {ANIMAL_labelShort} สูญเสียทักษะ: {1}</MessageAnimalLostSkill>
 
   <!-- EN: Translation report written to {0} -->
-  <MessageTranslationReportSaved>TODO</MessageTranslationReportSaved>
+  <MessageTranslationReportSaved>Translation report เขียนไปไว้ที่ {0}</MessageTranslationReportSaved>
 
   <!-- EN: {0} couldn't reach its destination. -->
-  <MessageCaravanArrivalActionNoLongerValid>TODO</MessageCaravanArrivalActionNoLongerValid>
+  <MessageCaravanArrivalActionNoLongerValid>{0} ไม่สามารถไปปลายทาง</MessageCaravanArrivalActionNoLongerValid>
 
   <!-- EN: You can't re-enter for another {0} days. -->
-  <MessageEnterCooldownBlocksEntering>TODO</MessageEnterCooldownBlocksEntering>
+  <MessageEnterCooldownBlocksEntering>คุณไม่สามารถเข้าไปได้อีกจนกว่าจะ {0} วัน</MessageEnterCooldownBlocksEntering>
 
   <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
-  <MessagePredatorHuntingPlayerAnimal>TODO</MessagePredatorHuntingPlayerAnimal>
+  <MessagePredatorHuntingPlayerAnimal>{PREDATOR} กำลังไล่ล่า {PREY_definite} เป็นอาหาร!</MessagePredatorHuntingPlayerAnimal>
 
   <!-- EN: Prisoner {PRISONER_labelShort}'s resistance has been broken by {WARDEN_labelShort}. -->
-  <MessagePrisonerResistanceBroken>TODO</MessagePrisonerResistanceBroken>
+  <MessagePrisonerResistanceBroken>การต่อต้านของนักโทษ {PRISONER_labelShort} ถูกทำลายโดย {WARDEN_labelShort}</MessagePrisonerResistanceBroken>
   <!-- EN: Recruitment attempts will begin. -->
-  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>TODO</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
+  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>ต่อไปจะเริ่มพยายามชักชวนให้เข้าร่วม</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
 
   <!-- EN: Disable all mods before using this tool. -->
-  <MessageDisableModsBeforeCleaningTranslationFiles>TODO</MessageDisableModsBeforeCleaningTranslationFiles>
+  <MessageDisableModsBeforeCleaningTranslationFiles>ปิดใช้ mods ทั้งหมดด้วยเครื่องมือนี้</MessageDisableModsBeforeCleaningTranslationFiles>
   <!-- EN: Done. Affected folder: {0} -->
-  <MessageTranslationFilesCleanupDone>TODO</MessageTranslationFilesCleanupDone>
+  <MessageTranslationFilesCleanupDone>เสร็จ โฟลเดอร์ได้รับผลกระทบ: {0}</MessageTranslationFilesCleanupDone>
 
   <!-- EN: One of the translation files ({0}) couldn't be loaded. All XML parsing errors must be resolved first. -->
-  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>TODO</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
+  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>One of the translation files ({0}) couldn't be loaded. All XML parsing errors must be resolved first.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
 
   <!-- EN: Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}. -->
-  <MessageCapturingWillAngerFaction>TODO</MessageCapturingWillAngerFaction>
+  <MessageCapturingWillAngerFaction>คำเตือน: การจับตัว {PAWN_nameDef} จำทำให้ฝ่าย{PAWN_possessive}โกรธ ฝักฝ่ายชื่อ {PAWN_factionName}</MessageCapturingWillAngerFaction>
 
   <!-- EN: Cannot shoot in melee. -->
-  <MessageCantShootInMelee>TODO</MessageCantShootInMelee>
+  <MessageCantShootInMelee>ไม่สามารถยิงได้ระหว่างรบประชิด</MessageCantShootInMelee>
 
 </LanguageData>

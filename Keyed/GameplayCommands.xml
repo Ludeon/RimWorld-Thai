@@ -320,9 +320,9 @@
   
   <!-- Cancel forming caravan -->
   <!-- EN: Cancel forming caravan -->
-  <CommandCancelFormingCaravan>ยกเลิกจัดตั้ง กองคาราวาน</CommandCancelFormingCaravan>
+  <CommandCancelFormingCaravan>ยกเลิกตั้งคาราวาน</CommandCancelFormingCaravan>
   <!-- EN: Terminate the caravan formation process. -->
-  <CommandCancelFormingCaravanDesc>ยุติกระบวนการจัดตั้งกองคาราวาน</CommandCancelFormingCaravanDesc>
+  <CommandCancelFormingCaravanDesc>ยุติกระบวนการตั้งกองคาราวาน</CommandCancelFormingCaravanDesc>
 
   <!-- Remove from caravan -->
   <!-- EN: Remove from caravan -->

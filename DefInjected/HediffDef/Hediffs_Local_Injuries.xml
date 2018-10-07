@@ -159,7 +159,7 @@
   <Misc.labelNounPretty>{0} อยู่ใน {1}</Misc.labelNounPretty>
   
   <!-- EN: missing body part -->
-  <MissingBodyPart.label>ชิ้นส่วนร่างกายขาด</MissingBodyPart.label>
+  <MissingBodyPart.label>อวัยวะที่ขาด</MissingBodyPart.label>
   <!-- EN: a missing body part -->
   <MissingBodyPart.labelNoun>ส่วนหนึ่งของร่างกายที่ขาดหายไป</MissingBodyPart.labelNoun>
   <!-- EN: missing a {1} -->

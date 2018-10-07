@@ -11,13 +11,13 @@
   <Artifacts.label>วัตถุโบราณ</Artifacts.label>
   
   <!-- EN: body parts -->
-  <BodyParts.label>ส่วนร่างกาย</BodyParts.label>
+  <BodyParts.label>อวัยวะ</BodyParts.label>
   
   <!-- EN: artificial -->
-  <BodyPartsArtificial.label>ส่วนเทียม</BodyPartsArtificial.label>
+  <BodyPartsArtificial.label>อวัยวะเทียม</BodyPartsArtificial.label>
   
   <!-- EN: natural -->
-  <BodyPartsNatural.label>ส่วนธรรมชาติ</BodyPartsNatural.label>
+  <BodyPartsNatural.label>อวัยวะธรรมชาติ</BodyPartsNatural.label>
   
   <!-- EN: buildings -->
   <Buildings.label>สิ่งก่อสร้าง</Buildings.label>

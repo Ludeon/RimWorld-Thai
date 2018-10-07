@@ -70,11 +70,11 @@
   <GiveUpExit.recoveryMessage>{0} เกิดเปลื่ยนใจ และจะกลับเข้าอาณานิคม</GiveUpExit.recoveryMessage>
   
   <!-- EN: insulting spree -->
-  <InsultingSpree.label>เมามันดูแคลน</InsultingSpree.label>
+  <InsultingSpree.label>สบประมาทต่อเนื่อง</InsultingSpree.label>
   <!-- EN: Mental state: Insulting spree -->
   <InsultingSpree.baseInspectLine>สภาพจิตใจ: สบประมาทอย่างเมามัน</InsultingSpree.baseInspectLine>
   <!-- EN: {0} is on an insulting spree.\n\n[PAWN_pronoun] will wander around, randomly insulting others. -->
-  <InsultingSpree.beginLetter>{0} กำลังสบประมาทดูแคลนอย่างเมามัน\n\n{PAWN_pronoun}จะเดินเตร่ สุ่มๆสบประมาณคนอื่นไปทั่ว</InsultingSpree.beginLetter>
+  <InsultingSpree.beginLetter>{0} กำลังสบประมาทอย่างเมามันจนหยุดไม่อยู่\n\n{PAWN_pronoun}จะเดินเตร่ สุ่มๆสบประมาณคนอื่นไปทั่ว</InsultingSpree.beginLetter>
   <!-- EN: {0} is no longer on an insulting spree. -->
   <InsultingSpree.recoveryMessage>{0} หยุดดูแคลนอย่างเมามัน</InsultingSpree.recoveryMessage>
   

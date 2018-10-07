@@ -75,7 +75,7 @@
   <!-- EN: Life expectancy -->
   <StatsReport_LifeExpectancy>คาดการอายุ</StatsReport_LifeExpectancy>
   <!-- EN: Multiplier for missing body parts -->
-  <StatsReport_MissingBodyParts>ทวีคูณจากส่วนร่างกายที่ขาด</StatsReport_MissingBodyParts>
+  <StatsReport_MissingBodyParts>ทวีคูณจากอวัยวะที่ขาด</StatsReport_MissingBodyParts>
   <!-- EN: Gear and inventory -->
   <StatsReport_GearAndInventoryMass>อุปกรณ์และของติดตัว</StatsReport_GearAndInventoryMass>
   <!-- EN: Multiplier for worn by corpse -->
@@ -91,7 +91,7 @@
   <!-- EN: {0} -->
   <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
   <!-- EN: Added body parts -->
-  <StatsReport_AddedBodyPartsMass>เพิ่มส่วนร่างกาย</StatsReport_AddedBodyPartsMass>
+  <StatsReport_AddedBodyPartsMass>เพิ่มอวัยวะ</StatsReport_AddedBodyPartsMass>
   <!-- EN: Material effect multiplier -->
   <StatsReport_StuffEffectMultiplier>อิทธิพลจากวัสดุทวีคูณ</StatsReport_StuffEffectMultiplier>
   <!-- EN: Resting -->

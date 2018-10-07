@@ -523,7 +523,7 @@
   
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
-  <FormCaravan>จัดตั้งกองคาราวาน</FormCaravan>
+  <FormCaravan>ตั้งกองคาราวาน</FormCaravan>
   <!-- EN: Number available to send with the caravan. -->
   <FormCaravanColonyThingCountTip>จำนวนที่พร้อมนำไปกับคาราวาน</FormCaravanColonyThingCountTip>
   <!-- EN: People and animals -->
