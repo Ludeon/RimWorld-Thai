@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: blight -->
-  <Blight.label>TODO</Blight.label>
+  <Blight.label>โรคพืช</Blight.label>
   
   <!-- EN: explosion -->
-  <Explosion.label>TODO</Explosion.label>
+  <Explosion.label>ระเบิด</Explosion.label>
   
   <!-- EN: rect trigger -->
   <RectTrigger.label>Rect Trigger</RectTrigger.label>
   
   <!-- EN: tornado -->
-  <Tornado.label>TODO</Tornado.label>
+  <Tornado.label>พายุหมุน</Tornado.label>
   
   <!-- EN: trigger unfogged -->
-  <TriggerUnfogged.label>TODO</TriggerUnfogged.label>
+  <TriggerUnfogged.label>เปิดหมอก</TriggerUnfogged.label>
   
   <!-- EN: tunnel -->
-  <TunnelHiveSpawner.label>TODO</TunnelHiveSpawner.label>
+  <TunnelHiveSpawner.label>อุโมง</TunnelHiveSpawner.label>
   
 </LanguageData>
