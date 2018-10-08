@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: gladius -->
-  <MeleeWeapon_Gladius.label>ดาบโรมัน</MeleeWeapon_Gladius.label>
+  <MeleeWeapon_Gladius.label>ดาบกลาดิอุส</MeleeWeapon_Gladius.label>
   <!-- EN: A short sword of ancient design. Good for stabbing or slashing. It's light and nimble, which sometimes lets it beat bigger, heavier weapons. -->
-  <MeleeWeapon_Gladius.description>TODO</MeleeWeapon_Gladius.description>
+  <MeleeWeapon_Gladius.description>ดาบสั้นออกแบบเมื่อนานมาแล้ว เหมาะแก่การแทงหรือฟัน มันเบา รวดเร็ว ซึ่งบางครั้งทำให้มันเอาชนะอาวุธที่ใหญ่และหนักกว่าได้</MeleeWeapon_Gladius.description>
   <!-- EN: handle -->
   <MeleeWeapon_Gladius.tools.handle.label>TODO</MeleeWeapon_Gladius.tools.handle.label>
   <!-- EN: point -->
@@ -15,7 +15,7 @@
   <!-- EN: longsword -->
   <MeleeWeapon_LongSword.label>ดาบยาว</MeleeWeapon_LongSword.label>
   <!-- EN: The ancient weapon of kings, the longsword can be used for slashing or stabbing. -->
-  <MeleeWeapon_LongSword.description>TODO</MeleeWeapon_LongSword.description>
+  <MeleeWeapon_LongSword.description>อาวุธโบราณของกษัตริย ดาวยาวสามารถใช้เพื่อฟันหรือแทง</MeleeWeapon_LongSword.description>
   <!-- EN: handle -->
   <MeleeWeapon_LongSword.tools.handle.label>TODO</MeleeWeapon_LongSword.tools.handle.label>
   <!-- EN: point -->
@@ -24,9 +24,9 @@
   <MeleeWeapon_LongSword.tools.edge.label>TODO</MeleeWeapon_LongSword.tools.edge.label>
   
   <!-- EN: mace -->
-  <MeleeWeapon_Mace.label>กระบอง</MeleeWeapon_Mace.label>
+  <MeleeWeapon_Mace.label>ตระบองลูกตุ้ม</MeleeWeapon_Mace.label>
   <!-- EN: A refined club, engineered for efficient swinging and deadly impacts. -->
-  <MeleeWeapon_Mace.description>TODO</MeleeWeapon_Mace.description>
+  <MeleeWeapon_Mace.description>ตระบองปรับแต่ง ออกแบบเพื่อประสิทธิผลในการเวี่ยง พร้อมแรงกระแทกถึงตาย</MeleeWeapon_Mace.description>
   <!-- EN: handle -->
   <MeleeWeapon_Mace.tools.handle.label>TODO</MeleeWeapon_Mace.tools.handle.label>
   <!-- EN: head -->
