@@ -2,31 +2,31 @@
 <LanguageData>
   
   <!-- EN: cook fine meal -->
-  <CookMealFine.label>ปรุง มื้ออาหารแบบพิถีพิถัน</CookMealFine.label>
+  <CookMealFine.label>ปรุง อาหารชั้นดี</CookMealFine.label>
   <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
-  <CookMealFine.description>ปรุงมื้ออาหารที่ซับซ้อนขึ้นจากการผสมผสานวัตถุดิบระหว่างเนื้อกับพืช</CookMealFine.description>
+  <CookMealFine.description>ปรุงมื้ออาหารที่ซับซ้อน ขึ้นจากการผสมผสานวัตถุดิบระหว่างเนื้อกับพืช</CookMealFine.description>
   <!-- EN: Cooking fine meal. -->
-  <CookMealFine.jobString>กำลังปรุงมื้ออาหารแบบพิถีพิถัน</CookMealFine.jobString>
+  <CookMealFine.jobString>กำลังปรุงอาหารชั้นดี</CookMealFine.jobString>
   
   <!-- EN: cook lavish meal -->
-  <CookMealLavish.label>ปรุงมื้อ อาหารแบบสุดหรู</CookMealLavish.label>
+  <CookMealLavish.label>ปรุงมื้อ อาหารฟุ่มเฟือย</CookMealLavish.label>
   <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
-  <CookMealLavish.description>ปรุงอาหารที่ซับซ้อนอย่างมากขึ้นมาจากการรวมเอาวัตถุดิบอย่างเนื้อและพืช วัตถุดิบส่วนใหญ่จะเสียปล่าว</CookMealLavish.description>
+  <CookMealLavish.description>ปรุงมื้ออาหารที่ซับซ้อนอย่างมาก ขึ้นจากการผสมผสานวัตถุดิบระหว่างเนื้อกับพืช ส่วนผสมจำนวนมากเสียเปล่าไป</CookMealLavish.description>
   <!-- EN: Cooking lavish meal. -->
-  <CookMealLavish.jobString>กำลังปรุงมื้ออาหารแบบสุดหรู</CookMealLavish.jobString>
+  <CookMealLavish.jobString>กำลังปรุงอาหารฟุ่มเฟือย</CookMealLavish.jobString>
   
   <!-- EN: cook simple meal -->
-  <CookMealSimple.label>ปรุง มื้ออาหารแบบง่ายๆ</CookMealSimple.label>
+  <CookMealSimple.label>ปรุง อาหารง่ายๆ</CookMealSimple.label>
   <!-- EN: Cook a straightforward meal from one ingredient. -->
-  <CookMealSimple.description>ปรุงอาหารอย่างตรงๆขึ้นมาจากวัตถุดิบชนิดเดียว</CookMealSimple.description>
+  <CookMealSimple.description>ปรุงมื้ออาหารตรงๆ ขึ้นมาจากวัตถุดิบชนิดเดียว</CookMealSimple.description>
   <!-- EN: Cooking simple meal. -->
-  <CookMealSimple.jobString>กำลังปรุงมื้ออาหารแบบง่ายๆ</CookMealSimple.jobString>
+  <CookMealSimple.jobString>กำลังปรุงอาหารง่ายๆ</CookMealSimple.jobString>
   
   <!-- EN: cook packaged survival meal -->
-  <CookMealSurvival.label>ปรุง อาหารเอาตัวรอด</CookMealSurvival.label>
+  <CookMealSurvival.label>ปรุง อาหารสำเร็จฉุกเฉิน</CookMealSurvival.label>
   <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
-  <CookMealSurvival.description>ปรุงอาหารฉุกเฉินจากพืชต่างๆและเนื้อสัตว์ อย่างไรก็ตามในขณะที่จำนวนมากของส่วนผสมที่มีการสูญเสีย</CookMealSurvival.description>
+  <CookMealSurvival.description>ปรุงอาหารสำเร็จฉุกเฉิน ขึ้นจากการผสมผสานวัตถุดิบระหว่างเนื้อกับพืช ส่วนผสมจำนวนมากเสียเปล่าไปกับขั้นตอนป้องกันการกันบูด</CookMealSurvival.description>
   <!-- EN: Cooking survival meal. -->
-  <CookMealSurvival.jobString>กำลังปรุงอาหารเอาตัวรอด</CookMealSurvival.jobString>
+  <CookMealSurvival.jobString>กำลังปรุงอาหารสำเร็จฉุกเฉิน</CookMealSurvival.jobString>
   
 </LanguageData>

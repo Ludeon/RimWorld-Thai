@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: burn apparel -->
-  <BurnApparel.label>เผาทำลาย เสื้อผ้า</BurnApparel.label>
+  <BurnApparel.label>เผาเสื้อผ้า</BurnApparel.label>
   <!-- EN: Burn unwanted apparel to completely destroy it. -->
-  <BurnApparel.description>เผาเสื้อผ้าเพื่อทำลายให้หมดไป</BurnApparel.description>
+  <BurnApparel.description>เผาทำลายเสื้อผ้าที่ไม่ต้องการ เพื่อทำลายให้หมดไป</BurnApparel.description>
   <!-- EN: Burning apparel. -->
   <BurnApparel.jobString>กำลังเผาเสื้อผ้า</BurnApparel.jobString>
   
   <!-- EN: burn drugs -->
-  <BurnDrugs.label>เผาทำลาย ยา</BurnDrugs.label>
+  <BurnDrugs.label>เผายา</BurnDrugs.label>
   <!-- EN: Burn unwanted drugs to completely destroy them. -->
-  <BurnDrugs.description>เผายาเพื่อทำลายให้หมดไป</BurnDrugs.description>
+  <BurnDrugs.description>เผาทำลายยาที่ไม่ต้องการ เพื่อทำลายให้หมดไป</BurnDrugs.description>
   <!-- EN: Burning drugs. -->
   <BurnDrugs.jobString>กำลังเผายา</BurnDrugs.jobString>
   
   <!-- EN: cremate corpse -->
-  <CremateCorpse.label>เผาทำลาย ศพ</CremateCorpse.label>
+  <CremateCorpse.label>ฌาปนกิจศพ</CremateCorpse.label>
   <!-- EN: Cremate a corpse to completely destroy it. -->
-  <CremateCorpse.description>ฌาปนกิจศพเพื่อทำลายศพให้หมด</CremateCorpse.description>
+  <CremateCorpse.description>ฌาปนกิจศพ เพื่อทำลายให้หมดไป</CremateCorpse.description>
   <!-- EN: Cremating. -->
-  <CremateCorpse.jobString>กำลังฌาปนกิจ</CremateCorpse.jobString>
+  <CremateCorpse.jobString>กำลังฌาปนกิจศพ</CremateCorpse.jobString>
   
 </LanguageData>

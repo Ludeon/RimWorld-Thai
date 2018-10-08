@@ -2,66 +2,66 @@
 <LanguageData>
   
   <!-- EN: destroy weapon -->
-  <DestroyWeapon.label>ทำลาย อาวุธ</DestroyWeapon.label>
+  <DestroyWeapon.label>ทำลายอาวุธ</DestroyWeapon.label>
   <!-- EN: Use heat to destroy unwanted weapons. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
-  <DestroyWeapon.description>TODO</DestroyWeapon.description>
+  <DestroyWeapon.description>ใช้ความร้อนเพื่อทำลายอาวุธที่ไม่ต้องการ กระบวนการนี้เร็วกว่าการหลอม สามารถใช้ได้กับไอเท็มที่หลอมไม่ได้ด้วย แต่จะไม่ได้ทรัพยากรใดๆกลับมา</DestroyWeapon.description>
   <!-- EN: Destroying weapon. -->
   <DestroyWeapon.jobString>กำลังทำลายอาวุธ</DestroyWeapon.jobString>
   
   <!-- EN: smelt metal from slag -->
-  <ExtractMetalFromSlag.label>หลอมโลหะ จากขี้แร่</ExtractMetalFromSlag.label>
+  <ExtractMetalFromSlag.label>หลอม โลหะจากกากแร่</ExtractMetalFromSlag.label>
   <!-- EN: Use heat and strong electromagnets to extract useful metal from slag chunks. -->
-  <ExtractMetalFromSlag.description>ใช้ความร้อนและแม่เหล็กไฟฟ้าแรงสูง เพื่อแยกโลหะที่มีประโยชน์ออกจากก้อนขี้แร่</ExtractMetalFromSlag.description>
+  <ExtractMetalFromSlag.description>ใช้ความร้อนและแม่เหล็กไฟฟ้าแรงสูง เพื่อแยกโลหะที่มีประโยชน์ออกจากชื้นส่วนกากแร่</ExtractMetalFromSlag.description>
   <!-- EN: Smelting metal from slag. -->
-  <ExtractMetalFromSlag.jobString>กำลังสกัดโลหะอกกจากขี้แร่</ExtractMetalFromSlag.jobString>
+  <ExtractMetalFromSlag.jobString>กำลังหลอมโลหะจากกากแร่</ExtractMetalFromSlag.jobString>
   
   <!-- EN: make chemfuel from organics -->
-  <Make_ChemfuelFromOrganics.label>ทำ เชื้อเพลิง (ออร์แกนิค)</Make_ChemfuelFromOrganics.label>
+  <Make_ChemfuelFromOrganics.label>ทำ เชื้อเพลิงจากออร์แกนิค</Make_ChemfuelFromOrganics.label>
   <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. -->
-  <Make_ChemfuelFromOrganics.description>TODO</Make_ChemfuelFromOrganics.description>
+  <Make_ChemfuelFromOrganics.description>ผลิตชุดเชื้อเพลิงเคมี ด้วยการสกัดเชื้อเพลิงไอโบจากวัตถุดิบอินทรีย์</Make_ChemfuelFromOrganics.description>
   <!-- EN: Refining chemfuel from organics. -->
   <Make_ChemfuelFromOrganics.jobString>กำลังทำเชื้อเพลิง</Make_ChemfuelFromOrganics.jobString>
   
   <!-- EN: make chemfuel from wood -->
-  <Make_ChemfuelFromWood.label>ทำ เชื้อเพลิง (ไม้)</Make_ChemfuelFromWood.label>
+  <Make_ChemfuelFromWood.label>ทำ เชื้อเพลิงจากไม้</Make_ChemfuelFromWood.label>
   <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
-  <Make_ChemfuelFromWood.description>TODO</Make_ChemfuelFromWood.description>
+  <Make_ChemfuelFromWood.description>ผลิตชุดเชื้อเพลิงเคมี ด้วยการสกัดและควบแน่นแก๊สไม้จากไม้ซุง</Make_ChemfuelFromWood.description>
   <!-- EN: Refining chemfuel from wood. -->
   <Make_ChemfuelFromWood.jobString>กำลังทำเชื้อเพลิง</Make_ChemfuelFromWood.jobString>
   
   <!-- EN: make component -->
-  <Make_ComponentIndustrial.label>ทำ ส่วนประกอบ</Make_ComponentIndustrial.label>
+  <Make_ComponentIndustrial.label>ทำ คอมโพเน้นท์</Make_ComponentIndustrial.label>
   <!-- EN: Make a component. -->
-  <Make_ComponentIndustrial.description>ทำส่วนประกอบขึ้นมา</Make_ComponentIndustrial.description>
+  <Make_ComponentIndustrial.description>ผลิตคอมโพเน้นท์</Make_ComponentIndustrial.description>
   <!-- EN: Making component. -->
-  <Make_ComponentIndustrial.jobString>กำลังทำส่วนประกอบ</Make_ComponentIndustrial.jobString>
+  <Make_ComponentIndustrial.jobString>กำลังทำคอมโพเน้นท์</Make_ComponentIndustrial.jobString>
   
   <!-- EN: make advanced component -->
-  <Make_ComponentSpacer.label>ทำ คอมโพเนนต์ขั้นสูง</Make_ComponentSpacer.label>
+  <Make_ComponentSpacer.label>ทำ คอมโพเน้นท์ชั้นสูง</Make_ComponentSpacer.label>
   <!-- EN: Make an advanced component. -->
-  <Make_ComponentSpacer.description>TODO</Make_ComponentSpacer.description>
+  <Make_ComponentSpacer.description>ผลิตคอมโพเน้นท์ชั้นสูง</Make_ComponentSpacer.description>
   <!-- EN: Making advanced component. -->
-  <Make_ComponentSpacer.jobString>กำลังทำคอมโพเนนต์ขั้นสูง</Make_ComponentSpacer.jobString>
+  <Make_ComponentSpacer.jobString>กำลังทำคอมโพเน้นท์ชั้นสูง</Make_ComponentSpacer.jobString>
   
   <!-- EN: make patchleather -->
-  <Make_Patchleather.label>TODO</Make_Patchleather.label>
+  <Make_Patchleather.label>ทำ หนังแผ่นปะ</Make_Patchleather.label>
   <!-- EN: Combine various types of leather to create weak patchleather. -->
-  <Make_Patchleather.description>TODO</Make_Patchleather.description>
+  <Make_Patchleather.description>รวมหนังหลายๆประเภท เพื่อสร้างหนังแผ่นปะที่ไม่ค่อยแข็งแรง</Make_Patchleather.description>
   <!-- EN: Making patchleather. -->
-  <Make_Patchleather.jobString>TODO</Make_Patchleather.jobString>
+  <Make_Patchleather.jobString>กำลังทำหนังแผ่นปะ</Make_Patchleather.jobString>
   
   <!-- EN: make any stone blocks -->
   <Make_StoneBlocksAny.label>ทำ บล็อกหิน</Make_StoneBlocksAny.label>
   <!-- EN: Cut rock chunks into usable stone blocks. -->
-  <Make_StoneBlocksAny.description>ตัดก้อนหินให้กลายเป็นบล็อกที่ใช้งานได้</Make_StoneBlocksAny.description>
+  <Make_StoneBlocksAny.description>ตัดชิ้นส่วนก้อนหินใดๆก็ได้ ให้กลายเป็นบล็อกที่ใช้งานได้</Make_StoneBlocksAny.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksAny.jobString>กำลังตัดหิน</Make_StoneBlocksAny.jobString>
+  <Make_StoneBlocksAny.jobString>กำลังตัดบล็อกหินจากชิ้นส่วน</Make_StoneBlocksAny.jobString>
   
   <!-- EN: smelt weapon -->
-  <SmeltWeapon.label>หลอมโลหะ จากอาวุธ</SmeltWeapon.label>
+  <SmeltWeapon.label>หลอม อาวุธ</SmeltWeapon.label>
   <!-- EN: Use heat and strong electromagnets to break down weapons into useful resources. -->
-  <SmeltWeapon.description>ใช้ความร้อนและแม่เหล็กไฟฟ้าแรงสูง เพื่อแยกโลหะที่มีประโยชน์ออกจากอาวุธ</SmeltWeapon.description>
+  <SmeltWeapon.description>ใช้ความร้อนและแม่เหล็กไฟฟ้าแรงสูง ทำลายอาวุธให้กลายเป็นทรัพยากรที่มีประโยชน์</SmeltWeapon.description>
   <!-- EN: Smelting weapon. -->
-  <SmeltWeapon.jobString>กำลังหลอมโลหะจากอาวุธ</SmeltWeapon.jobString>
+  <SmeltWeapon.jobString>กำลังหลอมอาวุธ</SmeltWeapon.jobString>
   
 </LanguageData>

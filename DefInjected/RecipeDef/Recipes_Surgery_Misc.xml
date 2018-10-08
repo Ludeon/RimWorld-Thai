@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: administer healer mech serum -->
-  <AdministerMechSerumHealer.label>TODO</AdministerMechSerumHealer.label>
+  <AdministerMechSerumHealer.label>ฉีดซีรั่มกลรักษา</AdministerMechSerumHealer.label>
   <!-- EN: Administer a healer mech serum. -->
-  <AdministerMechSerumHealer.description>TODO</AdministerMechSerumHealer.description>
+  <AdministerMechSerumHealer.description>ให้ยาซีรั่มกลรักษา</AdministerMechSerumHealer.description>
   <!-- EN: Administering healer mech serum. -->
-  <AdministerMechSerumHealer.jobString>TODO</AdministerMechSerumHealer.jobString>
+  <AdministerMechSerumHealer.jobString>กำลังฉีดซีรั่มกลรักษา</AdministerMechSerumHealer.jobString>
   
   <!-- EN: anesthetize -->
-  <Anesthetize.label>ใส่ยา นอนหลับ</Anesthetize.label>
+  <Anesthetize.label>ให้ยานอนหลับ</Anesthetize.label>
   <!-- EN: Render a creature unconscious by administering general anesthetic. -->
-  <Anesthetize.description>สิ่งมีชีวิตที่ดมยาสลบโดยการบริหารยาชา</Anesthetize.description>
+  <Anesthetize.description>ทำให้สิ่งมีชีวิตหมดสติโดยการฉีดยาสลบทั่วไป</Anesthetize.description>
   <!-- EN: Anesthetizing. -->
-  <Anesthetize.jobString>กำลังใส่ยานอนหลับ</Anesthetize.jobString>
+  <Anesthetize.jobString>กำลังให้ยานอนหลับ</Anesthetize.jobString>
   
   <!-- EN: euthanize by cut -->
-  <Euthanize.label>การุณยฆาต</Euthanize.label>
+  <Euthanize.label>การุณยฆาตด้วยการฟัน</Euthanize.label>
   <!-- EN: Euthanize a creature by cutting. -->
-  <Euthanize.description>ทำให้จบชีวิต</Euthanize.description>
+  <Euthanize.description>การุณยฆาตสิ่งมีชีวิตให้จบชีวิต ด้วยวิธีการฟัน</Euthanize.description>
   <!-- EN: Euthanizing by cutting. -->
-  <Euthanize.jobString>กำลังทำการุณยฆาต</Euthanize.jobString>
+  <Euthanize.jobString>กำลังทำการุณยฆาตด้วยการฟัน</Euthanize.jobString>
   
   <!-- EN: excise carcinoma -->
-  <ExciseCarcinoma.label>ตัด ก้อนมะเร็ง</ExciseCarcinoma.label>
+  <ExciseCarcinoma.label>ตัดก้อนมะเร็ง</ExciseCarcinoma.label>
   <!-- EN: Excise a carcinoma. -->
   <ExciseCarcinoma.description>ตัดเอาก้อนมะเร็งออก</ExciseCarcinoma.description>
   <!-- EN: Excising carcinoma. -->
@@ -32,9 +32,9 @@
   <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} ได้ตัดก้อนมะเร็งให้กับ {1} เป็นผลสำเร็จ</ExciseCarcinoma.successfullyRemovedHediffMessage>
   
   <!-- EN: remove part -->
-  <RemoveBodyPart.label>เอา อวัยวะออก</RemoveBodyPart.label>
+  <RemoveBodyPart.label>เอาอวัยวะออก</RemoveBodyPart.label>
   <!-- EN: Remove a body part. -->
-  <RemoveBodyPart.description>เอาอวัยวะออกไป</RemoveBodyPart.description>
+  <RemoveBodyPart.description>เอาชิ้นส่วนร่างกายออกไป</RemoveBodyPart.description>
   <!-- EN: Removing body part. -->
   <RemoveBodyPart.jobString>กำลังเอาอวัยวะออก</RemoveBodyPart.jobString>
   

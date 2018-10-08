@@ -4,15 +4,15 @@
   <!-- EN: butcher creature -->
   <ButcherCorpseFlesh.label>แล่เนื้อ</ButcherCorpseFlesh.label>
   <!-- EN: Butcher a creature to obtain its meat, leather, and other body products. -->
-  <ButcherCorpseFlesh.description>แล่เนื้อสัตว์ต่างๆเพื่อนำเนื้อมาใช้งาน</ButcherCorpseFlesh.description>
+  <ButcherCorpseFlesh.description>แล่เนื้อสิ่งมีชีวิต เพื่อให้ได้เนื้อ หนัง และชิ้นส่วนอื่นๆจากร่างกาย</ButcherCorpseFlesh.description>
   <!-- EN: Butchering. -->
   <ButcherCorpseFlesh.jobString>กำลังแล่เนื้อ</ButcherCorpseFlesh.jobString>
   
   <!-- EN: disassemble mechanoid -->
-  <ButcherCorpseMechanoid.label>รื้อ ชิ้นส่วนเมคานอยด์</ButcherCorpseMechanoid.label>
+  <ButcherCorpseMechanoid.label>แยกชิ้นเมคานอยด์</ButcherCorpseMechanoid.label>
   <!-- EN: Disassemble a dead mechanoid into its component parts. -->
-  <ButcherCorpseMechanoid.description>รื้อชิ้นส่วนของเมคานอยด์ที่ตายแล้วให้เป็นส่วนประกอบ</ButcherCorpseMechanoid.description>
+  <ButcherCorpseMechanoid.description>รื้อชิ้นส่วนของเมคานอยด์ที่ตายแล้ว ให้กลายเป็นคอมโพเน้นท์</ButcherCorpseMechanoid.description>
   <!-- EN: Disassembling mechanoid. -->
-  <ButcherCorpseMechanoid.jobString>กำลังรื้อชิ้นส่วนเมคานอยด์</ButcherCorpseMechanoid.jobString>
+  <ButcherCorpseMechanoid.jobString>กำลังแยกชิ้นเมคานอยด์</ButcherCorpseMechanoid.jobString>
   
 </LanguageData>
