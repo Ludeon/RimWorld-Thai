@@ -15,7 +15,7 @@
   <!-- EN: fennec fox -->
   <Fox_Fennec.label>จิ้งจอกทะเลทราย</Fox_Fennec.label>
   <!-- EN: A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat. -->
-  <Fox_Fennec.description>TODO</Fox_Fennec.description>
+  <Fox_Fennec.description>จิ้งจอกขนาดเล็ก มีต้นกำเนิดมาจากส่วนเหนือของทวีปแอฟริกาบนโลก มันล่าสัตว์เล็กเป็นอาหาร มีใบหูขนาดใหม่เพื่อทำตัวเองให้เย็นลงภายใต้ความร้อน</Fox_Fennec.description>
   <!-- EN: foxmeat -->
   <Fox_Fennec.race.meatLabel>เนื้อจิ้งจอก</Fox_Fennec.race.meatLabel>
   <!-- EN: left claw -->
@@ -28,7 +28,7 @@
   <!-- EN: red fox -->
   <Fox_Red.label>จิ้งจอกแดง</Fox_Red.label>
   <!-- EN: A small solitary canine evolved for hunting small prey in temperate climates. Chicken farmers hate foxes because of their ability to destroy a whole coop in minutes. -->
-  <Fox_Red.description>TODO</Fox_Red.description>
+  <Fox_Red.description>สุนัขสันโดษ วิวัฒนาการมาเพื่อล่าสัตว์เล็กในเขตอบอุ่น บรรดาเจ้าของฟาร์มไก่ทั้งหลายเกลียดหมาจิ้งจอกนัก จากการที่มันสามารถฟาดไก่เรียบทั้งกรงได้ภายในไม่ถึงนาที</Fox_Red.description>
   <!-- EN: left claw -->
   <Fox_Red.tools.left_claw.label>กรงเล็บซ้าย</Fox_Red.tools.left_claw.label>
   <!-- EN: right claw -->
@@ -39,7 +39,7 @@
   <!-- EN: warg -->
   <Warg.label>วาร์ก</Warg.label>
   <!-- EN: Heavily-muscled wolf-like creatures with vicious unnatural claws and an absurdly powerful bite. They will only eat meat or corpses. If disturbed in the wild, they are very likely to attack.\n\nScientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god. -->
-  <Warg.description>TODO</Warg.description>
+  <Warg.description>สิ่งมีชีวิตคล้ายหมาป่า เต็มไปด้วยกล้ามเนื้อ มีกรงเล็บที่ร้ายกาจผิดธรรมชาติและแรงกัดอันมากมายเกินจริง พวกมันกินเฉพาะเนื้อหรือซากศพเท่านั้น, หากพวกมันถูกรบกวนเมื่ออยู่ในป่า โอกาศที่มันสูงจะโจมตี\n\nนักวิทยาศาสต์กล่าวว่า วาร์ก สืบทอดต้นกำเนิดมาจากสัตว์สงคราม สร้างขึ้นเพื่อกดขี่ประชากร, พวกเชื่อถือผีสาง เห็นมันเป็นเครื่องมือของพระเจ้าผู้พิโรธ</Warg.description>
   <!-- EN: left claw -->
   <Warg.tools.left_claw.label>กรงเล็บซ้าย</Warg.tools.left_claw.label>
   <!-- EN: right claw -->
@@ -52,7 +52,7 @@
   <!-- EN: arctic wolf -->
   <Wolf_Arctic.label>หมาป่าขั้วโลก</Wolf_Arctic.label>
   <!-- EN: An arctic variant of the old Earth wolf. As pack hunters, wolves have a complex social life and are fiercely intelligent. -->
-  <Wolf_Arctic.description>TODO</Wolf_Arctic.description>
+  <Wolf_Arctic.description>สายพันธุ์อาติกของหมาป่าเก่าแก่จากโลก ในสถานะฝูงนักล่า หมาป่ามีสภาพสังคมที่ซับซ้อนและฉลาดอย่างน่ากลัว</Wolf_Arctic.description>
   <!-- EN: left claw -->
   <Wolf_Arctic.tools.left_claw.label>กรงเล็บซ้าย</Wolf_Arctic.tools.left_claw.label>
   <!-- EN: right claw -->
@@ -63,7 +63,7 @@
   <!-- EN: timber wolf -->
   <Wolf_Timber.label>หมาป่า</Wolf_Timber.label>
   <!-- EN: A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent. -->
-  <Wolf_Timber.description>TODO</Wolf_Timber.description>
+  <Wolf_Timber.description>นักล่าทรหด เป็นที่หวาดกลัวในหลายๆอารยธรรมโบราณบนโลก ในสถานะฝูงนักล่า หมาป่ามีสภาพสังคมที่ซับซ้อนและฉลาดอย่างน่ากลัว</Wolf_Timber.description>
   <!-- EN: wolfmeat -->
   <Wolf_Timber.race.meatLabel>เนื้อหมาป่า</Wolf_Timber.race.meatLabel>
   <!-- EN: left claw -->

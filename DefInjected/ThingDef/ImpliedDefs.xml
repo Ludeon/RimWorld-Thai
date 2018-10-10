@@ -74,7 +74,7 @@
   <Corpse_Gazelle.label>ซากกาเซลล์</Corpse_Gazelle.label>
   
   <!-- EN: ศพกระต่ายป่า -->
-  <Corpse_Hare.label>ซากกระต่ายป่า</Corpse_Hare.label>
+  <Corpse_Hare.label>ซากกระต่าย</Corpse_Hare.label>
   
   <!-- EN: ศพมนุษย์ -->
   <Corpse_Human.label>ซากมนุษย์</Corpse_Human.label>
@@ -97,11 +97,17 @@
   <!-- EN: ศพตะขาบกล -->
   <Corpse_Mech_Centipede.label>ซากตะขาบกล</Corpse_Mech_Centipede.label>
   
+  <!-- EN: ศพแลนเซอร์ -->
+  <Corpse_Mech_Lancer.label>ซากแลนเซอร์</Corpse_Mech_Lancer.label>
+  
   <!-- EN: ศพไซเธอร์ -->
   <Corpse_Mech_Scyther.label>ซากไซเธอร์</Corpse_Mech_Scyther.label>
   
   <!-- EN: ศพด้วงยักษ์ -->
   <Corpse_Megascarab.label>ซากด้วงยักษ์</Corpse_Megascarab.label>
+  
+  <!-- EN: ศพสลอธยักษ์ -->
+  <Corpse_Megasloth.label>ซากสลอธยักษ์</Corpse_Megasloth.label>
   
   <!-- EN: ศพแมงมุมยักษ์ -->
   <Corpse_Megaspider.label>ซากแมงมุมยักษ์</Corpse_Megaspider.label>
@@ -243,6 +249,9 @@
   
   <!-- EN: เนื้อ แมวป่า -->
   <Meat_Lynx.label>เนื้อแมวป่า</Meat_Lynx.label>
+  
+  <!-- EN: เนื้อ สลอธยักษ์ -->
+  <Meat_Megasloth.label>เนื้อสลอธยักษ์</Meat_Megasloth.label>
   
   <!-- EN: เนื้อแมลง -->
   <Meat_Megaspider.label>เนื้อแมลง</Meat_Megaspider.label>

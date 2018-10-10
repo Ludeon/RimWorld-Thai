@@ -4,7 +4,7 @@
   <!-- EN: caribou -->
   <Caribou.label>กวางแคริบู</Caribou.label>
   <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
-  <Caribou.description>TODO</Caribou.description>
+  <Caribou.description>สมาชิกขนาดใหญ่ของสัตว์ตระกูลกวาง ปรับตัวได้ดีเข้ากับภูมิอากาศหนาวเย็น กวางแคริบูสามารถรีดนมได้ แต่ปฏิเสธที่จะแบกของ</Caribou.description>
   <!-- EN: left hoof -->
   <Caribou.tools.left_hoof.label>กีบซ้าย</Caribou.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -15,7 +15,7 @@
   <!-- EN: deer -->
   <Deer.label>กวาง</Deer.label>
   <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. -->
-  <Deer.description>TODO</Deer.description>
+  <Deer.description>ฝูงสัตว์กินพืชขนาดกลาง พึ่งพอใจกับการใช้ชีวิจในป่าผสมทุ่งหญ้า, กวางนั้นเคลื่อนไหวรวดเร็ว</Deer.description>
   <!-- EN: venison -->
   <Deer.race.meatLabel>เนื้อกวาง</Deer.race.meatLabel>
   <!-- EN: left hoof -->
@@ -30,7 +30,7 @@
   <!-- EN: elk -->
   <Elk.label>กวางเอลก์</Elk.label>
   <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
-  <Elk.description>TODO</Elk.description>
+  <Elk.description>สมาชิกขนาดใหญ่ของสัตว์ตระกูลกวาง ปรับตัวได้ดีเข้ากับภูมิอากาศหนาวเย็น กวางเอลก์เลี้ยงสามารถรีดนมได้ แต่ปฏิเสธที่จะแบกของ</Elk.description>
   <!-- EN: left hoof -->
   <Elk.tools.left_hoof.label>กีบซ้าย</Elk.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -41,7 +41,7 @@
   <!-- EN: ibex -->
   <Ibex.label>แพะภูเขา</Ibex.label>
   <!-- EN: The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
-  <Ibex.description>TODO</Ibex.description>
+  <Ibex.description>บรรพบุรุษโบราณของแพะเลี้ยง แพะภูเขามีชีวิตในอาณาเขตที่แม้ละมั่งยังไม่อาจอยู่รอด กินไลเคนและพืชที่เกิดบางตาตามภูเขา พวกมันมีชื่อเสียงด้านความคล่องแคล่วในการกระโดดข้ามหน้าผา และการวิ่งจู่โจมอันรุนแรง</Ibex.description>
   <!-- EN: left hoof -->
   <Ibex.tools.left_hoof.label>กีบซ้าย</Ibex.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -52,7 +52,7 @@
   <!-- EN: tortoise -->
   <Tortoise.label>เต่า</Tortoise.label>
   <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
-  <Tortoise.description>TODO</Tortoise.description>
+  <Tortoise.description>สัตว์เลื้อยคลานมีกระดองแข็งแรง อาศัยบนบก เป็นที่รู้จักกันจากความเชื่องช้าในการเดิน และแรงกัดที่ร้ายกาจอย่างไม่น่าเชื่อ ด้วยเกราะป้องกันตามธรรมชาติ พวกมันยากที่จะฆ่า และสร้างความเสียหายจริงจังในศึกสู้ประชิดที่โดนลากยาว</Tortoise.description>
   <!-- EN: beak -->
   <Tortoise.tools.beak.label>จงอย</Tortoise.tools.beak.label>
   <!-- EN: head -->
@@ -61,7 +61,7 @@
   <!-- EN: wild boar -->
   <WildBoar.label>หมูป่า</WildBoar.label>
   <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
-  <WildBoar.description>TODO</WildBoar.description>
+  <WildBoar.description>สัตว์ขนดกกินทั้งพืชและสัตว์นี้ สืบทอดมากจากหมูที่หลุดหนีไป และวิวัฒนาการเพื่ออาศัยอยู่ในป่า\n\nเขี้ยวทำให้มันเป็นนักสู้ที่ยอดเยื่ยมกว่าหมูเลี้ยง โชคไม่ดีที่พวกมันควบคุมไม่อยู่ เกินกว่าจะฝึกให้ทำงานส่วนมากที่ซับซ้อนได้</WildBoar.description>
   <!-- EN: tusk -->
   <WildBoar.tools.tusk.label>เขี้ยว</WildBoar.tools.tusk.label>
   <!-- EN: head -->

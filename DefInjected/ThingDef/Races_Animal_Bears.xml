@@ -4,7 +4,7 @@
   <!-- EN: grizzly bear -->
   <Bear_Grizzly.label>หมีกริซลี</Bear_Grizzly.label>
   <!-- EN: A huge omnivorous mammal adapted for cold climates. Bears' thick blubber and fur keeps them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the grizzly is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
-  <Bear_Grizzly.description>TODO</Bear_Grizzly.description>
+  <Bear_Grizzly.description>สัตว์เลี้ยงลูกด้วยนมกินสัตว์ขนาดมหึมา ปรับตัวเข้ากับสภาพอากาศหนาวเย็น หมีมีชั้นไขมันหนาและขนช่วยให้มันอบอุ่นในหน้าหนาว\n\nในขณะโภชนาหารปกติของพวกมันประกอบด้วยปลา เบอร์รี่ น้ำผึ้ง และซากเนื้อต่างๆ กริซลีสามารถใช้พลังอันดุดันและกรงเล็บร้ายกาจของมันในการฆ่าเหยื่อมีชีวิตได้ พวกมันรวดเร็วอย่างน่าตกใจสำหรับสิ่งมีชีวืตที่อวบเช่นนี้</Bear_Grizzly.description>
   <!-- EN: bear meat -->
   <Bear_Grizzly.race.meatLabel>เนื้อหมี</Bear_Grizzly.race.meatLabel>
   <!-- EN: left claw -->
@@ -17,7 +17,7 @@
   <!-- EN: polar bear -->
   <Bear_Polar.label>หมีขาว</Bear_Polar.label>
   <!-- EN: A great white bear adapted for frozen climates. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish and scavenged meat, the polar bear can also use its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
-  <Bear_Polar.description>TODO</Bear_Polar.description>
+  <Bear_Polar.description>หมีขาวอันยิ่งใหญ่ ปรับตัวเข้ากับสภาพอากาศน้ำแข็ง มีชั้นไขมันหนาและขนช่วยให้มันอบอุ่นในหน้าหนาว\n\nในขณะโภชนาหารปกติของพวกมันประกอบด้วยปลาและซากเนื้อต่างๆ หมีขาวสามารถใช้พลังอันดุดันและกรงเล็บร้ายกาจของมันในการฆ่าเหยื่อมีชีวิตได้ พวกมันรวดเร็วอย่างน่าตกใจสำหรับสิ่งมีชีวืตที่อวบเช่นนี้</Bear_Polar.description>
   <!-- EN: left claw -->
   <Bear_Polar.tools.left_claw.label>กรงเล็บซ้าย</Bear_Polar.tools.left_claw.label>
   <!-- EN: right claw -->

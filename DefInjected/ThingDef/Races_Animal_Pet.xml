@@ -4,7 +4,7 @@
   <!-- EN: cat -->
   <Cat.label>แมว</Cat.label>
   <!-- EN: One of mankind's first pets, the cat is a small mammal which hunts vermin. Known for their aloofness, cats are nevertheless popular companions because of their independence, calm disposition, and fine, pettable fur. -->
-  <Cat.description>TODO</Cat.description>
+  <Cat.description>หนึ่งในสัตว์เลี้ยงแรกเริ่มของมนุษยชาติ แมวเป็นสัตว์เลี้ยงลูกด้วยนมขนาดเล็กที่ออกล่าศัตรูพืช รู้จักดีกับความเย็นชาของพวกมัน แต่ยังไงซะแมวยังคงเป็นคู่หูที่ได้รับความนิยม เนื่องจากความรักสันโดษ นิสัยสงบ และก็ขนที่ละเอียดเหมาะให้ลูบๆคลๆยิ่ง</Cat.description>
   <!-- EN: left claw -->
   <Cat.tools.left_claw.label>กรงเล็บซ้าย</Cat.tools.left_claw.label>
   <!-- EN: right claw -->
@@ -15,7 +15,7 @@
   <!-- EN: husky -->
   <Husky.label>หมาฮัสกี้</Husky.label>
   <!-- EN: A large, energetic dog with a thick fur coat for remaining comfortable in arctic environments. -->
-  <Husky.description>TODO</Husky.description>
+  <Husky.description>สุนัขขนาดใหญ่ กระตือรือร้น มีชั้นขนหนาทำให้อาศัยอยู่ได้ในภูมิประเทศขั้วโลก</Husky.description>
   <!-- EN: left claw -->
   <Husky.tools.left_claw.label>กรงเล็บซ้าย</Husky.tools.left_claw.label>
   <!-- EN: right claw -->
@@ -26,7 +26,7 @@
   <!-- EN: labrador retriever -->
   <LabradorRetriever.label>หมาลาบราดอร์ รีทรีฟเวอร์</LabradorRetriever.label>
   <!-- EN: A very versatile, medium-sized dog. Originally bred to retrieve birds shot on the hunt, the lab is also an excellent guard dog, play pal, and family friend. -->
-  <LabradorRetriever.description>TODO</LabradorRetriever.description>
+  <LabradorRetriever.description>เป็นสุนัขขนาดกลางที่มีประโยชน์หลากหลายมากๆ แต่เดิมผสมพันธู์ขึ้นเพื่อไว้คาบนกถูกยิงระหว่างล่าสัตว์, ลาบราดอร์ฯยังเป็นหมายามที่ยอมเยื่ยม เป็นเพื่อชั้นดีกับครอบครัว</LabradorRetriever.description>
   <!-- EN: left claw -->
   <LabradorRetriever.tools.left_claw.label>กรงเล็บซ้าย</LabradorRetriever.tools.left_claw.label>
   <!-- EN: right claw -->
@@ -37,7 +37,7 @@
   <!-- EN: yorkshire terrier -->
   <YorkshireTerrier.label>หมายอร์กเชียร์ เทอร์เรียร์</YorkshireTerrier.label>
   <!-- EN: A small, even-tempered dog. Originally bred to hunt rats, it later became a show and companionship animal. Some consider it useless, but the mood boost it gives by nuzzling can outweight the cost of feeding it. -->
-  <YorkshireTerrier.description>TODO</YorkshireTerrier.description>
+  <YorkshireTerrier.description>หมาขนาดเล็กผู้มีอารมณ์สม่ำเสมอ แต่เดิมผสมพันธุ์เพื่อล่าหนู ต่อมาภายหลังกลายเป็นสัตว์คู่หูและนักแสดง บ้างมองว่ามันไร้ประโยชน์ แต่แค่อารมณ์ดีเพิ่มขึ้นเมื่อมันมาคลอเคลีย ก็ถือว่าคุ้มกับค่าใช้จ่ายในการเลี้ยงแล้ว</YorkshireTerrier.description>
   <!-- EN: left claw -->
   <YorkshireTerrier.tools.left_claw.label>กรงเล็บซ้าย</YorkshireTerrier.tools.left_claw.label>
   <!-- EN: right claw -->
