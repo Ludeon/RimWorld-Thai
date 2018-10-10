@@ -17,12 +17,12 @@
   <FlatscreenTelevision.description>TODO</FlatscreenTelevision.description>
   
   <!-- EN: game-of-Ur board -->
-  <GameOfUrBoard.label>TODO</GameOfUrBoard.label>
+  <GameOfUrBoard.label>กระดาน Game-Of-Ur</GameOfUrBoard.label>
   <!-- EN: Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills. -->
   <GameOfUrBoard.description>TODO</GameOfUrBoard.description>
   
   <!-- EN: hoopstone ring -->
-  <HoopstoneRing.label>TODO</HoopstoneRing.label>
+  <HoopstoneRing.label>ห่วงโยนหิน</HoopstoneRing.label>
   <!-- EN: A simple ancient game played with stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills. -->
   <HoopstoneRing.description>TODO</HoopstoneRing.description>
   
@@ -32,12 +32,12 @@
   <HorseshoesPin.description>TODO</HorseshoesPin.description>
   
   <!-- EN: megascreen television -->
-  <MegascreenTelevision.label>โทรทัศน์จอเมกะ</MegascreenTelevision.label>
+  <MegascreenTelevision.label>โทรทัศน์จอยักษ์</MegascreenTelevision.label>
   <!-- EN: A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
   <MegascreenTelevision.description>TODO</MegascreenTelevision.description>
   
   <!-- EN: poker table -->
-  <PokerTable.label>TODO</PokerTable.label>
+  <PokerTable.label>โต๊ะโป๊กเกอร์</PokerTable.label>
   <!-- EN: A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck. -->
   <PokerTable.description>TODO</PokerTable.description>
   

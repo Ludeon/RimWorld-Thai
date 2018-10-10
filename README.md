@@ -18,7 +18,9 @@ In case you want latest translation, you could install it manually follow these 
 
 ## Current Status
 
-Quick summary from current translation report (w/ notes)
+Quick notes & summary from current translation report.
+
+Report generated on `2018-10-10`
 
   * :ballot_box_with_check: (0) General load errors
   * :ballot_box_with_check: (0) Def-injected translations load errors
@@ -44,10 +46,10 @@ Quick summary from current translation report (w/ notes)
 
 ------------------------------------
 
-**Remember to always test your translation in game first**, it's super easy to messed-up when translate without real context of the game
+**Remember to always test your translation in game**, it's super easy to mess-up when translate w/o real context of the game.
 
 ------------------------------------
 
 ขอบคุณที่ให้ความสนใจแปลเกมภาษาไทย มีคำถาม-คำแนะนำ โพสตอบ[กระทู้](https://ludeon.com/forums/index.php?topic=45589.0) หรือเปิด [Issue](https://github.com/Ludeon/RimWorld-Thai/issues) ได้เลยครับ
 
-:star: >>> [คำควรใช้](https://github.com/Ludeon/RimWorld-Thai/wiki/Glossary) <<< :star:
+:star: เพิ่มเติม: [ [**คำควรใช้**](https://github.com/Ludeon/RimWorld-Thai/wiki/Glossary) ]

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: brambles -->
-  <Plant_Brambles.label>TODO</Plant_Brambles.label>
+  <Plant_Brambles.label>พุ่มไม้หนาม</Plant_Brambles.label>
   <!-- EN: Tangled, thorny, woody shoots covered with leaves. Brambles grow in clusters, and slow down anyone moving over them. -->
   <Plant_Brambles.description>TODO</Plant_Brambles.description>
   
@@ -17,7 +17,7 @@
   <Plant_Grass.description>TODO</Plant_Grass.description>
   
   <!-- EN: wild healroot -->
-  <Plant_HealrootWild.label>ต้น Wild Healroot</Plant_HealrootWild.label>
+  <Plant_HealrootWild.label>สมุนไพรป่า</Plant_HealrootWild.label>
   <!-- EN: A slow-growing plant which yields herbal medicine when harvested.\n\nThis wild breed of healroot is hardier than domesticated healroot, but too difficult to cultivate. It is prized by tribespeople in colder climates. -->
   <Plant_HealrootWild.description>TODO</Plant_HealrootWild.description>
   

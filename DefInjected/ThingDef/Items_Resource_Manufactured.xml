@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: chemfuel -->
-  <Chemfuel.label>เชื้อเพลิงสารเคมี</Chemfuel.label>
+  <Chemfuel.label>เชื้อเพลิงเคมี</Chemfuel.label>
   <!-- EN: A volatile liquid chemical. Used to fuel engines and rockets, or to transmute into propellant for projectiles, or as an incendiary weapon. -->
   <Chemfuel.description>TODO</Chemfuel.description>
   
   <!-- EN: component -->
-  <ComponentIndustrial.label>ส่วนประกอบ</ComponentIndustrial.label>
+  <ComponentIndustrial.label>คอมโพเน้นท์</ComponentIndustrial.label>
   <!-- EN: Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics. -->
   <ComponentIndustrial.description>TODO</ComponentIndustrial.description>
   
   <!-- EN: advanced component -->
-  <ComponentSpacer.label>TODO</ComponentSpacer.label>
+  <ComponentSpacer.label>คอมโพเน้นท์ชั้นสูง</ComponentSpacer.label>
   <!-- EN: Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications. -->
   <ComponentSpacer.description>TODO</ComponentSpacer.description>
   

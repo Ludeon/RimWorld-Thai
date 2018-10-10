@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: autodoor -->
-  <Autodoor.label>ประตูอัตโนมัติ</Autodoor.label>
+  <Autodoor.label>ประตูออโต้</Autodoor.label>
   <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
   <Autodoor.description>TODO</Autodoor.description>
   

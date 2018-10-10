@@ -31,9 +31,9 @@
   <BionicEar.labelNoun>หูเทียมชีวกล</BionicEar.labelNoun>
   
   <!-- EN: bionic eye -->
-  <BionicEye.label>นัยน์ตาเทียมชีวกล</BionicEye.label>
+  <BionicEye.label>ตาเทียมชีวกล</BionicEye.label>
   <!-- EN: a bionic eye -->
-  <BionicEye.labelNoun>นัยน์ตาเทียมชีวกล</BionicEye.labelNoun>
+  <BionicEye.labelNoun>ตาเทียมชีวกล</BionicEye.labelNoun>
   
   <!-- EN: bionic heart -->
   <BionicHeart.label>หัวใจเทียมชีวกล</BionicHeart.label>
@@ -61,9 +61,9 @@
   <CochlearImplant.labelNoun>ประสาทหูเทียม</CochlearImplant.labelNoun>
   
   <!-- EN: denture -->
-  <Denture.label>ทันตกรรม</Denture.label>
+  <Denture.label>ฟันปลอม</Denture.label>
   <!-- EN: a denture -->
-  <Denture.labelNoun>ทันตกรรม</Denture.labelNoun>
+  <Denture.labelNoun>ฟันปลอม</Denture.labelNoun>
   
   <!-- EN: peg leg -->
   <PegLeg.label>ขาหมุด</PegLeg.label>

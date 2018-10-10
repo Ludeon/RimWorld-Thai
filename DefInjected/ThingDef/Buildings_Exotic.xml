@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: ship part (poison) -->
-  <CrashedPoisonShipPart.label>ส่วนยานอวกาศที่เป็นพิษ</CrashedPoisonShipPart.label>
+  <CrashedPoisonShipPart.label>ชิ้นส่วนยาน (พิษ)</CrashedPoisonShipPart.label>
   <!-- EN: A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be killing plant life around it. -->
-  <CrashedPoisonShipPart.description>TODO</CrashedPoisonShipPart.description>
+  <CrashedPoisonShipPart.description>ชิ้นส่วนยานอวกาศปริศนาที่ตกลงมา มันอาจบรรจุระบบป้องกันรูปแบบใดไว้ก็ได้ หรืออาจจะเป็นวัตถิดิบชั้นเลิศ ชิ้นนี้ดูเหมือนจะฆ่าพืชรอบๆตัวมัน</CrashedPoisonShipPart.description>
   
   <!-- EN: ship part (psychic) -->
-  <CrashedPsychicEmanatorShipPart.label>ส่วนยานอวกาศ</CrashedPsychicEmanatorShipPart.label>
+  <CrashedPsychicEmanatorShipPart.label>ชิ้นส่วนยาน (พลังจิต)</CrashedPsychicEmanatorShipPart.label>
   <!-- EN: A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be emanating psychic waves. -->
-  <CrashedPsychicEmanatorShipPart.description>TODO</CrashedPsychicEmanatorShipPart.description>
+  <CrashedPsychicEmanatorShipPart.description>ชิ้นส่วนยานอวกาศปริศนาที่ตกลงมา มันอาจบรรจุระบบป้องกันรูปแบบใดไว้ก็ได้ หรืออาจจะเป็นวัตถิดิบชั้นเลิศ ชิ้นนี้ดูเหมือนจะปล่อยคลื่นพลังจิตฟุ้งออกมา</CrashedPsychicEmanatorShipPart.description>
   
   <!-- EN: ship chunk -->
-  <ShipChunk.label>ชิ้นส่วนยานอวกาศ</ShipChunk.label>
+  <ShipChunk.label>ชิ้นส่วนยาน</ShipChunk.label>
   <!-- EN: A chunk of a spacecraft. Can be deconstructed to yield useful resources. -->
-  <ShipChunk.description>TODO</ShipChunk.description>
+  <ShipChunk.description>ชิ้นส่วนของยานอวกาศ สามารถรื้อถอนให้กลายเป็นทรัพยากรได้</ShipChunk.description>
   
 </LanguageData>

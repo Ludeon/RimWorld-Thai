@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: charge lance shot -->
-  <Bullet_ChargeLance.label>TODO</Bullet_ChargeLance.label>
+  <Bullet_ChargeLance.label>กระสุนชาร์จลานซ์</Bullet_ChargeLance.label>
   
   <!-- EN: charge shot -->
-  <Bullet_ChargeRifle.label>กระสุดชาร์จไรเฟิล</Bullet_ChargeRifle.label>
+  <Bullet_ChargeRifle.label>กระสุนชาร์จไรเฟิล</Bullet_ChargeRifle.label>
   
   <!-- EN: charge lance -->
-  <Gun_ChargeLance.label>TODO</Gun_ChargeLance.label>
+  <Gun_ChargeLance.label>ชาร์จลานซ์</Gun_ChargeLance.label>
   <!-- EN: A pulse-charged rail-assisted lance weapon. It fires a single shot at high velocity, charging it with unstable energy as it leaves the acceleration rail. -->
   <Gun_ChargeLance.description>TODO</Gun_ChargeLance.description>
   <!-- EN: barrel -->

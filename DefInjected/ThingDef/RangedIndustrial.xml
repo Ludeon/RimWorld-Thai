@@ -2,40 +2,40 @@
 <LanguageData>
   
   <!-- EN: assault rifle bullet -->
-  <Bullet_AssaultRifle.label>กระสุดปืนไรเฟิล</Bullet_AssaultRifle.label>
+  <Bullet_AssaultRifle.label>กระสุนไรเฟิลจู่โจม</Bullet_AssaultRifle.label>
   
   <!-- EN: autopistol bullet -->
-  <Bullet_Autopistol.label>TODO</Bullet_Autopistol.label>
+  <Bullet_Autopistol.label>กระสุนปืนพกอัตโนมัติ</Bullet_Autopistol.label>
   
   <!-- EN: bolt-action rifle bullet -->
-  <Bullet_BoltActionRifle.label>กระสุดปืนไรเฟิลล่าสัตว์</Bullet_BoltActionRifle.label>
+  <Bullet_BoltActionRifle.label>กระสุนไรเฟิลล่าสัตว์</Bullet_BoltActionRifle.label>
   
   <!-- EN: heavy SMG bullet -->
-  <Bullet_HeavySMG.label>กระสุดปืกกลมือหนัก</Bullet_HeavySMG.label>
+  <Bullet_HeavySMG.label>กระสุดปืนพกกลหนัก</Bullet_HeavySMG.label>
   
   <!-- EN: incendiary bolt -->
-  <Bullet_IncendiaryLauncher.label>กระสุดเครื่องยิงระเบิดเพลิง</Bullet_IncendiaryLauncher.label>
+  <Bullet_IncendiaryLauncher.label>กระสุนระเบิดเพลิง</Bullet_IncendiaryLauncher.label>
   
   <!-- EN: LMG bullet -->
-  <Bullet_LMG.label>กระสุดปืนกลหนัก</Bullet_LMG.label>
+  <Bullet_LMG.label>กระสุนปืนกลเบา</Bullet_LMG.label>
   
   <!-- EN: machine pistol bullet -->
-  <Bullet_MachinePistol.label>กระสุดปืนกลมือ</Bullet_MachinePistol.label>
+  <Bullet_MachinePistol.label>กระสุนปืนพกกล</Bullet_MachinePistol.label>
   
   <!-- EN: minigun bullet -->
   <Bullet_Minigun.label>กระสุนมินิกัน</Bullet_Minigun.label>
   
   <!-- EN: revolver bullet -->
-  <Bullet_Revolver.label>กระสุดปืนพก</Bullet_Revolver.label>
+  <Bullet_Revolver.label>กระสุนปืนพกลูกโม่</Bullet_Revolver.label>
   
   <!-- EN: shotgun blast -->
-  <Bullet_Shotgun.label>TODO</Bullet_Shotgun.label>
+  <Bullet_Shotgun.label>กระสุนลูกซอง</Bullet_Shotgun.label>
   
   <!-- EN: sniper rifle bullet -->
-  <Bullet_SniperRifle.label>กระสุดปืนสไนเปอร์</Bullet_SniperRifle.label>
+  <Bullet_SniperRifle.label>กระสุนสไนเปอร์ไรเฟิล</Bullet_SniperRifle.label>
   
   <!-- EN: assault rifle -->
-  <Gun_AssaultRifle.label>ปืนไรเฟิล</Gun_AssaultRifle.label>
+  <Gun_AssaultRifle.label>ไรเฟิลจู่โจม</Gun_AssaultRifle.label>
   <!-- EN: A general-purpose gas-operated assault rifle for field or urban combat. It has good range, decent power, and good accuracy. -->
   <Gun_AssaultRifle.description>TODO</Gun_AssaultRifle.description>
   <!-- EN: stock -->
@@ -46,7 +46,7 @@
   <Gun_AssaultRifle.verbs.Verb_Shoot.label>TODO</Gun_AssaultRifle.verbs.Verb_Shoot.label>
   
   <!-- EN: autopistol -->
-  <Gun_Autopistol.label>TODO</Gun_Autopistol.label>
+  <Gun_Autopistol.label>ปืนพกอัตโนมัติ</Gun_Autopistol.label>
   <!-- EN: An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire. -->
   <Gun_Autopistol.description>TODO</Gun_Autopistol.description>
   <!-- EN: grip -->
@@ -57,7 +57,7 @@
   <Gun_Autopistol.verbs.Verb_Shoot.label>TODO</Gun_Autopistol.verbs.Verb_Shoot.label>
   
   <!-- EN: bolt-action rifle -->
-  <Gun_BoltActionRifle.label>ปืนไรเฟิลล่าสัตว์</Gun_BoltActionRifle.label>
+  <Gun_BoltActionRifle.label>ไรเฟิลล่าสัตว์</Gun_BoltActionRifle.label>
   <!-- EN: An ancient pattern bolt-action rifle. With its long range, and low fire rate, it is unlikely to drive animals to revenge, which makes it a favorite weapon for hunting. -->
   <Gun_BoltActionRifle.description>TODO</Gun_BoltActionRifle.description>
   <!-- EN: stock -->
@@ -68,7 +68,7 @@
   <Gun_BoltActionRifle.verbs.Verb_Shoot.label>TODO</Gun_BoltActionRifle.verbs.Verb_Shoot.label>
   
   <!-- EN: chain shotgun -->
-  <Gun_ChainShotgun.label>ปืนลูกซองออโต้</Gun_ChainShotgun.label>
+  <Gun_ChainShotgun.label>ลูกซองออโต้</Gun_ChainShotgun.label>
   <!-- EN: A magazine-fed fully automatic shotgun. It is even shorter-ranged than a typical shotgun, but is extraordinarily dangerous due to burst fire. -->
   <Gun_ChainShotgun.description>TODO</Gun_ChainShotgun.description>
   <!-- EN: stock -->
@@ -79,7 +79,7 @@
   <Gun_ChainShotgun.verbs.Verb_Shoot.label>TODO</Gun_ChainShotgun.verbs.Verb_Shoot.label>
   
   <!-- EN: heavy SMG -->
-  <Gun_HeavySMG.label>ปืกกลมือหนัก</Gun_HeavySMG.label>
+  <Gun_HeavySMG.label>ปืนพกกลหนัก</Gun_HeavySMG.label>
   <!-- EN: A compact, wide-caliber slug-thrower. It's got a very short range, but it packs a punch and handles quite well. -->
   <Gun_HeavySMG.description>TODO</Gun_HeavySMG.description>
   <!-- EN: grip -->
@@ -101,7 +101,7 @@
   <Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>TODO</Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>
   
   <!-- EN: LMG -->
-  <Gun_LMG.label>ปืนกลหนัก</Gun_LMG.label>
+  <Gun_LMG.label>ปืนกลเบา</Gun_LMG.label>
   <!-- EN: A gas-operated light machine gun. While it is somewhat unwieldy and inaccurate, its long bursts of fire are effective against groups of enemies. -->
   <Gun_LMG.description>TODO</Gun_LMG.description>
   <!-- EN: stock -->
@@ -112,7 +112,7 @@
   <Gun_LMG.verbs.Verb_Shoot.label>TODO</Gun_LMG.verbs.Verb_Shoot.label>
   
   <!-- EN: machine pistol -->
-  <Gun_MachinePistol.label>ปืนกลมือ</Gun_MachinePistol.label>
+  <Gun_MachinePistol.label>ปืนพกกล</Gun_MachinePistol.label>
   <!-- EN: A micro-submachine gun. It is short-ranged, but very light in the hands. Its rate of fire tends to make up for its weakness. -->
   <Gun_MachinePistol.description>TODO</Gun_MachinePistol.description>
   <!-- EN: grip -->
@@ -132,7 +132,7 @@
   <Gun_Minigun.verbs.Verb_Shoot.label>TODO</Gun_Minigun.verbs.Verb_Shoot.label>
   
   <!-- EN: pump shotgun -->
-  <Gun_PumpShotgun.label>ปืนลูกซอง</Gun_PumpShotgun.label>
+  <Gun_PumpShotgun.label>ลูกซองปั้ม</Gun_PumpShotgun.label>
   <!-- EN: An ancient design of shotgun that emits a tight-packed spray of pellets. Deadly, but short range. -->
   <Gun_PumpShotgun.description>TODO</Gun_PumpShotgun.description>
   <!-- EN: stock -->
@@ -143,7 +143,7 @@
   <Gun_PumpShotgun.verbs.Verb_Shoot.label>TODO</Gun_PumpShotgun.verbs.Verb_Shoot.label>
   
   <!-- EN: revolver -->
-  <Gun_Revolver.label>ปืนพก</Gun_Revolver.label>
+  <Gun_Revolver.label>ปืนพกลูกโม่</Gun_Revolver.label>
   <!-- EN: An ancient pattern double-action revolver. It's not very powerful, but has a decent range for a pistol and is quick on the draw. -->
   <Gun_Revolver.description>TODO</Gun_Revolver.description>
   <!-- EN: grip -->
@@ -154,7 +154,7 @@
   <Gun_Revolver.verbs.Verb_Shoot.label>TODO</Gun_Revolver.verbs.Verb_Shoot.label>
   
   <!-- EN: sniper rifle -->
-  <Gun_SniperRifle.label>ปืนสไนเปอร์</Gun_SniperRifle.label>
+  <Gun_SniperRifle.label>สไนเปอร์ไรเฟิล</Gun_SniperRifle.label>
   <!-- EN: An ancient design of precision sniper rifle. Bolt action. It has an exceptionally long range, great accuracy and good power. Because it's so unwieldy, other weapons outclass it at close range. -->
   <Gun_SniperRifle.description>TODO</Gun_SniperRifle.description>
   <!-- EN: stock -->

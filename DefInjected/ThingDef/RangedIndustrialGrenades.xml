@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: EMP grenade -->
-  <Proj_GrenadeEMP.label>TODO</Proj_GrenadeEMP.label>
+  <Proj_GrenadeEMP.label>ระเบิดมือ EMP</Proj_GrenadeEMP.label>
   
   <!-- EN: frag grenade -->
-  <Proj_GrenadeFrag.label>TODO</Proj_GrenadeFrag.label>
+  <Proj_GrenadeFrag.label>ระเบิดมือ</Proj_GrenadeFrag.label>
   
   <!-- EN: molotov cocktail -->
-  <Proj_GrenadeMolotov.label>TODO</Proj_GrenadeMolotov.label>
+  <Proj_GrenadeMolotov.label>ระเบิดขวด</Proj_GrenadeMolotov.label>
   
   <!-- EN: EMP grenades -->
-  <Weapon_GrenadeEMP.label>ระเบิด EMP</Weapon_GrenadeEMP.label>
+  <Weapon_GrenadeEMP.label>ระเบิดมือ EMP</Weapon_GrenadeEMP.label>
   <!-- EN: Electromagnetic pulse grenades damaging to electronic equipment. -->
   <Weapon_GrenadeEMP.description>TODO</Weapon_GrenadeEMP.description>
   <!-- EN: EMP grenades -->
   <Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>TODO</Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>
   
   <!-- EN: frag grenades -->
-  <Weapon_GrenadeFrag.label>ระเบิดน้อยหน่า</Weapon_GrenadeFrag.label>
+  <Weapon_GrenadeFrag.label>ระเบิดมือ</Weapon_GrenadeFrag.label>
   <!-- EN: Old-school fragmentation grenades. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. -->
   <Weapon_GrenadeFrag.description>TODO</Weapon_GrenadeFrag.description>
   <!-- EN: frag grenades -->

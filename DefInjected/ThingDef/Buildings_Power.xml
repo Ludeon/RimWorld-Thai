@@ -7,17 +7,17 @@
   <Battery.description>TODO</Battery.description>
   
   <!-- EN: chemfuel powered generator -->
-  <ChemfuelPoweredGenerator.label>TODO</ChemfuelPoweredGenerator.label>
+  <ChemfuelPoweredGenerator.label>เครื่องผลิตไฟ เชื้อเพลิงเคมี</ChemfuelPoweredGenerator.label>
   <!-- EN: Produces power by consuming chemfuel. Must be periodically refueled by hand. -->
   <ChemfuelPoweredGenerator.description>TODO</ChemfuelPoweredGenerator.description>
   
   <!-- EN: geothermal generator -->
-  <GeothermalGenerator.label>เครื่องผลิตไฟฟ้า (ไอน้ำ)</GeothermalGenerator.label>
+  <GeothermalGenerator.label>เครื่องผลิตไฟ ไอน้ำ</GeothermalGenerator.label>
   <!-- EN: Produces electricity from geothermal steam geysers. Must be placed on a steam geyser. -->
   <GeothermalGenerator.description>TODO</GeothermalGenerator.description>
   
   <!-- EN: power conduit -->
-  <PowerConduit.label>ท่อสายไฟ</PowerConduit.label>
+  <PowerConduit.label>สายไฟ</PowerConduit.label>
   <!-- EN: A bundle of electrical cables for moving power around. Can be placed under walls and other buildings. -->
   <PowerConduit.description>TODO</PowerConduit.description>
   
@@ -27,27 +27,27 @@
   <PowerSwitch.description>TODO</PowerSwitch.description>
   
   <!-- EN: solar generator -->
-  <SolarGenerator.label>เครื่องผลิตไฟฟ้า (แสงอาทิตย์)</SolarGenerator.label>
+  <SolarGenerator.label>เครื่องผลิตไฟ แสงอาทิตย์</SolarGenerator.label>
   <!-- EN: Produces electricity from sunlight. Does not work in the dark or under artificial light. -->
   <SolarGenerator.description>TODO</SolarGenerator.description>
   
   <!-- EN: watermill generator -->
-  <WatermillGenerator.label>TODO</WatermillGenerator.label>
+  <WatermillGenerator.label>เครื่องผลิตไฟ กังหันน้ำ</WatermillGenerator.label>
   <!-- EN: Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation. -->
   <WatermillGenerator.description>TODO</WatermillGenerator.description>
   
   <!-- EN: waterproof conduit -->
-  <WaterproofConduit.label>TODO</WaterproofConduit.label>
+  <WaterproofConduit.label>สายไฟกันน้ำ</WaterproofConduit.label>
   <!-- EN: Insulated electrical cables for transmitting power under shallow water. -->
   <WaterproofConduit.description>TODO</WaterproofConduit.description>
   
   <!-- EN: wind turbine -->
-  <WindTurbine.label>กังหันลมผลิตไฟฟ้า</WindTurbine.label>
+  <WindTurbine.label>เครื่องผลิตไฟ กังหันลม</WindTurbine.label>
   <!-- EN: A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. -->
   <WindTurbine.description>TODO</WindTurbine.description>
   
   <!-- EN: wood-fired generator -->
-  <WoodFiredGenerator.label>เครื่องผลิตไฟฟ้า (เชื้อเพลิง)</WoodFiredGenerator.label>
+  <WoodFiredGenerator.label>เครื่องผลิตไฟ ถ่านฟืน</WoodFiredGenerator.label>
   <!-- EN: Produces power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
   <WoodFiredGenerator.description>TODO</WoodFiredGenerator.description>
   

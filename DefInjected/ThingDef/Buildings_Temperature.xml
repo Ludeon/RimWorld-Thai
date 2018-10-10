@@ -7,7 +7,7 @@
   <Campfire.description>TODO</Campfire.description>
   
   <!-- EN: cooler -->
-  <Cooler.label>เครื่องปรับอากาศ</Cooler.label>
+  <Cooler.label>คูลเลอร์</Cooler.label>
   <!-- EN: An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
   <Cooler.description>TODO</Cooler.description>
   
@@ -17,12 +17,12 @@
   <Heater.description>TODO</Heater.description>
   
   <!-- EN: passive cooler -->
-  <PassiveCooler.label>เครื่องทำความเย็น (ไม่ใช้ไฟ)</PassiveCooler.label>
+  <PassiveCooler.label>คูลเลอร์ไร้ไฟ</PassiveCooler.label>
   <!-- EN: A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food. -->
   <PassiveCooler.description>TODO</PassiveCooler.description>
   
   <!-- EN: vent -->
-  <Vent.label>ช่องระบายออก</Vent.label>
+  <Vent.label>ช่องระบาย</Vent.label>
   <!-- EN: A vent for equalizing the temperature between two rooms without allowing people to walk between them. -->
   <Vent.description>TODO</Vent.description>
   
