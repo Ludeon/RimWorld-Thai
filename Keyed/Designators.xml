@@ -111,7 +111,7 @@
   <!-- EN: Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
   <DesignatorExpandAreaAllowedDesc>ขยายพื้นที่ขอบเขตที่อนุญาต\n\nเขตที่อนุญาต เป็นพื้นที่ที่คุณสามารถ กำหนดแก่ชาวนิคม \n\nพวกเขาจะไม่ยอมทำงาน หรือเติมเต็มความต้องการตนเอง นอกขอบเขตที่อนุญาต</DesignatorExpandAreaAllowedDesc>
   <!-- EN: Clear allowed area -->
-  <DesignatorClearAreaAllowed>เคลียร์เขตอนุญาต</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowed>เคลียร์เขต อนุญาต</DesignatorClearAreaAllowed>
   <!-- EN: Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
   <DesignatorClearAreaAllowedDesc>เคลียร์ช่องออกจากขอบเขตที่อนุญาต\n\nเขตที่อนุญาต เป็นพื้นที่ที่คุณสามารถ กำหนดแก่ชาวนิคม \n\nพวกเขาจะไม่ยอมทำงาน หรือเติมเต็มความต้องการตนเอง นอกขอบเขตที่อนุญาต</DesignatorClearAreaAllowedDesc>
   <!-- EN: Manage areas... -->

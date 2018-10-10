@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: animal products -->
-  <AnimalProductRaw.label>ผลิตภัณฑ์จากสัตว์</AnimalProductRaw.label>
+  <AnimalProductRaw.label>ผลผลิตจากสัตว์</AnimalProductRaw.label>
   
   <!-- EN: apparel -->
   <Apparel.label>เสื้อผ้า</Apparel.label>
@@ -98,7 +98,7 @@
   <Leathers.label>แผ่นหนัง</Leathers.label>
   
   <!-- EN: manufactured -->
-  <Manufactured.label>ผลิตภัณฑ์</Manufactured.label>
+  <Manufactured.label>ผลผลิต</Manufactured.label>
   
   <!-- EN: meat -->
   <MeatRaw.label>เนื้อดิบ</MeatRaw.label>
@@ -107,16 +107,16 @@
   <Medicine.label>ยารักษา</Medicine.label>
   
   <!-- EN: mortar shells -->
-  <MortarShells.label>กระสุนปืนใหญ่</MortarShells.label>
+  <MortarShells.label>กระสุนปืนครก</MortarShells.label>
   
   <!-- EN: vegetarian -->
-  <PlantFoodRaw.label>พืชกินดิบ</PlantFoodRaw.label>
+  <PlantFoodRaw.label>ผักผลไม้</PlantFoodRaw.label>
   
   <!-- EN: plant matter -->
   <PlantMatter.label>วัตถุพืช</PlantMatter.label>
   
   <!-- EN: raw resources -->
-  <ResourcesRaw.label>ทรัพยากรดิบ</ResourcesRaw.label>
+  <ResourcesRaw.label>ทรัพยากร</ResourcesRaw.label>
   
   <!-- EN: root -->
   <Root.label>ราก</Root.label>
@@ -125,13 +125,13 @@
   <StoneBlocks.label>บล็อกหิน</StoneBlocks.label>
   
   <!-- EN: stone chunks -->
-  <StoneChunks.label>ชิ้นส่วนก้อนหิน</StoneChunks.label>
+  <StoneChunks.label>ชิ้นส่วนหิน</StoneChunks.label>
   
   <!-- EN: textiles -->
   <Textiles.label>สิ่งทอ</Textiles.label>
   
   <!-- EN: unfinished -->
-  <Unfinished.label>ยังไม่เสร็จ</Unfinished.label>
+  <Unfinished.label>ยังทำไม่เสร็จ</Unfinished.label>
   
   <!-- EN: weapons -->
   <Weapons.label>อาวุธ</Weapons.label>
