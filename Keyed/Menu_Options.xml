@@ -47,7 +47,7 @@
   <!-- EN: Show save data location -->
   <ShowSaveGameDataLocation>แสดงตำแหน่งข้อมูลเซฟเกม</ShowSaveGameDataLocation>
   <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
-  <NamesYouWantToSee>ตัวละครผู้เล่นสร้างด้วยความพึงใจ ในระหว่างเล่น ตัวละครเหล่านี้มีโอกาศมากกว่าในการสุ่มโผล่ออกมา:</NamesYouWantToSee>
+  <NamesYouWantToSee>ตัวละครผู้เล่นสร้างด้วยความพึงใจ ในระหว่างเล่น ตัวละครเหล่านี้มีโอกาสมากกว่าในการสุ่มโผล่ออกมา:</NamesYouWantToSee>
   <!-- EN: Add name -->
   <AddName>เพื่มชื่อ</AddName>
   <!-- EN: Type the first name, nickname, or last name. -->

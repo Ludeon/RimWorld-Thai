@@ -24,12 +24,12 @@
 
   <!-- Pawn modifiers -->
   <!-- EN: {0} have a {1} chance to start with {2}. -->
-  <ScenPart_PawnsHaveHediff>{0} มีโอกาศ {1} จะเริ่มต้นด้วย: {2}</ScenPart_PawnsHaveHediff>
+  <ScenPart_PawnsHaveHediff>{0} มีโอกาส {1} จะเริ่มต้นด้วย: {2}</ScenPart_PawnsHaveHediff>
   <!-- EN: severity: {0} -->
   <ConfigurableSeverity>ความลำบาก: {0}</ConfigurableSeverity>
 
   <!-- EN: {0} have a {1} chance to have their {2} set between {3} and {4}. -->
-  <ScenPart_SetNeed>{0} มีโอกาศ {1} พวกเขาจะมี *{2}* อยู่ระหว่าง {3} - {4}</ScenPart_SetNeed>
+  <ScenPart_SetNeed>{0} มีโอกาส {1} พวกเขาจะมี *{2}* อยู่ระหว่าง {3} - {4}</ScenPart_SetNeed>
   <!-- EN: level: {0} -->
   <ConfigurableLevel>ระดับ: {0}</ConfigurableLevel>
 

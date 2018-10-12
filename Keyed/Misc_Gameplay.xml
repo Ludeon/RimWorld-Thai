@@ -251,9 +251,9 @@
   <!-- EN: {0} of {1} -->
   <SettlementTrader>{0} จาก {1}</SettlementTrader>
   <!-- EN: Surgery success chance multiplier from room -->
-  <RoomSurgerySuccessChanceFactor>ผ่าตัดมีโอกาศสำเร็จจากตัวคูณของห้อง</RoomSurgerySuccessChanceFactor>
+  <RoomSurgerySuccessChanceFactor>ผ่าตัดมีโอกาสสำเร็จจากตัวคูณของห้อง</RoomSurgerySuccessChanceFactor>
   <!-- EN: Infection chance multiplier from room -->
-  <RoomInfectionChanceFactor>โอกาศติดเชื้อจากตัวคูณของห้อง</RoomInfectionChanceFactor>
+  <RoomInfectionChanceFactor>โอกาสติดเชื้อจากตัวคูณของห้อง</RoomInfectionChanceFactor>
   <!-- EN: Closed -->
   <VentClosed>ปิด</VentClosed>
   <!-- EN: worn by {1_labelShort} -->
@@ -671,7 +671,7 @@
   <!-- EN: Cannot hit target. -->
   <CannotHit>ยิงเป้าหมายไม่โดน</CannotHit>
   <!-- EN: Manhunter chance per hit -->
-  <ManhunterPerHit>โอกาศหันมาล่ามนุษย์ต่อการโดนยิงแต่ละครั้ง</ManhunterPerHit>
+  <ManhunterPerHit>โอกาสหันมาล่ามนุษย์ต่อการโดนยิงแต่ละครั้ง</ManhunterPerHit>
 
   <!-- Meal -->
   <!-- EN: Ingredients -->

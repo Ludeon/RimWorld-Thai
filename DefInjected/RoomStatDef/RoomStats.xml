@@ -86,7 +86,7 @@
   <Space.scoreStages.extremely_spacious.label>กว้างขวางสุดๆ</Space.scoreStages.extremely_spacious.label>
   
   <!-- EN: surgery success chance cleanliness factor -->
-  <SurgerySuccessChanceCleanlinessFactor.label>ปัจจัยความสะอาดต่อโอกาศ ประสบความสำเร็จในการผ่าตัด</SurgerySuccessChanceCleanlinessFactor.label>
+  <SurgerySuccessChanceCleanlinessFactor.label>ปัจจัยความสะอาดต่อโอกาส ประสบความสำเร็จในการผ่าตัด</SurgerySuccessChanceCleanlinessFactor.label>
   
   <!-- EN: wealth -->
   <Wealth.label>มั่งคั่ง</Wealth.label>

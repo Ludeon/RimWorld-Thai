@@ -321,7 +321,7 @@
   <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected. -->
   <StoppingPowerExplanation>การโดนยิงจากอาวุธนี้ จะทำให้เป้าหมายชะงักเคลื่อนที่ช้าลงไปหลายวินาที เป้าหมายที่มีขนาดร่างกายใหญ่กว่า 'แรงหยุดยั้ง' จะไม่ได้รับผลกระทบ</StoppingPowerExplanation>
   <!-- EN: Direct hit chance -->
-  <DirectHitChance>โอกาศโดนตรงๆ</DirectHitChance>
+  <DirectHitChance>โอกาสโดนตรงๆ</DirectHitChance>
   <!-- EN: Miss radius -->
   <MissRadius>รัศมียิงพลาด</MissRadius>
   <!-- EN: Grows wild -->
@@ -425,11 +425,11 @@
   <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time. -->
   <NuzzleIntervalExplanation>สัตว์เลี้ยงจะไปคลอเคลียดเพื่อนชาวนิคมของมันบ่อยขนาดไหน โดยเฉลี่ย\n\nการคลอเคลีย คือพฤติกรรมที่พบได้ในสัตว์หลายๆสายพันธุ์ เป็นการที่สัตว์ดันจมูกหรือทั้งจมูกปากเข้าถูกับเพื่อนเป็นสัญญานบ่งบอกความรักใคร่ มนุษย์ส่วนมากมองว่าอาการนี้น่ารัก ซึ่งจะทำให้พวกอารมณ์ดีไปช่วงระยะเวลาหนึ่ง</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
-  <HarmedRevengeChance>โอกาศแก้แค้นเมื่อโดนทำร้าย</HarmedRevengeChance>
+  <HarmedRevengeChance>โอกาสแก้แค้นเมื่อโดนทำร้าย</HarmedRevengeChance>
   <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
-  <HarmedRevengeChanceExplanation>โอกาศที่สิ่งมีชีวิตนี้จะออกล้างแค้น หลังจากโดนทำร้ายจากระยะไกล\n\nโอากาศจะเพิ่มขึ้นถ้าผู้โจมตีอยู่ใกล้มา ถ้าโดนโจมตีระยะประชิดโอกาศจะเพิ่มสูงขึ้นสามเท่า\n\nโอากาศมีผลทุกครั้งที่ได้รับความเสียหาย หมายความว่าอาวุธที่ยิงช้า สร้างความเสียหายสูง จะมีโอกาศกระทบน้อยกว่า\n\nเพื่อลดโอกาศสิ่งมีชีวิตจะหันกลับมาล้างแค้น แนะนำให้โจมตีจากระยะไรเฟิลด้วยอาวุธยิงช้า</HarmedRevengeChanceExplanation>
+  <HarmedRevengeChanceExplanation>โอกาสที่สิ่งมีชีวิตนี้จะออกล้างแค้น หลังจากโดนทำร้ายจากระยะไกล\n\nโอากาศจะเพิ่มขึ้นถ้าผู้โจมตีอยู่ใกล้มา ถ้าโดนโจมตีระยะประชิดโอกาสจะเพิ่มสูงขึ้นสามเท่า\n\nโอากาศมีผลทุกครั้งที่ได้รับความเสียหาย หมายความว่าอาวุธที่ยิงช้า สร้างความเสียหายสูง จะมีโอกาสกระทบน้อยกว่า\n\nเพื่อลดโอกาสสิ่งมีชีวิตจะหันกลับมาล้างแค้น แนะนำให้โจมตีจากระยะไรเฟิลด้วยอาวุธยิงช้า</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
-  <TameFailedRevengeChance>โอกาศแก้แค้นเมื่อพลาดทำให้เชื่อง</TameFailedRevengeChance>
+  <TameFailedRevengeChance>โอกาสแก้แค้นเมื่อพลาดทำให้เชื่อง</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->
   <TerrainRequirement>ภูมิประเทศจำเป็น</TerrainRequirement>
   <!-- EN: Supports -->
@@ -549,7 +549,7 @@
   <!-- EN: Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus. -->
   <CaravanMassUsageTooltip>คิดรวมทั้งไอเท็มที่แบกกับไอเท็มที่สวมใส่ หากแบกน้อยกว่าค่าสูงสุด จะได้โบนัสความเร็ว</CaravanMassUsageTooltip>
   <!-- EN: Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan. -->
-  <CaravanVisibilityTip>ทัศนวิสัย หมายถึง การที่คาราวานของคุณ โดนสังเกตเห็นง่ายแค่ไหน\n\nทวีคูณกับโอกาศที่คาราวานคุณจะโดนศัตรูดักกลางทาง\n\nทัศนวิสัยไม่ส่งผลกระทบกับความสามารถ ในการมองหาสิ่งที่คุณต้องการ\n\nทัศนวิสัย ยืนค่าฐานมาจากขนาดตัว ของคนและสัตว์ในกองคาราวาน</CaravanVisibilityTip>
+  <CaravanVisibilityTip>ทัศนวิสัย หมายถึง การที่คาราวานของคุณ โดนสังเกตเห็นง่ายแค่ไหน\n\nทวีคูณกับโอกาสที่คาราวานคุณจะโดนศัตรูดักกลางทาง\n\nทัศนวิสัยไม่ส่งผลกระทบกับความสามารถ ในการมองหาสิ่งที่คุณต้องการ\n\nทัศนวิสัย ยืนค่าฐานมาจากขนาดตัว ของคนและสัตว์ในกองคาราวาน</CaravanVisibilityTip>
   <!-- EN: Days of food -->
   <DaysWorthOfFood>วันมีเสบียงอาหาร</DaysWorthOfFood>
   <!-- EN: rot in {0} -->

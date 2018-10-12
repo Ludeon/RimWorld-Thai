@@ -64,7 +64,7 @@
   <!-- EN: gourmand -->
   <Gourmand.degreeDatas.gourmand.label>ตะกละ</Gourmand.degreeDatas.gourmand.label>
   <!-- EN: {PAWN_nameDef}'s life revolves around food. {PAWN_pronoun} gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry. -->
-  <Gourmand.degreeDatas.gourmand.description>ชีวิตของ {PAWN_nameDef} วนเวียนอยู่กับอาหาร {PAWN_pronoun}หิวเร็ว ในบางโอกาศเขาโดนแรงกระตุ้นครอบงจนตะกละกินถึงที่สุด แม้ขนาดในตอนที่ไม่หิวก็ตาม</Gourmand.degreeDatas.gourmand.description>
+  <Gourmand.degreeDatas.gourmand.description>ชีวิตของ {PAWN_nameDef} วนเวียนอยู่กับอาหาร {PAWN_pronoun}หิวเร็ว ในบางโอกาสเขาโดนแรงกระตุ้นครอบงจนตะกละกินถึงที่สุด แม้ขนาดในตอนที่ไม่หิวก็ตาม</Gourmand.degreeDatas.gourmand.description>
   
   <!-- EN: great memory -->
   <GreatMemory.degreeDatas.great_memory.label>ความจำดีเลิศ</GreatMemory.degreeDatas.great_memory.label>

@@ -57,7 +57,7 @@
   <MessageOutOfNearbyShellsFor>{PAWN_labelShort} ไม่พบกระสุนปืนสำหรับ {GUN_label} ใกล้ๆตัว</MessageOutOfNearbyShellsFor>
 
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} chance to attack when harmed from rifle range. Chance is higher if closer, less with good hunter stealth. -->
-  <MessageAnimalsGoPsychoHunted>คำเตือน: {ANIMAL_kindBasePlural} มีโอกาศ {1} จะโจมตีกลับเมื่อถูกทำร้ายจากระยะไรเฟิล โอกาศสูงขึ้นเมื่อเข้าใกล้ โอกาศน้อยลงเมื่อพรานพลางตัวดี</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalsGoPsychoHunted>คำเตือน: {ANIMAL_kindBasePlural} มีโอกาส {1} จะโจมตีกลับเมื่อถูกทำร้ายจากระยะไรเฟิล โอกาสสูงขึ้นเมื่อเข้าใกล้ โอกาสน้อยลงเมื่อพรานพลางตัวดี</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
   <MessageAnimalManhuntsOnTameFailed>คำเตือน: {ANIMAL_kindBasePlural} อาจโจมตี หากความพยายามทำให้เชื่องพลาด (โอกาส {1})</MessageAnimalManhuntsOnTameFailed>
   
