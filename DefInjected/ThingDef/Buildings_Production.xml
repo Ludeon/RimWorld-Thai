@@ -7,7 +7,7 @@
   <BiofuelRefinery.description>TODO</BiofuelRefinery.description>
   
   <!-- EN: brewery -->
-  <Brewery.label>โต๊ะหมัก</Brewery.label>
+  <Brewery.label>โรงเบียร์</Brewery.label>
   <!-- EN: A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer. -->
   <Brewery.description>TODO</Brewery.description>
   

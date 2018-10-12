@@ -266,39 +266,39 @@
   <!-- EN: กำลังทำ หอกปา -->
   <Make_Pila.jobString>กำลังทำหอกปา</Make_Pila.jobString>
   
-  <!-- EN: ทำ ประติมากรรม (ยิ่งใหญ่) -->
+  <!-- EN: ทำ ประติมากรรมมโหฬาร -->
   <Make_SculptureGrand.label>ทำ ประติมากรรมขนาดยิ่งใหญ่</Make_SculptureGrand.label>
-  <!-- EN: กำลังทำ ประติมากรรม (ยิ่งใหญ่) -->
+  <!-- EN: กำลังทำ ประติมากรรมมโหฬาร -->
   <Make_SculptureGrand.jobString>กำลังทำประติมากรรมขนาดยิ่งใหญ่</Make_SculptureGrand.jobString>
   
-  <!-- EN: ทำ ประติมากรรม (ใหญ่) -->
+  <!-- EN: ทำ ประติมากรรมใหญ่ -->
   <Make_SculptureLarge.label>ทำ ประติมากรรมขนาดใหญ่</Make_SculptureLarge.label>
-  <!-- EN: กำลังทำ ประติมากรรม (ใหญ่) -->
+  <!-- EN: กำลังทำ ประติมากรรมใหญ่ -->
   <Make_SculptureLarge.jobString>กำลังทำ การทำประติมากรรมขนาดใหญ่</Make_SculptureLarge.jobString>
   
-  <!-- EN: ทำ ประติมากรรม (เล็ก) -->
+  <!-- EN: ทำ ประติมากรรมเล็ก -->
   <Make_SculptureSmall.label>ทำ ประติมากรรมขนาดเล็ก</Make_SculptureSmall.label>
-  <!-- EN: กำลังทำ ประติมากรรม (เล็ก) -->
+  <!-- EN: กำลังทำ ประติมากรรมเล็ก -->
   <Make_SculptureSmall.jobString>กำลังทำประติมากรรมขนาดเล็ก</Make_SculptureSmall.jobString>
   
-  <!-- EN: ทำ EMP shell -->
+  <!-- EN: ทำ ลูกปืนครก EMP -->
   <Make_Shell_EMP.label>ทำ ลูกปืนครก EMP</Make_Shell_EMP.label>
-  <!-- EN: กำลังทำ EMP shell -->
+  <!-- EN: กำลังทำ ลูกปืนครก EMP -->
   <Make_Shell_EMP.jobString>กำลังทำลูกปืนครก EMP</Make_Shell_EMP.jobString>
   
-  <!-- EN: ทำ firefoam shell -->
+  <!-- EN: ทำ ลูกปืนครกดับเพลิง -->
   <Make_Shell_Firefoam.label>ทำ ลูกปืนครกดับเพลิง</Make_Shell_Firefoam.label>
-  <!-- EN: กำลังทำ firefoam shell -->
+  <!-- EN: กำลังทำ ลูกปืนครกดับเพลิง -->
   <Make_Shell_Firefoam.jobString>กำลังทำ ลูกปืนครกดับเพลิง</Make_Shell_Firefoam.jobString>
   
-  <!-- EN: ทำ ปลอกกระสุนปืนใหญ่ -->
+  <!-- EN: ทำ ลูกปืนครก -->
   <Make_Shell_HighExplosive.label>ทำ ลูกปืนครก</Make_Shell_HighExplosive.label>
-  <!-- EN: กำลังทำ ปลอกกระสุนปืนใหญ่ -->
+  <!-- EN: กำลังทำ ลูกปืนครก -->
   <Make_Shell_HighExplosive.jobString>กำลังทำลูกปืนครก</Make_Shell_HighExplosive.jobString>
   
-  <!-- EN: ทำ incendiary shell -->
+  <!-- EN: ทำ ลูกปืนครกเพลิง -->
   <Make_Shell_Incendiary.label>ทำ ลูกปืนครกเพลิง</Make_Shell_Incendiary.label>
-  <!-- EN: กำลังทำ incendiary shell -->
+  <!-- EN: กำลังทำ ลูกปืนครกเพลิง -->
   <Make_Shell_Incendiary.jobString>กำลังทำลูกปืนครกเพลิง</Make_Shell_Incendiary.jobString>
   
   <!-- EN: ทำ ยาสูบ Smokeleaf -->
