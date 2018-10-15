@@ -2,7 +2,7 @@
 
 This is the Thai translation data for RimWorld.
 
-Compatible with RimWorld version: `1.0.2051`
+Compatible with RimWorld version: `1.0.2057`
 
 `Strings` and `Backstories` are not translated yet.
 
@@ -20,14 +20,14 @@ In case you want latest translation, you could install it manually follow these 
 
 Quick notes & summary from current translation report.
 
-Report generated on `2018-10-12`
+Report generated on `2018-10-16`
 
   * :ballot_box_with_check: (0) General load errors
   * :ballot_box_with_check: (0) Def-injected translations load errors
   * :ballot_box_with_check: (0) Backstories load errors
   * :ballot_box_with_check: (0) Missing keyed translations
-  * :black_square_button: (3962) Def-injected translations missing
-  * :black_square_button: (2073) Backstory translations missing
+  * :black_square_button: (3967) Def-injected translations missing
+  * :black_square_button: (2079) Backstory translations missing
     > This will be translate last, after all other translations is done, the problem it's simply lack of man-power.
     > 
     > If you want to helping translate this, please go ahead. Follow contribute guide [here](http://ludeon.com/forums/index.php?topic=2933.0) and translating direction in [glossary](https://github.com/Ludeon/RimWorld-Thai/wiki/Glossary) page.

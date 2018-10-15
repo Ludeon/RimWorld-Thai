@@ -134,8 +134,8 @@
 
   <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort}. -->
   <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} พลาดเล็กๆน้อยๆในขณะดำเนินการให้ {PATIENT_labelShort}</MessageMedicalOperationFailureMinor>
-  <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_LabelShort}. -->
-  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} ผิดพลาดใหญ่หลวงในขณะดำเนินการให้ {PATIENT_LabelShort}</MessageMedicalOperationFailureCatastrophic>
+  <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort}. -->
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} ผิดพลาดใหญ่หลวงในขณะดำเนินการให้ {PATIENT_labelShort}</MessageMedicalOperationFailureCatastrophic>
   <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort}. -->
   <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} พลาดแบบแปลกๆในขณะดำเนินการให้ {PATIENT_labelShort}</MessageMedicalOperationFailureRidiculous>
   <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2} -->
@@ -282,8 +282,8 @@
   <!-- EN: {PAWN_labelShort}'s {2} has healed. Cause: {0} -->
   <MessagePermanentWoundHealed>{2} ของ {PAWN_labelShort} ถูกเยียวยาจนหาย ด้วยสาเหตุ: {0}</MessagePermanentWoundHealed>
 
-  <!-- EN: Since you rescued {!_objective}, {1_labelShort} has joined your group! -->
-  <MessageRescueeJoined>ในเมื่อคุณช่วยเหลือ{!_objective}, {1_labelShort} จึงเข้าร่วมกลุ่มของคุณ!</MessageRescueeJoined>
+  <!-- EN: {1_labelShort} has joined your group after being rescued! -->
+  <MessageRescueeJoined>{1_labelShort} เข้าร่วมกลุ่มของคุณหลังถูกช่วยเหลือ!</MessageRescueeJoined>
   
   <!-- EN: Some transport pods are unreachable. -->
   <MessageTransporterUnreachable>กระสวยขนส่งบางส่วนเข้าไม่ถึง</MessageTransporterUnreachable>
