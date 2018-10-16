@@ -2,22 +2,22 @@
 <LanguageData>
   
   <!-- EN: butchery efficiency -->
-  <ButcheryFleshEfficiency.label>ประสิทธิภาพการต่อสู้</ButcheryFleshEfficiency.label>
+  <ButcheryFleshEfficiency.label>ประสิทธิภาพในการแล่เนื้อ</ButcheryFleshEfficiency.label>
   <!-- EN: The amount of meat produced when butchering flesh creatures. The actual amount is also related to the creature's size. -->
   <ButcheryFleshEfficiency.description>TODO</ButcheryFleshEfficiency.description>
   
   <!-- EN: butchery speed -->
-  <ButcheryFleshSpeed.label>ความเร็วในการสู้รบ</ButcheryFleshSpeed.label>
+  <ButcheryFleshSpeed.label>ความเร็วในการแล่เนื้อ</ButcheryFleshSpeed.label>
   <!-- EN: The speed at which this person butchers flesh creatures. -->
   <ButcheryFleshSpeed.description>TODO</ButcheryFleshSpeed.description>
   
   <!-- EN: mechanoid disassembly efficiency -->
-  <ButcheryMechanoidEfficiency.label>ประสิทธิภาพการรื้อ</ButcheryMechanoidEfficiency.label>
+  <ButcheryMechanoidEfficiency.label>ประสิทธิภาพในการรื้อเมคานอยด์</ButcheryMechanoidEfficiency.label>
   <!-- EN: The amount of materials yielded when this person disassembles a dead mechanoid. The actual amount is also related to the mechanoid's size. -->
   <ButcheryMechanoidEfficiency.description>TODO</ButcheryMechanoidEfficiency.description>
   
   <!-- EN: mechanoid disassembly speed -->
-  <ButcheryMechanoidSpeed.label>ความเร็วในการรื้อ</ButcheryMechanoidSpeed.label>
+  <ButcheryMechanoidSpeed.label>ความเร็วในการรื้อเมคานอยด์</ButcheryMechanoidSpeed.label>
   <!-- EN: The speed at which this person can disassemble a mechanoid. -->
   <ButcheryMechanoidSpeed.description>TODO</ButcheryMechanoidSpeed.description>
   
@@ -27,17 +27,17 @@
   <CookSpeed.description>TODO</CookSpeed.description>
   
   <!-- EN: drug cooking speed -->
-  <DrugCookingSpeed.label>ความเร็วการผลิตเบียร์</DrugCookingSpeed.label>
+  <DrugCookingSpeed.label>ความเร็วในการปรุงยา</DrugCookingSpeed.label>
   <!-- EN: The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints. -->
   <DrugCookingSpeed.description>TODO</DrugCookingSpeed.description>
   
   <!-- EN: drug synthesis speed -->
-  <DrugSynthesisSpeed.label>ความเร็วในการผลิตยาเสพติด</DrugSynthesisSpeed.label>
+  <DrugSynthesisSpeed.label>ความเร็วในการสังเคราะห์ยา</DrugSynthesisSpeed.label>
   <!-- EN: How fast this character synthesizes complex chemical drugs. -->
   <DrugSynthesisSpeed.description>TODO</DrugSynthesisSpeed.description>
   
   <!-- EN: food poison chance -->
-  <FoodPoisonChance.label>มีโอกาสเกิดอาหารเป็นพิษ</FoodPoisonChance.label>
+  <FoodPoisonChance.label>โอกาสอาหารเป็นพิษ</FoodPoisonChance.label>
   <!-- EN: The probability that this character will inadvertently poison a meal they cook. Food poison temporarily debilitates anyone it strikes. -->
   <FoodPoisonChance.description>TODO</FoodPoisonChance.description>
   
@@ -47,7 +47,7 @@
   <SculptingSpeed.description>TODO</SculptingSpeed.description>
   
   <!-- EN: smelting speed -->
-  <SmeltingSpeed.label>อัตราการละลาย</SmeltingSpeed.label>
+  <SmeltingSpeed.label>ความเร็วในการหลอม</SmeltingSpeed.label>
   <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
   <SmeltingSpeed.description>TODO</SmeltingSpeed.description>
   
@@ -62,7 +62,7 @@
   <TailoringSpeed.description>TODO</TailoringSpeed.description>
   
   <!-- EN: unskilled labor speed -->
-  <UnskilledLaborSpeed.label>TODO</UnskilledLaborSpeed.label>
+  <UnskilledLaborSpeed.label>ความเร็วในการทำงานกรรมกร</UnskilledLaborSpeed.label>
   <!-- EN: The speed at which this person carries out unskilled labor like making stone blocks, making chemfuel at a refinery or burning items. -->
   <UnskilledLaborSpeed.description>TODO</UnskilledLaborSpeed.description>
   

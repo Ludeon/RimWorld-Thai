@@ -31,15 +31,15 @@
   <!-- EN: {0} importance -->
   <HealthFactorPercentImpact>{0} ขาดไม่ได้</HealthFactorPercentImpact>
   <!-- EN: {0} impact -->
-  <HealthOffsetScale>{0} มีผลกระทบ</HealthOffsetScale>
+  <HealthOffsetScale>{0} ส่งผลกระทบ</HealthOffsetScale>
   <!-- EN: {0} max -->
   <HealthFactorMaxImpact>เต็มที่ {0}</HealthFactorMaxImpact>
   <!-- EN: if below {0} -->
-  <HealthFactorAllowedDefect>หากต่ำกว่า {0}</HealthFactorAllowedDefect>
+  <HealthFactorAllowedDefect>ถ้าต่ำกว่า {0}</HealthFactorAllowedDefect>
   <!-- EN: Post-process curve -->
   <StatsReport_PostProcessed>เส้นโค้งหลังประมวลทั้งหมด</StatsReport_PostProcessed>
   <!-- EN: Final value -->
-  <StatsReport_FinalValue>ค่าสุดท้าย</StatsReport_FinalValue>
+  <StatsReport_FinalValue>รวม</StatsReport_FinalValue>
   <!-- EN: Materials and labor -->
   <StatsReport_MarketValueFromStuffsAndWork>ค่าทางการตลาดนั้นถูกคำนวนจากวัสดุของสิ่งก่อสร้างและปริมาณงาน</StatsReport_MarketValueFromStuffsAndWork>
   <!-- EN: Quality multiplier -->
@@ -61,7 +61,7 @@
   <!-- EN: Facilities -->
   <StatsReport_Facilities>สิ่งอำนวยความสะดวก</StatsReport_Facilities>
   <!-- EN: Multiplier for body size {0} -->
-  <StatsReport_BodySize>ตัวคูณขนาดตัว {0}</StatsReport_BodySize>
+  <StatsReport_BodySize>คูณขนาดตัว {0}</StatsReport_BodySize>
   <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
   <StatsReport_MeleeDPSExplanation>DPS = ค่าเสียหายรบประชิด * โอกาสทำร้ายรบประชิด / คูลดาวน์เป็นวินาที</StatsReport_MeleeDPSExplanation>
   <!-- EN: Melee damage -->
@@ -73,7 +73,7 @@
   <!-- EN: {0} s -->
   <StatsReport_CooldownFormat>{0} วิ</StatsReport_CooldownFormat>
   <!-- EN: Life expectancy -->
-  <StatsReport_LifeExpectancy>คาดการอายุ</StatsReport_LifeExpectancy>
+  <StatsReport_LifeExpectancy>คาดการจะมีชีวิตนาน</StatsReport_LifeExpectancy>
   <!-- EN: Multiplier for missing body parts -->
   <StatsReport_MissingBodyParts>ทวีคูณจากอวัยวะที่ขาด</StatsReport_MissingBodyParts>
   <!-- EN: Gear and inventory -->

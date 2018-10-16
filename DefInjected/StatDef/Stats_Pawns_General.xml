@@ -2,89 +2,89 @@
 <LanguageData>
   
   <!-- EN: carrying capacity -->
-  <CarryingCapacity.label>กำลังการผลิตการขนส่ง</CarryingCapacity.label>
+  <CarryingCapacity.label>แบกขนได้สูงสุด</CarryingCapacity.label>
   <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators. This is separate from the ability to carry cargo on long cross-world trips. -->
   <CarryingCapacity.description>TODO</CarryingCapacity.description>
   
   <!-- EN: Maximum comfortable temperature -->
-  <ComfyTemperatureMax.label>อุณหภูมิความสะดวกสบายสูงสุด</ComfyTemperatureMax.label>
+  <ComfyTemperatureMax.label>อุณหภูมิสูงสุดที่สบายตัว</ComfyTemperatureMax.label>
   <!-- EN: Above this temperature, characters will be unhappy. Significantly above this temperature, they will develop heatstroke and eventually die. -->
   <ComfyTemperatureMax.description>TODO</ComfyTemperatureMax.description>
   
   <!-- EN: Minimum comfortable temperature -->
-  <ComfyTemperatureMin.label>อุณหภูมิความสะดวกสบายขั้นต่ำ</ComfyTemperatureMin.label>
+  <ComfyTemperatureMin.label>อุณหภูมิต่ำสุดที่สบายตัว</ComfyTemperatureMin.label>
   <!-- EN: Below this temperature, characters will be unhappy. Significantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
   <ComfyTemperatureMin.description>TODO</ComfyTemperatureMin.description>
   
   <!-- EN: eating speed -->
-  <EatingSpeed.label>ความเร็วในการรับประทานอาหาร</EatingSpeed.label>
+  <EatingSpeed.label>ความเร็วกินอาหาร</EatingSpeed.label>
   <!-- EN: A multiplier on eating speed. -->
   <EatingSpeed.description>TODO</EatingSpeed.description>
   
   <!-- EN: foraged food amount -->
-  <ForagedNutritionPerDay.label>TODO</ForagedNutritionPerDay.label>
+  <ForagedNutritionPerDay.label>ออกหาอาหารได้</ForagedNutritionPerDay.label>
   <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
   <ForagedNutritionPerDay.description>TODO</ForagedNutritionPerDay.description>
   
   <!-- EN: global learning factor -->
-  <GlobalLearningFactor.label>ประสิทธิภาพการเรียนรู้ทั่วโลก</GlobalLearningFactor.label>
+  <GlobalLearningFactor.label>ปัจจัยการเรียนรู้ทั่วไป</GlobalLearningFactor.label>
   <!-- EN: A multiplier on the learning rate for all skills. -->
   <GlobalLearningFactor.description>TODO</GlobalLearningFactor.description>
   
   <!-- EN: hunger rate multiplier -->
-  <HungerRateMultiplier.label>TODO</HungerRateMultiplier.label>
+  <HungerRateMultiplier.label>คูณอัตตราความหิว</HungerRateMultiplier.label>
   <!-- EN: A multiplier on how quickly a creature becomes hungry. -->
   <HungerRateMultiplier.description>TODO</HungerRateMultiplier.description>
   
   <!-- EN: immunity gain speed -->
-  <ImmunityGainSpeed.label>อัตราการสร้างเสริมภูมิคุ้มกันโรค</ImmunityGainSpeed.label>
+  <ImmunityGainSpeed.label>ความเร็วในการสร้างภูมิคุ้มกันโรค</ImmunityGainSpeed.label>
   <!-- EN: The speed at which this character gains immunity to diseases. If this is too slow, the character will die from a disease before developing immunity. -->
   <ImmunityGainSpeed.description>TODO</ImmunityGainSpeed.description>
   
   <!-- EN: leather amount -->
-  <LeatherAmount.label>จำนวนหนัง</LeatherAmount.label>
+  <LeatherAmount.label>ปริมาณหนัง</LeatherAmount.label>
   <!-- EN: The amount of leather yielded when butchering this creature. -->
   <LeatherAmount.description>TODO</LeatherAmount.description>
   
   <!-- EN: meat amount -->
-  <MeatAmount.label>ปริมาณของเนื้อสัตว์</MeatAmount.label>
+  <MeatAmount.label>ปริมาณเนื้อ</MeatAmount.label>
   <!-- EN: The amount of meat yielded when butchering this creature. -->
   <MeatAmount.description>TODO</MeatAmount.description>
   
   <!-- EN: mental break threshold -->
-  <MentalBreakThreshold.label>เกณฑ์การสลาย</MentalBreakThreshold.label>
+  <MentalBreakThreshold.label>เส้นแบ่งสติแตก</MentalBreakThreshold.label>
   <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break. The severity of the mental break will depend on how far below the threshold they are. -->
   <MentalBreakThreshold.description>TODO</MentalBreakThreshold.description>
   
   <!-- EN: minimum handling skill -->
-  <MinimumHandlingSkill.label>การดูแลสัตว์ขั้นต่ำ</MinimumHandlingSkill.label>
+  <MinimumHandlingSkill.label>ทักษะจัดการสัตว์ขั้นต่ำ</MinimumHandlingSkill.label>
   <!-- EN: This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals. -->
   <MinimumHandlingSkill.description>TODO</MinimumHandlingSkill.description>
   
   <!-- EN: move speed -->
-  <MoveSpeed.label>ความเร็วในการย้าย</MoveSpeed.label>
+  <MoveSpeed.label>เคลื่อนที่เร็ว</MoveSpeed.label>
   <!-- EN: Speed of movement in cells per second. -->
   <MoveSpeed.description>TODO</MoveSpeed.description>
   <!-- EN: {0} c/s -->
-  <MoveSpeed.formatString>{0} m/s</MoveSpeed.formatString>
+  <MoveSpeed.formatString>{0} ช/วิ</MoveSpeed.formatString>
   
   <!-- EN: pain shock threshold -->
-  <PainShockThreshold.label>TODO</PainShockThreshold.label>
+  <PainShockThreshold.label>เส้นแบ่งความเจ็บปวด</PainShockThreshold.label>
   <!-- EN: The pain level at which this creature is downed from pain. -->
   <PainShockThreshold.description>TODO</PainShockThreshold.description>
   
   <!-- EN: psychic sensitivity -->
-  <PsychicSensitivity.label>ไวกายสิทธิ์</PsychicSensitivity.label>
+  <PsychicSensitivity.label>ความไวต่อพลังจิต</PsychicSensitivity.label>
   <!-- EN: Multiplier on the impact of psychic phenomena affecting this person. More sensitive people both suffer more from negative psychic effects, and benefit more from positive ones. -->
   <PsychicSensitivity.description>TODO</PsychicSensitivity.description>
   
   <!-- EN: rest rate multiplier -->
-  <RestRateMultiplier.label>TODO</RestRateMultiplier.label>
+  <RestRateMultiplier.label>คูณอัตราการพักผ่อน</RestRateMultiplier.label>
   <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
   <RestRateMultiplier.description>TODO</RestRateMultiplier.description>
   
   <!-- EN: toxic sensitivity -->
-  <ToxicSensitivity.label>ความไวเป็นพิษ</ToxicSensitivity.label>
+  <ToxicSensitivity.label>ความไวต่อพิษ</ToxicSensitivity.label>
   <!-- EN: Multiplier on the impact of toxic buildup on this creature. -->
   <ToxicSensitivity.description>TODO</ToxicSensitivity.description>
   

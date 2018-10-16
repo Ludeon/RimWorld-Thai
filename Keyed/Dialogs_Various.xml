@@ -317,9 +317,9 @@
   <!-- EN: Range -->
   <Range>ระยะ</Range>
   <!-- EN: Stopping power -->
-  <StoppingPower>แรงหยุดยั้ง</StoppingPower>
+  <StoppingPower>พลังหยุดยั้ง</StoppingPower>
   <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected. -->
-  <StoppingPowerExplanation>การโดนยิงจากอาวุธนี้ จะทำให้เป้าหมายชะงักเคลื่อนที่ช้าลงไปหลายวินาที เป้าหมายที่มีขนาดร่างกายใหญ่กว่า 'แรงหยุดยั้ง' จะไม่ได้รับผลกระทบ</StoppingPowerExplanation>
+  <StoppingPowerExplanation>เมื่อโดนยิงจากอาวุธนี้ จะทำให้เป้าหมายชะงักการเคลื่อนที่ช้าลงไปหลายวินาที เป้าหมายที่มีขนาดตัวใหญ่กว่าพลังหยุดยั้ง จะไม่ได้รับผลกระทบ</StoppingPowerExplanation>
   <!-- EN: Direct hit chance -->
   <DirectHitChance>โอกาสโดนตรงๆ</DirectHitChance>
   <!-- EN: Miss radius -->
@@ -335,19 +335,19 @@
   <!-- EN: Harvest yield -->
   <HarvestYield>ผลผลิตเก็บเกี่ยว</HarvestYield>
   <!-- EN: Min growth temperature -->
-  <MinGrowthTemperature>อุณหภูมิเติบโตต่ำสุด</MinGrowthTemperature>
+  <MinGrowthTemperature>เติบโตได้ในอุณหภูมิต่ำสุด</MinGrowthTemperature>
   <!-- EN: Max growth temperature -->
-  <MaxGrowthTemperature>อุณหภูมิเติบโตสูงสุด</MaxGrowthTemperature>
+  <MaxGrowthTemperature>เติบโตได้ในอุณหภูมิสูงสุด</MaxGrowthTemperature>
   <!-- EN: Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth. -->
   <GrowingTimeDesc>พืชเติบโตได้เฉพาะบางช่วงเวลาในแต่ละวันซึ่งมีแสงสว่างเท่านั้น สถิตินี้ใช้วัดเวลาที่พืชต้องการเพื่อโตเต็มที่ เวลาในการเติบโตที่แท้จริงโดยทั่วไปจะนานกว่าประมาณสองเท่า และอุณหภูมิต่ำนั้นชะลอการเจริญเติบโตของพืช</GrowingTimeDesc>
   <!-- EN: days -->
   <Days>วัน</Days>
   <!-- EN: Minimum growing skill to sow -->
-  <MinGrowingSkillToSow>ทักษะเพาะปลูกขั้นต่ำเพื่อหว่าน</MinGrowingSkillToSow>
+  <MinGrowingSkillToSow>ทักษะเพาะปลูกขั้นต่ำเพื่อปลูก</MinGrowingSkillToSow>
   <!-- EN: Fertility requirement -->
   <FertilityRequirement>ต้องการความอุดมสมบูรณ์</FertilityRequirement>
   <!-- EN: Fertility sensitivity -->
-  <FertilitySensitivity>ความไวต่ออุดมสมบูรณ์</FertilitySensitivity>
+  <FertilitySensitivity>ความไวต่อความอุดมสมบูรณ์</FertilitySensitivity>
   <!-- EN: Light requirement -->
   <LightRequirement>ต้องการแสงสว่าง</LightRequirement>
   <!-- EN: Attributes -->
@@ -375,9 +375,9 @@
   <!-- EN: Base price -->
   <MarketValue>ราคาฐาน</MarketValue>
   <!-- EN: Covers -->
-  <Covers>ที่กำบัง</Covers>
+  <Covers>ป้องกัน</Covers>
   <!-- EN: Layer -->
-  <Layer>ชั้น</Layer>
+  <Layer>ชั้นที่สวม</Layer>
   <!-- EN: Cover effectiveness -->
   <CoverEffectiveness>ประสิทธิภาพของที่กำบัง</CoverEffectiveness>
   <!-- EN: How effective this is when used as cover in a gunfight. Higher percentages will block more shots. -->
@@ -389,15 +389,15 @@
   <!-- EN: Wildness -->
   <Wildness>ความดุร้าย</Wildness>
   <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
-  <WildnessExplanation>สิ่งมีชีวิตดุร้ายนั้น โดยธรรมชาติยากในการทำให้เชื่อง ฝึก และดูแล</WildnessExplanation>
+  <WildnessExplanation>สิ่งมีชีวิตที่ดุร้ายตามธรรมชาตินั้นยากกว่าในการทำให้เชื่อง ฝึกฝน และดูแล</WildnessExplanation>
   <!-- EN: Training decay interval -->
-  <TrainingDecayInterval>การฝึกฝนแย่ลงทุกๆ</TrainingDecayInterval>
+  <TrainingDecayInterval>การฝึกฝนลดลงทุกๆ</TrainingDecayInterval>
   <!-- EN: Tameness will never decay. -->
-  <TamenessWillNotDecay>ความเชื่องจะไม่แย่ลง</TamenessWillNotDecay>
+  <TamenessWillNotDecay>ความเชื่องจะไม่ลดลง</TamenessWillNotDecay>
   <!-- EN: Animal filth rate -->
-  <AnimalFilthRate>อัตราความสกปรกของสัตว์</AnimalFilthRate>
+  <AnimalFilthRate>อัตราการสร้างความสกปรกของสัตว์</AnimalFilthRate>
   <!-- EN: Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
-  <AnimalFilthRateExplanation>สัตว์ก่อให้เกิดความสกปรกเมื่อเคลื่อนไปมาบน 'พื้น' ที่สร้างขึ้น นี่คือจำนวนเฉลี่ยของสิ่งสกปรกเกิดขึ้นต่อทุกๆ {0} ช่องที่สิ่งมีชีวิตนี้เดินผ่าน\n\nสัตว์ที่มีขนาดใหญ่ หรือที่ไม่คล้ายสัตว์เลี้ยงขนาด จะทำให้เกิดสิ่งสกปรกมากขึ้น</AnimalFilthRateExplanation>
+  <AnimalFilthRateExplanation>สัตว์ก่อให้เกิดสิ่งสกปรกเมื่อเคลื่อนไปมาบน 'พื้นที่สร้างขึ้น' นี่คือปริมาณโดยเฉลี่ยของสิ่งสกปรก เกิดขึ้นต่อทุกๆ {0} ช่อง ที่สิ่งมีชีวิตนี้เดินผ่าน\n\nสัตว์ที่มีขนาดใหญ่ หรือสัตว์ที่ไม่ค่อยจะคล้ายสัตว์เลี้ยงเท่าไหร่ จะสร้างสิ่งสกปรกมากกว่า</AnimalFilthRateExplanation>
   <!-- EN: Time -->
   <TimeRecordsCategory>เวลา</TimeRecordsCategory>
   <!-- EN: Misc -->
@@ -405,7 +405,7 @@
   <!-- EN: Addictiveness -->
   <Addictiveness>ความน่าดึงดูด</Addictiveness>
   <!-- EN: Pack animal -->
-  <PackAnimal>สัตว์ขนของ</PackAnimal>
+  <PackAnimal>สัตว์ขนของได้</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
   <PackAnimalExplanation>บ่งบอกว่าสัตว์นี้เหมาะสมหรือไม่ที่จะนำไปใช้ขนของ ในกองคาราวานระยะทางไกล</PackAnimalExplanation>
   <!-- EN: Skill -->
@@ -427,7 +427,7 @@
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>โอกาสแก้แค้นเมื่อโดนทำร้าย</HarmedRevengeChance>
   <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
-  <HarmedRevengeChanceExplanation>โอกาสที่สิ่งมีชีวิตนี้จะออกล้างแค้น หลังจากโดนทำร้ายจากระยะไกล\n\nโอากาศจะเพิ่มขึ้นถ้าผู้โจมตีอยู่ใกล้มา ถ้าโดนโจมตีระยะประชิดโอกาสจะเพิ่มสูงขึ้นสามเท่า\n\nโอากาศมีผลทุกครั้งที่ได้รับความเสียหาย หมายความว่าอาวุธที่ยิงช้า สร้างความเสียหายสูง จะมีโอกาสกระทบน้อยกว่า\n\nเพื่อลดโอกาสสิ่งมีชีวิตจะหันกลับมาล้างแค้น แนะนำให้โจมตีจากระยะไรเฟิลด้วยอาวุธยิงช้า</HarmedRevengeChanceExplanation>
+  <HarmedRevengeChanceExplanation>โอกาสสิ่งมีชีวิตนี้จะหันกลับมาล้างแค้นหลังโดนทำร้ายจากระยะไกล\n\nโอกาสจะยิ่งเพิ่มขึ้นเมื่อผู้โจมตีอยู่ในระยะใกล้ ถ้าระยะโจมตีใกล้มากๆ โอกาสจะเพิ่มสูงขึ้นสามเท่า\n\nค่า 'โอกาส' นี้ ส่งผลทุกครั้งที่ได้รับความเสียหาย หมายความว่า อาวุธที่ยิงช้า สร้างความเสียหายสูง มีความเป็นไปได้น้อยกว่าที่จะให้เกิดการล้างแค้น\n\nเพื่อลดโอกาสที่สิ่งมีชีวิตต่างๆหันกลับมาล้างแค้น แนะนำให้โจมตีจากระยะไกล ด้วยอาวุธยิงช้า</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
   <TameFailedRevengeChance>โอกาสแก้แค้นเมื่อพลาดทำให้เชื่อง</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->

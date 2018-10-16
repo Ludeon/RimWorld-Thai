@@ -2,32 +2,32 @@
 <LanguageData>
   
   <!-- EN: aiming time -->
-  <AimingDelayFactor.label>Aiming Delay Factor</AimingDelayFactor.label>
+  <AimingDelayFactor.label>เวลาเล็ง</AimingDelayFactor.label>
   <!-- EN: How long it takes to shoot after choosing a target. -->
-  <AimingDelayFactor.description>TODO</AimingDelayFactor.description>
+  <AimingDelayFactor.description>ใช้เวลานานแค่ไหนในการเล็งยิง หลังจากเลือกเป้าหมายแล้ว</AimingDelayFactor.description>
   
   <!-- EN: melee armor penetration -->
-  <MeleeArmorPenetration.label>TODO</MeleeArmorPenetration.label>
+  <MeleeArmorPenetration.label>รบประชิด เจาะเกราะ</MeleeArmorPenetration.label>
   <!-- EN: Average armor penetration of all attacks in melee combat. This stat includes currently used weapon. -->
   <MeleeArmorPenetration.description>TODO</MeleeArmorPenetration.description>
   
   <!-- EN: melee dodge chance -->
-  <MeleeDodgeChance.label>TODO</MeleeDodgeChance.label>
+  <MeleeDodgeChance.label>รบประชิด โอกาสหลบ</MeleeDodgeChance.label>
   <!-- EN: Chance to dodge a melee attack that would've otherwise hit. Characters will not dodge while aiming or firing a ranged weapon. -->
   <MeleeDodgeChance.description>TODO</MeleeDodgeChance.description>
   
   <!-- EN: melee DPS -->
-  <MeleeDPS.label>ความเสียหายที่เกิดชุลมุนต่อวินาที</MeleeDPS.label>
+  <MeleeDPS.label>รบประชิด สร้างความเสียหาย</MeleeDPS.label>
   <!-- EN: Average damage per second in melee combat. This stat ignores target defenses like dodging and armor. -->
   <MeleeDPS.description>TODO</MeleeDPS.description>
   
   <!-- EN: melee hit chance -->
-  <MeleeHitChance.label>TODO</MeleeHitChance.label>
+  <MeleeHitChance.label>รบประชิด โอกาศโจมตีโดน</MeleeHitChance.label>
   <!-- EN: Chance to hit a target in melee. The target can still dodge even if we would've hit. -->
   <MeleeHitChance.description>TODO</MeleeHitChance.description>
   
   <!-- EN: shooting accuracy -->
-  <ShootingAccuracyPawn.label>TODO</ShootingAccuracyPawn.label>
+  <ShootingAccuracyPawn.label>ความแม่นยำในการยิง</ShootingAccuracyPawn.label>
   <!-- EN: Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
   <ShootingAccuracyPawn.description>TODO</ShootingAccuracyPawn.description>
   

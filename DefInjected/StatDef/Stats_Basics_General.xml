@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: beauty -->
-  <Beauty.label>ความน่าดึงดูดใจ</Beauty.label>
+  <Beauty.label>ความสวยงาม</Beauty.label>
   <!-- EN: How enjoyable an object is to look at. Beautiful objects fulfill characters' need for beauty. -->
   <Beauty.description>TODO</Beauty.description>
   
   <!-- EN: cleanliness -->
-  <Cleanliness.label>การรักษาความสะอาด</Cleanliness.label>
+  <Cleanliness.label>ความสะอาด</Cleanliness.label>
   <!-- EN: How much an object contributes to an area's cleanliness score. -->
   <Cleanliness.description>TODO</Cleanliness.description>
   
@@ -17,14 +17,14 @@
   <Comfort.description>TODO</Comfort.description>
   
   <!-- EN: deterioration rate -->
-  <DeteriorationRate.label>อัตราการสลายตัว</DeteriorationRate.label>
+  <DeteriorationRate.label>อัตราเสื่อมสภาพ</DeteriorationRate.label>
   <!-- EN: The rate at which this item deteriorates when left outside, in average hit points of damage per day. Deterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
   <DeteriorationRate.description>TODO</DeteriorationRate.description>
   <!-- EN: {0} / day -->
   <DeteriorationRate.formatString>{0} / วัน</DeteriorationRate.formatString>
   
   <!-- EN: flammability -->
-  <Flammability.label>ไวต่อไฟ</Flammability.label>
+  <Flammability.label>ความไวไฟ</Flammability.label>
   <!-- EN: How easily an object catches fire and how quickly a fire will grow as it burns. -->
   <Flammability.description>TODO</Flammability.description>
   
@@ -41,34 +41,34 @@
   <MarketValue.formatString>€{0}</MarketValue.formatString>
   
   <!-- EN: mass -->
-  <Mass.label>น้ำหนัก</Mass.label>
+  <Mass.label>มวล</Mass.label>
   <!-- EN: The physical mass of an object. -->
-  <Mass.description>TODO</Mass.description>
+  <Mass.description>มวลทางกายภาพของวัตถุ</Mass.description>
   <!-- EN: {0} kg -->
-  <Mass.formatString>{0} กีโล</Mass.formatString>
+  <Mass.formatString>{0} ก.ก.</Mass.formatString>
   
   <!-- EN: max hit points -->
-  <MaxHitPoints.label>ความคงทนสุงสุด</MaxHitPoints.label>
+  <MaxHitPoints.label>HP สุงสุด</MaxHitPoints.label>
   <!-- EN: The maximum hit points of an object. This represents how much damage it can take before being destroyed. -->
   <MaxHitPoints.description>TODO</MaxHitPoints.description>
   
   <!-- EN: nutrition -->
-  <Nutrition.label>TODO</Nutrition.label>
+  <Nutrition.label>สารอาหาร</Nutrition.label>
   <!-- EN: How nutritious this food is. -->
-  <Nutrition.description>TODO</Nutrition.description>
+  <Nutrition.description>อาหารนี้มีสารอาหารขนาดไหน</Nutrition.description>
   
   <!-- EN: sell price multiplier -->
-  <SellPriceFactor.label>คูณมูลค่าการตลาด</SellPriceFactor.label>
+  <SellPriceFactor.label>คูณราคาขาย</SellPriceFactor.label>
   <!-- EN: A multiplier on the price at which you can sell items. -->
   <SellPriceFactor.description>TODO</SellPriceFactor.description>
   
   <!-- EN: shooting accuracy -->
-  <ShootingAccuracyTurret.label>TODO</ShootingAccuracyTurret.label>
+  <ShootingAccuracyTurret.label>ความแม่นยำในการยิง</ShootingAccuracyTurret.label>
   <!-- EN: Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
   <ShootingAccuracyTurret.description>TODO</ShootingAccuracyTurret.description>
   
   <!-- EN: work to make -->
-  <WorkToMake.label>จำนวนงาน</WorkToMake.label>
+  <WorkToMake.label>ต้องทำงานเพื่อสร้าง</WorkToMake.label>
   <!-- EN: The base amount of work it takes to make an item, once all materials are gathered. -->
   <WorkToMake.description>TODO</WorkToMake.description>
   

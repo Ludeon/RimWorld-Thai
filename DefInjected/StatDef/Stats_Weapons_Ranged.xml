@@ -2,34 +2,34 @@
 <LanguageData>
   
   <!-- EN: Accuracy (long) -->
-  <AccuracyLong.label>ความถูกต้อง (Long)</AccuracyLong.label>
+  <AccuracyLong.label>ความแม่นยำ (ไกล)</AccuracyLong.label>
   <!-- EN: The weapon's accuracy at a distance of 40 cells or more. An actual shot's chance to hit will also be affected by other factors. -->
   <AccuracyLong.description>TODO</AccuracyLong.description>
   
   <!-- EN: Accuracy (medium) -->
-  <AccuracyMedium.label>ความถูกต้อง (Medium)</AccuracyMedium.label>
+  <AccuracyMedium.label>ความแม่นยำ (กลาง)</AccuracyMedium.label>
   <!-- EN: The weapon's accuracy at a distance of 25 cells. An actual shot's chance to hit will also be affected by other factors. -->
   <AccuracyMedium.description>TODO</AccuracyMedium.description>
   
   <!-- EN: Accuracy (short) -->
-  <AccuracyShort.label>ความถูกต้อง (Short)</AccuracyShort.label>
+  <AccuracyShort.label>ความแม่นยำ (ใกล้)</AccuracyShort.label>
   <!-- EN: The weapon's accuracy at a distance of 12 cells. An actual shot's chance to hit will also be affected by other factors. -->
   <AccuracyShort.description>TODO</AccuracyShort.description>
   
   <!-- EN: Accuracy (close) -->
-  <AccuracyTouch.label>ความถูกต้อง (Touch)</AccuracyTouch.label>
+  <AccuracyTouch.label>ความแม่นยำ (ประชิด)</AccuracyTouch.label>
   <!-- EN: The weapon's accuracy at a distance of 3 cells or less. An actual shot's chance to hit will also be affected by other factors. -->
   <AccuracyTouch.description>TODO</AccuracyTouch.description>
   
   <!-- EN: ranged cooldown -->
-  <RangedWeapon_Cooldown.label>ช่วงระยะเวลาคูลดาวน์อาวุธ</RangedWeapon_Cooldown.label>
+  <RangedWeapon_Cooldown.label>ระยะไกล คูลดาวน์</RangedWeapon_Cooldown.label>
   <!-- EN: How long it takes to recover after firing this weapon. -->
   <RangedWeapon_Cooldown.description>TODO</RangedWeapon_Cooldown.description>
   <!-- EN: {0} s -->
   <RangedWeapon_Cooldown.formatString>{0} วิ</RangedWeapon_Cooldown.formatString>
   
   <!-- EN: damage multiplier -->
-  <RangedWeapon_DamageMultiplier.label>TODO</RangedWeapon_DamageMultiplier.label>
+  <RangedWeapon_DamageMultiplier.label>คูณสร้างความเสียหาย</RangedWeapon_DamageMultiplier.label>
   <!-- EN: A damage multiplier applied to projectiles fired from this weapon. -->
   <RangedWeapon_DamageMultiplier.description>TODO</RangedWeapon_DamageMultiplier.description>
   
