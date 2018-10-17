@@ -2,58 +2,58 @@
 <LanguageData>
   
   <!-- EN: advanced fabrication -->
-  <AdvancedFabrication.label>TODO</AdvancedFabrication.label>
+  <AdvancedFabrication.label>ประดิษฐ์ขั้นสูง</AdvancedFabrication.label>
   <!-- EN: Fabricate advanced components from standard components and other materials. -->
-  <AdvancedFabrication.description>TODO</AdvancedFabrication.description>
+  <AdvancedFabrication.description>ประดิษฐ์ส่วนประกอบชั้นสูง ขึ้นจากส่วนประกอบธรรมดากับวัตถุดิบอื่นๆ</AdvancedFabrication.description>
   
   <!-- EN: bionics -->
-  <Bionics.label>TODO</Bionics.label>
+  <Bionics.label>ชีวกล</Bionics.label>
   <!-- EN: Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach. -->
-  <Bionics.description>TODO</Bionics.description>
+  <Bionics.description>สร้างชิ้นส่วนร่างกายชีวกลไฮเทค เพื่อเปลื่ยนแทนตาและอวัยวะที่ขาดด้วนไป ต้องการหมอที่มีทักษะ ในการต่ออวัยวะเทียม</Bionics.description>
   
   <!-- EN: pulse-charged munitions -->
-  <ChargedShot.label>ชาร์ชไรเฟิ้ล</ChargedShot.label>
+  <ChargedShot.label>กระสุน Pulse-charged</ChargedShot.label>
   <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
-  <ChargedShot.description>สำรวจความลับของการเต้นของชีพจรชาร์จพลังงาน / กระสุน ช่วยให้การผลิตของปืนพลังงาน</ChargedShot.description>
+  <ChargedShot.description>ผลิตอาวุธที่ยิงกระสุน Pulse-charged เพื่อพลังทำลายมากขึ้น โน้ตว่าพวกนี้ต้องใช้คอมโพเน้นท์ชั้นสูงในการผลิต</ChargedShot.description>
   
   <!-- EN: cryptosleep casket -->
-  <Cryptosleep.label>เครื่องนอนแช่แข็ง</Cryptosleep.label>
+  <Cryptosleep.label>โลงคริปโตสลีป</Cryptosleep.label>
   <!-- EN: Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
-  <Cryptosleep.description>ปลดล็อค เครื่องนอนแช่แข็ง อาณานิคมนี้สามารถใส่ลงไปจำศีลเทียม</Cryptosleep.description>
+  <Cryptosleep.description>ก่อสร้างโลงคริปโตสลีป ซึ่งสามารถทำให้สิ่งชีวิตเข้าสู่สภาพหยุดทำงานได้ไม่มีกำหนด</Cryptosleep.description>
   
   <!-- EN: deep drilling -->
-  <DeepDrilling.label>เครื่องเจาะพื้นดิน</DeepDrilling.label>
+  <DeepDrilling.label>เจาะพื้นลึก</DeepDrilling.label>
   <!-- EN: Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources. -->
-  <DeepDrilling.description>คุณสามารถตั้งค่าเครื่องเจาะพื้นสามารถเอาแร่ธาตุส่วนลึกของแผ่นดิน</DeepDrilling.description>
+  <DeepDrilling.description>สร้างเครื่องเจาะพื้นลึก เพื่อดึงทรัพยากรขึ้นจากใต้ดิน คุณต้องการเครื่องสแกนทะลวงพื้นเพื่อค้นหาทรัพยากร</DeepDrilling.description>
   
   <!-- EN: fabrication -->
-  <Fabrication.label>โต๊ะประกอบชิ้นส่วน</Fabrication.label>
+  <Fabrication.label>ประดิษฐ์</Fabrication.label>
   <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
-  <Fabrication.description>อนุญาตให้ก่อสร้างในองค์ประกอบที่ปรับแต่งสามารถผลิตชิ้นส่วนในอาณานิคม</Fabrication.description>
+  <Fabrication.description>สร้างโต๊ะประดิษฐ์ สามารถใช้ทำโครงการไฮเทคต่างๆ ตั้งแต่ประกอบคอมโพเน้นท์ ไปถึงผลิตเกราะพลังงาน</Fabrication.description>
   
   <!-- EN: ground-penetrating scanner -->
-  <GroundPenetratingScanner.label>เครื่องสแกนเนอร์ทะลุพื้น</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.label>เครื่องสแกนทะลวงพื้น</GroundPenetratingScanner.label>
   <!-- EN: Build ground-penetrating scanners that can detect drillable resources under the surface. Requires advanced components to construct. -->
-  <GroundPenetratingScanner.description>ช่วยให้คุณสามารถกแกนเนอร์พื้นสามารถหาวัตถุดิบที่สามารถย่อยสลายได้ในระดับความลึกของแผ่นดิน</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.description>สร้างเครื่องสแกนทะลวงพื้น ใช้ตรวจหาทรัพยากรขุดเจาะภายใต้พื้นผิว ต้องการคอมโพเน้นท์ชั้นสูงในการก่อสร้าง</GroundPenetratingScanner.description>
   
   <!-- EN: multi-analyzer -->
-  <MultiAnalyzer.label>คอมพิวเตอร์ศึกษาเทคโนโลยี</MultiAnalyzer.label>
+  <MultiAnalyzer.label>เครื่องอเนกวิเคราะห์</MultiAnalyzer.label>
   <!-- EN: Build multi-analyzers which increase research speed and allow higher-level research projects. -->
-  <MultiAnalyzer.description>คอมพิวเตอร์ศึกษาเทคโนโลยี ปลดล๊อกเทคโนโลยีเพื่มเมื่อวางใกล้กับโต๊ะเทคโนโลยี</MultiAnalyzer.description>
+  <MultiAnalyzer.description>สร้างเครื่องอเนกวิเคราะห์ เพิ่มความเร็วในการวิจัย และเปิดให้วิจัยโครงการระดับสูงๆ</MultiAnalyzer.description>
   
   <!-- EN: powered armor -->
-  <PoweredArmor.label>ชุดเกราะใช้พลังงาน</PoweredArmor.label>
+  <PoweredArmor.label>เกราะพลังงาน</PoweredArmor.label>
   <!-- EN: Build the power armor and power armor helmets. Note that these also require advanced components. -->
-  <PoweredArmor.description>ชุดเกราะใช้พลังงาน และเทคโนโลยี ขั้นสูงช่วยให้การผลิตเสื้อเกราะพลังงานและหมวกกันน็อกพลังงาน</PoweredArmor.description>
+  <PoweredArmor.description>สร้างเกราะพลังงานและหมวกพลังงาน โน้ตว่าพวกนี้ต้องใช้คอมโพเน้นท์ชั้นสูงในการผลิต</PoweredArmor.description>
   
   <!-- EN: uranium slug turret -->
-  <SniperTurret.label>TODO</SniperTurret.label>
+  <SniperTurret.label>ป้อมปืนยูเรเนียม</SniperTurret.label>
   <!-- EN: Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
-  <SniperTurret.description>TODO</SniperTurret.description>
+  <SniperTurret.description>ผลิตป้อมปืนเจาะเกราะยูเรเนียม มันยิงกระสุนกากยูเรเนียมซึ่งทะลวงพลาสตีลยังกะกระดาษ แต่มีประสิทธิภาพน้อยลงในระยะใกล้</SniperTurret.description>
   
   <!-- EN: vitals monitor -->
-  <VitalsMonitor.label>เครื่องตรวจสุขภาพ</VitalsMonitor.label>
+  <VitalsMonitor.label>เครื่องตรวจสัญญานชีพ</VitalsMonitor.label>
   <!-- EN: Build vitals monitors which improve medical outcomes when placed next to hospital beds. -->
-  <VitalsMonitor.description>เครื่องตรวจสุขภาพทำให้รักษาดีขึ้นเมื่อติดกับเตียงพยาบาล</VitalsMonitor.description>
+  <VitalsMonitor.description>สร้างเครื่องตรวจสัญญานชีพ ช่วยเพิ่มโอกาศให้งานทางแพทย์สำเร็จ เมื่อวางถัดจากเตียงพยาบาล</VitalsMonitor.description>
   
 </LanguageData>

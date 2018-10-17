@@ -194,9 +194,9 @@
   <!-- EN: Locked -->
   <Locked>ล็อก</Locked>
   <!-- EN: Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now. -->
-  <ResearchMenuWithoutBench>จนกว่าคุณจะสร้างโต๊ะวิจัย ชาวนิคมของคุณยังไม่อาจค้นคว้าวิจัย\n\nอย่างไรก็ตาม คุณสามารถดูโครงการวิจัยไว้ก่อนได้</ResearchMenuWithoutBench>
+  <ResearchMenuWithoutBench>จนกว่าคุณจะสร้างโต๊ะวิจัย ชาวนิคมของคุณจะยังไม่สามารถทำการวิจัยจริงๆ\n\nอย่างไรก็ตาม คุณสามารถดูโครงการวิจัยไว้ก่อนได้</ResearchMenuWithoutBench>
   <!-- EN: Research prerequisites -->
-  <ResearchPrerequisites>ข้อจำเป็นต่อการวิจัย</ResearchPrerequisites>
+  <ResearchPrerequisites>ต้องการการวิจัย</ResearchPrerequisites>
   <!-- EN: Required research bench -->
   <RequiredResearchBench>ต้องการโต๊ะวิจัย</RequiredResearchBench>
   <!-- EN: Required research bench facilities -->

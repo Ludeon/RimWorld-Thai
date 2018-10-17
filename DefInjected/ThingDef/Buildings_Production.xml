@@ -22,7 +22,7 @@
   <CraftingSpot.description>TODO</CraftingSpot.description>
   
   <!-- EN: deep drill -->
-  <DeepDrill.label>เครื่องเจาะพื้น</DeepDrill.label>
+  <DeepDrill.label>เครื่องเจาะพื้นลึก</DeepDrill.label>
   <!-- EN: A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely. -->
   <DeepDrill.description>TODO</DeepDrill.description>
   
