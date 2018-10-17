@@ -4,33 +4,33 @@
   <!-- EN: Accuracy (long) -->
   <AccuracyLong.label>ความแม่นยำ (ไกล)</AccuracyLong.label>
   <!-- EN: The weapon's accuracy at a distance of 40 cells or more. An actual shot's chance to hit will also be affected by other factors. -->
-  <AccuracyLong.description>TODO</AccuracyLong.description>
+  <AccuracyLong.description>ความแม่นยำของอาวุธที่ระยะห่าง 40 ช่องหรือน้อยกว่า โอกาสยิงโดนจริงๆ จะได้รับผลกระทบจากปัจจัยอื่นๆด้วย</AccuracyLong.description>
   
   <!-- EN: Accuracy (medium) -->
   <AccuracyMedium.label>ความแม่นยำ (กลาง)</AccuracyMedium.label>
   <!-- EN: The weapon's accuracy at a distance of 25 cells. An actual shot's chance to hit will also be affected by other factors. -->
-  <AccuracyMedium.description>TODO</AccuracyMedium.description>
+  <AccuracyMedium.description>ความแม่นยำของอาวุธที่ระยะห่าง 25 ช่องหรือน้อยกว่า โอกาสยิงโดนจริงๆ จะได้รับผลกระทบจากปัจจัยอื่นๆด้วย</AccuracyMedium.description>
   
   <!-- EN: Accuracy (short) -->
   <AccuracyShort.label>ความแม่นยำ (ใกล้)</AccuracyShort.label>
   <!-- EN: The weapon's accuracy at a distance of 12 cells. An actual shot's chance to hit will also be affected by other factors. -->
-  <AccuracyShort.description>TODO</AccuracyShort.description>
+  <AccuracyShort.description>ความแม่นยำของอาวุธที่ระยะห่าง 12 ช่องหรือน้อยกว่า โอกาสยิงโดนจริงๆ จะได้รับผลกระทบจากปัจจัยอื่นๆด้วย</AccuracyShort.description>
   
   <!-- EN: Accuracy (close) -->
   <AccuracyTouch.label>ความแม่นยำ (ประชิด)</AccuracyTouch.label>
   <!-- EN: The weapon's accuracy at a distance of 3 cells or less. An actual shot's chance to hit will also be affected by other factors. -->
-  <AccuracyTouch.description>TODO</AccuracyTouch.description>
+  <AccuracyTouch.description>ความแม่นยำของอาวุธที่ระยะห่าง 3 ช่องหรือน้อยกว่า โอกาสยิงโดนจริงๆ จะได้รับผลกระทบจากปัจจัยอื่นๆด้วย</AccuracyTouch.description>
   
   <!-- EN: ranged cooldown -->
   <RangedWeapon_Cooldown.label>ระยะไกล คูลดาวน์</RangedWeapon_Cooldown.label>
   <!-- EN: How long it takes to recover after firing this weapon. -->
-  <RangedWeapon_Cooldown.description>TODO</RangedWeapon_Cooldown.description>
+  <RangedWeapon_Cooldown.description>ใช้เวลานานแค่ไหนในการฟื้นสภาพ หลังจากยิงอาวุธนี้</RangedWeapon_Cooldown.description>
   <!-- EN: {0} s -->
   <RangedWeapon_Cooldown.formatString>{0} วิ</RangedWeapon_Cooldown.formatString>
   
   <!-- EN: damage multiplier -->
   <RangedWeapon_DamageMultiplier.label>คูณสร้างความเสียหาย</RangedWeapon_DamageMultiplier.label>
   <!-- EN: A damage multiplier applied to projectiles fired from this weapon. -->
-  <RangedWeapon_DamageMultiplier.description>TODO</RangedWeapon_DamageMultiplier.description>
+  <RangedWeapon_DamageMultiplier.description>ตัวคูณค่าความเสียหายต่อกระสุนที่ยิงออกจากอาวุธนี้</RangedWeapon_DamageMultiplier.description>
   
 </LanguageData>

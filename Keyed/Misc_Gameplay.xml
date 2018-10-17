@@ -93,7 +93,7 @@
   <!-- EN: Power -->
   <PowerSwitch_Power>สวิตช์พลังงาน</PowerSwitch_Power>
   <!-- EN: Recreation type tolerances -->
-  <JoyTolerances>ความอดทนต่อสันทนาการแต่ละประเภท</JoyTolerances>
+  <JoyTolerances>ความอดทนต่อนันทนาการแต่ละประเภท</JoyTolerances>
   <!-- EN: Milk fullness -->
   <MilkFullness>พร้อมให้น้ำนม</MilkFullness>
   <!-- EN: Wool growth -->
@@ -879,7 +879,7 @@
   <!-- EN: Quality -->
   <Quality>คุณภาพ</Quality>
   <!-- EN: An item's quality is how well-made it is. -->
-  <QualityDescription>คุณภาพของไอเท็มหมายถึงว่าไอเท็มถูกสร้างมาดีแค่ไหน</QualityDescription>
+  <QualityDescription>คุณภาพของไอเท็ม ถูกสร้างมาดีแค่ไหน</QualityDescription>
   <!-- EN: Quality: {0} -->
   <QualityIs>คุณภาพ: {0}</QualityIs>
 

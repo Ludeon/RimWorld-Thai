@@ -4,7 +4,7 @@
 
 This is the Thai translation data for RimWorld.
 
-Compatible with RimWorld version: `1.0.2057`
+Compatible with RimWorld version: `1.0.2059`
 
 `Strings` and `Backstories` are not translated yet.
 
@@ -26,29 +26,29 @@ Before start working on the translation, take a look at relevant information on 
 
 ### Current Status
 
-Quick notes & summary from current translation report, generated on `2018-10-16`
+Quick notes & summary from current translation report, generated on `2018-10-17`
 
 * ☑️ (0) General load errors
 * ️️☑️ (0) Def-injected translations load errors
 * ☑️ (0) Backstories load errors
 * ☑️ (0) Missing keyed translations
-* 🔲 (3864) Def-injected translations missing
+* 🔲 (3790) Def-injected translations missing
 * 🔲 (2079) Backstory translations missing
-  > This will be translate last, after all other translations is done, the problem it's simply lack of man-power.
-  > 
-  > If you want to helping translate this, please go ahead. Follow contribute guide [here](http://ludeon.com/forums/index.php?topic=2933.0) and translating direction in [glossary](https://github.com/Ludeon/RimWorld-Thai/wiki/Glossary) page.
+    > This will be translate last, after all other translations is done, the problem it's simply lack of man-power.
+    > 
+    > If you want to helping translate this, please go ahead. Follow contribute guide [here](http://ludeon.com/forums/index.php?topic=2933.0) and translating direction in [glossary](https://github.com/Ludeon/RimWorld-Thai/wiki/Glossary) page.
 
 * ☑️ (0) Unnecessary def-injected translations (marked as NoTranslate)
 * ☑️ (0) Def-injected translations using old, renamed defs (fixed automatically but can break in the next RimWorld version)
 * ☑️ (0) Argument count mismatches (may or may not be incorrect)
 * ☑️ (0) Unnecessary keyed translations (will never be used)
 * ☑️ (57) Keyed translations matching English (maybe ok)
-  > You can safely ignore these, most of the time it's intended to leave as English (e.g. no suitable word in Thai, not really need to translate, etc.)
-  >
-  > For example, all subjects in `Credits.xml` and Quadrums name in `Time.xml` will not translated.
-  >
-  > Please see [glossary](https://github.com/Ludeon/RimWorld-Thai/wiki/Glossary) wiki page, about which words will leave as it is, and reason behind that decision.
-  
+    > You can safely ignore these, most of the time it's intended to leave as English (e.g. no suitable word in Thai, not really need to translate, etc.)
+    >
+    > For example, all subjects in `Credits.xml` and Quadrums name in `Time.xml` will not translated.
+    >
+    > Please see [glossary](https://github.com/Ludeon/RimWorld-Thai/wiki/Glossary) wiki page, about which words will leave as it is, and reason behind that decision.
+
 * ☑️ (0) Backstory translations matching English (maybe ok)
 
 ### Active translators

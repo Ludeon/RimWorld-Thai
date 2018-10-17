@@ -41,21 +41,21 @@
   <!-- EN: Final value -->
   <StatsReport_FinalValue>รวม</StatsReport_FinalValue>
   <!-- EN: Materials and labor -->
-  <StatsReport_MarketValueFromStuffsAndWork>ค่าทางการตลาดนั้นถูกคำนวนจากวัสดุของสิ่งก่อสร้างและปริมาณงาน</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_MarketValueFromStuffsAndWork>จากวัตถุดิบและแรงงาน</StatsReport_MarketValueFromStuffsAndWork>
   <!-- EN: Quality multiplier -->
-  <StatsReport_QualityMultiplier>ทวีคูณจากคุณภาพ</StatsReport_QualityMultiplier>
+  <StatsReport_QualityMultiplier>คูณจากคุณภาพ</StatsReport_QualityMultiplier>
   <!-- EN: Max gain -->
   <StatsReport_MaxGain>ได้รับมากสุด</StatsReport_MaxGain>
   <!-- EN: Multiplier for age {0} -->
-  <StatsReport_AgeMultiplier>ทวีคูณจากอายุ {0}</StatsReport_AgeMultiplier>
+  <StatsReport_AgeMultiplier>คูณจากอายุ {0}</StatsReport_AgeMultiplier>
   <!-- EN: Multiplier for health {0} -->
-  <StatsReport_HealthMultiplier>ทวีคูณจากสุขภาพ {0}</StatsReport_HealthMultiplier>
+  <StatsReport_HealthMultiplier>คูณจากสุขภาพ {0}</StatsReport_HealthMultiplier>
   <!-- EN: Multiplier for mood {0} -->
-  <StatsReport_MoodMultiplier>ทวีคูณจากอารมณ์ {0}</StatsReport_MoodMultiplier>
+  <StatsReport_MoodMultiplier>คูณจากอารมณ์ {0}</StatsReport_MoodMultiplier>
   <!-- EN: Multiplier for light {0} -->
-  <StatsReport_LightMultiplier>ทวีคูณจากแสง {0}</StatsReport_LightMultiplier>
+  <StatsReport_LightMultiplier>คูณจากแสง {0}</StatsReport_LightMultiplier>
   <!-- EN: Multiplier for difficulty {0} -->
-  <StatsReport_DifficultyMultiplier>ทวีคูณจากความยาก {0}</StatsReport_DifficultyMultiplier>
+  <StatsReport_DifficultyMultiplier>คูณจากความยาก {0}</StatsReport_DifficultyMultiplier>
   <!-- EN: In bed -->
   <StatsReport_InBed>บนเตียง</StatsReport_InBed>
   <!-- EN: Facilities -->
@@ -75,11 +75,11 @@
   <!-- EN: Life expectancy -->
   <StatsReport_LifeExpectancy>คาดการจะมีชีวิตนาน</StatsReport_LifeExpectancy>
   <!-- EN: Multiplier for missing body parts -->
-  <StatsReport_MissingBodyParts>ทวีคูณจากอวัยวะที่ขาด</StatsReport_MissingBodyParts>
+  <StatsReport_MissingBodyParts>คูณจากอวัยวะที่ขาด</StatsReport_MissingBodyParts>
   <!-- EN: Gear and inventory -->
   <StatsReport_GearAndInventoryMass>อุปกรณ์และของติดตัว</StatsReport_GearAndInventoryMass>
   <!-- EN: Multiplier for worn by corpse -->
-  <StatsReport_WornByCorpse>ตัวคูณเมื่อสวมใส่โดยศพ</StatsReport_WornByCorpse>
+  <StatsReport_WornByCorpse>คูณเมื่อสวมใส่โดยศพ</StatsReport_WornByCorpse>
   <!-- EN: average of all attacks -->
   <AverageOfAllAttacks>ค่าเฉลี่ยของการโจมตีทั้งหมด</AverageOfAllAttacks>
   <!-- EN: Scenario -->
@@ -93,11 +93,11 @@
   <!-- EN: Added body parts -->
   <StatsReport_AddedBodyPartsMass>เพิ่มอวัยวะ</StatsReport_AddedBodyPartsMass>
   <!-- EN: Material effect multiplier -->
-  <StatsReport_StuffEffectMultiplier>อิทธิพลจากวัสดุทวีคูณ</StatsReport_StuffEffectMultiplier>
+  <StatsReport_StuffEffectMultiplier>คูณผลกระทบจากวัสดุ</StatsReport_StuffEffectMultiplier>
   <!-- EN: Resting -->
   <StatsReport_Resting>กำลังพักผ่อน</StatsReport_Resting>
   <!-- EN: recreation type -->
-  <StatsReport_JoyKind>ประเภทสันทนาการ</StatsReport_JoyKind>
+  <StatsReport_JoyKind>ประเภทนันทนาการ</StatsReport_JoyKind>
   <!-- EN: work to uninstall -->
   <StatsReport_WorkToUninstall>ทำงานเพื่อถอนติดตั้ง</StatsReport_WorkToUninstall>
   <!-- EN: Multiplier for growth {0} -->
