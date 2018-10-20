@@ -1,10 +1,10 @@
 ﻿
 
-red
-black
-gray
-ash
+แดง
+ดำ
+เทา
+ขี้เถ้า
 
-dark
-shadow
-night
+มืดมน
+เงา
+ความมืด

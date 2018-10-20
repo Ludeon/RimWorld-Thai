@@ -1,8 +1,8 @@
-﻿poker
-chess
-cards
-backgammon
-dice
-craps
-roulette
-blackjack
+﻿โป๊กเกอร์
+หมากรุก
+ไพ่
+แบ็กแกมมอน
+ลูกเต๋า
+แครบส์
+รูเล็ต
+แบล็กแจ็ก

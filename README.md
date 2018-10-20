@@ -6,7 +6,7 @@ This is the Thai translation data for RimWorld.
 
 Compatible with RimWorld version: `1.0.2059`
 
-`Strings` and `Backstories` are not translated yet.
+`Backstories` are not translated yet.
 
 We appreciate any willing to help, to contribute see: http://ludeon.com/forums/index.php?topic=2933.0
 
@@ -32,7 +32,7 @@ Quick notes & summary from current translation report, generated on `2018-10-17`
 * ️️☑️ (0) Def-injected translations load errors
 * ☑️ (0) Backstories load errors
 * ☑️ (0) Missing keyed translations
-* 🔲 (3790) Def-injected translations missing
+* 🔲 (3748) Def-injected translations missing
 * 🔲 (2079) Backstory translations missing
     > This will be translate last, after all other translations is done, the problem it's simply lack of man-power.
     > 

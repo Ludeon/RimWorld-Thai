@@ -1,61 +1,61 @@
-﻿knife
-dagger
-blade
-shiv
-razor
-scythe
-sickle
+﻿มีด
+มีดสั้น
+ใบมีด
+มีดทำมือ
+มีดโกน
+เคียวด้ามยาว
+เคียว
 
-sword
-sabre
-rapier
-claymore
-scimitar
+ดาบ
+กระบี่
+เรเปียร์
+ดาบสองมือ
+ดาบโค้ง
 
-spear
-pike
-ikwa
-lance
-bayonet
-javelin
+หอก
+ทวน
+หอกแทง
+หลาว
+มีดปลายปืน
+แหลน
 
-axe
-tomahawk
-hatchet
+ขวาน
+โทมาฮอก
+ขวานเล็ก
 
-whip
+แส้
 
-saw
+เลื่อย
 
-club
-hammer
-sledgehammer
-mace
+ตระบอง
+ค้อน
+ค้อนใหญ่
+ตระบองลูกตุ้ม
 
-knuckleduster
-gauntlet
+สนับมือ
+นวม
 
-dart
-arrow
+ลูกดอก
+ลูกธนู
 
-crossbow
-bow
+หน้าไม้
+ธนู
 
-gun
-pistol
-rifle
-shotgun
-revolver
+ปืน
+ปืนพก
+ปืนไรเฟิล
+ปืนลูกซอง
+ปืนลูกโม่
 
-cannon
-mortar
-howitzer
+แคนนอน
+ปืนครก
+ปืนใหญ่
 
-bomb
-nuke
-landmine
-grenade
+ระเบิด
+นุ๊ก
+กับระเบิด
+ระเบิดมือ
 
-missile
-rocket
+มิซไซส์
+จรวด
 

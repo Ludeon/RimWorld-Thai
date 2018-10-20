@@ -1,103 +1,103 @@
-﻿clothes
-clothing choices
-fashion knowledge
-stylishness
+﻿เสื้อผ้า
+ตัวเลือกเสื้อผ้า
+ความรู้ด้านแฟชั่น
+สไตร์ความเก๋
 
-looks
-appearance
-height
-weight
-hair
-hairstyle
-body hair
-pubic hair
-facial hair
-leg hair
-face
-eyes
-nose
-ears
-jawline
-forehead
-hands
-genitals
-body
-muscles
+ภาพลักษณ์
+ลักษณะภายนอก
+ส่วนสูง
+น้ำหนัก
+ผม
+ทรงผม
+ขนตัว
+ขนลับ
+หนวดเคลา
+ขนขา
+หน้า
+ตา
+จมูก
+หู
+ขากรรไกร
+หน้าผาก
+มือ
+อวัยวะเพศ
+ร่างกาย
+กล้ามเนื้อ
 
-voice
-way of speaking
-accent
+เสียง
+วิธีที่พูด
+สำเนียง
 
-shooting skills
-melee fighting skills
-social skills
-plant growing skills
-medical skill
-animal taming ability
-cooking skill
-construction skill
-mining skill
-artistic skills
-crafting skills
-intellectual skills
+ทักษะยิงปืน
+ทักษะการต่อสู้ระยะประชิด
+ทักษะเข้าสังคม
+ทักษะเลี้ยงดูพืช
+ทักษะทางการแพทย์
+ทักษะทำสัตว์ให้เชื่อง
+ทักษะทำอาหาร
+ทักษะการก่อสร้าง
+ทักษะการขุดเหมือง
+ทักษะทางศิลปะ
+ทักษะด้านงานฝีมือ
+ทักษะทางสติปัญญา
 
-skills
-abilities
-intelligence
-judgment
-brainpower
-emotional stability
-self-control
-usefulness
-attitude
-way of walking
-way of thinking
-fighting methods
-learning ability
-diet
-eating habits
-food preferences
-relationship status
-age
-value as a human
-sense of responsibility
-sense of duty
-honor
-honesty
-courageousness
-opinions
-beliefs
-ideas
-hopes and dreams
-ambitions
-personal habits
-personal hygiene
-toilet habits
-sexual prowess
-sexual preferences
-sexual experience
-hardiness
-personality
-class
-culture
-recreational preferences
-punctuality
-generosity
-bravery
-loyalty
-honesty
-kindness
-eloquence
-broad-mindedness
-charm
-sincerity
-open-mindedness
+ทักษะ
+ความสามารถ
+สติปัญญา
+การตัดสินใจ
+พลังสมอง
+ความมั่นคงทางอารมณ์
+การควบคุมตนเอง
+คุณประโยชน์
+ทัศนคติ
+วิธีที่เดิน
+วิธีที่คิด
+วิธีต่อสู้
+ความสามารถในการเรียนรู้
+โภชนาการ
+นิสัยการกิน
+อาหารที่ชอบ
+สถานะความสัมพันธ์
+อายุ
+คุณค่าในฐานะมนุษย์
+เซนต์ด้านความรับผิดชอบ
+เซนต์ด้านหน้าที่
+เกียรติยศ
+ความตรงไปตรงมา
+ความกล้าหาญ
+ความเห็น
+ความเชื่อ
+ไอเดีย
+ความหวังและความฝัน
+ความทะเยอะทะยาน
+ความเคยชินส่วนตัว
+ความสะอาดส่วนตัว
+ความเคยชินเข้าห้องน้ำ
+ความกล้าทางเพศ
+ตัวเลือกทางเพศ
+ประสบการณ์ทางเพศ
+ความบึกบึน
+บุคลิกภาพ
+วรรณะ
+วัฒนธรรม
+ตัวเลือกด้านการผ่อนคลาย
+ความตรงเวลา
+ความใจกว้าง
+ความอาจหาญ
+ความจงรักภักดี
+ความสุจริต
+ความเมตตา
+สำบัดสำนวน
+ความมีน้ำใจ
+สเน่ห์
+ความจริงใจ
+การเปิดใจกว้าง
 
-origins
-parents
-grandparents
-friends
-family
-family background
-lovers
+ที่มาที่ไป
+พ่อแม่
+ปู่ย่าตายาย
+เพื่อนๆ
+ครอบครัว
+พื้นเพครอบครัว
+คนรัก
 

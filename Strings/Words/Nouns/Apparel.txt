@@ -1,27 +1,27 @@
-﻿shirt
-button-down shirt
-formal shirt
-jacket
-raincoat
-formal suit
-evening gown
-parka
-duster
-space suit
-power armor suit
+﻿เสื้อยืด
+เสื้อคอปก
+เสื้อเป็นทางการ
+แจ็กเก็ต
+เสื้อกันฝน
+สูทเป็นทางการ
+ชุดราตรี
+ปาร์เกอะ
+เสื้อคลุมยาว
+ชุดอวกาศ
+ชุดเกราะพลังงาน
 
-bow tie
-necktie
-belt
-jock strap
+โบว์ไท
+เนคไท
+เข็มขัด
+จ็อกสแตรป
 
-hat
-bowler hat
-baseball cap
-tuque
-top hat
+หมวก
+หมวกทรงกลม
+หมวกเบสบอล
+หมวกไหมพรม
+หมวกสูง
 
-shoe
-boot
-sandal
+รองเท้า
+บูต
+รองเท้าแตะ
 
