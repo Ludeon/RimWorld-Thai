@@ -27,7 +27,7 @@ Quick notes & summary from current translation report, generated on `2020-02-24`
 * ☑️ (0) General load errors
 * ️️☑️ (0) Def-injected translations load errors
 * ☑️ (0) Backstories load errors
-* 🔲 (516) Missing keyed translations
+* 🔲 (474) Missing keyed translations
 * 🔲 (4544) Def-injected translations missing
 * 🔲 (2374) Backstory translations missing
     > This will be translate last, after all other translations is done, the problem is simply lack of man-power.
@@ -37,8 +37,8 @@ Quick notes & summary from current translation report, generated on `2020-02-24`
 * ☑️ (0) Unnecessary def-injected translations (marked as NoTranslate)
 * ☑️ (0) Def-injected translations using old, renamed defs (fixed automatically but can break in the next RimWorld version)
 * ☑️ (0) Argument count mismatches (may or may not be incorrect)
-* 🔲 (29) Unnecessary keyed translations (will never be used)
-* ☑️ (57) Keyed translations matching English (maybe ok)
+* ☑️ (0) Unnecessary keyed translations (will never be used)
+* ☑️ (58) Keyed translations matching English (maybe ok)
     > You can safely ignore these, most of the time it's intended to leave as English (e.g. no suitable word in Thai, not really need to translate, etc.)
     >
     > For example, all subjects in `Credits.xml` and Quadrums name in `Time.xml` will not translated.

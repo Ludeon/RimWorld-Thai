@@ -265,9 +265,4 @@
   <!-- EN: You are currently opting out of receiving {FACTION_royalFavorLabel}. -->
   <RoyalFavorOff>TODO</RoyalFavorOff>
   
-  <!-- UNUSED -->
-  <ProjectTechLevel>ระดับเทคโนโลยีของโครงการ</ProjectTechLevel>
-  <YourTechLevel>ระดับเทคโนโลยีของคุณ</YourTechLevel>
-  <ResearchCostMultiplier>ตัวคูณค่าใช้จ่าย</ResearchCostMultiplier>
-
 </LanguageData>

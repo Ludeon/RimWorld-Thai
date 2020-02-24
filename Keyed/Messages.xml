@@ -602,10 +602,4 @@
   <!-- EN: {0_label} is currently hidden. -->
   <MessageCannotSelectInvisibleStat>TODO</MessageCannotSelectInvisibleStat>
 
-  <!-- UNUSED -->
-  <MessagePartyCalledOff>ปาตี้ถูกยกเลิก</MessagePartyCalledOff>
-  <MessagePartyFinished>ปาตี้เสร็จสิ้น</MessagePartyFinished>
-  <MessageRescueeJoined>{1_labelShort} เข้าร่วมกลุ่มของคุณหลังถูกช่วยเหลือ!</MessageRescueeJoined>
-  <MessageCraftedMasterwork>{WORKER_labelShort} สร้างสรรค์ผลงาน {CRAFTED_labelShort}</MessageCraftedMasterwork>
-
 </LanguageData>

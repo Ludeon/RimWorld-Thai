@@ -168,13 +168,13 @@
   <!-- EN: Ship found -->
   <EscapeShipFoundLabel>พบยานแล้ว</EscapeShipFoundLabel>
   <!-- EN: You've reached the coordinates sent by <Name>Charlon Whitestone</Name> and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n<Name>Charlon Whitestone</Name> warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <EscapeShipFound>คุณมาถึงพิกัดที่ Charlon Whitestone ส่งมา และค้นพบยานอวกาศที่ซ่อนอยู่\n\nเตาปฏิกรณ์ของยานยังอยู่ในโหมดจำศีลลึก ซึ่งยังบินไม่ได้ คุณสามารถสตาร์ทมันขึ้นมาได้ ด้วยการโต้ตอบกับแกนคอมพิวเตอร์\n\nCharlon Whitestone เตือนคุณว่ากระบวนการเริ่มต้นจะใช้เวลาราว 15 วัน และรูปแบบพลังงานที่เกิดขึ้นจะสามารถตรวจเจอได้จากระยะไกล\n\nด้วยรูปแบบพลังงานบ่งชี้ ถึงยานบินมีความสามารถเดิมทางข้ามอวกาศ ซึ่งจะดึงดูดพวกแก๊งนักปล้นผู้ที่สิ้งหวัง และฝูงเมคานอยด์จำนวนมาก\n\nคุณจะถูกจู่โจมรุนแรงแบบที่ไม่เคยเห็นมาก่อน โปรดแน่ใจว่าคุณเตรียมพร้อมแนวป้องกันแล้ว</EscapeShipFound>
+  <EscapeShipFound>คุณมาถึงพิกัดที่ <Name>Charlon Whitestone</Name> ส่งมาและค้นพบยานอวกาศที่ซ่อนอยู่\n\nเตาปฏิกรณ์ของยานยังอยู่ในโหมดจำศีลลึก ซึ่งยังบินไม่ได้ คุณสามารถสตาร์ทมันขึ้นมาได้ ด้วยการโต้ตอบกับแกนคอมพิวเตอร์\n\n<Name>Charlon Whitestone</Name> เตือนคุณว่ากระบวนการเริ่มต้นจะใช้เวลาราว 15 วัน และรูปแบบพลังงานที่เกิดขึ้นจะสามารถตรวจเจอได้จากระยะไกล\n\nด้วยรูปแบบพลังงานบ่งชี้ ถึงยานบินมีความสามารถเดิมทางข้ามอวกาศ ซึ่งจะดึงดูดพวกแก๊งนักปล้นผู้ที่สิ้งหวัง และฝูงเมคานอยด์จำนวนมาก\n\nคุณจะถูกจู่โจมรุนแรงแบบที่ไม่เคยเห็นมาก่อน โปรดแน่ใจว่าคุณเตรียมพร้อมแนวป้องกันแล้ว</EscapeShipFound>
   <!-- EN: You've reached the coordinates sent by <Name>Charlon Whitestone</Name> and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n<Name>Charlon Whitestone</Name> warns you that the startup process will take about 15 days. -->
-  <EscapeShipFoundPeaceful>TODO</EscapeShipFoundPeaceful>
+  <EscapeShipFoundPeaceful>คุณมาถึงพิกัดที่ <Name>Charlon Whitestone</Name> ส่งมาและค้นพบยานอวกาศที่ซ่อนอยู่\n\nเตาปฏิกรณ์ของยานยังอยู่ในโหมดจำศีลลึก ซึ่งยังบินไม่ได้ คุณสามารถสตาร์ทมันขึ้นมาได้ ด้วยการโต้ตอบกับแกนคอมพิวเตอร์\n\n<Name>Charlon Whitestone</Name> เตือนคุณว่ากระบวนการเริ่มต้นจะใช้เวลาราว 15 วัน</EscapeShipFoundPeaceful>
   <!-- EN: Ship destroyed -->
   <EscapeShipLostLabel>ยานถูกทำลาย</EscapeShipLostLabel>
   <!-- EN: <Name>Charlon Whitestone</Name> sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
-  <EscapeShipLost>Charlon Whitestone ส่งข้อความถึงคุณ\n\nเขาเห็นว่าคุณสูญเสียการควบคุมยานที่จอดอยู่ เพื่อป้องกันไม่ให้มันตกไปอยู่ในมือคนผิด เขาจำใจต้องกระตุ้นกลไกทำลายตัวเองของยาน ยานตอนนี้กลายเป็นเพียงแค่หลุมอุกาบาตไปแล้ว\n\nคุณจำเป็นต้องหาทางออกอื่นจากดาวเคราะห์นี้</EscapeShipLost>
+  <EscapeShipLost><Name>Charlon Whitestone</Name> ส่งข้อความถึงคุณ\n\nเขาเห็นว่าคุณสูญเสียการควบคุมยานที่จอดอยู่ เพื่อป้องกันไม่ให้มันตกไปอยู่ในมือคนผิด เขาจำใจต้องกระตุ้นกลไกทำลายตัวเองของยาน ยานตอนนี้กลายเป็นเพียงแค่หลุมอุกาบาตไปแล้ว\n\nคุณจำเป็นต้องหาทางออกอื่นจากดาวเคราะห์นี้</EscapeShipLost>
 
   <!-- Caravan meeting -->
   <!-- EN: Caravan meeting by {0} -->
@@ -241,17 +241,5 @@
   <LetterLabelQuestAskerDied>TODO</LetterLabelQuestAskerDied>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
   <LetterQuestAskerDied>TODO</LetterQuestAskerDied>
-
-  <!-- UNUSED -->
-  <LetterLabelPsychicDrone>โดรนพลังจิต</LetterLabelPsychicDrone>
-  <LetterIncidentPsychicDrone>ชาวนิคม{0}ทุกคนเสียวสะดุ้งด้วยความเจ็บปวด!\n\nเครื่องจักรแห่งความเกลียดกำลังปลุกเร้า โดรนพลังจิตฉายคลื่นอันรุนแรงออกมาทั่วทั้งภูมิภาคนี้ บนความถี่ที่เหมือนจะมีผลกับ *{0}* เท่านั้น / ในช่วงเวลาไม่กี่วันนี้ อารมณ์ของบางคนจะแย่ลง\n\nโดรนพลังจิตเลเวล {1}</LetterIncidentPsychicDrone>
-  <LetterLabelPsychicSoothe>พลังจิตปลอบประโลม</LetterLabelPsychicSoothe>
-  <LetterIncidentPsychicSoothe>ชาวนิคม{0}ทุกคนเต็มไปด้วยรอยยิ้มพึงพอใจ!\n\nเครื่องจักรแห่งความสุขกำลังปลุกเร้า โดรนพลังจิตฉายคลื่นอันรุนแรงออกมาทั่วทั้งภูมิภาคนี้ บนความถี่ที่เหมือนจะมีผลกับ *{0}* เท่านั้น / ในช่วงเวลาไม่กี่วันนี้ อารมณ์ของบางคนจะดีขึ้นหน่อย</LetterIncidentPsychicSoothe>
-  <RefugeeChasedTitle>ผู้ลี้ภัยโดนไล่ล่าที่ {0}</RefugeeChasedTitle>
-  <RefugeeChasedInitial>{PAWN_titleIndef} ชื่อ {PAWN_nameDef} โทรมาหาคุณจากสถานที่ใกล้เคียง. {PAWN_pronoun}ถูกไล่ล่าโดย {2} จาก {3}!\n\n{PAWN_pronoun}ร้องขอความคุ้มครอง และเสนอเข้าร่วมอาณานิคมของคุณ / {PAWN_pronoun}บอกคุณว่า {PAWN_pronoun}มีอายุ {4} ปี แต่มีเวลาน้อยเกินไปสำหรับข้อมูลอื่นๆ\n\nข้อตักเตือน - ถ้าคุณยอมรับ คุณจะต้องสู้กับ {2} ที่ไล่ล่า{PAWN_possessive}มา ซึ่งกลุ่มเหล่านั้นประกอบด้วย:\n\n{5}</RefugeeChasedInitial>
-  <RefugeeChasedInitial_Accept>เสนอให้ความคุ้มครอง</RefugeeChasedInitial_Accept>
-  <RefugeeChasedInitial_Reject>ไม่สนใจข้อความ</RefugeeChasedInitial_Reject>
-  <RefugeeChasedRejected>{1_labelShort} ร้องเรียกด้วยความตื่นตระหนกผ่านลำโพงเล็กๆนั้น ก่อนที่คุณจะตัดสายไป</RefugeeChasedRejected>
-  <JourneyOffer>เอไอผู้เป็นมิตรกับคุณในอดีตชื่อ Charlon Whitestone ส่งข้อความมาหาคุณ!\n\nเขาเปิดเผยว่ามียานอวกาศซ่อนอยู่บนดาวเคราะห์แห่งนี้ และส่งพิกัดบนโลกนั้นมาให้คุณ\n\nยานอวกาศตอนนี้อยู่ในโหมดจำศีลลึก คุณจะต้องสตาร์ทมันขึ้นมาเมื่อไปถึง จากนั้นป้องกันมันจากพวกบุกปล้นที่พยายามขโมยมัน ไปจนกว่ากระบวนการเริ่มยานจะเสร็จสิ้น\n\nถ้าคุณสามารถนำยานขึ้นจากพื้นได้สำเร็จ Charlon จะนำคุณออกจากดาวชายขอบนี้ สู่ดวงดาวอันไกลโพ้น</JourneyOffer>
 
 </LanguageData>

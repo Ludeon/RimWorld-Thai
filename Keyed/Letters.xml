@@ -509,10 +509,4 @@
   <!-- EN: Mechanoids have arrived. -->
   <LetterMechClusterArrived>TODO</LetterMechClusterArrived>
 
-  <!-- UNUSED -->
-  <PrisonerRescueTimeout>แคมป์จะหายไปหลัง {0} วัน หากคุณพลาดโอกาสนี้ คุณอาจไม่ได้ยินถึง {PRISONER_labelShort} อีกเลย</PrisonerRescueTimeout>
-  <LetterLabelMentalBreakdown>สติแตก</LetterLabelMentalBreakdown>
-  <LetterLabelNewParty>ปาตี้</LetterLabelNewParty>
-  <LetterNewParty>{1_labelShort} จัดปาตี้สังสรรค์ขึ้น! ทุกคนที่ไปจะได้ผ่อนคลาย พลังทางสังคม และอารมณ์เชิงบวกยาวนาน</LetterNewParty>
-
 </LanguageData>

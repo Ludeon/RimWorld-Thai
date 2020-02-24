@@ -118,13 +118,13 @@
   <!-- EN: Some mods are unavailable, and need to be installed -->
   <MissingMods>ไม่พบ mods บางตัว จำเป็นต้องติดตั้งใหม่</MissingMods>
   <!-- EN: Official content -->
-  <OfficialContent>TODO</OfficialContent>
+  <OfficialContent>เนื้อหาอย่างเป็นทางการ</OfficialContent>
   <!-- EN: Active -->
-  <ContentActive>TODO</ContentActive>
+  <ContentActive>ใช้งาน</ContentActive>
   <!-- EN: Installed, but not active -->
-  <ContentInstalledButNotActive>TODO</ContentInstalledButNotActive>
+  <ContentInstalledButNotActive>ติดตั้ง แต่ไม่ได้ใช้งาน</ContentInstalledButNotActive>
   <!-- EN: Not installed -->
-  <ContentNotInstalled>TODO</ContentNotInstalled>
+  <ContentNotInstalled>ไม่ได้ติดตั้ง</ContentNotInstalled>
   
   <!-- Player faction naming -->
   <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
@@ -299,7 +299,7 @@
   <!-- EN: Cooldown -->
   <CooldownTime>คูลดาวน์</CooldownTime>
   <!-- EN: Disarmed -->
-  <DisarmedTime>TODO</DisarmedTime>
+  <DisarmedTime>ปลดอาวุธ</DisarmedTime>
   <!-- EN: Fire rate -->
   <BurstShotFireRate>อัตราการยิง</BurstShotFireRate>
   <!-- EN: Range -->
@@ -355,7 +355,7 @@
   <!-- EN: Diet -->
   <Diet>อาหารที่กิน</Diet>
   <!-- EN: Nutrition need per day -->
-  <NutritationEatenPerDay>TODO</NutritationEatenPerDay>
+  <NutritationEatenPerDay>สารอาหารต้องการต่อวัน</NutritationEatenPerDay>
   <!-- EN: Leather type -->
   <LeatherType>ชนิดหนัง</LeatherType>
   <!-- EN: Body size -->
@@ -367,7 +367,7 @@
   <!-- EN: Covers -->
   <Covers>ป้องกัน</Covers>
   <!-- EN: Created at -->
-  <CreatedAt>TODO</CreatedAt>
+  <CreatedAt>สร้างเมื่อ</CreatedAt>
   <!-- EN: Layer -->
   <Layer>ชั้นที่สวม</Layer>
   <!-- EN: Cover effectiveness -->
@@ -405,7 +405,7 @@
   <!-- EN: Success rate multiplier -->
   <SurgerySuccessChanceFactor>อัตราความสำเร็จคูณ</SurgerySuccessChanceFactor>
   <!-- EN: Death chance on fail -->
-  <SurgeryDeathOnFailChance>TODO</SurgeryDeathOnFailChance>
+  <SurgeryDeathOnFailChance>โอกาศตายเมื่อล้มเหลว</SurgeryDeathOnFailChance>
   <!-- EN: Work speed governed by -->
   <WorkSpeedStat>ความเร็วทำงานควบคุมโดย</WorkSpeedStat>
   <!-- EN: Output quantity governed by -->
@@ -441,19 +441,19 @@
   <!-- EN: Power consumption -->
   <PowerConsumption>กินไฟ</PowerConsumption>
   <!-- EN: Target -->
-  <Target>TODO</Target>
+  <Target>เป้าหมาย</Target>
   <!-- EN: Human -->
-  <TargetHuman>TODO</TargetHuman>
+  <TargetHuman>มนุษย์</TargetHuman>
   <!-- EN: Animal -->
-  <TargetAnimal>TODO</TargetAnimal>
+  <TargetAnimal>สัตว์</TargetAnimal>
   <!-- EN: Self -->
-  <TargetSelf>TODO</TargetSelf>
+  <TargetSelf>ตนเอง</TargetSelf>
   <!-- EN: Ground -->
-  <TargetGround>TODO</TargetGround>
+  <TargetGround>พื้น</TargetGround>
   <!-- EN: Click to learn more. -->
-  <ClickToLearnMore>TODO</ClickToLearnMore>
+  <ClickToLearnMore>คลิกเพื่ออ่านเพิ่ม</ClickToLearnMore>
   <!-- EN: Click to view factions. -->
-  <ClickToViewFactions>TODO</ClickToViewFactions>
+  <ClickToViewFactions>คลิกเพื่อดูฝักฝ่าย</ClickToViewFactions>
   
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
@@ -489,7 +489,7 @@
   <!-- EN: Negotiator -->
   <Negotiator>ผู้เจรจา</Negotiator>
   <!-- EN: Negotiator: {0} (+{1}) -->
-  <NegotiatorTradeDialogInfo>TODO</NegotiatorTradeDialogInfo>
+  <NegotiatorTradeDialogInfo>ผู้เจรจา: {0} (+{1})</NegotiatorTradeDialogInfo>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
   <NegotiatorTalkingImpaired>{1_labelShort} ผู้เจรจาของคุณ ไม่สามารถพูดได้อย่างถูกต้องเนื่องจากสุขภาพไม่ดี</NegotiatorTalkingImpaired>
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
@@ -529,11 +529,11 @@
   <!-- EN: Things this trader will buy -->
   <SellableItemsTitle>สิ่งที่พ่อค้าคนนี้รับซื้อ</SellableItemsTitle>
   <!-- EN: Never visited - stock unknown -->
-  <TraderNotVisitedYet>TODO</TraderNotVisitedYet>
+  <TraderNotVisitedYet>ไม่เคยเยือน - ไม่ทราบสินค้าในคลัง</TraderNotVisitedYet>
   <!-- EN: Restocked since your last visit -->
-  <TraderRestockedSinceLastVisit>TODO</TraderRestockedSinceLastVisit>
+  <TraderRestockedSinceLastVisit>เติมสินค้าใหม่จากที่คุณมาเยือนล่าสุด</TraderRestockedSinceLastVisit>
   <!-- EN: Next restock: {0} days -->
-  <NextTraderRestock>TODO</NextTraderRestock>
+  <NextTraderRestock>เติมสินค้าใหม่ครั้งต่อไป: {0} วัน</NextTraderRestock>
   <!-- EN: Creatures -->
   <PawnsTabShort>สิ่งมีชีวิต</PawnsTabShort>
   
@@ -675,7 +675,7 @@
   
   <!-- Caravan misc -->
   <!-- EN: Are you sure you want to attack {0}?\n\nThis will make {1} hostile to you, and they will eventually start raiding your colony! -->
-  <ConfirmAttackFriendlyFaction>TODO</ConfirmAttackFriendlyFaction>
+  <ConfirmAttackFriendlyFaction>คุณแน่ใจหรือว่าต้องการโจมตี {0}?\n\nนี่จะทำให้ {1} เป็นศัตรูกับคุณ และพวกเขาอาจบุกโจมตีอาณานิคมคุณในที่สุด!</ConfirmAttackFriendlyFaction>
   
   <!-- Load transporters -->
   <!-- EN: Load {0} -->
@@ -683,23 +683,23 @@
   <!-- EN: The assigned people and items are too heavy for the transport pods. -->
   <TooBigTransportersMassUsage>คนและไอเท็มที่กำหนดให้ มีหนักน้ำเกินสำหรับกระสวยขนส่ง</TooBigTransportersMassUsage>
   <!-- EN: The assigned people and items are too heavy for the shuttle. -->
-  <TooBigTransporterSingleMassUsage>TODO</TooBigTransporterSingleMassUsage>
+  <TooBigTransporterSingleMassUsage>คนและไอเท็มที่กำหนดให้ มีหนักน้ำเกินสำหรับกระสวย</TooBigTransporterSingleMassUsage>
   <!-- EN: You can't send empty transport pods. -->
   <CantSendEmptyTransportPods>คุณไม่อาจส่งกระสวยขนส่งว่างๆได้</CantSendEmptyTransportPods>
   <!-- EN: You can't send empty shuttle. -->
-  <CantSendEmptyTransporterSingle>TODO</CantSendEmptyTransporterSingle>
+  <CantSendEmptyTransporterSingle>คุณไม่อาจส่งกระสวยว่างๆได้</CantSendEmptyTransporterSingle>
   <!-- EN: {1_labelShort} can't reach the transport pods. -->
   <PawnCantReachTransporters>{1_labelShort} ไม่สามารถเข้าถึงกระสวยขนส่งได้</PawnCantReachTransporters>
   <!-- EN: {1_labelShort} can't reach the shuttle. -->
-  <PawnCantReachTransporterSingle>TODO</PawnCantReachTransporterSingle>
+  <PawnCantReachTransporterSingle>{1_labelShort} ไม่สามารถเข้าถึงกระสวยได้</PawnCantReachTransporterSingle>
   <!-- EN: There is no path between the transport pods and the {0}. -->
   <TransporterItemIsUnreachableSingle>ไม่มีเส้นทางระหว่างกระสวยขนส่งและ {0}</TransporterItemIsUnreachableSingle>
   <!-- EN: There is no path between the shuttle and the {0}. -->
-  <TransporterSingleItemIsUnreachableSingle>TODO</TransporterSingleItemIsUnreachableSingle>
+  <TransporterSingleItemIsUnreachableSingle>ไม่มีเส้นทางระหว่างกระสวยและ {0}</TransporterSingleItemIsUnreachableSingle>
   <!-- EN: There is no path between the transport pods and {0}x {1}. -->
   <TransporterItemIsUnreachableMulti>ไม่มีเส้นทางระหว่างกระสวยขนส่งและ {0}x {1}</TransporterItemIsUnreachableMulti>
   <!-- EN: There is no path between the shuttle and {0}x {1}. -->
-  <TransporterSingleItemIsUnreachableMulti>TODO</TransporterSingleItemIsUnreachableMulti>
+  <TransporterSingleItemIsUnreachableMulti>ไม่มีเส้นทางระหว่างกระสวยและ {0}x {1}</TransporterSingleItemIsUnreachableMulti>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
@@ -891,31 +891,28 @@
 
   <!-- Load transporters -->
   <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
-  <TransportersCaravanWillBeImmobile>คาราวานจะไม่สามารถเคลื่อนที่ได้ หากคุณส่งกระสวยไปยัง tile ที่ว่างเปล่า ดำเนินการต่ออยู่ดี?</TransportersCaravanWillBeImmobile>
+  <TransportersCaravanWillBeImmobile>คาราวานจะไม่สามารถเคลื่อนที่ได้ หากคุณส่งกระสวยไปยังช่องที่ว่างเปล่า ดำเนินการต่ออยู่ดี?</TransportersCaravanWillBeImmobile>
 
   <!-- Confirm cancel monument marker -->
   <!-- EN: Do you really want to remove this monument marker? -->
-  <ConfirmCancelMonumentMarker>TODO</ConfirmCancelMonumentMarker>
+  <ConfirmCancelMonumentMarker>คุณต้องการลบมาร์คอนุสาวรีย์นี้จริงๆใช่ไหม</ConfirmCancelMonumentMarker>
 
   <!-- Abilities -->
   <!-- EN: Line of sight required -->
-  <AbilityRequiresLOS>TODO</AbilityRequiresLOS>
+  <AbilityRequiresLOS>ต้องมองเห็นแนวยิง</AbilityRequiresLOS>
   <!-- EN: Entropy gain  -->
-  <AbilityEntropyGain>TODO</AbilityEntropyGain>
+  <AbilityEntropyGain>รับเอนโทรปี</AbilityEntropyGain>
   <!-- EN: Effect duration -->
-  <AbilityDuration>TODO</AbilityDuration>
+  <AbilityDuration>ระยะเวลาผลกระทบ</AbilityDuration>
   <!-- EN: Effect radius -->
-  <AbilityEffectRadius>TODO</AbilityEffectRadius>
+  <AbilityEffectRadius>รัศมีผลกระทบ</AbilityEffectRadius>
   <!-- EN: Casting time -->
-  <AbilityCastingTime>TODO</AbilityCastingTime>
+  <AbilityCastingTime>เวลาในการร่าย</AbilityCastingTime>
   <!-- EN: No line of sight to target. -->
-  <AbilityCannotHitTarget>TODO</AbilityCannotHitTarget>
+  <AbilityCannotHitTarget>ไม่มีแนวยิงไปยังเป้าหมาย</AbilityCannotHitTarget>
   <!-- EN: {0} must target an empty area. -->
-  <AbilityOccupiedCells>TODO</AbilityOccupiedCells>
+  <AbilityOccupiedCells>{0} ต้องมีเป้าหมายเป็นพื้นที่ว่าง</AbilityOccupiedCells>
   <!-- EN: {0} must target a walkable area. -->
-  <AbilityUnwalkable>TODO</AbilityUnwalkable>
-  
-  <!-- UNUSED -->
-  <ResearchMenuWithoutBench>จนกว่าคุณจะสร้างโต๊ะวิจัย ชาวนิคมของคุณจะยังไม่สามารถทำการวิจัยจริงๆ\n\nอย่างไรก็ตาม คุณสามารถดูโครงการวิจัยไว้ก่อนได้</ResearchMenuWithoutBench>
+  <AbilityUnwalkable>{0} ต้องมีเป้าหมายเป็นพื้นที่เดินได้</AbilityUnwalkable>
 
 </LanguageData>
