@@ -19,8 +19,8 @@
   <GameUpdatedToNewVersionSavesCompatible>เกมที่เซฟไว้จากเวอร์ชั่นเก่าๆควรยังเข้ากันได้ แต่ว่า Mods บางตัวอาจหยุดทำงาน</GameUpdatedToNewVersionSavesCompatible>
   <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
   <GameUpdatedToNewVersionNonSteam>เนื่องจากนี่เป็นก๊อปปี้ของเกมแบบไร้ DRM, คุณสามารถติดตั้งเกมซ้ำในโฟลเดอร์อื่น เพื่อให้สามารถเล่นทั้งเวอร์ชั่นเก่าและใหม่ได้</GameUpdatedToNewVersionNonSteam>
-  <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this. -->
-  <GameUpdatedToNewVersionSteam>ถ้าคุณต้องการจะใช้เวอร์ชั่นเก่าต่อ คุณสามารถ opt-in โดยใช้ฟีเจอร์ "Betas" ของ Steam ได้\n\n  1. ใน Steam Library คลิกขวาเกม RimWorld\n  2. คลิก Properties\n  3. คลิกแท็บ Betas\n  4. เลือกเวอร์ชั่นที่คุณต้องการจากเมนู drop-down\n\nเวอร์ชั่นเก่าๆท้ายที่สุดคงโดนลบไป - เราเพียงไม่ต้องการจะหักดิบเกมเซฟปัจจุบันที่คุณกำลังเล่น\n\nโน้ตว่าถ้าผู้ผลิต mod อัพเดต mod ของพวกเขาให้เข้ากับเกมเวอร์ชั่นใหม่แล้ว มันก็คงจะไม่ทำงานกับเวอร์ชั่นเก่าๆอีก คุณอาจจะอยากปิดระบบอัพเดตอัตโนมัติเพื่อป้องกันตรงนี้ด้วย</GameUpdatedToNewVersionSteam>
+  <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu. -->
+  <GameUpdatedToNewVersionSteam>ถ้าคุณต้องการจะใช้เวอร์ชั่นเก่าต่อ คุณสามารถเลือกได้โดยใช้ฟีเจอร์ "Betas" ของ Steam \n\n  1. ใน Steam Library คลิกขวาเกม RimWorld\n  2. คลิก Properties\n  3. คลิกแท็บ Betas\n  4. เลือกเวอร์ชั่นที่คุณต้องการจากเมนู drop-down</GameUpdatedToNewVersionSteam>
   
   <!-- Recovered from errors caused by mods -->
   <!-- EN: Recovered from incompatible or corrupted mods errors -->
@@ -117,6 +117,14 @@
   <ChangeLoadedMods>โหลดรายการ mod จากเซฟ</ChangeLoadedMods>
   <!-- EN: Some mods are unavailable, and need to be installed -->
   <MissingMods>ไม่พบ mods บางตัว จำเป็นต้องติดตั้งใหม่</MissingMods>
+  <!-- EN: Official content -->
+  <OfficialContent>TODO</OfficialContent>
+  <!-- EN: Active -->
+  <ContentActive>TODO</ContentActive>
+  <!-- EN: Installed, but not active -->
+  <ContentInstalledButNotActive>TODO</ContentInstalledButNotActive>
+  <!-- EN: Not installed -->
+  <ContentNotInstalled>TODO</ContentNotInstalled>
   
   <!-- Player faction naming -->
   <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
@@ -179,28 +187,6 @@
   <!-- Confirm permanently disable dev mode -->
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
   <ConfirmPermanentlyDisableDevMode>คุณต้องการปิดใช้โหมดพัฒนาไปอย่างถาวร บนคอมพิวเตอร์เครื่องนี้ใช่หรือไม่?\n\nตัวเลือกนี้สำหรับคนที่อยากได้ประสบการณ์การเล่นแบบเพียวๆ โดยไม่มีความยั่วยวนใจของการใช้โหมดพัฒนา เพื่อให้ได้มีข้อได้เปรียบในการเล่นทั่วไป\n\nจริงๆโหมดพัฒนาสามารถเปิดขึ้นมาใหม่ได้ แต่ว่าการทำแบบนั้นจะต้องไปแก้ไขไฟล์ configuration ด้วยตัวเอง คุณไปค้นในอินเตอร์เน็ตเอาว่าทำยังไง</ConfirmPermanentlyDisableDevMode>
-
-  <!-- Research -->
-  <!-- EN: Research -->
-  <Research>วิจัย</Research>
-  <!-- EN: Researched -->
-  <Researched>วิจัยเสร็จ</Researched>
-  <!-- EN: Unresearched -->
-  <Unresearched>ยังไม่ได้วิจัย</Unresearched>
-  <!-- EN: Finished -->
-  <Finished>วิจัยแล้ว</Finished>
-  <!-- EN: In Progress -->
-  <InProgress>กำลังวิจัย</InProgress>
-  <!-- EN: Locked -->
-  <Locked>ล็อก</Locked>
-  <!-- EN: Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now. -->
-  <ResearchMenuWithoutBench>จนกว่าคุณจะสร้างโต๊ะวิจัย ชาวนิคมของคุณจะยังไม่สามารถทำการวิจัยจริงๆ\n\nอย่างไรก็ตาม คุณสามารถดูโครงการวิจัยไว้ก่อนได้</ResearchMenuWithoutBench>
-  <!-- EN: Research prerequisites -->
-  <ResearchPrerequisites>ต้องการการวิจัย</ResearchPrerequisites>
-  <!-- EN: Required research bench -->
-  <RequiredResearchBench>ต้องการโต๊ะวิจัย</RequiredResearchBench>
-  <!-- EN: Required research bench facilities -->
-  <RequiredResearchBenchFacilities>ต้องการสิ่งอำนวยความสะดวกให้โต๊ะวิจัย</RequiredResearchBenchFacilities>
   
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
@@ -312,13 +298,15 @@
   <MeleeWarmupTime>เวลาเตรียมใช้</MeleeWarmupTime>
   <!-- EN: Cooldown -->
   <CooldownTime>คูลดาวน์</CooldownTime>
+  <!-- EN: Disarmed -->
+  <DisarmedTime>TODO</DisarmedTime>
   <!-- EN: Fire rate -->
   <BurstShotFireRate>อัตราการยิง</BurstShotFireRate>
   <!-- EN: Range -->
   <Range>ระยะ</Range>
   <!-- EN: Stopping power -->
   <StoppingPower>พลังหยุดยั้ง</StoppingPower>
-  <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected. -->
+  <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds.\n\nTargets with a body size larger than the stopping power will be unaffected. -->
   <StoppingPowerExplanation>เมื่อโดนยิงจากอาวุธนี้ จะทำให้เป้าหมายชะงักการเคลื่อนที่ช้าลงไปหลายวินาที เป้าหมายที่มีขนาดตัวใหญ่กว่าพลังหยุดยั้ง จะไม่ได้รับผลกระทบ</StoppingPowerExplanation>
   <!-- EN: Direct hit chance -->
   <DirectHitChance>โอกาสโดนตรงๆ</DirectHitChance>
@@ -338,8 +326,8 @@
   <MinGrowthTemperature>เติบโตได้ในอุณหภูมิต่ำสุด</MinGrowthTemperature>
   <!-- EN: Max growth temperature -->
   <MaxGrowthTemperature>เติบโตได้ในอุณหภูมิสูงสุด</MaxGrowthTemperature>
-  <!-- EN: Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth. -->
-  <GrowingTimeDesc>พืชเติบโตได้เฉพาะบางช่วงเวลาในแต่ละวันซึ่งมีแสงสว่างเท่านั้น สถิตินี้ใช้วัดเวลาที่พืชต้องการเพื่อโตเต็มที่ เวลาในการเติบโตที่แท้จริงโดยทั่วไปจะนานกว่าประมาณสองเท่า และอุณหภูมิต่ำนั้นชะลอการเจริญเติบโตของพืช</GrowingTimeDesc>
+  <!-- EN: Plants only grow for part of the day, and only when lit.\n\nThis statistic measures the time the plant needs to spend actually growing to reach full size.\nThe actual real growing time will generally be about twice as long.\nLow temperatures also slow plant growth. -->
+  <GrowingTimeDesc>พืชเติบโตได้เฉพาะบางช่วงเวลาในแต่ละวันซึ่งมีแสงสว่างเท่านั้น \n\nสถิตินี้ใช้วัดเวลาที่พืชต้องการเพื่อโตเต็มที่ \nเวลาในการเติบโตที่แท้จริงโดยทั่วไปจะนานกว่าประมาณสองเท่า \nและอุณหภูมิต่ำนั้นชะลอการเจริญเติบโตของพืช</GrowingTimeDesc>
   <!-- EN: days -->
   <Days>วัน</Days>
   <!-- EN: Minimum growing skill to sow -->
@@ -366,6 +354,8 @@
   <MinFoodQuality>คุณภาพอาหารขั้นต่ำ</MinFoodQuality>
   <!-- EN: Diet -->
   <Diet>อาหารที่กิน</Diet>
+  <!-- EN: Nutrition need per day -->
+  <NutritationEatenPerDay>TODO</NutritationEatenPerDay>
   <!-- EN: Leather type -->
   <LeatherType>ชนิดหนัง</LeatherType>
   <!-- EN: Body size -->
@@ -376,12 +366,14 @@
   <MarketValue>ราคาฐาน</MarketValue>
   <!-- EN: Covers -->
   <Covers>ป้องกัน</Covers>
+  <!-- EN: Created at -->
+  <CreatedAt>TODO</CreatedAt>
   <!-- EN: Layer -->
   <Layer>ชั้นที่สวม</Layer>
   <!-- EN: Cover effectiveness -->
   <CoverEffectiveness>ประสิทธิภาพของที่กำบัง</CoverEffectiveness>
-  <!-- EN: How effective this is when used as cover in a gunfight. Higher percentages will block more shots. -->
-  <CoverEffectivenessExplanation>ที่หลบกำบังนี้มีประสิทธิภาพขนาดไหนในการดวลปืน ค่าเปอร์เซ็นสูงจะกันกระสุนได้มาก</CoverEffectivenessExplanation>
+  <!-- EN: How effective this is when used as cover in a gunfight.\n\nHigher percentages will block more shots. -->
+  <CoverEffectivenessExplanation>ที่หลบกำบังนี้มีประสิทธิภาพขนาดไหนในการดวลปืน \n\nค่าเปอร์เซ็นสูงจะกันกระสุนได้มาก</CoverEffectivenessExplanation>
   <!-- EN: Experience gain factor -->
   <MedicineXpGainFactor>ปัจจัยต่อประสบการณ์ที่ได้รับ</MedicineXpGainFactor>
   <!-- EN: Mood change -->
@@ -396,8 +388,8 @@
   <TamenessWillNotDecay>ความเชื่องจะไม่ลดลง</TamenessWillNotDecay>
   <!-- EN: Animal filth rate -->
   <AnimalFilthRate>อัตราการสร้างความสกปรกของสัตว์</AnimalFilthRate>
-  <!-- EN: Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
-  <AnimalFilthRateExplanation>สัตว์ก่อให้เกิดสิ่งสกปรกเมื่อเคลื่อนไปมาบน 'พื้นที่สร้างขึ้น' นี่คือปริมาณโดยเฉลี่ยของสิ่งสกปรก เกิดขึ้นต่อทุกๆ {0} ช่อง ที่สิ่งมีชีวิตนี้เดินผ่าน\n\nสัตว์ที่มีขนาดใหญ่ หรือสัตว์ที่ไม่ค่อยจะคล้ายสัตว์เลี้ยงเท่าไหร่ จะสร้างสิ่งสกปรกมากกว่า</AnimalFilthRateExplanation>
+  <!-- EN: Animals produce filth when moving around on constructed floors.\n\nThis is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
+  <AnimalFilthRateExplanation>สัตว์ก่อให้เกิดสิ่งสกปรกเมื่อเคลื่อนไปมาบน 'พื้นก่อสร้าง'\n\nนี่คือปริมาณโดยเฉลี่ยของสิ่งสกปรก เกิดขึ้นต่อทุกๆ {0} ช่อง ที่สิ่งมีชีวิตนี้เดินผ่าน\n\nสัตว์ที่มีขนาดใหญ่ หรือสัตว์ที่ไม่ค่อยจะคล้ายสัตว์เลี้ยงเท่าไหร่ จะสร้างสิ่งสกปรกมากกว่า</AnimalFilthRateExplanation>
   <!-- EN: Time -->
   <TimeRecordsCategory>เวลา</TimeRecordsCategory>
   <!-- EN: Misc -->
@@ -412,21 +404,23 @@
   <Skill>ทักษะ</Skill>
   <!-- EN: Success rate multiplier -->
   <SurgerySuccessChanceFactor>อัตราความสำเร็จคูณ</SurgerySuccessChanceFactor>
+  <!-- EN: Death chance on fail -->
+  <SurgeryDeathOnFailChance>TODO</SurgeryDeathOnFailChance>
   <!-- EN: Work speed governed by -->
   <WorkSpeedStat>ความเร็วทำงานควบคุมโดย</WorkSpeedStat>
   <!-- EN: Output quantity governed by -->
   <EfficiencyStat>ปริมาณผลผลิตควบคุมโดย</EfficiencyStat>
-  <!-- EN: Construction skill required -->
-  <ConstructionSkillRequired>ต้องมีทักษะก่อสร้าง</ConstructionSkillRequired>
-  <!-- EN: Requires this level of Construction in order to build. -->
-  <ConstructionSkillRequiredExplanation>ทักษะก่อสร้างที่จำเป็น เพื่อใช้ในการก่อสร้าง</ConstructionSkillRequiredExplanation>
+  <!-- EN: {0} skill required -->
+  <SkillRequiredToBuild>ต้องมีทักษะ {0}</SkillRequiredToBuild>
+  <!-- EN: Requires this level of {0} in order to build. -->
+  <SkillRequiredToBuildExplanation>ต้องมีทักษะระดับ {0} ในการก่อสร้างสิ่งนี้</SkillRequiredToBuildExplanation>
   <!-- EN: Nuzzle interval -->
   <NuzzleInterval>คลอเคลียทุกๆ</NuzzleInterval>
-  <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time. -->
-  <NuzzleIntervalExplanation>สัตว์เลี้ยงจะไปคลอเคลียดเพื่อนชาวนิคมของมันบ่อยขนาดไหน โดยเฉลี่ย\n\nการคลอเคลีย คือพฤติกรรมที่พบได้ในสัตว์หลายๆสายพันธุ์ เป็นการที่สัตว์ดันจมูกหรือทั้งจมูกปากเข้าถูกับเพื่อนเป็นสัญญานบ่งบอกความรักใคร่ มนุษย์ส่วนมากมองว่าอาการนี้น่ารัก ซึ่งจะทำให้พวกอารมณ์ดีไปช่วงระยะเวลาหนึ่ง</NuzzleIntervalExplanation>
+  <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection.\nMost humans find this cute and it will leave them in a good mood for a period of time. -->
+  <NuzzleIntervalExplanation>สัตว์เลี้ยงจะไปคลอเคลียดเพื่อนชาวนิคมของมันบ่อยขนาดไหน โดยเฉลี่ย\n\nการคลอเคลีย คือพฤติกรรมที่พบได้ในสัตว์หลายๆสายพันธุ์ เป็นการที่สัตว์ดันจมูกหรือทั้งจมูกปากเข้าถูกับเพื่อนเป็นสัญญานบ่งบอกความรักใคร่\nมนุษย์ส่วนมากมองว่าอาการนี้น่ารัก ซึ่งจะทำให้พวกอารมณ์ดีไปช่วงระยะเวลาหนึ่ง</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>โอกาสแก้แค้นเมื่อโดนทำร้าย</HarmedRevengeChance>
-  <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
+  <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
   <HarmedRevengeChanceExplanation>โอกาสสิ่งมีชีวิตนี้จะหันกลับมาล้างแค้นหลังโดนทำร้ายจากระยะไกล\n\nโอกาสจะยิ่งเพิ่มขึ้นเมื่อผู้โจมตีอยู่ในระยะใกล้ ถ้าระยะโจมตีใกล้มากๆ โอกาสจะเพิ่มสูงขึ้นสามเท่า\n\nค่า 'โอกาส' นี้ ส่งผลทุกครั้งที่ได้รับความเสียหาย หมายความว่า อาวุธที่ยิงช้า สร้างความเสียหายสูง มีความเป็นไปได้น้อยกว่าที่จะให้เกิดการล้างแค้น\n\nเพื่อลดโอกาสที่สิ่งมีชีวิตต่างๆหันกลับมาล้างแค้น แนะนำให้โจมตีจากระยะไกล ด้วยอาวุธยิงช้า</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
   <TameFailedRevengeChance>โอกาสแก้แค้นเมื่อพลาดทำให้เชื่อง</TameFailedRevengeChance>
@@ -446,7 +440,21 @@
   <ShotsBeforeRearmExplanation>จำนวนนัดที่ป้อมปืนสามารถยิงออกไปได้ ก่อนจะต้องเตรียมอาวุธใหม่</ShotsBeforeRearmExplanation>
   <!-- EN: Power consumption -->
   <PowerConsumption>กินไฟ</PowerConsumption>
-
+  <!-- EN: Target -->
+  <Target>TODO</Target>
+  <!-- EN: Human -->
+  <TargetHuman>TODO</TargetHuman>
+  <!-- EN: Animal -->
+  <TargetAnimal>TODO</TargetAnimal>
+  <!-- EN: Self -->
+  <TargetSelf>TODO</TargetSelf>
+  <!-- EN: Ground -->
+  <TargetGround>TODO</TargetGround>
+  <!-- EN: Click to learn more. -->
+  <ClickToLearnMore>TODO</ClickToLearnMore>
+  <!-- EN: Click to view factions. -->
+  <ClickToViewFactions>TODO</ClickToViewFactions>
+  
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
   <PositiveBuysNegativeSells>ตัวเลขบวกซื้อ\nตัวเลขลบขาย</PositiveBuysNegativeSells>
@@ -480,6 +488,8 @@
   <TraderWillNotTrade>พ่อไม่เต็มใจจะซื้อสิ่งนี้</TraderWillNotTrade>
   <!-- EN: Negotiator -->
   <Negotiator>ผู้เจรจา</Negotiator>
+  <!-- EN: Negotiator: {0} (+{1}) -->
+  <NegotiatorTradeDialogInfo>TODO</NegotiatorTradeDialogInfo>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
   <NegotiatorTalkingImpaired>{1_labelShort} ผู้เจรจาของคุณ ไม่สามารถพูดได้อย่างถูกต้องเนื่องจากสุขภาพไม่ดี</NegotiatorTalkingImpaired>
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
@@ -518,6 +528,12 @@
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->
   <SellableItemsTitle>สิ่งที่พ่อค้าคนนี้รับซื้อ</SellableItemsTitle>
+  <!-- EN: Never visited - stock unknown -->
+  <TraderNotVisitedYet>TODO</TraderNotVisitedYet>
+  <!-- EN: Restocked since your last visit -->
+  <TraderRestockedSinceLastVisit>TODO</TraderRestockedSinceLastVisit>
+  <!-- EN: Next restock: {0} days -->
+  <NextTraderRestock>TODO</NextTraderRestock>
   <!-- EN: Creatures -->
   <PawnsTabShort>สิ่งมีชีวิต</PawnsTabShort>
   
@@ -556,7 +572,7 @@
   <DaysWorthOfFoodInfoRot>เน่าใน {0}</DaysWorthOfFoodInfoRot>
   <!-- EN: Unlimited -->
   <InfiniteDaysWorthOfFoodInfo>เสบียงไม่มีหมด</InfiniteDaysWorthOfFoodInfo>
-  <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
+  <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Current pawn inventory\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
   <DaysWorthOfFoodTooltip>จำนวนวันโดยประมาณ ก่อนที่อย่างน้อยหนึ่งคนหรือสัตว์จะหมดเสบียง เผ่าพันธุ์ที่แตกต่างมีอาหารการกินไม่เหมือนกัน ดังนั้นบางส่วนจะหมดอาหารก่อนผู้อื่น ค่านี้จะคำนวณแม่นยำขึ้นหลังเลือกเส้นทางแล้ว\n\nได้รับผลกระทบโดย:\n  - ประเภทเสบียงกับจำนวนที่แบกไป\n  - สมาชิกคาราวานกับอาหารที่กิน\n  - อัตราการออกหาอาหาร\n  - สัตว์สามารถเล็มหญ่าได้หรือไม่\n  - เวลาจนกว่าเสบียงอาหารจะเน่า\n  - ในอากาศร้อน เสบียงอาหารเน่าไวขึ้น</DaysWorthOfFoodTooltip>
   <!-- EN: (only the first waypoint is taken into account) -->
   <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(เฉพาะเวย์พอยท์แรกเท่านั้น ที่นำมาคำนวณ)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
@@ -590,7 +606,7 @@
   <AnimalCanGrazeTip>สัตว์ตัวนี้สามารถเล็มหญ่าจากสภาพแวดล้อม แทนที่จะกินเสบียงอาหารที่แบกไป การเล็มหญ่าเป็นไปได้ในเฉพาะบางไบโอมและช่วงอุณภูมิหนึ่งๆเท่านั้น</AnimalCanGrazeTip>
   <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
   <NutritionForagedPerDayTip>สารอาหารต่อวันจากการออกหาอาหาร จำนวนที่หามาได้จริงๆ ได้รับผลกระทบจาก 'ความเหมาะในการหาอาหาร' ของไบโอม\n\n{0}</NutritionForagedPerDayTip>
-  <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition.\n\nCan eat: {2}\n\nLegend:\n{1}. -->
+  <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition.\n\nCan eat: {2}\n\nLegend:\n{1} -->
   <NutritionEatenPerDayTip>สารอาหารที่กินต่อวัน เพื่อการอ้างอิง: อาหารง่ายๆมื้อหนึ่งมี {0} สารอาหาร\n\nสามารถกิน: {2}\n\nเครื่องหมาย:\n{1}</NutritionEatenPerDayTip>
   <!-- EN: Mass carried -->
   <MassCarriedSimple>มวลที่แบก</MassCarriedSimple>
@@ -657,19 +673,33 @@
   <!-- EN: How many of this item the caravan has ready to give to the new caravan. -->
   <SplitCaravanThingCountTip>ปริมาณของไอเท็มนี้ ที่คาราวานพร้อมจะมอบให้คาราวานใหม่</SplitCaravanThingCountTip>
   
+  <!-- Caravan misc -->
+  <!-- EN: Are you sure you want to attack {0}?\n\nThis will make {1} hostile to you, and they will eventually start raiding your colony! -->
+  <ConfirmAttackFriendlyFaction>TODO</ConfirmAttackFriendlyFaction>
+  
   <!-- Load transporters -->
   <!-- EN: Load {0} -->
   <LoadTransporters>โหลด {0}</LoadTransporters>
   <!-- EN: The assigned people and items are too heavy for the transport pods. -->
   <TooBigTransportersMassUsage>คนและไอเท็มที่กำหนดให้ มีหนักน้ำเกินสำหรับกระสวยขนส่ง</TooBigTransportersMassUsage>
+  <!-- EN: The assigned people and items are too heavy for the shuttle. -->
+  <TooBigTransporterSingleMassUsage>TODO</TooBigTransporterSingleMassUsage>
   <!-- EN: You can't send empty transport pods. -->
   <CantSendEmptyTransportPods>คุณไม่อาจส่งกระสวยขนส่งว่างๆได้</CantSendEmptyTransportPods>
+  <!-- EN: You can't send empty shuttle. -->
+  <CantSendEmptyTransporterSingle>TODO</CantSendEmptyTransporterSingle>
   <!-- EN: {1_labelShort} can't reach the transport pods. -->
   <PawnCantReachTransporters>{1_labelShort} ไม่สามารถเข้าถึงกระสวยขนส่งได้</PawnCantReachTransporters>
+  <!-- EN: {1_labelShort} can't reach the shuttle. -->
+  <PawnCantReachTransporterSingle>TODO</PawnCantReachTransporterSingle>
   <!-- EN: There is no path between the transport pods and the {0}. -->
   <TransporterItemIsUnreachableSingle>ไม่มีเส้นทางระหว่างกระสวยขนส่งและ {0}</TransporterItemIsUnreachableSingle>
+  <!-- EN: There is no path between the shuttle and the {0}. -->
+  <TransporterSingleItemIsUnreachableSingle>TODO</TransporterSingleItemIsUnreachableSingle>
   <!-- EN: There is no path between the transport pods and {0}x {1}. -->
   <TransporterItemIsUnreachableMulti>ไม่มีเส้นทางระหว่างกระสวยขนส่งและ {0}x {1}</TransporterItemIsUnreachableMulti>
+  <!-- EN: There is no path between the shuttle and {0}x {1}. -->
+  <TransporterSingleItemIsUnreachableMulti>TODO</TransporterSingleItemIsUnreachableMulti>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
@@ -862,5 +892,30 @@
   <!-- Load transporters -->
   <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
   <TransportersCaravanWillBeImmobile>คาราวานจะไม่สามารถเคลื่อนที่ได้ หากคุณส่งกระสวยไปยัง tile ที่ว่างเปล่า ดำเนินการต่ออยู่ดี?</TransportersCaravanWillBeImmobile>
+
+  <!-- Confirm cancel monument marker -->
+  <!-- EN: Do you really want to remove this monument marker? -->
+  <ConfirmCancelMonumentMarker>TODO</ConfirmCancelMonumentMarker>
+
+  <!-- Abilities -->
+  <!-- EN: Line of sight required -->
+  <AbilityRequiresLOS>TODO</AbilityRequiresLOS>
+  <!-- EN: Entropy gain  -->
+  <AbilityEntropyGain>TODO</AbilityEntropyGain>
+  <!-- EN: Effect duration -->
+  <AbilityDuration>TODO</AbilityDuration>
+  <!-- EN: Effect radius -->
+  <AbilityEffectRadius>TODO</AbilityEffectRadius>
+  <!-- EN: Casting time -->
+  <AbilityCastingTime>TODO</AbilityCastingTime>
+  <!-- EN: No line of sight to target. -->
+  <AbilityCannotHitTarget>TODO</AbilityCannotHitTarget>
+  <!-- EN: {0} must target an empty area. -->
+  <AbilityOccupiedCells>TODO</AbilityOccupiedCells>
+  <!-- EN: {0} must target a walkable area. -->
+  <AbilityUnwalkable>TODO</AbilityUnwalkable>
+  
+  <!-- UNUSED -->
+  <ResearchMenuWithoutBench>จนกว่าคุณจะสร้างโต๊ะวิจัย ชาวนิคมของคุณจะยังไม่สามารถทำการวิจัยจริงๆ\n\nอย่างไรก็ตาม คุณสามารถดูโครงการวิจัยไว้ก่อนได้</ResearchMenuWithoutBench>
 
 </LanguageData>

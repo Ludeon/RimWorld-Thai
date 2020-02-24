@@ -33,5 +33,9 @@
   <WorkTagPlantWork>เพาะปลูก</WorkTagPlantWork>
   <!-- EN: mining -->
   <WorkTagMining>ขุดเหมือง</WorkTagMining>
+  <!-- EN: hunting -->
+  <WorkTagHunting>TODO</WorkTagHunting>
+  <!-- EN: commoner work -->
+  <WorkTagCommoner>TODO</WorkTagCommoner>
 
 </LanguageData>

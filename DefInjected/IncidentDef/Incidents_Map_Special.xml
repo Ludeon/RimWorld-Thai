@@ -3,10 +3,7 @@
   
   <!-- EN: orbital trader arrival -->
   <OrbitalTraderArrival.label>พ่อค้าวงโคจรมาถึง</OrbitalTraderArrival.label>
-  
-  <!-- EN: enemy raid (special locations) -->
-  <RaidEnemyBeacon.label>ศัตรูบุก (ตำแหน่งพิเศษ)</RaidEnemyBeacon.label>
-  
+   
   <!-- EN: friendly raid -->
   <RaidFriendly.label>มิตรมาช่วย</RaidFriendly.label>
   

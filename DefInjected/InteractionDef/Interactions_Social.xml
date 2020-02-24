@@ -20,7 +20,23 @@
     <li>commentedabout->commented about</li>
     <li>commentedabout->told a joke about</li>
   -->
-  <Chitchat.logRulesInitiator.rulesStrings>TODO</Chitchat.logRulesInitiator.rulesStrings>
+  <Chitchat.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] กับ [RECIPIENT_nameDef] [talkedabout][TalkTopicLight].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout][TalkTopicLight]กับ [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout][TalkTopicLight]กับ [RECIPIENT_nameDef].</li>
+    <li>talkedabout(p=4)->คุยกันเรื่อง</li>
+    <li>talkedabout->มีส่วนร่วมพูดถึง</li>
+    <li>talkedabout->พูดถึง</li>
+    <li>talkedabout->พูดพล่ามเรื่อง</li>
+    <li>talkedabout->พูดคุยเรื่อง</li>
+    <li>talkedabout->หยอกล้อเรื่อง</li>
+    <li>talkedabout->เหน็บแนมเรื่อง</li>
+    <li>commentedabout->ยกขึ้นมาพูดเรื่อง</li>
+    <li>commentedabout->บ่นถึงเรื่อง</li>
+    <li>commentedabout->แสดงความคิดเห็นต่อ</li>
+    <li>commentedabout->ให้ความเห็นเรื่อง</li>
+    <li>commentedabout->เล่าเรื่องตลก</li>
+  </Chitchat.logRulesInitiator.rulesStrings>
   
   <!-- EN: deep talk -->
   <DeepTalk.label>คุยลึกซึ้ง</DeepTalk.label>

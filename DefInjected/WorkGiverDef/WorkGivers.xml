@@ -211,7 +211,7 @@
   <!-- EN: refine chemicals -->
   <DoBillsRefinery.verb>กลั่นสารเคมี</DoBillsRefinery.verb>
   
-  <!-- EN: make sculptures -->
+  <!-- EN: make things at art bench -->
   <DoBillsSculpt.label>แกะสลัก</DoBillsSculpt.label>
   <!-- EN: sculpting at -->
   <DoBillsSculpt.gerund>กำลังแกะ</DoBillsSculpt.gerund>
@@ -288,6 +288,13 @@
   <!-- EN: tend to -->
   <DoctorTendToSelf.verb>รักษา</DoctorTendToSelf.verb>
   
+  <!-- EN: tend to self -->
+  <DoctorTendToSelfEmergency.label>TODO</DoctorTendToSelfEmergency.label>
+  <!-- EN: tending to -->
+  <DoctorTendToSelfEmergency.gerund>TODO</DoctorTendToSelfEmergency.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToSelfEmergency.verb>TODO</DoctorTendToSelfEmergency.verb>
+  
   <!-- EN: execute prisoners -->
   <DoExecution.label>ประหารนักโทษ</DoExecution.label>
   <!-- EN: doing execution on -->
@@ -336,6 +343,13 @@
   <Flick.gerund>กำลังสลับ</Flick.gerund>
   <!-- EN: flick switch on -->
   <Flick.verb>สับสวิตช์</Flick.verb>
+  
+  <!-- EN: operate ground penetrating scanner -->
+  <GroundPenetratingScan.label>คุมเครื่องสแกนทะลวงพื้น</GroundPenetratingScan.label>
+  <!-- EN: scanning at -->
+  <GroundPenetratingScan.gerund>กำลังแสกน</GroundPenetratingScan.gerund>
+  <!-- EN: scan -->
+  <GroundPenetratingScan.verb>แสกน</GroundPenetratingScan.verb>
   
   <!-- EN: harvest crops -->
   <GrowerHarvest.label>เก็บเกี่ยวผลผลิต</GrowerHarvest.label>
@@ -399,6 +413,13 @@
   <LoadTransporters.gerund>กำลังโหลด</LoadTransporters.gerund>
   <!-- EN: load -->
   <LoadTransporters.verb>โหลด</LoadTransporters.verb>
+  
+  <!-- EN: operate long range scanner -->
+  <LongRangeScan.label>คุมเครื่องแสกนระยะไกล</LongRangeScan.label>
+  <!-- EN: scanning at -->
+  <LongRangeScan.gerund>กำลังแสกน</LongRangeScan.gerund>
+  <!-- EN: scan -->
+  <LongRangeScan.verb>แสกน</LongRangeScan.verb>
   
   <!-- EN: milk animals -->
   <Milk.label>รีดนมสัตว์</Milk.label>
@@ -490,13 +511,6 @@
   <Research.gerund>กำลังวิจัย</Research.gerund>
   <!-- EN: research -->
   <Research.verb>วิจัย</Research.verb>
-  
-  <!-- EN: operate scanner -->
-  <Scan.label>ใช้งานแสกนเนอร์</Scan.label>
-  <!-- EN: scanning at -->
-  <Scan.gerund>กำลังแสกน</Scan.gerund>
-  <!-- EN: scan -->
-  <Scan.verb>แสกน</Scan.verb>
   
   <!-- EN: shear animals -->
   <Shear.label>ตัดขนสัตว์</Shear.label>

@@ -14,13 +14,13 @@
   
   <!-- EN: Lost Tribe -->
   <LostTribe.label>พินาศเผ่าชน (Lost Tribe)</LostTribe.label>
-  <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and research slowly, this is a difficult scenario. -->
+  <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and lack technology, this is a difficult scenario. -->
   <LostTribe.description>เผ่าของคุณโดนทำลาย โดยเครื่องจักรสูบเลือดอันพระเจ้าส่งมา มีเพียงห้าคนหลบหนีรอดมาได้ และในตอนนี้ ถึงเวลาที่คุณจะสร้างบ้านใหม่ขึ้น\n\nโน้ต: คุณจะเริ่มแบบจนๆและค้นคว้าวิจัยอย่างช้าๆ โครงเรื่องนี้ยาก</LostTribe.description>
-  <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and research slowly, this is a difficult scenario. -->
+  <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and lack technology, this is a difficult scenario. -->
   <LostTribe.scenario.description>เผ่าของคุณโดนทำลาย โดยเครื่องจักรสูบเลือดอันพระเจ้าส่งมา มีเพียงห้าคนหลบหนีรอดมาได้ และในตอนนี้ ถึงเวลาที่คุณจะสร้างบ้านใหม่ขึ้น\n\nโน้ต: คุณจะเริ่มแบบจนๆและค้นคว้าวิจัยอย่างช้าๆ โครงเรื่องนี้ยาก</LostTribe.scenario.description>
   <!-- EN: Lost Tribe -->
   <LostTribe.scenario.name>พินาศเผ่าชน (Lost Tribe)</LostTribe.scenario.name>
-  <!-- EN: The gods were very angry. The blood machines came at night. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped. Now, after a harrowing journey on foot, with no close friends to turn to, you must build a new home in the wilderness, like your ancestors did. -->
+  <!-- EN: The gods were very angry. The blood machines came at night. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped.\n\nNow, after a harrowing journey, with no friends to turn to, you must build a new home in the wilderness - like your ancestors did. -->
   <LostTribe.scenario.parts.GameStartDialog.text>พระเจ้าทรงพิโรธโกรธเคืองยิ่ง เครื่องจักรสูบเลือด..มันโผล่มากลางดึก พวกมันกวาดล้างผ่านหมู่บ้านของคุณ ฆ่าฟัน และเผาคนของคุณ ด้วยใบมีดและปีศาจไฟ\n\nมีเพียงไม่กี่คนที่หนีรอด และในตอนนี้ หลังการเดินทางด้วยเท้าอันแสนทรมาน โดยที่ไม่มีเพื่อนสนิทให้หันหา คุณต้องสร้างบ้านใหม่ในที่รกร้างว่างเปล่า เหมือนที่บรรพบุรุษของคุณเคยทำ</LostTribe.scenario.parts.GameStartDialog.text>
   <!-- EN: Five lost tribespeople attempt to rebuild. Difficult. -->
   <LostTribe.scenario.summary>ห้าชนเผ่าผู้หลงทาง ในความพยายามสร้างตัวขึ้นใหม่ ยาก</LostTribe.scenario.summary>
@@ -33,7 +33,7 @@
   <NakedBrutality.scenario.description>คุณอยู่ใต้ฤทธิ์ยาสลบในการผ่าตัดเล็ก พอตื่นขึ้นดันพบว่าตนอยู่ในกระสวยทิ้งดิ่ง ลงไปบนดาวเคราะห์อันห่างไกล เปลือยเปล่า ตัวคนเดียว ไร้การเตรียมพร้อมใดๆ คุณมีชีวิตรอดได้หรือไม่?\n\nคำเตือน: ไม่มีอะไรแฟร์ในโครงเรื่องนี้ - นี่เป็นอะไรที่ยากสุดขั้ว และความตายเกิดขึ้นได้ทุกเมื่อ</NakedBrutality.scenario.description>
   <!-- EN: Naked Brutality -->
   <NakedBrutality.scenario.name>โหดเปลือยกาย (Naked Brutality)</NakedBrutality.scenario.name>
-  <!-- EN: It was supposed to be a minor surgery. Just an hour under anesthetic. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rim world.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive? -->
+  <!-- EN: It was supposed to be a minor surgery. Just an hour under anesthetic. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rimworld.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive? -->
   <NakedBrutality.scenario.parts.GameStartDialog.text>มันควรจะเป็นแค่การผ่าตัดเล็กๆ ก็แค่ชั่วโมงภายใต้ยาสลบ คุณรู้สึกปลอดภัยเต็มที่\n\nทว่าขณะนี้คุณตื่นขึ้นมาในกระสวยทิ้งดิ่ง ร่วงหล่นผ่านชั้นบรรยากาศบนดาวชายขอบอันห่างไกล\n\nนอกจากเหมือกมันๆปริศนาเต็มทั่วตัว คุณเปลือยกายเปล่าล่อนจ้น ไม่มีการเตรียมตัว ไม่มีเสบียง และไม่มีเครื่องมือ คุณจะมีชีวิตรอดได้หรือ?</NakedBrutality.scenario.parts.GameStartDialog.text>
   <!-- EN: Naked, alone, and utterly unprepared. Can you survive? Extremely difficult and unfair. -->
   <NakedBrutality.scenario.summary>เปลือยเปล่า ตัวคนเดียว ไร้การเตรียมพร้อมใดๆ คุณจะรอดชีวิตได้หรือ? ความยากสุดโต่ง ไม่มีคำว่าแฟร์</NakedBrutality.scenario.summary>
@@ -50,5 +50,16 @@
   <TheRichExplorer.scenario.parts.GameStartDialog.text>ไม่ว่าจะ neurosimulations, holo-games, หรือมั่วสุมหมู่ ก็ไม่เคยเพียงพอสำหรับคุณ คุณต้องการมากกว่านั้น - ความทรหดและผลสืบเนื่องจากการใช้ชีวิตจริงๆจังๆเหมือนเวลาที่คนพูดถึงในหนังสือประวัติศาสตร์ คุณต้องการจะรู้ว่าความท้าทายและผลกระทบนั้นรู้สึกยังไง\n\nณ ตอนนี้ หลังจากเดินทางยาวนานในคริปโตสลีป คุณลงจอดบนดางชายขอบที่ไม่มีใครรู้จัก ผลลัพท์ที่แท้จริงรอคุณอยู่</TheRichExplorer.scenario.parts.GameStartDialog.text>
   <!-- EN: One rich explorer out to experience the universe. Extra difficult. -->
   <TheRichExplorer.scenario.summary>หนึ่งนักสำรวจอันร่ำรวย ออกสำรวจจักรวาลอันกว่าใหญ่ ยากเป็นพิเศษ</TheRichExplorer.scenario.summary>
+  
+  <!-- EN: tutorial -->
+  <Tutorial.label>TODO</Tutorial.label>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
+  <Tutorial.description>TODO</Tutorial.description>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
+  <Tutorial.scenario.description>TODO</Tutorial.scenario.description>
+  <!-- EN: tutorial -->
+  <Tutorial.scenario.name>TODO</Tutorial.scenario.name>
+  <!-- EN: Three crashlanded survivors - the classic RimWorld experience. -->
+  <Tutorial.scenario.summary>TODO</Tutorial.scenario.summary>
   
 </LanguageData>

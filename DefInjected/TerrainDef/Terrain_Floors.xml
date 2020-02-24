@@ -28,7 +28,7 @@
   
   <!-- EN: concrete -->
   <Concrete.label>คอนกรีต</Concrete.label>
-  <!-- EN: Rough concrete. It is fast to walk on, cheap, and quick to build, but quite ugly. -->
+  <!-- EN: Rough concrete. It is cheap and quick to build, but is also quite ugly. -->
   <Concrete.description>คอนกรีตหยาบ มันก็ทำให้ เดินได้เร็ว ราคาถูก สร้างเสร็จไว แต่ค่อนข้างน่าเกลียด</Concrete.description>
   
   <!-- EN: gold tile -->
@@ -36,14 +36,14 @@
   <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
   <GoldTile.description>สำหรับการสิ้นเปลือง ยกตนข่มท่าน ไม่มีอะไรจะเกิน ไปกว่ากระเบี้องทอง พวกนี้แพงผิดธรรมดา สวยงามผิดธรรมดา และทำคนคิดว่า คุณเป็นพวกหัวสูงผิดธรรมดา หากคุณใช้ชีวิตอยู่ บนกระเบื้องพวกนี้จริงๆ</GoldTile.description>
   
-  <!-- EN: metal tile -->
+  <!-- EN: steel tile -->
   <MetalTile.label>กระเบื้อง โลหะ</MetalTile.label>
-  <!-- EN: Metal tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
+  <!-- EN: Steel tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
   <MetalTile.description>กระเบื้องโลหะ แบบคล้ายๆในยานอวกาศ มีความสวยงาม มีพื้นเรียบให้โบนัส ต่อการรักษาความสะอาด</MetalTile.description>
   
   <!-- EN: paved tile -->
   <PavedTile.label>กระเบื้อง คอนกรีต</PavedTile.label>
-  <!-- EN: Concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build. -->
+  <!-- EN: Concrete tiles. Cheap, but neutral in terms of looks and slow to build. -->
   <PavedTile.description>กระเบื้องคอนกรีต ราคาถูก และง่ายสำหรับย้ายไปมา เป็นกลางในด้านภาพลักษณ์ สร้างเสร็จช้า</PavedTile.description>
   
   <!-- EN: silver tile -->

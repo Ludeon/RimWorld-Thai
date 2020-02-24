@@ -5,7 +5,7 @@
     <li>sent->This drove [RECIPIENT_nameDef] into a rage and [RECIPIENT_pronoun] began a fight!</li>
   -->
   <Sentence_SocialFightStarted.rulePack.rulesStrings>
-    <li>sent->นี่ทำให้ [RECIPIENT_nameDef] หัวร้อนเกรี้ยวกราด จน[RECIPIENT_pronoun]เริ่มต่อยตีกัน !</li>
+    <li>sent->นี่ทำให้ [RECIPIENT_nameDef] หัวร้อนเกรี้ยวกราด จน[RECIPIENT_pronoun]พุ่งเข้าต่อย!</li>
   </Sentence_SocialFightStarted.rulePack.rulesStrings>
   
 </LanguageData>

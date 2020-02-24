@@ -10,9 +10,10 @@
   <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
   <AnimalInsanityMultiple>คลื่นพลังจิตอะไรซักอย่างกวาดผ่านภูมิประเทศไป ชาวนิคมคุณไม่เป็นอะไร แต่ว่า...\n\nดูเหมือน {0} หลายส่วนในพื้นที่ ถูกกดดันจนเกิดบ้าคลั่ง</AnimalInsanityMultiple>
 
-  <!-- EN: Blight -->
+  <!-- EN: Blight: {PLANTDEF_labelPlural} -->
   <LetterLabelCropBlight>โรคพืช</LetterLabelCropBlight>
-  <!-- EN: A colonist has noticed blight on your crops! You should cut or burn the blighted plants before the blight spreads. -->
+  <!-- EN: Blight has been discovered on the {PLANTDEF_labelPlural}!
+\nYou should cut or burn the affected plants before the blight spreads. -->
   <LetterCropBlight>ชาวนิคมสังเกตุเห็นโรคบนพืช! คุณควรตัด หรือเผา พืชที่ติดโรคทิ้ง ก่อนที่โรคพืชจะระบาดไปทั่ว</LetterCropBlight>
 
   <!-- EN: Miracle -->
@@ -57,8 +58,12 @@
   <!-- EN: That really is a huge explosion. Wow. -->
   <ShortCircuitWasHuge>นั่นมันระเบิดขนาดมหึมาจริงๆ โว้ว</ShortCircuitWasHuge>
 
-  <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}. -->
+  <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2} -->
   <TraderArrival>ยานพ่อค้ากำลังผ่านมาใกล้เคียงเรา\n\nพวกเขาเป็นที่รู้จักในนาม {0} / พวกเขาเป็น {1}</TraderArrival>
+  <!-- EN: They're affiliated with {FACTION_name}. -->
+  <TraderArrivalFromFaction>TODO</TraderArrivalFromFaction>
+  <!-- EN: They are not affiliated with any faction. -->
+  <TraderArrivalNoFaction>TODO</TraderArrivalNoFaction>
 
   <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
   <SingleTravelerPassing>{PAWN_title} จาก {1} กำลังผ่านมา {PAWN_pronoun}ชื่อว่า {PAWN_nameFull}</SingleTravelerPassing>
@@ -90,12 +95,16 @@
   <ManhunterPackArrived>ฝูงสัตว์ผู้ล่ามนุษย์ {0} เข้ามาในพื้นที่ / พวกมันมาเดินเตร่ออกล่าเนื้อพวกฮิวแมนนอยด์\n\nพวกมันไม่จู่โจมใส่ประตู เว้นแต่ว่ามันเห็นใครซักคนผ่านประตูนั้นไป หลบอยู่ภายในประตูแล้วคุณจะปลอดภัย พวกมันไม่โจมตีป้อมปืนที่ไม่ทำงาน ดังนั้นปิดป้อมปืนของคุณไม่ให้โดนทำลาย\n\n{0} จะออกจากพื้นที่ในอีก 2-3 วัน คุณสามารถเลือกได้ว่าจะซ่อนและรอ หรือสู้พวกมัน</ManhunterPackArrived>
   
   <!-- Crashed ship part-->
-  <!-- EN: The ancient structure has emitted a psychic pulse that has driven nearby animals mad. -->
+  <!-- EN: The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad. -->
   <MessageAnimalInsanityPulse>โครงสร้างจากโบราณกาล ปล่อยคลื่นพลังจิตออกมาเป็นจังหวะ ซึ่งกดดันให้สัตว์บริเวณใกล้เคียงเกิดบ้าคลั่ง</MessageAnimalInsanityPulse>
   <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
   <LetterShipPartDroveColonistInsane>ชิ้นส่วนยานที่ตก โฟกัสปล่อยคลื่นพลังจิตออกมาเป็นจังหวะ ซึ่งกดดันให้ชาวนิคม {0} เป็นบ้า</LetterShipPartDroveColonistInsane>
   <!-- EN: Awoke {0} days ago -->
   <AwokeDaysAgo>ตื่นขึ้น {0} วันที่ผ่านมา</AwokeDaysAgo>
+  <!-- EN: Activated {0} days ago -->
+  <ActivatedDaysAgo>TODO</ActivatedDaysAgo>
+  <!-- EN: Opened {0} days ago -->
+  <OpenedDaysAgo>TODO</OpenedDaysAgo>
   <!-- EN: Psychic drone level: {0} -->
   <PsychicDroneLevel>ระดับพลังเสียงของพลังจิต: {0}</PsychicDroneLevel>
   <!-- EN: Drone intensifies -->
@@ -109,35 +118,12 @@
   <!-- EN: {0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now. -->
   <LetterAgentRevealed>{0} ถูกเปิดเผยว่าเป็นสายลับของศัตรูจาก {1}.\n\nพวกเขากำลังพยายามจะหลบหนี</LetterAgentRevealed>
 
-  <!-- Distant psychic drone -->
-  <!-- EN: Psychic drone -->
-  <LetterLabelPsychicDrone>โดรนพลังจิต</LetterLabelPsychicDrone>
-  <!-- EN: Every colonist of the {0} gender winces in pain!\n\nSome distant engine of hatred is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
-  <LetterIncidentPsychicDrone>ชาวนิคม{0}ทุกคนเสียวสะดุ้งด้วยความเจ็บปวด!\n\nเครื่องจักรแห่งความเกลียดกำลังปลุกเร้า โดรนพลังจิตฉายคลื่นอันรุนแรงออกมาทั่วทั้งภูมิภาคนี้ บนความถี่ที่เหมือนจะมีผลกับ *{0}* เท่านั้น / ในช่วงเวลาไม่กี่วันนี้ อารมณ์ของบางคนจะแย่ลง\n\nโดรนพลังจิตเลเวล {1}</LetterIncidentPsychicDrone>
-
-  <!-- EN: Psychic soothe -->
-  <LetterLabelPsychicSoothe>พลังจิตปลอบประโลม</LetterLabelPsychicSoothe>
-  <!-- EN: Every colonist of the {0} gender smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit better. -->
-  <LetterIncidentPsychicSoothe>ชาวนิคม{0}ทุกคนเต็มไปด้วยรอยยิ้มพึงพอใจ!\n\nเครื่องจักรแห่งความสุขกำลังปลุกเร้า โดรนพลังจิตฉายคลื่นอันรุนแรงออกมาทั่วทั้งภูมิภาคนี้ บนความถี่ที่เหมือนจะมีผลกับ *{0}* เท่านั้น / ในช่วงเวลาไม่กี่วันนี้ อารมณ์ของบางคนจะดีขึ้นหน่อย</LetterIncidentPsychicSoothe>
-
   <!-- Beavers -->
   <!-- EN: Beavers! -->
   <LetterLabelBeaversArrived>บีเว่อร์!</LetterLabelBeaversArrived>
   <!-- EN: A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last source of wood in the region. -->
   <BeaversArrived>กลุ่มของอัลฟาบีเวอร์ที่หิวกระหายมาถึง\n\nพยายามกำจัดพวกมันให้ได้ ก่อนที่พวกมันจะทำลายต้นไม้ทุกต้นในบริเวณนี้ จนยับเยินไม่เหลือซาก</BeaversArrived>
   
-  <!-- Refugee chased -->
-  <!-- EN: Refugee chased at {0} -->
-  <RefugeeChasedTitle>ผู้ลี้ภัยโดนไล่ล่าที่ {0}</RefugeeChasedTitle>
-  <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} calls you from nearby. {PAWN_pronoun} is being chased by {2} from {3}!\n\n{PAWN_pronoun} begs for safety and offers to join your colony. {PAWN_pronoun} tells you {PAWN_pronoun} is {4} years old, but there's no time to collect more information.\n\nBe warned - if you accept, you'll have to fight off the {2} on {PAWN_possessive} tail. Their group is composed of:\n\n{5} -->
-  <RefugeeChasedInitial>{PAWN_titleIndef} ชื่อ {PAWN_nameDef} โทรมาหาคุณจากสถานที่ใกล้เคียง. {PAWN_pronoun}ถูกไล่ล่าโดย {2} จาก {3}!\n\n{PAWN_pronoun}ร้องขอความคุ้มครอง และเสนอเข้าร่วมอาณานิคมของคุณ / {PAWN_pronoun}บอกคุณว่า {PAWN_pronoun}มีอายุ {4} ปี แต่มีเวลาน้อยเกินไปสำหรับข้อมูลอื่นๆ\n\nข้อตักเตือน - ถ้าคุณยอมรับ คุณจะต้องสู้กับ {2} ที่ไล่ล่า{PAWN_possessive}มา ซึ่งกลุ่มเหล่านั้นประกอบด้วย:\n\n{5}</RefugeeChasedInitial>
-  <!-- EN: Offer safety -->
-  <RefugeeChasedInitial_Accept>เสนอให้ความคุ้มครอง</RefugeeChasedInitial_Accept>
-  <!-- EN: Ignore the message -->
-  <RefugeeChasedInitial_Reject>ไม่สนใจข้อความ</RefugeeChasedInitial_Reject>
-  <!-- EN: {1_labelShort} screams in panic through the tinny speaker before you cut off the transmission. -->
-  <RefugeeChasedRejected>{1_labelShort} ร้องเรียกด้วยความตื่นตระหนกผ่านลำโพงเล็กๆนั้น ก่อนที่คุณจะตัดสายไป</RefugeeChasedRejected>
-
   <!-- Self-tame -->
   <!-- EN: {1_kind} self-tamed -->
   <LetterLabelAnimalSelfTame>{1_kind} ทำตัวเองให้เชื่อง</LetterLabelAnimalSelfTame>
@@ -163,9 +149,11 @@
   <!-- Trader caravan -->
   <!-- EN: {1} from {0} -->
   <LetterLabelTraderCaravanArrival>{1} จาก {0}</LetterLabelTraderCaravanArrival>
-  <!-- EN: A caravan from {0} is approaching. They are a {1}.\n\nThey will hang around the colony for a few days before leaving. You can attack them - but this will anger their faction! -->
+  <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
   <LetterTraderCaravanArrival>คาราวานแลกเปลี่ยนจาก {0} ใกล้จะมาถึง พวกเขาเป็น {1}\n\nพวกเขาจะวนเวียนอยู่ในอาณานิคมไม่กี่วันก่อนจะจากไป คุณเลือกโจมตีพวกเขาได้ - แต่นั่นทำให้ฝ่ายของพวกเขาโกรธเคือง!</LetterTraderCaravanArrival>
-  
+  <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
+  <LetterCaravanArrivalCommonWarning>TODO</LetterCaravanArrivalCommonWarning>
+    
   <!-- Ransom demand -->
   <!-- EN: Ransom demand at {0} -->
   <RansomDemandTitle>เรียกค่าไถ่ที่ {0}</RansomDemandTitle>
@@ -177,15 +165,15 @@
   <RansomDemand_Reject>ปฏิเสธ</RansomDemand_Reject>
   
   <!-- Journey-related -->
-  <!-- EN: A friendly AI from your past named Charlon Whitestone has sent you a message!\n\nHe reveals that he has a starship hidden on this planet, and sends you its world coordinates.\n\nThe starship is currently in deep hibernation mode. You'll have to start it up when you arrive, then defend it from raiders trying to steal it until the startup sequence completes.\n\nIf you can get the ship off the ground, Charlon will take you off this rimworld, to the stars. -->
-  <JourneyOffer>เอไอผู้เป็นมิตรกับคุณในอดีตชื่อ Charlon Whitestone ส่งข้อความมาหาคุณ!\n\nเขาเปิดเผยว่ามียานอวกาศซ่อนอยู่บนดาวเคราะห์แห่งนี้ และส่งพิกัดบนโลกนั้นมาให้คุณ\n\nยานอวกาศตอนนี้อยู่ในโหมดจำศีลลึก คุณจะต้องสตาร์ทมันขึ้นมาเมื่อไปถึง จากนั้นป้องกันมันจากพวกบุกปล้นที่พยายามขโมยมัน ไปจนกว่ากระบวนการเริ่มยานจะเสร็จสิ้น\n\nถ้าคุณสามารถนำยานขึ้นจากพื้นได้สำเร็จ Charlon จะนำคุณออกจากดาวชายขอบนี้ สู่ดวงดาวอันไกลโพ้น</JourneyOffer>
   <!-- EN: Ship found -->
   <EscapeShipFoundLabel>พบยานแล้ว</EscapeShipFoundLabel>
-  <!-- EN: You've reached the coordinates sent by Charlon Whitestone and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\nCharlon Whitestone warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <!-- EN: You've reached the coordinates sent by <Name>Charlon Whitestone</Name> and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n<Name>Charlon Whitestone</Name> warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <EscapeShipFound>คุณมาถึงพิกัดที่ Charlon Whitestone ส่งมา และค้นพบยานอวกาศที่ซ่อนอยู่\n\nเตาปฏิกรณ์ของยานยังอยู่ในโหมดจำศีลลึก ซึ่งยังบินไม่ได้ คุณสามารถสตาร์ทมันขึ้นมาได้ ด้วยการโต้ตอบกับแกนคอมพิวเตอร์\n\nCharlon Whitestone เตือนคุณว่ากระบวนการเริ่มต้นจะใช้เวลาราว 15 วัน และรูปแบบพลังงานที่เกิดขึ้นจะสามารถตรวจเจอได้จากระยะไกล\n\nด้วยรูปแบบพลังงานบ่งชี้ ถึงยานบินมีความสามารถเดิมทางข้ามอวกาศ ซึ่งจะดึงดูดพวกแก๊งนักปล้นผู้ที่สิ้งหวัง และฝูงเมคานอยด์จำนวนมาก\n\nคุณจะถูกจู่โจมรุนแรงแบบที่ไม่เคยเห็นมาก่อน โปรดแน่ใจว่าคุณเตรียมพร้อมแนวป้องกันแล้ว</EscapeShipFound>
+  <!-- EN: You've reached the coordinates sent by <Name>Charlon Whitestone</Name> and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n<Name>Charlon Whitestone</Name> warns you that the startup process will take about 15 days. -->
+  <EscapeShipFoundPeaceful>TODO</EscapeShipFoundPeaceful>
   <!-- EN: Ship destroyed -->
   <EscapeShipLostLabel>ยานถูกทำลาย</EscapeShipLostLabel>
-  <!-- EN: Charlon Whitestone sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
+  <!-- EN: <Name>Charlon Whitestone</Name> sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
   <EscapeShipLost>Charlon Whitestone ส่งข้อความถึงคุณ\n\nเขาเห็นว่าคุณสูญเสียการควบคุมยานที่จอดอยู่ เพื่อป้องกันไม่ให้มันตกไปอยู่ในมือคนผิด เขาจำใจต้องกระตุ้นกลไกทำลายตัวเองของยาน ยานตอนนี้กลายเป็นเพียงแค่หลุมอุกาบาตไปแล้ว\n\nคุณจำเป็นต้องหาทางออกอื่นจากดาวเคราะห์นี้</EscapeShipLost>
 
   <!-- Caravan meeting -->
@@ -201,13 +189,15 @@
   <CaravanMeeting_MoveOn>เดินต่อไป</CaravanMeeting_MoveOn>
   <!-- EN: no caravan members capable of trading -->
   <CaravanMeeting_TradeIncapable>ไม่มีสมาชิกคาคาวานที่มีความสามารถในการซื้อขาย</CaravanMeeting_TradeIncapable>
+  <!-- EN: need a trader with the title of {0} from {1_name} -->
+  <CaravanMeeting_NoPermit>TODO</CaravanMeeting_NoPermit>
   
   <!-- Caravan request -->
   <!-- EN: Caravan request -->
   <LetterLabelCaravanRequest>คำร้องจากคาราวาน</LetterLabelCaravanRequest>
   <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
   <LetterCaravanRequest>ถิ่นฐานใกล้เคียงชื่อ {0} ส่งคำขอทำการค้าพิเศษมาหาคุณ พวกเขาต้องการซื้อ:\n\n  {1} (มูลค่า {2})\n\nเป็นการแลกเปลื่ยน พวกเขาเสนอ:\n\n  {3} (มูลค่า {4})\n\nคำขอนี้หมดอายุหลังจาก: {5}\n\nถ้าคุณต้องการทำการค้านี้ ให้ส่งคาราวานพร้อมสิ่งที่โดนร้องขอมา คาดการเวลาใช้เดินทาง {6} / คุณสามารถเรียกดูข้อเสนอนี้ได้อีกครั้ง โดยเลือก {0} บนแผนที่โลก</LetterCaravanRequest>
-  <!-- EN: Requesting: {0} ({3}), Reward: {1} ({4}) ({2} left) -->
+  <!-- EN: Requesting: {0} ({2}) ({1} left) -->
   <CaravanRequestInfo>ต้องการ: {0} ({3}), รางวัล: {1} ({4}) ({2} ซ้าย)</CaravanRequestInfo>
   <!-- EN: normal quality or better -->
   <NormalQualityOrBetter>คุณภาพปกติหรือดีกว่า</NormalQualityOrBetter>
@@ -233,5 +223,35 @@
   <LetterSiteNoLongerHostile>เพราะคุณไม่ได้เป็นปรปักษ์กับ {0} พื้นที่ {1} จึงไม่ว่างอีกต่อไป</LetterSiteNoLongerHostile>
   <!-- EN: Because you are no longer hostile with {0}, the following sites are no longer available -->
   <LetterSiteNoLongerHostileMulti>เพราะคุณไม่ได้เป็นปรปักษ์กับ {0} พื้นที่ต่อไปนี้ {1} จึงไม่ว่างอีกต่อไป</LetterSiteNoLongerHostileMulti>
+
+  <!-- Quest asker faction hostile -->
+  <!-- EN: Quest failed -->
+  <LetterLabelQuestAskerFactionHostile>TODO</LetterLabelQuestAskerFactionHostile>
+  <!-- EN: The quest is now incompletable because {FACTION_name} is hostile. -->
+  <LetterQuestAskerFactionHostile>TODO</LetterQuestAskerFactionHostile>
+
+  <!-- Quest asker captured -->
+  <!-- EN: Quest failed -->
+  <LetterLabelQuestAskerCaptured>TODO</LetterLabelQuestAskerCaptured>
+  <!-- EN: The quest is now incompletable because {SUBJECT_definite} has been captured. -->
+  <LetterQuestAskerCaptured>TODO</LetterQuestAskerCaptured>
+
+  <!-- Quest asker died -->
+  <!-- EN: Quest failed -->
+  <LetterLabelQuestAskerDied>TODO</LetterLabelQuestAskerDied>
+  <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
+  <LetterQuestAskerDied>TODO</LetterQuestAskerDied>
+
+  <!-- UNUSED -->
+  <LetterLabelPsychicDrone>โดรนพลังจิต</LetterLabelPsychicDrone>
+  <LetterIncidentPsychicDrone>ชาวนิคม{0}ทุกคนเสียวสะดุ้งด้วยความเจ็บปวด!\n\nเครื่องจักรแห่งความเกลียดกำลังปลุกเร้า โดรนพลังจิตฉายคลื่นอันรุนแรงออกมาทั่วทั้งภูมิภาคนี้ บนความถี่ที่เหมือนจะมีผลกับ *{0}* เท่านั้น / ในช่วงเวลาไม่กี่วันนี้ อารมณ์ของบางคนจะแย่ลง\n\nโดรนพลังจิตเลเวล {1}</LetterIncidentPsychicDrone>
+  <LetterLabelPsychicSoothe>พลังจิตปลอบประโลม</LetterLabelPsychicSoothe>
+  <LetterIncidentPsychicSoothe>ชาวนิคม{0}ทุกคนเต็มไปด้วยรอยยิ้มพึงพอใจ!\n\nเครื่องจักรแห่งความสุขกำลังปลุกเร้า โดรนพลังจิตฉายคลื่นอันรุนแรงออกมาทั่วทั้งภูมิภาคนี้ บนความถี่ที่เหมือนจะมีผลกับ *{0}* เท่านั้น / ในช่วงเวลาไม่กี่วันนี้ อารมณ์ของบางคนจะดีขึ้นหน่อย</LetterIncidentPsychicSoothe>
+  <RefugeeChasedTitle>ผู้ลี้ภัยโดนไล่ล่าที่ {0}</RefugeeChasedTitle>
+  <RefugeeChasedInitial>{PAWN_titleIndef} ชื่อ {PAWN_nameDef} โทรมาหาคุณจากสถานที่ใกล้เคียง. {PAWN_pronoun}ถูกไล่ล่าโดย {2} จาก {3}!\n\n{PAWN_pronoun}ร้องขอความคุ้มครอง และเสนอเข้าร่วมอาณานิคมของคุณ / {PAWN_pronoun}บอกคุณว่า {PAWN_pronoun}มีอายุ {4} ปี แต่มีเวลาน้อยเกินไปสำหรับข้อมูลอื่นๆ\n\nข้อตักเตือน - ถ้าคุณยอมรับ คุณจะต้องสู้กับ {2} ที่ไล่ล่า{PAWN_possessive}มา ซึ่งกลุ่มเหล่านั้นประกอบด้วย:\n\n{5}</RefugeeChasedInitial>
+  <RefugeeChasedInitial_Accept>เสนอให้ความคุ้มครอง</RefugeeChasedInitial_Accept>
+  <RefugeeChasedInitial_Reject>ไม่สนใจข้อความ</RefugeeChasedInitial_Reject>
+  <RefugeeChasedRejected>{1_labelShort} ร้องเรียกด้วยความตื่นตระหนกผ่านลำโพงเล็กๆนั้น ก่อนที่คุณจะตัดสายไป</RefugeeChasedRejected>
+  <JourneyOffer>เอไอผู้เป็นมิตรกับคุณในอดีตชื่อ Charlon Whitestone ส่งข้อความมาหาคุณ!\n\nเขาเปิดเผยว่ามียานอวกาศซ่อนอยู่บนดาวเคราะห์แห่งนี้ และส่งพิกัดบนโลกนั้นมาให้คุณ\n\nยานอวกาศตอนนี้อยู่ในโหมดจำศีลลึก คุณจะต้องสตาร์ทมันขึ้นมาเมื่อไปถึง จากนั้นป้องกันมันจากพวกบุกปล้นที่พยายามขโมยมัน ไปจนกว่ากระบวนการเริ่มยานจะเสร็จสิ้น\n\nถ้าคุณสามารถนำยานขึ้นจากพื้นได้สำเร็จ Charlon จะนำคุณออกจากดาวชายขอบนี้ สู่ดวงดาวอันไกลโพ้น</JourneyOffer>
 
 </LanguageData>

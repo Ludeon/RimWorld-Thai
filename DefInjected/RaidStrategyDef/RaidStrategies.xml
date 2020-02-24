@@ -10,6 +10,15 @@
   <!-- EN: Friendlies -->
   <ImmediateAttack.letterLabelFriendly>พันธมิตร</ImmediateAttack.letterLabelFriendly>
   
+  <!-- EN: They are attacking immediately. -->
+  <ImmediateAttackFriendly.arrivalTextEnemy>TODO</ImmediateAttackFriendly.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackFriendly.arrivalTextFriendly>TODO</ImmediateAttackFriendly.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackFriendly.letterLabelEnemy>TODO</ImmediateAttackFriendly.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackFriendly.letterLabelFriendly>TODO</ImmediateAttackFriendly.letterLabelFriendly>
+  
   <!-- EN: It looks like they want to use sappers to tunnel around your defenses. -->
   <ImmediateAttackSappers.arrivalTextEnemy>ดูเหมือนว่าพวกเขาต้องการใช้หน่วยทหารช่าง ขุดอุโมงค์หลีกเลี่ยงการป้องกันของคุณ</ImmediateAttackSappers.arrivalTextEnemy>
   <!-- EN: Raid -->
@@ -32,6 +41,11 @@
   <Siege.letterLabelEnemy>โดนล้อม</Siege.letterLabelEnemy>
   <!-- EN: Friendlies -->
   <Siege.letterLabelFriendly>พันธมิตร</Siege.letterLabelFriendly>
+  
+  <!-- EN: Rather than attack directly, the mechanoids are setting up a mech cluster near the colony. You must attack them in order to finally remove the threat. -->
+  <SiegeMechanoid.arrivalTextEnemy>TODO</SiegeMechanoid.arrivalTextEnemy>
+  <!-- EN: Mechanoid Siege -->
+  <SiegeMechanoid.letterLabelEnemy>TODO</SiegeMechanoid.letterLabelEnemy>
   
   <!-- EN: They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively. -->
   <StageThenAttack.arrivalTextEnemy>พวกเขาจะเตรียมความพร้อมซักพัก จากนั้นเข้าโจมตี\n\nเตรียมพร้อมแนวป้องกัน หรือเข้าจู่โจมพวกมันก่อน</StageThenAttack.arrivalTextEnemy>

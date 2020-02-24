@@ -3,17 +3,17 @@
   
   <!-- EN: carrying capacity -->
   <CarryingCapacity.label>แบกขนได้สูงสุด</CarryingCapacity.label>
-  <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators. This is separate from the ability to carry cargo on long cross-world trips. -->
+  <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators.\n\nThis is separate from the ability to carry cargo on long cross-world trips. -->
   <CarryingCapacity.description>ปริมาณสิ่งของที่สิ่งมีชีวิตนี้สามารถขนได้ ในมือ ปาก หรืออวัยวะใช้งานอื่นๆ ค่านี้แยกกับความสามารถในการแบกของ เมื่อเดินทางข้ามโลก</CarryingCapacity.description>
   
   <!-- EN: Maximum comfortable temperature -->
   <ComfyTemperatureMax.label>อุณหภูมิสูงสุดที่สบายตัว</ComfyTemperatureMax.label>
-  <!-- EN: Above this temperature, characters will be unhappy. Significantly above this temperature, they will develop heatstroke and eventually die. -->
+  <!-- EN: Above this temperature, characters will be unhappy.\n\nSignificantly above this temperature, they will develop heatstroke and eventually die. -->
   <ComfyTemperatureMax.description>ในอุณภูมิสูงกว่านี้ ตัวละครจะรู้สึกไม่ยินดี หากอุณภูมิสูงกว่านี้มากๆ ตัวละครอาจเป็นลมแดด และเสียชีวิตในที่สุด</ComfyTemperatureMax.description>
   
   <!-- EN: Minimum comfortable temperature -->
   <ComfyTemperatureMin.label>อุณหภูมิต่ำสุดที่สบายตัว</ComfyTemperatureMin.label>
-  <!-- EN: Below this temperature, characters will be unhappy. Significantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
+  <!-- EN: Below this temperature, characters will be unhappy.\n\nSignificantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
   <ComfyTemperatureMin.description>ในอุณภูมิต่ำกว่านี้ ตัวละครจะรู้สึกไม่ยินดี หากอุณภูมิต่ำกว่านี้มากๆ ตัวละครอาจเกิดภาวะตัวเย็นเกิน น้ำแข็งกัด และเสียชีวิตในที่สุด</ComfyTemperatureMin.description>
   
   <!-- EN: eating speed -->
@@ -38,7 +38,7 @@
   
   <!-- EN: immunity gain speed -->
   <ImmunityGainSpeed.label>ความเร็วในการสร้างภูมิคุ้มกันโรค</ImmunityGainSpeed.label>
-  <!-- EN: The speed at which this character gains immunity to diseases. If this is too slow, the character will die from a disease before developing immunity. -->
+  <!-- EN: The speed at which this character gains immunity to diseases.\n\nIf this is too slow, the character will die from a disease before developing immunity. -->
   <ImmunityGainSpeed.description>ความเร็วที่ตัวละครนี้สร้างภูมิคุ้มกันต่อโรค ถ้าช้าเกินไป ตัวละครอาจจะตายจากโรค ก่อนสร้างภูมิคุ้มกันสำเร็จ</ImmunityGainSpeed.description>
   
   <!-- EN: leather amount -->
@@ -53,7 +53,7 @@
   
   <!-- EN: mental break threshold -->
   <MentalBreakThreshold.label>เส้นแบ่งสติแตก</MentalBreakThreshold.label>
-  <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break. The severity of the mental break will depend on how far below the threshold they are. -->
+  <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break.\n\nThe severity of the mental break will depend on how far below the threshold they are. -->
   <MentalBreakThreshold.description>ใครก็ตามตราบใดที่มีอารมณ์ต่ำกว่าระดับนี้ เขาจะอยู่ในอันตรายต่อการสติแตก ความร้ายแรงของอาการสติแตกจะขึ้นอยู่กับว่า เขาข้ามเส้นแบ่งลงไปต่ำแค่ไหน</MentalBreakThreshold.description>
   
   <!-- EN: minimum handling skill -->
@@ -73,9 +73,26 @@
   <!-- EN: The pain level at which this creature is downed from pain. -->
   <PainShockThreshold.description>ค่าระดับความเจ็บปวดที่ทำให้สิ่งมีชีวิตนี้ล้มหมดสภาพ</PainShockThreshold.description>
   
+  <!-- EN: psychic entropy gain -->
+  <PsychicEntropyGain.label>TODO</PsychicEntropyGain.label>
+  <!-- EN: A multiplier on psychic entropy gained from any source. -->
+  <PsychicEntropyGain.description>TODO</PsychicEntropyGain.description>
+  
+  <!-- EN: psychic entropy limit -->
+  <PsychicEntropyMax.label>TODO</PsychicEntropyMax.label>
+  <!-- EN: The maximum amount of psychic entropy individual can tolerate safely. -->
+  <PsychicEntropyMax.description>TODO</PsychicEntropyMax.description>
+  
+  <!-- EN: psychic entropy recovery rate -->
+  <PsychicEntropyRecoveryRate.label>TODO</PsychicEntropyRecoveryRate.label>
+  <!-- EN: The rate at which this person reduces psychic entropy. -->
+  <PsychicEntropyRecoveryRate.description>TODO</PsychicEntropyRecoveryRate.description>
+  <!-- EN: {0}/30s -->
+  <PsychicEntropyRecoveryRate.formatString>TODO</PsychicEntropyRecoveryRate.formatString>
+  
   <!-- EN: psychic sensitivity -->
   <PsychicSensitivity.label>ความไวต่อพลังจิต</PsychicSensitivity.label>
-  <!-- EN: Multiplier on the impact of psychic phenomena affecting this person. More sensitive people both suffer more from negative psychic effects, and benefit more from positive ones. -->
+  <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases psychic entropy limit. -->
   <PsychicSensitivity.description>ตัวคูณต่อผลกระทบจากปรากฏการทางจิตที่ส่งผลกับบุคคลนี้ ยิ่งมีสัมผัสไว ยิ่งได้รับผลกระทบมาก ทั้งได้ผลเสียมากกว่าปกติจากพลังจิตทางลบ และได้ผลดีมากกว่าปกติจากพลังจิตทางบวก</PsychicSensitivity.description>
   
   <!-- EN: rest rate multiplier -->

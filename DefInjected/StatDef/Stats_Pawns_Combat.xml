@@ -6,29 +6,41 @@
   <!-- EN: How long it takes to shoot after choosing a target. -->
   <AimingDelayFactor.description>ใช้เวลานานแค่ไหนในการเล็งยิง หลังจากเลือกเป้าหมายแล้ว</AimingDelayFactor.description>
   
+  <!-- EN: incoming damage multiplier -->
+  <IncomingDamageFactor.label>TODO</IncomingDamageFactor.label>
+  <!-- EN: A multiplier on all incoming damage. -->
+  <IncomingDamageFactor.description>TODO</IncomingDamageFactor.description>
+  
   <!-- EN: melee armor penetration -->
   <MeleeArmorPenetration.label>รบประชิด เจาะเกราะ</MeleeArmorPenetration.label>
-  <!-- EN: Average armor penetration of all attacks in melee combat. This stat includes currently used weapon. -->
+  <!-- EN: Average armor penetration of all attacks in melee combat.\n\nThis stat includes currently used weapon. -->
   <MeleeArmorPenetration.description>การเจาะเกราะโดยเฉลี่ยเมื่อโจมตีประชิดทุกประเภท ค่านี้รวมอาวุธที่กำลังใช้</MeleeArmorPenetration.description>
   
   <!-- EN: melee dodge chance -->
   <MeleeDodgeChance.label>รบประชิด โอกาสหลบ</MeleeDodgeChance.label>
-  <!-- EN: Chance to dodge a melee attack that would've otherwise hit. Characters will not dodge while aiming or firing a ranged weapon. -->
+  <!-- EN: Chance to dodge a melee attack that would've otherwise hit.\n\nCharacters will not dodge while aiming or firing a ranged weapon. -->
   <MeleeDodgeChance.description>โอกาสหลบเมื่อโดนโจมตีประชิดอันปกติควรโดน ตัวละครจะไม่หลบหากกำลังเล็งหรือยิงปืนอยู่</MeleeDodgeChance.description>
   
   <!-- EN: melee DPS -->
   <MeleeDPS.label>รบประชิด สร้างความเสียหาย</MeleeDPS.label>
-  <!-- EN: Average damage per second in melee combat. This stat ignores target defenses like dodging and armor. -->
+  <!-- EN: Average damage per second in melee combat.\n\nThis stat ignores target defenses like dodging and armor. -->
   <MeleeDPS.description>ความเสียหายต่อวินาทีโดยเฉลี่ยในการรบประชิด ค่านี้มองข้ามค่าป้องกันของเป้าหมายเช่น หลบ หรือเกราะ</MeleeDPS.description>
   
   <!-- EN: melee hit chance -->
   <MeleeHitChance.label>รบประชิด โอกาศโจมตีโดน</MeleeHitChance.label>
-  <!-- EN: Chance to hit a target in melee. The target can still dodge even if we would've hit. -->
+  <!-- EN: Chance to hit a target in melee.\n\nThe target can still dodge even if we would've hit. -->
   <MeleeHitChance.description>โอกาสจะตีโดนในการรบประชิด เป้าหมายยังสามารถหลบได้แม้ควรจะตีโดน</MeleeHitChance.description>
+  
+  <!-- EN: trap spring chance -->
+  <PawnTrapSpringChance.label>TODO</PawnTrapSpringChance.label>
+  <!-- EN: Chance to spring a trap the character is unaware of. -->
+  <PawnTrapSpringChance.description>TODO</PawnTrapSpringChance.description>
   
   <!-- EN: shooting accuracy -->
   <ShootingAccuracyPawn.label>ความแม่นยำในการยิง</ShootingAccuracyPawn.label>
-  <!-- EN: Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
+  <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors.\n\nA hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
   <ShootingAccuracyPawn.description>ฐานโอกาสให้ยิงไม่พลาด ต่อช่อง ของระยะที่ยิง โอกาสยิงโดนได้รับผลกระทบจากปัจจัยอื่นๆอีกมาก คำอธิบายโอกาสยิงโดนของทุกนัดสามารถดูได้ ด้วยการเลือกคนยิง จากนั้นวางเมาส์บนเป้าหมาย</ShootingAccuracyPawn.description>
+  <!-- EN: shooting accuracy (people) -->
+  <ShootingAccuracyPawn.labelForFullStatList>TODO</ShootingAccuracyPawn.labelForFullStatList>
   
 </LanguageData>

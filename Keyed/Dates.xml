@@ -12,6 +12,8 @@
 
   <!-- EN: {0} of {1}, {2} -->
   <FullDate>วันที่ {0} ของ {1}, ปี {2}</FullDate>
+  <!-- EN: {0} {1} {2} -->
+  <ShortDate>TODO</ShortDate>
   <!-- EN: {0} of {1}, {2} -->
   <DateReadout>วันที่ {0} ของ {1}, ปีที่ {2}</DateReadout>
   <!-- EN: {0} of {1} -->

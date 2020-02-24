@@ -44,6 +44,11 @@
   <!-- EN: We had a chance to rescue my relative, and failed. I could have helped! -->
   <FailedToRescueRelative.stages.failed_to_rescue.description>เราไม่สามารถช่วยคนในครอบครัวของฉันได้ การที่เราสามารถช่วยเขาได้แต่ ทำไม่สำเหร็จทำให้ฉันเสียใจอย่างมาก กับการเสียคนที่รักไป </FailedToRescueRelative.stages.failed_to_rescue.description>
   
+  <!-- EN: freed from slavery -->
+  <FreedFromSlavery.stages.freed_from_slavery.label>TODO</FreedFromSlavery.stages.freed_from_slavery.label>
+  <!-- EN: I have been freed from slavery. I'm so thankful! -->
+  <FreedFromSlavery.stages.freed_from_slavery.description>TODO</FreedFromSlavery.stages.freed_from_slavery.description>
+  
   <!-- EN: killed someone -->
   <KilledHumanlikeBloodlust.stages.killed_someone.label>ฆ่าใครบางคน</KilledHumanlikeBloodlust.stages.killed_someone.label>
   <!-- EN: I killed someone! What a rush! -->
@@ -69,10 +74,10 @@
   <!-- EN: The colony took body parts from a guest or prisoner. It's horrible, breaking someone down for parts when they have no choice. -->
   <KnowGuestOrganHarvested.stages.someones_organ_harvested.description>อาณานิคมนำเอาอวัยวะออกจากแขก หรือนักโทษ ซึ่งมันเลวร้ายมาก, ที่แยกชิ้นส่วนบางคนออกเป็นชิ้นๆ เมื่อไม่มีทางเลือก</KnowGuestOrganHarvested.stages.someones_organ_harvested.description>
   
-  <!-- EN: a prisoner was sold -->
-  <KnowPrisonerSold.stages.a_prisoner_was_sold.label>นักโทษถูกขายแล้ว</KnowPrisonerSold.stages.a_prisoner_was_sold.label>
+  <!-- EN: prisoner sold -->
+  <KnowPrisonerSold.stages.prisoner_sold.label>นักโทษถูกขายแล้ว</KnowPrisonerSold.stages.prisoner_sold.label>
   <!-- EN: This colony sold a prisoner into slavery. That's a worrying thought. -->
-  <KnowPrisonerSold.stages.a_prisoner_was_sold.description>อาณานิคมนี้ขายนักโทษเป็นทาสแล้ว นั่นก็เป็นความคิดที่น่ากังวลอยู่เหมือนกัน</KnowPrisonerSold.stages.a_prisoner_was_sold.description>
+  <KnowPrisonerSold.stages.prisoner_sold.description>อาณานิคมนี้ขายนักโทษเป็นทาสแล้ว นั่นก็เป็นความคิดที่น่ากังวลอยู่เหมือนกัน</KnowPrisonerSold.stages.prisoner_sold.description>
   
   <!-- EN: my organ harvested -->
   <MyOrganHarvested.stages.my_organ_harvested.label>อวัยวะของฉันถูกเก็บเกี่ยวแล้ว</MyOrganHarvested.stages.my_organ_harvested.label>
@@ -108,6 +113,11 @@
   <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>TODO</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
   <!-- EN: We banished a prisoner in such a way that there's almost no way they'll survive. -->
   <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>TODO</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
+  
+  <!-- EN: prisoner released -->
+  <ReleasedHealthyPrisoner.stages.prisoner_released.label>TODO</ReleasedHealthyPrisoner.stages.prisoner_released.label>
+  <!-- EN: We released a healthy prisoner. It feels good to know we even treat prisoners well. -->
+  <ReleasedHealthyPrisoner.stages.prisoner_released.description>TODO</ReleasedHealthyPrisoner.stages.prisoner_released.description>
   
   <!-- EN: rescued -->
   <Rescued.stages.rescued.label>TODO</Rescued.stages.rescued.label>

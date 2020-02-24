@@ -5,7 +5,5 @@
   <AmbushHidden.label>ซุ่มโจมตี</AmbushHidden.label>
   <!-- EN: An ambush. -->
   <AmbushHidden.description>การซุ่มโจมตี</AmbushHidden.description>
-  <!-- EN: an enemy force is waiting to ambush anyone who comes near -->
-  <AmbushHidden.descriptionDialogue>กองกำลังศัตรูซุ่มรอโจมตีใครก็ตามเข้าไปใกล้</AmbushHidden.descriptionDialogue>
-  
+
 </LanguageData>

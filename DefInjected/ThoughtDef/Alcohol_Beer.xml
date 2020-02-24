@@ -2,41 +2,38 @@
 <LanguageData>
   
   <!-- EN: alcohol withdrawal -->
-  <AlcoholWithdrawal.stages.alcohol_withdrawal.label>เลิกแอลกอฮอล์</AlcoholWithdrawal.stages.alcohol_withdrawal.label>
+  <AlcoholWithdrawal.stages.alcohol_withdrawal.label>แอลกอฮอล์ลงแดง</AlcoholWithdrawal.stages.alcohol_withdrawal.label>
   <!-- EN: Feeling shaky. Everything pisses me off. I keep thinking of drinking. -->
-  <AlcoholWithdrawal.stages.alcohol_withdrawal.description>รู้สึกสั่นคลอน ทุกอย่างแย่ไปหมด ฉันต้องคิดเกี่ยวกับการดื่มอย่างต่อเนื่อง</AlcoholWithdrawal.stages.alcohol_withdrawal.description>
+  <AlcoholWithdrawal.stages.alcohol_withdrawal.description>รู้สึกเวียนๆ ทุกอย่างทำให้ฉันโมโห วนเวียนคิดถึงแต่การดื่ม</AlcoholWithdrawal.stages.alcohol_withdrawal.description>
   
   <!-- EN: mild hangover -->
-  <Hungover.stages.mild_hangover.label>เมาค้าง (หลบใน)</Hungover.stages.mild_hangover.label>
+  <Hungover.stages.mild_hangover.label>เมาค้างนิดๆ</Hungover.stages.mild_hangover.label>
   <!-- EN: The headache is almost gone. -->
-  <Hungover.stages.mild_hangover.description>ไม่มีอาการปวดอะไรเท่าไหร่</Hungover.stages.mild_hangover.description>
+  <Hungover.stages.mild_hangover.description>อาการปวดหัวแทบจะหายไปหมดแล้ว</Hungover.stages.mild_hangover.description>
   <!-- EN: serious hangover -->
-  <Hungover.stages.serious_hangover.label>เมาค้าง (นิดหน่อย)</Hungover.stages.serious_hangover.label>
+  <Hungover.stages.serious_hangover.label>เมาค้างหนัก</Hungover.stages.serious_hangover.label>
   <!-- EN: My head hurts from all that liquor. -->
-  <Hungover.stages.serious_hangover.description>อาการปวดหัวแทบจะหายไปหมดแล้ว</Hungover.stages.serious_hangover.description>
+  <Hungover.stages.serious_hangover.description>หัวของฉันปวดไปหมดเพราะแอลกอฮอล์นั่น</Hungover.stages.serious_hangover.description>
   <!-- EN: pounding hangover -->
-  <Hungover.stages.pounding_hangover.label>เมาค้าง (ปวดตุบๆ)</Hungover.stages.pounding_hangover.label>
+  <Hungover.stages.pounding_hangover.label>เมาค้างรุนแรง</Hungover.stages.pounding_hangover.label>
   <!-- EN: It feels like a gaggle of geese are pecking at my skull. -->
-  <Hungover.stages.pounding_hangover.description>หัวของฉันปวดไปหมดเพราะแอลกอฮอล์นั่น</Hungover.stages.pounding_hangover.description>
-  <!-- EN: hung over (hidden) -->
-  <Hungover.stages.hung_over_hidden.label>เมาค้าง (ปวดตุบๆ)</Hungover.stages.hung_over_hidden.label>
-  <Hungover.stages.hung_over_hidden.description>รู้สึกเหมือนฝูงห่านกำลังรุมจิกอยู่ในกระโหลก</Hungover.stages.hung_over_hidden.description>
+  <Hungover.stages.pounding_hangover.description>รู้สึกเหมือนฝูงห่านกำลังรุมจิกอยู่ในกระโหลก</Hungover.stages.pounding_hangover.description>
   
   <!-- EN: alcohol warmth -->
-  <Inebriated.stages.alcohol_warmth.label>เวียนๆ (หลบใน)</Inebriated.stages.alcohol_warmth.label>
+  <Inebriated.stages.alcohol_warmth.label>อุ่นๆแอลกอฮอล์</Inebriated.stages.alcohol_warmth.label>
   <!-- EN: I just feel a bit more relaxed after that drink. That's good. -->
-  <Inebriated.stages.alcohol_warmth.description>ควรจะไม่ปรากฎ</Inebriated.stages.alcohol_warmth.description>
+  <Inebriated.stages.alcohol_warmth.description>ฉันรู้สึกผ่อนคลายขึ้นหน่อยหลังจากดื่มไป ก็ดีนะ</Inebriated.stages.alcohol_warmth.description>
   <!-- EN: quite inebriated -->
-  <Inebriated.stages.quite_inebriated.label>เมา (อุ่น)</Inebriated.stages.quite_inebriated.label>
+  <Inebriated.stages.quite_inebriated.label>เคลิ้มๆ</Inebriated.stages.quite_inebriated.label>
   <!-- EN: I'm a bit wobbly! And this is quite enjoyable. -->
-  <Inebriated.stages.quite_inebriated.description>ฉันรู้สึกผ่อนคลายนิดหน่อยหลังจากดื่ม มันดีนะ</Inebriated.stages.quite_inebriated.description>
+  <Inebriated.stages.quite_inebriated.description>ฉันเดินเซนิดหน่อย! และนั่นก็สนุกดีทีเดียว</Inebriated.stages.quite_inebriated.description>
   <!-- EN: drunk -->
-  <Inebriated.stages.drunk.label>เมา (โซเซ)</Inebriated.stages.drunk.label>
+  <Inebriated.stages.drunk.label>เมา</Inebriated.stages.drunk.label>
   <!-- EN: I feel so uninhibited and unafraid! This is a great time! -->
-  <Inebriated.stages.drunk.description>ฉันเดินเซนิดหน่อย! และนี่ก็สนุกดีทีเดียว</Inebriated.stages.drunk.description>
+  <Inebriated.stages.drunk.description>ฉันรู้สึกไม่มีอะไรยับยั้งและไม่กลัวอะไรทั้งนั้น! นี่เป็นเวลาที่ยอดเยี่ยม!</Inebriated.stages.drunk.description>
   <!-- EN: hammered -->
-  <Inebriated.stages.hammered.label>เมา (เมา)</Inebriated.stages.hammered.label>
+  <Inebriated.stages.hammered.label>เมาแอ๋</Inebriated.stages.hammered.label>
   <!-- EN: Wooo! What's going on? -->
-  <Inebriated.stages.hammered.description>ฉันรู้สึกไม่มีอะไรยับยั้งและไม่รู้สึกกลัวอะไรทั้งนั้น! นี่เป็นเวลาที่ยอดเยี่ยม!</Inebriated.stages.hammered.description>
+  <Inebriated.stages.hammered.description>โววว! เกิดอะไรขึ้น?</Inebriated.stages.hammered.description>
   
 </LanguageData>

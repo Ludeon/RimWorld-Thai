@@ -1,6 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: allow biocoded weapons -->
+  <AllowBiocodedWeapons.label>TODO</AllowBiocodedWeapons.label>
+  
+  <!-- EN: allow burnable -->
+  <AllowBurnableApparel.label>TODO</AllowBurnableApparel.label>
+  
+  <!-- EN: allow burnable -->
+  <AllowBurnableWeapons.label>TODO</AllowBurnableWeapons.label>
+  
   <!-- EN: allow colonist corpses -->
   <AllowCorpsesColonist.label>อนุญาตศพชาวนิคม</AllowCorpsesColonist.label>
   <!-- EN: Allow the dead bodies of colonists. -->
@@ -21,10 +30,22 @@
   <!-- EN: Allow organic things which haven't started to rot yet. -->
   <AllowFresh.description>อนุญาตให้เก็บของตามธรรมชาติ ที่ยังไม่เริ่มเน่า</AllowFresh.description>
   
+  <!-- EN: allow non-biocoded weapons -->
+  <AllowNonBiocodedWeapons.label>TODO</AllowNonBiocodedWeapons.label>
+  
+  <!-- EN: allow non-burnable -->
+  <AllowNonBurnableApparel.label>TODO</AllowNonBurnableApparel.label>
+  
+  <!-- EN: allow non-burnable -->
+  <AllowNonBurnableWeapons.label>TODO</AllowNonBurnableWeapons.label>
+  
   <!-- EN: allow clean apparel -->
   <AllowNonDeadmansApparel.label>อนุญาตเสื้อผ้าสะอาด</AllowNonDeadmansApparel.label>
   <!-- EN: Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
   <AllowNonDeadmansApparel.description>อนุญาตให้เก็บ เสื้อผ้าไม่ใส่กับศพ มนุษย์โดยทั่วไปมองว่าเสื้อผ้าที่มีมลทินจากศพนั้นน่ากังวลใจ และพ่อค้าก็ไม่ยอมรับซื้อมัน</AllowNonDeadmansApparel.description>
+  
+  <!-- EN: allow non-smeltable -->
+  <AllowNonSmeltableApparel.label>TODO</AllowNonSmeltableApparel.label>
   
   <!-- EN: allow non-smeltable -->
   <AllowNonSmeltableWeapons.label>อนุญาตอาวุธหลอมไม่ได้</AllowNonSmeltableWeapons.label>
@@ -43,5 +64,8 @@
   <!-- EN: allow smeltable -->
   <AllowSmeltable.label>อนุญาตอาวุธหลอม</AllowSmeltable.label>
   <AllowSmeltable.description>อนุญาตให้เก็บอาวุธ ที่ใช้หลอมได้</AllowSmeltable.description>
+  
+  <!-- EN: allow smeltable -->
+  <AllowSmeltableApparel.label>TODO</AllowSmeltableApparel.label>
   
 </LanguageData>

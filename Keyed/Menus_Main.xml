@@ -16,6 +16,8 @@
   <LoadGame>โหลดเกม</LoadGame>
   <!-- EN: Options -->
   <Options>ตัวเลือก</Options>
+  <!-- EN: Mod -->
+  <Mod>TODO</Mod>
   <!-- EN: Mods -->
   <Mods>Mods</Mods>
   <!-- EN: Save translation report -->
@@ -82,6 +84,8 @@
   <PlanetRainfall>ปริมาณน้ำฝนโดยรวม</PlanetRainfall>
   <!-- EN: Overall temperature -->
   <PlanetTemperature>อุณหภูมิโดยรวม</PlanetTemperature>
+  <!-- EN: Population -->
+  <PlanetPopulation>TODO</PlanetPopulation>
   <!-- EN: Low -->
   <PlanetRainfall_Low>น้อย</PlanetRainfall_Low>
   <!-- EN: Normal -->
@@ -94,12 +98,18 @@
   <PlanetTemperature_Normal>ปกติ</PlanetTemperature_Normal>
   <!-- EN: High -->
   <PlanetTemperature_High>สูง</PlanetTemperature_High>
+  <!-- EN: Sparse -->
+  <PlanetPopulation_Low>TODO</PlanetPopulation_Low>
+  <!-- EN: Normal -->
+  <PlanetPopulation_Normal>TODO</PlanetPopulation_Normal>
+  <!-- EN: Crowded -->
+  <PlanetPopulation_High>TODO</PlanetPopulation_High>
   <!-- EN: Seed -->
   <WorldSeed>Seed</WorldSeed>
   <!-- EN: Randomize seed -->
   <RandomizeSeed>สุ่มค่า Seed</RandomizeSeed>
   <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
-  <PlanetCoverageTip>ดาวเคราะห์มีขนาดเส้นผ่าศูนย์กลางเท่ากันหมด แต่เนื่องดวงเคราะห์ขนาดใหญ่เกินจำเป็น (สำหรับการเล่นทั่วๆไป) เราจึงไม่สร้างพื้นผิวทั้งหมดของดาวเคราะห์ เพราะกินสร้างเวลานานเอามากๆ ค่าเปอร์เซ็นต์นี้ คือร้อยละของพื้นผิวดาวเคราะห์ที่คุณต้องการสร้าง</PlanetCoverageTip>
+  <PlanetCoverageTip>ดาวเคราะห์มีขนาดเส้นผ่าศูนย์กลางเท่ากันตลอด แต่เนื่องจากดวงเคราะห์ใหญ่เกินจำเป็น สำหรับการเล่นทั่วๆไป เราจึงไม่สร้างพื้นผิวดาวเคราะห์ทั้งหมด เพราะจะกินเวลาสร้างนานเอามากๆ, ค่าเปอร์เซ็นต์นี้ คือร้อยละ ของพื้นผิวดาวเคราะห์ ที่คุณต้องการสร้าง</PlanetCoverageTip>
   <!-- EN: Factions -->
   <WorldFactionsTab>ฝักฝ่าย</WorldFactionsTab>
 
@@ -138,6 +148,8 @@
   <ConfirmDisableCoreMod>คุณแน่ใจหรือว่าจะปิด Core mod? เกมจะพังเล่นไม่ได้ไปเลย ยกเว้นแต่ว่าคุณลง mod อื่นไว้ ซึ่งสามารถเข้ามาทำงานแทนที่ฟังชั่น core หลักๆทั้งหมดของเกมได้\n\nโปรดจำไว้ว่า คุณสามารถใช้ mods อื่นๆมา override defs ใน core mod ได้ ด้วยการใช้ defName</ConfirmDisableCoreMod>
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
   <ConfirmDeleteMod>คุณแน่ใจ ว่าต้องการลบเนื้อหาทั้งหมดสำหรับ {0}?</ConfirmDeleteMod>
+  <!-- EN: Auto-sort mods -->
+  <ResolveModOrder>TODO</ResolveModOrder>
   <!-- EN: Unsubscribe -->
   <Unsubscribe>เลิกติดตาม</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
@@ -158,19 +170,63 @@
   <WorkshopUploadSucceeded>อัปโหลดสำเร็จ {0}.</WorkshopUploadSucceeded>
   <!-- EN: Downloading -->
   <Downloading>กำลังดาวน์โหลด</Downloading>
+  <!-- EN: Display fulfilled requirements -->
+  <ModDisplayFulfilledRequirements>TODO</ModDisplayFulfilledRequirements>
+  <!-- EN: Click to select. -->
+  <ModClickToSelect>TODO</ModClickToSelect>
+  <!-- EN: Click to go to website. -->
+  <ModClickToGoToWebsite>TODO</ModClickToGoToWebsite>
   <!-- EN: Source -->
   <Source>แหล่งที่มา</Source>
-  <!-- EN: For version: {0} -->
+  <!-- EN: For game version(s) -->
   <ModTargetVersion>สำหรับเวอร์ชั่น: {0}</ModTargetVersion>
+  <!-- EN: ID -->
+  <ModPackageId>TODO</ModPackageId>
+  <!-- EN: This must be loaded before: {0}. -->
+  <ModMustLoadBefore>TODO</ModMustLoadBefore>
+  <!-- EN: This must be loaded after: {0}. -->
+  <ModMustLoadAfter>TODO</ModMustLoadAfter>
+  <!-- EN: Depends on: {0} -->
+  <ModDependsOn>TODO</ModDependsOn>
+  <!-- EN: Incompatible with: {0} -->
+  <ModIncompatibleWith>TODO</ModIncompatibleWith>
+  <!-- EN: This mod is incompatible with: {0}. -->
+  <ModIncompatibleWithTip>TODO</ModIncompatibleWithTip>
+  <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
+  <ModOrderingWarning>TODO</ModOrderingWarning>
+  <!-- EN: Another active mod uses the same ID: {0}. -->
+  <ModWithSameIdAlreadyActive>TODO</ModWithSameIdAlreadyActive>
+  <!-- EN: There is a cyclic mod dependency starting with {0}. -->
+  <ModCyclicDependency>TODO</ModCyclicDependency>
+  <!-- EN: This requires following mods to work: {0}. -->
+  <ModUnsatisfiedDependency>TODO</ModUnsatisfiedDependency>
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
   <ModNotMadeForThisVersion>Mod นี้ไม่ได้ทำขึ้นสำหรับ RimWorld เวอร์ชั่นนี้ และก็คงจะทำงานไม่ถูกต้อง</ModNotMadeForThisVersion>
   <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
   <ModNotMadeForThisVersion_Newer>Mod นี้ทำขึ้นสำหรับ RimWorld เวอร์ชั่นใหม่กว่านี้ และก็คงจะทำงานไม่ถูกต้อง</ModNotMadeForThisVersion_Newer>
-  <!-- EN: Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>. -->
+  <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
   <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: {0}.</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
+  <MessageModNeedsWellFormattedPackageId>TODO</MessageModNeedsWellFormattedPackageId>
+  <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
+  <ModHadLoadFolderIssues>TODO</ModHadLoadFolderIssues>
+  <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
+  <ModLoadFolderDoesntExist>TODO</ModLoadFolderDoesntExist>
+  <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
+  <ModLoadFolderMalformedVersion>TODO</ModLoadFolderMalformedVersion>
+  <!-- EN: The list of load folders for version {0} is empty. -->
+  <ModLoadFolderListEmpty>TODO</ModLoadFolderListEmpty>
+  <!-- EN: Version {0} lists the same folder more than once: {1}. -->
+  <ModLoadFolderRepeatingFolder>TODO</ModLoadFolderRepeatingFolder>
+  <!-- EN: Invalid version order: {0} should come before {1}. -->
+  <ModLoadFolderOutOfOrder>TODO</ModLoadFolderOutOfOrder>
+  <!-- EN: Invalid version order: 'default' should be defined first. -->
+  <ModLoadFolderOutOfOrderDefault>TODO</ModLoadFolderOutOfOrderDefault>
+  <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
+  <ModLoadFolderDefinesUnsupportedGameVersion>TODO</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->
   <DragToReorder>ลากเพื่อเรียงลำดับ</DragToReorder>
-  
+
   <!-- Select scenario -->
   <!-- EN: Choose scenario -->
   <ChooseScenario>เลือกโครงเรื่อง</ChooseScenario>
@@ -316,10 +372,26 @@
   <Randomize>สุ่ม</Randomize>
   <!-- EN: age {0} -->
   <AgeIndicator>อายุ {0}</AgeIndicator>
+  <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummary>TODO</PawnSummary>
+  <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummaryWithGender>TODO</PawnSummaryWithGender>
   <!-- EN: Backstory -->
   <Backstory>ปูมหลัง</Backstory>
   <!-- EN: Incapable of -->
   <IncapableOf>สิ่งที่ทำไม่ได้</IncapableOf>
+  <!-- EN: Abilities -->
+  <Abilities>TODO</Abilities>
+  <!-- EN: Caused by backstory: {0} -->
+  <IncapableOfTooltipBackstory>TODO</IncapableOfTooltipBackstory>
+  <!-- EN: Caused by title: {0} -->
+  <IncapableOfTooltipTitle>TODO</IncapableOfTooltipTitle>
+  <!-- EN: Caused by trait: {0} -->
+  <IncapableOfTooltipTrait>TODO</IncapableOfTooltipTrait>
+  <!-- EN: Caused by: {0} -->
+  <IncapableOfTooltipHediff>TODO</IncapableOfTooltipHediff>
+  <!-- EN: Disabled work types: -->
+  <IncapableOfTooltipWorkTypes>TODO</IncapableOfTooltipWorkTypes>
   <!-- EN: Traits -->
   <Traits>คุณสมบัติ</Traits>
   <!-- EN: Permanent mood effect -->
@@ -386,5 +458,8 @@
   <GeneratingMap>กำลังสร้างแผนที่</GeneratingMap>
   <!-- EN: Generating map for new encounter -->
   <GeneratingMapForNewEncounter>กำลังสร้างแผนทีสำหรับการเผชิญหน้าครั้งใหม่</GeneratingMapForNewEncounter>
+
+  <!-- EN: Click for more info -->
+  <ClickForMoreInfo>TODO</ClickForMoreInfo>
 
 </LanguageData>

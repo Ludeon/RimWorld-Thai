@@ -6,11 +6,7 @@
     <li>physical_description_root->This furniture bears a [depiction] of [image]. [desc_sentence_group]</li>
     <li>physical_description_root->An engraving on this furniture [depicts] [image]. [desc_sentence_group]</li>
   -->
-  <ArtDescription_Furniture.rulePack.rulesStrings>
-    <li>physical_description_root->เฟอร์นิเจอร์หมีแกะสลักด้วย [depiction] ของ [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->เฟอร์นิเจอร์ถือ [depiction] ของ [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->การแกะสลักบนชิ้นส่วนของเฟอร์นิเจอร์ [depicts] ของ [image]. [desc_sentence_group]</li>
-  </ArtDescription_Furniture.rulePack.rulesStrings>
+  <ArtDescription_Furniture.rulePack.rulesStrings>TODO</ArtDescription_Furniture.rulePack.rulesStrings>
   
   <!-- EN:
     <li>physical_description_root->The sarcophagus is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
@@ -18,11 +14,7 @@
     <li>physical_description_root->The sarcophagus is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
     <li>physical_description_root->An engraving on this sarcophagus [depicts] [image]. [desc_sentence_group]</li>
   -->
-  <ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
-    <li>physical_description_root->แผ่นโลงศพ [depicts] ของ [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->โลงศพหมีจาน [depiction] ของ [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->โลงศพเป็นจาน [depiction] ของ [image]. [desc_sentence_group]</li>
-  </ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
+  <ArtDescription_SarcophagusPlate.rulePack.rulesStrings>TODO</ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
   
   <!-- EN:
     <li>physical_description_root->This [sculpture] [depicts] [image]. [desc_sentence_group]</li>
@@ -33,36 +25,20 @@
     <li>sculpture->piece</li>
     <li>sculpture->carving</li>
   -->
-  <ArtDescription_Sculpture.rulePack.rulesStrings>
-    <li>physical_description_root->นี้ [sculpture] [depicts] ของ [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->นี้ [sculpture] การสวมใส่[depiction] ของ [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->เกี่ยวกับเรื่องนี้ [sculpture] ist eine [depiction] ของ [image]. [desc_sentence_group]</li>
-    <li>sculpture->ประติมากรรม</li>
-    <li>sculpture->การทำงาน</li>
-    <li>sculpture->รูปปั้น</li>
-    <li>sculpture->แกะสลัก</li>
-  </ArtDescription_Sculpture.rulePack.rulesStrings>
+  <ArtDescription_Sculpture.rulePack.rulesStrings>TODO</ArtDescription_Sculpture.rulePack.rulesStrings>
   
   <!-- EN:
     <li>physical_description_root->This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
     <li>physical_description_root->This weapon bears a [depiction] of [image]. [desc_sentence_group]</li>
     <li>physical_description_root->An engraving on this weapon [depicts] [image]. [desc_sentence_group]</li>
   -->
-  <ArtDescription_WeaponGun.rulePack.rulesStrings>
-    <li>physical_description_root->อาวุธนี้หมีแกะสลักด้วย [depiction] ของ [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->การแกะสลักบนอาวุธนี้ [depicts] ของ [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->อาวุธนี้ดำเนินการ [depiction] ของ [image]. [desc_sentence_group]</li>
-  </ArtDescription_WeaponGun.rulePack.rulesStrings>
+  <ArtDescription_WeaponGun.rulePack.rulesStrings>TODO</ArtDescription_WeaponGun.rulePack.rulesStrings>
   
   <!-- EN:
     <li>physical_description_root->This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
     <li>physical_description_root->This weapon bears a [depiction] of [image]. [desc_sentence_group]</li>
     <li>physical_description_root->An engraving on this weapon [depicts] [image]. [desc_sentence_group]</li>
   -->
-  <ArtDescription_WeaponMelee.rulePack.rulesStrings>
-    <li>physical_description_root->อาวุธนี้ดำเนินการแกะสลัก [depiction] ของ [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->การแกะสลักบนอาวุธนี้ [depicts] ของ [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->อาวุธนี้ดำเนินการ [depiction] ของ [image]. [desc_sentence_group]</li>
-  </ArtDescription_WeaponMelee.rulePack.rulesStrings>
+  <ArtDescription_WeaponMelee.rulePack.rulesStrings>TODO</ArtDescription_WeaponMelee.rulePack.rulesStrings>
   
 </LanguageData>

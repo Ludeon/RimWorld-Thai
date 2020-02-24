@@ -1,13 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: administer healer mech serum -->
-  <AdministerMechSerumHealer.label>ฉีดซีรั่มกลรักษา</AdministerMechSerumHealer.label>
-  <!-- EN: Administer a healer mech serum. -->
-  <AdministerMechSerumHealer.description>ให้ยาซีรั่มกลรักษา</AdministerMechSerumHealer.description>
-  <!-- EN: Administering healer mech serum. -->
-  <AdministerMechSerumHealer.jobString>กำลังฉีดซีรั่มกลรักษา</AdministerMechSerumHealer.jobString>
-  
   <!-- EN: anesthetize -->
   <Anesthetize.label>ให้ยานอนหลับ</Anesthetize.label>
   <!-- EN: Render a creature unconscious by administering general anesthetic. -->
@@ -21,15 +14,6 @@
   <Euthanize.description>การุณยฆาตสิ่งมีชีวิตให้จบชีวิต ด้วยวิธีการฟัน</Euthanize.description>
   <!-- EN: Euthanizing by cutting. -->
   <Euthanize.jobString>กำลังทำการุณยฆาตด้วยการฟัน</Euthanize.jobString>
-  
-  <!-- EN: excise carcinoma -->
-  <ExciseCarcinoma.label>ตัดก้อนมะเร็ง</ExciseCarcinoma.label>
-  <!-- EN: Excise a carcinoma. -->
-  <ExciseCarcinoma.description>ตัดเอาก้อนมะเร็งออก</ExciseCarcinoma.description>
-  <!-- EN: Excising carcinoma. -->
-  <ExciseCarcinoma.jobString>กำลังผ่าตัดก้อนมะเร็ง</ExciseCarcinoma.jobString>
-  <!-- EN: {0} has successfully excised {1}'s carcinoma. -->
-  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} ได้ตัดก้อนมะเร็งให้กับ {1} เป็นผลสำเร็จ</ExciseCarcinoma.successfullyRemovedHediffMessage>
   
   <!-- EN: remove part -->
   <RemoveBodyPart.label>เอาอวัยวะออก</RemoveBodyPart.label>

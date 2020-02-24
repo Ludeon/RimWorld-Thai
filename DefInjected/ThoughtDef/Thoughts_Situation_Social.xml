@@ -51,6 +51,9 @@
   <!-- EN: hard worker vs lazy -->
   <HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>ปฏิบัติงานที่ยากและขี้เกียจ</HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>
   
+  <!-- EN: holding me prisoner -->
+  <HoldingMePrisoner.stages.holding_me_prisoner.label>TODO</HoldingMePrisoner.stages.holding_me_prisoner.label>
+  
   <!-- EN: incestuous -->
   <Incestuous.stages.incestuous.label>Incestuous</Incestuous.stages.incestuous.label>
   
@@ -77,10 +80,10 @@
   <!-- EN: Being with my lover makes me feel this way. -->
   <OpinionOfMyLover.stages.opinion_of_my.description>การได้อยู่กับคนรักทำให้ฉันรู้สึกแบบนี้</OpinionOfMyLover.stages.opinion_of_my.description>
   
-  <!-- EN: pretty -->
-  <Pretty.stages.pretty.label>น่ารัก</Pretty.stages.pretty.label>
-  <!-- EN: beautiful -->
-  <Pretty.stages.beautiful.label>งดงาม</Pretty.stages.beautiful.label>
+  <!-- EN: physically appealing -->
+  <Pretty.stages.physically_appealing.label>น่ารัก</Pretty.stages.physically_appealing.label>
+  <!-- EN: physically stunning -->
+  <Pretty.stages.physically_stunning.label>งดงาม</Pretty.stages.physically_stunning.label>
   
   <!-- EN: sold prisoner to slavery -->
   <SoldPrisoner.stages.sold_prisoner_to_slavery.label>ขายนักโทษ</SoldPrisoner.stages.sold_prisoner_to_slavery.label>
@@ -102,10 +105,10 @@
   <!-- EN: transhumanist appreciation -->
   <TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>TODO</TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>
   
-  <!-- EN: ugly -->
-  <Ugly.stages.ugly.label>น่าเกลียด</Ugly.stages.ugly.label>
-  <!-- EN: staggeringly ugly -->
-  <Ugly.stages.staggeringly_ugly.label>หน้าตาน่าเกลียด</Ugly.stages.staggeringly_ugly.label>
+  <!-- EN: physically unsightly -->
+  <Ugly.stages.physically_unsightly.label>ไม่น่าดู</Ugly.stages.physically_unsightly.label>
+  <!-- EN: physically hideous -->
+  <Ugly.stages.physically_hideous.label>น่าเกลียด</Ugly.stages.physically_hideous.label>
   
   <!-- EN: want to sleep with {0} -->
   <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>ต้องการที่จะนอนกับ {0}</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>

@@ -1,18 +1,31 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: bite -->
   <Bite.label>กัด</Bite.label>
   
+  <!-- EN: blunt -->
   <Blunt.label>กระแทก</Blunt.label>
   
+  <!-- EN: cut -->
   <Cut.label>ฟัน</Cut.label>
   
+  <!-- EN: kick material in eyes -->
+  <KickMaterialInEyes.label>TODO</KickMaterialInEyes.label>
+  
+  <!-- EN: poke -->
   <Poke.label>กระทุ้ง</Poke.label>
   
+  <!-- EN: scratch -->
   <Scratch.label>ตะกุย</Scratch.label>
   
+  <!-- EN: toxic scratch -->
+  <ScratchToxic.label>TODO</ScratchToxic.label>
+  
+  <!-- EN: stab -->
   <Stab.label>แทง</Stab.label>
   
+  <!-- EN: toxic bite -->
   <ToxicBite.label>เขี้ยวพิษ</ToxicBite.label>
   
 </LanguageData>

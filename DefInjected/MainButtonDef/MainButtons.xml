@@ -34,6 +34,11 @@
   <!-- EN: Change options, save, load, or quit the game. -->
   <Menu.description>ปรับตัวเลือก เซฟเกม โหลดเกม หรือออกจากเกม</Menu.description>
   
+  <!-- EN: quests -->
+  <Quests.label>TODO</Quests.label>
+  <!-- EN: View available, active, and historical quests. -->
+  <Quests.description>TODO</Quests.description>
+  
   <!-- EN: research -->
   <Research.label>ค้นคว้าวิจัย</Research.label>
   <!-- EN: Examine and decide on research projects. -->

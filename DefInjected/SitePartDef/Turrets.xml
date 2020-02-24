@@ -7,7 +7,5 @@
   <Turrets.description>กลุ่มป้อมปืน</Turrets.description>
   <!-- EN: There are enemy turrets in this area. -->
   <Turrets.arrivedLetter>มีป้อมปืนศัตรูในบริเวณนี้</Turrets.arrivedLetter>
-  <!-- EN: {0} defend the site -->
-  <Turrets.descriptionDialogue>{0} ป้องกันสถานที่นี้</Turrets.descriptionDialogue>
   
 </LanguageData>

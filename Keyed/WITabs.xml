@@ -18,9 +18,9 @@
   <TabCaravanItems>ไอเท็ม</TabCaravanItems>
   
   <!-- Misc -->
-  <!-- EN: Abandon {{0}}x {1_labelShort} -->
+  <!-- EN: Abandon {{0}}x {0} -->
   <AbandonSliderText>ทิ้ง {{0}}x {1_labelShort}</AbandonSliderText>
-  <!-- EN: Do you really want to abandon {1_label}?\n\nAbandoned items vanish and can never be recovered. -->
+  <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
   <ConfirmAbandonItemDialog>คุณจะแน่ใจจริงๆว่าจะทิ้ง {1_label}?\n\nไอเท็มที่ทิ้งจะหายไป และไม่สามารถเอากลับคืนมาได้</ConfirmAbandonItemDialog>
   <!-- EN: Abandon -->
   <AbandonTip>ทิ้ง</AbandonTip>
@@ -46,7 +46,7 @@
   <OpenSpecificTabButtonTip>คลิกเปิดแท็บที่ให้ข้อมูลรายละเอียด</OpenSpecificTabButtonTip>
   <!-- EN: Prisoners -->
   <CaravanPrisoners>นักโทษ</CaravanPrisoners>
-  <!-- EN: Inventory -->
+  <!-- EN: Equippable items -->
   <CaravanWeaponsAndApparel>รายการไอเท็ม</CaravanWeaponsAndApparel>
   <!-- EN: None capable -->
   <NoneCapable>ไม่มีผู้ที่สามารถทำได้</NoneCapable>

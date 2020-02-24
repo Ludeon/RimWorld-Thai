@@ -22,14 +22,30 @@
   <EmergencyWorkMarker>ฉ</EmergencyWorkMarker>
   <!-- EN: Warning: The average of relevant skills is very low. -->
   <SelectedWorkTypeWithVeryBadSkill>คำเตือน: ทักษะที่เกี่ยวข้องโดยเฉลี่ยต่ำมาก</SelectedWorkTypeWithVeryBadSkill>
+  <!-- EN: Priority 1 is done first. Priority 4 is done last. -->
+  <PriorityOneDoneFirst>TODO</PriorityOneDoneFirst>
+  <!-- EN: Will not do -->
+  <Priority0>TODO</Priority0>
+  <!-- EN: Top priority -->
+  <Priority1>TODO</Priority1>
+  <!-- EN: High priority -->
+  <Priority2>TODO</Priority2>
+  <!-- EN: Normal priority -->
+  <Priority3>TODO</Priority3>
+  <!-- EN: Low priority -->
+  <Priority4>TODO</Priority4>
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
   <ManageOutfits>จัดการชุดเครื่องแต่งกาย</ManageOutfits>
+  <!-- EN: Unchangeable -->
+  <Unchangeable>TODO</Unchangeable>
   <!-- EN: Clr. forced -->
   <ClearForcedApparel>เคลียร์การบังคับ</ClearForcedApparel>
   <!-- EN: forced -->
   <ApparelForcedLower>ถูกบังคับ</ApparelForcedLower>
+  <!-- EN: locked -->
+  <ApparelLockedLower>TODO</ApparelLockedLower>
   <!-- EN: Forced apparel -->
   <ForcedApparel>เครื่องแต่งกายที่ถูกบังคับใส่</ForcedApparel>
   <!-- EN: Edit... -->
@@ -58,6 +74,8 @@
   <!-- Wildlife tab -->
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
   <IsPredator>สิ่งมีชีวิตนี้นับเป็นผู้ล่า เมื่อหิวโหยมันจะออกล่าสิ่งมีชีวิตเล็กกว่า - นั่นรวมถึงคน</IsPredator>
+  <!-- EN: This creature is currently in mental state: {0} -->
+  <IsInMentalState>TODO</IsInMentalState>
   
   <!-- Factions tab -->
   <!-- EN: Hostile -->
@@ -68,6 +86,8 @@
   <DefeatedLower>พ่ายแพ้ให้</DefeatedLower>
   <!-- EN: Enemy of {0} -->
   <HostileTo>เป็นศัตรูกับ {0}</HostileTo>
+  <!-- EN: Enemy of:  -->
+  <EnemyOf>TODO</EnemyOf>
   <!-- EN: Current goodwill and relations status with this faction. -->
   <CurrentGoodwillTip>ความนิยมและสถานะความสัมพันธ์ในปัจจุบันของฝ่ายนี้</CurrentGoodwillTip>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
@@ -148,13 +168,106 @@
   <ColonistsLaunched>ชาวนิคมที่ถูกส่งขึ้นอวกาศ</ColonistsLaunched>
 
   <!-- Research tab -->
-  <!-- EN: project tech level -->
-  <ProjectTechLevel>ระดับเทคโนโลยีของโครงการ</ProjectTechLevel>
-  <!-- EN: your tech level -->
-  <YourTechLevel>ระดับเทคโนโลยีของคุณ</YourTechLevel>
-  <!-- EN: cost multiplier -->
-  <ResearchCostMultiplier>ตัวคูณค่าใช้จ่าย</ResearchCostMultiplier>
+  <!-- EN: Research -->
+  <Research>วิจัย</Research>
+  <!-- EN: Researched -->
+  <Researched>วิจัยเสร็จ</Researched>
+  <!-- EN: Unresearched -->
+  <Unresearched>ยังไม่ได้วิจัย</Unresearched>
+  <!-- EN: Finished -->
+  <Finished>วิจัยแล้ว</Finished>
+  <!-- EN: In Progress -->
+  <InProgress>กำลังวิจัย</InProgress>
+  <!-- EN: Locked -->
+  <Locked>ล็อก</Locked>
+  <!-- EN: Research prerequisites -->
+  <ResearchPrerequisites>ต้องการการวิจัย</ResearchPrerequisites>
+  <!-- EN: Techprints required {0} / {1} -->
+  <ResearchTechprintRequirement>TODO</ResearchTechprintRequirement>
+  <!-- EN: Insufficient techprints applied ({0} / {1}) -->
+  <InsufficientTechprintsApplied>TODO</InsufficientTechprintsApplied>
+  <!-- EN: Prerequisite(s) not completed -->
+  <PrerequisitesNotCompleted>TODO</PrerequisitesNotCompleted>
+  <!-- EN: Required research bench -->
+  <RequiredResearchBench>ต้องการโต๊ะวิจัย</RequiredResearchBench>
+  <!-- EN: Required research bench facilities -->
+  <RequiredResearchBenchFacilities>ต้องการสิ่งอำนวยความสะดวกให้โต๊ะวิจัย</RequiredResearchBenchFacilities>
   <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
   <ResearchCostComparison>ต้นทุนโครงการ {0} กลายเป็น {1} สำหรับคุณ เนื่องจากระดับเทคโนโลยีของคุณตอนนี้</ResearchCostComparison>
+  <!-- EN: Techprints are available from these factions via trade and quests: -->
+  <ResearchTechprintsFromFactions>TODO</ResearchTechprintsFromFactions>
+  <!-- EN: Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}. -->
+  <TechLevelTooLow>TODO</TechLevelTooLow>
+
+  <!-- Quests tab -->
+  <!-- EN: Available -->
+  <AvailableQuests>TODO</AvailableQuests>
+  <!-- EN: Active -->
+  <ActiveQuests>TODO</ActiveQuests>
+  <!-- EN: Historical -->
+  <HistoricalQuests>TODO</HistoricalQuests>
+  <!-- EN: no quest selected -->
+  <NoQuestSelected>TODO</NoQuestSelected>
+  <!-- EN: Appeared {0} days ago -->
+  <AppearedDaysAgo>TODO</AppearedDaysAgo>
+  <!-- EN: Appeared on {0} -->
+  <AppearedOn>TODO</AppearedOn>
+  <!-- EN: Accepted {0} ago -->
+  <AcceptedAgo>TODO</AcceptedAgo>
+  <!-- EN: Accepted on {0} -->
+  <AcceptedOn>TODO</AcceptedOn>
+  <!-- EN: Accepted {0} ago by {1} -->
+  <AcceptedAgoBy>TODO</AcceptedAgoBy>
+  <!-- EN: Accepted on {0} by {1} -->
+  <AcceptedOnBy>TODO</AcceptedOnBy>
+  <!-- EN: Expires in {0} -->
+  <QuestExpiresIn>TODO</QuestExpiresIn>
+  <!-- EN: Expires on {0} -->
+  <QuestExpiresOn>TODO</QuestExpiresOn>
+  <!-- EN: Shuttle arrives in {0} -->
+  <ShuttleArrivesIn>TODO</ShuttleArrivesIn>
+  <!-- EN: Shuttle arrives on {0} -->
+  <ShuttleArrivesOn>TODO</ShuttleArrivesOn>
+  <!-- EN: Shuttle departs in {0} -->
+  <ShuttleDepartsIn>TODO</ShuttleDepartsIn>
+  <!-- EN: Shuttle departs on {0} -->
+  <ShuttleDepartsOn>TODO</ShuttleDepartsOn>
+  <!-- EN: Finished {0} ago -->
+  <QuestFinishedAgo>TODO</QuestFinishedAgo>
+  <!-- EN: Accept quest -->
+  <AcceptQuest>TODO</AcceptQuest>
+  <!-- EN: Accept with {0_labelShort} -->
+  <AcceptWith>TODO</AcceptWith>
+  <!-- EN: The offer expired. -->
+  <QuestOutcomeInfo_OfferExpired>TODO</QuestOutcomeInfo_OfferExpired>
+  <!-- EN: You completed this quest. -->
+  <QuestOutcomeInfo_UnknownOrSuccess>TODO</QuestOutcomeInfo_UnknownOrSuccess>
+  <!-- EN: You failed this quest. -->
+  <QuestOutcomeInfo_Failed>TODO</QuestOutcomeInfo_Failed>
+  <!-- EN: Jump to {0} -->
+  <JumpToTargetCustom>TODO</JumpToTargetCustom>
+  <!-- EN: Challenge rating. This is a general rating for how difficult the quest will be relative to your current strength. More challenging quests give greater rewards.\n\n1: Normal\n2: Hard\n3: Extreme\n4: Ultimate -->
+  <QuestChallengeRatingTip>TODO</QuestChallengeRatingTip>
+  <!-- EN: To accept this quest, you need -->
+  <QuestAcceptanceRequirementsDescription>TODO</QuestAcceptanceRequirementsDescription>
+  <!-- EN: free bedrooms that satisfy the title requirements of -->
+  <QuestBedroomRequirementsUnsatisfied>TODO</QuestBedroomRequirementsUnsatisfied>
+  <!-- EN: a free bedroom that satisfies the title requirements of -->
+  <QuestBedroomRequirementsUnsatisfiedSingle>TODO</QuestBedroomRequirementsUnsatisfiedSingle>
+  <!-- EN: a colonist with the title of {0}. -->
+  <QuestNoColonistWithTitle>TODO</QuestNoColonistWithTitle>
+  <!-- EN: Accept {FACTION_royalFavorLabel} -->
+  <AcceptRoyalFavor>TODO</AcceptRoyalFavor>
+  <!-- EN: Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests. -->
+  <AcceptRoyalFavorDesc>TODO</AcceptRoyalFavorDesc>
+  <!-- EN: You are currently opting in to receive {FACTION_royalFavorLabel}. -->
+  <RoyalFavorOn>TODO</RoyalFavorOn>
+  <!-- EN: You are currently opting out of receiving {FACTION_royalFavorLabel}. -->
+  <RoyalFavorOff>TODO</RoyalFavorOff>
   
+  <!-- UNUSED -->
+  <ProjectTechLevel>ระดับเทคโนโลยีของโครงการ</ProjectTechLevel>
+  <YourTechLevel>ระดับเทคโนโลยีของคุณ</YourTechLevel>
+  <ResearchCostMultiplier>ตัวคูณค่าใช้จ่าย</ResearchCostMultiplier>
+
 </LanguageData>

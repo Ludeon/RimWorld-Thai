@@ -196,10 +196,12 @@
   <IdenticalThingExists>มีสิ่งที่เหมือนกัน วางอยู่ตรงนี้แล้ว</IdenticalThingExists>
   <!-- EN: Identical blueprint already exists here. -->
   <IdenticalBlueprintExists>มีพิมพ์เขียวที่เหมือนกัน วางอยู่ตรงนี้แล้ว</IdenticalBlueprintExists>
-  <!-- EN: The terrain here cannot support this. -->
+  <!-- EN: {0_label} cannot be built on this terrain. -->
   <TerrainCannotSupport>ภูมิประเทศตรงนี้ ไม่สามารถรองรับสิ่งนี้ได้</TerrainCannotSupport>
-  <!-- EN: {0_label} requires terrain that can support: {1_label} -->
+  <!-- EN: {0_label} requires terrain that supports: {1_label} -->
   <TerrainCannotSupport_TerrainAffordance>{0_label}ต้องอยู่ในภูมิประเทศที่รองรับ: {1_label}</TerrainCannotSupport_TerrainAffordance>
+  <!-- EN: {0_label} (when made of {2_label}) requires terrain that supports: {1_label} -->
+  <TerrainCannotSupport_TerrainAffordanceFromStuff>TODO</TerrainCannotSupport_TerrainAffordanceFromStuff>
   <!-- EN: Space already occupied. -->
   <SpaceAlreadyOccupied>ที่ว่างถูกครอบครองไปแล้ว</SpaceAlreadyOccupied>
   <!-- EN: Space being smoothed. -->
@@ -208,6 +210,12 @@
   <TerrainMustBeRemovable>ต้องระบุพื้น ที่สามารถลบออกได้</TerrainMustBeRemovable>
   <!-- EN: The waterwheel must be on moving water. -->
   <MustBeOnMovingWater>กังหันน้ำ ต้องอยู่ในน้ำไหล</MustBeOnMovingWater>
+  <!-- EN: Interaction spot will overlap with the interaction spot of {1_labelShort}. -->
+  <InteractionSpotWillOverlap>TODO</InteractionSpotWillOverlap>
+  <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
+  <InteractionSpotOverlaps>TODO</InteractionSpotOverlaps>
+  <!-- EN: Monument markers can't be placed directly adjacent to any building. -->
+  <MonumentAdjacentToBuilding>TODO</MonumentAdjacentToBuilding>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
@@ -219,10 +227,14 @@
   <!-- EN: Transmits power -->
   <TransmitsPower>กำลังส่งผ่านพลังงาน</TransmitsPower>
   <!-- EN: Construction needed -->
-  <ConstructionNeeded>การก่อสร้างจำเป็น</ConstructionNeeded>
+  <ConstructionNeeded>ทักษะก่อสร้างจำเป็น</ConstructionNeeded>
   <!-- EN: None of your {0} have this skill. -->
-  <NoColonistWithConstructionSkillTip>ไม่มีใครใน {0} ของคุณมีทักษะนี้</NoColonistWithConstructionSkillTip>
+  <NoColonistWithSkillTip>ไม่มีใครใน {0} ของคุณมีทักษะนี้</NoColonistWithSkillTip>
+  <!-- EN: {0} needed -->
+  <SkillNeededForConstructing>TODO</SkillNeededForConstructing>
+  <!-- EN: None of your {0} have all skills required. -->
+  <NoColonistWithAllSkillsForConstructing>TODO</NoColonistWithAllSkillsForConstructing>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
-  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>{0} ทั้งหมดของคุณที่มีทักษะนี้ ไม่ได้รับกำหนดให้ {1}</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
+  <AllColonistsWithSkillHaveDisabledConstructingTip>{0} ทั้งหมดของคุณที่มีทักษะนี้ ไม่ได้รับกำหนดให้ {1}</AllColonistsWithSkillHaveDisabledConstructingTip>
 
 </LanguageData>

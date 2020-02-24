@@ -82,7 +82,7 @@
   <Jailbreaker.label>ชักนำให้นักโทษหนี</Jailbreaker.label>
   <!-- EN: Mental state: Jailbreaker -->
   <Jailbreaker.baseInspectLine>สภาพจิตใจ: แหกคุก</Jailbreaker.baseInspectLine>
-  <!-- EN: {0} has a mental breakdown and is going to induce prisoners to escape. -->
+  <!-- EN: {0} has had a mental breakdown and is going to induce prisoners to escape. -->
   <Jailbreaker.beginLetter>{0} จิตใจพังทลายลง และเริ่มพยายามชักนำให้นักโทษคนอื่นๆแหกคุก</Jailbreaker.beginLetter>
   <!-- EN: jailbreaker -->
   <Jailbreaker.beginLetterLabel>แหกคุก</Jailbreaker.beginLetterLabel>
@@ -111,7 +111,7 @@
   <Slaughterer.label>เพชฌฆาต</Slaughterer.label>
   <!-- EN: Mental state: Slaughterer -->
   <Slaughterer.baseInspectLine>สภาพจิตใจ: เพชฌฆาต</Slaughterer.baseInspectLine>
-  <!-- EN: {0} has a mental breakdown and is going to vent [PAWN_possessive] anger on your animals. -->
+  <!-- EN: {0} has had a mental breakdown and is going to vent [PAWN_possessive] anger on your animals. -->
   <Slaughterer.beginLetter>{0} จิตใจพังทลายลง และเริ่มระบายความโกรธ{PAWN_possessive}กับสัตว์เลี้ยง</Slaughterer.beginLetter>
   <!-- EN: {0} is no longer slaughtering random animals. -->
   <Slaughterer.recoveryMessage>{0} ไม่ฆ่าสัตว์สุ่มๆอีกต่อไป</Slaughterer.recoveryMessage>
@@ -164,6 +164,17 @@
   <Wander_Psychotic.beginLetterLabel>งุนงง</Wander_Psychotic.beginLetterLabel>
   <!-- EN: {0} is no longer wandering in a psychotic state. -->
   <Wander_Psychotic.recoveryMessage>{0} เลิกบ้าเดินเตร่ไปมา</Wander_Psychotic.recoveryMessage>
+  
+  <!-- EN: wandering in psychosis -->
+  <Wander_Psychotic_Short.label>TODO</Wander_Psychotic_Short.label>
+  <!-- EN: Mental state: Psychotic wandering -->
+  <Wander_Psychotic_Short.baseInspectLine>TODO</Wander_Psychotic_Short.baseInspectLine>
+  <!-- EN: {0} is wandering around in a psychotic state. -->
+  <Wander_Psychotic_Short.beginLetter>TODO</Wander_Psychotic_Short.beginLetter>
+  <!-- EN: daze -->
+  <Wander_Psychotic_Short.beginLetterLabel>TODO</Wander_Psychotic_Short.beginLetterLabel>
+  <!-- EN: {0} is no longer wandering in a psychotic state. -->
+  <Wander_Psychotic_Short.recoveryMessage>TODO</Wander_Psychotic_Short.recoveryMessage>
   
   <!-- EN: sad wandering -->
   <Wander_Sad.label>เศร้าเดินเตร่</Wander_Sad.label>

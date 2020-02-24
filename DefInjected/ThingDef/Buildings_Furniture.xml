@@ -39,7 +39,7 @@
   <!-- EN: dining chair -->
   <DiningChair.label>เก้าอี้</DiningChair.label>
   <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
-  <DiningChair.description>TODO</DiningChair.description>
+  <DiningChair.description>เก้าอี้สวยงาม นั่งสบาย สามารถใช้ที่โต๊ะ โต๊ะทำงาน หรือที่อื่นๆ</DiningChair.description>
   
   <!-- EN: double bed -->
   <DoubleBed.label>เตียงคู่</DoubleBed.label>
@@ -78,7 +78,7 @@
   
   <!-- EN: shelf -->
   <Shelf.label>ชั้นวางของ</Shelf.label>
-  <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not deteriorate, even if outside. -->
+  <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. -->
   <Shelf.description>TODO</Shelf.description>
   
   <!-- EN: sleeping spot -->

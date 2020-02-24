@@ -230,7 +230,6 @@
     <li>artextra_clause->a [PAWN_adj] [PersonJob] watches over all while [emotional_expression]</li>
     <li>artextra_clause->the head of a [PAWN_adj] [PersonJob] watches over all</li>
     <li>artextra_clause->the whole image is depicted by the careful arrangement of [subimageplural]</li>
-    <li>artextra_clause->[subimagesingle] [side_position] [symbolizes] [ConceptAny]</li>
     <li>subimageany->[subimagesingle]</li>
     <li>subimageany->[subimageplural]</li>
     <li>subimagesingle(p=4)->a [Character]</li>
@@ -287,6 +286,7 @@
     <li>side_position->beneath the main subject</li>
     <li>side_position->behind the focal point</li>
     <li>style_clause(p=4)->the work [symbolizes] [ConceptAny]</li>
+    <li>artextra_clause->[subimagesingle] [side_position] [symbolizes] [ConceptAny]</li>
     <li>style_clause->the work is infused with the idea of [ConceptAny] and is done in a [artstyle_adj] style</li>
     <li>style_clause->the work is executed in a [artstyle_adj] style</li>
     <li>style_clause->the [artstyle_adj] style of the central scene clashes with the [artstyle_adj] depiction of the background</li>
@@ -297,7 +297,7 @@
     <li>style_clause->the image contrasts [ConceptAny] with [ConceptAny]</li>
     <li>style_clause->the [composition] structure of the image almost conflicts with its [artstyle_adj] style</li>
     <li>style_clause->the work is shaded in hues of [Color] and [Color]</li>
-    <li>style_clause->เกือบทุกรูปทรงในภาพนี้เต็มไปด้วย[composition]</li>
+    <li>style_clause->almost every shape in the image seems to be [composition]</li>
     <li>symbolizes->symbolizes</li>
     <li>symbolizes->seems to symbolize</li>
     <li>symbolizes->represents</li>
@@ -330,7 +330,45 @@
     <li>composition->สเตติก</li>
     <li>composition->แนวตั้ง</li>
     <li>composition->แนวนอน</li>
-    <li>composition->focused</li>
+    <li>composition->เจาะจง</li>
+    <li>artstyle_adj->unoriginal</li>
+    <li>artstyle_adj->simple</li>
+    <li>artstyle_adj->complex and realistic</li>
+    <li>artstyle_adj->surrealistic</li>
+    <li>artstyle_adj->classical</li>
+    <li>artstyle_adj->modern</li>
+    <li>artstyle_adj->symbolic</li>
+    <li>artstyle_adj->amateurish yet attractive</li>
+    <li>artstyle_adj->detail-oriented</li>
+    <li>artstyle_adj->blocky</li>
+    <li>artstyle_adj->cubist</li>
+    <li>artstyle_adj->impressionistic</li>
+    <li>artstyle_adj->expressionistic</li>
+    <li>artstyle_adj->photographic</li>
+    <li>artstyle_adj->baroque</li>
+    <li>artstyle_adj->dadaist</li>
+    <li>artstyle_adj->glitch-art</li>
+    <li>artstyle_adj->pixelated</li>
+    <li>artstyle_adj->fauvist</li>
+    <li>artstyle_adj->folksy</li>
+    <li>artstyle_adj->figurative</li>
+    <li>artstyle_adj->sinuous</li>
+    <li>artstyle_adj->geometric</li>
+    <li>artstyle_adj->abstract</li>
+    <li>artstyle_adj->hyper-realistic</li>
+    <li>artstyle_adj->pop art</li>
+    <li>artstyle_adj->minimalistic</li>
+    <li>artstyle_adj->neoclassical</li>
+    <li>artstyle_adj->cel-shaded</li>
+    <li>artstyle_adj->post-impressionistic</li>
+    <li>artstyle_adj->purist</li>
+    <li>artstyle_adj->rococo</li>
+    <li>artstyle_adj->romanesque</li>
+    <li>artstyle_adj->romantic</li>
+    <li>artstyle_adj->graffiti-like</li>
+    <li>artstyle_adj->erotic</li>
+    <li>artstyle_adj->sensual</li>
+    <li>artstyle_adj->heartfelt</li>
   </ArtDescriptionUtility_Global.rulePack.rulesStrings>
   
 </LanguageData>

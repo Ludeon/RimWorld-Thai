@@ -16,7 +16,7 @@
   <Fox_Fennec.label>จิ้งจอกทะเลทราย</Fox_Fennec.label>
   <!-- EN: A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat. -->
   <Fox_Fennec.description>จิ้งจอกขนาดเล็ก มีต้นกำเนิดมาจากส่วนเหนือของทวีปแอฟริกาบนโลก มันล่าสัตว์เล็กเป็นอาหาร มีใบหูขนาดใหม่เพื่อทำตัวเองให้เย็นลงภายใต้ความร้อน</Fox_Fennec.description>
-  <!-- EN: foxmeat -->
+  <!-- EN: fox meat -->
   <Fox_Fennec.race.meatLabel>เนื้อจิ้งจอก</Fox_Fennec.race.meatLabel>
   <!-- EN: left claw -->
   <Fox_Fennec.tools.left_claw.label>กรงเล็บซ้าย</Fox_Fennec.tools.left_claw.label>
@@ -64,7 +64,7 @@
   <Wolf_Timber.label>หมาป่า</Wolf_Timber.label>
   <!-- EN: A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent. -->
   <Wolf_Timber.description>นักล่าทรหด เป็นที่หวาดกลัวในหลายๆอารยธรรมโบราณบนโลก ในสถานะฝูงนักล่า หมาป่ามีสภาพสังคมที่ซับซ้อนและฉลาดอย่างน่ากลัว</Wolf_Timber.description>
-  <!-- EN: wolfmeat -->
+  <!-- EN: wolf meat -->
   <Wolf_Timber.race.meatLabel>เนื้อหมาป่า</Wolf_Timber.race.meatLabel>
   <!-- EN: left claw -->
   <Wolf_Timber.tools.left_claw.label>กรงเล็บซ้าย</Wolf_Timber.tools.left_claw.label>

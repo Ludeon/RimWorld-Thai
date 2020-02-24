@@ -11,7 +11,5 @@
   <Outpost.approachOrderString>โจมตี {0}</Outpost.approachOrderString>
   <!-- EN: There is an enemy outpost in this area. -->
   <Outpost.arrivedLetter>มีด่านของศัตรูอยู่ในบริเวณนี้</Outpost.arrivedLetter>
-  <!-- EN: there is an enemy outpost at the site guarded by {0} enemies -->
-  <Outpost.descriptionDialogue>มีด่านของศัตรูอยู่สถานที่นี้ ป้องกันด้วยศัตรู {0} คน</Outpost.descriptionDialogue>
   
 </LanguageData>

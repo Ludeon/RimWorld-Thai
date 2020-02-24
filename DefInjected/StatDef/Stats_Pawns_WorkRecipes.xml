@@ -3,7 +3,7 @@
   
   <!-- EN: butchery efficiency -->
   <ButcheryFleshEfficiency.label>ประสิทธิภาพในการแล่เนื้อ</ButcheryFleshEfficiency.label>
-  <!-- EN: The amount of meat produced when butchering flesh creatures. The actual amount is also related to the creature's size. -->
+  <!-- EN: The amount of meat produced when butchering flesh creatures.\n\nThe actual amount is also related to the creature's size. -->
   <ButcheryFleshEfficiency.description>ปริมาณเนื้อที่จะได้ เมื่อแล่สิ่งมีชีวิตมีเนื้อ จำนวนจริงๆขึ้นกับขนาดตัวของสิ่งมีชีวิต</ButcheryFleshEfficiency.description>
   
   <!-- EN: butchery speed -->
@@ -13,7 +13,7 @@
   
   <!-- EN: mechanoid disassembly efficiency -->
   <ButcheryMechanoidEfficiency.label>ประสิทธิภาพในการรื้อเมคานอยด์</ButcheryMechanoidEfficiency.label>
-  <!-- EN: The amount of materials yielded when this person disassembles a dead mechanoid. The actual amount is also related to the mechanoid's size. -->
+  <!-- EN: The amount of materials yielded when this person disassembles a dead mechanoid.\n\nThe actual amount is also related to the mechanoid's size. -->
   <ButcheryMechanoidEfficiency.description>ปริมาณทรัพยากรที่จะได้เมื่อบุคคลนี้รื้อซากเมคานอยด์ จำนวนจริงๆขึ้นกับขนาดตัวของเมคานอยด์</ButcheryMechanoidEfficiency.description>
   
   <!-- EN: mechanoid disassembly speed -->
@@ -38,32 +38,19 @@
   
   <!-- EN: food poison chance -->
   <FoodPoisonChance.label>โอกาสอาหารเป็นพิษ</FoodPoisonChance.label>
-  <!-- EN: The probability that this character will inadvertently poison a meal they cook. Food poison temporarily debilitates anyone it strikes. -->
+  <!-- EN: The probability that this character will inadvertently poison a meal they cook.\n\nAnyone who eats a food-poisoned meal will be temporarily debilitated with pain, weakness, and vomiting. -->
   <FoodPoisonChance.description>ความเป็นไปได้ซึ่งตัวละครนี้จะทำอาหารให้เป็นพิษโดยไม่เจตนา อาหารเป็นพิษจะทำให้คนที่กินอ่อนแอลงชั่วคราว</FoodPoisonChance.description>
+  <!-- EN: food poison chance (chance to poison a meal) -->
+  <FoodPoisonChance.labelForFullStatList>TODO</FoodPoisonChance.labelForFullStatList>
   
-  <!-- EN: sculpting speed -->
-  <SculptingSpeed.label>ความเร็วในการแกะสลัก</SculptingSpeed.label>
-  <!-- EN: The speed at which this person creates sculptures.\n\nThis stat only affects how fast sculptures are produced, not their quality. Quality is determined by the sculptor's artistic skill. -->
-  <SculptingSpeed.description>ความเร็วที่บุคคลนี้สร้างประติมากรรม\n\nค่านี้มีผลกับว่าประติมากรรมทำได้เร็วแค่ไหน ไม่เกี่ยวกับคุณภาพที่ทำ, คุณภาพจะขึ้นอยู่กับทักษะศิลปะของประติมากร</SculptingSpeed.description>
+  <!-- EN: general labor speed -->
+  <GeneralLaborSpeed.label>ความเร็วในการทำงานทั่วไป</GeneralLaborSpeed.label>
+  <!-- EN: The speed at which this person carries out general labor like making stone blocks, making chemfuel at a refinery, burning items, tailoring clothes, creating art, smithing armor and weapons or smelting slag. This stat applies both to activities that involve no skill, as well as those where the skill affects the quality of the product instead of the speed of production. -->
+  <GeneralLaborSpeed.description>ความเร็วที่บุคคลนี้ทำงานทั่วๆไป เช่น ทำบล็อกหิน สร้างเชื้อเพลิงเคมีที่โรง เผาไอเท็ม ตัดเย็บเสื้อผ้า สร้างสรรศิลปะ สร้างชุดเกราะ อาวุธ หรือหลอมสเล็ก เป็นต้น ค่านี้มีผลกับกิจกรรมทั้งที่แบบไม่ต้องใช้ทักษะ และกับทักษะที่ส่งผลกระทบต่อคุณภาพของผลิตภัณฑ์โดยตรง แทนที่ความเร็วในการผลิต</GeneralLaborSpeed.description>
   
   <!-- EN: smelting speed -->
   <SmeltingSpeed.label>ความเร็วในการหลอม</SmeltingSpeed.label>
   <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
   <SmeltingSpeed.description>ความเร็วที่บุคคลนี้หลอมสิ่งของ\n\nในเมื่อการหลอมถือเป็นงานกรรมกร ความเร็วในการหลอมจะไม่ได้รับผลกระทบจากทักษะใดๆ</SmeltingSpeed.description>
-  
-  <!-- EN: smithing speed -->
-  <SmithingSpeed.label>ความเร็วในการตีเหล็ก</SmithingSpeed.label>
-  <!-- EN: Speed at which this person crafts weapons, machinery, and ammunition.\n\nThis stat only affects how fast items are produced, not their quality. Quality is determined by the crafter's skill. -->
-  <SmithingSpeed.description>ความเร็วที่บุคคลนี้สร้างอาวุธ เครื่องจักร และกระสุน\n\nค่านี้มีผลกระทบต่อแค่ว่าสร้างอาวุธได้เร็วแค่ไหน ไม่เกี่ยวกับคุณภาพที่ทำ, คุณภาพขึ้นอยู่กับทักษะของผู้ทำ</SmithingSpeed.description>
-  
-  <!-- EN: tailoring speed -->
-  <TailoringSpeed.label>ความเร็วในการตัดเย็บ</TailoringSpeed.label>
-  <!-- EN: The speed at which this person makes clothes.\n\nThis stat only affects how fast clothes are produced, not their quality. Quality is determined by the tailor's crafting skill. -->
-  <TailoringSpeed.description>ความเร็วที่บุคคลนี้ตัดเย็บเสื้อผ้า\n\nค่านี้มีผลกระทบต่อแค่ว่าทำเสื้อผ้าได้เร็วแค่ไหน ไม่เกี่ยวกับคุณภาพที่ทำ, คุณภาพขึ้นอยู่กับทักษะของผู้ทำ</TailoringSpeed.description>
-  
-  <!-- EN: unskilled labor speed -->
-  <UnskilledLaborSpeed.label>ความเร็วในการทำงานกรรมกร</UnskilledLaborSpeed.label>
-  <!-- EN: The speed at which this person carries out unskilled labor like making stone blocks, making chemfuel at a refinery or burning items. -->
-  <UnskilledLaborSpeed.description>ความเร็วที่บุคคลนี้ทำงานที่ไม่ได้ใช้ทักษะ เช่น ตัดบล็อกหิน สร้างเชื้อเพลิงเคมีที่โรง หรือเผาไอเท็ม</UnskilledLaborSpeed.description>
   
 </LanguageData>

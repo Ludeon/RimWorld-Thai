@@ -3,7 +3,7 @@
   
   <!-- EN: beauty -->
   <Beauty.label>ความสวยงาม</Beauty.label>
-  <!-- EN: How enjoyable an object is to look at. Beautiful objects fulfill characters' need for beauty. -->
+  <!-- EN: How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty. -->
   <Beauty.description>วัตถุเพลิดเพลินตาน่ามองขนาดไหน วัตถุที่สวยงามเติมเต็มความต้องการ 'ความสวยงาม' ของตัวละคร</Beauty.description>
   
   <!-- EN: cleanliness -->
@@ -13,12 +13,12 @@
   
   <!-- EN: comfort -->
   <Comfort.label>ความสะดวกสบาย</Comfort.label>
-  <!-- EN: How comfortable an object is to sit or lay on. Using comfortable objects fulfills a character's need for comfort. -->
+  <!-- EN: How comfortable an object is to sit or lay on.\n\nUsing comfortable objects fulfills a character's need for comfort. -->
   <Comfort.description>วัตถุนั้นสะดวกสบายขนาดไหนเมื่อนั่งหรือนอนทับ การใช้วัตถุที่สะดวกสบายเติมเต็มความต้องการ 'ความสบาย' ของตัวละคร</Comfort.description>
   
   <!-- EN: deterioration rate -->
   <DeteriorationRate.label>อัตราเสื่อมสภาพ</DeteriorationRate.label>
-  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points of damage per day. Deterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
+  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points of damage per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
   <DeteriorationRate.description>อัตราว่าไอเท็มนี้เสื่อมสภาพขนาดไหนเมื่อทิ้งไว้กลางแจ้ง เป็นค่าเฉลี่ย HP ของความเสียหายต่อวัน อัตราเสื่อมสภาพยังได้รับผลกระทบจากพวกอากาศ หลังคา ฝุ่นรังสีพิษ หรือถูกปล่อยไว้ในน้ำตื้น</DeteriorationRate.description>
   <!-- EN: {0} / day -->
   <DeteriorationRate.formatString>{0} / วัน</DeteriorationRate.formatString>
@@ -32,10 +32,12 @@
   <FoodPoisonChanceFixedHuman.label>โอกาสอาหารเป็นพิษ</FoodPoisonChanceFixedHuman.label>
   <!-- EN: The chance this food will cause food poisoning. -->
   <FoodPoisonChanceFixedHuman.description>โอกาสที่อาหารนี้จะก่อให้เกิดอาหารเป็นพิษ</FoodPoisonChanceFixedHuman.description>
+  <!-- EN: food poison chance (food stat) -->
+  <FoodPoisonChanceFixedHuman.labelForFullStatList>TODO</FoodPoisonChanceFixedHuman.labelForFullStatList>
   
   <!-- EN: market value -->
   <MarketValue.label>มูลค่าตลาด</MarketValue.label>
-  <!-- EN: The market value of an object. The actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
+  <!-- EN: The market value of an object.\n\nThe actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
   <MarketValue.description>วัตถุนี้มีค่าในตลาดแค่ไหน ส่วนราคาซื้อขายจริงๆ จะถูกปรับเปลื่ยนไปตามทักษะเจรจา สถานะความสัมพันธ์ และปัจจัยแวดล้อมอื่นๆ</MarketValue.description>
   <!-- EN: ${0} -->
   <MarketValue.formatString>฿{0}</MarketValue.formatString>
@@ -49,13 +51,18 @@
   
   <!-- EN: max hit points -->
   <MaxHitPoints.label>HP สุงสุด</MaxHitPoints.label>
-  <!-- EN: The maximum hit points of an object. This represents how much damage it can take before being destroyed. -->
+  <!-- EN: The maximum hit points of an object.\n\nThis represents how much damage it can take before being destroyed. -->
   <MaxHitPoints.description>ค่า HP สูงสุดของวัตถุ สามารถรับความเสียหายได้มากแค่ไหน ก่อนจะถูกทำลายไป</MaxHitPoints.description>
   
   <!-- EN: nutrition -->
   <Nutrition.label>สารอาหาร</Nutrition.label>
   <!-- EN: How nutritious this food is. -->
   <Nutrition.description>อาหารนี้มีสารอาหารขนาดไหน</Nutrition.description>
+  
+  <!-- EN: royal favor value -->
+  <RoyalFavorValue.label>TODO</RoyalFavorValue.label>
+  <!-- EN: The amount of royal favor your trader will earn for giving this to a tribute collector. -->
+  <RoyalFavorValue.description>TODO</RoyalFavorValue.description>
   
   <!-- EN: sell price multiplier -->
   <SellPriceFactor.label>คูณราคาขาย</SellPriceFactor.label>
@@ -64,8 +71,10 @@
   
   <!-- EN: shooting accuracy -->
   <ShootingAccuracyTurret.label>ความแม่นยำในการยิง</ShootingAccuracyTurret.label>
-  <!-- EN: Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
+  <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
   <ShootingAccuracyTurret.description>ฐานโอกาสให้ยิงไม่พลาด ต่อช่อง ของระยะที่ยิง โอกาสยิงโดนได้รับผลกระทบจากปัจจัยอื่นๆอีกมาก คำอธิบายโอกาสยิงโดนของทุกนัดสามารถดูได้ ด้วยการเลือกคนยิง จากนั้นวางเมาส์บนเป้าหมาย</ShootingAccuracyTurret.description>
+  <!-- EN: shooting accuracy (turrets) -->
+  <ShootingAccuracyTurret.labelForFullStatList>TODO</ShootingAccuracyTurret.labelForFullStatList>
   
   <!-- EN: work to make -->
   <WorkToMake.label>ต้องทำงานเพื่อสร้าง</WorkToMake.label>

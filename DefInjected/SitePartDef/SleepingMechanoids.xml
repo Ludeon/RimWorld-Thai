@@ -7,7 +7,5 @@
   <SleepingMechanoids.description>กลุ่มของเมคานอยด์กำลังหลับไหล</SleepingMechanoids.description>
   <!-- EN: There are a few sleeping hostile mechanoids in this area.\n\nThe mechanoids may or may not wake up when you approach them, so beware. -->
   <SleepingMechanoids.arrivedLetter>มีเมคคานอยด์ศัตรูอยู่บ้างในบริเวณนี้\n\nเมคคานอยด์อาจจะตื่นหรือไม่ตื่นเมื่อคุณเข้าหา โปรดระมัดระวัง</SleepingMechanoids.arrivedLetter>
-  <!-- EN: there are {0} sleeping mechanoids in the area -->
-  <SleepingMechanoids.descriptionDialogue>มี {0} เมคานอยด์กำลังหลับในพื้นที่นี้</SleepingMechanoids.descriptionDialogue>
   
 </LanguageData>

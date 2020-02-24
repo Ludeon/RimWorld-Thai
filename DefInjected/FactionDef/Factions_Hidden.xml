@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: ancients -->
+  <!-- EN: neutral ancients -->
   <Ancients.label>ชนโบราณ</Ancients.label>
   <!-- EN: Ancients -->
   <Ancients.fixedName>ชนโบราณ</Ancients.fixedName>
@@ -10,7 +10,7 @@
   <!-- EN: ancients -->
   <Ancients.pawnsPlural>เหล่าชนโบราณ</Ancients.pawnsPlural>
   
-  <!-- EN: ancients -->
+  <!-- EN: hostile ancients -->
   <AncientsHostile.label>ชนโบราณ</AncientsHostile.label>
   <!-- EN: Ancients -->
   <AncientsHostile.fixedName>ชนโบราณ</AncientsHostile.fixedName>
@@ -21,7 +21,7 @@
   
   <!-- EN: insects -->
   <Insect.label>ฝูงแมลง</Insect.label>
-  <!-- EN: insects -->
+  <!-- EN: Sorne Insect Geneline -->
   <Insect.fixedName>ฝูงแมลง</Insect.fixedName>
   <!-- EN: insect -->
   <Insect.pawnSingular>แมลง</Insect.pawnSingular>
@@ -30,7 +30,6 @@
   
   <!-- EN: mechanoid hive -->
   <Mechanoid.label>รังเมคานอยด์</Mechanoid.label>
-  <!-- EN: a mechanoid hive -->
   <Mechanoid.fixedName>รังเมคานอยด์</Mechanoid.fixedName>
   <!-- EN: mechanoid -->
   <Mechanoid.pawnSingular>เมคานอยด์</Mechanoid.pawnSingular>

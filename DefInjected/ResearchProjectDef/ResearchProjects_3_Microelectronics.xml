@@ -1,11 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: colored lights -->
-  <ColoredLights.label>ไฟหลายสี</ColoredLights.label>
-  <!-- EN: Construct colored lights for decorative purposes. Cosmetic only. -->
-  <ColoredLights.description>สร้างไฟมีหลายสี นำมาใช้ตกแต่ง ประโยชน์เพื่อความสวยงามเท่านั้น</ColoredLights.description>
-  
   <!-- EN: flatscreen television -->
   <FlatscreenTelevision.label>โทรทัศน์จอแบน</FlatscreenTelevision.label>
   <!-- EN: Produce high-resolution flatscreen televisions for greater enjoyment. -->
@@ -13,7 +8,7 @@
   
   <!-- EN: autocannon turret -->
   <HeavyTurrets.label>ป้อมปืนออโต้แคนนอน</HeavyTurrets.label>
-  <!-- EN: Produce the heavy, long-ranged autocannon turret. -->
+  <!-- EN: Produce the heavy autocannon turret. -->
   <HeavyTurrets.description>ผลิตป้อมปืนหนัก ระยะไกล ออโต้แคนนอน</HeavyTurrets.description>
   
   <!-- EN: hospital bed -->
@@ -53,7 +48,7 @@
   
   <!-- EN: shield belt -->
   <ShieldBelt.label>เข็มขัดโล่</ShieldBelt.label>
-  <!-- EN: Build shield belts, which use momentun-repulsion technology to block ranged attacks coming in or going out. -->
+  <!-- EN: Build shield belts, which use momentum-repulsion technology to block ranged attacks coming in or going out. -->
   <ShieldBelt.description>ผลิตเข็มขัดโล่ ใช้เทคโนโลยีสะท้อนโมเมนตัมเพื่อป้องกันการโจมตีจากระยะไกล ทั้งที่ยิงเข้ามาและที่ยิงออก</ShieldBelt.description>
   
   <!-- EN: transport pod -->

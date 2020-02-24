@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Great!\n\nReorder and randomize more if you want - but don't try to get the perfect characters. Everyone has flaws, and it makes the story more interesting!\n\nYou can also re-name the characters by clicking on their names.\n\nClick START when you're ready. -->
-  <AcceptStartingPawns.text>TODO</AcceptStartingPawns.text>
+  <AcceptStartingPawns.text>ยอดเยื่ยม!\n\nเลื่อนและสุ่มไปเรื่อยๆถ้าคุณต้องการ - แต่อย่าพยายามเอาให้ได้ตัวละครอันเฟอเฟ็คทุกอย่าง ทุกคนมีจุดด้อยทั้งนั้น ทำให้เรื่องราวน่าสนใจมากขึ้น!\n\nคุณยังสามารถเปลื่ยนชื่อตัวละครได้ ด้วยการคลิกที่ช่องชื่อของพวกเขา\n\nกด "เริ่มเล่น" เมื่อคุณพร้อม</AcceptStartingPawns.text>
   
   <!-- EN: Select this -->
   <AddBillSimpleMeal.onMapInstruction>TODO</AddBillSimpleMeal.onMapInstruction>
@@ -79,10 +79,10 @@
   <!-- EN: You can control who does what kinds of work using the checkboxes. Colonists will do tasks in order, from left to right.\n\nTry changing some settings now.\n\nBeware - Colonists always follow their work priorities, even if this makes them do dumb things! Setting up a smart work regime is an important skill in RimWorld. So set the work settings carefully, and review them often! -->
   <ChangeWorkSettings.text>TODO</ChangeWorkSettings.text>
   
-  <!-- EN: Please choose a temperate forest site with flat terrain. -->
-  <ChooseLandingSite.rejectInputMessage>จุดลงจอด โปรดเลือกภูมิประเทศเป็นพื้นราบ และอยู่ในป่าเขตอบอุ่น</ChooseLandingSite.rejectInputMessage>
-  <!-- EN: Here, you choose your starting site.\n\nThere are lots of biomes, but for now, let's start with a friendly one.\n\nClick a location with temperate forest biome and flat terrain, and click NEXT.\n\nYou can use the TERRAIN tab to view information about the selected tile. -->
-  <ChooseLandingSite.text>ตอนนี้ คุณจะต้องเลือกจุดลงจอด\n\nเกมมีไบโอมหลากหลายให้เลือก แต่เราจะเลือกเริ่มแบบเป็นมิตรไปก่อน\n\nคลิกเลือกจุดลงจอด ที่อยู่ในไบโอม "ป่าเขตอบอุ่น" จากนั้นคลิก 'ถัดไป'\n\nคุณสามารถกด 'ภูมิประเทศ' เพื่อดูข้อมูลเพิ่มเติม เกี่ยวกับบริเวณที่เลือกได้</ChooseLandingSite.text>
+  <!-- EN: Please choose a temperate forest site with no hills (light green with no brown dots). -->
+  <ChooseLandingSite.rejectInputMessage>โปรดเลือกภูมิประเทศที่เป็น 'พื้นราบ' และอยู่ใน 'ป่าเขตอบอุ่น'</ChooseLandingSite.rejectInputMessage>
+  <!-- EN: Here you choose your starting site.\n\nClick a temperate forest (light green) with no brown hills. Then click NEXT.\n\nOptionally, you can use the TERRAIN tab to view information about the selected tile. -->
+  <ChooseLandingSite.text>ตอนนี้ คุณจะต้องเลือกจุดลงจอด\n\nเกมมีไบโอมหลากหลายให้เลือก แต่เรากำลังหัดเล่น โปรดเลือกเริ่มในจุดที่เป็นมิตรไปก่อน\n\nจงคลิกเลือกจุดลงจอดที่อยู่ในไบโอม "ป่าเขตอบอุ่น" จากนั้นคลิก "ถัดไป"\n\nคุณสามารถกดปุ่ม "ภูมิประเทศ" เพื่อดูข้อมูลเพิ่มเติม เกี่ยวกับบริเวณที่เลือกได้</ChooseLandingSite.text>
   
   <!-- EN: Please choose a storyteller in the Options menu to end the tutorial. -->
   <ChooseStoryteller.rejectInputMessage>TODO</ChooseStoryteller.rejectInputMessage>
@@ -95,7 +95,7 @@
   <ChopTrees.text>TODO</ChopTrees.text>
   
   <!-- EN: Welcome to RimWorld! This tutorial will teach you how to play the game.\n\nThe first step is to generate a world to play in.\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
-  <CreateWorldParams.text>ยินดีต้อนรับสู่ RimWorld! บทเรียนเหล่านี้เพื่อสอนวิธีเล่นเกมให้คุณ\n\nเริ่มอย่างแรกต้องทำคือ ให้กำเนิดโลกที่จะเล่น\n\nหน้านี้ สำหรับปรับแต่งว่าคุณจะสร้างโลกแบบไหน\n\nค่าเริ่มต้นที่เห็นถือว่าตั้งไว้ดีแล้ว - คุณจะกด'สร้าง'เลยก็ได้!</CreateWorldParams.text>
+  <CreateWorldParams.text>ยินดีต้อนรับสู่ RimWorld! บทเรียนเหล่านี้เพื่อสอนวิธีเล่นเกมให้คุณ\n\nอย่างแรกต้องทำคือ การให้กำเนิดโลกที่จะเล่น\n\nในหน้านี้ ใช้ปรับแต่งว่าสร้างโลกของคุณแบบไหน\n\nค่าเริ่มต้นที่เห็นถือว่าตั้งไว้ดีแล้ว - คุณจะกด "สร้าง" เลยก็ได้!</CreateWorldParams.text>
   
   <!-- EN: Send colonists here\ntouching sandbags for cover -->
   <DownRaider.onMapInstruction>TODO</DownRaider.onMapInstruction>
@@ -144,10 +144,10 @@
   <MakeStockpile.text>TODO</MakeStockpile.text>
   
   <!-- EN: Here you are on the surface!\n\nNow try moving the camera around.\n\nUse the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or click and drag with the middle mouse button.\n\nTry it now! -->
-  <MapCameraDolly.text>TODO</MapCameraDolly.text>
+  <MapCameraDolly.text>เอาละ คุณลงจอดบนพื้นผิวแล้ว!\n\nต่อไปลองเคลื่อนกล้องไปมา\n\nใช้คีย์ {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} หรือคลิกเมาส์กลางแล้วลาก\n\nลองเดี๋ยวนี้เลย!</MapCameraDolly.text>
   
   <!-- EN: Great!\n\nYou can also zoom in and out with the mouse wheel, or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nTry it now! -->
-  <MapCameraZoom.text>TODO</MapCameraZoom.text>
+  <MapCameraZoom.text>เยื่ยม!\n\nคุณสามารถซูมเข้า ซูมออก ได้ด้วยลูกเลื่อนเมาส์ หรือใช่คีย์ {Key:MapZoom_In} กับ {Key:MapZoom_Out}\n\nลองเดี๋ยวนี้เลย!</MapCameraZoom.text>
   
   <!-- EN: Designate all this\nfor mining -->
   <MineSteel.onMapInstruction>TODO</MineSteel.onMapInstruction>
@@ -169,15 +169,15 @@
   <!-- EN: You can pause time.\n\nThis means you never need to rush. You can always pause and take your time to issue orders.\n\nTry pausing with the {Key:TogglePause} key, or by using the time controls in the bottom right. -->
   <Pause.text>TODO</Pause.text>
   
-  <!-- EN: Please try randomizing a character first. -->
-  <RandomizeCharacter.rejectInputMessage>TODO</RandomizeCharacter.rejectInputMessage>
-  <!-- EN: If you don't like a character, you can regenerate them!\n\nTry randomizing a character with the RANDOMIZE button. -->
-  <RandomizeCharacter.text>TODO</RandomizeCharacter.text>
+  <!-- EN: Please click the RANDOMIZE button to randomize the character. -->
+  <RandomizeCharacter.rejectInputMessage>โปรดลองสุ่มตัวละครก่อน</RandomizeCharacter.rejectInputMessage>
+  <!-- EN: If you don't like a character, you can regenerate them!\n\nClick the RANDOMIZE button to randomize the character. -->
+  <RandomizeCharacter.text>ถ้าคุณไม่ชอบตัวละครนั้นๆ คุณสามารถสุ่มตัวละครใหม่ได้!\n\nลองสุ่มตัวละครใหม่ด้วยปุ่ม "สุ่ม"</RandomizeCharacter.text>
   
-  <!-- EN: Please try choosing a character first. -->
-  <ReorderCharacters.rejectInputMessage>TODO</ReorderCharacters.rejectInputMessage>
-  <!-- EN: Now you can choose characters!\n\nClick in the left area to select from available characters. If you find a character you like, drag them into the top section with the SELECTED label. -->
-  <ReorderCharacters.text>TODO</ReorderCharacters.text>
+  <!-- EN: Please drag a character from the "left behind" group (at the bottom-left) into the "selected" group (at the upper-left). -->
+  <ReorderCharacters.rejectInputMessage>โปรดลองเลือกตัวละครก่อน</ReorderCharacters.rejectInputMessage>
+  <!-- EN: Now you choose which characters you want to use.\n\nDRAG a character from the "left behind" part of the character list (at the bottom) into the "selected" part (at the top).\n\nOptionally, clicking a character will allow you inspect him or her. -->
+  <ReorderCharacters.text>ต่อไปก็เลือกตัวละคร!\n\nคลิกเลือกตัวละครที่มีให้ในบริเวณกรอบด้านซ้าย ถ้าคุณเจอตัวละครที่ชอบแล้ว ลากตัวละครนั้นไปยังส่วนด้านบนที่ระบุไว้ว่า "ถูกเลือก"</ReorderCharacters.text>
   
   <!-- EN: Please choose a research project. -->
   <SelectResearchProject.rejectInputMessage>TODO</SelectResearchProject.rejectInputMessage>

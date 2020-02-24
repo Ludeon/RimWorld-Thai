@@ -26,6 +26,11 @@
   <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
   <BlowbackOperation.description>ผลิตปืนพลังทำลายต่ำ ทำงานด้วยระบบสะท้อนถอยหลัง และผลิตปืนพกกล</BlowbackOperation.description>
   
+  <!-- EN: colored lights -->
+  <ColoredLights.label>ไฟหลายสี</ColoredLights.label>
+  <!-- EN: Construct colored lights for decorative purposes. Cosmetic only. -->
+  <ColoredLights.description>สร้างไฟมีหลายสี นำมาใช้ตกแต่ง ประโยชน์เพื่อความสวยงามเท่านั้น</ColoredLights.description>
+  
   <!-- EN: electricity -->
   <Electricity.label>ไฟฟ้า</Electricity.label>
   <!-- EN: Harness the power of electricity for a hundred different tasks. -->
@@ -54,7 +59,7 @@
   <!-- EN: gunsmithing -->
   <Gunsmithing.label>ผลิตปืน</Gunsmithing.label>
   <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
-  <Gunsmithing.description>ผลิตปืนทำงานด้วยมือ เช่น ปืนลูกโม่ง ลูกซองปั้ม ปืนไรเฟิลล่าสัตว์ และเครื่องยิงลูกระเบิด</Gunsmithing.description>
+  <Gunsmithing.description>ผลิตปืนทำงานด้วยมือ เช่น ปืนลูกโม่ง ปืนลูกซองปั้ม ปืนไรเฟิลโบล์ทแอ็คชั่น และเครื่องยิงลูกระเบิด</Gunsmithing.description>
   
   <!-- EN: gun turrets -->
   <GunTurrets.label>ป้อมปืน</GunTurrets.label>
