@@ -34,8 +34,8 @@
   <!-- EN: mining -->
   <WorkTagMining>ขุดเหมือง</WorkTagMining>
   <!-- EN: hunting -->
-  <WorkTagHunting>TODO</WorkTagHunting>
+  <WorkTagHunting>ล่าสัตว์</WorkTagHunting>
   <!-- EN: commoner work -->
-  <WorkTagCommoner>TODO</WorkTagCommoner>
+  <WorkTagCommoner>งานสามัญชน</WorkTagCommoner>
 
 </LanguageData>

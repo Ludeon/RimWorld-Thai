@@ -11,7 +11,7 @@
   <FactionGreetingWarm>{0} ทักทาย {NEGOTIATOR_labelShort} อย่างอบอุ่น และถาม {LEADER_pronoun} สามารถช่วยอะไรคุณได้บ้าง</FactionGreetingWarm>
 
   <!-- EN: won't do {0} -->
-  <WorkTypeDisablesOption>TODO</WorkTypeDisablesOption>
+  <WorkTypeDisablesOption>ไม่ทำ {0}</WorkTypeDisablesOption>
   <!-- EN: Disconnect -->
   <Disconnect>ตัดการติดต่อ</Disconnect>
 

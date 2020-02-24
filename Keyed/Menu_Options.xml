@@ -21,7 +21,7 @@
   <!-- EN: Pause on urgent letter -->
   <PauseOnUrgentLetter>หยุดเกมเมื่อมีจดหมายฉุกเฉิน</PauseOnUrgentLetter>
   <!-- EN: Pause on -->
-  <AutomaticPauseModeSetting>TODO</AutomaticPauseModeSetting>
+  <AutomaticPauseModeSetting>หยุดเกมเมื่อ</AutomaticPauseModeSetting>
   <!-- EN: Custom cursor -->
   <CustomCursor>ใช้เมาส์เคอเซอร์ปรับแต่ง</CustomCursor>
   <!-- EN: Hats shown only on game map -->
@@ -49,9 +49,9 @@
   <!-- EN: Show save data location -->
   <ShowSaveGameDataLocation>แสดงตำแหน่งข้อมูลเซฟเกม</ShowSaveGameDataLocation>
   <!-- EN: Open log file folder -->
-  <OpenLogFileFolder>TODO</OpenLogFileFolder>
+  <OpenLogFileFolder>เปิดโฟล์เดอร์ไฟล์ log</OpenLogFileFolder>
   <!-- EN: Show log file location -->
-  <ShowLogFileLocation>TODO</ShowLogFileLocation>
+  <ShowLogFileLocation>แสดงตำแหน่งไฟล์ log</ShowLogFileLocation>
   <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
   <NamesYouWantToSee>ตัวละครผู้เล่นสร้างด้วยความพึงใจ ในระหว่างเล่น ตัวละครเหล่านี้มีโอกาสมากกว่าในการสุ่มโผล่ออกมา:</NamesYouWantToSee>
   <!-- EN: Add name -->
@@ -99,6 +99,6 @@
   <!-- EN: Your options have been reset. The game will now restart automatically. -->
   <ResetAndRestart>ตัวเลือกทั้งหมดของคุณถูกรีเซ็ต เกมจะรีสตาร์ทโดยอัตโนมัติ</ResetAndRestart>
   <!-- EN: All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue? -->
-  <ResetAndRestartConfirmationDialog>TODO</ResetAndRestartConfirmationDialog>
+  <ResetAndRestartConfirmationDialog>เซ็ตติ้งทั้งหมดของคุณจะถูกรีเซ็คกลับไปเป็นค่าเริ่มต้นและเกมจะรีสตาร์ท ความคืบหน้าใดๆที่ไม่ได้เซฟจะหายไป!\n\nดำเนินการต่อ?</ResetAndRestartConfirmationDialog>
   
 </LanguageData>
