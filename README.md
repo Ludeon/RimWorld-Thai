@@ -4,8 +4,6 @@ This is the Thai translation data for RimWorld.
 
 Compatible with RimWorld version: `1.1.2552`
 
-`Backstories` are not translated yet.
-
 หากมีคำถาม-คำแนะนำ สามารถโพส[กระทู้](https://ludeon.com/forums/index.php?topic=45589.0) หรือเปิด [Issue](https://github.com/Ludeon/RimWorld-Thai/issues) ได้เลยครับ
 
 ## Manual Install
@@ -32,13 +30,13 @@ Quick notes & summary from current translation report, generated on `2020-02-24`
 * 🔲 (516) Missing keyed translations
 * 🔲 (4544) Def-injected translations missing
 * 🔲 (2374) Backstory translations missing
-    > This will be translate last, after all other translations is done, the problem it's simply lack of man-power.
+    > This will be translate last, after all other translations is done, the problem is simply lack of man-power.
     > 
     > If you want to helping translate this, please go ahead. Follow contribute guide [here](http://ludeon.com/forums/index.php?topic=2933.0) and translating direction in [glossary](https://github.com/Ludeon/RimWorld-Thai/wiki/Glossary) page.
 
 * ☑️ (0) Unnecessary def-injected translations (marked as NoTranslate)
 * ☑️ (0) Def-injected translations using old, renamed defs (fixed automatically but can break in the next RimWorld version)
-* 🔲 (15) Argument count mismatches (may or may not be incorrect)
+* ☑️ (0) Argument count mismatches (may or may not be incorrect)
 * 🔲 (29) Unnecessary keyed translations (will never be used)
 * ☑️ (57) Keyed translations matching English (maybe ok)
     > You can safely ignore these, most of the time it's intended to leave as English (e.g. no suitable word in Thai, not really need to translate, etc.)

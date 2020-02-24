@@ -197,7 +197,7 @@
   <!-- EN: Identical blueprint already exists here. -->
   <IdenticalBlueprintExists>มีพิมพ์เขียวที่เหมือนกัน วางอยู่ตรงนี้แล้ว</IdenticalBlueprintExists>
   <!-- EN: {0_label} cannot be built on this terrain. -->
-  <TerrainCannotSupport>ภูมิประเทศตรงนี้ ไม่สามารถรองรับสิ่งนี้ได้</TerrainCannotSupport>
+  <TerrainCannotSupport>{0_label} ไม่สามารถสร้างบนภูมิประเทศนี้ได้</TerrainCannotSupport>
   <!-- EN: {0_label} requires terrain that supports: {1_label} -->
   <TerrainCannotSupport_TerrainAffordance>{0_label}ต้องอยู่ในภูมิประเทศที่รองรับ: {1_label}</TerrainCannotSupport_TerrainAffordance>
   <!-- EN: {0_label} (when made of {2_label}) requires terrain that supports: {1_label} -->

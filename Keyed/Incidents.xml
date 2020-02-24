@@ -11,10 +11,10 @@
   <AnimalInsanityMultiple>คลื่นพลังจิตอะไรซักอย่างกวาดผ่านภูมิประเทศไป ชาวนิคมคุณไม่เป็นอะไร แต่ว่า...\n\nดูเหมือน {0} หลายส่วนในพื้นที่ ถูกกดดันจนเกิดบ้าคลั่ง</AnimalInsanityMultiple>
 
   <!-- EN: Blight: {PLANTDEF_labelPlural} -->
-  <LetterLabelCropBlight>โรคพืช</LetterLabelCropBlight>
+  <LetterLabelCropBlight>โรคพืช: {PLANTDEF_labelPlural}</LetterLabelCropBlight>
   <!-- EN: Blight has been discovered on the {PLANTDEF_labelPlural}!
 \nYou should cut or burn the affected plants before the blight spreads. -->
-  <LetterCropBlight>ชาวนิคมสังเกตุเห็นโรคบนพืช! คุณควรตัด หรือเผา พืชที่ติดโรคทิ้ง ก่อนที่โรคพืชจะระบาดไปทั่ว</LetterCropBlight>
+  <LetterCropBlight>โรคพืชถูกค้นพบบน{PLANTDEF_labelPlural}! \nคุณควรตัดหรือเผาพืชที่ติดโรคทิ้ง ก่อนที่โรคพืชจะระบาดไปทั่ว</LetterCropBlight>
 
   <!-- EN: Miracle -->
   <LetterLabelMiracleHeal>ปาฏิหาริย์</LetterLabelMiracleHeal>
@@ -59,7 +59,7 @@
   <ShortCircuitWasHuge>นั่นมันระเบิดขนาดมหึมาจริงๆ โว้ว</ShortCircuitWasHuge>
 
   <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2} -->
-  <TraderArrival>ยานพ่อค้ากำลังผ่านมาใกล้เคียงเรา\n\nพวกเขาเป็นที่รู้จักในนาม {0} / พวกเขาเป็น {1}</TraderArrival>
+  <TraderArrival>ยานพ่อค้ากำลังผ่านมาใกล้เคียงเรา\n\nพวกเขาเป็นที่รู้จักในนาม {0} / พวกเขาเป็น {1}\n\n{2}</TraderArrival>
   <!-- EN: They're affiliated with {FACTION_name}. -->
   <TraderArrivalFromFaction>TODO</TraderArrivalFromFaction>
   <!-- EN: They are not affiliated with any faction. -->
@@ -96,7 +96,7 @@
   
   <!-- Crashed ship part-->
   <!-- EN: The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad. -->
-  <MessageAnimalInsanityPulse>โครงสร้างจากโบราณกาล ปล่อยคลื่นพลังจิตออกมาเป็นจังหวะ ซึ่งกดดันให้สัตว์บริเวณใกล้เคียงเกิดบ้าคลั่ง</MessageAnimalInsanityPulse>
+  <MessageAnimalInsanityPulse>{SOURCE_label} ปล่อยคลื่นพลังจิตออกมาเป็นจังหวะ ซึ่งกดดันให้สัตว์บริเวณใกล้เคียงเกิดบ้าคลั่ง</MessageAnimalInsanityPulse>
   <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
   <LetterShipPartDroveColonistInsane>ชิ้นส่วนยานที่ตก โฟกัสปล่อยคลื่นพลังจิตออกมาเป็นจังหวะ ซึ่งกดดันให้ชาวนิคม {0} เป็นบ้า</LetterShipPartDroveColonistInsane>
   <!-- EN: Awoke {0} days ago -->

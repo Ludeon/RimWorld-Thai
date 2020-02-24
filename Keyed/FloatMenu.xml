@@ -148,7 +148,7 @@
   <!-- EN: Arrest {0} -->
   <Arrest>จับกุม {0}</Arrest>
   <!-- EN: Try to arrest {1_label} ({2} chance) -->
-  <TryToArrest>พยายามจับกุม {1_label}</TryToArrest>
+  <TryToArrest>พยายามจับกุม {1_label} ({2} chance)</TryToArrest>
   <!-- EN: Cannot arrest -->
   <CannotArrest>ไม่สามารถจับกุมได้</CannotArrest>
 
@@ -324,7 +324,7 @@
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
   <!-- EN: Cannot {0} {1} -->
-  <CannotGenericWork>ไม่สามารถ{0} {2_labelShort}</CannotGenericWork>
+  <CannotGenericWork>ไม่สามารถ{0} {1}</CannotGenericWork>
   <!-- EN: Cannot {0} -->
   <CannotGenericWorkCustom>ไม่สามารถ{0}ได้</CannotGenericWorkCustom>
 

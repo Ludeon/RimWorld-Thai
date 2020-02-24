@@ -19,9 +19,9 @@
   
   <!-- Misc -->
   <!-- EN: Abandon {{0}}x {0} -->
-  <AbandonSliderText>ทิ้ง {{0}}x {1_labelShort}</AbandonSliderText>
+  <AbandonSliderText>ทิ้ง {{0}}x {0}</AbandonSliderText>
   <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
-  <ConfirmAbandonItemDialog>คุณจะแน่ใจจริงๆว่าจะทิ้ง {1_label}?\n\nไอเท็มที่ทิ้งจะหายไป และไม่สามารถเอากลับคืนมาได้</ConfirmAbandonItemDialog>
+  <ConfirmAbandonItemDialog>คุณจะแน่ใจจริงๆว่าจะทิ้ง {0}?\n\nไอเท็มที่ทิ้งจะหายไป และไม่สามารถเอากลับคืนมาได้</ConfirmAbandonItemDialog>
   <!-- EN: Abandon -->
   <AbandonTip>ทิ้ง</AbandonTip>
   <!-- EN: Banish -->

@@ -78,7 +78,7 @@
   <NewPartDiseaseAnimal>{PAWN_labelShort} เกิดอาการเจ็บป่วย: {3} {1} ใน{PAWN_possessive}</NewPartDiseaseAnimal>
 
   <!-- EN: {0} was formerly part of your faction. -->
-  <PawnWasFormerlyColonist>{1_labelShort} เคยเป็นส่วนหนึ่งใหนฝ่ายคุณ</PawnWasFormerlyColonist>
+  <PawnWasFormerlyColonist>{0} เคยเป็นส่วนหนึ่งใหนฝ่ายคุณ</PawnWasFormerlyColonist>
   <!-- EN: You previously hosted {0}. -->
   <PawnWasFormerlyLodger>TODO</PawnWasFormerlyLodger>
   <!-- EN: {1_labelShort} has these relationships with your colonists: -->
@@ -323,11 +323,11 @@
 
   <!-- Run wild mental break -->
   <!-- EN: {0} is fed up with civilization.\n\n{PAWN_pronoun} realized that wild creatures are always free. So, {PAWN_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {PAWN_objective} to get {PAWN_objective} back. -->
-  <LetterRunWildMentalBreak>{0} รู้สึกเบื่อหน่ายกับอารยธรรม\n\n{0_pronoun}เกิดความเข้าใจขึ้นมาว่าสัตว์นั้นอิสระเสรี ดังนั้น {0_pronoun}จึงตัดสินใจออกจากอาณานิคมของคุณไปอาศัยอยู่กับสัตว์\n\nคุณสามารถลองทำให้ {0_objective} เชื่องได้ เพื่อดึง {0_objective} กลับมา</LetterRunWildMentalBreak>
+  <LetterRunWildMentalBreak>{0} รู้สึกเบื่อหน่ายกับอารยธรรม\n\n{PAWN_pronoun}เกิดความเข้าใจขึ้นมาว่าสัตว์นั้นอิสระเสรี ดังนั้น {PAWN_pronoun}จึงตัดสินใจออกจากอาณานิคมของคุณไปอาศัยอยู่กับสัตว์\n\nคุณสามารถลองทำให้{PAWN_pronoun}เชื่อง เพื่อดึง{0_objective}กลับมา</LetterRunWildMentalBreak>
 
   <!-- Catatonic mental break -->
   <!-- EN: {0} has suffered a total mental breakdown and entered a catatonic state. {PAWN_pronoun} will recover in several days. -->
-  <LetterCatatonicMentalBreak>{0} เดือดร้อนจากการสติแตกเต็มขั้นและเข้าสู่สภาวะที่ไม่สงบ {0_pronoun}จะฟื้นฟูตัวในไม่กี่วัน</LetterCatatonicMentalBreak>
+  <LetterCatatonicMentalBreak>{0} เดือดร้อนจากการสติแตกเต็มขั้นและเข้าสู่สภาวะที่ไม่สงบ {PAWN_pronoun}จะฟื้นฟูตัวในไม่กี่วัน</LetterCatatonicMentalBreak>
 
   <!-- EN: Persona Core Offer -->
   <LetterLabelAICoreOffer>ข้อเสนอแก่นเอไอ</LetterLabelAICoreOffer>
