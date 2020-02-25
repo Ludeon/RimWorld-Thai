@@ -59,19 +59,19 @@
   <NoMedicineDesc>คุณไม่มียาเหลืออยู่ในคลังแล้ว\n\nซื้อยาเพิ่มได้จากพ่อค้า</NoMedicineDesc>
   
   <!-- EN: Need colonist beds -->
-  <NeedColonistBeds>ต้องการเตียงชาวนิคม</NeedColonistBeds>
+  <NeedColonistBeds>ต้องการเตียงให้ชาวนิคม</NeedColonistBeds>
   <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
-  <NeedColonistBedsDesc>คุณมีชาวนิคมมากกว่าเตียงที่มี บางคนจะขาดที่ไว้นอน\n\nถ้าไม่สร้างเตียงเพิ่ม ก็เปลี่ยนเตียงนักโทษให้เป็นเตียงสำหรับชาวนิคม\n\nหากคุณไม่มีทรัพยากร ก่อสร้าง *จุดนอน* ฟรี สามารถติดตั้งได้ทันที</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>คุณมีชาวอาณานิคมมากกว่าเตียงที่มี ทำให้บางคนจะไม่มีที่นอน\n\nถ้าไม่สร้างเตียงเพิ่ม ก็เปลี่ยนเตียงนักโทษ ให้เป็นเตียงสำหรับชาวอาณานิคมแทน\n\nหากคุณยังไม่มีทรัพยากร จุดนอนก่อสร้างได้ฟรี ติดตั้งได้ทันที</NeedColonistBedsDesc>
   
   <!-- EN: Colonist left unburied -->
-  <AlertColonistLeftUnburied>TODO</AlertColonistLeftUnburied>
+  <AlertColonistLeftUnburied>ชาวนิคมถูกปล่อยไม่ได้ฝัง</AlertColonistLeftUnburied>
   <!-- EN: A colonist is left unburied.\n\nThis may negatively affects your colonists mood. -->
-  <AlertColonistLeftUnburiedDesc>TODO</AlertColonistLeftUnburiedDesc>
+  <AlertColonistLeftUnburiedDesc>มีชาวอาณานิคมถูกทิ้งไว้ไม่ได้ฝัง\n\nนี่อาจส่งผลกระทบด้านลบกับอารมณ์ของชาวอาณานิคม</AlertColonistLeftUnburiedDesc>
 
   <!-- EN: Hunter lacks ranged weapon -->
   <HunterLacksWeapon>พรานขาดอาวุธไกล</HunterLacksWeapon>
   <!-- EN: A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon. -->
-  <HunterLacksWeaponDesc>ชาวนิคมถูกกำหนดให้เป็นพรานแต่กลับไม่มีอาวุธพิสัยไกล\n\nเขาจะไม่ออกล่าสัตว์จนกว่าจะได้ถืออาวุธพิสัยไกล</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>ชาวนิคมถูกกำหนดให้เป็นพราน แต่กลับไม่มีอาวุธพิสัยไกล\n\nเขาจะไม่ออกล่าสัตว์จนกว่าจะได้ถืออาวุธยิงระยะไกล</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
   <AlertTatteredApparel>เสื้อผ้าขาด</AlertTatteredApparel>
@@ -152,9 +152,9 @@
   <ColonistsIdleDesc>ชาวนิคมเหล่านี้เดินไปเดินมาเฉยๆ:\n\n{0}\nบางทีคุณควรจะหาอะไรมีประโยชน์ให้พวกเขาทำ</ColonistsIdleDesc>
   
   <!-- EN: Caravan idle -->
-  <CaravanIdle>TODO</CaravanIdle>
+  <CaravanIdle>คาราวานอยู่ว่าง</CaravanIdle>
   <!-- EN: These caravans are waiting for you to set their next destination:\n\n{0} -->
-  <CaravanIdleDesc>TODO</CaravanIdleDesc>
+  <CaravanIdleDesc>กองคาราวานเหล่านี้กำลังรอให้คุณเซ็ตเป้าหมายต่อไป:\n\n{0}</CaravanIdleDesc>
 
   <!-- EN: Colonist needs treatment -->
   <ColonistNeedsTreatment>ชาวนิคมต้องการๆรักษา</ColonistNeedsTreatment>
@@ -208,41 +208,41 @@
   <ImmobileCaravanDesc>หนึ่งในคาราวานของคุณไม่เคลื่อนที่เนื่องจากมีน้ำหนักมากเกินไป\n\nคุณสามารถทำคาราวานเคลื่อนที่ได้อีกครั้ง โดยละทิ้งสิ่งของบางรายการในแท็บ *ไอเท็ม*</ImmobileCaravanDesc>
 
   <!-- EN: Building unusable due to roof -->
-  <BuildingCantBeUsedRoofed>TODO</BuildingCantBeUsedRoofed>
+  <BuildingCantBeUsedRoofed>อาคารใช้ไม่ได้เพราะหลังคา</BuildingCantBeUsedRoofed>
   <!-- EN: One or more of your buildings can only be used if not roofed, but there is a roof over it. The building(s) won't be usable until you remove the roof. -->
-  <BuildingCantBeUsedRoofedDesc>TODO</BuildingCantBeUsedRoofedDesc>
+  <BuildingCantBeUsedRoofedDesc>อาคารหนึ่งหรือมากกว่านั้น จะสามารถใช้ได้ก็ต่อเมื่อไม่มีหลังคาเท่านั้น แต่ตอนนี้มีหลังคาอยู่ ดังนั้นสิ่งก่อสร้างนี้ใช้ไม่ได้จนกว่าคุณจะเอาหลังคาออก</BuildingCantBeUsedRoofedDesc>
 
   <!-- EN: Heatstroke -->
-  <AlertHeatstroke>TODO</AlertHeatstroke>
+  <AlertHeatstroke>เป็นลมแดด</AlertHeatstroke>
   <!-- EN: The following people are suffering from heatstroke:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
-  <AlertHeatstrokeDesc>TODO</AlertHeatstrokeDesc>
+  <AlertHeatstrokeDesc>คนเหล่านี้กำลังเป็นลมแดด:\n\n{0}\nพาพวกเขาไปยังพื้นที่เย็น คุณสามารถทำให้ห้องเย็นลงได้ด้วยคูลเลอร์ไร้ไฟหรือคูลเลอร์ไฟฟ้า ลึกลงไปใต้ดินก็เย็นโดยธรรมชาติหากมีประตูกั้นจากภายนอก</AlertHeatstrokeDesc>
 
   <!-- EN: Guest unhappy -->
-  <QuestPartMoodBelowThreshold>TODO</QuestPartMoodBelowThreshold>
+  <QuestPartMoodBelowThreshold>แขกไม่แฮปปี้</QuestPartMoodBelowThreshold>
   <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n\n{1} -->
-  <QuestPartMoodBelowThresholdDesc>TODO</QuestPartMoodBelowThresholdDesc>
+  <QuestPartMoodBelowThresholdDesc>ผู้มาเยือน {0} ต้องการให้คุณทำให้บุคคลนี้มีอารมณืดี อย่างไรก็ตาม ตอนนี้อารมณ์ของพวกเขาไม่ค่อยดีนัก ทำอะไรซักอย่างให้อารมณ์ดี:\n\n{1}</QuestPartMoodBelowThresholdDesc>
   
   <!-- EN: Shuttle leaving in {0} -->
-  <QuestPartShuttleLeaveDelay>TODO</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelay>กระสวยออกใน {0}</QuestPartShuttleLeaveDelay>
   <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
-  <QuestPartShuttleLeaveDelayDesc>TODO</QuestPartShuttleLeaveDelayDesc>
+  <QuestPartShuttleLeaveDelayDesc>กระสวยกำลังจะออกตัวใน {1}, เควส {0} ต้องการให้คุณโหลดคนหรือไอเท็มเหล่านี้ขึ้นก่อนกระสวยออก:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
 
   <!-- EN: Monument will be destroyed -->
-  <DisallowedBuildingInsideMonument>TODO</DisallowedBuildingInsideMonument>
+  <DisallowedBuildingInsideMonument>อนุสาวรีย์จะถูกทำลาย</DisallowedBuildingInsideMonument>
   <!-- EN: You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}. -->
-  <DisallowedBuildingInsideMonumentDesc>TODO</DisallowedBuildingInsideMonumentDesc>
+  <DisallowedBuildingInsideMonumentDesc>คุณสร้างสิ่งก่อสร้างที่ไม่อณุญาตในหนึ่งในอนุสาวรีย์ของคุณ อนุสาวรีย์จะถูกทำลายใน {0}</DisallowedBuildingInsideMonumentDesc>
 
   <!-- EN: Countdown activator {0} -->
-  <ActivatorCountdown>TODO</ActivatorCountdown>
+  <ActivatorCountdown>ตัวเปิดเครื่องจักรนับถอยหลัง {0}</ActivatorCountdown>
   <!-- EN: There is a countdown activator ticking down, preparing to awaken nearby mechanoids. -->
-  <ActivatorCountdownDesc>TODO</ActivatorCountdownDesc>
+  <ActivatorCountdownDesc>มีตัวเปิดนับถอยหลังกำลังนับอยู่, เตรียมตัวปลุกเมคานอยด์ใกล้เคียง</ActivatorCountdownDesc>
   <!-- EN: {0} countdown activators -->
-  <ActivatorCountdownMultiple>TODO</ActivatorCountdownMultiple>
+  <ActivatorCountdownMultiple>{0} ตัวเปิดนับถอยหลัง</ActivatorCountdownMultiple>
   <!-- EN: There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids. -->
-  <ActivatorCountdownDescMultiple>TODO</ActivatorCountdownDescMultiple>
+  <ActivatorCountdownDescMultiple>มี {0} ตัวเปิดนับถอยหลังกำลังนับอยู่, เตรียมตัวปลุกเมคานอยด์ใกล้เคียง</ActivatorCountdownDescMultiple>
 
   <!-- EN: Quest expires in {0} -->
-  <QuestExpiresSoon>TODO</QuestExpiresSoon>
+  <QuestExpiresSoon>เควสหมดเวลาใน {0}</QuestExpiresSoon>
   <!-- EN: The quest '{0}' will expire in {1}. -->
-  <QuestExpiresSoonDesc>TODO</QuestExpiresSoonDesc>
+  <QuestExpiresSoonDesc>เควส '{0}' จะหมดเวลาใน {1}</QuestExpiresSoonDesc>
 </LanguageData>

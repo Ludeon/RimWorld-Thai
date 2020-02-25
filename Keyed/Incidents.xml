@@ -61,9 +61,9 @@
   <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2} -->
   <TraderArrival>ยานพ่อค้ากำลังผ่านมาใกล้เคียงเรา\n\nพวกเขาเป็นที่รู้จักในนาม {0} / พวกเขาเป็น {1}\n\n{2}</TraderArrival>
   <!-- EN: They're affiliated with {FACTION_name}. -->
-  <TraderArrivalFromFaction>TODO</TraderArrivalFromFaction>
+  <TraderArrivalFromFaction>พวกเขามีความผูกพันกับฝ่าย {FACTION_name}</TraderArrivalFromFaction>
   <!-- EN: They are not affiliated with any faction. -->
-  <TraderArrivalNoFaction>TODO</TraderArrivalNoFaction>
+  <TraderArrivalNoFaction>พวกเขาไม่มีความผูกพันกับฝ่ายใดๆ</TraderArrivalNoFaction>
 
   <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
   <SingleTravelerPassing>{PAWN_title} จาก {1} กำลังผ่านมา {PAWN_pronoun}ชื่อว่า {PAWN_nameFull}</SingleTravelerPassing>
@@ -102,9 +102,9 @@
   <!-- EN: Awoke {0} days ago -->
   <AwokeDaysAgo>ตื่นขึ้น {0} วันที่ผ่านมา</AwokeDaysAgo>
   <!-- EN: Activated {0} days ago -->
-  <ActivatedDaysAgo>TODO</ActivatedDaysAgo>
+  <ActivatedDaysAgo>เริ่มทำงาน {0} วันที่ผ่านมา</ActivatedDaysAgo>
   <!-- EN: Opened {0} days ago -->
-  <OpenedDaysAgo>TODO</OpenedDaysAgo>
+  <OpenedDaysAgo>เปิดไปเมื่อ {0} วันที่ผ่านมา</OpenedDaysAgo>
   <!-- EN: Psychic drone level: {0} -->
   <PsychicDroneLevel>ระดับพลังเสียงของพลังจิต: {0}</PsychicDroneLevel>
   <!-- EN: Drone intensifies -->
@@ -150,9 +150,9 @@
   <!-- EN: {1} from {0} -->
   <LetterLabelTraderCaravanArrival>{1} จาก {0}</LetterLabelTraderCaravanArrival>
   <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
-  <LetterTraderCaravanArrival>คาราวานแลกเปลี่ยนจาก {0} ใกล้จะมาถึง พวกเขาเป็น {1}\n\nพวกเขาจะวนเวียนอยู่ในอาณานิคมไม่กี่วันก่อนจะจากไป คุณเลือกโจมตีพวกเขาได้ - แต่นั่นทำให้ฝ่ายของพวกเขาโกรธเคือง!</LetterTraderCaravanArrival>
+  <LetterTraderCaravanArrival>คาราวานจาก {0} ใกล้จะมาถึง พวกเขาเป็น {1}</LetterTraderCaravanArrival>
   <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
-  <LetterCaravanArrivalCommonWarning>TODO</LetterCaravanArrivalCommonWarning>
+  <LetterCaravanArrivalCommonWarning>พวกเขาจะวนเวียนอยู่ในอาณานิคมไม่กี่วันก่อนจะจากไป คุณเลือกโจมตีพวกเขาได้ - แต่นั่นทำให้ฝ่ายของพวกเขาโกรธเคือง!</LetterCaravanArrivalCommonWarning>
     
   <!-- Ransom demand -->
   <!-- EN: Ransom demand at {0} -->
@@ -190,7 +190,7 @@
   <!-- EN: no caravan members capable of trading -->
   <CaravanMeeting_TradeIncapable>ไม่มีสมาชิกคาคาวานที่มีความสามารถในการซื้อขาย</CaravanMeeting_TradeIncapable>
   <!-- EN: need a trader with the title of {0} from {1_name} -->
-  <CaravanMeeting_NoPermit>TODO</CaravanMeeting_NoPermit>
+  <CaravanMeeting_NoPermit>ต้องการผู้ค้ามีบรรดาศักดิ์ {0} จาก {1_name}</CaravanMeeting_NoPermit>
   
   <!-- Caravan request -->
   <!-- EN: Caravan request -->
@@ -226,20 +226,20 @@
 
   <!-- Quest asker faction hostile -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerFactionHostile>TODO</LetterLabelQuestAskerFactionHostile>
+  <LetterLabelQuestAskerFactionHostile>เควสล้มเหลว</LetterLabelQuestAskerFactionHostile>
   <!-- EN: The quest is now incompletable because {FACTION_name} is hostile. -->
-  <LetterQuestAskerFactionHostile>TODO</LetterQuestAskerFactionHostile>
+  <LetterQuestAskerFactionHostile>เควสไม่สามารถทำให้สำเร็จได้อีกต่อไป เนื่องจาก {FACTION_name} กลายเป็นปรปักษ์</LetterQuestAskerFactionHostile>
 
   <!-- Quest asker captured -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerCaptured>TODO</LetterLabelQuestAskerCaptured>
+  <LetterLabelQuestAskerCaptured>เควสล้มเหลว</LetterLabelQuestAskerCaptured>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has been captured. -->
-  <LetterQuestAskerCaptured>TODO</LetterQuestAskerCaptured>
+  <LetterQuestAskerCaptured>เควสไม่สามารถทำให้สำเร็จได้อีกต่อไป เนื่องจาก {SUBJECT_definite} ถูกจับตัวไป</LetterQuestAskerCaptured>
 
   <!-- Quest asker died -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerDied>TODO</LetterLabelQuestAskerDied>
+  <LetterLabelQuestAskerDied>เควสล้มเหลว</LetterLabelQuestAskerDied>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
-  <LetterQuestAskerDied>TODO</LetterQuestAskerDied>
+  <LetterQuestAskerDied>เควสไม่สามารถทำให้สำเร็จได้อีกต่อไป เนื่องจาก {SUBJECT_definite} ตาย</LetterQuestAskerDied>
 
 </LanguageData>

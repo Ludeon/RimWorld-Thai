@@ -45,7 +45,7 @@
   <!-- EN: nothing -->
   <NothingLower>ไม่มีอะไร</NothingLower>
   <!-- EN: Nothing -->
-  <Nothing>TODO</Nothing>
+  <Nothing>ไม่มีอะไร</Nothing>
   <!-- EN: Adapted -->
   <Adapted>ปรับตัวแล้ว</Adapted>
   <!-- EN: fresh -->
@@ -67,11 +67,11 @@
   <!-- EN: Immunity -->
   <Immunity>ภูมิคุ้มกัน</Immunity>
   <!-- EN: {0} days to recover -->
-  <DaysToRecover>TODO</DaysToRecover>
+  <DaysToRecover>{0} วันในการฟื้นฟู</DaysToRecover>
   <!-- EN: Ineffective -->
-  <Ineffective>TODO</Ineffective>
+  <Ineffective>ไร้ประสิทธิภาพ</Ineffective>
   <!-- EN: illegal -->
-  <Illegal>TODO</Illegal>
+  <Illegal>ผิดกฏหมาย</Illegal>
   <!-- EN: Race -->
   <Race>เผ่าพันธุ์</Race>
   <!-- EN: Description -->
@@ -87,9 +87,9 @@
   <!-- EN: Drop -->
   <DropThing>ทิ้งของ</DropThing>
   <!-- EN: Temporary faction members will not drop their items. -->
-  <DropThingLodger>TODO</DropThingLodger>
+  <DropThingLodger>สมาชิกฝักฝ่ายชั่วคราวจะไม่ทิ้งไอเท็มของพวกเขา</DropThingLodger>
   <!-- EN: This person refuses to drop this. -->
-  <DropThingLocked>TODO</DropThingLocked>
+  <DropThingLocked>บุคคลนี้ปฏิเสธจะทิ้งสิ่งนี้</DropThingLocked>
   <!-- EN: Rename -->
   <Rename>เปลี่ยนชื่อ</Rename>
   <!-- EN: Rename animal -->
@@ -133,7 +133,7 @@
   <!-- EN: Next {0} in -->
   <NextSpawnedItemIn>ต่อไปใน {0}</NextSpawnedItemIn>
   <!-- EN: Next resource in -->
-  <NextSpawnedResourceIn>TODO</NextSpawnedResourceIn>
+  <NextSpawnedResourceIn>ทรัพยากรต่อไปใน</NextSpawnedResourceIn>
   <!-- EN: Broken down -->
   <BrokenDown>พัง</BrokenDown>
   <!-- EN: (bond) -->
@@ -223,7 +223,7 @@
   <!-- EN: Offering gifts to {0}. -->
   <CaravanOfferingGifts>นำเสนอของขวัญให้ {0}</CaravanOfferingGifts>
   <!-- EN: Trading with {0} -->
-  <CaravanTrading>TODO</CaravanTrading>
+  <CaravanTrading>กำลังแลกเปลื่ยนกับ {0}</CaravanTrading>
   <!-- EN: Tainted from being worn by a corpse. -->
   <WasWornByCorpse>มีมลทินจากการถูกใส่โดยศพ</WasWornByCorpse>
   <!-- EN: T -->

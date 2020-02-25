@@ -69,7 +69,7 @@
   <!-- EN: Assign this bed to be owned by a specific colonist. -->
   <CommandBedSetOwnerDesc>กำหนดเตียงนี้ ให้เป็นของชาวนิคมคนใด</CommandBedSetOwnerDesc>
   <!-- EN: Assign this throne to be owned by a specific colonist. -->
-  <CommandThroneSetOwnerDesc>TODO</CommandThroneSetOwnerDesc>
+  <CommandThroneSetOwnerDesc>กำหนดบัลลังก์นี้ ให้เป็นของชาวนิคมคนใด</CommandThroneSetOwnerDesc>
   <!-- EN: Assign colonist -->
   <CommandGraveAssignColonistLabel>กำหนดชาวนิคม</CommandGraveAssignColonistLabel>
   <!-- EN: Assign this grave to be owned by a specific colonist. -->
@@ -352,7 +352,7 @@
   <!-- EN: There isn't any conscious and capable negotiator. -->
   <CommandTradeFailNoNegotiator>ไม่มีคนต่อรองที่มีความสามารถ หรือยังมีสติอยู่</CommandTradeFailNoNegotiator>
   <!-- EN: None of your people have the required faction permission: {0} -->
-  <CommandTradeFailNeedPermit>TODO</CommandTradeFailNeedPermit>
+  <CommandTradeFailNeedPermit>ไม่มีชาวนิคมคนใดของคุณ ที่ได้รับอณุญาตฝักฝ่ายที่จำเป็น: {0}</CommandTradeFailNeedPermit>
 
   <!-- Offer gifts -->
   <!-- EN: Offer gifts -->
@@ -386,9 +386,9 @@
 
   <!-- Refueling -->
   <!-- EN: Toggle automatic refuel -->
-  <CommandToggleAllowAutoRefuel>TODO</CommandToggleAllowAutoRefuel>
+  <CommandToggleAllowAutoRefuel>เปิด-ปิดเติมเชื้อเพลิงออโต้</CommandToggleAllowAutoRefuel>
   <!-- EN: Sets whether or not automatic refueling is allowed. -->
-  <CommandToggleAllowAutoRefuelDesc>TODO</CommandToggleAllowAutoRefuelDesc>
+  <CommandToggleAllowAutoRefuelDesc>เซ็ตว่าจะอณุญาตให้เติมเชื้อเพลิงอัตโนมัติหรือไม่</CommandToggleAllowAutoRefuelDesc>
   
   <!-- Cancel load -->
   <!-- EN: Cancel load -->
@@ -412,7 +412,7 @@
   <!-- EN: Load launch group of {0} -->
   <CommandLoadTransporter>โหลดกลุ่มปล่อยตัว ของ {0}</CommandLoadTransporter>
   <!-- EN: Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandLoadTransporterDesc>นิยมยานบรรทุกที่เลือกให้เป็นกลุ่มปล่อยตัว เปิดหน้าต่างโหลดของ เพื่อคุณสามารถตัดสินใจได้ว่าใครและสิ่งใด ควรจะโหลดเข้าภายใน</CommandLoadTransporterDesc>
+  <CommandLoadTransporterDesc>นิยามพาหนะบรรทุกที่เลือกให้เป็นกลุ่มปล่อยตัว เปิดหน้าต่างโหลดเพื่อที่คุณจะได้ตัดสินใจ ว่าจะโหลดใครหรืออะไรข้างในบ้าง</CommandLoadTransporterDesc>
   <!-- EN: The transport pod is not connected to a fueling port. -->
   <CommandLoadTransporterFailNotConnectedToFuelingPort>กระสวยขนส่งไม่ได้เชื่อมต่อกับช่องเติมน้ำมัน</CommandLoadTransporterFailNotConnectedToFuelingPort>
   <!-- EN: The pod launcher has no fuel. -->
@@ -420,21 +420,21 @@
   
   <!-- Load transporter (single) -->
   <!-- EN: Load -->
-  <CommandLoadTransporterSingle>TODO</CommandLoadTransporterSingle>
+  <CommandLoadTransporterSingle>โหลด</CommandLoadTransporterSingle>
   <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandLoadTransporterSingleDesc>TODO</CommandLoadTransporterSingleDesc>
+  <CommandLoadTransporterSingleDesc>เปิดหน้าต่างโหลดเพื่อที่คุณจะได้ตัดสินใจ ว่าจะโหลดใครหรืออะไรข้างในบ้าง</CommandLoadTransporterSingleDesc>
   
   <!-- Transporters set to load -->
   <!-- EN: Set to load -->
-  <CommandSetToLoadTransporter>TODO</CommandSetToLoadTransporter>
+  <CommandSetToLoadTransporter>เซ็ตเพื่อโหลด</CommandSetToLoadTransporter>
   <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandSetToLoadTransporterDesc>TODO</CommandSetToLoadTransporterDesc>
+  <CommandSetToLoadTransporterDesc>เปิดหน้าต่างโหลดเพื่อที่คุณจะได้ตัดสินใจ ว่าจะโหลดใครหรืออะไรข้างในบ้าง</CommandSetToLoadTransporterDesc>
   
   <!-- Autoload transporters -->
   <!-- EN: Autoload -->
-  <CommandAutoloadTransporters>TODO</CommandAutoloadTransporters>
+  <CommandAutoloadTransporters>ออโต้โหลด</CommandAutoloadTransporters>
   <!-- EN: Toggle loading all required cargo automatically as soon as they become available. -->
-  <CommandAutoloadTransportersDesc>TODO</CommandAutoloadTransportersDesc>
+  <CommandAutoloadTransportersDesc>สลับโหลดคาโก้ทั้งหมดอัตโนมัติเมื่อมีให้โหลด</CommandAutoloadTransportersDesc>
   
   <!-- Select previous transporter -->
   <!-- EN: Select previous in launch group -->
@@ -486,34 +486,35 @@
 
   <!-- Send shuttle -->
   <!-- EN: Send -->
-  <CommandSendShuttle>TODO</CommandSendShuttle>
+  <CommandSendShuttle>ส่งกระสวย
+  </CommandSendShuttle>
   <!-- EN: Initiate takeoff and have the shuttle fly to its destination. -->
-  <CommandSendShuttleDesc>TODO</CommandSendShuttleDesc>
+  <CommandSendShuttleDesc>เริ่มเทคออฟ ปล่อยกระสวยบินไปยังเป้าหมาย</CommandSendShuttleDesc>
   <!-- EN: The shuttle is under a roof. -->
-  <CommandSendShuttleFailUnderRoof>TODO</CommandSendShuttleFailUnderRoof>
+  <CommandSendShuttleFailUnderRoof>กระสวยอยู่ภายใต้หลังคา</CommandSendShuttleFailUnderRoof>
   <!-- EN: Some of the required items or people are missing. -->
-  <CommandSendShuttleFailMissingRequiredThing>TODO</CommandSendShuttleFailMissingRequiredThing>
+  <CommandSendShuttleFailMissingRequiredThing>คนหรือไอเท็มที่จำเป็นบางอย่างตกหล่นไป</CommandSendShuttleFailMissingRequiredThing>
 
   <!-- Place blueprints -->
   <!-- EN: Place blueprints -->
-  <CommandPlaceBlueprints>TODO</CommandPlaceBlueprints>
+  <CommandPlaceBlueprints>วางพิมพ์เขียว</CommandPlaceBlueprints>
   <!-- EN: Place all required blueprints where possible. -->
-  <CommandPlaceBlueprintsDesc>TODO</CommandPlaceBlueprintsDesc>
+  <CommandPlaceBlueprintsDesc>วางพิมพ์เขียวทั้งหมดในตำแหน่งที่เป็นไปได้</CommandPlaceBlueprintsDesc>
 
   <!-- Cancel monument marker -->
   <!-- EN: Cancel -->
-  <CommandCancelMonumentMarker>TODO</CommandCancelMonumentMarker>
+  <CommandCancelMonumentMarker>ยกเลิก</CommandCancelMonumentMarker>
   <!-- EN: Permanently remove this monument marker. -->
-  <CommandCancelMonumentMarkerDesc>TODO</CommandCancelMonumentMarkerDesc>
+  <CommandCancelMonumentMarkerDesc>ลบมาร์คอนุสาวรีย์นี้ถาวร</CommandCancelMonumentMarkerDesc>
 
   <!-- View quest -->
   <!-- EN: View quest: {0} -->
-  <CommandViewQuest>TODO</CommandViewQuest>
+  <CommandViewQuest>ดูเควส: {0}</CommandViewQuest>
   <!-- EN: View this quest in quests tab. -->
-  <CommandViewQuestDesc>TODO</CommandViewQuestDesc>
+  <CommandViewQuestDesc>ดูเควสในแท็บเควส</CommandViewQuestDesc>
   <!-- EN: Open linked quest -->
-  <CommandOpenLinkedQuest>TODO</CommandOpenLinkedQuest>
+  <CommandOpenLinkedQuest>เปิดเควสที่เชื่อมโยง</CommandOpenLinkedQuest>
   <!-- EN: Open linked quest in the quests tab. -->
-  <CommandOpenLinkedQuestDesc>TODO</CommandOpenLinkedQuestDesc>
+  <CommandOpenLinkedQuestDesc>เปิดเควสที่เชื่อมโยงในแท็บเควส</CommandOpenLinkedQuestDesc>
 
 </LanguageData>

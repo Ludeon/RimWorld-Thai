@@ -54,7 +54,7 @@
   
   <!-- Missing Steam -->
   <!-- EN: Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available. -->
-  <SteamClientMissing>ไม่สามารถเริ่มใช้ Steam API, โดยสาเหตุที่เป็นไปได้:\n\n- Steam ไม่ทำงาน\n- เปิดใช้งานภายนอก Steam โดยไม่มีไฟล์ steam_appid.txt\n- รันด้วยสิทธิ์ที่แตกต่างจาก Steam ไคล์แอน (เช่น "รันในฐานะผู้ดูแลระบบ")\n\nส่วนมาก การรีบูตเครื่องคอมพิวเตอร์จะช่วยแก้ปัญหานี้ได้\n\nยังไงก็ตามคุณสามารถเล่นต่อได้ แต่จะสถิติใน Steam จะไม่ถูกเก็บ และฟีเจอร์เกี่ยวกับ Steam จะใช้ไม่ได้</SteamClientMissing>
+  <SteamClientMissing>ไม่สามารถเริ่มใช้ Steam API, สาเหตุที่เป็นไปได้:\n\n- Steam ไม่ได้รันอยู่\n- เปิดเกมจากภายนอก Steam โดยที่ไม่มีไฟล์ steam_appid.txt\n- รันด้วยสิทธิ์ที่แตกต่างจาก Steam ไคล์แอน (เช่น "รันในฐานะผู้ดูแลระบบ")\n\nโดยส่วนมากการรีบูตเครื่องคอมพิวเตอร์จะช่วยแก้ปัญหานี้ได้\n\nยังไงซะคุณสามารถเล่นต่อได้ แต่สถิติใน Steam จะไม่ถูกเก็บและฟีเจอร์เกี่ยวกับ Steam จะใช้ไม่ได้</SteamClientMissing>
   
   <!-- Long events -->
   <!-- EN: Initializing interface -->
@@ -801,9 +801,9 @@
   <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
   <TakeToInventoryColumnDesc>ปริมาณยาที่หยิบมาเกิน เวลาถือไว้กับตัวเพื่อเสพ จะได้ไม่ต้องไปหยิบในคลังเก็บยาทุกครั้งไป</TakeToInventoryColumnDesc>
   <!-- EN: For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForAddiction>สำหรับการเสพติด\n\nใช้ยานี้ กับผู้ที่เห็นชัดแล้วว่าเสพติด\n\nแต่ว่าถึงปิดใช้งาน ตัวละครที่มีคุณสมบัติพิเศษ หรือกำลังสติแตก ก็อาจใช้ยานี้อยู่ดี</DrugUsageTipForAddiction>
+  <DrugUsageTipForAddiction>สำหรับการเสพติด\n\nใช้ยานี้ กับผู้ที่เห็นชัดแล้วว่าเสพติด\n\nแต่ว่าถึงปิดใช้งาน ตัวละครที่มีอุปนิสัยพิเศษ หรือกำลังสติแตก ก็อาจใช้ยานี้อยู่ดี</DrugUsageTipForAddiction>
   <!-- EN: For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForJoy>สำหรับการผ่อนคลาย\n\nใช้ยานี้ เพื่อผ่อนคลายและวัตถุประสงค์ทางสังคม\n\nแต่ว่าถึงปิดใช้งาน ตัวละครที่มีคุณสมบัติพิเศษ หรือกำลังสติแตก ก็อาจใช้ยานี้อยู่ดี</DrugUsageTipForJoy>
+  <DrugUsageTipForJoy>สำหรับการผ่อนคลาย\n\nใช้ยานี้ เพื่อผ่อนคลายและวัตถุประสงค์ทางสังคม\n\nแต่ว่าถึงปิดใช้งาน ตัวละครที่มีอุปนิสัยพิเศษ หรือกำลังสติแตก ก็อาจใช้ยานี้อยู่ดี</DrugUsageTipForJoy>
   <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
   <DrugUsageTipScheduled>กำหนดการ\n\nใช้ยานี้ตามเวลาที่กำหนด เมื่อเงื่อนไขที่ระบุไว้ตรงกัน</DrugUsageTipScheduled>
 

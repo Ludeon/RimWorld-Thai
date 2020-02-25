@@ -27,7 +27,7 @@ Quick notes & summary from current translation report, generated on `2020-02-25`
 * ☑️ (0) General load errors
 * ️️☑️ (0) Def-injected translations load errors
 * ☑️ (0) Backstories load errors
-* 🔲 (308) Missing keyed translations
+* 🔲 (246) Missing keyed translations
 * 🔲 (4544) Def-injected translations missing
 * 🔲 (2374) Backstory translations missing
 * ☑️ (0) Unnecessary def-injected translations (marked as NoTranslate)

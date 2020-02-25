@@ -34,7 +34,7 @@
   <ConfigurableLevel>ระดับ: {0}</ConfigurableLevel>
 
   <!-- EN: {0} have a {1} chance to start with trait: {2} -->
-  <ScenPart_PawnsHaveTrait>{0} มีโอกาส {1} จะเริ่มต้นด้วยคุณสมบัติ: {2}</ScenPart_PawnsHaveTrait>
+  <ScenPart_PawnsHaveTrait>{0} มีโอกาส {1} จะเริ่มต้นด้วยอุปนิสัย: {2}</ScenPart_PawnsHaveTrait>
   <!-- EN: Characters and creatures explode on death ({0}, radius {1}). -->
   <ScenPart_OnPawnDeathExplode>ตัวละครและสิ่งมีชีวิตจะระเบิดเมื่อตาย ({0}, ขอบเขต {1})</ScenPart_OnPawnDeathExplode>
   <!-- EN: {0} start naked. -->
