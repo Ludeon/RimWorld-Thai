@@ -10,11 +10,11 @@
   <!-- EN: Passion -->
   <Passion>Passion</Passion>
   <!-- EN: None\n   -Learns {0} -->
-  <PassionNone>ไม่มี -เรียนรู้ {0}</PassionNone>
+  <PassionNone>ไม่มี\n   -เรียนรู้ {0}</PassionNone>
   <!-- EN: Interested\n   -Learns {0} -->
-  <PassionMinor>เอาใจใส่ -เรียนรู้ {0}</PassionMinor>
+  <PassionMinor>เอาใจใส่\n   -เรียนรู้ {0}</PassionMinor>
   <!-- EN: Burning\n   -Learns {0} -->
-  <PassionMajor>เร่าร้อน -เรียนรู้ {0}</PassionMajor>
+  <PassionMajor>เร่าร้อน\n   -เรียนรู้ {0}</PassionMajor>
   <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
   <LearnedMaxToday>วันนี้เรียนรู้เต็มขึ้น ({0}/{1}, การเรียนต่อจากนี้คูณด้วย {2})</LearnedMaxToday>
   <!-- EN: Effects at level {0} -->

@@ -43,7 +43,7 @@
   <!-- EN: Contents -->
   <TabTransporterContents>บรรทุก</TabTransporterContents>
   <!-- EN: Contents -->
-  <TabCasketContents>TODO</TabCasketContents>
+  <TabCasketContents>เนื้อหา</TabCasketContents>
   
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
@@ -77,27 +77,27 @@
 
   <!-- Guest/prisoner tab -->
   <!-- EN: Resistance remaining -->
-  <RecruitmentResistance>ยังคงขัดขืนอยู่</RecruitmentResistance>
+  <RecruitmentResistance>ยังคงต่อต้านอยู่</RecruitmentResistance>
   <!-- EN: Recruitment difficulty -->
   <RecruitmentDifficulty>ความยากในการชักชวนเข้าร่วม</RecruitmentDifficulty>
   <!-- EN: Recruitment chance -->
-  <RecruitmentChance>TODO</RecruitmentChance>
+  <RecruitmentChance>โอกาศในการชักชวนเข้าร่วม</RecruitmentChance>
   <!-- EN: Recruit difficulty factor: {0}\nMood factor: {1}\nCombined base chance: {2} -->
-  <RecruitmentChanceExplanation>TODO</RecruitmentChanceExplanation>
+  <RecruitmentChanceExplanation>ปัจจัยความยากในการชักชวนเข้าร่วม: {0}\nปัจจัยด้านอารมณ์: {1}\nรวมกันเป็นค่าฐานโอกาศ: {2}</RecruitmentChanceExplanation>
   <!-- EN: \n- - - - - - - - - -\nLast recruitment attempt\nRecruiter: {3}\nNegotiation ability factor: {4}\nOpinion factor: {5} ({6})\nFinal chance for {3}: {7} -->
-  <RecruitmentChanceWithLastRecruiterExplanationPart>TODO</RecruitmentChanceWithLastRecruiterExplanationPart>
+  <RecruitmentChanceWithLastRecruiterExplanationPart>\n- - - - - - - - - -\nความพยายามชักชวนเข้าร่วมครั้งล่าสุด\nผู้ชักชวน: {3}\nปัจจัยทักษะด้านเจรจา: {4}\nปัจจัยด้านความเห็น: {5} ({6})\nโอกาศสุดท้ายสำหรับ {3}: {7}</RecruitmentChanceWithLastRecruiterExplanationPart>
   <!-- EN: \nResistance reduction: {0} -->
-  <RecruitmentLastRecruiterResistanceReduceExplanationPart>TODO</RecruitmentLastRecruiterResistanceReduceExplanationPart>
+  <RecruitmentLastRecruiterResistanceReduceExplanationPart>\nการต่อต้านลดลง: {0}</RecruitmentLastRecruiterResistanceReduceExplanationPart>
   <!-- EN: Relations gain on release -->
-  <PrisonerReleasePotentialRelationGains>TODO</PrisonerReleasePotentialRelationGains>
+  <PrisonerReleasePotentialRelationGains>ความสัมพันธ์ที่ได้เมื่อปล่อยตัว</PrisonerReleasePotentialRelationGains>
   <!-- EN: The faction relations improvement you will get from the prisoner's faction if you release them. This is affected by the prisoner's health and mental condition. -->
-  <PrisonerReleaseRelationGainsDesc>TODO</PrisonerReleaseRelationGainsDesc>
+  <PrisonerReleaseRelationGainsDesc>ค่าความสัมพันธ์กับฝ่ายของนักโทษที่จะพัฒนาขึ้นถ้าคุณปล่อยตัวไป ค่านี่ได้รับผลกระทบจากสุขภาพกาย และสุขภาพทางจิตของนักโทษ</PrisonerReleaseRelationGainsDesc>
   <!-- EN: Prison break interval -->
-  <PrisonBreakMTBDays>TODO</PrisonBreakMTBDays>
+  <PrisonBreakMTBDays>ช่วงเวลาระหว่างแหกคุก</PrisonBreakMTBDays>
   <!-- EN: The mean number of days of time awake between prison break attempts. Affected by mood, mobility and time since the last prison break.\n\nThis number ignores time spent sleeping, so the actual average prison break interval will usually be longer. -->
-  <PrisonBreakMTBDaysDescription>TODO</PrisonBreakMTBDaysDescription>
+  <PrisonBreakMTBDaysDescription>มาตรตัวเลขวันคร่าวๆระหว่างวันที่ตื่นอยู่แล้วพยายามแหกคุกล่าสุด ได้รับผลกระทบโดยอารมณ์ ความคล่องตัว และเวลาตั้งแต่พยายามแหกคุก\n\nตัวเลขนี้มองข้ามเวลาที่ใช้ไปกับการนอน ดังนั้นค่าเฉลี่ยจริงๆของระยะห่างเวลา จากการพยายามแหกคุกมักจะนานกว่านี้</PrisonBreakMTBDaysDescription>
   <!-- EN: Slave price -->
-  <SlavePrice>TODO</SlavePrice>
+  <SlavePrice>ราคาทาส</SlavePrice>
   <!-- EN: Gets food -->
   <GetsFood>ได้รับอาหาร</GetsFood>
   <!-- EN: Doctors care -->
@@ -228,7 +228,7 @@
   <!-- EN: Kidnapped -->
   <Kidnapped>ถูกลักพาตัว</Kidnapped>
   <!-- EN: Lent to {FACTION_name}, returns in {1} -->
-  <Lent>TODO</Lent>
+  <Lent>ให้ {FACTION_name} ยืมตัวไป, จะกลับมาใน {1}</Lent>
   <!-- EN: Missing -->
   <Missing>หายตัวไป</Missing>
   <!-- EN: Slave -->
@@ -310,16 +310,16 @@
   <!-- EN: Remove {{0}}x {0} -->
   <RemoveSliderText>เอาออก {{0}}x {0}</RemoveSliderText>
   <!-- EN: Contained items -->
-  <ContainedItems>TODO</ContainedItems>
+  <ContainedItems>ภายในมีไอเท็ม</ContainedItems>
   <!-- EN: Do you really want to remove {0}? -->
   <ConfirmRemoveItemDialog>คุณต้องการเอา {0} ออกจริงๆ?</ConfirmRemoveItemDialog>
   
   <!-- Quests tab -->
   <!-- EN: Dismiss this quest and move it to the historical tab.\n\nThe quest can be un-dismissed at any time. Its effects and expiry times will proceed as normal. You won't recieve notifications about dismissed quests. -->
-  <DismissQuest>TODO</DismissQuest>
+  <DismissQuest>เมินเฉยเควสนี้และนำมันไปไว้ที่แท็บประวัติเหตุการณ์\n\nเควสสามารถเลิกเมินเฉยเมื่อไหร่ก็ได้ ผลกระทบและเวลาหมดอายุดำเนินไปตามปกติ แต่คุณจะไม่ได้รับการแจ้งเตือนเกี่ยวกับเควสที่เมินเฉย</DismissQuest>
   <!-- EN: Un-dismiss this quest.\n\nThe quest will be returned to the available or active tab, and notifications will be re-enabled. -->
-  <UnDismissQuest>TODO</UnDismissQuest>
+  <UnDismissQuest>เลิกเมินเฉยเควสนี้\n\nเควสนี้จะถูกนำกลับไปที่แท็บกำลังทำ และจะกลับมามีการแจ้งเตือนอีกครั้ง</UnDismissQuest>
   <!-- EN: This quest is here because it was dismissed.\n\nYou can un-dismiss it until it expires. -->
-  <QuestDismissed>TODO</QuestDismissed>
+  <QuestDismissed>เควสนี้อยู่ที่นี่เพราะคุณเมินเฉย\n\nคุณสามารถเลิกเมินเฉยได้ไปจนกว่าเควสจะหมดอายุ</QuestDismissed>
 
 </LanguageData>

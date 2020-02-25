@@ -191,31 +191,31 @@
   <!-- EN: The terrain here is already {0}. -->
   <TerrainIsAlready>ผืนดินนี้เป็น {0} อยู่แล้ว</TerrainIsAlready>
   <!-- EN: The surface is already marked for smoothing. -->
-  <SurfaceBeingSmoothed>พื้นผิวถูกทำเครื่องหมายไว้แล้ว ว่าจะถูกทำให้เรียบ</SurfaceBeingSmoothed>
+  <SurfaceBeingSmoothed>พื้นผิวถูกเครื่องหมายไว้ว่าจะถูกทำให้เรียบ</SurfaceBeingSmoothed>
   <!-- EN: Identical thing already exists here. -->
-  <IdenticalThingExists>มีสิ่งที่เหมือนกัน วางอยู่ตรงนี้แล้ว</IdenticalThingExists>
+  <IdenticalThingExists>มีสิ่งที่เหมือนกันอยู่ตรงนี้แล้ว</IdenticalThingExists>
   <!-- EN: Identical blueprint already exists here. -->
-  <IdenticalBlueprintExists>มีพิมพ์เขียวที่เหมือนกัน วางอยู่ตรงนี้แล้ว</IdenticalBlueprintExists>
+  <IdenticalBlueprintExists>มีพิมพ์เขียวที่เหมือนกันอยู่ตรงนี้แล้ว</IdenticalBlueprintExists>
   <!-- EN: {0_label} cannot be built on this terrain. -->
   <TerrainCannotSupport>{0_label} ไม่สามารถสร้างบนภูมิประเทศนี้ได้</TerrainCannotSupport>
   <!-- EN: {0_label} requires terrain that supports: {1_label} -->
-  <TerrainCannotSupport_TerrainAffordance>{0_label}ต้องอยู่ในภูมิประเทศที่รองรับ: {1_label}</TerrainCannotSupport_TerrainAffordance>
+  <TerrainCannotSupport_TerrainAffordance>{0_label} ต้องอยู่ในภูมิประเทศที่รองรับ: {1_label}</TerrainCannotSupport_TerrainAffordance>
   <!-- EN: {0_label} (when made of {2_label}) requires terrain that supports: {1_label} -->
-  <TerrainCannotSupport_TerrainAffordanceFromStuff>TODO</TerrainCannotSupport_TerrainAffordanceFromStuff>
+  <TerrainCannotSupport_TerrainAffordanceFromStuff>{0_label} (เมื่อสร้างด้วย {2_label}) ต้องอยู่ในภูมิประเทศที่รองรับ: {1_label}</TerrainCannotSupport_TerrainAffordanceFromStuff>
   <!-- EN: Space already occupied. -->
   <SpaceAlreadyOccupied>ที่ว่างถูกครอบครองไปแล้ว</SpaceAlreadyOccupied>
   <!-- EN: Space being smoothed. -->
   <SpaceBeingSmoothed>ที่ว่างถูกทำให้เรียบ</SpaceBeingSmoothed>
   <!-- EN: Must target a removable floor. -->
-  <TerrainMustBeRemovable>ต้องระบุพื้น ที่สามารถลบออกได้</TerrainMustBeRemovable>
+  <TerrainMustBeRemovable>ต้องระบุพื้นที่สามารถลบออกได้</TerrainMustBeRemovable>
   <!-- EN: The waterwheel must be on moving water. -->
-  <MustBeOnMovingWater>กังหันน้ำ ต้องอยู่ในน้ำไหล</MustBeOnMovingWater>
+  <MustBeOnMovingWater>กังหันน้ำต้องอยู่ในน้ำไหล</MustBeOnMovingWater>
   <!-- EN: Interaction spot will overlap with the interaction spot of {1_labelShort}. -->
-  <InteractionSpotWillOverlap>TODO</InteractionSpotWillOverlap>
+  <InteractionSpotWillOverlap>จุดโต้ตอบจะทับซ้อนกับจุดโต้ตอบของ{1_labelShort}</InteractionSpotWillOverlap>
   <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
-  <InteractionSpotOverlaps>TODO</InteractionSpotOverlaps>
+  <InteractionSpotOverlaps>จุดโต้ตอบทับซ้อนกับจุดโต้ตอบของ{1_labelShort}</InteractionSpotOverlaps>
   <!-- EN: Monument markers can't be placed directly adjacent to any building. -->
-  <MonumentAdjacentToBuilding>TODO</MonumentAdjacentToBuilding>
+  <MonumentAdjacentToBuilding>มาร์คอนุสาวรีย์ ไม่อาจวางติดกับอาคารใดๆได้</MonumentAdjacentToBuilding>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
@@ -225,15 +225,15 @@
   
   <!-- Desc helpers -->
   <!-- EN: Transmits power -->
-  <TransmitsPower>กำลังส่งผ่านพลังงาน</TransmitsPower>
+  <TransmitsPower>ส่งพลังงาน</TransmitsPower>
   <!-- EN: Construction needed -->
-  <ConstructionNeeded>ทักษะก่อสร้างจำเป็น</ConstructionNeeded>
+  <ConstructionNeeded>ต้องมีการก่อสร้าง</ConstructionNeeded>
   <!-- EN: None of your {0} have this skill. -->
   <NoColonistWithSkillTip>ไม่มีใครใน {0} ของคุณมีทักษะนี้</NoColonistWithSkillTip>
   <!-- EN: {0} needed -->
-  <SkillNeededForConstructing>TODO</SkillNeededForConstructing>
+  <SkillNeededForConstructing>ต้องมีกทักษะ{0}</SkillNeededForConstructing>
   <!-- EN: None of your {0} have all skills required. -->
-  <NoColonistWithAllSkillsForConstructing>TODO</NoColonistWithAllSkillsForConstructing>
+  <NoColonistWithAllSkillsForConstructing>ไม่มีใครใน {0} ของคุณมีทักษะจำเป็นทั้งหมด</NoColonistWithAllSkillsForConstructing>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
   <AllColonistsWithSkillHaveDisabledConstructingTip>{0} ทั้งหมดของคุณที่มีทักษะนี้ ไม่ได้รับกำหนดให้ {1}</AllColonistsWithSkillHaveDisabledConstructingTip>
 

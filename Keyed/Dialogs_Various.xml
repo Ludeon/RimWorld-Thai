@@ -14,9 +14,9 @@
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
   <GameUpdatedToNewVersionInitial>RimWorld อัพเดตจากเวอร์ชั่น {0} เป็นเวอร์ชั่น {1}</GameUpdatedToNewVersionInitial>
   <!-- EN: This may cause saved games and mods from the old version to stop working. -->
-  <GameUpdatedToNewVersionSavesIncompatible>นี่อาจทำให้เซฟเกมและ Mods จากเวอร์ชันเก่าหยุดทำงาน</GameUpdatedToNewVersionSavesIncompatible>
+  <GameUpdatedToNewVersionSavesIncompatible>นี่อาจทำให้เซฟเกมและม็อดจากเวอร์ชันเก่าหยุดทำงาน</GameUpdatedToNewVersionSavesIncompatible>
   <!-- EN: Saved games from the old version should be compatible, however some mods may stop working. -->
-  <GameUpdatedToNewVersionSavesCompatible>เกมที่เซฟไว้จากเวอร์ชั่นเก่าๆควรยังเข้ากันได้ แต่ว่า Mods บางตัวอาจหยุดทำงาน</GameUpdatedToNewVersionSavesCompatible>
+  <GameUpdatedToNewVersionSavesCompatible>เกมที่เซฟไว้จากเวอร์ชั่นเก่าๆควรยังเข้ากันได้ แต่ว่าม็อดบางตัวอาจหยุดทำงาน</GameUpdatedToNewVersionSavesCompatible>
   <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
   <GameUpdatedToNewVersionNonSteam>เนื่องจากนี่เป็นก๊อปปี้ของเกมแบบไร้ DRM, คุณสามารถติดตั้งเกมซ้ำในโฟลเดอร์อื่น เพื่อให้สามารถเล่นทั้งเวอร์ชั่นเก่าและใหม่ได้</GameUpdatedToNewVersionNonSteam>
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu. -->
@@ -24,9 +24,9 @@
   
   <!-- Recovered from errors caused by mods -->
   <!-- EN: Recovered from incompatible or corrupted mods errors -->
-  <RecoveredFromErrorsDialogTitle>กู้คืนจาก Mods ที่เข้ากันไม่ได้หรือเสียหาย</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsDialogTitle>กู้คืนจากม็อดที่เข้ากันไม่ได้หรือเสียหาย</RecoveredFromErrorsDialogTitle>
   <!-- EN: It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog. -->
-  <RecoveredFromErrorsText>ดูเหมือนว่า Mods บางส่วนที่ใช้งานก่อให้เกิดข้อผิดพลาดขึ้น\n\nพวกนี้เข้ากันและกันไม่ได้ ออกแบบมาสำหรับ RimWorld คนละเวอร์ชั่น หรือเกิดการเสียหาย\n\nMods ทั้งหมดถูกปิดใช้งาน ซึ่งสามารถเปิดใช้งานได้อีกครั้งในหน้า Mods</RecoveredFromErrorsText>
+  <RecoveredFromErrorsText>ดูเหมือนว่าม็อดบางส่วนที่ใช้งานก่อให้เกิดข้อผิดพลาดขึ้น\n\nพวกนี้เข้ากันและกันไม่ได้ ออกแบบมาสำหรับ RimWorld คนละเวอร์ชั่น หรือเกิดการเสียหาย\n\nม็อดทั้งหมดถูกปิดใช้งาน ซึ่งสามารถเปิดใช้งานได้อีกครั้งในหน้าม็อด</RecoveredFromErrorsText>
   
   <!-- Errors during loading -->
   <!-- EN: Error while loading assets -->
@@ -34,7 +34,7 @@
   <!-- EN: An error occurred while loading game assets. See error log for more information. -->
   <ErrorWhileLoadingAssets>เกิดข้อผิดพลาดขณะโหลด assets ของเกม ดูบันทึกข้อผิดพลาดสำหรับข้อมูลเพิ่มเติม</ErrorWhileLoadingAssets>
   <!-- EN: The game is currently running with custom mods - they may or may not cause these problems. -->
-  <ErrorWhileLoadingAssets_ModsInfo>เกมกำลังทำงานพร้อม Mods เสริม - ซึ่งอาจทำให้เกิดหรือไม่เกิดปัญหา</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileLoadingAssets_ModsInfo>เกมกำลังทำงานพร้อมม็อดเสริม - ซึ่งอาจทำให้เกิดหรือไม่เกิดปัญหา</ErrorWhileLoadingAssets_ModsInfo>
   <!-- EN: Error while generating a map -->
   <ErrorWhileGeneratingMapTitle>ข้อผิดพลาดขณะสร้างแผนที่</ErrorWhileGeneratingMapTitle>
   <!-- EN: An error occurred while generating a new map. See error log for more information. -->
@@ -46,9 +46,9 @@
   
   <!-- Unloaded mod with an assembly -->
   <!-- EN: The mod list has changed. The game will now restart automatically. -->
-  <ModsChanged>มีการเปลี่ยนแปลงรายการ mods เกมจะรีสตาร์ทโดยอัตโนมัติ</ModsChanged>
+  <ModsChanged>มีการเปลี่ยนแปลงรายการม็อด เกมจะรีสตาร์ทโดยอัตโนมัติ</ModsChanged>
   <!-- EN: Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly. -->
-  <FailedToRestart>เกิดข้อผิดพลาดขณะรีสตาร์ทเกม เกมไม่สามารถนำโค้ดแก้ไขเกมที่เกิดจาก mods ซึ่งปิดไปแล้วออกได้ทั้งหมด ดังนั้นโค้ดจาก mods ที่ปิดใช้ไปแล้วบางส่วนอาจยังทำงานอยู่\n\nแนะนำให้คุณปิดและเริ่มเกมใหม่ตอนนี้ เพื่อโหลด mods ทุกอันใหม่</FailedToRestart>
+  <FailedToRestart>เกิดข้อผิดพลาดขณะรีสตาร์ทเกม เกมไม่สามารถนำโค้ดแก้ไขเกมที่เกิดจากม็อดซึ่งปิดไปแล้วออกได้ทั้งหมด ดังนั้นโค้ดจากม็อดที่ปิดใช้ไปแล้วบางส่วนอาจยังทำงานอยู่\n\nแนะนำให้คุณปิดและเริ่มเกมใหม่ตอนนี้ เพื่อโหลดม็อดทุกอันใหม่</FailedToRestart>
   <!-- EN: Restarting -->
   <Restarting>กำลังรีสตาร์ท</Restarting>
   
@@ -58,27 +58,27 @@
   
   <!-- Long events -->
   <!-- EN: Initializing interface -->
-  <InitializingInterface>จัดเตรียม Interface</InitializingInterface>
+  <InitializingInterface>เริ่มจัดเตรียมอินเทอร์เฟส</InitializingInterface>
   <!-- EN: Unloading unused assets -->
-  <UnloadingUnusedAssets>นำ assets ที่ไม่ได้ใช้ออก</UnloadingUnusedAssets>
+  <UnloadingUnusedAssets>นำทรัพยากรที่ไม่ได้ใช้ออก</UnloadingUnusedAssets>
   <!-- EN: Loading all active mods -->
-  <LoadingAllActiveMods>โหลด mods ทั้งหมดที่เปิดใช้งาน</LoadingAllActiveMods>
+  <LoadingAllActiveMods>กำลังโหลดม็อดทั้งหมดที่เปิดใช้งาน</LoadingAllActiveMods>
   <!-- EN: Loading defs -->
-  <LoadingDefs>โหลด defs</LoadingDefs>
+  <LoadingDefs>กำลังโหลดคำนิยาม</LoadingDefs>
   <!-- EN: Loading assets -->
-  <LoadingAssets>โหลด assets</LoadingAssets>
+  <LoadingAssets>กำลังโหลดทรัพยากร</LoadingAssets>
   <!-- EN: Initializing -->
-  <Initializing>เตรียมการ</Initializing>
+  <Initializing>เริ่มเตรียมการ</Initializing>
   <!-- EN: Loading world -->
-  <LoadingWorld>โหลดโลก</LoadingWorld>
+  <LoadingWorld>กำลังโหลดโลก</LoadingWorld>
   <!-- EN: Loading map -->
-  <LoadingMap>โหลดแผนที่</LoadingMap>
+  <LoadingMap>กำลังโหลดแผนที่</LoadingMap>
   <!-- EN: Initializing game -->
-  <InitializingGame>จัดเตรียมเกม</InitializingGame>
+  <InitializingGame>เริ่มจัดเตรียมเกม</InitializingGame>
   <!-- EN: Spawning things -->
-  <SpawningAllThings>จัดวางทุกสิ่งอย่าง</SpawningAllThings>
+  <SpawningAllThings>ก่อกำเนิดทุกสิ่งอย่าง</SpawningAllThings>
   <!-- EN: Spawning colonists -->
-  <SpawningColonists>จัดวางชาวนิคม</SpawningColonists>
+  <SpawningColonists>ก่อกำเนิดชาวนิคม</SpawningColonists>
   
   <!-- Save/load -->
   <!-- EN: Save -->
@@ -88,7 +88,7 @@
   <!-- EN: Overwrite -->
   <OverwriteButton>เซฟทับ</OverwriteButton>
   <!-- EN: Really delete {0}? -->
-  <ConfirmDelete>แน่ใจจะลบ {0}?</ConfirmDelete>
+  <ConfirmDelete>แน่ใจจริงๆจะลบ {0}?</ConfirmDelete>
   <!-- EN: Delete this savegame. -->
   <DeleteThisSavegame>ลบเซฟเกมนี้</DeleteThisSavegame>
   <!-- EN: Saved as {0}. -->
@@ -102,7 +102,7 @@
   <!-- EN: (Permadeath) -->
   <PermadeathModeSaveSuffix>(ตายแล้วตายเลย)</PermadeathModeSaveSuffix>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
-  <SaveIsFromDifferentGameVersion>เรากำลังรันเวอร์ชั่น {0} แต่ข้อมูลเซฟมาจาก {1} ซึ่งเป็นเวอร์ชั่นที่แตกต่างกันโดยสิ้นเชิง\n\nการพยายามโหลดข้อมูลนี้คงจะไม่ได้</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameVersion>เรากำลังรันเวอร์ชั่น {0} แต่ข้อมูลเซฟมาจาก {1} ซึ่งเป็นเวอร์ชั่นที่แตกต่างกันโดยสิ้นเชิง\n\nการพยายามโหลดข้อมูลนี้คงจะใช้ไม่ได้</SaveIsFromDifferentGameVersion>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
   <SaveIsFromDifferentGameBuild>เรากำลังรันเวอร์ชั่น {0} แต่ข้อมูลเซฟมาจาก {1} ซึ่งเป็น build ที่แตกต่างกันโดยสิ้นเชิง\n\nการพยายามโหลดข้อมูลนี้ควรจะยังทำงานได้</SaveIsFromDifferentGameBuild>
   <!-- EN: Save data was saved with our game version and should work without issue. -->
@@ -116,7 +116,7 @@
   <!-- EN: Load mod list from save -->
   <ChangeLoadedMods>โหลดรายการ mod จากเซฟ</ChangeLoadedMods>
   <!-- EN: Some mods are unavailable, and need to be installed -->
-  <MissingMods>ไม่พบ mods บางตัว จำเป็นต้องติดตั้งใหม่</MissingMods>
+  <MissingMods>ไม่พบม็อดบางตัว จำเป็นต้องติดตั้งใหม่</MissingMods>
   <!-- EN: Official content -->
   <OfficialContent>เนื้อหาอย่างเป็นทางการ</OfficialContent>
   <!-- EN: Active -->
@@ -128,15 +128,15 @@
   
   <!-- Player faction naming -->
   <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
-  <NamePlayerFactionMessage>{0} คิดว่าคุณควรตั้งชื่อฝ่ายของคุณ ฝ่ายอื่นจะได้เรียกชื่อฝ่ายของคุณ</NamePlayerFactionMessage>
+  <NamePlayerFactionMessage>ดูเหมือนว่าคุณจะได้อยู่ที่นี่ไปอีกพักใหญ่, {0} คิดว่าคุณควรตั้งชื่อฝักฝ่าย(Faction)ของคุณได้แล้ว ฝ่ายของคุณควรเรียกว่าอะไรดี?</NamePlayerFactionMessage>
   <!-- EN: Your faction is now known as {0}. -->
-  <PlayerFactionGainsName>ฝ่ายของคุณเป็นที่รู้จักกันในชื่อ {0}.</PlayerFactionGainsName>
+  <PlayerFactionGainsName>ฝ่ายของคุณเป็นที่รู้จักกันในชื่อ {0}</PlayerFactionGainsName>
   <!-- EN: That name isn't valid. -->
-  <PlayerFactionNameIsInvalid>ชื่อนี้ไม่ถูกต้อง</PlayerFactionNameIsInvalid>
+  <PlayerFactionNameIsInvalid>ชื่อนี้ใช้ไม่ได้</PlayerFactionNameIsInvalid>
 
   <!-- Player faction base naming -->
   <!-- EN: {0} thinks that you should give this settlement a name. What should the local settlement be called? -->
-  <NamePlayerFactionBaseMessage>{0} คิดว่าคุณควรตั้งชื่อให้กับถิ่นฐานนี้ เราควรเรียกถิ่นฐานนี้ว่า?</NamePlayerFactionBaseMessage>
+  <NamePlayerFactionBaseMessage>{0} คิดว่าคุณควรตั้งชื่อให้กับฐานนี้ เราควรเรียกถิ่นฐานนี้ว่า?</NamePlayerFactionBaseMessage>
   <!-- EN: This community is now known as {0}. -->
   <PlayerFactionBaseGainsName>ชุมชนนี้ต่อไปรู้จักกันในชื่อ {0}</PlayerFactionBaseGainsName>
   <!-- EN: That name isn't valid. -->

@@ -2,25 +2,25 @@
 <LanguageData>
 
   <!-- EN: Call {0} -->
-  <CallOnRadio>โทร {0}</CallOnRadio>
+  <CallOnRadio>ติดต่อ {0}</CallOnRadio>
   <!-- EN: Cannot use: {0} -->
-  <CannotUseReason>ไม่สามารถใช้ได้ ({0})</CannotUseReason>
+  <CannotUseReason>ไม่สามารถใช้ได้: {0}</CannotUseReason>
   <!-- EN: Cannot use: EMP -->
-  <CannotUseSolarFlare>ไม่สามารถใช้ได้ (เปลวพลังงานแสงอาทิตย์)</CannotUseSolarFlare>
+  <CannotUseSolarFlare>ไม่สามารถใช้ได้: EMP</CannotUseSolarFlare>
   <!-- EN: Cannot use: No power -->
-  <CannotUseNoPower>ไม่สามารถใช้ได้ (ไม่มีพลังงาน)</CannotUseNoPower>
+  <CannotUseNoPower>ไม่สามารถใช้ได้: ไม่มีพลังงาน</CannotUseNoPower>
   <!-- EN: Cannot use: No path -->
-  <CannotUseNoPath>ไม่สามารถใช้ได้ (ไม่มีเส้นทาง)</CannotUseNoPath>
+  <CannotUseNoPath>ไม่สามารถใช้ได้: ไม่มีเส้นทาง</CannotUseNoPath>
   <!-- EN: Cannot use: Reserved -->
-  <CannotUseReserved>ไม่สามารถใช้ได้ (จองแล้ว)</CannotUseReserved>
+  <CannotUseReserved>ไม่สามารถใช้ได้: ถูกจองแล้ว</CannotUseReserved>
   <!-- EN: Cannot use: full -->
-  <CannotUseFull>ไม่สามารถใช้ได้ (เต็ม)</CannotUseFull>
+  <CannotUseFull>ไม่สามารถใช้ได้: เต็ม</CannotUseFull>
   <!-- EN: leader {1_labelShort} is unavailable -->
   <LeaderUnavailable>ผู้นำ {1_labelShort} ไม่พร้อม</LeaderUnavailable>
   <!-- EN: leader is unavailable -->
   <LeaderUnavailableNoLeader>ผู้นำไม่พร้อม</LeaderUnavailableNoLeader>
   <!-- EN: Not allowed -->
-  <NotAllowed>TODO</NotAllowed>
+  <NotAllowed>ไม่ได้รับอณุญาต</NotAllowed>
   
   <!-- EN: Fire at {1_label} -->
   <FireAt>ยิงใส่ {1_label}</FireAt>
@@ -36,14 +36,14 @@
   <!-- EN: incapable of violence -->
   <IncapableOfViolenceLower>ไม่สามารถใช้ความรุนแรงได้</IncapableOfViolenceLower>
   <!-- EN: {1_labelShort} is not drafted -->
-  <IsNotDraftedLower>{1_labelShort} ไม่ได้เกณฑ์</IsNotDraftedLower>
+  <IsNotDraftedLower>{1_labelShort} ยังไม่ถูกเกณฑ์</IsNotDraftedLower>
   <!-- EN: cannot order characters you do not control -->
   <CannotOrderNonControlledLower>ไม่สามารถสั่งตัวละครที่คุณไม่ได้ควบคุม</CannotOrderNonControlledLower>
   <!-- EN: cannot attack self -->
   <CannotAttackSelf>ไม่สามารถโจมตีตัวเองได้</CannotAttackSelf>
 
   <!-- EN: Man {1_labelShort} -->
-  <OrderManThing>ขี่ {1_labelShort}</OrderManThing>
+  <OrderManThing>ขึ้นขี่ {1_labelShort}</OrderManThing>
   
   <!-- EN: Melee attack {1_label} -->
   <MeleeAttack>ประชิดโจมตี {1_label}</MeleeAttack>
@@ -52,7 +52,7 @@
   <!-- EN: no path -->
   <NoPath>ไม่มีเส้นทาง</NoPath>
   <!-- EN: burying -->
-  <Burying>TODO</Burying>
+  <Burying>กำลังฝัง</Burying>
 
   <!-- EN: forbidden -->
   <ForbiddenLower>หวงห้าม</ForbiddenLower>
@@ -63,7 +63,7 @@
   <!-- EN: burning -->
   <BurningLower>กำลังไหม้</BurningLower>
   <!-- EN: no empty, accessible spot configured to store it -->
-  <NoEmptyPlaceLower>ไม่มีที่ว่าง เข้าถึงได้ ตั้งค่าไว้ให้เก็บ</NoEmptyPlaceLower>
+  <NoEmptyPlaceLower>ไม่สามารถเข้าถึงหรือไม่มีที่ว่าง อันกำหนดไว้ให้เก็บของได้</NoEmptyPlaceLower>
   <!-- EN: no stack available to merge into -->
   <NoMergeTarget>ไม่มีกองที่จะรวมเข้าด้วยกัน</NoMergeTarget>
   <!-- EN: already filled enough -->
@@ -75,39 +75,39 @@
   <!-- EN: under allowed skill {0} -->
   <UnderAllowedSkill>ต่ำกว่าทักษะที่อณุญาต {0}</UnderAllowedSkill>
   <!-- EN: above allowed skill {0} -->
-  <AboveAllowedSkill>สูงกว่าทักษะอณุญาต {0}</AboveAllowedSkill>
+  <AboveAllowedSkill>สูงกว่าทักษะที่อณุญาต {0}</AboveAllowedSkill>
   <!-- EN: missing required skill level -->
   <MissingRequiredSkillLevel>ทักษะที่เรียกร้องระดับต่ำไป</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
   <AnimalInteractedTooRecently>เพิ่งปฏิสัมพันธ์กับสัตว์ไปไม่นานนี้</AnimalInteractedTooRecently>
   <!-- EN: no usable food -->
-  <NoUsableFood>ไม่มีอาหารที่ใช้ได้</NoUsableFood>
+  <NoUsableFood>ไม่มีอาหารที่กินได้</NoUsableFood>
   <!-- EN: no food -->
   <NoFood>ไม่มีอาหาร</NoFood>
   <!-- EN: below requirements of {0} -->
-  <FoodBelowTitleRequirements>TODO</FoodBelowTitleRequirements>
+  <FoodBelowTitleRequirements>ต่ำกว่าที่ต้องการของ {0}</FoodBelowTitleRequirements>
   <!-- EN: animals skill too low - need {0} -->
   <AnimalsSkillTooLow>สัตว์เลี้ยงทักษะต่ำเกินไป - ต้องการ {0}</AnimalsSkillTooLow>
   <!-- EN: animal downed -->
   <CantInteractAnimalDowned>สัตว์ล้ม</CantInteractAnimalDowned>
   <!-- EN: animal sleeping -->
-  <CantInteractAnimalAsleep>สัตว์หลับ</CantInteractAnimalAsleep>
+  <CantInteractAnimalAsleep>สัตว์นอนหลับ</CantInteractAnimalAsleep>
   <!-- EN: animal busy -->
   <CantInteractAnimalBusy>สัตว์ไม่ว่าง</CantInteractAnimalBusy>
   <!-- EN: {0} skill too low -->
   <SkillTooLowForConstruction>ทักษะ {0} ต่ำเกินไป</SkillTooLowForConstruction>
   <!-- EN: need components -->
-  <NoComponentsToRepair>ต้องการชิ้นส่วน</NoComponentsToRepair>
+  <NoComponentsToRepair>ต้องการส่วนประกอบ</NoComponentsToRepair>
   <!-- EN: need {0} -->
   <NoFuelToRefuel>ต้องการ {0}</NoFuelToRefuel>
   <!-- EN: need wort -->
   <NoWort>ต้องการน้ำหมักเบียร์</NoWort>
   <!-- EN: available food is in storage of higher priority -->
-  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>อาหารที่มี อยู่ในคลังความสำคัญสูงกว่า</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>อาหารที่มี อยู่ในคลังอันความสำคัญสูงกว่า</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
   <!-- EN: no suitable food -->
   <NoFoodToFillHopper>ไม่มีอาหารที่เหมาะสม</NoFoodToFillHopper>
   <!-- EN: self-tend disabled -->
-  <SelfTendDisabled>ปิดใช้ การรักษาตัวเอง</SelfTendDisabled>
+  <SelfTendDisabled>ปิดใช้การรักษาตัวเอง</SelfTendDisabled>
   <!-- EN: reserved for prisoners -->
   <ReservedForPrisoners>สงวนไว้สำหรับนักโทษ</ReservedForPrisoners>
   <!-- EN: cannot reach -->
@@ -125,23 +125,23 @@
   <!-- EN: incapable of mining -->
   <IncapableOfMining>ไร้ความสามารถในการขุดเหมือง</IncapableOfMining>
   <!-- EN: angers faction -->
-  <AngersFaction>ฝ่ายผู้โมโห</AngersFaction>
+  <AngersFaction>ฝ่ายผู้โกรธา</AngersFaction>
   <!-- EN: no body part -->
-  <InstallImplantNoBodyPart>TODO</InstallImplantNoBodyPart>
+  <InstallImplantNoBodyPart>ไม่มีอวัยวะ</InstallImplantNoBodyPart>
   <!-- EN: not a colonist -->
-  <InstallImplantNotAllowedForNonColonists>TODO</InstallImplantNotAllowedForNonColonists>
+  <InstallImplantNotAllowedForNonColonists>ไม่ใช่ชาวนิคม</InstallImplantNotAllowedForNonColonists>
   <!-- EN: already installed -->
-  <InstallImplantAlreadyInstalled>TODO</InstallImplantAlreadyInstalled>
+  <InstallImplantAlreadyInstalled>ติดตั้งแล้ว</InstallImplantAlreadyInstalled>
   <!-- EN: max level -->
-  <InstallImplantAlreadyMaxLevel>TODO</InstallImplantAlreadyMaxLevel>
+  <InstallImplantAlreadyMaxLevel>ระดับสูงสุด</InstallImplantAlreadyMaxLevel>
   <!-- EN: Upgrade {0} to level {1} -->
-  <UpgradeImplant>TODO</UpgradeImplant>
+  <UpgradeImplant>อัพเกรด {0} ขึ้นเป็นระดับ {1}</UpgradeImplant>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>บริโภค {1_labelShort}</ConsumeThing>
   
   <!-- EN: Cannot go here: no path -->
-  <CannotGoNoPath>ไม่สามารถไปได้ (ไม่มีเส้นทาง)</CannotGoNoPath>
+  <CannotGoNoPath>ไม่สามารถไปได้: (ไม่มีเส้นทาง)</CannotGoNoPath>
   <!-- EN: Go here -->
   <GoHere>เคลื่อนไปที่นี่</GoHere>
   
@@ -165,19 +165,19 @@
   <!-- EN: Carry {1_label} to cryptosleep casket -->
   <CarryToCryptosleepCasket>ขน {1_label} ไปยังโลงคริปโตสลีป</CarryToCryptosleepCasket>
   <!-- EN: Cannot carry to cryptosleep casket -->
-  <CannotCarryToCryptosleepCasket>ไม่สามารถขนไปยังโลงคริปโตสลีป</CannotCarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>ไม่สามารถขนย้ายไปยังโลงคริปโตสลีปได้</CannotCarryToCryptosleepCasket>
 
   <!-- EN: Carry {0_label} to shuttle -->
-  <CarryToShuttle>TODO</CarryToShuttle>
+  <CarryToShuttle>ขน {0_label} ไปที่กระสวย</CarryToShuttle>
 
   <!-- EN: No available cryptosleep casket. -->
   <NoCryptosleepCasket>ไม่มีโลงคริปโตสลีปว่าง</NoCryptosleepCasket>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
-  <NoPrisonerBed>ไม่มีเตียงถูกล้อมห้องให้นักโทษ ในอุณหภูมิปลอดภัย ไม่ถูกจอง และสามารถเข้าถึงได้</NoPrisonerBed>
+  <NoPrisonerBed>ไม่มีเตียงระบุให้สำหรับนักโทษ ในห้องปิดล้อม ไม่ถูกจอง อุณหภูมิปลอดภัย และสามารถเข้าถึงได้</NoPrisonerBed>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
-  <NoNonPrisonerBed>ไม่มีเตียงที่ไม่ใช่ของนักโทษ ในอุณหภูมิปลอดภัย ไม่ถูกจอง และสามารถเข้าถึงได้</NoNonPrisonerBed>
+  <NoNonPrisonerBed>ไม่มีเตียงในห้องปิดล้อม ไม่ถูกจอง อุณหภูมิปลอดภัย และสามารถเข้าถึงได้</NoNonPrisonerBed>
   <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
-  <NoAnimalBed>ไม่มีที่นอนสัตว์ ในอุณหภูมิปลอดภัย ไม่ถูกจอง และสามารถเข้าถึงได้</NoAnimalBed>
+  <NoAnimalBed>ไม่มีที่นอนสัตว์ ไม่ถูกจอง ใุณหภูมิปลอดภัย และสามารถเข้าถึงได้</NoAnimalBed>
   <!-- EN: Reserved by someone else. -->
   <Reserved>คนอื่นจองไว้แล้ว</Reserved>
   <!-- EN: Reserved by {1_labelShort} -->
@@ -198,7 +198,7 @@
   <!-- EN: Equip {0} -->
   <Equip>ใช้งาน {0}</Equip>
   <!-- EN: (brawler will be unhappy) -->
-  <EquipWarningBrawler>(นักเลงจะไม่มีความสุข)</EquipWarningBrawler>
+  <EquipWarningBrawler>(นักเลงนั้นไม่มีความสุข)</EquipWarningBrawler>
   <!-- EN: Cannot equip {0} -->
   <CannotEquip>ไม่สามารถใช้ {0}</CannotEquip>
   <!-- EN: Cannot man {1_labelShort} -->
@@ -263,21 +263,21 @@
   <Strip>แก้ผ้า {1_label}</Strip>
   <!-- EN: Cannot strip {1_label} -->
   <CannotStrip>ไม่สามารถแก้ผ้า {1_label} ได้</CannotStrip>
-  <!-- EN: Cannot drop {1_label} -->
-  <CannotDrop>TODO</CannotDrop>
   <!-- EN: temporary faction member -->
-  <QuestRelated>TODO</QuestRelated>
+  <QuestRelated>สมาชิกฝักฝ่ายชั่วคราว</QuestRelated>
   <!-- EN: Cannot change outfits on temporary faction members -->
-  <QuestRelated_Outfit>TODO</QuestRelated_Outfit>
+  <QuestRelated_Outfit>ไม่สามารถเปลื่ยนเสื้อผ้าให้สมาชิกฝักฝ่ายชั่วคราวได้</QuestRelated_Outfit>
   <!-- EN: would replace locked apparel -->
-  <WouldReplaceLockedApparel>TODO</WouldReplaceLockedApparel>
+  <WouldReplaceLockedApparel>จะไปแทนที่เครื่องแต่งการที่ถูกล็อกไว้</WouldReplaceLockedApparel>
 
   <!-- EN: Self-destruct here -->
   <SelfDestructHere>ทำลายตัวเองตรงนี้</SelfDestructHere>
   
   <!-- EN: Drop {1_label} -->
   <Drop>ทิ้ง {1_label}</Drop>
-
+  <!-- EN: Cannot drop {1_label} -->
+  <CannotDrop>ไม่สามารถทิ้ง {1_label} ได้</CannotDrop>
+  
   <!-- EN: Rest until healed -->
   <UseMedicalBed>พักจนกว่าจะหาย</UseMedicalBed>
   <!-- EN: not injured -->
@@ -312,7 +312,7 @@
   <!-- EN: Offer gifts -->
   <OfferGifts>เสนอของขวัญ</OfferGifts>
   <!-- EN: Trade with {0} -->
-  <TradeWithSettlement>TODO</TradeWithSettlement>
+  <TradeWithSettlement>แลกเปลื่ยนกับ {0}</TradeWithSettlement>
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
@@ -320,7 +320,7 @@
   <!-- EN: Open cryptosleep casket -->
   <OpenCryptosleepCasket>เปิด โลงคริปโตสลีป</OpenCryptosleepCasket>
   <!-- EN: Get in shuttle -->
-  <EnterShuttle>TODO</EnterShuttle>
+  <EnterShuttle>เข้าไปในกระสวย</EnterShuttle>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
   <!-- EN: Cannot {0} {1} -->
@@ -329,42 +329,42 @@
   <CannotGenericWorkCustom>ไม่สามารถ{0}ได้</CannotGenericWorkCustom>
 
   <!-- EN: Cannot prioritize: incapable of {0} -->
-  <CannotMissingHealthActivities>ไม่สามารถจัดลำดับความสำคัญ (ไม่อาจทำ {0})</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>ไม่สามารถจัดลำดับความสำคัญ: ไม่สามารถทำ {0} ได้</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
   <!-- EN: Already {0} {2_labelShort} -->
-  <CannotGenericAlreadyAm>{0} {2_labelShort} แล้ว</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>กำลัง{0} {2_labelShort} อยู่</CannotGenericAlreadyAm>
   <!-- EN: Already {0} -->
-  <CannotGenericAlreadyAmCustom>TODO</CannotGenericAlreadyAmCustom>
+  <CannotGenericAlreadyAmCustom>กำลัง{0}</CannotGenericAlreadyAmCustom>
 
   <!-- EN: Cannot prioritize: will never do {0} -->
-  <CannotPrioritizeWorkTypeDisabled>ไม่สามารถจัดลำดับความสำคัญ (จะไม่ทำ {0})</CannotPrioritizeWorkTypeDisabled>
+  <CannotPrioritizeWorkTypeDisabled>ไม่สามารถจัดลำดับความสำคัญ: จะไม่ทำ {0}</CannotPrioritizeWorkTypeDisabled>
   <!-- EN: Cannot trade: lacking necessary title -->
-  <CannotTradeMissingTitleAbility>TODO</CannotTradeMissingTitleAbility>
+  <CannotTradeMissingTitleAbility>ไม่สามารถแลกเปลื่ยน: ขาดบรรดาศักดิ์ที่จำเป็น</CannotTradeMissingTitleAbility>
 
   <!-- EN: Cannot prioritize: will never {0} -->
-  <CannotPrioritizeWorkGiverDisabled>ไม่สามารถจัดลำดับความสำคัญ (จะไม่ {0})</CannotPrioritizeWorkGiverDisabled>
+  <CannotPrioritizeWorkGiverDisabled>ไม่สามารถจัดลำดับความสำคัญ: จะไม่ {0}</CannotPrioritizeWorkGiverDisabled>
   <!-- EN: will never {0} -->
   <WillNever>จะไม่ {0}</WillNever>
 
   <!-- EN: Cannot prioritize: not assigned to {0} -->
-  <CannotPrioritizeNotAssignedToWorkType>ไม่สามารถจัดลำดับความสำคัญ (ไม่ถูกกำหนดให้ {0})</CannotPrioritizeNotAssignedToWorkType>
+  <CannotPrioritizeNotAssignedToWorkType>ไม่สามารถจัดลำดับความสำคัญ: ไม่ถูกกำหนดให้ {0}</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
   <NotAssigned>ไม่ถูกกำหนด</NotAssigned>
 
   <!-- EN: Cannot prioritize: research is a long-term task -->
-  <CannotPrioritizeResearch>ไม่สามารถจัดลำดับความสำคัญ (การวิจัยเป็นงานระยะยาว)</CannotPrioritizeResearch>
+  <CannotPrioritizeResearch>ไม่สามารถจัดลำดับความสำคัญ: การวิจัยเป็นงานระยะยาว</CannotPrioritizeResearch>
 
   <!-- EN: Cannot prioritize: {1_label} is forbidden -->
-  <CannotPrioritizeForbidden>ไม่สามารถจัดลำดับความสำคัญ ({1_label} ถูกหวงห้าม)</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbidden>ไม่สามารถจัดลำดับความสำคัญ: {1_label} ถูกหวงห้าม</CannotPrioritizeForbidden>
   <!-- EN: Cannot prioritize: forbidden -->
-  <CannotPrioritizeCellForbidden>ไม่สามารถจัดลำดับความสำคัญ (หวงห้าม)</CannotPrioritizeCellForbidden>
+  <CannotPrioritizeCellForbidden>ไม่สามารถจัดลำดับความสำคัญ: หวงห้าม</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
   <CannotPrioritizeForbiddenOutsideAllowedArea>อยู่นอกพื้นที่เขตอนุญาต</CannotPrioritizeForbiddenOutsideAllowedArea>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
-  <PrioritizeGeneric>ให้ความสำคัญกับ *{1}* {0}ก่อน</PrioritizeGeneric>
+  <PrioritizeGeneric>ให้ความสำคัญ{1} {0}ก่อน</PrioritizeGeneric>
   
   <!-- EN: Drop at edge -->
   <DropAtEdge>ทิ้งลงที่ขอบ</DropAtEdge>
@@ -415,6 +415,6 @@
   <OfferHelp>เสนอช่วยเหลือ</OfferHelp>
 
   <!-- EN: apply {0} -->
-  <ApplyTechprint>TODO</ApplyTechprint>
+  <ApplyTechprint>ใช้งาน {0}</ApplyTechprint>
 
 </LanguageData>

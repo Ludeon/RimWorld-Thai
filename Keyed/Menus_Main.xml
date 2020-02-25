@@ -17,17 +17,17 @@
   <!-- EN: Options -->
   <Options>ตัวเลือก</Options>
   <!-- EN: Mod -->
-  <Mod>TODO</Mod>
+  <Mod>ม็อด</Mod>
   <!-- EN: Mods -->
-  <Mods>Mods</Mods>
+  <Mods>ม็อด</Mods>
   <!-- EN: Save translation report -->
-  <SaveTranslationReport>Save translation report</SaveTranslationReport>
+  <SaveTranslationReport>เซฟรายงานการแปล</SaveTranslationReport>
   <!-- EN: Generating translation report -->
-  <GeneratingTranslationReport>Generating translation report</GeneratingTranslationReport>
+  <GeneratingTranslationReport>กำลังสร้างรายงานการแปล</GeneratingTranslationReport>
   <!-- EN: Cleanup translation files -->
-  <CleanupTranslationFiles>Cleanup translation files</CleanupTranslationFiles>
+  <CleanupTranslationFiles>ทำความสะอาดไฟล์การแปล</CleanupTranslationFiles>
   <!-- EN: Cleaning translation files -->
-  <CleaningTranslationFiles>Cleaning translation files</CleaningTranslationFiles>
+  <CleaningTranslationFiles>กำลังทำความสะอาดไฟล์การแปล</CleaningTranslationFiles>
   <!-- EN: Credits -->
   <Credits>เครดิต</Credits>
   <!-- EN: Quit to main menu -->
@@ -59,15 +59,15 @@
 
   <!-- Main menu translations info window -->
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
-  <TranslationThanks>การแปลภาษาทั้งหมดของ RimWorld เกิดจากแฟนเกมช่วยกันทำ ซึ่งประสบความสำเร็จได้ ก็ด้วยฝีมือแฟนเกม อาสาสมัครเหล่านี้:\n\n{0}</TranslationThanks>
+  <TranslationThanks>การแปลภาษาทั้งหมดของ RimWorld มาจากแฟนเกมร่วมมือกันทำ แปลภาษาไทยนี้เกิดจากความร่วมมือ ของอาสาสมัครเหล่านี้:\n\n{0}</TranslationThanks>
   <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
-  <TranslationHowToContribute>คุณเองสามารถช่วยแปลได้ ดูขึ้นตอนร่วมแปล คลิก 'เรียนรู้เพิ่มเติม' ด้านล่าง (เปิดเว็บเบราว์เซอร์) </TranslationHowToContribute>
+  <TranslationHowToContribute>คุณเองสามารถช่วยแปลได้เช่นกัน ดูขั้นตอนร่วมแปล คลิก 'เรียนรู้เพิ่มเติม' ด้านล่าง (จะเปิดเว็บเบราว์เซอร์) </TranslationHowToContribute>
   <!-- EN: Learn more -->
   <LearnMore>เรียนรู้เพิ่มเติม</LearnMore>
 
   <!-- Main menu dev build -->
   <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
-  <DevBuildWarning>คำเตือน: นี่คือ unstable development build. หมายความว่าเรากำลังทดลองดีไซน์แปลกๆใหม่ๆ และพัฒนาด้านเทคนิคของเกมอยู่\n\nบางอย่างในเกมเราจงใจไม่ให้สมดุล อันนับเป็นวิธีดีไซน์เกมแบบคลาสสิกแบบหนึ่ง คือดันสมดุลของเกมไปสุดโต่ง เพื่อจะได้เข้าใจว่าข้อจำกัดของสมดุลเกมนั้นอยู่ตรงไหน จากนั้นใช้ข้อมูลที่ได้มาเพื่อตัดสินใจจุดสมดุลสุดท้าย\n\nและบางทีก็อาจจะมีบัค แบบที่ถึงขั้นเกมพังอะไรเช่นนั้น รวมถึง ความเข้ากันได้ของเซฟเกม อาจหมดไปได้ทุกเมื่อ\n\nถ้าคุณโอเคกับที่ว่ามาทั้งหมดนี้ ก็ขอบคุณที่ช่วยเราทดสอบ แต่หากคุณไม่อยากเป็นหนูให้การทดลองนี้ กรุณาเลือกเล่นเวอร์ชั่น stable ล่าสุด</DevBuildWarning>
+  <DevBuildWarning>คำเตือน: นี่คือ unstable development build. หมายความว่าเรากำลังทดลองดีไซน์แปลกๆใหม่ๆ และพัฒนาด้านเทคนิคของเกมอยู่\n\nบางอย่างในเกมเราจงใจไม่ให้สมดุล อันนับเป็นวิธีดีไซน์เกมแบบคลาสสิกแบบหนึ่ง คือดันสมดุลของเกมไปสุดโต่ง เพื่อจะได้เข้าใจว่าข้อจำกัดของสมดุลเกมนั้นอยู่ตรงไหน จากนั้นใช้ข้อมูลที่ได้มาเพื่อตัดสินใจจุดสมดุลสุดท้าย\n\nและมันจะมีบัคแน่นอน แบบที่ถึงขั้นเกมพังอะไรเช่นนั้น รวมถึง ความเข้ากันได้ของเซฟเกมอาจหมดไปได้ทุกเมื่อ\n\nถ้าคุณโอเคกับที่ว่ามาทั้งหมดนี้ ก็ขอบคุณที่ช่วยเราทดสอบ แต่หากคุณไม่อยากเป็นหนูให้การทดลองนี้ กรุณาเลือกเล่นเวอร์ชั่น stable ล่าสุด</DevBuildWarning>
 
   <!-- Create/review world -->
   <!-- EN: Review world -->
@@ -85,7 +85,7 @@
   <!-- EN: Overall temperature -->
   <PlanetTemperature>อุณหภูมิโดยรวม</PlanetTemperature>
   <!-- EN: Population -->
-  <PlanetPopulation>TODO</PlanetPopulation>
+  <PlanetPopulation>ประชากร</PlanetPopulation>
   <!-- EN: Low -->
   <PlanetRainfall_Low>น้อย</PlanetRainfall_Low>
   <!-- EN: Normal -->
@@ -99,17 +99,17 @@
   <!-- EN: High -->
   <PlanetTemperature_High>สูง</PlanetTemperature_High>
   <!-- EN: Sparse -->
-  <PlanetPopulation_Low>TODO</PlanetPopulation_Low>
+  <PlanetPopulation_Low>กระจายตัว</PlanetPopulation_Low>
   <!-- EN: Normal -->
-  <PlanetPopulation_Normal>TODO</PlanetPopulation_Normal>
+  <PlanetPopulation_Normal>ปกติ</PlanetPopulation_Normal>
   <!-- EN: Crowded -->
-  <PlanetPopulation_High>TODO</PlanetPopulation_High>
+  <PlanetPopulation_High>กระจุกตัว</PlanetPopulation_High>
   <!-- EN: Seed -->
   <WorldSeed>Seed</WorldSeed>
   <!-- EN: Randomize seed -->
   <RandomizeSeed>สุ่มค่า Seed</RandomizeSeed>
   <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
-  <PlanetCoverageTip>ดาวเคราะห์มีขนาดเส้นผ่าศูนย์กลางเท่ากันตลอด แต่เนื่องจากดวงเคราะห์ใหญ่เกินจำเป็น สำหรับการเล่นทั่วๆไป เราจึงไม่สร้างพื้นผิวดาวเคราะห์ทั้งหมด เพราะจะกินเวลาสร้างนานเอามากๆ, ค่าเปอร์เซ็นต์นี้ คือร้อยละ ของพื้นผิวดาวเคราะห์ ที่คุณต้องการสร้าง</PlanetCoverageTip>
+  <PlanetCoverageTip>ดาวเคราะห์มีขนาดเส้นผ่าศูนย์กลางเท่ากันตลอด แต่เนื่องจากดวงเคราะห์ใหญ่เกินจำเป็น สำหรับการเล่นทั่วๆไป\nเราจึงไม่สร้างพื้นผิวดาวเคราะห์ทั้งหมด เพราะจะกินเวลาสร้างนานเอามากๆ\nค่าเปอร์เซ็นต์นี้ คือร้อยละของพื้นผิวดาวเคราะห์ ที่คุณต้องการสร้าง</PlanetCoverageTip>
   <!-- EN: Factions -->
   <WorldFactionsTab>ฝักฝ่าย</WorldFactionsTab>
 
@@ -123,7 +123,7 @@
   
   <!-- Version info -->
   <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
-  <BuildNowAvailable>เวอร์ชัน {0} พร้อมใช้งานแล้ว ตรวจสอบ ludeon.com สำหรับข้อมูลเพิ่มเติม</BuildNowAvailable>
+  <BuildNowAvailable>เวอร์ชัน {0} เปิดให้เล่นแล้ว ตรวจสอบ ludeon.com สำหรับข้อมูลเพิ่มเติม</BuildNowAvailable>
   <!-- EN: This is the latest version. -->
   <BuildUpToDate>นี่คือเวอร์ชันล่าสุด</BuildUpToDate>
   <!-- EN: Error getting version info: {0} -->
@@ -139,17 +139,17 @@
   <!-- EN: Open Steam Workshop -->
   <OpenSteamWorkshop>เปิด Steam Workshop</OpenSteamWorkshop>
   <!-- EN: Get mods from forum -->
-  <GetModsFromForum>เลือกหา mods จากฟอรั่ม</GetModsFromForum>
+  <GetModsFromForum>เลือกหาม็อดจากฟอรั่ม</GetModsFromForum>
   <!-- EN: Open mods data folder -->
-  <OpenModsDataFolder>เปิดโฟลเดอร์ข้อมูล mods</OpenModsDataFolder>
+  <OpenModsDataFolder>เปิดโฟลเดอร์ข้อมูลม็อด</OpenModsDataFolder>
   <!-- EN: Show mods data location -->
-  <ShowModsDataLocation>แสดงตำแหน่งข้อมูล mods</ShowModsDataLocation>
+  <ShowModsDataLocation>แสดงตำแหน่งข้อมูลม็อด</ShowModsDataLocation>
   <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
-  <ConfirmDisableCoreMod>คุณแน่ใจหรือว่าจะปิด Core mod? เกมจะพังเล่นไม่ได้ไปเลย ยกเว้นแต่ว่าคุณลง mod อื่นไว้ ซึ่งสามารถเข้ามาทำงานแทนที่ฟังชั่น core หลักๆทั้งหมดของเกมได้\n\nโปรดจำไว้ว่า คุณสามารถใช้ mods อื่นๆมา override defs ใน core mod ได้ ด้วยการใช้ defName</ConfirmDisableCoreMod>
+  <ConfirmDisableCoreMod>คุณแน่ใจหรือว่าจะปิดม็อด Core? เกมจะพังเล่นไม่ได้ไปเลย ยกเว้นแต่ว่าคุณลง mod อื่นไว้ ซึ่งสามารถเข้ามาทำงานแทนที่ฟังชั่นแกนหลักๆทั้งหมดของเกมได้\n\nโปรดจำไว้ว่า คุณสามารถใช้ม็อดอื่นๆมา override defs ในม็อด core ได้ ด้วยการใช้ defName เหมือนกัน</ConfirmDisableCoreMod>
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
   <ConfirmDeleteMod>คุณแน่ใจ ว่าต้องการลบเนื้อหาทั้งหมดสำหรับ {0}?</ConfirmDeleteMod>
   <!-- EN: Auto-sort mods -->
-  <ResolveModOrder>TODO</ResolveModOrder>
+  <ResolveModOrder>จัดเรียงม็อดอัตโนมัติ</ResolveModOrder>
   <!-- EN: Unsubscribe -->
   <Unsubscribe>เลิกติดตาม</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
@@ -171,59 +171,59 @@
   <!-- EN: Downloading -->
   <Downloading>กำลังดาวน์โหลด</Downloading>
   <!-- EN: Display fulfilled requirements -->
-  <ModDisplayFulfilledRequirements>TODO</ModDisplayFulfilledRequirements>
+  <ModDisplayFulfilledRequirements>แสดงความต้องการที่ผ่านแล้ว</ModDisplayFulfilledRequirements>
   <!-- EN: Click to select. -->
-  <ModClickToSelect>TODO</ModClickToSelect>
+  <ModClickToSelect>คลิกเพื่อเลือก</ModClickToSelect>
   <!-- EN: Click to go to website. -->
-  <ModClickToGoToWebsite>TODO</ModClickToGoToWebsite>
+  <ModClickToGoToWebsite>คลิกเพื่อไปที่เว็บไซท์</ModClickToGoToWebsite>
   <!-- EN: Source -->
   <Source>แหล่งที่มา</Source>
   <!-- EN: For game version(s) -->
   <ModTargetVersion>สำหรับเวอร์ชั่น: {0}</ModTargetVersion>
   <!-- EN: ID -->
-  <ModPackageId>TODO</ModPackageId>
+  <ModPackageId>ไอดี</ModPackageId>
   <!-- EN: This must be loaded before: {0}. -->
-  <ModMustLoadBefore>TODO</ModMustLoadBefore>
+  <ModMustLoadBefore>นี่ต้องโหลดก่อน: {0}</ModMustLoadBefore>
   <!-- EN: This must be loaded after: {0}. -->
-  <ModMustLoadAfter>TODO</ModMustLoadAfter>
+  <ModMustLoadAfter>นี่ต้องโหลดหลัง: {0}</ModMustLoadAfter>
   <!-- EN: Depends on: {0} -->
-  <ModDependsOn>TODO</ModDependsOn>
+  <ModDependsOn>พึ่งพาม็อด: {0}</ModDependsOn>
   <!-- EN: Incompatible with: {0} -->
-  <ModIncompatibleWith>TODO</ModIncompatibleWith>
+  <ModIncompatibleWith>เข้ากันไม่ได้กับ: {0}</ModIncompatibleWith>
   <!-- EN: This mod is incompatible with: {0}. -->
-  <ModIncompatibleWithTip>TODO</ModIncompatibleWithTip>
+  <ModIncompatibleWithTip>ม็อดนี้เข้ากันไม่ได้กับ: {0}</ModIncompatibleWithTip>
   <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
-  <ModOrderingWarning>TODO</ModOrderingWarning>
+  <ModOrderingWarning>ม็อดนี้โหลดผิดลำดับจากม็อดอื่นๆ ใช้ปุ่ม 'จัดเรียงม็อดอัตโนมัติ' หรือแรงใหม่ตัวเอง</ModOrderingWarning>
   <!-- EN: Another active mod uses the same ID: {0}. -->
-  <ModWithSameIdAlreadyActive>TODO</ModWithSameIdAlreadyActive>
+  <ModWithSameIdAlreadyActive>มีม็อดอื่นที่ใช้งานมีไอดีเดียวกัน: {0}</ModWithSameIdAlreadyActive>
   <!-- EN: There is a cyclic mod dependency starting with {0}. -->
-  <ModCyclicDependency>TODO</ModCyclicDependency>
+  <ModCyclicDependency>มีการพึ่งพาม็อดมุมวน(แบบงูกินหางตัวเอง) เริ่มที่ {0}</ModCyclicDependency>
   <!-- EN: This requires following mods to work: {0}. -->
-  <ModUnsatisfiedDependency>TODO</ModUnsatisfiedDependency>
+  <ModUnsatisfiedDependency>นี่ต้องการม็อดต่อไปนี้จึงจะทำงานได้: {0}</ModUnsatisfiedDependency>
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
-  <ModNotMadeForThisVersion>Mod นี้ไม่ได้ทำขึ้นสำหรับ RimWorld เวอร์ชั่นนี้ และก็คงจะทำงานไม่ถูกต้อง</ModNotMadeForThisVersion>
+  <ModNotMadeForThisVersion>ม็อดนี้ไม่ได้ทำขึ้นสำหรับ RimWorld เวอร์ชั่นนี้ และก็คงจะทำงานไม่ถูกต้อง</ModNotMadeForThisVersion>
   <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
-  <ModNotMadeForThisVersion_Newer>Mod นี้ทำขึ้นสำหรับ RimWorld เวอร์ชั่นใหม่กว่านี้ และก็คงจะทำงานไม่ถูกต้อง</ModNotMadeForThisVersion_Newer>
+  <ModNotMadeForThisVersion_Newer>ม็อดนี้ทำขึ้นสำหรับ RimWorld เวอร์ชั่นใหม่กว่านี้ และก็คงจะทำงานไม่ถูกต้อง</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
-  <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: {0}.</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedTargetVersion>ม็อดต้องการข้อมูลที่รองรับฟอแมตอันถูกต้องในไฟล์ About.xml / เช่นแบบนี้: <supportedVersions><li>{0}</li></supportedVersions> - targetVersion is deprecated. เช็ค log สำหรับข้อมูลเพิ่มเติม</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
-  <MessageModNeedsWellFormattedPackageId>TODO</MessageModNeedsWellFormattedPackageId>
+  <MessageModNeedsWellFormattedPackageId>ม็อดต้องการ packageId ที่เป็นเอกลักษณ์และฟอแมตอันถูกต้องในไฟล์ About.xml / มันต้องทำตามความต้องการเล่านี้:\n\n  - ตัวอักษรอังกฤษ ตัวเลขอารบิก และจุดเท่านั้น\n  - ไม่มีช่องว่าง\n  - มีจุดอย่างน้อยหนึ่งจุด\n  - ไม่มีจุดต่อกัน ไม่เริ่มหรือจบด้วยจุด\n  - ยาว 60 ตัวอักษรหรือต่ำกว่า\n  - ไม่มีคำว่า "Ludeon".\n\nตัวอย่างเช่น:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId></MessageModNeedsWellFormattedPackageId>
   <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
-  <ModHadLoadFolderIssues>TODO</ModHadLoadFolderIssues>
+  <ModHadLoadFolderIssues>ม็อดนี้มีปัญหาใน LoadFolders.xml, ซึ่งคุณต้องแก้ก่อนจะอัปโหลด:</ModHadLoadFolderIssues>
   <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
-  <ModLoadFolderDoesntExist>TODO</ModLoadFolderDoesntExist>
+  <ModLoadFolderDoesntExist>โฟลเดอร์ {0} เจาะจงสำหรับเวอร์ชั่น {1} ไม่มีอยู่</ModLoadFolderDoesntExist>
   <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
-  <ModLoadFolderMalformedVersion>TODO</ModLoadFolderMalformedVersion>
+  <ModLoadFolderMalformedVersion>สตริงสำหรับเวอร์ชั่นนั้นผิดฟอแมต '{0}' โดยฟอแมตที่ถูกต้องคือ Major.Minor (ตัวอย่างเช่น 1.1)</ModLoadFolderMalformedVersion>
   <!-- EN: The list of load folders for version {0} is empty. -->
-  <ModLoadFolderListEmpty>TODO</ModLoadFolderListEmpty>
+  <ModLoadFolderListEmpty>รายชื่อของโฟลเดอร์ที่จะโหลดสำหรับเวอร์ชั่น {0} นั้นว่างเปล่า</ModLoadFolderListEmpty>
   <!-- EN: Version {0} lists the same folder more than once: {1}. -->
-  <ModLoadFolderRepeatingFolder>TODO</ModLoadFolderRepeatingFolder>
+  <ModLoadFolderRepeatingFolder>เวอร์ชั่น {0} ลิสโฟลเดอร์เดียวกันมากกว่าหนึ่งครั้ง: {1}</ModLoadFolderRepeatingFolder>
   <!-- EN: Invalid version order: {0} should come before {1}. -->
-  <ModLoadFolderOutOfOrder>TODO</ModLoadFolderOutOfOrder>
+  <ModLoadFolderOutOfOrder>ลำดับเวอร์ชั่นใช่ไม่ได้: {0} ควรมาก่อน {1}</ModLoadFolderOutOfOrder>
   <!-- EN: Invalid version order: 'default' should be defined first. -->
-  <ModLoadFolderOutOfOrderDefault>TODO</ModLoadFolderOutOfOrderDefault>
+  <ModLoadFolderOutOfOrderDefault>ลำดับเวอร์ชั่นใช่ไม่ได้: 'default' ควรมาเป็นอันดับแรก</ModLoadFolderOutOfOrderDefault>
   <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
-  <ModLoadFolderDefinesUnsupportedGameVersion>TODO</ModLoadFolderDefinesUnsupportedGameVersion>
+  <ModLoadFolderDefinesUnsupportedGameVersion>เวอร์ชั่น {0} กำหนดในโฟลเดอร์ที่จะโหลด, แต่ไม่ได้ลิสใน 'supportedVersions' ในไฟล์ About.xml ของม็อด</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->
   <DragToReorder>ลากเพื่อเรียงลำดับ</DragToReorder>
 
@@ -255,7 +255,7 @@
   <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
   <ConfirmSteamWorkshopUpload>คุณแน่ใจว่าต้องการอัปโหลดขึ้น Steam Workshop?\n\nคุณต้องยอมรับข้อกำหนดในการให้บริการของ Steam Workshop ด้วย อ่านข้อตกลงเต็มรูปแบบที่นี่:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
-  <ConfirmContentAuthor>เป็นที่ชักดเจนว่าคุณควรอัปโหลดเนื้อหาที่คุณสร้างขึ้นเองเท่านั้น\n\nคุณผลิตเนื้อหานี้ด้วยตัวเองไช่ไหม ?</ConfirmContentAuthor>
+  <ConfirmContentAuthor>เป็นที่ชักดเจนว่าคุณควรอัปโหลดเนื้อหาที่คุณสร้างขึ้นเองเท่านั้น\n\nคุณผลิตเนื้อหานี้ด้วยตัวเองใช่ไหม ?</ConfirmContentAuthor>
   <!-- EN: Incompatible -->
   <Incompatible>เข้ากันไม่ได้</Incompatible>
   <!-- EN: Too many (max {0}):  -->
@@ -373,27 +373,27 @@
   <!-- EN: age {0} -->
   <AgeIndicator>อายุ {0}</AgeIndicator>
   <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummary>TODO</PawnSummary>
+  <PawnSummary>{PAWN_race}, อายุ {PAWN_ageFull}</PawnSummary>
   <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummaryWithGender>TODO</PawnSummaryWithGender>
+  <PawnSummaryWithGender>{PAWN_gender} {PAWN_race}, อายุ {PAWN_ageFull}</PawnSummaryWithGender>
   <!-- EN: Backstory -->
   <Backstory>ปูมหลัง</Backstory>
   <!-- EN: Incapable of -->
   <IncapableOf>สิ่งที่ทำไม่ได้</IncapableOf>
   <!-- EN: Abilities -->
-  <Abilities>TODO</Abilities>
+  <Abilities>ความสามารถพิเศษ</Abilities>
   <!-- EN: Caused by backstory: {0} -->
-  <IncapableOfTooltipBackstory>TODO</IncapableOfTooltipBackstory>
+  <IncapableOfTooltipBackstory>เกิดจากปูมหลัง: {0}</IncapableOfTooltipBackstory>
   <!-- EN: Caused by title: {0} -->
-  <IncapableOfTooltipTitle>TODO</IncapableOfTooltipTitle>
+  <IncapableOfTooltipTitle>เกิดจากบรรดาศักดิ์: {0}</IncapableOfTooltipTitle>
   <!-- EN: Caused by trait: {0} -->
-  <IncapableOfTooltipTrait>TODO</IncapableOfTooltipTrait>
+  <IncapableOfTooltipTrait>เกิดจากอุปนิสัย: {0}</IncapableOfTooltipTrait>
   <!-- EN: Caused by: {0} -->
-  <IncapableOfTooltipHediff>TODO</IncapableOfTooltipHediff>
+  <IncapableOfTooltipHediff>เกิดจาก: {0}</IncapableOfTooltipHediff>
   <!-- EN: Disabled work types: -->
-  <IncapableOfTooltipWorkTypes>TODO</IncapableOfTooltipWorkTypes>
+  <IncapableOfTooltipWorkTypes>ปิดใช้ชนิดงาน: </IncapableOfTooltipWorkTypes>
   <!-- EN: Traits -->
-  <Traits>คุณสมบัติ</Traits>
+  <Traits>อุปนิสัย</Traits>
   <!-- EN: Permanent mood effect -->
   <PermanentMoodEffect>กระทบอารมณ์ (ถาวร)</PermanentMoodEffect>
   <!-- EN: Skills -->
@@ -460,6 +460,6 @@
   <GeneratingMapForNewEncounter>กำลังสร้างแผนทีสำหรับการเผชิญหน้าครั้งใหม่</GeneratingMapForNewEncounter>
 
   <!-- EN: Click for more info -->
-  <ClickForMoreInfo>TODO</ClickForMoreInfo>
+  <ClickForMoreInfo>คลิกเพื่อข้อมูลเพิ่มเติม</ClickForMoreInfo>
 
 </LanguageData>
