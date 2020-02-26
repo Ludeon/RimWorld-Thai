@@ -36,7 +36,7 @@
   <ShortCircuitRain>{1_label} ลัดวงจรในสายฝนและเริ่มลุกไหม้</ShortCircuitRain>
 
   <!-- EN: Area revealed -->
-  <LetterLabelAreaRevealed>พื้นที่ถูกเปิดเผย</LetterLabelAreaRevealed>
+  <LetterLabelAreaRevealed>พื้นที่ถูกเปิด</LetterLabelAreaRevealed>
   <!-- EN: A new area has been revealed. -->
   <AreaRevealed>มีพื้นที่ใหม่ถูกเปิดเผย</AreaRevealed>
   <!-- EN: A new area has been revealed. It contains ancient, hostile mechanoids. -->
@@ -47,7 +47,7 @@
   <!-- EN: These things were crushed: -->
   <TheseThingsCrushed>สิ่งเหล่านี้ถูกบดทับ:</TheseThingsCrushed>
   <!-- EN: Nothing was crushed. -->
-  <NothingCrushed>ไม่มีอะไรถูกบดทับ</NothingCrushed>
+  <NothingCrushed>ไม่มีอะไรถูกทับ</NothingCrushed>
   <!-- EN: Roof collapse -->
   <LetterLabelRoofCollapsed>หลังคาถล่ม</LetterLabelRoofCollapsed>
 
@@ -78,9 +78,9 @@
   <NewPartDiseaseAnimal>{PAWN_labelShort} เกิดอาการเจ็บป่วย: {3} {1} ใน{PAWN_possessive}</NewPartDiseaseAnimal>
 
   <!-- EN: {0} was formerly part of your faction. -->
-  <PawnWasFormerlyColonist>{0} เคยเป็นส่วนหนึ่งใหนฝ่ายคุณ</PawnWasFormerlyColonist>
+  <PawnWasFormerlyColonist>{0} เคยเป็นส่วนหนึ่งของฝ่ายคุณ</PawnWasFormerlyColonist>
   <!-- EN: You previously hosted {0}. -->
-  <PawnWasFormerlyLodger>TODO</PawnWasFormerlyLodger>
+  <PawnWasFormerlyLodger>คุณเคยให้การต้อนรับ {0}</PawnWasFormerlyLodger>
   <!-- EN: {1_labelShort} has these relationships with your colonists: -->
   <PawnHasTheseRelationshipsWithColonists>{1_labelShort} มีความสัมพันธ์เหล่านี้กับชาวนิคมของคุณ:</PawnHasTheseRelationshipsWithColonists>
 
@@ -140,9 +140,9 @@
   <LastFactionRelationsEvent>เหตุการณ์ล่าสุดคือ</LastFactionRelationsEvent>
 
   <!-- EN: View related quest -->
-  <ViewRelatedQuest>TODO</ViewRelatedQuest>
+  <ViewRelatedQuest>ดูเควสที่เกี่ยวข้อง</ViewRelatedQuest>
   <!-- EN: View quest -->
-  <ViewQuest>TODO</ViewQuest>
+  <ViewQuest>ดูเควส</ViewQuest>
   <!-- EN: The last events in {PAWN_definite}'s life -->
   <LastEventsInLife>เหตการณ์สุดท้ายในชีวิตของ{PAWN_definite}</LastEventsInLife>
 
@@ -189,7 +189,7 @@
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
   <LetterNoLongerLovers>{PAWN1_labelShort} และ {PAWN2_labelShort} ไม่ได้คบกันแล้ว</LetterNoLongerLovers>
   <!-- EN: {PAWN_labelShort} will change {PAWN_possessive} last name back to {PAWN_possessive} birth name. -->
-  <LetterNoLongerLovers_BackToBirthName>TODO</LetterNoLongerLovers_BackToBirthName>
+  <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort} เปลื่ยนนามสกุลของ{PAWN_possessive}กลับไปเป็นชื่อเดิมของ{PAWN_possessive}</LetterNoLongerLovers_BackToBirthName>
   <!-- EN: Breakup -->
   <LetterLabelBreakup>บอกเลิก</LetterLabelBreakup>
   <!-- EN: Marriage is on! -->
@@ -197,9 +197,9 @@
   <!-- EN: Rejected proposal -->
   <LetterLabelRejectedProposal>ปฏิเสธคำขอแต่งงาน</LetterLabelRejectedProposal>
   <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
-  <LetterAcceptedProposal>ณ วันใดวันหนึ่งใน Quadrums ที่จะมาถึง พวกเขาจะจัดพิธีแต่งงานและเชิญชาวนิคมทั้งหมดเจ้าร่วม พิจารณาการวางจุดแต่งงาน ถ้าคุณต้องการควบคุมตำแหน่งการจัดพิธี</LetterAcceptedProposal>
+  <LetterAcceptedProposal>ณ วันใดวันหนึ่งใน Quadrums ที่จะมาถึง พวกเขาจะจัดพิธีแต่งงานและเชิญชาวนิคมทั้งหมดเข้าร่วม พิจารณาวางจุดแต่งงานเอง หากคุณต้องการควบคุมตำแหน่งการจัดพิธี</LetterAcceptedProposal>
   <!-- EN: {PAWN_label} will change {PAWN_possessive} last name to {1}. -->
-  <LetterAcceptedProposal_NameChange>TODO</LetterAcceptedProposal_NameChange>
+  <LetterAcceptedProposal_NameChange>{PAWN_label} จะเปลื่ยนนามสกุลของ{PAWN_possessive}ไปเป็น {1}</LetterAcceptedProposal_NameChange>
   <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
   <LetterRejectedProposal>{INITIATOR_nameFull} ไม่มีความสุขกับเรื่องนี้แน่ๆ</LetterRejectedProposal>
 
@@ -287,9 +287,9 @@
 
   <!-- Ground penetrating scanner -->
   <!-- EN: Scanned underground -->
-  <LetterLabelDeepScannerFoundLump>TODO</LetterLabelDeepScannerFoundLump>
+  <LetterLabelDeepScannerFoundLump>แสกนใต้ดินเจอ</LetterLabelDeepScannerFoundLump>
   <!-- EN: {FINDER_nameDef} has found a lump of buried {0} using the ground-penetrating scanner! -->
-  <LetterDeepScannerFoundLump>TODO</LetterDeepScannerFoundLump>
+  <LetterDeepScannerFoundLump>{FINDER_nameDef} เจอเข้ากับก้อน {0} ฝังอยู่ใต้ดินด้วยเครื่องสแกนทะลวงพื้น!</LetterDeepScannerFoundLump>
 
   <!-- Ambush -->
   <!-- EN: Ambush -->
@@ -338,16 +338,16 @@
   <!-- EN: Legendary Work -->
   <LetterCraftedLegendaryLabel>ผลงานในตำนาน</LetterCraftedLegendaryLabel>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\nNews of this valuable artifact will spread across the world. -->
-  <LetterCraftedLegendaryMessage>{WORKER_labelShort} ได้สร้างสรรค์ {CRAFTED_labelShort} ขึ้น\n\nข่าวของวัตถุอันทรงคุณค่านี้จะได้กระจอนกระจายไปทั่วไป</LetterCraftedLegendaryMessage>
+  <LetterCraftedLegendaryMessage>{WORKER_labelShort} ได้สร้างสรรค์ {CRAFTED_labelShort} ขึ้น\n\nข่าวของวัตถุอันทรงคุณค่านี้จะกระจอนกระจายไปทั่วโลก</LetterCraftedLegendaryMessage>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0}\n\nNews of this valuable artifact will spread across the world. -->
-  <LetterCraftedLegendaryMessageArt>TODO</LetterCraftedLegendaryMessageArt>
+  <LetterCraftedLegendaryMessageArt>{WORKER_labelShort} ได้สร้างสรรค์ {CRAFTED_labelShort} ขึ้น\n\n{0}\n\nข่าวของวัตถุอันทรงคุณค่านี้จะกระจอนกระจายไปทั่วโลก</LetterCraftedLegendaryMessageArt>
 
   <!-- EN: Masterwork -->
-  <LetterCraftedMasterworkLabel>TODO</LetterCraftedMasterworkLabel>
+  <LetterCraftedMasterworkLabel>ผลงานปรมาจารย์</LetterCraftedMasterworkLabel>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}. -->
-  <LetterCraftedMasterworkMessage>TODO</LetterCraftedMasterworkMessage>
+  <LetterCraftedMasterworkMessage>{WORKER_labelShort} ได้สร้างสรรค์ {CRAFTED_labelShort}</LetterCraftedMasterworkMessage>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0} -->
-  <LetterCraftedMasterworkMessageArt>TODO</LetterCraftedMasterworkMessageArt>
+  <LetterCraftedMasterworkMessageArt>{WORKER_labelShort} ได้สร้างสรรค์ {CRAFTED_labelShort}.\n\n{0}</LetterCraftedMasterworkMessageArt>
 
   <!-- Pawns lost because map closed -->
   <!-- EN: Caravan lost -->
@@ -407,106 +407,108 @@
 
   <!-- Quests -->
   <!-- EN: A new quest has become available. It is called '{0}'. -->
-  <LetterQuestBecameAvailable>TODO</LetterQuestBecameAvailable>
+  <LetterQuestBecameAvailable>เควสใหม่เปิดให้ทำ เรียกว่า '{0}'</LetterQuestBecameAvailable>
   <!-- EN: If you don’t accept the quest within {0}, it will expire. -->
-  <LetterQuestRequiresAcceptance>TODO</LetterQuestRequiresAcceptance>
+  <LetterQuestRequiresAcceptance>ถ้าคุณไม่ยอมรับเควส {0}, เควสจะหมดอายุ</LetterQuestRequiresAcceptance>
   <!-- EN: A new quest has become active. It is called '{0}'. -->
-  <LetterQuestBecameActive>TODO</LetterQuestBecameActive>
+  <LetterQuestBecameActive>กำลังทำเควสใหม่ เรียกว่า '{0}'</LetterQuestBecameActive>
   <!-- EN: Quest active: {0} -->
-  <LetterQuestAutomaticallyAcceptedTitle>TODO</LetterQuestAutomaticallyAcceptedTitle>
+  <LetterQuestAutomaticallyAcceptedTitle>กำลังทำเควส: {0}</LetterQuestAutomaticallyAcceptedTitle>
   <!-- EN: It will expire in {0}. -->
-  <LetterQuestActiveNowTime>TODO</LetterQuestActiveNowTime>
+  <LetterQuestActiveNowTime>จะหมดอายุใน {0}</LetterQuestActiveNowTime>
 
   <!-- Quest drop pods arrived -->
   <!-- EN: Pods arrived -->
-  <LetterLabelQuestDropPodsArrived>TODO</LetterLabelQuestDropPodsArrived>
+  <LetterLabelQuestDropPodsArrived>กระสวยมาถึง</LetterLabelQuestDropPodsArrived>
   <!-- EN: Transport pods with the following contents have arrived:\n\n{0} -->
-  <LetterQuestDropPodsArrived>TODO</LetterQuestDropPodsArrived>
+  <LetterQuestDropPodsArrived>กระสวยมาถึงพร้อมสิ่งเหล่านี้:\n\n{0}</LetterQuestDropPodsArrived>
 
   <!-- Refugee joins -->
   <!-- EN: {PAWN_nameDef} joins -->
-  <LetterLabelRefugeeJoins>TODO</LetterLabelRefugeeJoins>
+  <LetterLabelRefugeeJoins>{PAWN_nameDef} เข้าร่วม</LetterLabelRefugeeJoins>
   <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony. -->
-  <LetterRefugeeJoins>TODO</LetterRefugeeJoins>
+  <LetterRefugeeJoins>{PAWN_title} ชื่อ {PAWN_nameDef} มาถึงและเข้าร่วมอาณานิคม</LetterRefugeeJoins>
   
   <!-- Rescuee joins -->
   <!-- EN: {PAWN_nameDef} joins -->
-  <LetterLabelRescueeJoins>TODO</LetterLabelRescueeJoins>
+  <LetterLabelRescueeJoins>{PAWN_nameDef} เข้าร่วม</LetterLabelRescueeJoins>
   <!-- EN: {PAWN_nameDef} is thankful that you rescued {PAWN_objective}. {PAWN_pronoun} has decided that {PAWN_pronoun} would rather stay than leave, and is joining your colony. -->
-  <LetterRescueeJoins>TODO</LetterRescueeJoins>
+  <LetterRescueeJoins>{PAWN_nameDef} รู้สึกขอบคุณที่คุณช่วยเหลือ{PAWN_objective}ออกมา {PAWN_pronoun}ตัดสินใจว่า{PAWN_pronoun}ควรอยู่มากกว่าจากไป เขาจึงเข้าร่วมกับคุณ</LetterRescueeJoins>
 
   <!-- Pawns arrive and join -->
   <!-- EN: People join -->
-  <LetterLabelPawnsArriveAndJoin>TODO</LetterLabelPawnsArriveAndJoin>
+  <LetterLabelPawnsArriveAndJoin>คนเข้าร่วม</LetterLabelPawnsArriveAndJoin>
   <!-- EN: The following people have arrived and joined the colony:\n\n{0} -->
-  <LetterPawnsArriveAndJoin>TODO</LetterPawnsArriveAndJoin>
+  <LetterPawnsArriveAndJoin>คนเหล่านี้มาถึงและเข้าร่วมอาณานิคมของคุณ:\n\n{0}</LetterPawnsArriveAndJoin>
 
   <!-- Pawns arrive -->
   <!-- EN: People arrived -->
-  <LetterLabelPawnsArrive>TODO</LetterLabelPawnsArrive>
+  <LetterLabelPawnsArrive>คนมาถึง</LetterLabelPawnsArrive>
   <!-- EN: The following people have arrived:\n\n{0} -->
-  <LetterPawnsArrive>TODO</LetterPawnsArrive>
+  <LetterPawnsArrive>คนเหล่านี้มาถึง:\n\n{0}</LetterPawnsArrive>
 
   <!-- Pawn leaving -->
   <!-- EN: {0} leaving -->
-  <LetterLabelPawnLeaving>TODO</LetterLabelPawnLeaving>
+  <LetterLabelPawnLeaving>{0} จากไป</LetterLabelPawnLeaving>
   <!-- EN: {0} is leaving. -->
-  <LetterPawnLeaving>TODO</LetterPawnLeaving>
+  <LetterPawnLeaving>{0} กำลังจากไป</LetterPawnLeaving>
 
   <!-- Pawns leaving -->
   <!-- EN: {0} leaving -->
-  <LetterLabelPawnsLeaving>TODO</LetterLabelPawnsLeaving>
+  <LetterLabelPawnsLeaving>{0} จากไป</LetterLabelPawnsLeaving>
   <!-- EN: {0} are leaving. -->
-  <LetterPawnsLeaving>TODO</LetterPawnsLeaving>
+  <LetterPawnsLeaving>{0} กำลังจากไป</LetterPawnsLeaving>
   
   <!-- Colonist kidnapped -->
   <!-- EN: {PAWN_nameDef} kidnapped -->
-  <LetterLabelPawnsKidnapped>TODO</LetterLabelPawnsKidnapped>
+  <LetterLabelPawnsKidnapped>{PAWN_nameDef} โดนลักพาตัวไป</LetterLabelPawnsKidnapped>
   <!-- EN: {PAWN_nameDef} has been kidnapped by {FACTION_name}!
 \nHowever, {PAWN_pronoun} is not lost forever. An opportunity to rescue {PAWN_objective} may present itself in the coming days or years. -->
-  <LetterPawnsKidnapped>TODO</LetterPawnsKidnapped>
+  <LetterPawnsKidnapped>{PAWN_nameDef} ถูกลักพาตัวไปโดยฝ่าย {FACTION_name}!
+    \nอย่างไรก็ตาม เรายังไม่เสีย{PAWN_pronoun}ไปซะทีเดียว โอกาศที่จะได้ช่วยเหลือ{PAWN_objective}อาจปรากฏขึ้นในวันหรือปีที่จะมาถึง</LetterPawnsKidnapped>
   
   <!-- Techprints -->
   <!-- EN: Techprint applied: {PROJECT_label} -->
-  <LetterTechprintAppliedLabel>TODO</LetterTechprintAppliedLabel>
+  <LetterTechprintAppliedLabel>พิมพ์เทคถูกใช้: {PROJECT_label}</LetterTechprintAppliedLabel>
   <!-- EN: A techprint has been applied to the research project: {PROJECT_label}. -->
-  <LetterTechprintAppliedPartIntro>TODO</LetterTechprintAppliedPartIntro>
+  <LetterTechprintAppliedPartIntro>พิมพ์เทคถูกใช้งานกับโครงการ: {PROJECT_label}</LetterTechprintAppliedPartIntro>
   <!-- EN: You're completed the projects techprint requirements! Your researchers can now begin researching how to actually use the technology at your research benches. -->
-  <LetterTechprintAppliedPartJustUnlocked>TODO</LetterTechprintAppliedPartJustUnlocked>
+  <LetterTechprintAppliedPartJustUnlocked>คุณเติมเต็มความต้องการพิมพ์เทคของโครงการนี้! ตอนนี้นักวิจัยของคุณสามารถเริ่มวิจัยเทคโนโลยีจริงๆได้ที่โต๊ะวิจัย</LetterTechprintAppliedPartJustUnlocked>
   <!-- EN: This project's techprint requirements are not yet satisfied. {0} techprints have been applied so far. The project requires {1} in total. -->
-  <LetterTechprintAppliedPartNotUnlockedYet>TODO</LetterTechprintAppliedPartNotUnlockedYet>
+  <LetterTechprintAppliedPartNotUnlockedYet>ความต้องการพิมพ์เทคของโครงการนี้ยังไม่ถูกเติมเต็ม พิมพ์เทคถูกใช้งานไป {0} แต่โครงการต้องการทั้งหมด {1}</LetterTechprintAppliedPartNotUnlockedYet>
   <!-- EN: This project's techprint requirements were already satisfied. The extra techprint advanced your research efforts on {PROJECT_label}. Half the remaining research work, {0} points, has been completed. -->
-  <LetterTechprintAppliedPartAlreadyUnlocked>TODO</LetterTechprintAppliedPartAlreadyUnlocked>
+  <LetterTechprintAppliedPartAlreadyUnlocked>ความต้องการพิมพ์เทคในโครงการนี้เต็มแล้ว พิมพ์เทคที่เกินนำไปพัฒนาความพยายามวิจัย {PROJECT_label}, ครึ่งหนึ่งของงานวิจัย คือ {0} แต้ม ก็ได้เสร็จไป</LetterTechprintAppliedPartAlreadyUnlocked>
   <!-- EN: This project is already fully researched, so the techprint didn't advance your knowledge at all. -->
-  <LetterTechprintAppliedPartAlreadyResearched>TODO</LetterTechprintAppliedPartAlreadyResearched>
+  <LetterTechprintAppliedPartAlreadyResearched>โครงการนี้วิจัยเต็มที่แล้ว, ดังนั้นพิมพ์เทคไม่ได้พัฒนาความรู้คุณเลยแต่น้อย</LetterTechprintAppliedPartAlreadyResearched>
   <!-- EN: By applying the techprint, {PAWN_labelShort} gained {0} experience in the {1} skill. -->
-  <LetterTechprintAppliedPartExpAwarded>TODO</LetterTechprintAppliedPartExpAwarded>
+  <LetterTechprintAppliedPartExpAwarded>โดยการใช้พิมพ์เทค, {PAWN_labelShort} ได้รับประสบการณ์ {0} ในทักษะ {1}</LetterTechprintAppliedPartExpAwarded>
   
   <!-- Quest Completed -->
   <!-- EN: Quest completed -->
-  <LetterQuestCompletedLabel>TODO</LetterQuestCompletedLabel>
+  <LetterQuestCompletedLabel>เควสเสร็จสิ้น</LetterQuestCompletedLabel>
   <!-- EN: Quest failed -->
-  <LetterQuestFailedLabel>TODO</LetterQuestFailedLabel>
+  <LetterQuestFailedLabel>เควสล้มเหลว</LetterQuestFailedLabel>
   <!-- EN: Quest concluded -->
-  <LetterQuestConcludedLabel>TODO</LetterQuestConcludedLabel>
+  <LetterQuestConcludedLabel>เควสถึงบทสรุป</LetterQuestConcludedLabel>
   <!-- EN: You have successfully completed the quest '{0}'! -->
-  <LetterQuestCompletedSuccess>TODO</LetterQuestCompletedSuccess>
+  <LetterQuestCompletedSuccess>คุณประสบความสำเร็จในการทำเควส '{0}'</LetterQuestCompletedSuccess>
   <!-- EN: You have failed the quest '{0}'. -->
-  <LetterQuestCompletedFail>TODO</LetterQuestCompletedFail>
+  <LetterQuestCompletedFail>คุณล้มเหลวในการทำเควส '{0}'</LetterQuestCompletedFail>
   <!-- EN: You have concluded the quest '{0}'. -->
-  <LetterQuestCompletedConcluded>TODO</LetterQuestCompletedConcluded>
+  <LetterQuestCompletedConcluded>คุณมาถึงบทสรุปเควส '{0}'</LetterQuestCompletedConcluded>
   
   <!-- Bladelink -->
   <!-- EN: Bladelink bond: {PAWN_labelShort} -->
-  <LetterBladelinkWeaponBondedLabel>TODO</LetterBladelinkWeaponBondedLabel>
+  <LetterBladelinkWeaponBondedLabel>ผูกพันธ์กับ Bladelink: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
   <!-- EN: {PAWN_labelShort} has established a bond with the persona of {WEAPON_labelShort}.
 \nFrom now on, {WEAPON_labelShort} will refuse to be wielded by anyone except {PAWN_labelShort}. -->
-  <LetterBladelinkWeaponBonded>TODO</LetterBladelinkWeaponBonded>
+  <LetterBladelinkWeaponBonded>{PAWN_labelShort} ได้สร้างความสัมพันธ์กับเพอร์โซน่าของ {WEAPON_labelShort}.
+\nจากนี้ไป, {WEAPON_labelShort} จะปฏิเสธไม่โดนใช้โดยคนอื่นนอกจาก {PAWN_labelShort}</LetterBladelinkWeaponBonded>
   
   <!-- Mech cluster -->
   <!-- EN: Mechanoids arrived -->
-  <LetterLabelMechClusterArrived>TODO</LetterLabelMechClusterArrived>
+  <LetterLabelMechClusterArrived>เมคานอยด์มาเยือน</LetterLabelMechClusterArrived>
   <!-- EN: Mechanoids have arrived. -->
-  <LetterMechClusterArrived>TODO</LetterMechClusterArrived>
+  <LetterMechClusterArrived>เมคานอยด์มาถึงแล้ว</LetterMechClusterArrived>
 
 </LanguageData>

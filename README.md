@@ -4,8 +4,6 @@ This is the Thai translation data for RimWorld.
 
 Compatible with RimWorld version: `1.1.2552`
 
-หากมีคำถาม-คำแนะนำ สามารถโพส[กระทู้](https://ludeon.com/forums/index.php?topic=45589.0) หรือเปิด [Issue](https://github.com/Ludeon/RimWorld-Thai/issues) ได้เลยครับ
-
 ## Manual Install
 
 In case you want bleeding-edge translation, you could install it manually follow these step:
@@ -18,16 +16,16 @@ In case you want bleeding-edge translation, you could install it manually follow
 
 We appreciate any willing to help, to contribute see: http://ludeon.com/forums/index.php?topic=2933.0
 
-**Before start working on the translation please take a look at relevant information on [Wiki](https://github.com/Ludeon/RimWorld-Thai/wiki)**.
+**Before start working on Thai translation please take a look at relevant information on [Wiki](https://github.com/Ludeon/RimWorld-Thai/wiki)**.
 
 ### Current Status
 
-Quick notes & summary from current translation report, generated on `2020-02-25`
+Summary copied from current translation report generate by the game, list below generated on `2020-02-26`
 
 * ☑️ (0) General load errors
 * ️️☑️ (0) Def-injected translations load errors
 * ☑️ (0) Backstories load errors
-* 🔲 (246) Missing keyed translations
+* 🔲 (197) Missing keyed translations
 * 🔲 (4544) Def-injected translations missing
 * 🔲 (2374) Backstory translations missing
 * ☑️ (0) Unnecessary def-injected translations (marked as NoTranslate)
@@ -53,5 +51,7 @@ Quick notes & summary from current translation report, generated on `2020-02-25`
 - @guiltyhollow
 
 ------------------------------------
+
+หากมีคำถาม คำแนะนำ สามารถโพสตอบ[กระทู้](https://ludeon.com/forums/index.php?topic=45589.0) หรือเปิด [Issue](https://github.com/Ludeon/RimWorld-Thai/issues) ได้เลยครับ
 
 ขอบคุณที่ให้ความสนใจแปลเกมภาษาไทย

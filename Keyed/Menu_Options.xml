@@ -23,7 +23,7 @@
   <!-- EN: Pause on -->
   <AutomaticPauseModeSetting>หยุดเกมเมื่อ</AutomaticPauseModeSetting>
   <!-- EN: Custom cursor -->
-  <CustomCursor>ใช้เมาส์เคอเซอร์ปรับแต่ง</CustomCursor>
+  <CustomCursor>ใช้เคอเซอร์ปรับแต่ง</CustomCursor>
   <!-- EN: Hats shown only on game map -->
   <HatsShownOnlyOnMap>แสดงหมวกเฉพาะบนแผนที่</HatsShownOnlyOnMap>
   <!-- EN: UI scale -->
@@ -41,7 +41,7 @@
   <!-- EN: Development mode -->
   <DevelopmentMode>โหมดพัฒนา</DevelopmentMode>
   <!-- EN: Auto-reset mods config on crash -->
-  <ResetModsConfigOnCrash>รีเซ็ตคอนฟิก mods อัตโนมัติเมื่อเกมแครช</ResetModsConfigOnCrash>
+  <ResetModsConfigOnCrash>รีเซ็ตคอนฟิกม็อดอัตโนมัติเมื่อเกมแครช</ResetModsConfigOnCrash>
   <!-- EN: Verbose logging -->
   <LogVerbose>Verbose logging</LogVerbose>
   <!-- EN: Open save data folder -->
@@ -53,7 +53,7 @@
   <!-- EN: Show log file location -->
   <ShowLogFileLocation>แสดงตำแหน่งไฟล์ log</ShowLogFileLocation>
   <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
-  <NamesYouWantToSee>ตัวละครผู้เล่นสร้างด้วยความพึงใจ ในระหว่างเล่น ตัวละครเหล่านี้มีโอกาสมากกว่าในการสุ่มโผล่ออกมา:</NamesYouWantToSee>
+  <NamesYouWantToSee>ตัวละครที่ผู้เล่นสร้างตามความต้องการ\nในระหว่างเล่น ตัวละครเหล่านี้มีโอกาสมาก\nที่จะถูกสุ่มออกมา:</NamesYouWantToSee>
   <!-- EN: Add name -->
   <AddName>เพื่มชื่อ</AddName>
   <!-- EN: Type the first name, nickname, or last name. -->
@@ -77,9 +77,9 @@
   <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->
   <MaxPermadeathAutosaveIntervalInfo>ช่วงเวลาเซฟเกมอัตโนมัติในโหมดตายถาวร สูงสุด {0} ต่อวัน</MaxPermadeathAutosaveIntervalInfo>
   <!-- EN: Mod Settings -->
-  <ModSettings>ตั้งค่า mod</ModSettings>
+  <ModSettings>ตั้งค่าม็อด</ModSettings>
   <!-- EN: Permanently disable development mode -->
-  <PermanentlyDisableDevMode>ปิดใช้ โหมดพัฒนา ถาวร</PermanentlyDisableDevMode>
+  <PermanentlyDisableDevMode>ปิด 'โหมดพัฒนา' ไปอย่างถาวร</PermanentlyDisableDevMode>
 
   <!-- Resolution -->
   <!-- EN: Resolution -->
@@ -89,9 +89,9 @@
 
   <!-- Mods -->
   <!-- EN: Select mod... -->
-  <SelectMod>เลือก mod...</SelectMod>
+  <SelectMod>เลือกม็อด...</SelectMod>
   <!-- EN: No configurable mods loaded. -->
-  <NoConfigurableMods>ไม่ได้โหลด mods ใดๆที่สามารถตั้งค่าได้</NoConfigurableMods>
+  <NoConfigurableMods>ไม่ได้โหลดม็อดใดๆที่สามารถตั้งค่าได้</NoConfigurableMods>
   
   <!-- Options reset -->
   <!-- EN: Restore to default settings -->

@@ -109,7 +109,7 @@
   <!-- EN: Randomize seed -->
   <RandomizeSeed>สุ่มค่า Seed</RandomizeSeed>
   <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
-  <PlanetCoverageTip>ดาวเคราะห์มีขนาดเส้นผ่าศูนย์กลางเท่ากันตลอด แต่เนื่องจากดวงเคราะห์ใหญ่เกินจำเป็น สำหรับการเล่นทั่วๆไป\nเราจึงไม่สร้างพื้นผิวดาวเคราะห์ทั้งหมด เพราะจะกินเวลาสร้างนานเอามากๆ\nค่าเปอร์เซ็นต์นี้ คือร้อยละของพื้นผิวดาวเคราะห์ ที่คุณต้องการสร้าง</PlanetCoverageTip>
+  <PlanetCoverageTip>ดาวเคราะห์มีขนาดเส้นผ่าศูนย์กลางเท่ากันตลอด แต่เนื่องจากดวงเคราะห์มีขนาดใหญ่ จนเกินจำเป็นกับการเล่นทั่วๆไป\n\nเราจึงไม่สร้างพื้นผิวดาวเคราะห์ทั้งหมด ไม่งั้นจะกินเวลาสร้างนานเอามากๆ\n\nค่าเปอร์เซ็นต์นี้ คือร้อยละของพื้นผิวดาวเคราะห์\nที่คุณต้องการสร้าง</PlanetCoverageTip>
   <!-- EN: Factions -->
   <WorldFactionsTab>ฝักฝ่าย</WorldFactionsTab>
 
