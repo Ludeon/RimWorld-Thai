@@ -263,6 +263,8 @@
   <Strip>แก้ผ้า {1_label}</Strip>
   <!-- EN: Cannot strip {1_label} -->
   <CannotStrip>ไม่สามารถแก้ผ้า {1_label} ได้</CannotStrip>
+  <!-- EN: Cannot drop {1_label} -->
+  <CannotDrop>ไม่สามารถทิ้ง {1_label} ได้</CannotDrop>
   <!-- EN: temporary faction member -->
   <QuestRelated>สมาชิกฝักฝ่ายชั่วคราว</QuestRelated>
   <!-- EN: Cannot change outfits on temporary faction members -->
@@ -275,9 +277,7 @@
   
   <!-- EN: Drop {1_label} -->
   <Drop>ทิ้ง {1_label}</Drop>
-  <!-- EN: Cannot drop {1_label} -->
-  <CannotDrop>ไม่สามารถทิ้ง {1_label} ได้</CannotDrop>
-  
+
   <!-- EN: Rest until healed -->
   <UseMedicalBed>พักจนกว่าจะหาย</UseMedicalBed>
   <!-- EN: not injured -->
@@ -416,5 +416,5 @@
 
   <!-- EN: apply {0} -->
   <ApplyTechprint>ใช้งาน {0}</ApplyTechprint>
-
+  
 </LanguageData>

@@ -464,8 +464,7 @@
   <LetterLabelPawnsKidnapped>{PAWN_nameDef} โดนลักพาตัวไป</LetterLabelPawnsKidnapped>
   <!-- EN: {PAWN_nameDef} has been kidnapped by {FACTION_name}!
 \nHowever, {PAWN_pronoun} is not lost forever. An opportunity to rescue {PAWN_objective} may present itself in the coming days or years. -->
-  <LetterPawnsKidnapped>{PAWN_nameDef} ถูกลักพาตัวไปโดยฝ่าย {FACTION_name}!
-    \nอย่างไรก็ตาม เรายังไม่เสีย{PAWN_pronoun}ไปซะทีเดียว โอกาศที่จะได้ช่วยเหลือ{PAWN_objective}อาจปรากฏขึ้นในวันหรือปีที่จะมาถึง</LetterPawnsKidnapped>
+  <LetterPawnsKidnapped>{PAWN_nameDef} ถูกลักพาตัวไปโดยฝ่าย {FACTION_name}!\nอย่างไรก็ตาม เรายังไม่เสีย{PAWN_pronoun}ไปซะทีเดียว โอกาศที่จะได้ช่วยเหลือ{PAWN_objective}อาจปรากฏขึ้นในวันหรือปีที่จะมาถึง</LetterPawnsKidnapped>
   
   <!-- Techprints -->
   <!-- EN: Techprint applied: {PROJECT_label} -->
@@ -502,8 +501,7 @@
   <LetterBladelinkWeaponBondedLabel>ผูกพันธ์กับ Bladelink: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
   <!-- EN: {PAWN_labelShort} has established a bond with the persona of {WEAPON_labelShort}.
 \nFrom now on, {WEAPON_labelShort} will refuse to be wielded by anyone except {PAWN_labelShort}. -->
-  <LetterBladelinkWeaponBonded>{PAWN_labelShort} ได้สร้างความสัมพันธ์กับเพอร์โซน่าของ {WEAPON_labelShort}.
-\nจากนี้ไป, {WEAPON_labelShort} จะปฏิเสธไม่โดนใช้โดยคนอื่นนอกจาก {PAWN_labelShort}</LetterBladelinkWeaponBonded>
+  <LetterBladelinkWeaponBonded>{PAWN_labelShort} ได้สร้างความสัมพันธ์กับเพอร์โซน่าของ {WEAPON_labelShort}.\n\nจากนี้ไป, {WEAPON_labelShort} จะปฏิเสธไม่โดนใช้โดยคนอื่นนอกจาก {PAWN_labelShort}</LetterBladelinkWeaponBonded>
   
   <!-- Mech cluster -->
   <!-- EN: Mechanoids arrived -->

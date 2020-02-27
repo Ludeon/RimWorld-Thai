@@ -914,5 +914,5 @@
   <AbilityOccupiedCells>{0} ต้องมีเป้าหมายเป็นพื้นที่ว่าง</AbilityOccupiedCells>
   <!-- EN: {0} must target a walkable area. -->
   <AbilityUnwalkable>{0} ต้องมีเป้าหมายเป็นพื้นที่เดินได้</AbilityUnwalkable>
-
+  
 </LanguageData>

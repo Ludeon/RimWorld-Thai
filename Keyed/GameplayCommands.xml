@@ -486,8 +486,7 @@
 
   <!-- Send shuttle -->
   <!-- EN: Send -->
-  <CommandSendShuttle>ส่งกระสวย
-  </CommandSendShuttle>
+  <CommandSendShuttle>ส่งกระสวย</CommandSendShuttle>
   <!-- EN: Initiate takeoff and have the shuttle fly to its destination. -->
   <CommandSendShuttleDesc>เริ่มเทคออฟ ปล่อยกระสวยบินไปยังเป้าหมาย</CommandSendShuttleDesc>
   <!-- EN: The shuttle is under a roof. -->
@@ -516,5 +515,5 @@
   <CommandOpenLinkedQuest>เปิดเควสที่เชื่อมโยง</CommandOpenLinkedQuest>
   <!-- EN: Open linked quest in the quests tab. -->
   <CommandOpenLinkedQuestDesc>เปิดเควสที่เชื่อมโยงในแท็บเควส</CommandOpenLinkedQuestDesc>
-
+  
 </LanguageData>
