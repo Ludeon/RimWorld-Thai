@@ -225,13 +225,13 @@
   <!-- EN: Expires on {0} -->
   <QuestExpiresOn>หมดอายุเมื่อ {0}</QuestExpiresOn>
   <!-- EN: Shuttle arrives in {0} -->
-  <ShuttleArrivesIn>กระสวยมาถึงใน {0}</ShuttleArrivesIn>
+  <ShuttleArrivesIn>ยานกระสวยมาถึงใน {0}</ShuttleArrivesIn>
   <!-- EN: Shuttle arrives on {0} -->
-  <ShuttleArrivesOn>กระสวยมาถึงเมื่อ {0}</ShuttleArrivesOn>
+  <ShuttleArrivesOn>ยานกระสวยมาถึงเมื่อ {0}</ShuttleArrivesOn>
   <!-- EN: Shuttle departs in {0} -->
-  <ShuttleDepartsIn>กระสวยออกตัวใน {0}</ShuttleDepartsIn>
+  <ShuttleDepartsIn>ยานกระสวยออกตัวใน {0}</ShuttleDepartsIn>
   <!-- EN: Shuttle departs on {0} -->
-  <ShuttleDepartsOn>กระสวยออกตัวเมื่อ {0}</ShuttleDepartsOn>
+  <ShuttleDepartsOn>ยานกระสวยออกตัวเมื่อ {0}</ShuttleDepartsOn>
   <!-- EN: Finished {0} ago -->
   <QuestFinishedAgo>เสร็จสิ้นไป {0} ที่แล้ว</QuestFinishedAgo>
   <!-- EN: Accept quest -->

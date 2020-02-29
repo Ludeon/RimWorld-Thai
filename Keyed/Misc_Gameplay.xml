@@ -281,11 +281,11 @@
   <!-- EN: {0} wants this destroyed. -->
   <QuestTargetDestroyInspectStringShort>{0} ต้องการทำลายสิ่งนี้</QuestTargetDestroyInspectStringShort>
   <!-- EN: Departing on shuttle in {0} -->
-  <ShuttleDelayInspectString>ออกเดินทางไปกับกระสวยใน {0}</ShuttleDelayInspectString>
+  <ShuttleDelayInspectString>ออกเดินทางไปกับยานกระสวยใน {0}</ShuttleDelayInspectString>
   <!-- EN: Departing in {0} -->
   <ShuttleLeaveDelayInspectString>ออกเดินทางใน {0}</ShuttleLeaveDelayInspectString>
   <!-- EN: Should depart on shuttle -->
-  <ShouldDepartOnShuttleInspectString>ควรออกเดินทางด้วยกระสวย</ShouldDepartOnShuttleInspectString>
+  <ShouldDepartOnShuttleInspectString>ควรออกเดินทางด้วยยานกระสวย</ShouldDepartOnShuttleInspectString>
   <!-- EN: Time left: {0} -->
   <WorldObjectTimeout>เวลาที่เหลือ: {0}</WorldObjectTimeout>
   <!-- EN: Click to sort by this column. -->
@@ -433,7 +433,7 @@
   <!-- EN: Sealed -->
   <DormantCompSealed>ปิดผนึก</DormantCompSealed>
   <!-- EN: Ready to drop mechanoids -->
-  <DormantCompBeacon>พร้อมจะทิ้งเมคานอย์</DormantCompBeacon>
+  <DormantCompBeacon>พร้อมจะทิ้งเมคานอยด์</DormantCompBeacon>
   <!-- EN: Expired -->
   <DormantCompExpired>หมดอายุ</DormantCompExpired>
   <!-- EN: Activates in {0} -->

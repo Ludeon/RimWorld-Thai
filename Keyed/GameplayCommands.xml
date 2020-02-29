@@ -486,11 +486,11 @@
 
   <!-- Send shuttle -->
   <!-- EN: Send -->
-  <CommandSendShuttle>ส่งกระสวย</CommandSendShuttle>
+  <CommandSendShuttle>ส่งยานกระสวย</CommandSendShuttle>
   <!-- EN: Initiate takeoff and have the shuttle fly to its destination. -->
-  <CommandSendShuttleDesc>เริ่มเทคออฟ ปล่อยกระสวยบินไปยังเป้าหมาย</CommandSendShuttleDesc>
+  <CommandSendShuttleDesc>เริ่มเทคออฟ ปล่อยยานกระสวยบินไปยังเป้าหมาย</CommandSendShuttleDesc>
   <!-- EN: The shuttle is under a roof. -->
-  <CommandSendShuttleFailUnderRoof>กระสวยอยู่ภายใต้หลังคา</CommandSendShuttleFailUnderRoof>
+  <CommandSendShuttleFailUnderRoof>ยานกระสวยอยู่ภายใต้หลังคา</CommandSendShuttleFailUnderRoof>
   <!-- EN: Some of the required items or people are missing. -->
   <CommandSendShuttleFailMissingRequiredThing>คนหรือไอเท็มที่จำเป็นบางอย่างตกหล่นไป</CommandSendShuttleFailMissingRequiredThing>
 

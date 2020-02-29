@@ -223,9 +223,9 @@
   <QuestPartMoodBelowThresholdDesc>ผู้มาเยือน {0} ต้องการให้คุณทำให้บุคคลนี้มีอารมณืดี อย่างไรก็ตาม ตอนนี้อารมณ์ของพวกเขาไม่ค่อยดีนัก ทำอะไรซักอย่างให้อารมณ์ดี:\n\n{1}</QuestPartMoodBelowThresholdDesc>
   
   <!-- EN: Shuttle leaving in {0} -->
-  <QuestPartShuttleLeaveDelay>กระสวยออกใน {0}</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelay>ยานกระสวยออกใน {0}</QuestPartShuttleLeaveDelay>
   <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
-  <QuestPartShuttleLeaveDelayDesc>กระสวยกำลังจะออกตัวใน {1}, เควส {0} ต้องการให้คุณโหลดคนหรือไอเท็มเหล่านี้ขึ้นก่อนกระสวยออก:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
+  <QuestPartShuttleLeaveDelayDesc>ยานกระสวยกำลังจะออกตัวใน {1}, เควส {0} ต้องการให้คุณโหลดคนหรือไอเท็มเหล่านี้ขึ้นก่อนยานกระสวยออก:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
 
   <!-- EN: Monument will be destroyed -->
   <DisallowedBuildingInsideMonument>อนุสาวรีย์จะถูกทำลาย</DisallowedBuildingInsideMonument>

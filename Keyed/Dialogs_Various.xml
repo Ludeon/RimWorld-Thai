@@ -687,19 +687,19 @@
   <!-- EN: You can't send empty transport pods. -->
   <CantSendEmptyTransportPods>คุณไม่อาจส่งกระสวยขนส่งว่างๆได้</CantSendEmptyTransportPods>
   <!-- EN: You can't send empty shuttle. -->
-  <CantSendEmptyTransporterSingle>คุณไม่อาจส่งกระสวยว่างๆได้</CantSendEmptyTransporterSingle>
+  <CantSendEmptyTransporterSingle>คุณไม่อาจส่งยานกระสวยว่างๆได้</CantSendEmptyTransporterSingle>
   <!-- EN: {1_labelShort} can't reach the transport pods. -->
   <PawnCantReachTransporters>{1_labelShort} ไม่สามารถเข้าถึงกระสวยขนส่งได้</PawnCantReachTransporters>
   <!-- EN: {1_labelShort} can't reach the shuttle. -->
-  <PawnCantReachTransporterSingle>{1_labelShort} ไม่สามารถเข้าถึงกระสวยได้</PawnCantReachTransporterSingle>
+  <PawnCantReachTransporterSingle>{1_labelShort} ไม่สามารถเข้าถึงยานกระสวยได้</PawnCantReachTransporterSingle>
   <!-- EN: There is no path between the transport pods and the {0}. -->
   <TransporterItemIsUnreachableSingle>ไม่มีเส้นทางระหว่างกระสวยขนส่งและ {0}</TransporterItemIsUnreachableSingle>
   <!-- EN: There is no path between the shuttle and the {0}. -->
-  <TransporterSingleItemIsUnreachableSingle>ไม่มีเส้นทางระหว่างกระสวยและ {0}</TransporterSingleItemIsUnreachableSingle>
+  <TransporterSingleItemIsUnreachableSingle>ไม่มีเส้นทางระหว่างยานกระสวยและ {0}</TransporterSingleItemIsUnreachableSingle>
   <!-- EN: There is no path between the transport pods and {0}x {1}. -->
   <TransporterItemIsUnreachableMulti>ไม่มีเส้นทางระหว่างกระสวยขนส่งและ {0}x {1}</TransporterItemIsUnreachableMulti>
   <!-- EN: There is no path between the shuttle and {0}x {1}. -->
-  <TransporterSingleItemIsUnreachableMulti>ไม่มีเส้นทางระหว่างกระสวยและ {0}x {1}</TransporterSingleItemIsUnreachableMulti>
+  <TransporterSingleItemIsUnreachableMulti>ไม่มีเส้นทางระหว่างยานกระสวยและ {0}x {1}</TransporterSingleItemIsUnreachableMulti>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
