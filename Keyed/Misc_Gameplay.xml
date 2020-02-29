@@ -279,13 +279,13 @@
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
   <QuestTargetDestroyInspectString>{0} ต้องการทำลายสิ่งนี้\n    รางวัล: {1} ({2})</QuestTargetDestroyInspectString>
   <!-- EN: {0} wants this destroyed. -->
-  <QuestTargetDestroyInspectStringShort>TODO</QuestTargetDestroyInspectStringShort>
+  <QuestTargetDestroyInspectStringShort>{0} ต้องการทำลายสิ่งนี้</QuestTargetDestroyInspectStringShort>
   <!-- EN: Departing on shuttle in {0} -->
-  <ShuttleDelayInspectString>TODO</ShuttleDelayInspectString>
+  <ShuttleDelayInspectString>ออกเดินทางไปกับกระสวยใน {0}</ShuttleDelayInspectString>
   <!-- EN: Departing in {0} -->
-  <ShuttleLeaveDelayInspectString>TODO</ShuttleLeaveDelayInspectString>
+  <ShuttleLeaveDelayInspectString>ออกเดินทางใน {0}</ShuttleLeaveDelayInspectString>
   <!-- EN: Should depart on shuttle -->
-  <ShouldDepartOnShuttleInspectString>TODO</ShouldDepartOnShuttleInspectString>
+  <ShouldDepartOnShuttleInspectString>ควรออกเดินทางด้วยกระสวย</ShouldDepartOnShuttleInspectString>
   <!-- EN: Time left: {0} -->
   <WorldObjectTimeout>เวลาที่เหลือ: {0}</WorldObjectTimeout>
   <!-- EN: Click to sort by this column. -->
@@ -365,7 +365,7 @@
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>ไม่ได้ทำโครงการวิจัยใดอยู่</NoActiveResearchProjectToFinish>
   <!-- EN: Cannot research: No research bench -->
-  <CannotResearchNoBench>TODO</CannotResearchNoBench>
+  <CannotResearchNoBench>ไม่สามารถทำการวิจัยได้: ไม่มีโต๊ะวิจัย</CannotResearchNoBench>
   <!-- EN: turret -->
   <Turret>ป้อมปืน</Turret>
   <!-- EN: turrets -->
@@ -377,75 +377,75 @@
   <!-- EN: enemy -->
   <Enemy>ศัตรู</Enemy>
   <!-- EN: location -->
-  <Location>TODO</Location>
+  <Location>ตำแหน่ง</Location>
   <!-- EN: animals -->
-  <AnimalsLower>TODO</AnimalsLower>
+  <AnimalsLower>สัตว์</AnimalsLower>
   <!-- EN: {0} x{1} -->
-  <FilthLabel>TODO</FilthLabel>
+  <FilthLabel>{0} x{1}</FilthLabel>
   <!-- EN: {0} of {1} x{2} -->
-  <FilthLabelWithSource>TODO</FilthLabelWithSource>
+  <FilthLabelWithSource>{0} ของ {1} x{2}</FilthLabelWithSource>
   <!-- EN: Required -->
-  <Required>TODO</Required>
+  <Required>จำเป็น</Required>
   <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
-  <GiveGiftViaTransportPodsTradeRequestWarning>TODO</GiveGiftViaTransportPodsTradeRequestWarning>
+  <GiveGiftViaTransportPodsTradeRequestWarning>คำเตือน: คุณสามารถทำคำร้องด้วยกระสวยขนส่งได้\nถ้าคุณส่งสิ่งของไป ถิ่นฐานนั้นจะรับไว้เป็นของขวัญ แต่พวกเขาจะไม่ให้รางวัลคุณ\n\nถ้าต้องการแลกเปลื่ยน, เข้าถิ่นฐานนั้นด้วยกองคาราวาน!\n\nคุณแน่ใจ? ว่าต้องการให้ของขวัญเป็นสิ่งของที่คุณโหลดไว้แก่ฝักฝ่าย</GiveGiftViaTransportPodsTradeRequestWarning>
   <!-- EN: prisoner -->
-  <PrisonerLower>TODO</PrisonerLower>
+  <PrisonerLower>นักโทษ</PrisonerLower>
   <!-- EN: prisoners -->
-  <PrisonersLower>TODO</PrisonersLower>
+  <PrisonersLower>นักโทษ</PrisonersLower>
   <!-- EN: Complete -->
-  <Complete>TODO</Complete>
+  <Complete>เสร็จสิ้น</Complete>
   <!-- EN: Click to view this quest in quests tab -->
-  <ClickToViewInQuestsTab>TODO</ClickToViewInQuestsTab>
+  <ClickToViewInQuestsTab>คลิกเพื่อดูเควสนี้ในแท็บเควส</ClickToViewInQuestsTab>
   <!-- EN: Mood -->
-  <Mood>TODO</Mood>
+  <Mood>อารมณ์</Mood>
   <!-- EN: Quest -->
-  <Quest>TODO</Quest>
+  <Quest>เควส</Quest>
   <!-- EN: Brings raids every {0} -->
-  <BringsRaidsEvery>TODO</BringsRaidsEvery>
+  <BringsRaidsEvery>โจมตีทุกๆ {0}</BringsRaidsEvery>
   <!-- EN: Generates {0} every {1} -->
-  <GeneratesResourcesEvery>TODO</GeneratesResourcesEvery>
+  <GeneratesResourcesEvery>สร้าง {0} ทุกๆ {1}</GeneratesResourcesEvery>
   <!-- EN: Foliage kill radius -->
-  <FoliageKillRadius>TODO</FoliageKillRadius>
+  <FoliageKillRadius>รัศมีฆ่าใบพืช</FoliageKillRadius>
   <!-- EN: Radius expand rate -->
-  <RadiusExpandRate>TODO</RadiusExpandRate>
+  <RadiusExpandRate>เรตขยายตัวของรัศมี</RadiusExpandRate>
   <!-- EN: View: {0} -->
-  <ViewHyperlink>TODO</ViewHyperlink>
+  <ViewHyperlink>ดู: {0}</ViewHyperlink>
   <!-- EN: Detonates in {0} days -->
-  <DetonationCountdown>TODO</DetonationCountdown>
+  <DetonationCountdown>ระเบิดในอีก {0} วัน</DetonationCountdown>
   <!-- EN: Large explosion if damaged -->
-  <ExplosionOnDamageWarning>TODO</ExplosionOnDamageWarning>
+  <ExplosionOnDamageWarning>แรงระเบิดรุนแรงหากได้รับความเสียหาย</ExplosionOnDamageWarning>
   <!-- EN: Mech cluster -->
-  <MechCluster>TODO</MechCluster>
+  <MechCluster>เมคคลัสเตอร์</MechCluster>
   <!-- EN: Spawning in {0} -->
-  <SpawningNextPawnIn>TODO</SpawningNextPawnIn>
+  <SpawningNextPawnIn>ก่อกำเนิด {0}</SpawningNextPawnIn>
   <!-- EN: {0} assembly completes in {1} -->
-  <MechAssemblyCompleteIn>TODO</MechAssemblyCompleteIn>
+  <MechAssemblyCompleteIn>{0} ประกอบเสร็จใน {1}</MechAssemblyCompleteIn>
   <!-- EN: produced -->
-  <ThingsProduced>TODO</ThingsProduced>
+  <ThingsProduced>ผลิตเสร็จ</ThingsProduced>
   <!-- EN: harvested -->
-  <PlantsHarvested>TODO</PlantsHarvested>
+  <PlantsHarvested>เก็บเกี่ยว</PlantsHarvested>
   <!-- EN: {0} killed -->
-  <PawnsKilled>TODO</PawnsKilled>
+  <PawnsKilled>{0} ถูกฆ่า</PawnsKilled>
   <!-- EN: Sent {0}, will return in {1} -->
-  <PawnsLent>TODO</PawnsLent>
+  <PawnsLent>{0} ที่ให้ยืมไป จะกลับมาใน {1}</PawnsLent>
   <!-- EN: Dormant -->
-  <DormantCompInactive>TODO</DormantCompInactive>
+  <DormantCompInactive>สงบเงียบ</DormantCompInactive>
   <!-- EN: Sealed -->
-  <DormantCompSealed>TODO</DormantCompSealed>
+  <DormantCompSealed>ปิดผนึก</DormantCompSealed>
   <!-- EN: Ready to drop mechanoids -->
-  <DormantCompBeacon>TODO</DormantCompBeacon>
+  <DormantCompBeacon>พร้อมจะทิ้งเมคานอย์</DormantCompBeacon>
   <!-- EN: Expired -->
-  <DormantCompExpired>TODO</DormantCompExpired>
+  <DormantCompExpired>หมดอายุ</DormantCompExpired>
   <!-- EN: Activates in {0} -->
-  <SendSignalOnCountdownCompTime>TODO</SendSignalOnCountdownCompTime>
+  <SendSignalOnCountdownCompTime>เปิดใช้งานใน {0}</SendSignalOnCountdownCompTime>
   <!-- EN: Psychic entropy -->
-  <PsychicEntropy>TODO</PsychicEntropy>
+  <PsychicEntropy>เอนโทรปีพลังจิต</PsychicEntropy>
   <!-- EN: {0} pain focus -->
-  <PsychicEntropyPainFocus>TODO</PsychicEntropyPainFocus>
+  <PsychicEntropyPainFocus>{0} โฟกัสความเจ็บปวด</PsychicEntropyPainFocus>
   <!-- EN: radius {0} -->
-  <ConditionCauserRadius>TODO</ConditionCauserRadius>
+  <ConditionCauserRadius>รัศมี {0}</ConditionCauserRadius>
   <!-- EN: {0} left -->
-  <DurationLeft>TODO</DurationLeft>
+  <DurationLeft>เหลือ {0}</DurationLeft>
 
   <!-- Fermentation barrel -->
   <!-- EN: Contains {0} / {1} wort. -->
@@ -491,7 +491,7 @@
   <!-- EN: Dodge -->
   <TextMote_Dodge>หลบ</TextMote_Dodge>
   <!-- EN: Immune -->
-  <TextMote_Immune>TODO</TextMote_Immune>
+  <TextMote_Immune>ภูมิคุ้มกัน</TextMote_Immune>
   <!-- EN: {0} tended -->
   <TextMote_Tended>รักษาอาการ{0}</TextMote_Tended>
   <!-- EN: low mood -->
@@ -559,7 +559,7 @@
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
   <ReportHaulingTo>กำลังขน {THING_label} ไปที่ {DESTINATION}</ReportHaulingTo>
   <!-- EN: burying {THING_label} in {DESTINATION}. -->
-  <ReportHaulingToGrave>TODO</ReportHaulingToGrave>
+  <ReportHaulingToGrave>กำลังฝัง {THING_label} ไว้ใน {DESTINATION}</ReportHaulingToGrave>
   <!-- EN: hauling {1_label}. -->
   <ReportHauling>กำลังขน {1_label}</ReportHauling>
   <!-- EN: hauling. -->
@@ -599,15 +599,15 @@
   <!-- EN: Attending marriage ceremony -->
   <LordReportAttendingMarriageCeremony>เข้าร่วมพิธีแต่งงาน</LordReportAttendingMarriageCeremony>
   <!-- EN: Attending party -->
-  <LordReportAttendingParty>บุคคลที่เข้าร่วม</LordReportAttendingParty>
+  <LordReportAttendingParty>เข้าร่วมปาตี้</LordReportAttendingParty>
   <!-- EN: Attending concert -->
-  <LordReportAttendingConcert>TODO</LordReportAttendingConcert>
+  <LordReportAttendingConcert>เข้าร่วมคอนเสิร์ต</LordReportAttendingConcert>
   <!-- EN: Holding a concert -->
-  <LordReportHoldingConcert>TODO</LordReportHoldingConcert>
+  <LordReportHoldingConcert>จัดงานคอนเสิร์ต</LordReportHoldingConcert>
   <!-- EN: Giving a speech -->
-  <LordReportGivingSpeech>TODO</LordReportGivingSpeech>
+  <LordReportGivingSpeech>ให้คำปราศัย</LordReportGivingSpeech>
   <!-- EN: Listening to {ORGANIZER_labelShort}'s speech -->
-  <LordReportListeningSpeech>TODO</LordReportListeningSpeech>
+  <LordReportListeningSpeech>กำลังฟังคำปราศัยของ {ORGANIZER_labelShort}</LordReportListeningSpeech>
   <!-- EN: Forming caravan -->
   <LordReportFormingCaravan>ก่อตั้งกองคาราวาน</LordReportFormingCaravan>
 
@@ -639,7 +639,7 @@
   <!-- EN: make {0} -->
   <RecipeMake>ทำ {0}</RecipeMake>
   <!-- EN: Make {0}. -->
-  <RecipeMakeDescription>TODO</RecipeMakeDescription>
+  <RecipeMakeDescription>สร้าง {0}</RecipeMakeDescription>
   <!-- EN: Making {0}. -->
   <RecipeMakeJobString>กำลังทำ {0}</RecipeMakeJobString>
   <!-- EN: administer {0} -->
@@ -647,19 +647,19 @@
   <!-- EN: Administering {0}. -->
   <RecipeAdministerJobString>กำลังบริหาร {0}</RecipeAdministerJobString>
   <!-- EN: teetotaler will be unhappy -->
-  <TeetotalerUnhappy>พวกขี้เมาจะไร้ความสุข</TeetotalerUnhappy>
+  <TeetotalerUnhappy>พวกละเว้นแอลกอฮอล์จะไม่แฮปปี้</TeetotalerUnhappy>
   <!-- EN: body purist will be unhappy -->
-  <ProsthophobeUnhappy>พวกนิยมร่างกายจะไร้ความสุข</ProsthophobeUnhappy>
+  <ProsthophobeUnhappy>พวกละเว้นอวัยวะกลจะไม่แฮปปี้</ProsthophobeUnhappy>
 
   <!-- Thoughts -->
   <!-- EN: Expires in: {0} -->
   <ThoughtExpiresIn>หมดอายุใน: {0}</ThoughtExpiresIn>
   <!-- EN: thought disabled by -->
-  <ThoughtNullifiedBy>TODO</ThoughtNullifiedBy>
+  <ThoughtNullifiedBy>ความคิดปิดไว้โดย</ThoughtNullifiedBy>
   <!-- EN: Starts expiring in: {0} -->
-  <ThoughtStartsExpiringIn>เริ่มหมดอายุใน: {0}</ThoughtStartsExpiringIn>
+  <ThoughtStartsExpiringIn>จุดเริ่มหมดอายุใน: {0}</ThoughtStartsExpiringIn>
   <!-- EN: Finishes expiring in: {0} -->
-  <ThoughtFinishesExpiringIn>จบหมดอายุใน: {0}</ThoughtFinishesExpiringIn>
+  <ThoughtFinishesExpiringIn>จุดสิ้นสุดหมดอายุใน: {0}</ThoughtFinishesExpiringIn>
   <!-- EN: Extreme break threshold -->
   <MentalBreakThresholdExtreme>ข้ามเส้นแบ่ง สติแตกสุดขั้ว</MentalBreakThresholdExtreme>
   <!-- EN: Major break threshold -->
@@ -673,19 +673,19 @@
   <!-- EN: {0} of {1} -->
   <PawnMainDescFactionedWrap>{0} ฝ่าย{1}</PawnMainDescFactionedWrap>
   <!-- EN: {0} in {1} -->
-  <PawnTitleDescWrap>TODO</PawnTitleDescWrap>
+  <PawnTitleDescWrap>{0} ใน{1}</PawnTitleDescWrap>
   <!-- EN: {0} under {1} -->
-  <PawnMainDescUnderFactionedWrap>TODO</PawnMainDescUnderFactionedWrap>
+  <PawnMainDescUnderFactionedWrap>{0} ภายใต้{1}</PawnMainDescUnderFactionedWrap>
   <!-- EN: {0} under {1}\nHome faction: {2} -->
-  <PawnMainDescTempFactionedWrap>TODO</PawnMainDescTempFactionedWrap>
+  <PawnMainDescTempFactionedWrap>{0} ภายใต้{1}</PawnMainDescTempFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
   <PawnMainDescLifestageWrap>{0} {2_lifeStageAdjective}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
-  <Faction>ฝักฝ่าย</Faction>
+  <Faction>ฝ่าย</Faction>
   <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
-  <FactionDesc>TODO</FactionDesc>
+  <FactionDesc>ฝักฝ่ายที่{PAWN_labelShort}อยู่ตอนนี้</FactionDesc>
   <!-- EN: The faction {PAWN_labelShort} originally belongs to. {PAWN_pronoun} will rejoin their home faction when they depart from their current faction. -->
-  <ExtraFactionDesc>TODO</ExtraFactionDesc>
+  <ExtraFactionDesc>ฝักฝ่ายที่{PAWN_labelShort}เคยอยู่ในตอนแรก {PAWN_pronoun}จะเข้าร่วมกับฝักฝ่ายดั้งเดิมของพวกเขา หากต้องออกจากฝักฝ่ายปัจจุบัน</ExtraFactionDesc>
   <!-- EN: Equipped -->
   <Equipped>สวมใส่แล้ว</Equipped>
   <!-- EN: nothing -->
@@ -877,9 +877,9 @@
   <!-- EN: Toggle visibility of roofs. -->
   <ShowRoofOverlayToggleButton>สลับการมองเห็นหลังคา</ShowRoofOverlayToggleButton>
   <!-- EN: Toggle fertility overlay.\n\nThis shows how fertile the ground is, which affects what kinds of plants can grow and how fast they grow. -->
-  <ShowFertilityOverlayToggleButton>TODO</ShowFertilityOverlayToggleButton>
+  <ShowFertilityOverlayToggleButton>สลับโหมดแสดงความสมบูรณ์\n\nแสดงความสมบูรณ์ของพื้นดิน ซึ่งบ่งบอกว่าปลูกพืชชนิดไหนได้ และจะโตเร็วแค่ไหน</ShowFertilityOverlayToggleButton>
   <!-- EN: Toggle visibility of terrain affordance.\n\nThis relates to what kinds of building can be constructed at each location.\n\nFor example, some types of ground only accept light or medium buildings, but not heavy ones. Bridges can only be built on water. -->
-  <ShowTerrainAffordanceOverlayToggleButton>TODO</ShowTerrainAffordanceOverlayToggleButton>
+  <ShowTerrainAffordanceOverlayToggleButton>สลับให้เห็นการรับน้ำหนักของภูมิประเทศ\n\nนี่จะไปเกี่ยวกับว่าสามารถสร้างอะไรได้บ้างในแต่ละตำแหน่ง\n\nตัวอย่างเช่น พื้นดินบางชนิดสร้างได้เฉพาะอาคารน้ำหนักเบาหรือกลางๆ แต่ไม่รองรับอาคารหนักมากๆ, สะพานสร้างได้เฉพาะบนน้ำเท่านั้น</ShowTerrainAffordanceOverlayToggleButton>
   <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
   <LockNorthUpToggleButton>ล็อคการหมุนของกล้อง เพื่อให้ขั้วโลกเหนือเป็นทิศชี้ขึ้นเสมอ</LockNorthUpToggleButton>
   <!-- EN: Toggle day/night lighting on the planet view. -->
@@ -905,11 +905,11 @@
   <!-- EN: impact date -->
   <ImpactDate>วันที่ส่งผลกระทบ</ImpactDate>
   <!-- EN: Source unknown. -->
-  <SourceUnknown>TODO</SourceUnknown>
+  <SourceUnknown>ไม่รู้ที่มา</SourceUnknown>
   <!-- EN: Click to jump to the source. -->
-  <ClickToJumpToSource>TODO</ClickToJumpToSource>
+  <ClickToJumpToSource>คลิกที่นี่กระโดดไปยังต้นทาง</ClickToJumpToSource>
   <!-- EN: Caused by quest: {0} -->
-  <CausedByQuest>TODO</CausedByQuest>
+  <CausedByQuest>เกิดจากเควส: {0}</CausedByQuest>
 
   <!-- Building placement -->
   <!-- EN: You have no usable materials from which to build this. -->
@@ -981,13 +981,13 @@
 
   <!-- Neurotrainer -->
   <!-- EN: neurotrainer ({0}) -->
-  <SkillNeurotrainerLabel>TODO</SkillNeurotrainerLabel>
+  <SkillNeurotrainerLabel>neurotrainer ({0})</SkillNeurotrainerLabel>
   <!-- EN: Use skill neurotrainer to learn {0} -->
-  <SkillNeurotrainerUseLabel>TODO</SkillNeurotrainerUseLabel>
+  <SkillNeurotrainerUseLabel>ใช้ทักษะ neurotrainer เพื่อเรียนรู้ {0}</SkillNeurotrainerUseLabel>
   <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
-  <SkillNeurotrainerDescription>TODO</SkillNeurotrainerDescription>
+  <SkillNeurotrainerDescription>ซุปเปอร์โดสเมคคาไนท์แบบใช้ครั้งเดียว\n\nให้ยาผ่านช่องว่างรอบดวงตา เมื่อปล่อยเข้าไปในสมองแล้ว เมคคาไนท์จะไปเพิ่มความทักษะของผู้ใช้ในบางอย่าง และพัฒนาขึ้นเป็นเส้นใยปราสาทตามแต่จำเป็น</SkillNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
-  <SkillNeurotrainerUsed>{USER_labelShort} ใช้ {1} Neurotrainer เพื่อไปจากระดับ {2} เป็นระดับ {3}</SkillNeurotrainerUsed>
+  <SkillNeurotrainerUsed>{USER_labelShort} ใช้ {1} neurotrainer เพื่อไปจากระดับ {2} เป็นระดับ {3}</SkillNeurotrainerUsed>
 
   <!-- Minification -->
   <!-- EN: Installed -->
@@ -1189,47 +1189,47 @@
   
   <!-- Pawn tooltips -->
   <!-- EN: {0} ({1})\n{2}\n{3} -->
-  <PawnTooltipWithDescAndPrimaryEquip>TODO</PawnTooltipWithDescAndPrimaryEquip>
+  <PawnTooltipWithDescAndPrimaryEquip>{0} ({1})\n{2}\n{3}</PawnTooltipWithDescAndPrimaryEquip>
   <!-- EN: {0} ({1})\n{2} -->
-  <PawnTooltipWithDescNoPrimaryEquip>TODO</PawnTooltipWithDescNoPrimaryEquip>
+  <PawnTooltipWithDescNoPrimaryEquip>{0} ({1})\n{2}</PawnTooltipWithDescNoPrimaryEquip>
   <!-- EN: {0}\n{1}\n{2} -->
-  <PawnTooltipWithPrimaryEquipNoDesc>TODO</PawnTooltipWithPrimaryEquipNoDesc>
+  <PawnTooltipWithPrimaryEquipNoDesc>{0}\n{1}\n{2}</PawnTooltipWithPrimaryEquipNoDesc>
   <!-- EN: {0}\n{1} -->
-  <PawnTooltipNoDescNoPrimaryEquip>TODO</PawnTooltipNoDescNoPrimaryEquip>
+  <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
   <!-- EN: Psychic entropy: {0}/{1}\nFall rate: {2}/{3}s({4}s until zero)\n\nPsychic entropy increases after performing a psycast.\nGoing over the safe limit can lead to long-term health consequences.\nWhenever entropy reaches zero, it leaves a psychic hangover behind. -->
-  <PawnTooltipPsychicEntropy>TODO</PawnTooltipPsychicEntropy>
+  <PawnTooltipPsychicEntropy>เอนโทรปีพลังจิต: {0}/{1}\nเรตการลด: {2}/{3}วิ ({4}วิจะถึงศูนย์)\n\nเอนโทรปีพลังจิต เพิ่มพลังให้กับผู้ใช้พลังจิต\nก้าวข้ามขีดจำกัดเป็นเวลานานๆส่งผลกระทบต่อสุขภาพ\nทุกครั้งที่เอนโทรปีเหลือศูนย์ จะทำให้เมาค้างจากพลังจิต</PawnTooltipPsychicEntropy>
   <!-- EN: Physical pain focuses the mind and clears extraneous thoughts; this has the side-effect of causing faster recovery from psychic entropy. -->
-  <PawnTooltipPsychicEntropyPainFocus>TODO</PawnTooltipPsychicEntropyPainFocus>
+  <PawnTooltipPsychicEntropyPainFocus>ความเจ็บปวดทางกายภาพ ช่วยโฟกัสใจและเคลียความคิดส่วนเกินออกไป, ทำให้เกิดผลข้างเคียงคือเอนโทรปีพลังจิตฟื้นฟูเร็วขึ้น</PawnTooltipPsychicEntropyPainFocus>
   <!-- EN: Toggle psychic entropy limiter.\n\nGoing over your psychic entropy limit can cause serious health consequences, including long-term psychic breakdown, and even brain damage for significant overages. The higher over-limit the entropy is, the more dangerous the effects. -->
-  <PawnTooltipPsychicEntropyLimit>TODO</PawnTooltipPsychicEntropyLimit>
+  <PawnTooltipPsychicEntropyLimit>เปิด-ปิดเครื่องจำกัดเอนโทรปีพลังจิต\n\nการก้าวข้ามขีดจำกัดเอนโทรปีพลังจิตนั้น ส่งผลสาหัสกับสุขภาพ ไปถึงบางครั้งในระยะยาว อาจทำให้สมองเสียหายจากการ overages มากๆ ยิ่งก้าวข้ามขีดกัดเอนโทรปีมากๆ ผลกระทบยิ่งอันตราย</PawnTooltipPsychicEntropyLimit>
 
   <!-- Pawn tooltip description -->
   <!-- EN: {0} {1} -->
-  <PawnTooltipGenderAndKindLabel>TODO</PawnTooltipGenderAndKindLabel>
+  <PawnTooltipGenderAndKindLabel>{0} {1}</PawnTooltipGenderAndKindLabel>
 
   <!-- Rewards -->
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses} -->
-  <Reward_Pawn_DropPod>TODO</Reward_Pawn_DropPod>
+  <Reward_Pawn_DropPod>{0_title} อายุ {0_age} ปี ชื่อ {0_nameDef} จะมาถึงพร้อมกระสวยขนส่ง {0_relationInfoInParentheses}</Reward_Pawn_DropPod>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses} -->
-  <Reward_Pawn_WalkIn>TODO</Reward_Pawn_WalkIn>
+  <Reward_Pawn_WalkIn>{0_title} อายุ {0_age} ปี ชื่อ {0_nameDef} จะมาถึงและเข้าร่วมกับคุณ {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
-  <Reward_Pawn_Caravan>TODO</Reward_Pawn_Caravan>
+  <Reward_Pawn_Caravan>{0_title} อายุ {0_age} ปี ชื่อ {0_nameDef} จะเข้าร่วมกับคุณ {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
   <!-- EN: transport pods with the following resources will arrive (total value {1}):
 \n{0} -->
-  <Reward_Items>TODO</Reward_Items>
+  <Reward_Items>กระสวนขนส่งพร้อมทรัพยากรเหล่านี้จะมาถึง (มูลค่าทั้งหมด {1}):\n{0}</Reward_Items>
   <!-- EN: you will receive (total value {1}):
 \n{0} -->
-  <Reward_Items_Caravan>TODO</Reward_Items_Caravan>
+  <Reward_Items_Caravan>คุณจะได้รับ (มูลค่าทั้งหมด {1}): \n{0}</Reward_Items_Caravan>
   <!-- EN: your faction relations with {0_name} will improve by {1} -->
-  <Reward_Goodwill>TODO</Reward_Goodwill>
+  <Reward_Goodwill>ความสัมพันธ์ระหว่างฝ่ายคุณกับฝ่าย {0_name} จะพัฒนาขึ้นอีก {1}</Reward_Goodwill>
   
   <!-- Bladelink -->
   <!-- EN: Bonded to: {PAWN_labelShort} -->
-  <BondedWith>TODO</BondedWith>
+  <BondedWith>เชื่อมโยงกับ: {PAWN_labelShort}</BondedWith>
   <!-- EN: Not yet bonded -->
-  <NotBonded>TODO</NotBonded>
+  <NotBonded>ยังไม่เชื่อมโยงกับใคร</NotBonded>
   <!-- EN: bonded to someone else -->
-  <BladelinkBondedToSomeoneElse>TODO</BladelinkBondedToSomeoneElse>
+  <BladelinkBondedToSomeoneElse>เชื่อมโยงกับคนอื่นแล้ว</BladelinkBondedToSomeoneElse>
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
@@ -1241,16 +1241,16 @@
 
   <!-- Projectile interceptor -->
   <!-- EN: Intercepts {0} every {1} -->
-  <InterceptsProjectilesEvery>TODO</InterceptsProjectilesEvery>
+  <InterceptsProjectilesEvery>สกัดกั้น {0} ทุกๆ {1}</InterceptsProjectilesEvery>
   <!-- EN: Intercepts {0} -->
-  <InterceptsProjectiles>TODO</InterceptsProjectiles>
+  <InterceptsProjectiles>สกัดกั้น {0}</InterceptsProjectiles>
   <!-- EN: ground projectiles -->
-  <InterceptsProjectiles_GroundProjectiles>TODO</InterceptsProjectiles_GroundProjectiles>
+  <InterceptsProjectiles_GroundProjectiles>กระสุนภาคพื้น</InterceptsProjectiles_GroundProjectiles>
   <!-- EN: aerial projectiles -->
-  <InterceptsProjectiles_AerialProjectiles>TODO</InterceptsProjectiles_AerialProjectiles>
+  <InterceptsProjectiles_AerialProjectiles>กระสุนภาคอากาศ</InterceptsProjectiles_AerialProjectiles>
 
   <!-- Condition causers -->
   <!-- EN: Affected gender -->
-  <AffectedGender>TODO</AffectedGender>
+  <AffectedGender>เพศที่ได้รับผลกระทบ</AffectedGender>
   
 </LanguageData>

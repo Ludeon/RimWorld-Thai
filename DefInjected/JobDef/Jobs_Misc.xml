@@ -149,7 +149,7 @@
   <UseItem.reportString>กำลังใช้ TargetA</UseItem.reportString>
   
   <!-- EN: using neurotrainer. -->
-  <UseNeurotrainer.reportString>กำลังใช้ Neurotrainer</UseNeurotrainer.reportString>
+  <UseNeurotrainer.reportString>กำลังใช้ neurotrainer</UseNeurotrainer.reportString>
   
   <!-- EN: Doing something. -->
   <UseVerbOnThing.reportString>ทำอะไรบางอย่าง</UseVerbOnThing.reportString>

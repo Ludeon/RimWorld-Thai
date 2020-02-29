@@ -2,7 +2,7 @@
 
 This is the Thai translation data for RimWorld.
 
-Compatible with RimWorld version: `1.1.2552`
+Compatible with RimWorld version: `1.1.2557`
 
 ## Manual Install
 
@@ -20,19 +20,19 @@ We appreciate any willing to help, to contribute see: http://ludeon.com/forums/i
 
 ### Current Status
 
-Summary copied from current translation report generate by the game, list below generated on `2020-02-26`
+Summary copied from current translation report generate by the game, list below generated on `2020-02-29`
 
 * ☑️ (0) General load errors
 * ️️☑️ (0) Def-injected translations load errors
 * ☑️ (0) Backstories load errors
-* 🔲 (197) Missing keyed translations
+* 🔲 (114) Missing keyed translations
 * 🔲 (4544) Def-injected translations missing
 * 🔲 (2374) Backstory translations missing
 * ☑️ (0) Unnecessary def-injected translations (marked as NoTranslate)
 * ☑️ (0) Def-injected translations using old, renamed defs (fixed automatically but can break in the next RimWorld version)
 * ☑️ (0) Argument count mismatches (may or may not be incorrect)
 * ☑️ (0) Unnecessary keyed translations (will never be used)
-* ☑️ (59) Keyed translations matching English (maybe ok)
+* ☑️ (66) Keyed translations matching English (maybe ok)
     > You can safely ignore these, most of the time it's intended to leave as English (e.g. no suitable word in Thai, not really need to translate, etc.)
     >
     > For example, all subjects in `Credits.xml` and Quadrums name in `Time.xml` will not translate.

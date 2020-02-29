@@ -58,23 +58,23 @@
   
   <!-- Long events -->
   <!-- EN: Initializing interface -->
-  <InitializingInterface>เริ่มจัดเตรียมอินเทอร์เฟส</InitializingInterface>
+  <InitializingInterface>จัดเตรียมอินเทอร์เฟส</InitializingInterface>
   <!-- EN: Unloading unused assets -->
-  <UnloadingUnusedAssets>นำทรัพยากรที่ไม่ได้ใช้ออก</UnloadingUnusedAssets>
+  <UnloadingUnusedAssets>นำออกทรัพยากรไม่ได้ใช้</UnloadingUnusedAssets>
   <!-- EN: Loading all active mods -->
-  <LoadingAllActiveMods>กำลังโหลดม็อดทั้งหมดที่เปิดใช้งาน</LoadingAllActiveMods>
+  <LoadingAllActiveMods>กำลังโหลดทุกม็อดที่ใช้งาน</LoadingAllActiveMods>
   <!-- EN: Loading defs -->
   <LoadingDefs>กำลังโหลดคำนิยาม</LoadingDefs>
   <!-- EN: Loading assets -->
   <LoadingAssets>กำลังโหลดทรัพยากร</LoadingAssets>
   <!-- EN: Initializing -->
-  <Initializing>เริ่มเตรียมการ</Initializing>
+  <Initializing>เตรียมการ</Initializing>
   <!-- EN: Loading world -->
   <LoadingWorld>กำลังโหลดโลก</LoadingWorld>
   <!-- EN: Loading map -->
   <LoadingMap>กำลังโหลดแผนที่</LoadingMap>
   <!-- EN: Initializing game -->
-  <InitializingGame>เริ่มจัดเตรียมเกม</InitializingGame>
+  <InitializingGame>จัดเตรียมเกม</InitializingGame>
   <!-- EN: Spawning things -->
   <SpawningAllThings>ก่อกำเนิดทุกสิ่งอย่าง</SpawningAllThings>
   <!-- EN: Spawning colonists -->
