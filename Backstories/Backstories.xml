@@ -174,11 +174,11 @@
   
   <AmateurAstronomer77>
     <!-- EN: amateur astronomer -->
-    <title>TODO</title>
+    <title>นักดาราศาสตร์มือใหม่</title>
     <!-- EN: astronomer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>นักดาราศาสตร์</titleShort>
     <!-- EN: [PAWN_nameDef] was fascinated with astronomy. [PAWN_pronoun] would spend hours gazing at planets and nebulae through [PAWN_possessive] telescope.\n\n[PAWN_pronoun] is credited with discovering a small comet that would, years later, strike a nearby moon and disrupt the mining operations there. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] ชื่นชอบดาราศาสตร์ [PAWN_pronoun]มักใช้เวลาหลายชั่วโมงกับกล้องดูดาวเพื่อสังเกตดาวเคราะห์และเนบิวล่า\n\n[PAWN_pronoun]กลายเป็นที่รู้จักเมื่อ[PAWN_pronoun]ค้นพบดาวหางที่จากนั้นตกใส่ดวงจันทร์ในหลายปีต่อมา ทำให้การขุดแร่บนนั้นต้องหยุดชะงัดไป</desc>
   </AmateurAstronomer77>
   
   <AmateurBotanist79>
@@ -237,11 +237,11 @@
   
   <AntisocialChild83>
     <!-- EN: antisocial child -->
-    <title>TODO</title>
+    <title>เด็กเก็บตัว</title>
     <!-- EN: antisocial -->
-    <titleShort>TODO</titleShort>
+    <titleShort>เก็บตัว</titleShort>
     <!-- EN: [PAWN_nameDef] lacked typical social skills, and avoided social interaction.\n\n[PAWN_pronoun] gained satisfaction only from steady work. [PAWN_pronoun] especially disliked speaking with overly creative or outgoing individuals. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] ขาดทักษะและไม่ชอบการเข้าสังคม แต่มึความพึงพอใจจากการทำงานเป็นเวลานาน\n\n[PAWN_pronoun]ไม่ชอบคบหากับคนที่มีความคิดสร้างสรรค์และคนที่เข้าสังคมเก่ง</desc>
   </AntisocialChild83>
   
   <ApocalypseChild23>
