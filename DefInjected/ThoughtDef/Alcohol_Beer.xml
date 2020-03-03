@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: alcohol withdrawal -->
-  <AlcoholWithdrawal.stages.alcohol_withdrawal.label>แอลกอฮอล์ลงแดง</AlcoholWithdrawal.stages.alcohol_withdrawal.label>
+  <AlcoholWithdrawal.stages.alcohol_withdrawal.label>ลงแดงแอลกอฮอล์</AlcoholWithdrawal.stages.alcohol_withdrawal.label>
   <!-- EN: Feeling shaky. Everything pisses me off. I keep thinking of drinking. -->
   <AlcoholWithdrawal.stages.alcohol_withdrawal.description>รู้สึกเวียนๆ ทุกอย่างทำให้ฉันโมโห วนเวียนคิดถึงแต่การดื่ม</AlcoholWithdrawal.stages.alcohol_withdrawal.description>
   
@@ -13,7 +13,7 @@
   <!-- EN: serious hangover -->
   <Hungover.stages.serious_hangover.label>เมาค้างหนัก</Hungover.stages.serious_hangover.label>
   <!-- EN: My head hurts from all that liquor. -->
-  <Hungover.stages.serious_hangover.description>หัวของฉันปวดไปหมดเพราะแอลกอฮอล์นั่น</Hungover.stages.serious_hangover.description>
+  <Hungover.stages.serious_hangover.description>หัวของฉันปวดไปหมดเพราะน้ำเมานั่น</Hungover.stages.serious_hangover.description>
   <!-- EN: pounding hangover -->
   <Hungover.stages.pounding_hangover.label>เมาค้างรุนแรง</Hungover.stages.pounding_hangover.label>
   <!-- EN: It feels like a gaggle of geese are pecking at my skull. -->

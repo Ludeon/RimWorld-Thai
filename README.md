@@ -28,13 +28,13 @@ Summary copied from current translation report generate by the game, list below 
 * ️️☑️ (0) Def-injected translations load errors
 * ☑️ (0) Backstories load errors
 * ☑️ (5) Missing keyed translations
-* 🔲 (4528) Def-injected translations missing
+* 🔲 (4513) Def-injected translations missing
 * 🔲 (2374) Backstory translations missing
 * ☑️ (0) Unnecessary def-injected translations (marked as NoTranslate)
 * ☑️ (0) Def-injected translations using old, renamed defs (fixed automatically but can break in the next RimWorld version)
 * ☑️ (0) Argument count mismatches (may or may not be incorrect)
 * ☑️ (0) Unnecessary keyed translations (will never be used)
-* ☑️ (67) Keyed translations matching English (maybe ok)
+* ☑️ (66) Keyed translations matching English (maybe ok)
     > You can safely ignore these, most of the time it's intended to leave as English (e.g. no suitable word in Thai, not really need to translate, etc.)
     >
     > For example, all subjects in `Credits.xml` and Quadrums name in `Time.xml` will not translate.
