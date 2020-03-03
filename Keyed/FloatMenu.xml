@@ -172,6 +172,8 @@
 
   <!-- EN: No available cryptosleep casket. -->
   <NoCryptosleepCasket>ไม่มีโลงคริปโตสลีปว่าง</NoCryptosleepCasket>
+  <!-- EN: Temporary faction members not allowed. -->
+  <CryptosleepCasketGuestsNotAllowed>TODO</CryptosleepCasketGuestsNotAllowed>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
   <NoPrisonerBed>ไม่มีเตียงระบุให้สำหรับนักโทษ ในห้องปิดล้อม ไม่ถูกจอง อุณหภูมิปลอดภัย และสามารถเข้าถึงได้</NoPrisonerBed>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->

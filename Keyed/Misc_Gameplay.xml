@@ -677,7 +677,7 @@
   <!-- EN: {0} under {1} -->
   <PawnMainDescUnderFactionedWrap>{0} ภายใต้{1}</PawnMainDescUnderFactionedWrap>
   <!-- EN: {0} under {1}\nHome faction: {2} -->
-  <PawnMainDescTempFactionedWrap>{0} ภายใต้{1}</PawnMainDescTempFactionedWrap>
+  <PawnMainDescTempFactionedWrap>{0} ภายใต้{1}\n/ฝักฝ่ายดั้งเดิม:{2}</PawnMainDescTempFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
   <PawnMainDescLifestageWrap>{0} {2_lifeStageAdjective}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->

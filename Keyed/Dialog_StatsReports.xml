@@ -61,15 +61,15 @@
   <!-- EN: Facilities -->
   <StatsReport_Facilities>สิ่งอำนวยความสะดวก</StatsReport_Facilities>
   <!-- EN: Multiplier for body size {0} -->
-  <StatsReport_BodySize>คูณขนาดตัว {0}</StatsReport_BodySize>
+  <StatsReport_BodySize>ตัวคูณขนาดตัว {0}</StatsReport_BodySize>
   <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
-  <StatsReport_MeleeDPSExplanation>DPS = ค่าเสียหายรบประชิด * โอกาสทำร้ายรบประชิด / คูลดาวน์เป็นวินาที</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDPSExplanation>DPS = ค่าเสียหายรบประชิด * โอกาสโจมตีโดนรบประชิด / คูลดาวน์เป็นวินาที</StatsReport_MeleeDPSExplanation>
   <!-- EN: Melee damage -->
   <StatsReport_MeleeDamage>ค่าเสียหายรบประชิด</StatsReport_MeleeDamage>
   <!-- EN: Cooldown -->
   <StatsReport_Cooldown>คูลดาวน์</StatsReport_Cooldown>
   <!-- EN: Melee hit chance -->
-  <StatsReport_MeleeHitChance>โอกาสทำร้ายรบประชิด</StatsReport_MeleeHitChance>
+  <StatsReport_MeleeHitChance>โอกาสโจมตีโดนรบประชิด</StatsReport_MeleeHitChance>
   <!-- EN: {0} s -->
   <StatsReport_CooldownFormat>{0} วิ</StatsReport_CooldownFormat>
   <!-- EN: Life expectancy -->
@@ -79,7 +79,7 @@
   <!-- EN: Gear and inventory -->
   <StatsReport_GearAndInventoryMass>อุปกรณ์และของติดตัว</StatsReport_GearAndInventoryMass>
   <!-- EN: Multiplier for worn by corpse -->
-  <StatsReport_WornByCorpse>คูณเมื่อสวมใส่โดยศพ</StatsReport_WornByCorpse>
+  <StatsReport_WornByCorpse>คูณจากเคยสวมใส่โดยศพ</StatsReport_WornByCorpse>
   <!-- EN: average of all attacks -->
   <AverageOfAllAttacks>ค่าเฉลี่ยของการโจมตีทั้งหมด</AverageOfAllAttacks>
   <!-- EN: Scenario -->
@@ -101,7 +101,7 @@
   <!-- EN: work to uninstall -->
   <StatsReport_WorkToUninstall>ทำงานเพื่อถอนติดตั้ง</StatsReport_WorkToUninstall>
   <!-- EN: Multiplier for growth {0} -->
-  <StatsReport_PlantGrowth>ทวีคูณจากการเติบโต {0}</StatsReport_PlantGrowth>
+  <StatsReport_PlantGrowth>คูณจากการเติบโต {0}</StatsReport_PlantGrowth>
   <!-- EN: scaled because wild -->
   <StatsReport_PlantGrowth_Wild>ขนาดใหญ่เนื่องเป็นพันธู์ป่า</StatsReport_PlantGrowth_Wild>
   <!-- EN: Not flesh -->
@@ -114,63 +114,63 @@
   <StatsReport_NonToolAttack>โจมตี</StatsReport_NonToolAttack>
 
   <!-- EN: Mined item -->
-  <Stat_MineableThing_Name>TODO</Stat_MineableThing_Name>
+  <Stat_MineableThing_Name>ไอเท็มถูกขุด</Stat_MineableThing_Name>
   <!-- EN: The item that will be yielded when mining this. -->
-  <Stat_MineableThing_Desc>TODO</Stat_MineableThing_Desc>
+  <Stat_MineableThing_Desc>ไอเท็มจะปรากฏออกมาเมื่อขุดสิ่งนี้</Stat_MineableThing_Desc>
   <!-- EN: Source species -->
-  <Stat_SourceSpecies_Name>TODO</Stat_SourceSpecies_Name>
+  <Stat_SourceSpecies_Name>สายพันธุ์ต้นทาง</Stat_SourceSpecies_Name>
   <!-- EN: The species of creature from which this was taken. -->
-  <Stat_SourceSpecies_Desc>TODO</Stat_SourceSpecies_Desc>
+  <Stat_SourceSpecies_Desc>สายพันธุ์ของสิ่งมีชีวิตนี้จากที่ถูกนำมา</Stat_SourceSpecies_Desc>
   <!-- EN: Stuff -->
-  <Stat_Stuff_Name>TODO</Stat_Stuff_Name>
+  <Stat_Stuff_Name>วัตถุดิบ</Stat_Stuff_Name>
   <!-- EN: The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more. -->
-  <Stat_Stuff_Desc>TODO</Stat_Stuff_Desc>
+  <Stat_Stuff_Desc>วัตถุดิบที่ประกอบสร้างขึ้นเป็นสิ่งนี้ ค่านี้ส่งผลกระทบกับค่าอื่นๆ รวมไปถึงค่าความเสียหายจากอาวุธ เกราะของเสื้อผ้า ฉนวน HPของไอเท็มและอาคาร ความสวยงาม มูลค่าในตลาด และอื่นๆอีกมาก</Stat_Stuff_Desc>
   <!-- EN: Weapon -->
-  <Stat_Weapon_Name>TODO</Stat_Weapon_Name>
+  <Stat_Weapon_Name>อาวุธ</Stat_Weapon_Name>
   <!-- EN: The weapon used by this turret. -->
-  <Stat_Weapon_Desc>TODO</Stat_Weapon_Desc>
+  <Stat_Weapon_Desc>อาวุธที่ใช้โดยป้อมนี้</Stat_Weapon_Desc>
   <!-- EN: How much damage an object can take before being destroyed. -->
-  <Stat_HitPoints_Desc>TODO</Stat_HitPoints_Desc>
+  <Stat_HitPoints_Desc>How much damage an object can take before being destroyed</Stat_HitPoints_Desc>
   <!-- EN: The amount of work it takes to uninstall this. -->
-  <Stat_Thing_WorkToUninstall_Desc>TODO</Stat_Thing_WorkToUninstall_Desc>
+  <Stat_Thing_WorkToUninstall_Desc>จำนวนแรงงานที่ใช้เพื่อถอนติดตั้งสิ่งนี้</Stat_Thing_WorkToUninstall_Desc>
   <!-- EN: Which facilities can be used to produce this. -->
-  <Stat_Thing_CreatedAt_Desc>TODO</Stat_Thing_CreatedAt_Desc>
+  <Stat_Thing_CreatedAt_Desc>โรงงานใดบางที่สามารถใช้สร้างสิ่งนี้ได้</Stat_Thing_CreatedAt_Desc>
   <!-- EN: The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor. -->
-  <Stat_Thing_Damage_Desc>TODO</Stat_Thing_Damage_Desc>
+  <Stat_Thing_Damage_Desc>ปริมาณความเสียหายที่อาวุธนี้กระทำ\n\nค่านี้อาจโดนสะท้อนและซึมซับโดยเกราะของเป้าหมาย</Stat_Thing_Damage_Desc>
   <!-- EN: A multiplier on the amount of experience doctors gain when using this to tend a patient. -->
-  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>TODO</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
+  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>ตัวคูณกับจำนวนประสบการณ์ที่หมดจะได้ เมื่อใช้สิ่งนี้รักษาคนไข้</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
   <!-- EN: The attributes of this plant. -->
-  <Stat_Thing_Plant_Attributes_Desc>TODO</Stat_Thing_Plant_Attributes_Desc>
+  <Stat_Thing_Plant_Attributes_Desc>คุณลักษณะของดาวเคราะห์นี้</Stat_Thing_Plant_Attributes_Desc>
   <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
-  <Stat_Thing_Apparel_Covers_Desc>TODO</Stat_Thing_Apparel_Covers_Desc>
+  <Stat_Thing_Apparel_Covers_Desc>ปกคลุมส่วนไหนของร่างกาย\n\nเกราะไม่ป้องกันอวัยวะที่ไม่ได้ปกคลุมไว้</Stat_Thing_Apparel_Covers_Desc>
   <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
-  <Stat_Thing_Apparel_Layer_Desc>TODO</Stat_Thing_Apparel_Layer_Desc>
+  <Stat_Thing_Apparel_Layer_Desc>ชั้นไหนบ้างที่เสื้อผ้านี้เติมเต็ม\n\nสำหรับอวัยวะหนึ่งๆ สามารถสวมเครื่องแต่งกายได้ชิ้นเดียวเท่านั้นในแต่ละชั้น</Stat_Thing_Apparel_Layer_Desc>
   <!-- EN: The minimum soil fertility that this plant requires to grow. -->
-  <Stat_Thing_Plant_FertilityRequirement_Desc>TODO</Stat_Thing_Plant_FertilityRequirement_Desc>
+  <Stat_Thing_Plant_FertilityRequirement_Desc>ความอุดมสมบูรณ์ในดินขั้นต่ำ ที่จำเป็นกับพืชนี้ในการเติบโต</Stat_Thing_Plant_FertilityRequirement_Desc>
   <!-- EN: How sensitive this plant is to soil fertility.\n\nLow sensitivity means the plant will grow about the same speed in rich or poor soil. High sensitivity means the plant grows slow in poor soil, but faster in rich soil. -->
-  <Stat_Thing_Plant_FertilitySensitivity_Desc>TODO</Stat_Thing_Plant_FertilitySensitivity_Desc>
+  <Stat_Thing_Plant_FertilitySensitivity_Desc>พืชนี้อ่อนไหวแค่ไหนต่อความอุดมสมบูรณ์ในดิน\n\nความอ่อนไหวน้อยหมายความว่า พืชจะโตด้วยความเร็วเท่ากันไม่ว่าในดินดีหรือไม่ดี\nความอ่อนไหวมากหมายความว่า พืชจะโตช้าในดินแย่และโตเร็วในดินดี</Stat_Thing_Plant_FertilitySensitivity_Desc>
   <!-- EN: The amount of light this plant requires to grow. -->
-  <Stat_Thing_Plant_LightRequirement_Desc>TODO</Stat_Thing_Plant_LightRequirement_Desc>
+  <Stat_Thing_Plant_LightRequirement_Desc>ปริมาณแสงที่พืชนี้ต้องการเพื่อเติบโต</Stat_Thing_Plant_LightRequirement_Desc>
   <!-- EN: The lifespan of the plant.\n\nPlants naturally die after they reach a certain age, even if not harvested. -->
-  <Stat_Thing_Plant_LifeSpan_Desc>TODO</Stat_Thing_Plant_LifeSpan_Desc>
+  <Stat_Thing_Plant_LifeSpan_Desc>อายุขัยของพืช\n\nพืชโดยทั่วไปจะตายหลังจากอายุระดับหนึ่ง แม้ว่าจะไม่โดนเก็บเกี่ยวก็ตาม</Stat_Thing_Plant_LifeSpan_Desc>
   <!-- EN: The amount of product this plant will yield when harvested. -->
-  <Stat_Thing_Plant_HarvestYield_Desc>TODO</Stat_Thing_Plant_HarvestYield_Desc>
+  <Stat_Thing_Plant_HarvestYield_Desc>จำนวนผลผลิตที่พืชนี้จะให้เมื่อเก็บเกี่ยว</Stat_Thing_Plant_HarvestYield_Desc>
   <!-- EN: The minimum temperature this plant can survive.\n\nTemperatures below this will cause damage over time. -->
-  <Stat_Thing_Plant_MinGrowthTemperature_Desc>TODO</Stat_Thing_Plant_MinGrowthTemperature_Desc>
+  <Stat_Thing_Plant_MinGrowthTemperature_Desc>อุณหภูมิต่ำสุดที่พืชสามารถอยู่รอด\n\nอุณภูมิต่ำกว่านี้สร้างความเสียหายไปเรื่อยๆ</Stat_Thing_Plant_MinGrowthTemperature_Desc>
   <!-- EN: The maximum temperature this plant can survive.\n\nTemperatures above this will cause damage over time. -->
-  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>TODO</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
+  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>อุณหภูมิสูงสุดที่พืชสามารถอยู่รอด\n\nอุณภูมิสูงกว่านี้สร้างความเสียหายไปเรื่อยๆ</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
   <!-- EN: The minimum skill needed for a farmer to to sow this plant. -->
-  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>TODO</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
+  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>ทักษะขั้นต่ำที่ต้องการสำหรับเกษตกรเพื่อพรวนดินนี้</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
   <!-- EN: The kinds of food this creature is capable of eating.\n\nCan eat: {0} -->
-  <Stat_Race_Diet_Desc>TODO</Stat_Race_Diet_Desc>
+  <Stat_Race_Diet_Desc>ชนิดอาหารที่สิ่งมีชีวิตนี้สามารถกินได้\n\nสามารถกินได้: {0}</Stat_Race_Diet_Desc>
   <!-- EN: The type of leather this creature will yield when butchered. -->
-  <Stat_Race_LeatherType_Desc>TODO</Stat_Race_LeatherType_Desc>
+  <Stat_Race_LeatherType_Desc>ชนิดหนังที่สิ่งมีชีวิตนี้ให้ผลผลิตเมื่อถูกเชือด</Stat_Race_LeatherType_Desc>
   <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
-  <Stat_Race_Animal_TameFailedRevengeChance_Desc>TODO</Stat_Race_Animal_TameFailedRevengeChance_Desc>
+  <Stat_Race_Animal_TameFailedRevengeChance_Desc>โอกาศที่สิ่งมีชิวิตที่จะโจมตี เมื่อมีผู้มาพยายามฝึกให้เชื่องและล้มเหลว</Stat_Race_Animal_TameFailedRevengeChance_Desc>
   <!-- EN: This creature's general mental aptitude for training. This is a combination of intelligence and attentiveness. It determines which kinds of tasks this creature can be trained to perform. -->
-  <Stat_Race_Trainability_Desc>TODO</Stat_Race_Trainability_Desc>
+  <Stat_Race_Trainability_Desc>อัฉริยะภาพทางจิตใจทั่วๆไปของสิ่งมีชีวิตนี้เมื่อฝึก นี่เป็นส่วนผสมระหว่างความฉลาดกับความสนใจ ใช้กำหนดงานประเภทไหนที่สิ่งมีชีวิตนี้สามารถฝึกฝนได้</Stat_Race_Trainability_Desc>
   <!-- EN: The average life expectancy of this creature. -->
-  <Stat_Race_LifeExpectancy_Desc>TODO</Stat_Race_LifeExpectancy_Desc>
+  <Stat_Race_LifeExpectancy_Desc>อายุขัยโดยเฉลี่ยของสิ่งมีชีวิตนี้</Stat_Race_LifeExpectancy_Desc>
   <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
   <Stat_Thing_Ingestible_Joy_Desc>TODO</Stat_Thing_Ingestible_Joy_Desc>
   <!-- EN: The size of this creature's body, compared to an average adult human. -->
@@ -249,6 +249,12 @@
   <Stat_Thing_Terrain_Supports_Desc>TODO</Stat_Thing_Terrain_Supports_Desc>
   <!-- EN: This can only be placed on terrain of these types. -->
   <Stat_Thing_TerrainRequirement_Desc>TODO</Stat_Thing_TerrainRequirement_Desc>
+  <!-- EN: Considered -->
+  <Stat_Thing_Terrain_Fine_Name>TODO</Stat_Thing_Terrain_Fine_Name>
+  <!-- EN: Fine -->
+  <Stat_Thing_Terrain_Fine_Value>TODO</Stat_Thing_Terrain_Fine_Value>
+  <!-- EN: This floor is considered fine and suitable for royalty. -->
+  <Stat_Thing_Terrain_Fine_Desc>TODO</Stat_Thing_Terrain_Fine_Desc>
   <!-- EN: The amount of power this building will draw from the power grid. -->
   <Stat_Thing_PowerConsumption_Desc>TODO</Stat_Thing_PowerConsumption_Desc>
   <!-- EN: The overall efficiency of this body part. -->

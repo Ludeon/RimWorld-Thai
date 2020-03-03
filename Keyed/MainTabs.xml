@@ -23,7 +23,7 @@
   <!-- EN: Warning: The average of relevant skills is very low. -->
   <SelectedWorkTypeWithVeryBadSkill>คำเตือน: ทักษะที่เกี่ยวข้องโดยเฉลี่ยต่ำมาก</SelectedWorkTypeWithVeryBadSkill>
   <!-- EN: Priority 1 is done first. Priority 4 is done last. -->
-  <PriorityOneDoneFirst>ความสำคัญ 1 ทำเสร็จก่อนเพื่อน, ความสำคัญ 4 เสร็จท้ายสุด</PriorityOneDoneFirst>
+  <PriorityOneDoneFirst>ความสำคัญ 1 เสร็จก่อน, ความสำคัญ 4 เสร็จท้ายสุด</PriorityOneDoneFirst>
   <!-- EN: Will not do -->
   <Priority0>จะไม่ทำ</Priority0>
   <!-- EN: Top priority -->

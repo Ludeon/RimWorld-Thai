@@ -134,6 +134,8 @@
   <PainLevel>เจ็บปวด</PainLevel>
   <!-- EN: Injured -->
   <Injured>บาดเจ็บ</Injured>
+  <!-- EN: Untended injury -->
+  <UntendedInjury>TODO</UntendedInjury>
   <!-- EN: no health conditions -->
   <NoHealthConditions>ไม่มีสภาวะด้านสุขภาพ</NoHealthConditions>
   <!-- EN: Whole body -->

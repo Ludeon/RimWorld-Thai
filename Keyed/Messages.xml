@@ -99,6 +99,8 @@
   <MessageMustDesignateTameable>ต้องบ่งชี้: สัตว์ที่สามารถทำให้เชื่องได้</MessageMustDesignateTameable>
   <!-- EN: Must designate abandoned artificial structures. -->
   <MessageMustDesignateClaimable>ต้องบ่งชี้: โครงสร้างเทียมที่ถูกทอดทิ้ง</MessageMustDesignateClaimable>
+  <!-- EN: You must defeat a mech cluster before you can deconstruct it. -->
+  <MessageMustDesignateDeconstructibleMechCluster>TODO</MessageMustDesignateDeconstructibleMechCluster>
   <!-- EN: Must designate rough stone surfaces. -->
   <MessageMustDesignateSmoothableSurface>ต้องบ่งชี้: หินที่มีพื้นผิวขลุขระ</MessageMustDesignateSmoothableSurface>
   <!-- EN: Nothing can remove thick roofs. -->

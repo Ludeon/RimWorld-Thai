@@ -471,7 +471,7 @@
   <LetterTechprintAppliedLabel>พิมพ์เทคถูกใช้: {PROJECT_label}</LetterTechprintAppliedLabel>
   <!-- EN: A techprint has been applied to the research project: {PROJECT_label}. -->
   <LetterTechprintAppliedPartIntro>พิมพ์เทคถูกใช้งานกับโครงการ: {PROJECT_label}</LetterTechprintAppliedPartIntro>
-  <!-- EN: You're completed the projects techprint requirements! Your researchers can now begin researching how to actually use the technology at your research benches. -->
+  <!-- EN: You've completed the project's techprint requirements! Your researchers can now begin researching how to actually use the technology at your research benches. -->
   <LetterTechprintAppliedPartJustUnlocked>คุณเติมเต็มความต้องการพิมพ์เทคของโครงการนี้! ตอนนี้นักวิจัยของคุณสามารถเริ่มวิจัยเทคโนโลยีจริงๆได้ที่โต๊ะวิจัย</LetterTechprintAppliedPartJustUnlocked>
   <!-- EN: This project's techprint requirements are not yet satisfied. {0} techprints have been applied so far. The project requires {1} in total. -->
   <LetterTechprintAppliedPartNotUnlockedYet>ความต้องการพิมพ์เทคของโครงการนี้ยังไม่ถูกเติมเต็ม พิมพ์เทคถูกใช้งานไป {0} แต่โครงการต้องการทั้งหมด {1}</LetterTechprintAppliedPartNotUnlockedYet>
