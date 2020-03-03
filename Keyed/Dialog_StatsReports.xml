@@ -59,7 +59,7 @@
   <!-- EN: In bed -->
   <StatsReport_InBed>บนเตียง</StatsReport_InBed>
   <!-- EN: Facilities -->
-  <StatsReport_Facilities>สิ่งอำนวยความสะดวก</StatsReport_Facilities>
+  <StatsReport_Facilities>อุปกรณ์เครื่องมือ</StatsReport_Facilities>
   <!-- EN: Multiplier for body size {0} -->
   <StatsReport_BodySize>ตัวคูณขนาดตัว {0}</StatsReport_BodySize>
   <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
@@ -122,7 +122,7 @@
   <!-- EN: The species of creature from which this was taken. -->
   <Stat_SourceSpecies_Desc>สายพันธุ์ของสิ่งมีชีวิตนี้จากที่ถูกนำมา</Stat_SourceSpecies_Desc>
   <!-- EN: Stuff -->
-  <Stat_Stuff_Name>วัตถุดิบ</Stat_Stuff_Name>
+  <Stat_Stuff_Name>ส่วนประกอบ</Stat_Stuff_Name>
   <!-- EN: The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more. -->
   <Stat_Stuff_Desc>วัตถุดิบที่ประกอบสร้างขึ้นเป็นสิ่งนี้ ค่านี้ส่งผลกระทบกับค่าอื่นๆ รวมไปถึงค่าความเสียหายจากอาวุธ เกราะของเสื้อผ้า ฉนวน HPของไอเท็มและอาคาร ความสวยงาม มูลค่าในตลาด และอื่นๆอีกมาก</Stat_Stuff_Desc>
   <!-- EN: Weapon -->
@@ -168,97 +168,97 @@
   <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
   <Stat_Race_Animal_TameFailedRevengeChance_Desc>โอกาศที่สิ่งมีชิวิตที่จะโจมตี เมื่อมีผู้มาพยายามฝึกให้เชื่องและล้มเหลว</Stat_Race_Animal_TameFailedRevengeChance_Desc>
   <!-- EN: This creature's general mental aptitude for training. This is a combination of intelligence and attentiveness. It determines which kinds of tasks this creature can be trained to perform. -->
-  <Stat_Race_Trainability_Desc>อัฉริยะภาพทางจิตใจทั่วๆไปของสิ่งมีชีวิตนี้เมื่อฝึก นี่เป็นส่วนผสมระหว่างความฉลาดกับความสนใจ ใช้กำหนดงานประเภทไหนที่สิ่งมีชีวิตนี้สามารถฝึกฝนได้</Stat_Race_Trainability_Desc>
+  <Stat_Race_Trainability_Desc>ความถนัดทั่วๆไปของสิ่งมีชีวิตนี้เมื่อฝึกฝน นี่เป็นส่วนผสมระหว่างความฉลาดกับความสนใจ ใช้กำหนดงานประเภทใด อันสิ่งมีชีวิตนี้สามารถฝึกฝนได้</Stat_Race_Trainability_Desc>
   <!-- EN: The average life expectancy of this creature. -->
   <Stat_Race_LifeExpectancy_Desc>อายุขัยโดยเฉลี่ยของสิ่งมีชีวิตนี้</Stat_Race_LifeExpectancy_Desc>
   <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
-  <Stat_Thing_Ingestible_Joy_Desc>TODO</Stat_Thing_Ingestible_Joy_Desc>
+  <Stat_Thing_Ingestible_Joy_Desc>ค่าผ่อนคลายมากแค่ไหนเมื่อกลืนกินสิ่งนี้ ยิ่งค่ามายิ่งเต็มเติมความผ่อนคลายมาก</Stat_Thing_Ingestible_Joy_Desc>
   <!-- EN: The size of this creature's body, compared to an average adult human. -->
-  <Stat_Race_BodySize_Desc>TODO</Stat_Race_BodySize_Desc>
+  <Stat_Race_BodySize_Desc>ขนาดของสิ่งมีชีวิตนี้ เทียบกับขนาดมนุษย์โดยเฉลี่ย</Stat_Race_BodySize_Desc>
   <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
-  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>TODO</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
+  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>เวลาผ่านไปนานแค่ไหน ระหว่างเริ่มโจมตีระยะประชิดด้วยอาวุธนี้ ไปจนถึงตอนที่อาวุธนั้นโจมตีโดน</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
   <!-- EN: The amount of shots this weapon fires in each burst. -->
-  <Stat_Thing_Weapon_BurstShotCount_Desc>TODO</Stat_Thing_Weapon_BurstShotCount_Desc>
+  <Stat_Thing_Weapon_BurstShotCount_Desc>จำนวนกระสุนที่อาวุธนี้ยิงออกไป ในการยิงแต่ละชุด</Stat_Thing_Weapon_BurstShotCount_Desc>
   <!-- EN: The fire rate of this weapon during each burst. -->
-  <Stat_Thing_Weapon_BurstShotFireRate_Desc>TODO</Stat_Thing_Weapon_BurstShotFireRate_Desc>
+  <Stat_Thing_Weapon_BurstShotFireRate_Desc>ความเร็วในการยิงของอาวุธนี้ ในการยิงแต่ละชุด</Stat_Thing_Weapon_BurstShotFireRate_Desc>
   <!-- EN: The maximum range of this weapon. -->
-  <Stat_Thing_Weapon_Range_Desc>TODO</Stat_Thing_Weapon_Range_Desc>
+  <Stat_Thing_Weapon_Range_Desc>ระยะไกลสุดของอาวุธนี้</Stat_Thing_Weapon_Range_Desc>
   <!-- EN: The radius of random spread on shots fired by this weapon.\n\nHigh values make projectiles disperse randomly around the target. -->
-  <Stat_Thing_Weapon_MissRadius_Desc>TODO</Stat_Thing_Weapon_MissRadius_Desc>
+  <Stat_Thing_Weapon_MissRadius_Desc>รัศมีที่กระสุนพุ่งไปสุ่มๆเมื่อยิงอาวุธนี้\n\nยิ่งค่ามาก กระสุนก็จะสุ่มกระจายไปรอบๆเป้าหมายมากขึ้น</Stat_Thing_Weapon_MissRadius_Desc>
   <!-- EN: The chance that a shot will directly hit its target if not intercepted, dodged or stopped. -->
-  <Stat_Thing_Weapon_DirectHitChance_Desc>TODO</Stat_Thing_Weapon_DirectHitChance_Desc>
+  <Stat_Thing_Weapon_DirectHitChance_Desc>โอกาศเมื่อยิงแล้วจะโดนเป้าหมายตรงๆ ถ้าไม่โดนสกัด โดนหลบ หรือโดนหยุดไว้</Stat_Thing_Weapon_DirectHitChance_Desc>
   <!-- EN: This body part's effect on the mood of the owner. -->
-  <Stat_Thing_MoodChange_Desc>TODO</Stat_Thing_MoodChange_Desc>
+  <Stat_Thing_MoodChange_Desc>อวัยวะนี้ส่งผลต่ออารมณ์ของเจ้าของ</Stat_Thing_MoodChange_Desc>
   <!-- EN: The main skill used while performing this recipe.\n\nIt determines the quality of the result, and is learned while performing this recipe. -->
-  <Stat_Recipe_Skill_Desc>TODO</Stat_Recipe_Skill_Desc>
+  <Stat_Recipe_Skill_Desc>ทักษะหลักที่ใช้ เมื่อกระทำตามใบสั่งนี้\n\nส่งผลต่อคุณภาพของผลลัพท์ และเรียนรู้ระหว่างกระทำตามใบสั่ง</Stat_Recipe_Skill_Desc>
   <!-- EN: The ingredients required to perform this recipe. -->
-  <Stat_Recipe_Ingredients_Desc>TODO</Stat_Recipe_Ingredients_Desc>
+  <Stat_Recipe_Ingredients_Desc>ส่วนประกอบที่จำเป็น เมื่อกระทำตามใบสั่งนี้</Stat_Recipe_Ingredients_Desc>
   <!-- EN: The skills required to perform this recipe. -->
-  <Stat_Recipe_SkillRequirements_Desc>TODO</Stat_Recipe_SkillRequirements_Desc>
+  <Stat_Recipe_SkillRequirements_Desc>ทักษะที่จำเป็น เมื่อกระทำตามในสั่งนี้</Stat_Recipe_SkillRequirements_Desc>
   <!-- EN: The products produced by this recipe. -->
-  <Stat_Recipe_Products_Desc>TODO</Stat_Recipe_Products_Desc>
+  <Stat_Recipe_Products_Desc>ผลิตภัณฑ์ที่ได้จากใบสั่งนี้</Stat_Recipe_Products_Desc>
   <!-- EN: Which character stat governs the workspeed of this recipe.\n\nThe higher the stat of the worker is, the faster work will be done. -->
-  <Stat_Recipe_WorkSpeedStat_Desc>TODO</Stat_Recipe_WorkSpeedStat_Desc>
+  <Stat_Recipe_WorkSpeedStat_Desc>ค่าใดในตัวละคร ที่เกี่ยวข้องกับความเร็วในการทำตามใบสั่งนี้\n\nยิ่งค่านี้ของคนงานมีมาก ยิ่งทำงานเสร็จไวขึ้น</Stat_Recipe_WorkSpeedStat_Desc>
   <!-- EN: Which stat governs the quality or amount of output.\n\nThe higher the stat of the worker is, the higher the quality or yield will be. -->
-  <Stat_Recipe_EfficiencyStat_Desc>TODO</Stat_Recipe_EfficiencyStat_Desc>
+  <Stat_Recipe_EfficiencyStat_Desc>ค่าใดในตัวละคร ที่เกี่ยวข้องกับคุณภาพในการทำตามใบสั่งนี้\n\nยิ่งค่านี้ของคนงานมีมาก ยิ่งทำให้คุณภาพหรือผลผลิตมากขึ้น</Stat_Recipe_EfficiencyStat_Desc>
   <!-- EN: A multiplier on the chance this operation will be a success. More difficult operations have lower multipliers.\n\nThe actual chance of success of a surgery is also affected by the doctor, facilities, and medicine used. -->
-  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>TODO</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
+  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>ตัวคูณกับโอกาศที่การดำเนินการจะสำเร็จ การดำเนินทางด้านแพทย์ที่ยากๆ จะมีค่าตัวคูณน้อย\n\nค่าโอากาศสำเร็จจริงๆของการผ่าตัดนั้น ได้รับผลกระทบจากหมอ อุปกรณ์เครื่องมือ และยาที่ใช้</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
   <!-- EN: Can't fail -->
-  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>TODO</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>ไม่มีล้มเหลว</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
   <!-- EN: Performing this operation is safe for the patient. -->
-  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>TODO</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>การดำเนินการทางด้านแพทย์นี้ ปลอดภัยต่อคนไข้</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
   <!-- EN: The chance the patient will die upon failure of this surgery. -->
-  <Stat_Thing_Surgery_DeathOnFailChance_Desc>TODO</Stat_Thing_Surgery_DeathOnFailChance_Desc>
+  <Stat_Thing_Surgery_DeathOnFailChance_Desc>โอกาศที่คนไข้จะตาย เมื่อการผ่าตัดล้มเหลว</Stat_Thing_Surgery_DeathOnFailChance_Desc>
   <!-- EN: The addictiveness of this drug. -->
-  <Stat_Thing_Drug_Addictiveness_Desc>TODO</Stat_Thing_Drug_Addictiveness_Desc>
+  <Stat_Thing_Drug_Addictiveness_Desc>ความเสพติดของยานี้</Stat_Thing_Drug_Addictiveness_Desc>
   <!-- EN: Total bleed factor -->
-  <Stat_Hediff_TotalBleedFactor_Name>TODO</Stat_Hediff_TotalBleedFactor_Name>
+  <Stat_Hediff_TotalBleedFactor_Name>ปัจจัยเลือดไหลทั้งหมด</Stat_Hediff_TotalBleedFactor_Name>
   <!-- EN: A multiplier applied to the overall rate of blood loss. -->
-  <Stat_Hediff_TotalBleedFactor_Desc>TODO</Stat_Hediff_TotalBleedFactor_Desc>
+  <Stat_Hediff_TotalBleedFactor_Desc>ตัวคูณซึ่งนำไปคำนวณกับอัตราสูญเสียเลือดโดยรวม</Stat_Hediff_TotalBleedFactor_Desc>
   <!-- EN: Natural healing factor -->
-  <Stat_Hediff_NaturalHealingFactor_Name>TODO</Stat_Hediff_NaturalHealingFactor_Name>
+  <Stat_Hediff_NaturalHealingFactor_Name>ปัจจัยรักษาตัวตามธรรมชาติ</Stat_Hediff_NaturalHealingFactor_Name>
   <!-- EN: A multiplier applied to the overall rate of natural wound healing. -->
-  <Stat_Hediff_NaturalHealingFactor_Desc>TODO</Stat_Hediff_NaturalHealingFactor_Desc>
+  <Stat_Hediff_NaturalHealingFactor_Desc>ตัวคูณซึ่งนำไปคำนวณกับอัตราการักษาแผลตามธรรมชาติ</Stat_Hediff_NaturalHealingFactor_Desc>
   <!-- EN: Food poisoning chance factor -->
-  <Stat_Hediff_FoodPoisoningChanceFactor_Name>TODO</Stat_Hediff_FoodPoisoningChanceFactor_Name>
+  <Stat_Hediff_FoodPoisoningChanceFactor_Name>ปัจจัยโอกาศทำอาหารเป็นพิษ</Stat_Hediff_FoodPoisoningChanceFactor_Name>
   <!-- EN: A multiplier applied to the chance of accidentally cooking a meal with food poisoning. -->
-  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>TODO</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
+  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>ตัวคูณซึ่งนำไปคำนวณกับโอกาศที่จะเกิดอุบัติเหตุทำอาหารเป็นพิษ</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
   <!-- EN: The rate at which this condition is drains blood. -->
-  <Stat_Hediff_BleedingRate_Desc>TODO</Stat_Hediff_BleedingRate_Desc>
+  <Stat_Hediff_BleedingRate_Desc>อัตราการถ่ายเลือกในเงื่อนไขนี้</Stat_Hediff_BleedingRate_Desc>
   <!-- EN: The amount of pain caused by this condition. -->
-  <Stat_Hediff_Pain_Desc>TODO</Stat_Hediff_Pain_Desc>
+  <Stat_Hediff_Pain_Desc>ปริมาณความเจ็บปวดเกิดจากเงื่อนไขนี้</Stat_Hediff_Pain_Desc>
   <!-- EN: The offset in efficiency applied to body parts affected by this. -->
-  <Stat_Hediff_PartEfficiency_Desc>TODO</Stat_Hediff_PartEfficiency_Desc>
+  <Stat_Hediff_PartEfficiency_Desc>ประสิทธิภาพที่หักล้างกัน เมื่อนำไปคำนวนกับอวัยวะที่ได้รับ</Stat_Hediff_PartEfficiency_Desc>
   <!-- EN: The mental abilities this affects. -->
-  <Stat_Hediff_Affects_Desc>TODO</Stat_Hediff_Affects_Desc>
+  <Stat_Hediff_Affects_Desc>ความถนัดใดที่โดนผลส่งกระทบ</Stat_Hediff_Affects_Desc>
   <!-- EN: Hunger rate offset -->
-  <Stat_Hediff_HungerRateOffset_Name>TODO</Stat_Hediff_HungerRateOffset_Name>
+  <Stat_Hediff_HungerRateOffset_Name>บวกลบอัตราความหิว</Stat_Hediff_HungerRateOffset_Name>
   <!-- EN: A multiplier on the rate at which the food need depletes. -->
-  <Stat_Hediff_HungerRateFactor_Desc>TODO</Stat_Hediff_HungerRateFactor_Desc>
+  <Stat_Hediff_HungerRateFactor_Desc>ตัวคูณซึ่งนำไปคำนวณกับอัตราความต้องการอาหารที่ลดลง</Stat_Hediff_HungerRateFactor_Desc>
   <!-- EN: An offset on the rate at which the food need depletes. -->
-  <Stat_Hediff_HungerRateOffset_Desc>TODO</Stat_Hediff_HungerRateOffset_Desc>
+  <Stat_Hediff_HungerRateOffset_Desc>ค่าหักล้างซึ่งนำไปคำนวณกับอัตราความต้องการอาหารที่ลดลง</Stat_Hediff_HungerRateOffset_Desc>
   <!-- EN: Rest fall rate -->
-  <Stat_Hediff_TirednessOffset_Name>TODO</Stat_Hediff_TirednessOffset_Name>
+  <Stat_Hediff_TirednessOffset_Name>อัตราการพักผ่อนลดลง</Stat_Hediff_TirednessOffset_Name>
   <!-- EN: An offset applied to the rate at which the creatures rest need falls. -->
-  <Stat_Hediff_TirednessOffset_Desc>TODO</Stat_Hediff_TirednessOffset_Desc>
+  <Stat_Hediff_TirednessOffset_Desc>ตัวคูณซึ่งนำไปคำนวณกับอัตราความต้องการพักผ่อนที่ลดลง</Stat_Hediff_TirednessOffset_Desc>
   <!-- EN: A multiplier applied to the rate at which the creatures rest need falls. -->
-  <Stat_Hediff_TirednessFactor_Desc>TODO</Stat_Hediff_TirednessFactor_Desc>
+  <Stat_Hediff_TirednessFactor_Desc>ค่าหักล้างซึ่งนำไปคำนวณกับอัตราความต้องการพักผ่อนที่ลดลง</Stat_Hediff_TirednessFactor_Desc>
   <!-- EN: Whether or not this will prevent infections. -->
-  <Stat_Hediff_PreventsInfection_Desc>TODO</Stat_Hediff_PreventsInfection_Desc>
+  <Stat_Hediff_PreventsInfection_Desc>นี่จะช่วยป้องกันการติดเชื้อหรือไม่</Stat_Hediff_PreventsInfection_Desc>
   <!-- EN: The things this terrain supports. -->
-  <Stat_Thing_Terrain_Supports_Desc>TODO</Stat_Thing_Terrain_Supports_Desc>
+  <Stat_Thing_Terrain_Supports_Desc>สิ่งใดที่ภูมิประเทศนี้รองรับ</Stat_Thing_Terrain_Supports_Desc>
   <!-- EN: This can only be placed on terrain of these types. -->
-  <Stat_Thing_TerrainRequirement_Desc>TODO</Stat_Thing_TerrainRequirement_Desc>
+  <Stat_Thing_TerrainRequirement_Desc>สิ่งนี้สามารถวางบนภูมิประเทศชนิดเหล่านี้เท่านั้น</Stat_Thing_TerrainRequirement_Desc>
   <!-- EN: Considered -->
-  <Stat_Thing_Terrain_Fine_Name>TODO</Stat_Thing_Terrain_Fine_Name>
+  <Stat_Thing_Terrain_Fine_Name>พิถีพิถัน</Stat_Thing_Terrain_Fine_Name>
   <!-- EN: Fine -->
-  <Stat_Thing_Terrain_Fine_Value>TODO</Stat_Thing_Terrain_Fine_Value>
+  <Stat_Thing_Terrain_Fine_Value>น่าพึงพอใจ</Stat_Thing_Terrain_Fine_Value>
   <!-- EN: This floor is considered fine and suitable for royalty. -->
-  <Stat_Thing_Terrain_Fine_Desc>TODO</Stat_Thing_Terrain_Fine_Desc>
+  <Stat_Thing_Terrain_Fine_Desc>พื้นนี้ถือว่าน่าพึงพอใจและเหมาะสมสำหรับราชวงศ์</Stat_Thing_Terrain_Fine_Desc>
   <!-- EN: The amount of power this building will draw from the power grid. -->
-  <Stat_Thing_PowerConsumption_Desc>TODO</Stat_Thing_PowerConsumption_Desc>
+  <Stat_Thing_PowerConsumption_Desc>ปริมาณไฟฟ้าที่สิ่งก่อสร้างนี้ดึงจากกริดไฟฟ้า</Stat_Thing_PowerConsumption_Desc>
   <!-- EN: The overall efficiency of this body part. -->
-  <Stat_Thing_BodyPartEfficiency_Desc>TODO</Stat_Thing_BodyPartEfficiency_Desc>
+  <Stat_Thing_BodyPartEfficiency_Desc>ประสิทธิภาพโดยรวมของอวัยวะนี้</Stat_Thing_BodyPartEfficiency_Desc>
   <!-- EN: Biocoding -->
   <Stat_Thing_Weapon_Biocoded_Name>TODO</Stat_Thing_Weapon_Biocoded_Name>
   <!-- EN: This item has been coded to only accept a particular individual's bio-signature. -->

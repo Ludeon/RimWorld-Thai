@@ -11,6 +11,8 @@ In case you want bleeding-edge translation, you could install it manually follow
 > 1. `git clone` or download zip from repo: https://github.com/Ludeon/RimWorld-Thai
 > 2. Copy all language files to `<RimWorldDir>/Data/Core/Languages/Thai` (create a `Thai` folder if doesn't exist).
 > 3. Run game and change language to `Thai`.
+> 
+> (also don't forget to disabled the Thai language mod if you have it active)
 
 ## For translators
 
@@ -25,7 +27,7 @@ Summary copied from current translation report generate by the game, list below 
 * ☑️ (0) General load errors
 * ️️☑️ (0) Def-injected translations load errors
 * ☑️ (0) Backstories load errors
-* 🔲 (53) Missing keyed translations
+* ☑️ (8) Missing keyed translations
 * 🔲 (4528) Def-injected translations missing
 * 🔲 (2374) Backstory translations missing
 * ☑️ (0) Unnecessary def-injected translations (marked as NoTranslate)
