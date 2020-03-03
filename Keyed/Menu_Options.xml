@@ -53,7 +53,7 @@
   <!-- EN: Show log file location -->
   <ShowLogFileLocation>แสดงตำแหน่งไฟล์ log</ShowLogFileLocation>
   <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
-  <NamesYouWantToSee>ตัวละครที่ผู้เล่นสร้างตามความต้องการ\nในระหว่างเล่น ตัวละครเหล่านี้มีโอกาสมาก\nที่จะถูกสุ่มออกมา:</NamesYouWantToSee>
+  <NamesYouWantToSee>ตัวละครที่ผู้เล่นสร้างตามความพอใจ\nระหว่างเล่นตัวละครเหล่านี้มีโอกาสมาก\nที่จะถูกสุ่มออกมา:</NamesYouWantToSee>
   <!-- EN: Add name -->
   <AddName>เพื่มชื่อ</AddName>
   <!-- EN: Type the first name, nickname, or last name. -->
@@ -71,7 +71,7 @@
   <!-- EN: Maximum number of colonies: {0} -->
   <MaxNumberOfPlayerSettlements>จำนวนสูงสุดของอาณานิคม: {0}</MaxNumberOfPlayerSettlements>
   <!-- EN: Map mouse drag sensitivity -->
-  <MapDragSensitivity>TODO</MapDragSensitivity>
+  <MapDragSensitivity>ความไวเมาส์เมื่อลากแผนที่</MapDragSensitivity>
   <!-- EN: Plant wind sway -->
   <PlantWindSway>ต้นไม้ปลิวไหวเวลาลมพัด</PlantWindSway>
   <!-- EN: Enable test map sizes -->
