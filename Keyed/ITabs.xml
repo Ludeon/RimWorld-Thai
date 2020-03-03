@@ -135,7 +135,7 @@
   <!-- EN: Injured -->
   <Injured>บาดเจ็บ</Injured>
   <!-- EN: Untended injury -->
-  <UntendedInjury>TODO</UntendedInjury>
+  <UntendedInjury>บาดเจ็บโดยไม่ได้ตั้งใจ</UntendedInjury>
   <!-- EN: no health conditions -->
   <NoHealthConditions>ไม่มีสภาวะด้านสุขภาพ</NoHealthConditions>
   <!-- EN: Whole body -->
