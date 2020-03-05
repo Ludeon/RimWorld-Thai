@@ -582,9 +582,6 @@
   <!-- EN: {0} are leaving. -->
   <MessagePawnsLeaving>{0} กำลังจากไป</MessagePawnsLeaving>
 
-  <!-- EN: Warning: {0_label} can't be moved once installed. -->
-  <MessageThingInstalledPermanently>คำเตือน: {0_label} ไม่สามารถเคลื่อนย้ายได้หลังจากติดตั้งแล้ว</MessageThingInstalledPermanently>
-
   <!-- EN: The monument has been destroyed because you've built a disallowed building inside. -->
   <MessageMonumentDestroyedBecauseOfDisallowedBuilding>อนุสาวรีย์ถูกทำลาย เพราะว่าคุณสร้างอาคารไม่ได้อณุญาตภายใน</MessageMonumentDestroyedBecauseOfDisallowedBuilding>
 
