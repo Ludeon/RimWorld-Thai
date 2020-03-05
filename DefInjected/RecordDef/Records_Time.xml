@@ -12,9 +12,9 @@
   <TimeAsPrisoner.description>เวลาทั้งหมดที่คุณเป็นนักโทษ</TimeAsPrisoner.description>
   
   <!-- EN: time hosted -->
-  <TimeAsQuestLodger.label>TODO</TimeAsQuestLodger.label>
+  <TimeAsQuestLodger.label>เวลาเป็นเจ้าภาพ</TimeAsQuestLodger.label>
   <!-- EN: Total time spent hosted by your community through a quest. -->
-  <TimeAsQuestLodger.description>TODO</TimeAsQuestLodger.description>
+  <TimeAsQuestLodger.description>เวลาทั้งหมดที่ชุมชนของคุณเป็นเจ้าภาพต้นรับผ่านเควส</TimeAsQuestLodger.description>
   
   <!-- EN: time cleaning -->
   <TimeCleaning.label>เวลาทำความสะอาด</TimeCleaning.label>

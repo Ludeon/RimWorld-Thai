@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: marriage ceremony -->
-  <MarriageCeremony.label>TODO</MarriageCeremony.label>
+  <MarriageCeremony.label>พิธีแต่งงาน</MarriageCeremony.label>
   
   <!-- EN: party -->
-  <Party.label>TODO</Party.label>
+  <Party.label>ปาตี้</Party.label>
   <!-- EN: The party has been called off. -->
-  <Party.calledOffMessage>TODO</Party.calledOffMessage>
+  <Party.calledOffMessage>ปาตี้ถูกยกเลิกไป</Party.calledOffMessage>
   <!-- EN: The party has finished. -->
-  <Party.finishedMessage>TODO</Party.finishedMessage>
+  <Party.finishedMessage>ปาตี้เสร็จสิ้น</Party.finishedMessage>
   <!-- EN: {ORGANIZER_labelShort} is throwing a party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost. -->
-  <Party.letterText>TODO</Party.letterText>
+  <Party.letterText>{ORGANIZER_labelShort} จัดงานปาตี้! ทุกคนที่ไปจะได้ผลคลาย ได้พลังงานทางสังคม และบูสอารมณ์ทางบวกไปอีกยาว</Party.letterText>
   
 </LanguageData>

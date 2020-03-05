@@ -11,7 +11,7 @@
   <Cut.label>ฟัน</Cut.label>
   
   <!-- EN: kick material in eyes -->
-  <KickMaterialInEyes.label>TODO</KickMaterialInEyes.label>
+  <KickMaterialInEyes.label>kick material in eyes</KickMaterialInEyes.label>
   
   <!-- EN: poke -->
   <Poke.label>กระทุ้ง</Poke.label>
@@ -20,7 +20,7 @@
   <Scratch.label>ตะกุย</Scratch.label>
   
   <!-- EN: toxic scratch -->
-  <ScratchToxic.label>TODO</ScratchToxic.label>
+  <ScratchToxic.label>ตะกุยพิษ</ScratchToxic.label>
   
   <!-- EN: stab -->
   <Stab.label>แทง</Stab.label>

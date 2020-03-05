@@ -32,9 +32,9 @@
   <Scratch.deathMessage>{0} ถูกฉีกจนถึงแก่ความตาย</Scratch.deathMessage>
   
   <!-- EN: toxic scratch -->
-  <ScratchToxic.label>TODO</ScratchToxic.label>
+  <ScratchToxic.label>ข่วนเป็นพิษ</ScratchToxic.label>
   <!-- EN: {0} has been torn to death. -->
-  <ScratchToxic.deathMessage>TODO</ScratchToxic.deathMessage>
+  <ScratchToxic.deathMessage>{0} ถูกฉีกจนถึงแก่ความตาย</ScratchToxic.deathMessage>
   
   <!-- EN: stab -->
   <Stab.label>แทง</Stab.label>
@@ -42,7 +42,7 @@
   <Stab.deathMessage>{0} ถูกแทงจนถึงแก่ความตาย</Stab.deathMessage>
   
   <!-- EN: toxic bite -->
-  <ToxicBite.label>เขี้ยวพิษ</ToxicBite.label>
+  <ToxicBite.label>กัดด้วยพิษ</ToxicBite.label>
   <!-- EN: {0} has been bitten to death. -->
   <ToxicBite.deathMessage>{0} ถูกกัดจนถึงแก่ความตาย</ToxicBite.deathMessage>
   
