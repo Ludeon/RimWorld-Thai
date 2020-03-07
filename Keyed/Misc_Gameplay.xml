@@ -72,6 +72,8 @@
   <Ineffective>ไร้ประสิทธิภาพ</Ineffective>
   <!-- EN: illegal -->
   <Illegal>ผิดกฏหมาย</Illegal>
+  <!-- EN: detection chance -->
+  <DetectionChance>โอกาศค้นพบ</DetectionChance>
   <!-- EN: Race -->
   <Race>เผ่าพันธุ์</Race>
   <!-- EN: Description -->
@@ -1233,7 +1235,7 @@
   
   <!-- Bladelink -->
   <!-- EN: Bonded to: {0} -->
-  <BondedWith>เชื่อมโยงกับ: {PAWN_labelShort}</BondedWith>
+  <BondedWith>เชื่อมโยงกับ: {0}</BondedWith>
   <!-- EN: Not yet bonded -->
   <NotBonded>ยังไม่เชื่อมโยงกับใคร</NotBonded>
   <!-- EN: bonded to someone else -->
