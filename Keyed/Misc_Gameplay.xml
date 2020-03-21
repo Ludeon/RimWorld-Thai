@@ -98,6 +98,14 @@
   <RenameAnimal>เปลื่ยนชื่อสัตว์</RenameAnimal>
   <!-- EN: Rename colonist -->
   <RenameColonist>เปลี่ยนชื่อชาวนิคม</RenameColonist>
+  <!-- EN: Renounce title -->
+  <RenounceTitle>TODO</RenounceTitle>
+  <!-- EN: {0} of {1} -->
+  <TitleOfFaction>TODO</TitleOfFaction>
+  <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
+  <RenounceTitleDescription>TODO</RenounceTitleDescription>
+  <!-- EN: {PAWN_possessive} will lose these permissions -->
+  <RenounceTitleWillLoosePermits>TODO</RenounceTitleWillLoosePermits>
   <!-- EN: unknown -->
   <UnknownLower>ไม่ทราบ</UnknownLower>
   <!-- EN: On -->
@@ -438,6 +446,8 @@
   <DormantCompBeacon>พร้อมจะทิ้งเมคานอยด์</DormantCompBeacon>
   <!-- EN: Expired -->
   <DormantCompExpired>หมดอายุ</DormantCompExpired>
+  <!-- EN: Initiates in -->
+  <InitiatesIn>TODO</InitiatesIn>
   <!-- EN: Activates in {0} -->
   <SendSignalOnCountdownCompTime>เปิดใช้งานใน {0}</SendSignalOnCountdownCompTime>
   <!-- EN: Psychic entropy -->

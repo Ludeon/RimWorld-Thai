@@ -300,6 +300,12 @@
   <CooldownTime>คูลดาวน์</CooldownTime>
   <!-- EN: Disarmed -->
   <DisarmedTime>ปลดอาวุธ</DisarmedTime>
+  <!-- EN: Charging -->
+  <ChargingTime>TODO</ChargingTime>
+  <!-- EN: Next recharge (for {1}) in: {0}\nCharge cycle: {2} -->
+  <ChargingNext>TODO</ChargingNext>
+  <!-- EN: Shut down -->
+  <ShutDown>TODO</ShutDown>
   <!-- EN: Fire rate -->
   <BurstShotFireRate>อัตราการยิง</BurstShotFireRate>
   <!-- EN: Range -->
@@ -524,6 +530,8 @@
   <GiftModeTip>โหมดของขวัญ - เสนอของขวัญให้ {0}</GiftModeTip>
   <!-- EN: Return to trade mode. -->
   <TradeModeTip>ย้อนกลับโหมดแลกเปลื่ยน</TradeModeTip>
+  <!-- EN: {FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
+  <TradeCaravanRequestDeniedDueTitle>TODO</TradeCaravanRequestDeniedDueTitle>
 
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->

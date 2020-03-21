@@ -436,6 +436,8 @@
   <Next>ถัดไป</Next>
   <!-- EN: Back -->
   <Back>ย้อนกลับ</Back>
+  <!-- EN: Show Materials -->
+  <ShowMaterials>TODO</ShowMaterials>
   <!-- EN: Gameplay -->
   <Gameplay>เกมเพลย์</Gameplay>
   <!-- EN: Really quit? You'll lose unsaved progress. -->

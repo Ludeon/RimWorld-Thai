@@ -2,7 +2,7 @@
 
 This is the Thai translation data for RimWorld.
 
-Compatible with RimWorld version: `1.1.2566`
+Compatible with RimWorld version: `1.1.2579`
 
 ## Manual Install
 
@@ -22,7 +22,7 @@ We appreciate any willing to help, to contribute see: http://ludeon.com/forums/i
 
 ### Current Status
 
-Summary copied from current translation report generate by the game, list below generated on `2020-03-07`
+Summary copied from current translation report generate by the game, list below generated on `2020-03-21`
 
 * ☑️ (0) General load errors
 * ️️☑️ (0) Def-injected translations load errors
