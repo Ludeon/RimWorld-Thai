@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: go-juice addiction -->
+  <GoJuiceAddiction.label>ติดน้ำโก</GoJuiceAddiction.label>
+  <!-- EN: A chemical addiction to go-juice. Long-term presence of go-juice has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of go-juice, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <GoJuiceAddiction.description>การติดสารเคมีน้ำโก การมีน้ำโกอยู่ระยะยาวได้ทำให้เกิดการปรับตัวทางระบบประสาทในระดับเซลล์ สมองจึงไม่สามารถทำงานได้อย่างถูกต้องเมื่อไม่มีสารตัวนั้นแล้ว \n\nหากไม่ได้น้ำโกอย่างต่อเนื่อง อาการลงแดงก็จะเริ่มขึ้น อย่างไรก็ตาม การละเว้นที่ยืดยาวจะบังคับให้สมองปรับตัวกลับไปสภาพเดิม แล้วจัดการกับปัญหาติดสารตัวนั้นไป</GoJuiceAddiction.description>
+  <!-- EN: withdrawal -->
+  <GoJuiceAddiction.stages.withdrawal.label>ลงแดง</GoJuiceAddiction.stages.withdrawal.label>
+  
+  <!-- EN: high on go-juice -->
+  <GoJuiceHigh.label>เมา Go-juice</GoJuiceHigh.label>
+  <!-- EN: Go-juice in the bloodstream. It supercharges combat-related abilities, and instantly increases psyfocus when first injected. -->
+  <GoJuiceHigh.description>น้ำโกในกระแสเลือด มันประจุความสามารถการรบเข้าไปอย่างเต็มเหนี่ยว และเพิ่มสมาธิพลังจิตขึ้นมาทันทีเมื่อฉีดครั้งแรก</GoJuiceHigh.description>
+  <!-- EN: a go-juice high -->
+  <GoJuiceHigh.labelNoun>เมาน้ำโก</GoJuiceHigh.labelNoun>
+  
+  <!-- EN: go-juice tolerance -->
+  <GoJuiceTolerance.label>ดื้อน้ำโก</GoJuiceTolerance.label>
+  <!-- EN: A built-up tolerance to go-juice. The more severe this tolerance is, the more go-juice it takes to get the same effect. -->
+  <GoJuiceTolerance.description>อาการดื้อน้ำโกที่สั่งสมมา ยิ่งอาการดื้อนี้รุนแรงเท่าไหร่ ก็ต้องยิ่งใช้น้ำโกมากขึ้นเพื่อให้ได้ผลลัพธ์เดิม</GoJuiceTolerance.description>
+  <!-- EN: small -->
+  <GoJuiceTolerance.stages.small.label>เล็ก</GoJuiceTolerance.stages.small.label>
+  <!-- EN: large -->
+  <GoJuiceTolerance.stages.large.label>มาก</GoJuiceTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <GoJuiceTolerance.stages.massive.label>หนัก</GoJuiceTolerance.stages.massive.label>
+  
+  <!-- UNUSED -->
+  <GoJuiceTolerance.stages.small-1.label>ไม่ใช้แล้ว</GoJuiceTolerance.stages.small-1.label>
+  
+</LanguageData>

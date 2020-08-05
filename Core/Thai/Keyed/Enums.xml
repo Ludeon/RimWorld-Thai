@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Glow -->
+  <!-- EN: Dark -->
+  <Dark>มืด</Dark>
+  <!-- EN: Lit -->
+  <Lit>สว่าง</Lit>
+  <!-- EN: Brightly lit -->
+  <LitBrightly>สว่างจ้า</LitBrightly>
+
+  <!-- Price types -->
+  <!-- EN: very cheap -->
+  <PriceTypeVeryCheap>ถูกมาก</PriceTypeVeryCheap>
+  <!-- EN: cheap -->
+  <PriceTypeCheap>ถูก</PriceTypeCheap>
+  <!-- EN: normal -->
+  <PriceTypeNormal>ปกติ</PriceTypeNormal>
+  <!-- EN: expensive -->
+  <PriceTypeExpensive>แพง</PriceTypeExpensive>
+  <!-- EN: exorbitant -->
+  <PriceTypeExorbitant>แพงมาก</PriceTypeExorbitant>
+
+  <!-- Storage priority labels -->
+  <!-- EN: unstored -->
+  <StoragePriorityUnstored>ขนของออก</StoragePriorityUnstored>
+  <!-- EN: low -->
+  <StoragePriorityLow>ต่ำ</StoragePriorityLow>
+  <!-- EN: normal -->
+  <StoragePriorityNormal>ปกติ</StoragePriorityNormal>
+  <!-- EN: preferred -->
+  <StoragePriorityPreferred>เลือกก่อน</StoragePriorityPreferred>
+  <!-- EN: important -->
+  <StoragePriorityImportant>สำคัญ</StoragePriorityImportant>
+  <!-- EN: critical -->
+  <StoragePriorityCritical>วิกฤติ</StoragePriorityCritical>
+
+  <!-- Food type flags -->
+  <!-- EN: vegetables -->
+  <FoodTypeFlags_VegetableOrFruit>ผัก</FoodTypeFlags_VegetableOrFruit>
+  <!-- EN: raw meat -->
+  <FoodTypeFlags_Meat>เนื้อดิบ</FoodTypeFlags_Meat>
+  <!-- EN: corpses -->
+  <FoodTypeFlags_Corpse>ศพ</FoodTypeFlags_Corpse>
+  <!-- EN: seeds -->
+  <FoodTypeFlags_Seed>เมล็ดพืช</FoodTypeFlags_Seed>
+  <!-- EN: animal products -->
+  <FoodTypeFlags_AnimalProduct>ผลิตผลจากสัตว์</FoodTypeFlags_AnimalProduct>
+  <!-- EN: live plants -->
+  <FoodTypeFlags_Plant>พืชมีชีวิต</FoodTypeFlags_Plant>
+  <!-- EN: live trees -->
+  <FoodTypeFlags_Tree>ต้นไม้มีชีวิต</FoodTypeFlags_Tree>
+  <!-- EN: meals -->
+  <FoodTypeFlags_Meal>มื้ออาหาร</FoodTypeFlags_Meal>
+  <!-- EN: processed foods -->
+  <FoodTypeFlags_Processed>อาหารที่ผ่านกระบวนการ</FoodTypeFlags_Processed>
+  <!-- EN: liquor -->
+  <FoodTypeFlags_Liquor>เหล้า</FoodTypeFlags_Liquor>
+  <!-- EN: kibble -->
+  <FoodTypeFlags_Kibble>อาหารเม็ด</FoodTypeFlags_Kibble>
+
+  <!-- Quality category -->
+  <!-- EN: awful -->
+  <QualityCategory_Awful>ห่วยแตก</QualityCategory_Awful>
+  <!-- EN: poor -->
+  <QualityCategory_Poor>ย่ำแย่</QualityCategory_Poor>
+  <!-- EN: normal -->
+  <QualityCategory_Normal>ปกติ</QualityCategory_Normal>
+  <!-- EN: good -->
+  <QualityCategory_Good>งานดี</QualityCategory_Good>
+  <!-- EN: excellent -->
+  <QualityCategory_Excellent>เป็นเลิศ</QualityCategory_Excellent>
+  <!-- EN: masterwork -->
+  <QualityCategory_Masterwork>งานปรมาจารย์</QualityCategory_Masterwork>
+  <!-- EN: legendary -->
+  <QualityCategory_Legendary>ระดับตำนาน</QualityCategory_Legendary>
+  <!-- EN: awfl -->
+  <QualityCategoryShort_Awful>ห่วย</QualityCategoryShort_Awful>
+  <!-- EN: poor -->
+  <QualityCategoryShort_Poor>แย่</QualityCategoryShort_Poor>
+  <!-- EN: norm -->
+  <QualityCategoryShort_Normal>ปกติ</QualityCategoryShort_Normal>
+  <!-- EN: good -->
+  <QualityCategoryShort_Good>ดี</QualityCategoryShort_Good>
+  <!-- EN: exc -->
+  <QualityCategoryShort_Excellent>เลิศ</QualityCategoryShort_Excellent>
+  <!-- EN: mast -->
+  <QualityCategoryShort_Masterwork>ปรมาจารย์</QualityCategoryShort_Masterwork>
+  <!-- EN: legd -->
+  <QualityCategoryShort_Legendary>ตำนาน</QualityCategoryShort_Legendary>
+  
+  <!-- Hunger -->
+  <!-- EN: Starving -->
+  <HungerLevel_Starving>อดอยาก</HungerLevel_Starving>
+  <!-- EN: Urgently hungry -->
+  <HungerLevel_UrgentlyHungry>หิวโซ</HungerLevel_UrgentlyHungry>
+  <!-- EN: Hungry -->
+  <HungerLevel_Hungry>หิว</HungerLevel_Hungry>
+  <!-- EN: Fed -->
+  <HungerLevel_Fed>อิ่ม</HungerLevel_Fed>
+
+  <!-- -Fatigue -->
+  <!-- EN: Exhausted -->
+  <HungerLevel_Exhausted>หมดแรง</HungerLevel_Exhausted>
+  <!-- EN: Very tired -->
+  <HungerLevel_VeryTired>เหนื่อยมาก</HungerLevel_VeryTired>
+  <!-- EN: Tired -->
+  <HungerLevel_Tired>เหนื่อย</HungerLevel_Tired>
+  <!-- EN: Rested -->
+  <HungerLevel_Rested>พักผ่อนเต็มที่</HungerLevel_Rested>
+
+  <!-- Hilliness -->
+  <!-- EN: flat -->
+  <Hilliness_Flat>พื้นราบ</Hilliness_Flat>
+  <!-- EN: small hills -->
+  <Hilliness_SmallHills>เนินเล็กๆ</Hilliness_SmallHills>
+  <!-- EN: large hills -->
+  <Hilliness_LargeHills>เนินเขา</Hilliness_LargeHills>
+  <!-- EN: mountainous -->
+  <Hilliness_Mountainous>ภูเขา</Hilliness_Mountainous>
+  <!-- EN: impassable -->
+  <Hilliness_Impassable>ผ่านไม่ได้</Hilliness_Impassable>
+  
+  <!-- Steam workshop interaction -->
+  <!-- EN: Creating -->
+  <WorkshopInteractStage_CreatingItem>กำลังสร้าง</WorkshopInteractStage_CreatingItem>
+  <!-- EN: Submitting -->
+  <WorkshopInteractStage_SubmittingItem>กำลังส่ง</WorkshopInteractStage_SubmittingItem>
+  <!-- EN: Invalid -->
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>ไม่ถูกต้อง</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <!-- EN: Preparing config data -->
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>กำลังเตรียมข้อมูลคอนฟิก</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <!-- EN: Preparing content files -->
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>กำลังเตรียมไฟล์เนื้อหา</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <!-- EN: Uploading content -->
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>กำลังอัปโหลดเนื้อหา</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <!-- EN: Uploading preview file -->
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>กำลังอัปโหลดไฟล์ดัวอย่าง</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <!-- EN: Committing changes -->
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>กำลัง commit การเปลี่ยนแปลง</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+
+  <!-- Mod sources -->
+  <!-- EN: official content -->
+  <ContentSource_OfficialModsFolder>เนื้อหาอย่างเป็นทางการ</ContentSource_OfficialModsFolder>
+  <!-- EN: local folder -->
+  <ContentSource_ModsFolder>โฟลเดอร์ในเครื่อง</ContentSource_ModsFolder>
+  <!-- EN: Steam Workshop -->
+  <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
+  
+  <!-- Medical care category -->
+  <!-- EN: No medical care -->
+  <MedicalCareCategory_NoCare>ไม่ได้รับการดูแลทางการแพทย์</MedicalCareCategory_NoCare>
+  <!-- EN: Doctor care, but no medicine -->
+  <MedicalCareCategory_NoMeds>ได้รับการดูแลจากแพทย์ แต่ไม่ให้ยา</MedicalCareCategory_NoMeds>
+  <!-- EN: Herbal medicine or worse -->
+  <MedicalCareCategory_HerbalOrWorse>ให้ยาสมุนไพรหรือแย่กว่า</MedicalCareCategory_HerbalOrWorse>
+  <!-- EN: Industrial-tech medicine or worse -->
+  <MedicalCareCategory_NormalOrWorse>ให้ยาสามัญหรือแย่กว่า</MedicalCareCategory_NormalOrWorse>
+  <!-- EN: Best quality medicine -->
+  <MedicalCareCategory_Best>ให้ยาคุณภาพดีที่สุด</MedicalCareCategory_Best>
+
+  <!-- Hostility response mode -->
+  <!-- EN: Ignore -->
+  <HostilityResponseMode_Ignore>เมินเฉย</HostilityResponseMode_Ignore>
+  <!-- EN: Attack -->
+  <HostilityResponseMode_Attack>โจมตี</HostilityResponseMode_Attack>
+  <!-- EN: Flee -->
+  <HostilityResponseMode_Flee>ถอยหนี</HostilityResponseMode_Flee>
+  
+  <!-- HediffGrowthMode -->
+  <!-- EN: growing -->
+  <HediffGrowthMode_Growing>ปลูกถ่าย</HediffGrowthMode_Growing>
+  <!-- EN: stable -->
+  <HediffGrowthMode_Stable>คงที่</HediffGrowthMode_Stable>
+  <!-- EN: remission -->
+  <HediffGrowthMode_Remission>บรรเทาอาการ</HediffGrowthMode_Remission>
+
+  <!-- TechLevel -->
+  <!-- EN: animal -->
+  <TechLevel_Animal>ยุคสัตว์</TechLevel_Animal>
+  <!-- EN: neolithic -->
+  <TechLevel_Neolithic>ยุคหินใหม่</TechLevel_Neolithic>
+  <!-- EN: medieval -->
+  <TechLevel_Medieval>ยุคสมัยกลาง</TechLevel_Medieval>
+  <!-- EN: industrial -->
+  <TechLevel_Industrial>ยุคอุตสาหกรรม</TechLevel_Industrial>
+  <!-- EN: spacer -->
+  <TechLevel_Spacer>ยุคอวกาศ</TechLevel_Spacer>
+  <!-- EN: ultra -->
+  <TechLevel_Ultra>อัลตร้า</TechLevel_Ultra>
+  <!-- EN: archotech -->
+  <TechLevel_Archotech>Archotech</TechLevel_Archotech>
+
+  <!-- Player pawns arrive method -->
+  <!-- EN: Standing -->
+  <PlayerPawnsArriveMethod_Standing>ยืน</PlayerPawnsArriveMethod_Standing>
+  <!-- EN: Drop pods -->
+  <PlayerPawnsArriveMethod_DropPods>ลงจอด</PlayerPawnsArriveMethod_DropPods>
+
+  <!-- Pawn generation context -->
+  <!-- EN: all characters -->
+  <PawnGenerationContext_All>ตัวละครทุกตัว</PawnGenerationContext_All>
+  <!-- EN: player starting characters -->
+  <PawnGenerationContext_PlayerStarter>ตัวละครเริ่มต้นของผู้เล่น</PawnGenerationContext_PlayerStarter>
+  <!-- EN: non-player characters -->
+  <PawnGenerationContext_NonPlayer>ตัวละครที่ผู้เล่นไม่ได้ควบคุม</PawnGenerationContext_NonPlayer>
+  
+  <!-- Animal name display mode -->
+  <!-- EN: Show animal names -->
+  <ShowAnimalNames>แสดงชื่อสัตว์</ShowAnimalNames>
+  <!-- EN: Tame (named only) -->
+  <AnimalNameDisplayMode_TameNamed>เชื่อง (เฉพาะชื่อ)</AnimalNameDisplayMode_TameNamed>
+  <!-- EN: Tame (all) -->
+  <AnimalNameDisplayMode_TameAll>เชื่อง (ทั้งหมด)</AnimalNameDisplayMode_TameAll>
+  
+  <!-- Temperature -->
+  <!-- EN: Celsius -->
+  <Celsius>เซลเซียส</Celsius>
+  <!-- EN: Fahrenheit -->
+  <Fahrenheit>ฟาเรนไฮต์</Fahrenheit>
+  <!-- EN: Kelvin -->
+  <Kelvin>เคลวิน</Kelvin>
+  
+  <!-- Direction8Way -->
+  <!-- EN: N -->
+  <Direction8Way_North_Short>N</Direction8Way_North_Short>
+  <!-- EN: NE -->
+  <Direction8Way_NorthEast_Short>NE</Direction8Way_NorthEast_Short>
+  <!-- EN: E -->
+  <Direction8Way_East_Short>E</Direction8Way_East_Short>
+  <!-- EN: SE -->
+  <Direction8Way_SouthEast_Short>SE</Direction8Way_SouthEast_Short>
+  <!-- EN: S -->
+  <Direction8Way_South_Short>S</Direction8Way_South_Short>
+  <!-- EN: SW -->
+  <Direction8Way_SouthWest_Short>SW</Direction8Way_SouthWest_Short>
+  <!-- EN: W -->
+  <Direction8Way_West_Short>W</Direction8Way_West_Short>
+  <!-- EN: NW -->
+  <Direction8Way_NorthWest_Short>NW</Direction8Way_NorthWest_Short>
+  
+  <!-- Diet category -->
+  <!-- EN: Never eats -->
+  <DietCategory_NeverEats>ไม่กินอาหาร</DietCategory_NeverEats>
+  <!-- EN: Herbivorous -->
+  <DietCategory_Herbivorous>กินพืช</DietCategory_Herbivorous>
+  <!-- EN: Dendrovorous -->
+  <DietCategory_Dendrovorous>กินต้นไม้</DietCategory_Dendrovorous>
+  <!-- EN: Ovivorous -->
+  <DietCategory_Ovivorous>ออกไข่</DietCategory_Ovivorous>
+  <!-- EN: Omnivorous -->
+  <DietCategory_Omnivorous>กินพืชและสัตว์</DietCategory_Omnivorous>
+  <!-- EN: Carnivorous -->
+  <DietCategory_Carnivorous>กินสัตว์</DietCategory_Carnivorous>
+  <!-- EN: - -->
+  <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
+  <!-- EN: H -->
+  <DietCategory_Herbivorous_Short>พืช</DietCategory_Herbivorous_Short>
+  <!-- EN: D -->
+  <DietCategory_Dendrovorous_Short>ไม้</DietCategory_Dendrovorous_Short>
+  <!-- EN: Ov -->
+  <DietCategory_Ovivorous_Short>ไข่</DietCategory_Ovivorous_Short>
+  <!-- EN: O -->
+  <DietCategory_Omnivorous_Short>พ-ส</DietCategory_Omnivorous_Short>
+  <!-- EN: C -->
+  <DietCategory_Carnivorous_Short>สัตว์</DietCategory_Carnivorous_Short>
+
+  <!-- Food poison cause -->
+  <!-- EN: incompetent cook -->
+  <FoodPoisonCause_IncompetentCook>คนครัวไร้ความสามารถ</FoodPoisonCause_IncompetentCook>
+  <!-- EN: dirty cooking area -->
+  <FoodPoisonCause_FilthyKitchen>พื้นที่ทำอาหารสกปรก</FoodPoisonCause_FilthyKitchen>
+  <!-- EN: rotten food -->
+  <FoodPoisonCause_Rotten>อาหารเน่า</FoodPoisonCause_Rotten>
+  <!-- EN: dangerous food type -->
+  <FoodPoisonCause_DangerousFoodType>อาการประเภทอันตราย</FoodPoisonCause_DangerousFoodType>
+
+  <!-- Psychic drone level -->
+  <!-- EN: none -->
+  <PsychicDroneLevel_None>ไม่มี</PsychicDroneLevel_None>
+  <!-- EN: medium -->
+  <PsychicDroneLevel_GoodMedium>กลาง</PsychicDroneLevel_GoodMedium>
+  <!-- EN: low -->
+  <PsychicDroneLevel_BadLow>ต่ำ</PsychicDroneLevel_BadLow>
+  <!-- EN: medium -->
+  <PsychicDroneLevel_BadMedium>กลาง</PsychicDroneLevel_BadMedium>
+  <!-- EN: high -->
+  <PsychicDroneLevel_BadHigh>สูง</PsychicDroneLevel_BadHigh>
+  <!-- EN: extreme -->
+  <PsychicDroneLevel_BadExtreme>สุดๆ</PsychicDroneLevel_BadExtreme>
+  
+  <!-- Automatic pause mode -->
+  <!-- EN: Never -->
+  <AutomaticPauseMode_Never>ไม่หยุด</AutomaticPauseMode_Never>
+  <!-- EN: Major threats -->
+  <AutomaticPauseMode_MajorThreat>ภัยคุมคามใหญ่หลวง</AutomaticPauseMode_MajorThreat>
+  <!-- EN: Any threat -->
+  <AutomaticPauseMode_AnyThreat>ภัยคุมคามใดๆ</AutomaticPauseMode_AnyThreat>
+  <!-- EN: Any letter -->
+  <AutomaticPauseMode_AnyLetter>จดหมายใดๆ</AutomaticPauseMode_AnyLetter>
+
+  <!-- Pain category -->
+  <!-- EN: itchy -->
+  <PainCategory_LowPain>คันๆ</PainCategory_LowPain>
+  <!-- EN: aching -->
+  <PainCategory_MediumPain>ปวดเหมื่อย</PainCategory_MediumPain>
+  <!-- EN: painful -->
+  <PainCategory_HighPain>เจ็บปวด</PainCategory_HighPain>
+  
+  <!-- ExtraFactionType -->
+  <!-- EN: home faction -->
+  <ExtraFactionType_HomeFaction>ฝักฝ่ายเรา</ExtraFactionType_HomeFaction>
+  <!-- EN: remote host faction -->
+  <ExtraFactionType_HostFaction>ฝ่ายเจ้าภาพไกลๆ</ExtraFactionType_HostFaction>
+</LanguageData>

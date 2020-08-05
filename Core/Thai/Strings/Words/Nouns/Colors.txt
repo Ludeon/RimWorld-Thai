@@ -1,0 +1,12 @@
+﻿
+//Simple colors only, no mauve and puce
+
+
+แดง
+ฟ้า
+เขียว
+ม่วง
+ดำ
+ขาว
+เทา
+ส้ม

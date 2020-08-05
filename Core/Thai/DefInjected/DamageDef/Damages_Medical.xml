@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: execution cut -->
+  <ExecutionCut.label>ฟันโทษประหาร</ExecutionCut.label>
+  <!-- EN: {0} has been executed by cutting. -->
+  <ExecutionCut.deathMessage>{0} โดนประหารด้วยการฟันคอ</ExecutionCut.deathMessage>
+  
+  <!-- EN: surgical cut -->
+  <SurgicalCut.label>แผลผ่าตัด</SurgicalCut.label>
+  <!-- EN: {0} has died during surgery. -->
+  <SurgicalCut.deathMessage>{0} ตายระหว่างการผ่าตัด</SurgicalCut.deathMessage>
+  
+</LanguageData>

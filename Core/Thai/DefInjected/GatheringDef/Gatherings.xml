@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: marriage ceremony -->
+  <MarriageCeremony.label>พิธีแต่งงาน</MarriageCeremony.label>
+  
+  <!-- EN: party -->
+  <Party.label>ปาร์ตี้</Party.label>
+  <!-- EN: The party has been called off. -->
+  <Party.calledOffMessage>ปาร์ตี้ถูกยกเลิก</Party.calledOffMessage>
+  <!-- EN: The party has finished. -->
+  <Party.finishedMessage>ปาร์ตี้จบ</Party.finishedMessage>
+  <!-- EN: {ORGANIZER_labelShort} is throwing a party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost. -->
+  <Party.letterText>{ORGANIZER_labelShort} จัดงานปาร์ตี้แหละ! ทุกคนที่ไปจะได้ผ่อนคลายกับสังคม และเสริมอารมณ์ทางบวกไปในระยะยาว</Party.letterText>
+  <!-- EN: Party -->
+  <Party.letterTitle>TODO</Party.letterTitle>
+  
+</LanguageData>

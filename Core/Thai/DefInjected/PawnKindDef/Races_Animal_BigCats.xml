@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cougar -->
+  <Cougar.label>เสือคูการ์</Cougar.label>
+  
+  <!-- EN: lynx -->
+  <Lynx.label>แมวป่า</Lynx.label>
+  <!-- EN: lynx -->
+  <Lynx.labelPlural>แมวป่า</Lynx.labelPlural>
+  <!-- EN: lynx kitten -->
+  <Lynx.lifeStages.lynx_kitten.label>ลูกแมวป่า</Lynx.lifeStages.lynx_kitten.label>
+  
+  <!-- EN: panther -->
+  <Panther.label>เสือดำ</Panther.label>
+  
+</LanguageData>

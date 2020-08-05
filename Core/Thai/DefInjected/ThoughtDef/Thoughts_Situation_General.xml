@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ratty apparel -->
+  <ApparelDamaged.stages.ratty_apparel.label>ใส่เสื้อผ้าขาด</ApparelDamaged.stages.ratty_apparel.label>
+  <!-- EN: The holes in my outfit are annoyingly large. Can't I get something new to wear? -->
+  <ApparelDamaged.stages.ratty_apparel.description>เสื้อผ้าของฉันดูค่อนข้างแย่ ฉันไม่มีอย่างอื่นที่ดีกว่านี้ใส่แล้วหรอ?</ApparelDamaged.stages.ratty_apparel.description>
+  <!-- EN: tattered apparel -->
+  <ApparelDamaged.stages.tattered_apparel.label>ใส่เสื้อผ้าขาดรุ่งริ่ง</ApparelDamaged.stages.tattered_apparel.label>
+  <!-- EN: This thing looks like it's about to fall apart. Can't I wear something that doesn't belong in a trash heap? -->
+  <ApparelDamaged.stages.tattered_apparel.description>ฉันใส่เสื้อป้าที่ขาดรุ่งริ่งแทบจะเป็นขยะอยู่แล้ว ฉันไม่มีอย่างอื่นที่ดีกว่านี้ใส่แล้วหรอ?</ApparelDamaged.stages.tattered_apparel.description>
+  
+  <!-- EN: tainted {0} -->
+  <DeadMansApparel.stages.tainted.label>{0} ใส่เสื้อผ้าคนที่ตายแล้ว</DeadMansApparel.stages.tainted.label>
+  <!-- EN: I am wearing a piece of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.tainted.description>ฉันสวมใส่เสื้อผ้าของคนที่เสียชีวิต ทำให้ผมสั่นเข้ากระดูกสันหลังและรู้สึกไม่ดี</DeadMansApparel.stages.tainted.description>
+  <!-- EN: tainted {0} (+1) -->
+  <DeadMansApparel.stages.tainted_1.label>{0} ใส่เสื้อผ้าคนที่ตายแล้ว (+1)</DeadMansApparel.stages.tainted_1.label>
+  <!-- EN: I am wearing two pieces of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.tainted_1.description>ฉันสวมใส่เสื้อผ้าสองผืนของคนที่เสียชีวิต ทำให้ผมสั่นเข้ากระดูกสันหลังและรู้สึกไม่ดี</DeadMansApparel.stages.tainted_1.description>
+  <!-- EN: tainted {0} (+2) -->
+  <DeadMansApparel.stages.tainted_2.label>{0} ใส่เสื้อผ้าคนที่ตายแล้ว (+2)</DeadMansApparel.stages.tainted_2.label>
+  <!-- EN: I am wearing three pieces of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.tainted_2.description>ฉันสวมใส่เสื้อผ้าสามผืนของคนที่เสียชีวิต ทำให้ผมสั่นเข้ากระดูกสันหลังและรู้สึกไม่ดี</DeadMansApparel.stages.tainted_2.description>
+  <!-- EN: tainted {0} etc -->
+  <DeadMansApparel.stages.tainted_etc.label>{0} ใส่เสื้อผ้าคนที่ตายแล้ว (+X)</DeadMansApparel.stages.tainted_etc.label>
+  <!-- EN: I am wearing four or more pieces of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.tainted_etc.description>ฉันสวมใส่เสื้อผ้ามากกว่าสามผืนของคนที่เสียชีวิต ทำให้ผมสั่นเข้ากระดูกสันหลังและรู้สึกไม่ดี</DeadMansApparel.stages.tainted_etc.description>
+  
+  <!-- EN: chilly -->
+  <EnvironmentCold.stages.chilly.label>หนาว</EnvironmentCold.stages.chilly.label>
+  <!-- EN: I'm uncomfortably cold. -->
+  <EnvironmentCold.stages.chilly.description>ฉันหนาวอย่างไม่ค่อยสบายนัก</EnvironmentCold.stages.chilly.description>
+  <!-- EN: cold -->
+  <EnvironmentCold.stages.cold.label>หนาวมาก</EnvironmentCold.stages.cold.label>
+  <!-- EN: I'm so cold, I'm shivering. -->
+  <EnvironmentCold.stages.cold.description>ฉันหนาวเหลือเกิน สั่นไปหมดแล้ว ไม่สามารถอุ่นได้</EnvironmentCold.stages.cold.description>
+  <!-- EN: numbing cold -->
+  <EnvironmentCold.stages.numbing_cold.label>จะแข็งตาย</EnvironmentCold.stages.numbing_cold.label>
+  <!-- EN: I can't stop shivering. My teeth are chattering. All I can think of is getting warm. -->
+  <EnvironmentCold.stages.numbing_cold.description>ฟันของฉันกระทบกันอย่างแรงจนแทบพูดไม่ได้ นิ้วเท้าก็ชาไปหมด ฉันต้องรีบอุ่นตัวแล้ว!</EnvironmentCold.stages.numbing_cold.description>
+  <!-- EN: absolutely freezing -->
+  <EnvironmentCold.stages.absolutely_freezing.label>TODO</EnvironmentCold.stages.absolutely_freezing.label>
+  <!-- EN: My teeth are chattering so hard I can barely speak. My toes are numb. I need to get warm. -->
+  <EnvironmentCold.stages.absolutely_freezing.description>TODO</EnvironmentCold.stages.absolutely_freezing.description>
+  
+  <!-- EN: darkness -->
+  <EnvironmentDark.stages.darkness.label>อยู่ในความมืด</EnvironmentDark.stages.darkness.label>
+  <!-- EN: I've been in the dark for a while. I don't like it. -->
+  <EnvironmentDark.stages.darkness.description>ฉันอยู่ในความมืดมาพักใหญ่แล้ว ฉันไม่ชอบมัน</EnvironmentDark.stages.darkness.description>
+  
+  <!-- EN: sweaty -->
+  <EnvironmentHot.stages.sweaty.label>ร้อน</EnvironmentHot.stages.sweaty.label>
+  <!-- EN: It's too hot here. I'm sweating. -->
+  <EnvironmentHot.stages.sweaty.description>ความร้อนนี่ไม่ค่อยน่าพิศมัยเท่าไหร่ ฉันเหงื่อแตกไปหมดเลย</EnvironmentHot.stages.sweaty.description>
+  <!-- EN: hot -->
+  <EnvironmentHot.stages.hot.label>ร้อนมาก</EnvironmentHot.stages.hot.label>
+  <!-- EN: It's way too hot here. If I could just have a breath of cool air... -->
+  <EnvironmentHot.stages.hot.description>ฉันรู้สึกร้อนเกินไปแล้ว</EnvironmentHot.stages.hot.description>
+  <!-- EN: sweltering hot -->
+  <EnvironmentHot.stages.sweltering_hot.label>ร้อนสุดๆ</EnvironmentHot.stages.sweltering_hot.label>
+  <!-- EN: I feel like I'm in an oven! I'm not sure how long I can handle this. -->
+  <EnvironmentHot.stages.sweltering_hot.description>ฉันรู้สึกเหมือนอยู่ในเตาอบ! ฉันไม่รู้จะรับมือได้อีกนานแค่ไหน</EnvironmentHot.stages.sweltering_hot.description>
+  <!-- EN: blistering hot -->
+  <EnvironmentHot.stages.blistering_hot.label>ไหม้</EnvironmentHot.stages.blistering_hot.label>
+  <!-- EN: This place is searing hot. I think I could die from this heat! -->
+  <EnvironmentHot.stages.blistering_hot.description>ฉันไหม้ทั้งตัวแล้ว ฉันคิดว่ากำลังจะตายเพราะความร้อน!</EnvironmentHot.stages.blistering_hot.description>
+  
+  <!-- EN: human leather {0} -->
+  <HumanLeatherApparelHappy.stages.human_leather.label>หนังมนุษย์ {0}</HumanLeatherApparelHappy.stages.human_leather.label>
+  <!-- EN: I enjoy wearing the suffering of others. -->
+  <HumanLeatherApparelHappy.stages.human_leather.description>ฉันชอบใส่ความทุกข์ทรมานของผู้อื่น</HumanLeatherApparelHappy.stages.human_leather.description>
+  <!-- EN: human leather {0} (+1) -->
+  <HumanLeatherApparelHappy.stages.human_leather_1.label>หนังมนุษย์ {0} (+1)</HumanLeatherApparelHappy.stages.human_leather_1.label>
+  <!-- EN: This will scare them. All will know my power. -->
+  <HumanLeatherApparelHappy.stages.human_leather_1.description>นี้จะทำให้ตกใจพวกเขา ทุกคนจะรู้จักพลังของฉัน</HumanLeatherApparelHappy.stages.human_leather_1.description>
+  <!-- EN: human leather {0} (+2) -->
+  <HumanLeatherApparelHappy.stages.human_leather_2.label>หนังมนุษย์ {0} (+2)</HumanLeatherApparelHappy.stages.human_leather_2.label>
+  <!-- EN: The faces on my clothes aren't smiling, but they make *me* happy. -->
+  <HumanLeatherApparelHappy.stages.human_leather_2.description>ใบหน้าบนเสื้อผ้าของฉันไม่ยิ้ม แต่พวกเขาทำให้ฉันมีความสุข</HumanLeatherApparelHappy.stages.human_leather_2.description>
+  <!-- EN: human leather {0} etc -->
+  <HumanLeatherApparelHappy.stages.human_leather_etc.label>หนังมนุษย์ {0} (+x)</HumanLeatherApparelHappy.stages.human_leather_etc.label>
+  <!-- EN: The flesh! The flesh signals my triumph! -->
+  <HumanLeatherApparelHappy.stages.human_leather_etc.description>หนังมนุษย์! หนังมนุษย์ส่งสัญญาณชัยชนะของฉัน!</HumanLeatherApparelHappy.stages.human_leather_etc.description>
+  
+  <!-- EN: human leather {0} -->
+  <HumanLeatherApparelSad.stages.human_leather.label>หนังมนุษย์ {0}</HumanLeatherApparelSad.stages.human_leather.label>
+  <!-- EN: Wearing human leather is disturbing. Who could do this? -->
+  <HumanLeatherApparelSad.stages.human_leather.description>การสวมเครื่องหนังมนุษย์ ใครสามารถทำเช่นนี้ได้?</HumanLeatherApparelSad.stages.human_leather.description>
+  <!-- EN: human leather {0} (+1) -->
+  <HumanLeatherApparelSad.stages.human_leather_1.label>หนังมนุษย์ {0} (+1)</HumanLeatherApparelSad.stages.human_leather_1.label>
+  <!-- EN: I'm dressed like an insane person. -->
+  <HumanLeatherApparelSad.stages.human_leather_1.description>ฉันแต่งตัวเหมือนคนวิกลจริต</HumanLeatherApparelSad.stages.human_leather_1.description>
+  <!-- EN: human leather {0} (+2) -->
+  <HumanLeatherApparelSad.stages.human_leather_2.label>หนังมนุษย์ {0} (+2)</HumanLeatherApparelSad.stages.human_leather_2.label>
+  <!-- EN: I think there may be a face on my clothes. Oh, no... my clothes *are* a face. -->
+  <HumanLeatherApparelSad.stages.human_leather_2.description>ฉันคิดว่าอาจมีใบหน้าบนเสื้อผ้าของฉัน โอ้ไม่ได้เสื้อผ้าของฉัน * คือ * ใบหน้า</HumanLeatherApparelSad.stages.human_leather_2.description>
+  <!-- EN: human leather {0} etc -->
+  <HumanLeatherApparelSad.stages.human_leather_etc.label>หนังมนุษย์ {0} (+x)</HumanLeatherApparelSad.stages.human_leather_etc.label>
+  <!-- EN: I look like a freak from a horror show, and I feel like I'm in a horror show. -->
+  <HumanLeatherApparelSad.stages.human_leather_etc.description>ฉันดูแปลกประหลาดจากการแสดงสยองขวัญและฉันรู้สึกเหมือนฉันอยู่ในรายการสยองขวัญ</HumanLeatherApparelSad.stages.human_leather_etc.description>
+  
+  <!-- EN: sick -->
+  <Sick.stages.sick.label>ป่วย</Sick.stages.sick.label>
+  <!-- EN: I don't feel very well. -->
+  <Sick.stages.sick.description>ฉันรู้สึกไม่ค่อยดีเท่าไหร่, ฉันป่วยอยู่</Sick.stages.sick.description>
+  
+  <!-- EN: wearing {0} apparel -->
+  <WrongApparelGender.stages.wearing_apparel.label>TODO</WrongApparelGender.stages.wearing_apparel.label>
+  <!-- EN: I'm wearing apparel that was clearly made for {0}s! This is embarrassing. -->
+  <WrongApparelGender.stages.wearing_apparel.description>TODO</WrongApparelGender.stages.wearing_apparel.description>
+  
+</LanguageData>

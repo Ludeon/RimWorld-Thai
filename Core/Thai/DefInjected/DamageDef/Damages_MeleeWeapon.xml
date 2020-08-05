@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bite -->
+  <Bite.label>กัด</Bite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <Bite.deathMessage>{0} โดนกัดตาย</Bite.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Blunt.label>ทุบ</Blunt.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Blunt.deathMessage>{0} โดนทุบตาย</Blunt.deathMessage>
+  
+  <!-- EN: crush -->
+  <Crush.label>บด</Crush.label>
+  <!-- EN: {0} has been crushed to death. -->
+  <Crush.deathMessage>{0} โดนขยี้ตาย</Crush.deathMessage>
+  
+  <!-- EN: cut -->
+  <Cut.label>ฟัน</Cut.label>
+  <!-- EN: {0} has been cut to death. -->
+  <Cut.deathMessage>{0} โดนฟันตาย</Cut.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Poke.label>ทุบ</Poke.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Poke.deathMessage>{0} โดนทุบตาย</Poke.deathMessage>
+  
+  <!-- EN: scratch -->
+  <Scratch.label>ข่วน</Scratch.label>
+  <!-- EN: {0} has been torn to death. -->
+  <Scratch.deathMessage>{0} โดนฉีกขาดตาย</Scratch.deathMessage>
+  
+  <!-- EN: toxic scratch -->
+  <ScratchToxic.label>ข่วนเป็นพิษ</ScratchToxic.label>
+  <!-- EN: {0} has been torn to death. -->
+  <ScratchToxic.deathMessage>{0} โดนฉีกขาดตาย</ScratchToxic.deathMessage>
+  
+  <!-- EN: stab -->
+  <Stab.label>แทง</Stab.label>
+  <!-- EN: {0} has been stabbed to death. -->
+  <Stab.deathMessage>{0} โดนแทงตาย</Stab.deathMessage>
+  
+  <!-- EN: toxic bite -->
+  <ToxicBite.label>กัดเป็นพิษ</ToxicBite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <ToxicBite.deathMessage>{0} โดนกัดตาย</ToxicBite.deathMessage>
+  
+</LanguageData>

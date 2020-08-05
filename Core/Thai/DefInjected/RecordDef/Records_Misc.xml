@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animals slaughtered -->
+  <AnimalsSlaughtered.label>สัตว์ที่ฆ่า</AnimalsSlaughtered.label>
+  <!-- EN: The number of animals I have slaughtered. -->
+  <AnimalsSlaughtered.description>จำนวนสัตว์ที่ฉันได้ฆ่าไป</AnimalsSlaughtered.description>
+  
+  <!-- EN: animals tamed -->
+  <AnimalsTamed.label>สัตว์ที่ทำให้เชื่อง</AnimalsTamed.label>
+  <!-- EN: The number of animals I have tamed. -->
+  <AnimalsTamed.description>จำนวนสัตว์ที่ฉันทำให้เชื่อง</AnimalsTamed.description>
+  
+  <!-- EN: artifacts activated -->
+  <ArtifactsActivated.label>วัตถุโบราณเปิดใช้</ArtifactsActivated.label>
+  <!-- EN: The number of artifacts I have activated. -->
+  <ArtifactsActivated.description>จำนวนวัตถุโบราณที่ฉันเปิดใช้</ArtifactsActivated.description>
+  
+  <!-- EN: bodies stripped -->
+  <BodiesStripped.label>ศพที่แก้ผ้า</BodiesStripped.label>
+  <!-- EN: The number of bodies I have stripped. -->
+  <BodiesStripped.description>จำนวนศพที่ฉันได้แก้ผ้า</BodiesStripped.description>
+  
+  <!-- EN: cells mined -->
+  <CellsMined.label>ช่องที่ถูกขุด</CellsMined.label>
+  <!-- EN: The number of cells I have mined out. -->
+  <CellsMined.description>จำนวนช่องที่ฉันได้ขุดออกมา</CellsMined.description>
+  
+  <!-- EN: containers opened -->
+  <ContainersOpened.label>ภาชนะที่เปิด</ContainersOpened.label>
+  <!-- EN: The number of containers I have opened. -->
+  <ContainersOpened.description>จำนวนภาชนะที่ฉันได้เปิด</ContainersOpened.description>
+  
+  <!-- EN: corpses buried -->
+  <CorpsesBuried.label>ศพที่ฝัง</CorpsesBuried.label>
+  <!-- EN: The number of corpses I have buried. -->
+  <CorpsesBuried.description>จำนวนศพที่ฉันได้ฝัง</CorpsesBuried.description>
+  
+  <!-- EN: damage dealt -->
+  <DamageDealt.label>ความเสียหายที่สร้าง</DamageDealt.label>
+  <!-- EN: The amount of damage I have dealt. -->
+  <DamageDealt.description>ปริมาณความเสียหายที่ฉันสร้าง</DamageDealt.description>
+  
+  <!-- EN: damage taken -->
+  <DamageTaken.label>ความเสียหายที่ได้รับ</DamageTaken.label>
+  <!-- EN: The amount of damage I have taken. -->
+  <DamageTaken.description>ปริมาณความเสียหายที่ฉันได้รับ</DamageTaken.description>
+  
+  <!-- EN: fires extinguished -->
+  <FiresExtinguished.label>ไฟที่ดับ</FiresExtinguished.label>
+  <!-- EN: The number of fires I have extinguished. -->
+  <FiresExtinguished.description>จำนวนครั้งที่ฉันได้ดับไฟ</FiresExtinguished.description>
+  
+  <!-- EN: headshots -->
+  <Headshots.label>ยิงหัว</Headshots.label>
+  <!-- EN: The number of headshots I have made. -->
+  <Headshots.description>จำนวนครั้งที่ฉันยิงโดนหัว</Headshots.description>
+  
+  <!-- EN: kills -->
+  <Kills.label>ฆ่า</Kills.label>
+  <!-- EN: The number of creatures I have killed. -->
+  <Kills.description>จำนวนสิ่งมีชีวิตที่ฉันฆ่าไป</Kills.description>
+  
+  <!-- EN: kills (animals) -->
+  <KillsAnimals.label>ฆ่า (สัตว์)</KillsAnimals.label>
+  <!-- EN: The number of animals I have killed. -->
+  <KillsAnimals.description>จำนวนสัตว์ที่ฉันฆ่าไป</KillsAnimals.description>
+  
+  <!-- EN: kills (humanlikes) -->
+  <KillsHumanlikes.label>ฆ่า (มนุษย์)</KillsHumanlikes.label>
+  <!-- EN: The number of humanlike characters I have killed. -->
+  <KillsHumanlikes.description>จำนวนมนุษย์ที่ฉันได้ฆ่าไป</KillsHumanlikes.description>
+  
+  <!-- EN: kills (mechanoids) -->
+  <KillsMechanoids.label>ฆ่า (รังเมคานอยด์)</KillsMechanoids.label>
+  <!-- EN: The number of mechanoids I have killed. -->
+  <KillsMechanoids.description>จำนวนเมคานอยด์ที่ฉันได้ฆ่าไป</KillsMechanoids.description>
+  
+  <!-- EN: meals cooked -->
+  <MealsCooked.label>ปรุงอาหาร</MealsCooked.label>
+  <!-- EN: The number of meals I have cooked. -->
+  <MealsCooked.description>จำนวนมื้ออาหารที่ฉันได้ทำไป</MealsCooked.description>
+  
+  <!-- EN: messes cleaned -->
+  <MessesCleaned.label>ทำความสะอาด</MessesCleaned.label>
+  <!-- EN: The number of messes I have cleaned up. -->
+  <MessesCleaned.description>จำนวนสิ่งสกปรกที่ฉันทำความสะอาด</MessesCleaned.description>
+  
+  <!-- EN: nutrition eaten -->
+  <NutritionEaten.label>สารอาหารที่ได้รับ</NutritionEaten.label>
+  <!-- EN: The amount of nutrition I have eaten. -->
+  <NutritionEaten.description>ปริมาณสารอาหารที่ฉันได้รับ</NutritionEaten.description>
+  
+  <!-- EN: operations performed -->
+  <OperationsPerformed.label>ดำเนินการที่ทำ</OperationsPerformed.label>
+  <!-- EN: How many medical operations I have performed. -->
+  <OperationsPerformed.description>กี่ครั้งที่ฉันได้ดำเนินการทางแพทย์</OperationsPerformed.description>
+  
+  <!-- EN: operations received -->
+  <OperationsReceived.label>ดำเนินการที่ได้รับ</OperationsReceived.label>
+  <!-- EN: How many times I have been medically operated on. -->
+  <OperationsReceived.description>กี่ครั้งที่ฉันโดนแพทย์ดำเนินการ</OperationsReceived.description>
+  
+  <!-- EN: enemies downed -->
+  <PawnsDowned.label>ศัตรูหมดสภาพ</PawnsDowned.label>
+  <!-- EN: The number of creatures I have downed. -->
+  <PawnsDowned.description>จำนวนสิ่งมีชีวิตที่ฉันจัดการล้มจนหมดสภาพ</PawnsDowned.description>
+  
+  <!-- EN: enemies downed (animals) -->
+  <PawnsDownedAnimals.label>ศัตรูหมดสภาพ (สัตว์)</PawnsDownedAnimals.label>
+  <!-- EN: The number of animals I have downed, whether hunting or in combat. -->
+  <PawnsDownedAnimals.description>จำนวนสัตว์ที่ฉันจัดการล้มจนหมดสภาพ ไม่ว่าในการล่า หรือการต่อสู้</PawnsDownedAnimals.description>
+  
+  <!-- EN: enemies downed (humanlikes) -->
+  <PawnsDownedHumanlikes.label>ศัตรูหมดสภาพ (มนุษย์)</PawnsDownedHumanlikes.label>
+  <!-- EN: The number of humanlike creatures I have downed. -->
+  <PawnsDownedHumanlikes.description>จำนวนสิ่งมีชีวิตเหมือนมนุษย์ ที่ฉันจัดการล้มจนหมดสภาพ</PawnsDownedHumanlikes.description>
+  
+  <!-- EN: enemies downed (mechanoids) -->
+  <PawnsDownedMechanoids.label>ศัตรูหมดสภาพ (เมคานอยด์)</PawnsDownedMechanoids.label>
+  <!-- EN: The number of mechanoids I have downed. -->
+  <PawnsDownedMechanoids.description>จำนวนเมคานอยด์ ที่ฉันจัดการล้มจนหมดสภาพ</PawnsDownedMechanoids.description>
+  
+  <!-- EN: people captured -->
+  <PeopleCaptured.label>จับกุมคน</PeopleCaptured.label>
+  <!-- EN: The number of people I have captured. -->
+  <PeopleCaptured.description>จำนวนคนที่ฉันได้จับตัวไว้</PeopleCaptured.description>
+  
+  <!-- EN: plants harvested -->
+  <PlantsHarvested.label>พืชที่เก็บเกี่ยว</PlantsHarvested.label>
+  <!-- EN: The number of plants I have harvested. -->
+  <PlantsHarvested.description>จำนวนพืชที่ฉันได้เก็บเกี่ยว</PlantsHarvested.description>
+  
+  <!-- EN: plants sown -->
+  <PlantsSown.label>พืชที่ปลูก</PlantsSown.label>
+  <!-- EN: The number of plants I have sown. -->
+  <PlantsSown.description>จำนวนพืชที่ฉันได้ปลูก</PlantsSown.description>
+  
+  <!-- EN: prisoners chatted -->
+  <PrisonersChatted.label>นักโทษที่คุย</PrisonersChatted.label>
+  <!-- EN: How many times I have chatted with prisoners. -->
+  <PrisonersChatted.description>กี่ครั้งที่ฉันคุยกับนักโทษ</PrisonersChatted.description>
+  
+  <!-- EN: prisoners recruited -->
+  <PrisonersRecruited.label>นักโทษที่ชักชวน</PrisonersRecruited.label>
+  <!-- EN: The number of prisoners I have recruited. -->
+  <PrisonersRecruited.description>จำนวนนักโทษที่ฉันชักชวนสำเร็จ</PrisonersRecruited.description>
+  
+  <!-- EN: research points researched -->
+  <ResearchPointsResearched.label>แต้มวิจัยที่ค้นคว้า</ResearchPointsResearched.label>
+  <!-- EN: The number of research points I have researched. -->
+  <ResearchPointsResearched.description>จำนวนแต้มวิจัยที่ฉันได้ค้นคว้าไป</ResearchPointsResearched.description>
+  
+  <!-- EN: shots fired -->
+  <ShotsFired.label>ยิง</ShotsFired.label>
+  <!-- EN: The number of shots I have fired. -->
+  <ShotsFired.description>จำนวนที่ฉันได้ยิงอาวุธออกไป</ShotsFired.description>
+  
+  <!-- EN: switches flicked -->
+  <SwitchesFlicked.label>สับสวิทช์</SwitchesFlicked.label>
+  <!-- EN: The number of switches I have flicked. -->
+  <SwitchesFlicked.description>จำนวนสวิตช์ที่ฉันสลับ</SwitchesFlicked.description>
+  
+  <!-- EN: things constructed -->
+  <ThingsConstructed.label>สิ่งที่สร้าง</ThingsConstructed.label>
+  <!-- EN: The number of things I have constructed. -->
+  <ThingsConstructed.description>จำนวนสิ่งของที่ฉันสร้าง</ThingsConstructed.description>
+  
+  <!-- EN: things crafted -->
+  <ThingsCrafted.label>สิ่งที่สร้างสรรค์</ThingsCrafted.label>
+  <!-- EN: The number of things I have crafted. -->
+  <ThingsCrafted.description>จำนวนสิ่งของที่ฉันสร้างสรรค์</ThingsCrafted.description>
+  
+  <!-- EN: things deconstructed -->
+  <ThingsDeconstructed.label>สิ่งที่รื้อ</ThingsDeconstructed.label>
+  <!-- EN: The number of things I have deconstructed. -->
+  <ThingsDeconstructed.description>จำนวนสิ่งของที่ฉันรื้อ</ThingsDeconstructed.description>
+  
+  <!-- EN: things hauled -->
+  <ThingsHauled.label>สิ่งที่ขน</ThingsHauled.label>
+  <!-- EN: The number of things I have hauled. -->
+  <ThingsHauled.description>จำนวนสิ่งของที่ฉันขน</ThingsHauled.description>
+  
+  <!-- EN: things installed -->
+  <ThingsInstalled.label>สิ่งที่ได้ติดตั้ง</ThingsInstalled.label>
+  <!-- EN: The number of things I have installed. -->
+  <ThingsInstalled.description>จำนวนสิ่งของที่ฉันติดตั้ง</ThingsInstalled.description>
+  
+  <!-- EN: things repaired -->
+  <ThingsRepaired.label>สิ่งที่ซ่อมแซม</ThingsRepaired.label>
+  <!-- EN: The number of things I have repaired. -->
+  <ThingsRepaired.description>จำนวนสิ่งของที่ฉันซ่อมแซม</ThingsRepaired.description>
+  
+  <!-- EN: things uninstalled -->
+  <ThingsUninstalled.label>สิ่งที่ถอนติดตั้ง</ThingsUninstalled.label>
+  <!-- EN: The number of things I have uninstalled. -->
+  <ThingsUninstalled.description>จำนวนสิ่งของที่ฉันถอนติดตั้ง</ThingsUninstalled.description>
+  
+  <!-- EN: times in mental state -->
+  <TimesInMentalState.label>ใต้สภาพจิต</TimesInMentalState.label>
+  <!-- EN: How many times I have suffered a mental break. -->
+  <TimesInMentalState.description>กี่ครั้งที่ฉันเป็นทุขจากสภาพจิตใจ</TimesInMentalState.description>
+  
+  <!-- EN: times on fire -->
+  <TimesOnFire.label>โดนไฟไหม้</TimesOnFire.label>
+  <!-- EN: How many times I have been on fire. -->
+  <TimesOnFire.description>กี่ครั้งที่ฉันโดนไฟไหม้</TimesOnFire.description>
+  
+  <!-- EN: tends given -->
+  <TimesTendedOther.label>การรักษาที่ทำ</TimesTendedOther.label>
+  <!-- EN: How many times I have tended to others' medical conditions. -->
+  <TimesTendedOther.description>กี่ครั้งที่ฉันดูแลรักษา อาการทางแพทย์ของผู้อื่น</TimesTendedOther.description>
+  
+  <!-- EN: tends received -->
+  <TimesTendedTo.label>การรักษาที่ได้รับ</TimesTendedTo.label>
+  <!-- EN: How many times I have had my medical conditions tended. -->
+  <TimesTendedTo.description>กี่ครั้งที่ฉันได้รับรักษาทางแพทย์</TimesTendedTo.description>
+  
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: brain -->
+  <Brain.label>สมอง</Brain.label>
+  
+  <!-- EN: ear -->
+  <Ear.label>หู</Ear.label>
+  
+  <!-- EN: eye -->
+  <Eye.label>ตา</Eye.label>
+  
+  <!-- EN: foot -->
+  <Foot.label>เท้า</Foot.label>
+  
+  <!-- EN: head -->
+  <Head.label>หัว</Head.label>
+  
+  <!-- EN: jaw -->
+  <Jaw.label>กราม</Jaw.label>
+  
+  <!-- EN: leg -->
+  <Leg.label>ขา</Leg.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>คอ</Neck.label>
+  
+  <!-- EN: nose -->
+  <Nose.label>จมูก</Nose.label>
+  
+  <!-- EN: ribcage -->
+  <Ribcage.label>ซี่โครง</Ribcage.label>
+  
+  <!-- EN: skull -->
+  <Skull.label>กะโหลก</Skull.label>
+  
+  <!-- EN: spine -->
+  <Spine.label>สันหลัง</Spine.label>
+  
+</LanguageData>

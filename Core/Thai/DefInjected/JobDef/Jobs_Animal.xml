@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: laying egg. -->
+  <LayEgg.reportString>กำลังวางไข่</LayEgg.reportString>
+  
+  <!-- EN: maintaining TargetA. -->
+  <Maintain.reportString>กำลังบำรุงรักษา TargetA.</Maintain.reportString>
+  
+  <!-- EN: mating with TargetA. -->
+  <Mate.reportString>กำลังผสมพันธุ์กับ TargetA</Mate.reportString>
+  
+  <!-- EN: nuzzling TargetA. -->
+  <Nuzzle.reportString>กำลังเคล้าเคลีย TargetA</Nuzzle.reportString>
+  
+  <!-- EN: hunting TargetA. -->
+  <PredatorHunt.reportString>กำลังล่า TargetA</PredatorHunt.reportString>
+  
+</LanguageData>

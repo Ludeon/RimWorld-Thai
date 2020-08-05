@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tropical rainforest -->
+  <TropicalRainforest.label>ป่าดิบชื้น</TropicalRainforest.label>
+  <!-- EN: A thick, moist jungle, buzzing with animal life and infested with disease. Despite its visual beauty, this is a very dangerous biome. Choking overgrowth, aggressive animals, and constant sickness are why some explorers call this the "green hell". -->
+  <TropicalRainforest.description>ป่าทึบดงหนาดิบชื้นที่เต็มไปด้วยสิงห์สาราสัตว์และเชื้อโรค ถึงทัศนียภาพจะดูงดงาม ชีวนิเวศนี้อันตรายมาก ทั้งพืชคลุมที่กระจุกแน่น สัตว์ที่ดุร้าย และความเจ็บป่วยที่ต่อเนื่อง ต่างเป็นเหตุผลที่ทำให้นักสำรวจบางคนเรียกที่แบบนี้ว่า "นรกเขียว"</TropicalRainforest.description>
+  
+  <!-- EN: tropical swamp -->
+  <TropicalSwamp.label>บึงเขตร้อน</TropicalSwamp.label>
+  <!-- EN: A plant-choked, steamy swamp seething with parasites and pathogens. Much of the land is too marshy to build on. Difficult movement, aggressive animals, and rampant disease make living here a nightmare. -->
+  <TropicalSwamp.description>บึงที่กระจุกไปด้วยพืช กับไอน้ำที่เต็มไปด้วยปรสิตและจุลชีพก่อโรค พื้นที่ส่วนใหญ่เป็นหนองน้ำมากเกินว่าที่จะก่อสร้างทับไปได้ การเคลื่อนไหวที่ยากลำบาก สัตว์ที่ดุร้าย และเชื้อโรคที่รุกลาม ทำให้การอาศัยอยู่ที่นี่เหมือนฝันร้าย</TropicalSwamp.description>
+  
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: clear -->
+  <Clear.label>ฟ้าใส</Clear.label>
+  <!-- EN: A clear day. No penalties or modifiers. -->
+  <Clear.description>วันฟ้าใส ไม่มีข้อเสียหรือเปลื่ยนแปลงใดๆ</Clear.description>
+  
+  <!-- EN: dry thunderstorm -->
+  <DryThunderstorm.label>พายุฟ้าคะนอง</DryThunderstorm.label>
+  <!-- EN: Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out. -->
+  <DryThunderstorm.description>พายุฟ้าคะนองนั้นอันตราย เนื่องจากฟ้าผ่าสามารถทำให้เกิดเพลิงไหม้ แต่ไม่มีฝนมาช่วยดับไฟลง</DryThunderstorm.description>
+  
+  <!-- EN: fog -->
+  <Fog.label>หมอกลง</Fog.label>
+  <!-- EN: Fog reduces the accuracy of ranged weapons. -->
+  <Fog.description>หมอกลดความแม่นยำของอาวุธยิงลง</Fog.description>
+  
+  <!-- EN: foggy rain -->
+  <FoggyRain.label>ฝนหมอก</FoggyRain.label>
+  <!-- EN: Reduces accuracy and movement speed. -->
+  <FoggyRain.description>ลดความเร็วและแม่นยำในการเคลื่อนที่</FoggyRain.description>
+  
+  <!-- EN: rain -->
+  <Rain.label>ฝนตก</Rain.label>
+  <!-- EN: Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <Rain.description>ฝนลดความแม่นยำของอาวุธยิงลง ช่วยดับเพลิงไหม้ และทำให้คนช้าลง</Rain.description>
+  
+  <!-- EN: rainy thunderstorm -->
+  <RainyThunderstorm.label>พายุฝนฟ้าคะนอง</RainyThunderstorm.label>
+  <!-- EN: The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy. -->
+  <RainyThunderstorm.description>ฟ้าผ่าจะทำให้เกิดเพลิงไหม้ แต่ฝนที่ตกจะดับไฟลง ฝนยังไปลดความเร็วและแม่นยำในการยิงลงด้วย</RainyThunderstorm.description>
+  
+  <!-- EN: gentle snow -->
+  <SnowGentle.label>หิมะตกเบาๆ</SnowGentle.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowGentle.description>หิมะลดความแม่นยำของอาวุธยิงลง ช่วยดับเพลิงไหม้ และทำให้คนช้าลง</SnowGentle.description>
+  
+  <!-- EN: hard snow -->
+  <SnowHard.label>หิมะตกหนัก</SnowHard.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowHard.description>หิมะลดความแม่นยำของอาวุธยิงลง ช่วยดับเพลิงไหม้ และทำให้คนช้าลง</SnowHard.description>
+  
+</LanguageData>

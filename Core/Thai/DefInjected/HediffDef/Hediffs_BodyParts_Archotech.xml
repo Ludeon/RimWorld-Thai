@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archotech arm -->
+  <ArchotechArm.label>แขนอาร์คอเทค</ArchotechArm.label>
+  <!-- EN: An installed archotech arm. -->
+  <ArchotechArm.description>แขนอาร์คอเทคที่ติดตั้งไว้</ArchotechArm.description>
+  <!-- EN: fist -->
+  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>หมัด</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: an archotech arm -->
+  <ArchotechArm.labelNoun>แขนอาร์คอเทค</ArchotechArm.labelNoun>
+  
+  <!-- EN: archotech eye -->
+  <ArchotechEye.label>ตาอาร์คอเทค</ArchotechEye.label>
+  <!-- EN: An installed archotech eye. -->
+  <ArchotechEye.description>ตาอาร์คอเทคที่ติดตั้งไว้</ArchotechEye.description>
+  <!-- EN: an archotech eye -->
+  <ArchotechEye.labelNoun>ตาอาร์คอเทค</ArchotechEye.labelNoun>
+  
+  <!-- EN: archotech leg -->
+  <ArchotechLeg.label>ขาอาร์คอเทค</ArchotechLeg.label>
+  <!-- EN: An installed archotech leg. -->
+  <ArchotechLeg.description>ขาอาร์คอเทคที่ติดตั้งไว้</ArchotechLeg.description>
+  <!-- EN: an archotech leg -->
+  <ArchotechLeg.labelNoun>ขาอาร์คอเทค</ArchotechLeg.labelNoun>
+  
+</LanguageData>

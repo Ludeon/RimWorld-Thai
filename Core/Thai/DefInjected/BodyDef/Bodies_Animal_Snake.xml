@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: snake -->
+  <Snake.label>งู</Snake.label>
+  <!-- EN: left lung -->
+  <Snake.corePart.parts.left_lung.customLabel>ปอดซ้าย</Snake.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Snake.corePart.parts.right_lung.customLabel>ปอดขวา</Snake.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Snake.corePart.parts.left_kidney.customLabel>ไตซ้าย</Snake.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Snake.corePart.parts.right_kidney.customLabel>ไตขวา</Snake.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Snake.corePart.parts.SnakeHead.parts.left_eye.customLabel>ตาซ้าย</Snake.corePart.parts.SnakeHead.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Snake.corePart.parts.SnakeHead.parts.right_eye.customLabel>ตาขวา</Snake.corePart.parts.SnakeHead.parts.right_eye.customLabel>
+  
+</LanguageData>

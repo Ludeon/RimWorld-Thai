@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: extremely low -->
+  <ExtremelyLow.label>ต่ำสุด ๆ</ExtremelyLow.label>
+  
+  <!-- EN: high -->
+  <High.label>สูง</High.label>
+  
+  <!-- EN: low -->
+  <Low.label>ต่ำ</Low.label>
+  
+  <!-- EN: moderate -->
+  <Moderate.label>พอสมควร</Moderate.label>
+  
+  <!-- EN: noble -->
+  <Noble.label>ขุนนาง</Noble.label>
+  
+  <!-- EN: royal -->
+  <Royal.label>ราชวงศ์</Royal.label>
+  
+  <!-- EN: sky high -->
+  <SkyHigh.label>สูงลิบลิ่ว</SkyHigh.label>
+  
+  <!-- EN: very low -->
+  <VeryLow.label>ต่ำมาก</VeryLow.label>
+  
+</LanguageData>

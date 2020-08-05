@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boomalope -->
+  <Boomalope.label>บูมมาลูบ</Boomalope.label>
+  <!-- EN: Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
+  <Boomalope.description>ถูกตัดต่อพันธุกรรมเพื่อใช้ในงานผลิตสารเคมี บูมมาลูบมีถุงเก็บสารระเหยทางเคมีบนหลังของมัน ถึงอ่อนแอและบอบบางสำหรับขนาดตัวเช่นนี้ แต่สัตว์อื่นๆเรียนรู้จะหลีกเลี่ยงพวกมัน เนื่องจากการระเบิดขนาดใหญ่เมื่อมันตาย, สามารถรีดนมของมันไปใช้ผลิตเชื้อเพลิงเคมีได้ - โปรดระมัดระวัง</Boomalope.description>
+  <!-- EN: head -->
+  <Boomalope.tools.head.label>หัว</Boomalope.tools.head.label>
+  <!-- EN: left hoof -->
+  <Boomalope.tools.left_hoof.label>กีบซ้าย</Boomalope.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Boomalope.tools.right_hoof.label>กีบขวา</Boomalope.tools.right_hoof.label>
+  
+  <!-- EN: cobra -->
+  <Cobra.label>งูเห่า</Cobra.label>
+  <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
+  <Cobra.description>งูผู้ล่าขนาดใหญ่ งูเห่าอาจจู่โจมก้าวร้าวหากถูกรบกวน เขี้ยวของมันฉีดพิษเข้าในตัวเหยื่อเมื่อกัด</Cobra.description>
+  <!-- EN: cobra meat -->
+  <Cobra.race.meatLabel>เนื้องูเห่า</Cobra.race.meatLabel>
+  <!-- EN: venom-fangs -->
+  <Cobra.tools.venomfangs.label>เขี้ยวพิษ</Cobra.tools.venomfangs.label>
+  <!-- EN: head -->
+  <Cobra.tools.head.label>หัว</Cobra.tools.head.label>
+  
+  <!-- EN: monkey -->
+  <Monkey.label>ลิง</Monkey.label>
+  <!-- EN: A small primate, the monkey can use its curly tail to grab on to branches, leaving its hands free to do other things. Monkeys are selfish but clever, and can be trained to carry out fairly complex tasks. -->
+  <Monkey.description>สัตว์เลี้ยงลูกด้วยนมขนาดเล็ก มันสามารถใช้หางม้วนๆของมันเพื่อจับกิ่งไม้ ปล่อยมือให้เป็นอิสระเพื่อใช้ทำสิ่งอื่นได้, ลิงนั้นเห็นแก่ตัว แต่ฉลาดเฉลียว สามารถฝึกให้ทำงานที่มีความซับซ้อนพอสมควรได้</Monkey.description>
+  <!-- EN: left fist -->
+  <Monkey.tools.left_fist.label>หมัดซ้าย</Monkey.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <Monkey.tools.right_fist.label>หมัดขวา</Monkey.tools.right_fist.label>
+  <!-- EN: head -->
+  <Monkey.tools.head.label>หัว</Monkey.tools.head.label>
+  
+</LanguageData>
