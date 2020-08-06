@@ -2,31 +2,31 @@
 <LanguageData>
   
   <!-- EN: smokeleaf dependence -->
-  <SmokeleafAddiction.label>พึ่งพา Smokeleaf</SmokeleafAddiction.label>
+  <SmokeleafAddiction.label>ติดสโมคลีฟ</SmokeleafAddiction.label>
   <!-- EN: A chemical addiction to smokeleaf. Long-term use of smokeleaf has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of smokeleaf, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <SmokeleafAddiction.description>TODO</SmokeleafAddiction.description>
+  <SmokeleafAddiction.description>การติดสารเคมีสโมคลีฟ การใช้สโมคลีฟอยู่ระยะยาวได้ทำให้เกิดการปรับตัวทางระบบประสาทในระดับเซลล์ สมองจึงไม่สามารถทำงานได้อย่างถูกต้องเมื่อไม่มีสารตัวนั้นแล้ว \n\nหากไม่ได้สโมคลีฟอย่างต่อเนื่อง อาการลงแดงก็จะเริ่มขึ้น อย่างไรก็ตาม การละเว้นที่ยืดยาวจะบังคับให้สมองปรับตัวกลับไปสภาพเดิม แล้วจัดการกับปัญหาติดสารตัวนั้นไป</SmokeleafAddiction.description>
   <!-- EN: withdrawal -->
   <SmokeleafAddiction.stages.withdrawal.label>ลงแดง</SmokeleafAddiction.stages.withdrawal.label>
   
   <!-- EN: stoned on smokeleaf -->
-  <SmokeleafHigh.label>เมา Smokeleaf</SmokeleafHigh.label>
+  <SmokeleafHigh.label>เมาสโมคลีฟ</SmokeleafHigh.label>
   <!-- EN: Smokeleaf's active chemical in the bloodstream. Generates a soft feeling of fuzzy well-being. -->
-  <SmokeleafHigh.description>TODO</SmokeleafHigh.description>
+  <SmokeleafHigh.description>สารเคมีของสโมคลีฟออกฤทธิ์อยู่ในกระแสเลือด ทำให้ตัวรู้สึกเลือน ๆ อ่อน ๆ</SmokeleafHigh.description>
   <!-- EN: a smokeleaf high -->
-  <SmokeleafHigh.labelNoun>เมา Smokeleaf</SmokeleafHigh.labelNoun>
+  <SmokeleafHigh.labelNoun>การเมาสโมคลีฟ</SmokeleafHigh.labelNoun>
   
   <!-- EN: smokeleaf tolerance -->
-  <SmokeleafTolerance.label>ดื้อยา Smokeleaf</SmokeleafTolerance.label>
+  <SmokeleafTolerance.label>ดื้อสโมคลีฟ</SmokeleafTolerance.label>
   <!-- EN: A built-up tolerance to smokeleaf. The more severe this tolerance is, the more smokeleaf it takes to get the same effect. -->
-  <SmokeleafTolerance.description>TODO</SmokeleafTolerance.description>
+  <SmokeleafTolerance.description>อาการดื้อสโมคลีฟที่สั่งสมมา ยิ่งอาการดื้อนี้รุนแรงเท่าไหร่ ก็ต้องยิ่งใช้สโมคลีฟมากขึ้นเพื่อให้ได้ผลลัพธ์เดิม</SmokeleafTolerance.description>
   <!-- EN: small -->
-  <SmokeleafTolerance.stages.small.label>เล็กน้อย</SmokeleafTolerance.stages.small.label>
+  <SmokeleafTolerance.stages.small.label>เล็ก</SmokeleafTolerance.stages.small.label>
   <!-- EN: large -->
   <SmokeleafTolerance.stages.large.label>มาก</SmokeleafTolerance.stages.large.label>
   <!-- EN: massive -->
-  <SmokeleafTolerance.stages.massive.label>รุนแรง</SmokeleafTolerance.stages.massive.label>
+  <SmokeleafTolerance.stages.massive.label>หนัก</SmokeleafTolerance.stages.massive.label>
   
   <!-- UNUSED -->
-  <SmokeleafTolerance.stages.small-1.label>ต่ำ</SmokeleafTolerance.stages.small-1.label>
+  <SmokeleafTolerance.stages.small-1.label>ไม่ใช้แล้ว</SmokeleafTolerance.stages.small-1.label>
   
 </LanguageData>

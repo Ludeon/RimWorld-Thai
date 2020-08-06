@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: dirt -->
-  <DirtInEyes.label>ดินเข้าตา</DirtInEyes.label>
+  <DirtInEyes.label>ดิน</DirtInEyes.label>
   <!-- EN: Dirt in the eyes. It impairs vision, but can be cleared in a few moments. -->
-  <DirtInEyes.description>TODO</DirtInEyes.description>
+  <DirtInEyes.description>ดินเข้าตา ทำให้การมองเห็นแย่ลง แต่อีกครู่เดียวก็หายแล้ว</DirtInEyes.description>
   <!-- EN: dirt -->
-  <DirtInEyes.labelNoun>ดินเข้าตา</DirtInEyes.labelNoun>
+  <DirtInEyes.labelNoun>ดิน</DirtInEyes.labelNoun>
   
   <!-- EN: gravel -->
-  <GravelInEyes.label>กรวดเข้าตา</GravelInEyes.label>
+  <GravelInEyes.label>กรวด</GravelInEyes.label>
   <!-- EN: Gravel in the eyes. It impairs vision, but can be cleared in a few moments. -->
-  <GravelInEyes.description>TODO</GravelInEyes.description>
+  <GravelInEyes.description>กรวดเข้าตา ทำให้การมองเห็นแย่ลง แต่อีกครู่เดียวก็หายแล้ว</GravelInEyes.description>
   <!-- EN: gravel -->
-  <GravelInEyes.labelNoun>กรวดเข้าตา</GravelInEyes.labelNoun>
+  <GravelInEyes.labelNoun>กรวด</GravelInEyes.labelNoun>
   
   <!-- EN: mud -->
-  <MudInEyes.label>โคลนเข้าตา</MudInEyes.label>
+  <MudInEyes.label>โคลน</MudInEyes.label>
   <!-- EN: Mud in the eyes. It impairs vision, but can be cleared in a few moments. -->
-  <MudInEyes.description>TODO</MudInEyes.description>
+  <MudInEyes.description>โคลนเข้าตา ทำให้การมองเห็นแย่ลง แต่อีกครู่เดียวก็หายแล้ว</MudInEyes.description>
   <!-- EN: mud -->
-  <MudInEyes.labelNoun>โคลนเข้าตา</MudInEyes.labelNoun>
+  <MudInEyes.labelNoun>โคลน</MudInEyes.labelNoun>
   
   <!-- EN: sand -->
-  <SandInEyes.label>ทรายเข้าตา</SandInEyes.label>
+  <SandInEyes.label>ทราย</SandInEyes.label>
   <!-- EN: Sand in the eyes. It impairs vision, but can be cleared within a few moments. -->
-  <SandInEyes.description>TODO</SandInEyes.description>
+  <SandInEyes.description>ทรายเข้าตา ทำให้การมองเห็นแย่ลง แต่อีกครู่เดียวก็หายแล้ว</SandInEyes.description>
   <!-- EN: sand -->
-  <SandInEyes.labelNoun>ทรายเข้าตา</SandInEyes.labelNoun>
+  <SandInEyes.labelNoun>ทราย</SandInEyes.labelNoun>
   
   <!-- EN: water -->
-  <WaterInEyes.label>น้ำเข้าตา</WaterInEyes.label>
+  <WaterInEyes.label>น้ำ</WaterInEyes.label>
   <!-- EN: Water in the eyes. It impairs vision, but can be cleared in a few moments. -->
-  <WaterInEyes.description>TODO</WaterInEyes.description>
+  <WaterInEyes.description>น้ำเข้าตา ทำให้การมองเห็นแย่ลง แต่อีกครู่เดียวก็หายแล้ว</WaterInEyes.description>
   <!-- EN: water -->
-  <WaterInEyes.labelNoun>น้ำเข้าตา</WaterInEyes.labelNoun>
+  <WaterInEyes.labelNoun>น้ำ</WaterInEyes.labelNoun>
   
 </LanguageData>

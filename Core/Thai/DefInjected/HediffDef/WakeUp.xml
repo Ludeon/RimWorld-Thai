@@ -2,29 +2,29 @@
 <LanguageData>
   
   <!-- EN: wake-up addiction -->
-  <WakeUpAddiction.label>ติดยา wake-up</WakeUpAddiction.label>
+  <WakeUpAddiction.label>ติดเวคอัพ</WakeUpAddiction.label>
   <!-- EN: A chemical addiction to wake-up. Long-term presence of wake-up has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of wake-up, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <WakeUpAddiction.description>TODO</WakeUpAddiction.description>
+  <WakeUpAddiction.description>การติดสารเคมีเวคอัพ การมีเวคอัพอยู่ระยะยาวได้ทำให้เกิดการปรับตัวทางระบบประสาทในระดับเซลล์ สมองจึงไม่สามารถทำงานได้อย่างถูกต้องเมื่อไม่มีสารตัวนั้นแล้ว \n\nหากไม่ได้เวคอัพอย่างต่อเนื่อง อาการลงแดงก็จะเริ่มขึ้น อย่างไรก็ตาม การละเว้นที่ยืดยาวจะบังคับให้สมองปรับตัวกลับไปสภาพเดิม แล้วจัดการกับปัญหาติดสารตัวนั้นไป</WakeUpAddiction.description>
   <!-- EN: withdrawal -->
   <WakeUpAddiction.stages.withdrawal.label>ลงแดง</WakeUpAddiction.stages.withdrawal.label>
   
   <!-- EN: high on wake-up -->
-  <WakeUpHigh.label>เมา wake-up</WakeUpHigh.label>
+  <WakeUpHigh.label>เมาเวคอัพ</WakeUpHigh.label>
   <!-- EN: Wake-up in the bloodstream. It fills the need for rest by stimulating the brain, and increases focus, allowing faster work. It also increases the psyfocus gains from meditation. -->
-  <WakeUpHigh.description>TODO</WakeUpHigh.description>
+  <WakeUpHigh.description>เวคอัพในกระแสเลือด มันเพิ่มความต้องการพักผ่อนโดยการกระตุ้นสมอง และเพิ่มสมาธิ ทำให้ทำงานได้เร็วขึ้น มันเพิ่มจำนวนสมาธิจิตที่ได้จากการนั่งสมาธิอีกด้วย</WakeUpHigh.description>
   <!-- EN: a wake-up high -->
-  <WakeUpHigh.labelNoun>เมา wake-up</WakeUpHigh.labelNoun>
+  <WakeUpHigh.labelNoun>การเมาเวคอัพ</WakeUpHigh.labelNoun>
   
   <!-- EN: wake-up tolerance -->
-  <WakeUpTolerance.label>ดื้อยา wake-up</WakeUpTolerance.label>
+  <WakeUpTolerance.label>ดื้อเวคอัพ</WakeUpTolerance.label>
   <!-- EN: A built-up tolerance to wake-up. The more severe this tolerance is, the more wake-up it takes to get the same effect. -->
-  <WakeUpTolerance.description>TODO</WakeUpTolerance.description>
+  <WakeUpTolerance.description>อาการดื้อเวคอัพที่สั่งสมมา ยิ่งอาการดื้อนี้รุนแรงเท่าไหร่ ก็ต้องยิ่งใช้เวคอัพมากขึ้นเพื่อให้ได้ผลลัพธ์เดิม</WakeUpTolerance.description>
   <!-- EN: small -->
-  <WakeUpTolerance.stages.small.label>เล็กน้อย</WakeUpTolerance.stages.small.label>
+  <WakeUpTolerance.stages.small.label>น้อย</WakeUpTolerance.stages.small.label>
   <!-- EN: large -->
   <WakeUpTolerance.stages.large.label>มาก</WakeUpTolerance.stages.large.label>
   <!-- EN: massive -->
-  <WakeUpTolerance.stages.massive.label>รุนแรง</WakeUpTolerance.stages.massive.label>
+  <WakeUpTolerance.stages.massive.label>หนัก</WakeUpTolerance.stages.massive.label>
   
   <!-- UNUSED -->
   <WakeUpTolerance.stages.small-1.label>ต่ำ</WakeUpTolerance.stages.small-1.label>
