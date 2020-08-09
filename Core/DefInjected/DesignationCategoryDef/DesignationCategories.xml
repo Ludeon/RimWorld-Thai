@@ -8,13 +8,13 @@
   <Furniture.label>เฟอร์นิเจอร์</Furniture.label>
   
   <!-- EN: recreation -->
-  <Joy.label>นันทนาการ</Joy.label>
+  <Joy.label>ผ่อนคลาย</Joy.label>
   
   <!-- EN: misc -->
   <Misc.label>เบ็ดเตล็ด</Misc.label>
   
   <!-- EN: orders -->
-  <Orders.label>คำสั่ง</Orders.label>
+  <Orders.label>สั่งการ</Orders.label>
   
   <!-- EN: power -->
   <Power.label>พลังงาน</Power.label>
@@ -26,7 +26,7 @@
   <Security.label>ความปลอดภัย</Security.label>
   
   <!-- EN: ship -->
-  <Ship.label>ยานอวกาศ</Ship.label>
+  <Ship.label>ยาน</Ship.label>
   
   <!-- EN: structure -->
   <Structure.label>โครงสร้าง</Structure.label>

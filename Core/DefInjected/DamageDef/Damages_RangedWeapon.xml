@@ -4,21 +4,21 @@
   <!-- EN: arrow -->
   <Arrow.label>ลูกธนู</Arrow.label>
   <!-- EN: {0} has been shot to death by an arrow. -->
-  <Arrow.deathMessage>{0} โดนลูกธนูยิงตาย</Arrow.deathMessage>
+  <Arrow.deathMessage>{0} ถูกลูกธนูยิงจนตาย</Arrow.deathMessage>
   
   <!-- EN: arrow -->
-  <ArrowHighVelocity.label>ลูกธนู</ArrowHighVelocity.label>
+  <ArrowHighVelocity.label>ลูกธนูความเร็วสูง</ArrowHighVelocity.label>
   <!-- EN: {0} has been shot to death by an arrow. -->
-  <ArrowHighVelocity.deathMessage>{0} โดนลูกธนูยิงตาย</ArrowHighVelocity.deathMessage>
+  <ArrowHighVelocity.deathMessage>{0} ถูกลูกธนูยิงจนตาย</ArrowHighVelocity.deathMessage>
   
   <!-- EN: bullet -->
   <Bullet.label>กระสุน</Bullet.label>
   <!-- EN: {0} has been shot to death. -->
-  <Bullet.deathMessage>{0} โดนกระสุนยิงตาย</Bullet.deathMessage>
+  <Bullet.deathMessage>{0} ถูกยิงจนถึงแก่ความตาย</Bullet.deathMessage>
   
   <!-- EN: stab -->
-  <RangedStab.label>แทง</RangedStab.label>
+  <RangedStab.label>ถูกแทง</RangedStab.label>
   <!-- EN: {0} has been stabbed to death. -->
-  <RangedStab.deathMessage>{0} โดนแทงตาย</RangedStab.deathMessage>
+  <RangedStab.deathMessage>{0} ถูกแทงจนถึงแก่ความตาย</RangedStab.deathMessage>
   
 </LanguageData>

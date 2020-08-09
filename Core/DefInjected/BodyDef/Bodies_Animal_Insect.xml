@@ -29,7 +29,7 @@
   <BeetleLike.corePart.parts.rear_right_leg.customLabel>ขาหลังขวา</BeetleLike.corePart.parts.rear_right_leg.customLabel>
   
   <!-- EN: beetle-like with claw -->
-  <BeetleLikeWithClaw.label>คล้ายแมลงปีกแข็ง มีกรงเล็บ</BeetleLikeWithClaw.label>
+  <BeetleLikeWithClaw.label>คล้ายแมลงปีกแข็งมีกรงเล็บ</BeetleLikeWithClaw.label>
   <!-- EN: left elytra -->
   <BeetleLikeWithClaw.corePart.parts.left_elytra.customLabel>ปีกซ้าย</BeetleLikeWithClaw.corePart.parts.left_elytra.customLabel>
   <!-- EN: right elytra -->

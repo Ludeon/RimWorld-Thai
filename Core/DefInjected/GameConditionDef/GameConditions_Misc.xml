@@ -4,111 +4,111 @@
   <!-- EN: aurora -->
   <Aurora.label>ออโรรา</Aurora.label>
   <!-- EN: An aurora is lighting up the sky. The breathtaking display will boost the mood of anyone outside to see it. -->
-  <Aurora.description>ออโรราเปล่งแสงอยู่บนท้องฟ้า ปรากฏการอันน่าทึ่งนี้จะช่วยเสริมอารมณ์ให้กับใครก็ตามที่มาเห็นมันข้างนอก</Aurora.description>
+  <Aurora.description>แสงออโรราสาดส่องลงมาบนท้องฟ้า จากปรากฏการอันน่าทึ่ง ช่วยเพิ่มอารมณ์ของทุกคนที่อยู่ข้างนอกและมองไปเห็น</Aurora.description>
   <!-- EN: The aurora is ending. -->
-  <Aurora.endMessage>ออโรรากำลังจะสิ้นสุดลง</Aurora.endMessage>
+  <Aurora.endMessage>ออโรรากำลังจะหมดลง</Aurora.endMessage>
   <!-- EN: A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter. -->
-  <Aurora.letterText>ออโรราเปล่งแสงอยู่บนท้องฟ้า \n\nสีสันที่เป็นลูกคลื่นของมันจะช่วยเสริมอารมณ์ให้กับใครก็ตามที่มาเห็นมันข้างนอก และทำให้กลางคืนสว่างขึ้นด้วย</Aurora.letterText>
+  <Aurora.letterText>TODO</Aurora.letterText>
   
   <!-- EN: climate cycle -->
-  <ClimateCycle.label>วัฏจักรภูมิอากาศ</ClimateCycle.label>
+  <ClimateCycle.label>ภูมิอากาศแปรปรวน</ClimateCycle.label>
   <!-- EN: A multi-year climate cycle due to an elliptical orbit. -->
-  <ClimateCycle.description>วัฏจักรของภูมิอากาศเวลาหลายปี โดยเป็นผลกระทบจากวงโคจรแบบวงรี</ClimateCycle.description>
+  <ClimateCycle.description>วงจรภูมิอากาศใช้เวลาหลายปี ผลกระทบจากวงโคจรดาวเคราะห์</ClimateCycle.description>
   
   <!-- EN: cold snap -->
-  <ColdSnap.label>อากาศหนาวฉับพลัน</ColdSnap.label>
+  <ColdSnap.label>หนาววูบ</ColdSnap.label>
   <!-- EN: An unusual cold snap is freezing the region. -->
-  <ColdSnap.description>อากาศหนาวฉับพลันผิดปกติกำลังแช่แข็งทั้งภูมิภาค</ColdSnap.description>
+  <ColdSnap.description>อากาศหนาวฉับพลันอย่างผิดปกติไปทั้งภูมิภาค</ColdSnap.description>
   <!-- EN: a front of cold air will cool the area around [map_definite] for [gameConditionDuration_duration], harming crops and any person or animal without adequate protection -->
-  <ColdSnap.descriptionFuture>แนวอากาศเย็นจะทำให้พื้นที่รอบ ๆ [map_definite] เย็นลงเป็นเวลา [gameConditionDuration_duration] สร้างความเสียหายต่อพืชผล และคนหรือสัตว์ที่ไม่มีการคุ้มกันที่เพียงพอ</ColdSnap.descriptionFuture>
+  <ColdSnap.descriptionFuture>TODO</ColdSnap.descriptionFuture>
   <!-- EN: The cold snap is over. -->
-  <ColdSnap.endMessage>อากาศหนาวฉับพลันจบลงแล้ว</ColdSnap.endMessage>
+  <ColdSnap.endMessage>อากาศหนาวฉับพลันผ่านพ้นไป</ColdSnap.endMessage>
   <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
-  <ColdSnap.letterText>อากาศหนาวฉับพลันผิดปกติได้เข้ามาแล้ว \n\nอากาศหนาวฉับพลันทำให้เป็นภาวะตัวเย็นเกินจนตายได้อย่างรวดเร็ว สร้างพื้นที่อบอุ่นเพื่อเอาตัวรอด สวมใส่เสื้อผ้าที่เหมาะสม และพยายามเก็บเกี่ยวพืชผลก่อนที่พวกมันจะแข็งตาย</ColdSnap.letterText>
+  <ColdSnap.letterText>TODO</ColdSnap.letterText>
   
   <!-- EN: eclipse -->
-  <Eclipse.label>สุริยคราส</Eclipse.label>
+  <Eclipse.label>อุปราคา</Eclipse.label>
   <!-- EN: An eclipse is shadowing the surface. It will be dark, even during the daytime. -->
-  <Eclipse.description>สุริยคราสได้ทอดเงาลงบนพื้นดาว มันจะมืด แม้กระทั่งตอนกลางวัน</Eclipse.description>
+  <Eclipse.description>ดาวเคราะห์ทอดเงามาบังพื้นผิวโลก โลกจะมืดไปหมด แม้แต่ตอนกลางวัน</Eclipse.description>
   <!-- EN: The eclipse is ending. -->
-  <Eclipse.endMessage>สุริยคราสกำลังจะสิ้นสุดลง</Eclipse.endMessage>
+  <Eclipse.endMessage>อุปราคากำลังจะสิ้นสุดลง</Eclipse.endMessage>
   <!-- EN: One of the moons of this planet has orbited in front of the sun. An eclipse has begun. -->
-  <Eclipse.letterText>ดวงจันทร์ดวงหนึ่งของดาวดวงนี้ได้โคจรไปอยู่ข้างหน้าดวงอาทิตย์ สุริยคราสได้เริ่มขึ้นแล้ว</Eclipse.letterText>
+  <Eclipse.letterText>TODO</Eclipse.letterText>
   
   <!-- EN: flashstorm -->
-  <Flashstorm.label>พายุฟ้าคะนอง</Flashstorm.label>
+  <Flashstorm.label>พายุฉับพลัน</Flashstorm.label>
   <!-- EN: A freak localized storm is blasting a small area with repeated lightning strikes. -->
-  <Flashstorm.description>พายุรุนแรงจำกัดวงกำลังถล่มพื้นที่ขนาดเล็กด้วยฟ้าผ่าอย่างต่อเนื่อง</Flashstorm.description>
+  <Flashstorm.description>พายุประหลาดในวงจำกัด ถล่มพื้นที่เล็กๆด้วยฟ้าผ่าซ้ำแล้วซ้ำเล่า</Flashstorm.description>
   <!-- EN: The flashstorm is over. -->
-  <Flashstorm.endMessage>พายุฟ้าคะนองจบลงแล้ว</Flashstorm.endMessage>
+  <Flashstorm.endMessage>พายุฉับพลันผ่านพ้นไป</Flashstorm.endMessage>
   <!-- EN: A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
-  <Flashstorm.letterText>พายุฟ้าคะนองรุนแรงจำกัดวงกำลังถล่มพื้นที่ขนาดเล็กด้วยฟ้าผ่าอย่างต่อเนื่อง มันสามารถก่อไฟขนาดใหญ่ขึ้นมาได้</Flashstorm.letterText>
+  <Flashstorm.letterText>TODO</Flashstorm.letterText>
   
   <!-- EN: heat wave -->
   <HeatWave.label>คลื่นความร้อน</HeatWave.label>
   <!-- EN: An extreme wave of heat is baking the area. -->
-  <HeatWave.description>คลื่นความร้อนรุนแรงกำลังอบพื้นที่</HeatWave.description>
+  <HeatWave.description>คลื่นความร้อนรุนแรงกำลังแผดเผาพื้นที่</HeatWave.description>
   <!-- EN: a heat wave will bake the area around [map_definite] for [gameConditionDuration_duration], harming crops and possibly killing people or animals in uncooled areas -->
-  <HeatWave.descriptionFuture>คลื่นความร้อนจะอบพื้นที่รอบ ๆ [map_definite] เป็นเวลา [gameConditionDuration_duration] สร้างความเสียหายต่อพืชผล และอาจฆ่าคนหรือสัตว์ในพื้นที่ไม่เย็นได้</HeatWave.descriptionFuture>
+  <HeatWave.descriptionFuture>TODO</HeatWave.descriptionFuture>
   <!-- EN: The heat wave is over. -->
-  <HeatWave.endMessage>คลื่นความร้อนจบลงแล้ว</HeatWave.endMessage>
+  <HeatWave.endMessage>คลื่นความร้อนผ่านพ้นไป</HeatWave.endMessage>
   <!-- EN: An unusual heat wave has begun.\n\nHeat waves can induce deadly heatstroke. Stay cool by building either a passive or electric cooler, or by getting deep underground where the rocks are naturally cool. -->
-  <HeatWave.letterText>คลื่นความร้อนผิดปกติได้เริ่มขึ้นแล้ว \n\nคลื่นความร้อนจะทำให้เป็นโรคลมแดดซึ่งอันตราย ทำตัวให้เย็นอยู่ในอาคารโดยการสร้างเครื่องทำความเย็นแบบเฉื่อยหรือไม่ก็แบบไฟฟ้า หรือโดยการลงลึกไปยังใต้ดินกับหินที่เย็นอยู่แล้วโดยธรรมชาติ</HeatWave.letterText>
+  <HeatWave.letterText>TODO</HeatWave.letterText>
   
   <!-- EN: planetkiller -->
-  <Planetkiller.label>เครื่องฆ่าดาวเคราะห์</Planetkiller.label>
+  <Planetkiller.label>ทำลายดาวเคราะห์</Planetkiller.label>
   <!-- EN: An interstellar planetkiller weapon is approaching this planet. It will smash the planet apart like a rifle bullet hitting an egg, annihilating all life. -->
-  <Planetkiller.description>อาวุธฆ่าดาวเคราะห์ระหว่างดาวกำลังเข้าใกล้ดาวดวงนี้ มันจะชนดาวแตกออกเหมือนกระสุนไรเฟิลไปโดนไข่ ทำลายล้างทุกชีวิต</Planetkiller.description>
+  <Planetkiller.description>อาวุธทำลายล้างดาวเคราะห์ระหว่างจักรวาล กำลังเข้าหาดาวเคราะห์นี้ มันจะกระแทกดาวเคราะห์แตกเป็นเสี่ยงๆ ราวกระสุนไรเฟิลกระทบไข่ ทำลายวินาศทุกชีวิต</Planetkiller.description>
   
   <!-- EN: psychic drone -->
-  <PsychicDrone.label>พลังจิตพึมพำ</PsychicDrone.label>
+  <PsychicDrone.label>โดรนพลังจิต</PsychicDrone.label>
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, driving people towards insanity. -->
-  <PsychicDrone.description>อาร์คอเทคห่างไกลกำลังกระจายสัญญาณพลังจิตผ่านตัวตัวขยายสัญญาณโคจร ทำให้ผู้คนสติแตก</PsychicDrone.description>
+  <PsychicDrone.description>ปัญญาประดิษฐ์อันห่างไกล ทรงพลัง กำลังส่งคลื่นพลังจิตซึ่งกดดันจนผู้คนวิกลจริต</PsychicDrone.description>
   <!-- EN: a [psychicDroneLevel] psychic drone will buzz the area around [map_definite] for [gameConditionDuration_duration], pushing all people of the [psychicDroneGender] gender towards insanity -->
-  <PsychicDrone.descriptionFuture>พลังจิตพึมพำกำลัง [psychicDroneLevel] จะส่งเสียงในพื้นที่รอบ ๆ [map_definite] เป็นเวลา [gameConditionDuration_duration] ผลักดันให้ผู้คนเพศ [psychicDroneGender] สติแตก</PsychicDrone.descriptionFuture>
+  <PsychicDrone.descriptionFuture>TODO</PsychicDrone.descriptionFuture>
   <!-- EN: The psychic drone is ending. -->
-  <PsychicDrone.endMessage>พลังจิตพึมพำกำลังจะสิ้นสุดลง</PsychicDrone.endMessage>
+  <PsychicDrone.endMessage>โดนพลังจิตกำลังจะสิ้นสุดลง</PsychicDrone.endMessage>
   <!-- EN: Every {0} colonist feels a wave of anxiety and anger!\n\nSome distant engine of hatred is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
-  <PsychicDrone.letterText>ชาวนิคม {0} ทุกคนต่างรู้สึกร้อนรนและโมโห! \n\nเครื่องจักรแห่งความเกลียดที่อยู่ห่างไกลกำลังทำงาน มันฉายพลังจิตพึมพำมาบนสถานที่นี้ผ่านเครื่องขยายสัญญาณโคจร ปรับให้มีผลกับ {0} ในอีกสองสามวันข้างหน้า อารมณ์ของคนบางคนจะแย่ลงไปหน่อย \n\nระดับพึมพำคือ {1}</PsychicDrone.letterText>
+  <PsychicDrone.letterText>TODO</PsychicDrone.letterText>
   
   <!-- EN: psychic soothe -->
-  <PsychicSoothe.label>พลังจิตปลอบขวัญ</PsychicSoothe.label>
+  <PsychicSoothe.label>พลังจิตปลอบประโลม</PsychicSoothe.label>
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, calming people and stabilizing their minds. -->
-  <PsychicSoothe.description>อาร์คอเทคห่างไกลกำลังกระจายสัญญาณพลังจิตผ่านตัวตัวขยายสัญญาณโคจร ทำให้ผู้คนสงบและจิตใจคงที่</PsychicSoothe.description>
+  <PsychicSoothe.description>ปัญญาประดิษฐ์อันห่างไกล ทรงพลัง กำลังส่งคลื่นพลังจิตซึ่งทำให้ผู้คนสงบลง เกิดเสถียรภาพในจิตใจ</PsychicSoothe.description>
   <!-- EN: The psychic soothe is ending. -->
-  <PsychicSoothe.endMessage>พลังจิตปลอบขวัญกำลังจะสิ้นสุดลง</PsychicSoothe.endMessage>
+  <PsychicSoothe.endMessage>พลังจิตปลอบประโลมกำลังจะสิ้นสุดลง</PsychicSoothe.endMessage>
   <!-- EN: Every {0} colonist smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit better. -->
-  <PsychicSoothe.letterText>ชาวนิคม {0} ทุกคนต่างยิ้มแย้มด้วยความสบายใจ! \n\nเครื่องจักรแห่งความสุขที่อยู่ห่างไกลกำลังทำงาน มันฉายพลังจิตพึมพำมาบนสถานที่นี้ผ่านเครื่องขยายสัญญาณโคจร ปรับให้มีผลกับ {0} ในอีกสองสามวันข้างหน้า อารมณ์ของคนบางคนจะดีขึ้นมาหน่อย</PsychicSoothe.letterText>
+  <PsychicSoothe.letterText>TODO</PsychicSoothe.letterText>
   
   <!-- EN: solar flare -->
   <SolarFlare.label>เปลวสุริยะ</SolarFlare.label>
   <!-- EN: A solar flare is blasting the planet. The electromagnetic interference will prevent most electrical devices from working. -->
-  <SolarFlare.description>เปลวสุริยะมากระทบตัวดาวแล้ว การรบกวนทางแม่เหล็กไฟฟ้าจะทำให้อุปกรณ์ไฟฟ้าส่วนใหญ่ไม่สามารถนำมาใช้งานได้</SolarFlare.description>
+  <SolarFlare.description>เปลวเพลิงแผ่จากดวงอาทิตย์มากระทบดาวเคราะห์ ทำให้เกิดคลื่นแม่เหล็กรบกวนการทำงาน จนอุปกรณ์ไฟฟ้าใช้การไม่ได้</SolarFlare.description>
   <!-- EN: The solar flare is ending. -->
   <SolarFlare.endMessage>เปลวสุริยะกำลังจะสิ้นสุดลง</SolarFlare.endMessage>
   <!-- EN: A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day. -->
-  <SolarFlare.letterText>เปลวสุริยะได้เริ่มขึ้นแล้ว \n\nรังสีที่แรงกล้าจะปิดเครื่องใช้อุปกรณ์ไฟฟ้าทั้งหมด \n\nมันคงจะจบลงในประมาณหนึ่งวัน</SolarFlare.letterText>
+  <SolarFlare.letterText>TODO</SolarFlare.letterText>
   
   <!-- EN: toxic fallout -->
   <ToxicFallout.label>ฝุ่นรังสีพิษ</ToxicFallout.label>
   <!-- EN: A plume of toxic dust from some distant source is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
-  <ToxicFallout.description>ฝุ่นพิษพุ่งมาจากที่ห่างไกลกำลังจางลงมาที่ทั้งภูมิภาคนี้อย่างช้า ๆ สิ่งมีชีวิตใดที่ไม่ได้อยู่ใต้หลังคาจะโดนพิษไปอย่างช้า ๆ และสิ่งของใดที่เก็บไว้ข้างนอกก็จะสึกกร่อน</ToxicFallout.description>
+  <ToxicFallout.description>ฝุ่นพิษเบาบางจากต้นทางอันห่างไกล ลอยฟุ้งช้าๆไปทั้งภูมิภาพนี้ สิ่งมีชีวิตอะไรก็ตามไม่ได้อยู่ภายใต้หลังคา จะติดโดนพิษอย่างช้าๆ และไอเท็มที่ทิ้งไว้ด้านนอกจะโดนกัดกร่อน</ToxicFallout.description>
   <!-- EN: a cloud of toxic fallout will blanket the area around [map_definite] for [gameConditionDuration_duration], killing outdoor plant and animal life -->
-  <ToxicFallout.descriptionFuture>เมฆฝุ่นรังสีพิษจะปกคลุมพื้นที่รอบ ๆ [map_definite] เป็นเวลา [gameConditionDuration_duration] พืชและสัตว์ที่อยู่ข้างนอกทั้งหมดจะตายหมด</ToxicFallout.descriptionFuture>
+  <ToxicFallout.descriptionFuture>TODO</ToxicFallout.descriptionFuture>
   <!-- EN: The worst of the toxic fallout has settled. -->
-  <ToxicFallout.endMessage>ส่วนแย่ที่สุดของฝุ่นรังสีพิษได้จางหายไปแล้ว</ToxicFallout.endMessage>
+  <ToxicFallout.endMessage>สถานการณ์สุดย่ำแย่จากฝุ่นรังสีพิษเริ่มคงตัว</ToxicFallout.endMessage>
   <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a quadrum. -->
-  <ToxicFallout.letterText>ไฟไหม้เคมีในที่ห่างไกลได้ปล่อยฝุ่นควันพิษออกมาทั่วทั้งภูมิภาคนี้ \n\nใครหรือตัวอะไรที่ไม่อยู่ใต้หลังคาจะเจ็บป่วยอย่างช้า ๆ จากฝุ่นพิษที่จางลงมาจากชั้นบรรยากาศ \n\nมันจะคงอยู่ต่อไปอีกประมาณตั้งแต่สามสี่วันจนถึงมากกว่าหนึ่งฤดูกาล</ToxicFallout.letterText>
+  <ToxicFallout.letterText>TODO</ToxicFallout.letterText>
   
   <!-- EN: volcanic winter -->
   <VolcanicWinter.label>ฤดูหนาวจากภูเขาไฟ</VolcanicWinter.label>
   <!-- EN: Some distant volcano or fire is choking the atmosphere with ash, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower. -->
-  <VolcanicWinter.description>ภูเขาไฟหรือไม่ก็ไฟไหม้ในที่ห่างไกลกำลังอุดชั้นบรรยากาศด้วยเถ้าถ่าน ทำให้จำนวนแสงที่มาถึงพื้นดินลดลงไปเป็นอย่างมาก อุณหภูมิจะลดลง และพืชจะโตช้าลง</VolcanicWinter.description>
+  <VolcanicWinter.description>ภูเขาไฟห่างไกลอุดตันชั้นบรรยากาศ จนเต็มไปด้วยอนุภาคจากภูเขาไฟ บดบังปริมาณแสงจำนวนมากที่ควรตกลงสู่พื้นผิวโลก อุณหภูมิจะลด และพืชเติบโตช้าลง</VolcanicWinter.description>
   <!-- EN: a layer of ash will be desposited in the upper atmosphere, reducing sunlight around [map_definite] for [gameConditionDuration_duration], seriously harming the local ecosystem -->
-  <VolcanicWinter.descriptionFuture>มีชั้นเถ้าถ่านไปสะสมอยู่ในชั้นบรรยากาศด้านบน ทำให้แสงอาทิตย์ลดลงรอบ ๆ [map_definite] เป็นเวลา [gameConditionDuration_duration] สร้างความเสียหายต่อระบบนิเวศในท้องที่เป็นอย่างมาก </VolcanicWinter.descriptionFuture>
+  <VolcanicWinter.descriptionFuture>TODO</VolcanicWinter.descriptionFuture>
   <!-- EN: Most of the ash has settled. -->
-  <VolcanicWinter.endMessage>เถ้าถ่านส่วนใหญ่จางหายไปแล้ว</VolcanicWinter.endMessage>
+  <VolcanicWinter.endMessage>เถ้าภูเขาไฟส่วนมากเริ่มคงตัว</VolcanicWinter.endMessage>
   <!-- EN: Some distant volcano or fire has begun spewing massive quantities of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
-  <VolcanicWinter.letterText>ภูเขาไฟหรือไม่ก็ไฟไหม้ในที่ห่างไกลได้เริ่มพ่นเถ้าถ่านจำนวนมหาศาลไปในชั้นบรรยากาศ \n\nเถ้าถ่านในชั้นบรรบากาศจะปิดบังดวงอาทิตย์ อุณหถูมิจะลดลง และพืชจะต้องอดทนกับการขาดแสงอาทิตย์ มันอาจจะผ่านไปในอีกไม่กี่สัปดาห์ หรือมันอาจจะอยู่ต่อไปหลายฤดูกาลเลยก็ได้</VolcanicWinter.letterText>
+  <VolcanicWinter.letterText>TODO</VolcanicWinter.letterText>
   
 </LanguageData>

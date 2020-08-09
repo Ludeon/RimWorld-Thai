@@ -28,9 +28,9 @@
   <!-- EN: left arm -->
   <Monkey.corePart.parts.left_shoulder.parts.left_arm.customLabel>แขนซ้าย</Monkey.corePart.parts.left_shoulder.parts.left_arm.customLabel>
   <!-- EN: left humerus -->
-  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>กระดูกต้นแขนซ้าย</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>ต้นแขนซ้าย</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
   <!-- EN: left radius -->
-  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>กระดูกท่อนแขนซ้าย</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>ท่อนแขนซ้าย</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
   <!-- EN: left hand -->
   <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>มือซ้าย</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
   <!-- EN: left pinky -->
@@ -48,9 +48,9 @@
   <!-- EN: right arm -->
   <Monkey.corePart.parts.right_shoulder.parts.right_arm.customLabel>แขนขวา</Monkey.corePart.parts.right_shoulder.parts.right_arm.customLabel>
   <!-- EN: right humerus -->
-  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>กระดูกต้นแขนขวา</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>ต้นแขนขวา</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
   <!-- EN: right radius -->
-  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>กระดูกท่อนแขนขวา</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>ท่อนแขนขวา</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
   <!-- EN: right hand -->
   <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>มือขวา</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
   <!-- EN: right pinky -->
@@ -66,9 +66,9 @@
   <!-- EN: left leg -->
   <Monkey.corePart.parts.left_leg.customLabel>ขาซ้าย</Monkey.corePart.parts.left_leg.customLabel>
   <!-- EN: left femur -->
-  <Monkey.corePart.parts.left_leg.parts.left_femur.customLabel>กระดูกโคนขาซ้าย</Monkey.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <Monkey.corePart.parts.left_leg.parts.left_femur.customLabel>โคนขาซ้าย</Monkey.corePart.parts.left_leg.parts.left_femur.customLabel>
   <!-- EN: left tibia -->
-  <Monkey.corePart.parts.left_leg.parts.left_tibia.customLabel>กระดูกหน้าแข้งซ้าย</Monkey.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <Monkey.corePart.parts.left_leg.parts.left_tibia.customLabel>หน้าแข้งซ้าย</Monkey.corePart.parts.left_leg.parts.left_tibia.customLabel>
   <!-- EN: left foot -->
   <Monkey.corePart.parts.left_leg.parts.left_foot.customLabel>เท้าซ้าย</Monkey.corePart.parts.left_leg.parts.left_foot.customLabel>
   <!-- EN: left little toe -->
@@ -84,9 +84,9 @@
   <!-- EN: right leg -->
   <Monkey.corePart.parts.right_leg.customLabel>ขาขวา</Monkey.corePart.parts.right_leg.customLabel>
   <!-- EN: right femur -->
-  <Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>กระดูกโคนขาขวา</Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>โคนขาขวา</Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>
   <!-- EN: right tibia -->
-  <Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>กระดูกหน้าแข้งขวา</Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>หน้าแข้งขวา</Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>
   <!-- EN: right foot -->
   <Monkey.corePart.parts.right_leg.parts.right_foot.customLabel>เท้าขวา</Monkey.corePart.parts.right_leg.parts.right_foot.customLabel>
   <!-- EN: right little toe -->
@@ -121,51 +121,51 @@
   <!-- EN: front left leg -->
   <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.customLabel>ขาหน้าซ้าย</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front left leg first claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>ขาหน้าซ้าย เล็บที่หนึ่ง</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>ขาหน้าซ้าย กรงเล็บแรก</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>
   <!-- EN: front left leg second claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>ขาหน้าซ้าย เล็บที่สอง</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>ขาหน้าซ้าย กรงเล็บที่สอง</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>
   <!-- EN: front left leg third claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>ขาหน้าซ้าย เล็บที่สาม</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>ขาหน้าซ้าย กรงเล็บที่สาม</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>
   <!-- EN: front left leg fourth claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fourth_claw.customLabel>ขาหน้าซ้าย เล็บที่สี่</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fourth_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fourth_claw.customLabel>ขาหน้าซ้าย กรงเล็บที่สี่</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fourth_claw.customLabel>
   <!-- EN: front left leg fifth claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fifth_claw.customLabel>ขาหน้าซ้าย เล็บที่ห้า</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fifth_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fifth_claw.customLabel>ขาหน้าซ้าย กรงเล็บที่ห้า</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fifth_claw.customLabel>
   <!-- EN: front right leg -->
   <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.customLabel>ขาหน้าขวา</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.customLabel>
   <!-- EN: front right leg first claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>ขาหน้าขวา เล็บที่หนึ่ง</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>ขาหน้าขวา กรงเล็บแรก</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>
   <!-- EN: front right leg second claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>ขาหน้าขวา เล็บที่สอง</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>ขาหน้าขวา กรงเล็บที่สอง</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>
   <!-- EN: front right leg third claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>ขาหน้าขวา เล็บที่สาม</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>ขาหน้าขวา กรงเล็บที่สาม</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>
   <!-- EN: front right leg fourth claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fourth_claw.customLabel>ขาหน้าขวา เล็บที่สี่</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fourth_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fourth_claw.customLabel>ขาหน้าขวา กรงเล็บที่สี่</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fourth_claw.customLabel>
   <!-- EN: front right leg fifth claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fifth_claw.customLabel>ขาหน้าขวา เล็บที่ห้า</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fifth_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fifth_claw.customLabel>ขาหน้าขวา กรงเล็บที่ห้า</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fifth_claw.customLabel>
   <!-- EN: rear left leg -->
   <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.customLabel>ขาหลังซ้าย</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear left leg first claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>ขาหลังซ้าย เล็บที่หนึ่ง</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>ขาหลังซ้าย กรงเล็บแรก</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>
   <!-- EN: rear left leg second claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>ขาหลังซ้าย เล็บที่สอง</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>ขาหลังซ้าย กรงเล็บที่สอง</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>
   <!-- EN: rear left leg third claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>ขาหลังซ้าย เล็บที่สาม</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>ขาหลังซ้าย กรงเล็บที่สาม</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>
   <!-- EN: rear left leg fourth claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fourth_claw.customLabel>ขาหลังซ้าย เล็บที่สี่</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fourth_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fourth_claw.customLabel>ขาหลังซ้าย กรงเล็บที่สี่</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fourth_claw.customLabel>
   <!-- EN: rear left leg fifth claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fifth_claw.customLabel>ขาหลังซ้าย เล็บที่ห้า</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fifth_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fifth_claw.customLabel>ขาหลังซ้าย กรงเล็บที่ห้า</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fifth_claw.customLabel>
   <!-- EN: rear right leg -->
   <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.customLabel>ขาหลังขวา</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right leg first claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>ขาหลังขวา เล็บที่หนึ่ง</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>ขาหลังขวา กรงเล็บแรก</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>
   <!-- EN: rear right leg second claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>ขาหลังขวา เล็บที่สอง</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>ขาหลังขวา กรงเล็บที่สอง</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>
   <!-- EN: rear right leg third claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>ขาหลังขวา เล็บที่สาม</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>ขาหลังขวา กรงเล็บที่สาม</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>
   <!-- EN: rear right leg fourth claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fourth_claw.customLabel>ขาหลังขวา เล็บที่สี่</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fourth_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fourth_claw.customLabel>ขาหลังขวา กรงเล็บที่สี่</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fourth_claw.customLabel>
   <!-- EN: rear right leg fifth claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>ขาหลังขวา เล็บที่ห้า</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>ขาหลังขวา กรงเล็บที่ห้า</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>
   
   <!-- EN: quadruped animal -->
   <QuadrupedAnimalWithHooves.label>สัตว์สี่กีบ</QuadrupedAnimalWithHooves.label>
@@ -203,7 +203,7 @@
   <QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>กีบหลังขวา</QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
   
   <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithHoovesAndHorn.label>สัตว์สี่กีบ</QuadrupedAnimalWithHoovesAndHorn.label>
+  <QuadrupedAnimalWithHoovesAndHorn.label>สัตว์สี่กีบมีเขา</QuadrupedAnimalWithHoovesAndHorn.label>
   <!-- EN: left lung -->
   <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_lung.customLabel>ปอดซ้าย</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -238,7 +238,7 @@
   <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>กีบหลังขวา</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
   
   <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithHoovesAndHump.label>สัตว์สี่กีบ</QuadrupedAnimalWithHoovesAndHump.label>
+  <QuadrupedAnimalWithHoovesAndHump.label>สัตว์สี่กีบมีหนอก</QuadrupedAnimalWithHoovesAndHump.label>
   <!-- EN: left lung -->
   <QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_lung.customLabel>ปอดซ้าย</QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -273,7 +273,7 @@
   <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>กีบหลังขวา</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
   
   <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithHoovesAndTusks.label>สัตว์สี่กีบ</QuadrupedAnimalWithHoovesAndTusks.label>
+  <QuadrupedAnimalWithHoovesAndTusks.label>สัตว์สี่กีบมีเขี้ยว</QuadrupedAnimalWithHoovesAndTusks.label>
   <!-- EN: left lung -->
   <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_lung.customLabel>ปอดซ้าย</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -312,7 +312,7 @@
   <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>กีบหลังขวา</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
   
   <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>สัตว์สี่กีบ</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>สัตว์สี่กีบมีงวงและงา</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
   <!-- EN: left lung -->
   <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_lung.customLabel>ปอดซ้าย</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->

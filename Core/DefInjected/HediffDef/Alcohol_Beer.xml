@@ -4,52 +4,52 @@
   <!-- EN: alcohol addiction -->
   <AlcoholAddiction.label>ติดแอลกอฮอล์</AlcoholAddiction.label>
   <!-- EN: A chemical addiction to alcohol. Long-term presence of alcohol has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of alcohol, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <AlcoholAddiction.description>การติดสารเคมีแอลกอฮอล์ การมีแอลกอฮอล์อยู่ระยะยาวได้ทำให้เกิดการปรับตัวทางระบบประสาทในระดับเซลล์ สมองจึงไม่สามารถทำงานได้อย่างถูกต้องเมื่อไม่มีสารตัวนั้นแล้ว \n\nหากไม่ได้แอลกอฮอล์อย่างต่อเนื่อง อาการลงแดงก็จะเริ่มขึ้น อย่างไรก็ตาม การละเว้นที่ยืดยาวจะบังคับให้สมองปรับตัวกลับไปสภาพเดิม แล้วจัดการกับปัญหาติดสารตัวนั้นไป</AlcoholAddiction.description>
+  <AlcoholAddiction.description>TODO</AlcoholAddiction.description>
   <!-- EN: withdrawal -->
   <AlcoholAddiction.stages.withdrawal.label>ลงแดง</AlcoholAddiction.stages.withdrawal.label>
   
   <!-- EN: alcohol -->
-  <AlcoholHigh.label>แอลกอฮอล์</AlcoholHigh.label>
+  <AlcoholHigh.label>เมาแอลกอฮอล์</AlcoholHigh.label>
   <!-- EN: Alcohol in the bloodstream. It makes people happy, but reduces capacities. -->
-  <AlcoholHigh.description>แอลกอฮอล์อยู่ในกระแสเลือด มันทำให้คนมีความสุข แต่ลดความสามารถลงไป</AlcoholHigh.description>
+  <AlcoholHigh.description>TODO</AlcoholHigh.description>
   <!-- EN: drunkenness -->
-  <AlcoholHigh.labelNoun>ความเมา</AlcoholHigh.labelNoun>
+  <AlcoholHigh.labelNoun>เมาแอลกอฮอล์</AlcoholHigh.labelNoun>
   <!-- EN: warm -->
-  <AlcoholHigh.stages.warm.label>อุ่น ๆ</AlcoholHigh.stages.warm.label>
+  <AlcoholHigh.stages.warm.label>อุ่นๆ</AlcoholHigh.stages.warm.label>
   <!-- EN: tipsy -->
-  <AlcoholHigh.stages.tipsy.label>กรึ่ม ๆ</AlcoholHigh.stages.tipsy.label>
+  <AlcoholHigh.stages.tipsy.label>กรึ่มๆ</AlcoholHigh.stages.tipsy.label>
   <!-- EN: drunk -->
   <AlcoholHigh.stages.drunk.label>เมา</AlcoholHigh.stages.drunk.label>
   <!-- EN: hammered -->
-  <AlcoholHigh.stages.hammered.label>เละ</AlcoholHigh.stages.hammered.label>
+  <AlcoholHigh.stages.hammered.label>ปวดหัว</AlcoholHigh.stages.hammered.label>
   <!-- EN: blackout -->
   <AlcoholHigh.stages.blackout.label>น็อค</AlcoholHigh.stages.blackout.label>
   
   <!-- EN: alcohol tolerance -->
   <AlcoholTolerance.label>ดื้อแอลกอฮอล์</AlcoholTolerance.label>
   <!-- EN: A built-up tolerance to alcohol. The more severe this tolerance is, the more alcohol it takes to get the same effect. -->
-  <AlcoholTolerance.description>อาการดื้อแอลกอฮอล์ที่สั่งสมมา ยิ่งอาการดื้อนี้รุนแรงเท่าไหร่ ก็ต้องยิ่งใช้แอลกอฮอล์มากขึ้นเพื่อให้ได้ผลลัพธ์เดิม</AlcoholTolerance.description>
+  <AlcoholTolerance.description>TODO</AlcoholTolerance.description>
   <!-- EN: small -->
-  <AlcoholTolerance.stages.small.label>น้อย</AlcoholTolerance.stages.small.label>
+  <AlcoholTolerance.stages.small.label>เล็กน้อย</AlcoholTolerance.stages.small.label>
   <!-- EN: large -->
   <AlcoholTolerance.stages.large.label>มาก</AlcoholTolerance.stages.large.label>
   <!-- EN: massive -->
-  <AlcoholTolerance.stages.massive.label>หนัก</AlcoholTolerance.stages.massive.label>
+  <AlcoholTolerance.stages.massive.label>รุนแรง</AlcoholTolerance.stages.massive.label>
   
   <!-- UNUSED -->
-  <AlcoholTolerance.stages.small-1.label>ไม่ใช้งาน</AlcoholTolerance.stages.small-1.label>
+  <AlcoholTolerance.stages.small-1.label>ต่ำ</AlcoholTolerance.stages.small-1.label>
   
   <!-- EN: hangover -->
   <Hangover.label>เมาค้าง</Hangover.label>
   <!-- EN: An unpleasant delayed after-effect of alcohol intoxication. -->
-  <Hangover.description>ผลที่ตามมาอย่างเชื่องช้าที่ไม่สบายเลยจากการเมาแอลกอฮอล์</Hangover.description>
+  <Hangover.description>TODO</Hangover.description>
   <!-- EN: a hangover -->
   <Hangover.labelNoun>เมาค้าง</Hangover.labelNoun>
   <!-- EN: slight -->
-  <Hangover.stages.slight.label>นิดหน่อย</Hangover.stages.slight.label>
+  <Hangover.stages.slight.label>เล็กน้อย</Hangover.stages.slight.label>
   <!-- EN: strong -->
   <Hangover.stages.strong.label>รุนแรง</Hangover.stages.strong.label>
   <!-- EN: pounding -->
-  <Hangover.stages.pounding.label>ตุบ ๆ</Hangover.stages.pounding.label>
+  <Hangover.stages.pounding.label>ปวดหัวจะระเบิด</Hangover.stages.pounding.label>
   
 </LanguageData>

@@ -4,11 +4,11 @@
   <!-- EN: temperate forest -->
   <TemperateForest.label>ป่าเขตอบอุ่น</TemperateForest.label>
   <!-- EN: Forests of deciduous trees interspersed with fertile clearings. Many species of animals move around among the trees and on the plains. -->
-  <TemperateForest.description>ป่าไม้ผลัดใบที่กระจัดกระจายไปด้วยบริเวณที่โล่งอุดมสมบูรณ์ สัตว์หลากหลายสายพันธุ์อาศัยอยู่ตามต้นไม้และบนทุ่งหญ้า</TemperateForest.description>
+  <TemperateForest.description>ป่าผลัดใบ กระจายอยู่ท่ามกลางที่ว่างอันอุดมสมบูรณ์ มีสัตว์หลากสายพันธุ์เคลื่อนไหวไปมาตามต้นไม้และบนที่ราบ</TemperateForest.description>
   
   <!-- EN: temperate swamp -->
   <TemperateSwamp.label>บึงเขตอบอุ่น</TemperateSwamp.label>
   <!-- EN: Wetlands choked with vegetation and disease. Dense overgrowth makes it hard to move around, and clearing areas for building takes a long time. Much of the terrain is too marshy to support heavy structures. -->
-  <TemperateSwamp.description>พื้นที่ชุ่มน้ำที่กระจุกไปด้วยพืชพรรณและเชื้อโรค พืชที่คลุมหนาแน่นทำให้การเคลื่อนที่ยากลำบาก และทำให้การเคลียร์พื้นที่สำหรับงานก่อสร้างใช้เวลานาน พื้นที่ส่วนใหญ่เป็นหนองน้ำมากเกินกว่าที่จะรองรับโครงสร้างหนักได้</TemperateSwamp.description>
+  <TemperateSwamp.description>พื้นที่ชุ่มน้ำกระจุกแน่นไปด้วยพืชและโรคร้าย พืชสูงขึ้นหนาแน่นทำให้ยากจะเคลื่อนที่ไปมา และการเคลียร์พื้นที่ก่อสร้างก็กินเวลานานขึ้น ภูมิประเทศส่วนมากเฉอะแฉะเกินกว่าจะรองรับโครงสร้างหนักๆ</TemperateSwamp.description>
   
 </LanguageData>

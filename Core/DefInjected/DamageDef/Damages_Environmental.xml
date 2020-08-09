@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: burn -->
-  <Burn.label>ไหม้</Burn.label>
+  <Burn.label>เผา</Burn.label>
   <!-- EN: {0} has burned to death. -->
-  <Burn.deathMessage>{0} โดนเผาไหม้ตาย</Burn.deathMessage>
+  <Burn.deathMessage>{0} โดนเผาจนตาย</Burn.deathMessage>
   
   <!-- EN: flame -->
-  <Flame.label>ไฟ</Flame.label>
+  <Flame.label>เปลวไฟ</Flame.label>
   <!-- EN: {0} has burned to death. -->
-  <Flame.deathMessage>{0} โดนไฟคลอกตาย</Flame.deathMessage>
+  <Flame.deathMessage>{0} โดนไหม้จนตาย</Flame.deathMessage>
   
   <!-- EN: frostbite -->
-  <Frostbite.label>หิมะกัด</Frostbite.label>
+  <Frostbite.label>น้ำแข็งกัด</Frostbite.label>
   <!-- EN: {0} has succumbed to frostbite. -->
-  <Frostbite.deathMessage>{0} ตายจากการถูกหิมะกัด</Frostbite.deathMessage>
+  <Frostbite.deathMessage>{0} ถูกน้ำแข็งกัดจนถึงแก่ความตาย</Frostbite.deathMessage>
   
   <!-- EN: scratch -->
-  <TornadoScratch.label>ข่วน</TornadoScratch.label>
+  <TornadoScratch.label>ขีดข่วนจากพายุ</TornadoScratch.label>
   <!-- EN: {0} has been killed by a tornado. -->
-  <TornadoScratch.deathMessage>{0} โดนพายุลมงวงฆ่าตาย</TornadoScratch.deathMessage>
+  <TornadoScratch.deathMessage>{0} เสียชีวิตในพายุทอร์นาโด</TornadoScratch.deathMessage>
   
 </LanguageData>

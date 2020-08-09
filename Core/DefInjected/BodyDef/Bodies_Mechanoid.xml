@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: lancer -->
-  <Lancer.label>พลทวน</Lancer.label>
+  <Lancer.label>แลนเซอร์</Lancer.label>
   <!-- EN: left sight sensor -->
   <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>เซ็นเซอร์รับภาพซ้าย</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->
@@ -60,34 +60,34 @@
   <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>เซ็นเซอร์รับเสียงขวา</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
   
   <!-- EN: pikeman -->
-  <Pikeman.label>พลหอก</Pikeman.label>
+  <Pikeman.label>TODO</Pikeman.label>
   <!-- EN: left sight sensor -->
-  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>เซ็นเซอร์รับภาพซ้าย</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>TODO</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->
-  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>เซ็นเซอร์รับภาพขวา</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>TODO</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
   <!-- EN: left hearing sensor -->
-  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>เซ็นเซอร์รับเสียงซ้าย</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>TODO</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
   <!-- EN: right hearing sensor -->
-  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>เซ็นเซอร์รับเสียงขวา</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>TODO</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
   <!-- EN: front left leg -->
-  <Pikeman.corePart.parts.front_left_leg.customLabel>ขาหน้าซ้าย</Pikeman.corePart.parts.front_left_leg.customLabel>
+  <Pikeman.corePart.parts.front_left_leg.customLabel>TODO</Pikeman.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front left foot -->
-  <Pikeman.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>เท้าหน้าซ้าย</Pikeman.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>
+  <Pikeman.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>TODO</Pikeman.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>
   <!-- EN: front right leg -->
-  <Pikeman.corePart.parts.front_right_leg.customLabel>ขาหน้าขวา</Pikeman.corePart.parts.front_right_leg.customLabel>
+  <Pikeman.corePart.parts.front_right_leg.customLabel>TODO</Pikeman.corePart.parts.front_right_leg.customLabel>
   <!-- EN: front right foot -->
-  <Pikeman.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>เท้าหน้าขวา</Pikeman.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>
+  <Pikeman.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>TODO</Pikeman.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>
   <!-- EN: rear left leg -->
-  <Pikeman.corePart.parts.rear_left_leg.customLabel>ขาหลังซ้าย</Pikeman.corePart.parts.rear_left_leg.customLabel>
+  <Pikeman.corePart.parts.rear_left_leg.customLabel>TODO</Pikeman.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear left foot -->
-  <Pikeman.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>เท้าหลังซ้าย</Pikeman.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>
+  <Pikeman.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>TODO</Pikeman.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>
   <!-- EN: rear right leg -->
-  <Pikeman.corePart.parts.rear_right_leg.customLabel>ขาหลังขวา</Pikeman.corePart.parts.rear_right_leg.customLabel>
+  <Pikeman.corePart.parts.rear_right_leg.customLabel>TODO</Pikeman.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right foot -->
-  <Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>เท้าหลังขวา</Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
+  <Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>TODO</Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
   
   <!-- EN: scyther -->
-  <Scyther.label>พลเคียว</Scyther.label>
+  <Scyther.label>ไซเธอร์</Scyther.label>
   <!-- EN: left sight sensor -->
   <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>เซ็นเซอร์รับภาพซ้าย</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->

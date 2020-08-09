@@ -4,29 +4,29 @@
   <!-- EN: denture -->
   <Denture.label>ฟันปลอม</Denture.label>
   <!-- EN: An installed denture. -->
-  <Denture.description>ฟันปลอมที่ติดตั้งไว้</Denture.description>
+  <Denture.description>TODO</Denture.description>
   <!-- EN: a denture -->
   <Denture.labelNoun>ฟันปลอม</Denture.labelNoun>
   
   <!-- EN: peg leg -->
-  <PegLeg.label>ขาไม้</PegLeg.label>
+  <PegLeg.label>ขาหมุด</PegLeg.label>
   <!-- EN: An installed peg leg. -->
-  <PegLeg.description>ขาไม้ที่ติดตั้งไว้</PegLeg.description>
+  <PegLeg.description>TODO</PegLeg.description>
   <!-- EN: a peg leg -->
-  <PegLeg.labelNoun>ขาไม้</PegLeg.labelNoun>
+  <PegLeg.labelNoun>ขาหมุด</PegLeg.labelNoun>
   
   <!-- EN: wooden foot -->
-  <WoodenFoot.label>เท้าไม้</WoodenFoot.label>
+  <WoodenFoot.label>ขาไม้</WoodenFoot.label>
   <!-- EN: An installed wooden foot. -->
-  <WoodenFoot.description>เท้าไม้ที่ติดตั้งไว้</WoodenFoot.description>
+  <WoodenFoot.description>TODO</WoodenFoot.description>
   <!-- EN: a wooden foot -->
-  <WoodenFoot.labelNoun>เท้าไม้</WoodenFoot.labelNoun>
+  <WoodenFoot.labelNoun>ขาไม้</WoodenFoot.labelNoun>
   
   <!-- EN: wooden hand -->
-  <WoodenHand.label>มือไม้</WoodenHand.label>
+  <WoodenHand.label>TODO</WoodenHand.label>
   <!-- EN: An installed wooden hand. -->
-  <WoodenHand.description>มือไม้ที่ติดตั้งไว้</WoodenHand.description>
+  <WoodenHand.description>TODO</WoodenHand.description>
   <!-- EN: a wooden hand -->
-  <WoodenHand.labelNoun>มือไม้</WoodenHand.labelNoun>
+  <WoodenHand.labelNoun>TODO</WoodenHand.labelNoun>
   
 </LanguageData>

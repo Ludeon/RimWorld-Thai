@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: take to best stockpile -->
-  <BestStockpile.label>ขนไปคลังเหมาะสมที่สุด</BestStockpile.label>
+  <BestStockpile.label>ขนไปยังคลังที่ดีที่สุด</BestStockpile.label>
   
   <!-- EN: drop on floor -->
-  <DropOnFloor.label>วางลงพื้น</DropOnFloor.label>
+  <DropOnFloor.label>ทิ้งลงบนพื้น</DropOnFloor.label>
   
   <!-- EN: take to {0} -->
-  <SpecificStockpile.label>ขนไปที่ {0}</SpecificStockpile.label>
+  <SpecificStockpile.label>ขนไปยัง {0}</SpecificStockpile.label>
   
 </LanguageData>

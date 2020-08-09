@@ -2,93 +2,93 @@
 <LanguageData>
   
   <!-- EN: Animals will attack doors -->
-  <AnimalsDontAttackDoors.label>สัตว์โจมตีประตู</AnimalsDontAttackDoors.label>
+  <AnimalsDontAttackDoors.label>สัตว์โจมตีประตูไม่มี</AnimalsDontAttackDoors.label>
   <!-- EN: Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets. -->
-  <AnimalsDontAttackDoors.helpText>สัตว์คลั่งคนจะโจมตีประตูหากพวกมันเห็นชาวนิคมของคุณผ่านเข้าออก พวกมันจะโจมตีป้อมปืนที่ปิดใช้งานไปแล้วด้วย</AnimalsDontAttackDoors.helpText>
+  <AnimalsDontAttackDoors.helpText>TODO</AnimalsDontAttackDoors.helpText>
   
   <!-- EN: Bills tab -->
   <BillsTab.label>แท็บงาน</BillsTab.label>
   <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
-  <BillsTab.helpText>ในการให้ชาวนิคมทำงานที่โต๊ะ เลือกโต๊ะแล้วเปิดแท็บงาน ที่นี่คุณสามารถบอกได้ว่าจะให้ทำมื้ออาหารอะไร นำอะไรมาประกอบ เอาตัวอะไรมาแล่</BillsTab.helpText>
+  <BillsTab.helpText>TODO</BillsTab.helpText>
   
   <!-- EN: Build orbital trade beacon -->
-  <BuildOrbitalTradeBeacon.label>สร้างเครื่องส่งสัญญาณการค้าแบบโคจร</BuildOrbitalTradeBeacon.label>
+  <BuildOrbitalTradeBeacon.label>สร้างสัญญาณโคจร</BuildOrbitalTradeBeacon.label>
   <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
-  <BuildOrbitalTradeBeacon.helpText>ในการส่งสิ่งของหรือเงินไปให้ผู้ค้าโคจร คุณจำเป็นต้องสร้าง *เครื่องส่งสัญญาณการค้าแบบโคจร* แล้ววางคลังสิ่งของไว้ใกล้ ๆ มัน</BuildOrbitalTradeBeacon.helpText>
+  <BuildOrbitalTradeBeacon.helpText>TODO</BuildOrbitalTradeBeacon.helpText>
   
   <!-- EN: Capturing -->
-  <Capturing.label>การจับกุม</Capturing.label>
+  <Capturing.label>จับ</Capturing.label>
   <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
-  <Capturing.helpText>เมื่อศัตรูหมดสภาพอยู่บนพื้นแต่ยังไม่ตาย คุณสามารถ *จับกุม* พวกเขาได้ \n\nในการจับกุม เลือกชาวนิคม คลิกขวาบนศัตรูที่ทำอะไรไม่ได้ แล้วเลือก จับกุม \n\nคุณจะต้องใช้เตียงที่สำรองไว้สำหรับนักโทษ</Capturing.helpText>
+  <Capturing.helpText>TODO</Capturing.helpText>
   
   <!-- EN: Door opening speeds -->
-  <DoorOpenSpeed.label>ความเร็วการเปิดประตู</DoorOpenSpeed.label>
+  <DoorOpenSpeed.label>ความเร็วในการเปิดประตู</DoorOpenSpeed.label>
   <!-- EN: Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down. -->
-  <DoorOpenSpeed.helpText>ประตูเปิดด้วยความเร็วที่แตกต่างกัน โดยขึ้นอยู่กับว่ามันทำมาจากอะไร \n\nคำเตือน : ประตูหินเปิดช้ามาก ใครก็ตามที่ต้องผ่านไปจะช้าลงมาเป็นอย่างมาก</DoorOpenSpeed.helpText>
+  <DoorOpenSpeed.helpText>TODO</DoorOpenSpeed.helpText>
   
   <!-- EN: Drafting for combat -->
-  <Drafting.label>การเกณฑ์ไปสู้รบ</Drafting.label>
+  <Drafting.label>การเกณฑ์ทหาร</Drafting.label>
   <!-- EN: To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy. -->
-  <Drafting.helpText>ในการควบคุมชาวนิคมโดยตรงเพื่อการสู้รบ เกณฑ์พวกเขาโดยการเลือกพวกเขาแล้วกดที่ปุ่ม *เกณฑ์* \n\nชาวนิคมที่เกณฑ์มาจะทำสิ่งที่คุณบอกให้พวกเขาทำเท่านั้น และปฏิบัติได้แค่การต่อสู้ พวกที่มีอาวุธจะใช้มันเมื่อทำได้ \n\nอย่าเกณฑ์ชาวนิคมไว้ตลอด พวกเขาจะอดอาหารและไม่มีความสุข</Drafting.helpText>
+  <Drafting.helpText>TODO</Drafting.helpText>
   
   <!-- EN: Drug addiction -->
-  <DrugAddiction.label>การติดยา</DrugAddiction.label>
+  <DrugAddiction.label>ติดยาเสพติด</DrugAddiction.label>
   <!-- EN: You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear. -->
-  <DrugAddiction.helpText>คุณสามารถตรวจสอบความต้องการใช้ยาเสพติดของชาวนิคมคุณได้ในแท็บ ความต้องการ ของพวกเขา \n\nตราบเท่าที่ระดับความต้องการของพวกเขาเป็นศูนย์ การติดยาของพวกเขาจะเปลี่ยนเป็นสภาพ "ลงแดง" ซึ่งมีผลข้างเคียงเชิงลบหลายรูปแบบ \n\nอย่างไรก็ตาม เมื่อลงแดงมาได้นานเพียงพอแล้ว การติดยาของพวกเขาก็จะสิ้นสุด และความต้องการยาเสพติดก็จะหายไป</DrugAddiction.helpText>
+  <DrugAddiction.helpText>TODO</DrugAddiction.helpText>
   
   <!-- EN: Drug burning -->
-  <DrugBurning.label>การเผายาเสพติด</DrugBurning.label>
+  <DrugBurning.label>เผายาเสพติด</DrugBurning.label>
   <!-- EN: Drugs can be useful, but can also lead to harmful addictions.\n\nIf you want to avoid drugs in your colony, you have the option of burning them at a campfire. -->
-  <DrugBurning.helpText>ยาเสพติดอาจมีประโยชน์ แต่สามารถนำไปสู่การเสพติดให้โทษได้ \n\nหากคุณต้องการหลีกเลี่ยงยาเสพติดในนิคมของคุณ คุณมีตัวเลือกที่จะเผามันทิ้งที่แคมป์ไฟ</DrugBurning.helpText>
+  <DrugBurning.helpText>TODO</DrugBurning.helpText>
   
   <!-- EN: Drug policies -->
   <DrugPolicies.label>นโยบายยาเสพติด</DrugPolicies.label>
   <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
-  <DrugPolicies.helpText>คุณสามารถเจาะจงกำหนดให้ชาวนิคมใช้ยาเสพติดตามตารางเวลาได้ ตัวอย่างเช่น คุณสามารถให้พวกเขาใช้ยาป้องกันการติดเชื้อเป็นประจำ หรือดื่มเบียร์วันละขวดเพื่อให้มีความสุข \n\nเปิดแท็บ กำหนด แล้วกดปุ่ม 'จัดการนโยบายยาเสพติด' สร้างนโยบายยาเสพติดใหม่ แล้วคุณก็จะสามารถกำหนดนโยบายนี้กับชาวนิคมได้ \n\nชาวนิคมยังสามารถใช้ยาที่ไม่ได้อยู่ในนโยบายได้ คุณบอกให้พวกเขาทำอะไร แต่พวกเขาก็ยังทำตามความต้องการของตัวเองอยู่นะ!</DrugPolicies.helpText>
+  <DrugPolicies.helpText>TODO</DrugPolicies.helpText>
   
   <!-- EN: Interacting with traders -->
-  <InteractingWithTraders.label>การสื่อสารกับผู้ค้า</InteractingWithTraders.label>
+  <InteractingWithTraders.label>การมีปฏิสัมพันธ์กับผู้แทนจำหน่าย</InteractingWithTraders.label>
   <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to his head. -->
-  <InteractingWithTraders.helpText>คุณสามารถคุยกับผู้คนที่มีเครื่องหมาย ? อยู่บนหัว \n\nเลือกชาวนิคมแล้วคลิกขวาบนตัวละครที่ทีเครื่องหมาย ? ติดอยู่บนหัว</InteractingWithTraders.helpText>
+  <InteractingWithTraders.helpText>TODO</InteractingWithTraders.helpText>
   
   <!-- EN: Using the comms console -->
-  <OpeningComms.label>การใช้งานแผงสื่อสาร</OpeningComms.label>
+  <OpeningComms.label>ใช้เครื่องควมคุมการสื่อสาร</OpeningComms.label>
   <!-- EN: To communicate, select a colonist and right-click on the comms console. -->
-  <OpeningComms.helpText>ในการสื่อสาร เลือกชาวนิคมแล้วคลิกขวาบนแผงสื่อสาร</OpeningComms.helpText>
+  <OpeningComms.helpText>TODO</OpeningComms.helpText>
   
   <!-- EN: Prisoner tab -->
   <PrisonerTab.label>แท็บนักโทษ</PrisonerTab.label>
   <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner. -->
-  <PrisonerTab.helpText>เข้าไปดูที่แท็บ 'นักโทษ' ของนักโทษเพื่อตั้งค่าวิธีการดูแลพวกเขา \n\nคุณสามารถตั้งว่าจะให้พยายามรับเข้ามา เพิกเฉย หรือประหารพวกเขา ว่าพวกเขาจะได้กินหรือไม่ และการรักษาพยาบาลแบบไหนที่พวกเขาจะได้รับ \n\nชาวนิคมที่มีประเภทการทำงานพัศดีจะสื่อสารกับนักโทษ</PrisonerTab.helpText>
+  <PrisonerTab.helpText>TODO</PrisonerTab.helpText>
   
   <!-- EN: Order queueing -->
-  <QueueOrders.label>การต่อคิวคำสั่ง</QueueOrders.label>
+  <QueueOrders.label>TODO</QueueOrders.label>
   <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
-  <QueueOrders.helpText>เมื่อให้คำสั่งเบี้ยของคุณ คุณสามารถนำหลายคำสั่งมาต่อเป็นคิวได้โดยการกด "shift" ค้างไว้ ใช้ได้เช่นกันกับการให้งานเบี้ยที่ไม่ได้เกณฑ์</QueueOrders.helpText>
+  <QueueOrders.helpText>TODO</QueueOrders.helpText>
   
   <!-- EN: Reforming caravans -->
-  <ReformCaravan.label>การจัดกองคาราวานใหม่</ReformCaravan.label>
+  <ReformCaravan.label>คาราวานการปฏิรูป</ReformCaravan.label>
   <!-- EN: After an encounter, you can easily re-form a caravan by using the RE-FORM CARAVAN command in the World view. -->
-  <ReformCaravan.helpText>ภายหลังการเผชิญหน้า คุณสามารถจัดกองคาราวานใหม่ได้อย่างง่ายดายโดยใช้คำสั่ง *จัดกองคาราวานใหม่* ในมุมมองโลก</ReformCaravan.helpText>
+  <ReformCaravan.helpText>TODO</ReformCaravan.helpText>
   
   <!-- EN: Rescuing -->
-  <Rescuing.label>การช่วยเหลือ</Rescuing.label>
+  <Rescuing.label>ประหยัด</Rescuing.label>
   <!-- EN: To rescue a wounded person, select a healthy colonist and then right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
-  <Rescuing.helpText>ในการช่วยเหลือคนที่ได้รับบาดเจ็บ เลือกชาวนิคมที่แข็งแรงแล้วคลิกขวาบนคนที่บาดเจ็บ \n\nถ้าคุณไปช่วยคนที่ไม่ใช่ชาวนิคม พวกเขาไม่จำเป็นที่จะต้องเข้าร่วมนิคมของคุณ พวกเขาอาจเดินจากไปเมื่อรักษาตัวหายแล้วก็ได้ หากคุณต้องการการันตีให้พวกเขาเข้าร่วม ก็จับกุมพวกเขาแล้วค่อยรับพวกเขาเข้ามา</Rescuing.helpText>
+  <Rescuing.helpText>TODO</Rescuing.helpText>
   
   <!-- EN: Set what plant to grow -->
-  <SetGrowingZonePlant.label>ตั้งพืชที่จะเพาะปลูก</SetGrowingZonePlant.label>
+  <SetGrowingZonePlant.label>กำหนดค่าโซนการเพาะปลูก</SetGrowingZonePlant.label>
   <!-- EN: You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button. -->
-  <SetGrowingZonePlant.helpText>คุณสามารถตั้งว่าจะปลูกอะไรบนโซนเพาะปลูก คุณสามารถปลูกต้นไม้ได้ด้วยนะ! \n\nเพียงแค่เลือกโซนเพาะปลูก เปิดแท็บเพาะปลูก แล้วคลิกที่ปุ่ม 'ปลูก'</SetGrowingZonePlant.helpText>
+  <SetGrowingZonePlant.helpText>TODO</SetGrowingZonePlant.helpText>
   
   <!-- EN: Shield belts -->
-  <ShieldBelts.label>เข็มขัดสนามพลัง</ShieldBelts.label>
+  <ShieldBelts.label>พลังงานโล่เข็มขัด</ShieldBelts.label>
   <!-- EN: Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand. -->
-  <ShieldBelts.helpText>เข็มขัดสนามพลังหยุดการโจมตีระยะไกลไม่ให้เข้าหรือออก มันไม่มีผลกับการโจมตีระยะประชิด \n\nในการต่อสู้กับเข็มขัดสนามพลัง ถ้าไม่เน้นการยิงปืนไปที่เป้าหมายนั้น ก็เข้าไปสู้ตัวต่อตัวเลย</ShieldBelts.helpText>
+  <ShieldBelts.helpText>TODO</ShieldBelts.helpText>
   
   <!-- EN: TV for sick people -->
   <TVForSickPeople.label>ทีวีสำหรับคนป่วย</TVForSickPeople.label>
   <!-- EN: Sick people can watch TV while laying in bed. -->
-  <TVForSickPeople.helpText>คนป่วยสามารถดูทีวีขณะนอนอยู่บนเตียงได้</TVForSickPeople.helpText>
+  <TVForSickPeople.helpText>TODO</TVForSickPeople.helpText>
   
 </LanguageData>

@@ -8,6 +8,6 @@
   <RepeatCount.label>ทำซ้ำ X ครั้ง</RepeatCount.label>
   
   <!-- EN: do until you have X -->
-  <TargetCount.label>ทำซ้ำจนกว่าจะมี X</TargetCount.label>
+  <TargetCount.label>ทำซ้ำจนกว่าคุณจะมี X</TargetCount.label>
   
 </LanguageData>

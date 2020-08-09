@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: neutral ancients -->
-  <Ancients.label>คนโบราณเป็นกลาง</Ancients.label>
+  <Ancients.label>ชนโบราณ</Ancients.label>
   <!-- EN: Ancients -->
-  <Ancients.fixedName>คนโบราณ</Ancients.fixedName>
+  <Ancients.fixedName>ชนโบราณ</Ancients.fixedName>
   <!-- EN: ancient -->
-  <Ancients.pawnSingular>คนโบราณ</Ancients.pawnSingular>
+  <Ancients.pawnSingular>ชนโบราณ</Ancients.pawnSingular>
   <!-- EN: ancients -->
-  <Ancients.pawnsPlural>เหล่าคนโบราณ</Ancients.pawnsPlural>
+  <Ancients.pawnsPlural>เหล่าชนโบราณ</Ancients.pawnsPlural>
   
   <!-- EN: hostile ancients -->
-  <AncientsHostile.label>คนโบราณเป็นปรปักษ์</AncientsHostile.label>
+  <AncientsHostile.label>ชนโบราณ</AncientsHostile.label>
   <!-- EN: Ancients -->
-  <AncientsHostile.fixedName>คนโบราณ</AncientsHostile.fixedName>
+  <AncientsHostile.fixedName>ชนโบราณ</AncientsHostile.fixedName>
   <!-- EN: ancient -->
-  <AncientsHostile.pawnSingular>คนโบราณ</AncientsHostile.pawnSingular>
+  <AncientsHostile.pawnSingular>ชนโบราณ</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->
-  <AncientsHostile.pawnsPlural>เหล่าคนโบราณ</AncientsHostile.pawnsPlural>
+  <AncientsHostile.pawnsPlural>เหล่าชนโบราณ</AncientsHostile.pawnsPlural>
   
   <!-- EN: insects -->
   <Insect.label>ฝูงแมลง</Insect.label>
   <!-- EN: Sorne Geneline -->
-  <Insect.fixedName>สายยีนซอร์น</Insect.fixedName>
+  <Insect.fixedName>ฝูงแมลง</Insect.fixedName>
   <!-- EN: insect -->
   <Insect.pawnSingular>แมลง</Insect.pawnSingular>
   <!-- EN: insects -->
   <Insect.pawnsPlural>ฝูงแมลง</Insect.pawnsPlural>
   
   <!-- EN: mechanoid hive -->
-  <Mechanoid.label>รังเมคคานอยด์</Mechanoid.label>
-  <Mechanoid.fixedName>รังเมคคานอยด์</Mechanoid.fixedName>
+  <Mechanoid.label>รังเมคานอยด์</Mechanoid.label>
+  <Mechanoid.fixedName>รังเมคานอยด์</Mechanoid.fixedName>
   <!-- EN: mechanoid -->
-  <Mechanoid.pawnSingular>เมคคานอยด์</Mechanoid.pawnSingular>
+  <Mechanoid.pawnSingular>เมคานอยด์</Mechanoid.pawnSingular>
   <!-- EN: mechanoids -->
-  <Mechanoid.pawnsPlural>ฝูงเมคคานอยด์</Mechanoid.pawnsPlural>
+  <Mechanoid.pawnsPlural>ฝูงเมคานอยด์</Mechanoid.pawnsPlural>
   
 </LanguageData>
