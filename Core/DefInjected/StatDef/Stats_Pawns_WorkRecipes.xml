@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: butchery efficiency -->
+  <ButcheryFleshEfficiency.label>ประสิทธิภาพในการแล่เนื้อ</ButcheryFleshEfficiency.label>
+  <!-- EN: The amount of meat produced when butchering flesh creatures.\n\nThe actual amount is also related to the creature's size. -->
+  <ButcheryFleshEfficiency.description>ปริมาณเนื้อที่จะได้ เมื่อแล่สิ่งมีชีวิตมีเนื้อ จำนวนจริงๆขึ้นกับขนาดตัวของสิ่งมีชีวิต</ButcheryFleshEfficiency.description>
+  
+  <!-- EN: butchery speed -->
+  <ButcheryFleshSpeed.label>ความเร็วในการแล่เนื้อ</ButcheryFleshSpeed.label>
+  <!-- EN: The speed at which this person butchers flesh creatures. -->
+  <ButcheryFleshSpeed.description>ความเร็วที่บุคคลนี้แล่สิ่งมีชีวิตมีเนื้อ</ButcheryFleshSpeed.description>
+  
+  <!-- EN: mechanoid shredding efficiency -->
+  <ButcheryMechanoidEfficiency.label>ประสิทธิภาพในการรื้อเมคานอยด์</ButcheryMechanoidEfficiency.label>
+  <!-- EN: The amount of materials yielded when this person shreds a dead mechanoid for resources.\n\nThe actual amount is also related to the mechanoid's size. -->
+  <ButcheryMechanoidEfficiency.description>ปริมาณทรัพยากรที่จะได้เมื่อบุคคลนี้รื้อซากเมคานอยด์ จำนวนจริงๆขึ้นกับขนาดตัวของเมคานอยด์</ButcheryMechanoidEfficiency.description>
+  
+  <!-- EN: mechanoid shredding speed -->
+  <ButcheryMechanoidSpeed.label>ความเร็วในการรื้อเมคานอยด์</ButcheryMechanoidSpeed.label>
+  <!-- EN: The speed at which this person can shred a mechanoid for resources. -->
+  <ButcheryMechanoidSpeed.description>ความเร็วที่บุคคลนี้สามารถรื้อเมคานอยด์</ButcheryMechanoidSpeed.description>
+  
+  <!-- EN: cooking speed -->
+  <CookSpeed.label>ความเร็วในการปรุงอาหาร</CookSpeed.label>
+  <!-- EN: The speed at which this person cooks meals. -->
+  <CookSpeed.description>ความเร็วที่บุคคลนี้ปรุงอาหาร</CookSpeed.description>
+  
+  <!-- EN: drug cooking speed -->
+  <DrugCookingSpeed.label>ความเร็วในการปรุงยา</DrugCookingSpeed.label>
+  <!-- EN: The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints. -->
+  <DrugCookingSpeed.description>ความเร็วที่บุคคลนี้หมักเบียร์ ต้มชา หรือทำยาง่ายๆเช่นม้วนยาสูบ Smokeleaf</DrugCookingSpeed.description>
+  
+  <!-- EN: drug synthesis speed -->
+  <DrugSynthesisSpeed.label>ความเร็วในการสังเคราะห์ยา</DrugSynthesisSpeed.label>
+  <!-- EN: How fast this character synthesizes complex chemical drugs. -->
+  <DrugSynthesisSpeed.description>ตัวละครนี้สามารถสังเคราะห์ยาทางเคมีอันซับซ้อนได้เร็วแค่ไหน</DrugSynthesisSpeed.description>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChance.label>โอกาสอาหารเป็นพิษ</FoodPoisonChance.label>
+  <!-- EN: The probability that this character will inadvertently poison a meal they cook.\n\nAnyone who eats a food-poisoned meal will be temporarily debilitated with pain, weakness, and vomiting. -->
+  <FoodPoisonChance.description>ความเป็นไปได้ซึ่งตัวละครนี้จะทำอาหารให้เป็นพิษโดยไม่เจตนา อาหารเป็นพิษจะทำให้คนที่กินอ่อนแอลงชั่วคราว</FoodPoisonChance.description>
+  <!-- EN: food poison chance (chance to poison a meal) -->
+  <FoodPoisonChance.labelForFullStatList>TODO</FoodPoisonChance.labelForFullStatList>
+  
+  <!-- EN: general labor speed -->
+  <GeneralLaborSpeed.label>ความเร็วในการทำงานทั่วไป</GeneralLaborSpeed.label>
+  <!-- EN: The speed at which this person carries out general labor like making stone blocks, making chemfuel at a refinery, burning items, tailoring clothes, creating art, smithing armor and weapons or smelting slag. This stat applies both to activities that involve no skill, as well as those where the skill affects the quality of the product instead of the speed of production. -->
+  <GeneralLaborSpeed.description>ความเร็วที่บุคคลนี้ทำงานทั่วๆไป เช่น ทำบล็อกหิน สร้างเชื้อเพลิงเคมีที่โรง เผาไอเท็ม ตัดเย็บเสื้อผ้า สร้างสรรศิลปะ สร้างชุดเกราะ อาวุธ หรือหลอมสเล็ก เป็นต้น ค่านี้มีผลกับกิจกรรมทั้งที่แบบไม่ต้องใช้ทักษะ และกับทักษะที่ส่งผลกระทบต่อคุณภาพของผลิตภัณฑ์โดยตรง แทนที่ความเร็วในการผลิต</GeneralLaborSpeed.description>
+  
+  <!-- EN: smelting speed -->
+  <SmeltingSpeed.label>ความเร็วในการหลอม</SmeltingSpeed.label>
+  <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
+  <SmeltingSpeed.description>ความเร็วที่บุคคลนี้หลอมสิ่งของ\n\nในเมื่อการหลอมถือเป็นงานกรรมกร ความเร็วในการหลอมจะไม่ได้รับผลกระทบจากทักษะใดๆ</SmeltingSpeed.description>
+  
+</LanguageData>

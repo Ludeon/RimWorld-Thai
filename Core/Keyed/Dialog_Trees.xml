@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: {0} hurls some epithets into the microphone and disconnects. -->
+  <FactionGreetingHostile>{0} สบถคำหยาบใส่ไมโครโฟน และตัดสัญญาณไป</FactionGreetingHostile>
+  <!-- EN: {0} demands that you make a gesture of goodwill, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nMuttering an insult, {0_pronoun} disconnects. -->
+  <FactionGreetingHostileAppreciative>{0} เรียกร้องให้คุณแสดงท่าทีแห่งไมตรีจิต เช่นนำของขวัญมาให้หนึ่งในถิ่นฐานของ{0_possessive} หรือปล่อยตัวนักโทษของฝ่าย{0_possessive}แบบไร้บาดแผล จนกว่าจะถึงตอนนั้น {0_pronoun}ไม่มีความประสงค์จะเจรจา\n\n{0_pronoun}พึมพัมคำเหยีดหยาม และตัดการติดต่อไป</FactionGreetingHostileAppreciative>
+  <!-- EN: {0} greets {NEGOTIATOR_labelShort} and asks what business you want to handle. -->
+  <FactionGreetingWary>{0} ทักทาย {NEGOTIATOR_labelShort} อย่างระมัดระวัง และถามถึงธุระที่ต้องการ</FactionGreetingWary>
+  <!-- EN: {0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can do to help you. -->
+  <FactionGreetingWarm>{0} ทักทาย {NEGOTIATOR_labelShort} อย่างอบอุ่น และถาม {LEADER_pronoun} สามารถช่วยอะไรคุณได้บ้าง</FactionGreetingWarm>
+
+  <!-- EN: won't do {0} -->
+  <WorkTypeDisablesOption>ไม่ทำ {0}</WorkTypeDisablesOption>
+  <!-- EN: Disconnect -->
+  <Disconnect>ตัดการติดต่อ</Disconnect>
+
+  <!-- Gift offer -->
+  <!-- EN: Offer gift -->
+  <OfferGift>เสนอของขวัญ</OfferGift>
+  <!-- EN: must be ally -->
+  <MustBeAlly>ต้องเป็นพันธมิตร</MustBeAlly>
+  <!-- EN: need {0} goodwill -->
+  <NeedGoodwill>ต้องการ {0} ไมตรีจิต</NeedGoodwill>
+  <!-- EN: need {0} silver near trade beacons -->
+  <NeedSilverLaunchable>ต้องการ {0} แร่เงินใกล้ๆเทรดบีคอน</NeedSilverLaunchable>
+  <!-- EN: not enough silver -->
+  <NotEnoughSilver>มีแร่เงินไม่พอ</NotEnoughSilver>
+  <!-- EN: {0} silver for {1} goodwill -->
+  <SilverForGoodwill>{0} แร่เงินสำหรับ {1} ไมตรีจิต</SilverForGoodwill>
+  <!-- EN: {0} thanks you.\n\n(Goodwill improved by {1}) -->
+  <SilverGiftSent>{0} กล่าวขอบคุณ\n\n(ไมตรีจิตเพิ่มขึ้นอีก {1}).</SilverGiftSent>
+
+  <!-- Trade caravan request -->
+  <!-- EN: Request a trade caravan (cost: {0} goodwill) -->
+  <RequestTrader>ส่งคำขอคาราวานค้าขาย (ค่าใช้จ่าย: {0} ไมตรีจิต)</RequestTrader>
+  <!-- EN: {0} asks what kind of trade caravan you want. -->
+  <ChooseTraderKind>{0} ถามว่า ต้องการกองคาราวานค้าขายแบบไหน</ChooseTraderKind>
+  <!-- EN: {0} agrees to send you a trade caravan. It will arrive within a few days. -->
+  <TraderSent>{0} ตกลงที่จะส่งคาราวานค้าขายมา จะถึงภายในไม่กี่วัน</TraderSent>
+  <!-- EN: wait {0} -->
+  <WaitTime>รอ {0}</WaitTime>
+  
+  <!-- AI core request -->
+  <!-- EN: Request the location of a {0} (cost: {1} silver) -->
+  <RequestAICoreInformation>ร้องขอตำแหน่งของ {0} (ค่าใช้จ่าย: {1} แร่เงิน)</RequestAICoreInformation>
+  <!-- EN: {0} sends the requested information and wishes you good luck. -->
+  <RequestAICoreInformationResult>{0} ส่งข้อมูลที่ร้องขอกลับมาให้ และขอให้คุณโชคดี</RequestAICoreInformationResult>
+  <!-- EN: no more locations known -->
+  <NoKnownAICore>ไม่รู้ตำแหน่งอื่นอีกแล้ว</NoKnownAICore>  
+  
+  <!-- Military aid request -->
+  <!-- EN: Request immediate military aid (cost: {0} goodwill) -->
+  <RequestMilitaryAid>ร้องขอความช่วยเหลือทางการทหารทันที (ค่าใช้จ่าย: {0} ไมตรีจิต)</RequestMilitaryAid>
+  <!-- EN: {0} will not help you fight other factions who are not their enemies. This includes some who are currently threatening you, {1}. Do you still want to call for aid? -->
+  <MilitaryAidConfirmMutualEnemy>{0} จะไม่ช่วยสู้กับฝ่ายอื่นที่ไม่ใช่ปรปักษ์กับพวกเขา นั่นรวมไปถึงพวก {1} ที่คุกคามคุณอยู่ตอนนี้ คุณยังคงต้องการร้องขอความเหลืออีกหรือไม่?</MilitaryAidConfirmMutualEnemy>
+  <!-- EN: Yes, call them anyway. -->
+  <CallConfirm>ใช่, ยังไงก็เรียกพวกเขามา</CallConfirm>
+  <!-- EN: No, never mind. -->
+  <CallCancel>ไม่, ช่างมันเถอะ</CallCancel>
+  <!-- EN: {0} agrees to send fighters to help you. -->
+  <MilitaryAidSent>{0} ตกลงจะส่งเหล่านักรบมาช่วยคุณ</MilitaryAidSent>
+  <!-- EN: {0} apologizes and says they won't be able to arrive in time.\n\n(This faction's technology level is too low for transport pods) -->
+  <CantSendMilitaryAidInTime>{0} ขออภัย และกล่าวว่าพวกเขาไม่สามารถมาถึงได้ทันเวลา\n\n(เทคโนโลยีของฝ่ายนี้ต่ำเกินกว่าจะมีกระสวยขนส่ง)</CantSendMilitaryAidInTime>
+  <!-- EN: hostile visitors present -->
+  <HostileVisitorsPresent>ผู้มาเยือนเป็นปรปักษ์ปรากฏตัว</HostileVisitorsPresent>
+
+</LanguageData>

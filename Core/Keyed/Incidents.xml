@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Mad {ANIMAL_labelShort} -->
+  <LetterLabelAnimalInsanitySingle>{ANIMAL_labelShort} คลั่ง!</LetterLabelAnimalInsanitySingle>
+  <!-- EN: A local {ANIMAL_label} has gone mad. It will attack everyone it sees. -->
+  <AnimalInsanitySingle>{ANIMAL_label} ในท้องถิ่นเกิดอาการบ้าคลั่ง มันจะจู่โจมทุกคนที่เห็น</AnimalInsanitySingle>
+  <!-- EN: Mad {0} -->
+  <LetterLabelAnimalInsanityMultiple>{0} คลั่ง!</LetterLabelAnimalInsanityMultiple>
+  <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
+  <AnimalInsanityMultiple>คลื่นพลังจิตอะไรซักอย่างกวาดผ่านภูมิประเทศไป ชาวนิคมคุณไม่เป็นอะไร แต่ว่า...\n\nดูเหมือน {0} หลายส่วนในพื้นที่ ถูกกดดันจนเกิดบ้าคลั่ง</AnimalInsanityMultiple>
+
+  <!-- EN: Blight: {PLANTDEF_labelPlural} -->
+  <LetterLabelCropBlight>โรคพืช: {PLANTDEF_labelPlural}</LetterLabelCropBlight>
+  <!-- EN: Blight has been discovered on the {PLANTDEF_labelPlural}!
+\nYou should cut or burn the affected plants before the blight spreads. -->
+  <LetterCropBlight>โรคพืชถูกค้นพบบน{PLANTDEF_labelPlural}! \nคุณควรตัดหรือเผาพืชที่ติดโรคทิ้ง ก่อนที่โรคพืชจะระบาดไปทั่ว</LetterCropBlight>
+
+  <!-- EN: Miracle -->
+  <LetterLabelMiracleHeal>ปาฏิหาริย์</LetterLabelMiracleHeal>
+  <!-- EN: {0} has experienced a miraculous recovery! -->
+  <MiracleHeal>{0} ฟื้นฟูตัวขึ้นมาราวกับปาฏิหาริย์!</MiracleHeal>
+
+  <!-- Enemy raids -->
+  <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
+  <EnemyRaidLeaderPresent>หนึ่งใน{LEADER_factionPawnsPlural} - {LEADER_labelShort} เป็นผู้นำฝักฝ่าย</EnemyRaidLeaderPresent>
+
+  <!-- Friendly raids -->
+  <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
+  <FriendlyRaidLeaderPresent>หนึ่งใน{LEADER_factionPawnsPlural} - {LEADER_labelShort} เป็นผู้นำฝักฝ่าย</FriendlyRaidLeaderPresent>
+
+  <!-- EN: Transport pod crash -->
+  <LetterLabelRefugeePodCrash>กระสวยขนส่งตก</LetterLabelRefugeePodCrash>
+  <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
+  <RefugeePodCrash>{PAWN_titleIndef} ชื่อ {PAWN_nameDef} อยู่ในกระสวยขนส่ง ซึ่งกำลังตกลงมาบริเวณใกล้เคียง ถ้า{PAWN_pronoun}รอดชีวิตจากแรงกระแทก {PAWN_pronoun}จะอยู่ในสภาพบาดเจ็บสาหัส</RefugeePodCrash>
+  <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
+  <RefugeePodCrash_Factionless>{PAWN_nameDef} ไม่เกี่ยวข้องกับฝ่ายใดๆ คุณสามารถช่วยเหลือ{PAWN_objective} และหวังว่า{PAWN_pronoun}จะสมัครใจเข้าร่วมเอง หรือไม่ก็จับตัว{PAWN_objective}ไว้ เพื่อเป้าหมายให้เป็นทาส หรือดึงให้เข้าร่วมต่อไป</RefugeePodCrash_Factionless>
+  <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
+  <RefugeePodCrash_Hostile>{PAWN_nameDef} มาจากฝ่าย {PAWN_factionName} ซึ่งเป็นศัตรูกับคุณ คุณสามารถจับตัว{PAWN_objective}ไว้ เพื่อเป้าหมายให้เป็นทาส หรือดึงให้เข้าร่วมต่อไป</RefugeePodCrash_Hostile>
+  <!-- EN: {PAWN_nameDef} is from {PAWN_factionName}. If you rescue {PAWN_objective}, {PAWN_pronoun} may join freely. Otherwise, {PAWN_pronoun} will return home and spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction. -->
+  <RefugeePodCrash_NonHostile>{PAWN_nameDef} มาจากฝ่าย {PAWN_factionName} / หากคุณช่วยเหลือ{PAWN_objective}ไว้ {PAWN_pronoun}อาจสมัครใจเข้าร่วม ไม่เช่นนั้น {PAWN_pronoun}จะเดินทางกลับบ้าน และกระจายไมตรีจิตที่เกิดขึ้นระหว่างทั้งสองฝ่าย\n\nคุณยังสามารถจับตัว{PAWN_objective}ไว้ เพื่อเป้าหมายให้เป็นทาส หรือดึงให้เข้าร่วมต่อไป แต่นั่นจะทำให้ฝ่ายของ{PAWN_possessive}โกรธ</RefugeePodCrash_NonHostile>
+
+  <!-- EN: Cargo pods -->
+  <LetterLabelCargoPodCrash>กระสวยบรรทุกสินค้า</LetterLabelCargoPodCrash>
+  <!-- EN: You have detected a cluster of cargo pods crashing nearby.\n\nPerhaps you'll find something useful in the wreckage. -->
+  <CargoPodCrash>คุณตรวจพบกลุ่มกระสวยบรรทุกสินค้า กำลังตกลงมาบริเวณใกล้เคียง\n\nบางทีคุณอาจจะเจออะไรใช้ประโยชน์ได้ ในซากกระสวยเหล่านั้น</CargoPodCrash>
+
+  <!-- EN: an electrical conduit -->
+  <AnElectricalConduit>ท่อสายไฟ</AnElectricalConduit>
+  <!-- EN: A fault in {0} has caused a short circuit. -->
+  <ShortCircuit>ความผิดพลาดใน {0} ก่อให้เกิดการลัดวงจร</ShortCircuit>
+  <!-- EN: A fault in {0} has caused a short circuit which started a fire. -->
+  <ShortCircuitStartedFire>ความผิดพลาดใน {0} ก่อให้เกิดการลัดวงจร จนเกิดเพลิงลุกไหม้</ShortCircuitStartedFire>
+  <!-- EN: All {0} Wd of energy in the connected batteries has been discharged in an electrical explosion. -->
+  <ShortCircuitDischargedEnergy>พลังงานทั้งหมด {0} Wd ที่เชื่อมต่อกับแบตเตอรี่ถูกคลายประจุออกจากไฟฟ้าระเบิด</ShortCircuitDischargedEnergy>
+  <!-- EN: This large amount of power has created an explosion of considerable size. -->
+  <ShortCircuitWasLarge>ด้วยพลังงานจำนวนขนาดนี้ ก่อให้เกิดการระเบิดที่มีขนาดพอสมควร</ShortCircuitWasLarge>
+  <!-- EN: That really is a huge explosion. Wow. -->
+  <ShortCircuitWasHuge>นั่นมันระเบิดขนาดมหึมาจริงๆ โว้ว</ShortCircuitWasHuge>
+
+  <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2} -->
+  <TraderArrival>ยานพ่อค้ากำลังผ่านมาใกล้เคียงเรา\n\nพวกเขาเป็นที่รู้จักในนาม {0} / พวกเขาเป็น {1}\n\n{2}</TraderArrival>
+  <!-- EN: They're affiliated with {FACTION_name}. -->
+  <TraderArrivalFromFaction>พวกเขามีความผูกพันกับฝ่าย {FACTION_name}</TraderArrivalFromFaction>
+  <!-- EN: They are not affiliated with any faction. -->
+  <TraderArrivalNoFaction>พวกเขาไม่มีความผูกพันกับฝ่ายใดๆ</TraderArrivalNoFaction>
+
+  <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
+  <SingleTravelerPassing>{PAWN_title} จาก {1} กำลังผ่านมา {PAWN_pronoun}ชื่อว่า {PAWN_nameFull}</SingleTravelerPassing>
+  <!-- EN: A group of travelers from {0} are passing by. -->
+  <GroupTravelersPassing>กลุ่มของนักเดินทางจาก {0} กำลังผ่านมา</GroupTravelersPassing>
+
+  <!-- EN: Visitor -->
+  <LetterLabelSingleVisitorArrives>ผู้มาเยือน</LetterLabelSingleVisitorArrives>
+  <!-- EN: {PAWN_titleIndef} from {1} is visiting the colony.\n\n{PAWN_pronoun} is named {PAWN_nameFull}.{3}{4} -->
+  <SingleVisitorArrives>{PAWN_titleIndef} จาก {1} มาเยือนอาณานิคม\n\n{PAWN_pronoun}มีชื่อว่า {PAWN_nameFull} {3}{4}</SingleVisitorArrives>
+  <!-- EN: {PAWN_pronoun} seems to have a few items to trade. -->
+  <SingleVisitorArrivesTraderInfo>ดูเหมือนว่า {PAWN_pronoun} มีไอเท็มบางอย่างมาแลกเปลี่ยน</SingleVisitorArrivesTraderInfo>
+  <!-- EN: {PAWN_pronoun} is the leader of the faction. -->
+  <SingleVisitorArrivesLeaderInfo>{PAWN_pronoun}เป็นผู้นำฝักฝ่าย</SingleVisitorArrivesLeaderInfo>
+  <!-- EN: Visitors -->
+  <LetterLabelGroupVisitorsArrive>ผู้มาเยือน</LetterLabelGroupVisitorsArrive>
+  <!-- EN: A group from {0} are visiting the colony.{1}{2} -->
+  <GroupVisitorsArrive>กลุ่มจาก {0} มาเยือนอาณานิคม {1}{2}</GroupVisitorsArrive>
+  <!-- EN: They seem to have a few items to trade. -->
+  <GroupVisitorsArriveTraderInfo>ดูเหมือนว่าพวกเขาจะมีไอเท็มบางอย่างมาแลกเปลี่ยน</GroupVisitorsArriveTraderInfo>
+  <!-- EN: One of the visitors - {1_labelShort}, is the leader of the faction. -->
+  <GroupVisitorsArriveLeaderInfo>หนึ่งในผู้มาเยือน - {1_labelShort} นั้นเป็นผู้นำฝักฝ่าย</GroupVisitorsArriveLeaderInfo>
+  <!-- EN: Visitors from {0} are leaving. -->
+  <VisitorsLeaving>ผู้มาเยือนจาก {0} กำลังจะจากไป</VisitorsLeaving>
+
+  <!-- EN: Manhunter pack -->
+  <LetterLabelManhunterPackArrived>ฝูงสัตว์โจมตี</LetterLabelManhunterPackArrived>
+  <!-- EN: A pack of man-hunting {0} have entered the area! Driven insane by the disease known as scaria, they will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack powered-off turrets, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
+  <ManhunterPackArrived>ฝูงสัตว์ผู้ล่ามนุษย์ {0} เข้ามาในพื้นที่ / พวกมันมาเดินเตร่ออกล่าเนื้อพวกฮิวแมนนอยด์\n\nพวกมันไม่จู่โจมใส่ประตู เว้นแต่ว่ามันเห็นใครซักคนผ่านประตูนั้นไป หลบอยู่ภายในประตูแล้วคุณจะปลอดภัย พวกมันไม่โจมตีป้อมปืนที่ไม่ทำงาน ดังนั้นปิดป้อมปืนของคุณไม่ให้โดนทำลาย\n\n{0} จะออกจากพื้นที่ในอีก 2-3 วัน คุณสามารถเลือกได้ว่าจะซ่อนและรอ หรือสู้พวกมัน</ManhunterPackArrived>
+  
+  <!-- Crashed ship part-->
+  <!-- EN: The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad. -->
+  <MessageAnimalInsanityPulse>{SOURCE_label} ปล่อยคลื่นพลังจิตออกมาเป็นจังหวะ ซึ่งกดดันให้สัตว์บริเวณใกล้เคียงเกิดบ้าคลั่ง</MessageAnimalInsanityPulse>
+  <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
+  <LetterShipPartDroveColonistInsane>ชิ้นส่วนยานที่ตก โฟกัสปล่อยคลื่นพลังจิตออกมาเป็นจังหวะ ซึ่งกดดันให้ชาวนิคม {0} เป็นบ้า</LetterShipPartDroveColonistInsane>
+  <!-- EN: Awoke {0} days ago -->
+  <AwokeDaysAgo>ตื่นขึ้น {0} วันที่ผ่านมา</AwokeDaysAgo>
+  <!-- EN: Activated {0} days ago -->
+  <ActivatedDaysAgo>เริ่มทำงาน {0} วันที่ผ่านมา</ActivatedDaysAgo>
+  <!-- EN: Opened {0} days ago -->
+  <OpenedDaysAgo>เปิดไปเมื่อ {0} วันที่ผ่านมา</OpenedDaysAgo>
+  <!-- EN: Psychic drone level: {0} -->
+  <PsychicDroneLevel>ระดับพลังเสียงของพลังจิต: {0}</PsychicDroneLevel>
+  <!-- EN: Drone intensifies -->
+  <LetterLabelPsychicDroneLevelIncreased>โดรนทวีความรุนแรง</LetterLabelPsychicDroneLevelIncreased>
+  <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every humanlike in the area now feels more disturbed, terrified, and paranoid. -->
+  <LetterPsychicDroneLevelIncreased>ชิ้นส่วนยานที่ตก กำลังกระจายคลื่นโดรนพลังจิตประเภทที่มีอิทธิพลรุนแรงออกมา ทุกสิ่งมีชีวิตคล้ายมนุษย์ในพื้นที่ตอนนี้ จะรู้สึกแปรปรวน หวาดกลัว และหวาดระแวงมากขึ้น</LetterPsychicDroneLevelIncreased>
+  
+  <!-- Agent revealed -->
+  <!-- EN: Agent -->
+  <LetterLabelAgentRevealed>สายลับ</LetterLabelAgentRevealed>
+  <!-- EN: {0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now. -->
+  <LetterAgentRevealed>{0} ถูกเปิดเผยว่าเป็นสายลับของศัตรูจาก {1}.\n\nพวกเขากำลังพยายามจะหลบหนี</LetterAgentRevealed>
+
+  <!-- Beavers -->
+  <!-- EN: Beavers! -->
+  <LetterLabelBeaversArrived>บีเว่อร์!</LetterLabelBeaversArrived>
+  <!-- EN: A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last source of wood in the region. -->
+  <BeaversArrived>กลุ่มของอัลฟาบีเวอร์ที่หิวกระหายมาถึง\n\nพยายามกำจัดพวกมันให้ได้ ก่อนที่พวกมันจะทำลายต้นไม้ทุกต้นในบริเวณนี้ จนยับเยินไม่เหลือซาก</BeaversArrived>
+  
+  <!-- Self-tame -->
+  <!-- EN: {1_kind} self-tamed -->
+  <LetterLabelAnimalSelfTame>{1_kind} ทำตัวเองให้เชื่อง</LetterLabelAnimalSelfTame>
+  <!-- EN: {0} has become tame. -->
+  <LetterAnimalSelfTame>{0} กลายเป็นสัตว์เลี้ยง</LetterAnimalSelfTame>
+  <!-- EN: {0} has become tame. It is now designated {ANIMAL_nameFull}. -->
+  <LetterAnimalSelfTameAndNameNumerical>{0} กลายเป็นสัตว์เลี้ยง ตอนนี้มันถูกระบุให้เป็น {ANIMAL_nameFull}</LetterAnimalSelfTameAndNameNumerical>
+  <!-- EN: {0} has become tame. Colonists have decided to name it {ANIMAL_nameFull}. -->
+  <LetterAnimalSelfTameAndName>{0} กลายเป็นสัตว์เลี้ยง ชาวนิคมตัดสินใจตั้งชื่อมันว่า {ANIMAL_nameFull}.</LetterAnimalSelfTameAndName>
+
+  <!-- Farm animals wander in -->
+  <!-- EN: {0} join -->
+  <LetterLabelFarmAnimalsWanderIn>{0} เข้าร่วม</LetterLabelFarmAnimalsWanderIn>
+  <!-- EN: A group of {0}, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony. -->
+  <LetterFarmAnimalsWanderIn>กลุ่มของ {0} ซึ่งโดนทอดทิ้งหรือหลงทางมา พเนจรเข้ามาในพื้นที่\n\nดูเหมือนพวกมันคุ้นเคยกับมนุษย์ และได้เข้าร่วมอาณานิคม</LetterFarmAnimalsWanderIn>
+  
+  <!-- Thrumbo passes -->
+  <!-- EN: Rare thrumbos -->
+  <LetterLabelThrumboPasses>ธรัมโบ หายาก</LetterLabelThrumboPasses>
+  <!-- EN: A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days. -->
+  <LetterThrumboPasses>ฝูงธรัมโบเล็กๆเดินเตร่เข้ามาในพื้นที่\n\nรักสงบโดยธรรมชาติ สิ่งมีชีวิตหายากเหล่านี้อันตรายมากเมื่อต้องเผชิญหน้า พ่อค้าบางคนเต็มใจจ่ายเงินเป็นจำนวนมาก สำหรับเขาและหนังอันมีค่าของพวกมัน\n\nธรัมโบจะออกจากพื้นที่ในไม่กี่วัน</LetterThrumboPasses>
+  
+  <!-- Trader caravan -->
+  <!-- EN: {1} from {0} -->
+  <LetterLabelTraderCaravanArrival>{1} จาก {0}</LetterLabelTraderCaravanArrival>
+  <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
+  <LetterTraderCaravanArrival>คาราวานจาก {0} ใกล้จะมาถึง พวกเขาเป็น {1}</LetterTraderCaravanArrival>
+  <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
+  <LetterCaravanArrivalCommonWarning>พวกเขาจะวนเวียนอยู่ในอาณานิคมไม่กี่วันก่อนจะจากไป คุณเลือกโจมตีพวกเขาได้ - แต่นั่นทำให้ฝ่ายของพวกเขาโกรธเคือง!</LetterCaravanArrivalCommonWarning>
+    
+  <!-- Ransom demand -->
+  <!-- EN: Ransom demand at {0} -->
+  <RansomDemandTitle>เรียกค่าไถ่ที่ {0}</RansomDemandTitle>
+  <!-- EN: {1} contacts you on radio. They are holding former colonist {PAWN_labelShort} for ransom.\n\nThey're willing to release {PAWN_objective} back to you in exchange for {2} silver. -->
+  <RansomDemand>{1} ติดต่อคุณผ่านวิทยุ พวกเขาจับอดีตชาวนิคม {PAWN_labelShort} เพื่อเรียกค่าไถ่\n\nพวกเขายินดีที่จะปล่อย{PAWN_objective}กลับคืนมาหาคุณ แลกเปลี่ยนกับ {2} แร่เงิน</RansomDemand>
+  <!-- EN: Accept -->
+  <RansomDemand_Accept>ตกลง</RansomDemand_Accept>
+  <!-- EN: Reject -->
+  <RansomDemand_Reject>ปฏิเสธ</RansomDemand_Reject>
+  
+  <!-- Journey-related -->
+  <!-- EN: Ship found -->
+  <EscapeShipFoundLabel>พบยานแล้ว</EscapeShipFoundLabel>
+  <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <EscapeShipFound>คุณมาถึงพิกัดที่ Charlon Whitestone ส่งมาและค้นพบยานอวกาศที่ซ่อนอยู่\n\nเตาปฏิกรณ์ของยานยังอยู่ในโหมดจำศีลลึก ซึ่งยังบินไม่ได้ คุณสามารถสตาร์ทมันขึ้นมาได้ ด้วยการโต้ตอบกับแกนคอมพิวเตอร์\n\nCharlon Whitestone เตือนคุณว่ากระบวนการเริ่มต้นจะใช้เวลาราว 15 วัน และรูปแบบพลังงานที่เกิดขึ้นจะสามารถตรวจเจอได้จากระยะไกล\n\nด้วยรูปแบบพลังงานบ่งชี้ ถึงยานบินมีความสามารถเดิมทางข้ามอวกาศ ซึ่งจะดึงดูดพวกแก๊งนักปล้นผู้ที่สิ้งหวัง และฝูงเมคานอยด์จำนวนมาก\n\nคุณจะถูกจู่โจมรุนแรงแบบที่ไม่เคยเห็นมาก่อน โปรดแน่ใจว่าคุณเตรียมพร้อมแนวป้องกันแล้ว</EscapeShipFound>
+  <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days. -->
+  <EscapeShipFoundPeaceful>คุณมาถึงพิกัดที่ Charlon Whitestone ส่งมาและค้นพบยานอวกาศที่ซ่อนอยู่\n\nเตาปฏิกรณ์ของยานยังอยู่ในโหมดจำศีลลึก ซึ่งยังบินไม่ได้ คุณสามารถสตาร์ทมันขึ้นมาได้ ด้วยการโต้ตอบกับแกนคอมพิวเตอร์\n\nCharlon Whitestone เตือนคุณว่ากระบวนการเริ่มต้นจะใช้เวลาราว 15 วัน</EscapeShipFoundPeaceful>
+  <!-- EN: Ship destroyed -->
+  <EscapeShipLostLabel>ยานถูกทำลาย</EscapeShipLostLabel>
+  <!-- EN: (*Name)Charlon Whitestone(/Name) sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
+  <EscapeShipLost>Charlon Whitestone ส่งข้อความถึงคุณ\n\nเขาเห็นว่าคุณสูญเสียการควบคุมยานที่จอดอยู่ เพื่อป้องกันไม่ให้มันตกไปอยู่ในมือคนผิด เขาจำใจต้องกระตุ้นกลไกทำลายตัวเองของยาน ยานตอนนี้กลายเป็นเพียงแค่หลุมอุกาบาตไปแล้ว\n\nคุณจำเป็นต้องหาทางออกอื่นจากดาวเคราะห์นี้</EscapeShipLost>
+
+  <!-- Caravan meeting -->
+  <!-- EN: Caravan meeting by {0} -->
+  <CaravanMeetingTitle>การประชุมกองคาราวาน โดย {0}</CaravanMeetingTitle>
+  <!-- EN: {0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2} -->
+  <CaravanMeeting>{0} ได้พบกับกองคาราวานจาก {1} อย่างสงบ คาราวานอื่นประกอบด้วย:\n\n{2}</CaravanMeeting>
+  <!-- EN: Trade -->
+  <CaravanMeeting_Trade>ซื้อขาย</CaravanMeeting_Trade>
+  <!-- EN: Attack -->
+  <CaravanMeeting_Attack>โจมตี</CaravanMeeting_Attack>
+  <!-- EN: Move on -->
+  <CaravanMeeting_MoveOn>เดินต่อไป</CaravanMeeting_MoveOn>
+  <!-- EN: no caravan members capable of trading -->
+  <CaravanMeeting_TradeIncapable>ไม่มีสมาชิกคาคาวานที่มีความสามารถในการซื้อขาย</CaravanMeeting_TradeIncapable>
+  <!-- EN: need a trader with the title of {0} from {1_name} -->
+  <CaravanMeeting_NoPermit>ต้องการผู้ค้ามีบรรดาศักดิ์ {0} จาก {1_name}</CaravanMeeting_NoPermit>
+  
+  <!-- Caravan request -->
+  <!-- EN: Caravan request -->
+  <LetterLabelCaravanRequest>คำร้องจากคาราวาน</LetterLabelCaravanRequest>
+  <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
+  <LetterCaravanRequest>ถิ่นฐานใกล้เคียงชื่อ {0} ส่งคำขอทำการค้าพิเศษมาหาคุณ พวกเขาต้องการซื้อ:\n\n  {1} (มูลค่า {2})\n\nเป็นการแลกเปลื่ยน พวกเขาเสนอ:\n\n  {3} (มูลค่า {4})\n\nคำขอนี้หมดอายุหลังจาก: {5}\n\nถ้าคุณต้องการทำการค้านี้ ให้ส่งคาราวานพร้อมสิ่งที่โดนร้องขอมา คาดการเวลาใช้เดินทาง {6} / คุณสามารถเรียกดูข้อเสนอนี้ได้อีกครั้ง โดยเลือก {0} บนแผนที่โลก</LetterCaravanRequest>
+  <!-- EN: Requesting: {0} ({2}) ({1} left) -->
+  <CaravanRequestInfo>ต้องการ: {0} ({3}), รางวัล: {1} ({4}) ({2} ซ้าย)</CaravanRequestInfo>
+  <!-- EN: normal quality or better -->
+  <NormalQualityOrBetter>คุณภาพปกติหรือดีกว่า</NormalQualityOrBetter>
+  <!-- EN: not tainted -->
+  <NotTainted>ไม่แปดเปื้อน</NotTainted>
+
+  <!-- Caravan demand -->
+  <!-- EN: Caravan demand by {0} -->
+  <CaravanDemandTitle>คาราวานโดนเรียกร้องโดย {0}</CaravanDemandTitle>
+  <!-- EN: {0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3} -->
+  <CaravanDemand>{0} ถูกดักซู่มโดยกลุ่ม {2} {4} จาก {1} / พวกเขาจะโจมตี เว้นแต่คุณให้สิ่งเหล่านี้แก่พวกเขา:\n\n{3}</CaravanDemand>
+  <!-- EN: Give and pass -->
+  <CaravanDemand_Give>ยอมให้และผ่านไป</CaravanDemand_Give>
+  <!-- EN: Refuse and fight -->
+  <CaravanDemand_Fight>ปฏิเสธและต่อสู้</CaravanDemand_Fight>
+
+  <!-- Site no longer hostile -->
+  <!-- EN: Quest no longer available -->
+  <LetterLabelSiteNoLongerHostile>เควสท์นี้ไม่ว่างอีกต่อไป</LetterLabelSiteNoLongerHostile>
+  <!-- EN: Quests no longer available -->
+  <LetterLabelSiteNoLongerHostileMulti>เควสท์ไม่ว่างอีกต่อไป</LetterLabelSiteNoLongerHostileMulti>
+  <!-- EN: Because you are no longer hostile with {0}, the {1} site is no longer available. -->
+  <LetterSiteNoLongerHostile>เพราะคุณไม่ได้เป็นปรปักษ์กับ {0} พื้นที่ {1} จึงไม่ว่างอีกต่อไป</LetterSiteNoLongerHostile>
+  <!-- EN: Because you are no longer hostile with {0}, the following sites are no longer available -->
+  <LetterSiteNoLongerHostileMulti>เพราะคุณไม่ได้เป็นปรปักษ์กับ {0} พื้นที่ต่อไปนี้ {1} จึงไม่ว่างอีกต่อไป</LetterSiteNoLongerHostileMulti>
+
+  <!-- Quest asker faction hostile -->
+  <!-- EN: Quest failed -->
+  <LetterLabelQuestAskerFactionHostile>เควสล้มเหลว</LetterLabelQuestAskerFactionHostile>
+  <!-- EN: The quest is now incompletable because {FACTION_name} is hostile. -->
+  <LetterQuestAskerFactionHostile>เควสไม่สามารถทำให้สำเร็จได้อีกต่อไป เนื่องจาก {FACTION_name} กลายเป็นปรปักษ์</LetterQuestAskerFactionHostile>
+
+  <!-- Quest asker captured -->
+  <!-- EN: Quest failed -->
+  <LetterLabelQuestAskerCaptured>เควสล้มเหลว</LetterLabelQuestAskerCaptured>
+  <!-- EN: The quest is now incompletable because {SUBJECT_definite} has been captured. -->
+  <LetterQuestAskerCaptured>เควสไม่สามารถทำให้สำเร็จได้อีกต่อไป เนื่องจาก {SUBJECT_definite} ถูกจับตัวไป</LetterQuestAskerCaptured>
+
+  <!-- Quest asker died -->
+  <!-- EN: Quest failed -->
+  <LetterLabelQuestAskerDied>เควสล้มเหลว</LetterLabelQuestAskerDied>
+  <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
+  <LetterQuestAskerDied>เควสไม่สามารถทำให้สำเร็จได้อีกต่อไป เนื่องจาก {SUBJECT_definite} ตาย</LetterQuestAskerDied>
+
+</LanguageData>
