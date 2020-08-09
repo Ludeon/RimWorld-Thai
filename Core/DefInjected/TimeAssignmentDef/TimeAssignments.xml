@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anything -->
+  <Anything.label>อะไรก็ได้</Anything.label>
+  
+  <!-- EN: recreation -->
+  <Joy.label>ผ่อนคลาย</Joy.label>
+  
+  <!-- EN: sleep -->
+  <Sleep.label>นอนหลับ</Sleep.label>
+  
+  <!-- EN: work -->
+  <Work.label>ทำงาน</Work.label>
+  
+</LanguageData>

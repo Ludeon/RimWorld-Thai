@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: shield belt -->
+  <Apparel_ShieldBelt.label>เข็มขัดโล่</Apparel_ShieldBelt.label>
+  <!-- EN: A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP. -->
+  <Apparel_ShieldBelt.description>อุปกรณ์สะท้อนโพรเจกไทล์ มันจะพยายามหยุดยั้งโพรเจกไทล์หรือเศษกระสุนที่พุ่งเข้ามา แต่ไม่ทำอะไรเลย เมื่อเป็นผลจากการรบประชิดหรือความร้อน, มันกันไม่ให้ผู้ใส่ยิงกระสุนออกไป และจะดับไปทันทีหากโดน EMP</Apparel_ShieldBelt.description>
+  
+  <!-- EN: smokepop belt -->
+  <Apparel_SmokepopBelt.label>เข็มขัดสโม้คป๊อบ</Apparel_SmokepopBelt.label>
+  <!-- EN: An automatic single-use defensive smokescreen. If the wearer is hit by a projectile, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. -->
+  <Apparel_SmokepopBelt.description>ระบบป้องกันด้วยควันระเบิดแบบใช้ครั้งเดียว ถ้าผู้ใส่ถูกโพรเจกไทล์พุ่งใส่ มันจะปล่อยกลุ่มควันปกปิดการโดนเล็งยิงเข้ามา และป้องกันไม่ให้โดนป้อมปืนล็อคเป้าหมาย</Apparel_SmokepopBelt.description>
+  
+</LanguageData>

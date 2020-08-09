@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeavers -->
+  <Alphabeavers.label>อัลฟ่าบีเวอร์</Alphabeavers.label>
+  
+  <!-- EN: ambrosia sprout -->
+  <AmbrosiaSprout.label>ต้นอ่อนกระยาทิพย์</AmbrosiaSprout.label>
+  <!-- EN: Ambrosia sprout -->
+  <AmbrosiaSprout.letterLabel>ต้นอ่อนกระยาทิพย์</AmbrosiaSprout.letterLabel>
+  <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
+  <AmbrosiaSprout.letterText>พุ่มของต้นกระยาทิพย์ลึกลับโผล่งอกใกล้ๆ! ถ้าคุณรอให้พืชมันโต คุณสามารถเก็บผลอันแสนอร่อย ให้ความสำราญ และออกเสพติดนิดๆ ได้</AmbrosiaSprout.letterText>
+  
+  <!-- EN: cold snap -->
+  <ColdSnap.label>หนาววูบ</ColdSnap.label>
+  <!-- EN: Cold snap -->
+  <ColdSnap.letterLabel>อากาศหนาววูบ</ColdSnap.letterLabel>
+  <ColdSnap.letterText>เกิดอากาศหนาววูบผิดปกติ\n\nหนาววูบสามารถฆ่าคนได้รวดเร็วจากอาการตัวเย็นเกินไป ให้แน่ใจว่าสร้างพื้นที่กักความร้อน เพื่อให้มีชีวิตรอด ใส่ความนุ่งห่มที่เหมาะสม และพยายามเก็บเกี่ยวผลผลิตก่อนที่พืชจะแข็งตาย</ColdSnap.letterText>
+  
+  <!-- EN: crop blight -->
+  <CropBlight.label>พืชผลเสีย</CropBlight.label>
+  
+  <!-- EN: farm animals wander in -->
+  <FarmAnimalsWanderIn.label>สัตว์ฟาร์มหลงเข้ามา</FarmAnimalsWanderIn.label>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>พายุฉับพลัน</Flashstorm.label>
+  <!-- EN: Flashstorm -->
+  <Flashstorm.letterLabel>พายุฉับพลัน</Flashstorm.letterLabel>
+  <Flashstorm.letterText>พายุประหลาดในวงจำกัด กำลังถล่มพื้นที่เล็กๆด้วยฟ้าผ่า นี่อาจะทำให้เกิดเพลิงไหม้ขนานใหญ่</Flashstorm.letterText>
+  
+  <!-- EN: heat wave -->
+  <HeatWave.label>คลื่นความร้อน</HeatWave.label>
+  <!-- EN: Heat wave -->
+  <HeatWave.letterLabel>คลื่นความร้อน</HeatWave.letterLabel>
+  <HeatWave.letterText>เกิดคลื่นความร้อนทผิดปกติ\n\nคลื่นความร้อนสามารถฆ่าคนได้รวดเร็วจากอาการลมแดด ทำตัวให้เย็นด้วยการสร้างเครื่องทำความเย็นในอาคาร หรือเข้าไปลึกๆภายใต้ภูเขา</HeatWave.letterText>
+  
+  <!-- EN: herd migration -->
+  <HerdMigration.label>ฝูงสัตว์ย้ายถิ่น</HerdMigration.label>
+  <!-- EN: Animal migration: {0} -->
+  <HerdMigration.letterLabel>สัตว์โยกย้ายถิ่นฐาน: {0}</HerdMigration.letterLabel>
+  <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
+  <HerdMigration.letterText>กลุ่มของ {0} กำลังเดินผ่านพื้นที่\n\nหากไม่โดนรบกวน พวกมันจะไม่โจมตี</HerdMigration.letterText>
+  
+  <!-- EN: meteorite impact -->
+  <MeteoriteImpact.label>อุกกาบาตตก</MeteoriteImpact.label>
+  <!-- EN: Meteorite -->
+  <MeteoriteImpact.letterLabel>อุกกาบาต</MeteoriteImpact.letterLabel>
+  <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
+  <MeteoriteImpact.letterText>มีอุกกาบาตขนาดใหญ่ตกลงมาในบริเวณนี้ ทิ้งไว้ด้วยก้อนของ {0}</MeteoriteImpact.letterText>
+  
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>โดรนพลังจิต</PsychicDrone.label>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>พลังจิตปลอบประโลม</PsychicSoothe.label>
+  
+  <!-- EN: ransom demand -->
+  <RansomDemand.label>เรียกค่าไถ่</RansomDemand.label>
+  <!-- EN: Ransom demand -->
+  <RansomDemand.letterLabel>เรียกค่าไถ่</RansomDemand.letterLabel>
+  
+  <!-- EN: transport pod crash -->
+  <RefugeePodCrash.label>กระสวยขนส่งตก</RefugeePodCrash.label>
+  
+  <!-- EN: resource pod crash -->
+  <ResourcePodCrash.label>กระสวยทรัพยากรตก</ResourcePodCrash.label>
+  
+  <!-- EN: self-tame -->
+  <SelfTame.label>สัตว์เชื่องเอง</SelfTame.label>
+  
+  <!-- EN: short circuit -->
+  <ShortCircuit.label>ไฟฟ้าลัดวงจร</ShortCircuit.label>
+  
+  <!-- EN: thrumbos pass -->
+  <ThrumboPasses.label>ธรัมโบเดินผ่าน</ThrumboPasses.label>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>ฝุ่นรังสีพิษ</ToxicFallout.label>
+  <!-- EN: Toxic fallout -->
+  <ToxicFallout.letterLabel>ฝุ่นรังสีพิษ</ToxicFallout.letterLabel>
+  <ToxicFallout.letterText>ไฟสารเคมีห่างออกไป ได้ปล่อยฝุ่นพิษออกมาทั่วทั้งภูมิภาคนี้\n\nใครหรือตัวอะไรก็ตามที่ไม่ได้อยู่ใต้หลังคาจะค่อยๆป่วย เพราะฝุ่นเคมีที่ฟุ้งเต็มชั้นบรรยากาศ\n\nนี่อาจอยู่นานระหว่างไม่กี่วัน หรือจนกระทั่งข้ามฤดู</ToxicFallout.letterText>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>ฤดูหนาวจากภูเขาไฟ</VolcanicWinter.label>
+  <!-- EN: Volcanic winter -->
+  <VolcanicWinter.letterLabel>ฤดูหนาวจากภูเขาไฟ</VolcanicWinter.letterLabel>
+  <VolcanicWinter.letterText>ภูเขาไฟขนาดใหญ่ห่างไกลออกไปเกิดปะทุขึ้น ปล่อยเถ้าภูเขาไฟนับล้านลูกบาศก์กิโลเมตรขึ้นสู่ชั้นบรรยากาศ \n\nเถ้าภูเขาไฟในชั้นบรรยากาศขะบดบังแสงอาทิตย์ อุณหภูมิจะลดลง พืชจะประสบอาการขาดแสง สภาวะนี้อาจจบภายในสองสามสัปดาห์ หรืออาจกินเวลาหลาย quadrums</VolcanicWinter.letterText>
+  
+  <!-- EN: wanderer join -->
+  <WandererJoin.label>คนหลงทางเข้าร่วม</WandererJoin.label>
+  <!-- EN: Wanderer joins: {PAWN_nameDef} -->
+  <WandererJoin.letterLabel>คนหลงทางเข้าร่วม</WandererJoin.letterLabel>
+  <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
+  <WandererJoin.letterText>{PAWN_kind}ชื่อ {PAWN_nameDef} มาถึงและเข้าร่วมอาณานิคม {PAWN_pronoun}เขาเป็น {PAWN_title}\n\n{PAWN_pronoun}ยินดีจะช่วยลงแรงให้กับอาณานิคม แต่เขาจะไม่จากไปโดยสมัครใจ ถ้าคุณไม่ต้องการ {PAWN_nameDef} คุณสามารถขับไล่{PAWN_objective} ขาย{PAWN_objective}เป็นทาส หรือแค่ฆ่า{PAWN_objective}เสีย อย่างไรก็ตาม ชาวนิคมคนอื่นๆอาจเกิดความกังวลใจกับการกกระทำเหล่านั้น</WandererJoin.letterText>
+  
+  <!-- EN: wild man wanders in -->
+  <WildManWandersIn.label>คนป่าหลงเข้ามา</WildManWandersIn.label>
+  <!-- EN: {PAWN_kind} wanders in -->
+  <WildManWandersIn.letterLabel>{PAWN_kind}หลงเข้ามา</WildManWandersIn.letterLabel>
+  <!-- EN: A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}. -->
+  <WildManWandersIn.letterText>คนผู้อาศัยท่ามกลางสัตว์ป่าหลงเข้ามาในพื้นที่ {PAWN_pronoun}เรียกว่า {0}\n\nคุณสามารถลองทำให้เชื่องหรือจับกุม{PAWN_objective}</WildManWandersIn.letterText>
+  
+</LanguageData>

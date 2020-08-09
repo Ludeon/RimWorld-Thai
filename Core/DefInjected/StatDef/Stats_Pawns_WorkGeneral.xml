@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal gather speed -->
+  <AnimalGatherSpeed.label>ความเร็วในการเก็บเกี่ยวจากสัตว์</AnimalGatherSpeed.label>
+  <!-- EN: The speed at which this person milks, shears, and otherwise gathers resources from animals. -->
+  <AnimalGatherSpeed.description>ความเร็วที่บุคคลนี้ รีดนม ตัดขน หรือเก็บเกี่ยวผลผลิตใดๆจากสัตว์</AnimalGatherSpeed.description>
+  
+  <!-- EN: animal gather yield -->
+  <AnimalGatherYield.label>ผลผลิต เก็บเกี่ยวจากสัตว์</AnimalGatherYield.label>
+  <!-- EN: The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal.\n\nHigher percentages reduce the chance of wasting the product. -->
+  <AnimalGatherYield.description>เปอร์เซ็นผลผลิตที่ได้รับเมื่อตัดขน รีดนม หรือเก็บเกี่ยวผลผลิตใดๆจากสัตว์ ยิ่งเปอร์เซ็นมากยิ่งลดโอกาศผลผลิตจะสูญเสียไป</AnimalGatherYield.description>
+  
+  <!-- EN: construction speed -->
+  <ConstructionSpeed.label>ความเร็วในการก่อสร้าง</ConstructionSpeed.label>
+  <!-- EN: The speed at which this person constructs and repairs buildings. -->
+  <ConstructionSpeed.description>ความเร็วที่บุคคลนี้ก่อสร้างและซ่อมแซมสิ่งปลูกสร้าง</ConstructionSpeed.description>
+  
+  <!-- EN: construct success chance -->
+  <ConstructSuccessChance.label>โอกาสสำเร็จในการก่อสร้าง</ConstructSuccessChance.label>
+  <!-- EN: The chance that this person will succeed in constructing something.\nFailing means wasting time and resources. -->
+  <ConstructSuccessChance.description>โอกาศที่บุคคลนี้จะทำสำเร็จเมื่อก่อสร้างสิ่งใดๆ ความผิดพลาดหมายถึงเสียเวลาและทรัพยากร</ConstructSuccessChance.description>
+  
+  <!-- EN: deep drilling speed -->
+  <DeepDrillingSpeed.label>TODO</DeepDrillingSpeed.label>
+  <!-- EN: A speed at which this person uses a deep drill to extract underground resources. -->
+  <DeepDrillingSpeed.description>TODO</DeepDrillingSpeed.description>
+  
+  <!-- EN: repair success chance -->
+  <FixBrokenDownBuildingSuccessChance.label>โอกาสสำเร็จในการซ่อมแซม</FixBrokenDownBuildingSuccessChance.label>
+  <!-- EN: The chance that this person will successfully repair a broken down building using a component.\n\nFailing means wasting time and resources.\nNote that this only applies to repairing breakdowns, which is different from repairing damage. -->
+  <FixBrokenDownBuildingSuccessChance.description>โอกาสที่บุคคลนี้จะซ่อมแซมอาคารพังด้วยส่วนประกอบต่างๆได้สำเร็จ ความผิดพลาดหมายถึงเสียเวลาและทรัพยากร โน้ตว่านี้ค่านี้มีผลเมื่อซ่อมแซมของพังเท่านั้น ซึ่งจะแตกต่างกับการซ่อมแซมสิ่งที่ได้รับความเสียหาย</FixBrokenDownBuildingSuccessChance.description>
+  
+  <!-- EN: hunting stealth -->
+  <HuntingStealth.label>ซ่อนตัวล่าสัตว์</HuntingStealth.label>
+  <!-- EN: This stat reduces the chance of hunted animals attacking the hunter.\n\nA 0% score means no reduction.\nA 100% score means animals never attack. -->
+  <HuntingStealth.description>ค่านี้นำไปลดโอกาสที่สัตว์ถูกล่าจะหันมาโจมตีพราน, คะแนน 0% หมายความว่าไม่มีการลดโอกาสใดๆ, คะแนน 100% หมายความว่าสัตว์จะไม่มีการโจมตีกลับ</HuntingStealth.description>
+  
+  <!-- EN: mining speed -->
+  <MiningSpeed.label>ความเร็วในการขุดเหมือง</MiningSpeed.label>
+  <!-- EN: A speed at which this person mines away walls. -->
+  <MiningSpeed.description>ความเร็วที่บุคคลนี้ขุดกำแพงและเจาะพื้นหาทรัพยากรลึก</MiningSpeed.description>
+  
+  <!-- EN: mining yield -->
+  <MiningYield.label>ผลผลิต ขุดเหมือง</MiningYield.label>
+  <!-- EN: The percentage of mined resources a miner will produce.\n\nThis applies to both wall mining and deep drill mining.\nThis doesn't affect the production rate of rock chunks from deep drills. -->
+  <MiningYield.description>เปอร์เซ็นทรัพยากรที่ขุดได้ ค่านี้มีผลกับเฉพาะเมื่อขุดกำแพงหรือเจาะพื้นลึกเท่านั้น ไม่มีผลต่ออัตราการผลิตจากชิ้นส่วนหิน</MiningYield.description>
+  
+  <!-- EN: plant harvest yield -->
+  <PlantHarvestYield.label>ผลผลิต เก็บเกี่ยวจากพืช</PlantHarvestYield.label>
+  <!-- EN: The yield this person gets when harvesting plants.\n\nLow yields give a chance that this person will accidentally waste the harvest. -->
+  <PlantHarvestYield.description>ผลผลิตที่บุคคลนี้จะเก็บเกี่ยวได้จากพืช ค่าผลผลิตต่ำทำให้เกิดโอกาสที่บุคคลนี้จะเก็บเกี่ยวผลผลิตพลาด</PlantHarvestYield.description>
+  
+  <!-- EN: plant work speed -->
+  <PlantWorkSpeed.label>ความเร็วในการทำงานกับพืช</PlantWorkSpeed.label>
+  <!-- EN: The speed at which this person sows and harvests plants. -->
+  <PlantWorkSpeed.description>ความเร็วที่บุคคลนี้ปลูกและเก็บเกี่ยวพืช</PlantWorkSpeed.description>
+  
+  <!-- EN: research speed -->
+  <ResearchSpeed.label>ความเร็วในการวิจัย</ResearchSpeed.label>
+  <!-- EN: How fast this person performs research and how quickly they can find things using scanning equipment. -->
+  <ResearchSpeed.description>บุคคลนี้ค้นความวิจัยได้เร็วแค่ไหน และความเร็วเมื่อค้นหาสิ่งต่างๆด้วยเครื่องแสกน</ResearchSpeed.description>
+  
+  <!-- EN: smoothing speed -->
+  <SmoothingSpeed.label>ความเร็วในการขัดเรียบ</SmoothingSpeed.label>
+  <!-- EN: A multiplier on the speed at which this person smooths rough stone floors and walls. -->
+  <SmoothingSpeed.description>ตัวคูณต่อความเร็วที่บุคลลนี้ขัดพื้นและกำแพงหินให้เรียบ</SmoothingSpeed.description>
+  
+  <!-- EN: global work speed -->
+  <WorkSpeedGlobal.label>ความเร็วในการทำงาน</WorkSpeedGlobal.label>
+  <!-- EN: A multiplier on a character's speed at doing any kind of work. -->
+  <WorkSpeedGlobal.description>ตัวคูณต่อความเร็วในการทำงานของตัวละคร ต่องานประเภทใดๆก็ตาม</WorkSpeedGlobal.description>
+  
+</LanguageData>

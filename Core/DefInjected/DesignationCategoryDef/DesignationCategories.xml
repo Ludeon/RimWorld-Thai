@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: floors -->
+  <Floors.label>พื้น</Floors.label>
+  
+  <!-- EN: furniture -->
+  <Furniture.label>เฟอร์นิเจอร์</Furniture.label>
+  
+  <!-- EN: recreation -->
+  <Joy.label>ผ่อนคลาย</Joy.label>
+  
+  <!-- EN: misc -->
+  <Misc.label>เบ็ดเตล็ด</Misc.label>
+  
+  <!-- EN: orders -->
+  <Orders.label>สั่งการ</Orders.label>
+  
+  <!-- EN: power -->
+  <Power.label>พลังงาน</Power.label>
+  
+  <!-- EN: production -->
+  <Production.label>การผลิต</Production.label>
+  
+  <!-- EN: security -->
+  <Security.label>ความปลอดภัย</Security.label>
+  
+  <!-- EN: ship -->
+  <Ship.label>ยาน</Ship.label>
+  
+  <!-- EN: structure -->
+  <Structure.label>โครงสร้าง</Structure.label>
+  
+  <!-- EN: temperature -->
+  <Temperature.label>อุณหภูมิ</Temperature.label>
+  
+  <!-- EN: zone -->
+  <Zone.label>โซน</Zone.label>
+  
+</LanguageData>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: stony soil -->
+  <Gravel.label>ดินผสมหิน</Gravel.label>
+  <!-- EN: gravel -->
+  <Gravel.tools.gravel.label>กรวด</Gravel.tools.gravel.label>
+  
+  <!-- EN: Ice -->
+  <Ice.label>น้ำแข็ง</Ice.label>
+  
+  <!-- EN: marshy soil -->
+  <MarshyTerrain.label>ดินชุ่มน้ำ</MarshyTerrain.label>
+  <!-- EN: mud -->
+  <MarshyTerrain.tools.mud.label>โคลน</MarshyTerrain.tools.mud.label>
+  
+  <!-- EN: lichen-covered soil -->
+  <MossyTerrain.label>ดินปกคลุมด้วยไลเคน</MossyTerrain.label>
+  
+  <!-- EN: mud -->
+  <Mud.label>โคลน</Mud.label>
+  <!-- EN: mud -->
+  <Mud.tools.mud.label>โคลน</Mud.tools.mud.label>
+  
+  <!-- EN: sand -->
+  <Sand.label>ทราย</Sand.label>
+  <!-- EN: sand -->
+  <Sand.tools.sand.label>ทราย</Sand.tools.sand.label>
+  
+  <!-- EN: soft sand -->
+  <SoftSand.label>ทรายอ่อน</SoftSand.label>
+  <!-- EN: sand -->
+  <SoftSand.tools.sand.label>ทราย</SoftSand.tools.sand.label>
+  
+  <!-- EN: soil -->
+  <Soil.label>ดิน</Soil.label>
+  <!-- EN: dirt -->
+  <Soil.tools.dirt.label>ดิน</Soil.tools.dirt.label>
+  
+  <!-- EN: rich soil -->
+  <SoilRich.label>ดินอุดมสมบูรณ์</SoilRich.label>
+  <!-- EN: dirt -->
+  <SoilRich.tools.dirt.label>ดิน</SoilRich.tools.dirt.label>
+  
+</LanguageData>

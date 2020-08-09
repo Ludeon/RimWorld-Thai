@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: construction speed -->
+  <ConstructionSpeedFactor.label>ความเร็วก่อสร้าง</ConstructionSpeedFactor.label>
+  <!-- EN: The speed at which buildings made of this are constructed is multiplied by this value.\n\nSome materials, like stone, are slow to build from, while others, like wood, are fast. -->
+  <ConstructionSpeedFactor.description>ความเร็วในการก่อสร้างอาคารด้วยวัสดุนี้ถูกคูณด้วยค่านี้ วัสดุบางประเภทเช่นหินจะใช้เวลาสร้างช้า ในขณะวัสดุเช่นไม้สามารถสร้างได้เร็ว</ConstructionSpeedFactor.description>
+  <!-- EN: construction speed (material factor) -->
+  <ConstructionSpeedFactor.labelForFullStatList>TODO</ConstructionSpeedFactor.labelForFullStatList>
+  
+  <!-- EN: medical potency -->
+  <MedicalPotency.label>ศักยภาพยา</MedicalPotency.label>
+  <!-- EN: How effective this is when used to tend wounds and diseases, or do surgery.\n\nHigher medical potency improves the quality of tending, and acts as a multiplier on the chance of success during surgery.\nMedical potency is just one factor in medical outcomes, among many others, including doctor ability, equipment, cleanliness, and luck. -->
+  <MedicalPotency.description>บ่งบอกว่ามีประสิทธิผลขนาดไหนเมื่อใช้รักษาแผล โรค หรือใช้ผ่าตัด, ยาที่มีศักยภาพสูงช่วยให้คุณภาพการรักษาดีขึ้น ทำหน้าที่เหมือนตัวคูณต่อโอกาสสำเร็จในการผ่าตัด, ศักยภาพยาเป็นแค่ปัจจัยส่วนหนึ่งในหลายๆปัจจัยที่นำไปสู่งผลการรักษา รวมไปถึงความสามารถหมอ อุปกรณ์ ความสะอาด และโชค</MedicalPotency.description>
+  
+  <!-- EN: medical tend quality maximum -->
+  <MedicalQualityMax.label>คุณภาพสูงสุดในการรักษา</MedicalQualityMax.label>
+  <!-- EN: The maximum quality of medical tending that can be achieved while using this.\n\nBetter tend quality allows skilled doctors to treat wounds better, as well as more reliably. -->
+  <MedicalQualityMax.description>บ่งบอกคุณภาพสูงสุดของการรักษาที่สามารถเป็นไปได้เมื่อใช้สิ่งนี้ การที่มีคุณภาพการรักษาดีๆ เปิดโอกาสหมอรักษาแผลได้ดีและน่าเชื่อถือตามไปด้วย</MedicalQualityMax.description>
+  
+  <!-- EN: meditation psyfocus bonus -->
+  <MeditationFocusStrength.label>TODO</MeditationFocusStrength.label>
+  <!-- EN: The amount of extra psyfocus someone gains by focusing on this object during meditation, in addition to their own base rate of meditation psyfocus gain.\n\nFor some objects, this number can change depending on the surroundings and the person doing the meditating. -->
+  <MeditationFocusStrength.description>TODO</MeditationFocusStrength.description>
+  <!-- EN: {0} / day -->
+  <MeditationFocusStrength.formatString>TODO</MeditationFocusStrength.formatString>
+  <!-- EN: {0} / day -->
+  <MeditationFocusStrength.formatStringUnfinalized>TODO</MeditationFocusStrength.formatStringUnfinalized>
+  
+</LanguageData>

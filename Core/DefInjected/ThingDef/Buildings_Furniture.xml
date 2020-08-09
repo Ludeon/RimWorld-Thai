@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal bed -->
+  <AnimalBed.label>เตียงสัตว์</AnimalBed.label>
+  <!-- EN: A soft bed for animals to sleep on. Fits any animal. -->
+  <AnimalBed.description>เตียงนุ่มๆสำหรับให้สัตว์เลี้ยงนอน ขนาดเหมาะกับสัตว์ทุกชนิด</AnimalBed.description>
+  
+  <!-- EN: animal sleeping box -->
+  <AnimalSleepingBox.label>กล่องนอนสัตว์</AnimalSleepingBox.label>
+  <!-- EN: A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs. -->
+  <AnimalSleepingBox.description>กล่องเล็กๆให้สัตว์เลี้ยงนอน ขนาดเหมาะกับสัตว์เล็ก เช่น ไก่ แมว หรือสุนัขเล็ก</AnimalSleepingBox.description>
+  
+  <!-- EN: animal sleeping spot -->
+  <AnimalSleepingSpot.label>จุดนอนสัตว์</AnimalSleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where animals should sleep. -->
+  <AnimalSleepingSpot.description>บ่งชี้จุดบนพื้นที่สัตว์เลี้ยงควรนอน</AnimalSleepingSpot.description>
+  
+  <!-- EN: armchair -->
+  <Armchair.label>เก้าอี้นวม</Armchair.label>
+  <!-- EN: A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
+  <Armchair.description>ที่นั่งใหญ่ นุ่ม สบาย เหมาะมากในการผ่อนคลาย สามารถใช้กับโต๊ะทำงานหรือที่อื่นๆ</Armchair.description>
+  
+  <!-- EN: bed -->
+  <Bed.label>เตียง</Bed.label>
+  <!-- EN: A cozy mattress and sheets on a frame for resting. -->
+  <Bed.description>ที่นอนฟูกปูบนโครง นุ่มสบาย สำหรับำพักผ่อน</Bed.description>
+  
+  <!-- EN: bedroll -->
+  <Bedroll.label>ถุงนอน</Bedroll.label>
+  <!-- EN: A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <Bedroll.description>TODO</Bedroll.description>
+  
+  <!-- EN: double bedroll -->
+  <BedrollDouble.label>ถุงนอนคู่</BedrollDouble.label>
+  <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <BedrollDouble.description>TODO</BedrollDouble.description>
+  
+  <!-- EN: dining chair -->
+  <DiningChair.label>เก้าอี้</DiningChair.label>
+  <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
+  <DiningChair.description>เก้าอี้สวยงาม นั่งสบาย สามารถใช้ที่โต๊ะ โต๊ะทำงาน หรือที่อื่นๆ</DiningChair.description>
+  
+  <!-- EN: double bed -->
+  <DoubleBed.label>เตียงคู่</DoubleBed.label>
+  <!-- EN: A simple double-wide bed that fits two people. -->
+  <DoubleBed.description>TODO</DoubleBed.description>
+  
+  <!-- EN: double sleeping spot -->
+  <DoubleSleepingSpot.label>จุดนอนคู่</DoubleSleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where two people should sleep together. Not comfortable. -->
+  <DoubleSleepingSpot.description>TODO</DoubleSleepingSpot.description>
+  
+  <!-- EN: dresser -->
+  <Dresser.label>ตู้ลิ้นชัก</Dresser.label>
+  <!-- EN: A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
+  <Dresser.description>TODO</Dresser.description>
+  
+  <!-- EN: end table -->
+  <EndTable.label>โต๊ะหัวเตียง</EndTable.label>
+  <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+  <EndTable.description>TODO</EndTable.description>
+  
+  <!-- EN: hospital bed -->
+  <HospitalBed.label>เตียงพยาบาล</HospitalBed.label>
+  <!-- EN: A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
+  <HospitalBed.description>TODO</HospitalBed.description>
+  
+  <!-- EN: plant pot -->
+  <PlantPot.label>กระถางต้นไม้</PlantPot.label>
+  <!-- EN: Plant decorative flowers here to improve the mood of people nearby. -->
+  <PlantPot.description>TODO</PlantPot.description>
+  
+  <!-- EN: royal bed -->
+  <RoyalBed.label>เตียงหรู</RoyalBed.label>
+  <!-- EN: A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two. -->
+  <RoyalBed.description>TODO</RoyalBed.description>
+  
+  <!-- EN: shelf -->
+  <Shelf.label>ชั้นวางของ</Shelf.label>
+  <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. -->
+  <Shelf.description>TODO</Shelf.description>
+  
+  <!-- EN: sleeping spot -->
+  <SleepingSpot.label>จุดนอน</SleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where people should sleep. Not comfortable. -->
+  <SleepingSpot.description>TODO</SleepingSpot.description>
+  
+  <!-- EN: standing lamp -->
+  <StandingLamp.label>โคมไฟตั้ง</StandingLamp.label>
+  <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
+  <StandingLamp.description>TODO</StandingLamp.description>
+  
+  <!-- EN: standing lamp (blue) -->
+  <StandingLamp_Blue.label>โคมไฟตั้ง (น้ำเงิน)</StandingLamp_Blue.label>
+  <!-- EN: A standing lamp that lights an area in blue. -->
+  <StandingLamp_Blue.description>TODO</StandingLamp_Blue.description>
+  
+  <!-- EN: standing lamp (green) -->
+  <StandingLamp_Green.label>โคมไฟตั้ง (เขียว)</StandingLamp_Green.label>
+  <!-- EN: A standing lamp that lights an area in green. -->
+  <StandingLamp_Green.description>TODO</StandingLamp_Green.description>
+  
+  <!-- EN: standing lamp (red) -->
+  <StandingLamp_Red.label>โคมไฟตั้ง (แดง)</StandingLamp_Red.label>
+  <!-- EN: A standing lamp that lights an area in red. -->
+  <StandingLamp_Red.description>TODO</StandingLamp_Red.description>
+  
+  <!-- EN: stool -->
+  <Stool.label>ม้านั่ง</Stool.label>
+  <!-- EN: A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
+  <Stool.description>TODO</Stool.description>
+  
+  <!-- EN: sun lamp -->
+  <SunLamp.label>โคมอาทิตย์</SunLamp.label>
+  <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
+  <SunLamp.description>TODO</SunLamp.description>
+  <!-- EN: Off for plant resting period -->
+  <SunLamp.comps.CompSchedule.offMessage>TODO</SunLamp.comps.CompSchedule.offMessage>
+  
+  <!-- EN: table (1x2) -->
+  <Table1x2c.label>โต๊ะ (1x2)</Table1x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table1x2c.description>TODO</Table1x2c.description>
+  
+  <!-- EN: table (2x2) -->
+  <Table2x2c.label>โต๊ะ (2x2)</Table2x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table2x2c.description>TODO</Table2x2c.description>
+  
+  <!-- EN: table (2x4) -->
+  <Table2x4c.label>โต๊ะ (2x4)</Table2x4c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table2x4c.description>TODO</Table2x4c.description>
+  
+  <!-- EN: table (3x3) -->
+  <Table3x3c.label>โต๊ะ (3x3)</Table3x3c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table3x3c.description>TODO</Table3x3c.description>
+  
+  <!-- EN: torch lamp -->
+  <TorchLamp.label>คบเพลิง</TorchLamp.label>
+  <!-- EN: A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
+  <TorchLamp.description>TODO</TorchLamp.description>
+  
+</LanguageData>

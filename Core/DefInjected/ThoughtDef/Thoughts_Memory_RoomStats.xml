@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: decent dining room -->
+  <AteInImpressiveDiningRoom.stages.decent_dining_room.label>ห้องรับประทานอาหารปางกลาง</AteInImpressiveDiningRoom.stages.decent_dining_room.label>
+  <!-- EN: I ate my meal in a decent dining room. -->
+  <AteInImpressiveDiningRoom.stages.decent_dining_room.description>ฉันกินอาหารของฉันในห้องรับประทานอาหารที่ดี</AteInImpressiveDiningRoom.stages.decent_dining_room.description>
+  <!-- EN: slightly impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.label>ห้องรับประทานอาหารที่น่าประทับใจเล็กน้อย</AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.label>
+  <!-- EN: I ate my meal in a slightly impressive dining room. -->
+  <AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.description>ฉันกินอาหารของฉันในห้องรับประทานอาหารที่น่าประทับใจเล็กน้อย</AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.description>
+  <!-- EN: somewhat impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.label>ห้องรับประทานอาหารที่น่าประทับใจ</AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.label>
+  <!-- EN: I ate my meal in an impressive dining room. -->
+  <AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.description>ฉันกินอาหารของฉันในห้องรับประทานอาหารที่น่าประทับใจ.</AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.description>
+  <!-- EN: very impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.very_impressive_dining_room.label>ห้องรับประทานอาหารที่น่าประทับใจมาก</AteInImpressiveDiningRoom.stages.very_impressive_dining_room.label>
+  <!-- EN: I ate my meal in a very impressive dining room. -->
+  <AteInImpressiveDiningRoom.stages.very_impressive_dining_room.description>ฉันกินอาหารของฉันในห้องรับประทานอาหารที่น่าประทับใจมาก</AteInImpressiveDiningRoom.stages.very_impressive_dining_room.description>
+  <!-- EN: extremely impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.label>ห้องรับประทานอาหารที่น่าประทับใจมากอย่างมาก</AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.label>
+  <!-- EN: I ate my meal in an extremely impressive dining room. I could stay there forever. -->
+  <AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.description>ฉันกินอาหารของฉันในห้องอาหารที่น่าประทับใจอย่างมาก ฉันสามารถอยู่ที่นั่นได้ตลอด</AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.description>
+  <!-- EN: unbelievably impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.label>ห้องรับประทานอาหารที่น่าประทับใจอย่างไม่น่าเชื่อ</AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.label>
+  <!-- EN: I ate my meal in an unbelievably impressive dining room. I could stay there forever. -->
+  <AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.description>ฉันกินอาหารของฉันในห้องอาหารที่น่าประทับใจอย่างไม่น่าเชื่อ ฉันสามารถอยู่ที่นั่นได้ตลอด</AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.description>
+  <!-- EN: wondrously impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.label>ห้องรับประทานอาหารทที่น่าประทับใจอย่างมหัศจรรย์</AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.label>
+  <!-- EN: I ate my meal in a wonderful dining room. I could stay there forever. -->
+  <AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.description>ฉันกินอาหารของฉันในห้องรับประทานอาหารที่ยอดเยี่ยม ฉันสามารถอยู่ที่นั่นได้ตลอด</AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.description>
+  
+  <!-- EN: decent rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.decent_rec_room.label>ห้องสังสรรค์ปางกลาง</JoyActivityInImpressiveRecRoom.stages.decent_rec_room.label>
+  <!-- EN: I had fun in a decent rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.decent_rec_room.description>ฉันสนุกในห้องสังสรรค์ที่ดี</JoyActivityInImpressiveRecRoom.stages.decent_rec_room.description>
+  <!-- EN: slightly impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.label>ห้องสังสรรค์ที่น่าสนใจเล็กน้อย</JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.label>
+  <!-- EN: I had fun in a nice rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.description>ฉันมีช่วงเวลาที่ดีในห้องสังสรรค์ที่น่าประทับใจเล็กน้อย</JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.description>
+  <!-- EN: somewhat impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.label>ห้องสังสรรค์ที่น่าประทับใจ</JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.label>
+  <!-- EN: I had a great time in an impressive rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.description>ฉันมีช่วงเวลาที่ดีในห้องสังสรรค์ที่น่าประทับใจ</JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.description>
+  <!-- EN: very impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.label>ห้องสังสรรค์ที่น่าประทับใจมาก</JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.label>
+  <!-- EN: I had a great time in a very impressive rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.description>ฉันมีช่วงเวลาที่ดีในห้องสังสรรค์ที่น่าประทับใจมาก</JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.description>
+  <!-- EN: extremely impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.label>ห้องสังสรรค์ที่น่าประทับใจอย่างมาก</JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.label>
+  <!-- EN: I had a great time in an extremely impressive rec room. I could stay there forever. -->
+  <JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.description>ฉันมีช่วงเวลาที่ดีในหห้องสังสรรค์ที่น่าประทับใจอย่างมาก ฉันสามารถอยู่ที่นั่นได้ตลอด</JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.description>
+  <!-- EN: unbelievably impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.label>ห้องสังสรรค์ที่น่าประทับใจอย่างไม่น่าเชื่อ</JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.label>
+  <!-- EN: I had a great time in an unbelievably impressive rec room. I could stay there forever. -->
+  <JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.description>ฉันมีช่วงเวลาที่ดีในห้องสังสรรค์ที่น่าประทับใจอย่างไม่น่าเชื่อ ฉันสามารถอยู่ที่นั่นได้ตลอด</JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.description>
+  <!-- EN: wondrously impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.label>ห้องสังสรรค์ทที่น่าประทับใจอย่างมหัศจรรย์</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.label>
+  <!-- EN: I had a great time in a wonderful rec room. I could stay there forever. -->
+  <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>ฉันมีช่วงเวลาที่ดีในห้องสังสรรค์ที่ยอดเยี่ยม ฉันสามารถอยู่ที่นั่นได้ตลอด</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>
+  
+  <!-- EN: awful barrack -->
+  <SleptInBarracks.stages.awful_barrack.label>ห้องพักทหารที่ห่วย</SleptInBarracks.stages.awful_barrack.label>
+  <!-- EN: I had to sleep in an awful barrack. Not only was it a horrible room, but I also had to share it! -->
+  <SleptInBarracks.stages.awful_barrack.description>ค่ายของฉันเป็นสถานที่อันเลวร้าย แต่ฉันต้องแบ่งปัน!</SleptInBarracks.stages.awful_barrack.description>
+  <!-- EN: dull barrack -->
+  <SleptInBarracks.stages.dull_barrack.label>ห้องพักทหารที่น่ารังเกียจ</SleptInBarracks.stages.dull_barrack.label>
+  <!-- EN: I had to sleep in a dull barrack. Not only that, but I also had to share it with other people. -->
+  <SleptInBarracks.stages.dull_barrack.description>ฉันอาศัยอยู่ในค่ายที่น่ารังเกียจกับคนอื่น ๆ</SleptInBarracks.stages.dull_barrack.description>
+  <!-- EN: mediocre barrack -->
+  <SleptInBarracks.stages.mediocre_barrack.label>TODO</SleptInBarracks.stages.mediocre_barrack.label>
+  <!-- EN: I had to sleep in a mediocre barrack with other people around. I really don't like this. -->
+  <SleptInBarracks.stages.mediocre_barrack.description>TODO</SleptInBarracks.stages.mediocre_barrack.description>
+  <!-- EN: decent barrack -->
+  <SleptInBarracks.stages.decent_barrack.label>TODO</SleptInBarracks.stages.decent_barrack.label>
+  <!-- EN: I slept in a decent barrack, but I really dislike sharing a sleeping space. -->
+  <SleptInBarracks.stages.decent_barrack.description>TODO</SleptInBarracks.stages.decent_barrack.description>
+  <!-- EN: slightly impressive barrack -->
+  <SleptInBarracks.stages.slightly_impressive_barrack.label>ห้องพักทหารที่น่าประทับใจเล็กน้อย</SleptInBarracks.stages.slightly_impressive_barrack.label>
+  <!-- EN: I got to sleep in a pretty nice barrack. But I really don't like sharing a room with others. -->
+  <SleptInBarracks.stages.slightly_impressive_barrack.description>ค่ายของฉันดูดีจริงๆ แต่ฉันต้องการมีห้องนอนของตัวเอง</SleptInBarracks.stages.slightly_impressive_barrack.description>
+  <!-- EN: impressive barrack -->
+  <SleptInBarracks.stages.impressive_barrack.label>ห้องพักทหารที่น่าประทับใจ</SleptInBarracks.stages.impressive_barrack.label>
+  <!-- EN: I got to sleep in an impressive barrack. It sucks that I had to share it, though. -->
+  <SleptInBarracks.stages.impressive_barrack.description>ค่ายของฉันดูน่าประทับใจ ฉันชอบมัน ฉันหวังว่า, ฉันจะมีห้องนอนเป็นของตัวเอง</SleptInBarracks.stages.impressive_barrack.description>
+  <!-- EN: very impressive barrack -->
+  <SleptInBarracks.stages.very_impressive_barrack.label>ห้องพักทหารที่น่าประทับใจมาก</SleptInBarracks.stages.very_impressive_barrack.label>
+  <!-- EN: I slept in a very impressive barrack. I don't even mind sharing it. -->
+  <SleptInBarracks.stages.very_impressive_barrack.description>ค่ายของฉันเป็นที่น่าประทับใจมาก, ฉันรักมัน!</SleptInBarracks.stages.very_impressive_barrack.description>
+  <!-- EN: extremely impressive barrack -->
+  <SleptInBarracks.stages.extremely_impressive_barrack.label>ห้องพักทหารที่น่าประทับใจอย่างมาก</SleptInBarracks.stages.extremely_impressive_barrack.label>
+  <!-- EN: I slept in an extremely impressive barrack. I don't even mind sharing it. -->
+  <SleptInBarracks.stages.extremely_impressive_barrack.description>ค่ายของฉันดูน่าประทับใจอย่างมาก นี้เป็นสถานที่ที่ดีที่สุดที่เคยอยู่!</SleptInBarracks.stages.extremely_impressive_barrack.description>
+  <!-- EN: unbelievably impressive barrack -->
+  <SleptInBarracks.stages.unbelievably_impressive_barrack.label>ห้องพักทหารที่น่าประทับใจอย่างไม่น่าเชื่อ</SleptInBarracks.stages.unbelievably_impressive_barrack.label>
+  <!-- EN: The barrack I slept in was so impressive that I don't even mind sharing it. -->
+  <SleptInBarracks.stages.unbelievably_impressive_barrack.description>ค่ายของฉันดูน่าประทับใจอย่างไม่น่าเชื่อ นี้เป็นสถานที่ที่ดีที่สุดที่เคยอยู่!</SleptInBarracks.stages.unbelievably_impressive_barrack.description>
+  <!-- EN: wondrously impressive barrack -->
+  <SleptInBarracks.stages.wondrously_impressive_barrack.label>ห้องพักทหารที่น่าประทับใจอย่างมหัศจรรย์</SleptInBarracks.stages.wondrously_impressive_barrack.label>
+  <!-- EN: I slept in a barrack that was simply wondrous. Even sharing such a space makes me happy. -->
+  <SleptInBarracks.stages.wondrously_impressive_barrack.description>ค่ายของฉันเป็นสถานที่ที่ดีที่สุดที่คุณสามารถจินตนาการทันได้ มันวิเศษมาก</SleptInBarracks.stages.wondrously_impressive_barrack.description>
+  
+  <!-- EN: awful bedroom -->
+  <SleptInBedroom.stages.awful_bedroom.label>ห้องนอนที่ห่วย</SleptInBedroom.stages.awful_bedroom.label>
+  <!-- EN: I had to sleep in an awful room. -->
+  <SleptInBedroom.stages.awful_bedroom.description>ห้องนอนเป็นสถานที่เลวร้าย</SleptInBedroom.stages.awful_bedroom.description>
+  <!-- EN: decent bedroom -->
+  <SleptInBedroom.stages.decent_bedroom.label>ห้องนอนปางกลาง</SleptInBedroom.stages.decent_bedroom.label>
+  <!-- EN: I got to sleep in a pretty decent bedroom. -->
+  <SleptInBedroom.stages.decent_bedroom.description>ห้องนอนของฉันเป็นที่ดี ฉันชอบมัน.</SleptInBedroom.stages.decent_bedroom.description>
+  <!-- EN: slightly impressive bedroom -->
+  <SleptInBedroom.stages.slightly_impressive_bedroom.label>ห้องนอนที่น่าประทับใจเล็กน้อย</SleptInBedroom.stages.slightly_impressive_bedroom.label>
+  <!-- EN: I got to sleep in a slightly impressive bedroom. I like it. -->
+  <SleptInBedroom.stages.slightly_impressive_bedroom.description>ห้องนอนของฉันเป็นจริงที่น่าประทับใจเล็กน้อย ฉันชอบมัน.</SleptInBedroom.stages.slightly_impressive_bedroom.description>
+  <!-- EN: impressive bedroom -->
+  <SleptInBedroom.stages.impressive_bedroom.label>ห้องนอนที่น่าประทับใจ</SleptInBedroom.stages.impressive_bedroom.label>
+  <!-- EN: I slept in an impressive bedroom. It was great. -->
+  <SleptInBedroom.stages.impressive_bedroom.description>ห้องนอนของฉันน่าประทับใจ ฉันรักมัน!</SleptInBedroom.stages.impressive_bedroom.description>
+  <!-- EN: very impressive bedroom -->
+  <SleptInBedroom.stages.very_impressive_bedroom.label>ห้องนอนที่น่าประทับใจมาก</SleptInBedroom.stages.very_impressive_bedroom.label>
+  <!-- EN: I slept in a very impressive bedroom. I love it. -->
+  <SleptInBedroom.stages.very_impressive_bedroom.description>ห้องนอนของฉันประทับใจมาก นี่คือสถานที่ที่ดีที่สุดที่เคยอยู่!</SleptInBedroom.stages.very_impressive_bedroom.description>
+  <!-- EN: extremely impressive bedroom -->
+  <SleptInBedroom.stages.extremely_impressive_bedroom.label>ห้องนอนที่น่าประทับใจอย่างมาก</SleptInBedroom.stages.extremely_impressive_bedroom.label>
+  <!-- EN: I slept in an extremely impressive bedroom. It was marvelous. -->
+  <SleptInBedroom.stages.extremely_impressive_bedroom.description>ห้องนอนของฉันประทับใจอย่างมาก นี่คือสถานที่ที่ดีที่สุดที่เคยอยู่!</SleptInBedroom.stages.extremely_impressive_bedroom.description>
+  <!-- EN: unbelievably impressive bedroom -->
+  <SleptInBedroom.stages.unbelievably_impressive_bedroom.label>ห้องขังที่น่าประทับใจอย่างไม่น่าเชื่อ</SleptInBedroom.stages.unbelievably_impressive_bedroom.label>
+  <!-- EN: I slept in an unbelievably impressive bedroom. It was truly astounding. -->
+  <SleptInBedroom.stages.unbelievably_impressive_bedroom.description>ห้องนอนของฉันน่าประทับใจอย่างไม่น่าเชื่อ นี่คือสถานที่ที่ดีที่สุดที่เคยอยู่!</SleptInBedroom.stages.unbelievably_impressive_bedroom.description>
+  <!-- EN: wondrously impressive bedroom -->
+  <SleptInBedroom.stages.wondrously_impressive_bedroom.label>>ห้องนอนที่น่าประทับใจอย่างมหัศจรรย์</SleptInBedroom.stages.wondrously_impressive_bedroom.label>
+  <!-- EN: I slept in a heavenly bedroom. It was wondrous. -->
+  <SleptInBedroom.stages.wondrously_impressive_bedroom.description>ห้องนอนของฉันเป็นสถานที่ที่ดีที่สุดที่เราสามารถจินตนาการมันได้ มันวิเศษมาก</SleptInBedroom.stages.wondrously_impressive_bedroom.description>
+  
+</LanguageData>

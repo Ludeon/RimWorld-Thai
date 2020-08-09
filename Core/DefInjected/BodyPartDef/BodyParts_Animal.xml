@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: jaw -->
+  <AnimalJaw.label>กราม</AnimalJaw.label>
+  
+  <!-- EN: antenna -->
+  <Antenna.label>หนวด</Antenna.label>
+  
+  <!-- EN: beak -->
+  <Beak.label>จะงอยปาก</Beak.label>
+  
+  <!-- EN: body -->
+  <Body.label>ลำตัว</Body.label>
+  
+  <!-- EN: elytra -->
+  <Elytra.label>ปีกแข็ง</Elytra.label>
+  
+  <!-- EN: front claw -->
+  <FrontClaw.label>กรงเล็บหน้า</FrontClaw.label>
+  <!-- EN: claw -->
+  <FrontClaw.labelShort>กรงเล็บ</FrontClaw.labelShort>
+  
+  <!-- EN: head claw -->
+  <HeadClaw.label>หัวกรงเล็บ</HeadClaw.label>
+  
+  <!-- EN: hoof -->
+  <Hoof.label>กีบ</Hoof.label>
+  
+  <!-- EN: horn -->
+  <Horn.label>เขา</Horn.label>
+  
+  <!-- EN: hump -->
+  <Hump.label>หนอก</Hump.label>
+  
+  <!-- EN: head -->
+  <InsectHead.label>หัวแมลง</InsectHead.label>
+  
+  <!-- EN: heart -->
+  <InsectHeart.label>หัวใจแมลง</InsectHeart.label>
+  
+  <!-- EN: leg -->
+  <InsectLeg.label>ขาแมลง</InsectLeg.label>
+  
+  <!-- EN: mouth -->
+  <InsectMouth.label>ปากแมลง</InsectMouth.label>
+  
+  <!-- EN: nostril -->
+  <InsectNostril.label>รูจมูกแมลง</InsectNostril.label>
+  
+  <!-- EN: jowl -->
+  <Jowl.label>แก้ม</Jowl.label>
+  
+  <!-- EN: paw -->
+  <Paw.label>อุ้งเท้า</Paw.label>
+  
+  <!-- EN: plastron -->
+  <Plastron.label>พลาสตรอน</Plastron.label>
+  
+  <!-- EN: pronotum -->
+  <Pronotum.label>โปรโนตัม</Pronotum.label>
+  
+  <!-- EN: rear claw -->
+  <RearClaw.label>กรงเล็บหลัง</RearClaw.label>
+  <!-- EN: claw -->
+  <RearClaw.labelShort>กรงเล็บ</RearClaw.labelShort>
+  
+  <!-- EN: shell -->
+  <Shell.label>กระดอง</Shell.label>
+  
+  <!-- EN: body -->
+  <SnakeBody.label>ลำตัว</SnakeBody.label>
+  
+  <!-- EN: head -->
+  <SnakeHead.label>หัวงู</SnakeHead.label>
+  
+  <!-- EN: mouth -->
+  <SnakeMouth.label>ปากงู</SnakeMouth.label>
+  
+  <!-- EN: tail -->
+  <Tail.label>หาง</Tail.label>
+  
+  <!-- EN: trunk -->
+  <Trunk.label>งวง</Trunk.label>
+  
+  <!-- EN: beak -->
+  <TurtleBeak.label>จะงอยปากเต่า</TurtleBeak.label>
+  
+  <!-- EN: shell -->
+  <TurtleShell.label>กระดองเต่า</TurtleShell.label>
+  
+  <!-- EN: tusk -->
+  <Tusk.label>เขี้ยว</Tusk.label>
+  
+</LanguageData>

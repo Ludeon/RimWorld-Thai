@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemical consumption -->
+  <Chemical.label>เสพสารเคมี</Chemical.label>
+  
+  <!-- EN: cerebral play -->
+  <Gaming_Cerebral.label>เล่นเกมใช้สมอง</Gaming_Cerebral.label>
+  
+  <!-- EN: dexterity play -->
+  <Gaming_Dexterity.label>เล่นเกมฝึกความแม่นยำ</Gaming_Dexterity.label>
+  
+  <!-- EN: food consumption -->
+  <Gluttonous.label>กินอาหารตะกละ</Gluttonous.label>
+  
+  <!-- EN: solitary relaxation -->
+  <Meditative.label>แยกตัวโดดเดี่ยวเพื่อผ่อนคลาย</Meditative.label>
+  
+  <!-- EN: social interaction -->
+  <Social.label>ปฏิสัมพันธ์ทางสังคม</Social.label>
+  
+  <!-- EN: telescope study -->
+  <Telescope.label>ศึกษากล้องโทรทรรศน์</Telescope.label>
+  
+  <!-- EN: television watching -->
+  <Television.label>ดูโทรทัศน์</Television.label>
+  
+</LanguageData>

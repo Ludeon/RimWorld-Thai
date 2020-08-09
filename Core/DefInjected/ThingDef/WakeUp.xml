@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wake-up -->
+  <WakeUp.label>Wake-up</WakeUp.label>
+  <!-- EN: A synthetic stimulant. Wake-up fills the user's need for rest, allowing them to work for extended periods without getting tired. Psycasters on wake-up gain more psyfocus from meditation than they otherwise would. However, taking wake-up runs the risk of developing an addiction.\n\nIn the most competitive universities and companies of many worlds, high-achievers are sometimes called 'wake-ups' because of the association with this drug. -->
+  <WakeUp.description>เป็นยากระตุ้นที่สังเคราะห์ขึ้น, Wake-up เติมเต็มความต้องการผักผ่อนของผู้ใช้ ทำให้ผู้ใช้สามารถทำงานต่อเนื่องยาวนานได้ โดยไม่เหน็ดเหนื่อย อย่างไรก็ตาม การใช้ต่อเนื่องจะทำให้เกิดอาการเสพติด ซึ่งไปลดประสิทธิภาพจิตใจ จนกระทั่งก่อให้เกิดอาการโรคบ้าเสียสติได้\n\nในจักรวาลที่มีการแข่งขันสูงๆ หรือในบริษัทบนในๆโลก พบว่าพวกที่ทำผลงานดีมากๆ บางครั้งก็มีอาการสติแตกจาดโรคจิต ซึ่งมาจากการเสพติด Wake-up</WakeUp.description>
+  <!-- EN: Take {0} -->
+  <WakeUp.ingestible.ingestCommandString>ฉีด {0}</WakeUp.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <WakeUp.ingestible.ingestReportString>กำลังฉีด {0}</WakeUp.ingestible.ingestReportString>
+  
+</LanguageData>

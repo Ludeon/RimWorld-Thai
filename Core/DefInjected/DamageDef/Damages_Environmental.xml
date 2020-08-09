@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: burn -->
+  <Burn.label>เผา</Burn.label>
+  <!-- EN: {0} has burned to death. -->
+  <Burn.deathMessage>{0} โดนเผาจนตาย</Burn.deathMessage>
+  
+  <!-- EN: flame -->
+  <Flame.label>เปลวไฟ</Flame.label>
+  <!-- EN: {0} has burned to death. -->
+  <Flame.deathMessage>{0} โดนไหม้จนตาย</Flame.deathMessage>
+  
+  <!-- EN: frostbite -->
+  <Frostbite.label>น้ำแข็งกัด</Frostbite.label>
+  <!-- EN: {0} has succumbed to frostbite. -->
+  <Frostbite.deathMessage>{0} ถูกน้ำแข็งกัดจนถึงแก่ความตาย</Frostbite.deathMessage>
+  
+  <!-- EN: scratch -->
+  <TornadoScratch.label>ขีดข่วนจากพายุ</TornadoScratch.label>
+  <!-- EN: {0} has been killed by a tornado. -->
+  <TornadoScratch.deathMessage>{0} เสียชีวิตในพายุทอร์นาโด</TornadoScratch.deathMessage>
+  
+</LanguageData>

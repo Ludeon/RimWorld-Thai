@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beautiful aurora -->
+  <Aurora.stages.beautiful_aurora.label>TODO</Aurora.stages.beautiful_aurora.label>
+  <!-- EN: The view is amazing. -->
+  <Aurora.stages.beautiful_aurora.description>TODO</Aurora.stages.beautiful_aurora.description>
+  
+  <!-- EN: colonist left unburied -->
+  <ColonistLeftUnburied.stages.colonist_left_unburied.label>ชาวนิคมถูกทิ้งไว้ไม่ได้ฝัง</ColonistLeftUnburied.stages.colonist_left_unburied.label>
+  <!-- EN: One of us died and we're just leaving them lying in the open. Nobody should be left like that. People deserve a decent burial. -->
+  <ColonistLeftUnburied.stages.colonist_left_unburied.description>หนึ่งในพวกเราได้ตายลง และเราเพิ่งทิ้งเขาไว้ในที่แจ้ง ไม่มีใครควรถูกทิ้งไว้แบบนั้น เขาควรได้รับการฝังที่เหมาะสม</ColonistLeftUnburied.stages.colonist_left_unburied.description>
+  
+  <!-- EN: minor passion for my work -->
+  <DoingPassionateWork.stages.minor_passion_for_my_work.label>TODO</DoingPassionateWork.stages.minor_passion_for_my_work.label>
+  <!-- EN: I enjoy my work. -->
+  <DoingPassionateWork.stages.minor_passion_for_my_work.description>TODO</DoingPassionateWork.stages.minor_passion_for_my_work.description>
+  <!-- EN: burning passion for my work -->
+  <DoingPassionateWork.stages.burning_passion_for_my_work.label>TODO</DoingPassionateWork.stages.burning_passion_for_my_work.label>
+  <!-- EN: I love my work. I could do this all day, every day. -->
+  <DoingPassionateWork.stages.burning_passion_for_my_work.description>TODO</DoingPassionateWork.stages.burning_passion_for_my_work.description>
+  
+  <!-- EN: joywire -->
+  <Joywire.stages.joywire.label>Joywire</Joywire.stages.joywire.label>
+  <!-- EN: It feels amazing. -->
+  <Joywire.stages.joywire.description>รู้สึกวิเศษมาก</Joywire.stages.joywire.description>
+  
+  <!-- EN: naked -->
+  <Naked.stages.naked.label>เปลือยกาย</Naked.stages.naked.label>
+  <!-- EN: I'm naked. This is humiliating. -->
+  <Naked.stages.naked.description>ฉันเปลือยอยู่ นี่มันน่าอายนะ</Naked.stages.naked.description>
+  
+  <!-- EN: minor pain -->
+  <Pain.stages.minor_pain.label>อยู่ในอาการเจ็บเล็กน้อย</Pain.stages.minor_pain.label>
+  <!-- EN: Ow... That hurts. -->
+  <Pain.stages.minor_pain.description>โอย... เจ็บ</Pain.stages.minor_pain.description>
+  <!-- EN: serious pain -->
+  <Pain.stages.serious_pain.label>อยู่ในอาการเจ็บปานกลาง</Pain.stages.serious_pain.label>
+  <!-- EN: Ughhh... When will it end? -->
+  <Pain.stages.serious_pain.description>อ้าก... เมื่อไหร่มันจะสิ้นสุด?</Pain.stages.serious_pain.description>
+  <!-- EN: intense pain -->
+  <Pain.stages.intense_pain.label>ประสบความเจ็บปวดรุนแรง</Pain.stages.intense_pain.label>
+  <!-- EN: Make it stop... make it stop... make it stop... -->
+  <Pain.stages.intense_pain.description>ทำให้มันหยุดที... ทำให้มันหยุดที... ทำให้มันหยุดที...</Pain.stages.intense_pain.description>
+  <!-- EN: mind-shattering pain -->
+  <Pain.stages.mindshattering_pain.label>อยู่ในอาการช็อคจากอาการเจ็บเกินขนาด</Pain.stages.mindshattering_pain.label>
+  <!-- EN: AAAAAHHH! -->
+  <Pain.stages.mindshattering_pain.description>อ้าาาากกกก! ฆ่าฉันที!</Pain.stages.mindshattering_pain.description>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicDrone.stages.psychic_soothe.label>หุ่นพลังจิต ทำให้สบายใจ (ปานกลาง)</PsychicDrone.stages.psychic_soothe.label>
+  <!-- EN: It's like a calming voice at the back of my mind, soothing me, settling my nerves. -->
+  <PsychicDrone.stages.psychic_soothe.description>เหมือนมีเสียงที่ ทำให้สบายใจพูดอยู่ในหัวของฉัน ทำให้ฉันใจเย็น</PsychicDrone.stages.psychic_soothe.description>
+  <!-- EN: low psychic drone -->
+  <PsychicDrone.stages.low_psychic_drone.label>หุ่นพลังจิต ทำให้เครียด (ต่ำ)</PsychicDrone.stages.low_psychic_drone.label>
+  <!-- EN: It's like a scratching at the back of my mind. A voice, whispering. I can only make out a few words, and I don't like them. -->
+  <PsychicDrone.stages.low_psychic_drone.description>เหมือนมีเสียงกระสิบในหัวของฉัน ฉันฟังออกแค่บ้างคำ และ ฉันไม่ชอบมันสะเลย</PsychicDrone.stages.low_psychic_drone.description>
+  <!-- EN: moderate psychic drone -->
+  <PsychicDrone.stages.moderate_psychic_drone.label>หุ่นพลังจิต ทำให้เครียด  (ปานกลาง)</PsychicDrone.stages.moderate_psychic_drone.label>
+  <!-- EN: I feel like someone is always just out of sight, speaking to me. The voice changes but the message doesn't. I'm supposed to hurt people. Make it go away! -->
+  <PsychicDrone.stages.moderate_psychic_drone.description>ฉันรู้สึกเหมือนมีคนอยู่ใกล้ๆฉัน แต่พอมองหาก็ หายตัวไป มันพูดกับฉันอยู่ เสียงพูดมันเปลียนไป แต่สิ่งที่มันพูดไม่เปลียน มันบอกให้ฉันทำให้คนอื่นเจ็บ ช่วยทำให้เสียงหายไปจากหัวฉันที่ !</PsychicDrone.stages.moderate_psychic_drone.description>
+  <!-- EN: high psychic drone -->
+  <PsychicDrone.stages.high_psychic_drone.label>หุ่นพลังจิต ทำให้เครียด  (สูง)</PsychicDrone.stages.high_psychic_drone.label>
+  <!-- EN: The voice is unbearably loud. It's hard to concentrate. I find myself talking back to it, yelling at it. But it just keeps shouting! -->
+  <PsychicDrone.stages.high_psychic_drone.description>เสียงของมันดังมาก ฉันไม่สามารถตั้งสมาธิได้เลย บ้างครั้งฉันก็เพลอตอบกลับเสียงไปด้วยไม่ได้ตั้งใจ ฉันตะโกนใส่มัน แต่มันก็ไม่ยอมหยุด ตะโกนสั้งฉัน !</PsychicDrone.stages.high_psychic_drone.description>
+  <!-- EN: extreme psychic drone -->
+  <PsychicDrone.stages.extreme_psychic_drone.label>หุ่นพลังจิต ทำให้เครียด  (สูงมาก)</PsychicDrone.stages.extreme_psychic_drone.label>
+  <!-- EN: My heart pounds and I'm sweating. All I can think of is hurting and suffering and all these enemies around me. They're my nightmare, my nightmare, my nightmare... -->
+  <PsychicDrone.stages.extreme_psychic_drone.description>หัวใจของฉันเต้นอย่างรวดเร็ว เหงื่อของฉันออกเต็มตัว อย่างเดียวที่ฉันคิดได้คือ การทำให้ศัตรูพวกนี้ ที่อยู่รอบตัวของฉัน ทรมาณ พวกมันเป็นฝันร้ายของฉัน ฝันร้ายของฉัน ฝันร้ายของฉัน...</PsychicDrone.stages.extreme_psychic_drone.description>
+  
+  <!-- EN: psychic emanator soothe -->
+  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>เครื่องพลังจิตทำให้สบายใจ</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>
+  <!-- EN: The psychic emanator makes me feel strange, but also very relaxed. -->
+  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>เครื่องพลังจิตทำให้สบายใจ ทำให้ รู้สึกแปลก แต่ยังผ่อนคลายมาก</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>
+  
+  <!-- EN: sharing bed -->
+  <SharedBed.stages.sharing_bed.label>แชร์เตียง</SharedBed.stages.sharing_bed.label>
+  <!-- EN: I have to share a bed with someone who I don't particularly want to. -->
+  <SharedBed.stages.sharing_bed.description>ฉันต้องแชร์เตียงนอนกับคนอื่นโดยเฉพาะคนที่ฉันไม่อยากนอนด้วย</SharedBed.stages.sharing_bed.description>
+  
+</LanguageData>

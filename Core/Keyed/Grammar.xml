@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: a -->
+  <IndefiniteArticle />
+  <!-- EN: the -->
+  <DefiniteArticle />
+  <!-- EN: a {0} -->
+  <IndefiniteForm>{0}</IndefiniteForm>
+  <!-- EN: the {0} -->
+  <DefiniteForm>{0}</DefiniteForm>
+
+  <!-- EN: its -->
+  <Proits>ของมัน</Proits>
+  <!-- EN: his -->
+  <Prohis>ของเขา</Prohis>
+  <!-- EN: her -->
+  <Proher>ของเธอ</Proher>
+  <!-- EN: Its -->
+  <ProitsCap>ของมัน</ProitsCap>
+  <!-- EN: His -->
+  <ProhisCap>ของเขา</ProhisCap>
+  <!-- EN: Her -->
+  <ProherCap>ของเธอ</ProherCap>
+
+  <!-- EN: it -->
+  <ProitObj>มัน</ProitObj>
+  <!-- EN: him -->
+  <ProhimObj>เขา</ProhimObj>
+  <!-- EN: her -->
+  <ProherObj>เธอ</ProherObj>
+  <!-- EN: It -->
+  <ProitObjCap>มัน</ProitObjCap>
+  <!-- EN: Him -->
+  <ProhimObjCap>เขา</ProhimObjCap>
+  <!-- EN: Her -->
+  <ProherObjCap>เธอ</ProherObjCap>
+
+  <!-- EN: he -->
+  <Prohe>เขา</Prohe>
+  <!-- EN: she -->
+  <Proshe>เธอ</Proshe>
+  <!-- EN: it -->
+  <Proit>มัน</Proit>
+  <!-- EN: He -->
+  <ProheCap>เขา</ProheCap>
+  <!-- EN: She -->
+  <ProsheCap>เธอ</ProsheCap>
+  <!-- EN: It -->
+  <ProitCap>มัน</ProitCap>
+
+  <!-- EN: {0} and {1}. -->
+  <ClauseSequence2>{0} และ {1}</ClauseSequence2>
+  <!-- EN: {0}. Also, {1} and {2}. -->
+  <ClauseSequence3>{0}, แล้วก็ {1} และ {2}</ClauseSequence3>
+  <!-- EN: {0} and {1}. In addition {2} and {3}. -->
+  <ClauseSequence4>{0} และ {1}, เพิ่มเติมด้วย {2} และ {3}</ClauseSequence4>
+  <!-- EN: {0} and {1}. Additionally, {2} and {3}. Finally, {4}. -->
+  <ClauseSequence5>{0} และ {1}, นอกจากนั้นยัง {2} และ {3}, สุดท้าย {4}.</ClauseSequence5>
+  <!-- EN: {0}. {1} and {2}. Also, {3} and {4}. Finally, {5}. -->
+  <ClauseSequence6>{0}, {1} และ {2}, แล้วก็ {3} และ {4}, สุดท้าย {5}</ClauseSequence6>
+  <!-- EN: {0} and {1}. {2} and {3}. Also, {4} and {5}. Finally, {6}. -->
+  <ClauseSequence7>{0} และ {1}. {2} และ {3}, แล้วก็ {4} และ {5}, สุดท้าย {6}</ClauseSequence7>
+  <!-- EN: {0} and {1}. Also, {2} and {3}. {4} and {5}. Finally, {6} and {7}. -->
+  <ClauseSequence8>{0} และ {1}, แล้วก็ {2} และ {3}, {4} และ {5}, สุดท้าย {6} และ {7}</ClauseSequence8>
+
+  <!-- EN: {0} or {1} -->
+  <XorY>{0} หรือ {1}</XorY>
+
+</LanguageData>

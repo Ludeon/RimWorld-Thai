@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: creek -->
+  <Creek.label>คลอง</Creek.label>
+  
+  <!-- EN: huge river -->
+  <HugeRiver.label>แม่น้ำมหึมา</HugeRiver.label>
+  
+  <!-- EN: large river -->
+  <LargeRiver.label>แม่น้ำใหญ่</LargeRiver.label>
+  
+  <!-- EN: river -->
+  <River.label>แม่น้ำ</River.label>
+  
+</LanguageData>
