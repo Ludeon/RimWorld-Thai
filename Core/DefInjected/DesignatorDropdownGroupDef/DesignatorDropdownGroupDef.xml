@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: carpet -->
+  <Floor_Carpet.label>พรม</Floor_Carpet.label>
+  
+  <!-- EN: fine carpet -->
+  <Floor_Carpet_Fine.label>พรมประณีต</Floor_Carpet_Fine.label>
+  
+  <!-- EN: flagstone -->
+  <Floor_Flagstone.label>หินปูพื้น</Floor_Flagstone.label>
+  
+  <!-- EN: tile -->
+  <Floor_Tile.label>กระเบื้อง</Floor_Tile.label>
+  
+  <!-- EN: fine tile -->
+  <Floor_Tile_Fine.label>กระเบื้องประณีต</Floor_Tile_Fine.label>
+  
+  <!-- EN: metal tile -->
+  <Floor_Tile_Metal.label>กระเบื้องเหล็ก</Floor_Tile_Metal.label>
+  
+  <!-- EN: standing lamp -->
+  <StandingLampColored.label>โคมไฟตั้งพื้น</StandingLampColored.label>
+  
+</LanguageData>

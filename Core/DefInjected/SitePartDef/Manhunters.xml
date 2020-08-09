@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: manhunter pack -->
+  <Manhunters.label>ฝูงสัตวล่ามนุษย์</Manhunters.label>
+  <!-- EN: A pack of manhunting animals. -->
+  <Manhunters.description>กลุ่มของสัตว์ที่กำลังออกล่ามนุษย์</Manhunters.description>
+  <!-- EN: There are scaria-infected manhunting animals in this area. -->
+  <Manhunters.arrivedLetter>มีสัตว์ล่ามนุษย์ในบริเวณนี้</Manhunters.arrivedLetter>
+  
+</LanguageData>

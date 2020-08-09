@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychite addiction -->
+  <PsychiteAddiction.label>ติดไซไคท์</PsychiteAddiction.label>
+  <!-- EN: A chemical addiction to psychite. Long-term presence of psychite has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of psychite from drugs like flake or yayo, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <PsychiteAddiction.description>การติดสารเคมีไซไคท์ การมีไซไคท์อยู่ระยะยาวได้ทำให้เกิดการปรับตัวทางระบบประสาทในระดับเซลล์ สมองจึงไม่สามารถทำงานได้อย่างถูกต้องเมื่อไม่มีสารตัวนั้นแล้ว \n\nหากไม่ได้ไซไคท์อย่างต่อเนื่อง อาการลงแดงก็จะเริ่มขึ้น อย่างไรก็ตาม การละเว้นที่ยืดยาวจะบังคับให้สมองปรับตัวกลับไปสภาพเดิม แล้วจัดการกับปัญหาติดสารตัวนั้นไป </PsychiteAddiction.description>
+  <!-- EN: withdrawal -->
+  <PsychiteAddiction.stages.withdrawal.label>ลงแดง</PsychiteAddiction.stages.withdrawal.label>
+  
+  <!-- EN: psychite tolerance -->
+  <PsychiteTolerance.label>ดื้อไซไคท์</PsychiteTolerance.label>
+  <!-- EN: A built-up tolerance to psychite. The more severe this tolerance is, the more psychite-based drugs like yayo or flake it takes to get the same effect. -->
+  <PsychiteTolerance.description>อาการดื้อไซไคท์ที่สั่งสมมา ยิ่งอาการดื้อนี้รุนแรงเท่าไหร่ ก็ต้องยิ่งใช้ยาไซไคท์อย่างเยโยหรือเฟล็กมากขึ้นเพื่อให้ได้ผลลัพธ์เดิม</PsychiteTolerance.description>
+  <!-- EN: small -->
+  <PsychiteTolerance.stages.small.label>น้อย</PsychiteTolerance.stages.small.label>
+  <!-- EN: large -->
+  <PsychiteTolerance.stages.large.label>มาก</PsychiteTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <PsychiteTolerance.stages.massive.label>หนัก</PsychiteTolerance.stages.massive.label>
+  
+  <!-- UNUSED -->
+  <PsychiteTolerance.stages.small-1.label>ไม่ใช้แล้ว</PsychiteTolerance.stages.small-1.label>
+  
+  <!-- EN: high on yayo -->
+  <YayoHigh.label>เมาเยโย</YayoHigh.label>
+  <!-- EN: Active yayo in the bloodstream. Generates an intense euphoric high. -->
+  <YayoHigh.description>เยโยออกฤทธิ์อยู่ในกระแสเลือด ทำให้เกิดความเคลิ้มอย่างแรง</YayoHigh.description>
+  <!-- EN: a yayo high -->
+  <YayoHigh.labelNoun>เมาเยโย</YayoHigh.labelNoun>
+  
+</LanguageData>

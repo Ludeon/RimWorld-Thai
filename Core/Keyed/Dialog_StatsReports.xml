@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Tool -->
+  <Tool>เครื่องมือ</Tool>
+  <!-- EN: damage -->
+  <DamageLower>ค่าเสียหาย</DamageLower>
+  <!-- EN: seconds per attack -->
+  <SecondsPerAttackLower>วินาทีต่อการโจมตี</SecondsPerAttackLower>
+
+  <!-- EN: Base value -->
+  <StatsReport_BaseValue>ค่าฐาน</StatsReport_BaseValue>
+  <!-- EN: Relevant traits -->
+  <StatsReport_RelevantTraits>อุปนิสัยเกี่ยวข้อง</StatsReport_RelevantTraits>
+  <!-- EN: Relevant gear -->
+  <StatsReport_RelevantGear>อุปกรณ์เกี่ยวข้อง</StatsReport_RelevantGear>
+  <!-- EN: Relevant health conditions -->
+  <StatsReport_RelevantHediffs>สภาวะสุขภาพเกี่ยวข้อง</StatsReport_RelevantHediffs>
+  <!-- EN: Life stage -->
+  <StatsReport_LifeStage>ช่วงชีวิต</StatsReport_LifeStage>
+  <!-- EN: Material -->
+  <StatsReport_Material>จากวัสดุ</StatsReport_Material>
+  <!-- EN: Character quality -->
+  <StatsReport_CharacterQuality>จากคุณภาพตัวละคร</StatsReport_CharacterQuality>
+  <!-- EN: Skills -->
+  <StatsReport_Skills>จากทักษะ</StatsReport_Skills>
+  <!-- EN: Post-process - other stats -->
+  <StatsReport_OtherStats>จากสถิติอื่นๆ</StatsReport_OtherStats>
+  <!-- EN: Health -->
+  <StatsReport_Health>จากสุขภาพ</StatsReport_Health>
+  <!-- EN: {0} importance -->
+  <HealthFactorPercentImpact>{0} ขาดไม่ได้</HealthFactorPercentImpact>
+  <!-- EN: {0} impact -->
+  <HealthOffsetScale>{0} ส่งผลกระทบ</HealthOffsetScale>
+  <!-- EN: {0} max -->
+  <HealthFactorMaxImpact>เต็มที่ {0}</HealthFactorMaxImpact>
+  <!-- EN: if below {0} -->
+  <HealthFactorAllowedDefect>ถ้าต่ำกว่า {0}</HealthFactorAllowedDefect>
+  <!-- EN: Post-process curve -->
+  <StatsReport_PostProcessed>เส้นโค้งหลังประมวลทั้งหมด</StatsReport_PostProcessed>
+  <!-- EN: Final value -->
+  <StatsReport_FinalValue>รวม</StatsReport_FinalValue>
+  <!-- EN: Materials and labor -->
+  <StatsReport_MarketValueFromStuffsAndWork>จากวัตถุดิบและแรงงาน</StatsReport_MarketValueFromStuffsAndWork>
+  <!-- EN: Quality multiplier -->
+  <StatsReport_QualityMultiplier>คูณจากคุณภาพ</StatsReport_QualityMultiplier>
+  <!-- EN: Max gain -->
+  <StatsReport_MaxGain>ได้รับมากสุด</StatsReport_MaxGain>
+  <!-- EN: Multiplier for age {0} -->
+  <StatsReport_AgeMultiplier>คูณจากอายุ {0}</StatsReport_AgeMultiplier>
+  <!-- EN: Multiplier for health {0} -->
+  <StatsReport_HealthMultiplier>คูณจากสุขภาพ {0}</StatsReport_HealthMultiplier>
+  <!-- EN: Multiplier for mood {0} -->
+  <StatsReport_MoodMultiplier>คูณจากอารมณ์ {0}</StatsReport_MoodMultiplier>
+  <!-- EN: Multiplier for light {0} -->
+  <StatsReport_LightMultiplier>คูณจากแสง {0}</StatsReport_LightMultiplier>
+  <!-- EN: Multiplier for difficulty {0} -->
+  <StatsReport_DifficultyMultiplier>คูณจากความยาก {0}</StatsReport_DifficultyMultiplier>
+  <!-- EN: In bed -->
+  <StatsReport_InBed>บนเตียง</StatsReport_InBed>
+  <!-- EN: Facilities -->
+  <StatsReport_Facilities>อุปกรณ์เครื่องมือ</StatsReport_Facilities>
+  <!-- EN: Multiplier for body size {0} -->
+  <StatsReport_BodySize>ตัวคูณขนาดตัว {0}</StatsReport_BodySize>
+  <!-- EN: Carefully slaughtered without wounds -->
+  <StatsReport_HasHediffExplanation>TODO</StatsReport_HasHediffExplanation>
+  <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
+  <StatsReport_MeleeDPSExplanation>DPS = ค่าเสียหายรบประชิด * โอกาสโจมตีโดนรบประชิด / คูลดาวน์เป็นวินาที</StatsReport_MeleeDPSExplanation>
+  <!-- EN: Melee damage -->
+  <StatsReport_MeleeDamage>ค่าเสียหายรบประชิด</StatsReport_MeleeDamage>
+  <!-- EN: Cooldown -->
+  <StatsReport_Cooldown>คูลดาวน์</StatsReport_Cooldown>
+  <!-- EN: Melee hit chance -->
+  <StatsReport_MeleeHitChance>โอกาสโจมตีโดนรบประชิด</StatsReport_MeleeHitChance>
+  <!-- EN: {0} s -->
+  <StatsReport_CooldownFormat>{0} วิ</StatsReport_CooldownFormat>
+  <!-- EN: Life expectancy -->
+  <StatsReport_LifeExpectancy>คาดการจะมีชีวิตนาน</StatsReport_LifeExpectancy>
+  <!-- EN: Multiplier for missing body parts -->
+  <StatsReport_MissingBodyParts>คูณจากอวัยวะที่ขาด</StatsReport_MissingBodyParts>
+  <!-- EN: Gear and inventory -->
+  <StatsReport_GearAndInventoryMass>อุปกรณ์และของติดตัว</StatsReport_GearAndInventoryMass>
+  <!-- EN: Multiplier for worn by corpse -->
+  <StatsReport_WornByCorpse>คูณจากเคยสวมใส่โดยศพ</StatsReport_WornByCorpse>
+  <!-- EN: average of all attacks -->
+  <AverageOfAllAttacks>ค่าเฉลี่ยของการโจมตีทั้งหมด</AverageOfAllAttacks>
+  <!-- EN: Scenario -->
+  <StatsReport_ScenarioFactor>โครงเรื่อง</StatsReport_ScenarioFactor>
+  <!-- EN: Ingredients -->
+  <StatsReport_IngredientsMass>ส่วนผสม</StatsReport_IngredientsMass>
+  <!-- EN: Permanently disabled. -->
+  <StatsReport_PermanentlyDisabled>ปิดใช้งานถาวร</StatsReport_PermanentlyDisabled>
+  <!-- EN: {0} -->
+  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
+  <!-- EN: Added body parts -->
+  <StatsReport_AddedBodyPartsMass>เพิ่มอวัยวะ</StatsReport_AddedBodyPartsMass>
+  <!-- EN: Material effect multiplier -->
+  <StatsReport_StuffEffectMultiplier>คูณผลกระทบจากวัสดุ</StatsReport_StuffEffectMultiplier>
+  <!-- EN: Resting -->
+  <StatsReport_Resting>กำลังพักผ่อน</StatsReport_Resting>
+  <!-- EN: recreation type -->
+  <StatsReport_JoyKind>ประเภทนันทนาการ</StatsReport_JoyKind>
+  <!-- EN: work to uninstall -->
+  <StatsReport_WorkToUninstall>ทำงานเพื่อถอนติดตั้ง</StatsReport_WorkToUninstall>
+  <!-- EN: Multiplier for growth {0} -->
+  <StatsReport_PlantGrowth>คูณจากการเติบโต {0}</StatsReport_PlantGrowth>
+  <!-- EN: scaled because wild -->
+  <StatsReport_PlantGrowth_Wild>ขนาดใหญ่เนื่องเป็นพันธู์ป่า</StatsReport_PlantGrowth_Wild>
+  <!-- EN: Not flesh -->
+  <StatsReport_NotFlesh>ไม่มีเนื้อ</StatsReport_NotFlesh>
+  <!-- EN: Not fresh -->
+  <StatsReport_NotFresh>ไม่สด</StatsReport_NotFresh>
+  <!-- EN: Wild man -->
+  <StatsReport_WildMan>คนป่า</StatsReport_WildMan>
+  <!-- EN: Attack -->
+  <StatsReport_NonToolAttack>โจมตี</StatsReport_NonToolAttack>
+  
+  <!-- EN: Possible offsets -->
+  <StatReport_PossibleOffsets>TODO</StatReport_PossibleOffsets>
+  <!-- EN: Room impressiveness -->
+  <StatsReport_RoomImpressiveness>TODO</StatsReport_RoomImpressiveness>
+  <!-- EN: Lit -->
+  <StatsReport_Lit>TODO</StatsReport_Lit>
+  <!-- EN: Contains {0} -->
+  <StatsReport_GraveFull>TODO</StatsReport_GraveFull>
+  <!-- EN: Contains a human corpse -->
+  <StatsReport_GraveFullAbstract>TODO</StatsReport_GraveFullAbstract>
+  <!-- EN: Meditator is related to the corpse inside -->
+  <StatsReport_GraveCorpseRelatedAbstract>TODO</StatsReport_GraveCorpseRelatedAbstract>
+  <!-- EN: From quality -->
+  <StatsReport_FromQuality>TODO</StatsReport_FromQuality>
+  <!-- EN: Nearby artificial structures -->
+  <StatsReport_NearbyArtificialStructures>TODO</StatsReport_NearbyArtificialStructures>
+  <!-- EN: Satisfies user's title requirements -->
+  <StatsReport_SatisfiesTitle>TODO</StatsReport_SatisfiesTitle>
+
+  <!-- EN: Different sources of recreation satisfy different recreation types. Colonists become bored of doing the same recreation type repeatedly, so it is important to provide a variety of recreation sources with different recreation types. -->
+  <Stat_RecreationType_Desc>TODO</Stat_RecreationType_Desc>
+  <!-- EN: All recreation types -->
+  <Stat_JoyKind_AllTypes>TODO</Stat_JoyKind_AllTypes>
+  <!-- EN: Mined item -->
+  <Stat_MineableThing_Name>ไอเท็มถูกขุด</Stat_MineableThing_Name>
+  <!-- EN: The item that will be yielded when mining this. -->
+  <Stat_MineableThing_Desc>ไอเท็มจะปรากฏออกมาเมื่อขุดสิ่งนี้</Stat_MineableThing_Desc>
+  <!-- EN: Source species -->
+  <Stat_SourceSpecies_Name>สายพันธุ์ต้นทาง</Stat_SourceSpecies_Name>
+  <!-- EN: The species of creature from which this was taken. -->
+  <Stat_SourceSpecies_Desc>สายพันธุ์ของสิ่งมีชีวิตนี้จากที่ถูกนำมา</Stat_SourceSpecies_Desc>
+  <!-- EN: Stuff -->
+  <Stat_Stuff_Name>ส่วนประกอบ</Stat_Stuff_Name>
+  <!-- EN: The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more. -->
+  <Stat_Stuff_Desc>วัตถุดิบที่ประกอบสร้างขึ้นเป็นสิ่งนี้ ค่านี้ส่งผลกระทบกับค่าอื่นๆ รวมไปถึงค่าความเสียหายจากอาวุธ เกราะของเสื้อผ้า ฉนวน HPของไอเท็มและอาคาร ความสวยงาม มูลค่าในตลาด และอื่นๆอีกมาก</Stat_Stuff_Desc>
+  <!-- EN: Weapon -->
+  <Stat_Weapon_Name>อาวุธ</Stat_Weapon_Name>
+  <!-- EN: The weapon used by this turret. -->
+  <Stat_Weapon_Desc>อาวุธที่ใช้โดยป้อมนี้</Stat_Weapon_Desc>
+  <!-- EN: How much damage an object can take before being destroyed. -->
+  <Stat_HitPoints_Desc>How much damage an object can take before being destroyed</Stat_HitPoints_Desc>
+  <!-- EN: The amount of work it takes to uninstall this. -->
+  <Stat_Thing_WorkToUninstall_Desc>จำนวนแรงงานที่ใช้เพื่อถอนติดตั้งสิ่งนี้</Stat_Thing_WorkToUninstall_Desc>
+  <!-- EN: Which facilities can be used to produce this. -->
+  <Stat_Thing_CreatedAt_Desc>โรงงานใดบางที่สามารถใช้สร้างสิ่งนี้ได้</Stat_Thing_CreatedAt_Desc>
+  <!-- EN: The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor. -->
+  <Stat_Thing_Damage_Desc>ปริมาณความเสียหายที่อาวุธนี้กระทำ\n\nค่านี้อาจโดนสะท้อนและซึมซับโดยเกราะของเป้าหมาย</Stat_Thing_Damage_Desc>
+  <!-- EN: A multiplier on the amount of experience doctors gain when using this to tend a patient. -->
+  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>ตัวคูณกับจำนวนประสบการณ์ที่หมดจะได้ เมื่อใช้สิ่งนี้รักษาคนไข้</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
+  <!-- EN: The attributes of this plant. -->
+  <Stat_Thing_Plant_Attributes_Desc>คุณลักษณะของดาวเคราะห์นี้</Stat_Thing_Plant_Attributes_Desc>
+  <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
+  <Stat_Thing_Apparel_Covers_Desc>ปกคลุมส่วนไหนของร่างกาย\n\nเกราะไม่ป้องกันอวัยวะที่ไม่ได้ปกคลุมไว้</Stat_Thing_Apparel_Covers_Desc>
+  <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
+  <Stat_Thing_Apparel_Layer_Desc>ชั้นไหนบ้างที่เสื้อผ้านี้เติมเต็ม\n\nสำหรับอวัยวะหนึ่งๆ สามารถสวมเครื่องแต่งกายได้ชิ้นเดียวเท่านั้นในแต่ละชั้น</Stat_Thing_Apparel_Layer_Desc>
+  <!-- EN: The minimum soil fertility that this plant requires to grow. -->
+  <Stat_Thing_Plant_FertilityRequirement_Desc>ความอุดมสมบูรณ์ในดินขั้นต่ำ ที่จำเป็นกับพืชนี้ในการเติบโต</Stat_Thing_Plant_FertilityRequirement_Desc>
+  <!-- EN: How sensitive this plant is to soil fertility.\n\nLow sensitivity means the plant will grow about the same speed in rich or poor soil. High sensitivity means the plant grows slow in poor soil, but faster in rich soil. -->
+  <Stat_Thing_Plant_FertilitySensitivity_Desc>พืชนี้อ่อนไหวแค่ไหนต่อความอุดมสมบูรณ์ในดิน\n\nความอ่อนไหวน้อยหมายความว่า พืชจะโตด้วยความเร็วเท่ากันไม่ว่าในดินดีหรือไม่ดี\nความอ่อนไหวมากหมายความว่า พืชจะโตช้าในดินแย่และโตเร็วในดินดี</Stat_Thing_Plant_FertilitySensitivity_Desc>
+  <!-- EN: The amount of light this plant requires to grow. -->
+  <Stat_Thing_Plant_LightRequirement_Desc>ปริมาณแสงที่พืชนี้ต้องการเพื่อเติบโต</Stat_Thing_Plant_LightRequirement_Desc>
+  <!-- EN: The lifespan of the plant.\n\nPlants naturally die after they reach a certain age, even if not harvested. -->
+  <Stat_Thing_Plant_LifeSpan_Desc>อายุขัยของพืช\n\nพืชโดยทั่วไปจะตายหลังจากอายุระดับหนึ่ง แม้ว่าจะไม่โดนเก็บเกี่ยวก็ตาม</Stat_Thing_Plant_LifeSpan_Desc>
+  <!-- EN: The amount of product this plant will yield when harvested. -->
+  <Stat_Thing_Plant_HarvestYield_Desc>จำนวนผลผลิตที่พืชนี้จะให้เมื่อเก็บเกี่ยว</Stat_Thing_Plant_HarvestYield_Desc>
+  <!-- EN: The minimum temperature this plant can survive.\n\nTemperatures below this will cause damage over time. -->
+  <Stat_Thing_Plant_MinGrowthTemperature_Desc>อุณหภูมิต่ำสุดที่พืชสามารถอยู่รอด\n\nอุณภูมิต่ำกว่านี้สร้างความเสียหายไปเรื่อยๆ</Stat_Thing_Plant_MinGrowthTemperature_Desc>
+  <!-- EN: The maximum temperature this plant can survive.\n\nTemperatures above this will cause damage over time. -->
+  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>อุณหภูมิสูงสุดที่พืชสามารถอยู่รอด\n\nอุณภูมิสูงกว่านี้สร้างความเสียหายไปเรื่อยๆ</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
+  <!-- EN: The minimum skill needed for a farmer to to sow this plant. -->
+  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>ทักษะขั้นต่ำที่ต้องการสำหรับเกษตกรเพื่อพรวนดินนี้</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
+  <!-- EN: The kinds of food this creature is capable of eating.\n\nCan eat: {0} -->
+  <Stat_Race_Diet_Desc>ชนิดอาหารที่สิ่งมีชีวิตนี้สามารถกินได้\n\nสามารถกินได้: {0}</Stat_Race_Diet_Desc>
+  <!-- EN: The type of leather this creature will yield when butchered. -->
+  <Stat_Race_LeatherType_Desc>ชนิดหนังที่สิ่งมีชีวิตนี้ให้ผลผลิตเมื่อถูกเชือด</Stat_Race_LeatherType_Desc>
+  <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
+  <Stat_Race_Animal_TameFailedRevengeChance_Desc>โอกาศที่สิ่งมีชิวิตที่จะโจมตี เมื่อมีผู้มาพยายามฝึกให้เชื่องและล้มเหลว</Stat_Race_Animal_TameFailedRevengeChance_Desc>
+  <!-- EN: This creature's general mental aptitude for training. This is a combination of intelligence and attentiveness. It determines which kinds of tasks this creature can be trained to perform. -->
+  <Stat_Race_Trainability_Desc>ความถนัดทั่วๆไปของสิ่งมีชีวิตนี้เมื่อฝึกฝน นี่เป็นส่วนผสมระหว่างความฉลาดกับความสนใจ ใช้กำหนดงานประเภทใด อันสิ่งมีชีวิตนี้สามารถฝึกฝนได้</Stat_Race_Trainability_Desc>
+  <!-- EN: The average life expectancy of this creature. -->
+  <Stat_Race_LifeExpectancy_Desc>อายุขัยโดยเฉลี่ยของสิ่งมีชีวิตนี้</Stat_Race_LifeExpectancy_Desc>
+  <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
+  <Stat_Thing_Ingestible_Joy_Desc>ค่าผ่อนคลายมากแค่ไหนเมื่อกลืนกินสิ่งนี้ ยิ่งค่ามายิ่งเต็มเติมความผ่อนคลายมาก</Stat_Thing_Ingestible_Joy_Desc>
+  <!-- EN: The size of this creature's body, compared to an average adult human. -->
+  <Stat_Race_BodySize_Desc>ขนาดของสิ่งมีชีวิตนี้ เทียบกับขนาดมนุษย์โดยเฉลี่ย</Stat_Race_BodySize_Desc>
+  <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
+  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>เวลาผ่านไปนานแค่ไหน ระหว่างเริ่มโจมตีระยะประชิดด้วยอาวุธนี้ ไปจนถึงตอนที่อาวุธนั้นโจมตีโดน</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
+  <!-- EN: The amount of shots this weapon fires in each burst. -->
+  <Stat_Thing_Weapon_BurstShotCount_Desc>จำนวนกระสุนที่อาวุธนี้ยิงออกไป ในการยิงแต่ละชุด</Stat_Thing_Weapon_BurstShotCount_Desc>
+  <!-- EN: The fire rate of this weapon during each burst. -->
+  <Stat_Thing_Weapon_BurstShotFireRate_Desc>ความเร็วในการยิงของอาวุธนี้ ในการยิงแต่ละชุด</Stat_Thing_Weapon_BurstShotFireRate_Desc>
+  <!-- EN: The maximum range of this weapon. -->
+  <Stat_Thing_Weapon_Range_Desc>ระยะไกลสุดของอาวุธนี้</Stat_Thing_Weapon_Range_Desc>
+  <!-- EN: The radius of random spread on shots fired by this weapon.\n\nHigh values make projectiles disperse randomly around the target. -->
+  <Stat_Thing_Weapon_MissRadius_Desc>รัศมีที่กระสุนพุ่งไปสุ่มๆเมื่อยิงอาวุธนี้\n\nยิ่งค่ามาก กระสุนก็จะสุ่มกระจายไปรอบๆเป้าหมายมากขึ้น</Stat_Thing_Weapon_MissRadius_Desc>
+  <!-- EN: The chance that a shot will directly hit its target if not intercepted, dodged or stopped. -->
+  <Stat_Thing_Weapon_DirectHitChance_Desc>โอกาศเมื่อยิงแล้วจะโดนเป้าหมายตรงๆ ถ้าไม่โดนสกัด โดนหลบ หรือโดนหยุดไว้</Stat_Thing_Weapon_DirectHitChance_Desc>
+  <!-- EN: This body part's effect on the mood of the owner. -->
+  <Stat_Thing_MoodChange_Desc>อวัยวะนี้ส่งผลต่ออารมณ์ของเจ้าของ</Stat_Thing_MoodChange_Desc>
+  <!-- EN: The main skill used while performing this recipe.\n\nIt determines the quality of the result, and is learned while performing this recipe. -->
+  <Stat_Recipe_Skill_Desc>ทักษะหลักที่ใช้ เมื่อกระทำตามใบสั่งนี้\n\nส่งผลต่อคุณภาพของผลลัพท์ และเรียนรู้ระหว่างกระทำตามใบสั่ง</Stat_Recipe_Skill_Desc>
+  <!-- EN: The ingredients required to perform this recipe. -->
+  <Stat_Recipe_Ingredients_Desc>ส่วนประกอบที่จำเป็น เมื่อกระทำตามใบสั่งนี้</Stat_Recipe_Ingredients_Desc>
+  <!-- EN: The skills required to perform this recipe. -->
+  <Stat_Recipe_SkillRequirements_Desc>ทักษะที่จำเป็น เมื่อกระทำตามในสั่งนี้</Stat_Recipe_SkillRequirements_Desc>
+  <!-- EN: The products produced by this recipe. -->
+  <Stat_Recipe_Products_Desc>ผลิตภัณฑ์ที่ได้จากใบสั่งนี้</Stat_Recipe_Products_Desc>
+  <!-- EN: Which character stat governs the workspeed of this recipe.\n\nThe higher the stat of the worker is, the faster work will be done. -->
+  <Stat_Recipe_WorkSpeedStat_Desc>ค่าใดในตัวละคร ที่เกี่ยวข้องกับความเร็วในการทำตามใบสั่งนี้\n\nยิ่งค่านี้ของคนงานมีมาก ยิ่งทำงานเสร็จไวขึ้น</Stat_Recipe_WorkSpeedStat_Desc>
+  <!-- EN: Which stat governs the quality or amount of output.\n\nThe higher the stat of the worker is, the higher the quality or yield will be. -->
+  <Stat_Recipe_EfficiencyStat_Desc>ค่าใดในตัวละคร ที่เกี่ยวข้องกับคุณภาพในการทำตามใบสั่งนี้\n\nยิ่งค่านี้ของคนงานมีมาก ยิ่งทำให้คุณภาพหรือผลผลิตมากขึ้น</Stat_Recipe_EfficiencyStat_Desc>
+  <!-- EN: A multiplier on the chance this operation will be a success. More difficult operations have lower multipliers.\n\nThe actual chance of success of a surgery is also affected by the doctor, facilities, and medicine used. -->
+  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>ตัวคูณกับโอกาศที่การดำเนินการจะสำเร็จ การดำเนินทางด้านแพทย์ที่ยากๆ จะมีค่าตัวคูณน้อย\n\nค่าโอากาศสำเร็จจริงๆของการผ่าตัดนั้น ได้รับผลกระทบจากหมอ อุปกรณ์เครื่องมือ และยาที่ใช้</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
+  <!-- EN: Can't fail -->
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>ไม่มีล้มเหลว</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
+  <!-- EN: Performing this operation is safe for the patient. -->
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>การดำเนินการทางด้านแพทย์นี้ ปลอดภัยต่อคนไข้</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
+  <!-- EN: The chance the patient will die upon failure of this surgery. -->
+  <Stat_Thing_Surgery_DeathOnFailChance_Desc>โอกาศที่คนไข้จะตาย เมื่อการผ่าตัดล้มเหลว</Stat_Thing_Surgery_DeathOnFailChance_Desc>
+  <!-- EN: Total bleed factor -->
+  <Stat_Hediff_TotalBleedFactor_Name>ปัจจัยเลือดไหลทั้งหมด</Stat_Hediff_TotalBleedFactor_Name>
+  <!-- EN: A multiplier applied to the overall rate of blood loss. -->
+  <Stat_Hediff_TotalBleedFactor_Desc>ตัวคูณซึ่งนำไปคำนวณกับอัตราสูญเสียเลือดโดยรวม</Stat_Hediff_TotalBleedFactor_Desc>
+  <!-- EN: Natural healing factor -->
+  <Stat_Hediff_NaturalHealingFactor_Name>ปัจจัยรักษาตัวตามธรรมชาติ</Stat_Hediff_NaturalHealingFactor_Name>
+  <!-- EN: A multiplier applied to the overall rate of natural wound healing. -->
+  <Stat_Hediff_NaturalHealingFactor_Desc>ตัวคูณซึ่งนำไปคำนวณกับอัตราการักษาแผลตามธรรมชาติ</Stat_Hediff_NaturalHealingFactor_Desc>
+  <!-- EN: Food poisoning chance factor -->
+  <Stat_Hediff_FoodPoisoningChanceFactor_Name>ปัจจัยโอกาศทำอาหารเป็นพิษ</Stat_Hediff_FoodPoisoningChanceFactor_Name>
+  <!-- EN: A multiplier applied to the chance of getting food poisoning. -->
+  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>ตัวคูณซึ่งนำไปคำนวณกับโอกาศที่จะเกิดอุบัติเหตุทำอาหารเป็นพิษ</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
+  <!-- EN: The rate at which this condition causes blood loss. -->
+  <Stat_Hediff_BleedingRate_Desc>อัตราการถ่ายเลือกในเงื่อนไขนี้</Stat_Hediff_BleedingRate_Desc>
+  <!-- EN: The amount of pain caused by this condition. -->
+  <Stat_Hediff_Pain_Desc>ปริมาณความเจ็บปวดเกิดจากเงื่อนไขนี้</Stat_Hediff_Pain_Desc>
+  <!-- EN: The offset in efficiency applied to body parts affected by this. -->
+  <Stat_Hediff_PartEfficiency_Desc>ประสิทธิภาพที่หักล้างกัน เมื่อนำไปคำนวนกับอวัยวะที่ได้รับ</Stat_Hediff_PartEfficiency_Desc>
+  <!-- EN: The mental abilities this affects. -->
+  <Stat_Hediff_Affects_Desc>ความถนัดใดที่โดนผลส่งกระทบ</Stat_Hediff_Affects_Desc>
+  <!-- EN: Hunger rate offset -->
+  <Stat_Hediff_HungerRateOffset_Name>บวกลบอัตราความหิว</Stat_Hediff_HungerRateOffset_Name>
+  <!-- EN: A multiplier on the rate at which the food need depletes. -->
+  <Stat_Hediff_HungerRateFactor_Desc>ตัวคูณซึ่งนำไปคำนวณกับอัตราความต้องการอาหารที่ลดลง</Stat_Hediff_HungerRateFactor_Desc>
+  <!-- EN: An offset on the rate at which the food need depletes. -->
+  <Stat_Hediff_HungerRateOffset_Desc>ค่าหักล้างซึ่งนำไปคำนวณกับอัตราความต้องการอาหารที่ลดลง</Stat_Hediff_HungerRateOffset_Desc>
+  <!-- EN: Rest fall rate -->
+  <Stat_Hediff_TirednessOffset_Name>อัตราการพักผ่อนลดลง</Stat_Hediff_TirednessOffset_Name>
+  <!-- EN: An offset applied to the rate at which the creatures rest need falls. -->
+  <Stat_Hediff_TirednessOffset_Desc>ตัวคูณซึ่งนำไปคำนวณกับอัตราความต้องการพักผ่อนที่ลดลง</Stat_Hediff_TirednessOffset_Desc>
+  <!-- EN: A multiplier applied to the rate at which the creatures rest need falls. -->
+  <Stat_Hediff_TirednessFactor_Desc>ค่าหักล้างซึ่งนำไปคำนวณกับอัตราความต้องการพักผ่อนที่ลดลง</Stat_Hediff_TirednessFactor_Desc>
+  <!-- EN: Whether or not this will prevent infections. -->
+  <Stat_Hediff_PreventsInfection_Desc>นี่จะช่วยป้องกันการติดเชื้อหรือไม่</Stat_Hediff_PreventsInfection_Desc>
+  <!-- EN: The things this terrain supports. -->
+  <Stat_Thing_Terrain_Supports_Desc>สิ่งใดที่ภูมิประเทศนี้รองรับ</Stat_Thing_Terrain_Supports_Desc>
+  <!-- EN: This can only be placed on terrain of these types. -->
+  <Stat_Thing_TerrainRequirement_Desc>สิ่งนี้สามารถวางบนภูมิประเทศชนิดเหล่านี้เท่านั้น</Stat_Thing_TerrainRequirement_Desc>
+  <!-- EN: Considered -->
+  <Stat_Thing_Terrain_Fine_Name>พิถีพิถัน</Stat_Thing_Terrain_Fine_Name>
+  <!-- EN: Fine -->
+  <Stat_Thing_Terrain_Fine_Value>น่าพึงพอใจ</Stat_Thing_Terrain_Fine_Value>
+  <!-- EN: This floor is considered fine and suitable for royalty. -->
+  <Stat_Thing_Terrain_Fine_Desc>พื้นนี้ถือว่าน่าพึงพอใจและเหมาะสมสำหรับราชวงศ์</Stat_Thing_Terrain_Fine_Desc>
+  <!-- EN: The amount of power this building will draw from the power grid. -->
+  <Stat_Thing_PowerConsumption_Desc>ปริมาณไฟฟ้าที่สิ่งก่อสร้างนี้ดึงจากกริดไฟฟ้า</Stat_Thing_PowerConsumption_Desc>
+  <!-- EN: The overall efficiency of this body part. -->
+  <Stat_Thing_BodyPartEfficiency_Desc>ประสิทธิภาพโดยรวมของอวัยวะนี้</Stat_Thing_BodyPartEfficiency_Desc>
+  <!-- EN: Biocoding -->
+  <Stat_Thing_Biocoded_Name>TODO</Stat_Thing_Biocoded_Name>
+  <!-- EN: This item has been coded to only accept a particular individual's bio-signature. -->
+  <Stat_Thing_Biocoded_Desc>TODO</Stat_Thing_Biocoded_Desc>
+
+  <!-- Drugs -->
+  <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
+  <Stat_Thing_Drug_Chemical_Desc>TODO</Stat_Thing_Drug_Chemical_Desc>
+  <!-- EN: The intensity of high gained per dose of this drug. -->
+  <Stat_Thing_Drug_HighGainPerDose_Desc>TODO</Stat_Thing_Drug_HighGainPerDose_Desc>
+  <!-- EN: How much this drug's high will decay each day. -->
+  <Stat_Thing_Drug_HighFallPerDay_Desc>TODO</Stat_Thing_Drug_HighFallPerDay_Desc>
+  <!-- EN: How long this drug's high will last per dose.\n\nThis is calculated from the high gained per dose and the high fall rate. -->
+  <Stat_Thing_Drug_HighDurationPerDose_Desc>TODO</Stat_Thing_Drug_HighDurationPerDose_Desc>
+  <!-- EN: How much a user's tolerance to the chemical will increase for each dose of this drug.\n\nThis can be different for different forms of the same chemical. -->
+  <Stat_Thing_Drug_ToleranceGainPerDose_Desc>TODO</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
+  <!-- EN: How much a user's tolerance to the chemical will fall per day. -->
+  <Stat_Thing_Drug_ToleranceFallPerDay_Desc>TODO</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
+  <!-- EN: The minimum tolerance required to become newly addicted to this drug.\n\nIf a user is below this tolerance level, they can't become newly addicted from taking a dose. -->
+  <Stat_Thing_Drug_MinToleranceForAddiction_Desc>TODO</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
+  <!-- EN: A user will never become addicted if they never take the drug more often than this.\n\nThis is calculated from the drug's minimum tolerance to addict, the tolerance gain per dose, and the rate of tolerance decay.\n\nNote that some drugs don't have a safe interval. Such drugs can addict on any dose, even the first one. -->
+  <Stat_Thing_Drug_SafeDoseInterval_Desc>TODO</Stat_Thing_Drug_SafeDoseInterval_Desc>
+  <!-- EN: The chance of a random overdose when taking this drug. Random overdoses can happen on any dose, whether it's a new user's first try or an experienced addict's hundredth hit. -->
+  <Stat_Thing_Drug_RandomODChance_Desc>TODO</Stat_Thing_Drug_RandomODChance_Desc>
+  <!-- EN: The chance of addiction per dose of this drug.\n\nIf the drug has a minimum tolerance to addict, the tolerance must be above that level for this to apply. If there is no minimum tolerance, any dose can cause an addiction. -->
+  <Stat_Thing_Drug_Addictiveness_Desc>ความเสพติดของยานี้</Stat_Thing_Drug_Addictiveness_Desc>
+  <!-- EN: New addictions caused by this drug begin at this severity level.\n\nTaking more of the drug will increase addiction severity, while time will reduce it. -->
+  <Stat_Thing_Drug_AddictionSeverityInitial_Desc>TODO</Stat_Thing_Drug_AddictionSeverityInitial_Desc>
+  <!-- EN: How long it takes to recover from an initial addiction to this drug.\n\nThis is be calculated from the new addiction severity divided by the rate of addiction recovery. An addiction which has been fed will take longer. -->
+  <Stat_Thing_Drug_AddictionRecoveryTime_Desc>TODO</Stat_Thing_Drug_AddictionRecoveryTime_Desc>
+  <!-- EN: How much severity is added to an existing addiction for each dose of this drug.\n\nAddiction severity cannot go above 100%. -->
+  <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>TODO</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
+  <!-- EN: How often an addict needs to take a dose of this drug to feed the addiction and prevent withdrawal.\n\nThis is calculated from the addiction need fall rate and the need fill per dose. -->
+  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>TODO</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
+  <!-- EN: How much each dose of this drug fills an addict's need for the chemical. -->
+  <Stat_Thing_Drug_AddictionNeedOffset_Desc>TODO</Stat_Thing_Drug_AddictionNeedOffset_Desc>
+  <!-- EN: How quickly an addict's need for the chemical will fall. -->
+  <Stat_Thing_Drug_AddictionNeedFallRate_Desc>TODO</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
+  <!-- EN: The market value of drugs that must be consumed per day to support an addiction to this drug without going into withdrawal.\n\nThis value is calculated from the addict's chemical need per dose, the need fall rate, and the market value of this drug.\n\nNote that there may be other ways to get the same chemical with different costs. -->
+  <Stat_Thing_Drug_AddictionCost_Desc>TODO</Stat_Thing_Drug_AddictionCost_Desc>
+
+  <!-- UNUSED -->
+  <Stat_Thing_Weapon_Biocoded_Name>ไบโอโค้ด</Stat_Thing_Weapon_Biocoded_Name>
+  <Stat_Thing_Weapon_Biocoded_Desc>ไอเท็มนี้ถูกโค้ดให้ยอมรับเฉพาะบุคคลที่มีลายเซ็นทางชีวะภาพตรงกันเท่านั้น</Stat_Thing_Weapon_Biocoded_Desc>
+
+</LanguageData>

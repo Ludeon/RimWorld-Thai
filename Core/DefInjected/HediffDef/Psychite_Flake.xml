@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: high on flake -->
+  <FlakeHigh.label>เมาเฟล็ก</FlakeHigh.label>
+  <!-- EN: Active flake in the bloodstream. Generates a euphoric, debilitating high. -->
+  <FlakeHigh.description>เฟล็กออกฤทธิ์อยู่ในกระแสเลือด ทำให้เมาเคลิ้ม อ่อนแรงลง</FlakeHigh.description>
+  <!-- EN: a flake high -->
+  <FlakeHigh.labelNoun>อาการเมาเฟล็ก</FlakeHigh.labelNoun>
+  
+</LanguageData>

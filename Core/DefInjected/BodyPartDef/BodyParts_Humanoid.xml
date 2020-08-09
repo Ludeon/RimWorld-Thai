@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arm -->
+  <Arm.label>แขน</Arm.label>
+  
+  <!-- EN: clavicle -->
+  <Clavicle.label>ไหปลาร้า</Clavicle.label>
+  
+  <!-- EN: femur -->
+  <Femur.label>กระดูกโคนขา</Femur.label>
+  
+  <!-- EN: finger -->
+  <Finger.label>นิ้ว</Finger.label>
+  
+  <!-- EN: hand -->
+  <Hand.label>มือ</Hand.label>
+  
+  <!-- EN: humerus -->
+  <Humerus.label>กระดูกต้นแขน</Humerus.label>
+  
+  <!-- EN: pelvis -->
+  <Pelvis.label>กระดูกเชิงกราน</Pelvis.label>
+  
+  <!-- EN: radius -->
+  <Radius.label>กระดูกท่อนแขน</Radius.label>
+  
+  <!-- EN: shoulder -->
+  <Shoulder.label>ไหล่</Shoulder.label>
+  
+  <!-- EN: sternum -->
+  <Sternum.label>กระดูกสันอก</Sternum.label>
+  
+  <!-- EN: tibia -->
+  <Tibia.label>กระดูกหน้าแข้ง</Tibia.label>
+  
+  <!-- EN: toe -->
+  <Toe.label>นิ้วเท้า</Toe.label>
+  
+  <!-- EN: torso -->
+  <Torso.label>ลำตัว</Torso.label>
+  
+  <!-- EN: waist -->
+  <Waist.label>เอว</Waist.label>
+  
+</LanguageData>

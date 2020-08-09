@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flake -->
+  <Flake.label>Flake</Flake.label>
+  <!-- EN: A flaky white preparation of psychite that can be smoked to induce a short but powerful euphoric state. While it is cheap to produce and extremely pleasurable to use, it is exceptionally addictive. Flake is known for destroying lives, communities, and entire societies. -->
+  <Flake.description>Psychite ในรูปแบบเฟล็กขาวเล็กๆซึ่งสามารถใช้สูบ เพื่อให้เกิดอาการเคลิบเคลิ้มรุนแรงระยะสั้นๆ ในขณะที่ยานี้ทำได้ง่ายและมีความสุขในการใช้ มันเสพติดได้ง่ายมากๆ ทำให้ Flake เป็นที่รู้จักกันดีว่าทำลายชีวิต ชุมชน และสังคม</Flake.description>
+  <!-- EN: Smoke {0} -->
+  <Flake.ingestible.ingestCommandString>สูบ {0}</Flake.ingestible.ingestCommandString>
+  <!-- EN: Smoking {0}. -->
+  <Flake.ingestible.ingestReportString>กำลังสูบ {0}</Flake.ingestible.ingestReportString>
+  
+</LanguageData>

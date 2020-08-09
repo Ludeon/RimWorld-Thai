@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: New Arrivals -->
+  <PlayerColony.label>ผู้มาถึงใหม่</PlayerColony.label>
+  <!-- EN: A colony of recently-arrived off-worlders. -->
+  <PlayerColony.description>นิคมชาวต่างโลกที่เพิ่งมาถึง</PlayerColony.description>
+  <!-- EN: colonist -->
+  <PlayerColony.pawnSingular>ชาวนิคม</PlayerColony.pawnSingular>
+  <!-- EN: colonists -->
+  <PlayerColony.pawnsPlural>เหล่าชาวนิคม</PlayerColony.pawnsPlural>
+  
+  <!-- EN: New Tribe -->
+  <PlayerTribe.label>เผ่าใหม่</PlayerTribe.label>
+  <!-- EN: A small tribe. -->
+  <PlayerTribe.description>เผ่าขนาดเล็ก</PlayerTribe.description>
+  <!-- EN: tribesman -->
+  <PlayerTribe.pawnSingular>ชนเผ่า</PlayerTribe.pawnSingular>
+  <!-- EN: tribespeople -->
+  <PlayerTribe.pawnsPlural>เหล่าชนเผ่า</PlayerTribe.pawnsPlural>
+  
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: malnutrition -->
+  <Malnutrition.label>ขาดสารอาหาร</Malnutrition.label>
+  <!-- EN: Abnormally low body fat and weight, typically caused by lack of food. Malnutrition is always very unpleaseant, but its initial effects are mild. Without food, though, a malnourished creature will waste away, losing muscle mass and capacities. Malnutrition ends with death.\n\nUpon re-feeding malnutrition naturally recovers over time. Malnourished creatures have larger appetites than normal. -->
+  <Malnutrition.description>ไขมันในร่างกายกับน้ำหนักน้อยอย่างผิดแปลก ส่วนใหญ่เกิดจากการขาดอาหาร การขาดสารอาหารไม่สบายเป็นอย่างมากเสมอ แต่อาการแรกเริ่มนั้นอ่อน เมื่อไม่มีอาหารแล้ว สิ่งมีชีวิตที่ขาดสารอาหารจะซูบผอมลง เสียมวลและความสามารถของกล้ามเนื้อไป การขาดสารอาหารจะจบลงด้วยความตาย\n\nเมื่อได้กลับมากินอาหาร อาการขาดสารอาหารก็จะฟื้นตัวไปตามเวลาโดยธรรมชาติ สิ่งมีชีวิตที่ขาดสารอาหารจะมีความอยากอาหารมากกว่าปกติ</Malnutrition.description>
+  <!-- EN: trivial -->
+  <Malnutrition.stages.trivial.label>งั้น ๆ</Malnutrition.stages.trivial.label>
+  <!-- EN: minor -->
+  <Malnutrition.stages.minor.label>เล็กน้อย</Malnutrition.stages.minor.label>
+  <!-- EN: moderate -->
+  <Malnutrition.stages.moderate.label>พอสมควร</Malnutrition.stages.moderate.label>
+  <!-- EN: severe -->
+  <Malnutrition.stages.severe.label>รุนแรง</Malnutrition.stages.severe.label>
+  <!-- EN: extreme -->
+  <Malnutrition.stages.extreme.label>สาหัส</Malnutrition.stages.extreme.label>
+  
+</LanguageData>

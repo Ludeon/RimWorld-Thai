@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arid shrubland -->
+  <AridShrubland.label>ทุ่งไม้พุ่มแล้ง</AridShrubland.label>
+  <!-- EN: A dry region, but not dry enough to become a true desert. Open plains with grasses and bushes give way to scattered groves of trees. Plants are hardy and there is a moderate density of animals, but arable soil is hard to find. -->
+  <AridShrubland.description>ภูมิภาคแห้ง แต่ไม่แห้งพอที่จะเป็นทะเลทรายจริงได้ ทุ่งกว้างมีหญ้าและพุ่มที่เปิดทางให้มีหมู่ไม้กระจัดกระจายกันอยู่ เหล่าพืชนั้นทนทาน และมีสัตว์อาศัยอยู่หนาแน่นพอสมควร แต่ดินที่เพาะปลูกได้นั้นหาได้ยาก</AridShrubland.description>
+  
+  <!-- EN: desert -->
+  <Desert.label>ทะเลทราย</Desert.label>
+  <!-- EN: A very dry area which supports little life. There is very little arable land, and animal life is very sparse. Deserts can be hot, or quite cold. -->
+  <Desert.description>พื้นที่แห้งแล้งอย่างมาก ซึ่งค้ำจุนสิ่งมีชีวิตได้น้อย พื้นดินเพาะปลูกได้นั้นมีน้อยมาก และสัตว์ก็มีอยู่บางตา ทะเลทรายจะร้อนก็ได้ หรือหนาวมากเลยก็ได้</Desert.description>
+  
+  <!-- EN: extreme desert -->
+  <ExtremeDesert.label>ทะเลทรายเขตร้อน</ExtremeDesert.label>
+  <!-- EN: An extremely hot, dry area, devoid of almost all life. Searing heat and a near total lack of arable land make it very difficult to survive here. -->
+  <ExtremeDesert.description>พื้นที่ร้อนแห้งสุดขีด ปราศจากสิ่งมีชีวิตแทบทุกสิ่ง ความร้อนที่เผาไหม้เกรียม และความขาดแคลนพื้นดินที่เพาะปลูกได้เกือบทั้งหมดนั้น ทำให้การเอาชีวิตรอดที่นี่ยากลำบากเป็นอย่างมาก</ExtremeDesert.description>
+  
+</LanguageData>

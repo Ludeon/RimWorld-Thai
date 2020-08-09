@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artificial brain -->
+  <ArtificialBrain.label>สมองกล</ArtificialBrain.label>
+  
+  <!-- EN: blade -->
+  <Blade.label>ใบมีด</Blade.label>
+  
+  <!-- EN: fluid reprocessor -->
+  <FluidReprocessor.label>หน่วยประมวลของเหลวใหม่</FluidReprocessor.label>
+  
+  <!-- EN: sound sensor -->
+  <HearingSensor.label>เซ็นเซอร์เสียง</HearingSensor.label>
+  
+  <!-- EN: arm -->
+  <MechanicalArm.label>แขน</MechanicalArm.label>
+  
+  <!-- EN: fifth body ring -->
+  <MechanicalCentipedeBodyFifthRing.label>ห่วงลำตัวที่ห้า</MechanicalCentipedeBodyFifthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFifthRing.labelShort>ห่วงลำตัว</MechanicalCentipedeBodyFifthRing.labelShort>
+  
+  <!-- EN: first body ring -->
+  <MechanicalCentipedeBodyFirstRing.label>ห่วงลำตัวที่หนึ่ง</MechanicalCentipedeBodyFirstRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFirstRing.labelShort>ห่วงลำตัว</MechanicalCentipedeBodyFirstRing.labelShort>
+  
+  <!-- EN: fourth body ring -->
+  <MechanicalCentipedeBodyFourthRing.label>ห่วงลำตัวที่สี่</MechanicalCentipedeBodyFourthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFourthRing.labelShort>ห่วงลำตัว</MechanicalCentipedeBodyFourthRing.labelShort>
+  
+  <!-- EN: second body ring -->
+  <MechanicalCentipedeBodySecondRing.label>ห่วงลำตัวที่สอง</MechanicalCentipedeBodySecondRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodySecondRing.labelShort>ห่วงลำตัว</MechanicalCentipedeBodySecondRing.labelShort>
+  
+  <!-- EN: sixth body ring -->
+  <MechanicalCentipedeBodySixthRing.label>ห่วงลำตัวที่หก</MechanicalCentipedeBodySixthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodySixthRing.labelShort>ห่วงลำตัว</MechanicalCentipedeBodySixthRing.labelShort>
+  
+  <!-- EN: third body ring -->
+  <MechanicalCentipedeBodyThirdRing.label>ห่วงลำตัวที่สาม</MechanicalCentipedeBodyThirdRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyThirdRing.labelShort>ห่วงลำตัว</MechanicalCentipedeBodyThirdRing.labelShort>
+  
+  <!-- EN: finger -->
+  <MechanicalFinger.label>นิ้ว</MechanicalFinger.label>
+  
+  <!-- EN: foot -->
+  <MechanicalFoot.label>เท้า</MechanicalFoot.label>
+  
+  <!-- EN: hand -->
+  <MechanicalHand.label>มือ</MechanicalHand.label>
+  
+  <!-- EN: head -->
+  <MechanicalHead.label>หัว</MechanicalHead.label>
+  
+  <!-- EN: leg -->
+  <MechanicalLeg.label>ขา</MechanicalLeg.label>
+  
+  <!-- EN: neck -->
+  <MechanicalNeck.label>คอ</MechanicalNeck.label>
+  
+  <!-- EN: shoulder -->
+  <MechanicalShoulder.label>ไหล่</MechanicalShoulder.label>
+  
+  <!-- EN: thorax -->
+  <MechanicalThorax.label>ทรวงอก</MechanicalThorax.label>
+  
+  <!-- EN: thorax -->
+  <MechanicalThoraxCanManipulate.label>ทรวงอก</MechanicalThoraxCanManipulate.label>
+  
+  <!-- EN: reactor -->
+  <Reactor.label>เตาปฏิกรณ์</Reactor.label>
+  
+  <!-- EN: visual sensor -->
+  <SightSensor.label>เซ็นเซอร์ภาพ</SightSensor.label>
+  
+  <!-- EN: chemical analyzer -->
+  <SmellSensor.label>หน่วยวิเคราะห์เคมี</SmellSensor.label>
+  
+</LanguageData>

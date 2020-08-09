@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arrow -->
+  <Arrow.label>ลูกธนู</Arrow.label>
+  <!-- EN: {0} has been shot to death by an arrow. -->
+  <Arrow.deathMessage>{0} โดนลูกธนูยิงตาย</Arrow.deathMessage>
+  
+  <!-- EN: arrow -->
+  <ArrowHighVelocity.label>ลูกธนู</ArrowHighVelocity.label>
+  <!-- EN: {0} has been shot to death by an arrow. -->
+  <ArrowHighVelocity.deathMessage>{0} โดนลูกธนูยิงตาย</ArrowHighVelocity.deathMessage>
+  
+  <!-- EN: bullet -->
+  <Bullet.label>กระสุน</Bullet.label>
+  <!-- EN: {0} has been shot to death. -->
+  <Bullet.deathMessage>{0} โดนกระสุนยิงตาย</Bullet.deathMessage>
+  
+  <!-- EN: stab -->
+  <RangedStab.label>แทง</RangedStab.label>
+  <!-- EN: {0} has been stabbed to death. -->
+  <RangedStab.deathMessage>{0} โดนแทงตาย</RangedStab.deathMessage>
+  
+</LanguageData>
