@@ -1,52 +1,52 @@
-﻿artwork
-art
-work
-item
-piece
+﻿งานศิลปะ
+ศิลปะ
+งาน
+สิ่ง
+ชิ้น
 
-oeuvre
-expression
-attempt
-untitled
-titled
+ผลงาน
+การแสดงออก
+ความพยายาม
+ไม่มีชื่อ
+มีชื่อ
 
-shape
-form
-image
-shot
-picture
-portrait
-still
+รูปทรง
+รูปร่าง
+ภาพ
+รูป
+รูปภาพ
+ภาพเหมือน
+ภาพหุ่นนิ่ง
 
-poem
+บทกวี
 
-lullaby
-song
-tune
-rhythm
-beat
+เพลงกล่อมเด็ก
+เพลง
+ดนตรี
+ทำนอง
+จังหวะ
 
-codex
-book
+บันทึก
+หนังสือ
 
-cuboid
-circloid
-parabolic
-cubic
-curvelike
-curve
+ทรงสี่เหลี่ยม
+ทรงกลม
+ทรวพาราโบลา
+ทรงลูกบาศก์
+ทรงกึ่งโค้ง
+ทรงโค้ง
 
-mirror
-day
-vomit
-sweat
-shadow
+กระจก
+วัน
+อ้วก
+เหงื่อ
+เงา
 
-freedom
-vision
-love
-divinity
-wisdom
-shame
-death
-darkness
+อิสรภาพ
+วิสัยทัศน์
+ความรัก
+ความศักดิ์สิทธิ์
+ปัญญา
+ความอัปยศ
+ความตาย
+ความมืด
