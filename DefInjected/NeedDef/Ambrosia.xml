@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<LanguageData>
-  
-  <!-- EN: ambrosia -->
-  <Chemical_Ambrosia.label>กระยาทิพย์</Chemical_Ambrosia.label>
-  <!-- EN: Because of an ambrosia addiction, this person needs to regularly consume ambrosia to avoid withdrawal symptoms. -->
-  <Chemical_Ambrosia.description>เพราะว่ากระยาทิพย์นั้นเสพติด คนนี้จำเป็นต้องเสพกระยาทิพย์เป็นประจำ เพื่อเลี่ยงอาการลงแดง</Chemical_Ambrosia.description>
-  
-</LanguageData>
