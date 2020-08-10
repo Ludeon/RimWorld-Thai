@@ -41,27 +41,27 @@
 คนเฉือน
 คนยิง
 
-merchant
-owner
-reaper
-executioner
+ผู้ค้า
+เจ้าของ
+ยมทูต
+เพชฌฆาต
 
-cannibal
-violator
-deflier
-despoiler
-attacker
-ravager
+มนุษย์กินคน
+คนประทุษร้าย
+โจรปล้นแปดเปื้อน
+โจรปล้นชิง
+คนจู่โจม
+คนล้างผลาญ
 
-champion
-victor
-winner
-dominator
-conqueror
-vanquisher
+แชมป์
+ผู้มีชัย
+ผู้ชนะ
+ผู้ครอบงำ
+ผู้ปราชัย
+ผู้พิชิต
 
-knight
-samurai
-hero
-king
-queen
+อัศวิน
+ซามูไร
+ฮีโร่
+ราชา
+ราชินี
