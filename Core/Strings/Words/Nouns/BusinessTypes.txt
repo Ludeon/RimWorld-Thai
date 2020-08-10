@@ -1,18 +1,18 @@
-﻿Company
-Partners
-Corporation
-Traders
-Industries
-Incorporated
-Travelers
-Interplanetary
-Shipping
-Export Company
-Import Company
-Transport Company
-Transit Company
-Securities
-Solutions
-Consortium
-Interstellar
-Lubricants
+﻿บริษัท
+ห้างหุ้นส่วน
+บริษัทจำกัด
+องค์กรค้าขาย
+เครือธุรกิจ
+เครือบริษัท
+องค์กรสัญจร
+องค์กรนานาโลก
+องค์กรลำเลียง
+บริษัทส่งออก
+บริษัทนำเข้า
+บริษัทขนส่ง
+บริษัทเดินทาง
+บริษัทหลักทรัพย์
+บริษัทให้คำปรึกษา
+สมาคม
+องค์กรนานาดาว
+องค์กรรับจ้างทั่วไป
