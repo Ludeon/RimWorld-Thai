@@ -70,6 +70,8 @@
   <CommandBedSetOwnerDesc>กำหนดเตียงนี้ ให้เป็นของชาวนิคมคนใด</CommandBedSetOwnerDesc>
   <!-- EN: Assign this throne to be owned by a specific colonist. -->
   <CommandThroneSetOwnerDesc>กำหนดบัลลังก์นี้ ให้เป็นของชาวนิคมคนใด</CommandThroneSetOwnerDesc>
+  <!-- EN: Assign this meditation spot to be owned by a specific colonist. -->
+  <CommandMeditationSpotSetOwnerDesc>TODO</CommandMeditationSpotSetOwnerDesc>
   <!-- EN: Assign colonist -->
   <CommandGraveAssignColonistLabel>กำหนดชาวนิคม</CommandGraveAssignColonistLabel>
   <!-- EN: Assign this grave to be owned by a specific colonist. -->
@@ -252,6 +254,12 @@
   <!-- EN: End any ongoing attacks. -->
   <CommandHoldFireDesc>ยุติการโจมตีใดๆก็ตามที่ดำเนินอยู่</CommandHoldFireDesc>
   
+  <!-- reload -->
+  <!-- EN: No {CHARGENOUN_plural} left. -->
+  <CommandReload_NoCharges>TODO</CommandReload_NoCharges>
+  <!-- EN: Needs to be reloaded with {COUNT} {AMMO_label}. -->
+  <CommandReload_NoAmmo>TODO</CommandReload_NoAmmo>
+  
   <!-- Select plant to grow -->
   <!-- EN: Select plant to grow -->
   <CommandSelectPlantToGrowMulti>เลือกพันธู์พืชที่จะปลูก</CommandSelectPlantToGrowMulti>
@@ -297,6 +305,8 @@
   <CommandMergeCaravansDesc>รวมคาราวานที่เลือก</CommandMergeCaravansDesc>
   <!-- EN: Select all caravans which should be merged. The caravans must be close to each other. -->
   <CommandMergeCaravansFailCaravansNotSelected>เลือกคาราวานทั้งหมดที่ควรจะผสาน คาราวานต้องอยู่ใกล้กันและกัน</CommandMergeCaravansFailCaravansNotSelected>
+  <!-- EN: Join -->
+  <CommandJoinCaravan>TODO</CommandJoinCaravan>
   
   <!-- Settle -->
   <!-- EN: Settle -->
@@ -397,9 +407,9 @@
   <CommandCancelLoadDesc>ยกเลิกการโหลดคนหรือไอเท็มขึ้นไป และดีดสิ่งที่โหลดไปแล้วออกมาหมด</CommandCancelLoadDesc>
   
   <!-- Launch group -->
-  <!-- EN: Launch group -->
+  <!-- EN: Launch -->
   <CommandLaunchGroup>ปล่อยกลุ่ม</CommandLaunchGroup>
-  <!-- EN: Initiates the targeting process for launching a group of transport pods. The next step is choosing a target. The pods will fly and land together. -->
+  <!-- EN: Take off and fly to a destination. -->
   <CommandLaunchGroupDesc>เริ่มกระบวนการหาเป้าหมาย สำหรับการปล่อยตัวกลุ่มกระสวยขนส่ง ขั้นตอนต่อไปคือการเลือกเป้าหมาย กระสวยจะบินและลงจอดไปด้วยกัน</CommandLaunchGroupDesc>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
   <CommandLaunchGroupFailNotConnectedToFuelingPort>บางกระสวยขนส่งในกลุ่มกำลังโหลด ไม่ได้เชื่อมต่อช่องเติมเชื้อเพลิง</CommandLaunchGroupFailNotConnectedToFuelingPort>
@@ -493,6 +503,12 @@
   <CommandSendShuttleFailUnderRoof>ยานกระสวยอยู่ภายใต้หลังคา</CommandSendShuttleFailUnderRoof>
   <!-- EN: Some of the required items or people are missing. -->
   <CommandSendShuttleFailMissingRequiredThing>คนหรือไอเท็มที่จำเป็นบางอย่างตกหล่นไป</CommandSendShuttleFailMissingRequiredThing>
+  
+  <!-- Dismiss shuttle -->
+  <!-- EN: Dismiss -->
+  <CommandShuttleDismiss>TODO</CommandShuttleDismiss>
+  <!-- EN: Unload all contents and send the shuttle away. -->
+  <CommandShuttleDismissDesc>TODO</CommandShuttleDismissDesc>
 
   <!-- Place blueprints -->
   <!-- EN: Place blueprints -->

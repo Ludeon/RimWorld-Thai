@@ -226,6 +226,15 @@
   <QuestPartShuttleLeaveDelay>ยานกระสวยออกใน {0}</QuestPartShuttleLeaveDelay>
   <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
   <QuestPartShuttleLeaveDelayDesc>ยานกระสวยกำลังจะออกตัวใน {1}, เควส {0} ต้องการให้คุณโหลดคนหรือไอเท็มเหล่านี้ขึ้นก่อนยานกระสวยออก:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
+  <!-- EN: The shuttle will leave in {0}. -->
+  <QuestPartShuttleLeaveDelayDescHidden>TODO</QuestPartShuttleLeaveDelayDescHidden>
+
+  <!-- EN: Shuttle arriving in {0} -->
+  <QuestPartShuttleArriveDelay>TODO</QuestPartShuttleArriveDelay>
+  <!-- EN: A shuttle will arrive in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
+  <QuestPartShuttleArriveDelayDesc>TODO</QuestPartShuttleArriveDelayDesc>
+  <!-- EN: A shuttle will arrive in {0}. -->
+  <QuestPartShuttleArriveDelayDescHidden>TODO</QuestPartShuttleArriveDelayDescHidden>
 
   <!-- EN: Monument will be destroyed -->
   <DisallowedBuildingInsideMonument>อนุสาวรีย์จะถูกทำลาย</DisallowedBuildingInsideMonument>

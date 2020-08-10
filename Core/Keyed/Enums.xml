@@ -312,4 +312,6 @@
   <ExtraFactionType_HomeFaction>ฝักฝ่ายเรา</ExtraFactionType_HomeFaction>
   <!-- EN: remote host faction -->
   <ExtraFactionType_HostFaction>ฝ่ายเจ้าภาพไกลๆ</ExtraFactionType_HostFaction>
+  <!-- EN: group -->
+  <ExtraFactionType_MiniFaction>TODO</ExtraFactionType_MiniFaction>
 </LanguageData>

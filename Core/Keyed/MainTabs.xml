@@ -90,6 +90,8 @@
   <EnemyOf>ศัตรูของ</EnemyOf>
   <!-- EN: Current goodwill and relations status with this faction. -->
   <CurrentGoodwillTip>ความนิยมและสถานะความสัมพันธ์ในปัจจุบันของฝ่ายนี้</CurrentGoodwillTip>
+  <!-- EN: Current relations with this faction. -->
+  <CurrentRelationTip>TODO</CurrentRelationTip>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
   <CurrentGoodwillTip_PermanentEnemy>ฝ่ายนี้เป็นปรปักษ์กันถาวร พวกเขาจะบุกปล้นถิ่นฐานและกองคาราวานของคุณ ความสัมพันธ์กับพวกเขาจะไม่ดีขึ้นเลยไม่ว่าด้วยเหตุผลอะไร</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
@@ -202,6 +204,8 @@
   <ResearchTechprintsFromFactions>พิมพ์เทคได้จากฝักฝ่ายเหล่านี้ ผ่านการแลกเปลื่ยนหรือเควส:</ResearchTechprintsFromFactions>
   <!-- EN: Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}. -->
   <TechLevelTooLow>ฝ่ายของคุณมีเทคโลโลยีระดับ {0} แต่โครงการนี้มีระดับเทคโนโลยี {1}, ความเร็วในการวิจัยจะคูณด้วย {2}</TechLevelTooLow>
+  <!-- EN: Unlocked with -->
+  <UnlockedWith>TODO</UnlockedWith>
 
   <!-- Quests tab -->
   <!-- EN: Available -->
@@ -240,6 +244,10 @@
   <ShuttleDepartsIn>ยานกระสวยออกตัวใน {0}</ShuttleDepartsIn>
   <!-- EN: Shuttle departs on {0} -->
   <ShuttleDepartsOn>ยานกระสวยออกตัวเมื่อ {0}</ShuttleDepartsOn>
+  <!-- EN: Guests depart in {0} -->
+  <GuestsDepartsIn>TODO</GuestsDepartsIn>
+  <!-- EN: Guests depart on {0} -->
+  <GuestsDepartsOn>TODO</GuestsDepartsOn>
   <!-- EN: Finished {0} ago -->
   <QuestFinishedAgo>เสร็จสิ้นไป {0} ที่แล้ว</QuestFinishedAgo>
   <!-- EN: Accept quest -->
@@ -270,8 +278,14 @@
   <QuestBedroomRequirementsUnsatisfied>ห้องนอนว่างที่เติมเต็มความต้องการของบรรดาศักดิ์ของ</QuestBedroomRequirementsUnsatisfied>
   <!-- EN: a free bedroom that satisfies the title requirements of -->
   <QuestBedroomRequirementsUnsatisfiedSingle>ห้องนอนว่างที่เติมเต็มความต้องการของบรรดาศักดิ์ของ</QuestBedroomRequirementsUnsatisfiedSingle>
+  <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
+  <QuestThroneRoomRequirementsUnsatisfied>TODO</QuestThroneRoomRequirementsUnsatisfied>
+  <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
+  <QuestNoThroneRoom>TODO</QuestNoThroneRoom>
   <!-- EN: a colonist with the title of {0}. -->
   <QuestNoColonistWithTitle>ชาวนิคมกับบรรดาศักดิ์ของ {0}</QuestNoColonistWithTitle>
+  <!-- EN: {PAWN_definite} must be in home colony -->
+  <QuestPawnNotOnColonyMap>TODO</QuestPawnNotOnColonyMap>
   <!-- EN: Reward preferences -->
   <ChooseRewards>TODO</ChooseRewards>
   <!-- EN: Tell other factions what kinds of rewards you want in future quests. This doesn't affect quests that were already offered. -->
@@ -292,6 +306,10 @@
   <GoodwillTip>TODO</GoodwillTip>
   <!-- EN: {0_labelShort} joins -->
   <PawnQuestReward>TODO</PawnQuestReward>
+  <!-- EN: Betrayal offer: {0} targets remain -->
+  <QuestBetrayalOffer>TODO</QuestBetrayalOffer>
+  <!-- EN: {0} will grant you a reward for killing all members of the {1}. -->
+  <QuestBetrayalOfferTip>TODO</QuestBetrayalOfferTip>
   
   <!-- Health tab -->
   <!-- EN: Creates need -->

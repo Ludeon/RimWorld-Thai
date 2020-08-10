@@ -56,9 +56,9 @@
   <!-- EN: Craft precisely-machined guns like assault rifles and sniper rifles. -->
   <PrecisionRifling.description>ผลิตปืนที่เน้นความแม่นยำ เช่น ไรเฟิลจู่โจม สไนเปอร์ไรเฟิล</PrecisionRifling.description>
   
-  <!-- EN: shield belt -->
+  <!-- EN: shields -->
   <ShieldBelt.label>เข็มขัดโล่</ShieldBelt.label>
-  <!-- EN: Build shield belts, which use momentum-repulsion technology to block ranged attacks coming in or going out. -->
+  <!-- EN: Build wearable shield gear. Shields use momentum-repulsion technology to prevent projectiles from traversing the field boundry. -->
   <ShieldBelt.description>ผลิตเข็มขัดโล่ ใช้เทคโนโลยีสะท้อนโมเมนตัมเพื่อป้องกันการโจมตีจากระยะไกล ทั้งที่ยิงเข้ามาและที่ยิงออก</ShieldBelt.description>
   
   <!-- EN: transport pod -->

@@ -13,6 +13,9 @@
   <!-- EN: {0} from {1} have decided to steal what they can and leave. -->
   <MessageRaidersStealing>{0} จาก {1} ตัดสินใจจะขโมยอะไรก็ตามเท่าที่สามารถและจากไป</MessageRaidersStealing>
 
+  <!-- EN: {0} from {1} have arrived in the area of your caravan and are attacking. More are on the way and will arrive in {2}. -->
+  <MessageCaravanDetectedRaidArrived>TODO</MessageCaravanDetectedRaidArrived>
+
   <!-- EN: {0} from {1} are leaving. -->
   <MessageRaidersLeaving>{0} จาก {1} กำลังจากไป</MessageRaidersLeaving>
   <!-- EN: {0} from {1} have given up and are leaving. -->
@@ -76,6 +79,8 @@
   <MessageTameSuccess>{RECRUITER_labelShort} ประสบความสำเร็จในการทำ {1} ให้เชื่อง (โอกาส {2}).</MessageTameSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). It is now called {RECRUITEE_nameFull}. -->
   <MessageTameAndNameSuccess>{RECRUITER_labelShort} ประสบความสำเร็จในการทำ {1} ให้เชื่อง (โอกาส {2}) และตั้งชื่อ{RECRUITEE_objective}ว่า {RECRUITEE_nameFull}.</MessageTameAndNameSuccess>
+  <!-- EN: {RECRUITEE} has joined your colony. -->
+  <MessageRecruitJoinOfferAccepted>TODO</MessageRecruitJoinOfferAccepted>
 
   <!-- EN: The colony cannot afford this deal. -->
   <MessageColonyCannotAfford>อาณานิคมไม่สามารถแบกรับการแลกเปลื่ยนนี้ได้</MessageColonyCannotAfford>
@@ -141,15 +146,6 @@
   <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
   <MessageInvoluntarySleep>{1_labelShort} ล้มลงจากความเหนื่อยล้าสุดขีด</MessageInvoluntarySleep>
 
-  <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} พลาดเล็กๆน้อยๆในขณะดำเนินการให้ {PATIENT_labelShort} ({RECIPE_label})</MessageMedicalOperationFailureMinor>
-  <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} ผิดพลาดใหญ่หลวงในขณะดำเนินการให้ {PATIENT_labelShort} ({RECIPE_label})</MessageMedicalOperationFailureCatastrophic>
-  <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} พลาดแบบแปลกๆในขณะดำเนินการให้ {PATIENT_labelShort} ({RECIPE_label})</MessageMedicalOperationFailureRidiculous>
-  <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2} -->
-  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} เกิดล้มเหลวร้ายแรงในขณะดำเนินการให้ {PATIENT_labelShort} เนื่องจากอุปสรรคพิเศษ: {2}</MessageMedicalOperationFailureFatal>
-
   <!-- EN: This operation will anger {0}. -->
   <MessageMedicalOperationWillAngerFaction>ดำเนินการนี้จะทำให้ {0} โกรธ</MessageMedicalOperationWillAngerFaction>
 
@@ -194,7 +190,7 @@
   <!-- EN: {PAWN1_labelShort} started a social fight with {PAWN2_labelShort}. -->
   <MessageSocialFight>{PAWN1_labelShort} เริ่มการต่อสู้ทางสังคมกับ {PAWN2_labelShort}</MessageSocialFight>
   
-  <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}’s marriage. -->
+  <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}'s marriage. -->
   <MessageNewMarriageCeremony>ชาวนิคมกำลังรวบตัว เพื่อเฉลิมฉลองการแต่งงานของ {PAWN1_labelShort} และ {PAWN2_labelShort}</MessageNewMarriageCeremony>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony! -->
   <MessageMarriageCeremonyStarts>{PAWN1_labelShort} และ {PAWN2_labelShort1} เริ่มพิธีแต่งงาน!</MessageMarriageCeremonyStarts>
@@ -453,9 +449,6 @@
   <!-- EN: Cannot build a roof over {0}. -->
   <MessageRoofIncompatibleWithPlant>ไม่สามารถสร้างหลงคาบน {0} ได้</MessageRoofIncompatibleWithPlant>
 
-  <!-- EN: Caravan will automatically travel to the first waypoint. -->
-  <MessageChoseRoute>กองคาราวานจะเคลื่อนที่ไปยังเวย์พอยท์แรกโดยอัตโนมัติ</MessageChoseRoute>
-
   <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
   <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>เพื่อออกจากพื้นที่ ใช้ปุ่ม 'จัดกองคาราวาน' ในหน้าจอ 'โลก'</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
   <!-- EN: You can't leave the map now. -->
@@ -513,6 +506,18 @@
   <GoodwillChangedReason_RequestedMilitaryAid>TODO</GoodwillChangedReason_RequestedMilitaryAid>
   <!-- EN: requested trader caravan -->
   <GoodwillChangedReason_RequestedTrader>TODO</GoodwillChangedReason_RequestedTrader>
+  <!-- EN: caused neuroquake echo -->
+  <GoodwillChangedReason_CausedNeuroquakeEcho>TODO</GoodwillChangedReason_CausedNeuroquakeEcho>
+  <!-- EN: caused berserk on {PAWN_labelShort} -->
+  <GoodwillChangedReason_CausedBerserk>TODO</GoodwillChangedReason_CausedBerserk>
+  <!-- EN: attacked {0_name} -->
+  <GoodwillChangeReason_AttackedFaction>TODO</GoodwillChangeReason_AttackedFaction>
+  <!-- EN: shuttle destroyed -->
+  <GoodwillChangeReason_ShuttleDestroyed>TODO</GoodwillChangeReason_ShuttleDestroyed>
+  <!-- EN: civilians lost -->
+  <GoodwillChangeReason_CiviliansLost>TODO</GoodwillChangeReason_CiviliansLost>
+  <!-- EN: commander lost -->
+  <GoodwillChangeReason_CommanderLost>TODO</GoodwillChangeReason_CommanderLost>
 
   <!-- EN: {0} accept your gift but they don't appreciate it. -->
   <MessageGiftGivenButNotAppreciated>{0} รับของขวัญจากคุณ แต่ไม่เห็นคุณค่าของมัน</MessageGiftGivenButNotAppreciated>
@@ -551,7 +556,7 @@
   <!-- EN: {0} couldn't reach its destination. -->
   <MessageCaravanArrivalActionNoLongerValid>{0} ไม่สามารถไปปลายทาง</MessageCaravanArrivalActionNoLongerValid>
 
-  <!-- EN: You can't re-enter for another {0} days. -->
+  <!-- EN: Too dangerous to re-enter for {0}. -->
   <MessageEnterCooldownBlocksEntering>คุณไม่สามารถเข้าไปได้อีกจนกว่าจะ {0} วัน</MessageEnterCooldownBlocksEntering>
 
   <!-- EN: {0_labelShort} can now freely use "{1}". -->
@@ -616,7 +621,11 @@
   <!-- EN: {0_label} is currently hidden. -->
   <MessageCannotSelectInvisibleStat>{0_label} ตอนนี้ถูกซ่อน</MessageCannotSelectInvisibleStat>
 
+  <!-- EN: {PAWN_nameDef} is a prisoner -->
+  <MessagePrisonerCannotEquipWeapon>TODO</MessagePrisonerCannotEquipWeapon>
+
   <!-- UNUSED -->
+  <MessageChoseRoute>กองคาราวานจะเคลื่อนที่ไปยังเวย์พอยท์แรกโดยอัตโนมัติ</MessageChoseRoute>
   <MessagePsychicAmplifierNoSensitivity>{PAWN_labelShort} จะไม่สามารถใช้ psychic amplifier ได้ระหว่างหาก{PAWN_pronoun}ไม่มีความไวต่อสัมผัสกับพลังจิต</MessagePsychicAmplifierNoSensitivity>
 
 </LanguageData>

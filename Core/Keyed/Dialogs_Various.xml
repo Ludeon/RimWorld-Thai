@@ -11,6 +11,8 @@
   <OK>ตกลง</OK>
   <!-- EN: Close -->
   <Close>ปิด</Close>
+  <!-- EN: Accept -->
+  <Accept>TODO</Accept>
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
@@ -614,12 +616,16 @@
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
   <FormCaravan>ตั้งกองคาราวาน</FormCaravan>
+  <!-- EN: Send -->
+  <Send>TODO</Send>
   <!-- EN: Number available to send with the caravan. -->
   <FormCaravanColonyThingCountTip>จำนวนที่พร้อมนำไปกับคาราวาน</FormCaravanColonyThingCountTip>
   <!-- EN: People and animals -->
   <PawnsTab>คนและสัตว์</PawnsTab>
   <!-- EN: Items -->
   <ItemsTab>ไอเท็ม</ItemsTab>
+  <!-- EN: Food and medicine -->
+  <FoodAndMedicineTab>TODO</FoodAndMedicineTab>
   <!-- EN: You must assign at least one non-downed colonist. -->
   <CaravanMustHaveAtLeastOneColonist>คุณต้องกำหนดชาวนิคมที่ไม่หมดสภาพอย่างน้อยหนึ่งคน</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
@@ -712,6 +718,8 @@
   <AnimalsSection>สัตว์</AnimalsSection>
   <!-- EN: Choose route -->
   <ChooseRouteButton>เลือกเส้นทาง</ChooseRouteButton>
+  <!-- EN: Change route -->
+  <ChangeRouteButton>TODO</ChangeRouteButton>
   <!-- EN: Abandon -->
   <AbandonButton>ละทิ้ง</AbandonButton>
   <!-- EN: Movement speed -->
@@ -742,6 +750,8 @@
   <FactionType>ฝักฝ่ายประเภท</FactionType>
   <!-- EN: Total body size -->
   <TotalBodySize>ขนาดตัวทั้งหมด</TotalBodySize>
+  <!-- EN: Automatically select food and medicine -->
+  <AutomaticallySelectFoodAndMedicine>TODO</AutomaticallySelectFoodAndMedicine>
 
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
@@ -778,6 +788,8 @@
   <TransporterItemIsUnreachableMulti>ไม่มีเส้นทางระหว่างกระสวยขนส่งและ {0}x {1}</TransporterItemIsUnreachableMulti>
   <!-- EN: There is no path between the shuttle and {0}x {1}. -->
   <TransporterSingleItemIsUnreachableMulti>ไม่มีเส้นทางระหว่างยานกระสวยและ {0}x {1}</TransporterSingleItemIsUnreachableMulti>
+  <!-- EN: Only {0} colonists maximum allowed. -->
+  <TransporterSingleTooManyColonists>TODO</TransporterSingleTooManyColonists>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
@@ -968,7 +980,7 @@
   <ConfirmCleanupTranslationFiles_Confirm>Yes, I have a backup</ConfirmCleanupTranslationFiles_Confirm>
 
   <!-- Load transporters -->
-  <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
+  <!-- EN: The caravan will be immobile if you launch to an empty tile. Continue anyway? -->
   <TransportersCaravanWillBeImmobile>คาราวานจะไม่สามารถเคลื่อนที่ได้ หากคุณส่งกระสวยไปยังช่องที่ว่างเปล่า ดำเนินการต่ออยู่ดี?</TransportersCaravanWillBeImmobile>
 
   <!-- Confirm cancel monument marker -->
@@ -990,13 +1002,60 @@
   <AbilityCastingTime>เวลาในการร่าย</AbilityCastingTime>
   <!-- EN: No line of sight to target. -->
   <AbilityCannotHitTarget>ไม่มีแนวยิงไปยังเป้าหมาย</AbilityCannotHitTarget>
+  <!-- EN: Can't reach the target. -->
+  <AbilityCannotReachTarget>TODO</AbilityCannotReachTarget>
+  <!-- EN: Not enough free space. -->
+  <AbilityNotEnoughFreeSpace>TODO</AbilityNotEnoughFreeSpace>
   <!-- EN: {0} must target an empty area. -->
   <AbilityOccupiedCells>{0} ต้องมีเป้าหมายเป็นพื้นที่ว่าง</AbilityOccupiedCells>
   <!-- EN: {0} must target a walkable area. -->
   <AbilityUnwalkable>{0} ต้องมีเป้าหมายเป็นพื้นที่เดินได้</AbilityUnwalkable>
   <!-- EN: {0} must target an unroofed area. -->
   <AbilityRoofed>TODO</AbilityRoofed>
-  <!-- EN: {0} is mentally broken. -->
+  <!-- EN: {0_labelShort} is mentally broken. -->
   <AbilityCantApplyToMentallyBroken>TODO</AbilityCantApplyToMentallyBroken>
+  <!-- EN: {0_labelShort} is not mentally broken. -->
+  <AbilityCanOnlyApplyToMentallyBroken>TODO</AbilityCanOnlyApplyToMentallyBroken>
+  <!-- EN: {0} doesn't work on the '{1}' mental state. -->
+  <AbilityDoesntWorkOnMentalState>TODO</AbilityDoesntWorkOnMentalState>
+  <!-- EN: {0_labelShort} has zero resistance. -->
+  <AbilityCantApplyNoResistance>TODO</AbilityCantApplyNoResistance>
+  <!-- EN: Cannot use: {0} is asexual. -->
+  <AbilityCantApplyOnAsexual>TODO</AbilityCantApplyOnAsexual>
+  <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
+  <AbilityCantApplyWrongAttractionGender>TODO</AbilityCantApplyWrongAttractionGender>
+  <!-- EN: Psyfocus cost per mental break intensity -->
+  <PsyfocusCostPerMentalBreakIntensity>TODO</PsyfocusCostPerMentalBreakIntensity>
+  <!-- EN: {0_labelShort} is already inspired. -->
+  <AbilityAlreadyInspired>TODO</AbilityAlreadyInspired>
+  <!-- EN: {0_labelShort} can't get an inspiration right now. -->
+  <AbilityCantGetInspiredNow>TODO</AbilityCantGetInspiredNow>
+  <!-- EN: {0_labelShort} is unconscious. -->
+  <AbilityCantApplyUnconscious>TODO</AbilityCantApplyUnconscious>
+  <!-- EN: {0_labelShort} is asleep. -->
+  <AbilityCantApplyAsleep>TODO</AbilityCantApplyAsleep>
+  <!-- EN: This tile is impassable. -->
+  <AbilityWorldTileImpassable>TODO</AbilityWorldTileImpassable>
+  <!-- EN: Skip to random ally -->
+  <AbilitySkipToRandomAlly>TODO</AbilitySkipToRandomAlly>
+  <!-- EN: Skip to join caravan -->
+  <AbilitySkipToJoinCaravan>TODO</AbilitySkipToJoinCaravan>
+  <!-- EN: Need ally at target for navigation -->
+  <AbilityNeedAllyToSkip>TODO</AbilityNeedAllyToSkip>
+  <!-- EN: No chunks to skip. -->
+  <AbilityNoChunkToSkip>TODO</AbilityNoChunkToSkip>
+  <!-- EN: Induce psychic love in -->
+  <PsychicLoveInduceIn>TODO</PsychicLoveInduceIn>
+  <!-- EN: Psychic love for -->
+  <PsychicLoveFor>TODO</PsychicLoveFor>
+  <!-- EN: If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}? -->
+  <FarskipConfirmTeleportingLodger>TODO</FarskipConfirmTeleportingLodger>
+  
+  <!-- EN: minor -->
+  <MentalBreakIntensityMinor>TODO</MentalBreakIntensityMinor>
+  <!-- EN: major -->
+  <MentalBreakIntensityMajor>TODO</MentalBreakIntensityMajor>
+  <!-- EN: extreme -->
+  <MentalBreakIntensityExtreme>TODO</MentalBreakIntensityExtreme>
   
 </LanguageData>

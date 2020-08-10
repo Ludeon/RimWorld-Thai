@@ -101,9 +101,9 @@
   <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
   <Prosthetics.description>สร้างอวัยวะเทียมราคาถูกเพื่อเปลื่ยนแทนส่วนร่างกายที่ขาดด้วนไป ต้องการหมอที่มีทักษะ ในการต่ออวัยวะเทียม</Prosthetics.description>
   
-  <!-- EN: smokepop belts -->
+  <!-- EN: smokepop packs -->
   <SmokepopBelt.label>เข็มขัดสโม้คป๊อบ</SmokepopBelt.label>
-  <!-- EN: Build smokepop belts which generate an automatic defensive smokescreen when the user is shot. -->
+  <!-- EN: Build smokepop packs which allow the wearer to deploy a defensive smokescreen. -->
   <SmokepopBelt.description>ผลิตเข็มขัดสโม้คป๊อบ สร้างควันบังโดยอัตโนมัติขึ้นเพื่อป้องกันตัว เมื่อผู้สวมโดนยิงใส่</SmokepopBelt.description>
   
   <!-- EN: solar panel -->

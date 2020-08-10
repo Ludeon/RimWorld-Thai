@@ -303,9 +303,9 @@
   <CaravanMembers>สมาชิก</CaravanMembers>
   <!-- EN: Animals -->
   <CaravanAnimals>สัตว์</CaravanAnimals>
-  <!-- EN: Items to load -->
+  <!-- EN: To load -->
   <ItemsToLoad>ไอเท็มที่จะโหลด</ItemsToLoad>
-  <!-- EN: Loaded items -->
+  <!-- EN: Loaded -->
   <LoadedItems>ไอเท็มโหลดแล้ว</LoadedItems>
   <!-- EN: pack animals -->
   <PackAnimalsCountLower>กลุ่มสัตว์</PackAnimalsCountLower>

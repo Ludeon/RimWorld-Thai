@@ -16,6 +16,18 @@
   <!-- EN: Doing something. -->
   <CastAbilityOnThing.reportString>ทำอะไรซักอย่าง</CastAbilityOnThing.reportString>
   
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingMelee.reportString>TODO</CastAbilityOnThingMelee.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingUninterruptible.reportString>TODO</CastAbilityOnThingUninterruptible.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnWorldTile.reportString>TODO</CastAbilityOnWorldTile.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastJump.reportString>TODO</CastJump.reportString>
+  
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>กำลังกวาดหิมะ</ClearSnow.reportString>
   
@@ -112,6 +124,9 @@
   <!-- EN: refueling TargetA. -->
   <RefuelAtomic.reportString>กำลังเติมเชื้อเพลิงให้ TargetA</RefuelAtomic.reportString>
   
+  <!-- EN: reloading TargetA. -->
+  <Reload.reportString>TODO</Reload.reportString>
+  
   <!-- EN: removing TargetA. -->
   <RemoveApparel.reportString>กำลังถอดเสื้อผ้า TargetA</RemoveApparel.reportString>
   
@@ -153,6 +168,9 @@
   
   <!-- EN: Doing something. -->
   <UseVerbOnThing.reportString>ทำอะไรบางอย่าง</UseVerbOnThing.reportString>
+  
+  <!-- EN: Doing something. -->
+  <UseVerbOnThingStatic.reportString>TODO</UseVerbOnThingStatic.reportString>
   
   <!-- EN: vomiting. -->
   <Vomit.reportString>กำลังอาเจียน</Vomit.reportString>

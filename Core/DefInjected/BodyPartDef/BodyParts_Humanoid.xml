@@ -40,7 +40,7 @@
   <!-- EN: torso -->
   <Torso.label>ลำตัว</Torso.label>
   
-  <!-- EN: waist -->
+  <!-- EN: utility slot -->
   <Waist.label>เอว</Waist.label>
   
 </LanguageData>

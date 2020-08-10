@@ -109,7 +109,7 @@
   <PsychicDroneLevel>ระดับพลังเสียงของพลังจิต: {0}</PsychicDroneLevel>
   <!-- EN: Drone intensifies -->
   <LetterLabelPsychicDroneLevelIncreased>โดรนทวีความรุนแรง</LetterLabelPsychicDroneLevelIncreased>
-  <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every humanlike in the area now feels more disturbed, terrified, and paranoid. -->
+  <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid. -->
   <LetterPsychicDroneLevelIncreased>ชิ้นส่วนยานที่ตก กำลังกระจายคลื่นโดรนพลังจิตประเภทที่มีอิทธิพลรุนแรงออกมา ทุกสิ่งมีชีวิตคล้ายมนุษย์ในพื้นที่ตอนนี้ จะรู้สึกแปรปรวน หวาดกลัว และหวาดระแวงมากขึ้น</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->

@@ -16,14 +16,25 @@
   <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
   <FirstSummerWarning>หน้าร้อนเริ่มขึ้นแล้ว! แต่หน้าหนาวกำลังคืบคลานเข้ามา\n\nพืชผลอาหารของคุณจะไม่เจริญเติบโตในช่วงฤดูหนาว โปรดแน่ใจว่าคุณได้จัดเก็บอาหารไว้เพียงพอต่อการมีชีวิตรอด คุณสามารถสร้างห้องทำความเย็นเพื่อป้องกันอาหารเน่าเสียได้\n\nควรเตรียมเสื้อคลุมไว้ ไม่ว่าจะซื้อ ขโมย หรือทำเองก็ตาม ไม่งั้นคุณอาจแข็งตายเมื่อออกไปกลางแจ้ง</FirstSummerWarning>
 
-  <!-- EN: Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again. -->
-  <LetterRelationsChange_Hostile>ความสัมพันธ์กับ {0} จบลงอย่างสมบูรณ์ พวกเขากลายเป็นปรปักษ์กับคุณ\n\nพวกเขาจะบุกมาโจมตีอาณานิคมหรือกองคาราวานของคุณ และปฏิเสธจะแลกเปลื่ยนใดๆกับคุณ ถ้าคุณต้องการพัฒนาความสัมพัมธ์กับพวกเขา คุณยังสามารถเสนอของขวัญได้ โดนใช้คาราวานหรือกระสวยขนส่ง\n\nกรณีนี้เกิดขึ้นเนื้องจากไมตรีจิต ({1}) ตกลงต่ำกว่า {2} ซึ่งในการกู้คืนความสัมพันธ์ให้เป็นกลาง ไมตรีจิตต้องเพิ่มถึง {3} อีกครั้ง</LetterRelationsChange_Hostile>
-  <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you.\n\nThis happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
+  <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
+  <LetterRelationsChange_Hostile>ความสัมพันธ์กับ {0} จบลงอย่างสมบูรณ์ พวกเขากลายเป็นปรปักษ์กับคุณ\n\nพวกเขาจะบุกมาโจมตีอาณานิคมหรือกองคาราวานของคุณ และปฏิเสธจะแลกเปลื่ยนใดๆกับคุณ ถ้าคุณต้องการพัฒนาความสัมพัมธ์กับพวกเขา คุณยังสามารถเสนอของขวัญได้ โดนใช้คาราวานหรือกระสวยขนส่ง\n\nกรณีนี้เกิดขึ้นเนื้องจากไมตรีจิต ({1}) ตกลงต่ำกว่า {2} ซึ่งในการกู้คืนความสัมพันธ์ให้เป็นกลาง ไมตรีจิตต้องเพิ่มถึง {3} อีกครั้ง</LetterRelationsChange_Hostile>  
+  <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
+  <LetterRelationsChange_HostileGoodwillDescription>TODO</LetterRelationsChange_HostileGoodwillDescription>  
+
+  <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you. -->
   <LetterRelationsChange_NeutralFromHostile>ความสัมพันธ์กับ {0} เป็นมิตรมากขึ้น พวกเขาถือว่าคุณเป็นกลาง และเลิกโจมตีคุณแล้ว\n\nกรณีนี้เกิดขึ้นเนื้องจากไมตรีจิต ({1}) เพิ่มเกิน {2} ซึ่งหากไมตรีจิตตกลงต่ำกว่า {3} จะทำให้ {0} กลายเป็นปรกปักษ์อีกครั้ง หากไมตรีจิตเพิ่มขึ้นมากกว่า {4} พวกเขาจะ กลายเป็นพันธมิตรและช่วยคุณต่อสู้</LetterRelationsChange_NeutralFromHostile>
-  <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied.\n\nWhile they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
+  <!-- EN: This happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
+  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>TODO</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
+  
+  <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied. -->
   <LetterRelationsChange_NeutralFromAlly>ความสัมพันธ์กับ {0} เย็นลง พวกเขาพิจารณาคุณเป็นกลางมากกว่าพันธมิตร\n\nในขณะที่พวกเขายังติดต่อคุณอย่างมีมิตภาพ พวกเขาจะไม่ส่งนักรบมาช่วยคุณสู้อีกต่อไป ในกรณีที่คุณต้องต่อสู้ศึก\n\nกรณีนี้เกิดขึ้นเนื้องจากไมตรีจิต ({1}) ตกลงต่ำกว่า {2} ซึ่งหากไมตรีจิตตกลงต่ำกว่า {3} จะทำให้ {0} กลายเป็นปรกปักษ์ หากไมตรีจิตเพิ่มขึ้นมากกว่า {4} พวกเขากลายเป็นพันธมิตรคุณอีกครั้ง</LetterRelationsChange_NeutralFromAlly>
-  <!-- EN: Relations with {0} have become very close. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral. -->
+  <!-- EN: While they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
+  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>TODO</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
+  
+  <!-- EN: Relations with {0} have become very close. They now consider you an ally. -->
   <LetterRelationsChange_Ally>ความสัมพันธ์กับ {0} ใกล้ชิดมาก พวกเขามองคุณเป็นพันธมิตร\n\nพันธมิตรบางครั้งมาช่วยคุณ ในกรณีที่คุณถูกศัตรูโจมตี คุณยังสามารถเรียกร้องให้พวกเขามาช่วยได้ทุกเมื่อ โดยเสียค่าไมตรีจิตแทน\n\nคุณกลายเป็นพันธมิตรเพราะไมตรีจิตของคุณ ({1}) เพิ่มเกิน {2} ซึ่งถ้าไมตรีจิตตกลงต่ำกว่า {3} ความสัมพันธ์จะกลายเป็นกลาง</LetterRelationsChange_Ally>
+  <!-- EN: Allies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({0}) has risen past {1}. If goodwill falls below {2}, relations will return to neutral. -->
+  <LetterRelationsChange_AllyGoodwillDescription>TODO</LetterRelationsChange_AllyGoodwillDescription>
 
   <!-- EN: goodwill -->
   <goodwill>ไมตรีจิต</goodwill>
@@ -118,13 +129,16 @@
 
   <!-- EN: {1} died: {0} -->
   <LetterLeadersDeathLabel>{1} เสียชีวิต: {0}</LetterLeadersDeathLabel>
-  <!-- EN: {OLDLEADER_nameFull}, {3} of {1}, has died.\n\nThe new {3} is {NEWLEADER_nameFull}. -->
+  <!-- EN: {OLDLEADER_nameFull}, {1} of {0}, has died. -->
   <LetterLeadersDeath>{OLDLEADER_nameFull}, {3}แห่ง {1} ได้เสียชีวิตลง\n\n{3}คนใหม่คือ {NEWLEADER_nameFull}</LetterLeadersDeath>
 
   <!-- EN: New {1}: {0} -->
   <LetterLeaderChangedLabel>{1}คนใหม่: {0}</LetterLeaderChangedLabel>
-  <!-- EN: {OLDLEADER_nameFull} is no longer {3} of {1}.\n\nThe new {3} is {NEWLEADER_nameFull}. -->
+  <!-- EN: {OLDLEADER_nameFull} is no longer {1} of {0}. -->
   <LetterLeaderChanged>{OLDLEADER_nameFull} ไม่ใช่{3}แห่ง {1} อีกต่อไป\n\n{3}คนใหม่คือ {NEWLEADER_nameFull}</LetterLeaderChanged>
+
+  <!-- EN: The new {0} is {NEWLEADER_nameFull}. -->
+  <LetterNewLeader>TODO</LetterNewLeader>
 
   <!-- EN: The final straw was: {0} -->
   <FinalStraw>ฟางเส้นสุดท้ายคือ: {0}</FinalStraw>
@@ -267,13 +281,15 @@
   <LetterLabelTransportPodsLandedInEnemyBase>การโจมตีเริ่มขึ้น</LetterLabelTransportPodsLandedInEnemyBase>
   <!-- EN: Your transport pods have arrived at {0}. -->
   <LetterTransportPodsLandedInEnemyBase>กระสวยขนส่งของคุณมาถึง {0}</LetterTransportPodsLandedInEnemyBase>
+  <!-- EN: The shuttle has arrived at {0}. -->
+  <LetterShuttleLandedInEnemyBase>TODO</LetterShuttleLandedInEnemyBase>
 
   <!-- Faction base defeated -->
   <!-- EN: Base destroyed -->
   <LetterLabelFactionBaseDefeated>ฐานถูกทำลาย</LetterLabelFactionBaseDefeated>
-  <!-- EN: The enemy base {0} has been destroyed.\n\nIn {1}, the caravan will automatically be reformed. You can reform the caravan now in the World screen by selecting the destroyed base and choosing the "Reform caravan" option. -->
+  <!-- EN: The enemy settlement {0} has been destroyed.\n\nIn {1}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
   <LetterFactionBaseDefeated>ฐานของศัตรู {0} ถูกทำลาย\n\nใน {1} กองคาราวานจะรวมตัวกันอัตโนมัติ คุณสามารถจัดกองคาราวานได้ทันทีในหน้า 'โลก' ด้วยการคลิกฐานที่ถูกทำลาย และเลือก 'จัดกองคาราวาน*</LetterFactionBaseDefeated>
-  <!-- EN: This was the last base of {0}, which means this faction doesn't exist anymore. -->
+  <!-- EN: Since this was their last settlement, {0} has been defeated. -->
   <LetterFactionBaseDefeated_FactionDestroyed>นี่เป็นฐานสุดท้ายของ {0}, ซึ่งหมายความว่าฝ่ายนี้จะไม่มีอีกต่อไป</LetterFactionBaseDefeated_FactionDestroyed>
 
   <!-- Quest completed -->
@@ -385,7 +401,7 @@
   <!-- Caravans battlefield victory -->
   <!-- EN: Caravan battle won -->
   <LetterLabelCaravansBattlefieldVictory>คาราวานรบชนะ</LetterLabelCaravansBattlefieldVictory>
-  <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, the caravan will be reformed automatically. -->
+  <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
   <LetterCaravansBattlefieldVictory>กองคาราวานของคุณต่อสู้ชนะ\n\nคุณสามารถจัดกองคาราวานได้ทันทีในหน้า 'โลก' ด้วยการคลิกที่สนามรบ และเลือก 'จัดกองคาราวาน'\n\nไม่มีความจำเป็นต้องเดินเก็บไอเท็มเอง การจัดกองคาราวานใหม่จะทำเช่นนั้นเอง\n\nใน {0} คาราวานจะจัดตั้งขึ้นเองโดยอัตโนมัติ</LetterCaravansBattlefieldVictory>
 
   <!-- Rescue quest -->
@@ -408,10 +424,22 @@
   <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
   <LetterTraitDisease>{PAWN_label} เกิดป่วยจากโรค {1}\n\nให้แน่ใจว่าคุณมีเตียงพยาบาลและหมอ ตรวจให้แน่ใจว่า{PAWN_pronoun}ได้รับการรักษาที่ถูกต้อง และใช้เวลาบนเตียงมาที่สุดเท่าที่เป็นไปได้</LetterTraitDisease>
 
+  <!-- Surgery -->
+  <!-- EN: Surgery failed on {PATIENT_labelShort} -->
+  <LetterLabelSurgeryFailed>TODO</LetterLabelSurgeryFailed>
+  <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} พลาดเล็กๆน้อยๆในขณะดำเนินการให้ {PATIENT_labelShort} ({RECIPE_label})</MessageMedicalOperationFailureMinor> <!-- NewTemp rename to LetterTextOperationFailureMinor globally-->
+  <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} ผิดพลาดใหญ่หลวงในขณะดำเนินการให้ {PATIENT_labelShort} ({RECIPE_label})</MessageMedicalOperationFailureCatastrophic> <!-- NewTemp rename to LetterTextOperationFailureCatastrophic globally-->
+  <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} พลาดแบบแปลกๆในขณะดำเนินการให้ {PATIENT_labelShort} ({RECIPE_label})</MessageMedicalOperationFailureRidiculous> <!-- NewTemp rename to LetterTextOperationFailureRidiculous globally-->
+  <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2}. -->
+  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} เกิดล้มเหลวร้ายแรงในขณะดำเนินการให้ {PATIENT_labelShort} เนื่องจากอุปสรรคพิเศษ: {2}</MessageMedicalOperationFailureFatal> <!-- NewTemp rename to LetterTextOperationFailureFatal globally-->
+
   <!-- Quests -->
   <!-- EN: A new quest has become available. It is called '{0}'. -->
   <LetterQuestBecameAvailable>เควสใหม่เปิดให้ทำ เรียกว่า '{0}'</LetterQuestBecameAvailable>
-  <!-- EN: If you don’t accept the quest within {0}, it will expire. -->
+  <!-- EN: If you don't accept the quest within {0}, it will expire. -->
   <LetterQuestRequiresAcceptance>ถ้าคุณไม่ยอมรับเควส {0}, เควสจะหมดอายุ</LetterQuestRequiresAcceptance>
   <!-- EN: A new quest has become active. It is called '{0}'. -->
   <LetterQuestBecameActive>กำลังทำเควสใหม่ เรียกว่า '{0}'</LetterQuestBecameActive>
@@ -511,5 +539,10 @@
   <LetterLabelMechClusterArrived>เมคานอยด์มาเยือน</LetterLabelMechClusterArrived>
   <!-- EN: Mechanoids have arrived. -->
   <LetterMechClusterArrived>เมคานอยด์มาถึงแล้ว</LetterMechClusterArrived>
+
+  <!-- EN: Caravan detected -->
+  <LetterLabelSiteCountdownStarted>TODO</LetterLabelSiteCountdownStarted>
+  <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible. -->
+  <LetterTextSiteCountdownStarted>TODO</LetterTextSiteCountdownStarted>
 
 </LanguageData>

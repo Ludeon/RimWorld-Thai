@@ -176,7 +176,7 @@
   <UsingBedrolls>ใช้งาน {0} ที่นอนพับ</UsingBedrolls>
   <!-- EN: Est. time to destination: {0} days -->
   <CaravanEstimatedTimeToDestination>ประมาณการเวลาจนถึงที่หมาย: {0} วัน</CaravanEstimatedTimeToDestination>
-  <!-- EN: Estimated days to arrive: {0} -->
+  <!-- EN: Route travel time: {0} days -->
   <CaravanEstimatedDaysToDestination>ประมาณการวันจนถึงที่หมาย: {0}</CaravanEstimatedDaysToDestination>
   <!-- EN: Immobilized: Too much weight. -->
   <CaravanImmobilizedByMass>เคลื่อนที่ไม่ได้: น้ำหนักมากเกินไป</CaravanImmobilizedByMass>
@@ -246,10 +246,10 @@
   <DeterioratingBecauseOf>เสื่อมสภาพจากการ</DeterioratingBecauseOf>
   <!-- EN: Map -->
   <Map>แผนที่</Map>
-  <!-- EN: {0} until leaving -->
-  <ForceExitAndRemoveMapCountdown>{0} จนกว่าจะออกเดินทาง</ForceExitAndRemoveMapCountdown>
-  <!-- EN: Your colonists will automatically reform the caravan and leave this area in {0}. -->
-  <ForceExitAndRemoveMapCountdownTip>ชาวนิคมของคุณจะจัดกองคาราวานโดยอัตโนมัติ และออกจากพื้นที่นี้ใน {0} ชั่วโมง</ForceExitAndRemoveMapCountdownTip>
+  <!-- EN: {0} until enemies arrive -->
+  <CaravanDetectedRaidCountdown>TODO</CaravanDetectedRaidCountdown>
+  <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
+  <CaravanDetectedRaidCountdownTip>TODO</CaravanDetectedRaidCountdownTip>
   <!-- EN: Room -->
   <Room>ห้อง</Room>
   <!-- EN: Beauty here -->
@@ -368,7 +368,7 @@
   <CreatureFollowFieldwork>TODO</CreatureFollowFieldwork>
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{0} ด้วย {1}</ProximitySingleGoodwillChange>
-  <!-- EN: You can't re-enter for another {0} days. -->
+  <!-- EN: Too dangerous to re-enter for {0}. -->
   <EnterCooldown>คุณไม่สามารถเข้าไปได้ใหม่อีก {0} วัน</EnterCooldown>
   <!-- EN: Caravan -->
   <Caravan>คาราวาน</Caravan>
@@ -378,8 +378,6 @@
   <PreciousLumpLabel>ก้อนของ {0}</PreciousLumpLabel>
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>ไม่ได้ทำโครงการวิจัยใดอยู่</NoActiveResearchProjectToFinish>
-  <!-- EN: Cannot research: No research bench -->
-  <CannotResearchNoBench>ไม่สามารถทำการวิจัยได้: ไม่มีโต๊ะวิจัย</CannotResearchNoBench>
   <!-- EN: turret -->
   <Turret>ป้อมปืน</Turret>
   <!-- EN: turrets -->
@@ -620,6 +618,8 @@
   <WatchingAurora>กำลังดูออโรร่า</WatchingAurora>
   <!-- EN: using {0} on {1}. -->
   <UsingVerb>กำลังใช้ {0} กับ {1}.</UsingVerb>
+  <!-- EN: using {0}. -->
+  <UsingVerbNoTarget>TODO</UsingVerbNoTarget>
   <!-- EN: area -->
   <AreaLower>พื้นที่</AreaLower>
   <!-- EN: cowering. -->
@@ -722,7 +722,7 @@
   <Faction>ฝ่าย</Faction>
   <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
   <FactionDesc>ฝักฝ่ายที่{PAWN_labelShort}อยู่ตอนนี้</FactionDesc>
-  <!-- EN: The faction {PAWN_labelShort} originally belongs to. {PAWN_pronoun} will rejoin their home faction when they depart from their current faction. -->
+  <!-- EN: The faction {PAWN_labelShort} originally belongs to. -->
   <ExtraFactionDesc>ฝักฝ่ายที่{PAWN_labelShort}เคยอยู่ในตอนแรก {PAWN_pronoun}จะเข้าร่วมกับฝักฝ่ายดั้งเดิมของพวกเขา หากต้องออกจากฝักฝ่ายปัจจุบัน</ExtraFactionDesc>
   <!-- EN: Equipped -->
   <Equipped>สวมใส่แล้ว</Equipped>
@@ -1020,9 +1020,9 @@
   <HibernateWarningStandalonePacifist>เครื่องปฏิกรณ์พร้อมเปิดทำงาน การดำเนินการจะใช้เวลาราว 15 วัน</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
-  <!-- EN: neurotrainer ({0}) -->
+  <!-- EN: skilltrainer ({0}) -->
   <SkillNeurotrainerLabel>neurotrainer ({0})</SkillNeurotrainerLabel>
-  <!-- EN: Use skill neurotrainer to learn {0} -->
+  <!-- EN: Use skilltrainer to learn {0} -->
   <SkillNeurotrainerUseLabel>ใช้ทักษะ neurotrainer เพื่อเรียนรู้ {0}</SkillNeurotrainerUseLabel>
   <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
   <SkillNeurotrainerDescription>ซุปเปอร์โดสเมคคาไนท์แบบใช้ครั้งเดียว\n\nให้ยาผ่านช่องว่างรอบดวงตา เมื่อปล่อยเข้าไปในสมองแล้ว เมคคาไนท์จะไปเพิ่มความทักษะของผู้ใช้ในบางอย่าง และพัฒนาขึ้นเป็นเส้นใยปราสาทตามแต่จำเป็น</SkillNeurotrainerDescription>
@@ -1163,6 +1163,10 @@
   <!-- EN: Deep drill resources exhausted. -->
   <DeepDrillExhaustedNoFallback>ทรัพยากรถูกเจาะลึกหมดแล้ว</DeepDrillExhaustedNoFallback>
 
+  <!-- reloading ammo -->
+  <!-- EN: Remaining charges -->
+  <ChargesRemaining>TODO</ChargesRemaining>
+  
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
   <LearningHelper>ตัวช่วยฝึกหัด</LearningHelper>
@@ -1238,7 +1242,7 @@
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
   <!-- EN: Neural heat: {0} / {1}\nFall rate: {2} / s ({3}s until zero) -->
   <PawnTooltipPsychicEntropyStats>TODO</PawnTooltipPsychicEntropyStats>
-  <!-- EN: Neural heat increases after performing a psycast. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
+  <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
   <PawnTooltipPsychicEntropyDesc>TODO</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
   <PawnTooltipPsychicEntropyPainFocus>ความเจ็บปวดทางกายภาพ ช่วยโฟกัสใจและเคลียความคิดส่วนเกินออกไป, ทำให้เกิดผลข้างเคียงคือเอนโทรปีพลังจิตฟื้นฟูเร็วขึ้น</PawnTooltipPsychicEntropyPainFocus>
@@ -1274,6 +1278,26 @@
   <Reward_CampLoot>TODO</Reward_CampLoot>
   <!-- EN: Camp loot -->
   <Reward_CampLoot_Label>TODO</Reward_CampLoot_Label>
+  <!-- EN: the visitors will work and fight for you -->
+  <Reward_VisitorsHelp>TODO</Reward_VisitorsHelp>
+  <!-- EN: Visitors' help -->
+  <Reward_VisitorsHelp_Label>TODO</Reward_VisitorsHelp_Label>
+  <!-- EN: New psylink level -->
+  <Reward_BestowingCeremony_Label>TODO</Reward_BestowingCeremony_Label>
+  <!-- EN: {PAWNNAME} gains psylink -->
+  <Reward_BestowingCeremony>TODO</Reward_BestowingCeremony>
+  <!-- EN: Shuttle loot -->
+  <Reward_ShuttleLoot_Label>TODO</Reward_ShuttleLoot_Label>
+  <!-- EN: you can deconstruct and loot the shuttle -->
+  <Reward_ShuttleLoot>TODO</Reward_ShuttleLoot>
+  <!-- EN: Possible future reward -->
+  <Reward_PossibleFutureReward_Label>TODO</Reward_PossibleFutureReward_Label>
+  <!-- EN: a reward possibly granted in the future -->
+  <Reward_PossibleFutureReward>TODO</Reward_PossibleFutureReward>
+  <!-- EN: {TITLE} title -->
+  <Reward_Title_Label>TODO</Reward_Title_Label>
+  <!-- EN: {PAWNNAME} gains {TITLE} title from {FACTION} -->
+  <Reward_Title>TODO</Reward_Title>
   <!-- EN: value {0} -->
   <TotalValue>TODO</TotalValue>
   
@@ -1284,6 +1308,12 @@
   <NotBonded>ยังไม่เชื่อมโยงกับใคร</NotBonded>
   <!-- EN: bonded to someone else -->
   <BladelinkBondedToSomeoneElse>เชื่อมโยงกับคนอื่นแล้ว</BladelinkBondedToSomeoneElse>
+  <!-- EN: (existing bond) -->
+  <BladelinkAlreadyBonded>TODO</BladelinkAlreadyBonded>
+  <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
+  <BladelinkAlreadyBondedDialog>TODO</BladelinkAlreadyBondedDialog>
+  <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
+  <BladelinkAlreadyBondedMessage>TODO</BladelinkAlreadyBondedMessage>
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
@@ -1312,6 +1342,9 @@
   <CausedByHediff>TODO</CausedByHediff>
   
   <!-- UNUSED -->
+  <ForceExitAndRemoveMapCountdown>{0} จนกว่าจะออกเดินทาง</ForceExitAndRemoveMapCountdown>
+  <ForceExitAndRemoveMapCountdownTip>ชาวนิคมของคุณจะจัดกองคาราวานโดยอัตโนมัติ และออกจากพื้นที่นี้ใน {0} ชั่วโมง</ForceExitAndRemoveMapCountdownTip>
+  <CannotResearchNoBench>ไม่สามารถทำการวิจัยได้: ไม่มีโต๊ะวิจัย</CannotResearchNoBench>
   <Complete>เสร็จสิ้น</Complete>
   <PawnTooltipPsychicEntropy>เอนโทรปีพลังจิต: {0}/{1}\nเรตการลด: {2}/{3}วิ ({4}วิจะถึงศูนย์)\n\nเอนโทรปีพลังจิต เพิ่มพลังให้กับผู้ใช้พลังจิต\nก้าวข้ามขีดจำกัดเป็นเวลานานๆส่งผลกระทบต่อสุขภาพ\nทุกครั้งที่เอนโทรปีเหลือศูนย์ จะทำให้เมาค้างจากพลังจิต</PawnTooltipPsychicEntropy>
 

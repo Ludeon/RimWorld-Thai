@@ -41,6 +41,8 @@
   <CannotOrderNonControlledLower>ไม่สามารถสั่งตัวละครที่คุณไม่ได้ควบคุม</CannotOrderNonControlledLower>
   <!-- EN: cannot attack self -->
   <CannotAttackSelf>ไม่สามารถโจมตีตัวเองได้</CannotAttackSelf>
+  <!-- EN: cannot attack faction ally -->
+  <CannotAttackSameFactionMember>TODO</CannotAttackSameFactionMember>
 
   <!-- EN: Man {1_labelShort} -->
   <OrderManThing>ขึ้นขี่ {1_labelShort}</OrderManThing>
@@ -136,6 +138,8 @@
   <InstallImplantAlreadyMaxLevel>ระดับสูงสุด</InstallImplantAlreadyMaxLevel>
   <!-- EN: Upgrade {0} to level {1} -->
   <UpgradeImplant>อัพเกรด {0} ขึ้นเป็นระดับ {1}</UpgradeImplant>
+  <!-- EN: violation of faction ally -->
+  <SurgeryViolationFellowFactionMember>TODO</SurgeryViolationFellowFactionMember>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>บริโภค {1_labelShort}</ConsumeThing>
@@ -190,6 +194,8 @@
   <IsReservedBy>{0} นั้นจองไว้โดย {1}.</IsReservedBy>
   <!-- EN: Too heavy -->
   <TooHeavy>หนักเกินไป</TooHeavy>
+  <!-- EN: {0_labelShort} is in the same faction. -->
+  <SameFaction>TODO</SameFaction>
 
   <!-- EN: incapable -->
   <Incapable>ไม่อาจทำได้</Incapable>
@@ -214,6 +220,13 @@
   <CannotWear>ไม่สามารถใส่ {1_label} ได้</CannotWear>
   <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>อวัยวะขาดหาย</CannotWearBecauseOfMissingBodyParts>
+  
+  <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
+  <Reload>TODO</Reload>
+  <!-- EN: Full -->
+  <ReloadFull>TODO</ReloadFull>
+  <!-- EN: Too few -->
+  <ReloadNotEnough>TODO</ReloadNotEnough>
   
   <!-- EN: Cannot pick up {1_label} -->
   <CannotPickUp>ไม่สามารถหยิบ {1_label}</CannotPickUp>
@@ -374,6 +387,8 @@
   <DropAtEdge>ทิ้งลงที่ขอบ</DropAtEdge>
   <!-- EN: Drop in center -->
   <DropInCenter>ทิ้งลงที่ตรงกลาง</DropInCenter>
+  <!-- EN: Attack {0} -->
+  <AttackShuttle>TODO</AttackShuttle>
   <!-- EN: Attack {0}: Drop at edge -->
   <AttackAndDropAtEdge>โจมตี {0}: ทิ้งลงที่ขอบ</AttackAndDropAtEdge>
   <!-- EN: Attack {0}: Drop in center -->
@@ -420,5 +435,8 @@
 
   <!-- EN: apply {0} -->
   <ApplyTechprint>ใช้งาน {0}</ApplyTechprint>
+
+  <!-- EN: Too dangerous -->
+  <EnterCooldownBlocksEntering>TODO</EnterCooldownBlocksEntering>
   
 </LanguageData>

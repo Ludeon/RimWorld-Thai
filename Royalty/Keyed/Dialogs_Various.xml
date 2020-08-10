@@ -52,6 +52,8 @@
   <!-- Royal weapons -->
   <!-- EN: Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else. -->
   <BladelinkEquipWarning>TODO</BladelinkEquipWarning>
+  <!-- EN: The weapon has the following traits -->
+  <BladelinkEquipWarningTraits>TODO</BladelinkEquipWarningTraits>
   <!-- EN: Are you sure you want to equip this item? -->
   <RoyalWeaponEquipConfirmation>TODO</RoyalWeaponEquipConfirmation>
   
@@ -70,7 +72,9 @@
   <RoyalWithConceitedTrait>TODO</RoyalWithConceitedTrait>
   <!-- EN: Since {PAWN_labelShort} is {2}, the psylink might not be useful for {PAWN_objective}. -->
   <RoyalWithTraitAffectingPsylinkNegatively>TODO</RoyalWithTraitAffectingPsylinkNegatively>
-  <!-- EN: {PAWN_labelShort}'s psylink is not at a high enough level to use {ABILITY}.\n\nGain the psycast anyways? -->
+  <!-- EN: {PAWN_labelShort}'s psylink is not at a high enough level to use {ABILITY}.\n\nGain this power anyways? -->
   <PsylinkTooLowForGainAbility>TODO</PsylinkTooLowForGainAbility>
+  <!-- EN: This shuttle is empty. If you send it away, you won't be able to use it again.\n\nSend it anyways? -->
+  <SendShuttleWithNoContents>TODO</SendShuttleWithNoContents>
 
 </LanguageData>

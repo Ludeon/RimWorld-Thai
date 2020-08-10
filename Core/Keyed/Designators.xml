@@ -214,14 +214,14 @@
   <InteractionSpotWillOverlap>จุดโต้ตอบจะทับซ้อนกับจุดโต้ตอบของ{1_labelShort}</InteractionSpotWillOverlap>
   <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
   <InteractionSpotOverlaps>จุดโต้ตอบทับซ้อนกับจุดโต้ตอบของ{1_labelShort}</InteractionSpotOverlaps>
-  <!-- EN: Monuments cannot be placed over other buildings. -->
+  <!-- EN: Cannot place monument over: {0}. -->
+  <CannotPlaceMonumentOver>TODO</CannotPlaceMonumentOver>
+  <!-- EN: Cannot build on: {0}. -->
+  <CannotPlaceMonumentOnTerrain>TODO</CannotPlaceMonumentOnTerrain>
+  <!-- EN: Cannot place monument over: {0}. -->
   <MonumentOverlapsBuilding>TODO</MonumentOverlapsBuilding>
-  <!-- EN: Monument cannot be placed adjacent to a building. -->
+  <!-- EN: Monument cannot be placed adjacent to: {0}. -->
   <MonumentAdjacentToBuilding>มาร์คอนุสาวรีย์ ไม่อาจวางติดกับอาคารใดๆได้</MonumentAdjacentToBuilding>
-  <!-- EN: Monuments cannot be placed on incompatible terrain. -->
-  <MonumentBadTerrain>TODO</MonumentBadTerrain>
-  <!-- EN: Monuments cannot be placed over permanent obstructions. -->
-  <MonumentBlockedPermanently>TODO</MonumentBlockedPermanently>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->

@@ -17,7 +17,7 @@
   <Hospitality_Util_Worker.LetterTextGuestDied.slateRef>TODO</Hospitality_Util_Worker.LetterTextGuestDied.slateRef>
   <!-- EN: Guest captured: {SUBJECT_definite} -->
   <Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>TODO</Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>
-  <!-- EN: [letterSubject], who you were charged to protect, has been arrested. [remainingWillNowLeave][failLetterEndingCommon] -->
+  <!-- EN: [letterSubject], who you were charged to protect, has been arrested. [remainingWillNowLeave][failLetterEndingQuest] -->
   <Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>TODO</Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>
   <!-- EN: Prisoner recruited: {SUBJECT_definite} -->
   <Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>TODO</Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>
@@ -37,7 +37,7 @@
   <Hospitality_Util_Worker.LetterTextGuestJoinedOtherFaction.slateRef>TODO</Hospitality_Util_Worker.LetterTextGuestJoinedOtherFaction.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <Hospitality_Util_Worker.LetterLabelAskerFactionHostile.slateRef>TODO</Hospitality_Util_Worker.LetterLabelAskerFactionHostile.slateRef>
-  <!-- EN: [asker_faction_name] are now hostile towards you. [failLetterEndingCommon] -->
+  <!-- EN: [asker_faction_name] are now hostile towards you. [failLetterEndingQuest] -->
   <Hospitality_Util_Worker.LetterTextAskerFactionHostile.slateRef>TODO</Hospitality_Util_Worker.LetterTextAskerFactionHostile.slateRef>
   <!-- EN: Shuttle destroyed -->
   <Hospitality_Util_Worker.LetterLabelShuttleDestroyed.slateRef>TODO</Hospitality_Util_Worker.LetterLabelShuttleDestroyed.slateRef>
