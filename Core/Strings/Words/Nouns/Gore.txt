@@ -1,7 +1,7 @@
-﻿blood
-gore
-guts
-viscera
-innards
-entrails
-intestines
+﻿เลือด
+เลือดไหล
+ไส้
+พุง
+เครื่องใน
+ไส้พุง
+ลำไส้
