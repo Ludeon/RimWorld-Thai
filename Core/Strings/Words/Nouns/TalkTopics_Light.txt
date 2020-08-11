@@ -1,73 +1,73 @@
-the weather
+สภาพอากาศ
 
-breakfast cereal
-breakfast
-dinner
-food
-lunchtime
-eating habits
-salty foods
-sweet foods
-savory foods
-bitter foods
+ซีเรียลอาหารเช้า
+อาหารเช้า
+อาหารเย็น
+อาหาร
+เวลาพักเที่ยง
+นิสัยการกิน
+อาหารเค็ม
+อาหารหวาน
+อาหารคาว
+อาหารขม
 
-favorite haircuts
-favorite clothes
-hairstyles
-fashion
-makeup
-beards
-facial hair
+ทรงผมโปรด
+เสื้อผ้าโปรด
+ทรงผม
+แฟชั่น
+เครื่องสำอาง
+หนวด
+เครา
 
-odd jobs
-kids' games
-entertainment
-games
-birthdays
-balloons
-drunkenness
-getting drunk
-parties
-vacations
-beautiful people
-fat people
-tall people
-short people
-guilty pleasures
-vomiting
-eating
-swimming
-sports
-beaches
+งานจิปาถะ
+เกมเด็กเล่น
+ความบันเทิง
+เกม
+วันเกิด
+ลูกโป่ง
+ความเมา
+ไปเมา
+ปาร์ตี้
+ลาพักร้อน
+คนสวย ๆ
+คนตัวอ้วน ๆ
+คนตัวสูง ๆ
+คนตัวเตี้ย ๆ
+ของชอบที่ทำให้รู้สึกผิด
+อ้วก
+กิน
+ว่ายน้ำ
+กีฬา
+ชายหาด
 
-animals
-cute animals
-fat animals
-pets
+สัตว์
+สัตว์น่ารัก
+สัตว์ตัวอ้วน ๆ
+สัตว์เลี้ยง
 
-pet peeves
-life's annoyances
-laundry
-sweating
+ของชวนโมโห
+ความน่ารำคาญในชีวิต
+ซักผ้า
+เหงื่อ
 
-hauling
-cleaning
-eating without tables
-comfortable furniture
-fine meals
-lavish meals
-pemmican
-horseshoes
-recreation
-lovers
-lovin'
-healroot
-botched surgeries
-vomiting
-board games
-computer games
-television
-poker
-billiards
-spaceships
-xenohumans
+แบกของ
+ทำความสะอาด
+การกินไม่ใช้โต๊ะ
+เฟอร์นิเจอร์สบาย ๆ
+อาหารอย่างดี
+อาหารฟุ่มเฟือย
+อาหารแห้ง
+เกือกม้า
+นันทนาการ
+คนรัก
+ร่วมรัก
+รากรักษ์
+ผ่าตัดพลาด
+อ้วก
+เกมกระดาน
+เกมคอมพิวเตอร์
+โทรทัศน์
+โป๊กเกอร์
+บิลเลียด
+ยานอวกาศ
+มนุษย์ต่างพันธุ์
