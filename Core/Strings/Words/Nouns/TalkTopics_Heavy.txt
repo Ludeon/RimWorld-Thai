@@ -1,142 +1,142 @@
-﻿childhood
-childhood fears
-childhood loves
-childhood experiences
-life
-life challenges
-life's rewards
-life memories
-life goals
-life regrets
-life stresses
-the disappointment of life
-the pointlessless of life
-the randomness of life
-hope
-maturity
-adulthood
-children
-fear
-nightmares
-success
-the morality of poverty
-the morality of wealth
+﻿วัยเด็ก
+ความกลัวในวัยเด็ก
+คนที่แอบชอบในวัยเด็ก
+ประสบการณ์ในวัยเด็ก
+ชีวิต
+ปัญหาชีวิต
+รางวัลชีวิต
+ความทรงจำของชีวิต
+เป้าหมายชีวิต
+ความเสียใจในชีวิต
+ความเครียดในชีวิต
+ความผิดหวังในชีวิต
+ความไร้จุดหมายของชีวิต
+ความปั่นป่วนของชีวิต
+ความหวัง
+วุฒิภาวะ
+ความเป็นผู้ใหญ่
+เด็ก ๆ
+ความกลัว
+ฝันร้าย
+ความสำเร็จ
+หลักศีลธรรมของความยากจน
+หลักศีลธรรมของความมั่งคั่ง
 
-death
-death's inevitability
-death's release
-life after death
-dead loved ones
-absent friends
+ความตาย
+ความตายที่หนีไม่พ้น
+การปลดปล่อยของความตาย
+ชีวิตหลังความตาย
+คนรักที่ตายไปแล้ว
+เพื่อนที่หายไป
 
-charity
-philanthropism
-aiding the downtrodden
-helping the sick
-helping the poor
+การกุศล
+ความใจบุญสุนทาน
+การช่วยเหลือคนถูกกดขี่
+การช่วยเหลือคนเจ็บป่วย
+การช่วยเหลือคนยากไร้
 
-aliens
-alien contact
-alien conspiracies
-the absence of aliens
-government conspiracies
-religious conspiracies
+เอเลี่ยน
+การติดต่อกับเอเลี่ยน
+ทฤษฎีสมคบคิดเอเลี่ยน
+การที่ไม่มีเอเลี่ยน
+ทฤษฎีสมคบคิดรัฐบาล
+ทฤษฎีสมคบคิดศาสนา
 
-the stars
-other planets
-this planet
-the scale of the universe
-the age of the universe
-the fate of the universe
-man's spread through the universe
+ดวงดาว
+ดาวเคราะห์อื่น ๆ
+ดาวเคราะห์นี้
+ขนาดของเอกภพ
+อายุของเอกภพ
+ชะตาของเอกภพ
+ความแพร่หลายของมนุษย์ในเอกภพ
 
-primitivism
-luddism
-technology
-machine intelligence
-artificial intelligence
-computer technology
-weapons technology
+บรรพนิยม
+การต่อต้านเทคโนโลยี
+เทคโนโลยี
+ปัญญาจักรกล
+ปัญญาประดิษฐ์
+เทคโนโลยีคอมพิวเตอร์
+เทคโนโลยีอาวุธสงคราม
 
-society
-morality
-freedom
-law
-government
-rights
-history
-terror
-terrorism
-politics
-honor
-social issues
-the market
-freedom
-authoritarianism
-anarchy
-injustice
-justice
-truth
-tribalism
-ingroup preference
+สังคม
+ศีลธรรม
+อิสรภาพ
+กฏหมาย
+รัฐบาล
+สิทธิ
+ประวัติศาสตร์
+ความหวาดกลัว
+การก่อการร้าย
+การเมือง
+เกียรติยศ
+ปัญหาสังคม
+ตลาด
+เสรีภาพ
+อำนาจนิยม
+อนาธิปไตย
+ความอยุติธรรม
+ความยุติธรรม
+ความจริง
+เผ่าชนนิยม
+ความชอบภายในกลุ่ม
 
-philosophy
-reality
-culture
-culture differences
-culture shock
-human nature
-humanity
-religion
-the meaning of life
-identity
-eternity
-monism
-dualism
-epistemology
-honesty
-freedom of speech
-ethnicity
-liberalism
-the inevitability of suffering
-the nature of knowledge
-the nature of emotion
+ปรัชญา
+ความเป็นจริง
+วัฒนธรรม
+ความแตกต่างทางวัฒนธรรม
+ความผวาวัฒนธรรม
+ธรรมชาติของมนุษย์
+มนุษยชาติ
+ศาสนา
+ความหมายของชีวิต
+เอกลักษณ์
+นิรันดร
+ทฤษฎีเอกนิยม
+ทฤษฎีทวินิยม
+ญาณวิทยา
+ความซื่อสัตย์
+เสรีภาพในการพูด
+ความเป็นชาติพันธุ์
+เสรีนิยม
+ความเจ็บปวดที่หลีกเลี่ยงไม่ได้
+ธรรมชาติของความรู้
+ธรรมชาติของอารมณ์
 
-fate
-the fate of mankind
-the fate of the universe
+พรหมลิขิต
+โชคชะตาของมนุษยชาติ
+โชคชะตาของเอกภพ
 
-art
-art movements
-artistic ambition
-human aesthetics
-artistic instincts
-art history
+ศิลปะ
+ขบวนการทางศิลปะ
+ความทะเยอทะยานในงานศิลป์
+สุนทรียภาพมนุษย์
+สัญชาตญาณทางศิลปะ
+ประวัติศาสตร์ศิลป์วิทยา
 
-sexuality
-love
-romance
-sexual fetishes
-sexual morality
-masculinity
-femininity
-seduction
-sex
-animal sexuality
+เพศสภาพ
+ความรัก
+ความรักใคร่
+ความคลั่งไคล้ทางเพศเฉพาะจุด
+ศีลธรรมทางเพศ
+ความเป็นชาย
+ความเป็นหญิง
+การยั่วยวน
+เซ็กส์
+พฤติกรรมทางเพศของสัตว์
 
-self-replicating machines
-generation ships
-Von Neumann probes
+เครื่องจักรที่สร้างตนเองซ้ำได้
+ยานชั่วรุ่น
+ยานฟอนนอยมันน์
 
-archotechnology
-archotechs
-AI personas
-the Johnson-Tanaka drive
-the Ordo Historia
-old Earth
-rim worlds
-core worlds
-cryptosleep
-cryptosleep tombs
-mechanoids
-cannibalism
+เทคโนโลยีอาร์โคเทค
+เหล่าอาร์โคเทค
+เอไอระดับเพอร์โซนา
+ระบบขับเคลื่อน จอห์นสัน-ทานากะ
+ออร์โดฮิสทอเรีย
+โลกเก่า
+โลกริม
+โลกแกน
+คริปโตสลีป
+สุสานคริปโตสลีป
+เมคคานอยด์
+การกินคน
