@@ -1,16 +1,16 @@
 ﻿//Common with outlanders
-union
-nation
-confederacy
-confederation
-alliance
-kin league
-covenant
-treaty
-pact
-coalition
+สหภาพ
+ประเทศ
+สหพันธ์
+สมาพันธ์
+พันธมิตร
+สันนิบาตเครือญาติ
+ข้อกำหนด
+สนธิสัญญา
+คำมั่น
+สัมพันธมิตร
 
 //Tribe specific
-kinship
-people
-tribe
+เครือญาติ
+ชน
+เผ่า

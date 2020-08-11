@@ -1,21 +1,21 @@
 ﻿//Common with tribals
-union
-nation
-confederacy
-confederation
-alliance
-kin league
-covenant
-treaty
-pact
-coalition
+สหภาพ
+ประเทศ
+สหพันธ์
+สมาพันธ์
+พันธมิตร
+สันนิบาตเครือญาติ
+ข้อกำหนด
+สนธิสัญญา
+คำมั่น
+สัมพันธมิตร
 
 //Outlander specific
-federation
-dominion
-league
-compact
-accord
-concord
-amalgamation
-unification
+สหพันธรัฐ
+อาณาจักร
+สันนิบาต
+ความตกลง
+ข้อตกลง
+สัญญา
+เครือประเทศ
+เอกภาพ
