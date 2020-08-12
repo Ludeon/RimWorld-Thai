@@ -1,198 +1,198 @@
-Bon Secour Bay
-Mobile Bay
-Perdido Bay
-Bristol Bay
-Bucareli Bay
-Disenchantment Bay
-Eschscholtz Bay
-Funter Bay
-Glacier Bay
-Goodhope Bay
-Hazen Bay
-Holtz Bay
-Kachemak Bay
-Kamishak Bay
-Kuskokwim Bay
-Kvichak Bay
-LeConte Bay
-Lituya Bay
-Massacre Bay
-Naukati Bay
-Nushagak Bay
-Orca Bay
-Pavlof Bay
-Peard Bay
-Petrof Bay
-Resurrection Bay
-Sarana Bay
-Thomas Bay
-Ugashik Bay
-Unimak Bay
-Yakutat Bay
-Alamitos Bay
-Bodega Bay
-Bolinas Bay
-Drakes Bay
-Estero Bay
-Grizzly Bay
-Half Moon Bay
-Humboldt Bay
-Monterey Bay
-Morro Bay
-Richardson Bay
-San Diego Bay
-San Francisco Bay
-San Leandro Bay
-San Pablo Bay
-San Rafael Bay
-Santa Monica Bay
-South Bay
-Suisun Bay
-Tomales Bay
-Delaware Bay
-Potato bay
-Apalachicola Bay
-Biscayne Bay
-Choctawhatchee Bay
-East Bay
-Escambia Bay
-Florida Bay
-Palm Bay
-Pensacola Bay
-Ponce de Leon Bay
-San Carlos Bay
-Sarasota Bay
-Tampa Bay
-Whitewater Bay
-Grand Bay
-Anaehoomalu Bay
-Hanalei Bay
-Hanauma Bay
-Hilo Bay
-Kāneʻohe Bay
-Kaunaoa Bay
-Kealakekua Bay
-La'aloa Bay
-Maunalua Bay
-Ma‘alaea Bay
-Barataria Bay
-Bay Chene Fleur
-Vermilion Bay
-Casco Bay
-Chandler Bay
-Cobscook Bay
-Dennys Bay
-Dyer Bay
-Englishman Bay
-Frenchman Bay
-Gouldsboro Bay
-Harrington Bay
-Johnson Bay
-Little Kennebec Bay
-Little Machias Bay
-Machias Bay
-Merrymeeting Bay
-Narraguagus Bay
-Passamaquoddy Bay
-Penobscot Bay
-Pigeon Hill Bay
-Saco Bay
-Assawoman Bay
-Chesapeake Bay
-Chincoteague Bay
-Fishing Bay
-Herring Bay
-Isle of Wight Bay
-Mallows Bay
-Sinepuxent Bay
-Assonet Bay
-Buzzards Bay
-Cape Cod Bay
-Duxbury Bay
-Massachusetts Bay
-Narragansett Bay
-Plymouth Bay
-Popponesset Bay
-Quincy Bay
-Waquoit Bay
-Big Bay de Noc
-Grand Traverse Bay
-Green Bay
-Little Traverse Bay
-Saginaw Bay
-Thunder Bay
-Whitefish Bay
-Bay of Saint Louis
-Biloxi Bay
-Great Bay
-Barnegat Bay
-Delaware Bay
-Great Bay
-Manahawkin Bay
-Newark Bay
-Raritan Bay
-Sandy Hook Bay
-Upper New York Bay
-Gardiners Bay
-Great South Bay
-Jamaica Bay
-Lower New York Bay
-Patchogue Bay
-Peconic Bay
-Raritan Bay
-South Oyster Bay
-Upper New York Bay
-Onslow Bay
-Raleigh Bay
-Sandusky Bay
-Alsea Bay
-Boiler Bay
-Coos Bay
-Depoe Bay
-Nehalem Bay
-Nestucca Bay
-Netarts Bay
-Tillamook Bay
-Winchester Bay
-Yaquina Bay
-Youngs Bay
-Presque Isle Bay
-Mount Hope Bay
-Narragansett Bay
-Bulls Bay
-Long Bay
-Winyah Bay
-Aransas Bay
-Baffin Bay
-Copano Bay
-Corpus Christi Bay
-East Matagorda Bay
-Galveston Bay
+อ่าวบอนเซคัวร์
+อ่าวโมบาย
+อ่าวเปอร์ดิโด้
+อ่าวบริสตอล
+อ่าวบุคาเรลี
+อ่าวดิสเอนแชนท์เมนต์
+อ่าวเอชโชลท์ส
+อ่าวฟันเทอร์
+อ่าวเกลเซียร์
+อ่าวกู๊ดโฮป
+อ่าวฮาเซน
+อ่าวโฮลท์ส
+อ่าวคาเชมัก
+อ่าวคามิชัก
+อ่าวคูสคอควิม
+อ่าวควิแชก
+อ่าวเลคานท์
+อ่าวลิทูยา
+อ่าวแมซซะเคอร์
+อ่าวนาอูคาที
+อ่าวนูชากัก
+อ่าวออร์คา
+อ่าวพาฟลอฟ
+อ่าวเพียดร์
+อ่าวเพทรอฟ
+อ่าวเรเซอร์เรคชั่น
+อ่าวซารานา
+อ่าวโทมัส
+อ่าวอูกาชิก
+อ่าวยูนิแมก
+อ่าวยาคูแทท
+อ่าวอลามิทอส
+อ่าวโบเดกา
+อ่าวโบลินาส
+อ่าวเดรคส์
+อ่าวเอสเทโร
+อ่าวกริซลี
+อ่าวฮาฟมูน
+อ่าวฮุมบ็อลท์
+อ่าวมอนเตร์เรย์
+อ่าวมอร์โร
+อ่าวริชาร์ดสัน
+อ่าวซานดีเอโก
+อ่าวซานฟรานซิสโก
+อ่าวซานลีอันโดร
+อ่าวซานพาโบล
+อ่าวซานราฟาเอล
+อ่าวแซนตามอนิกา
+อ่าวเซาธ์
+อ่าวซุยซุน
+อ่าวโทมาเลส
+อ่าวเดลาแวร์
+อ่าวโปเตโต้
+อ่าวแอพะแลชิโคลา
+อ่าวบิสเคย์น
+อ่าวชอคทอว์ฮัทชี
+อ่าวอิสท์
+อ่าวเอสแคมเบีย
+อ่าวฟลอริดา
+อ่าวปาล์ม
+อ่าวเพนซาโคลา
+อ่าวปอนเซเดเลออน
+อ่าวซานคาร์ลอส
+อ่าวซาราโซตา
+อ่าวแทมพา
+อ่าวไวท์วอเตอร์
+อ่าวแกรนด์
+อ่าวอเนฮูมาลู
+อ่าวฮานาเลย
+อ่าวฮานาวมา
+อ่าวฮีโล
+อ่าวคาเนโอเฮ
+อ่าวคาวนาอัว
+อ่าวเคียลาเคคัว
+อ่าวลาอโลอา
+อ่าวเมานาลัว
+อ่าวมาอลาเอีย
+อ่าวบาราทาเรีย
+อ่าวเชนเฟลอร์
+อ่าวเวอร์มิลเลียน
+อ่าวแคสโค
+อ่าวแชนเดลอร์
+อ่าวคอบส์คุก
+อ่าวเดนนิส
+อ่าวไดเออร์
+อ่าวอิงลิชแมน
+อ่าวเฟร้นช์แมน
+อ่าวโกลด์สโบโร
+อ่าวแฮร์ริงตัน
+อ่าวจอห์นสัน
+อ่าวลิตเติ้ลเคนเนเบ็ค
+อ่าวลิตเติ้ลมาเชียส์
+อ่าวมาเชียส์
+อ่าวเมอร์รี่มีตติ้ง
+อ่าวนาร์รากัวกัส
+อ่าวพาซซามาควดดี
+อ่าวเพนอบสกอต
+อ่าวพีเจ้นฮิล
+อ่าวซาโค
+อ่าวแอสซาวูแมน
+อ่าวเชซาพีก
+อ่าวชินโคทีค
+อ่าวฟิชชิง
+อ่าวแฮร์ริ่ง
+อ่าวไอล์ออฟไวต์
+อ่าวแมลโลว์ส
+อ่าวซิเนพักเซนท์
+อ่าวแอสโซเนท
+อ่าวบัซซาร์ดส
+อ่าวเคปค้อด
+อ่าวดักซ์บรี
+อ่าวแมสซาชูเซตส์
+อ่าวแนร์ราแกนเซตต์
+อ่าวพลิมัท
+อ่าวพอพโพเนส์เซ็ต
+อ่าวควินซี
+อ่าววาควยท์
+บิ๊กเบย์เดน็อค
+อ่าวแกรนด์ทราเวิร์ส
+อ่าวกรีน
+อ่าวลิตเติ้ลทราเวิร์ส
+อ่าวแซกินอว์
+อ่าวธันเดอร์
+อ่าวไวท์ฟิช
+อ่าวเซนต์หลุยส์
+อ่าวบิล็อกซี
+อ่าวเกรท
+อ่าวบาร์เนกัด
+อ่าวเดลาแวร์
+อ่าวเกรท
+อ่าวแมนาฮอว์คิน
+อ่าวนวร์ก
+อ่าวแรริตัน
+อ่าวแซนดี้ฮุก
+อ่าวอัปเปอร์นิวยอร์ก
+อ่าวการ์ดิเนอร์ส
+อ่าวเกรทเซาธ์
+อ่าวจาเมกา
+อ่าวโลเวอร์นิวยอร์ก
+อ่าวแพทช็อก
+อ่าวเพคอนิค
+อ่าวแรริตัน
+อ่าวเซาธ์ออยส์เตอร์
+อ่าวอัปเปอร์นิวยอร์ก
+อ่าวออนสโลว์
+อ่าวราลี
+อ่าวซันดัสกี
+อ่าวออล์ซี
+อ่าวบอยเลอร์
+อ่าวคูส
+อ่าวเดโพ
+อ่าวเนเฮเลม
+อ่าวเนสทุคคา
+อ่าวเมทาร์ทส
+อ่าวทิลลามุก
+อ่าววินเชสเตอร์
+อ่าวยาควินา
+อ่าวยังส์
+อ่าวเพรส์คไอล์
+อ่าวเมาท์โฮป
+อ่าวแนร์ราแกนเซตต์
+อ่าวบูลส์
+อ่าวลอง
+อ่าววินยาห์
+อ่าวอาแรนซัส
+Baffin อ่าว
+Copano อ่าว
+Corpus Christi อ่าว
+East Matagorda อ่าว
+Galveston อ่าว
 Laguna Madre
-Matagorda Bay
-Nueces Bay
-Oso Bay
-San Antonio Bay
-Trinity Bay
-Belmont Bay
-Burtons Bay
-Chincoteague Bay
-Mobjack Bay
-Chesapeake Bay
-Bellingham Bay
-Boundary Bay
-Commencement Bay
-Elliott Bay
-Liberty Bay
-Massacre Bay
-Padilla Bay
-Portage Bay
-Salmon Bay
-Sequim Bay
-Shilshole Bay
-Skagit Bay
-Union Bay
-Willapa Bay
-Chequamegon Bay
-Green Bay
-Sturgeon Bay
+Matagorda อ่าว
+Nueces อ่าว
+Oso อ่าว
+San Antonio อ่าว
+Trinity อ่าว
+Belmont อ่าว
+Burtons อ่าว
+Chincoteague อ่าว
+Mobjack อ่าว
+Chesapeake อ่าว
+Bellingham อ่าว
+Boundary อ่าว
+Commencement อ่าว
+Elliott อ่าว
+Liberty อ่าว
+Massacre อ่าว
+Padilla อ่าว
+Portage อ่าว
+Salmon อ่าว
+Sequim อ่าว
+Shilshole อ่าว
+Skagit อ่าว
+Union อ่าว
+Willapa อ่าว
+Chequamegon อ่าว
+Green อ่าว
+Sturgeon อ่าว

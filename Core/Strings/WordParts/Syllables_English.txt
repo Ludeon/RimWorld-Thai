@@ -1,117 +1,117 @@
-﻿al
-all
-an
-and
-ar
-are
-as
-at
+﻿แอล์
+ออล์
+อัน
+แอนด์
+อาร
+อาร์
+แอส
+แอท
 
-but
-ban
-bin
-bon
+บัท
+แบน
+บิน
+บอน
 
-ca
-co
+ฅา
+โฅ
 
-da
-do
-din
-del
+ดา
+โด
+ดิน
+เดล
 
-ea
-ed
-en
-ent
-er
-era
-ere
-es
-eve
+อี
+เอด
+เอน
+เอนท์
+เออร์
+เอรา
+เอเร
+เอส
+อีฟ
 
-for
-far
-fin
-fun
-fen
+ฟอร์
+ฟาร์
+ฟิน
+ฟัน
+เฟน
 
-ga
-go
+กา
+โก
 
-ha
-had
-hat
-he
-hen
-her
-hi
-hi
-hin
-his
+ฮา
+แฮด
+แฮท
+ฮี
+เฮน
+เฮอร์
+ฮิ
+ไฮ
+ฮิน
+ฮิส
 
-in
-is
-it
-ith
+อิน
+อีส
+อิท
+อิธ
 
-ja
+จา
 
-ka
-ko
+คา
+โค
 
-le
-la
-lon
-len
-lan
+เล
+ลา
+ลอน
+เลน
+แลน
 
-me
-ma
-min
-mon
-men
+เม
+มา
+มิน
+มอน
+เมน
 
-ne
-not
-na
+เน
+นอท
+นา
 
-ome
-on
-or
-ou
-oul
-our
+โอม
+โอน
+ออร์
+อู
+โอล์
+อาวร์
 
-pa
+พา
 
-qua
+คัว
 
-re
-ra
-ro
+เร
+รา
+โร
 
-se
-sho
-st
+เซ
+โช
+สท์
 
-te
-ted
-ter
-thi
-tha
-the
-thi
-ti
-to
+เท
+เทด
+เทอร์
+ธิ
+ธา
+เธ
+ธี
+ทิ
+ทู
 
-un
+อุน
 
-ve
-ver
+เว
+เวอร์
 
-wa
-was
-wit
+วา
+วอส
+วิท
 
-you
+ยู
