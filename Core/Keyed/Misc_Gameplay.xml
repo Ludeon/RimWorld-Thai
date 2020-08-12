@@ -1245,7 +1245,7 @@
   <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
   <PawnTooltipPsychicEntropyDesc>TODO</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
-  <PawnTooltipPsychicEntropyPainFocus>ความเจ็บปวดทางกายภาพ ช่วยโฟกัสใจและเคลียความคิดส่วนเกินออกไป, ทำให้เกิดผลข้างเคียงคือเอนโทรปีพลังจิตฟื้นฟูเร็วขึ้น</PawnTooltipPsychicEntropyPainFocus>
+  <PawnTooltipPsychicEntropyPainFocus>TODO</PawnTooltipPsychicEntropyPainFocus>
   <!-- EN: Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
   <PawnTooltipPsychicEntropyLimit>เปิด-ปิดเครื่องจำกัดเอนโทรปีพลังจิต\n\nการก้าวข้ามขีดจำกัดเอนโทรปีพลังจิตนั้น ส่งผลสาหัสกับสุขภาพ ไปถึงบางครั้งในระยะยาว อาจทำให้สมองเสียหายจากการ overages มากๆ ยิ่งก้าวข้ามขีดกัดเอนโทรปีมากๆ ผลกระทบยิ่งอันตราย</PawnTooltipPsychicEntropyLimit>
   <!-- EN: Psyfocus: {0} -->
@@ -1341,11 +1341,4 @@
   <!-- EN: Caused by: {0} -->
   <CausedByHediff>TODO</CausedByHediff>
   
-  <!-- UNUSED -->
-  <ForceExitAndRemoveMapCountdown>{0} จนกว่าจะออกเดินทาง</ForceExitAndRemoveMapCountdown>
-  <ForceExitAndRemoveMapCountdownTip>ชาวนิคมของคุณจะจัดกองคาราวานโดยอัตโนมัติ และออกจากพื้นที่นี้ใน {0} ชั่วโมง</ForceExitAndRemoveMapCountdownTip>
-  <CannotResearchNoBench>ไม่สามารถทำการวิจัยได้: ไม่มีโต๊ะวิจัย</CannotResearchNoBench>
-  <Complete>เสร็จสิ้น</Complete>
-  <PawnTooltipPsychicEntropy>เอนโทรปีพลังจิต: {0}/{1}\nเรตการลด: {2}/{3}วิ ({4}วิจะถึงศูนย์)\n\nเอนโทรปีพลังจิต เพิ่มพลังให้กับผู้ใช้พลังจิต\nก้าวข้ามขีดจำกัดเป็นเวลานานๆส่งผลกระทบต่อสุขภาพ\nทุกครั้งที่เอนโทรปีเหลือศูนย์ จะทำให้เมาค้างจากพลังจิต</PawnTooltipPsychicEntropy>
-
 </LanguageData>

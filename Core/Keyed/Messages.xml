@@ -624,8 +624,4 @@
   <!-- EN: {PAWN_nameDef} is a prisoner -->
   <MessagePrisonerCannotEquipWeapon>TODO</MessagePrisonerCannotEquipWeapon>
 
-  <!-- UNUSED -->
-  <MessageChoseRoute>กองคาราวานจะเคลื่อนที่ไปยังเวย์พอยท์แรกโดยอัตโนมัติ</MessageChoseRoute>
-  <MessagePsychicAmplifierNoSensitivity>{PAWN_labelShort} จะไม่สามารถใช้ psychic amplifier ได้ระหว่างหาก{PAWN_pronoun}ไม่มีความไวต่อสัมผัสกับพลังจิต</MessagePsychicAmplifierNoSensitivity>
-
 </LanguageData>

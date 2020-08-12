@@ -130,12 +130,12 @@
   <!-- EN: {1} died: {0} -->
   <LetterLeadersDeathLabel>{1} เสียชีวิต: {0}</LetterLeadersDeathLabel>
   <!-- EN: {OLDLEADER_nameFull}, {1} of {0}, has died. -->
-  <LetterLeadersDeath>{OLDLEADER_nameFull}, {3}แห่ง {1} ได้เสียชีวิตลง\n\n{3}คนใหม่คือ {NEWLEADER_nameFull}</LetterLeadersDeath>
+  <LetterLeadersDeath>{OLDLEADER_nameFull}, {1}แห่ง {0} ได้เสียชีวิตลง</LetterLeadersDeath>
 
   <!-- EN: New {1}: {0} -->
   <LetterLeaderChangedLabel>{1}คนใหม่: {0}</LetterLeaderChangedLabel>
   <!-- EN: {OLDLEADER_nameFull} is no longer {1} of {0}. -->
-  <LetterLeaderChanged>{OLDLEADER_nameFull} ไม่ใช่{3}แห่ง {1} อีกต่อไป\n\n{3}คนใหม่คือ {NEWLEADER_nameFull}</LetterLeaderChanged>
+  <LetterLeaderChanged>{OLDLEADER_nameFull} ไม่ใช่{1}แห่ง {0} อีกต่อไป</LetterLeaderChanged>
 
   <!-- EN: The new {0} is {NEWLEADER_nameFull}. -->
   <LetterNewLeader>TODO</LetterNewLeader>

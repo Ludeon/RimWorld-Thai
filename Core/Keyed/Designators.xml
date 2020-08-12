@@ -221,7 +221,7 @@
   <!-- EN: Cannot place monument over: {0}. -->
   <MonumentOverlapsBuilding>TODO</MonumentOverlapsBuilding>
   <!-- EN: Monument cannot be placed adjacent to: {0}. -->
-  <MonumentAdjacentToBuilding>มาร์คอนุสาวรีย์ ไม่อาจวางติดกับอาคารใดๆได้</MonumentAdjacentToBuilding>
+  <MonumentAdjacentToBuilding>มาร์คอนุสาวรีย์ ไม่สามารถวางติด: {0}</MonumentAdjacentToBuilding>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->

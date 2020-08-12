@@ -623,8 +623,4 @@
   <!-- EN: No more information is available. -->
   <NoMoreInfoAvailable>TODO</NoMoreInfoAvailable>
 
-  <!-- UNUSED -->
-  <UnlockExtremeDifficulty>โหมดไร้ความปราณี</UnlockExtremeDifficulty>
-  <ConfirmUnlockExtremeDifficulty>'โหมดไร้ความปราณี' เป็นโหมดเกมพิเศษ ซึ่งเพิ่มความท้าทายทุกอย่างขึ้นเป็นระดับยากสุดโต่ง (extreme)\n\nโหมดไร้ความปราณีจะปลดล็อคอัตโนมัติเองอยู่แล้ว เมื่อคุณเล่นไปถึงเหตุการณ์สำคัญบางอย่าง แต่ว่าคุณสามารถเลือกปลดล็อคในตอนนี้เลยก็ได้ \n\nตัวเลือกนี้ แนะนำเฉพาะคนที่เคยเคลียร์เกมแบบยากสุดมาแล้วซักรอบ-สองรอบ คุณฝีมือขั้นเทพยังต้องการโอกาสล้มเหลวอยู่ แม้ว่าจะเล่นดีแค่ไหนก็ตาม</ConfirmUnlockExtremeDifficulty>
-
 </LanguageData>

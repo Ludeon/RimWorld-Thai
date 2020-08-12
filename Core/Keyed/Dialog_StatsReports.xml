@@ -347,8 +347,4 @@
   <!-- EN: The market value of drugs that must be consumed per day to support an addiction to this drug without going into withdrawal.\n\nThis value is calculated from the addict's chemical need per dose, the need fall rate, and the market value of this drug.\n\nNote that there may be other ways to get the same chemical with different costs. -->
   <Stat_Thing_Drug_AddictionCost_Desc>TODO</Stat_Thing_Drug_AddictionCost_Desc>
 
-  <!-- UNUSED -->
-  <Stat_Thing_Weapon_Biocoded_Name>ไบโอโค้ด</Stat_Thing_Weapon_Biocoded_Name>
-  <Stat_Thing_Weapon_Biocoded_Desc>ไอเท็มนี้ถูกโค้ดให้ยอมรับเฉพาะบุคคลที่มีลายเซ็นทางชีวะภาพตรงกันเท่านั้น</Stat_Thing_Weapon_Biocoded_Desc>
-
 </LanguageData>
