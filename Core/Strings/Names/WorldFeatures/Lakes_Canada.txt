@@ -1,50 +1,50 @@
-Lake Superior
-Lake Huron
-Great Bear Lake
-Great Slave Lake
-Lake Erie
-Lake Winnipeg
-Lake Ontario
-Lake Athabasca
-Reindeer Lake
-Smallwood Reservoir
-Nettilling Lake
-Lake Winnipegosis
-Lake Nipigon
-Lake Manitoba
-Lake of the Woods
-Caniapiscau Reservoir
-Dubawnt Lake
-Amadjuak Lake
-Lake Melville
-Robert-Bourassa Reservoir
-Wollaston Lake
-La Grande 3 Reservoir
-Lac Mistassini
-Nueltin Lake
-Southern Indian Lake
-Manicouagan Reservoir
-Baker Lake
-Lac La Martre
-Williston Lake
-Lac Seul
-Gouin Reservoir
-Yathkyed Lake
-Lake Claire
-Cree Lake
-Lac la Ronge
-Lac a l'Eau-Claire
-Cedar Lake
-Kasba Lake
-Laforge-1 Reservoir
-Lake Champlain
-Lac Bienville
-Island Lake
-Lesser Slave Lake
-Gods Lake
-Lake St. Clair
-Aberdeen Lake
-Bras d'Or Lake
-Napaktulik Lake
-MacKay Lake
-Lac Saint-Jean
+ทะเลสาบสุพีเรีย
+ทะเลสาบฮูรอน
+ทะเลสาบเกรตแบร์
+ทะเลสาบเกรตสเลฟ
+ทะเลสาบอิรี
+ทะเลสาบวินนิเพ็ก
+ทะเลสาบออนแทรีโอ
+ทะเลสาบอธาบาสกา
+ทะเลสาบเรนเดียร์
+อ่างเก็บน้ำสมอลวู้ด
+ทะเลสาบเนทชิลลิง
+ทะเลสาบวินนิเพโกซิส
+ทะเลสาบนิพิกอน
+ทะเลสาบแมนิโทบา
+ทะเลสาบออฟเดอะวู้ดส์
+อ่างเก็บน้ำเคเนียพิสเคา
+ทะเลสาบดูบอว์นท์
+ทะเลสาบอแมดจวค
+ทะเลสาบเมลวิลล์
+อ่างเก็บน้ำโรเบิร์ต-บูแรซซา
+ทะเลสาบวูลลาสตัน
+อ่างเก็บน้ำลากร็อง 3
+ลาคมิสทาสซีนี
+ทะเลสาบนูเอลทิน
+ทะเลสาบเซาเธิร์นอินเดียน
+อ่างเก็บน้ำแมนนิกัวแก
+ทะเลสาบเบคเกอร์
+ลาคลามาร์ทรี
+ทะเลสาบวิลลิสตัน
+ลาคซูล
+อ่างเก็บน้ำกวิน
+ทะเลสาบแยธคีด
+ทะเลสาบแคลร์
+ทะเลสาบครี
+ลาคลารองค์
+ลาคอโล-แคลร์
+ทะเลสาบซีดาร์
+ทะเลสาบแคสบา
+อ่างเก็บน้ำลาฟอร์จ-1
+ทะเลสาบแชมเพลน
+ลาคเบียนวิลล์
+ทะเลสาบไอแลนด์
+ทะเลสาบเลสเซอร์สเลฟ
+ทะเลสาบกอดส์
+ทะเลสาบเซนต์แคลร์
+ทะเลสาบอเบอร์ดีน
+ทะเลสาบแบรดัวร์
+ทะเลสาบนาพาทูลิค
+ทะเลสาบแม็คเคย์
+ลาคซังค์จอน
