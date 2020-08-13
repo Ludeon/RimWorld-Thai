@@ -1,11 +1,11 @@
-Mojave Desert
-Sonoran Desert
-Baja Californian Desert
-Chihuahuan Desert
-Great Basin Desert
-Colorado Desert
-Magdalena Desert
-Red Desert
-Yuma Desert
-Yuha Desert
-Sevier Desert
+ทะเลทรายโมฮาวี
+ทะเลทรายโซนอรัน
+ทะเลทรายบาฮากาลิฟอร์เนีย
+ทะเลทรายชีวาวา
+ทะเลทรายเกรตเบซิน
+ทะเลทรายโคโลราโด
+ทะเลทรายแมกดาลีนา
+ทะเลทรายแดง
+ทะเลทรายยูมา
+ทะเลทรายยูฮา
+ทะเลทรายเซเวียร์

@@ -1,7 +1,7 @@
-Sahara
-Gobi Desert
-Great Sandy Desert
-Gibson Desert
-Great Victoria Desert
-Little Sandy Desert
-Simpson Desert
+ซาฮารา
+ทะเลทรายโกบี
+ทะเลทรายเกรตแซนดี้
+ทะเลทรายกิบสัน
+ทะเลทรายเกรตวิกตอเรีย
+ทะเลทรายลิตเติ้ลแซนดี้
+ทะเลทรายซิมป์สัน
