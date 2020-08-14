@@ -1,60 +1,60 @@
-Acadian Peninsula
-Adelaide Peninsula
-Aspotogan Peninsula
-Avalon Peninsula
-Baie Verte Peninsula
-Banks Peninsula
-Barrow Peninsula
-Becher Peninsula
-Beekman Peninsula
-Bell Peninsula
-Bell Peninsula
-Blunt Peninsula
-Bonavista Peninsula
-Boothia Peninsula
-Borden Peninsula
-Brodeur Peninsula
-Bruce Peninsula
-Burin Peninsula
-Burrard Peninsula
-Chebucto Peninsula
-Colin Archer Peninsula
-Collinson Peninsula
-Cumberland Peninsula
-Diamond Jennes Peninsula
-Cynthia Peninsula
-Douglas Peninsula
-Dunlas Peninsula
-Foxe Peninsula
-Great Northern Peninsula
-Hall Peninsula
-Henry Kater Peninsula
-Joan Peninsula
-Kent Peninsula
-Kingston Peninsula
-Labrador Peninsula
-Leith Peninsula
-Long Point
-McLean Peninsula
-Melville Peninsula
-Meta Incognita Peninsula
-Natkusiak Peninsula
-Niagara Peninsula
-North Peninsula
-Nova Scotia Peninsula
-Pangertot Peninsula
-Parry Peninsula
-Pethel Peninsula
-Point Pelee
-Port au Port Peninsula
-Prince Albert Peninsula
-Prince Edward Peninsula
-Sibley Peninsula
-Simpson Peninsula
-Siorarsuk Peninsula
-Steensby Peninsula
-Storkerson Peninsula
-Saanich Peninsula
-Sunshine Coast Peninsula
-Ungava Peninsula
-Wollaston Peninsula
+คาบสมุทรอเคเดียน
+คาบสมุทรแอดิเลด
+คาบสมุทรแอสโพโทกัน
+คาบสมุทรอวาโลน
+คาบสมุทรเบเวอร์ท
+คาบสมุทรแบงค์ส
+คาบสมุทรแบร์โรว์
+คาบสมุทรเบเคอร์
+คาบสมุทรบีคแมน
+คาบสมุทรเบล
+คาบสมุทรเบล
+คาบสมุทรบลันท์
+คาบสมุทรโบนาวิสต้า
+คาบสมุทรบูเธีย
+คาบสมุทรบอร์เด็น
+คาบสมุทรโบรเดียร์
+คาบสมุทรบรูซ
+คาบสมุทรบูริน
+คาบสมุทรเบอร์ราร์ด
+คาบสมุทรเชบัคตู
+คาบสมุทรคลินอาร์เชอร์
+คาบสมุทรคอลลินสัน
+คาบสมุทรคัมเบอร์แลนด์
+คาบสมุทรไดอะมอนด์เจนส์
+คาบสมุทรซินเธีย
+คาบสมุทรดักลาส
+คาบสมุทรดันลาส
+คาบสมุทรฟ็อกส์
+คาบสมุทรเกรตนอร์เทิร์น
+คาบสมุทรฮอลล์
+คาบสมุทรเฮนรีเคเทอร์
+คาบสมุทรโจแอน
+คาบสมุทรเคนท์
+คาบสมุทรคิงส์ตัน
+คาบสมุทรลาบราดอร์
+คาบสมุทรลีธ
+ลองพอยต์
+คาบสมุทรแมคลีน
+คาบสมุทรเมลวิลล์
+คาบสมุทรเมทาอินคอกนิตา
+คาบสมุทรแนทคูเสียก
+คาบสมุทรไนแอการา
+คาบสมุทรนอร์ธ
+คาบสมุทรโนวาสโกเชีย
+คาบสมุทรแพงเกอร์ทอท
+คาบสมุทรแพร์รี
+คาบสมุทรเพเธล
+พอยต์เพลี
+คาบสมุทรพอร์ตโอพอร์ต
+คาบสมุทรปรินซ์อัลเบิร์ต
+คาบสมุทรปรินซ์เอ็ดวาด
+คาบสมุทรซิบลีย์
+คาบสมุทรซิมป์สันส์
+คาบสมุทรซีออร์อาร์ซุก
+คาบสมุทรสตีนส์บี้
+คาบสมุทรสตอร์คเกอร์สัน
+คาบสมุทรเซนิช
+คาบสมุทรซันไชน์โคสท์
+คาบสมุทรอันกาวา
+คาบสมุทรวอลลัสตัน

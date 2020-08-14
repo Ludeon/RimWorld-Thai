@@ -1,13 +1,13 @@
-Coconino Plateau
-Defiance Plateau
-Kaibab Plateau
-Kanab Plateau
-Mogollon Plateau
-Shivwits Plateau
-Aquarius Plateau
-Bighorn Basin
-Edwards Plateau
-Modoc Plateau
-Yellowstone Plateau
-Pajarito Plateau
-Allegheny Plateau
+ที่ราบสูงโคโคนิโญ
+ที่ราบสูงดีไฟแอนซ์
+ที่ราบสูงไคบับ
+ที่ราบสูงคานับ
+ที่ราบสูงโมโกล์ลอน
+ที่ราบสูงชีฟวิทส์
+ที่ราบสูงอควาเรียส
+แอ่งบิ๊กฮอร์น
+ที่ราบสูงเอ็ดวาดส์
+ที่ราบสูงโมดอค
+ที่ราบสูงเยลโล่สโตน
+ที่ราบสูงพาฮาริโต
+ที่ราบสูงแอลลิเกนี
