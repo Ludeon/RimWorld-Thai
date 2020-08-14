@@ -1,10 +1,10 @@
-Baltic Sea
-Lincoln Sea
-Amundsen Sea
-Davis Sea
-Ross Sea
-Bali Sea
-Coral Sea
-Catalan Sea
-Tasman Sea
-Bismarck Sea
+ทะเลบอลติก
+ทะเลลินคอล์น
+ทะเลอามันด์เซน
+ทะเลเดวิส
+ทะเลรอสส์
+ทะเลบาหลี
+ทะเลคอรอล
+ทะเลกาตาลัน
+ทะเลแทสมัน
+ทะเลบิสมาร์ค
