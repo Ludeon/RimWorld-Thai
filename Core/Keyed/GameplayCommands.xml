@@ -515,6 +515,10 @@
   <CommandPlaceBlueprints>วางพิมพ์เขียว</CommandPlaceBlueprints>
   <!-- EN: Place all required blueprints where possible. -->
   <CommandPlaceBlueprintsDesc>วางพิมพ์เขียวทั้งหมดในตำแหน่งที่เป็นไปได้</CommandPlaceBlueprintsDesc>
+  <!-- EN: Place {0} blueprints -->
+  <CommandPlaceBlueprintsSpecific>TODO</CommandPlaceBlueprintsSpecific>
+  <!-- EN: Place all {0} blueprints where possible. -->
+  <CommandPlaceBlueprintsSpecificDesc>TODO</CommandPlaceBlueprintsSpecificDesc>
 
   <!-- Cancel monument marker -->
   <!-- EN: Cancel -->
@@ -531,5 +535,11 @@
   <CommandOpenLinkedQuest>เปิดเควสที่เชื่อมโยง</CommandOpenLinkedQuest>
   <!-- EN: Open linked quest in the quests tab. -->
   <CommandOpenLinkedQuestDesc>เปิดเควสที่เชื่อมโยงในแท็บเควส</CommandOpenLinkedQuestDesc>
+  
+  <!-- Take a drug -->
+  <!-- EN: Take drug... -->
+  <TakeDrug>TODO</TakeDrug>
+  <!-- EN: Choose a drug from inventory to ingest immediately. -->
+  <TakeDrugDesc>TODO</TakeDrugDesc>
   
 </LanguageData>

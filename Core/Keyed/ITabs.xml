@@ -112,6 +112,8 @@
   <ShouldTryToRecruit>ลองพยายามชักชวนเข้าร่วม</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
   <ConsideredGuilty>ถือว่ามีความผิด (จะหมดอายุใน {0})</ConsideredGuilty>
+  <!-- EN: Considered guilty -->
+  <ConsideredGuiltyNoTimer>TODO</ConsideredGuiltyNoTimer>
 
   <!-- Medical - general -->
   <!-- EN: Move speed -->
@@ -277,18 +279,10 @@
   <CopyLogTip>คัดลอกบันทึกไปคลิปบอร์ด</CopyLogTip>
 
   <!-- Forming caravan tab -->
-  <!-- EN: Gathering animals -->
-  <FormingCaravanStatus_GatheringAnimals>รวบรวมสัตว์</FormingCaravanStatus_GatheringAnimals>
-  <!-- EN: Gathering animals (waiting) -->
-  <FormingCaravanStatus_GatheringAnimals_Pause>รวบรวมสัตว์ (กำลังรอ)</FormingCaravanStatus_GatheringAnimals_Pause>
   <!-- EN: Gathering items -->
   <FormingCaravanStatus_GatheringItems>รวบรวมไอเท็ม</FormingCaravanStatus_GatheringItems>
   <!-- EN: Gathering items (waiting) -->
   <FormingCaravanStatus_GatheringItems_Pause>รวบรวมไอเท็ม (กำลังรอ)</FormingCaravanStatus_GatheringItems_Pause>
-  <!-- EN: Gathering slaves -->
-  <FormingCaravanStatus_GatheringSlaves>รวบรวมทาส</FormingCaravanStatus_GatheringSlaves>
-  <!-- EN: Gathering slaves (waiting) -->
-  <FormingCaravanStatus_GatheringSlaves_Pause>รวบรวมทาส (กำลังรอ)</FormingCaravanStatus_GatheringSlaves_Pause>
   <!-- EN: Gathering downed people -->
   <FormingCaravanStatus_GatheringDownedPawns>รวบรวมคนล้ม</FormingCaravanStatus_GatheringDownedPawns>
   <!-- EN: Gathering downed people (waiting) -->
@@ -329,5 +323,11 @@
   <QuestDismissed>เควสนี้อยู่ที่นี่เพราะคุณเมินเฉย\n\nคุณสามารถเลิกเมินเฉยได้ไปจนกว่าเควสจะหมดอายุ</QuestDismissed>
   <!-- EN: Delete this quest and remove it from the quest list forever. -->
   <DeleteQuest>TODO</DeleteQuest>
+
+  <!-- UNUSED -->
+  <FormingCaravanStatus_GatheringAnimals>รวบรวมสัตว์</FormingCaravanStatus_GatheringAnimals>
+  <FormingCaravanStatus_GatheringAnimals_Pause>รวบรวมสัตว์ (กำลังรอ)</FormingCaravanStatus_GatheringAnimals_Pause>
+  <FormingCaravanStatus_GatheringSlaves>รวบรวมทาส</FormingCaravanStatus_GatheringSlaves>
+  <FormingCaravanStatus_GatheringSlaves_Pause>รวบรวมทาส (กำลังรอ)</FormingCaravanStatus_GatheringSlaves_Pause>
 
 </LanguageData>

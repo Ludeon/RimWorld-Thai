@@ -7,7 +7,7 @@
   <!-- Heritage -->
   <!-- EN: Choose a new heir for {HOLDER_nameIndef}: -->
   <ChooseHeir>TODO</ChooseHeir>
-  <!-- EN: You're about to change the heir of the title {HOLDER_nameIndef} recieved from {0_name}. This requires building a monument in a limited time, to consecrate the new inheritance. -->
+  <!-- EN: You're about to change the heir of the title {HOLDER_nameIndef} received from {0_name}. This requires building a monument in a limited time, to consecrate the new inheritance. -->
   <MakeHeirConfirm>TODO</MakeHeirConfirm>
   <!-- EN: This will upset {HOLDER_possessive} current heir {HEIR_nameFull}. -->
   <MakeHeirPreviousHeirWarning>TODO</MakeHeirPreviousHeirWarning>
@@ -27,7 +27,7 @@
   <CommandCallRoyalAidFavorOption>TODO</CommandCallRoyalAidFavorOption>
   <!-- EN: You are about to call for aid, but there are people from factions whom {0_name} is not hostile to. Any soldiers you call will not attack them: {1} -->
   <CommandCallRoyalAidWarningNonHostileFactions>TODO</CommandCallRoyalAidWarningNonHostileFactions>
-  <!-- EN: Not enough favor. -->
+  <!-- EN: Not enough honor. -->
   <CommandCallRoyalAidNotEnoughFavor>TODO</CommandCallRoyalAidNotEnoughFavor>
   
   <!-- Call laborers -->

@@ -65,7 +65,7 @@
   
   <!-- EN: Colonist left unburied -->
   <AlertColonistLeftUnburied>ชาวนิคมถูกปล่อยไม่ได้ฝัง</AlertColonistLeftUnburied>
-  <!-- EN: A colonist is left unburied.\n\nThis may negatively affects your colonists mood. -->
+  <!-- EN: A colonist is left unburied.\n\nThis may negatively affect your colonists' mood. -->
   <AlertColonistLeftUnburiedDesc>มีชาวอาณานิคมถูกทิ้งไว้ไม่ได้ฝัง\n\nนี่อาจส่งผลกระทบด้านลบกับอารมณ์ของชาวอาณานิคม</AlertColonistLeftUnburiedDesc>
 
   <!-- EN: Hunter lacks ranged weapon -->

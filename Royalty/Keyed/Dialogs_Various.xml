@@ -76,5 +76,7 @@
   <PsylinkTooLowForGainAbility>TODO</PsylinkTooLowForGainAbility>
   <!-- EN: This shuttle is empty. If you send it away, you won't be able to use it again.\n\nSend it anyways? -->
   <SendShuttleWithNoContents>TODO</SendShuttleWithNoContents>
+  <!-- EN: These resources would weigh the caravan down and make it unable to move.\n\nCall for them anyways? -->
+  <DropResourcesOverweightConfirm>TODO</DropResourcesOverweightConfirm>
 
 </LanguageData>

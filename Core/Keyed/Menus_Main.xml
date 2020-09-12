@@ -264,6 +264,8 @@
   <ConfirmContentAuthor>เป็นที่ชักดเจนว่าคุณควรอัปโหลดเนื้อหาที่คุณสร้างขึ้นเองเท่านั้น\n\nคุณผลิตเนื้อหานี้ด้วยตัวเองใช่ไหม ?</ConfirmContentAuthor>
   <!-- EN: Incompatible -->
   <Incompatible>เข้ากันไม่ได้</Incompatible>
+  <!-- EN: Tag as translation -->
+  <TagAsTranslation>TODO</TagAsTranslation>
   <!-- EN: Too many (max {0}):  -->
   <TooMany>มากเกินไป (สูงสุด {0}): </TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
@@ -439,11 +441,15 @@
   <Difficulty_AdaptationEffectFactor_Label>TODO</Difficulty_AdaptationEffectFactor_Label>
   <!-- EN: Adaptation means the storyteller makes the game more challenging over time as long as you are not taking losses. This is separate from the story effects of wealth and population.\n\nThis adjusts the effect of that adaptation value on actual threats. -->
   <Difficulty_AdaptationEffectFactor_Info>TODO</Difficulty_AdaptationEffectFactor_Info>
-  <!-- EN: Fixed wealth progress mode -->
+  <!-- EN: Wealth-independent progress mode -->
   <Difficulty_FixedWealthMode_Label>TODO</Difficulty_FixedWealthMode_Label>
-  <!-- EN: Play in fixed wealth progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Fixed wealth progress mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In fixed progression mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
+  <!-- EN: Play in a wealth-independent progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Wealth-independent mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In wealth-independent mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
   <Difficulty_FixedWealthMode_Info>TODO</Difficulty_FixedWealthMode_Info>
-  
+  <!-- EN: Years until maximum threat -->
+  <Difficulty_FixedWealthTimeFactor_Label>TODO</Difficulty_FixedWealthTimeFactor_Label>
+  <!-- EN: The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors. -->
+  <Difficulty_FixedWealthTimeFactor_Info>TODO</Difficulty_FixedWealthTimeFactor_Info>
+
   <!-- Site select -->
   <!-- EN: Select starting site -->
   <SelectStartingSite>เลือกพื้นที่เริ่มต้น</SelectStartingSite>

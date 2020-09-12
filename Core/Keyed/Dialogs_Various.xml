@@ -544,6 +544,8 @@
   <TraderCount>จำนวนไอเท็มนี้ที่พ่อค้ามีแลกเปลื่ยน</TraderCount>
   <!-- EN: Accept -->
   <AcceptButton>ยอมรับ</AcceptButton>
+  <!-- EN: Load selected -->
+  <LoadSelected>TODO</LoadSelected>
   <!-- EN: Reset -->
   <ResetButton>รีเซ็ต</ResetButton>
   <!-- EN: Cancel -->
@@ -624,7 +626,7 @@
   <PawnsTab>คนและสัตว์</PawnsTab>
   <!-- EN: Items -->
   <ItemsTab>ไอเท็ม</ItemsTab>
-  <!-- EN: Food and medicine -->
+  <!-- EN: Travel supplies -->
   <FoodAndMedicineTab>TODO</FoodAndMedicineTab>
   <!-- EN: You must assign at least one non-downed colonist. -->
   <CaravanMustHaveAtLeastOneColonist>คุณต้องกำหนดชาวนิคมที่ไม่หมดสภาพอย่างน้อยหนึ่งคน</CaravanMustHaveAtLeastOneColonist>
@@ -750,7 +752,7 @@
   <FactionType>ฝักฝ่ายประเภท</FactionType>
   <!-- EN: Total body size -->
   <TotalBodySize>ขนาดตัวทั้งหมด</TotalBodySize>
-  <!-- EN: Automatically select food and medicine -->
+  <!-- EN: Automatically select travel supplies -->
   <AutomaticallySelectFoodAndMedicine>TODO</AutomaticallySelectFoodAndMedicine>
 
   <!-- Split caravan -->
@@ -864,7 +866,7 @@
   <MoodThresholdColumnLabel>เฉพาะเมื่อ 'อารมณ์' ต่ำกว่า</MoodThresholdColumnLabel>
   <!-- EN: Only if recreation below -->
   <JoyThresholdColumnLabel>เฉพาะเมื่อ 'ผ่อนคลาย' ต่ำกว่า</JoyThresholdColumnLabel>
-  <!-- EN: Take to inventory -->
+  <!-- EN: Keep in inventory -->
   <TakeToInventoryColumnLabel>นำไปที่คลัง</TakeToInventoryColumnLabel>
   <!-- EN: (no drugs) -->
   <NoDrugsBrackets>(ไม่ใช้ยา)</NoDrugsBrackets>

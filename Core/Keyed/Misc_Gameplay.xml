@@ -374,6 +374,8 @@
   <Caravan>คาราวาน</Caravan>
   <!-- EN: there may be danger there. -->
   <HiddenOrNoSitePartDescription>บางทีอาจจะมีอัตรายอยู่ตรงนั้น</HiddenOrNoSitePartDescription>
+  <!-- EN: The scanner is picking up activity around the lump. It's likely hostile. -->
+  <PreciousLumpHostileThreat>TODO</PreciousLumpHostileThreat>
   <!-- EN: lump of {0} -->
   <PreciousLumpLabel>ก้อนของ {0}</PreciousLumpLabel>
   <!-- EN: no active research project -->
@@ -530,6 +532,8 @@
   <TextMote_Immune>ภูมิคุ้มกัน</TextMote_Immune>
   <!-- EN: {0} tended -->
   <TextMote_Tended>รักษาอาการ{0}</TextMote_Tended>
+  <!-- EN: level {0} -->
+  <TextMote_SkillUp>TODO</TextMote_SkillUp>
   <!-- EN: low mood -->
   <lowMood>อารมณ์ตกต่ำ</lowMood>
   <!-- EN: low opinion -->
