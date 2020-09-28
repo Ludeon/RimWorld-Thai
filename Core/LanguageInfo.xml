@@ -16,5 +16,9 @@
       <roleKey>Credit_Translator</roleKey>
       <creditee>Panithan T.</creditee>
     </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Siwat Kanjanapanitkun</creditee>
+    </li>
   </credits>
 </LanguageInfo>
