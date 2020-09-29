@@ -1,64 +1,64 @@
-﻿Crashville
-Crashtown
-Fallville
-Rimville
-Rimtown
-Jamestown
-Salvation
-Sleepville
-Microton
-Hurra
-Ellis
-Planeton
-Rimton
-Ludeon
-Banthos
-Parthos
-Lutin
-Shemston
-Craterton
-Wesselton
-Stonkley
-Flint
-Troit
-Planeton
+﻿แครชวิลล์
+แครชทาวน์
+ฟอลล์วิลล์
+ริมวิลล์
+ริมทาวน์
+เจมส์ทาวน์
+ซัลเวชัน
+สลีปวิลล์
+ไมโครตัน
+เฮอรา
+เอลลิส
+พลาเนตัน
+ริมตัน
+ลูดีออน
+บานธอส
+พาร์ธอส
+ลูติน
+เช็มสตัน
+เครเทอร์ตัน
+เวสเซล์ตัน
+สตองค์เลย์
+ฟลิ้นท์
+ทรอยต์
+เพลนตัน
 
 
-We Landed
-We Made It
-Landfall
+วีแลนเด็ด
+วีเมดอิด
+แลนด์ฟอลล์
 
-Lakeside Ridge
-Pine View
-Flowerville
-Sun Village
+เลคไซด์ริดจ์
+ไพน์วิว
+ฟลาวเวอร์วิลล์
+ซันวิลเลจ
 
 
-Congers
-Colome
-Sparks
-Bedias
-Rhine
-Hialeah
-Qulin
-Crosbyton
-Mayaguez
-Seagraves
-Whitaker
-Welsh
-Braselton
-Colwyn
-Sparta
-La Minita
-Lepanto
-Graton
-Progreso
-Antioch
-Nemacolin
-Dannebrog
-Palo Pinto
-Breinigsville
-Alturas
-Pottstown
-Caro
-Sparland
+คองเกอร์ส
+โคโลเม
+สปาร์คส์
+เบไดอาส
+ไรน์
+เฮียเลอาห์
+กูลิน
+ครอสไบตัน
+มายาเกวซ
+ซีเกรฟส์
+วิเทเกอร์
+เวลช์
+บราเซลตัน
+โคลวิน
+สปาร์ตา
+ลามินิต้า
+เลปันโต
+กราตอง
+โพรเกรโซ
+แอนติออก
+เนมาคอลิน
+แดนบราก
+ปาโลปินโต
+เบรนิกส์วิลล์
+อัลทูราส
+พอทท์สทาวน์
+แคโร
+สปาร์แลนด์
