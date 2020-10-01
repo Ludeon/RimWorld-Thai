@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: boreal forest -->
-  <BorealForest.label>ป่าเขตหนาว</BorealForest.label>
+  <BorealForest.label>ป่าบอเรียล</BorealForest.label>
   <!-- EN: Forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals, and have warm summers. -->
-  <BorealForest.description>ผืนป่าเต็มไปด้วยต้นสน แม้มีฤดูหนาวที่ทารุณ ป่าเขตหนาวก็ยังค้ำจุน ความหลากหลายทางประชากรสัตว์เล็ก-ใหญ่ไว้ และมีฤดูร้อนที่อบอุ่น</BorealForest.description>
+  <BorealForest.description>ผืนป่าต้นสน ถึงแม้ฟดูหนาวจะรุนแรง ป่าบอเรียลเป็นที่อยู่อาศัยของประชากรสัตว์เล็กสัตว์ใหญ่หลากหลาย และมีฤดูร้อนที่อบอุ่น</BorealForest.description>
   
   <!-- EN: cold bog -->
   <ColdBog.label>พรุเย็น</ColdBog.label>
   <!-- EN: A wetland packed with trees and vines. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Disease is endemic in this dense, wet ecosystem. -->
-  <ColdBog.description>พื้นที่ชุ่มน้ำเต็มไปด้วยต้นไม้และเถาวัลย์ พื้นที่ส่วนใหญ่เฉอะแฉะไม่สามารถรองรับโครงสร้างหนักได้ การเคลื่อนที่ไปมาช้าลงเนื่องพืชเกิดหนาแน่น เชื้อโรคระบาดเรื้อรังในระบบนิเวศที่หนาแน่น-ชื้นแฉะนี้</ColdBog.description>
+  <ColdBog.description>พื้นที่ชุ่มน้ำที่เต็มไปด้วยต้นไม้และเถาวัลย์ บึงนี้ส่วนมากไม่สามารถรับโครงสร้างหนักได้ การเคลื่อนที่ไปมาเชื่องช้าจากพืชพรรณที่แออัด โรคภัยไข้เจ็บกระจัดกระจายอยู่ในระบบนิเวศที่หนาแน่นและชื้นแฉะนี้</ColdBog.description>
   
   <!-- EN: ice sheet -->
-  <IceSheet.label>แผ่นน้ำแข็ง</IceSheet.label>
+  <IceSheet.label>พืดน้ำแข็ง</IceSheet.label>
   <!-- EN: Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost. -->
-  <IceSheet.description>แผ่นน้ำแข็งนั้นสามารถหนาได้หลายกิโลเมตร ไม่มีผืนดินให้พืชเติบโตขึ้น บรรดาสัตว์ที่เคยอาศัยอยู่ล้วนอพยพมาไปที่อื่น - หรือไม่ก็หายสาบสูญไป</IceSheet.description>
+  <IceSheet.description>พืดน้ำแข็งสามารถมีความหนาได้หลายกิโลเมตร ไม่มีดินให้พืชได้เติบโต สัตว์ที่นี่มีเพียงแค่พวกที่กำลังอพยพย้ายถิ่น หรือไม่ก็หลงทางได้แย่มาก</IceSheet.description>
   
   <!-- EN: sea ice -->
-  <SeaIce.label>ทะเลน้ำแข็ง</SeaIce.label>
+  <SeaIce.label>น้ำแข็งทะเล</SeaIce.label>
   <!-- EN: Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life. -->
-  <SeaIce.description>แผ่นน้ำแข็งถาวรลอยอยู่บนน้ำ ไม่มีผืนดินให้พืชเติบโต ไม่มีแร่ธาตุให้ขุด และเกือบไม่มีสัตว์ใดอยู่รอด</SeaIce.description>
+  <SeaIce.description>พืดน้ำแข็งถาวรที่ลอยอยู่บนน้ำ ไม่มีดินให้พืชได้เติบโต ไม่มีแร่ธาตุให้ขุด และแทบจะไม่มีสัตว์อยู่เลย</SeaIce.description>
   
   <!-- EN: tundra -->
   <Tundra.label>ทุนดรา</Tundra.label>
   <!-- EN: These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspersed with large herds of migratory grazers and their predators. -->
-  <Tundra.description>ทุ่งราบที่ถูกแช่แข็งเกือบหมด แทบจะไม่มีต้นไม้ใบหญ้า มีสัตว์เล็กจำนวนน้อยกระจัดกระจาย อาศัยร่วมกับฝูงสัตว์กินหญ้าเร่ร่อน และบรรดาผู้ล่าต่างๆ</Tundra.description>
+  <Tundra.description>ทุ่งราบแช่แข็งแทบทั้งหมดเหล่านี้แทบที่จะไม่มีต้นไม้ ส่วนพืชพรรณนั้นก็มีน้อย มีสัตว์เล็กกระจายอยู่บ้างกับฝูงสัตว์กินหญ้าย้ายถิ่นขนาดใหญ่ กับสัตว์ที่ล่าพวกมัน</Tundra.description>
   
 </LanguageData>
