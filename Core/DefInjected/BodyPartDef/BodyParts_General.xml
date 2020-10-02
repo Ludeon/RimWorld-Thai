@@ -29,12 +29,12 @@
   <Nose.label>จมูก</Nose.label>
   
   <!-- EN: ribcage -->
-  <Ribcage.label>ซี่โครง</Ribcage.label>
+  <Ribcage.label>กระดูกซี่โครง</Ribcage.label>
   
   <!-- EN: skull -->
-  <Skull.label>กระโหลก</Skull.label>
+  <Skull.label>กะโหลกศีรษะ</Skull.label>
   
   <!-- EN: spine -->
-  <Spine.label>สันหลัง</Spine.label>
+  <Spine.label>กระดูกสันหลัง</Spine.label>
   
 </LanguageData>
