@@ -22,13 +22,13 @@
   <!-- EN: left shoulder -->
   <Human.corePart.parts.left_shoulder.customLabel>ไหล่ซ้าย</Human.corePart.parts.left_shoulder.customLabel>
   <!-- EN: left clavicle -->
-  <Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>ไหปลาร้าซ้าย</Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>กระดูกไหปลาร้าซ้าย</Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
   <!-- EN: left arm -->
   <Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>แขนซ้าย</Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>
   <!-- EN: left humerus -->
-  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>ต้นแขนซ้าย</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>กระดูกต้นแขนซ้าย</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
   <!-- EN: left radius -->
-  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>ท่อนแขนซ้าย</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>กระดูกปลายแขนซ้าย</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
   <!-- EN: left hand -->
   <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>มือซ้าย</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
   <!-- EN: left pinky -->
@@ -40,25 +40,25 @@
   <!-- EN: left index finger -->
   <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>นิ้วชี้ซ้าย</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
   <!-- EN: left thumb -->
-  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>นิ้งโป้งซ้าย</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>นิ้วโป้งซ้าย</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
   <!-- EN: right shoulder -->
   <Human.corePart.parts.right_shoulder.customLabel>ไหล่ขวา</Human.corePart.parts.right_shoulder.customLabel>
   <!-- EN: right clavicle -->
-  <Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>ไหปลาร้าขวา</Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>กระดูกไหปลาร้าขวา</Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
   <!-- EN: right arm -->
   <Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>แขนขวา</Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>
   <!-- EN: right humerus -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>ต้นแขนขวา</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>กระดูกต้นแขนขวา</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
   <!-- EN: right radius -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>ท่อนแขนขวา</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>กระดูกปลายแขนขวา</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
   <!-- EN: right hand -->
   <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>มือขวา</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
   <!-- EN: right pinky -->
   <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>นิ้วก้อยขวา</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
   <!-- EN: right ring finger -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>นิ้งนางขวา</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>นิ้วนางขวา</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
   <!-- EN: right middle finger -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>นิ้งกลางขวา</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>นิ้วกลางขวา</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
   <!-- EN: right index finger -->
   <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>นิ้วชี้ขวา</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
   <!-- EN: right thumb -->
@@ -66,9 +66,9 @@
   <!-- EN: left leg -->
   <Human.corePart.parts.left_leg.customLabel>ขาซ้าย</Human.corePart.parts.left_leg.customLabel>
   <!-- EN: left femur -->
-  <Human.corePart.parts.left_leg.parts.left_femur.customLabel>โคนขาซ้าย</Human.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_femur.customLabel>กระดูกโคนขาซ้าย</Human.corePart.parts.left_leg.parts.left_femur.customLabel>
   <!-- EN: left tibia -->
-  <Human.corePart.parts.left_leg.parts.left_tibia.customLabel>หน้าแข้งซ้าย</Human.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_tibia.customLabel>กระดูกแข้งซ้าย</Human.corePart.parts.left_leg.parts.left_tibia.customLabel>
   <!-- EN: left foot -->
   <Human.corePart.parts.left_leg.parts.left_foot.customLabel>เท้าซ้าย</Human.corePart.parts.left_leg.parts.left_foot.customLabel>
   <!-- EN: left little toe -->
@@ -80,13 +80,13 @@
   <!-- EN: left second toe -->
   <Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>นิ้วชี้เท้าซ้าย</Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
   <!-- EN: left big toe -->
-  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>นิ้งโป้งเท้าซ้าย</Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>นิ้วโป้งเท้าซ้าย</Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
   <!-- EN: right leg -->
   <Human.corePart.parts.right_leg.customLabel>ขาขวา</Human.corePart.parts.right_leg.customLabel>
   <!-- EN: right femur -->
-  <Human.corePart.parts.right_leg.parts.right_femur.customLabel>โคนขาขวา</Human.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_femur.customLabel>กระดูกโคนขาขวา</Human.corePart.parts.right_leg.parts.right_femur.customLabel>
   <!-- EN: right tibia -->
-  <Human.corePart.parts.right_leg.parts.right_tibia.customLabel>หน้าแข้งขวา</Human.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_tibia.customLabel>กระดูกแข้งขวา</Human.corePart.parts.right_leg.parts.right_tibia.customLabel>
   <!-- EN: right foot -->
   <Human.corePart.parts.right_leg.parts.right_foot.customLabel>เท้าขวา</Human.corePart.parts.right_leg.parts.right_foot.customLabel>
   <!-- EN: right little toe -->
@@ -98,6 +98,6 @@
   <!-- EN: right second toe -->
   <Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>นิ้วชี้เท้าขวา</Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
   <!-- EN: right big toe -->
-  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>นิ้งโป้งเท้าขวา</Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>นิ้วโป้งเท้าขวา</Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
   
 </LanguageData>
