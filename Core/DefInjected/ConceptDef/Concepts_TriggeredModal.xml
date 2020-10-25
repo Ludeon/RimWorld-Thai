@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: Arresting worsens faction relations -->
-  <ArrestingCreatesEnemies.label>TODO</ArrestingCreatesEnemies.label>
+  <ArrestingCreatesEnemies.label>การจับกุมจะทำให้ความสัมพันธ์ระหว่างฝ่ายแย่ลง</ArrestingCreatesEnemies.label>
   <!-- EN: Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist or a colonist from another faction, their entire faction may become your enemy. \n\nThis arrest has a {0} chance of succeeding, based on the social skill of the arrester. -->
-  <ArrestingCreatesEnemies.helpText>TODO</ArrestingCreatesEnemies.helpText>
+  <ArrestingCreatesEnemies.helpText>คำเตือน: บุคคลที่คุณพยายามจะจับกุมนั้นอาจไม่ยอมง่าย ๆ\n\nหากคุณจับกุมคนที่ไม่ใช่ชาวนิคม หรือชาวนิคมจากฝ่ายอื่น ทั้งฝ่ายนั้นอาจกลายเป็นศัตรูกับคุณได้\n\nการจับกุมนี้มีโอกาส {0} ที่จะสำเร็จ ตามทักษะทางสังคมของคนจับกุม</ArrestingCreatesEnemies.helpText>
   
   <!-- EN: Maximum number of player colonies -->
-  <MaxNumberOfPlayerSettlements.label>TODO</MaxNumberOfPlayerSettlements.label>
+  <MaxNumberOfPlayerSettlements.label>จำนวนนิคมผู้เล่นสูงสุด</MaxNumberOfPlayerSettlements.label>
   <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\nPlaying with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\nWe recommend that you play with the one-colony maximum the game was designed for, at least for your first few games. -->
-  <MaxNumberOfPlayerSettlements.helpText>TODO</MaxNumberOfPlayerSettlements.helpText>
+  <MaxNumberOfPlayerSettlements.helpText>คำเตือน: ริมเวิลด์ถูกออกแบบมาให้เล่นกับนิคมผู้เล่นหนึ่งที่ในแต่ละครั้ง นิคมผู้เล่นหลายที่มีไว้เป็นฟีเจอร์ทดลองเท่านั้น\n\nการเล่นกับหลายนิคมจะทำให้เสียสมดุลในการเล่นและแบ่งแยกความสนใจของคุณ และเป็นไปได้ว่าจะทำให้เสียสมรรถนะได้\n\nเราแนะนำให้คุณเล่นกับนิคมสูงสุดเพียงหนึ่งที่ตามที่เกมถูกออกแบบมา อย่างน้อยสำหรับเกมแรก ๆ ของคุณ</MaxNumberOfPlayerSettlements.helpText>
   
   <!-- EN: Flick designations only designate -->
-  <SwitchFlickingDesignation.label>TODO</SwitchFlickingDesignation.label>
+  <SwitchFlickingDesignation.label>ตัวกำหนดกดเพียงแค่กำหนด</SwitchFlickingDesignation.label>
   <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand. -->
-  <SwitchFlickingDesignation.helpText>TODO</SwitchFlickingDesignation.helpText>
+  <SwitchFlickingDesignation.helpText>หมายเหตุ: มันเพียงแค่กำหนดให้ชาวนิคมไปกดสวิตช์\n\nจะไม่มีอะไรเกิดขึ้นจนกว่าจะมีชาวนิคมเดินมากดสวิตช์ด้วยมือของตัวเอง</SwitchFlickingDesignation.helpText>
   
   <!-- EN: Trade goods and trade beacons -->
-  <TradeGoodsMustBeNearBeacon.label>สินค้าและสัญญาณ</TradeGoodsMustBeNearBeacon.label>
+  <TradeGoodsMustBeNearBeacon.label>สินค้าและเครื่องส่งสัญญาณค้า</TradeGoodsMustBeNearBeacon.label>
   <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
-  <TradeGoodsMustBeNearBeacon.helpText>TODO</TradeGoodsMustBeNearBeacon.helpText>
+  <TradeGoodsMustBeNearBeacon.helpText>ในการส่งไอเท็มหรือเงินขึ้นไปให้ผู้ค้าโคจร คุณจะต้องสร้าง เครื่องส่งสัญญาณค้าโคจร แล้ววางคลังไอเท็มไว้ใกล้ ๆ มัน</TradeGoodsMustBeNearBeacon.helpText>
   
   <!-- EN: Trading permit requirements -->
-  <TradingRequiresPermit.label>TODO</TradingRequiresPermit.label>
+  <TradingRequiresPermit.label>ข้อกำหนดใบอนุญาตค้าขาย</TradingRequiresPermit.label>
   <!-- EN: Trading here requires the title of {0}.\n\nEnsure any trade caravan you send has someone with the title of {0} or higher. -->
-  <TradingRequiresPermit.helpText>TODO</TradingRequiresPermit.helpText>
+  <TradingRequiresPermit.helpText>การค้าขายที่นี่จะต้องมียศศักดิ์เป็น {0}\n\nดูให้แน่ใจว่าคาราวานค้าขายที่คุณส่งไปนั้นมีคนที่มียศศักดิ์เป็น {0} หรือสูงกว่า</TradingRequiresPermit.helpText>
   
 </LanguageData>
