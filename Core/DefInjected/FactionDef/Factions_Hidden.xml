@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: neutral ancients -->
-  <Ancients.label>ชนโบราณ</Ancients.label>
+  <Ancients.label>ชนโบราณเป็นกลาง</Ancients.label>
   <!-- EN: Ancients -->
   <Ancients.fixedName>ชนโบราณ</Ancients.fixedName>
   <!-- EN: ancient -->
@@ -11,7 +11,7 @@
   <Ancients.pawnsPlural>เหล่าชนโบราณ</Ancients.pawnsPlural>
   
   <!-- EN: hostile ancients -->
-  <AncientsHostile.label>ชนโบราณ</AncientsHostile.label>
+  <AncientsHostile.label>ชนโบราณศัตรู</AncientsHostile.label>
   <!-- EN: Ancients -->
   <AncientsHostile.fixedName>ชนโบราณ</AncientsHostile.fixedName>
   <!-- EN: ancient -->
@@ -22,18 +22,18 @@
   <!-- EN: insects -->
   <Insect.label>ฝูงแมลง</Insect.label>
   <!-- EN: Sorne Geneline -->
-  <Insect.fixedName>ฝูงแมลง</Insect.fixedName>
+  <Insect.fixedName>สายยีนซอร์น</Insect.fixedName>
   <!-- EN: insect -->
   <Insect.pawnSingular>แมลง</Insect.pawnSingular>
   <!-- EN: insects -->
   <Insect.pawnsPlural>ฝูงแมลง</Insect.pawnsPlural>
   
   <!-- EN: mechanoid hive -->
-  <Mechanoid.label>รังเมคานอยด์</Mechanoid.label>
-  <Mechanoid.fixedName>รังเมคานอยด์</Mechanoid.fixedName>
+  <Mechanoid.label>รังเมคคานอยด์</Mechanoid.label>
+  <Mechanoid.fixedName>รังเมคคานอยด์</Mechanoid.fixedName>
   <!-- EN: mechanoid -->
-  <Mechanoid.pawnSingular>เมคานอยด์</Mechanoid.pawnSingular>
+  <Mechanoid.pawnSingular>เมคคานอยด์</Mechanoid.pawnSingular>
   <!-- EN: mechanoids -->
-  <Mechanoid.pawnsPlural>ฝูงเมคานอยด์</Mechanoid.pawnsPlural>
+  <Mechanoid.pawnsPlural>ฝูงเมคคานอยด์</Mechanoid.pawnsPlural>
   
 </LanguageData>
