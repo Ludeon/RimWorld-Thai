@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: extremely low -->
-  <ExtremelyLow.label>ต่ำสุดๆ</ExtremelyLow.label>
+  <ExtremelyLow.label>ต่ำสุด ๆ</ExtremelyLow.label>
   
   <!-- EN: high -->
   <High.label>สูง</High.label>
@@ -17,10 +17,10 @@
   <Noble.label>ขุนนาง</Noble.label>
   
   <!-- EN: royal -->
-  <Royal.label>ราชวงค์</Royal.label>
+  <Royal.label>ราชวงศ์</Royal.label>
   
   <!-- EN: sky high -->
-  <SkyHigh.label>สูงลิบ</SkyHigh.label>
+  <SkyHigh.label>สูงลิบลิ่ว</SkyHigh.label>
   
   <!-- EN: very low -->
   <VeryLow.label>ต่ำมาก</VeryLow.label>
