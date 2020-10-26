@@ -4,36 +4,36 @@
   <!-- EN: bomb -->
   <Bomb.label>ระเบิด</Bomb.label>
   <!-- EN: {0} has died in an explosion. -->
-  <Bomb.deathMessage>{0} เสียชีวิตในแรงระเบิด</Bomb.deathMessage>
+  <Bomb.deathMessage>{0} ตายในแรงระเบิด</Bomb.deathMessage>
   
   <!-- EN: bomb -->
-  <BombSuper.label>มหาระเบิด</BombSuper.label>
+  <BombSuper.label>ระเบิด</BombSuper.label>
   <!-- EN: {0} has died in an explosion. -->
-  <BombSuper.deathMessage>{0} เสียชีวิตในแรงระเบิด</BombSuper.deathMessage>
+  <BombSuper.deathMessage>{0} ตายในแรงระเบิด</BombSuper.deathMessage>
   
   <!-- EN: deterioration -->
   <Deterioration.label>เสื่อมสภาพ</Deterioration.label>
   <!-- EN: {0} has been killed. -->
-  <Deterioration.deathMessage>{0} ถึงแก่ความตายจากการเสื่อมสภาพ</Deterioration.deathMessage>
+  <Deterioration.deathMessage>{0} โดนฆ่า</Deterioration.deathMessage>
   
   <!-- EN: extinguish -->
   <Extinguish.label>ดับเพลิง</Extinguish.label>
   <!-- EN: {0} has been killed. -->
-  <Extinguish.deathMessage>{0} เสียชีวิตจากการดับเพลิง</Extinguish.deathMessage>
+  <Extinguish.deathMessage>{0} โดนฆ่า</Extinguish.deathMessage>
   
   <!-- EN: mining -->
   <Mining.label>ขุดเหมือง</Mining.label>
   <!-- EN: {0} has been killed. -->
-  <Mining.deathMessage>{0} เสียชีวิตจากการขุดเหมือง</Mining.deathMessage>
+  <Mining.deathMessage>{0} โดนฆ่า</Mining.deathMessage>
   
   <!-- EN: rotting -->
   <Rotting.label>เน่าเสีย</Rotting.label>
   <!-- EN: {0} has been killed. -->
-  <Rotting.deathMessage>{0} ถึงแก่ความตาย</Rotting.deathMessage>
+  <Rotting.deathMessage>{0} โดนฆ่า</Rotting.deathMessage>
   
   <!-- EN: smoke -->
   <Smoke.label>ควัน</Smoke.label>
   <!-- EN: {0} has been killed. -->
-  <Smoke.deathMessage>{0} สำลักควันจนถึงแก่ความตาย</Smoke.deathMessage>
+  <Smoke.deathMessage>{0} โดนฆ่า</Smoke.deathMessage>
   
 </LanguageData>

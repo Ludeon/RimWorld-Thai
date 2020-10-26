@@ -4,11 +4,11 @@
   <!-- EN: EMP -->
   <EMP.label>EMP</EMP.label>
   <!-- EN: {0} has been EMPed to death. -->
-  <EMP.deathMessage>{0} โดน EMP จนถึงแก่ความตาย</EMP.deathMessage>
+  <EMP.deathMessage>{0} โดน EMP ตาย</EMP.deathMessage>
   
   <!-- EN: stun -->
   <Stun.label>มึนงง</Stun.label>
   <!-- EN: {0} has been stunned to death. -->
-  <Stun.deathMessage>{0} ถึงแก่ความตายจากการหมดสติ</Stun.deathMessage>
+  <Stun.deathMessage>{0} โดนน็อคตาย</Stun.deathMessage>
   
 </LanguageData>
