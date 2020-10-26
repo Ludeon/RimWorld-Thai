@@ -9,7 +9,7 @@
   <!-- EN: Maximum number of player colonies -->
   <MaxNumberOfPlayerSettlements.label>จำนวนนิคมผู้เล่นสูงสุด</MaxNumberOfPlayerSettlements.label>
   <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\nPlaying with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\nWe recommend that you play with the one-colony maximum the game was designed for, at least for your first few games. -->
-  <MaxNumberOfPlayerSettlements.helpText>คำเตือน: ริมเวิลด์ถูกออกแบบมาให้เล่นกับนิคมผู้เล่นหนึ่งที่ในแต่ละครั้ง นิคมผู้เล่นหลายที่มีไว้เป็นฟีเจอร์ทดลองเท่านั้น\n\nการเล่นกับหลายนิคมจะทำให้เสียสมดุลในการเล่นและแบ่งแยกความสนใจของคุณ และเป็นไปได้ว่าจะทำให้เสียสมรรถนะได้\n\nเราแนะนำให้คุณเล่นกับนิคมสูงสุดเพียงหนึ่งที่ตามที่เกมถูกออกแบบมา อย่างน้อยสำหรับเกมแรก ๆ ของคุณ</MaxNumberOfPlayerSettlements.helpText>
+  <MaxNumberOfPlayerSettlements.helpText>คำเตือน: Rimworld ถูกออกแบบมาให้เล่นกับนิคมผู้เล่นหนึ่งที่ในแต่ละครั้ง นิคมผู้เล่นหลายที่มีไว้เป็นฟีเจอร์ทดลองเท่านั้น\n\nการเล่นกับหลายนิคมจะทำให้เสียสมดุลในการเล่นและแบ่งแยกความสนใจของคุณ และเป็นไปได้ว่าจะทำให้เสียสมรรถนะได้\n\nเราแนะนำให้คุณเล่นกับนิคมสูงสุดเพียงหนึ่งที่ตามที่เกมถูกออกแบบมา อย่างน้อยสำหรับเกมแรก ๆ ของคุณ</MaxNumberOfPlayerSettlements.helpText>
   
   <!-- EN: Flick designations only designate -->
   <SwitchFlickingDesignation.label>ตัวกำหนดกดเพียงแค่กำหนด</SwitchFlickingDesignation.label>
