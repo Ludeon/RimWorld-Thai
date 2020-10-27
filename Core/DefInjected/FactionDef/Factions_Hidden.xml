@@ -2,22 +2,22 @@
 <LanguageData>
   
   <!-- EN: neutral ancients -->
-  <Ancients.label>ชนโบราณเป็นกลาง</Ancients.label>
+  <Ancients.label>ชาวโบราณเป็นกลาง</Ancients.label>
   <!-- EN: Ancients -->
-  <Ancients.fixedName>ชนโบราณ</Ancients.fixedName>
+  <Ancients.fixedName>ชาวโบราณ</Ancients.fixedName>
   <!-- EN: ancient -->
-  <Ancients.pawnSingular>ชนโบราณ</Ancients.pawnSingular>
+  <Ancients.pawnSingular>ชาวโบราณ</Ancients.pawnSingular>
   <!-- EN: ancients -->
-  <Ancients.pawnsPlural>เหล่าชนโบราณ</Ancients.pawnsPlural>
+  <Ancients.pawnsPlural>เหล่าชาวโบราณ</Ancients.pawnsPlural>
   
   <!-- EN: hostile ancients -->
-  <AncientsHostile.label>ชนโบราณศัตรู</AncientsHostile.label>
+  <AncientsHostile.label>ชาวโบราณศัตรู</AncientsHostile.label>
   <!-- EN: Ancients -->
-  <AncientsHostile.fixedName>ชนโบราณ</AncientsHostile.fixedName>
+  <AncientsHostile.fixedName>ชาวโบราณ</AncientsHostile.fixedName>
   <!-- EN: ancient -->
-  <AncientsHostile.pawnSingular>ชนโบราณ</AncientsHostile.pawnSingular>
+  <AncientsHostile.pawnSingular>ชาวโบราณ</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->
-  <AncientsHostile.pawnsPlural>เหล่าชนโบราณ</AncientsHostile.pawnsPlural>
+  <AncientsHostile.pawnsPlural>เหล่าชาวโบราณ</AncientsHostile.pawnsPlural>
   
   <!-- EN: insects -->
   <Insect.label>ฝูงแมลง</Insect.label>

@@ -2,31 +2,31 @@
 <LanguageData>
   
   <!-- EN: civil outlander union -->
-  <OutlanderCivil.label>สหภาพอารยะชาวต่างด้าว</OutlanderCivil.label>
+  <OutlanderCivil.label>สหภาพชาวต่างโลกศิวิไลซ์</OutlanderCivil.label>
   <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group holds civil behavior in high regard. -->
-  <OutlanderCivil.description>คนเหล่านี้อาศัยอยู่ที่นี่มานานเป็นสิบปี หรือศตวรรษ และสูญเสียเทคโนโลยีส่วนใหญ่ที่นำพวกเขามาที่โลกนี้ไปหมดแล้ว พวกเขาทำงานกับเครื่องจักรง่ายๆ ป้องกันตนเองด้วยอาวุธดินปืนระดับสูง\n\nพวกเขาเกี่ยวข้องสนใจกับการกับสิ่งที่ใช้ได้จริง ไม่ว่าในด้านแลกเปลื่ยน ความเชื่อใจ และเอาชีวิตรอด\n\nกล่าวถึงกลุ่มนี้ ให้ความนับถือพฤติกรรมที่มีอารยธรรมเป็ยอย่างสูง</OutlanderCivil.description>
+  <OutlanderCivil.description>ผู้คนเหล่านี้อาศัยอยู่ที่นี่มานานหลายสิบหลายร้อยปี และได้สูญเสียเทคโนโลยีที่พวกเขานำมาบนโลกใบนี้แทบทั้งหมดไปแล้ว พวกเขามักจะใช้งานเครื่องจักรกลเรียบง่ายและป้องกันตัวเองด้วยอาวุธดินปืนขั้นสูง\n\nพวกเขาสนใจเรื่องเป็นประโยชน์อย่างการค้าขาย ความเชื่อใจ และการเอาตัวรอด\n\nกลุ่มนี้โดยเฉพาะนับถือพฤติกรรมศิวิไลซ์เป็นอย่างสูง</OutlanderCivil.description>
   <!-- EN: prime councilor -->
-  <OutlanderCivil.leaderTitle>องคมนตรี</OutlanderCivil.leaderTitle>
+  <OutlanderCivil.leaderTitle>นายกสภา</OutlanderCivil.leaderTitle>
   <!-- EN: outlander -->
-  <OutlanderCivil.pawnSingular>ชาวต่างด้าว</OutlanderCivil.pawnSingular>
+  <OutlanderCivil.pawnSingular>ชาวต่างโลก</OutlanderCivil.pawnSingular>
   <!-- EN: outlanders -->
-  <OutlanderCivil.pawnsPlural>เหล่าชาวต่างด้าว</OutlanderCivil.pawnsPlural>
+  <OutlanderCivil.pawnsPlural>เหล่าชาวต่างโลก</OutlanderCivil.pawnsPlural>
   
   <!-- EN: rough outlander union -->
-  <OutlanderRough.label>สหภาพอันธพาลชาวต่างด้าว</OutlanderRough.label>
+  <OutlanderRough.label>สหภาพชาวต่างโลกอันธพาล</OutlanderRough.label>
   <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group has a streak of barbarity in them. -->
-  <OutlanderRough.description>คนเหล่านี้อาศัยอยู่ที่นี่มานานเป็นสิบปี หรือศตวรรษ และสูญเสียเทคโนโลยีส่วนใหญ่ที่นำพวกเขามาที่โลกนี้ไปหมดแล้ว พวกเขาทำงานกับเครื่องจักรง่ายๆ ป้องกันตนเองด้วยอาวุธดินปืนระดับสูง\n\nพวกเขาเกี่ยวข้องสนใจกับการกับสิ่งที่ใช้ได้จริง ไม่ว่าในด้านแลกเปลื่ยน ความเชื่อใจ และเอาชีวิตรอด\n\nกล่าวถึงกลุ่มนี้ นับถือแนวทางความป่าเถื่อนในตัวตน</OutlanderRough.description>
+  <OutlanderRough.description>ผู้คนเหล่านี้อาศัยอยู่ที่นี่มานานหลายสิบหลายร้อยปี และได้สูญเสียเทคโนโลยีที่พวกเขานำมาบนโลกใบนี้แทบทั้งหมดไปแล้ว พวกเขามักจะใช้งานเครื่องจักรกลเรียบง่ายและป้องกันตัวเองด้วยอาวุธดินปืนขั้นสูง\n\nพวกเขาสนใจเรื่องเป็นประโยชน์อย่างการค้าขาย ความเชื่อใจ และการเอาตัวรอด\n\nกลุ่มนี้โดยเฉพาะมีความป่าเถื่อนอยู่ในตัว</OutlanderRough.description>
   <!-- EN: prime councilor -->
-  <OutlanderRough.leaderTitle>องคมนตรี</OutlanderRough.leaderTitle>
+  <OutlanderRough.leaderTitle>นายกสภา</OutlanderRough.leaderTitle>
   <!-- EN: outlander -->
-  <OutlanderRough.pawnSingular>ชาวต่างด้าว</OutlanderRough.pawnSingular>
+  <OutlanderRough.pawnSingular>ชาวต่างโลก</OutlanderRough.pawnSingular>
   <!-- EN: outlanders -->
-  <OutlanderRough.pawnsPlural>เหล่าชาวต่างด้าว</OutlanderRough.pawnsPlural>
+  <OutlanderRough.pawnsPlural>เหล่าชาวต่างโลก</OutlanderRough.pawnsPlural>
   
   <!-- EN: pirate band -->
   <Pirate.label>กลุ่มโจรสลัด</Pirate.label>
   <!-- EN: A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
-  <Pirate.description>การรวมกลุ่มกันหลวมๆของแก๊งค์โจร ผู้ซึ่งตกลงกันว่าส่วนใหญ่ควรสู้กับคนนอกดีกว่ารบกันเอง\n\nโจรสลัดไม่ไถหว่าน พวกเขาไม่สร้าง และไม่ค่อยซื้อขายแลกเปลี่ยน ผลักดันโดยวัฒนธรรมคาวเลือดและเกียรติยศซึ่งให้ค่าความแข็งแกร่งส่วนบุคคลและความอำมหิต พวกเขากอบโกยด้วยการปล้นและจี้เพื่อนบ้านที่มีผลผลิตมากกว่า\n\nระดับเทคโนโลยีของพวกเขาส่วนใหญ่ ขึ้นอยู่กับว่าสามารถไปปล้นใครมาได้ล่าสุดบ้าง ส่วนมากเลือกถืออาวุธดินปืน แต่ก็มีบ้างที่นิยมแทงเหยื่อในระยะประชิด</Pirate.description>
+  <Pirate.description>สมาพันธ์แก๊งโจรสลัดที่ตกลงกันแล้วว่าส่วนใหญ่จะสู้กับคนภายนอกแทนพวกเดียวกันเอง\n\nโจรสลัดไม่หว่านเมล็ด ไม่ก่อสร้าง และนาน ๆ ทีจะค้าขาย กับวัฒนธรรมเลือดเกียรติยศที่เน้นคุณค่าไว้ที่ความแข็งแกร่งของบุคคลและความอำมหิต พวกเขากอบโกยโดยการบุกปล้นชิงทรัพย์จากเหล่าเพื่อนบ้านที่ขยันขันแข็งกว่า\n\nระดับเทคโนโลยีของพวกเขาส่วนใหญ่ขึ้นอยู่กับว่าพวกเขาขโมยอะไรมาได้เมื่อไม่นานมานี้ โดยส่วนใหญ่จะพกอาวุธดินปืนกัน แต่ก็มีบ้างที่ชอบเข้าไปแทงเหยื่อในระยะประชิด</Pirate.description>
   <!-- EN: boss -->
   <Pirate.leaderTitle>บอส</Pirate.leaderTitle>
   <!-- EN: pirate -->
@@ -35,32 +35,32 @@
   <Pirate.pawnsPlural>เหล่าโจรสลัด</Pirate.pawnsPlural>
   
   <!-- EN: gentle tribe -->
-  <TribeCivil.label>เผ่าชนอ่อนโยน</TribeCivil.label>
+  <TribeCivil.label>ชนเผ่าอ่อนโยน</TribeCivil.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe pursues a gentle way of life where they can. They are quite open to trade and alliances, even with strange peoples. -->
-  <TribeCivil.description>คนเหล่านี้อยู่ที่นี่มาเป็นเวลานาน บางทีบรรพบุรุษของพวกเขาอาจตกลงมาที่นี่เมื่อหลายพันปีก่อน บางทีพวกเขาอาจมีชีวิตรอดผ่านวินาศภัย ซึ่งทำลายล้างอารยธรรมและความก้าวหน้าทางเทคโนโลยีอันเคยอยู่ที่นี่ ไม่ว่าอย่างไรก็ตาม เผ่าชนส่วนใหญ่ประกอบไปด้วยพวกเร่ร่อน ใช้ชีวิตอยู่อาศัยด้วยเครื่องมือและอาวุธล้าหลัง\n\nกระนั้นแม้มีจุดอ่อนชัดด้านเทคโนโลยี เผ่าชนนี้อาจเป็นได้ทั้งศัตรูอันตรายหรือมิตรอันมีค่า เนื่องจากทักษะด้านการสงครามด้วยของโลว์เทค จำนวนคน และความทรหดของพวกเขา\n\nเผ่าชนเผ่านี้มุ่งแสวงหาหนทางในการใช้ชีวิตอย่างอ่อนโยนเท่าที่เป็นไปได้ พวกเขาค่อนข้างเปิดกว่าในการแลกเปลื่ยนและร่วมมือเป็นมิตร แม้กระทั่งกับคนแปลกหน้า</TribeCivil.description>
+  <TribeCivil.description>ผู้คนเหล่านี้อยู๋ที่นี่กันมาเป็นเวลานานมากแล้ว บรรพบุรุษของพวกเขาคงยานตกลงมาที่นี่สักหลายพันปีก่อน พวกเขาคงรอดจากหายนะครั้งใหญ่ที่ทำลายอารยธรรมที่มีเทคโนโลยีของที่นี่ลงไป ไม่ว่าจะเป็นกรณีไหนก็ตาม ชาวเผ่าส่วนใหญ่เป็นคนเร่ร่อนที่อาหารด้วยตนเองโดยใช้เครื่องมือและอาวุธดึกดำบรรพ์\n\nถึงแม้ว่าจะมีปมด้อยทางด้านเทคโนโลยี ชาวเผ่าสามารถเป็นศัตรูที่อันตรายหรือมิตรอันมีค่าได้จากทักษะในการสู้รบเทคโนโลยีระดับต่ำ จำนวนคน และความทนทานของพวกเขา\n\nเผ่านี้โดยเฉพาะมุ่งเน้นอยู่กับวิถีชีวิตที่อ่อนโยน พวกเขาเปิดใจยอมรับการค้าขายและการเป็นพันธมิตรพอสมควร ถึงแม้จะเป็นกับคนแปลก ๆ ก็ตาม</TribeCivil.description>
   <!-- EN: chief -->
   <TribeCivil.leaderTitle>หัวหน้าเผ่า</TribeCivil.leaderTitle>
   <!-- EN: tribesman -->
-  <TribeCivil.pawnSingular>ชนเผ่า</TribeCivil.pawnSingular>
+  <TribeCivil.pawnSingular>ชาวเผ่า</TribeCivil.pawnSingular>
   <!-- EN: tribespeople -->
-  <TribeCivil.pawnsPlural>เหล่าชนเผ่า</TribeCivil.pawnsPlural>
+  <TribeCivil.pawnsPlural>เหล่าชาวเผ่า</TribeCivil.pawnsPlural>
   
   <!-- EN: fierce tribe -->
-  <TribeRough.label>เผ่าชนป่าเถื่อน</TribeRough.label>
+  <TribeRough.label>ชนเผ่ารุนแรง</TribeRough.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe values warlike dominance; it may be difficult to turn them into an ally. -->
-  <TribeRough.description>คนเหล่านี้อยู่ที่นี่มาเป็นเวลานาน บางทีบรรพบุรุษของพวกเขาอาจตกลงมาที่นี่เมื่อหลายพันปีก่อน บางทีพวกเขาอาจมีชีวิตรอดผ่านวินาศภัย ซึ่งทำลายล้างอารยธรรมและความก้าวหน้าทางเทคโนโลยีอันเคยอยู่ที่นี่ ไม่ว่าอย่างไรก็ตาม เผ่าชนส่วนใหญ่ประกอบไปด้วยพวกเร่ร่อน ใช้ชีวิตอยู่อาศัยด้วยเครื่องมือและอาวุธล้าหลัง\n\nกระนั้นแม้มีจุดอ่อนชัดด้านเทคโนโลยี เผ่าชนนี้อาจเป็นได้ทั้งศัตรูอันตรายหรือมิตรอันมีค่า เนื่องจากทักษะด้านการสงครามด้วยของโลว์เทค จำนวนคน และความทรหดของพวกเขา\n\nเผ่าชนเผ่านี้ให้คุณค่าการปกครองด้วยการทำสงคราม อาจจะอยากหน่อยในการเปลื่ยนพวกเขาให้เป็นมิตร</TribeRough.description>
+  <TribeRough.description>ผู้คนเหล่านี้อยู๋ที่นี่กันมาเป็นเวลานานมากแล้ว บรรพบุรุษของพวกเขาคงยานตกลงมาที่นี่สักหลายพันปีก่อน พวกเขาคงรอดจากหายนะครั้งใหญ่ที่ทำลายอารยธรรมที่มีเทคโนโลยีของที่นี่ลงไป ไม่ว่าจะเป็นกรณีไหนก็ตาม ชาวเผ่าส่วนใหญ่เป็นคนเร่ร่อนที่อาหารด้วยตนเองโดยใช้เครื่องมือและอาวุธดึกดำบรรพ์\n\nถึงแม้ว่าจะมีปมด้อยทางด้านเทคโนโลยี ชาวเผ่าสามารถเป็นศัตรูที่อันตรายหรือมิตรอันมีค่าได้จากทักษะในการสู้รบเทคโนโลยีระดับต่ำ จำนวนคน และความทนทานของพวกเขา\n\nเผ่านี้โดยเฉพาะเน้นการครอบงำผ่านศึกสงคราม การเปลี่ยนให้พวกเขากลายเป็นมิตรนั้นอาจเป็นไปได้ยาก</TribeRough.description>
   <!-- EN: tribesman -->
-  <TribeRough.pawnSingular>ชนเผ่า</TribeRough.pawnSingular>
+  <TribeRough.pawnSingular>ชาวเผ่า</TribeRough.pawnSingular>
   <!-- EN: tribespeople -->
-  <TribeRough.pawnsPlural>เหล่าชนเผ่า</TribeRough.pawnsPlural>
+  <TribeRough.pawnsPlural>เหล่าชาวเผ่า</TribeRough.pawnsPlural>
   
   <!-- EN: savage tribe -->
-  <TribeSavage.label>TODO</TribeSavage.label>
+  <TribeSavage.label>ชนเผ่าป่าเถื่อน</TribeSavage.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe is driven by a blood-and-honor culture; you will not be able to ally with them! -->
-  <TribeSavage.description>TODO</TribeSavage.description>
+  <TribeSavage.description>ผู้คนเหล่านี้อยู๋ที่นี่กันมาเป็นเวลานานมากแล้ว บรรพบุรุษของพวกเขาคงยานตกลงมาที่นี่สักหลายพันปีก่อน พวกเขาคงรอดจากหายนะครั้งใหญ่ที่ทำลายอารยธรรมที่มีเทคโนโลยีของที่นี่ลงไป ไม่ว่าจะเป็นกรณีไหนก็ตาม ชาวเผ่าส่วนใหญ่เป็นคนเร่ร่อนที่อาหารด้วยตนเองโดยใช้เครื่องมือและอาวุธดึกดำบรรพ์\n\nถึงแม้ว่าจะมีปมด้อยทางด้านเทคโนโลยี ชาวเผ่าสามารถเป็นศัตรูที่อันตรายได้จากทักษะในการสู้รบเทคโนโลยีระดับต่ำ จำนวนคน และความทนทานของพวกเขา\n\nเผ่านี้โดยเฉพาะมีวัฒนธรรมเลือดเกียรติยศ คุณไม่สามารถเป็นพันธมิตรกับพวกเขาได้นะ!</TribeSavage.description>
   <!-- EN: tribesman -->
-  <TribeSavage.pawnSingular>TODO</TribeSavage.pawnSingular>
+  <TribeSavage.pawnSingular>ชาวเผ่า</TribeSavage.pawnSingular>
   <!-- EN: tribespeople -->
-  <TribeSavage.pawnsPlural>TODO</TribeSavage.pawnsPlural>
+  <TribeSavage.pawnsPlural>เหล่าชาวเผ่า</TribeSavage.pawnsPlural>
   
 </LanguageData>
