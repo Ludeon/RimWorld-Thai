@@ -5,14 +5,14 @@
   <MarriageCeremony.label>พิธีแต่งงาน</MarriageCeremony.label>
   
   <!-- EN: party -->
-  <Party.label>ปาตี้</Party.label>
+  <Party.label>งานปาร์ตี้</Party.label>
   <!-- EN: The party has been called off. -->
-  <Party.calledOffMessage>ปาตี้ถูกยกเลิกไป</Party.calledOffMessage>
+  <Party.calledOffMessage>งานปาร์ตี้ได้ถูกยกเลิก</Party.calledOffMessage>
   <!-- EN: The party has finished. -->
-  <Party.finishedMessage>ปาตี้เสร็จสิ้น</Party.finishedMessage>
+  <Party.finishedMessage>งานปาร์ตี้ได้จบลง</Party.finishedMessage>
   <!-- EN: {ORGANIZER_labelShort} is throwing a party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost. -->
-  <Party.letterText>{ORGANIZER_labelShort} จัดงานปาตี้! ทุกคนที่ไปจะได้ผลคลาย ได้พลังงานทางสังคม และบูสอารมณ์ทางบวกไปอีกยาว</Party.letterText>
+  <Party.letterText>{ORGANIZER_labelShort} กำลังจัดงานปาร์ตี้! ทุกคนที่ไปร่วมงานจะได้รับแรงนันทนาการและสังคม กับอารมณ์ที่ดีขึ้นไปอีกนาน</Party.letterText>
   <!-- EN: Party -->
-  <Party.letterTitle>TODO</Party.letterTitle>
+  <Party.letterTitle>งานปาร์ตี้</Party.letterTitle>
   
 </LanguageData>
