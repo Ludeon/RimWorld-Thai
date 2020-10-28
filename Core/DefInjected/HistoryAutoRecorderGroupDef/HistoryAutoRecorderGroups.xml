@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: colonist mood -->
-  <ColonistMood.label>อารมณ์ของชาวนิคม</ColonistMood.label>
+  <ColonistMood.label>อารมณ์ชาวนิคม</ColonistMood.label>
   
   <!-- EN: debug -->
-  <Debug.label>Debug</Debug.label>
+  <Debug.label>ดีบั๊ก</Debug.label>
   
   <!-- EN: population -->
-  <Population.label>จำนวนประชากร</Population.label>
+  <Population.label>ประชากร</Population.label>
   
   <!-- EN: wealth -->
-  <Wealth.label>ความมั่งคั่งร่ำรวย</Wealth.label>
+  <Wealth.label>ความมั่งคั่ง</Wealth.label>
   
 </LanguageData>
