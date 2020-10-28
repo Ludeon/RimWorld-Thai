@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: recovery -->
-  <Adaptation.label>Recovery</Adaptation.label>
+  <Adaptation.label>การฟื้นตัว</Adaptation.label>
   <Adaptation.graphLabelY>วัน</Adaptation.graphLabelY>
   <!-- EN: {0} days -->
-  <Adaptation.valueFormat>TODO</Adaptation.valueFormat>
+  <Adaptation.valueFormat>{0} วัน</Adaptation.valueFormat>
   
   <!-- EN: mood -->
   <ColonistMood.label>อารมณ์</ColonistMood.label>
@@ -16,29 +16,29 @@
   <FreeColonists.graphLabelY>ชาวนิคม</FreeColonists.graphLabelY>
   
   <!-- EN: pop recovery -->
-  <PopAdaptation.label>Pop recovery</PopAdaptation.label>
+  <PopAdaptation.label>การฟื้นตัวประชากร</PopAdaptation.label>
   <PopAdaptation.graphLabelY>วัน</PopAdaptation.graphLabelY>
   <!-- EN: {0} days -->
-  <PopAdaptation.valueFormat>TODO</PopAdaptation.valueFormat>
+  <PopAdaptation.valueFormat>{0} วัน</PopAdaptation.valueFormat>
   
   <!-- EN: pop intent x10 -->
-  <PopIntent.label>Pop intent x10</PopIntent.label>
+  <PopIntent.label>ประชากรประสงค์ x10</PopIntent.label>
   <PopIntent.graphLabelY>วัน</PopIntent.graphLabelY>
   <!-- EN: {0} days -->
-  <PopIntent.valueFormat>TODO</PopIntent.valueFormat>
+  <PopIntent.valueFormat>{0} วัน</PopIntent.valueFormat>
   
   <!-- EN: prisoners -->
   <Prisoners.label>นักโทษ</Prisoners.label>
   <Prisoners.graphLabelY>นักโทษ</Prisoners.graphLabelY>
   
   <!-- EN: fun points /10 -->
-  <ThreatPoints.label>Fun points /10</ThreatPoints.label>
-  <ThreatPoints.graphLabelY>คะแนน</ThreatPoints.graphLabelY>
+  <ThreatPoints.label>แต้มสนุก /10</ThreatPoints.label>
+  <ThreatPoints.graphLabelY>แต้ม</ThreatPoints.graphLabelY>
   <!-- EN: {0} points -->
-  <ThreatPoints.valueFormat>TODO</ThreatPoints.valueFormat>
+  <ThreatPoints.valueFormat>{0} แต้ม</ThreatPoints.valueFormat>
   
   <!-- EN: wealth (buildings) -->
-  <Wealth_Buildings.label>ความมั่งคั่ง (สิ่งปลูกสร้าง)</Wealth_Buildings.label>
+  <Wealth_Buildings.label>ความมั่งคั่ง (อาคาร)</Wealth_Buildings.label>
   <Wealth_Buildings.graphLabelY>จำนวน</Wealth_Buildings.graphLabelY>
   
   <!-- EN: wealth (items) -->
@@ -46,7 +46,7 @@
   <Wealth_Items.graphLabelY>จำนวน</Wealth_Items.graphLabelY>
   
   <!-- EN: wealth (creatures) -->
-  <Wealth_Pawns.label>ความมั่งคั่ง (สิ่งมีชีวิต)</Wealth_Pawns.label>
+  <Wealth_Pawns.label>ความมั่งคั่ง (สัตว์)</Wealth_Pawns.label>
   <Wealth_Pawns.graphLabelY>จำนวน</Wealth_Pawns.graphLabelY>
   
   <!-- EN: wealth (total) -->
