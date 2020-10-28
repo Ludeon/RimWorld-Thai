@@ -2,61 +2,61 @@
 <LanguageData>
   
   <!-- EN: bionic arm -->
-  <BionicArm.label>แขนเทียมชีวกล</BionicArm.label>
+  <BionicArm.label>แขนชีวกล</BionicArm.label>
   <!-- EN: An installed bionic arm. -->
-  <BionicArm.description>TODO</BionicArm.description>
+  <BionicArm.description>แขนชีวกลที่ติดตั้งไว้</BionicArm.description>
   <!-- EN: fist -->
   <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>กำปั้น</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: a bionic arm -->
-  <BionicArm.labelNoun>แขนเทียมชีวกล</BionicArm.labelNoun>
+  <BionicArm.labelNoun>แขนชีวกล</BionicArm.labelNoun>
   
   <!-- EN: bionic ear -->
-  <BionicEar.label>หูเทียมชีวกล</BionicEar.label>
+  <BionicEar.label>หูชีวกล</BionicEar.label>
   <!-- EN: An installed bionic ear. -->
-  <BionicEar.description>TODO</BionicEar.description>
+  <BionicEar.description>หูชีวกลที่ติดตั้งไว้</BionicEar.description>
   <!-- EN: a bionic ear -->
-  <BionicEar.labelNoun>หูเทียมชีวกล</BionicEar.labelNoun>
+  <BionicEar.labelNoun>หูชีวกล</BionicEar.labelNoun>
   
   <!-- EN: bionic eye -->
-  <BionicEye.label>ตาเทียมชีวกล</BionicEye.label>
+  <BionicEye.label>ตาชีวกล</BionicEye.label>
   <!-- EN: An installed bionic eye. -->
-  <BionicEye.description>TODO</BionicEye.description>
+  <BionicEye.description>ตาชีวกลที่ติดตั้งไว้</BionicEye.description>
   <!-- EN: a bionic eye -->
-  <BionicEye.labelNoun>ตาเทียมชีวกล</BionicEye.labelNoun>
+  <BionicEye.labelNoun>ตาชีวกล</BionicEye.labelNoun>
   
   <!-- EN: bionic heart -->
-  <BionicHeart.label>หัวใจเทียมชีวกล</BionicHeart.label>
+  <BionicHeart.label>หัวใจชีวกล</BionicHeart.label>
   <!-- EN: An installed bionic heart. -->
-  <BionicHeart.description>TODO</BionicHeart.description>
+  <BionicHeart.description>หัวใจชีวกลที่ติดตั้งไว้</BionicHeart.description>
   <!-- EN: a bionic heart -->
-  <BionicHeart.labelNoun>หัวใจเทียมชีวกล</BionicHeart.labelNoun>
+  <BionicHeart.labelNoun>หัวใจชีวกล</BionicHeart.labelNoun>
   
   <!-- EN: bionic leg -->
-  <BionicLeg.label>ขาเทียมชีวกล</BionicLeg.label>
+  <BionicLeg.label>ขาชีวกล</BionicLeg.label>
   <!-- EN: An installed bionic leg. -->
-  <BionicLeg.description>TODO</BionicLeg.description>
+  <BionicLeg.description>ขาชีวกลที่ติดตั้งไว้</BionicLeg.description>
   <!-- EN: a bionic leg -->
-  <BionicLeg.labelNoun>ขาเทียมชีวกล</BionicLeg.labelNoun>
+  <BionicLeg.labelNoun>ขาชีวกล</BionicLeg.labelNoun>
   
   <!-- EN: bionic spine -->
-  <BionicSpine.label>กระดูกสันหลังเทียมชีวกล</BionicSpine.label>
+  <BionicSpine.label>สันหลังชีวกล</BionicSpine.label>
   <!-- EN: An installed bionic spine. -->
-  <BionicSpine.description>TODO</BionicSpine.description>
+  <BionicSpine.description>สันหลังชีวกลที่ติดตั้งไว้</BionicSpine.description>
   <!-- EN: a bionic spine -->
-  <BionicSpine.labelNoun>กระดูกสันหลังเทียมชีวกล</BionicSpine.labelNoun>
+  <BionicSpine.labelNoun>สันหลังชีวกล</BionicSpine.labelNoun>
   
   <!-- EN: bionic stomach -->
-  <BionicStomach.label>กระเพาะเทียมชีวกล</BionicStomach.label>
+  <BionicStomach.label>กระเพาะชีวกล</BionicStomach.label>
   <!-- EN: An installed bionic stomach. -->
-  <BionicStomach.description>TODO</BionicStomach.description>
+  <BionicStomach.description>กระเพาะชีวกลที่ติดตั้งไว้</BionicStomach.description>
   <!-- EN: a bionic stomach -->
-  <BionicStomach.labelNoun>กระเพาะเทียมชีวกล</BionicStomach.labelNoun>
+  <BionicStomach.labelNoun>กระเพาะชีวกล</BionicStomach.labelNoun>
   
   <!-- EN: death acidifier -->
-  <DeathAcidifier.label>TODO</DeathAcidifier.label>
+  <DeathAcidifier.label>กรดมรณะ</DeathAcidifier.label>
   <!-- EN: An installed death acidifier. -->
-  <DeathAcidifier.description>TODO</DeathAcidifier.description>
+  <DeathAcidifier.description>กรดมรณะที่ติดตั้งไว้</DeathAcidifier.description>
   <!-- EN: a death acidifier -->
-  <DeathAcidifier.labelNoun>TODO</DeathAcidifier.labelNoun>
+  <DeathAcidifier.labelNoun>กรดมรณะ</DeathAcidifier.labelNoun>
   
 </LanguageData>

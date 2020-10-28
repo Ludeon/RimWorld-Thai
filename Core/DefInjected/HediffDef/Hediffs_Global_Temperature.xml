@@ -4,46 +4,46 @@
   <!-- EN: heatstroke -->
   <Heatstroke.label>ลมแดด</Heatstroke.label>
   <!-- EN: A generalized disruption to body functioning caused by excessive exposure to heat and sun. The victim becomes dizzy, weak, and confused. Recovery is quick once in a cool area, but if heat exposure continues, heat stroke gets worse until death. -->
-  <Heatstroke.description>TODO</Heatstroke.description>
+  <Heatstroke.description>การรบกวนการทำงานของร่างกายโดยทั่วที่เกิดจากการอาบความร้อนและแสงอาทิตย์มากเกินไป ผู้รับเคราะห์รู้สึกวิงเวียน อ่อนแรง และสับสน การฟื้นตัวนั้นเร็วเมื่อเข้ามาอยู่ในพื้นที่เย็น แต่หากยังคงอาบความร้อนอยู่ อาการลมแดดจะแย่ลงจนถึงตาย</Heatstroke.description>
   <!-- EN: initial -->
-  <Heatstroke.stages.initial-0.label>นิดๆ</Heatstroke.stages.initial-0.label>
+  <Heatstroke.stages.initial-0.label>แรกเริ่ม</Heatstroke.stages.initial-0.label>
   <!-- EN: initial -->
   <Heatstroke.stages.initial-1.label>แรกเริ่ม</Heatstroke.stages.initial-1.label>
   <!-- EN: minor -->
   <Heatstroke.stages.minor.label>เล็กน้อย</Heatstroke.stages.minor.label>
   <!-- EN: serious -->
-  <Heatstroke.stages.serious.label>รุนแรง</Heatstroke.stages.serious.label>
+  <Heatstroke.stages.serious.label>สาหัส</Heatstroke.stages.serious.label>
   <!-- EN: extreme -->
-  <Heatstroke.stages.extreme.label>สาหัส</Heatstroke.stages.extreme.label>
+  <Heatstroke.stages.extreme.label>ร้ายแรง</Heatstroke.stages.extreme.label>
   
   <!-- EN: hypothermia -->
-  <Hypothermia.label>ภาวะตัวเย็นเกิน</Hypothermia.label>
+  <Hypothermia.label>ตัวเย็นเกิน</Hypothermia.label>
   <!-- EN: Dangerously low core body temperature. Unless re-warmed, hypothermia gets worse and ends in death. Recovery is quick once the victim is re-warmed. Avoid hypothermia by wearing warm clothes in cold environments. -->
-  <Hypothermia.description>TODO</Hypothermia.description>
+  <Hypothermia.description>อุณหภูมิแกนกลางร่างกายต่ำเข้าขีดอันตราย ถ้าไม่มาอุ่นตัวเอง อาการภาวะตัวเย็นเกินจะแย่ลงจนถึงตาย การฟื้นตัวนั้นเร็วเมื่อผู้รับเคราะห์กลับมาอุ่น หลีกเลี่ยงภาวะตัวเย็นเกินโดยสวมใส่เสื้อผ้าอบอุ่นในสภาพแวดล้อมหนาวเย็น</Hypothermia.description>
   <!-- EN: shivering -->
-  <Hypothermia.stages.shivering-0.label>สั่น</Hypothermia.stages.shivering-0.label>
+  <Hypothermia.stages.shivering-0.label>หนาวสั่น</Hypothermia.stages.shivering-0.label>
   <!-- EN: shivering -->
   <Hypothermia.stages.shivering-1.label>หนาวสั่น</Hypothermia.stages.shivering-1.label>
   <!-- EN: minor -->
   <Hypothermia.stages.minor.label>เล็กน้อย</Hypothermia.stages.minor.label>
   <!-- EN: serious -->
-  <Hypothermia.stages.serious.label>รุนแรง</Hypothermia.stages.serious.label>
+  <Hypothermia.stages.serious.label>สาหัส</Hypothermia.stages.serious.label>
   <!-- EN: extreme -->
-  <Hypothermia.stages.extreme.label>สาหัส</Hypothermia.stages.extreme.label>
+  <Hypothermia.stages.extreme.label>ร้ายแรง</Hypothermia.stages.extreme.label>
   
   <!-- EN: hypothermic slowdown -->
-  <HypothermicSlowdown.label>ภาวะช้าจากตัวเย็นเกิน</HypothermicSlowdown.label>
+  <HypothermicSlowdown.label>เฉื่อยจากตัวเย็นเกิน</HypothermicSlowdown.label>
   <!-- EN: A special biological state used by some creatures to survive extreme cold. Instead of trying to stay warm, the creature's body chemistry adapts to prevent internal freezing despite very low temperature. Bodily functions are slowed and capacities are reduced, but the cold does no permanent damage. Some biologists call it a wakeful form of hibernation. -->
-  <HypothermicSlowdown.description>TODO</HypothermicSlowdown.description>
+  <HypothermicSlowdown.description>สถานะทางชีวภาพพิเศษที่สัตว์บางตัวใช้เพื่อเอาตัวรอดในอากาศหนาวสุดขั้ว แทนที่จะพยายามทำตัวเองให้อุ่น เคมีร่างกายของสัตว์ตัวนั้นปรับตัวเพื่อไม่ให้เกิดการแข็งตัวภายในถึงแม้อุณหภูมิจะต่ำมากก็ตาม การทำงานของร่างกายช้าลง และความสามารถลดลง แต่ความหยาวเย็นไม่สร้างความเสียหายถาวรอะไร นักชีววิทยาบางคนเรียกมันว่าการจำศีลแบบตื่น</HypothermicSlowdown.description>
   <!-- EN: minor -->
-  <HypothermicSlowdown.stages.minor-0.label>นิดๆ</HypothermicSlowdown.stages.minor-0.label>
+  <HypothermicSlowdown.stages.minor-0.label>เล็กน้อย</HypothermicSlowdown.stages.minor-0.label>
   <!-- EN: minor -->
   <HypothermicSlowdown.stages.minor-1.label>เล็กน้อย</HypothermicSlowdown.stages.minor-1.label>
   <!-- EN: moderate -->
   <HypothermicSlowdown.stages.moderate.label>ปานกลาง</HypothermicSlowdown.stages.moderate.label>
   <!-- EN: serious -->
-  <HypothermicSlowdown.stages.serious.label>รุนแรง</HypothermicSlowdown.stages.serious.label>
+  <HypothermicSlowdown.stages.serious.label>สาหัส</HypothermicSlowdown.stages.serious.label>
   <!-- EN: extreme -->
-  <HypothermicSlowdown.stages.extreme.label>สาหัส</HypothermicSlowdown.stages.extreme.label>
+  <HypothermicSlowdown.stages.extreme.label>ร้ายแรง</HypothermicSlowdown.stages.extreme.label>
   
 </LanguageData>

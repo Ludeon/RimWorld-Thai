@@ -2,26 +2,26 @@
 <LanguageData>
   
   <!-- EN: archotech arm -->
-  <ArchotechArm.label>แขนเทียม Archotech</ArchotechArm.label>
+  <ArchotechArm.label>แขนอาร์โคเทค</ArchotechArm.label>
   <!-- EN: An installed archotech arm. -->
-  <ArchotechArm.description>TODO</ArchotechArm.description>
+  <ArchotechArm.description>แขนอาร์โคเทคที่ติดตั้งไว้</ArchotechArm.description>
   <!-- EN: fist -->
   <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>กำปั้น</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: an archotech arm -->
-  <ArchotechArm.labelNoun>แขนเทียม Archotech</ArchotechArm.labelNoun>
+  <ArchotechArm.labelNoun>แขนอาร์โคเทค</ArchotechArm.labelNoun>
   
   <!-- EN: archotech eye -->
-  <ArchotechEye.label>ตาเทียม Archotech</ArchotechEye.label>
+  <ArchotechEye.label>ตาอาร์โคเทค</ArchotechEye.label>
   <!-- EN: An installed archotech eye. -->
-  <ArchotechEye.description>TODO</ArchotechEye.description>
+  <ArchotechEye.description>ตาอาร์โคเทคที่ติดตั้งไว้</ArchotechEye.description>
   <!-- EN: an archotech eye -->
-  <ArchotechEye.labelNoun>ตาเทียม Archotech</ArchotechEye.labelNoun>
+  <ArchotechEye.labelNoun>ตาอาร์โคเทค</ArchotechEye.labelNoun>
   
   <!-- EN: archotech leg -->
-  <ArchotechLeg.label>ขาเทียม Archotech</ArchotechLeg.label>
+  <ArchotechLeg.label>ขาอาร์โคเทค</ArchotechLeg.label>
   <!-- EN: An installed archotech leg. -->
-  <ArchotechLeg.description>TODO</ArchotechLeg.description>
+  <ArchotechLeg.description>ขาอาร์โคเทคที่ติดตั้งไว้</ArchotechLeg.description>
   <!-- EN: an archotech leg -->
-  <ArchotechLeg.labelNoun>ขาเทียม Archotech</ArchotechLeg.labelNoun>
+  <ArchotechLeg.labelNoun>ขาอาร์โคเทค</ArchotechLeg.labelNoun>
   
 </LanguageData>

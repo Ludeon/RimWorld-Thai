@@ -2,26 +2,26 @@
 <LanguageData>
   
   <!-- EN: ambrosia addiction -->
-  <AmbrosiaAddiction.label>ติดกระยาทิพย์</AmbrosiaAddiction.label>
+  <AmbrosiaAddiction.label>ติดแอมโบรเซีย</AmbrosiaAddiction.label>
   <!-- EN: A chemical addiction to ambrosia. Long-term presence of ambrosia has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of ambrosia, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <AmbrosiaAddiction.description>TODO</AmbrosiaAddiction.description>
+  <AmbrosiaAddiction.description>ภาวะติดสารเคมีแอมโบรเซีย แอมโบรเซียในร่างกายระยะยาวทำให้เกิดการปรับตัวทางระบบประสาทในระดับเซลล์ สมองจึงไม่สามารถทำงานได้อย่างเหมาะสมหากขาดสารตัวนั้น\n\nหากไม่ได้รับแอมโบรเซียเป็นประจำ อาการลงแดงก็จะเริ่มขึ้น อย่างไรก็ตาม การงดเสพระยะยาวจะบังคับให้สมองปรับตัวกลับไปสภาพปกติ และจัดการกับการติดสารนี้</AmbrosiaAddiction.description>
   <!-- EN: withdrawal -->
   <AmbrosiaAddiction.stages.withdrawal.label>ลงแดง</AmbrosiaAddiction.stages.withdrawal.label>
   
   <!-- EN: ambrosia warmth -->
-  <AmbrosiaHigh.label>เมากระยาทิพย์</AmbrosiaHigh.label>
+  <AmbrosiaHigh.label>อุ่นแอมโบรเซีย</AmbrosiaHigh.label>
   <!-- EN: Ambrosia chemicals in the bloodstream. It lifts the mood. -->
-  <AmbrosiaHigh.description>TODO</AmbrosiaHigh.description>
+  <AmbrosiaHigh.description>สารเคมีแอมโบรเซียในกระแสเลือด มันทำให้อารมณ์ดีขึ้น</AmbrosiaHigh.description>
   
   <!-- EN: ambrosia tolerance -->
-  <AmbrosiaTolerance.label>ดื้อกระยาทิพย์</AmbrosiaTolerance.label>
+  <AmbrosiaTolerance.label>ดื้อแอมโบรเซีย</AmbrosiaTolerance.label>
   <!-- EN: A built-up tolerance to ambrosia. The more severe this tolerance is, the more ambrosia it takes to get the same effect. -->
-  <AmbrosiaTolerance.description>TODO</AmbrosiaTolerance.description>
+  <AmbrosiaTolerance.description>อาการดื้อแอมโบรเซียที่สั่งสมมา ยิ่งอาการนี้หนักเท่าไหร่ ก็ต้องยิ่งใช้แอมโบรเซียมากขึ้นเท่านั้นถึงจะได้ผลเช่นเดิม</AmbrosiaTolerance.description>
   <!-- EN: small -->
-  <AmbrosiaTolerance.stages.small.label>เล็กน้อย</AmbrosiaTolerance.stages.small.label>
+  <AmbrosiaTolerance.stages.small.label>น้อย</AmbrosiaTolerance.stages.small.label>
   <!-- EN: large -->
   <AmbrosiaTolerance.stages.large.label>มาก</AmbrosiaTolerance.stages.large.label>
   <!-- EN: massive -->
-  <AmbrosiaTolerance.stages.massive.label>รุนแรง</AmbrosiaTolerance.stages.massive.label>
+  <AmbrosiaTolerance.stages.massive.label>หนัก</AmbrosiaTolerance.stages.massive.label>
   
 </LanguageData>

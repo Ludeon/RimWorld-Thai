@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: psychite addiction -->
-  <PsychiteAddiction.label>ติดยา Psychite</PsychiteAddiction.label>
+  <PsychiteAddiction.label>ติดไซไคท์</PsychiteAddiction.label>
   <!-- EN: A chemical addiction to psychite. Long-term presence of psychite has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of psychite from drugs like flake or yayo, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <PsychiteAddiction.description>TODO</PsychiteAddiction.description>
+  <PsychiteAddiction.description>ภาวะติดสารเคมีไซไคท์ ไซไคท์ในร่างกายระยะยาวทำให้เกิดการปรับตัวทางระบบประสาทในระดับเซลล์ สมองจึงไม่สามารถทำงานได้อย่างเหมาะสมหากขาดสารตัวนั้น\n\nหากไม่ได้รับไซไคท์เป็นประจำ อาการลงแดงก็จะเริ่มขึ้น อย่างไรก็ตาม การงดเสพระยะยาวจะบังคับให้สมองปรับตัวกลับไปสภาพปกติ และจัดการกับการติดสารนี้</PsychiteAddiction.description>
   <!-- EN: withdrawal -->
   <PsychiteAddiction.stages.withdrawal.label>ลงแดง</PsychiteAddiction.stages.withdrawal.label>
   
   <!-- EN: psychite tolerance -->
-  <PsychiteTolerance.label>ดื้อยา Psychid</PsychiteTolerance.label>
+  <PsychiteTolerance.label>ดื้อไซไคท์</PsychiteTolerance.label>
   <!-- EN: A built-up tolerance to psychite. The more severe this tolerance is, the more psychite-based drugs like yayo or flake it takes to get the same effect. -->
-  <PsychiteTolerance.description>TODO</PsychiteTolerance.description>
+  <PsychiteTolerance.description>อาการดื้อไซไคท์ที่สั่งสมมา ยิ่งอาการนี้หนักเท่าไหร่ ก็ต้องยิ่งใช้ไซไคท์มากขึ้นเท่านั้นถึงจะได้ผลเช่นเดิม</PsychiteTolerance.description>
   <!-- EN: small -->
-  <PsychiteTolerance.stages.small.label>เล็กน้อย</PsychiteTolerance.stages.small.label>
+  <PsychiteTolerance.stages.small.label>น้อย</PsychiteTolerance.stages.small.label>
   <!-- EN: large -->
   <PsychiteTolerance.stages.large.label>มาก</PsychiteTolerance.stages.large.label>
   <!-- EN: massive -->
-  <PsychiteTolerance.stages.massive.label>รุนแรง</PsychiteTolerance.stages.massive.label>
+  <PsychiteTolerance.stages.massive.label>หนัก</PsychiteTolerance.stages.massive.label>
   
   <!-- EN: high on yayo -->
-  <YayoHigh.label>เมา Yayo</YayoHigh.label>
+  <YayoHigh.label>เมายาโย</YayoHigh.label>
   <!-- EN: Active yayo in the bloodstream. Generates an intense euphoric high. -->
-  <YayoHigh.description>TODO</YayoHigh.description>
+  <YayoHigh.description>ยาโยไหลเวียนในกระแสเลือด ทำให้เมาเคลื้มอย่างหนัก</YayoHigh.description>
   <!-- EN: a yayo high -->
-  <YayoHigh.labelNoun>เมา Yayo</YayoHigh.labelNoun>
+  <YayoHigh.labelNoun>เมายาโย</YayoHigh.labelNoun>
   
 </LanguageData>

@@ -2,120 +2,120 @@
 <LanguageData>
   
   <!-- EN: flu -->
-  <Animal_Flu.label>ไข้หวัดในสัตว์</Animal_Flu.label>
+  <Animal_Flu.label>ไข้หวัด</Animal_Flu.label>
   <!-- EN: An infectious disease caused by the influenza virus. This strain is adapted for infecting non-human species. -->
-  <Animal_Flu.description>TODO</Animal_Flu.description>
+  <Animal_Flu.description>โรคติดต่อที่เกิดจากไวรัสอินฟลูเอนซา สายพันธุ์นี้ปรับตัวติดกับสปีชีส์ที่ไม่ใช่คน</Animal_Flu.description>
   <!-- EN: minor -->
   <Animal_Flu.stages.minor.label>เล็กน้อย</Animal_Flu.stages.minor.label>
   <!-- EN: major -->
-  <Animal_Flu.stages.major.label>หนัก</Animal_Flu.stages.major.label>
+  <Animal_Flu.stages.major.label>อย่างอย่างหนัก</Animal_Flu.stages.major.label>
   <!-- EN: extreme -->
-  <Animal_Flu.stages.extreme.label>อันตราย</Animal_Flu.stages.extreme.label>
+  <Animal_Flu.stages.extreme.label>ร้ายแรง</Animal_Flu.stages.extreme.label>
   
   <!-- EN: plague -->
-  <Animal_Plague.label>โรคระบาดรุนแรงในสัตว์</Animal_Plague.label>
+  <Animal_Plague.label>กาฬโรค</Animal_Plague.label>
   <!-- EN: An infectious disease caused by bacteria. This strain is adapted to infecting non-human species. -->
-  <Animal_Plague.description>TODO</Animal_Plague.description>
+  <Animal_Plague.description>โรคติดต่อที่เกิดจากแบคทีเรีย สายพันธุ์นี้ปรับตัวติดกับสปีชีส์ที่ไม่ใช่คน</Animal_Plague.description>
   <!-- EN: minor -->
   <Animal_Plague.stages.minor.label>เล็กน้อย</Animal_Plague.stages.minor.label>
   <!-- EN: major -->
-  <Animal_Plague.stages.major.label>หนัก</Animal_Plague.stages.major.label>
+  <Animal_Plague.stages.major.label>อย่างหนัก</Animal_Plague.stages.major.label>
   <!-- EN: extreme -->
-  <Animal_Plague.stages.extreme-0.label>อันตราย</Animal_Plague.stages.extreme-0.label>
+  <Animal_Plague.stages.extreme-0.label>ร้ายแรง</Animal_Plague.stages.extreme-0.label>
   <!-- EN: extreme -->
-  <Animal_Plague.stages.extreme-1.label>สาหัส</Animal_Plague.stages.extreme-1.label>
+  <Animal_Plague.stages.extreme-1.label>ร้ายแรง</Animal_Plague.stages.extreme-1.label>
   
   <!-- EN: fibrous mechanites -->
-  <FibrousMechanites.label>พังผืดเมคคาไนท์</FibrousMechanites.label>
+  <FibrousMechanites.label>เยื่อเมคคาไนท์</FibrousMechanites.label>
   <!-- EN: Semi-coherent mechanites which develop fibrous links in muscle tissue. They enhance the victim's strength, but also cause intense pain. These are probably a mutated strain of strength-enhancing mechanites. -->
-  <FibrousMechanites.description>TODO</FibrousMechanites.description>
+  <FibrousMechanites.description>เมคคาไนท์กึ่งเกาะติดซึ่งสร้างเยื่อเชื่อมภายในเนื้อเยื่อกล้ามเนื้อ มันทำให้ผู้รับเคราะห์แข็งแกร่งขึ้น แต่ก็ทำให้เจ็บปวดอย่างมากด้วย พวกนี้คงเป็นสายพันธุ์เมคคาไนท์เสริมกำลังที่กลายพันธุ์ไป</FibrousMechanites.description>
   <!-- EN: mild pain -->
-  <FibrousMechanites.stages.mild_pain.label>เจ็บปวดเล็กน้อย</FibrousMechanites.stages.mild_pain.label>
+  <FibrousMechanites.stages.mild_pain.label>ปวดเล็กน้อย</FibrousMechanites.stages.mild_pain.label>
   <!-- EN: intense pain -->
-  <FibrousMechanites.stages.intense_pain.label>เจ็บปวดอย่างรุนแรง</FibrousMechanites.stages.intense_pain.label>
+  <FibrousMechanites.stages.intense_pain.label>ปวดอย่างมาก</FibrousMechanites.stages.intense_pain.label>
   
   <!-- EN: flu -->
-  <Flu.label>โรคไข้หวัดใหญ่</Flu.label>
+  <Flu.label>ไข้หวัด</Flu.label>
   <!-- EN: An infectious disease caused by the influenza virus. -->
-  <Flu.description>TODO</Flu.description>
+  <Flu.description>โรคติดต่อที่เกิดจากไวรัสอินฟลูเอนซา</Flu.description>
   <!-- EN: minor -->
   <Flu.stages.minor.label>เล็กน้อย</Flu.stages.minor.label>
   <!-- EN: major -->
-  <Flu.stages.major.label>หนัก</Flu.stages.major.label>
+  <Flu.stages.major.label>อย่างหนัก</Flu.stages.major.label>
   <!-- EN: extreme -->
-  <Flu.stages.extreme.label>อันตราย</Flu.stages.extreme.label>
+  <Flu.stages.extreme.label>ร้ายแรง</Flu.stages.extreme.label>
   
   <!-- EN: gut worms -->
-  <GutWorms.label>พยาธิในทางเดินอาหาร</GutWorms.label>
+  <GutWorms.label>หนอนลำไส้</GutWorms.label>
   <!-- EN: Parasitic worms in the gut. They cause vomiting. They also consume the victim's food, which increases hunger. -->
-  <GutWorms.description>TODO</GutWorms.description>
+  <GutWorms.description>หนอนพยาธิในลำไส้ ทำให้อาเจียน พวกมันกินอาหารของผู้รับเคราะห์ด้วย ซึ่งทำให้หิวกว่าเดิมอีก</GutWorms.description>
   
   <!-- EN: malaria -->
-  <Malaria.label>โรคมาลาเรีย</Malaria.label>
+  <Malaria.label>มาลาเรีย</Malaria.label>
   <!-- EN: An infectious disease caused by a mosquito-borne parasite. -->
-  <Malaria.description>TODO</Malaria.description>
+  <Malaria.description>โรคติดต่อที่เกิดจากปรสิตมียุงเป็นพาหะ</Malaria.description>
   <!-- EN: minor -->
   <Malaria.stages.minor.label>เล็กน้อย</Malaria.stages.minor.label>
   <!-- EN: major -->
-  <Malaria.stages.major.label>หนัก</Malaria.stages.major.label>
+  <Malaria.stages.major.label>อย่างหนัก</Malaria.stages.major.label>
   <!-- EN: extreme -->
-  <Malaria.stages.extreme.label>อันตราย</Malaria.stages.extreme.label>
+  <Malaria.stages.extreme.label>ร้ายแรง</Malaria.stages.extreme.label>
   
   <!-- EN: muscle parasites -->
-  <MuscleParasites.label>ปรสิตในกล้ามเนื้อ</MuscleParasites.label>
+  <MuscleParasites.label>ปรสิตกล้ามเนื้อ</MuscleParasites.label>
   <!-- EN: Parasitic creatures in the muscles. These cause weakness and a lack of coordination. -->
-  <MuscleParasites.description>TODO</MuscleParasites.description>
+  <MuscleParasites.description>ปรสิตภายในกล้ามเนื้อ ทำให้อ่อนแรงและขาดการประสานสั่งการ</MuscleParasites.description>
   
   <!-- EN: plague -->
-  <Plague.label>โรคระบาดรุนแรง</Plague.label>
+  <Plague.label>กาฬโรค</Plague.label>
   <!-- EN: An infectious disease caused by bacteria. -->
-  <Plague.description>TODO</Plague.description>
+  <Plague.description>โรคติดต่อที่เกิดจากแบคทีเรีย</Plague.description>
   <!-- EN: minor -->
   <Plague.stages.minor.label>เล็กน้อย</Plague.stages.minor.label>
   <!-- EN: major -->
-  <Plague.stages.major.label>หนัก</Plague.stages.major.label>
+  <Plague.stages.major.label>อย่างหนัก</Plague.stages.major.label>
   <!-- EN: extreme -->
-  <Plague.stages.extreme-0.label>อันตราย</Plague.stages.extreme-0.label>
+  <Plague.stages.extreme-0.label>ร้ายแรง</Plague.stages.extreme-0.label>
   <!-- EN: extreme -->
-  <Plague.stages.extreme-1.label>สาหัส</Plague.stages.extreme-1.label>
+  <Plague.stages.extreme-1.label>ร้ายแรง</Plague.stages.extreme-1.label>
   
   <!-- EN: sensory mechanites -->
-  <SensoryMechanites.label>ความรู้สึกอัมพาตจากเมคคาไนท์</SensoryMechanites.label>
+  <SensoryMechanites.label>เมคคาไนท์ประสาทสัมผัส</SensoryMechanites.label>
   <!-- EN: Semi-coherent mechanites which reside in the nervous system. They enhance the victim's senses, but also cause intense pain. These are probably a mutated strain of sense-enhancing mechanites. -->
-  <SensoryMechanites.description>TODO</SensoryMechanites.description>
+  <SensoryMechanites.description>เมคคาไนท์กึ่งเกาะติดอาศัยอยู่ในระบบประสาท มันยกระดับประสาทสัมผัสของผู้รับเคราะห์ แต่ก็ทำให้เจ็บปวดอย่างมากด้วย พวกนี้คงเป็นสายพันธุ์เมคคาไนท์เสริมประสาทสัมผัสที่กลายพันธุ์ไป</SensoryMechanites.description>
   <!-- EN: mild pain -->
   <SensoryMechanites.stages.mild_pain.label>เจ็บปวดเล็กน้อย</SensoryMechanites.stages.mild_pain.label>
   <!-- EN: intense pain -->
-  <SensoryMechanites.stages.intense_pain.label>เจ็บปวดอย่างรุนแรง</SensoryMechanites.stages.intense_pain.label>
+  <SensoryMechanites.stages.intense_pain.label>เจ็บปวดอย่างหนัก</SensoryMechanites.stages.intense_pain.label>
   
   <!-- EN: sleeping sickness -->
-  <SleepingSickness.label>โรคนอนไม่หลับ</SleepingSickness.label>
+  <SleepingSickness.label>โรคนอนหลับ</SleepingSickness.label>
   <!-- EN: An infectious disease caused by an insect-borne parasite. Sleeping sickness is not as deadly as some other diseases, but progresses slowly. The body takes a long time to clear the infection. -->
-  <SleepingSickness.description>TODO</SleepingSickness.description>
+  <SleepingSickness.description>โรคติดต่อที่เกิดจากปรสิตมีแมลงเป็นพาหะ โรคนอนหลับไม่อันตรายเท่าบางโรคอื่น ๆ แต่ดำเนินไปอย่างช้า ๆ ร่างกายจะใช้เวลาฆ่าเชื้อไปอีกนาน</SleepingSickness.description>
   <!-- EN: minor -->
-  <SleepingSickness.stages.minor-0.label>นิดๆ</SleepingSickness.stages.minor-0.label>
+  <SleepingSickness.stages.minor-0.label>เล็กน้อย</SleepingSickness.stages.minor-0.label>
   <!-- EN: minor -->
   <SleepingSickness.stages.minor-1.label>เล็กน้อย</SleepingSickness.stages.minor-1.label>
   <!-- EN: major -->
-  <SleepingSickness.stages.major.label>หนัก</SleepingSickness.stages.major.label>
+  <SleepingSickness.stages.major.label>อย่างหนัก</SleepingSickness.stages.major.label>
   <!-- EN: extreme -->
-  <SleepingSickness.stages.extreme-0.label>อันตราย</SleepingSickness.stages.extreme-0.label>
+  <SleepingSickness.stages.extreme-0.label>ร้ายแรง</SleepingSickness.stages.extreme-0.label>
   <!-- EN: extreme -->
-  <SleepingSickness.stages.extreme-1.label>สาหัส</SleepingSickness.stages.extreme-1.label>
+  <SleepingSickness.stages.extreme-1.label>ร้ายแรง</SleepingSickness.stages.extreme-1.label>
   
   <!-- EN: infection -->
   <WoundInfection.label>แผลติดเชื้อ</WoundInfection.label>
   <!-- EN: Bacterial infection in a wound. Without treatment, the bacteria will multiply, killing local tissue, and eventually causing blood poisoning and death.\n\nThrough aeons of human warfare, infections have often taken more lives than the wounds themselves. -->
-  <WoundInfection.description>TODO</WoundInfection.description>
+  <WoundInfection.description>แผลติดเชื้อจากแบคทีเรีย หากไม่ได้รับการรักษา แบคทีเรียจะทวีคูณ ฆ่าเนื้อเยื่อเดิม สุดท้ายทำให้เลือดเป็นพิษถึงตาย\n\nตลอดยุคสมัยในการสู้รบของมนุษย์นั้น แผลที่ติดเชื้อคร่าชีวิตไปมากกว่าตัวแผลเองอีก</WoundInfection.description>
   <!-- EN: an infection -->
   <WoundInfection.labelNoun>แผลติดเชื้อ</WoundInfection.labelNoun>
   <!-- EN: minor -->
   <WoundInfection.stages.minor.label>เล็กน้อย</WoundInfection.stages.minor.label>
   <!-- EN: major -->
-  <WoundInfection.stages.major.label>หนัก</WoundInfection.stages.major.label>
+  <WoundInfection.stages.major.label>อย่างหนัก</WoundInfection.stages.major.label>
   <!-- EN: extreme -->
-  <WoundInfection.stages.extreme-0.label>อันตราย</WoundInfection.stages.extreme-0.label>
+  <WoundInfection.stages.extreme-0.label>ร้ายแรง</WoundInfection.stages.extreme-0.label>
   <!-- EN: extreme -->
-  <WoundInfection.stages.extreme-1.label>สาหัส</WoundInfection.stages.extreme-1.label>
+  <WoundInfection.stages.extreme-1.label>ร้ายแรง</WoundInfection.stages.extreme-1.label>
   
 </LanguageData>

@@ -4,102 +4,102 @@
   <!-- EN: alzheimer's -->
   <Alzheimers.label>อัลไซเมอร์</Alzheimers.label>
   <!-- EN: A brain disease usually associated with aging. Alzheimer's disease causes progressive degradation in the ability to think and remember. Patients are known to forget close relatives and sometimes wander around in confusion. -->
-  <Alzheimers.description>TODO</Alzheimers.description>
+  <Alzheimers.description>โรคสมองที่เกี่ยวพันกับการแก่ชรา โรคอัลไซเมอร์ก่อให้เกิดความเสื่อมของความสามารถในการคิดและจดจำอย่างต่อเนื่อง คนไข้มักจะลืมคนใกล้ชิด และบางครั้งก็เดินไปมาด้วยความสับสน</Alzheimers.description>
   <Alzheimers.labelNoun>อัลไซเมอร์</Alzheimers.labelNoun>
   <!-- EN: minor -->
-  <Alzheimers.stages.minor-0.label>แรกเริ่ม</Alzheimers.stages.minor-0.label>
+  <Alzheimers.stages.minor-0.label>เล็กน้อย</Alzheimers.stages.minor-0.label>
   <!-- EN: minor -->
   <Alzheimers.stages.minor-1.label>เล็กน้อย</Alzheimers.stages.minor-1.label>
   <!-- EN: major -->
-  <Alzheimers.stages.major-0.label>หนัก</Alzheimers.stages.major-0.label>
+  <Alzheimers.stages.major-0.label>อย่างหนัก</Alzheimers.stages.major-0.label>
   <!-- EN: major -->
-  <Alzheimers.stages.major-1.label>รุนแรง</Alzheimers.stages.major-1.label>
+  <Alzheimers.stages.major-1.label>อย่างหนัก</Alzheimers.stages.major-1.label>
   
   <!-- EN: asthma -->
-  <Asthma.label>โรคหืด</Asthma.label>
+  <Asthma.label>หืดหอบ</Asthma.label>
   <!-- EN: A long-term inflammatory disease of the airways in the lungs. It requires regular tending to prevent symptoms. -->
-  <Asthma.description>TODO</Asthma.description>
-  <Asthma.labelNoun>โรคหืด</Asthma.labelNoun>
+  <Asthma.description>โรคทางเดินหายใจภายในปอดอักเสบระยะยาว ต้องบรรเทาดูแลอย่างต่อเนื่องเพื่อระงับอาการ</Asthma.description>
+  <Asthma.labelNoun>หืดหอบ</Asthma.labelNoun>
   <!-- EN: minor -->
   <Asthma.stages.minor.label>เล็กน้อย</Asthma.stages.minor.label>
   <!-- EN: major -->
-  <Asthma.stages.major-0.label>หนัก</Asthma.stages.major-0.label>
+  <Asthma.stages.major-0.label>อย่างหนัก</Asthma.stages.major-0.label>
   <!-- EN: major -->
-  <Asthma.stages.major-1.label>รุนแรง</Asthma.stages.major-1.label>
+  <Asthma.stages.major-1.label>อย่างหนัก</Asthma.stages.major-1.label>
   
   <!-- EN: bad back -->
-  <BadBack.label>หลังไม่ดี</BadBack.label>
+  <BadBack.label>ปวดหลัง</BadBack.label>
   <!-- EN: Degradation in the spinal column and surrounding musculature. This makes it hard to move and bend smoothly. -->
-  <BadBack.description>TODO</BadBack.description>
+  <BadBack.description>ความเสื่อมสภาพของกระดูสันหลังกับกล้ามเนื้อข้างเคียง ทำให้การเคลื่อนไหวและการบิดงอเป็นไปได้ยาก</BadBack.description>
   <!-- EN: a bad back -->
-  <BadBack.labelNoun>หลังไม่ดี</BadBack.labelNoun>
+  <BadBack.labelNoun>ปวดหลัง</BadBack.labelNoun>
   
   <!-- EN: blindness -->
   <Blindness.label>ตาบอด</Blindness.label>
   <!-- EN: Total inability to see. -->
-  <Blindness.description>TODO</Blindness.description>
+  <Blindness.description>ความไม่สามารถเห็นทั้งหมด</Blindness.description>
   <Blindness.labelNoun>ตาบอด</Blindness.labelNoun>
   
   <!-- EN: carcinoma -->
-  <Carcinoma.label>มะเร็ง</Carcinoma.label>
+  <Carcinoma.label>มะเร็งเยื่อบุ</Carcinoma.label>
   <!-- EN: A lump of cancerous tissue. Without treatment, the carcinoma will grow over time, causing worsening symptoms and eventually killing the patient.\n\nA skilled doctor can excise the carcinoma. An unskilled doctor may be able to simply amputate the body part which contains the carcinoma. -->
-  <Carcinoma.description>TODO</Carcinoma.description>
+  <Carcinoma.description>ก้อนเนื้อเยื่อมะเร็ง หากไม่ได้รับการรักษา มะเร็งเยื่อบุจะโตขึ้นไปตามเวลา ทำให้อาการแย่ลงจนถึงผู้ป่วยเสียชีวิต\n\nแพทย์ที่มีฝีมือสามารถผ่ามะเร็งเยื่อบุออกไปได้ ส่วนแพทย์ที่ไม่มีฝีมือก็ทำได้เพียงแค่ตัดชิ้นส่วนของร่างกายที่มีมะเร็งเยื่อบุออก</Carcinoma.description>
   <!-- EN: a carcinoma -->
-  <Carcinoma.labelNoun>มะเร็ง</Carcinoma.labelNoun>
+  <Carcinoma.labelNoun>มะเร็งเยื่อบุ</Carcinoma.labelNoun>
   <!-- EN: minor -->
-  <Carcinoma.stages.minor-0.label>แรกเริ่ม</Carcinoma.stages.minor-0.label>
+  <Carcinoma.stages.minor-0.label>เล็กน้อย</Carcinoma.stages.minor-0.label>
   <!-- EN: minor -->
   <Carcinoma.stages.minor-1.label>เล็กน้อย</Carcinoma.stages.minor-1.label>
   <!-- EN: major -->
-  <Carcinoma.stages.major-0.label>หนัก</Carcinoma.stages.major-0.label>
+  <Carcinoma.stages.major-0.label>อย่างหนัก</Carcinoma.stages.major-0.label>
   <!-- EN: major -->
-  <Carcinoma.stages.major-1.label>รุนแรง</Carcinoma.stages.major-1.label>
+  <Carcinoma.stages.major-1.label>อย่างหนัก</Carcinoma.stages.major-1.label>
   <!-- EN: extreme -->
-  <Carcinoma.stages.extreme-0.label>อันตราย</Carcinoma.stages.extreme-0.label>
+  <Carcinoma.stages.extreme-0.label>ร้ายแรง</Carcinoma.stages.extreme-0.label>
   <!-- EN: extreme -->
-  <Carcinoma.stages.extreme-1.label>สาหัส</Carcinoma.stages.extreme-1.label>
+  <Carcinoma.stages.extreme-1.label>ร้ายแรง</Carcinoma.stages.extreme-1.label>
   
   <!-- EN: cataract -->
-  <Cataract.label>โรคต้อ</Cataract.label>
+  <Cataract.label>ต้อกระจก</Cataract.label>
   <!-- EN: Milky-looking opacity in the eye. Cataracts impair vision. -->
-  <Cataract.description>TODO</Cataract.description>
+  <Cataract.description>ความขุ่นคล้ายน้ำนมในดวงตา ต้อกระจกทำให้สายตาแย่ลง</Cataract.description>
   <!-- EN: a cataract -->
-  <Cataract.labelNoun>โรคต้อ</Cataract.labelNoun>
+  <Cataract.labelNoun>ต้อกระจก</Cataract.labelNoun>
   
   <!-- EN: dementia -->
   <Dementia.label>สมองเสื่อม</Dementia.label>
   <!-- EN: Neural degradation which causes deficits in the ability to think and remember. Dementia has various causes including aging, specific illnesses, and toxins. -->
-  <Dementia.description>TODO</Dementia.description>
+  <Dementia.description>ความเสื่อมของระบบประสาทที่ทำให้เกิดการขาดดุลสำหรับความสามารถในการคิดและจดจำ สมองเสื่อมมีหลายสาเหตุรวมถึงการแก่ชรา โรค และพิษ</Dementia.description>
   <Dementia.labelNoun>สมองเสื่อม</Dementia.labelNoun>
   
   <!-- EN: frail -->
   <Frail.label>อ่อนแอ</Frail.label>
   <!-- EN: Generalized loss of muscle and bone density. -->
-  <Frail.description>TODO</Frail.description>
+  <Frail.description>การสูญเสียกล้ามเนื้อกับความหนาแน่นกระดูกโดยทั่ว</Frail.description>
   <!-- EN: frailty -->
   <Frail.labelNoun>อ่อนแอ</Frail.labelNoun>
   
   <!-- EN: hearing loss -->
-  <HearingLoss.label>สูญเสียการได้ยิน</HearingLoss.label>
+  <HearingLoss.label>หูตึง</HearingLoss.label>
   <!-- EN: Inability to hear quiet sounds due to degradation of hair cells in the cochlea. -->
-  <HearingLoss.description>TODO</HearingLoss.description>
-  <HearingLoss.labelNoun>สูญเสียการได้ยิน</HearingLoss.labelNoun>
+  <HearingLoss.description>ความไม่สามารถได้ยินเสียงเงียบ ๆ ได้เพราะความเสื่อมของเซลล์ขนในคอเคลีย</HearingLoss.description>
+  <HearingLoss.labelNoun>หูตึง</HearingLoss.labelNoun>
   
   <!-- EN: artery blockage -->
-  <HeartArteryBlockage.label>เส้นเลือดหัวใจอุดตัน</HeartArteryBlockage.label>
+  <HeartArteryBlockage.label>หลอดเลือดแดงตีบตัน</HeartArteryBlockage.label>
   <!-- EN: A blockage in one of the critical arteries in the heart. Heart artery blockages randomly induce heart attacks. -->
-  <HeartArteryBlockage.description>TODO</HeartArteryBlockage.description>
+  <HeartArteryBlockage.description>การอุดตันของหลอดเลือดแดงที่สำคัญในหัวใจหนึ่งหลอด หลอดเลือดแดงในหัวใจตีบตันจะทำให้เกิดหัวใจวายโดยสุ่ม</HeartArteryBlockage.description>
   <!-- EN: an artery blockage -->
-  <HeartArteryBlockage.labelNoun>เส้นเลือดหัวใจอุดตัน</HeartArteryBlockage.labelNoun>
+  <HeartArteryBlockage.labelNoun>หลอดเลือดแดงตีบตัน</HeartArteryBlockage.labelNoun>
   <!-- EN: minor -->
-  <HeartArteryBlockage.stages.minor-0.label>แรกเริ่ม</HeartArteryBlockage.stages.minor-0.label>
+  <HeartArteryBlockage.stages.minor-0.label>เล็กน้อย</HeartArteryBlockage.stages.minor-0.label>
   <!-- EN: minor -->
   <HeartArteryBlockage.stages.minor-1.label>เล็กน้อย</HeartArteryBlockage.stages.minor-1.label>
   <!-- EN: major -->
-  <HeartArteryBlockage.stages.major-0.label>หนัก</HeartArteryBlockage.stages.major-0.label>
+  <HeartArteryBlockage.stages.major-0.label>อย่างหนัก</HeartArteryBlockage.stages.major-0.label>
   <!-- EN: major -->
-  <HeartArteryBlockage.stages.major-1.label>รุนแรง</HeartArteryBlockage.stages.major-1.label>
+  <HeartArteryBlockage.stages.major-1.label>อย่างหนัก</HeartArteryBlockage.stages.major-1.label>
   <!-- EN: extreme -->
-  <HeartArteryBlockage.stages.extreme.label>สาหัส</HeartArteryBlockage.stages.extreme.label>
+  <HeartArteryBlockage.stages.extreme.label>ร้ายแรง</HeartArteryBlockage.stages.extreme.label>
   
 </LanguageData>

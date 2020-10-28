@@ -2,49 +2,49 @@
 <LanguageData>
   
   <!-- EN: chemical damage -->
-  <ChemicalDamageModerate.label>เสียหายจากสารเคมี</ChemicalDamageModerate.label>
+  <ChemicalDamageModerate.label>ความเสียหายทางเคมี</ChemicalDamageModerate.label>
   <!-- EN: Chemical damage at the cellular level. -->
-  <ChemicalDamageModerate.description>TODO</ChemicalDamageModerate.description>
+  <ChemicalDamageModerate.description>ความเสียหายทางเคมีในระดับเซลล์</ChemicalDamageModerate.description>
   
   <!-- EN: chemical damage -->
-  <ChemicalDamageSevere.label>อันตรายจากสารเคมี</ChemicalDamageSevere.label>
+  <ChemicalDamageSevere.label>ความเสียหายทางเคมี</ChemicalDamageSevere.label>
   <!-- EN: Chemical damage at the cellular level. -->
-  <ChemicalDamageSevere.description>TODO</ChemicalDamageSevere.description>
+  <ChemicalDamageSevere.description>ความเสียหายทางเคมีในระดับเซลล์</ChemicalDamageSevere.description>
   
   <!-- EN: cirrhosis -->
-  <Cirrhosis.label>โรคตับแข็ง</Cirrhosis.label>
+  <Cirrhosis.label>ตับแข็ง</Cirrhosis.label>
   <!-- EN: A degenerative liver disease caused by excessive alcohol consumption. -->
-  <Cirrhosis.description>TODO</Cirrhosis.description>
+  <Cirrhosis.description>โรคตับเสื่อมที่เกิดจากการบริโภคแอลกอฮอล์มากเกินไป</Cirrhosis.description>
   
   <!-- EN: resurrection psychosis -->
-  <ResurrectionPsychosis.label>โรคจิตฟื้นคืนชีพ</ResurrectionPsychosis.label>
+  <ResurrectionPsychosis.label>โรคจิตจากการฟื้นคืนชีพ</ResurrectionPsychosis.label>
   <!-- EN: Chaotic thought patterns caused by the decoherence of resurrection mechanites. Resurrection psychosis progresses and eventually causes total psychosis and death.\n\nResurrected people require mechanites to rebuild their bodily functions at the cellular level. Mechanites always have a chance to lose coherence, and if they do, they wreak havoc in the central nervous system. The older the corpse, the more mechanite action is required to resurrect it, and the greater the chance of eventual decoherence. -->
-  <ResurrectionPsychosis.description>TODO</ResurrectionPsychosis.description>
+  <ResurrectionPsychosis.description>รูปแบบความคิดแปรปรวนที่เกิดจากการขาดความสอดคล้องของเมคคาไนท์ฟื้นคืนชีพ โรคจิตจากการฟื้นคืนชีพจะทำให้เป็นโรคจิตโดยสมบูรณ์แล้วตายในที่สุด\n\nคนที่ฟื้นคืนชีพต้องใช้เมคคาไนท์เพื่อสร้างการทำงานของร่างกายขึ้นมาใหม่ในระดับเซลล์ เมคคาไนท์มีโอกาสเสียความสอดคล้องเสมอ และเมื่อเป็นเช่นนั้นขึ้นมา มันจะสร้างความเสียหายต่อระบบประสาทส่วนกลาง ยิ่งศพเก่าแก่มากเท่าไหร่ เมคคาไนท์ก็ต้องยิ่งทำงานมากเท่านั้นเพื่อฟื้นคืนชีพ พร้อมกับโอกาสเสียความสอดคล้องที่เพิ่มขึ้นตามมาด้วย</ResurrectionPsychosis.description>
   <!-- EN: early -->
-  <ResurrectionPsychosis.stages.early-0.label>แรกๆ</ResurrectionPsychosis.stages.early-0.label>
+  <ResurrectionPsychosis.stages.early-0.label>ขั้นต้น</ResurrectionPsychosis.stages.early-0.label>
   <!-- EN: early -->
   <ResurrectionPsychosis.stages.early-1.label>ขั้นต้น</ResurrectionPsychosis.stages.early-1.label>
   <!-- EN: moderate -->
   <ResurrectionPsychosis.stages.moderate.label>ปานกลาง</ResurrectionPsychosis.stages.moderate.label>
   <!-- EN: advanced -->
-  <ResurrectionPsychosis.stages.advanced.label>กระจายตัว</ResurrectionPsychosis.stages.advanced.label>
+  <ResurrectionPsychosis.stages.advanced.label>ชั้นสูง</ResurrectionPsychosis.stages.advanced.label>
   <!-- EN: severe -->
-  <ResurrectionPsychosis.stages.severe.label>รุนแรง</ResurrectionPsychosis.stages.severe.label>
+  <ResurrectionPsychosis.stages.severe.label>สาหัส</ResurrectionPsychosis.stages.severe.label>
   <!-- EN: total -->
-  <ResurrectionPsychosis.stages.total.label>ครอบงำ</ResurrectionPsychosis.stages.total.label>
+  <ResurrectionPsychosis.stages.total.label>สมบูรณ์</ResurrectionPsychosis.stages.total.label>
   <!-- EN: catatonic -->
   <ResurrectionPsychosis.stages.catatonic.label>แข็งทื่อ</ResurrectionPsychosis.stages.catatonic.label>
   
   <!-- EN: scaria -->
-  <Scaria.label>TODO</Scaria.label>
+  <Scaria.label>สกาเรีย</Scaria.label>
   <!-- EN: A disease which causes affected creatures to enter berserk rages. A creature with scaria can be cured through a special medical operation, but it must be downed first. If not treated, scaria kills its host about five days after infection. The disease poisons the flesh and rots the skin, so creatures killed with scaria have a chance of rotting upon death so they cannot be butchered for meat or leather. -->
-  <Scaria.description>TODO</Scaria.description>
+  <Scaria.description>โรคที่ทำให้สัตว์ที่ติดมันบ้าคลั่งเดือดดาล สามารถรักษาสิ่งมีชีวิตที่ติดสกาเรียได้ผ่านการผ่าตัดพิเศษ แต่ต้องไปล้มมันก่อน หากไม่ได้รับการรักษา สกาเรียจะฆ่าร่างอาศัยของมันประมาณห้าวันหลังการติดเชื้อ โรคนี้ทำให้เนื้อเป็นพิษและผิวหนังเน่า สัตว์ติดสกาเรียที่โดนฆ่าจะมีโอกาสเน่าเสียเมื่อตาย แล้วไม่สามารถนำมาชำแหละเอาเนื้อกับหนังได้</Scaria.description>
   
   <!-- EN: trauma savant -->
-  <TraumaSavant.label>ศาสดาทางจิต</TraumaSavant.label>
+  <TraumaSavant.label>แผลปราชญ์</TraumaSavant.label>
   <!-- EN: An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak. -->
-  <TraumaSavant.description>TODO</TraumaSavant.description>
+  <TraumaSavant.description>สภาวะพิเศษที่เกิดจากการบาดเจ็บที่สมอง จากแผลบาดเจ็บที่ได้รับนั้น สมองได้พัฒนาทักษะขั้นสูงในบางสาขาขึ้นมา แล้วสูญเสียความสามารถในการพูดไป</TraumaSavant.description>
   <!-- EN: trauma -->
-  <TraumaSavant.labelNoun>บอบช้ำ</TraumaSavant.labelNoun>
+  <TraumaSavant.labelNoun>แผล</TraumaSavant.labelNoun>
   
 </LanguageData>
