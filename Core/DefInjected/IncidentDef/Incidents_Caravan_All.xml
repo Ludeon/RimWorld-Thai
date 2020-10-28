@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: ambush -->
-  <Ambush.label>โดนดักโจมตี</Ambush.label>
+  <Ambush.label>ซุ่มโจมตี</Ambush.label>
   <!-- EN: Caravan ambushed -->
-  <Ambush.letterLabel>กองคาราวานถูกซุ่มโจมตี</Ambush.letterLabel>
+  <Ambush.letterLabel>กองคาราวานโดนซุ่มโจมตี</Ambush.letterLabel>
   <!-- EN: {0} has been ambushed by {1} from {2}! -->
-  <Ambush.letterText>{0} ถูกซุ่มโจมตีโดย {1} จาก {2}!</Ambush.letterText>
+  <Ambush.letterText>{0} โดนซุ่มโจมตีโดย {1} จาก {2}!</Ambush.letterText>
   
   <!-- EN: payment demand -->
-  <CaravanDemand.label>เรียกค่าไถ่</CaravanDemand.label>
+  <CaravanDemand.label>เรียกร้องค่าไถ่</CaravanDemand.label>
   
   <!-- EN: caravan meeting -->
-  <CaravanMeeting.label>พบเจอคาราวาน</CaravanMeeting.label>
+  <CaravanMeeting.label>พบเจอกองคาราวาน</CaravanMeeting.label>
   
   <!-- EN: manhunter ambush -->
-  <ManhunterAmbush.label>โดนสัตว์ดักโจมตี</ManhunterAmbush.label>
+  <ManhunterAmbush.label>สัตว์กินคนซุ่มโจมตี</ManhunterAmbush.label>
   <!-- EN: Caravan ambushed (manhunters) -->
-  <ManhunterAmbush.letterLabel>กองคาราวานถูกซุ่มโจมตี (สัตว์ล่ามนุษย์)</ManhunterAmbush.letterLabel>
+  <ManhunterAmbush.letterLabel>กองคาราวานโดนซุ่มโจมตี (สัตว์กินคน)</ManhunterAmbush.letterLabel>
   <!-- EN: {0} has been ambushed by scaria-infected manhunting {1}! -->
-  <ManhunterAmbush.letterText>{0} ถูกซุ่มโจมตีโดย {0}ล่ามนุษย์!</ManhunterAmbush.letterText>
+  <ManhunterAmbush.letterText>{0} โดน {1} กินคนติดสกาเรียซุ่มโจมตี!</ManhunterAmbush.letterText>
   
 </LanguageData>

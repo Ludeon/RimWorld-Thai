@@ -4,19 +4,19 @@
   <!-- EN: aurora -->
   <Aurora.label>ออโรรา</Aurora.label>
   <!-- EN: Aurora -->
-  <Aurora.letterLabel>แสงออโรรา</Aurora.letterLabel>
-  <Aurora.letterText>แสงออโรราสาดส่องลงมาบนท้องฟ้า\n\nสีสันราวระลอกคลื่น จะช่วยเพิ่มอารมณ์ของทุกคนที่อยู่ข้างนอกะมองไปเห็น ซ้ำยังทำให้กลางคืนสว่างขึ้น</Aurora.letterText>
+  <Aurora.letterLabel>ออโรรา</Aurora.letterLabel>
+  <Aurora.letterText>ออโรราสวยงามกำลังส่องแสงบนท้องฟ้า\n\nสีเป็นคลื่นเหล่านี้จะยกระดับอารมณ์ของใครก็ตามที่ออกไปเห็นมันข้างนอก และทำให้กลางคืนสว่างขึ้นด้วย</Aurora.letterText>
   
   <!-- EN: eclipse -->
   <Eclipse.label>สุริยุปราคา</Eclipse.label>
   <!-- EN: Eclipse -->
-  <Eclipse.letterLabel>เกิดสุริยุปราคา</Eclipse.letterLabel>
-  <Eclipse.letterText>จันทร์ดวงหนึ่งของดาวเคราะห์นี้ เคลื่อนวงโคจรมาบังหน้าดวงอาทิตย์ สุริยุปราคาเริ่มต้นขึ้น</Eclipse.letterText>
+  <Eclipse.letterLabel>สุริยุปราคา</Eclipse.letterLabel>
+  <Eclipse.letterText>ดวงจันทร์ดวงหนึ่งของดาวดวงนี้ได้โคจรมาอยู่หน้าดวงอาทิตย์ สุริยุปราคาได้เริ่มขึ้นแล้ว</Eclipse.letterText>
   
   <!-- EN: solar flare -->
   <SolarFlare.label>เปลวสุริยะ</SolarFlare.label>
   <!-- EN: Solar flare -->
-  <SolarFlare.letterLabel>เกิดเปลวสุริยะ</SolarFlare.letterLabel>
-  <SolarFlare.letterText>เปลวสุริยะเริ่มต้นขึ้น\n\nจากการแผ่รังสีที่เข้มข้น จะทำให้อุปกรณ์ไฟฟ้าทั้งหมดใช้ไม่ได้\n\nมันควรผ่านไปในประมาณหนึ่งวัน</SolarFlare.letterText>
+  <SolarFlare.letterLabel>เปลวสุริยะ</SolarFlare.letterLabel>
+  <SolarFlare.letterText>เปลวสุริยะได้เริ่มขึ้นแล้ว\n\nการแผ่รังสีรุนแรงนี้จะปิดเครื่องใช้ไฟฟ้าทั้งหมด\n\nมันคงจะผ่านพ้นไปภายในหนึ่งวัน</SolarFlare.letterText>
   
 </LanguageData>
