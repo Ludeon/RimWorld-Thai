@@ -2,75 +2,75 @@
 <LanguageData>
   
   <!-- EN: go frenzy -->
-  <Frenzy_Go.label>บ้าระห่ำเคลื่อนที่</Frenzy_Go.label>
+  <Frenzy_Go.label>คลั่งวิ่ง</Frenzy_Go.label>
   <!-- EN: Inspired: Go frenzy -->
-  <Frenzy_Go.baseInspectLine>แรงบันดาลใจ: บ้าระห่ำเคลื่อนที่</Frenzy_Go.baseInspectLine>
+  <Frenzy_Go.baseInspectLine>แรงบันดาลใจ: คลั่งวิ่ง</Frenzy_Go.baseInspectLine>
   <!-- EN: [PAWN_pronoun] will move faster for the next 8 days. -->
-  <Frenzy_Go.beginLetter>{PAWN_nameIndef} ประสบแรงบรรดาลใจ!\n\n{PAWN_pronoun}จะเคลื่อนที่เร็วขึ้นไปอีก 8 วันข้างหน้า</Frenzy_Go.beginLetter>
+  <Frenzy_Go.beginLetter>[PAWN_pronoun]จะเคลื่อนไหวได้เร็วขึ้น 8 วัน</Frenzy_Go.beginLetter>
   <!-- EN: {0} is no longer inspired (go frenzy). -->
-  <Frenzy_Go.endMessage>{0} หมดแรงบันดาลใจ (บ้าระห่ำเคลื่อนที่)</Frenzy_Go.endMessage>
+  <Frenzy_Go.endMessage>{0} หมดแรงบันดาลใจ (คลั่งวิ่ง)</Frenzy_Go.endMessage>
   
   <!-- EN: shoot frenzy -->
-  <Frenzy_Shoot.label>บ้าระห่ำยิง</Frenzy_Shoot.label>
+  <Frenzy_Shoot.label>คลั่งยิง</Frenzy_Shoot.label>
   <!-- EN: Inspired: Shoot frenzy -->
-  <Frenzy_Shoot.baseInspectLine>แรงบันดาลใจ: บ้าระห่ำยิง</Frenzy_Shoot.baseInspectLine>
+  <Frenzy_Shoot.baseInspectLine>แรงบันดาลใจ: คลั่งยิง</Frenzy_Shoot.baseInspectLine>
   <!-- EN: [PAWN_pronoun] will shoot more accurately for the next 8 days. -->
-  <Frenzy_Shoot.beginLetter>{PAWN_nameIndef} ประสบแรงบรรดาลใจ!\n\n{PAWN_pronoun}จะยิงแม่นขึ้นไปอีก 8 วันข้างหน้า</Frenzy_Shoot.beginLetter>
+  <Frenzy_Shoot.beginLetter>[PAWN_pronoun]จะยิงได้แม่นขึ้น 8 วัน</Frenzy_Shoot.beginLetter>
   <!-- EN: {0} is no longer inspired (shoot frenzy). -->
-  <Frenzy_Shoot.endMessage>{0} หมดแรงบันดาลใจ (บ้าระห่ำยิง).</Frenzy_Shoot.endMessage>
+  <Frenzy_Shoot.endMessage>{0} หมดแรงบันดาลใจ (คลั่งยิง)</Frenzy_Shoot.endMessage>
   
   <!-- EN: work frenzy -->
-  <Frenzy_Work.label>บ้าระห่ำทำงาน</Frenzy_Work.label>
+  <Frenzy_Work.label>คลั่งทำงาน</Frenzy_Work.label>
   <!-- EN: Inspired: Work frenzy -->
-  <Frenzy_Work.baseInspectLine>แรงบันดาลใจ: บ้าระห่ำทำงาน</Frenzy_Work.baseInspectLine>
+  <Frenzy_Work.baseInspectLine>แรงบันดาลใจ: คลั่งทำงาน</Frenzy_Work.baseInspectLine>
   <!-- EN: [PAWN_pronoun] will work faster for the next 8 days. -->
-  <Frenzy_Work.beginLetter>{PAWN_nameIndef} ประสบแรงบรรดาลใจ!\n\n{PAWN_pronoun}จะทำงานเร็วขึ้นไปอีก 8 วันข้างหน้า</Frenzy_Work.beginLetter>
+  <Frenzy_Work.beginLetter>[PAWN_pronoun]จะทำงานได้เร็วขึ้น 8 วัน</Frenzy_Work.beginLetter>
   <!-- EN: {0} is no longer inspired (work frenzy). -->
-  <Frenzy_Work.endMessage>{0} หมดแรงบันดาลใจ (บ้าระห่ำทำงาน)</Frenzy_Work.endMessage>
+  <Frenzy_Work.endMessage>{0} หมดแรงบันดาลใจ (คลั่งทำงาน)</Frenzy_Work.endMessage>
   
   <!-- EN: inspired creativity -->
-  <Inspired_Creativity.label>ดลบันดาลให้สร้างสรรค์</Inspired_Creativity.label>
+  <Inspired_Creativity.label>ดลใจสร้างสรรค์</Inspired_Creativity.label>
   <!-- EN: Inspired: Inspired creativity -->
-  <Inspired_Creativity.baseInspectLine>แรงบันดาลใจ: ดลบันดาลให้สร้างสรรค์</Inspired_Creativity.baseInspectLine>
+  <Inspired_Creativity.baseInspectLine>แรงบันดาลใจ: ดลใจสร้างสรรค์</Inspired_Creativity.baseInspectLine>
   <!-- EN: The next item, art, or furniture [PAWN_pronoun] creates will be two quality levels higher than it would otherwise be. This even allows the creation of legendary items.\n\nThe inspiration will end after 8 days, or when the creation is completed. -->
-  <Inspired_Creativity.beginLetter>{PAWN_nameIndef} ประสบแรงบรรดาลใจ!\n\nไอเท็ม อาร์ต หรือเฟอร์นิเจอร์ ที่{PAWN_pronoun}ทำเสร็จจะมีคุณภาพดีกว่าเดิมสองระดับจากที่เดิมควรเป็น นี่ถึงขั้นอาจทำให้สร้างไอเท็มในตำนานขึ้นมาได้\n\nแรงบันดาลใจจะสิ้นสุดลงหลังจาก 8 วัน หรือเมื่อชิ้นงานเสร็จสมบูรณ์</Inspired_Creativity.beginLetter>
+  <Inspired_Creativity.beginLetter>ไอเท็ม งานศิลปะ หรือเฟอร์นิเจอร์ต่อไปที่[PAWN_pronoun]ทำขึ้นมาจะมีระดับคุณภาพที่สูงขึ้นมาสองระดับมากกว่าที่เดิมควรเป็น ทำให้สามารถสร้างไอเท็มตำนานได้อีกด้วย\n\nแรงบันดาลใจนี้จะหมดลงหลังจาก 8 วัน หรือเมื่อชิ้นงานเสร็จสิ้น</Inspired_Creativity.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired creativity). -->
-  <Inspired_Creativity.endMessage>{0} หมดแรงบันดาลใจ (กระตุ้นการสร้างสรรค์)</Inspired_Creativity.endMessage>
+  <Inspired_Creativity.endMessage>{0} หมดแรงบันดาลใจ (ดลใจสร้างสรรค์)</Inspired_Creativity.endMessage>
   
   <!-- EN: inspired recruitment -->
-  <Inspired_Recruitment.label>ดลบันดาลให้ชักชวน</Inspired_Recruitment.label>
+  <Inspired_Recruitment.label>ดลใจชักชวน</Inspired_Recruitment.label>
   <!-- EN: Inspired: Inspired recruitment -->
-  <Inspired_Recruitment.baseInspectLine>แรงบันดาลใจ: ดลบันดาลให้ชักชวน</Inspired_Recruitment.baseInspectLine>
+  <Inspired_Recruitment.baseInspectLine>แรงบันดาลใจ: ดลใจชักชวน</Inspired_Recruitment.baseInspectLine>
   <!-- EN: [PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited. -->
-  <Inspired_Recruitment.beginLetter>{PAWN_nameIndef0} ประสบแรงบรรดาลใจ!\n\n{PAWN_pronoun}จะชักชวนนักโทษคนถัดไปสำเร็จ ไม่ว่าจะยากหรือมีแรงต้านแค่ไหน\n\nแรงบันดาลใจจะสิ้นสุดลงหลังจาก 8 วัน หรือเมื่อนักโทษถูกชักชวน</Inspired_Recruitment.beginLetter>
+  <Inspired_Recruitment.beginLetter>[PAWN_pronoun]จะชวนนักโทษคนต่อไปเข้าร่วมได้สำเร็จโดยไม่คำนึงถึงระดับความยากกับขัดขืน\n\nแรงบันดาลใจนี้จะหมดลงหลังจาก 8 วัน หรือเมื่อได้ชวนนักโทษเข้ามา</Inspired_Recruitment.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired recruitment). -->
-  <Inspired_Recruitment.endMessage>{0} หมดแรงบันดาลใจ (ดลบันดาลให้ชักชวน)</Inspired_Recruitment.endMessage>
+  <Inspired_Recruitment.endMessage>{0} หมดแรงบันดาลใจ (ดลใจชักชวน)</Inspired_Recruitment.endMessage>
   
   <!-- EN: inspired surgery -->
-  <Inspired_Surgery.label>ดลบันดาลให้ผ่าตัด</Inspired_Surgery.label>
+  <Inspired_Surgery.label>ดลใจผ่าตัด</Inspired_Surgery.label>
   <!-- EN: Inspired: Inspired surgery -->
-  <Inspired_Surgery.baseInspectLine>แรงบันดาลใจ: ดลบันดาลให้ผ่าตัด</Inspired_Surgery.baseInspectLine>
+  <Inspired_Surgery.baseInspectLine>แรงบันดาลใจ: ดลใจผ่าตัด</Inspired_Surgery.baseInspectLine>
   <!-- EN: The next time [PAWN_pronoun] performs a surgery, [PAWN_possessive] chance of success will be doubled. A small minimum chance of failure still applies.\n\nThe inspiration will end after 8 days, or when the surgery is performed. -->
-  <Inspired_Surgery.beginLetter>{PAWN_nameIndef} ประสบแรงบรรดาลใจ!\n\ครั้งต่อไปที่{PAWN_pronoun}ดำเนินการผ่าตัด โอกาสสำเร็จ{PAWN_possessive}จะถูกเพิ่มขึ้นเท่าตัว โอกาสเล็กๆในการล้มเหลวยังมีอยู่\n\nแรงบันดาลใจจะสิ้นสุดลงหลังจาก 8 วัน หรือเมื่อได้รับการผ่าตัดแล้ว</Inspired_Surgery.beginLetter>
+  <Inspired_Surgery.beginLetter>ครั้งต่อไปที่[PAWN_pronoun]ทำการผ่าตัด โอกาสสำเร็จของ[PAWN_possessive]จะเพิ่มขึ้นเป็นสองเท่า ยังมีโอกาสล้มเหลวขั้นต่ำอยู่\n\nแรงบันดาลใจนี้จะหมดลงหลังจาก 8 วัน หรือเมื่อทำการผ่าตัด</Inspired_Surgery.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired surgery). -->
-  <Inspired_Surgery.endMessage>{0} ไม่ได้รับแรงบันดาลใจอีกแล้ว (ดลบันดาลให้ผ่าตัด)</Inspired_Surgery.endMessage>
+  <Inspired_Surgery.endMessage>{0} หมดแรงบันดาลใจ (ดลใจผ่าตัด)</Inspired_Surgery.endMessage>
   
   <!-- EN: inspired taming -->
-  <Inspired_Taming.label>TODO</Inspired_Taming.label>
+  <Inspired_Taming.label>ดลใจทำเชื่อง</Inspired_Taming.label>
   <!-- EN: Inspired: Inspired taming -->
-  <Inspired_Taming.baseInspectLine>TODO</Inspired_Taming.baseInspectLine>
+  <Inspired_Taming.baseInspectLine>แรงบันดาลใจ: ดลใจทำเชื่อง</Inspired_Taming.baseInspectLine>
   <!-- EN: [PAWN_pronoun] will successfully tame the next animal regardless of difficulty.\n\nThe inspiration will end after 8 days, or when an animal was tamed. -->
-  <Inspired_Taming.beginLetter>TODO</Inspired_Taming.beginLetter>
+  <Inspired_Taming.beginLetter>[PAWN_pronoun]จะทำให้สัตว์ตัวต่อไปเชื่องสำเร็จโดยไม่คำนึงถึงระดับความยาก\n\nแรงบันดาลใจนี้จะหมดลงหลังจาก 8 วัน หรือเมื่อทำสัตว์เชื่อง</Inspired_Taming.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired taming). -->
-  <Inspired_Taming.endMessage>TODO</Inspired_Taming.endMessage>
+  <Inspired_Taming.endMessage>{0} หมดแรงบันดาลใจ (ทำเชื่อง)</Inspired_Taming.endMessage>
   
   <!-- EN: inspired trade -->
-  <Inspired_Trade.label>ดลบันดาลให้แลกเปลื่ยน</Inspired_Trade.label>
+  <Inspired_Trade.label>ดลใจค้าขาย</Inspired_Trade.label>
   <!-- EN: Inspired: Inspired trade -->
-  <Inspired_Trade.baseInspectLine>แรงบันดาลใจ: ดลบันดาลให้แลกเปลื่ยน</Inspired_Trade.baseInspectLine>
+  <Inspired_Trade.baseInspectLine>แรงบันดาลใจ: ดลใจค้าขาย</Inspired_Trade.baseInspectLine>
   <!-- EN: [PAWN_pronoun] will get a significant trade price bonus when closing [PAWN_possessive] next trade deal.\n\nThe inspiration will expire after 8 days, or when the deal is done. -->
-  <Inspired_Trade.beginLetter>{PAWN_nameIndef} ประสบแรงบรรดาลใจ!\n\n{PAWN_pronoun}จะได้โบนัสราคา ในดีลการแลกเปลื่ยนครั้งต่อไป{PAWN_possessive}\n\nแรงบันดาลใจจะหมดอายุหลังจาก 8 วัน หรือเมื่อการซื้อขายเสร็จสิ้น</Inspired_Trade.beginLetter>
+  <Inspired_Trade.beginLetter>[PAWN_pronoun]จะได้โบนัสกับราคาค้าขายพอสมควรเมื่อ[PAWN_possessive]จบการซื้อขายครั้งต่อไป\n\nแรงบันดาลใจนี้จะหมดลงหลังจาก 8 วัน หรือเมื่อเสร็จสิ้นการค้าขาย</Inspired_Trade.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired trade). -->
-  <Inspired_Trade.endMessage>{0} หมดแรงบันดาลใจ (ดลบันดาลให้แลกเปลื่ยน)</Inspired_Trade.endMessage>
+  <Inspired_Trade.endMessage>{0} หมดแรงบันดาลใจ (ดลใจค้าขาย)</Inspired_Trade.endMessage>
   
 </LanguageData>
