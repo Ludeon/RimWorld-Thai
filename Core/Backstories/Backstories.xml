@@ -1719,6 +1719,15 @@
     <desc>TODO</desc>
   </CultChild3>
   
+  <CuriousChild33>
+    <!-- EN: curious child -->
+    <title>TODO</title>
+    <!-- EN: curious -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_nameDef] was more interested in the systems and patterns of the world rather than its inhabitants. [PAWN_possessive] social skills suffered.\n\n[PAWN_nameDef] came to understand that all things are part of the whole, and to destroy part would be to destroy all. -->
+    <desc>TODO</desc>
+  </CuriousChild33>
+  
   <DataDecoder39>
     <!-- EN: data decoder -->
     <title>TODO</title>
@@ -3800,14 +3809,14 @@
     <desc>TODO</desc>
   </Mercenary55>
   
-  <MercenaryCaptain56>
+  <MercenaryCaptain98>
     <!-- EN: Mercenary captain -->
     <title>TODO</title>
     <!-- EN: Captain -->
     <titleShort>TODO</titleShort>
-    <!-- EN: [PAWN_pronoun] was in the crew of a mercenary ship. Disciplined and confident, [PAWN_nameDef] quickly rose through the ranks and gained friends.\n\nIn [PAWN_possessive] time as a mercenary captain, [PAWN_pronoun] was known for being gregarious and calm - possibly thanks to the joywires. -->
+    <!-- EN: [PAWN_nameDef] was in the crew of a mercenary ship. Disciplined and confident, [PAWN_pronoun] quickly rose through the ranks and gained friends.\n\nIn [PAWN_possessive] time as a mercenary captain, [PAWN_pronoun] was known for being gregarious and calm - possibly thanks to the joywires. -->
     <desc>TODO</desc>
-  </MercenaryCaptain56>
+  </MercenaryCaptain98>
   
   <MercenaryChef44>
     <!-- EN: mercenary chef -->
@@ -5056,6 +5065,15 @@
     <!-- EN: After leaving [PAWN_possessive] parents' vineyard, [PAWN_nameDef] traveled across much of known space, and learned many skills along the way.\n\n[PAWN_pronoun] spent most of [PAWN_possessive] time researching and interacting with reptile species. [PAWN_pronoun] was renowned for making several breakthroughs, and for discovering the "Thorny Devil". -->
     <desc>TODO</desc>
   </ReptileResearcher37>
+  
+  <Restorer70>
+    <!-- EN: restorer -->
+    <title>TODO</title>
+    <!-- EN: restorer -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_nameDef] traveled the world, always looking for old and forgotten things to repair for the good of others, working to see the true beauty in all things. -->
+    <desc>TODO</desc>
+  </Restorer70>
   
   <RichBoy9>
     <!-- EN: rich boy -->

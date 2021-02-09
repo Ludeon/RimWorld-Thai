@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Great!\n\nReorder and randomize more if you want - but don't try to get the perfect characters. Everyone has flaws, and it makes the story more interesting!\n\nYou can also re-name the characters by clicking on their names.\n\nClick START when you're ready. -->
-  <AcceptStartingPawns.text>ยอดเยื่ยม!\n\nเลื่อนและสุ่มไปเรื่อยๆถ้าคุณต้องการ - แต่อย่าพยายามเอาให้ได้ตัวละครอันเฟอเฟ็คทุกอย่าง ทุกคนมีจุดด้อยทั้งนั้น ทำให้เรื่องราวน่าสนใจมากขึ้น!\n\nคุณยังสามารถเปลื่ยนชื่อตัวละครได้ ด้วยการคลิกที่ช่องชื่อของพวกเขา\n\nกด "เริ่มเล่น" เมื่อคุณพร้อม</AcceptStartingPawns.text>
+  <AcceptStartingPawns.text>เยี่ยม!\n\nสุ่มสลับตำแหน่งอีกก็ได้ แต่ไม่ต้องพยายามเอาตัวละครที่\n  \n  ยอดเยื่ยม!\n\nเลื่อนและสุ่มไปเรื่อยๆถ้าคุณต้องการ - แต่อย่าพยายามเอาให้ได้ตัวละครอันเฟอเฟ็คทุกอย่าง ทุกคนมีจุดด้อยทั้งนั้น ทำให้เรื่องราวน่าสนใจมากขึ้น!\n\nคุณยังสามารถเปลื่ยนชื่อตัวละครได้ ด้วยการคลิกที่ช่องชื่อของพวกเขา\n\nกด "เริ่มเล่น" เมื่อคุณพร้อม</AcceptStartingPawns.text>
   
   <!-- EN: Select this -->
   <AddBillSimpleMeal.onMapInstruction>TODO</AddBillSimpleMeal.onMapInstruction>
