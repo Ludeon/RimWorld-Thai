@@ -4,7 +4,7 @@
   <!-- EN: Cancel -->
   <DesignatorCancel>ยกเลิก</DesignatorCancel>
   <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
-  <DesignatorCancelDesc>ยกเลิกการกระทำ ไม่ว่าจะก่อสร้าง, ขุดเหมือง, ขนของ, เก็บเกี่ยว, และอื่นๆทั้งหมด ที่ได้บ่งชี้ไว้</DesignatorCancelDesc>
+  <DesignatorCancelDesc>ยกเลิกการกระทำ ไม่ว่าจะก่อสร้าง, ขุด, ขนของ, เก็บเกี่ยว, และอื่นๆทั้งหมด ที่ได้บ่งชี้ไว้</DesignatorCancelDesc>
 
   <!-- EN: Cut plants -->
   <DesignatorCutPlants>ตัดพืชไม้</DesignatorCutPlants>
@@ -44,7 +44,7 @@
   <DesignatorHuntDesc>ทำเครื่องหมายสัตว์ที่จะให้พรานของคุณล่า</DesignatorHuntDesc>
 
   <!-- EN: Mine -->
-  <DesignatorMine>ขุดเหมือง</DesignatorMine>
+  <DesignatorMine>ขุด</DesignatorMine>
   <!-- EN: Designate areas of rock to be mined out. -->
   <DesignatorMineDesc>บ่งชี้พื้นที่ของหิน ที่จะถูกขุด</DesignatorMineDesc>
 

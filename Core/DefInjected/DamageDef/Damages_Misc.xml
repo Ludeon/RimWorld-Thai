@@ -22,7 +22,7 @@
   <Extinguish.deathMessage>{0} โดนฆ่า</Extinguish.deathMessage>
   
   <!-- EN: mining -->
-  <Mining.label>ขุดเหมือง</Mining.label>
+  <Mining.label>ขุด</Mining.label>
   <!-- EN: {0} has been killed. -->
   <Mining.deathMessage>{0} โดนฆ่า</Mining.deathMessage>
   

@@ -62,7 +62,7 @@
   <!-- EN: [PAWN_pronoun] will successfully tame the next animal regardless of difficulty.\n\nThe inspiration will end after 8 days, or when an animal was tamed. -->
   <Inspired_Taming.beginLetter>[PAWN_pronoun]จะทำให้สัตว์ตัวต่อไปเชื่องสำเร็จโดยไม่คำนึงถึงระดับความยาก\n\nแรงบันดาลใจนี้จะหมดลงหลังจาก 8 วัน หรือเมื่อทำสัตว์เชื่อง</Inspired_Taming.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired taming). -->
-  <Inspired_Taming.endMessage>{0} หมดแรงบันดาลใจ (ทำเชื่อง)</Inspired_Taming.endMessage>
+  <Inspired_Taming.endMessage>{0} หมดแรงบันดาลใจ (ดลใจทำเชื่อง)</Inspired_Taming.endMessage>
   
   <!-- EN: inspired trade -->
   <Inspired_Trade.label>ดลใจค้าขาย</Inspired_Trade.label>

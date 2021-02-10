@@ -37,9 +37,9 @@
   <NeedDoctorDesc>ชาวนิคมเหล่านี้ต้องได้รับการรักษาพยาบาล แต่คุณไม่มีชาวนิคมที่สุขภาพสมบูรณ์คนไหน กำหนดหน้าที่ไว้เป็นแพทย์เลย\n\n{0}\nกำหนดชาวนิคมสุขภาพสมบูรณ์ไปประเภทการทำงาน แพทย์ หากไม่ได้รับการรักษา บาดแผลอาจไม่ฟื้นฟูอย่างสมบูรณ์แล้วอาจกลายเป็นแผลเป็นถาวรได้</NeedDoctorDesc>
 
   <!-- EN: Need miner -->
-  <NeedMiner>ต้องการคนงานเหมือง</NeedMiner>
+  <NeedMiner>ต้องการคนงานขุด</NeedMiner>
   <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
-  <NeedMinerDesc>คุณได้กำหนดให้หินถูกขุด แต่ไม่มีชาวนิคมคนไหนมีประเภทการทำงาน ขุดเหมือง\n\nกำหนดชาวนิคมไปประเภทงาน ขุดเหมือง</NeedMinerDesc>
+  <NeedMinerDesc>คุณได้กำหนดให้หินถูกขุด แต่ไม่มีชาวนิคมคนไหนมีประเภทการทำงานขุด\n\nกำหนดชาวนิคมไปประเภทงานขุด</NeedMinerDesc>
 
   <!-- EN: Need warden -->
   <NeedWarden>ต้องการพัศดี</NeedWarden>
@@ -142,9 +142,9 @@
   <ShieldUserHasRangedWeaponDesc>ชาวนิคมของคุณคนหนึ่งใส่เข็มขัดเกราะและกำลังถืออาวุธระยะไกล เขาจะไม่สามารถยิงอาวุธของเขาผ่านเกราะได้ (นอกจากเป้าหมายที่แตะตัวถึงพวกเขาแล้ว)</ShieldUserHasRangedWeaponDesc>
 
   <!-- EN: Need research project -->
-  <NeedResearchProject>ต้องการโครงการวิจัย</NeedResearchProject>
+  <NeedResearchProject>ต้องการงานวิจัย</NeedResearchProject>
   <!-- EN: You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project. -->
-  <NeedResearchProjectDesc>คุณมีอุปกรณ์สำหรับทำการวิจัย แต่ยังไม่ได้เลือกโครงการ\n\nไปเปิดเมนูวิจัยแล้วเลือกโครงการ</NeedResearchProjectDesc>
+  <NeedResearchProjectDesc>คุณมีอุปกรณ์สำหรับทำการวิจัย แต่ยังไม่ได้เลือกงาน\n\nไปเปิดเมนูวิจัยแล้วเลือกงาน</NeedResearchProjectDesc>
 
   <!-- EN: {0} colonists idle -->
   <ColonistsIdle>ชาวนิคม {0} คนว่าง</ColonistsIdle>

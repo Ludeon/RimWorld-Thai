@@ -501,15 +501,15 @@
   <!-- EN: Techprint applied: {PROJECT_label} -->
   <LetterTechprintAppliedLabel>พิมพ์เทคถูกใช้: {PROJECT_label}</LetterTechprintAppliedLabel>
   <!-- EN: A techprint has been applied to the research project: {PROJECT_label}. -->
-  <LetterTechprintAppliedPartIntro>พิมพ์เทคถูกใช้งานกับโครงการ: {PROJECT_label}</LetterTechprintAppliedPartIntro>
+  <LetterTechprintAppliedPartIntro>พิมพ์เทคถูกใช้งานกับงานวิจัย: {PROJECT_label}</LetterTechprintAppliedPartIntro>
   <!-- EN: You've completed the project's techprint requirements! Your researchers can now begin researching how to actually use the technology at your research benches. -->
-  <LetterTechprintAppliedPartJustUnlocked>คุณเติมเต็มความต้องการพิมพ์เทคของโครงการนี้! ตอนนี้นักวิจัยของคุณสามารถเริ่มวิจัยเทคโนโลยีจริงๆได้ที่โต๊ะวิจัย</LetterTechprintAppliedPartJustUnlocked>
+  <LetterTechprintAppliedPartJustUnlocked>คุณเติมเต็มความต้องการพิมพ์เทคของงานวิจัยนี้! ตอนนี้นักวิจัยของคุณสามารถเริ่มวิจัยเทคโนโลยีจริงๆได้ที่โต๊ะวิจัย</LetterTechprintAppliedPartJustUnlocked>
   <!-- EN: This project's techprint requirements are not yet satisfied. {0} techprints have been applied so far. The project requires {1} in total. -->
-  <LetterTechprintAppliedPartNotUnlockedYet>ความต้องการพิมพ์เทคของโครงการนี้ยังไม่ถูกเติมเต็ม พิมพ์เทคถูกใช้งานไป {0} แต่โครงการต้องการทั้งหมด {1}</LetterTechprintAppliedPartNotUnlockedYet>
+  <LetterTechprintAppliedPartNotUnlockedYet>ความต้องการพิมพ์เทคของงานวิจัยนี้ยังไม่ถูกเติมเต็ม พิมพ์เทคถูกใช้งานไป {0} แต่งานวิจัยต้องการทั้งหมด {1}</LetterTechprintAppliedPartNotUnlockedYet>
   <!-- EN: This project's techprint requirements were already satisfied. The extra techprint advanced your research efforts on {PROJECT_label}. Half the remaining research work, {0} points, has been completed. -->
-  <LetterTechprintAppliedPartAlreadyUnlocked>ความต้องการพิมพ์เทคในโครงการนี้เต็มแล้ว พิมพ์เทคที่เกินนำไปพัฒนาความพยายามวิจัย {PROJECT_label}, ครึ่งหนึ่งของงานวิจัย คือ {0} แต้ม ก็ได้เสร็จไป</LetterTechprintAppliedPartAlreadyUnlocked>
+  <LetterTechprintAppliedPartAlreadyUnlocked>ความต้องการพิมพ์เทคในงานวิจัยนี้เต็มแล้ว พิมพ์เทคที่เกินนำไปพัฒนาความพยายามวิจัย {PROJECT_label}, ครึ่งหนึ่งของงานวิจัย คือ {0} แต้ม ก็ได้เสร็จไป</LetterTechprintAppliedPartAlreadyUnlocked>
   <!-- EN: This project is already fully researched, so the techprint didn't advance your knowledge at all. -->
-  <LetterTechprintAppliedPartAlreadyResearched>โครงการนี้วิจัยเต็มที่แล้ว, ดังนั้นพิมพ์เทคไม่ได้พัฒนาความรู้คุณเลยแต่น้อย</LetterTechprintAppliedPartAlreadyResearched>
+  <LetterTechprintAppliedPartAlreadyResearched>งานวิจัยนี้วิจัยเต็มที่แล้ว, ดังนั้นพิมพ์เทคไม่ได้พัฒนาความรู้คุณเลยแต่น้อย</LetterTechprintAppliedPartAlreadyResearched>
   <!-- EN: By applying the techprint, {PAWN_labelShort} gained {0} experience in the {1} skill. -->
   <LetterTechprintAppliedPartExpAwarded>โดยการใช้พิมพ์เทค, {PAWN_labelShort} ได้รับประสบการณ์ {0} ในทักษะ {1}</LetterTechprintAppliedPartExpAwarded>
   

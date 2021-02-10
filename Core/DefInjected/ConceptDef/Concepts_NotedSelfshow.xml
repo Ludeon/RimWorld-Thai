@@ -122,9 +122,9 @@
   <MedicalOperations.helpText>ในการกำหนดการผ่าตัดทางการแพทย์ อย่างการเก็บเกี่ยวอวัยวะ หรือการติดตั้งกายอุปกรณ์ ให้เปิดแท็บ สุขภาพ ของชาวนิคม แล้วสลับไปที่แท็บย่อย การผ่าตัด</MedicalOperations.helpText>
   
   <!-- EN: Mining -->
-  <Mining.label>การขุดเหมือง</Mining.label>
+  <Mining.label>การขุด</Mining.label>
   <!-- EN: You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials. -->
-  <Mining.helpText>คุณสามารถกำหนดได้ว่าตรงไหนควรไปขุดเหมืองโดยเปิดเมนู สถาปนิก แล้วเลือกแท็บ คำสั่ง\n\nบล็อกขุดได้บางบล็อกเป็น เหล็กกล้า ทอง พลาสตีล และวัสดุมีประโยชน์อื่น ๆ</Mining.helpText>
+  <Mining.helpText>คุณสามารถกำหนดได้ว่าตรงไหนควรไปขุดโดยเปิดเมนู สถาปนิก แล้วเลือกแท็บ คำสั่ง\n\nบล็อกขุดได้บางบล็อกเป็น เหล็กกล้า ทอง พลาสตีล และวัสดุมีประโยชน์อื่น ๆ</Mining.helpText>
   
   <!-- EN: Outfits -->
   <Outfits.label>ชุด</Outfits.label>
