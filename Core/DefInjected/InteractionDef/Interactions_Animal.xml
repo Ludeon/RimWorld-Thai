@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: animal chat -->
-  <AnimalChat.label>คุยกับสัตว์</AnimalChat.label>
+  <AnimalChat.label>สัตว์คุย</AnimalChat.label>
   <!-- EN:
     <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [INITIATOR_objective]self about [TalkTopicAny].</li>
@@ -27,10 +27,33 @@
     <li>tamed->sat patiently near</li>
     <li>tamed->whispered a story about [TalkTopicAny] to</li>
   -->
-  <AnimalChat.logRulesInitiator.rulesStrings>TODO</AnimalChat.logRulesInitiator.rulesStrings>
+  <AnimalChat.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=5)->[INITIATOR_nameDef][tamed][RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef]นั่งใกล้[RECIPIENT_nameDef]แล้วคุยกับตัวเองเกี่ยวกับ[TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef]เข้าใกล้[RECIPIENT_nameDef]ขณะที่กระซิบกับตัวเองเกี่ยวกับ[TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef]มาใกล้[RECIPIENT_nameDef]ขณะที่คุยกับตัวเองเกี่ยวกับ[TalkTopicAny].</li>
+    <li>tamed->ทำเสียงสงบ ๆ ใส่</li>
+    <li>tamed->แสดงท่าทางช้า ๆ เป็นมิตรกับ</li>
+    <li>tamed->ทำเสียงชู่ว์ใส่</li>
+    <li>tamed->ทำเสียงจุ๊ ๆ สุขสันต์ใส่</li>
+    <li>tamed->แสดงท่าทางอ่อนโยนแล้วเข้าใกล้</li>
+    <li>tamed->ค่อย ๆ เข้าใกล้</li>
+    <li>tamed->ค่อย ๆ จับ</li>
+    <li>tamed->สงบใจและให้กำลังใจ</li>
+    <li>tamed->หายใจพร้อมกับ</li>
+    <li>tamed->วางตัวต่ำขณะเข้าใกล้</li>
+    <li>tamed->ไม่แสดงความกลัวหรือความโกรธต่อ</li>
+    <li>tamed->แกล้งทำเป็นไม่สนใจ</li>
+    <li>tamed->ฮัมเพลงเบา ๆ ให้</li>
+    <li>tamed->ร้องเพลงกล่อมเก่าให้</li>
+    <li>tamed->ค่อย ๆ เข้ามาจับ</li>
+    <li>tamed->แสดงกิริยาท่าทางผ่อนคลายต่อ</li>
+    <li>tamed->ใจเย็นนั่งใกล้ ๆ </li>
+    <li>tamed->กระซิบเรื่องเกี่ยวกับ[TalkTopicAny]ให้</li>
+  </AnimalChat.logRulesInitiator.rulesStrings>
   
   <!-- EN: nuzzle -->
-  <Nuzzle.label>อ้อน</Nuzzle.label>
+  <Nuzzle.label>เคล้าเคลีย</Nuzzle.label>
   <!-- EN:
     <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].</li>
@@ -57,10 +80,35 @@
     <li>rubbedpart->side</li>
     <li>rubbedpart->arm</li>
   -->
-  <Nuzzle.logRulesInitiator.rulesStrings>TODO</Nuzzle.logRulesInitiator.rulesStrings>
+  <Nuzzle.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=2)->[INITIATOR_nameDef][nuzzled][RECIPIENT_nameDef][nuzzleadverb]</li>
+    <li>r_logentry->[INITIATOR_nameDef]ลูบจมูกของ[INITIATOR_possessive]กับ[rubbedpart]ของ[RECIPIENT_nameDef][nuzzleadverb]</li>
+    <li>nuzzled(p=2)->เคล้าเคลีย</li>
+    <li>nuzzled->ซุกตัวเข้าหา</li>
+    <li>nuzzleadverb(p=4)-></li>
+    <li>nuzzleadverb->อย่างอ่อนโยน</li>
+    <li>nuzzleadverb->อย่างให้กำลังใจ</li>
+    <li>nuzzleadverb->อย่างมีความสุข</li>
+    <li>nuzzleadverb->อย่างนุ่มนวล</li>
+    <li>nuzzleadverb->อย่างเป็นกำลังใจ</li>
+    <li>nuzzleadverb->อย่างเบา ๆ</li>
+    <li>nuzzleadverb->อย่างอบอุ่น</li>
+    <li>nuzzleadverb->อย่างเศร้าโศก</li>
+    <li>nuzzleadverb->อย่างรักใคร่</li>
+    <li>nuzzleadverb->อย่างเป็นที่รัก</li>
+    <li>rubbedpart->ขา</li>
+    <li>rubbedpart->เข่า</li>
+    <li>rubbedpart->เท้า</li>
+    <li>rubbedpart->ศอก</li>
+    <li>rubbedpart->สะโพก</li>
+    <li>rubbedpart->ไหล่</li>
+    <li>rubbedpart->มือ</li>
+    <li>rubbedpart->ข้าง</li>
+    <li>rubbedpart->แขน</li>
+  </Nuzzle.logRulesInitiator.rulesStrings>
   
   <!-- EN: tame attempt -->
-  <TameAttempt.label>พยายามทำให้เชื่อง</TameAttempt.label>
+  <TameAttempt.label>พยายามทำเชื่อง</TameAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to tame [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] tried to bring [RECIPIENT_nameDef] under control.</li>
@@ -78,10 +126,26 @@
     <li>r_logentry->[INITIATOR_nameDef] pointed at the ground, demanding that [RECIPIENT_nameDef] come.</li>
     <li>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a first command.</li>
   -->
-  <TameAttempt.logRulesInitiator.rulesStrings>TODO</TameAttempt.logRulesInitiator.rulesStrings>
+  <TameAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]พยายามทำให้[RECIPIENT_nameDef]เชื่อง</li>
+    <li>r_logentry->[INITIATOR_nameDef]พยายามควบคุม[RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef]พยายามจับ[RECIPIENT_nameDef]ใส่ปลอกคอ</li>
+    <li>r_logentry->[INITIATOR_nameDef]เรียกร้องความเชื่อฟังจาก[RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef]เรียก[RECIPIENT_nameDef]ให้มาหา[INITIATOR_objective]</li>
+    <li>r_logentry->[INITIATOR_nameDef]พยายามให้[RECIPIENT_nameDef]นั่งอยู่เฉย ๆ</li>
+    <li>r_logentry->[INITIATOR_nameDef]จับ[RECIPIENT_nameDef]อย่างแรงแล้วออกคำสั่ง</li>
+    <li>r_logentry->[INITIATOR_nameDef]พยายามจับ[RECIPIENT_nameDef]ให้อยู่นิ่ง ๆ</li>
+    <li>r_logentry->[INITIATOR_nameDef]ตะโกนคำสั่งใส่[RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef]ตบ[RECIPIENT_nameDef]เพื่อแสดงความเป็นใหญ่</li>
+    <li>r_logentry->[INITIATOR_nameDef]ชี้ทางให้[RECIPIENT_nameDef]กลับชุมชน</li>
+    <li>r_logentry->[INITIATOR_nameDef]เรียกให้[RECIPIENT_nameDef]กลับมาที่ชุมชน</li>
+    <li>r_logentry->[INITIATOR_nameDef]จับจุดอ่อนของ[RECIPIENT_nameDef] เป็นการเรียกร้องความเชื่อฟัง</li>
+    <li>r_logentry->[INITIATOR_nameDef]ชี้ลงไปที่พื้น เพื่อเรียกให้[RECIPIENT_nameDef]มา</li>
+    <li>r_logentry->[INITIATOR_nameDef]ให้คำสั่งแรกกับ[RECIPIENT_nameDef]</li>
+  </TameAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: train attempt -->
-  <TrainAttempt.label>พยายามฝึกสัตว์</TrainAttempt.label>
+  <TrainAttempt.label>พยายามฝึก</TrainAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</li>
     <li>trained(p=2)->[tried] to train</li>
@@ -94,6 +158,17 @@
     <li>tried->tried</li>
     <li>tried->attempted</li>
   -->
-  <TrainAttempt.logRulesInitiator.rulesStrings>TODO</TrainAttempt.logRulesInitiator.rulesStrings>
+  <TrainAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef][trained][RECIPIENT_nameDef]</li>
+    <li>trained(p=2)->[tried]ฝึก</li>
+    <li>trained->[tried]แสดงลูกเล่นใหม่ให้กับ</li>
+    <li>trained->[tried]สร้างระเบียบให้กับ</li>
+    <li>trained->[tried]สอน</li>
+    <li>trained->[tried]ปลุกทักษะใหม่ให้กับ</li>
+    <li>trained->แสดงทักษะใหม่ให้กับ</li>
+    <li>trained->กระตุ้นการตอบสนองใหม่จาก</li>
+    <li>tried->พยายาม</li>
+    <li>tried->พยายามที่จะ</li>
+  </TrainAttempt.logRulesInitiator.rulesStrings>
   
 </LanguageData>

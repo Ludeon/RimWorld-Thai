@@ -39,20 +39,60 @@
     <li>subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic]</li>
     <li>subject(p=8)->[TalkTopicLight]</li>
   -->
-  <BuildRapport.logRulesInitiator.rulesStrings>TODO</BuildRapport.logRulesInitiator.rulesStrings>
+  <BuildRapport.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef][toldastoryabout][subject]กับ[RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef]บอก[RECIPIENT_nameDef]เกี่ยวกับ[subject]</li>
+    <li>r_logentry->[INITIATOR_nameDef]อธิบาย[subject]กับ[RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef]ปลุกใจให้[RECIPIENT_nameDef][talkabout][subject]</li>
+    <li>r_logentry->[INITIATOR_nameDef]เสนอโอกาสให้[RECIPIENT_nameDef][talkabout][subject]</li>
+    <li>r_logentry->[INITIATOR_nameDef]แสดงความสนใจกับ[PersonalCharacteristic]ของ[RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef]ถาม[RECIPIENT_nameDef]เกี่ยวกับ[PersonalCharacteristic]ของ[RECIPIENT_possessive]</li>
+    <li>toldastoryabout(p=2)->เล่าเรื่องเกี่ยวกับ</li>
+    <li>toldastoryabout->เล่าเรื่องตลกเกี่ยวกับ</li>
+    <li>toldastoryabout->เล่าเรื่องซึ้งใจเกี่ยวกับ</li>
+    <li>toldastoryabout->เล่าเรื่องเก่าเกี่ยวกับ</li>
+    <li>toldastoryabout->เล่าเรื่องครอบครัวเกี่ยวกับ</li>
+    <li>toldastoryabout->เล่าเรื่องวัยเด็กเกี่ยวกับ</li>
+    <li>toldastoryabout->พูดถึงเกล็ดเกี่ยวกับ</li>
+    <li>talkabout->คุยเกี่ยวกับ</li>
+    <li>talkabout->หารือเรื่อง</li>
+    <li>talkabout->หารือเกี่ยวกับ</li>
+    <li>talkabout->ถามเกี่ยวกับ</li>
+    <li>talkabout->คิดเรื่อง</li>
+    <li>talkabout->หาข้อตกลงร่วมกันเรื่อง</li>
+    <li>subject->นิคม</li>
+    <li>subject->ชุมชน</li>
+    <li>subject->การเข้าร่วมนิคม</li>
+    <li>subject->การเปลี่ยนทีม</li>
+    <li>subject->การหาเพื่อน</li>
+    <li>subject->การพบปะคนใหม่ ๆ </li>
+    <li>subject->การพิจารณาความคิดของ[RECIPIENT_possessive]ใหม่</li>
+    <li>subject->การคิดเรื่องความภักดีของ[RECIPIENT_possessive]ใหม่</li>
+    <li>subject->สุขภาพ</li>
+    <li>subject->อนาคต</li>
+    <li>subject->การปล่อยวาง</li>
+    <li>subject(p=4)->[ConceptPositive]</li>
+    <li>subject(p=2)->[PersonalCharacteristic]ของ[INITIATOR_possessive]</li>
+    <li>subject(p=8)->[TalkTopicLight]</li>
+  </BuildRapport.logRulesInitiator.rulesStrings>
   
   <!-- EN: recruit attempt -->
-  <RecruitAttempt.label>พยายามรับสมัคร</RecruitAttempt.label>
+  <RecruitAttempt.label>พยายามชักชวน</RecruitAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] to join.</li>
     <li>r_logentry->[INITIATOR_nameDef] promised [goodthing] to [RECIPIENT_nameDef], and asked [RECIPIENT_objective] to join.</li>
     <li>goodthing(p=15)->[ConceptPositive]</li>
     <li>goodthing->free, fresh [Vegetable]s</li>
   -->
-  <RecruitAttempt.logRulesInitiator.rulesStrings>TODO</RecruitAttempt.logRulesInitiator.rulesStrings>
+  <RecruitAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] to join.</li>
+    <li>r_logentry->[INITIATOR_nameDef] promised [goodthing] to [RECIPIENT_nameDef], and asked [RECIPIENT_objective] to join.</li>
+    <li>goodthing(p=15)->[ConceptPositive]</li>
+    <li>goodthing->free, fresh [Vegetable]s</li>
+  </RecruitAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: spark jailbreak -->
-  <SparkJailbreak.label>จุดประกายให้นักโทษ</SparkJailbreak.label>
+  <SparkJailbreak.label>เร้าแหกคุก</SparkJailbreak.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] spoke about the joy of [freedom], and offered a means of escape.</li>
     <li>r_logentry->[INITIATOR_nameDef] talked about how beautiful the [TerrainFeature] is, and offered freedom.</li>
@@ -63,6 +103,15 @@
     <li>freedom->home</li>
     <li>freedom->self-determination</li>
   -->
-  <SparkJailbreak.logRulesInitiator.rulesStrings>TODO</SparkJailbreak.logRulesInitiator.rulesStrings>
+  <SparkJailbreak.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]พูดถึงความสุขสำราญของ[freedom] แล้วเสนอหนทางออกไปให้</li>
+    <li>r_logentry->[INITIATOR_nameDef]คุยว่า[TerrainFeature]มันงดงามแค่ไหน แล้วเสนอเสรีภาพ</li>
+    <li>r_logentry->[INITIATOR_nameDef]แสดงหนทางออกให้[RECIPIENT_nameDef]ดู แล้วสัญญาให้[freedom].</li>
+    <li>r_logentry->[INITIATOR_nameDef]บอก[RECIPIENT_nameDef]ว่าการรักษาความปลอดภัยหย่อนลง แล้วปลุกใจให้หนี</li>
+    <li>freedom->เสรีภาพ</li>
+    <li>freedom->โอกาส</li>
+    <li>freedom->บ้าน</li>
+    <li>freedom->ความเชื่อมั่นในตัวเอง</li>
+  </SparkJailbreak.logRulesInitiator.rulesStrings>
   
 </LanguageData>

@@ -10,10 +10,10 @@
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</li>
   -->
   <Breakup.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] ขอเลิกกับ [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] ขอเว้นระยะห่างกับ [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] บอก [RECIPIENT_nameDef] ว่าไปกันไม่ได้.</li>
-    <li>r_logentry->[INITIATOR_nameDef] บอกจะดีกว่าถ้า [RECIPIENT_nameDef] มองหาคนอื่น.</li>
+    <li>r_logentry->[INITIATOR_nameDef]ขอเลิกกับ[RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef]ขอเว้นระยะห่างกับ[RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef]บอก[RECIPIENT_nameDef]ว่าไปกันไม่ได้</li>
+    <li>r_logentry->[INITIATOR_nameDef]บอก[RECIPIENT_nameDef]ว่าไปคบกับคนอื่นจะดีกว่า</li>
   </Breakup.logRulesInitiator.rulesStrings>
   
   <!-- EN: marriage proposal -->
@@ -24,9 +24,9 @@
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [RECIPIENT_objective].</li>
   -->
   <MarriageProposal.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] ขอ [RECIPIENT_nameDef] แต่งงาน.</li>
-    <li>r_logentry->[INITIATOR_nameDef] ขอมีชีวิตคู่ร่วมกับ [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] บอก [RECIPIENT_nameDef] ว่า[INITIATOR_pronoun]ต้องการใช้ทั้งชีวิต[INITIATOR_possessive]ร่วมกับ[RECIPIENT_objective].</li>
+    <li>r_logentry->[INITIATOR_nameDef]ขอ[RECIPIENT_nameDef]แต่งงาน</li>
+    <li>r_logentry->[INITIATOR_nameDef]ขอมีชีวิตคู่ร่วมกับ[RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef]บอก[RECIPIENT_nameDef]ว่า[INITIATOR_pronoun]ต้องการใช้ทั้งชีวิตของ[INITIATOR_possessive]ร่วมกับ[RECIPIENT_objective]</li>
   </MarriageProposal.logRulesInitiator.rulesStrings>
   
   <!-- EN: romance attempt -->
@@ -94,7 +94,7 @@
     <li>romantic_noun(p=2)->[NaturalObject]</li>
   -->
   <RomanceAttempt.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] ด้วยการ[wootactic].</li>
+    <li>r_logentry->[INITIATOR_nameDef][wooed][RECIPIENT_nameDef]ด้วยการ[wootactic]</li>
     <li>wooed->พยายามจีบ</li>
     <li>wooed->เกี้ยวพาราสีกับ</li>
     <li>wooed->พยายามดึงความสนใจ</li>
@@ -105,13 +105,13 @@
     <li>wooed->หว่านเสน่ห์</li>
     <li>wooed->จีบติด</li>
     <li>wootactic(p=4)->[complimenting][PersonalCharacteristic][RECIPIENT_possessive]</li>
-    <li>wootactic->เล่าถึงเรื่องราวเกี่ยวกับ[TalkTopicAny]</li>
-    <li>wootactic->เล่าถึงนิทานเกี่ยวกับ[TalkTopicAny]</li>
+    <li>wootactic->เล่าเรื่องเกี่ยวกับ[TalkTopicAny]</li>
+    <li>wootactic->เล่านิทานเกี่ยวกับ[TalkTopicAny]</li>
     <li>wootactic->ล้อเล่นเกี่ยวกับ[TalkTopicAny]</li>
     <li>wootactic->ตั้งข้อสังเกตเกี่ยวกับ[TalkTopicAny]</li>
     <li>wootactic(p=2)->[boasting][PersonalCharacteristic][INITIATOR_possessive]เอง </li>
     <li>wootactic->เปรียบเทียบ[RECIPIENT_objective]กับ[romantic_noun]อัน[romantic_adj]</li>
-    <li>wootactic->บรรยายถึง[RECIPIENT_objective]ราวกับ[romantic_noun]อัน[romantic_adj]</li>
+    <li>wootactic->บรรยายว่า[RECIPIENT_objective]ราวกับ[romantic_noun]อัน[romantic_adj]</li>
     <li>boasting->โอ้อวดเกี่ยวกับ</li>
     <li>boasting->เอ่ยถึง</li>
     <li>boasting->บอกเป็นนัยถึงเรื่องดีๆเกี่ยวกับ</li>
@@ -123,10 +123,10 @@
     <li>complimenting->สรรเสริญ</li>
     <li>complimenting->ยกย่อง</li>
     <li>complimenting->พูดถึงเรื่องดีๆเกี่ยวกับ</li>
-    <li>complimenting(p=2)->หยอกล้อขำๆต่อ</li>
-    <li>complimenting->แหย่ขำๆไปที่</li>
+    <li>complimenting(p=2)->หยอกล้อขำ ๆ ต่อ</li>
+    <li>complimenting->แหย่ขำ ๆ ไปที่</li>
     <li>complimenting->กึ่งชื่นชมกึ่งขำ</li>
-    <li>complimenting->ถามอย่างซนๆถึง</li>
+    <li>complimenting->ถามอย่างซน ๆ ถึง</li>
     <li>complimenting->หยอกล้ออย่างเบิกบานต่อ</li>
     <li>romantic_adj->สวยงาม</li>
     <li>romantic_adj->เปล่งประกาย</li>
@@ -150,7 +150,7 @@
     <li>romantic_noun->จันทร์</li>
     <li>romantic_noun->อาทิตย์</li>
     <li>romantic_noun->เรือน</li>
-    <li>romantic_noun->ออโรร่า</li>
+    <li>romantic_noun->ออโรรา</li>
     <li>romantic_noun->ต้น[TreeType]</li>
     <li>romantic_noun(p=2)->[TerrainFeature]</li>
     <li>romantic_noun(p=2)->[NaturalObject]</li>
