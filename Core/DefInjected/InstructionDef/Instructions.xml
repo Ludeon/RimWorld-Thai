@@ -96,6 +96,8 @@
   
   <!-- EN: Welcome to RimWorld! This tutorial will teach you how to play the game.\n\nThe first step is to generate a world to play in.\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
   <CreateWorldParams.text>ยินดีต้อนรับสู่ Rimworld! ในการแนะนำนี้ เราจะสอนวิธีเล่นเกมให้กับคุณ\n\nขั้นตอนแรกคือการสร้างโลกที่จะนำมาใช้เล่น\n\nหน้านี้ใช้ปรับแต่งวิธีการสร้างโลกของคุณให้เป็นไปตามที่คุณต้องการ\n\nการตั้งค่าแรกเริ่มนี้ดีแล้ว - ไปคลิกที่ สร้าง เลย!</CreateWorldParams.text>
+  <!-- EN: Click GENERATE to generate your world. -->
+  <CreateWorldParams.rejectInputMessage>TODO</CreateWorldParams.rejectInputMessage>
   
   <!-- EN: Send colonists here\ntouching sandbags for cover -->
   <DownRaider.onMapInstruction>ส่งชาวนิคมมาที่นี่ ติดกับกระสอบทรายไว้เป็นกำบัง</DownRaider.onMapInstruction>
