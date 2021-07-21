@@ -31,10 +31,8 @@
   <!-- EN: {0} total -->
   <RoyalTitleTooltipRoyalFavorTotal>TODO</RoyalTitleTooltipRoyalFavorTotal>
 
-  <!-- EN: Royal title offset -->
-  <RecruitmentValueOffsetRoyal>TODO</RecruitmentValueOffsetRoyal>
-  <!-- EN: Royal title factor -->
-  <RecruitmentValueFactorRoyal>TODO</RecruitmentValueFactorRoyal>
+  <!-- EN: {0} title -->
+  <RecruitmentResistanceRoyalTitleOffset>TODO</RecruitmentResistanceRoyalTitleOffset>
   
   <!-- Permits tab -->
   <!-- EN: Permits -->
