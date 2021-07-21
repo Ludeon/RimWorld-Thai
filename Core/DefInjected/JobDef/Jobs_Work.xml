@@ -11,10 +11,19 @@
   <Capture.reportString>กำลังจับตัว TargetA</Capture.reportString>
   
   <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnDrafted.reportString>TODO</CarryDownedPawnDrafted.reportString>
+  
+  <!-- EN: carrying TargetA. -->
   <CarryDownedPawnToExit.reportString>กำลังแบก TargetA.</CarryDownedPawnToExit.reportString>
   
   <!-- EN: carrying TargetA to cryptosleep casket. -->
   <CarryToCryptosleepCasket.reportString>กำลังแบก TargetA ไปยังโลงคริปโตสลีป</CarryToCryptosleepCasket.reportString>
+  
+  <!-- EN: carrying TargetA to cryptosleep casket. -->
+  <CarryToCryptosleepCasketDrafted.reportString>TODO</CarryToCryptosleepCasketDrafted.reportString>
+  
+  <!-- EN: arresting TargetA. -->
+  <CarryToPrisonerBedDrafted.reportString>TODO</CarryToPrisonerBedDrafted.reportString>
   
   <!-- EN: cleaning TargetA. -->
   <Clean.reportString>กำลังทำความสะอาด TargetA</Clean.reportString>
@@ -45,6 +54,9 @@
   
   <!-- EN: replacing broken components in TargetA. -->
   <FixBrokenDownBuilding.reportString>กำลังเปลี่ยนชิ้นส่วนที่เสียหายใน TargetA</FixBrokenDownBuilding.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <GuiltyColonistExecution.reportString>TODO</GuiltyColonistExecution.reportString>
   
   <!-- EN: harvesting TargetA. -->
   <Harvest.reportString>กำลังเก็บเกี่ยว TargetA</Harvest.reportString>
@@ -85,6 +97,9 @@
   <!-- EN: executing TargetA. -->
   <PrisonerExecution.reportString>กำลังจะประหาร TargetA</PrisonerExecution.reportString>
   
+  <!-- EN: releasing TargetA into the wild. -->
+  <ReleaseAnimalToWild.reportString>TODO</ReleaseAnimalToWild.reportString>
+  
   <!-- EN: releasing TargetA. -->
   <ReleasePrisoner.reportString>กำลังปล่อยตัว TargetA</ReleasePrisoner.reportString>
   
@@ -102,6 +117,12 @@
   
   <!-- EN: researching. -->
   <Research.reportString>กำลังค้นคว้าวิจัย</Research.reportString>
+  
+  <!-- EN: leading TargetA to TargetC. -->
+  <RopeRoamerToUnenclosedPen.reportString>TODO</RopeRoamerToUnenclosedPen.reportString>
+  
+  <!-- EN: leading TargetA to TargetC. -->
+  <RopeToPen.reportString>TODO</RopeToPen.reportString>
   
   <!-- EN: shearing TargetA. -->
   <Shear.reportString>กำลังตัดขน TargetA</Shear.reportString>
@@ -121,8 +142,14 @@
   <!-- EN: stealing TargetA. -->
   <Steal.reportString>กำลังขโมย TargetA.</Steal.reportString>
   
+  <!-- EN: Studying TargetA. -->
+  <StudyThing.reportString>TODO</StudyThing.reportString>
+  
   <!-- EN: taking TargetA to bed. -->
   <TakeToBedToOperate.reportString>กำลังพา TargetA ไปที่เตียง</TakeToBedToOperate.reportString>
+  
+  <!-- EN: taking TargetA to bed. -->
+  <TakeToBedToOperate.reportString>TODO</TakeToBedToOperate.reportString>
   
   <!-- EN: taking wounded prisoner TargetA. -->
   <TakeWoundedPrisonerToBed.reportString>กำลังพาตัวนักโทษ TargetA ที่บาดเจ็บไปเตียง</TakeWoundedPrisonerToBed.reportString>
