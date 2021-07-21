@@ -26,13 +26,22 @@
   <CastAbilityOnWorldTile.reportString>TODO</CastAbilityOnWorldTile.reportString>
   
   <!-- EN: Doing something. -->
+  <CastAbilityTouch.reportString>TODO</CastAbilityTouch.reportString>
+  
+  <!-- EN: Doing something. -->
   <CastJump.reportString>TODO</CastJump.reportString>
   
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>กำลังกวาดหิมะ</ClearSnow.reportString>
   
+  <!-- EN: delivering TargetA. -->
+  <DeliverToCell.reportString>TODO</DeliverToCell.reportString>
+  
   <!-- EN: dropping TargetA. -->
   <DropEquipment.reportString>กำลังจะทิ้ง TargetA</DropEquipment.reportString>
+  
+  <!-- EN: emptying TargetA. -->
+  <EmptyThingContainer.reportString>TODO</EmptyThingContainer.reportString>
   
   <!-- EN: entering cryptosleep casket. -->
   <EnterCryptosleepCasket.reportString>กำลังเข้าโลงคริปโตสลีป</EnterCryptosleepCasket.reportString>
@@ -63,6 +72,9 @@
   
   <!-- EN: following TargetA. -->
   <FollowClose.reportString>กำลังติดตาม TargetA</FollowClose.reportString>
+  
+  <!-- EN: following TargetA. -->
+  <FollowRoper.reportString>TODO</FollowRoper.reportString>
   
   <!-- EN: taking TargetA. -->
   <GiveToPackAnimal.reportString>กำลังเลือก TargetA.</GiveToPackAnimal.reportString>
@@ -99,6 +111,12 @@
   
   <!-- EN: lying down. -->
   <LayDown.reportString>กำลังนอนเล่น</LayDown.reportString>
+  
+  <!-- EN: lying down. -->
+  <LayDownAwake.reportString>TODO</LayDownAwake.reportString>
+  
+  <!-- EN: lying down. -->
+  <LayDownResting.reportString>TODO</LayDownResting.reportString>
   
   <!-- EN: lovin'. -->
   <Lovin.reportString>โคตรรัก</Lovin.reportString>
@@ -143,7 +161,10 @@
   <TakeBeerOutOfFermentingBarrel.reportString>กำลังเอาเบียร์ออกจาก TargetA</TakeBeerOutOfFermentingBarrel.reportString>
   
   <!-- EN: taking TargetA to inventory. -->
-  <TakeInventory.reportString>กำลังไปหยิบ TargetA</TakeInventory.reportString>
+  <TakeCountToInventory.reportString>กำลังไปหยิบ TargetA</TakeCountToInventory.reportString>
+  
+  <!-- EN: taking TargetA to inventory. -->
+  <TakeInventory.reportString>TODO</TakeInventory.reportString>
   
   <!-- EN: trading with TargetA. -->
   <TradeWithPawn.reportString>กำลังซื้อขายแลกเปลื่ยนกับ TargetA.</TradeWithPawn.reportString>
