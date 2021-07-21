@@ -7,11 +7,17 @@
   <!-- EN: explosion -->
   <Explosion.label>ระเบิด</Explosion.label>
   
+  <!-- EN: proximity trigger -->
+  <RadialTrigger.label>TODO</RadialTrigger.label>
+  
   <!-- EN: rect trigger -->
   <RectTrigger.label>Rect Trigger</RectTrigger.label>
   
   <!-- EN: tornado -->
   <Tornado.label>พายุหมุน</Tornado.label>
+  
+  <!-- EN: trigger container emptied -->
+  <TriggerContainerEmptied.label>TODO</TriggerContainerEmptied.label>
   
   <!-- EN: trigger unfogged -->
   <TriggerUnfogged.label>เปิดหมอก</TriggerUnfogged.label>

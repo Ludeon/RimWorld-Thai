@@ -30,6 +30,9 @@
   <!-- EN: A puddle of flammable chemfuel. -->
   <Filth_Fuel.description>แอ่งของเชื้อเพลิงเคมีไวไฟ</Filth_Fuel.description>
   
+  <!-- EN: hair -->
+  <Filth_Hair.label>TODO</Filth_Hair.label>
+  
   <!-- EN: machine bits -->
   <Filth_MachineBits.label>TODO</Filth_MachineBits.label>
   
