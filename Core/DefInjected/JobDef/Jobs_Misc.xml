@@ -161,10 +161,10 @@
   <TakeBeerOutOfFermentingBarrel.reportString>กำลังเอาเบียร์ออกจาก TargetA</TakeBeerOutOfFermentingBarrel.reportString>
   
   <!-- EN: taking TargetA to inventory. -->
-  <TakeCountToInventory.reportString>กำลังไปหยิบ TargetA</TakeCountToInventory.reportString>
+  <TakeCountToInventory.reportString>TODO</TakeCountToInventory.reportString>
   
   <!-- EN: taking TargetA to inventory. -->
-  <TakeInventory.reportString>TODO</TakeInventory.reportString>
+  <TakeInventory.reportString>กำลังไปหยิบ TargetA</TakeInventory.reportString>
   
   <!-- EN: trading with TargetA. -->
   <TradeWithPawn.reportString>กำลังซื้อขายแลกเปลื่ยนกับ TargetA.</TradeWithPawn.reportString>
