@@ -4,6 +4,9 @@
   <!-- EN: Ability -->
   <Ability.label>TODO</Ability.label>
   
+  <!-- EN: animal productivity -->
+  <AnimalProductivity.label>TODO</AnimalProductivity.label>
+  
   <!-- EN: Apparel -->
   <Apparel.label>เครื่องนุ่งห่ม</Apparel.label>
   
@@ -69,6 +72,9 @@
   
   <!-- EN: Surgical -->
   <Surgery.label>ศัลยกรรม</Surgery.label>
+  
+  <!-- EN: terrain -->
+  <Terrain.label>TODO</Terrain.label>
   
   <!-- EN: Weapon -->
   <Weapon.label>อาวุธ</Weapon.label>

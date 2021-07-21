@@ -28,10 +28,20 @@
   <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
   <AllowDeadmansApparel.description>อนุญาตให้เก็บ เสื้อผ้าใส่โดยศพ มนุษย์โดยทั่วไปมองว่าเสื้อผ้าที่มีมลทินจากศพนั้นน่ากังวลใจ และพ่อค้าก็ไม่ยอมรับซื้อมัน</AllowDeadmansApparel.description>
   
+  <!-- EN: allow females -->
+  <AllowFemaleGender.label>TODO</AllowFemaleGender.label>
+  <!-- EN: Allow female individuals. -->
+  <AllowFemaleGender.description>TODO</AllowFemaleGender.description>
+  
   <!-- EN: allow fresh -->
   <AllowFresh.label>อณุญาตของสด</AllowFresh.label>
   <!-- EN: Allow organic things which haven't started to rot yet. -->
   <AllowFresh.description>อนุญาตให้เก็บของตามธรรมชาติ ที่ยังไม่เริ่มเน่า</AllowFresh.description>
+  
+  <!-- EN: allow males -->
+  <AllowMaleGender.label>TODO</AllowMaleGender.label>
+  <!-- EN: Allow male individuals. -->
+  <AllowMaleGender.description>TODO</AllowMaleGender.description>
   
   <!-- EN: allow non-biocoded apparel -->
   <AllowNonBiocodedApparel.label>TODO</AllowNonBiocodedApparel.label>
