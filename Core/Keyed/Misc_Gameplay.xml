@@ -100,6 +100,12 @@
   <RenameColonist>เปลี่ยนชื่อชาวนิคม</RenameColonist>
   <!-- EN: Renounce title -->
   <RenounceTitle>TODO</RenounceTitle>
+  <!-- EN: Execute -->
+  <Execute>TODO</Execute>
+  <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
+  <ExecuteColonist>TODO</ExecuteColonist> <!-- text_doto -->
+  <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
+  <MessageColonistMarkedForExecution>TODO</MessageColonistMarkedForExecution>
   <!-- EN: {0} of {1} -->
   <TitleOfFaction>TODO</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
@@ -126,6 +132,8 @@
   <Fertilized>ได้ปุ๋ยแล้วแล้ว</Fertilized>
   <!-- EN: Progress stopped until fertilized -->
   <ProgressStoppedUntilFertilized>ความคืบหน้าหยุดชั่วคราวจนกว่าจะได้ปุ๋ย</ProgressStoppedUntilFertilized>
+  <!-- EN: Hatches in -->
+  <HatchesIn>TODO</HatchesIn>
   <!-- EN: need {0} level {2}, have {1} -->
   <SkillTooLow>ต้องการ {0} ระดับ {2}, มี {1}</SkillTooLow>
   <!-- EN: Freezing -->
@@ -160,6 +168,8 @@
   <ConfiguredTargetFuelLevel>ระดับเชื่อเพลืงของเป้าหมาย: {0}</ConfiguredTargetFuelLevel>
   <!-- EN: enemies -->
   <Enemies>ศัตรู</Enemies>
+  <!-- EN: people -->
+  <People>TODO</People>
   <!-- EN: time passed -->
   <TimePassed>เวลาผ่านไป</TimePassed>
   <!-- EN: current radius -->
@@ -258,7 +268,7 @@
   <NoPower>ไม่มีพลังงาน</NoPower>
   <!-- EN: Work speed penalty -->
   <WorkSpeedPenalty>ความเร็วในการทำงานถูดลดลง</WorkSpeedPenalty>
-  <!-- EN: DISABLED -->
+  <!-- EN: Disabled -->
   <DisabledCommand>ปิดใช้งาน</DisabledCommand>
   <!-- EN: Ready for launch. -->
   <ReadyForLaunch>พร้อมจะปล่อยตัว</ReadyForLaunch>
@@ -332,8 +342,14 @@
   <Carried>ถูกแบก</Carried>
   <!-- EN: Avg. person move speed -->
   <AverageCaravanMemberMoveSpeed>ความเร็วเฉลี่ยคนเดิน</AverageCaravanMemberMoveSpeed>
+  <!-- EN: Multiplier from ridden animals -->
+  <MultiplierFromRiddenAnimals>TODO</MultiplierFromRiddenAnimals>
   <!-- EN: Multiplier for carried mass: {0} -->
   <MultiplierForCarriedMass>ตัวคูณสำหรับมวลที่แบก: {0}</MultiplierForCarriedMass>
+  <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
+  <RideableAnimalTip>TODO</RideableAnimalTip>
+  <!-- EN: This caravan can't move because it carries too much. -->
+  <EncumberedCaravanTilesPerDayTip>TODO</EncumberedCaravanTilesPerDayTip>
   <!-- EN: Caravan members speed -->
   <FinalCaravanPawnsMovementSpeed>ความเร็วสมาชิกคาราวาน</FinalCaravanPawnsMovementSpeed>
   <!-- EN: Final speed -->
@@ -468,10 +484,36 @@
   <DurationLeft>เหลือ {0}</DurationLeft>
   <!-- EN: Any of -->
   <AnyOf>TODO</AnyOf>
+  <!-- EN: Requires {0} trait -->
+  <TraitRequired>TODO</TraitRequired>
   <!-- EN: Goodwill -->
   <Goodwill>TODO</Goodwill>
+  <!-- EN: Natural goodwill -->
+  <NaturalGoodwill>TODO</NaturalGoodwill>
+  <!-- EN: Natural goodwill range -->
+  <NaturalGoodwillRange>TODO</NaturalGoodwillRange>
+  <!-- EN: Natural goodwill is based on faction identities and beliefs. If current goodwill is far from natural goodwill, it will slowly shift towards natural goodwill over time.\n\nAll goodwill effects are multiplied by {0} when moving towards natural goodwill. -->
+  <NaturalGoodwillDescription>TODO</NaturalGoodwillDescription>
   <!-- EN: reducing resistance of {0_nameIndef} -->
   <JobReport_ReduceResistance>TODO</JobReport_ReduceResistance>
+  <!-- EN: Too large -->
+  <TooLargeForBed>TODO</TooLargeForBed>
+  <!-- EN: Warning -->
+  <Warning>TODO</Warning>
+  <!-- EN: Has subquest -->
+  <HasSubquest>TODO</HasSubquest>
+  <!-- EN: Subquest of -->
+  <SubquestOf>TODO</SubquestOf>
+  <!-- EN: Raid -->
+  <Raid>TODO</Raid>
+  <!-- EN: Disabled by -->
+  <ApparelRequirementDisabledLabel>TODO</ApparelRequirementDisabledLabel>
+  <!-- EN: Nudism -->
+  <Nudism>TODO</Nudism>
+  <!-- EN: Study progress -->
+  <StudyProgress>TODO</StudyProgress>
+  <!-- EN: completed -->
+  <StudyCompleted>TODO</StudyCompleted>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
@@ -490,6 +532,8 @@
   <ContainsWort>บรรจุ {0} / {1} น้ำหมักเบียร์</ContainsWort>
   <!-- EN: Contains {0} / {1} beer. -->
   <ContainsBeer>บรรจุ {0} / {1} เบียร์</ContainsBeer>
+  <!-- EN: Contains -->
+  <Contains>TODO</Contains>
   <!-- EN: Fermented -->
   <Fermented>หมัก</Fermented>
   <!-- EN: Progress: {0} ({1} left) -->
@@ -557,6 +601,45 @@
   <!-- EN: Invert -->
   <InvertArea>กลับด้าน</InvertArea>
 
+  <!-- Animal pens -->
+  <!-- EN: Unenclosed -->
+  <PenUnenclosedLabel>TODO</PenUnenclosedLabel>
+  <!-- EN: open door -->
+  <PenOpenDoorLabel>TODO</PenOpenDoorLabel>
+  <!-- EN: Rename pen -->
+  <RenameAnimalPen>TODO</RenameAnimalPen>
+  <!-- EN: Pen marker {0} -->
+  <AnimalPenMarkerDefaultLabel>TODO</AnimalPenMarkerDefaultLabel>
+  <!-- EN: In pen -->
+  <InPen>TODO</InPen>
+  <!-- EN: not in a pen -->
+  <Unpenned>TODO</Unpenned>
+  <!-- EN: Animal pens can be created by building a pen marker inside an enclosed area. Your handlers will bring animals to an appropriate pen. Pens can be enclosed with fences, barricades, walls, and doors. -->
+  <UnpennedTooltip>TODO</UnpennedTooltip>
+  <!-- EN: Roped by -->
+  <RopedByPawn>TODO</RopedByPawn>
+  <!-- EN: Roped to -->
+  <RopedToThing>TODO</RopedToThing>
+  <!-- EN: Roped to spot. -->
+  <RopedToSpot>TODO</RopedToSpot>
+  <!-- EN: Pen size -->
+  <PenSizeLabel>TODO</PenSizeLabel>
+  <!-- EN: Very small pen -->
+  <PenSizeDesc_VerySmall>TODO</PenSizeDesc_VerySmall>
+  <!-- EN: Small pen -->
+  <PenSizeDesc_Small>TODO</PenSizeDesc_Small>
+  <!-- EN: Medium-sized pen -->
+  <PenSizeDesc_Medium>TODO</PenSizeDesc_Medium>
+  <!-- EN: Large pen -->
+  <PenSizeDesc_Large>TODO</PenSizeDesc_Large>
+  <!-- EN: Not enclosed - build fences -->
+  <PenSizeDesc_Unenclosed>TODO</PenSizeDesc_Unenclosed>
+  <!-- EN: {ANIMALDEF_label} capacity -->
+  <PenCapacityDesc>TODO</PenCapacityDesc>
+  <!-- EN: Example animals -->
+  <PenExampleAnimals>TODO</PenExampleAnimals>
+
+
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
   <CannotOrderNonControlled>ไม่สามารถสั่งตัวละครที่ไม่ได้ควบคุม</CannotOrderNonControlled>
@@ -566,6 +649,8 @@
   <IsIncapableOfViolenceShort>ไม่สามารถใช้ความรุนแรงได้</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
   <IsNotDrafted>{1_labelShort} ไม่ได้ถูกเกณฑ์</IsNotDrafted>
+  <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
+  <ApparelPreventsShooting>TODO</ApparelPreventsShooting>
 
   <!-- Snow -->
   <!-- EN: No snow -->
@@ -608,6 +693,8 @@
   <ReportSleeping>กำลังหลับ</ReportSleeping>
   <!-- EN: resting. -->
   <ReportResting>กำลังพักผ่อน</ReportResting>
+  <!-- EN: laying down. -->
+  <ReportLayingDown>TODO</ReportLayingDown>
   <!-- EN: watching the sunrise. -->
   <WatchingSunrise>กำลังดูพระอาทิตย์ขึ้น</WatchingSunrise>
   <!-- EN: cloudwatching. -->
@@ -756,7 +843,7 @@
   <StunLower>มึน</StunLower>
 
   <!-- Inspector general stuff -->
-  <!-- EN: Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again. -->
+  <!-- EN: Select next thing in same square.\n\n(*SectionTitle)Shortcut key:(/SectionTitle) {0}\n\nYou can also do this by slowly clicking the same square again. -->
   <SelectNextInSquareTip>เลือกสิ่งต่อไปในช่องเดียวกัน\n\nคีย์ลัด: {0}\n\nคุณสามารถทำแบบนี้ได้ ด้วยการคลิกซ้ำช่องนี้อีกครั้ง</SelectNextInSquareTip>
   <!-- EN: View information. -->
   <DefInfoTip>ดูข้อมูลเกี่ยวกับสิ่งนี้</DefInfoTip>
@@ -834,6 +921,8 @@
   <!-- Meal -->
   <!-- EN: Ingredients -->
   <Ingredients>วัตถุดิบ</Ingredients>
+  <!-- EN: only stacks with similar meals -->
+  <OnlyStacksWithCompatibleMeals>TODO</OnlyStacksWithCompatibleMeals>
 
   <!-- Plants -->
   <!-- EN: {0} grown -->
@@ -868,6 +957,12 @@
   <Blighted>โรคระบาด</Blighted>
   <!-- EN: Dying because exposed to light -->
   <DyingBecauseExposedToLight>ใกล้ตายเนื่องจากโดนแสง</DyingBecauseExposedToLight>
+  <!-- EN: Cut now -->
+  <AutoCutNow>TODO</AutoCutNow>
+  <!-- EN: harvesting -->
+  <HarvestGerund>TODO</HarvestGerund>
+  <!-- EN: cutting -->
+  <CutGerund>TODO</CutGerund>
 
   <!-- Zones -->
   <!-- EN: Zone -->
@@ -964,6 +1059,8 @@
   <WillGetWorkSpeedPenalty>{0} จะโดนลดความเร็วในการทำงาน</WillGetWorkSpeedPenalty>
   <!-- EN: Cannot be placed under a roof. -->
   <MustPlaceUnroofed>ไม่สามารถวางใต้หลังคาได้</MustPlaceUnroofed>
+  <!-- EN: Must be placed under thick roof. -->
+  <MustPlaceUnderThickRoof>TODO</MustPlaceUnderThickRoof>
   <!-- EN: Must place with head attached to ship structural beam. -->
   <MustPlaceHeadOnShipBeam>ต้องวางให้ส่วนหัวยึดติด กับโครงสร้างคานของยาน</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
@@ -982,6 +1079,8 @@
   <MustPlaceOnDrillable>ต้องวางบนทรัพยากรที่ขุดเจาะได้</MustPlaceOnDrillable>
   <!-- EN: Cannot be placed next to traps. -->
   <CannotPlaceAdjacentTrap>ไม่สามารถวางถัดจากกับดัก</CannotPlaceAdjacentTrap>
+  <!-- EN: Cannot be placed next to another building of the same type. -->
+  <CannotPlaceAdjacentSameDef>TODO</CannotPlaceAdjacentSameDef>
 
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
@@ -1054,6 +1153,8 @@
   <!-- Quality -->
   <!-- EN: Quality -->
   <Quality>คุณภาพ</Quality>
+  <!-- EN: quality -->
+  <quality>TODO</quality>
   <!-- EN: An item's quality is how well-made it is. -->
   <QualityDescription>คุณภาพของไอเท็ม ถูกสร้างมาดีแค่ไหน</QualityDescription>
   <!-- EN: Quality: {0} -->
@@ -1102,6 +1203,10 @@
   <!-- Facilities -->
   <!-- EN: inactive -->
   <InactiveFacility>ไม่ทำงาน</InactiveFacility>
+  <!-- EN: Links to -->
+  <FacilityPotentiallyLinkedTo>TODO</FacilityPotentiallyLinkedTo>
+  <!-- EN: Not linked to a building -->
+  <FacilityNoPotentialLinks>TODO</FacilityNoPotentialLinks>
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
@@ -1344,5 +1449,136 @@
   <!-- Hediff misc -->
   <!-- EN: Caused by: {0} -->
   <CausedByHediff>TODO</CausedByHediff>
+    
+  <!-- Healing -->
+  <!-- EN: {0_nameDef}'s {1} was cured. -->
+  <HealingCureHediff>TODO</HealingCureHediff>
+  <!-- EN: {0_nameDef}'s {1} was restored. -->
+  <HealingRestoreBodyPart>TODO</HealingRestoreBodyPart>
+
+  <!-- EN: Caution: Placing a building here will anger {FACTION_name}! -->
+  <WarningBuildingCausesHostility>TODO</WarningBuildingCausesHostility>
+
+  <!-- EN: Choose landing site -->
+  <ChooseLandingSite>TODO</ChooseLandingSite>
+  
+  <!-- Rituals -->
+  <!-- EN: ritual -->
+  <Ritual>TODO</Ritual>
+
+  <!-- EN: Takes place at -->
+  <RitualTakesPlaceAt>TODO</RitualTakesPlaceAt>
+  <!-- EN: Any {0} -->
+  <RitualTargetThingDefsInfo>TODO</RitualTargetThingDefsInfo>
+  <!-- EN: Attending -->
+  <LordReportAttending>TODO</LordReportAttending>
+  <!-- EN: {0} has been canceled. -->
+  <RitualCalledOff>TODO</RitualCalledOff>
+  <!-- EN: {0} was not completed because of lack of attendance. -->
+  <RitualNobodyAttended>TODO</RitualNobodyAttended>
+  <!-- EN: {0} has been completed. -->
+  <RitualFinished>TODO</RitualFinished>
+  <!-- EN: ends in {0} -->
+  <RitualEndsIn>TODO</RitualEndsIn>
+  <!-- EN: Organizers -->
+  <Organizers>TODO</Organizers>
+  <!-- EN: Quality factors -->
+  <QualityFactors>TODO</QualityFactors>
+  <!-- EN: This condition may be fulfilled, depending on how things play out.\n\nIf it is fulfilled, the quality bonus will apply. -->
+  <QualityFactorTooltipUncertain>TODO</QualityFactorTooltipUncertain>
+  <!-- EN: This condition is not fulfilled.\n\nThe quality bonus will not apply. -->
+  <QualityFactorTooltipNotFulfilled>TODO</QualityFactorTooltipNotFulfilled>
+  <!-- EN: Spectators -->
+  <Spectators>TODO</Spectators>
+  <!-- EN: Not participating -->
+  <NotParticipating>TODO</NotParticipating>
+  <!-- EN: Drag and drop or left/right click to move people. -->
+  <DragPawnsToRolesInfo>TODO</DragPawnsToRolesInfo>
+  <!-- EN: A slave. The human property of others. -->
+  <RitualBeginSlaveDesc>TODO</RitualBeginSlaveDesc>
+  <!-- EN: {0_labelShort} is sleeping. If included in the ritual, {0_pronoun} will wake up to participate. -->
+  <RitualBeginSleepingDesc>TODO</RitualBeginSleepingDesc>
+  <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the ritual. -->
+  <RitualBeginSleepingWarning>TODO</RitualBeginSleepingWarning>
+  <!-- EN: This position is best done by a colonist holding the social role of {0}.\n\nIf someone without this role fills this position, you won't get the following bonus(es) -->
+  <RitualRoleRequiresSocialRole>TODO</RitualRoleRequiresSocialRole>
+  <!-- EN: No substitute available for the role of {0}. -->
+  <RitualRoleCantSubstitute>TODO</RitualRoleCantSubstitute>
+  <!-- EN: {0} progress -->
+  <RitualOutcomeProgress>TODO</RitualOutcomeProgress>
+  <!-- EN: {0} quality depends on -->
+  <RitualOutcomeQualityAbstract>TODO</RitualOutcomeQualityAbstract>
+  <!-- EN: {0} total quality was {1}, determined by these factors -->
+  <RitualOutcomeQualitySpecific>TODO</RitualOutcomeQualitySpecific>
+  <!-- EN: Outcome chances at {0} quality -->
+  <RitualOutcomeChances>TODO</RitualOutcomeChances>
+  <!-- EN: Performed recently -->
+  <RitualOutcomePerformedRecently>TODO</RitualOutcomePerformedRecently>
+  <!-- EN: {0} expectations -->
+  <RitualQualityExpectations>TODO</RitualQualityExpectations>
+  <!-- EN: Ritual ambience sound -->
+  <RitualAmbienceSound>TODO</RitualAmbienceSound>
+  <!-- EN: Total {0} quality is below {1}. Proceeding will most likely negatively impact your colony.\n\nAre you sure? -->
+  <RitualQualityLowWarning>TODO</RitualQualityLowWarning>
+  <!-- EN: No reachable appropriate place to speak. -->
+  <AbilitySpeechDisabledNoSpot>TODO</AbilitySpeechDisabledNoSpot>
+  <!-- EN: {0_labelShort} is incapable of talking. -->
+  <AbilitySpeechDisabledCantSpeak>TODO</AbilitySpeechDisabledCantSpeak>
+  <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
+  <RitualOutcomeExtraDesc_Mood>TODO</RitualOutcomeExtraDesc_Mood>
+  
+  <!-- EN: Choose who should participate in {RITUAL_labelDef}. -->
+  <ChooseParticipants>TODO</ChooseParticipants>
+  <!-- EN: Begin -->
+  <Begin>TODO</Begin>
+  <!-- EN: Begin {0} -->
+  <BeginRitual>TODO</BeginRitual>
+  <!-- EN: Begin {0} for {1} -->
+  <BeginRitualFor>TODO</BeginRitualFor>
+  <!-- EN: {0} (out of {1}) -->
+  <QualityOutOf>TODO</QualityOutOf>
+  <!-- EN: {0} is a date-specific ritual. You'll be able to start it in {1}, on the {2}. -->
+  <DateRitualNoObligation>TODO</DateRitualNoObligation>
+
+  <!-- EN: Replace with -->
+  <PreceptReplaceWith>TODO</PreceptReplaceWith>
+  <!-- EN: Ritual seat of {IDEOS} -->
+  <RitualSeatOf>TODO</RitualSeatOf>
+  <!-- EN: Expected quality -->
+  <ExpectedRitualQuality>TODO</ExpectedRitualQuality>
+  <!-- EN: Starting quality -->
+  <StartingQuality>TODO</StartingQuality>
+  <!-- EN: Expected duration -->
+  <ExpectedRitualDuration>TODO</ExpectedRitualDuration>
+  
+  <!-- EN: {PAWN_labelShort}'s {1} -->
+  <RitualPredictedOutcomeDescPawnStat>TODO</RitualPredictedOutcomeDescPawnStat>
+  <!-- EN: Room beauty -->
+  <RitualPredictedOutcomeDescRoomBeauty>TODO</RitualPredictedOutcomeDescRoomBeauty>
+  <!-- EN: Participants -->
+  <RitualPredictedOutcomeDescParticipantCount>TODO</RitualPredictedOutcomeDescParticipantCount>
+  <!-- EN: {PAWN_labelShort}'s expectations -->
+  <RitualPredictedOutcomeDescPawnExpectations>TODO</RitualPredictedOutcomeDescPawnExpectations>
+
+  <!-- EN: Any of these -->
+  <RitualOutcomeLabelAnyOfThese>TODO</RitualOutcomeLabelAnyOfThese>
+  <!-- EN: Replaces {PAWN_labelShort} -->
+  <RitualRoleReplaces>TODO</RitualRoleReplaces>
+
+  <!-- EN: present -->
+  <Present>TODO</Present>
+  <!-- EN: {0} used -->
+  <Used>TODO</Used>
+  <!-- EN: {0} starting quality -->
+  <StartingRitualQuality>TODO</StartingRitualQuality>
+
+  <!-- EN: up to {0} quality -->
+  <OutcomeBonusDesc_Quality>TODO</OutcomeBonusDesc_Quality>
+  <!-- EN: {0} quality -->
+  <OutcomeBonusDesc_QualitySingleOffset>TODO</OutcomeBonusDesc_QualitySingleOffset>
+  <!-- EN: {OUTCOMELABEL} {RITUALLABEL} -->
+  <OutcomeLetterLabel>{OUTCOMELABEL} {RITUALLABEL}</OutcomeLetterLabel>
+  <!-- EN: {0} max -->
+  <MaxValue>TODO</MaxValue>
   
 </LanguageData>

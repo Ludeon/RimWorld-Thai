@@ -44,6 +44,8 @@
   <ResetModsConfigOnCrash>รีเซ็ตคอนฟิกม็อดอัตโนมัติเมื่อเกมแครช</ResetModsConfigOnCrash>
   <!-- EN: Simulate not owning Royalty -->
   <SimulateNotOwningRoyalty>TODO</SimulateNotOwningRoyalty>
+  <!-- EN: Simulate not owning Ideology -->
+  <SimulateNotOwningIdeology>TODO</SimulateNotOwningIdeology>
   <!-- EN: Verbose logging -->
   <LogVerbose>Verbose logging</LogVerbose>
   <!-- EN: Open save data folder -->
@@ -105,4 +107,8 @@
   <!-- EN: All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue? -->
   <ResetAndRestartConfirmationDialog>เซ็ตติ้งทั้งหมดของคุณจะถูกรีเซ็คกลับไปเป็นค่าเริ่มต้นและเกมจะรีสตาร์ท ความคืบหน้าใดๆที่ไม่ได้เซฟจะหายไป!\n\nดำเนินการต่อ?</ResetAndRestartConfirmationDialog>
   
+  <!-- Background image -->
+  <!-- EN: Menu background -->
+  <SetBackgroundImage>พื้นหลังเมนู</SetBackgroundImage>
+
 </LanguageData>

@@ -11,6 +11,8 @@
   <WorkTagManualSkilled>แรงงานทักษะ</WorkTagManualSkilled>
   <!-- EN: violent -->
   <WorkTagViolent>ใช้ความรุนแรง</WorkTagViolent>
+  <!-- EN: shooting -->
+  <WorkTagShooting>TODO</WorkTagShooting>
   <!-- EN: caring -->
   <WorkTagCaring>ดูแล</WorkTagCaring>
   <!-- EN: social -->
@@ -35,6 +37,8 @@
   <WorkTagMining>ขุดเหมือง</WorkTagMining>
   <!-- EN: hunting -->
   <WorkTagHunting>ล่าสัตว์</WorkTagHunting>
+  <!-- EN: constructing -->
+  <WorkTagConstructing>TODO</WorkTagConstructing>
   <!-- EN: commoner work -->
   <WorkTagCommoner>งานสามัญชน</WorkTagCommoner>
   <!-- EN: all work -->

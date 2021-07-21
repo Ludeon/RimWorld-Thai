@@ -40,6 +40,8 @@
   <goodwill>ไมตรีจิต</goodwill>
   <!-- EN: Neutral -->
   <Neutral>เป็นกลาง</Neutral>
+  <!-- EN: neutral -->
+  <NeutralLower>TODO</NeutralLower>
   <!-- EN: Death -->
   <Death>เสียชีวิต</Death>
 
@@ -453,6 +455,12 @@
   <LetterLabelQuestDropPodsArrived>กระสวยมาถึง</LetterLabelQuestDropPodsArrived>
   <!-- EN: Transport pods with the following contents have arrived:\n\n{0} -->
   <LetterQuestDropPodsArrived>กระสวยมาถึงพร้อมสิ่งเหล่านี้:\n\n{0}</LetterQuestDropPodsArrived>
+
+  <!-- Quest items added to caravan inventory -->
+  <!-- EN: {CARAVAN_label} received items -->
+  <LetterLabelQuestItemsAddedToCaravanInventory>TODO</LetterLabelQuestItemsAddedToCaravanInventory>
+  <!-- EN: {CARAVAN_label} has received the following items:\n\n{THINGS} -->
+  <LetterQuestItemsAddedToCaravanInventory>TODO</LetterQuestItemsAddedToCaravanInventory>
 
   <!-- Refugee joins -->
   <!-- EN: {PAWN_nameDef} joins -->
