@@ -10,8 +10,11 @@
   <!-- EN: cut -->
   <Cut.label>ฟัน</Cut.label>
   
+  <!-- EN: demolish -->
+  <Demolish.label>TODO</Demolish.label>
+  
   <!-- EN: kick material in eyes -->
-  <KickMaterialInEyes.label>kick material in eyes</KickMaterialInEyes.label>
+  <KickMaterialInEyes.label>TODO</KickMaterialInEyes.label>
   
   <!-- EN: poke -->
   <Poke.label>กระทุ้ง</Poke.label>

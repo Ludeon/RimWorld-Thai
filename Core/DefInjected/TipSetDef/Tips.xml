@@ -19,9 +19,9 @@
   <GameplayTips.WorkTabChangeAllColonists>TODO</GameplayTips.WorkTabChangeAllColonists>
   <!-- EN: Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it. -->
   <GameplayTips.WorkTabDecreasePriority>TODO</GameplayTips.WorkTabDecreasePriority>
-  <!-- EN: In a gunfight, always be behind cover! -->
+  <!-- EN: In a gunfight, always be behind cover! Right-click and drag to have your drafted fighters form a line. -->
   <GameplayTips.GunfightCover>TODO</GameplayTips.GunfightCover>
-  <!-- EN: In a gunfight, spread your colonists out! Bunched-up targets are easy to hit. -->
+  <!-- EN: Right-click and drag to have your drafted fighters form a line. Bunched-up targets are easy to hit! -->
   <GameplayTips.GunfightSpread>TODO</GameplayTips.GunfightSpread>
   <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
   <GameplayTips.ShootingAccuracySmoke>TODO</GameplayTips.ShootingAccuracySmoke>
@@ -57,14 +57,16 @@
   <GameplayTips.CaravanPackingSpot>TODO</GameplayTips.CaravanPackingSpot>
   <!-- EN: Single-person caravans can be very useful in certain situations. -->
   <GameplayTips.CaravanSinglePerson>TODO</GameplayTips.CaravanSinglePerson>
-  <!-- EN: Faster animals make faster caravans. -->
+  <!-- EN: Caravans move faster if they include rideable animals like horses, donkeys and dromedaries. -->
   <GameplayTips.CaravanFasterAnimals>TODO</GameplayTips.CaravanFasterAnimals>
-  <!-- EN: Smaller caravans will be attacked less often because they're less visible. -->
+  <!-- EN: Smaller caravans get attacked less often because they're less visible. -->
   <GameplayTips.CaravanSmallerLessVisible>TODO</GameplayTips.CaravanSmallerLessVisible>
   <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing spot. This will make packing much faster. -->
   <GameplayTips.CaravanStockpileNearPackingSpot>TODO</GameplayTips.CaravanStockpileNearPackingSpot>
   <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
   <GameplayTips.CaravanUntrainedAnimals>TODO</GameplayTips.CaravanUntrainedAnimals>
+  <!-- EN: Don't forget to pack medicine on your caravans. -->
+  <GameplayTips.tips.32>TODO</GameplayTips.tips.32>
   <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
   <GameplayTips.StoryGenerator>TODO</GameplayTips.StoryGenerator>
   <!-- EN: Some colonists are worse than useless. Bad allies are part of the challenge. -->
@@ -123,6 +125,12 @@
   <GameplayTips.ExtinguishFireArtillery>TODO</GameplayTips.ExtinguishFireArtillery>
   <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
   <GameplayTips.BestStoriesFromDarkestSituations>TODO</GameplayTips.BestStoriesFromDarkestSituations>
+  <!-- EN: Keep weapon stockpiles away from your prisons. Prison breaks are much more dangerous with guns and explosives. -->
+  <GameplayTips.tips.62>TODO</GameplayTips.tips.62>
+  <!-- EN: When taming animals, make sure you have enough food of the correct type to feed them. -->
+  <GameplayTips.tips.63>TODO</GameplayTips.tips.63>
+  <!-- EN: Dropping a stone or slag chunk in a doorway will force it open, leaving you vulnerable to hostile wildlife and raiders. -->
+  <GameplayTips.tips.64>TODO</GameplayTips.tips.64>
   <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
   <GameplayTips.CleanLabs>TODO</GameplayTips.CleanLabs>
   <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->
@@ -133,5 +141,14 @@
   <GameplayTips.CombatDrugsFromInventory>TODO</GameplayTips.CombatDrugsFromInventory>
   <!-- EN: Set schedules with long stretches of one activity to minimize travel time. -->
   <GameplayTips.SchedulesSetLong>TODO</GameplayTips.SchedulesSetLong>
+  <!-- EN: Straw matting ignores filth. Use it as the floor for your barn. -->
+  <GameplayTips.StrawMatting>TODO</GameplayTips.StrawMatting>
+  <!-- EN: Some animals produce a lot of filth. Keep your elephants and cattle outside. -->
+  <GameplayTips.AnimalFilth>TODO</GameplayTips.AnimalFilth>
+  <!-- EN: Predators are less likely to hunt animals which are enclosed by fences or barricades. -->
+  <GameplayTips.PredatorsAndFences>TODO</GameplayTips.PredatorsAndFences>
+  
+  <!-- UNUSED -->
+  <GameplayTips.CaravanFasterAnimals>TODO</GameplayTips.CaravanFasterAnimals>
   
 </LanguageData>
