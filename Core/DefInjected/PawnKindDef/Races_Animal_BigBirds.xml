@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cassowary -->
+  <Cassowary.label>นกแคสโซวารี</Cassowary.label>
+  <!-- EN: cassowaries -->
+  <Cassowary.labelPlural>นกแคสโซวารี</Cassowary.labelPlural>
+  
+  <!-- EN: emu -->
+  <Emu.label>นกอีมู</Emu.label>
+  
+  <!-- EN: ostrich -->
+  <Ostrich.label>นกกระจอกเทศ</Ostrich.label>
+  <!-- EN: ostriches -->
+  <Ostrich.labelPlural>นกกระจอกเทศ</Ostrich.labelPlural>
+  
+</LanguageData>

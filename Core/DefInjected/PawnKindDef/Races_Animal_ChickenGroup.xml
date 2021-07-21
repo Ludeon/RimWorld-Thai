@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chicken -->
+  <Chicken.label>ไก่</Chicken.label>
+  <!-- EN: hen -->
+  <Chicken.labelFemale>ไก่ตัวเมีย</Chicken.labelFemale>
+  <!-- EN: rooster -->
+  <Chicken.labelMale>ไก่ตัวผู้</Chicken.labelMale>
+  <!-- EN: chick -->
+  <Chicken.lifeStages.chick.label>ลูกไก่</Chicken.lifeStages.chick.label>
+  <!-- EN: cockerel -->
+  <Chicken.lifeStages.cockerel.labelMale>ลูกไก่ตัวผู้</Chicken.lifeStages.cockerel.labelMale>
+  
+  <!-- EN: duck -->
+  <Duck.label>เป็ด</Duck.label>
+  <!-- EN: duckling -->
+  <Duck.lifeStages.duckling.label>เป็ด</Duck.lifeStages.duckling.label>
+  
+  <!-- EN: goose -->
+  <Goose.label>ห่าน</Goose.label>
+  <!-- EN: geese -->
+  <Goose.labelPlural>ห่าน</Goose.labelPlural>
+  
+  <!-- EN: turkey -->
+  <Turkey.label>ไก่งวง</Turkey.label>
+  
+</LanguageData>
