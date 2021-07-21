@@ -73,6 +73,10 @@
   <!-- EN: The psychic emanator makes me feel strange, but also very relaxed. -->
   <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>เครื่องพลังจิตทำให้สบายใจ ทำให้ รู้สึกแปลก แต่ยังผ่อนคลายมาก</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>
   
+  <!-- UNUSED -->
+  <PsychicEntropyHangover.stages.psychic_hangover.label>TODO</PsychicEntropyHangover.stages.psychic_hangover.label>
+  <PsychicEntropyHangover.stages.psychic_hangover.description>TODO</PsychicEntropyHangover.stages.psychic_hangover.description>
+  
   <!-- EN: sharing bed -->
   <SharedBed.stages.sharing_bed.label>แชร์เตียง</SharedBed.stages.sharing_bed.label>
   <!-- EN: I have to share a bed with someone who I don't particularly want to. -->
