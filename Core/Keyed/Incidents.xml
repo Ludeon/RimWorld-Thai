@@ -40,6 +40,11 @@
   <!-- EN: {PAWN_nameDef} is from {PAWN_factionName}. If you rescue {PAWN_objective}, {PAWN_pronoun} may join freely. Otherwise, {PAWN_pronoun} will return home and spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction. -->
   <RefugeePodCrash_NonHostile>{PAWN_nameDef} มาจากฝ่าย {PAWN_factionName} / หากคุณช่วยเหลือ{PAWN_objective}ไว้ {PAWN_pronoun}อาจสมัครใจเข้าร่วม ไม่เช่นนั้น {PAWN_pronoun}จะเดินทางกลับบ้าน และกระจายไมตรีจิตที่เกิดขึ้นระหว่างทั้งสองฝ่าย\n\nคุณยังสามารถจับตัว{PAWN_objective}ไว้ เพื่อเป้าหมายให้เป็นทาส หรือดึงให้เข้าร่วมต่อไป แต่นั่นจะทำให้ฝ่ายของ{PAWN_possessive}โกรธ</RefugeePodCrash_NonHostile>
 
+  <!-- EN: Wanderer joins: {PAWN_nameDef} -->
+  <LetterLabelWandererJoins>TODO</LetterLabelWandererJoins>
+  <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and wants to join the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily, claiming to have nowhere else to go. You can choose to turn {PAWN_objective} down and send {PAWN_objective} away. However, your colonists will be disturbed at sending someone away in need. -->
+  <LetterWandererJoins>TODO</LetterWandererJoins>
+
   <!-- EN: Cargo pods -->
   <LetterLabelCargoPodCrash>กระสวยบรรทุกสินค้า</LetterLabelCargoPodCrash>
   <!-- EN: You have detected a cluster of cargo pods crashing nearby.\n\nPerhaps you'll find something useful in the wreckage. -->

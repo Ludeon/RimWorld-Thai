@@ -43,6 +43,8 @@
   <CommandToggleDraftDesc>สลับการเกณฑ์ทหาร\n\nคนโดนเกณฑ์จะรอรับคำสั่งและต่อสู้ พวกเขาจะไม่ทำงาน กิน หรือพัก</CommandToggleDraftDesc>
   <!-- EN: {1_labelShort} cannot walk. -->
   <IsIncapped>{1_labelShort} เดินไม่ได้.</IsIncapped>
+  <!-- EN: {0_labelShort} is participating in {1}. -->
+  <ParticipatingInRitual>TODO</ParticipatingInRitual>
 
   <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>ยิงตามใจ</CommandFireAtWillLabel>
@@ -98,6 +100,10 @@
   <TurningOffPrisonerBedWarning>การปิดโหมดนักโทษมีผลต่อทั้งห้อง (เนื่องจากนักโทษและชาวนิคม ไม่สามารถนอนในห้องเดียวกันได้)\n\nคนเหล่านี้จะสูญเสียการเป็นเจ้าของเตียง:</TurningOffPrisonerBedWarning>
   <!-- EN: Are you sure you want to do this? -->
   <AreYouSure>คุณแน่ใจหรือว่าต้องการทำเช่นนี้?</AreYouSure>
+  <!-- EN: Changing bed use affects the whole room (since prisoners, slaves and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
+  <ChangingOwnerTypeBedWarning>TODO</ChangingOwnerTypeBedWarning>
+
+
 
   <!-- EN: Detonate -->
   <CommandDetonateLabel>จุดระเบิด</CommandDetonateLabel>
@@ -135,6 +141,11 @@
   <CommandAllowSow>ให้หว่านเมล็ด</CommandAllowSow>
   <!-- EN: When disabled, colonists will never sow plants in this zone. They will still harvest. -->
   <CommandAllowSowDesc>เมื่อปิดใช้งาน ชาวนิคมจะไม่หว่านเมล็ดพืชในโซนนี้ แต่พวกเขายังคงเก็บเกี่ยวอยู่</CommandAllowSowDesc>
+
+  <!-- EN: Allow cutting -->
+  <CommandAllowCut>TODO</CommandAllowCut>
+  <!-- EN: When disabled, colonists will never cut plants in this zone. They will still sow new plants in spaces that are already empty, and harvest. -->
+  <CommandAllowCutDesc>TODO</CommandAllowCutDesc>
 
   <!-- Artillery -->
   <!-- EN: Set forced target -->
@@ -229,7 +240,7 @@
   <CommandAutoRearmDesc>ในขณะที่เปิดใช้ กับดักนี้จะถูกเปลื่ยนอัตโนมัติ เมื่อกับดักทำงานไปแล้ว</CommandAutoRearmDesc>
   
   <!-- Animal control -->
-  <!-- EN: Release animals -->
+  <!-- EN: Animals attack -->
   <CommandReleaseAnimalsLabel>ปล่อยสัตว์</CommandReleaseAnimalsLabel>
   <!-- EN: While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master. -->
   <CommandReleaseAnimalsDesc>ในขณะที่เปิดไช้ สัตว์เลี้ยงจะไปโจมตีเป้าหมายระยะไกลล่วงหน้า / ในขณะที่ปิดไช้ สัตว์จะคงอยู่ใกล้ๆ คอยคุ้มกันเจ้านาย</CommandReleaseAnimalsDesc>
@@ -535,11 +546,36 @@
   <CommandOpenLinkedQuest>เปิดเควสที่เชื่อมโยง</CommandOpenLinkedQuest>
   <!-- EN: Open linked quest in the quests tab. -->
   <CommandOpenLinkedQuestDesc>เปิดเควสที่เชื่อมโยงในแท็บเควส</CommandOpenLinkedQuestDesc>
+
+  <!-- Carry -->
+  <!-- EN: Drop {0_nameDef} -->
+  <CommandDropPawn>TODO</CommandDropPawn>
+  <!-- EN: Drop the person being carried. -->
+  <CommandDropPawnDesc>TODO</CommandDropPawnDesc>
   
   <!-- Take a drug -->
   <!-- EN: Take drug... -->
   <TakeDrug>TODO</TakeDrug>
   <!-- EN: Choose a drug from inventory to ingest immediately. -->
   <TakeDrugDesc>TODO</TakeDrugDesc>
+
+  <!-- Build X -->
+  <!-- EN: Build {0} -->
+  <BuildThing>TODO</BuildThing>
+
+  <!-- Rituals -->
+  <!-- EN: Leave {RITUAL_label} -->
+  <CommandLeaveRitual>TODO</CommandLeaveRitual>
+  <!-- EN: Stop participating in the {RITUAL_labelDef}. The ritual will continue as long as it has at least one participant. -->
+  <CommandLeaveRitualDesc>TODO</CommandLeaveRitualDesc>
+  <!-- EN: This is the last participant in the {RITUAL_labelDef}. -->
+  <CommandLeaveLastParticipant>TODO</CommandLeaveLastParticipant>
+
+  <!-- EN: Cancel {RITUAL_label} -->
+  <CommandCancelRitual>TODO</CommandCancelRitual>
+  <!-- EN: End the {RITUAL_labelDef} immediately. Ritual obligation will remain. You can restart the ritual later. -->
+  <CommandCancelRitualDesc>TODO</CommandCancelRitualDesc>
+  <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->
+  <CommandCancelRitualConfirm>TODO</CommandCancelRitualConfirm>
   
 </LanguageData>

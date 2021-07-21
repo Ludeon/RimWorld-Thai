@@ -116,6 +116,8 @@
   <DesignatorClearAreaAllowedDesc>เคลียร์ช่องออกจากขอบเขตที่อนุญาต\n\nเขตที่อนุญาต เป็นพื้นที่ที่คุณสามารถ กำหนดแก่ชาวนิคม \n\nพวกเขาจะไม่ยอมทำงาน หรือเติมเต็มความต้องการตนเอง นอกขอบเขตที่อนุญาต</DesignatorClearAreaAllowedDesc>
   <!-- EN: Manage areas... -->
   <ManageAreas>จัดการขอบเขต...</ManageAreas>
+  <!-- EN: Manage auto-slaughter... -->
+  <ManageAutoSlaughter>TODO</ManageAutoSlaughter>
 
   <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
   <DesignatorGrowingZoneDesc>สร้างโซน ซึ่งชาวนิคมจะพยายาม ปลูกพืชบางชนิด</DesignatorGrowingZoneDesc>
@@ -170,6 +172,16 @@
   <DesignatorTame>ทำให้เชื่อง</DesignatorTame>
   <!-- EN: Tame a wild animal. -->
   <DesignatorTameDesc>ฝึกสัตว์ป่าให้เชื่อง</DesignatorTameDesc>
+
+  <!-- EN: Release to wild -->
+  <DesignatorReleaseAnimalToWild>TODO</DesignatorReleaseAnimalToWild>
+  <!-- EN: Release an animal back into the wild. -->
+  <DesignatorReleaseAnimalToWildDesc>TODO</DesignatorReleaseAnimalToWildDesc>
+
+  <!-- EN: Study -->
+  <DesignatorStudy>TODO</DesignatorStudy>
+  <!-- EN: Study this object to learn more about it. -->
+  <DesignatorStudyDesc>TODO</DesignatorStudyDesc>
 
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->
