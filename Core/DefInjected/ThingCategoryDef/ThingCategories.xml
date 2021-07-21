@@ -4,6 +4,9 @@
   <!-- EN: animal products -->
   <AnimalProductRaw.label>ผลผลิตจากสัตว์</AnimalProductRaw.label>
   
+  <!-- EN: animals -->
+  <Animals.label>TODO</Animals.label>
+  
   <!-- EN: apparel -->
   <Apparel.label>เสื้อผ้า</Apparel.label>
   
@@ -118,6 +121,9 @@
   <!-- EN: headgear -->
   <HeadgearNoble.label>TODO</HeadgearNoble.label>
   
+  <!-- EN: inert relics -->
+  <InertRelics.label>TODO</InertRelics.label>
+  
   <!-- EN: items -->
   <Items.label>ไอเท็ม</Items.label>
   
@@ -151,6 +157,9 @@
   <!-- EN: plant matter -->
   <PlantMatter.label>วัตถุพืช</PlantMatter.label>
   
+  <!-- EN: plants -->
+  <Plants.label>TODO</Plants.label>
+  
   <!-- EN: raw resources -->
   <ResourcesRaw.label>ทรัพยากร</ResourcesRaw.label>
   
@@ -183,5 +192,8 @@
   
   <!-- EN: ranged weapons -->
   <WeaponsRanged.label>อาวุธระยะไกล</WeaponsRanged.label>
+  
+  <!-- EN: wools -->
+  <Wools.label>TODO</Wools.label>
   
 </LanguageData>

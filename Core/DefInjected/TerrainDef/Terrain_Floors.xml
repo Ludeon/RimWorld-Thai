@@ -56,6 +56,11 @@
   <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
   <SterileTile.description>กระเบื้องปลอดเชื้อ มาพร้อมคุณสมบัติพิเศษ ในการรักษาความสะอาด ห้องที่สะอาดเป็นเป็นพิเศษ ส่งผลดีขึ้นต่อโรงพยาบาลและห้องวิจัย กระเบื้องนี้สร้างเสร็จช้ามาก</SterileTile.description>
   
+  <!-- EN: straw matting -->
+  <StrawMatting.label>TODO</StrawMatting.label>
+  <!-- EN: Rough straw matting for use in animal barns. It is cheap and accepts very little filth. -->
+  <StrawMatting.description>TODO</StrawMatting.description>
+  
   <!-- EN: wood floor -->
   <WoodPlankFloor.label>พื้นไม้</WoodPlankFloor.label>
   <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
