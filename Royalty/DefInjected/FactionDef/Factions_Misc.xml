@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: outlander refugee group -->
-  <OutlanderRefugee.label>TODO</OutlanderRefugee.label>
+  <OutlanderRefugee.label>กลุ่มผู้ลี้ภัยต่างประเทศ</OutlanderRefugee.label>
   <!-- EN: A group of outlander refugees claiming to have lost their home. -->
-  <OutlanderRefugee.description>TODO</OutlanderRefugee.description>
+  <OutlanderRefugee.description>กลุ่มผู้ลี้ภัยชาวต่างประเทศอ้างว่าสูญเสียบ้านของพวกเขา</OutlanderRefugee.description>
   <!-- EN: refugee -->
-  <OutlanderRefugee.pawnSingular>TODO</OutlanderRefugee.pawnSingular>
+  <OutlanderRefugee.pawnSingular>ผู้ลี้ภัย</OutlanderRefugee.pawnSingular>
   <!-- EN: refugees -->
-  <OutlanderRefugee.pawnsPlural>TODO</OutlanderRefugee.pawnsPlural>
+  <OutlanderRefugee.pawnsPlural>ผู้ลี้ภัย</OutlanderRefugee.pawnsPlural>
   
 </LanguageData>

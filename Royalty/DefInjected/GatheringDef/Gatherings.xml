@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: concert -->
-  <Concert.label>TODO</Concert.label>
+  <Concert.label>คอนเสิร์ต</Concert.label>
   <!-- EN: The concert has been cancelled. -->
-  <Concert.calledOffMessage>TODO</Concert.calledOffMessage>
+  <Concert.calledOffMessage>คอนเสิร์ตถูกยกเลิก</Concert.calledOffMessage>
   <!-- EN: The concert has concluded. -->
-  <Concert.finishedMessage>TODO</Concert.finishedMessage>
+  <Concert.finishedMessage>คอนเสิร์ตจบลงแล้ว</Concert.finishedMessage>
   <!-- EN: {ORGANIZER_labelShort} is holding a concert! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost, both from social contact and from the music itself. -->
-  <Concert.letterText>TODO</Concert.letterText>
+  <Concert.letterText>{ORGANIZER_labelShort} จัดคอนเสิร์ต! ทุกคนที่ไปจะได้รับนันทนาการและพลังทางสังคม และอารมณ์เชิงบวกที่ยั่งยืน ทั้งจากการพบปะทางสังคมและจากดนตรี</Concert.letterText>
   <!-- EN: Concert -->
-  <Concert.letterTitle>TODO</Concert.letterTitle>
+  <Concert.letterTitle>คอนเสิร์ต</Concert.letterTitle>
   
 </LanguageData>
