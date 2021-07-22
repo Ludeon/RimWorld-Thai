@@ -1261,7 +1261,7 @@
     <title>TODO</title>
     <!-- EN: performer -->
     <titleShort>TODO</titleShort>
-    <!-- EN: Growing up in the circus, [PAWN_nameDef] learned a lot of interesting things. More interesting then the balls [PAWN_pronoun] juggled were the pockets [PAWN_pronoun] picked between shows.\n\nA mistake with some firesticks made [PAWN_objective] develop a deathly fear of fire. -->
+    <!-- EN: Growing up in the circus, [PAWN_nameDef] learned a lot of interesting things. More interesting than the balls [PAWN_pronoun] juggled were the pockets [PAWN_pronoun] picked between shows.\n\nA mistake with some firesticks made [PAWN_objective] develop a deathly fear of fire. -->
     <desc>TODO</desc>
   </CircusPerformer37>
   
@@ -2794,14 +2794,14 @@
     <desc>TODO</desc>
   </GNomeSculptor34>
   
-  <GovernmentAgent47>
+  <GovernmentAgent61>
     <!-- EN: government agent -->
     <title>TODO</title>
     <!-- EN: agent -->
     <titleShort>TODO</titleShort>
-    <!-- EN: [PAWN_nameDef] worked for the government against rebel groups and excelled in this capacity. During [PAWN_possessive] training [PAWN_pronoun] was taught firearms, melee combat and medical skills.\n\nHaving grown up in a war-ravaged city, dirt, blood and dead bodies don’t bother [PAWN_objective] and [PAWN_pronoun] sees no reason to clean them up. -->
+    <!-- EN: [PAWN_nameDef] worked for the government against rebel groups and excelled in this capacity. During [PAWN_possessive] training [PAWN_pronoun] was taught firearms, melee combat and medical skills.\n\nHaving grown up in a war-ravaged city, dirt, blood and dead bodies don't bother [PAWN_objective] and [PAWN_pronoun] sees no reason to clean them up. -->
     <desc>TODO</desc>
-  </GovernmentAgent47>
+  </GovernmentAgent61>
   
   <GraphicDesigner33>
     <!-- EN: graphic designer -->
@@ -3351,14 +3351,14 @@
     <desc>TODO</desc>
   </Inventor6>
   
-  <InvoluntaryHermit24>
+  <InvoluntaryHermit38>
     <!-- EN: involuntary hermit -->
     <title>TODO</title>
     <!-- EN: hermit -->
     <titleShort>TODO</titleShort>
-    <!-- EN: [PAWN_nameDef]’s escape pod was jettisoned onto an unexplored region of a frontier world. [PAWN_pronoun] eked out a lonely existence with only a herd of muffalo for company.\n \nLater, [PAWN_pronoun] was spotted clad in pygmy wombat furs, discussing the importance of hoof hygiene with a group of elderly muffalo. -->
+    <!-- EN: [PAWN_nameDef]'s escape pod was jettisoned onto an unexplored region of a frontier world. [PAWN_pronoun] eked out a lonely existence with only a herd of muffalo for company.\n \nLater, [PAWN_pronoun] was spotted clad in pygmy wombat furs, discussing the importance of hoof hygiene with a group of elderly muffalo. -->
     <desc>TODO</desc>
-  </InvoluntaryHermit24>
+  </InvoluntaryHermit38>
   
   <Jailbird40>
     <!-- EN: jailbird -->
@@ -4052,14 +4052,14 @@
     <desc>TODO</desc>
   </MercenaryRecruit18>
   
-  <MercenaryRecruit64>
+  <MercenaryRecruit36>
     <!-- EN: mercenary recruit -->
     <title>TODO</title>
     <!-- EN: mercenary -->
     <titleShort>TODO</titleShort>
-    <!-- EN: Descended from a long line of mercenaries, [PAWN_nameDef] grew up in a busy trading hub.\n\n[PAWN_possessive]'s interest in the foreign goods at the market often distracted [PAWN_objective] from [PAWN_possessive] chores and training. -->
+    <!-- EN: Descended from a long line of mercenaries, [PAWN_nameDef] grew up in a busy trading hub.\n\n[PAWN_possessive] interest in the foreign goods at the market often distracted [PAWN_objective] from [PAWN_possessive] chores and training. -->
     <desc>TODO</desc>
-  </MercenaryRecruit64>
+  </MercenaryRecruit36>
   
   <MessageCarrier77>
     <!-- EN: message carrier -->
