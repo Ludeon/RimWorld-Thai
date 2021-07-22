@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: darklight preferred -->
-  <Darklight_Preferred.label>TODO</Darklight_Preferred.label>
+  <Darklight_Preferred.label>ต้องการแสงมืด</Darklight_Preferred.label>
   <!-- EN: Normal lights are too bright. Darklights are better. -->
   <Darklight_Preferred.description>TODO</Darklight_Preferred.description>
   
   <!-- EN: Preferred -->
-  <DarknessCombat_Preferred.label>TODO</DarknessCombat_Preferred.label>
+  <DarknessCombat_Preferred.label>ที่ต้องการ</DarknessCombat_Preferred.label>
   <!-- EN: We fight better in the dark. -->
   <DarknessCombat_Preferred.description>TODO</DarknessCombat_Preferred.description>
   

@@ -2,105 +2,105 @@
 <LanguageData>
 
   <!-- EN: Ideoligion forbids -->
-  <IdeoligionForbids>TODO</IdeoligionForbids>
+  <IdeoligionForbids>ห้ามอุดมคติ</IdeoligionForbids>
   <!-- EN: Only {0}s can build -->
-  <OnlyMembersCanBuild>TODO</OnlyMembersCanBuild>
+  <OnlyMembersCanBuild>มีเพียง {0} เท่านั้นที่สามารถสร้าง</OnlyMembersCanBuild>
   <!-- EN: {0} is already in progress. -->
-  <CantStartRitualAlreadyInProgress>TODO</CantStartRitualAlreadyInProgress>
+  <CantStartRitualAlreadyInProgress>{0} กำลังดำเนินการอยู่</CantStartRitualAlreadyInProgress>
   <!-- EN: {0} is already participating in a ritual. -->
-  <CantStartRitualTargetIsAlreadyInRitual>TODO</CantStartRitualTargetIsAlreadyInRitual>
+  <CantStartRitualTargetIsAlreadyInRitual>{0} ได้เข้าร่วมพิธีกรรมแล้ว</CantStartRitualTargetIsAlreadyInRitual>
   <!-- EN: You must assign the role of {0} in order to start this ritual. -->
-  <CantStartRitualRoleNotAssigned>TODO</CantStartRitualRoleNotAssigned>
+  <CantStartRitualRoleNotAssigned>คุณต้องกำหนดบทบาทของ {0} เพื่อเริ่มพิธีกรรมนี้</CantStartRitualRoleNotAssigned>
   <!-- EN: There is nobody to convert to {0}. You need a colonist, prisoner, or slave of a different ideoligion. -->
-  <CantStartRitualNoConvertee>TODO</CantStartRitualNoConvertee>
+  <CantStartRitualNoConvertee>ไม่มีใครที่จะแปลงเป็น {0} คุณต้องมีอาณานิคม นักโทษ หรือทาสของอุดมคติที่แตกต่างกัน</CantStartRitualNoConvertee>
   <!-- EN: {PAWN_nameDef} cannot be {ROLE}. -->
-  <CantStartRitualSelectedPawnCannotBeRole>TODO</CantStartRitualSelectedPawnCannotBeRole>
+  <CantStartRitualSelectedPawnCannotBeRole>{PAWN_nameDef} ไม่สามารถเป็น {ROLE} ได้</CantStartRitualSelectedPawnCannotBeRole>
   <!-- EN: {PAWN_nameDef} must be a {IDEO_memberName}. -->
-  <CantStartRitualSelectedPawnMustBeMember>TODO</CantStartRitualSelectedPawnMustBeMember>
+  <CantStartRitualSelectedPawnMustBeMember>{PAWN_nameDef} ต้องเป็น {IDEO_memberName}</CantStartRitualSelectedPawnMustBeMember>
   <!-- EN: Not enough space. There must be a clear circle of radius {MINRADIUS}. -->
-  <CantStartNotEnoughSpaceDuel>TODO</CantStartNotEnoughSpaceDuel>
+  <CantStartNotEnoughSpaceDuel>พื้นที่ไม่เพียงพอ. ต้องมีวงกลมรัศมีที่ชัดเจน {MINRADIUS}</CantStartNotEnoughSpaceDuel>
   <!-- EN: {0_labelShort} is a slave. Slaves don't get funerals. -->
-  <CantStartFuneralForSlave>TODO</CantStartFuneralForSlave>
+  <CantStartFuneralForSlave>{0_labelShort} เป็นทาส ทาสไม่ได้รับงานศพ</CantStartFuneralForSlave>
   <!-- EN: Need a slave bed that is reachable, not reserved, and in safe temperature. -->
-  <NoSlaveBed>TODO</NoSlaveBed>
+  <NoSlaveBed>ต้องการเตียงทาสที่เอื้อมถึง ไม่จอง และอยู่ในอุณหภูมิที่ปลอดภัย</NoSlaveBed>
   <!-- EN: Return to slave bed -->
-  <ReturnToSlaveBed>TODO</ReturnToSlaveBed>
+  <ReturnToSlaveBed>กลับไปที่เตียงทาส</ReturnToSlaveBed>
   <!-- EN: not allowed for faction -->
-  <NotAllowedForFaction>TODO</NotAllowedForFaction>
+  <NotAllowedForFaction>ไม่อนุญาติให้แบ่งฝ่าย</NotAllowedForFaction>
 
   <!-- EN: Remove -->
-  <Remove>TODO</Remove>
+  <Remove>ลบ</Remove>
   <!-- EN: Remove precept -->
-  <RemovePrecept>TODO</RemovePrecept>
+  <RemovePrecept>ลบศีล</RemovePrecept>
   <!-- EN: Regenerate -->
-  <Regenerate>TODO</Regenerate>
+  <Regenerate>สร้างใหม่</Regenerate>
   <!-- EN: Cannot edit -->
-  <CannotEdit>TODO</CannotEdit>
+  <CannotEdit>แก้ไขไม่ได้</CannotEdit>
   <!-- EN: No choices available -->
-  <NoChoicesAvailable>TODO</NoChoicesAvailable>
+  <NoChoicesAvailable>ไม่มีตัวเลือกที่ใช้ได้</NoChoicesAvailable>
   <!-- EN: Required by meme {0} -->
   <RequiredByMeme>TODO</RequiredByMeme>
   <!-- EN: Required -->
-  <Required>必須</Required>
+  <Required>จำเป็น</Required>
   <!-- EN: Style category -->
-  <StyleCategory>TODO</StyleCategory>
+  <StyleCategory>หมวดหมู่สไตล์</StyleCategory>
   <!-- EN: Add style category -->
-  <AddStyleCategory>TODO</AddStyleCategory>
+  <AddStyleCategory>เพิ่มหมวดหมู่สไตล์</AddStyleCategory>
   <!-- EN: Can't add more than {0} rituals. -->
-  <MaxRitualCount>TODO</MaxRitualCount>
+  <MaxRitualCount>ไม่สามารถเพิ่มมากกว่า {0} พิธีกรรม</MaxRitualCount>
   <!-- EN: Can't add more than {0} relics. -->
-  <MaxRelicCount>TODO</MaxRelicCount>
+  <MaxRelicCount>ไม่สามารถเพิ่มมากกว่า {0} พระธาตุ</MaxRelicCount>
   <!-- EN: can't have more than {0} specialists. -->
-  <MaxMultiRolesCount>TODO</MaxMultiRolesCount>
+  <MaxMultiRolesCount>มีผู้เชี่ยวชาญได้ไม่เกิน {0} คน</MaxMultiRolesCount>
   <!-- EN: max {0} -->
-  <MaxPreceptCount>TODO</MaxPreceptCount>
+  <MaxPreceptCount>สูงสุด {0}</MaxPreceptCount>
   <!-- EN: Set gender -->
-  <SetTargetGender>TODO</SetTargetGender>
+  <SetTargetGender>กำหนดเพศ</SetTargetGender>
   <!-- EN: incompatible -->
-  <FactionOrIdeoIncompatible>TODO</FactionOrIdeoIncompatible>
+  <FactionOrIdeoIncompatible>เข้ากันไม่ได้</FactionOrIdeoIncompatible>
   <!-- EN: cannot be worn with assigned apparel -->
-  <BodyPartAlreadyCovered>TODO</BodyPartAlreadyCovered>
+  <BodyPartAlreadyCovered>ไม่สามารถสวมใส่กับเสื้อผ้าที่กำหนดได้</BodyPartAlreadyCovered>
   <!-- EN: People are pleased when their apparel requirements are fulfilled, and unhappy when they are violated. -->
-  <NoteRoleApparelRequirementEffects>TODO</NoteRoleApparelRequirementEffects>
+  <NoteRoleApparelRequirementEffects>ผู้คนพอใจเมื่อปฏิบัติตามข้อกำหนดด้านเครื่องแต่งกายและไม่พอใจเมื่อถูกละเมิด</NoteRoleApparelRequirementEffects>
   <!-- EN: supercharge not ready -->
   <NeuralSuperchargeNotReady>TODO</NeuralSuperchargeNotReady>
   <!-- EN: already getting -->
-  <NeuralSuperchargeAlreadyGetting>TODO</NeuralSuperchargeAlreadyGetting>
+  <NeuralSuperchargeAlreadyGetting>ได้รับแล้ว</NeuralSuperchargeAlreadyGetting>
   <!-- EN: Set type -->
-  <SetApparelType>TODO</SetApparelType>
+  <SetApparelType>ประเภทชุด</SetApparelType>
 
   <!-- EN: change style -->
-  <ChangeStyle>TODO</ChangeStyle>
+  <ChangeStyle>เปลี่ยนสไตล์</ChangeStyle>
   <!-- EN: {0} {DEITYNOUN} required -->
-  <DeitiesRequired>TODO</DeitiesRequired>
+  <DeitiesRequired>ต้องการ {0} {DEITYNOUN}</DeitiesRequired>
   <!-- EN: deity -->
-  <Deity>TODO</Deity>
+  <Deity>เทพ</Deity>
   <!-- EN: requires meme -->
   <RequiresMeme>TODO</RequiresMeme>
   <!-- EN: requires one of -->
-  <RequiresOneOfMemes>TODO</RequiresOneOfMemes>
+  <RequiresOneOfMemes>ต้องการหนึ่งใน</RequiresOneOfMemes>
   <!-- EN: conflicts with meme -->
   <ConflictsWithMeme>TODO</ConflictsWithMeme>
   <!-- EN: conflicts with memes -->
   <ConflictsWithMemes>TODO</ConflictsWithMemes>
   <!-- EN: can only have one altar/ideogram -->
-  <IdeoAlreadyHasAltar>TODO</IdeoAlreadyHasAltar>
+  <IdeoAlreadyHasAltar>สามารถมีแท่นบูชา/รูปเคารพได้เพียง 1 แท่นเท่านั้น</IdeoAlreadyHasAltar>
   <!-- EN: recolor apparel -->
-  <RecolorApparel>TODO</RecolorApparel>
+  <RecolorApparel>เปลี่ยนสีเสื้อผ้า</RecolorApparel>
 
   <!-- EN: Hack {0} -->
-  <Hack>TODO</Hack>
+  <Hack>แฮ็ค {0}</Hack>
   <!-- EN: Cannot hack {0} -->
-  <CannotHack>TODO</CannotHack>
+  <CannotHack>ไม่สามารถแฮ็ค {0}</CannotHack>
   <!-- EN: Already hacked -->
-  <AlreadyHacked>TODO</AlreadyHacked>
+  <AlreadyHacked>โดนแฮกแล้ว</AlreadyHacked>
   <!-- EN: Incapable of hacking -->
-  <IncapableOfHacking>TODO</IncapableOfHacking>
+  <IncapableOfHacking>ไม่สามารถแฮ็คได้</IncapableOfHacking>
   <!-- EN: to drop supplies -->
-  <ToDropSupplies>TODO</ToDropSupplies>
+  <ToDropSupplies>วางเสบียง</ToDropSupplies>
 
   <!-- EN: Install {0} -->
-  <InstallRelic>TODO</InstallRelic>
+  <InstallRelic>ติดตั้ง {0}</InstallRelic>
   <!-- EN: Extract {0} -->
   <ExtractRelic>TODO</ExtractRelic>
   <!-- EN: Extract {0} to inventory ({1}) -->
@@ -116,7 +116,7 @@
   <NoWardenOfIdeo>TODO</NoWardenOfIdeo>
 
   <!-- EN: Remove current role -->
-  <RemoveCurrentRole>TODO</RemoveCurrentRole>
+  <RemoveCurrentRole>ลบบทบาทปัจจุบัน</RemoveCurrentRole>
 
   <!-- EN: Enter biosculpter pod -->
   <EnterBiosculpterPod>TODO</EnterBiosculpterPod>

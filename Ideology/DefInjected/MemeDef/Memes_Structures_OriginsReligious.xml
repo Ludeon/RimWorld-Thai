@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: Buddhist origin -->
-  <Structure_OriginBuddhist.label>TODO</Structure_OriginBuddhist.label>
+  <Structure_OriginBuddhist.label>พุทธศาสนา</Structure_OriginBuddhist.label>
   <!-- EN: This ideoligion is a descendant of ancient Buddhism. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
-  <Structure_OriginBuddhist.description>TODO</Structure_OriginBuddhist.description>
+  <Structure_OriginBuddhist.description>อุดมคตินี้เป็นลูกหลานของพระพุทธศาสนาโบราณ มันอาจมีศีลที่ต่างไปจากเมื่อหลายพันปีก่อนมาก แต่สัญลักษณ์ของมันก็คล้ายคลึงกัน</Structure_OriginBuddhist.description>
   <!-- EN:
     <li>r_ideoName(p=99)->[globalAdjective] [packIdeoName]</li>
     <li>r_ideoName(p=99)->[memeAdjective] [packIdeoName]</li>
@@ -89,9 +89,9 @@
   <Structure_OriginBuddhist.worshipRoomLabel>TODO</Structure_OriginBuddhist.worshipRoomLabel>
   
   <!-- EN: Christian origin -->
-  <Structure_OriginChristian.label>TODO</Structure_OriginChristian.label>
+  <Structure_OriginChristian.label>คริสเตียน</Structure_OriginChristian.label>
   <!-- EN: This is a variant of the abstract theist structure. This ideoligion is a descendant of ancient Christianity. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
-  <Structure_OriginChristian.description>TODO</Structure_OriginChristian.description>
+  <Structure_OriginChristian.description>นี่คือความแตกต่างของโครงสร้างเทวนิยมเชิงนามธรรม อุดมคตินี้เป็นทายาทของศาสนาคริสต์ในสมัยโบราณ มันอาจมีศีลที่ต่างไปจากเมื่อหลายพันปีก่อนมาก แต่สัญลักษณ์ของมันก็คล้ายคลึงกัน</Structure_OriginChristian.description>
   <!-- EN:
     <li>r_ideoName(p=99)->[globalAdjective] [packIdeoName]</li>
     <li>r_ideoName(p=99)->[memeAdjective] [packIdeoName]</li>
@@ -205,9 +205,9 @@
   <Structure_OriginChristian.worshipRoomLabel>TODO</Structure_OriginChristian.worshipRoomLabel>
   
   <!-- EN: Hindu origin -->
-  <Structure_OriginHindu.label>TODO</Structure_OriginHindu.label>
+  <Structure_OriginHindu.label>ฮินดู</Structure_OriginHindu.label>
   <!-- EN: This is a variant of the embodied theist structure. This ideoligion is a descendant of ancient Hinduism. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
-  <Structure_OriginHindu.description>TODO</Structure_OriginHindu.description>
+  <Structure_OriginHindu.description>นี่คือความแตกต่างของโครงสร้างเทวนิยมที่เป็นตัวเป็นตน อุดมคตินี้เป็นลูกหลานของศาสนาฮินดูโบราณ มันอาจมีศีลที่ต่างไปจากเมื่อหลายพันปีก่อนมาก แต่สัญลักษณ์ของมันก็คล้ายคลึงกัน</Structure_OriginHindu.description>
   <!-- EN: God of Creation -->
   <Structure_OriginHindu.fixedDeityNameTypes.0.type>TODO</Structure_OriginHindu.fixedDeityNameTypes.0.type>
   <!-- EN: God of Preservation -->
@@ -381,9 +381,9 @@
   <Structure_OriginHindu.worshipRoomLabel>TODO</Structure_OriginHindu.worshipRoomLabel>
   
   <!-- EN: Islamic origin -->
-  <Structure_OriginIslamic.label>TODO</Structure_OriginIslamic.label>
+  <Structure_OriginIslamic.label>อิสลาม</Structure_OriginIslamic.label>
   <!-- EN: This is a variant of the abstract theist structure. This ideoligion is a descendant of ancient Islam. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
-  <Structure_OriginIslamic.description>TODO</Structure_OriginIslamic.description>
+  <Structure_OriginIslamic.description>นี่คือความแตกต่างของโครงสร้างเทวนิยมเชิงนามธรรม อุดมคตินี้เป็นลูกหลานของศาสนาอิสลามโบราณ มันอาจมีศีลที่ต่างไปจากเมื่อหลายพันปีก่อนมาก แต่สัญลักษณ์ของมันก็คล้ายคลึงกัน</Structure_OriginIslamic.description>
   <!-- EN:
     <li>r_ideoName(p=99)->[globalAdjective] [packIdeoName]</li>
     <li>r_ideoName(p=99)->[memeAdjective] [packIdeoName]</li>

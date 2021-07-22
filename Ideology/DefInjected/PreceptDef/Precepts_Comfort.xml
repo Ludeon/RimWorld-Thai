@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: ignored -->
-  <Comfort_Ignored.label>TODO</Comfort_Ignored.label>
+  <Comfort_Ignored.label>ละเลย</Comfort_Ignored.label>
   <!-- EN: We should pay no attention to comfort. -->
   <Comfort_Ignored.description>TODO</Comfort_Ignored.description>
   
   <!-- EN: preferred -->
-  <SlabBed_Preferred.label>TODO</SlabBed_Preferred.label>
+  <SlabBed_Preferred.label>ที่ต้องการ</SlabBed_Preferred.label>
   <!-- EN: The right way to sleep is on a slab bed. -->
   <SlabBed_Preferred.description>TODO</SlabBed_Preferred.description>
   <!-- EN: Slept in slab bed -->

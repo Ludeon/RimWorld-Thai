@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: strong -->
-  <GauranlenConnection_Strong.label>TODO</GauranlenConnection_Strong.label>
+  <GauranlenConnection_Strong.label>แข็งแกร่ง</GauranlenConnection_Strong.label>
   <!-- EN: We have a special connection with the Gauranlen trees. The trees refocus production easily under our influence, and we are not satisfied unless we have that connection. -->
   <GauranlenConnection_Strong.description>TODO</GauranlenConnection_Strong.description>
   <!-- EN: Gauranlen connection -->
@@ -19,7 +19,7 @@
   <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.5>TODO</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.5>
   
   <!-- EN: desired -->
-  <Trees_Desired.label>TODO</Trees_Desired.label>
+  <Trees_Desired.label>ที่ต้องการ</Trees_Desired.label>
   <!-- EN: It's essential to live surrounded by beautiful trees. -->
   <Trees_Desired.description>TODO</Trees_Desired.description>
   <!-- EN: Healthy trees -->

@@ -3,18 +3,18 @@
 
   <!-- Misc -->
   <!-- EN: add -->
-  <Add>TODO</Add>
+  <Add>เพิ่ม</Add>
   <!-- EN: Trading animal products bonus -->
-  <TradingAnimalProduceBonus>TODO</TradingAnimalProduceBonus>
+  <TradingAnimalProduceBonus>โบนัสซื้อขายผลิตภัณฑ์จากสัตว์</TradingAnimalProduceBonus>
   <!-- EN: Slaves -->
-  <SlavesSection>TODO</SlavesSection>
+  <SlavesSection>ทาส</SlavesSection>
   <!-- EN: dominant style -->
-  <DominantStyle>TODO</DominantStyle>
+  <DominantStyle>สไตล์ที่โดดเด่น</DominantStyle>
   <!-- EN: Date -->
-  <Date>TODO</Date>
+  <Date>วันที่</Date>
 
   <!-- EN: Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay. -->
-  <ChooseStructureMemesInfo>TODO</ChooseStructureMemesInfo>
+  <ChooseStructureMemesInfo>เลือกโครงสร้างเชิงสัญลักษณ์ของอุดมคติของคุณ สิ่งนี้มีผลกับสัญลักษณ์เท่านั้น - ไม่ส่งผลต่อการเล่นเกม</ChooseStructureMemesInfo>
   <!-- EN: Choose {0}-{1} memes to form the foundational ideas of this ideoligion. Some of these have much more gameplay impact than others. -->
   <ChooseNormalMemesInfo>TODO</ChooseNormalMemesInfo>
   <!-- EN: Choose at least {0} meme. -->
@@ -22,49 +22,49 @@
   <!-- EN: Choose at most {0} memes. -->
   <TooManyMemes>TODO</TooManyMemes>
   <!-- EN: Choose structure. -->
-  <ChooseStructureMeme>TODO</ChooseStructureMeme>
+  <ChooseStructureMeme>เลือกโครงสร้าง</ChooseStructureMeme>
   <!-- EN: {0_label} and {1_label} are incompatible. -->
-  <IncompatibleMemes>TODO</IncompatibleMemes>
+  <IncompatibleMemes>{0_label} และ {1_label} ไม่เข้ากัน</IncompatibleMemes>
   
   <!-- EN: Room requirements -->
-  <RoomRequirements>TODO</RoomRequirements>
+  <RoomRequirements>ข้อกำหนดห้อง Room</RoomRequirements>
   
   <!-- EN: role -->
-  <Role>TODO</Role>
+  <Role>บทบาท</Role>
   <!-- EN: Assign role -->
-  <ChooseRole>TODO</ChooseRole>
+  <ChooseRole>กำหนดบทบาท</ChooseRole>
   <!-- EN: No role assigned -->
-  <NoRoleAssigned>TODO</NoRoleAssigned>
+  <NoRoleAssigned>ไม่ได้รับมอบหมายบทบาท</NoRoleAssigned>
   <!-- EN: You're about to assign the role of {ROLE_labelDef} to {PAWN_labelShort}. -->
-  <ChooseRoleConfirmAssign>TODO</ChooseRoleConfirmAssign>
+  <ChooseRoleConfirmAssign>คุณกำลังจะมอบหมายบทบาทของ {ROLE_labelDef} ให้กับ {PAWN_labelShort}</ChooseRoleConfirmAssign>
   <!-- EN: Are you sure? -->
-  <ChooseRoleConfirmAssignPostfix>TODO</ChooseRoleConfirmAssignPostfix>
+  <ChooseRoleConfirmAssignPostfix>คุณแน่ใจไหม?</ChooseRoleConfirmAssignPostfix>
   <!-- EN: {PAWN_labelShort} currently holds this role and will be unhappy to lose it. -->
-  <ChooseRoleConfirmAssignReplace>TODO</ChooseRoleConfirmAssignReplace>
+  <ChooseRoleConfirmAssignReplace>ขณะนี้ {PAWN_labelShort} ดำรงตำแหน่งนี้และจะไม่มีความสุขที่จะสูญเสียบทบาทนี้ไป</ChooseRoleConfirmAssignReplace>
   <!-- EN: {PAWN_labelShort} currently holds the role of {ROLE_label} and will be unhappy to lose it. -->
-  <ChooseRoleConfirmAssignHasOtherRole>TODO</ChooseRoleConfirmAssignHasOtherRole>
+  <ChooseRoleConfirmAssignHasOtherRole>ขณะนี้ {PAWN_labelShort} ดำรงตำแหน่งเป็น {ROLE_label} และจะไม่มีความสุขที่จะสูญเสียมันไป</ChooseRoleConfirmAssignHasOtherRole>
   <!-- EN: There can be only one leader. This will dismiss {PAWN_labelShort} from their {OTHERROLE_labelDef} role, which will make {PAWN_objective} upset. -->
-  <ChooseRoleConfirmAssignReplaceLeader>TODO</ChooseRoleConfirmAssignReplaceLeader>
+  <ChooseRoleConfirmAssignReplaceLeader>มีผู้นำได้เพียงคนเดียว การดำเนินการนี้จะยกเลิก {PAWN_labelShort} จากบทบาท {OTHERROLE_labelDef} ของพวกเขา ซึ่งจะทำให้ {PAWN_objective} ไม่สบายใจ</ChooseRoleConfirmAssignReplaceLeader>
   <!-- EN: You're about to dismiss {PAWN_labelShort} from the role of {ROLE_labelIndef}. This will upset {PAWN_objective}. -->
-  <ChooseRoleConfirmUnassign>TODO</ChooseRoleConfirmUnassign>
+  <ChooseRoleConfirmUnassign>คุณกำลังจะยกเลิก {PAWN_labelShort} จากบทบาทของ {ROLE_labelIndef} สิ่งนี้จะทำให้ {PAWN_objective} ไม่พอใจ</ChooseRoleConfirmUnassign>
   <!-- EN: {PAWN_labelShort} will gain the following abilities -->
-  <ChooseRoleListAbilities>TODO</ChooseRoleListAbilities>
+  <ChooseRoleListAbilities>{PAWN_labelShort} จะได้รับความสามารถดังต่อไปนี้</ChooseRoleListAbilities>
   <!-- EN: The {ROLE_label} role requires the following apparel -->
-  <ChooseRoleListApparelDemands>TODO</ChooseRoleListApparelDemands>
+  <ChooseRoleListApparelDemands>บทบาท {ROLE_label} ต้องใช้เครื่องแต่งกายต่อไปนี้</ChooseRoleListApparelDemands>
   <!-- EN: {PAWN_labelShort} will refuse to do these work types -->
-  <ChooseRoleListWorkTypeRestrictions>TODO</ChooseRoleListWorkTypeRestrictions>
+  <ChooseRoleListWorkTypeRestrictions>{PAWN_labelShort} จะปฏิเสธที่จะทำงานประเภทนี้</ChooseRoleListWorkTypeRestrictions>
   <!-- EN: It can sometimes be better to wait until your colony is more established before you assign roles. -->
-  <ChooseRoleHint>TODO</ChooseRoleHint>
+  <ChooseRoleHint>บางครั้งอาจเป็นการดีกว่าถ้าคุณรอจนกว่าอาณานิคมของคุณจะได้รับการจัดตั้งขึ้นก่อนที่คุณจะกำหนดบทบาท</ChooseRoleHint>
   <!-- EN: Unlocked by -->
-  <UnlockedByMeme>TODO</UnlockedByMeme>
+  <UnlockedByMeme>ปลดล็อคโดย</UnlockedByMeme>
   <!-- EN: Unlocked roles -->
-  <MemeUnlocksRoles>TODO</MemeUnlocksRoles>
+  <MemeUnlocksRoles>ปลดล็อคบทบาท</MemeUnlocksRoles>
   <!-- EN: Unlocked rituals -->
-  <MemeUnlocksRituals>TODO</MemeUnlocksRituals>
+  <MemeUnlocksRituals>ปลดล็อกพิธีกรรม</MemeUnlocksRituals>
   <!-- EN: WARNING: {PAWN_nameDef} is unable to do work that is required for the role of {ROLE_label}. If you choose to give {PAWN_objective} this role, {PAWN_pronoun} may be unable to use the abilities associated with {ROLE_label}. The missing work types are -->
   <ChooseRoleRequiredWorkTagsDisabled>TODO</ChooseRoleRequiredWorkTagsDisabled>
   <!-- EN: Leader bonus -->
-  <YourLeaderTradeBonus>TODO</YourLeaderTradeBonus>
+  <YourLeaderTradeBonus>โบนัสผู้นำ</YourLeaderTradeBonus>
   <!-- EN: The meme {MEME} prevents adding apparel requirements to roles. -->
   <CannotNotAddRoleApparelDueToMeme>TODO</CannotNotAddRoleApparelDueToMeme>
 
@@ -96,54 +96,54 @@
 
   <!-- Slavery -->
   <!-- EN: Slave -->
-  <CannotAssignBedToSlave>TODO</CannotAssignBedToSlave>
+  <CannotAssignBedToSlave>ทาส</CannotAssignBedToSlave>
   <!-- EN: Colonist -->
-  <CannotAssignBedToColonist>TODO</CannotAssignBedToColonist>
+  <CannotAssignBedToColonist>อาณานิคม</CannotAssignBedToColonist>
   <!-- EN: Any slave -->
   <AnySlave>TODO</AnySlave>
   <!-- EN: Negotiator will not sell people into slavery. -->
-  <NegotiatorWillNotTradeSlaves>TODO</NegotiatorWillNotTradeSlaves>
+  <NegotiatorWillNotTradeSlaves>นักเจรจาจะไม่ขายคนให้เป็นทาส</NegotiatorWillNotTradeSlaves>
   <!-- EN: The negotiator, {0_nameDef}, will not people into slavery due to {0_possessive} belief in {1}.\n\nNote that {0_nameDef} is willing to ransom someone back to their own faction, but isn't willing to sell someone to a different faction. -->
-  <NegotiatorWillNotTradeSlavesTip>TODO</NegotiatorWillNotTradeSlavesTip>
+  <NegotiatorWillNotTradeSlavesTip>ผู้เจรจา {0_nameDef} จะไม่ยอมให้คนตกเป็นทาสเนื่องจากความเชื่อ {0_possessive} ใน {1}\n\nโปรดทราบว่า {0_nameDef} เต็มใจที่จะเรียกใครซักคนกลับคืนสู่ฝ่ายของตน แต่ไม่ยอมขายใคร ไปยังอีกฝ่ายหนึ่ง</NegotiatorWillNotTradeSlavesTip>
 
   <!-- EN: Last human meat -->
-  <LastHumanMeat>TODO</LastHumanMeat>
+  <LastHumanMeat>เนื้อมนุษย์ตัวสุดท้าย</LastHumanMeat>
   <!-- EN: Because of {PAWN_possessive} belief in {IDEO_name}, {PAWN_nameDef} will become unhappy if {PAWN_pronoun} goes more than {DURATION} days without eating human meat. -->
-  <LastHumanMeatDesc>TODO</LastHumanMeatDesc>
+  <LastHumanMeatDesc>เนื่องจาก {PAWN_possessive} เชื่อมั่นใน {IDEO_name} {PAWN_nameDef} จะไม่มีความสุขหาก {PAWN_pronoun} ไปมากกว่า {DURATION} วันโดยไม่กินเนื้อมนุษย์</LastHumanMeatDesc>
   <!-- EN: Last large animal slaughter -->
   <LastAnimalSlaughter>TODO</LastAnimalSlaughter>
 
   <!-- EN: Executing {PAWN_labelShort} will negatively affect relations with {FACTION_name}. -->
-  <ExectueNeutralFactionSlave>TODO</ExectueNeutralFactionSlave>
+  <ExectueNeutralFactionSlave>การดำเนินการ {PAWN_labelShort} จะส่งผลเสียต่อความสัมพันธ์กับ {FACTION_name}</ExectueNeutralFactionSlave>
 
   <!-- EN: You must assign at least one non-slave colonist who can walk. -->
-  <CaravanMustHaveAtLeastOneNonSlaveColonist>TODO</CaravanMustHaveAtLeastOneNonSlaveColonist>
+  <CaravanMustHaveAtLeastOneNonSlaveColonist>คุณต้องมอบหมายอาณานิคมที่ไม่ใช่ทาสอย่างน้อยหนึ่งคนที่สามารถเดินได้</CaravanMustHaveAtLeastOneNonSlaveColonist>
   <!-- EN: You must leave at least non-slave colonist who can walk. -->
-  <SourceCaravanMustHaveAtLeastOneNonSlaveColonist>TODO</SourceCaravanMustHaveAtLeastOneNonSlaveColonist>
+  <SourceCaravanMustHaveAtLeastOneNonSlaveColonist>คุณต้องปล่อยให้ชาวอาณานิคมที่ไม่ใช่ทาสเดินได้อย่างน้อย</SourceCaravanMustHaveAtLeastOneNonSlaveColonist>
 
   <!-- Style -->
   <!-- EN: Style -->
-  <StylePawn>TODO</StylePawn>
+  <StylePawn>สไตล์</StylePawn>
   <!-- EN: Cancel -->
-  <Cancel>TODO</Cancel>
+  <Cancel>ยกเลิก</Cancel>
   <!-- EN: hair -->
-  <Hair>TODO</Hair>
+  <Hair>ผม</Hair>
   <!-- EN: beard -->
-  <Beard>TODO</Beard>
+  <Beard>หนวดเครา</Beard>
   <!-- EN: face tattoo -->
-  <TattooFace>TODO</TattooFace>
+  <TattooFace>สักหน้า</TattooFace>
   <!-- EN: body tattoo -->
-  <TattooBody>TODO</TattooBody>
+  <TattooBody>รอยสักบนร่างกาย</TattooBody>
   <!-- EN: apparel color -->
-  <ApparelColor>TODO</ApparelColor>
+  <ApparelColor>สีเครื่องนุ่งห่ม</ApparelColor>
   <!-- EN: hair color -->
-  <HairColor>TODO</HairColor>
+  <HairColor>สีผม</HairColor>
   <!-- EN: Show headgear -->
-  <ShowHeadgear>TODO</ShowHeadgear>
+  <ShowHeadgear>โชว์หมวก</ShowHeadgear>
   <!-- EN: Show apparel -->
-  <ShowApparel>TODO</ShowApparel>
+  <ShowApparel>โชว์เสื้อผ้า</ShowApparel>
   <!-- EN: {PAWN_nameDef} will be unhappy with the following -->
-  <PawnUnhappyWithStyleItems>TODO</PawnUnhappyWithStyleItems>
+  <PawnUnhappyWithStyleItems>{PAWN_nameDef} จะไม่พอใจกับสิ่งต่อไปนี้</PawnUnhappyWithStyleItems>
   <!-- EN: Style categories affect the appearance of some buildings, apparel and weapons made by {IDEO_memberNamePlural}. If more than one category affects the same thing, the left-most one applies. -->
   <StyleCategoryDescription>TODO</StyleCategoryDescription>
   <!-- EN: {IDEO_memberNamePlural} will be happy if they notice buildings, floors, and art matching this style. -->
@@ -155,15 +155,15 @@
   <!-- EN: New buildables -->
   <IdeoMakesBuildingBuildable>TODO</IdeoMakesBuildingBuildable>
   <!-- EN: none usable for {PAWN_nameDef} -->
-  <NoneUsableForPawn>TODO</NoneUsableForPawn> 
+  <NoneUsableForPawn>ใช้ไม่ได้กับ {PAWN_nameDef}</NoneUsableForPawn> 
   <!-- EN: Hair and beards -->
-  <HairAndBeards>TODO</HairAndBeards>
+  <HairAndBeards>ผมและเครา</HairAndBeards>
   <!-- EN: These settings determine how frequently each style appears on members of this ideoligion. -->
-  <HairAndBeardsDesc>TODO</HairAndBeardsDesc>
+  <HairAndBeardsDesc>การตั้งค่าเหล่านี้จะกำหนดความถี่ที่แต่ละสไตล์จะปรากฏบนสมาชิกของอุดมการณ์นี้</HairAndBeardsDesc>
   <!-- EN: Tattoos -->
-  <Tattoos>TODO</Tattoos>
+  <Tattoos>รอยสัก</Tattoos>
   <!-- EN: These settings determines how frequently each tattoo appears on members of this ideoligion. -->
-  <TattoosDesc>TODO</TattoosDesc>
+  <TattoosDesc>การตั้งค่าเหล่านี้จะกำหนดความถี่ที่รอยสักแต่ละอันปรากฏบนสมาชิกของอุดมคตินี้</TattoosDesc>
   <!-- EN: Never -->
   <StyleItemFrequencyNever>TODO</StyleItemFrequencyNever>
   <!-- EN: Rare -->
@@ -177,15 +177,15 @@
   <!-- EN: Frequent -->
   <StyleItemFrequencyFrequent>TODO</StyleItemFrequencyFrequent>
   <!-- EN: Edit appearance -->
-  <EditAppearanceItems>TODO</EditAppearanceItems>
+  <EditAppearanceItems>แก้ไขรูปลักษณ์</EditAppearanceItems>
   <!-- EN: {0} in use -->
-  <NumAvailable>TODO</NumAvailable>
+  <NumAvailable>{0} ใช้งานอยู่</NumAvailable>
   <!-- EN: Expand all -->
-  <ExpandAllCategories>TODO</ExpandAllCategories>
+  <ExpandAllCategories>ขยายทั้งหมด</ExpandAllCategories>
   <!-- EN: Collapse all -->
-  <CollapseAllCategories>TODO</CollapseAllCategories>
+  <CollapseAllCategories>ยุบทั้งหมด</CollapseAllCategories>
   <!-- EN: Resets all style items to their default values. -->
-  <ResetButtonDesc>TODO</ResetButtonDesc>
+  <ResetButtonDesc>รีเซ็ตรายการสไตล์ทั้งหมดกลับเป็นค่าเริ่มต้น</ResetButtonDesc>
 
   <!-- Ancient complex mission -->
   <!-- EN: Send shuttle anyway -->
@@ -195,11 +195,11 @@
 
   <!-- Medical settings -->
   <!-- EN: Enslaved colonist -->
-  <MedGroupEnslavedColonist>TODO</MedGroupEnslavedColonist>
+  <MedGroupEnslavedColonist>อาณานิคมทาส</MedGroupEnslavedColonist>
 
   <!-- Dryad upgrades -->
   <!-- EN: Choose dryad caste -->
-  <ChangeMode>TODO</ChangeMode>
+  <ChangeMode>เลือกวรรณะนางไม้</ChangeMode>
   <!-- EN: Required memes -->
   <RequiredMemes>TODO</RequiredMemes>
   <!-- EN: Required caste -->
@@ -215,32 +215,32 @@
 
   <!-- Archonexus -->
   <!-- EN: Choose who to convert to your ideoligion -->
-  <ChooseColonistsForIdeoTitle>TODO</ChooseColonistsForIdeoTitle>
+  <ChooseColonistsForIdeoTitle>เลือกผู้ที่จะแปลงเป็นอุดมคติของคุณ</ChooseColonistsForIdeoTitle>
   <!-- EN: You may convert people to your primary ideoligion when setting up a new colony. -->
-  <ChooseColonistsForIdeoDesc>TODO</ChooseColonistsForIdeoDesc>
+  <ChooseColonistsForIdeoDesc>คุณอาจแปลงผู้คนให้เป็นอุดมคติหลักของคุณเมื่อตั้งอาณานิคมใหม่</ChooseColonistsForIdeoDesc>
   <!-- EN: New Colony -->
-  <ChooseThingsForNewColonyTitle>TODO</ChooseThingsForNewColonyTitle>
+  <ChooseThingsForNewColonyTitle>อาณานิคมใหม่</ChooseThingsForNewColonyTitle>
   <!-- EN: Choose which colonists, animals and relics to bring to the new colony. -->
   <ChooseThingsForNewColonyDesc>TODO</ChooseThingsForNewColonyDesc>
   <!-- EN: Choose up to {0} {1}. -->
-  <ChooseThingsDesc>TODO</ChooseThingsDesc>
+  <ChooseThingsDesc>เลือกได้ถึง {0} {1}</ChooseThingsDesc>
   <!-- EN: Choose up to {0} people. -->
-  <ChoosePeopleDesc>TODO</ChoosePeopleDesc>
+  <ChoosePeopleDesc>เลือกได้สูงสุด {0} คน</ChoosePeopleDesc>
   <!-- EN: If you only select slaves, you will play them as colonists in the next colony. -->
-  <ChooseOnlySlavesInfo>TODO</ChooseOnlySlavesInfo>
+  <ChooseOnlySlavesInfo>หากคุณเลือกเฉพาะทาส คุณจะเล่นเป็นอาณานิคมในอาณานิคมถัดไป</ChooseOnlySlavesInfo>
   <!-- EN: Convert -->
   <ConvertToPlayerIdeoligion>TODO</ConvertToPlayerIdeoligion>
   <!-- EN: Revert -->
-  <RevertToPreviousIdeoligion>TODO</RevertToPreviousIdeoligion>
+  <RevertToPreviousIdeoligion>ย้อนกลับ</RevertToPreviousIdeoligion>
   <!-- EN: Existing follower -->
-  <ExistingFollowerOfPlayerIdeoligion>TODO</ExistingFollowerOfPlayerIdeoligion>
+  <ExistingFollowerOfPlayerIdeoligion>ผู้ติดตามที่มีอยู่</ExistingFollowerOfPlayerIdeoligion>
   <!-- EN: You are abandoning a site that contains archotech structures which you have not yet fully studied.\n\nYou will be able to resettle here later, but your colony will be wiped away. -->
   <AbandonArchotechStructuresWarningDialog>TODO</AbandonArchotechStructuresWarningDialog>
 
   <!-- EN: Hacking this {0} will alert enemies and cause them to attack. Do really want to hack {0}? -->
-  <ConfirmHackEnenyTerminal>TODO</ConfirmHackEnenyTerminal>
+  <ConfirmHackEnenyTerminal>การแฮ็ก {0} นี้จะแจ้งเตือนศัตรูและทำให้พวกเขาโจมตี ต้องการแฮ็ค {0} จริงๆ ?</ConfirmHackEnenyTerminal>
 
   <!-- EN: Relics -->
-  <RelicsSection>TODO</RelicsSection>
+  <RelicsSection>พระธาตุ</RelicsSection>
 
 </LanguageData>

@@ -2,51 +2,51 @@
 <LanguageData>
 
   <!-- EN: Choose your faction's ideoligion -->
-  <ChooseIdeoligion>TODO</ChooseIdeoligion>
+  <ChooseIdeoligion>เลือกอุดมคติของฝ่ายของคุณ</ChooseIdeoligion>
   <!-- EN: Create custom -->
-  <CreateCustom>TODO</CreateCustom>
+  <CreateCustom>สร้างกำหนดเอง</CreateCustom>
   <!-- EN: Create new -->
-  <CreateNew>TODO</CreateNew>
+  <CreateNew>สร้างใหม่</CreateNew>
   <!-- EN: Create custom ideoligion -->
-  <CreateCustomIdeoligion>TODO</CreateCustomIdeoligion>
+  <CreateCustomIdeoligion>สร้างอุดมคติที่กำหนดเอง</CreateCustomIdeoligion>
   <!-- EN: Select an ideoligion for your faction on the left, or -->
-  <SelectAnIdeo>TODO</SelectAnIdeo>
+  <SelectAnIdeo>เลือกอุดมคติสำหรับฝ่ายของคุณทางด้านซ้ายหรือ</SelectAnIdeo>
   <!-- EN: ideoligion -->
-  <Ideo>TODO</Ideo> 
+  <Ideo>อุดมคติ</Ideo> 
   <!-- EN: Randomize all -->
-  <RandomizeAll>TODO</RandomizeAll>
+  <RandomizeAll>สุ่มทั้งหมด</RandomizeAll>
   <!-- EN: Appearance -->
-  <Appearance>TODO</Appearance>
+  <Appearance>รูปร่าง</Appearance>
   <!-- EN: Done -->
-  <DoneButton>TODO</DoneButton>
+  <DoneButton>เสร็จ</DoneButton>
   <!-- EN: Caused by -->
-  <CausedBy>TODO</CausedBy>
+  <CausedBy>เกิดจาก</CausedBy>
   <!-- EN: Belief in -->
-  <BeliefInIdeo>TODO</BeliefInIdeo>
+  <BeliefInIdeo>ความเชื่อใน</BeliefInIdeo>
   <!-- EN: Information about {0} -->
-  <Reward_RelicInfo>TODO</Reward_RelicInfo>
+  <Reward_RelicInfo>ข้อมูลเกี่ยวกับ {0}</Reward_RelicInfo>
   <!-- EN: Info about {0} -->
-  <Reward_RelicInfoLabel>TODO</Reward_RelicInfoLabel>
+  <Reward_RelicInfoLabel>ข้อมูลเกี่ยวกับ {0}</Reward_RelicInfoLabel>
   <!-- EN: Relic of {IDEO_name} -->
-  <RelicOf>TODO</RelicOf>
+  <RelicOf>ของที่ระลึกของ {IDEO_name}</RelicOf>
   <!-- EN: altar -->
-  <Altar>TODO</Altar>
+  <Altar>แท่นบูชา</Altar>
   <!-- EN: base -->
-  <Base>TODO</Base>
+  <Base>ฐาน</Base>
   <!-- EN: min expectation -->
-  <MinExpectation>TODO</MinExpectation>
+  <MinExpectation>ความคาดหวังต่ำ</MinExpectation>
   <!-- EN: {0} to {1} -->
-  <PreceptThoughtMoodRange>TODO</PreceptThoughtMoodRange>
+  <PreceptThoughtMoodRange>{0} ถึง {1}</PreceptThoughtMoodRange>
   <!-- EN: Comes from ideo -->
   <ComesFromIdeo>TODO</ComesFromIdeo>
   <!-- EN: Current total animal bodysize per colonist -->
-  <CurrentTotalAnimalBodySizePerColonist>TODO</CurrentTotalAnimalBodySizePerColonist>
+  <CurrentTotalAnimalBodySizePerColonist>ขนาดตัวของสัตว์ทั้งหมดในปัจจุบันต่ออาณานิคม</CurrentTotalAnimalBodySizePerColonist>
   <!-- EN: total bodysize per colonist -->
-  <AnimalsBodySizePerColonist>TODO</AnimalsBodySizePerColonist>
+  <AnimalsBodySizePerColonist>ขนาดร่างกายทั้งหมดต่ออาณานิคม</AnimalsBodySizePerColonist>
   <!-- EN: total nearby bodysize per colonist -->
-  <VeneratedAnimalsBodySizePerColonist>TODO</VeneratedAnimalsBodySizePerColonist>
+  <VeneratedAnimalsBodySizePerColonist>ขนาดร่างกายใกล้เคียงทั้งหมดต่ออาณานิคม</VeneratedAnimalsBodySizePerColonist>
   <!-- EN: Expecting at least {0} body size per colonist. -->
-  <MinAnimalBodySizePerColonist>TODO</MinAnimalBodySizePerColonist>
+  <MinAnimalBodySizePerColonist>คาดว่าจะมีขนาดร่างกายอย่างน้อย {0} ต่ออาณานิคม</MinAnimalBodySizePerColonist>
   <!-- EN: Plant {0_label} -->
   <PlantThing>TODO</PlantThing>
   <!-- EN: Plant a {0_label} in a chosen area. -->
@@ -56,179 +56,179 @@
   <!-- EN: Cancel planting the {0_label}. -->
   <CancelPlantThingDesc>TODO</CancelPlantThingDesc>
   <!-- EN: Disables -->
-  <Disables>TODO</Disables>
+  <Disables>ปิดการใช้งาน</Disables>
   <!-- EN: Requires one of precepts -->
-  <RequiresOnePrecept>TODO</RequiresOnePrecept>
+  <RequiresOnePrecept>ต้องมีศีลข้อใดข้อหนึ่ง</RequiresOnePrecept>
   <!-- EN: Required precepts -->
-  <RequiredPrecepts>TODO</RequiredPrecepts>
+  <RequiredPrecepts>ศีลที่จำเป็น</RequiredPrecepts>
   <!-- EN: Required rituals -->
-  <RequiredRituals>TODO</RequiredRituals>
+  <RequiredRituals>พิธีกรรมที่จำเป็น</RequiredRituals>
   <!-- EN: Disables precepts -->
-  <DisablesPrecepts>TODO</DisablesPrecepts>
+  <DisablesPrecepts>ปิดการใช้งาน ศีล</DisablesPrecepts>
   <!-- EN: Disables {0} precepts. -->
-  <DisablesPreceptsCount>TODO</DisablesPreceptsCount>
+  <DisablesPreceptsCount>ปิดใช้งาน {0} ศีล</DisablesPreceptsCount>
   <!-- EN: Styles -->
-  <Styles>TODO</Styles>
+  <Styles>สไตล์</Styles>
   <!-- EN: Chance to have precept -->
-  <ChanceToHavePrecept>TODO</ChanceToHavePrecept>
+  <ChanceToHavePrecept>มีโอกาสมีศีล</ChanceToHavePrecept>
   <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
-  <FavoriteColorTooltip>TODO</FavoriteColorTooltip>
+  <FavoriteColorTooltip>สีโปรดของ {PAWN_labelShort} การมีเสื้อผ้ามากกว่า {PERCENTAGE} ของ {PAWN_possessive} ชุดในสีนี้ หรือสีของ {PAWN_possessive} อุดมคติจะทำให้ {PAWN_objective} มีความสุขขึ้นเล็กน้อย\n\nคุณสามารถเปลี่ยนสีของเครื่องแต่งกายที่สถานีจัดแต่งได้โดยใช้สีย้อมทิงทอเรีย</FavoriteColorTooltip>
   <!-- EN: Set ideo color -->
-  <SetIdeoColor>TODO</SetIdeoColor>
+  <SetIdeoColor>กำหนดสีอุดมคติ</SetIdeoColor>
   <!-- EN: Set favorite color -->
-  <SetFavoriteColor>TODO</SetFavoriteColor>
+  <SetFavoriteColor>ตั้งค่าสีที่ชอบ</SetFavoriteColor>
   <!-- EN: Configure your faction's ideoligion -->
-  <ConfigureIdeoligion>TODO</ConfigureIdeoligion>
+  <ConfigureIdeoligion>กำหนดค่าอุดมคติของฝ่ายของคุณ</ConfigureIdeoligion>
   <!-- EN: Not enough dye. -->
-  <NotEnoughDye>TODO</NotEnoughDye>
+  <NotEnoughDye>ย้อมสีไม่เพียงพอ</NotEnoughDye>
   <!-- EN: The colonist will recolor the apparel when dye becomes available. -->
-  <NotEnoughDyeWillRecolorApparel>TODO</NotEnoughDyeWillRecolorApparel>
+  <NotEnoughDyeWillRecolorApparel>ชาวอาณานิคมจะเปลี่ยนสีเสื้อผ้าเมื่อมีสีย้อม</NotEnoughDyeWillRecolorApparel>
   <!-- EN: The colonist will recolor their hair when dye becomes available. -->
-  <NotEnoughDyeWillRecolorHair>TODO</NotEnoughDyeWillRecolorHair>
+  <NotEnoughDyeWillRecolorHair>ชาวอาณานิคมจะเปลี่ยนสีผมเมื่อย้อมได้</NotEnoughDyeWillRecolorHair>
   <!-- EN: {PAWN_labelShort}'s certainty in {IDEO} is at {PERCENTAGE} -->
-  <IdeoCertaintyTooltip>TODO</IdeoCertaintyTooltip>
+  <IdeoCertaintyTooltip>ความแน่นอนของ {PAWN_labelShort} ใน {IDEO} อยู่ที่ {PERCENTAGE}</IdeoCertaintyTooltip>
   <!-- EN: Disabled by precept {0} -->
-  <DisabledByPrecept>TODO</DisabledByPrecept>
+  <DisabledByPrecept>ปิดการใช้งานโดยศีล {0}</DisabledByPrecept>
   <!-- EN: Everyone -->
-  <Everyone>TODO</Everyone>
+  <Everyone>ทุกคน</Everyone>
 
   <!-- EN: A grave containing {PAWN_labelShort}'s corpse. -->
-  <RitualTargetGraveInfo>TODO</RitualTargetGraveInfo>
+  <RitualTargetGraveInfo>หลุมศพที่มีศพของ {PAWN_labelShort}</RitualTargetGraveInfo>
   <!-- EN: An empty grave to mourn {PAWN_labelShort}'s passing. -->
-  <RitualTargetEmptyGraveInfo>TODO</RitualTargetEmptyGraveInfo>
+  <RitualTargetEmptyGraveInfo>หลุมศพว่างเปล่าไว้อาลัยการจากไปของ {PAWN_labelShort}</RitualTargetEmptyGraveInfo>
   <!-- EN: A grave containing {IDEO_memberNameIndef}'s corpse -->
-  <RitualTargetGraveInfoAbstract>TODO</RitualTargetGraveInfoAbstract>
+  <RitualTargetGraveInfoAbstract>หลุมศพที่มีศพของ {IDEO_memberNameIndef}</RitualTargetGraveInfoAbstract>
   <!-- EN: An empty grave to mourn {IDEO_memberNameIndef}'s passing. -->
-  <RitualTargetEmptyGraveInfoAbstract>TODO</RitualTargetEmptyGraveInfoAbstract>
+  <RitualTargetEmptyGraveInfoAbstract>หลุมศพที่ว่างเปล่าไว้อาลัยการจากไปของ {IDEO_memberNameIndef}</RitualTargetEmptyGraveInfoAbstract>
   <!-- EN: {PAWN_labelShort}'s body must be buried first -->
-  <RitualTargetGraveInfoMustBeBuried>TODO</RitualTargetGraveInfoMustBeBuried>
+  <RitualTargetGraveInfoMustBeBuried>ต้องฝังศพของ {PAWN_labelShort} ก่อน</RitualTargetGraveInfoMustBeBuried>
   <!-- EN: Any gathering spot, like a table -->
-  <RitualTargetGatherSpotInfo>TODO</RitualTargetGatherSpotInfo>
+  <RitualTargetGatherSpotInfo>จุดนัดพบเช่นโต๊ะ</RitualTargetGatherSpotInfo>
   <!-- EN: Altar or any ritual spot. -->
-  <RitualTargetGatherAltarOrRitualSpotInfo>TODO</RitualTargetGatherAltarOrRitualSpotInfo>
+  <RitualTargetGatherAltarOrRitualSpotInfo>แท่นบูชาหรือจุดประกอบพิธีกรรมใดๆ</RitualTargetGatherAltarOrRitualSpotInfo>
   <!-- EN: A lightball or ritual spot. Lightball and loudspeakers must be powered. -->
-  <RitualTargetLightBallInfo>TODO</RitualTargetLightBallInfo>
+  <RitualTargetLightBallInfo>ลูกบอลไฟหรือจุดพิธีกรรม ไลท์บอลและลำโพงต้องได้รับพลังงาน</RitualTargetLightBallInfo>
   <!-- EN: Lightball is not powered. -->
-  <RitualTargetLightBallIsNotPowered>TODO</RitualTargetLightBallIsNotPowered>
+  <RitualTargetLightBallIsNotPowered>ไลท์บอลwไม่มีพลังงาน</RitualTargetLightBallIsNotPowered>
   <!-- EN: No powered speakers. -->
-  <RitualTargetNoPoweredSpeakers>TODO</RitualTargetNoPoweredSpeakers>
+  <RitualTargetNoPoweredSpeakers>ลำโพงไม่มีพลังงาน</RitualTargetNoPoweredSpeakers>
   <!-- EN: Campfire is not fueled. -->
-  <RitualTargetCampfireNoFuel>TODO</RitualTargetCampfireNoFuel>
+  <RitualTargetCampfireNoFuel>แคมป์ไฟไม่ได้เติมเชื้อเพลิง</RitualTargetCampfireNoFuel>
   <!-- EN: Campfire must be unroofed. -->
-  <RitualTargetCampfireMustBeUnroofed>TODO</RitualTargetCampfireMustBeUnroofed>
+  <RitualTargetCampfireMustBeUnroofed>แคมป์ไฟจะต้องเปิดหลังคา</RitualTargetCampfireMustBeUnroofed>
   <!-- EN: No nearby drum. -->
-  <RitualTargetNoDrum>TODO</RitualTargetNoDrum>
+  <RitualTargetNoDrum>ไม่มีกลองใกล้เคียง</RitualTargetNoDrum>
   <!-- EN: Need at least {0} unroofed cells nearby. -->
-  <RitualTargetNeedUnroofedCells>TODO</RitualTargetNeedUnroofedCells>
+  <RitualTargetNeedUnroofedCells>ต้องการเซลล์ที่ไม่มีหลังคาอย่างน้อย {0} เซลล์ในบริเวณใกล้เคียง</RitualTargetNeedUnroofedCells>
   <!-- EN: A lit campfire or ritual spot. -->
-  <RitualTargetCampfirePartyInfo>TODO</RitualTargetCampfirePartyInfo>
+  <RitualTargetCampfirePartyInfo>กองไฟหรือจุดประกอบพิธีกรรม</RitualTargetCampfirePartyInfo>
   <!-- EN: A lit campfire or ritual spot. Spot must be unroofed with at least 25 unroofed cells in the area. -->
-  <RitualTargetCampfireSkylanternsInfo>TODO</RitualTargetCampfireSkylanternsInfo>
+  <RitualTargetCampfireSkylanternsInfo>กองไฟหรือจุดประกอบพิธีกรรม สปอตต้องเปิดหลังคาอย่างน้อย 25 เซลล์ที่ไม่มีหลังคาในพื้นที่</RitualTargetCampfireSkylanternsInfo>
   <!-- EN: An unconnected Gauranlen tree. -->
   <RitualTargetUnconnectedGaruanlenTreeInfo>TODO</RitualTargetUnconnectedGaruanlenTreeInfo>
   <!-- EN: Already connected to {PAWN_nameDef} -->
-  <RitualTargetConnectedGauranlenTree>TODO</RitualTargetConnectedGauranlenTree>
+  <RitualTargetConnectedGauranlenTree>เชื่อมต่อกับ {PAWN_nameDef} แล้ว</RitualTargetConnectedGauranlenTree>
   <!-- EN: You need {0} wood for each participant ({2} total). You have {1} wood. -->
-  <RitualTargeWoodInfo>TODO</RitualTargeWoodInfo>
+  <RitualTargeWoodInfo>You need {0} wood for each participant ({2} total). You have {1} wood.</RitualTargeWoodInfo>
   <!-- EN: Accuse -->
-  <Accuse>TODO</Accuse>
+  <Accuse>กล่าวโทษ</Accuse>
   <!-- EN: {PAWN_labelShort} does not believe in ideoligious scarification and will not like being scarified. -->
-  <RitualScarificationWarnNonScarificationIdeo>TODO</RitualScarificationWarnNonScarificationIdeo>
+  <RitualScarificationWarnNonScarificationIdeo>{PAWN_labelShort} ไม่เชื่อเรื่องการขูดรีดอย่างมีอุดมคติและจะไม่ชอบการถูกทำให้บาดเจ็บ</RitualScarificationWarnNonScarificationIdeo>
   <!-- EN: {PAWN_labelShort} is a wimp and will not like being scarified. -->
-  <RitualScarificationWarnWimp>TODO</RitualScarificationWarnWimp>
+  <RitualScarificationWarnWimp>{PAWN_labelShort} เป็นคนขี้ขลาดและไม่ชอบถูกทำให้เป็นแผลเป็น</RitualScarificationWarnWimp>
   <!-- EN: {PAWN_labelShort} does not believe in ideoligious blinding and will not like being blinded. -->
-  <RitualBlindingWarnNonBlindingIdeo>TODO</RitualBlindingWarnNonBlindingIdeo>
+  <RitualBlindingWarnNonBlindingIdeo>{PAWN_labelShort} ไม่เชื่อเรื่องการปกปิดในเชิงอุดมคติและไม่ชอบการถูกปิดบัง</RitualBlindingWarnNonBlindingIdeo>
   <!-- EN: {PAWN_labelShort} is a wimp and will not like being blinded. -->
-  <RitualBlindingWarnWimp>TODO</RitualBlindingWarnWimp>
+  <RitualBlindingWarnWimp>{PAWN_labelShort} เป็นคนขี้งกและไม่ชอบถูกคนตาบอด</RitualBlindingWarnWimp>
   
   <!-- EN: Everyone participating in the ritual gained a one-day work focus buff ({PERCENTAGE} global work speed)! -->
-  <RitualOutcomeExtraDesc_DancePartyWorkFocus>TODO</RitualOutcomeExtraDesc_DancePartyWorkFocus>
+  <RitualOutcomeExtraDesc_DancePartyWorkFocus>ทุกคนที่เข้าร่วมพิธีกรรมได้รับบัฟโฟกัสการทำงานในหนึ่งวัน (ความเร็วในการทำงานทั่วโลก {PERCENTAGE})!</RitualOutcomeExtraDesc_DancePartyWorkFocus>
   <!-- EN: Thanks to a satisfying blinding ritual, {PAWN_labelShort} gained a psylink level! -->
-  <RitualOutcomeExtraDesc_BlindingPsylink>TODO</RitualOutcomeExtraDesc_BlindingPsylink>
+  <RitualOutcomeExtraDesc_BlindingPsylink>ต้องขอบคุณพิธีกรรมที่น่าพึงพอใจที่ทำให้ {PAWN_labelShort} ได้รับระดับพลังจิต!</RitualOutcomeExtraDesc_BlindingPsylink>
   <!-- EN: With a new pyslink level {PAWN_pronoun} gained a {0} psycast. -->
   <RitualOutcomeExtraDesc_BlindingPsylinkAbility>TODO</RitualOutcomeExtraDesc_BlindingPsylinkAbility>
   <!-- EN: Thanks to a satisfying {RITUAL}, {PAWN_labelShort} gained {INSPIRATION}! -->
   <RitualOutcomeExtraDesc_ConsumableInspiration>TODO</RitualOutcomeExtraDesc_ConsumableInspiration>
   <!-- EN: Your skylanterns have attracted some friendly travelers. They will visit and leave a gift. -->
-  <RitualOutcomeExtraDesc_SkylanternWanderers>TODO</RitualOutcomeExtraDesc_SkylanternWanderers>
+  <RitualOutcomeExtraDesc_SkylanternWanderers>สกายแลนเทิร์นของคุณดึงดูดนักท่องเที่ยวที่เป็นมิตร พวกเขาจะมาเยี่ยมและฝากของขวัญไว้</RitualOutcomeExtraDesc_SkylanternWanderers>
   <!-- EN: All participating slaves were shaken by the sight of death. Their suppression has been raised to its maximum level. -->
-  <RitualOutcomeExtraDesc_Execution>TODO</RitualOutcomeExtraDesc_Execution>
+  <RitualOutcomeExtraDesc_Execution>ทาสที่เข้าร่วมทั้งหมดตกตะลึงเมื่อเห็นความตาย การปราบปรามของพวกเขาได้เพิ่มขึ้นถึงระดับสูงสุดแล้ว</RitualOutcomeExtraDesc_Execution>
 
   <!-- EN: Additional reward -->
-  <RitualAttachedReward>TODO</RitualAttachedReward>
+  <RitualAttachedReward>รางวัลเพิ่มเติม</RitualAttachedReward>
   <!-- EN: Choose -->
-  <RitualAttachedRewardChoose>TODO</RitualAttachedRewardChoose>
+  <RitualAttachedRewardChoose>เลือก</RitualAttachedRewardChoose>
   <!-- EN: Can't use {0} with {1}. -->
-  <RitualAttachedRewardCantUseWithRitual>TODO</RitualAttachedRewardCantUseWithRitual>
+  <RitualAttachedRewardCantUseWithRitual>ไม่สามารถใช้ {0} กับ {1}</RitualAttachedRewardCantUseWithRitual>
   <!-- EN: Requires any of memes -->
   <RitualAttachedRewardRequiredMemeAny>TODO</RitualAttachedRewardRequiredMemeAny>
   <!-- EN: Requires {0} faction -->
-  <RitualAttachedRewardRequiredFaction>TODO</RitualAttachedRewardRequiredFaction>
+  <RitualAttachedRewardRequiredFaction>ต้องการ {0} ฝ่าย</RitualAttachedRewardRequiredFaction>
   <!-- EN: positive -->
-  <RitualAttachedOutcomes_Positive>TODO</RitualAttachedOutcomes_Positive>
+  <RitualAttachedOutcomes_Positive>เชิงบวก</RitualAttachedOutcomes_Positive>
   <!-- EN: negative -->
-  <RitualAttachedOutcomes_Negative>TODO</RitualAttachedOutcomes_Negative>
+  <RitualAttachedOutcomes_Negative>เชิงลบ</RitualAttachedOutcomes_Negative>
   <!-- EN: If the {0} is {1} -->
-  <RitualAttachedOutcomesInfo>TODO</RitualAttachedOutcomesInfo>
+  <RitualAttachedOutcomesInfo>หาก {0} คือ {1}</RitualAttachedOutcomesInfo>
   <!-- EN: Upon any {0} outcome -->
   <RitualAttachedApplliesForOutcome>TODO</RitualAttachedApplliesForOutcome>
   <!-- EN: Upon any {0} outcome -->
   <RitualAttachedApplliesForOutcomes>TODO</RitualAttachedApplliesForOutcomes>
   <!-- EN: The commotion from the {0} has attracted some curious animals!\n\nThey seem accustomed to human contact and are joining the colony. -->
-  <RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>TODO</RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>
+  <RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>ความโกลาหลจาก {0} ได้ดึงดูดสัตว์อยากรู้อยากเห็น!\n\nพวกมันดูเหมือนคุ้นเคยกับการสัมผัสของมนุษย์และกำลังเข้าร่วมอาณานิคม</RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>
   <!-- EN: The {0} has induced a Gauranlen pod to sprout nearby. -->
-  <RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>TODO</RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>
+  <RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>{0} ได้ชักนำให้ฝัก Gauranlen แตกหน่อในบริเวณใกล้เคียง</RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>
   <!-- EN: Can't apply reward -->
   <RitualAttachedOutcomeCantApply>TODO</RitualAttachedOutcomeCantApply>
   <!-- EN: No valid spot -->
-  <RitualAttachedOutcomeCantApply_NoValidSpot>TODO</RitualAttachedOutcomeCantApply_NoValidSpot>
+  <RitualAttachedOutcomeCantApply_NoValidSpot>ไม่มีจุดที่ถูกต้อง</RitualAttachedOutcomeCantApply_NoValidSpot>
   <!-- EN: Extreme biome -->
   <RitualAttachedOutcomeCantApply_ExtremeBiome>TODO</RitualAttachedOutcomeCantApply_ExtremeBiome>
   <!-- EN: There is already a known ancient complex to explore. -->
-  <RitualAttachedOutcomeCantApply_AncientComplexIsPresent>TODO</RitualAttachedOutcomeCantApply_AncientComplexIsPresent>
+  <RitualAttachedOutcomeCantApply_AncientComplexIsPresent>มีคอมเพล็กซ์โบราณที่รู้จักอยู่แล้วในการสำรวจ</RitualAttachedOutcomeCantApply_AncientComplexIsPresent>
   <!-- EN: Not available right now. -->
-  <RitualAttachedOutcomeCantApply_NotAvailableRightNow>TODO</RitualAttachedOutcomeCantApply_NotAvailableRightNow>
+  <RitualAttachedOutcomeCantApply_NotAvailableRightNow>ไม่สามารถใช้ได้ในขณะนี้</RitualAttachedOutcomeCantApply_NotAvailableRightNow>
   
   <!-- EN: This building is a variation of -->
-  <IdeoBuildingVariationOf>TODO</IdeoBuildingVariationOf>
+  <IdeoBuildingVariationOf>การก่อสร้างนี้เป็นรูปแบบของ</IdeoBuildingVariationOf>
   <!-- EN: Minimum expectations -->
-  <IdeoBuildingMinimumExpectations>TODO</IdeoBuildingMinimumExpectations>
+  <IdeoBuildingMinimumExpectations>ความคาดหวังขั้นต่ำ</IdeoBuildingMinimumExpectations>
   <!-- EN: size -->
-  <Size>TODO</Size>
+  <Size>ขนาด</Size>
   <!-- EN: cost -->
-  <Cost>TODO</Cost>
+  <Cost>ค่าใช้จ่าย</Cost>
   <!-- EN: optional -->
-  <Optional>TODO</Optional>
+  <Optional>ไม่จำเป็น</Optional>
   <!-- EN: expectations -->
-  <Expectations>TODO</Expectations>
+  <Expectations>ความคาดหวัง</Expectations>
   <!-- EN: Can start any time -->
-  <RitualStartAnyTime>TODO</RitualStartAnyTime>
+  <RitualStartAnyTime>เริ่มได้ทุกเมื่อ</RitualStartAnyTime>
   <!-- EN: Can start after event -->
-  <RitualStartEvent>TODO</RitualStartEvent>
+  <RitualStartEvent>เริ่มได้หลังจบกิจกรรม</RitualStartEvent>
   <!-- EN: Focus objects -->
-  <RitualFocusObjects>TODO</RitualFocusObjects>
+  <RitualFocusObjects>โฟกัสวัตถุ</RitualFocusObjects>
   <!-- EN: Repeating a ritual within {0} days reduces its quality. {1} days have passed since the last ritual, so the current quality reduction is {2}. This penalty will fall to zero {3} days from now. -->
   <RitualRepeatPenaltyTip>TODO</RitualRepeatPenaltyTip>
   <!-- EN: Participating roles -->
-  <RitualParticipatingRoles>TODO</RitualParticipatingRoles>
+  <RitualParticipatingRoles>บทบาทที่เข้าร่วม</RitualParticipatingRoles>
   <!-- EN: For best quality, start the {0} at {1}. -->
-  <RitualOutcomeCompTip_RitualTargetDefsPart1>TODO</RitualOutcomeCompTip_RitualTargetDefsPart1>
+  <RitualOutcomeCompTip_RitualTargetDefsPart1>เพื่อคุณภาพที่ดีที่สุด เริ่ม {0} ที่ {1}</RitualOutcomeCompTip_RitualTargetDefsPart1>
   <!-- EN: Currently, the {0} is being started at {1_labelShortIndef}. -->
-  <RitualOutcomeCompTip_RitualTargetDefsPart2>TODO</RitualOutcomeCompTip_RitualTargetDefsPart2>
+  <RitualOutcomeCompTip_RitualTargetDefsPart2>ขณะนี้ {0} กำลังเริ่มต้นที่ {1_labelShortIndef}</RitualOutcomeCompTip_RitualTargetDefsPart2>
 
   <!-- EN: For slave use -->
-  <ForSlaveUse>TODO</ForSlaveUse>
+  <ForSlaveUse>สำหรับการใช้งานทาส</ForSlaveUse>
   <!-- EN: Slave -->
-  <Slave>奴隷</Slave>
+  <Slave>ทาส</Slave>
   <!-- EN: If you sell someone to any faction besides their own, they become slaves. -->
-  <SellingAsSlave>TODO</SellingAsSlave>
+  <SellingAsSlave>หากคุณขายใครให้กับฝ่ายใดนอกเหนือจากพวกเขา พวกเขาจะกลายเป็นทาส</SellingAsSlave>
   <!-- EN: If you sell someone to their own faction, they are ransomed and not enslaved. -->
-  <SellingAsRansom>TODO</SellingAsRansom>
+  <SellingAsRansom>หากคุณขายใครสักคนให้กับฝ่ายของตนเอง พวกเขาจะถูกเรียกค่าไถ่และไม่ถูกกดขี่ข่มเหง</SellingAsRansom>
 
   <!-- EN: We are {0} -->
-  <MemeGoodwillImpact_Player>TODO</MemeGoodwillImpact_Player>
+  <MemeGoodwillImpact_Player>เราคือ {0}</MemeGoodwillImpact_Player>
   <!-- EN: They are {0} -->
-  <MemeGoodwillImpact_Other>TODO</MemeGoodwillImpact_Other>
+  <MemeGoodwillImpact_Other>พวกเขาคือ {0}</MemeGoodwillImpact_Other>
 
   <!-- TextMotes -->
   <!-- EN: Slave suppression: {0} -->
@@ -236,22 +236,22 @@
 
   <!-- Role requirements -->
   <!-- EN: Requirements -->
-  <RoleRequirementsLabel>TODO</RoleRequirementsLabel>
+  <RoleRequirementsLabel>ความต้องการ</RoleRequirementsLabel>
   <!-- EN: Passive effects -->
   <RoleEffectsLabel>TODO</RoleEffectsLabel>
   <!-- EN: Must be {0} -->
-  <RoleRequirementLabelSameIdeo>TODO</RoleRequirementLabelSameIdeo>
+  <RoleRequirementLabelSameIdeo>ต้องเป็น {0}</RoleRequirementLabelSameIdeo>
   <!-- EN: Must be {0} -->
-  <RoleRequirementLabelSupremeGender>TODO</RoleRequirementLabelSupremeGender>
+  <RoleRequirementLabelSupremeGender>ต้องเป็น {0}</RoleRequirementLabelSupremeGender>
 
   <!-- EN: Disabled work -->
   <RoleDisabledWorkLabel>TODO</RoleDisabledWorkLabel>
   <!-- EN: Abilities -->
-  <RoleGrantedAbilitiesLabel>TODO</RoleGrantedAbilitiesLabel>
+  <RoleGrantedAbilitiesLabel>ความสามารถ</RoleGrantedAbilitiesLabel>
   <!-- EN: Required apparel -->
-  <RoleRequiredApparelLabel>TODO</RoleRequiredApparelLabel>
+  <RoleRequiredApparelLabel>เครื่องแต่งกายที่จำเป็น</RoleRequiredApparelLabel>
   <!-- EN: Has role in rituals -->
-  <RoleRitualsLabel>TODO</RoleRitualsLabel>
+  <RoleRitualsLabel>มีบทบาทในพิธีกรรม</RoleRitualsLabel>
   <!-- EN: This role becomes active when your faction has {1} {0}. It becomes inactive when your faction has only {3} {2}. -->
   <RoleBelieverCountDesc>TODO</RoleBelieverCountDesc>
   <!-- EN: Raised by {0} levels. -->
@@ -263,7 +263,7 @@
   <!-- EN: {PAWN_nameDef} will not do {1} work. -->
   <AbilityDisabled_IncapableOfWorkTag>TODO</AbilityDisabled_IncapableOfWorkTag>
   <!-- EN: No reachable altar or ritual spot. -->
-  <AbilityDisabledNoAltarOrRitualsSpot>TODO</AbilityDisabledNoAltarOrRitualsSpot>
+  <AbilityDisabledNoAltarOrRitualsSpot>ไม่มีแท่นบูชาหรือจุดประกอบพิธีกรรม</AbilityDisabledNoAltarOrRitualsSpot>
 
   <!-- EN: Will\n{0} to {1} -->
   <TextMote_WillReduced>TODO</TextMote_WillReduced>
@@ -272,47 +272,47 @@
   <ConfirmationCharityJoiner>TODO</ConfirmationCharityJoiner>
 
   <!-- EN: Believers in {0} ({1}) -->
-  <BelieversIn>TODO</BelieversIn>
+  <BelieversIn>ผู้เชื่อใน {0} ({1})</BelieversIn>
   <!-- EN: add {0} -->
-  <AddPrecept>TODO</AddPrecept>
+  <AddPrecept>เพิ่ม {0}</AddPrecept>
   <!-- EN: precept -->
-  <Precept>TODO</Precept>
+  <Precept>ศีล</Precept>
   <!-- EN: building -->
-  <IdeoBuilding>TODO</IdeoBuilding>
+  <IdeoBuilding>การก่อสร้าง</IdeoBuilding>
   <!-- EN: relic -->
-  <IdeoRelic>TODO</IdeoRelic>
+  <IdeoRelic>ของที่ระลึก</IdeoRelic>
   
   <!-- Beggars -->
   <!-- EN: Give {0} to {1_nameDef} -->
-  <GiveItemsTo>TODO</GiveItemsTo>
+  <GiveItemsTo>ให้ {0} แก่ {1}_nameDef}</GiveItemsTo>
   <!-- EN: Cannot give {0} to {1_nameDef} -->
-  <CannotGiveItemsTo>TODO</CannotGiveItemsTo>
+  <CannotGiveItemsTo>ไม่สามารถให้ {0} แก่ {1}_nameDef}</CannotGiveItemsTo>
   <!-- EN: No item found -->
-  <NoItemFound>TODO</NoItemFound>
+  <NoItemFound>ไม่พบรายการ</NoItemFound>
 
   <!-- Outfits -->
   <!-- EN: Slave -->
-  <OutfitSlave>TODO</OutfitSlave>
+  <OutfitSlave>ทาส</OutfitSlave>
 
   <!-- Hacking -->
   <!-- EN: Hack progress -->
-  <HackProgress>TODO</HackProgress>
+  <HackProgress>ความคืบหน้าของการแฮ็ก</HackProgress>
   <!-- EN: hacking speed -->
-  <HackingSpeed>TODO</HackingSpeed>
+  <HackingSpeed>ความเร็วในการแฮ็ค</HackingSpeed>
   <!-- EN: {0}'s -->
   <HackingLastUser>TODO</HackingLastUser>
   <!-- EN: hacked -->
-  <Hacked>TODO</Hacked>
+  <Hacked>ถูกแฮ็ก</Hacked>
   <!-- EN: Terminals hacked -->
   <TerminalsHacked>TODO</TerminalsHacked>
 
   <!-- EN: Relic info found -->
-  <RelicInfoFound>TODO</RelicInfoFound>
+  <RelicInfoFound>พบข้อมูลพระธาตุ</RelicInfoFound>
   <!-- EN: inactive, requires atleast {0} {1}s (have {2}) -->
   <InactiveRoleRequiresMoreBelievers>TODO</InactiveRoleRequiresMoreBelievers>
   
   <!-- EN: certainty -->
-  <Certainty>TODO</Certainty>
+  <Certainty>ความแน่นอน</Certainty>
 
   <!-- Slave interaction -->
   <!-- EN: The slave will leave the map on foot and return to their home faction, {0}. -->
@@ -336,45 +336,45 @@
   <RelicHuntFoundRelicSitePeaceful>TODO</RelicHuntFoundRelicSitePeaceful>
 
   <!-- EN: relic -->
-  <Relic>TODO</Relic>
+  <Relic>ของที่ระลึก</Relic>
   <!-- EN: Ritual seat -->
-  <RitualSeat>TODO</RitualSeat>
+  <RitualSeat>ที่นั่งพิธีกรรม</RitualSeat>
 
   <!-- Ritual requirements -->
   <!-- EN: Active loudspeakers -->
   <RitualPredictedOutcomeDescNumActiveLoudspeakers>TODO</RitualPredictedOutcomeDescNumActiveLoudspeakers>
   <!-- EN: Drums -->
-  <RitualPredictedOutcomeDescNumDrums>TODO</RitualPredictedOutcomeDescNumDrums>
+  <RitualPredictedOutcomeDescNumDrums>กลอง</RitualPredictedOutcomeDescNumDrums>
 
   <!-- EN: Using ritual spot causes {0} mood bonus reduction for all participants. -->
   <RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>TODO</RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>
 
   <!-- EN: Any of these -->
-  <RitualOutcomeLabelAnyOfThese>これらのいずれか</RitualOutcomeLabelAnyOfThese>
+  <RitualOutcomeLabelAnyOfThese>TODO</RitualOutcomeLabelAnyOfThese>
 
   <!-- EN: Replace with -->
-  <PreceptReplaceWith>置換する</PreceptReplaceWith>
+  <PreceptReplaceWith>แทนที่ด้วย</PreceptReplaceWith>
   <!-- EN: Ritual seat of {IDEOS} -->
-  <RitualSeatOf>{IDEOS}の儀式席</RitualSeatOf>
+  <RitualSeatOf>ที่นั่งพิธีกรรมของ {IDEOS}</RitualSeatOf>
   <!-- EN: Starting quality -->
-  <StartingQuality>開始時の品質</StartingQuality>
+  <StartingQuality>เริ่มต้นคุณภาพ</StartingQuality>
   <!-- EN: Conviction chance -->
   <ExpectedConvictionChance>TODO</ExpectedConvictionChance>
  
   <!-- EN: Must be placed indoors. -->
-  <MustBePlacedIndoors>TODO</MustBePlacedIndoors>
+  <MustBePlacedIndoors>ต้องวางไว้ในที่ร่ม</MustBePlacedIndoors>
 
   <!-- Gauranlen trees/Dryads -->
   <!-- EN: Connected to -->
-  <ConnectedPawn>TODO</ConnectedPawn>
+  <ConnectedPawn>เชื่อมต่อกับ</ConnectedPawn>
   <!-- EN: Nobody -->
-  <Nobody>無し</Nobody>
+  <Nobody>ไม่มีใคร</Nobody>
   <!-- EN: The person this {TREE_label} is connected to. If the connected person dies, this {TREE_label} will be unable to connect to another for {DURATION}. -->
-  <ConnectedPawnDesc>TODO</ConnectedPawnDesc>
+  <ConnectedPawnDesc>บุคคลที่ {TREE_label} นี้เชื่อมต่อด้วย หากบุคคลที่เกี่ยวโยงเสียชีวิต {TREE_label} นี้จะไม่สามารถเชื่อมต่อกับบุคคลอื่นได้อีกเป็นเวลา {DURATION}</ConnectedPawnDesc>
   <!-- EN: Connection torn. Can connect in {0}. -->
-  <ConnectionTorn>TODO</ConnectionTorn>
+  <ConnectionTorn>ขาดการเชื่อมต่อ สามารถเชื่อมต่อใน {0}</ConnectionTorn>
   <!-- EN: {PAWN_nameDef} is too far away -->
-  <ConnectedPawnAway>TODO</ConnectedPawnAway>
+  <ConnectedPawnAway>{PAWN_nameDef} อยู่ไกลเกินไป</ConnectedPawnAway>
   <!-- EN: Planting {PLANT_definite} near artificial buildings will cause its connection strength to decay over time. Connection strength determines the maximum number of dryads {PLANT_definite} can support at once.\n\nAre you sure you wish to plant here? -->
   <TreeBlockedByNearbyBuildingsDesc>TODO</TreeBlockedByNearbyBuildingsDesc>
   <!-- EN: Changing {TREE_definite}'s dryad caste takes time and energy.\n\nAfter the connected person interacts with the tree, all dryads will spend {DURATION} days inside cocoons while they morph to the selected caste.\n\nExisting cocoons will cancel their transformation so they can morph to the current caste. -->
@@ -438,39 +438,39 @@
 
   <!-- Shooting report -->
   <!-- EN: Target outdoors and night-time -->
-  <TargetNightOutdoors>TODO</TargetNightOutdoors>
+  <TargetNightOutdoors>กำหนดเป้าหมายกลางแจ้งและกลางคืน</TargetNightOutdoors>
   <!-- EN: Target indoors and dark -->
-  <TargetDarkIndoors>TODO</TargetDarkIndoors>
+  <TargetDarkIndoors>กำหนดเป้าหมายในบ้านและที่มืด</TargetDarkIndoors>
   <!-- EN: Target outdoors and daytime -->
-  <TargetDayOutdoors>TODO</TargetDayOutdoors>
+  <TargetDayOutdoors>กำหนดเป้าหมายกลางแจ้งและกลางวัน</TargetDayOutdoors>
   <!-- EN: Target indoors and lit -->
-  <TargetLitIndoors>TODO</TargetLitIndoors>  
+  <TargetLitIndoors>กำหนดเป้าหมายในร่มและสว่าง</TargetLitIndoors>  
   <!-- EN: Charging -->
-  <RechargeableCharging>TODO</RechargeableCharging>
+  <RechargeableCharging>กำลังชาร์จ</RechargeableCharging>
   <!-- EN: Ready -->
-  <RechargeableReady>TODO</RechargeableReady>
+  <RechargeableReady>พร้อม</RechargeableReady>
   
   <!-- EN: Skill -->
-  <RoleRequirementSkill>TODO</RoleRequirementSkill>
+  <RoleRequirementSkill>ทักษะ</RoleRequirementSkill>
   <!-- EN: Any of skills -->
-  <RoleRequirementSkillAny>TODO</RoleRequirementSkillAny>
+  <RoleRequirementSkillAny>ความสามารถใดๆ</RoleRequirementSkillAny>
   <!-- EN: Won't use ranged weapons -->
-  <RoleEffectWontUseRangedWeapons>TODO</RoleEffectWontUseRangedWeapons>
+  <RoleEffectWontUseRangedWeapons>จะไม่ใช้อาวุธระยะไกล</RoleEffectWontUseRangedWeapons>
   <!-- EN: Won't use melee weapons -->
-  <RoleEffectWontUseMeleeWeapons>TODO</RoleEffectWontUseMeleeWeapons>
+  <RoleEffectWontUseMeleeWeapons>จะไม่ใช้อาวุธระยะประชิด</RoleEffectWontUseMeleeWeapons>
   <!-- EN: {0} quality to crafting or construction -->
-  <RoleEffectProductionQualityOffset>TODO</RoleEffectProductionQualityOffset>
+  <RoleEffectProductionQualityOffset>{0} คุณภาพในการประดิษฐ์หรือก่อสร้าง</RoleEffectProductionQualityOffset>
   <!-- EN: Hunting revenge chance {0} -->
-  <RoleEffectHuntingRevengeChance>TODO</RoleEffectHuntingRevengeChance>
+  <RoleEffectHuntingRevengeChance>โอกาสในการแก้แค้นตามล่า {0}</RoleEffectHuntingRevengeChance>
   <!-- EN: Give thought -->
-  <RoleEffectGiveThoughtOnTended>TODO</RoleEffectGiveThoughtOnTended>
+  <RoleEffectGiveThoughtOnTended>ให้แง่คิด</RoleEffectGiveThoughtOnTended>
 
   <!-- EN: Assign colonists to your ideoligion -->
-  <AssignColonists>TODO</AssignColonists>
+  <AssignColonists>กำหนดอาณานิคมให้กับอุดมคติของคุณ</AssignColonists>
   <!-- EN: Delete new ideoligion -->
-  <DeleteNewIdeoligion>TODO</DeleteNewIdeoligion>
+  <DeleteNewIdeoligion>ลบอุดมคติใหม่</DeleteNewIdeoligion>
   <!-- EN: Make this your primary ideologion -->
-  <MakeIdeoligionPrimary>TODO</MakeIdeoligionPrimary>
+  <MakeIdeoligionPrimary>ทำให้นี่เป็นอุดมคติหลักของคุณ</MakeIdeoligionPrimary>
 
   <!-- Archonexus -->
   <!-- EN: You've invoked the archonexus core. The world fills with a blinding light and time seems to slow...\n\n -->
@@ -485,36 +485,36 @@
   <Reward_ArchonexusMapPartLabel>TODO</Reward_ArchonexusMapPartLabel>
 
   <!-- EN: relics -->
-  <RelicsLower>TODO</RelicsLower>
+  <RelicsLower>พระธาตุ</RelicsLower>
   <!-- EN: relic -->
-  <RelicLower>TODO</RelicLower>
+  <RelicLower>ของที่ระลึก</RelicLower>
 
   <!-- EN: Linked to -->
-  <LinkedTo>TODO</LinkedTo>
+  <LinkedTo>ที่เชื่อมโยงกับ</LinkedTo>
   <!-- EN: Supply satellite -->
-  <SupplySatellite>TODO</SupplySatellite>
+  <SupplySatellite>จัดหาดาวเทียม</SupplySatellite>
 
   <!-- EN: Colonist is not willing to extract skull from corpse (missing pro-skullspike precept) -->
   <CannotExtractSkull>TODO</CannotExtractSkull>
   <!-- EN: Preview the ritual ambience sound -->
-  <TipPreviewRitualAmbienceSound>TODO</TipPreviewRitualAmbienceSound>
+  <TipPreviewRitualAmbienceSound>ดูตัวอย่างเสียงบรรยากาศพิธีกรรม</TipPreviewRitualAmbienceSound>
 
   <!-- EN: Choose -->
-  <ChooseStuffForRelic>TODO</ChooseStuffForRelic>
+  <ChooseStuffForRelic>เลือก</ChooseStuffForRelic>
   <!-- EN: Made from stuff -->
-  <RelicStuff>TODO</RelicStuff>
+  <RelicStuff>ทำจากสิ่งของ</RelicStuff>
 
   <!-- Bioscuplter pod -->
   <!-- EN: Cycle -->
-  <BiosculpterPodCycleLabel>TODO</BiosculpterPodCycleLabel>
+  <BiosculpterPodCycleLabel>วัฏจักร</BiosculpterPodCycleLabel>
   <!-- EN: loading nutrition -->
-  <BiosculpterPodCycleLabelLoading>TODO</BiosculpterPodCycleLabelLoading>
+  <BiosculpterPodCycleLabelLoading>กำลังโหลดโภชนาการ</BiosculpterPodCycleLabelLoading>
   <!-- EN: ready -->
-  <BiosculpterPodCycleLabelReady>TODO</BiosculpterPodCycleLabelReady>
+  <BiosculpterPodCycleLabelReady>พร้อม</BiosculpterPodCycleLabelReady>
   <!-- EN: Prepare {0} cycle -->
   <BiosculpterPodCycleCommand>TODO</BiosculpterPodCycleCommand>
   <!-- EN: Ends in -->
-  <BiosculpterCycleTimeRemaining>TODO</BiosculpterCycleTimeRemaining>
+  <BiosculpterCycleTimeRemaining>สิ้นสุดใน</BiosculpterCycleTimeRemaining>
   <!-- EN: Biotuned to -->
   <BiosculpterBiotunedTo>TODO</BiosculpterBiotunedTo>
   <!-- EN: Interrupt cycle -->

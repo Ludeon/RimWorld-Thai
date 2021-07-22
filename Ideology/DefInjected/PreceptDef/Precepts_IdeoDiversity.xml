@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: intense bigotry -->
-  <IdeoDiversity_Abhorrent.label>TODO</IdeoDiversity_Abhorrent.label>
+  <IdeoDiversity_Abhorrent.label>ความคลั่งไคล้ที่รุนแรง</IdeoDiversity_Abhorrent.label>
   <!-- EN: Other beliefs are evil deceptions ruining the world. It's totally unacceptable to let them exist in the community. -->
   <IdeoDiversity_Abhorrent.description>TODO</IdeoDiversity_Abhorrent.description>
   <!-- EN: All colonists have same ideoligion -->
@@ -13,7 +13,7 @@
   <IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.1>TODO</IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.1>
   
   <!-- EN: appreciated -->
-  <IdeoDiversity_Approved.label>TODO</IdeoDiversity_Approved.label>
+  <IdeoDiversity_Approved.label>ชื่นชม</IdeoDiversity_Approved.label>
   <!-- EN: Other beliefs are worth understanding. It's good to live with others who think differently. -->
   <IdeoDiversity_Approved.description>TODO</IdeoDiversity_Approved.description>
   <!-- EN: Uniform surroundings -->
@@ -22,7 +22,7 @@
   <IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.1>TODO</IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.1>
   
   <!-- EN: mild bigotry -->
-  <IdeoDiversity_Disapproved.label>TODO</IdeoDiversity_Disapproved.label>
+  <IdeoDiversity_Disapproved.label>ความคลั่งไคล้เล็กน้อย</IdeoDiversity_Disapproved.label>
   <!-- EN: Other beliefs are clearly folly. It's not good to let them exist in the community. -->
   <IdeoDiversity_Disapproved.description>TODO</IdeoDiversity_Disapproved.description>
   <!-- EN: Uniform surroundings -->
@@ -31,7 +31,7 @@
   <IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.1>TODO</IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.1>
   
   <!-- EN: exalted -->
-  <IdeoDiversity_Exalted.label>TODO</IdeoDiversity_Exalted.label>
+  <IdeoDiversity_Exalted.label>สูงส่ง</IdeoDiversity_Exalted.label>
   <!-- EN: Working through disagreement is the height of morality. It's very moral to live with others who think differently. -->
   <IdeoDiversity_Exalted.description>TODO</IdeoDiversity_Exalted.description>
   <!-- EN: Uniform surroundings -->
@@ -40,7 +40,7 @@
   <IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.1>TODO</IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.1>
   
   <!-- EN: moderate bigotry -->
-  <IdeoDiversity_Horrible.label>TODO</IdeoDiversity_Horrible.label>
+  <IdeoDiversity_Horrible.label>ความคลั่งไคล้ปานกลาง</IdeoDiversity_Horrible.label>
   <!-- EN: Other beliefs are immoral delusions which do real harm. It's bad to let them exist in the community. -->
   <IdeoDiversity_Horrible.description>TODO</IdeoDiversity_Horrible.description>
   <!-- EN: Uniform surroundings -->
@@ -49,7 +49,7 @@
   <IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.1>TODO</IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.1>
   
   <!-- EN: highly appreciated -->
-  <IdeoDiversity_Respected.label>TODO</IdeoDiversity_Respected.label>
+  <IdeoDiversity_Respected.label>ชื่นชมมาก</IdeoDiversity_Respected.label>
   <!-- EN: Other beliefs hold unique knowledge. It's great to live with others who think differently. -->
   <IdeoDiversity_Respected.description>TODO</IdeoDiversity_Respected.description>
   <!-- EN: Uniform surroundings -->
@@ -58,7 +58,7 @@
   <IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.1>TODO</IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.1>
   
   <!-- EN: neutral -->
-  <IdeoDiversity_Standard.label>TODO</IdeoDiversity_Standard.label>
+  <IdeoDiversity_Standard.label>เป็นกลาง</IdeoDiversity_Standard.label>
   <!-- EN: Other beliefs are neither approved or disapproved. -->
   <IdeoDiversity_Standard.description>TODO</IdeoDiversity_Standard.description>
   <!-- EN: Uniform surroundings -->

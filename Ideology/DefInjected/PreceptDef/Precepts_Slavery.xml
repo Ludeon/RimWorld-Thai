@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: abhorrent -->
-  <Slavery_Abhorrent.label>TODO</Slavery_Abhorrent.label>
+  <Slavery_Abhorrent.label>น่ารังเกียจ</Slavery_Abhorrent.label>
   <!-- EN: Owning or trading human beings is deeply evil. -->
   <Slavery_Abhorrent.description>TODO</Slavery_Abhorrent.description>
   <!-- EN: Each slave in colony -->
@@ -11,12 +11,12 @@
   <Slavery_Abhorrent.comps.5.description>TODO</Slavery_Abhorrent.comps.5.description>
   
   <!-- EN: acceptable -->
-  <Slavery_Acceptable.label>TODO</Slavery_Acceptable.label>
+  <Slavery_Acceptable.label>ยอมรับได้</Slavery_Acceptable.label>
   <!-- EN: Slavery is a normal, unremarkable part of life. -->
   <Slavery_Acceptable.description>TODO</Slavery_Acceptable.description>
   
   <!-- EN: disapproved -->
-  <Slavery_Disapproved.label>TODO</Slavery_Disapproved.label>
+  <Slavery_Disapproved.label>ไม่อนุมัติ</Slavery_Disapproved.label>
   <!-- EN: Slavery is part of life, though it is extremely distasteful. -->
   <Slavery_Disapproved.description>TODO</Slavery_Disapproved.description>
   <!-- EN: Each slave in colony -->
@@ -27,7 +27,7 @@
   <Slavery_Disapproved.comps.6.description>TODO</Slavery_Disapproved.comps.6.description>
   
   <!-- EN: honorable -->
-  <Slavery_Honorable.label>TODO</Slavery_Honorable.label>
+  <Slavery_Honorable.label>มีเกียรติ</Slavery_Honorable.label>
   <!-- EN: One who owns and trades slaves should be honored and respected. -->
   <Slavery_Honorable.description>TODO</Slavery_Honorable.description>
   <!-- EN: Each slave in colony -->
@@ -38,7 +38,7 @@
   <Slavery_Honorable.comps.7.description>TODO</Slavery_Honorable.comps.7.description>
   
   <!-- EN: horrible -->
-  <Slavery_Horrible.label>TODO</Slavery_Horrible.label>
+  <Slavery_Horrible.label>น่ากลัว</Slavery_Horrible.label>
   <!-- EN: Owning or trading human beings is a horrible thing. -->
   <Slavery_Horrible.description>TODO</Slavery_Horrible.description>
   <!-- EN: Each slave in colony -->
