@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: animal personhood -->
-  <AnimalPersonhood.label>บุคลิกของสัตว์</AnimalPersonhood.label>
+  <AnimalPersonhood.label>ใช้ชีวิตกับสัตว์</AnimalPersonhood.label>
   <!-- EN: Animals have rights as humans do. -->
   <AnimalPersonhood.description>สัตว์มีสิทธิเช่นเดียวกับมนุษย์</AnimalPersonhood.description>
   <!-- EN:
@@ -68,7 +68,7 @@
   <AnimalPersonhood.symbolPacks.1.theme>TODO</AnimalPersonhood.symbolPacks.1.theme>
   
   <!-- EN: blindsight -->
-  <Blindsight.label>ตาบอด</Blindsight.label>
+  <Blindsight.label>เปิดดวงตาที่สาม</Blindsight.label>
   <!-- EN: Only those who are blind can perceive the true reality. -->
   <Blindsight.description>เฉพาะคนตาบอดเท่านั้นที่สามารถรับรู้ความเป็นจริงได้</Blindsight.description>
   <!-- EN:
@@ -222,7 +222,7 @@
   <Darkness.generalRules.rulesStrings>TODO</Darkness.generalRules.rulesStrings>
   
   <!-- EN: flesh purity -->
-  <FleshPurity.label>ความบริสุทธิ์\nของเนื้อ</FleshPurity.label>
+  <FleshPurity.label>ความบริสุทธิ์\nของร่างกาย</FleshPurity.label>
   <!-- EN: The human body should not be debased. -->
   <FleshPurity.description>ร่างกายมนุษย์ไม่ควรถูกทำให้เสื่อมเสีย</FleshPurity.description>
   <!-- EN:
@@ -284,7 +284,7 @@
   <FleshPurity.symbolPacks.2.theme>TODO</FleshPurity.symbolPacks.2.theme>
   
   <!-- EN: high life -->
-  <HighLife.label>ชีวิตสูงส่ง</HighLife.label>
+  <HighLife.label>การใช้ยา</HighLife.label>
   <!-- EN: Exotic states of mind are central to a good life. -->
   <HighLife.description>สภาพจิตใจที่แปลกใหม่เป็นศูนย์กลางของชีวิตที่ดี</HighLife.description>
   <!-- EN:
@@ -412,7 +412,7 @@
   <Nudism.symbolPacks.1.theme>TODO</Nudism.symbolPacks.1.theme>
   
   <!-- EN: pain is virtue -->
-  <PainIsVirtue.label>ความเจ็บปวด\nคือคุณธรรม</PainIsVirtue.label>
+  <PainIsVirtue.label>ความเจ็บปวด</PainIsVirtue.label>
   <!-- EN: Virtue is shown through suffering of self and others. -->
   <PainIsVirtue.description>คุณธรรมแสดงผ่านความทุกข์ของตนเองและผู้อื่น</PainIsVirtue.description>
   <!-- EN:
@@ -561,7 +561,7 @@
   <Proselytizer.symbolPacks.2.theme>TODO</Proselytizer.symbolPacks.2.theme>
   
   <!-- EN: raider -->
-  <Raider.label>ไรเดอร์</Raider.label>
+  <Raider.label>กองโจร</Raider.label>
   <!-- EN: The strong should take from the weak. -->
   <Raider.description>ผู้แข็งแกร่งควรพรากจากผู้อ่อนแอ</Raider.description>
   <!-- EN:
@@ -636,7 +636,7 @@
   <Raider.symbolPacks.3.theme>TODO</Raider.symbolPacks.3.theme>
   
   <!-- EN: rancher -->
-  <Rancher.label>เจ้าของฟาร์ม\nปศุสัตว์</Rancher.label>
+  <Rancher.label>สัตว์คืออาหาร</Rancher.label>
   <!-- EN: Raising animals is the right way; raising plants to eat is not. -->
   <Rancher.description>การเลี้ยงสัตว์เป็นวิธีที่ถูกต้อง การปลูกพืชกินไม่ได้</Rancher.description>
   <!-- EN:
@@ -703,7 +703,7 @@
   <Rancher.symbolPacks.2.theme>TODO</Rancher.symbolPacks.2.theme>
   
   <!-- EN: transhumanist -->
-  <Transhumanist.label>คนข้ามเพศ\nเทคโนโลยี</Transhumanist.label>
+  <Transhumanist.label>ดันแปลงร่างกาย</Transhumanist.label>
   <!-- EN: Human progress means merging with technology. -->
   <Transhumanist.description>ความก้าวหน้าของมนุษย์หมายถึงการผสานเข้ากับเทคโนโลยี</Transhumanist.description>
   <!-- EN:
@@ -805,7 +805,7 @@
   <Transhumanist.symbolPacks.5.theme>TODO</Transhumanist.symbolPacks.5.theme>
   
   <!-- EN: tree connection -->
-  <TreeConnection.label>การเชื่อมต่อต้นไม้</TreeConnection.label>
+  <TreeConnection.label>นับถือธรรมชาติ</TreeConnection.label>
   <!-- EN: Trees are the essence of life, and we must be near them. -->
   <TreeConnection.description>ต้นไม้คือแก่นแท้ของชีวิต และเราต้องอยู่ใกล้พวกเขา</TreeConnection.description>
   <!-- EN:
@@ -853,7 +853,7 @@
   <TreeConnection.generalRules.rulesStrings>TODO</TreeConnection.generalRules.rulesStrings>
   
   <!-- EN: tunneler -->
-  <Tunneler.label>มนุษย์ถ้ำ</Tunneler.label>
+  <Tunneler.label>มนุษย์ใต้ดิน</Tunneler.label>
   <!-- EN: Humans ought to live underground, and enjoy the succulent fruit of the depths. -->
   <Tunneler.description>มนุษย์ควรอยู่ใต้ดิน และเพลิดเพลินกับผลไม้รสฉ่ำของส่วนลึก</Tunneler.description>
   <!-- EN:

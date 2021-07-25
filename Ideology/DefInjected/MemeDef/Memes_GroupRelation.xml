@@ -75,7 +75,7 @@
   <Guilty.symbolPacks.3.theme>TODO</Guilty.symbolPacks.3.theme>
   
   <!-- EN: loyalist -->
-  <Loyalist.label>ผู้ภักดี</Loyalist.label>
+  <Loyalist.label>ภักดี</Loyalist.label>
   <!-- EN: We stand for our own before others. -->
   <Loyalist.description>เรายืนหยัดเพื่อตนเองก่อนผู้อื่น</Loyalist.description>
   <!-- EN:
@@ -134,7 +134,7 @@
   <Loyalist.symbolPacks.2.theme>TODO</Loyalist.symbolPacks.2.theme>
   
   <!-- EN: supremacist -->
-  <Supremacist.label>ผู้สูงส่ง</Supremacist.label>
+  <Supremacist.label>สูงส่ง</Supremacist.label>
   <!-- EN: Our people should dominate all others. -->
   <Supremacist.description>ประชาชนของเราควรครอบงำผู้อื่นทั้งหมด</Supremacist.description>
   <!-- EN:
