@@ -8,16 +8,16 @@
   <Capybara.label>คาปิบารา</Capybara.label>
   
   <!-- EN: megasloth -->
-  <Megasloth.label>สลอธ</Megasloth.label>
+  <Megasloth.label>สลอธยักษ์</Megasloth.label>
   
   <!-- EN: sheep -->
-  <Sheep.label>TODO</Sheep.label>
+  <Sheep.label>แกะ</Sheep.label>
   <!-- EN: ewe -->
-  <Sheep.labelFemale>TODO</Sheep.labelFemale>
+  <Sheep.labelFemale>แกะตัวเมีย</Sheep.labelFemale>
   <!-- EN: ram -->
-  <Sheep.labelMale>TODO</Sheep.labelMale>
+  <Sheep.labelMale>แกะตัวผู้</Sheep.labelMale>
   <!-- EN: sheep -->
-  <Sheep.labelPlural>TODO</Sheep.labelPlural>
+  <Sheep.labelPlural>แกะ</Sheep.labelPlural>
   <!-- EN: lamb -->
   <Sheep.lifeStages.lamb.label>TODO</Sheep.lifeStages.lamb.label>
   <!-- EN: lambs -->

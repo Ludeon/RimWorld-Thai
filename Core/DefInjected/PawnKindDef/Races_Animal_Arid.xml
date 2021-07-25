@@ -8,10 +8,10 @@
   <!-- EN: dromedary calf -->
   <Dromedary.lifeStages.dromedary_calf.label>ลูกอูฐหนอกเดียว</Dromedary.lifeStages.dromedary_calf.label>
   <!-- EN: dromedary calves -->
-  <Dromedary.lifeStages.dromedary_calf.labelPlural>ลูกอูฐหนอกเดียว</Dromedary.lifeStages.dromedary_calf.labelPlural>
+  <Dromedary.lifeStages.dromedary_calf.labelPlural>อูฐหนอกเดียว</Dromedary.lifeStages.dromedary_calf.labelPlural>
   
   <!-- EN: gazelle -->
-  <Gazelle.label>กาเซลล์</Gazelle.label>
+  <Gazelle.label>กวางละมั่ง</Gazelle.label>
   
   <!-- EN: iguana -->
   <Iguana.label>อิกัวน่า</Iguana.label>
@@ -21,6 +21,6 @@
   <!-- EN: muffalo calf -->
   <Muffalo.lifeStages.muffalo_calf.label>ลูกมัฟฟาโล่</Muffalo.lifeStages.muffalo_calf.label>
   <!-- EN: muffalo calves -->
-  <Muffalo.lifeStages.muffalo_calf.labelPlural>ลูกมัฟฟาโล่</Muffalo.lifeStages.muffalo_calf.labelPlural>
+  <Muffalo.lifeStages.muffalo_calf.labelPlural>มัฟฟาโล่</Muffalo.lifeStages.muffalo_calf.labelPlural>
   
 </LanguageData>

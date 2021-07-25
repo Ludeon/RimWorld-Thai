@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: chinchilla -->
-  <Chinchilla.label>TODO</Chinchilla.label>
+  <Chinchilla.label>หนูชินชิลล่า</Chinchilla.label>
   
   <!-- EN: deer -->
-  <Deer.label>TODO</Deer.label>
+  <Deer.label>กวาง</Deer.label>
   <!-- EN: doe -->
-  <Deer.labelFemale>TODO</Deer.labelFemale>
+  <Deer.labelFemale>กวางตัวเมีย</Deer.labelFemale>
   <!-- EN: buck -->
-  <Deer.labelMale>TODO</Deer.labelMale>
+  <Deer.labelMale>กวางตัวผู้</Deer.labelMale>
   <!-- EN: deer -->
-  <Deer.labelPlural>TODO</Deer.labelPlural>
+  <Deer.labelPlural>กวาง</Deer.labelPlural>
   
   <!-- EN: gazelle -->
-  <Gazelle.label>TODO</Gazelle.label>
+  <Gazelle.label>กวางละมั่ง</Gazelle.label>
   
   <!-- EN: ibex -->
-  <Ibex.label>TODO</Ibex.label>
+  <Ibex.label>แพะภูเขา</Ibex.label>
   <!-- EN: ibex doe -->
-  <Ibex.labelFemale>TODO</Ibex.labelFemale>
+  <Ibex.labelFemale>แพะภูเขาตัวเมีย</Ibex.labelFemale>
   <!-- EN: ibex ram -->
-  <Ibex.labelMale>TODO</Ibex.labelMale>
+  <Ibex.labelMale>แพะภูเขาตัวผู้</Ibex.labelMale>
   <!-- EN: ibexes -->
-  <Ibex.labelPlural>TODO</Ibex.labelPlural>
+  <Ibex.labelPlural>แพะภูเขา</Ibex.labelPlural>
   
   <!-- EN: pig -->
   <Pig.label>หมู</Pig.label>

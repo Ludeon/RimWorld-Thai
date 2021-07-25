@@ -28,9 +28,9 @@
   <!-- EN: These large lizards normally feed on plant matter. However, when angered, their tough hide and sharp claws make them quite dangerous.\n\nResting iguanas hold their heads high, giving them an amusing 'proud' look. But they're not proud; they're just trying to see predators so they don't get eaten. -->
   <Iguana.description>TODO</Iguana.description>
   <!-- EN: left claw -->
-  <Iguana.tools.left_claw.label>กีบซ้าย</Iguana.tools.left_claw.label>
+  <Iguana.tools.left_claw.label>กรงเล็บซ้าย</Iguana.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Iguana.tools.right_claw.label>กีบขวา</Iguana.tools.right_claw.label>
+  <Iguana.tools.right_claw.label>กรงเล็บขวา</Iguana.tools.right_claw.label>
   <!-- EN: head -->
   <Iguana.tools.head.label>หัว</Iguana.tools.head.label>
   
