@@ -13,7 +13,18 @@
     <li>terrain_word->points</li>
     <li>terrain_word->chain</li>
   -->
-  <NamerArchipelago.rulePack.rulesStrings>TODO</NamerArchipelago.rulePack.rulesStrings>
+  <NamerArchipelago.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->เกาะ [narrative_name]</li>
+    <li>terrain_word(p=4)->หมู่เกาะ</li>
+    <li>terrain_word(p=3)->หมู่เกาะ</li>
+    <li>terrain_word(p=3)->หมู่เกาะ</li>
+    <li>terrain_word->โขดหิน</li>
+    <li>terrain_word->เกาะปะการัง</li>
+    <li>terrain_word->หิน</li>
+    <li>terrain_word->เกาะเล็กเกาะน้อย</li>
+    <li>terrain_word->จุด</li>
+    <li>terrain_word->เทือกเขา</li>
+  </NamerArchipelago.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=4)->shrubland</li>
@@ -25,7 +36,16 @@
     <li>terrain_word->brush</li>
     <li>terrain_word->barrens</li>
   -->
-  <NamerAridShrubland.rulePack.rulesStrings>TODO</NamerAridShrubland.rulePack.rulesStrings>
+  <NamerAridShrubland.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->ไม้พุ่ม</li>
+    <li>terrain_word(p=4)->ป่าละเมาะ</li>
+    <li>terrain_word(p=2)->ที่ราบสูง</li>
+    <li>terrain_word(p=2)->ป่าเตี้ยๆ</li>
+    <li>terrain_word->ทะเลทราย</li>
+    <li>terrain_word->พุ่มไม้</li>
+    <li>terrain_word->หมู่ไม้ต่ำๆ</li>
+    <li>terrain_word->แห้งแล้ง</li>
+  </NamerAridShrubland.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->gulf of [narrative_name]</li>
@@ -35,7 +55,14 @@
     <li>terrain_word->anchorage</li>
     <li>terrain_word->cove</li>
   -->
-  <NamerBay.rulePack.rulesStrings>TODO</NamerBay.rulePack.rulesStrings>
+  <NamerBay.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->gulf of [narrative_name]</li>
+    <li>terrain_word(p=6)->อ่าว</li>
+    <li>terrain_word->อ่าวเล็ก</li>
+    <li>terrain_word->อ่าวขนาดใหญ่</li>
+    <li>terrain_word->ที่ทอดสมอ</li>
+    <li>terrain_word->อ่าวเล็ก</li>
+  </NamerBay.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=6)->forest</li>
@@ -46,7 +73,15 @@
     <li>terrain_word->tangle</li>
     <li>terrain_word->thicket</li>
   -->
-  <NamerBorealForest.rulePack.rulesStrings>TODO</NamerBorealForest.rulePack.rulesStrings>
+  <NamerBorealForest.rulePack.rulesStrings>
+    <li>terrain_word(p=6)->ป่า</li>
+    <li>terrain_word(p=3)->ป่าต้นสน</li>
+    <li>terrain_word->ป่าเล็กๆ</li>
+    <li>terrain_word->ป่าไม้</li>
+    <li>terrain_word->ป่า</li>
+    <li>terrain_word->ป่าไม้ยุ่งเหยิง</li>
+    <li>terrain_word->กลุ่มต้นไม้ที่อยู่กันแน่นหนา</li>
+  </NamerBorealForest.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.4)->[desert_adjective] [narrative_name]</li>
@@ -72,7 +107,30 @@
     <li>terrain_word->wasteland</li>
     <li>terrain_word->barrens</li>
   -->
-  <NamerDesert.rulePack.rulesStrings>TODO</NamerDesert.rulePack.rulesStrings>
+  <NamerDesert.rulePack.rulesStrings>
+    <li>r_name(p=0.4)->[desert_adjective] [narrative_name]</li>
+    <li>desert_adjective->ราบ</li>
+    <li>desert_adjective->สีขาว</li>
+    <li>desert_adjective->ไม่มีที่สิ้นสุด</li>
+    <li>desert_adjective->หิน</li>
+    <li>desert_adjective->แห้ง</li>
+    <li>desert_adjective->แห้ง</li>
+    <li>desert_adjective->ยาว</li>
+    <li>desert_adjective->ถูกแดดเผา</li>
+    <li>desert_adjective->แดดจัด</li>
+    <li>desert_adjective->พราว</li>
+    <li>desert_adjective->ร้อน</li>
+    <li>desert_adjective->sweaty</li>
+    <li>desert_adjective->ทราย</li>
+    <li>desert_adjective->หิน</li>
+    <li>terrain_word(p=6)->desert</li>
+    <li>terrain_word->ที่ราบสูง</li>
+    <li>terrain_word->พื้นราบ</li>
+    <li>terrain_word->basin</li>
+    <li>terrain_word->อ่าง</li>
+    <li>terrain_word->ที่ดินกร้าง</li>
+    <li>terrain_word->แห้งแล้ง</li>
+  </NamerDesert.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=6)->forest</li>
@@ -80,7 +138,12 @@
     <li>terrain_word->woodland</li>
     <li>terrain_word->thicket</li>
   -->
-  <NamerForest.rulePack.rulesStrings>TODO</NamerForest.rulePack.rulesStrings>
+  <NamerForest.rulePack.rulesStrings>
+    <li>terrain_word(p=6)->ป่า</li>
+    <li>terrain_word->ป่าเล็กๆ</li>
+    <li>terrain_word->ป่าไม้</li>
+    <li>terrain_word->กลุ่มต้นไม้ที่อยู่กันแน่นหนา</li>
+  </NamerForest.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word->sheet</li>
@@ -92,7 +155,16 @@
     <li>terrain_word(p=0.3)->stretch</li>
     <li>terrain_word(p=0.3)->tract</li>
   -->
-  <NamerIceSheet.rulePack.rulesStrings>TODO</NamerIceSheet.rulePack.rulesStrings>
+  <NamerIceSheet.rulePack.rulesStrings>
+    <li>terrain_word->sheet</li>
+    <li>terrain_word->กว้างใหญ่</li>
+    <li>terrain_word(p=0.5)->เข้าถึง</li>
+    <li>terrain_word(p=0.3)->ทุ่ง</li>
+    <li>terrain_word(p=0.3)->span</li>
+    <li>terrain_word(p=0.3)->ทุ่ง</li>
+    <li>terrain_word(p=0.3)->stretch</li>
+    <li>terrain_word(p=0.3)->ทางเดิน</li>
+  </NamerIceSheet.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->isle [narrative_name]</li>
@@ -104,7 +176,16 @@
     <li>terrain_word->islet</li>
     <li>terrain_word->point</li>
   -->
-  <NamerIsland.rulePack.rulesStrings>TODO</NamerIsland.rulePack.rulesStrings>
+  <NamerIsland.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->เกาะ [narrative_name]</li>
+    <li>terrain_word(p=4)->เกาะ</li>
+    <li>terrain_word(p=2)->เกาะ</li>
+    <li>terrain_word->โขดหิน</li>
+    <li>terrain_word->เกาะปะการัง</li>
+    <li>terrain_word->หิน</li>
+    <li>terrain_word->เกาะเล็กเกาะน้อย</li>
+    <li>terrain_word->จุด</li>
+  </NamerIsland.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->lake [narrative_name]</li>
@@ -117,7 +198,17 @@
     <li>terrain_word(p=0.3)->lagoon</li>
     <li>terrain_word(p=0.3)->loch</li>
   -->
-  <NamerLake.rulePack.rulesStrings>TODO</NamerLake.rulePack.rulesStrings>
+  <NamerLake.rulePack.rulesStrings>
+    <li>r_name->ทะเลสาบ [narrative_name]</li>
+    <li>terrain_word(p=6)->ทะเลสาบ</li>
+    <li>terrain_word->ทะเล</li>
+    <li>terrain_word->บ่อน้ำ</li>
+    <li>terrain_word->อ่าง</li>
+    <li>terrain_word->อ่างเก็บน้ำ</li>
+    <li>terrain_word(p=0.3)->บ่อ</li>
+    <li>terrain_word(p=0.3)->ทะเลสาบ</li>
+    <li>terrain_word(p=0.3)->ทะเลสาบ</li>
+  </NamerLake.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->mount [narrative_name]</li>
@@ -127,7 +218,14 @@
     <li>terrain_word->hills</li>
     <li>terrain_word->cliffs</li>
   -->
-  <NamerMountainRange.rulePack.rulesStrings>TODO</NamerMountainRange.rulePack.rulesStrings>
+  <NamerMountainRange.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->ภูเขา [narrative_name]</li>
+    <li>terrain_word(p=5)->ภูเขา</li>
+    <li>terrain_word(p=2)->เทือกเขา</li>
+    <li>terrain_word->ยอดเขา</li>
+    <li>terrain_word->เนินเขา</li>
+    <li>terrain_word->หน้าผา</li>
+  </NamerMountainRange.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.4)->[ocean_adjective] [narrative_name]</li>
@@ -148,7 +246,25 @@
     <li>terrain_word(p=3)->sea</li>
     <li>terrain_word->expanse</li>
   -->
-  <NamerOcean.rulePack.rulesStrings>TODO</NamerOcean.rulePack.rulesStrings>
+  <NamerOcean.rulePack.rulesStrings>
+    <li>r_name(p=0.4)->[ocean_adjective] [narrative_name]</li>
+    <li>ocean_adjective->สีน้ำเงิน</li>
+    <li>ocean_adjective->สีขาว</li>
+    <li>ocean_adjective->สีเทา</li>
+    <li>ocean_adjective->โล่ง</li>
+    <li>ocean_adjective->ลมแรง</li>
+    <li>ocean_adjective->พายุ</li>
+    <li>ocean_adjective->เงียบสงบ</li>
+    <li>ocean_adjective->กว้าง</li>
+    <li>ocean_adjective->ไม่มีที่สิ้นสุด</li>
+    <li>ocean_adjective->ราบ</li>
+    <li>ocean_adjective->ราบรื่น</li>
+    <li>ocean_adjective->สั่นไหว</li>
+    <li>ocean_adjective->ละเมียด</li>
+    <li>terrain_word(p=6)->มหาสมุทร</li>
+    <li>terrain_word(p=3)->ทะเล</li>
+    <li>terrain_word->กว้างใหญ่</li>
+  </NamerOcean.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->point [narrative_name]</li>
@@ -159,7 +275,15 @@
     <li>terrain_word->headland</li>
     <li>terrain_word->horn</li>
   -->
-  <NamerPeninsula.rulePack.rulesStrings>TODO</NamerPeninsula.rulePack.rulesStrings>
+  <NamerPeninsula.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->จุด [narrative_name]</li>
+    <li>r_name(p=0.2)->แหลม [narrative_name]</li>
+    <li>terrain_word(p=5)->คาบสมุทร</li>
+    <li>terrain_word(p=2)->จุด</li>
+    <li>terrain_word->แหลม</li>
+    <li>terrain_word->แหลม</li>
+    <li>terrain_word->มุมแหลม</li>
+  </NamerPeninsula.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.1)->lake [narrative_name]</li>
@@ -167,7 +291,12 @@
     <li>terrain_word->ocean</li>
     <li>terrain_word->lake</li>
   -->
-  <NamerSea.rulePack.rulesStrings>TODO</NamerSea.rulePack.rulesStrings>
+  <NamerSea.rulePack.rulesStrings>
+    <li>r_name(p=0.1)->ทะเลสาบ [narrative_name]</li>
+    <li>terrain_word(p=6)->ทะเล</li>
+    <li>terrain_word->มหาสมุทร</li>
+    <li>terrain_word->ทะเลสาบ</li>
+  </NamerSea.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.1)->fen [narrative_name]</li>
@@ -189,7 +318,26 @@
     <li>terrain_word->marsh</li>
     <li>terrain_word->fen</li>
   -->
-  <NamerSwamp.rulePack.rulesStrings>TODO</NamerSwamp.rulePack.rulesStrings>
+  <NamerSwamp.rulePack.rulesStrings>
+    <li>r_name(p=0.1)->fen [narrative_name]</li>
+    <li>r_name(p=0.3)->[swamp_adjective] [narrative_name]</li>
+    <li>swamp_adjective->บึง</li>
+    <li>swamp_adjective->ไอน้ำ</li>
+    <li>swamp_adjective->choking</li>
+    <li>swamp_adjective->เน่าเสีย</li>
+    <li>swamp_adjective->เน่าเปื่อย</li>
+    <li>swamp_adjective->รก</li>
+    <li>swamp_adjective->ยุ่งเหยิง</li>
+    <li>swamp_adjective->ไวนิล</li>
+    <li>swamp_adjective->มีหนาม</li>
+    <li>terrain_word(p=6)->บึงหนอง</li>
+    <li>terrain_word->อ่าง</li>
+    <li>terrain_word->พื้นที่ชุ่มน้ำ</li>
+    <li>terrain_word->ลำธาร</li>
+    <li>terrain_word->บึง</li>
+    <li>terrain_word->บึง</li>
+    <li>terrain_word->บึง</li>
+  </NamerSwamp.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.3)->[rainforest_adjective] [narrative_name]</li>
@@ -207,7 +355,22 @@
     <li>terrain_word->woodland</li>
     <li>terrain_word->tangle</li>
   -->
-  <NamerTropicalRainforest.rulePack.rulesStrings>TODO</NamerTropicalRainforest.rulePack.rulesStrings>
+  <NamerTropicalRainforest.rulePack.rulesStrings>
+    <li>r_name(p=0.3)->[rainforest_adjective] [narrative_name]</li>
+    <li>rainforest_adjective->เปียก</li>
+    <li>rainforest_adjective->ไอน้ำ</li>
+    <li>rainforest_adjective->choking</li>
+    <li>rainforest_adjective->รก</li>
+    <li>rainforest_adjective->พันกัน</li>
+    <li>rainforest_adjective->ไวนิล</li>
+    <li>rainforest_adjective->มีหนาม</li>
+    <li>terrain_word(p=6)->ป่าฝน</li>
+    <li>terrain_word(p=3)->ป่า</li>
+    <li>terrain_word->ป่า</li>
+    <li>terrain_word->ป่าเล็กๆ</li>
+    <li>terrain_word->ป่าไม้</li>
+    <li>terrain_word->ป่าไม้ยุ่งเหยิง</li>
+  </NamerTropicalRainforest.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=4)->plateau</li>
@@ -223,7 +386,20 @@
     <li>terrain_word->prairie</li>
     <li>terrain_word->flats</li>
   -->
-  <NamerTundra.rulePack.rulesStrings>TODO</NamerTundra.rulePack.rulesStrings>
+  <NamerTundra.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->ที่ราบสูง</li>
+    <li>terrain_word(p=4)->แห้งแล้ง</li>
+    <li>terrain_word(p=2)->ป่าต้นสน</li>
+    <li>terrain_word->ป่าเตี้ยๆ</li>
+    <li>terrain_word->ไม้พุ่ม</li>
+    <li>terrain_word->ป่าละเมาะ</li>
+    <li>terrain_word->พุ่มไม้</li>
+    <li>terrain_word->หมู่ไม้ต่ำๆ</li>
+    <li>terrain_word->barrens</li>
+    <li>terrain_word->กว้างใหญ่</li>
+    <li>terrain_word->ทุ่งหญ้า</li>
+    <li>terrain_word->พื้นราบ</li>
+  </NamerTundra.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[narrative_name] [terrain_word]</li>
@@ -286,6 +462,66 @@
     <li>story_result->facade</li>
     <li>story_result->fraud</li>
   -->
-  <WorldFeatureNamerCommon.rulePack.rulesStrings>TODO</WorldFeatureNamerCommon.rulePack.rulesStrings>
+  <WorldFeatureNamerCommon.rulePack.rulesStrings>
+    <li>r_name->[narrative_name] [terrain_word]</li>
+    <li>r_name(p=0.05)->[storyname] [terrain_word]</li>
+    <li>narrative_name(p=12)->[WordTribal]</li>
+    <li>narrative_name(p=12)->[PlaceOutlander]</li>
+    <li>narrative_name->[Color][NaturalObject]</li>
+    <li>narrative_name->[AdjectiveNatural][BodyPart]</li>
+    <li>narrative_name->[Animal]</li>
+    <li>narrative_name->[Color]</li>
+    <li>narrative_name->[Color][Animal]</li>
+    <li>narrative_name->[AdjectiveNatural][Animal]</li>
+    <li>narrative_name->[Animal][BodyPart]</li>
+    <li>narrative_name->[Color] [Animal]</li>
+    <li>narrative_name->[AdjectiveNatural] [Animal]</li>
+    <li>narrative_name->[Animal] [BodyPart]</li>
+    <li>storyname(p=50)->[subject]'s [story_result]</li>
+    <li>storyname(p=2)->[subject]'s [BodyPart]</li>
+    <li>storyname->[subject]'s [Gore]</li>
+    <li>subject(p=5)->[NamePerson]</li>
+    <li>subject->[Animal]</li>
+    <li>subject->[WordTribal]</li>
+    <li>subject->[PlaceOutlander]</li>
+    <li>story_result->ความเขลา</li>
+    <li>story_result->รอง</li>
+    <li>story_result->ความบ้าคลั่ง</li>
+    <li>story_result->ความผิดพลาด</li>
+    <li>story_result->ความผิดพลาด</li>
+    <li>story_result->ความผิดพลาด</li>
+    <li>story_result->ความลวง</li>
+    <li>story_result->ความสุข</li>
+    <li>story_result->ความสุข</li>
+    <li>story_result->สิ่งมหัศจรรย์</li>
+    <li>story_result->ความภาคภูมิใจ</li>
+    <li>story_result->อัญมณี</li>
+    <li>story_result->รางวัล</li>
+    <li>story_result->เงินรางวัล</li>
+    <li>story_result->ให้เกียรติ</li>
+    <li>story_result->แจ็คพอต</li>
+    <li>story_result->ถ้วยรางวัล</li>
+    <li>story_result->หยิ่ง</li>
+    <li>story_result->ความเย่อหยิ่ง</li>
+    <li>story_result->ยืน</li>
+    <li>story_result->การสูญเสีย</li>
+    <li>story_result->หนี้</li>
+    <li>story_result->ทรุด</li>
+    <li>story_result->การทำลาย</li>
+    <li>story_result->ความหายนะ</li>
+    <li>story_result->ทำลาย</li>
+    <li>story_result->การทำลายล้าง</li>
+    <li>story_result->เลิกทำ</li>
+    <li>story_result->ความหายนะ</li>
+    <li>story_result->จบ</li>
+    <li>story_result->เกษียณอายุ</li>
+    <li>story_result->ความสำเร็จ</li>
+    <li>story_result->ตอนจบ</li>
+    <li>story_result->บลัฟ</li>
+    <li>story_result->อุบาย</li>
+    <li>story_result->การหลอกลวง</li>
+    <li>story_result->หน้าตึก</li>
+    <li>story_result->การฉ้อโกง</li>
+  </WorldFeatureNamerCommon.rulePack.rulesStrings>
   
 </LanguageData>

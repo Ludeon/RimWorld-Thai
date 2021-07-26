@@ -2,57 +2,57 @@
 <LanguageData>
   
   <!-- EN: {0} {1} want to carry out the blinding as soon as possible. -->
-  <BlindingCeremony.ritualExpectedPostfix>TODO</BlindingCeremony.ritualExpectedPostfix>
+  <BlindingCeremony.ritualExpectedPostfix>{0} {1} ต้องการดำเนินการมองไม่เห็นโดยเร็วที่สุด</BlindingCeremony.ritualExpectedPostfix>
   
   <!-- EN: A ritualistic burning of a hated symbol. Participants will gather around a sacrificial structure, light it on fire, and celebrate as it burns to ash. -->
   <BurnCircle.descOverride>TODO</BurnCircle.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} celebrate {RITUAL_labelDef}. -->
-  <BurnCircle.ritualExpectedDesc>TODO</BurnCircle.ritualExpectedDesc>
+  <BurnCircle.ritualExpectedDesc>ทุกปีในวันที่ {DATE}, {MEMBERS} จะเฉลิมฉลอง {RITUAL_labelDef}</BurnCircle.ritualExpectedDesc>
   <!-- EN: {0} {1} want to hold the celebration as soon as possible. -->
-  <BurnCircle.ritualExpectedPostfix>TODO</BurnCircle.ritualExpectedPostfix>
+  <BurnCircle.ritualExpectedPostfix>{0} {1} ต้องการจัดงานเฉลิมฉลองโดยเร็วที่สุด</BurnCircle.ritualExpectedPostfix>
   <!-- EN: symbol burning -->
   <BurnCircle.shortDescOverride>TODO</BurnCircle.shortDescOverride>
   
   <!-- EN: Every year on {DATE}, {MEMBERS} celebrate {RITUAL_labelDef}. -->
-  <CelebrationPartyChat.ritualExpectedDesc>TODO</CelebrationPartyChat.ritualExpectedDesc>
+  <CelebrationPartyChat.ritualExpectedDesc>ทุกปีในวันที่ {DATE}, {MEMBERS} จะเฉลิมฉลอง {RITUAL_labelDef}</CelebrationPartyChat.ritualExpectedDesc>
   <!-- EN: {0} {1} want to hold the celebration as soon as possible. -->
-  <CelebrationPartyChat.ritualExpectedPostfix>TODO</CelebrationPartyChat.ritualExpectedPostfix>
+  <CelebrationPartyChat.ritualExpectedPostfix>{0} {1} ต้องการจัดงานเฉลิมฉลองโดยเร็วที่สุด</CelebrationPartyChat.ritualExpectedPostfix>
   
   <!-- EN: A dance party with drums. Participants will gather, socialize, play drums, and dance to have fun and connect with each other. -->
-  <CelebrationPartyDanceDrum.descOverride>TODO</CelebrationPartyDanceDrum.descOverride>
+  <CelebrationPartyDanceDrum.descOverride>ปาร์ตี้เต้นรำกับกลอง ผู้เข้าร่วมจะรวมตัวกัน สังสรรค์ เล่นกลอง และเต้นรำเพื่อความสนุกสนานและเชื่อมโยงซึ่งกันและกัน</CelebrationPartyDanceDrum.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} celebrate {RITUAL_labelDef}. -->
-  <CelebrationPartyDanceDrum.ritualExpectedDesc>TODO</CelebrationPartyDanceDrum.ritualExpectedDesc>
+  <CelebrationPartyDanceDrum.ritualExpectedDesc>ทุกปีในวันที่ {DATE}, {MEMBERS} จะเฉลิมฉลอง {RITUAL_labelDef}</CelebrationPartyDanceDrum.ritualExpectedDesc>
   <!-- EN: {0} {1} want to hold the celebration as soon as possible. -->
-  <CelebrationPartyDanceDrum.ritualExpectedPostfix>TODO</CelebrationPartyDanceDrum.ritualExpectedPostfix>
+  <CelebrationPartyDanceDrum.ritualExpectedPostfix>{0} {1} ต้องการจัดงานเฉลิมฉลองโดยเร็วที่สุด</CelebrationPartyDanceDrum.ritualExpectedPostfix>
   <!-- EN: drum party -->
-  <CelebrationPartyDanceDrum.shortDescOverride>TODO</CelebrationPartyDanceDrum.shortDescOverride>
+  <CelebrationPartyDanceDrum.shortDescOverride>ปาร์ตี้กลอง</CelebrationPartyDanceDrum.shortDescOverride>
   
   <!-- EN: A dance party with loud music. Participants will gather, socialize, and dance to have fun and connect with each other. -->
-  <CelebrationPartyDanceTech.descOverride>TODO</CelebrationPartyDanceTech.descOverride>
+  <CelebrationPartyDanceTech.descOverride>ปาร์ตี้เต้นรำกับเสียงเพลงดัง ผู้เข้าร่วมจะรวมตัวกัน สังสรรค์ และเต้นรำเพื่อความสนุกสนานและเชื่อมโยงซึ่งกันและกัน</CelebrationPartyDanceTech.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} celebrate {RITUAL_labelDef}. -->
-  <CelebrationPartyDanceTech.ritualExpectedDesc>TODO</CelebrationPartyDanceTech.ritualExpectedDesc>
+  <CelebrationPartyDanceTech.ritualExpectedDesc>ทุกปีในวันที่ {DATE}, {MEMBERS} จะเฉลิมฉลอง {RITUAL_labelDef}</CelebrationPartyDanceTech.ritualExpectedDesc>
   <!-- EN: {0} {1} want to hold the celebration as soon as possible. -->
-  <CelebrationPartyDanceTech.ritualExpectedPostfix>TODO</CelebrationPartyDanceTech.ritualExpectedPostfix>
+  <CelebrationPartyDanceTech.ritualExpectedPostfix>{0} {1} ต้องการจัดงานเฉลิมฉลองโดยเร็วที่สุด</CelebrationPartyDanceTech.ritualExpectedPostfix>
   <!-- EN: dance party -->
-  <CelebrationPartyDanceTech.shortDescOverride>TODO</CelebrationPartyDanceTech.shortDescOverride>
+  <CelebrationPartyDanceTech.shortDescOverride>งานเต้นรำ</CelebrationPartyDanceTech.shortDescOverride>
   
   <!-- EN: A social ritual where people release skylanterns. Participants will assemble wooden skylanterns while socializing, then release them and watch them drift away. -->
-  <CelebrationSkyLanterns.descOverride>TODO</CelebrationSkyLanterns.descOverride>
+  <CelebrationSkyLanterns.descOverride>พิธีกรรมทางสังคมที่ผู้คนจะปล่อยโคมลอย ผู้เข้าร่วมจะประกอบโคมไม้บนท้องฟ้าขณะพบปะสังสรรค์ จากนั้นปล่อยและดูพวกโคมลอยล่องลอยไป</CelebrationSkyLanterns.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} celebrate {RITUAL_labelDef}. -->
-  <CelebrationSkyLanterns.ritualExpectedDesc>TODO</CelebrationSkyLanterns.ritualExpectedDesc>
+  <CelebrationSkyLanterns.ritualExpectedDesc>ทุกปีในวันที่ {DATE}, {MEMBERS} จะเฉลิมฉลอง {RITUAL_labelDef}</CelebrationSkyLanterns.ritualExpectedDesc>
   <!-- EN: {0} {1} want to hold the celebration as soon as possible. -->
-  <CelebrationSkyLanterns.ritualExpectedPostfix>TODO</CelebrationSkyLanterns.ritualExpectedPostfix>
+  <CelebrationSkyLanterns.ritualExpectedPostfix>{0} {1} ต้องการจัดงานเฉลิมฉลองโดยเร็วที่สุด</CelebrationSkyLanterns.ritualExpectedPostfix>
   <!-- EN: skylantern festival -->
-  <CelebrationSkyLanterns.shortDescOverride>TODO</CelebrationSkyLanterns.shortDescOverride>
+  <CelebrationSkyLanterns.shortDescOverride>เทศกาลโคมลอย</CelebrationSkyLanterns.shortDescOverride>
   
   <!-- EN: A party around a Christmas tree. Participants will gather around a Christmas tree and make merry. -->
-  <CelebrationTree.descOverride>TODO</CelebrationTree.descOverride>
+  <CelebrationTree.descOverride>ปาร์ตี้รอบต้นคริสต์มาส ผู้เข้าร่วมจะรวมตัวกันรอบ ๆ ต้นคริสต์มาสและเฉลิมฉลอง</CelebrationTree.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} celebrate {RITUAL_labelDef}. -->
-  <CelebrationTree.ritualExpectedDesc>TODO</CelebrationTree.ritualExpectedDesc>
+  <CelebrationTree.ritualExpectedDesc>ทุกปีในวันที่ {DATE}, {MEMBERS} จะเฉลิมฉลอง {RITUAL_labelDef}</CelebrationTree.ritualExpectedDesc>
   <!-- EN: {0} {1} want to hold the celebration as soon as possible. -->
-  <CelebrationTree.ritualExpectedPostfix>TODO</CelebrationTree.ritualExpectedPostfix>
+  <CelebrationTree.ritualExpectedPostfix>{0} {1} ต้องการจัดงานเฉลิมฉลองโดยเร็วที่สุด</CelebrationTree.ritualExpectedPostfix>
   <!-- EN: christmas tree party -->
-  <CelebrationTree.shortDescOverride>TODO</CelebrationTree.shortDescOverride>
+  <CelebrationTree.shortDescOverride>ปาร์ตี้คริสต์มาส</CelebrationTree.shortDescOverride>
   
   <!-- EN: In case of success, their certainty will be reduced or they will convert immediately. If it backfires, their certainty in own beliefs will increase. -->
   <Conversion.ritualExplanation>TODO</Conversion.ritualExplanation>
@@ -60,47 +60,47 @@
   <!-- EN: A ritualistic flesh-eating meal. Participants gather around a platter of human flesh and bloodily feast on it. -->
   <FeastCannibal.descOverride>TODO</FeastCannibal.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} celebrate {RITUAL_labelDef}. -->
-  <FeastCannibal.ritualExpectedDesc>TODO</FeastCannibal.ritualExpectedDesc>
+  <FeastCannibal.ritualExpectedDesc>ทุกปีในวันที่ {DATE}, {MEMBERS} จะเฉลิมฉลอง {RITUAL_labelDef}</FeastCannibal.ritualExpectedDesc>
   <!-- EN: {0} {1} want to hold the celebration as soon as possible. -->
-  <FeastCannibal.ritualExpectedPostfix>TODO</FeastCannibal.ritualExpectedPostfix>
+  <FeastCannibal.ritualExpectedPostfix>{0} {1} ต้องการจัดงานเฉลิมฉลองโดยเร็วที่สุด</FeastCannibal.ritualExpectedPostfix>
   <!-- EN: cannibal feast -->
-  <FeastCannibal.shortDescOverride>TODO</FeastCannibal.shortDescOverride>
+  <FeastCannibal.shortDescOverride>งานเลี้ยงมนุษย์กินคน</FeastCannibal.shortDescOverride>
   
   <!-- EN: Once a {IDEO} member dies and the body is lost, other {MEMBERS} gather around an empty grave for {RITUAL_labelDef}. -->
-  <FuneralNoCorpse.ritualExpectedDesc>TODO</FuneralNoCorpse.ritualExpectedDesc>
+  <FuneralNoCorpse.ritualExpectedDesc>เมื่อสมาชิก {IDEO} เสียชีวิตและร่างกายสูญหาย {MEMBERS} อื่นๆ จะรวมตัวกันรอบๆ หลุมศพที่ว่างเปล่าสำหรับ {RITUAL_labelDef}</FuneralNoCorpse.ritualExpectedDesc>
   
   <!-- EN: Once a {IDEO} member dies, other {MEMBERS} gather around their grave for {RITUAL_labelDef}. -->
-  <FuneralStandard.ritualExpectedDesc>TODO</FuneralStandard.ritualExpectedDesc>
+  <FuneralStandard.ritualExpectedDesc>มื่อสมาชิก {IDEO} รายเสียชีวิต {MEMBERS} อื่นqจะมารวมตัวกันที่หลุมศพเพื่อแลก {RITUAL_labelDef}</FuneralStandard.ritualExpectedDesc>
   <!-- EN: {0} {1} want to carry out the funeral as soon as possible. -->
-  <FuneralStandard.ritualExpectedPostfix>TODO</FuneralStandard.ritualExpectedPostfix>
+  <FuneralStandard.ritualExpectedPostfix>{0} {1} ต้องการดำเนินการศพโดยเร็วที่สุด</FuneralStandard.ritualExpectedPostfix>
   
   <!-- EN: A ritualistic animal sacrifice. The organizer will give a speech to excite the crowd, then cut the animal's throat. Once the animal is dead, the organizer will speak some finishing words. -->
-  <SacrificeAnimal.descOverride>TODO</SacrificeAnimal.descOverride>
+  <SacrificeAnimal.descOverride>พิธีบูชายัญสัตว์. ผู้จัดงานจะกล่าวสุนทรพจน์ปลุกใจฝูงชนแล้วปาดคอสัตว์ เมื่อสัตว์ตายแล้ว ผู้จัดงานจะพูดจบประโยค</SacrificeAnimal.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} celebrate {RITUAL_labelDef}. -->
-  <SacrificeAnimal.ritualExpectedDesc>TODO</SacrificeAnimal.ritualExpectedDesc>
+  <SacrificeAnimal.ritualExpectedDesc>ทุกปีในวันที่ {DATE}, {MEMBERS} จะเฉลิมฉลอง {RITUAL_labelDef}</SacrificeAnimal.ritualExpectedDesc>
   <!-- EN: {0} {1} want to carry out the sacrifice as soon as possible. -->
-  <SacrificeAnimal.ritualExpectedPostfix>TODO</SacrificeAnimal.ritualExpectedPostfix>
+  <SacrificeAnimal.ritualExpectedPostfix>{0} {1} ต้องการดำเนินการเสียสละโดยเร็วที่สุด</SacrificeAnimal.ritualExpectedPostfix>
   <!-- EN: animal sacrifice -->
-  <SacrificeAnimal.shortDescOverride>TODO</SacrificeAnimal.shortDescOverride>
+  <SacrificeAnimal.shortDescOverride>สังเวยสัตว์</SacrificeAnimal.shortDescOverride>
   
   <!-- EN: A ritualistic prisoner sacrifice. The organizer will give a speech to excite the crowd, then cut the prisoner's throat. Once the prisoner is dead, organizer will speak some finishing words. -->
-  <SacrificePrisoner.descOverride>TODO</SacrificePrisoner.descOverride>
+  <SacrificePrisoner.descOverride>การสังเวยนักโทษตามพิธีกรรม ผู้จัดงานจะกล่าวสุนทรพจน์ปลุกระดมมวลชนแล้วปาดคอนักโทษ เมื่อนักโทษตาย ผู้จัดงานจะพูดจบประโยค</SacrificePrisoner.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} celebrate {RITUAL_labelDef}. -->
-  <SacrificePrisoner.ritualExpectedDesc>TODO</SacrificePrisoner.ritualExpectedDesc>
+  <SacrificePrisoner.ritualExpectedDesc>ทุกปีในวันที่ {DATE}, {MEMBERS} จะเฉลิมฉลอง {RITUAL_labelDef}</SacrificePrisoner.ritualExpectedDesc>
   <!-- EN: {0} {1} want to carry out the sacrifice as soon as possible. -->
-  <SacrificePrisoner.ritualExpectedPostfix>TODO</SacrificePrisoner.ritualExpectedPostfix>
+  <SacrificePrisoner.ritualExpectedPostfix>{0} {1} ต้องการดำเนินการเสียสละโดยเร็วที่สุด</SacrificePrisoner.ritualExpectedPostfix>
   <!-- EN: prisoner sacrifice -->
-  <SacrificePrisoner.shortDescOverride>TODO</SacrificePrisoner.shortDescOverride>
+  <SacrificePrisoner.shortDescOverride>เครื่องสังเวยนักโทษ</SacrificePrisoner.shortDescOverride>
   
   <!-- EN: {0} {1} want to carry out the scarification as soon as possible. -->
-  <ScarificationCeremony.ritualExpectedPostfix>TODO</ScarificationCeremony.ritualExpectedPostfix>
+  <ScarificationCeremony.ritualExpectedPostfix>{0} {1} ต้องการดำเนินการทำให้เป็นแผลเป็นโดยเร็วที่สุด</ScarificationCeremony.ritualExpectedPostfix>
   
   <!-- EN: A ritualistic smoking of large amounts of smokeleaf. Participants will gather around a burnbong or incense shrine, light it on fire, and celebrate while inhaling the fumes. -->
   <SmokeCircle.descOverride>TODO</SmokeCircle.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} celebrate {RITUAL_labelDef}. -->
-  <SmokeCircle.ritualExpectedDesc>TODO</SmokeCircle.ritualExpectedDesc>
+  <SmokeCircle.ritualExpectedDesc>ทุกปีในวันที่ {DATE}, {MEMBERS} จะเฉลิมฉลอง {RITUAL_labelDef}</SmokeCircle.ritualExpectedDesc>
   <!-- EN: {0} {1} want to hold the celebration as soon as possible. -->
-  <SmokeCircle.ritualExpectedPostfix>TODO</SmokeCircle.ritualExpectedPostfix>
+  <SmokeCircle.ritualExpectedPostfix>{0} {1} ต้องการจัดงานเฉลิมฉลองโดยเร็วที่สุด</SmokeCircle.ritualExpectedPostfix>
   <!-- EN: smokeleaf circle -->
   <SmokeCircle.shortDescOverride>TODO</SmokeCircle.shortDescOverride>
   
