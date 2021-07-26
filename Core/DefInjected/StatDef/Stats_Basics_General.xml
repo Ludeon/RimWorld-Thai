@@ -62,9 +62,9 @@
   <Nutrition.description>อาหารนี้มีสารอาหารขนาดไหน</Nutrition.description>
   
   <!-- EN: honor value -->
-  <RoyalFavorValue.label>TODO</RoyalFavorValue.label>
+  <RoyalFavorValue.label>ค่าเกียรติยศ</RoyalFavorValue.label>
   <!-- EN: The amount of honor your trader will earn for giving this to a tribute collector. -->
-  <RoyalFavorValue.description>TODO</RoyalFavorValue.description>
+  <RoyalFavorValue.description>จำนวนเกียรติที่เทรดเดอร์ของคุณจะได้รับจากการมอบให้กับนักสะสมเครื่องบรรณาการ</RoyalFavorValue.description>
   
   <!-- EN: sell price multiplier -->
   <SellPriceFactor.label>คูณราคาขาย</SellPriceFactor.label>

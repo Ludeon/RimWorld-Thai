@@ -93,11 +93,11 @@
   <CookMealSimple.jobString>กำลังปรุงอาหารง่ายๆ</CookMealSimple.jobString>
   
   <!-- EN: cook simple meal x4 -->
-  <CookMealSimpleBulk.label>TODO</CookMealSimpleBulk.label>
+  <CookMealSimpleBulk.label>ปรุงอาหารง่ายๆ x4</CookMealSimpleBulk.label>
   <!-- EN: Cook 4 straightforward meals from one ingredient. -->
-  <CookMealSimpleBulk.description>TODO</CookMealSimpleBulk.description>
+  <CookMealSimpleBulk.description>ปรุงอาหารง่ายๆ 4 มื้อจากส่วนผสมเดียว</CookMealSimpleBulk.description>
   <!-- EN: Cooking 4 simple meals. -->
-  <CookMealSimpleBulk.jobString>TODO</CookMealSimpleBulk.jobString>
+  <CookMealSimpleBulk.jobString>กำลังปรุงอาหาร 4 มื้อง่ายๆ</CookMealSimpleBulk.jobString>
   
   <!-- EN: cook packaged survival meal -->
   <CookMealSurvival.label>ปรุง อาหารสำเร็จฉุกเฉิน</CookMealSurvival.label>
@@ -107,10 +107,10 @@
   <CookMealSurvival.jobString>กำลังปรุงอาหารสำเร็จฉุกเฉิน</CookMealSurvival.jobString>
   
   <!-- EN: cook packaged survival meal x4 -->
-  <CookMealSurvivalBulk.label>TODO</CookMealSurvivalBulk.label>
+  <CookMealSurvivalBulk.label>ปรุง อาหารสำเร็จฉุกเฉิน x4</CookMealSurvivalBulk.label>
   <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
-  <CookMealSurvivalBulk.description>TODO</CookMealSurvivalBulk.description>
+  <CookMealSurvivalBulk.description>ปรุงอาหารสำเร็จฉุกเฉิน จำนวนมาก ขึ้นจากการผสมผสานวัตถุดิบระหว่างเนื้อกับพืช ส่วนผสมจำนวนมากเสียเปล่าไปกับขั้นตอนป้องกันการกันบูด</CookMealSurvivalBulk.description>
   <!-- EN: Cooking 4 survival meals. -->
-  <CookMealSurvivalBulk.jobString>TODO</CookMealSurvivalBulk.jobString>
+  <CookMealSurvivalBulk.jobString>กำลังปรุง 4 อาหารสำเร็จฉุกเฉิน </CookMealSurvivalBulk.jobString>
   
 </LanguageData>

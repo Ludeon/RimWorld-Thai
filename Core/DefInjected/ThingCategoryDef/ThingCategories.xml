@@ -5,22 +5,22 @@
   <AnimalProductRaw.label>ผลผลิตจากสัตว์</AnimalProductRaw.label>
   
   <!-- EN: animals -->
-  <Animals.label>TODO</Animals.label>
+  <Animals.label>สัตว์</Animals.label>
   
   <!-- EN: apparel -->
   <Apparel.label>เสื้อผ้า</Apparel.label>
   
   <!-- EN: armor -->
-  <ApparelArmor.label>TODO</ApparelArmor.label>
+  <ApparelArmor.label>เกราะ</ApparelArmor.label>
   
   <!-- EN: noble apparel -->
-  <ApparelNoble.label>TODO</ApparelNoble.label>
+  <ApparelNoble.label>เครื่องแต่งกายชั้นสูง</ApparelNoble.label>
   
   <!-- EN: utility -->
-  <ApparelUtility.label>TODO</ApparelUtility.label>
+  <ApparelUtility.label>คุณประโยชน์</ApparelUtility.label>
   
   <!-- EN: headgear -->
-  <ArmorHeadgear.label>TODO</ArmorHeadgear.label>
+  <ArmorHeadgear.label>หมวก</ArmorHeadgear.label>
   
   <!-- EN: artifacts -->
   <Artifacts.label>วัตถุโบราณ</Artifacts.label>
@@ -32,7 +32,7 @@
   <BodyPartsArchotech.label>TODO</BodyPartsArchotech.label>
   
   <!-- EN: bionic -->
-  <BodyPartsBionic.label>TODO</BodyPartsBionic.label>
+  <BodyPartsBionic.label>ไบโอนิค</BodyPartsBionic.label>
   
   <!-- EN: natural -->
   <BodyPartsNatural.label>อวัยวะธรรมชาติ</BodyPartsNatural.label>
@@ -41,10 +41,10 @@
   <BodyPartsProsthetic.label>อวัยวะเทียม</BodyPartsProsthetic.label>
   
   <!-- EN: simple parts -->
-  <BodyPartsSimple.label>TODO</BodyPartsSimple.label>
+  <BodyPartsSimple.label>ชิ้นส่วนง่ายๆ</BodyPartsSimple.label>
   
   <!-- EN: ultratech -->
-  <BodyPartsUltra.label>TODO</BodyPartsUltra.label>
+  <BodyPartsUltra.label>อุลตร้าเทค</BodyPartsUltra.label>
   
   <!-- EN: buildings -->
   <Buildings.label>สิ่งก่อสร้าง</Buildings.label>
@@ -119,10 +119,10 @@
   <Headgear.label>หมวก</Headgear.label>
   
   <!-- EN: headgear -->
-  <HeadgearNoble.label>TODO</HeadgearNoble.label>
+  <HeadgearNoble.label>หมวก</HeadgearNoble.label>
   
   <!-- EN: inert relics -->
-  <InertRelics.label>TODO</InertRelics.label>
+  <InertRelics.label>พระธาตุเฉื่อย</InertRelics.label>
   
   <!-- EN: items -->
   <Items.label>ไอเท็ม</Items.label>
@@ -149,7 +149,7 @@
   <NeurotrainersPsycast.label>psytrainers</NeurotrainersPsycast.label>
   
   <!-- EN: skilltrainers -->
-  <NeurotrainersSkill.label>TODO</NeurotrainersSkill.label>
+  <NeurotrainersSkill.label>ผู้ฝึกสอนทักษะ</NeurotrainersSkill.label>
   
   <!-- EN: vegetarian -->
   <PlantFoodRaw.label>ผักผลไม้</PlantFoodRaw.label>
@@ -158,7 +158,7 @@
   <PlantMatter.label>วัตถุพืช</PlantMatter.label>
   
   <!-- EN: plants -->
-  <Plants.label>TODO</Plants.label>
+  <Plants.label>พืช</Plants.label>
   
   <!-- EN: raw resources -->
   <ResourcesRaw.label>ทรัพยากร</ResourcesRaw.label>
@@ -188,12 +188,12 @@
   <WeaponsMelee.label>อาวุธระยะประชิด</WeaponsMelee.label>
   
   <!-- EN: persona weapons -->
-  <WeaponsMeleeBladelink.label>TODO</WeaponsMeleeBladelink.label>
+  <WeaponsMeleeBladelink.label>อาวุธประจำตัว</WeaponsMeleeBladelink.label>
   
   <!-- EN: ranged weapons -->
   <WeaponsRanged.label>อาวุธระยะไกล</WeaponsRanged.label>
   
   <!-- EN: wools -->
-  <Wools.label>TODO</Wools.label>
+  <Wools.label>ผ้าขนสัตว์</Wools.label>
   
 </LanguageData>

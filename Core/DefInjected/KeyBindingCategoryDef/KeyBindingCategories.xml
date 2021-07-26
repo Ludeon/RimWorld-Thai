@@ -7,9 +7,9 @@
   <Architect.description>ปุ่มควบคุมการใช้งานทั่วๆไป ในโหมดของเมนูสถาปัตยกรรม</Architect.description>
   
   <!-- EN: debug menu -->
-  <DebugMenu.label>TODO</DebugMenu.label>
+  <DebugMenu.label>เมนูแก้ไขข้อบกพร่อง</DebugMenu.label>
   <!-- EN: Controls used in debug menus. Active in development mode only. -->
-  <DebugMenu.description>TODO</DebugMenu.description>
+  <DebugMenu.description>การควบคุมที่ใช้ในเมนูแก้ไขข้อบกพร่อง ใช้งานในโหมดการพัฒนาเท่านั้น</DebugMenu.description>
   
   <!-- EN: developer tools -->
   <Development.label>เครื่องมือนักพัฒนา</Development.label>

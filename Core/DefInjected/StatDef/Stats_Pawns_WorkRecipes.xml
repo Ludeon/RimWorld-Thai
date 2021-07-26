@@ -41,7 +41,7 @@
   <!-- EN: The probability that this character will inadvertently poison a meal they cook.\n\nAnyone who eats a food-poisoned meal will be temporarily debilitated with pain, weakness, and vomiting. -->
   <FoodPoisonChance.description>ความเป็นไปได้ซึ่งตัวละครนี้จะทำอาหารให้เป็นพิษโดยไม่เจตนา อาหารเป็นพิษจะทำให้คนที่กินอ่อนแอลงชั่วคราว</FoodPoisonChance.description>
   <!-- EN: food poison chance (chance to poison a meal) -->
-  <FoodPoisonChance.labelForFullStatList>TODO</FoodPoisonChance.labelForFullStatList>
+  <FoodPoisonChance.labelForFullStatList>โอกาสเป็นพิษจากอาหาร (โอกาสที่จะเป็นพิษต่ออาหาร)</FoodPoisonChance.labelForFullStatList>
   
   <!-- EN: general labor speed -->
   <GeneralLaborSpeed.label>ความเร็วในการทำงานทั่วไป</GeneralLaborSpeed.label>

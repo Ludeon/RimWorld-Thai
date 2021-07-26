@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: ate meal made from human meat -->
-  <AteHumanMeatAsIngredient.label>TODO</AteHumanMeatAsIngredient.label>
+  <AteHumanMeatAsIngredient.label>กินอาหารที่ทำจากเนื้อมนุษย์</AteHumanMeatAsIngredient.label>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeatDirect.label>TODO</AteHumanMeatDirect.label>
+  <AteHumanMeatDirect.label>กินเนื้อคน</AteHumanMeatDirect.label>
   
   <!-- EN: butchered human -->
-  <ButcheredHuman.label>TODO</ButcheredHuman.label>
+  <ButcheredHuman.label>มนุษย์ที่ถูกเชือด</ButcheredHuman.label>
   
 </LanguageData>

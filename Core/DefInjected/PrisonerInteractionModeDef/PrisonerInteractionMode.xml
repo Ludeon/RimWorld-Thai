@@ -4,26 +4,28 @@
   <!-- EN: recruit -->
   <AttemptRecruit.label>ชักชวน</AttemptRecruit.label>
   <!-- EN: Wardens will attempt to recruit the prisoner. If the prisoner still has resistance, wardens will speak to them to reduce it. -->
-  <AttemptRecruit.description>TODO</AttemptRecruit.description>
+  <AttemptRecruit.description>ผู้คุมจะพยายามหาตัวนักโทษ หากผู้ต้องขังยังคงมีการต่อต้าน ผู้คุมจะพูดกับพวกเขาเพื่อลดการต่อต้าน</AttemptRecruit.description>
   
   <!-- EN: execute -->
   <Execution.label>ประหาร</Execution.label>
   <!-- EN: A warden will execute the prisoner on the spot by cutting. This can affect the mood of other prisoners and colonists. -->
-  <Execution.description>TODO</Execution.description>
+  <Execution.description>ผู้คุมจะประหารนักโทษทันทีโดยการตัด ซึ่งอาจส่งผลต่ออารมณ์ของผู้ต้องขังและชาวอาณานิคมคนอื่นๆ</Execution.description>
   
   <!-- EN: no interaction -->
   <NoInteraction.label>ไม่มีปฏิสัมพันธ์</NoInteraction.label>
   <!-- EN: Wardens will not interact with the prisoner. -->
-  <NoInteraction.description>TODO</NoInteraction.description>
+  <NoInteraction.description>ผู้คุมจะไม่โต้ตอบกับนักโทษ</NoInteraction.description>
   
   <!-- EN: reduce resistance -->
   <ReduceResistance.label>ลดแรงต้าน</ReduceResistance.label>
   <!-- EN: If the prisoner still has resistance, wardens will speak to them to reduce it. No recruit attempts will be made. -->
-  <ReduceResistance.description>TODO</ReduceResistance.description>
+  <ReduceResistance.description>หากผู้ต้องขังยังคงมีการต่อต้าน ผู้คุมจะพูดกับพวกเขาเพื่อลดการต่อต้าน ไม่มีการพยายามสรรหาบุคลากร</ReduceResistance.description>
   
   <!-- EN: release -->
   <Release.label>ปล่อยตัว</Release.label>
   <!-- EN: A warden will release the prisoner. -->
-  <Release.description>TODO</Release.description>
+  <Release.description>35 / 5000
+ผลลัพธ์การแปล
+ผู้คุมจะปล่อยตัวนักโทษ </Release.description>
   
 </LanguageData>

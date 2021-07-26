@@ -37,9 +37,9 @@
   <EdgeWalkInGroups.textWillArrive>TODO</EdgeWalkInGroups.textWillArrive>
   
   <!-- EN: A cluster of {0} have landed in drop pods nearby. -->
-  <MechClusterDrop.textEnemy>TODO</MechClusterDrop.textEnemy>
+  <MechClusterDrop.textEnemy>กลุ่มของ {0} ได้ลงจอดในดรอปพ็อดในบริเวณใกล้เคียง</MechClusterDrop.textEnemy>
   <!-- EN: The mech cluster will arrive in drop pods. -->
-  <MechClusterDrop.textWillArrive>TODO</MechClusterDrop.textWillArrive>
+  <MechClusterDrop.textWillArrive>เมคคลัสเตอร์จะมาถึงดรอปพ็อด</MechClusterDrop.textWillArrive>
   
   <!-- EN: A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
   <RandomDrop.textEnemy>กลุ่ม{0}จาก {1} มาถึงด้วยกระสวยขนส่ง แต่กระสวยพวกเขาคุมไม่อยู่ กระจัดกระจายลงจอดไปทั่วบริเวณ!</RandomDrop.textEnemy>

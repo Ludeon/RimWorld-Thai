@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: attended concert -->
-  <AttendedConcert.stages.attended_concert.label>TODO</AttendedConcert.stages.attended_concert.label>
+  <AttendedConcert.stages.attended_concert.label>เข้าร่วมคอนเสิร์ต</AttendedConcert.stages.attended_concert.label>
   <!-- EN: I enjoyed listening to that performance. -->
-  <AttendedConcert.stages.attended_concert.description>TODO</AttendedConcert.stages.attended_concert.description>
+  <AttendedConcert.stages.attended_concert.description>ฉันสนุกกับการฟังการแสดงนั้น</AttendedConcert.stages.attended_concert.description>
   
   <!-- EN: attended party -->
   <AttendedParty.stages.attended_party.label>เข้าร่วมงานสังสรรค์</AttendedParty.stages.attended_party.label>
@@ -17,9 +17,9 @@
   <AttendedWedding.stages.attended_wedding.description>เป็นการดีที่ได้เห็นคนสองคนมารวมตัวกันเพื่อสร้างอนาคตแบบนี้</AttendedWedding.stages.attended_wedding.description>
   
   <!-- EN: encouraging speech -->
-  <EncouragingSpeech.stages.encouraging_speech.label>TODO</EncouragingSpeech.stages.encouraging_speech.label>
+  <EncouragingSpeech.stages.encouraging_speech.label>คำพูดให้กำลังใจ</EncouragingSpeech.stages.encouraging_speech.label>
   <!-- EN: That speech made me feel like we have a solid path forward. -->
-  <EncouragingSpeech.stages.encouraging_speech.description>TODO</EncouragingSpeech.stages.encouraging_speech.description>
+  <EncouragingSpeech.stages.encouraging_speech.description>คำพูดนั้นทำให้ฉันรู้สึกว่าเรามีเส้นทางที่มั่นคงไปข้างหน้า</EncouragingSpeech.stages.encouraging_speech.description>
   
   <!-- EN: got married to {0} -->
   <GotMarried.stages.got_married_to.label>ได้แต่งงานกับ {0}</GotMarried.stages.got_married_to.label>
@@ -27,23 +27,23 @@
   <GotMarried.stages.got_married_to.description>ฉันแต่งงานแล้ว! ชีวิตเต็มไปด้วยความเป็นไปได้!</GotMarried.stages.got_married_to.description>
   
   <!-- EN: held concert -->
-  <HeldConcert.stages.held_concert.label>TODO</HeldConcert.stages.held_concert.label>
+  <HeldConcert.stages.held_concert.label>จัดคอนเสิร์ต</HeldConcert.stages.held_concert.label>
   <!-- EN: They loved me. They really loved me. -->
-  <HeldConcert.stages.held_concert.description>TODO</HeldConcert.stages.held_concert.description>
+  <HeldConcert.stages.held_concert.description>พวกเขารักฉัน พวกเขารักฉันจริงๆ</HeldConcert.stages.held_concert.description>
   
   <!-- EN: inspirational speech -->
-  <InspirationalSpeech.stages.inspirational_speech.label>TODO</InspirationalSpeech.stages.inspirational_speech.label>
+  <InspirationalSpeech.stages.inspirational_speech.label>คำพูดสร้างแรงบันดาลใจ</InspirationalSpeech.stages.inspirational_speech.label>
   <!-- EN: That speech was moving emotionally and intellectually. I am filled with purpose. -->
-  <InspirationalSpeech.stages.inspirational_speech.description>TODO</InspirationalSpeech.stages.inspirational_speech.description>
+  <InspirationalSpeech.stages.inspirational_speech.description>คำพูดนั้นเคลื่อนไหวทางอารมณ์และสติปัญญา ฉันเต็มไปด้วยจุดมุ่งหมาย</InspirationalSpeech.stages.inspirational_speech.description>
   
   <!-- EN: terrible speech -->
-  <TerribleSpeech.stages.terrible_speech.label>TODO</TerribleSpeech.stages.terrible_speech.label>
+  <TerribleSpeech.stages.terrible_speech.label>คำพูดที่น่ากลัว</TerribleSpeech.stages.terrible_speech.label>
   <!-- EN: That speech was atrocious. It made me realize how little hope we really have. -->
-  <TerribleSpeech.stages.terrible_speech.description>TODO</TerribleSpeech.stages.terrible_speech.description>
+  <TerribleSpeech.stages.terrible_speech.description>คำพูดนั้นช่างโหดร้าย มันทำให้ฉันรู้ว่าเรามีความหวังเพียงเล็กน้อย</TerribleSpeech.stages.terrible_speech.description>
   
   <!-- EN: uninspiring speech -->
-  <UninspiringSpeech.stages.uninspiring_speech.label>TODO</UninspiringSpeech.stages.uninspiring_speech.label>
+  <UninspiringSpeech.stages.uninspiring_speech.label>คำพูดที่ไม่น่าสนใจ</UninspiringSpeech.stages.uninspiring_speech.label>
   <!-- EN: That speech was more awkward than inspiring. If that's who we're listening to, I'm worried. -->
-  <UninspiringSpeech.stages.uninspiring_speech.description>TODO</UninspiringSpeech.stages.uninspiring_speech.description>
+  <UninspiringSpeech.stages.uninspiring_speech.description>คำพูดนั้นน่าอึดอัดใจมากกว่าการสร้างแรงบันดาลใจ ถ้านั่นคือสิ่งที่เรากำลังฟังอยู่ ฉันเป็นห่วง</UninspiringSpeech.stages.uninspiring_speech.description>
   
 </LanguageData>

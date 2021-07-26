@@ -10,9 +10,9 @@
   <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
   <Ascetic.stages.ascetic_has_dull_bedroom.description>ห้องนอนของฉันนอบน้อมและเรียบง่าย ฉันชอบมัน.</Ascetic.stages.ascetic_has_dull_bedroom.description>
   <!-- EN: ascetic has mediocre bedroom -->
-  <Ascetic.stages.ascetic_has_mediocre_bedroom.label>TODO</Ascetic.stages.ascetic_has_mediocre_bedroom.label>
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.label>ห้องนอนปานกลาง</Ascetic.stages.ascetic_has_mediocre_bedroom.label>
   <!-- EN: My bedroom is very humble and simple. I like it. -->
-  <Ascetic.stages.ascetic_has_mediocre_bedroom.description>TODO</Ascetic.stages.ascetic_has_mediocre_bedroom.description>
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.description>ห้องนอนของฉันเรียบง่ายและเรียบง่าย ฉันชอบมัน.</Ascetic.stages.ascetic_has_mediocre_bedroom.description>
   <!-- EN: ascetic has impressive bedroom -->
   <Ascetic.stages.ascetic_has_impressive_bedroom-0.label>ห้องนอนที่น่าประทับใจ</Ascetic.stages.ascetic_has_impressive_bedroom-0.label>
   <!-- EN: I don't like having an impressive bedroom. -->
@@ -115,25 +115,25 @@
   <!-- EN: This artificial part is cool. I want more. -->
   <ProsthophileHappy.stages.body_modder_pleased.description>ฉันเป็นผลิตภัณฑ์ของเทคโนโลยีที่ทันสมัย! ฉันสามารถทำทุกอย่างได้ดีขึ้น!</ProsthophileHappy.stages.body_modder_pleased.description>
   <!-- EN: body modder quite pleased -->
-  <ProsthophileHappy.stages.body_modder_quite_pleased.label>TODO</ProsthophileHappy.stages.body_modder_quite_pleased.label>
+  <ProsthophileHappy.stages.body_modder_quite_pleased.label>มีไบโอนิคค่อนข้างพอใจ</ProsthophileHappy.stages.body_modder_quite_pleased.label>
   <!-- EN: Two artificial parts are better than one. I wish I had more. -->
-  <ProsthophileHappy.stages.body_modder_quite_pleased.description>TODO</ProsthophileHappy.stages.body_modder_quite_pleased.description>
+  <ProsthophileHappy.stages.body_modder_quite_pleased.description>ชิ้นส่วนเทียมสองชิ้นดีกว่าชิ้นเดียว ฉันหวังว่าฉันจะมีมากขึ้น</ProsthophileHappy.stages.body_modder_quite_pleased.description>
   <!-- EN: body modder delighted -->
-  <ProsthophileHappy.stages.body_modder_delighted.label>TODO</ProsthophileHappy.stages.body_modder_delighted.label>
+  <ProsthophileHappy.stages.body_modder_delighted.label>มีไบโอนิคที่น่าดีใจ</ProsthophileHappy.stages.body_modder_delighted.label>
   <!-- EN: Three artificial parts, and my weak human flesh is receding. But I still want more machine power. -->
-  <ProsthophileHappy.stages.body_modder_delighted.description>TODO</ProsthophileHappy.stages.body_modder_delighted.description>
+  <ProsthophileHappy.stages.body_modder_delighted.description>สามชิ้นส่วนเทียมและเนื้อมนุษย์ที่อ่อนแอของฉันกำลังถอยห่างออกไป แต่ฉันยังต้องการกำลังของเครื่องจักรมากกว่านี้</ProsthophileHappy.stages.body_modder_delighted.description>
   <!-- EN: body modder enchanted -->
-  <ProsthophileHappy.stages.body_modder_enchanted.label>TODO</ProsthophileHappy.stages.body_modder_enchanted.label>
+  <ProsthophileHappy.stages.body_modder_enchanted.label>>มีไบโอนิคที่น่าหลงเสน่ห์</ProsthophileHappy.stages.body_modder_enchanted.label>
   <!-- EN: Four artificial body parts and I am becoming more than human. But there's still some flesh that needs replacing. -->
-  <ProsthophileHappy.stages.body_modder_enchanted.description>TODO</ProsthophileHappy.stages.body_modder_enchanted.description>
+  <ProsthophileHappy.stages.body_modder_enchanted.description>สี่ส่วนของร่างกายเทียมและฉันกลายเป็นมากกว่ามนุษย์ แต่ยังมีเนื้อบางส่วนที่ต้องเปลี่ยน</ProsthophileHappy.stages.body_modder_enchanted.description>
   <!-- EN: body modder overjoyed -->
-  <ProsthophileHappy.stages.body_modder_overjoyed.label>TODO</ProsthophileHappy.stages.body_modder_overjoyed.label>
+  <ProsthophileHappy.stages.body_modder_overjoyed.label>มีไบโอนิคที่น่าดีใจมาก</ProsthophileHappy.stages.body_modder_overjoyed.label>
   <!-- EN: Five artificial body parts! How could an enhanced being like me ever feel sad? -->
-  <ProsthophileHappy.stages.body_modder_overjoyed.description>TODO</ProsthophileHappy.stages.body_modder_overjoyed.description>
+  <ProsthophileHappy.stages.body_modder_overjoyed.description>5 อวัยวะเทียม! ความเป็นอยู่อย่างฉันที่เจริญแล้วจะรู้สึกเศร้าได้อย่างไร</ProsthophileHappy.stages.body_modder_overjoyed.description>
   <!-- EN: machine body is complete -->
-  <ProsthophileHappy.stages.machine_body_is_complete.label>TODO</ProsthophileHappy.stages.machine_body_is_complete.label>
+  <ProsthophileHappy.stages.machine_body_is_complete.label>มีไบโอนิคที่เสร็จสมบูรณ์</ProsthophileHappy.stages.machine_body_is_complete.label>
   <!-- EN: I asked for this. -->
-  <ProsthophileHappy.stages.machine_body_is_complete.description>TODO</ProsthophileHappy.stages.machine_body_is_complete.description>
+  <ProsthophileHappy.stages.machine_body_is_complete.description>ฉันขอสิ่งนี้</ProsthophileHappy.stages.machine_body_is_complete.description>
     
   <!-- EN: body modder frustrated -->
   <ProsthophileNoProsthetic.stages.body_modder_frustrated.label>ไบโอนิคส่วนหนึ่งของร่างกายหาย</ProsthophileNoProsthetic.stages.body_modder_frustrated.label>
@@ -145,25 +145,25 @@
   <!-- EN: I hate having this unnatural thing attached to me. It feels so filthy! -->
   <ProsthophobeUnhappy.stages.body_purist_squeamish.description>พวกเขาทำให้ฉันกลายเป็นสิ่งที่น่ารังเกียจทางเทคโนโลยี ... ถ้าพวกเขาให้ฉันเลือก ...</ProsthophobeUnhappy.stages.body_purist_squeamish.description>
   <!-- EN: body purist disgusted -->
-  <ProsthophobeUnhappy.stages.body_purist_disgusted.label>TODO</ProsthophobeUnhappy.stages.body_purist_disgusted.label>
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.label>มีไบโอนิคที่รังเกียจ</ProsthophobeUnhappy.stages.body_purist_disgusted.label>
   <!-- EN: Two artificial parts are sullying my natural, pure body. It makes me sick to think of it. -->
-  <ProsthophobeUnhappy.stages.body_purist_disgusted.description>TODO</ProsthophobeUnhappy.stages.body_purist_disgusted.description>
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.description>ชิ้นส่วนเทียมสองชิ้นกำลังทำร้ายร่างกายตามธรรมชาติและบริสุทธิ์ของฉัน มันทำให้ฉันป่วยที่จะคิด</ProsthophobeUnhappy.stages.body_purist_disgusted.description>
   <!-- EN: body purist violated -->
-  <ProsthophobeUnhappy.stages.body_purist_violated.label>TODO</ProsthophobeUnhappy.stages.body_purist_violated.label>
+  <ProsthophobeUnhappy.stages.body_purist_violated.label>มีไบโอนิคที่ละเมิด</ProsthophobeUnhappy.stages.body_purist_violated.label>
   <!-- EN: Three artificial parts violate my body's pure flesh. I shudder when I think of it... and these objects shudder with me. -->
-  <ProsthophobeUnhappy.stages.body_purist_violated.description>TODO</ProsthophobeUnhappy.stages.body_purist_violated.description>
+  <ProsthophobeUnhappy.stages.body_purist_violated.description>สามส่วนเทียมละเมิดร่างกายบริสุทธิ์ของร่างกายของฉัน ฉันตัวสั่นเมื่อคิดถึงมัน... และวัตถุเหล่านี้ก็สั่นไปด้วย</ProsthophobeUnhappy.stages.body_purist_violated.description>
   <!-- EN: body purist horrified -->
-  <ProsthophobeUnhappy.stages.body_purist_horrified.label>TODO</ProsthophobeUnhappy.stages.body_purist_horrified.label>
+  <ProsthophobeUnhappy.stages.body_purist_horrified.label>มีไบโอนิคที่ทำให้น่ากลัว</ProsthophobeUnhappy.stages.body_purist_horrified.label>
   <!-- EN: I have four artificial body parts; it's like I'm becoming a robot. What a horrifying sensation. -->
-  <ProsthophobeUnhappy.stages.body_purist_horrified.description>TODO</ProsthophobeUnhappy.stages.body_purist_horrified.description>
+  <ProsthophobeUnhappy.stages.body_purist_horrified.description>ฉันมีอวัยวะเทียมสี่ส่วน มันเหมือนกับว่าฉันกลายเป็นหุ่นยนต์ สิ่งที่เป็นความรู้สึกที่น่ากลัว</ProsthophobeUnhappy.stages.body_purist_horrified.description>
   <!-- EN: body purist nightmare -->
-  <ProsthophobeUnhappy.stages.body_purist_nightmare.label>TODO</ProsthophobeUnhappy.stages.body_purist_nightmare.label>
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.label>มีไบโอนิคฝันร้าย</ProsthophobeUnhappy.stages.body_purist_nightmare.label>
   <!-- EN: Five artificial body parts... Is there anything left of me? Or am I just a robot that thinks it's human? -->
-  <ProsthophobeUnhappy.stages.body_purist_nightmare.description>TODO</ProsthophobeUnhappy.stages.body_purist_nightmare.description>
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.description>อวัยวะเทียมห้าส่วน... ฉันยังเหลืออะไรอีกไหม? หรือฉันเป็นแค่หุ่นยนต์ที่คิดว่าเป็นมนุษย์?</ProsthophobeUnhappy.stages.body_purist_nightmare.description>
   <!-- EN: I have become what I hate -->
-  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>TODO</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>
+  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>ฉันกลายเป็นสิ่งที่ฉันเกลียด</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>
   <!-- EN: I asked for the exact opposite of this! -->
-  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>TODO</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>
+  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>ฉันขอสิ่งที่ตรงกันข้ามกับสิ่งนี้!</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>
   
   <!-- EN: pyromaniac has incendiary weapon -->
   <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>คนชอบไฟ มีอาวุธก่อความไม่สงบ</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>
@@ -171,18 +171,18 @@
   <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>ทำให้ฉันนึกถึงเปลวไฟและไฟ ฉันมีความสุขมาก.</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>
   
   <!-- EN: undergrounder indoors -->
-  <UndergrounderIndoors.stages.undergrounder_indoors.label>TODO</UndergrounderIndoors.stages.undergrounder_indoors.label>
+  <UndergrounderIndoors.stages.undergrounder_indoors.label>ใต้ดินในร่ม</UndergrounderIndoors.stages.undergrounder_indoors.label>
   <!-- EN: I like working or simply being indoors. -->
-  <UndergrounderIndoors.stages.undergrounder_indoors.description>TODO</UndergrounderIndoors.stages.undergrounder_indoors.description>
+  <UndergrounderIndoors.stages.undergrounder_indoors.description>ฉันชอบทำงานหรือแค่อยู่แต่ในบ้าน</UndergrounderIndoors.stages.undergrounder_indoors.description>
   
   <!-- EN: undergrounder outdoors -->
-  <UndergrounderOutdoors.stages.undergrounder_outdoors.label>TODO</UndergrounderOutdoors.stages.undergrounder_outdoors.label>
+  <UndergrounderOutdoors.stages.undergrounder_outdoors.label>ใต้ดินกลางแจ้ง</UndergrounderOutdoors.stages.undergrounder_outdoors.label>
   <!-- EN: I don't like being outside. I want to get back to the underground. -->
-  <UndergrounderOutdoors.stages.undergrounder_outdoors.description>TODO</UndergrounderOutdoors.stages.undergrounder_outdoors.description>
+  <UndergrounderOutdoors.stages.undergrounder_outdoors.description>ฉันไม่ชอบอยู่กลางแจ้ง อยากกลับไปใต้ดิน</UndergrounderOutdoors.stages.undergrounder_outdoors.description>
   
   <!-- EN: underground -->
-  <UndergrounderUnderground.stages.underground.label>TODO</UndergrounderUnderground.stages.underground.label>
+  <UndergrounderUnderground.stages.underground.label>ใต้ดิน</UndergrounderUnderground.stages.underground.label>
   <!-- EN: I love working or simply being in the underground. -->
-  <UndergrounderUnderground.stages.underground.description>TODO</UndergrounderUnderground.stages.underground.description>
+  <UndergrounderUnderground.stages.underground.description>ฉันชอบทำงานหรือแค่อยู่ใต้ดิน</UndergrounderUnderground.stages.underground.description>
   
 </LanguageData>

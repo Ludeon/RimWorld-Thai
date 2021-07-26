@@ -16,10 +16,10 @@
   <ButcherCorpseMechanoid.jobString>กำลังแยกชิ้นเมคานอยด์</ButcherCorpseMechanoid.jobString>
   
   <!-- EN: smash mechanoid -->
-  <SmashCorpseMechanoid.label>TODO</SmashCorpseMechanoid.label>
+  <SmashCorpseMechanoid.label>ทุบเมคานอยด์</SmashCorpseMechanoid.label>
   <!-- EN: Smash a dead mechanoid with simple hand tools to salvage usable material. -->
-  <SmashCorpseMechanoid.description>TODO</SmashCorpseMechanoid.description>
+  <SmashCorpseMechanoid.description>ทุบเมคานอยด์ที่ตายแล้วด้วยเครื่องมือง่ายๆ เพื่อกอบกู้วัสดุที่ใช้งานได้</SmashCorpseMechanoid.description>
   <!-- EN: Smashing mechanoid. -->
-  <SmashCorpseMechanoid.jobString>TODO</SmashCorpseMechanoid.jobString>
+  <SmashCorpseMechanoid.jobString>กำลังทุบเมคานอยด์</SmashCorpseMechanoid.jobString>
   
 </LanguageData>

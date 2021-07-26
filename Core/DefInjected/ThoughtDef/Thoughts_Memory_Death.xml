@@ -41,9 +41,9 @@
   <!-- EN: A prisoner or guest was killed in cold blood. It seemed a bit evil. -->
   <KnowGuestExecuted.stages.someone_was_executed.description>นักโทษหรือแขกตายเพราะอาณานิคมนำอวัยวะของเขาออกไป มันเลวร้ายมาก</KnowGuestExecuted.stages.someone_was_executed.description>
   <!-- EN: someone was organ-murdered -->
-  <KnowGuestExecuted.stages.someone_was_organmurdered.label>TODO</KnowGuestExecuted.stages.someone_was_organmurdered.label>
+  <KnowGuestExecuted.stages.someone_was_organmurdered.label>มีคนถูกลอบสังหาร</KnowGuestExecuted.stages.someone_was_organmurdered.label>
   <!-- EN: A prisoner or guest died because the colony took body parts from him. It's horrible. -->
-  <KnowGuestExecuted.stages.someone_was_organmurdered.description>TODO</KnowGuestExecuted.stages.someone_was_organmurdered.description>
+  <KnowGuestExecuted.stages.someone_was_organmurdered.description>นักโทษหรือแขกเสียชีวิตเพราะอาณานิคมเอาส่วนต่างๆ ของร่างกายไปจากเขา มันน่ากลัว</KnowGuestExecuted.stages.someone_was_organmurdered.description>
   
   <!-- EN: innocent prisoner died -->
   <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>นักโทษผู้บริสุทธิ์เสียชีวิต</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>

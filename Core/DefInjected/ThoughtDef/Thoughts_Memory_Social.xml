@@ -91,7 +91,7 @@
   <IRejectedTheirProposal.stages.I_rejected_their_proposal.label>ผมปฏิเสธข้อเสนอของเธอ</IRejectedTheirProposal.stages.I_rejected_their_proposal.label>
   
   <!-- EN: killed my bonded animal -->
-  <KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>TODO</KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>
+  <KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>ฆ่าสัตว์ที่ถูกเลี้ยงของฉัน</KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>
   
   <!-- EN: killed my brother -->
   <KilledMyBrother.stages.killed_my_brother.label>ฆ่าพี่ชายของฉัน</KilledMyBrother.stages.killed_my_brother.label>
@@ -164,9 +164,9 @@
   <RescuedMe.stages.rescued_me.label>ช่วยเหลือฉัน</RescuedMe.stages.rescued_me.label>
   
   <!-- EN: rescued me -->
-  <RescuedMeByOfferingHelp.stages.rescued_me.label>TODO</RescuedMeByOfferingHelp.stages.rescued_me.label>
+  <RescuedMeByOfferingHelp.stages.rescued_me.label>ช่วยฉัน</RescuedMeByOfferingHelp.stages.rescued_me.label>
   <!-- EN: I was rescued by someone! I almost thought I was done for back there. I'm so thankful. -->
-  <RescuedMeByOfferingHelp.stages.rescued_me.description>TODO</RescuedMeByOfferingHelp.stages.rescued_me.description>
+  <RescuedMeByOfferingHelp.stages.rescued_me.description>ฉันถูกช่วยชีวิตโดยใครบางคน! ฉันเกือบจะคิดว่าฉันทำเสร็จแล้วเพื่อกลับไปที่นั่น ฉันรู้สึกขอบคุณมาก</RescuedMeByOfferingHelp.stages.rescued_me.description>
   
   <!-- EN: slighted -->
   <Slighted.stages.slighted.label>ดูหมิ่น</Slighted.stages.slighted.label>

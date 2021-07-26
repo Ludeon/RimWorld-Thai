@@ -22,14 +22,14 @@
   <ConstructSuccessChance.description>โอกาศที่บุคคลนี้จะทำสำเร็จเมื่อก่อสร้างสิ่งใดๆ ความผิดพลาดหมายถึงเสียเวลาและทรัพยากร</ConstructSuccessChance.description>
   
   <!-- EN: deep drilling speed -->
-  <DeepDrillingSpeed.label>TODO</DeepDrillingSpeed.label>
+  <DeepDrillingSpeed.label>ความเร็วในการเจาะลึก</DeepDrillingSpeed.label>
   <!-- EN: A speed at which this person uses a deep drill to extract underground resources. -->
-  <DeepDrillingSpeed.description>TODO</DeepDrillingSpeed.description>
+  <DeepDrillingSpeed.description>ความเร็วที่บุคคลนี้ใช้สว่านเจาะลึกเพื่อดึงทรัพยากรใต้ดิน</DeepDrillingSpeed.description>
   
   <!-- EN: drug crop harvest yield -->
-  <DrugHarvestYield.label>TODO</DrugHarvestYield.label>
+  <DrugHarvestYield.label>ผลผลิตการเก็บเกี่ยวพืชผล</DrugHarvestYield.label>
   <!-- EN: The yield this person gets when harvesting drug crops.\n\nLow yields give a chance that this person will accidentally waste the harvest. High yields increase the yield from each plant. -->
-  <DrugHarvestYield.description>TODO</DrugHarvestYield.description>
+  <DrugHarvestYield.description>ผลผลิตที่บุคคลนี้ได้รับเมื่อเก็บเกี่ยวพืชผลยา\และ\bผลผลิตต่ำทำให้มีโอกาสที่บุคคลนี้จะเสียการเก็บเกี่ยวโดยไม่ได้ตั้งใจ ผลผลิตสูงจะเพิ่มผลผลิตจากพืชแต่ละต้น</DrugHarvestYield.description>
   
   <!-- EN: repair success chance -->
   <FixBrokenDownBuildingSuccessChance.label>โอกาสสำเร็จในการซ่อมแซม</FixBrokenDownBuildingSuccessChance.label>

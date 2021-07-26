@@ -7,9 +7,9 @@
   <AteWithoutTable.stages.ate_without_table.description>ฉันต้องกินบนพื้น เราไม่สามารถหาโต๊ะมาไว้แถวนี้ได้หรอ?</AteWithoutTable.stages.ate_without_table.description>
   
   <!-- EN: bonded animal {0} banished -->
-  <BondedAnimalBanished.stages.bonded_animal_banished.label>TODO</BondedAnimalBanished.stages.bonded_animal_banished.label>
+  <BondedAnimalBanished.stages.bonded_animal_banished.label>สัตว์ที่ถูกเลี้ยงดู {0} ถูกเนรเทศ</BondedAnimalBanished.stages.bonded_animal_banished.label>
   <!-- EN: My bonded animal was banished! -->
-  <BondedAnimalBanished.stages.bonded_animal_banished.description>TODO</BondedAnimalBanished.stages.bonded_animal_banished.description>
+  <BondedAnimalBanished.stages.bonded_animal_banished.description>สัตว์ที่ถูกเลี้ยงดูของฉันถูกเนรเทศ!</BondedAnimalBanished.stages.bonded_animal_banished.description>
   
   <!-- EN: I butchered humanlike -->
   <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>ฉันฆ่ามนุษย์</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
@@ -17,7 +17,7 @@
   <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>ฉันได้ฆ่าคน ราวกับว่ามันเป็นสัตว์</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
   
   <!-- EN: butchered humanlike corpse -->
-  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>TODO</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
+  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>ฆ่าศพเหมือนมนุษย์</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
   
   <!-- EN: catharsis -->
   <Catharsis.stages.catharsis.label>ปลดปล่อยอารมณ์</Catharsis.stages.catharsis.label>
@@ -25,14 +25,14 @@
   <Catharsis.stages.catharsis.description>รู้สึกดีที่ได้ปลดปล่อยความรู้สึกของฉันในที่สุด</Catharsis.stages.catharsis.description>
   
   <!-- EN: colonist banished -->
-  <ColonistBanished.stages.colonist_banished.label>TODO</ColonistBanished.stages.colonist_banished.label>
+  <ColonistBanished.stages.colonist_banished.label>อาณานิคมถูกเนรเทศ</ColonistBanished.stages.colonist_banished.label>
   <!-- EN: We just banished someone. I hope they'll make it, but I'm worried. -->
-  <ColonistBanished.stages.colonist_banished.description>TODO</ColonistBanished.stages.colonist_banished.description>
+  <ColonistBanished.stages.colonist_banished.description>เราเพิ่งขับไล่ใครบางคน ฉันหวังว่าพวกเขาจะทำได้ แต่ฉันกังวล</ColonistBanished.stages.colonist_banished.description>
   
   <!-- EN: colonist banished to death -->
-  <ColonistBanishedToDie.stages.colonist_banished_to_death.label>TODO</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.label>ชาวอาณานิคมถูกเนรเทศจนตาย</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
   <!-- EN: We banished someone in such a way that there's almost no way they'll survive. -->
-  <ColonistBanishedToDie.stages.colonist_banished_to_death.description>TODO</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.description>ราขับไล่ใครซักคนจนแทบไม่มีทางรอด</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
   
   <!-- EN: defeated hostile leader {0} -->
   <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>{0} ผู้นำศัตรูพ่ายแพ้</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
@@ -40,7 +40,7 @@
   <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>พวกเขากำลังพยายามที่จะทำลายพวกเราและฉันก็เอาพวกมันลง!</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>
   
   <!-- EN: defeated hostile leader -->
-  <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>TODO</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
+  <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>ผู้นำศัตรูพ่ายแพ้</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
   
   <!-- EN: defeated mech cluster -->
   <DefeatedMechCluster.stages.defeated_mech_cluster.label>TODO</DefeatedMechCluster.stages.defeated_mech_cluster.label>
@@ -48,9 +48,9 @@
   <DefeatedMechCluster.stages.defeated_mech_cluster.description>TODO</DefeatedMechCluster.stages.defeated_mech_cluster.description>
   
   <!-- EN: denied joining -->
-  <DeniedJoining.stages.denied_joining.label>TODO</DeniedJoining.stages.denied_joining.label>
+  <DeniedJoining.stages.denied_joining.label>ปฏิเสธการเข้าร่วม</DeniedJoining.stages.denied_joining.label>
   <!-- EN: We just denied someone's request to join us. I hope they make it. -->
-  <DeniedJoining.stages.denied_joining.description>TODO</DeniedJoining.stages.denied_joining.description>
+  <DeniedJoining.stages.denied_joining.description>เราเพิ่งปฏิเสธคำขอของใครบางคนที่จะเข้าร่วมกับเรา ฉันหวังว่าพวกเขาจะทำได้</DeniedJoining.stages.denied_joining.description>
   
   <!-- EN: failed to rescue {0} -->
   <FailedToRescueRelative.stages.failed_to_rescue.label>{0} ไม่สามารถช่วยเหลือได้</FailedToRescueRelative.stages.failed_to_rescue.label>
@@ -58,14 +58,14 @@
   <FailedToRescueRelative.stages.failed_to_rescue.description>เราไม่สามารถช่วยคนในครอบครัวของฉันได้ การที่เราสามารถช่วยเขาได้แต่ ทำไม่สำเหร็จทำให้ฉันเสียใจอย่างมาก กับการเสียคนที่รักไป </FailedToRescueRelative.stages.failed_to_rescue.description>
   
   <!-- EN: freed from slavery -->
-  <FreedFromSlavery.stages.freed_from_slavery.label>TODO</FreedFromSlavery.stages.freed_from_slavery.label>
+  <FreedFromSlavery.stages.freed_from_slavery.label>พ้นจากการเป็นทาส</FreedFromSlavery.stages.freed_from_slavery.label>
   <!-- EN: I have been freed from slavery. I'm so thankful! -->
-  <FreedFromSlavery.stages.freed_from_slavery.description>TODO</FreedFromSlavery.stages.freed_from_slavery.description>
+  <FreedFromSlavery.stages.freed_from_slavery.description>ฉันได้รับการปลดปล่อยจากการเป็นทาส ฉันรู้สึกขอบคุณมาก!</FreedFromSlavery.stages.freed_from_slavery.description>
   
   <!-- EN: bloodlust organ harvested -->
-  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>TODO</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>เก็บเกี่ยวอวัยวะกระหายเลือด</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>
   <!-- EN: Extracting the flesh from their bodies is so bloody and satisfying. -->
-  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>TODO</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>การดึงเนื้อออกจากร่างกายนั้นเต็มไปด้วยเลือดและน่าพอใจ</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>
   
   <!-- EN: killed someone -->
   <KilledHumanlikeBloodlust.stages.killed_someone.label>ฆ่าใครบางคน</KilledHumanlikeBloodlust.stages.killed_someone.label>
@@ -128,24 +128,24 @@
   <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>ฉันเห็นซากศพที่เน่าเปื่อยวางอยู่บนพื้น มันน่าขยะแขยง...</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
   
   <!-- EN: on duty -->
-  <OnDuty.stages.on_duty.label>TODO</OnDuty.stages.on_duty.label>
+  <OnDuty.stages.on_duty.label>กำลังปฏิบัติหน้าที่</OnDuty.stages.on_duty.label>
   <!-- EN: I have a job to do. -->
-  <OnDuty.stages.on_duty.description>TODO</OnDuty.stages.on_duty.description>
+  <OnDuty.stages.on_duty.description>ฉันมีงานต้องทำ</OnDuty.stages.on_duty.description>
   
   <!-- EN: prisoner banished to death -->
-  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>TODO</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>นักโทษถูกเนรเทศจนตาย</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
   <!-- EN: We banished a prisoner in such a way that there's almost no way they'll survive. -->
   <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>TODO</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
   
   <!-- EN: prisoner released -->
-  <ReleasedHealthyPrisoner.stages.prisoner_released.label>TODO</ReleasedHealthyPrisoner.stages.prisoner_released.label>
+  <ReleasedHealthyPrisoner.stages.prisoner_released.label>ปล่อยตัวนักโทษ</ReleasedHealthyPrisoner.stages.prisoner_released.label>
   <!-- EN: We released a healthy prisoner. It feels good to know we even treat prisoners well. -->
-  <ReleasedHealthyPrisoner.stages.prisoner_released.description>TODO</ReleasedHealthyPrisoner.stages.prisoner_released.description>
+  <ReleasedHealthyPrisoner.stages.prisoner_released.description>เราปล่อยนักโทษที่มีสุขภาพดี รู้สึกดีที่รู้ว่าเราปฏิบัติต่อผู้ต้องขังเป็นอย่างดี</ReleasedHealthyPrisoner.stages.prisoner_released.description>
   
   <!-- EN: rescued -->
-  <Rescued.stages.rescued.label>TODO</Rescued.stages.rescued.label>
+  <Rescued.stages.rescued.label>ช่วยชีวิต</Rescued.stages.rescued.label>
   <!-- EN: I was rescued! I almost thought I was done for back there. I'm so thankful. -->
-  <Rescued.stages.rescued.description>TODO</Rescued.stages.rescued.description>
+  <Rescued.stages.rescued.description>ฉันได้รับการช่วยเหลือ! ฉันเกือบจะคิดว่าฉันทำเสร็จแล้วเพื่อกลับไปที่นั่น ฉันรู้สึกขอบคุณมาก</Rescued.stages.rescued.description>
   
   <!-- EN: rescued {0} -->
   <RescuedRelative.stages.rescued.label>{0} ได้รับการช่วยเหลือ</RescuedRelative.stages.rescued.label>
@@ -173,7 +173,7 @@
   <SleptOnGround.stages.slept_on_ground.description>ฉันต้องนอนบนพื้นเหมือนกับสัตว์</SleptOnGround.stages.slept_on_ground.description>
   
   <!-- EN: slept outside -->
-  <SleptOutside.stages.slept_outside.label>นอนข้างนอก</SleptOutside.stages.slept_outside.label>
+  <SleptOutside.stages.slept_outside.label>นอนกลางแจ้ง</SleptOutside.stages.slept_outside.label>
   <!-- EN: I had to sleep outdoors without any protection from the elements. -->
   <SleptOutside.stages.slept_outside.description>ฉันต้องนอนกลางแจ้งโดยไม่มีอะไรป้องกันจากสิ่งต่างๆ</SleptOutside.stages.slept_outside.description>
   
@@ -198,9 +198,9 @@
   <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>ฉันเห็นคนตาย! ที่รุนแรง!</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>
   
   <!-- EN: witnessed family member's death -->
-  <WitnessedDeathFamily.stages.witnessed_family_members_death.label>TODO</WitnessedDeathFamily.stages.witnessed_family_members_death.label>
+  <WitnessedDeathFamily.stages.witnessed_family_members_death.label>พบเห็นการเสียชีวิตของสมาชิกในครอบครัว</WitnessedDeathFamily.stages.witnessed_family_members_death.label>
   <!-- EN: I saw a member of my family die. My own flesh and blood... -->
-  <WitnessedDeathFamily.stages.witnessed_family_members_death.description>TODO</WitnessedDeathFamily.stages.witnessed_family_members_death.description>
+  <WitnessedDeathFamily.stages.witnessed_family_members_death.description>ฉันเห็นสมาชิกในครอบครัวของฉันเสียชีวิต เนื้อและเลือดของข้าพเจ้าเอง..</WitnessedDeathFamily.stages.witnessed_family_members_death.description>
   
   <!-- EN: witnessed outsider's death -->
   <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>เห็นการตายของคนนอก</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>

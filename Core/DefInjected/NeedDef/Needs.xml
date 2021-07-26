@@ -12,9 +12,9 @@
   <Comfort.description>ได้รับจากการนั่งหรือนอนบนเฟอร์นิเจอร์นุ่มสบาย เมื่อนอนบนเตียงหรือนั่งเก้าอี้ ในระหว่างทำงาน หรือเวลาอื่นๆ</Comfort.description>
   
   <!-- EN: chemical -->
-  <DrugDesire.label>TODO</DrugDesire.label>
+  <DrugDesire.label>สารเคมี</DrugDesire.label>
   <!-- EN: Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood. -->
-  <DrugDesire.description>TODO</DrugDesire.description>
+  <DrugDesire.description>สารเคมีเป็นการแสดงออกถึงความปรารถนาที่จะกินยา เมื่ออยู่เหนือระดับหนึ่งก็จะทำให้เกิดอารมณ์ดี แต่เมื่ออยู่ต่ำกว่าระดับหนึ่งก็จะทำให้เกิดอารมณ์ไม่ดีเพิ่มขึ้น</DrugDesire.description>
   
   <!-- EN: food -->
   <Food.label>อาหาร</Food.label>
@@ -22,9 +22,9 @@
   <Food.description>บ่งบอกปริมาณสารอาหารที่บุคคลได้รับล่าสุด ถ้าค่าเป็นศูนย์ บุคคลจะเริ่ม ขาดสารอาหารและตายไปในที่สุด</Food.description>
   
   <!-- EN: indoors -->
-  <Indoors.label>TODO</Indoors.label>
+  <Indoors.label>ในร่ม</Indoors.label>
   <!-- EN: Indoors expresses the need to be within walls and under a roof. It is harmed by spending time in outdoor areas or not under roofs. To raise this need past 50%, a person must be under an overhead mountain, not just a normal roof. -->
-  <Indoors.description>TODO</Indoors.description>
+  <Indoors.description>ในร่มแสดงถึงความต้องการที่จะอยู่ภายในผนังและใต้หลังคา มันเสียหายจากการใช้เวลาอยู่ในพื้นที่กลางแจ้งหรือไม่อยู่ใต้หลังคา เพื่อเพิ่มความต้องการนี้เกิน 50% บุคคลต้องอยู่ใต้ภูเขาเหนือศีรษะ ไม่ใช่แค่หลังคาปกติ</Indoors.description>
   
   <!-- EN: recreation -->
   <Joy.label>ผ่อนคลาย</Joy.label>

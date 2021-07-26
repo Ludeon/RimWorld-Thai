@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN: allow biocoded apparel -->
-  <AllowBiocodedApparel.label>TODO</AllowBiocodedApparel.label>
+  <AllowBiocodedApparel.label>อนุญาตให้ใช้เครื่องนุ่งห่มชีวภาพ</AllowBiocodedApparel.label>
   
   <!-- EN: allow biocoded weapons -->
-  <AllowBiocodedWeapons.label>TODO</AllowBiocodedWeapons.label>
+  <AllowBiocodedWeapons.label>อนุญาตให้ใช้อาวุธชีวภาพ</AllowBiocodedWeapons.label>
   
   <!-- EN: allow burnable -->
-  <AllowBurnableApparel.label>TODO</AllowBurnableApparel.label>
+  <AllowBurnableApparel.label>อนุญาตให้เผาได้</AllowBurnableApparel.label>
   
   <!-- EN: allow burnable -->
-  <AllowBurnableWeapons.label>TODO</AllowBurnableWeapons.label>
+  <AllowBurnableWeapons.label>อนุญาตให้เผาได้</AllowBurnableWeapons.label>
   
   <!-- EN: allow colonist corpses -->
   <AllowCorpsesColonist.label>อนุญาตศพชาวนิคม</AllowCorpsesColonist.label>
@@ -29,9 +29,9 @@
   <AllowDeadmansApparel.description>อนุญาตให้เก็บ เสื้อผ้าใส่โดยศพ มนุษย์โดยทั่วไปมองว่าเสื้อผ้าที่มีมลทินจากศพนั้นน่ากังวลใจ และพ่อค้าก็ไม่ยอมรับซื้อมัน</AllowDeadmansApparel.description>
   
   <!-- EN: allow females -->
-  <AllowFemaleGender.label>TODO</AllowFemaleGender.label>
+  <AllowFemaleGender.label>อนุญาตให้ผู้หญิง</AllowFemaleGender.label>
   <!-- EN: Allow female individuals. -->
-  <AllowFemaleGender.description>TODO</AllowFemaleGender.description>
+  <AllowFemaleGender.description>อนุญาตให้บุคคลหญิง</AllowFemaleGender.description>
   
   <!-- EN: allow fresh -->
   <AllowFresh.label>อณุญาตของสด</AllowFresh.label>
@@ -39,21 +39,21 @@
   <AllowFresh.description>อนุญาตให้เก็บของตามธรรมชาติ ที่ยังไม่เริ่มเน่า</AllowFresh.description>
   
   <!-- EN: allow males -->
-  <AllowMaleGender.label>TODO</AllowMaleGender.label>
+  <AllowMaleGender.label>อนุญาตให้ผู้ชาย</AllowMaleGender.label>
   <!-- EN: Allow male individuals. -->
-  <AllowMaleGender.description>TODO</AllowMaleGender.description>
+  <AllowMaleGender.description>อนุญาตให้บุคคลชาย</AllowMaleGender.description>
   
   <!-- EN: allow non-biocoded apparel -->
-  <AllowNonBiocodedApparel.label>TODO</AllowNonBiocodedApparel.label>
+  <AllowNonBiocodedApparel.label>อนุญาตเครื่องแต่งกายที่ไม่มีรหัสชีวภาพ</AllowNonBiocodedApparel.label>
   
   <!-- EN: allow non-biocoded weapons -->
-  <AllowNonBiocodedWeapons.label>TODO</AllowNonBiocodedWeapons.label>
+  <AllowNonBiocodedWeapons.label>อนุญาตให้ใช้อาวุธที่ไม่มีรหัสชีวภาพ</AllowNonBiocodedWeapons.label>
   
   <!-- EN: allow non-burnable -->
-  <AllowNonBurnableApparel.label>TODO</AllowNonBurnableApparel.label>
+  <AllowNonBurnableApparel.label>อนุญาตให้ไม่สามารถเผาไหม้ได้</AllowNonBurnableApparel.label>
   
   <!-- EN: allow non-burnable -->
-  <AllowNonBurnableWeapons.label>TODO</AllowNonBurnableWeapons.label>
+  <AllowNonBurnableWeapons.label>อนุญาตให้ไม่สามารถเผาไหม้ได้</AllowNonBurnableWeapons.label>
   
   <!-- EN: allow clean apparel -->
   <AllowNonDeadmansApparel.label>อนุญาตเสื้อผ้าสะอาด</AllowNonDeadmansApparel.label>
@@ -61,7 +61,7 @@
   <AllowNonDeadmansApparel.description>อนุญาตให้เก็บ เสื้อผ้าไม่ใส่กับศพ มนุษย์โดยทั่วไปมองว่าเสื้อผ้าที่มีมลทินจากศพนั้นน่ากังวลใจ และพ่อค้าก็ไม่ยอมรับซื้อมัน</AllowNonDeadmansApparel.description>
   
   <!-- EN: allow non-smeltable -->
-  <AllowNonSmeltableApparel.label>TODO</AllowNonSmeltableApparel.label>
+  <AllowNonSmeltableApparel.label>อนุญาตให้ไม่สามารถหลอมได้</AllowNonSmeltableApparel.label>
   
   <!-- EN: allow non-smeltable -->
   <AllowNonSmeltableWeapons.label>อนุญาตอาวุธหลอมไม่ได้</AllowNonSmeltableWeapons.label>
@@ -82,6 +82,6 @@
   <AllowSmeltable.description>อนุญาตให้เก็บอาวุธ ที่ใช้หลอมได้</AllowSmeltable.description>
   
   <!-- EN: allow smeltable -->
-  <AllowSmeltableApparel.label>TODO</AllowSmeltableApparel.label>
+  <AllowSmeltableApparel.label>อนุญาตให้หลอมได้</AllowSmeltableApparel.label>
   
 </LanguageData>

@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: destroy apparel -->
-  <DestroyApparel.label>TODO</DestroyApparel.label>
+  <DestroyApparel.label>ทำลายเครื่องนุ่งห่ม</DestroyApparel.label>
   <!-- EN: Use heat to destroy unwanted apparels. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
-  <DestroyApparel.description>TODO</DestroyApparel.description>
+  <DestroyApparel.description>ใช้ความร้อนทำลายเสื้อผ้าที่ไม่ต้องการ กระบวนการนี้เร็วกว่าการถลุงแร่ และใช้ได้กับสินค้าที่ไม่สามารถหลอมได้ แต่ไม่มีทรัพยากร</DestroyApparel.description>
   <!-- EN: Destroying apparel. -->
-  <DestroyApparel.jobString>TODO</DestroyApparel.jobString>
+  <DestroyApparel.jobString>กำลังทำลายเครื่องนุ่งห่ม</DestroyApparel.jobString>
   
   <!-- EN: destroy weapon -->
   <DestroyWeapon.label>ทำลายอาวุธ</DestroyWeapon.label>
@@ -65,11 +65,11 @@
   <Make_StoneBlocksAny.jobString>กำลังตัดบล็อกหินจากชิ้นส่วน</Make_StoneBlocksAny.jobString>
   
   <!-- EN: smelt apparel -->
-  <SmeltApparel.label>TODO</SmeltApparel.label>
+  <SmeltApparel.label>ทำลายเสื้อผ้าที่เป็นโลหะ</SmeltApparel.label>
   <!-- EN: Use heat and strong electromagnets to break down metallic apparel like armor into useful resources. -->
-  <SmeltApparel.description>TODO</SmeltApparel.description>
+  <SmeltApparel.description>ใช้ความร้อนและแม่เหล็กไฟฟ้าแรงสูงเพื่อทำลายเสื้อผ้าที่เป็นโลหะ เช่น เกราะ ให้เป็นทรัพยากรที่มีประโยชน์</SmeltApparel.description>
   <!-- EN: Smelting apparel. -->
-  <SmeltApparel.jobString>TODO</SmeltApparel.jobString>
+  <SmeltApparel.jobString>กำลังทำลายเสื้อผ้าที่เป็นโลหะ</SmeltApparel.jobString>
   
   <!-- EN: smelt weapon -->
   <SmeltWeapon.label>หลอม อาวุธ</SmeltWeapon.label>

@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: They are attacking immediately.\n\nThese raiders intend to breach your walls. They'll determine their own path into your colony and destroy anything in their way. -->
-  <ImmediateAttackBreaching.arrivalTextEnemy>TODO</ImmediateAttackBreaching.arrivalTextEnemy>
+  <ImmediateAttackBreaching.arrivalTextEnemy>พวกเขากำลังโจมตีทันที\in\ผู้ก่อจลาจลเหล่านี้ตั้งใจที่จะทำลายกำแพงของคุณ พวกเขาจะกำหนดเส้นทางของตนเองเข้าไปในอาณานิคมของคุณและทำลายทุกสิ่งที่ขวางทาง</ImmediateAttackBreaching.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <ImmediateAttackBreaching.arrivalTextFriendly>TODO</ImmediateAttackBreaching.arrivalTextFriendly>
+  <ImmediateAttackBreaching.arrivalTextFriendly>พวกเขาเคลื่อนที่เข้ามาช่วยคุณทันที</ImmediateAttackBreaching.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttackBreaching.letterLabelEnemy>TODO</ImmediateAttackBreaching.letterLabelEnemy>
+  <ImmediateAttackBreaching.letterLabelEnemy>ศัตรูบุก</ImmediateAttackBreaching.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <ImmediateAttackBreaching.letterLabelFriendly>TODO</ImmediateAttackBreaching.letterLabelFriendly>
+  <ImmediateAttackBreaching.letterLabelFriendly>พันธมิตร</ImmediateAttackBreaching.letterLabelFriendly>
   
   <!-- EN: They are attacking immediately.\n\nThese raiders intend to breach your walls. They'll determine their own path into your colony and destroy anything in their way.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
-  <ImmediateAttackBreachingSmart.arrivalTextEnemy>TODO</ImmediateAttackBreachingSmart.arrivalTextEnemy>
+  <ImmediateAttackBreachingSmart.arrivalTextEnemy>พวกเขากำลังโจมตีทันที\n\nผู้บุกรุกเหล่านี้ตั้งใจที่จะทำลายกำแพงของคุณ พวกเขาจะกำหนดเส้นทางของตนเองเข้าไปในอาณานิคมของคุณและทำลายทุกอย่างที่ขวางทาง\n\nระวัง - ดูเหมือนว่าพวกเขาจะฉลาดอย่างผิดปกติกับยุทธวิธีของพวกเขา พวกเขาจะหลีกเลี่ยงทุ่งกองไฟของป้อมปราการและสังเกตเห็นกับดักของคุณ</ImmediateAttackBreachingSmart.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <ImmediateAttackBreachingSmart.arrivalTextFriendly>TODO</ImmediateAttackBreachingSmart.arrivalTextFriendly>
+  <ImmediateAttackBreachingSmart.arrivalTextFriendly>พวกเขาเคลื่อนที่เข้ามาช่วยคุณทันที</ImmediateAttackBreachingSmart.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttackBreachingSmart.letterLabelEnemy>TODO</ImmediateAttackBreachingSmart.letterLabelEnemy>
+  <ImmediateAttackBreachingSmart.letterLabelEnemy>ศัตรูบุก</ImmediateAttackBreachingSmart.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <ImmediateAttackBreachingSmart.letterLabelFriendly>TODO</ImmediateAttackBreachingSmart.letterLabelFriendly>
+  <ImmediateAttackBreachingSmart.letterLabelFriendly>พันธมิตร</ImmediateAttackBreachingSmart.letterLabelFriendly>
   
 </LanguageData>

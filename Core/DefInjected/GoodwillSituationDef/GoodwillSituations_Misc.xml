@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: attacking settlement -->
-  <AttackingSettlement.label>TODO</AttackingSettlement.label>
+  <AttackingSettlement.label>โจมตีถิ่นฐาน</AttackingSettlement.label>
   
   <!-- EN: natural enemy -->
-  <NaturalEnemy.label>TODO</NaturalEnemy.label>
+  <NaturalEnemy.label>ศัตรูธรรมชาติ</NaturalEnemy.label>
   
   <!-- EN: permanently hostile -->
-  <PermanentEnemy.label>TODO</PermanentEnemy.label>
+  <PermanentEnemy.label>เป็นศัตรูกันอย่างถาวร</PermanentEnemy.label>
   
 </LanguageData>

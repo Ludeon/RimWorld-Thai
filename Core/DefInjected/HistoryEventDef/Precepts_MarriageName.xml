@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: keeping name -->
-  <GotMarried_KeptName.label>TODO</GotMarried_KeptName.label>
+  <GotMarried_KeptName.label>รักษาชื่อ</GotMarried_KeptName.label>
   
   <!-- EN: taking man's name -->
-  <GotMarried_TookMansName.label>TODO</GotMarried_TookMansName.label>
+  <GotMarried_TookMansName.label>เรียกชื่อผู้ชาย</GotMarried_TookMansName.label>
   
   <!-- EN: taking woman's name -->
-  <GotMarried_TookWomansName.label>TODO</GotMarried_TookWomansName.label>
+  <GotMarried_TookWomansName.label>เรียกชื่อผู้หญิง</GotMarried_TookWomansName.label>
   
 </LanguageData>

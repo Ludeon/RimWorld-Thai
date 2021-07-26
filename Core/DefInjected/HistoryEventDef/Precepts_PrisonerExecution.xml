@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: executed colonist -->
-  <ExecutedColonist.label>TODO</ExecutedColonist.label>
+  <ExecutedColonist.label>อาณานิคมที่ถูกประหารชีวิต</ExecutedColonist.label>
   
   <!-- EN: executed guest -->
-  <ExecutedGuest.label>TODO</ExecutedGuest.label>
+  <ExecutedGuest.label>แขกรับเชิญ</ExecutedGuest.label>
   
   <!-- EN: executed prisoner -->
-  <ExecutedPrisoner.label>TODO</ExecutedPrisoner.label>
+  <ExecutedPrisoner.label>นักโทษประหาร</ExecutedPrisoner.label>
   
   <!-- EN: executed guilty prisoner -->
-  <ExecutedPrisonerGuilty.label>TODO</ExecutedPrisonerGuilty.label>
+  <ExecutedPrisonerGuilty.label>ประหารชีวิตนักโทษ</ExecutedPrisonerGuilty.label>
   
   <!-- EN: executed innocent prisoner -->
-  <ExecutedPrisonerInnocent.label>TODO</ExecutedPrisonerInnocent.label>
+  <ExecutedPrisonerInnocent.label>ประหารชีวิตนักโทษบริสุทธิ์</ExecutedPrisonerInnocent.label>
   
 </LanguageData>

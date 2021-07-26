@@ -40,9 +40,9 @@
   <!-- EN: I can't stop shivering. My teeth are chattering. All I can think of is getting warm. -->
   <EnvironmentCold.stages.numbing_cold.description>ฟันของฉันกระทบกันอย่างแรงจนแทบพูดไม่ได้ นิ้วเท้าก็ชาไปหมด ฉันต้องรีบอุ่นตัวแล้ว!</EnvironmentCold.stages.numbing_cold.description>
   <!-- EN: absolutely freezing -->
-  <EnvironmentCold.stages.absolutely_freezing.label>TODO</EnvironmentCold.stages.absolutely_freezing.label>
+  <EnvironmentCold.stages.absolutely_freezing.label>หนาวมาก</EnvironmentCold.stages.absolutely_freezing.label>
   <!-- EN: My teeth are chattering so hard I can barely speak. My toes are numb. I need to get warm. -->
-  <EnvironmentCold.stages.absolutely_freezing.description>TODO</EnvironmentCold.stages.absolutely_freezing.description>
+  <EnvironmentCold.stages.absolutely_freezing.description>ฟันของฉันพูดพล่ามจนพูดไม่ออก นิ้วเท้าของฉันชา ฉันต้องอุ่นเครื่อง</EnvironmentCold.stages.absolutely_freezing.description>
   
   <!-- EN: darkness -->
   <EnvironmentDark.stages.darkness.label>อยู่ในความมืด</EnvironmentDark.stages.darkness.label>
@@ -106,8 +106,8 @@
   <Sick.stages.sick.description>ฉันรู้สึกไม่ค่อยดีเท่าไหร่, ฉันป่วยอยู่</Sick.stages.sick.description>
   
   <!-- EN: wearing {0} apparel -->
-  <WrongApparelGender.stages.wearing_apparel.label>TODO</WrongApparelGender.stages.wearing_apparel.label>
+  <WrongApparelGender.stages.wearing_apparel.label>สวม {0} เครื่องแต่งกาย</WrongApparelGender.stages.wearing_apparel.label>
   <!-- EN: I'm wearing apparel that was clearly made for {0}s! This is embarrassing. -->
-  <WrongApparelGender.stages.wearing_apparel.description>TODO</WrongApparelGender.stages.wearing_apparel.description>
+  <WrongApparelGender.stages.wearing_apparel.description>ฉันสวมเสื้อผ้าที่ทำขึ้นอย่างชัดเจนสำหรับ {0}! นี่เป็นเรื่องน่าอาย</WrongApparelGender.stages.wearing_apparel.description>
   
 </LanguageData>

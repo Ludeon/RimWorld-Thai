@@ -2,42 +2,42 @@
 <LanguageData>
   
   <!-- EN: attacked member -->
-  <AttackedMember.label>TODO</AttackedMember.label>
+  <AttackedMember.label>สมาชิกที่ถูกโจมตี</AttackedMember.label>
   
   <!-- EN: guilty prisoner died -->
-  <GuiltyPrisonerDied.label>TODO</GuiltyPrisonerDied.label>
+  <GuiltyPrisonerDied.label>นักโทษมีความผิดเสียชีวิต</GuiltyPrisonerDied.label>
   
   <!-- EN: innocent prisoner died -->
-  <InnocentPrisonerDied.label>TODO</InnocentPrisonerDied.label>
+  <InnocentPrisonerDied.label>นักโทษผู้บริสุทธิ์เสียชีวิต</InnocentPrisonerDied.label>
   
   <!-- EN: member captured -->
-  <MemberCaptured.label>TODO</MemberCaptured.label>
+  <MemberCaptured.label>สมาชิกถูกจับ</MemberCaptured.label>
   
   <!-- EN: member crushed -->
-  <MemberCrushed.label>TODO</MemberCrushed.label>
+  <MemberCrushed.label>สมาชิกโดนรุม</MemberCrushed.label>
   
   <!-- EN: member exited map healthy -->
-  <MemberExitedMapHealthy.label>TODO</MemberExitedMapHealthy.label>
+  <MemberExitedMapHealthy.label>สมาชิกออกจากแผนที่สุขภาพดี</MemberExitedMapHealthy.label>
   
   <!-- EN: member killed -->
-  <MemberKilled.label>TODO</MemberKilled.label>
+  <MemberKilled.label>สมาชิกถูกฆ่า</MemberKilled.label>
   
   <!-- EN: member died -->
-  <MemberNeutrallyDied.label>TODO</MemberNeutrallyDied.label>
+  <MemberNeutrallyDied.label>สมาชิกเสียชีวิต</MemberNeutrallyDied.label>
   
   <!-- EN: member sold -->
-  <MemberSold.label>TODO</MemberSold.label>
+  <MemberSold.label>สมาชิกขายแล้ว</MemberSold.label>
   
   <!-- EN: member stripped -->
-  <MemberStripped.label>TODO</MemberStripped.label>
+  <MemberStripped.label>สมาชิกถูกปล้น</MemberStripped.label>
   
   <!-- EN: harmful surgery on member -->
-  <PerformedHarmfulSurgery.label>TODO</PerformedHarmfulSurgery.label>
+  <PerformedHarmfulSurgery.label>การผ่าตัดที่เป็นอันตรายต่อสมาชิก</PerformedHarmfulSurgery.label>
   
   <!-- EN: prisoner died -->
-  <PrisonerDied.label>TODO</PrisonerDied.label>
+  <PrisonerDied.label>นักโทษเสียชีวิต</PrisonerDied.label>
   
   <!-- EN: harmed member -->
-  <UsedHarmfulItem.label>TODO</UsedHarmfulItem.label>
+  <UsedHarmfulItem.label>สมาชิกถูกทำร้าย</UsedHarmfulItem.label>
   
 </LanguageData>

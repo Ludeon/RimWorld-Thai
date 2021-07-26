@@ -2,19 +2,19 @@
 <LanguageData>
   
   <!-- EN: Arrest success chance -->
-  <ArrestSuccessChance.label>TODO</ArrestSuccessChance.label>
+  <ArrestSuccessChance.label>โอกาสสำเร็จในการจับกุม</ArrestSuccessChance.label>
   <!-- EN: How effective this person is in arresting people. This affects chance that this person will be able to arrest someone without resistance. -->
-  <ArrestSuccessChance.description>TODO</ArrestSuccessChance.description>
+  <ArrestSuccessChance.description>บุคคลนี้มีประสิทธิภาพเพียงใดในการจับกุมผู้คน ซึ่งส่งผลต่อโอกาสที่บุคคลนี้จะสามารถจับกุมใครซักคนได้โดยไม่มีการต่อต้าน</ArrestSuccessChance.description>
   
   <!-- EN: bond chance factor -->
-  <BondAnimalChanceFactor.label>TODO</BondAnimalChanceFactor.label>
+  <BondAnimalChanceFactor.label>ปัจจัยโอกาสพันธบัตร</BondAnimalChanceFactor.label>
   <!-- EN: A multiplier on the chance to bond with an animal when interacting with it. -->
-  <BondAnimalChanceFactor.description>TODO</BondAnimalChanceFactor.description>
+  <BondAnimalChanceFactor.description>ตัวคูณโอกาสในการผูกพันกับสัตว์เมื่อโต้ตอบกับมัน</BondAnimalChanceFactor.description>
   
   <!-- EN: drug sell price improvement -->
-  <DrugSellPriceImprovement.label>TODO</DrugSellPriceImprovement.label>
+  <DrugSellPriceImprovement.label>การปรับปรุงราคาขายยา</DrugSellPriceImprovement.label>
   <!-- EN: When this person sells non-medical drugs, prices are improved by this percentage. -->
-  <DrugSellPriceImprovement.description>TODO</DrugSellPriceImprovement.description>
+  <DrugSellPriceImprovement.description>เมื่อบุคคลนี้ขายยาที่ไม่ใช่ยา ราคาจะดีขึ้นตามเปอร์เซ็นต์นี้</DrugSellPriceImprovement.description>
   
   <!-- EN: negotiation ability -->
   <NegotiationAbility.label>ความสามารถเจรจา</NegotiationAbility.label>
@@ -22,9 +22,9 @@
   <NegotiationAbility.description>บุคคลนี้มีประสิทธิภาพขนาดไหนในฐานะผู้เจรจา ส่งผลกระทบต่อความเร็วในการชักชวน ส่งผลต่อความสัมพันธ์ระหว่างฝักฝ่ายเมื่อให้ของขวัญ และผลลัพท์ของการเจรจาสันติภาพ</NegotiationAbility.description>
   
   <!-- EN: beauty -->
-  <PawnBeauty.label>TODO</PawnBeauty.label>
+  <PawnBeauty.label>ความงาม</PawnBeauty.label>
   <!-- EN: How physically attractive this person is. This affects social interactions. -->
-  <PawnBeauty.description>TODO</PawnBeauty.description>
+  <PawnBeauty.description>บุคคลนี้มีเสน่ห์ดึงดูดร่างกายเพียงใด สิ่งนี้ส่งผลต่อปฏิสัมพันธ์ทางสังคม</PawnBeauty.description>
   
   <!-- EN: social impact -->
   <SocialImpact.label>ผลกระทบต่อสังคม</SocialImpact.label>

@@ -20,15 +20,15 @@
   <Mech_Lancer.tools.head.label>หัว</Mech_Lancer.tools.head.label>
   
   <!-- EN: pikeman -->
-  <Mech_Pikeman.label>TODO</Mech_Pikeman.label>
+  <Mech_Pikeman.label>พลหอก</Mech_Pikeman.label>
   <!-- EN: A clunky multi-legged combat mechanoid specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat.\n\nVeterans of mechanoid wars know that often, the safest place to be around a pikeman is touching it. -->
-  <Mech_Pikeman.description>TODO</Mech_Pikeman.description>
+  <Mech_Pikeman.description>กลไกการต่อสู้แบบหลายขาที่งุ่มง่ามซึ่งเชี่ยวชาญในฐานะแพลตฟอร์มอาวุธระยะไกล แม้ว่าจะมีประสิทธิภาพในระยะไกล แต่ก็อ่อนแอในการต่อสู้ระยะประชิดและการต่อสู้ระยะประชิด\n\nทหารผ่านศึกของสงครามกลไกมักรู้ดีว่าสถานที่ปลอดภัยที่สุดที่จะอยู่ใกล้คนหอกคือการแตะต้องมัน</Mech_Pikeman.description>
   <!-- EN: front left leg -->
-  <Mech_Pikeman.tools.front_left_leg.label>TODO</Mech_Pikeman.tools.front_left_leg.label>
+  <Mech_Pikeman.tools.front_left_leg.label>ขาหน้าซ้าย</Mech_Pikeman.tools.front_left_leg.label>
   <!-- EN: front right leg -->
-  <Mech_Pikeman.tools.front_right_leg.label>TODO</Mech_Pikeman.tools.front_right_leg.label>
+  <Mech_Pikeman.tools.front_right_leg.label>ขาหน้าขวา</Mech_Pikeman.tools.front_right_leg.label>
   <!-- EN: head -->
-  <Mech_Pikeman.tools.head.label>TODO</Mech_Pikeman.tools.head.label>
+  <Mech_Pikeman.tools.head.label>หัว</Mech_Pikeman.tools.head.label>
   
   <!-- EN: scyther -->
   <Mech_Scyther.label>ไซเธอร์</Mech_Scyther.label>

@@ -10,7 +10,7 @@
   <Grenadier_EMP.labelPlural>พลระเบิด EMP</Grenadier_EMP.labelPlural>
   
   <!-- EN: smoke grenadier -->
-  <Grenadier_Smoke.label>TODO</Grenadier_Smoke.label>
+  <Grenadier_Smoke.label>ทหารควันไฟ</Grenadier_Smoke.label>
   
   <!-- EN: elite mercenary -->
   <Mercenary_Elite.label>ทหารรับจ้างหัวกะทิ</Mercenary_Elite.label>
@@ -18,16 +18,16 @@
   <Mercenary_Elite.labelPlural>ทหารรับจ้างหัวกะทิ</Mercenary_Elite.labelPlural>
   
   <!-- EN: elite mercenary -->
-  <Mercenary_Elite_Acidifier.label>TODO</Mercenary_Elite_Acidifier.label>
+  <Mercenary_Elite_Acidifier.label>ทหารรับจ้างชั้นยอด</Mercenary_Elite_Acidifier.label>
   <!-- EN: elite mercenaries -->
-  <Mercenary_Elite_Acidifier.labelPlural>TODO</Mercenary_Elite_Acidifier.labelPlural>
+  <Mercenary_Elite_Acidifier.labelPlural>ทหารรับจ้างชั้นยอด</Mercenary_Elite_Acidifier.labelPlural>
   
   <!-- EN: mercenary gunner -->
   <Mercenary_Gunner.label>พลปืนรับจ้าง</Mercenary_Gunner.label>
   <Mercenary_Gunner.labelPlural>พลปืนรับจ้าง</Mercenary_Gunner.labelPlural>
   
   <!-- EN: mercenary gunner -->
-  <Mercenary_Gunner_Acidifier.label>TODO</Mercenary_Gunner_Acidifier.label>
+  <Mercenary_Gunner_Acidifier.label>พลปืนรับจ้าง</Mercenary_Gunner_Acidifier.label>
   
   <!-- EN: heavy mercenary -->
   <Mercenary_Heavy.label>พลอาวุธหนักรับจ้าง</Mercenary_Heavy.label>
@@ -39,14 +39,14 @@
   <Mercenary_Slasher.labelPlural>พลตะลุยฟันรับจ้าง</Mercenary_Slasher.labelPlural>
   
   <!-- EN: mercenary slasher -->
-  <Mercenary_Slasher_Acidifier.label>TODO</Mercenary_Slasher_Acidifier.label>
+  <Mercenary_Slasher_Acidifier.label>พลตะลุยฟันรับจ้าง</Mercenary_Slasher_Acidifier.label>
   
   <!-- EN: mercenary sniper -->
   <Mercenary_Sniper.label>พลแม่นปืนรับจ้าง</Mercenary_Sniper.label>
   <Mercenary_Sniper.labelPlural>พลแม่นปืนรับจ้าง</Mercenary_Sniper.labelPlural>
   
   <!-- EN: mercenary sniper -->
-  <Mercenary_Sniper_Acidifier.label>TODO</Mercenary_Sniper_Acidifier.label>
+  <Mercenary_Sniper_Acidifier.label>พลแม่นปืนรับจ้าง</Mercenary_Sniper_Acidifier.label>
   
   <!-- EN: boss -->
   <PirateBoss.label>หัวหน้าโจรสลัด</PirateBoss.label>

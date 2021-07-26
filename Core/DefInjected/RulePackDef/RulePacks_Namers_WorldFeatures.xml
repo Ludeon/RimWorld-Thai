@@ -21,7 +21,7 @@
     <li>terrain_word->โขดหิน</li>
     <li>terrain_word->เกาะปะการัง</li>
     <li>terrain_word->หิน</li>
-    <li>terrain_word->เกาะเล็กเกาะน้อย</li>
+    <li>terrain_word->เกาะเล็ก</li>
     <li>terrain_word->จุด</li>
     <li>terrain_word->เทือกเขา</li>
   </NamerArchipelago.rulePack.rulesStrings>
@@ -56,7 +56,7 @@
     <li>terrain_word->cove</li>
   -->
   <NamerBay.rulePack.rulesStrings>
-    <li>r_name(p=0.2)->gulf of [narrative_name]</li>
+    <li>r_name(p=0.2)->อ่าว [narrative_name]</li>
     <li>terrain_word(p=6)->อ่าว</li>
     <li>terrain_word->อ่าวเล็ก</li>
     <li>terrain_word->อ่าวขนาดใหญ่</li>
@@ -80,7 +80,7 @@
     <li>terrain_word->ป่าไม้</li>
     <li>terrain_word->ป่า</li>
     <li>terrain_word->ป่าไม้ยุ่งเหยิง</li>
-    <li>terrain_word->กลุ่มต้นไม้ที่อยู่กันแน่นหนา</li>
+    <li>terrain_word->ต้นไม้ที่แน่นหนา</li>
   </NamerBorealForest.rulePack.rulesStrings>
   
   <!-- EN:
@@ -111,11 +111,11 @@
     <li>r_name(p=0.4)->[desert_adjective] [narrative_name]</li>
     <li>desert_adjective->ราบ</li>
     <li>desert_adjective->สีขาว</li>
-    <li>desert_adjective->ไม่มีที่สิ้นสุด</li>
+    <li>desert_adjective->แห้งแล้งไม่มีที่สิ้นสุด</li>
     <li>desert_adjective->หิน</li>
-    <li>desert_adjective->แห้ง</li>
-    <li>desert_adjective->แห้ง</li>
-    <li>desert_adjective->ยาว</li>
+    <li>desert_adjective->แห้งแล้ง</li>
+    <li>desert_adjective->แห้งแล้ง</li>
+    <li>desert_adjective->แห้งแล้งยาว</li>
     <li>desert_adjective->ถูกแดดเผา</li>
     <li>desert_adjective->แดดจัด</li>
     <li>desert_adjective->พราว</li>
@@ -123,10 +123,10 @@
     <li>desert_adjective->sweaty</li>
     <li>desert_adjective->ทราย</li>
     <li>desert_adjective->หิน</li>
-    <li>terrain_word(p=6)->desert</li>
+    <li>terrain_word(p=6)->ทะเลทราย</li>
     <li>terrain_word->ที่ราบสูง</li>
     <li>terrain_word->พื้นราบ</li>
-    <li>terrain_word->basin</li>
+    <li>terrain_word->อ่าง</li>
     <li>terrain_word->อ่าง</li>
     <li>terrain_word->ที่ดินกร้าง</li>
     <li>terrain_word->แห้งแล้ง</li>
@@ -142,7 +142,7 @@
     <li>terrain_word(p=6)->ป่า</li>
     <li>terrain_word->ป่าเล็กๆ</li>
     <li>terrain_word->ป่าไม้</li>
-    <li>terrain_word->กลุ่มต้นไม้ที่อยู่กันแน่นหนา</li>
+    <li>terrain_word->ต้นไม้ที่แน่นหนา</li>
   </NamerForest.rulePack.rulesStrings>
   
   <!-- EN:
@@ -156,14 +156,8 @@
     <li>terrain_word(p=0.3)->tract</li>
   -->
   <NamerIceSheet.rulePack.rulesStrings>
-    <li>terrain_word->sheet</li>
-    <li>terrain_word->กว้างใหญ่</li>
-    <li>terrain_word(p=0.5)->เข้าถึง</li>
-    <li>terrain_word(p=0.3)->ทุ่ง</li>
-    <li>terrain_word(p=0.3)->span</li>
-    <li>terrain_word(p=0.3)->ทุ่ง</li>
-    <li>terrain_word(p=0.3)->stretch</li>
-    <li>terrain_word(p=0.3)->ทางเดิน</li>
+    <li>terrain_word->แผ่นน้ำแข็ง</li>
+    <li>terrain_word->แผ่นน้ำแข็งกว้างใหญ่</li>
   </NamerIceSheet.rulePack.rulesStrings>
   
   <!-- EN:
@@ -183,7 +177,7 @@
     <li>terrain_word->โขดหิน</li>
     <li>terrain_word->เกาะปะการัง</li>
     <li>terrain_word->หิน</li>
-    <li>terrain_word->เกาะเล็กเกาะน้อย</li>
+    <li>terrain_word->เกาะเล็ก</li>
     <li>terrain_word->จุด</li>
   </NamerIsland.rulePack.rulesStrings>
   
@@ -248,22 +242,22 @@
   -->
   <NamerOcean.rulePack.rulesStrings>
     <li>r_name(p=0.4)->[ocean_adjective] [narrative_name]</li>
-    <li>ocean_adjective->สีน้ำเงิน</li>
-    <li>ocean_adjective->สีขาว</li>
-    <li>ocean_adjective->สีเทา</li>
-    <li>ocean_adjective->โล่ง</li>
-    <li>ocean_adjective->ลมแรง</li>
-    <li>ocean_adjective->พายุ</li>
-    <li>ocean_adjective->เงียบสงบ</li>
-    <li>ocean_adjective->กว้าง</li>
-    <li>ocean_adjective->ไม่มีที่สิ้นสุด</li>
-    <li>ocean_adjective->ราบ</li>
-    <li>ocean_adjective->ราบรื่น</li>
-    <li>ocean_adjective->สั่นไหว</li>
-    <li>ocean_adjective->ละเมียด</li>
+    <li>ocean_adjective->มหาสมุทร สีน้ำเงิน</li>
+    <li>ocean_adjective->มหาสมุทร สีขาว</li>
+    <li>ocean_adjective->มหาสมุทร สีเทา</li>
+    <li>ocean_adjective->มหาสมุทร โล่ง</li>
+    <li>ocean_adjective->มหาสมุทร ลมแรง</li>
+    <li>ocean_adjective->มหาสมุทร พายุ</li>
+    <li>ocean_adjective->มหาสมุทร เงียบสงบ</li>
+    <li>ocean_adjective->มหาสมุทร กว้าง</li>
+    <li>ocean_adjective->มหาสมุทร ไม่มีที่สิ้นสุด</li>
+    <li>ocean_adjective->มหาสมุทร ราบ</li>
+    <li>ocean_adjective->มหาสมุทร ราบรื่น</li>
+    <li>ocean_adjective->มหาสมุทร สั่นไหว</li>
+    <li>ocean_adjective->มหาสมุทร ละเมียด</li>
     <li>terrain_word(p=6)->มหาสมุทร</li>
     <li>terrain_word(p=3)->ทะเล</li>
-    <li>terrain_word->กว้างใหญ่</li>
+    <li>terrain_word->มหาสมุทรกว้างใหญ่</li>
   </NamerOcean.rulePack.rulesStrings>
   
   <!-- EN:
@@ -329,7 +323,7 @@
     <li>swamp_adjective->รก</li>
     <li>swamp_adjective->ยุ่งเหยิง</li>
     <li>swamp_adjective->ไวนิล</li>
-    <li>swamp_adjective->มีหนาม</li>
+    <li>swamp_adjective->หนาม</li>
     <li>terrain_word(p=6)->บึงหนอง</li>
     <li>terrain_word->อ่าง</li>
     <li>terrain_word->พื้นที่ชุ่มน้ำ</li>
@@ -396,7 +390,7 @@
     <li>terrain_word->พุ่มไม้</li>
     <li>terrain_word->หมู่ไม้ต่ำๆ</li>
     <li>terrain_word->barrens</li>
-    <li>terrain_word->กว้างใหญ่</li>
+    <li>terrain_word->ทุนดรากว้างใหญ่</li>
     <li>terrain_word->ทุ่งหญ้า</li>
     <li>terrain_word->พื้นราบ</li>
   </NamerTundra.rulePack.rulesStrings>
@@ -463,23 +457,23 @@
     <li>story_result->fraud</li>
   -->
   <WorldFeatureNamerCommon.rulePack.rulesStrings>
-    <li>r_name->[narrative_name] [terrain_word]</li>
-    <li>r_name(p=0.05)->[storyname] [terrain_word]</li>
+    <li>r_name->[terrain_word] [narrative_name]</li>
+    <li>r_name(p=0.05)->[terrain_word] [storyname]</li>
     <li>narrative_name(p=12)->[WordTribal]</li>
     <li>narrative_name(p=12)->[PlaceOutlander]</li>
-    <li>narrative_name->[Color][NaturalObject]</li>
-    <li>narrative_name->[AdjectiveNatural][BodyPart]</li>
+    <li>narrative_name->[NaturalObject] [Color]</li>
+    <li>narrative_name->[BodyPart] [AdjectiveNatural]</li>
     <li>narrative_name->[Animal]</li>
     <li>narrative_name->[Color]</li>
-    <li>narrative_name->[Color][Animal]</li>
-    <li>narrative_name->[AdjectiveNatural][Animal]</li>
-    <li>narrative_name->[Animal][BodyPart]</li>
-    <li>narrative_name->[Color] [Animal]</li>
-    <li>narrative_name->[AdjectiveNatural] [Animal]</li>
-    <li>narrative_name->[Animal] [BodyPart]</li>
-    <li>storyname(p=50)->[subject]'s [story_result]</li>
-    <li>storyname(p=2)->[subject]'s [BodyPart]</li>
-    <li>storyname->[subject]'s [Gore]</li>
+    <li>narrative_name->[Animal] [Color]</li>
+    <li>narrative_name->[Animal] [AdjectiveNatural]</li>
+    <li>narrative_name->[BodyPart] [Animal]</li>
+    <li>narrative_name->[Animal] [Color]</li>
+    <li>narrative_name-> [Animal] [AdjectiveNatural]</li>
+    <li>narrative_name->[BodyPart] [Animal]</li>
+    <li>storyname(p=50)->[subject] [story_result]</li>
+    <li>storyname(p=2)->[subject] [BodyPart]</li>
+    <li>storyname->[subject] [Gore]</li>
     <li>subject(p=5)->[NamePerson]</li>
     <li>subject->[Animal]</li>
     <li>subject->[WordTribal]</li>
@@ -516,7 +510,7 @@
     <li>story_result->จบ</li>
     <li>story_result->เกษียณอายุ</li>
     <li>story_result->ความสำเร็จ</li>
-    <li>story_result->ตอนจบ</li>
+    <li>story_result->จบ</li>
     <li>story_result->บลัฟ</li>
     <li>story_result->อุบาย</li>
     <li>story_result->การหลอกลวง</li>

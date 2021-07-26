@@ -317,11 +317,11 @@
   <EmptyEggBox.verb>TODO</EmptyEggBox.verb>
   
   <!-- EN: execute guilty colonists -->
-  <ExecuteGuiltyColonist.label>TODO</ExecuteGuiltyColonist.label>
+  <ExecuteGuiltyColonist.label>ประหารชีวิตชาวอาณานิคม</ExecuteGuiltyColonist.label>
   <!-- EN: executing -->
-  <ExecuteGuiltyColonist.gerund>TODO</ExecuteGuiltyColonist.gerund>
+  <ExecuteGuiltyColonist.gerund>กำลังประหารชีวิต</ExecuteGuiltyColonist.gerund>
   <!-- EN: execute -->
-  <ExecuteGuiltyColonist.verb>TODO</ExecuteGuiltyColonist.verb>
+  <ExecuteGuiltyColonist.verb>ประหารชีวิต</ExecuteGuiltyColonist.verb>
   
   <!-- EN: feed prisoners -->
   <FeedPrisoner.label>ให้อาหารนักโทษ</FeedPrisoner.label>
@@ -513,11 +513,11 @@
   <ReleasePrisoner.verb>ปล่อยตัว</ReleasePrisoner.verb>
   
   <!-- EN: release to wild -->
-  <ReleaseToWild.label>TODO</ReleaseToWild.label>
+  <ReleaseToWild.label>ปล่อยสู่ป่า</ReleaseToWild.label>
   <!-- EN: releasing -->
-  <ReleaseToWild.gerund>TODO</ReleaseToWild.gerund>
+  <ReleaseToWild.gerund>กำลังปล่อยสู่ป่า</ReleaseToWild.gerund>
   <!-- EN: release -->
-  <ReleaseToWild.verb>TODO</ReleaseToWild.verb>
+  <ReleaseToWild.verb>ปล่อยสู่ป่า</ReleaseToWild.verb>
   
   <!-- UNUSED -->
   <Reload.label>TODO</Reload.label>
@@ -567,11 +567,11 @@
   <Strip.verb>แก้ผ้า</Strip.verb>
   
   <!-- EN: study -->
-  <StudyThing.label>TODO</StudyThing.label>
+  <StudyThing.label>ศึกษา</StudyThing.label>
   <!-- EN: studying -->
-  <StudyThing.gerund>TODO</StudyThing.gerund>
+  <StudyThing.gerund>กำลังศึกษา</StudyThing.gerund>
   <!-- EN: research -->
-  <StudyThing.verb>TODO</StudyThing.verb>
+  <StudyThing.verb>การวิจัย</StudyThing.verb>
   
   <!-- EN: take beer out of fermenting barrels -->
   <TakeBeerOutOfFermentingBarrel.label>เอาเบียร์จากถังหมัก</TakeBeerOutOfFermentingBarrel.label>

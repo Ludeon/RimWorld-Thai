@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: animals learning factor -->
-  <AnimalsLearningFactor.label>TODO</AnimalsLearningFactor.label>
+  <AnimalsLearningFactor.label>ปัจจัยการเรียนรู้สัตว์</AnimalsLearningFactor.label>
   <!-- EN: A multiplier on the learning rate for animals skill. -->
-  <AnimalsLearningFactor.description>TODO</AnimalsLearningFactor.description>
+  <AnimalsLearningFactor.description>ตัวคูณอัตราการเรียนรู้ทักษะสัตว์</AnimalsLearningFactor.description>
   
   <!-- EN: caravan riding speed -->
-  <CaravanRidingSpeedFactor.label>TODO</CaravanRidingSpeedFactor.label>
+  <CaravanRidingSpeedFactor.label>ความเร็วในการขี่คาราวาน</CaravanRidingSpeedFactor.label>
   <!-- EN: The multiplier applied to a person's movement speed when they ride this animal as part of a caravan. Animals can only be ridden in caravans. -->
-  <CaravanRidingSpeedFactor.description>TODO</CaravanRidingSpeedFactor.description>
+  <CaravanRidingSpeedFactor.description>ตัวคูณใช้กับความเร็วในการเคลื่อนที่ของบุคคลเมื่อพวกเขาขี่สัตว์นี้โดยเป็นส่วนหนึ่งของคาราวาน สัตว์สามารถขี่ได้เฉพาะในคาราวานเท่านั้น</CaravanRidingSpeedFactor.description>
   
   <!-- EN: carrying capacity -->
   <CarryingCapacity.label>แบกขนได้สูงสุด</CarryingCapacity.label>
@@ -32,9 +32,9 @@
   <EatingSpeed.description>ตัวคูณต่อความเร็วในการกิน</EatingSpeed.description>
   
   <!-- EN: filth rate -->
-  <FilthRate.label>TODO</FilthRate.label>
+  <FilthRate.label>อัตราความสกปรก</FilthRate.label>
   <!-- EN: How much filth this creature produces.\n\nIt's best to keep filth-producing animals outdoors or on straw matting where their filth won't be a problem. -->
-  <FilthRate.description>TODO</FilthRate.description>
+  <FilthRate.description>สิ่งมีชีวิตนี้สร้างสิ่งสกปรกได้มากเพียงใด\n\nควรเก็บสัตว์ที่ผลิตสิ่งสกปรกไว้กลางแจ้งหรือบนเสื่อฟาง โดยที่ความสกปรกของพวกมันจะไม่เป็นปัญหา</FilthRate.description>
   
   <!-- EN: foraged food amount -->
   <ForagedNutritionPerDay.label>ออกหาอาหารได้</ForagedNutritionPerDay.label>
@@ -57,9 +57,9 @@
   <ImmunityGainSpeed.description>ความเร็วที่ตัวละครนี้สร้างภูมิคุ้มกันต่อโรค ถ้าช้าเกินไป ตัวละครอาจจะตายจากโรค ก่อนสร้างภูมิคุ้มกันสำเร็จ</ImmunityGainSpeed.description>
   
   <!-- EN: injury healing factor -->
-  <InjuryHealingFactor.label>TODO</InjuryHealingFactor.label>
+  <InjuryHealingFactor.label>ปัจจัยการรักษาอาการบาดเจ็บ</InjuryHealingFactor.label>
   <!-- EN: The multiplier applied to a person's injury healing rate. -->
-  <InjuryHealingFactor.description>TODO</InjuryHealingFactor.description>
+  <InjuryHealingFactor.description>ตัวคูณนำไปใช้กับอัตราการรักษาอาการบาดเจ็บของบุคคล</InjuryHealingFactor.description>
   
   <!-- EN: leather amount -->
   <LeatherAmount.label>ปริมาณหนัง</LeatherAmount.label>

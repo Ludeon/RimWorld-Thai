@@ -11,13 +11,13 @@
   <ImmediateAttack.letterLabelFriendly>พันธมิตร</ImmediateAttack.letterLabelFriendly>
   
   <!-- EN: They are attacking immediately. -->
-  <ImmediateAttackFriendly.arrivalTextEnemy>TODO</ImmediateAttackFriendly.arrivalTextEnemy>
+  <ImmediateAttackFriendly.arrivalTextEnemy>พวกเขาโจมตีทันที</ImmediateAttackFriendly.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <ImmediateAttackFriendly.arrivalTextFriendly>TODO</ImmediateAttackFriendly.arrivalTextFriendly>
+  <ImmediateAttackFriendly.arrivalTextFriendly>พวกเขาเคลื่อนที่เข้ามาช่วยคุณทันที</ImmediateAttackFriendly.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttackFriendly.letterLabelEnemy>TODO</ImmediateAttackFriendly.letterLabelEnemy>
+  <ImmediateAttackFriendly.letterLabelEnemy>ศัตรูบุก</ImmediateAttackFriendly.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <ImmediateAttackFriendly.letterLabelFriendly>TODO</ImmediateAttackFriendly.letterLabelFriendly>
+  <ImmediateAttackFriendly.letterLabelFriendly>พันธมิตร</ImmediateAttackFriendly.letterLabelFriendly>
   
   <!-- EN: They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
   <ImmediateAttackSmart.arrivalTextEnemy>พวกเขาโจมตีทันที\n\nแต่ระวัง พวกเขาดูจะมียุทธวิธีหลักแหลมผิดธรรมดา พวกเขาจะหาทางหลบเขตยิงป้อมปืน และบ้างจะสังเกตุเห็นกับดัก</ImmediateAttackSmart.arrivalTextEnemy>

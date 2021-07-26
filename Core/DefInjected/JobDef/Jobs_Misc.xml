@@ -14,28 +14,28 @@
   <BeatFire.reportString>กำลังตีไฟให้ดับ</BeatFire.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnThing.reportString>ทำอะไรซักอย่าง</CastAbilityOnThing.reportString>
+  <CastAbilityOnThing.reportString>ทำอะไรบางอย่าง</CastAbilityOnThing.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnThingMelee.reportString>TODO</CastAbilityOnThingMelee.reportString>
+  <CastAbilityOnThingMelee.reportString>ทำอะไรบางอย่าง</CastAbilityOnThingMelee.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnThingUninterruptible.reportString>TODO</CastAbilityOnThingUninterruptible.reportString>
+  <CastAbilityOnThingUninterruptible.reportString>ทำอะไรบางอย่าง</CastAbilityOnThingUninterruptible.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnWorldTile.reportString>TODO</CastAbilityOnWorldTile.reportString>
+  <CastAbilityOnWorldTile.reportString>ทำอะไรบางอย่าง</CastAbilityOnWorldTile.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityTouch.reportString>TODO</CastAbilityTouch.reportString>
+  <CastAbilityTouch.reportString>ทำอะไรบางอย่าง</CastAbilityTouch.reportString>
   
   <!-- EN: Doing something. -->
-  <CastJump.reportString>TODO</CastJump.reportString>
+  <CastJump.reportString>ทำอะไรบางอย่าง</CastJump.reportString>
   
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>กำลังกวาดหิมะ</ClearSnow.reportString>
   
   <!-- EN: delivering TargetA. -->
-  <DeliverToCell.reportString>TODO</DeliverToCell.reportString>
+  <DeliverToCell.reportString>ส่งมอบ TargetA</DeliverToCell.reportString>
   
   <!-- EN: dropping TargetA. -->
   <DropEquipment.reportString>กำลังจะทิ้ง TargetA</DropEquipment.reportString>
@@ -47,7 +47,7 @@
   <EnterCryptosleepCasket.reportString>กำลังเข้าโลงคริปโตสลีป</EnterCryptosleepCasket.reportString>
   
   <!-- EN: entering TargetA. -->
-  <EnterTransporter.reportString>กำลังเข้า TargetA.</EnterTransporter.reportString>
+  <EnterTransporter.reportString>กำลังเข้า TargetA</EnterTransporter.reportString>
   
   <!-- EN: equipping TargetA. -->
   <Equip.reportString>กำลังสวมใส่ TargetA</Equip.reportString>
@@ -74,7 +74,7 @@
   <FollowClose.reportString>กำลังติดตาม TargetA</FollowClose.reportString>
   
   <!-- EN: following TargetA. -->
-  <FollowRoper.reportString>TODO</FollowRoper.reportString>
+  <FollowRoper.reportString>กำลังติดตาม TargetA</FollowRoper.reportString>
   
   <!-- EN: taking TargetA. -->
   <GiveToPackAnimal.reportString>กำลังเลือก TargetA.</GiveToPackAnimal.reportString>
@@ -113,10 +113,10 @@
   <LayDown.reportString>กำลังนอนเล่น</LayDown.reportString>
   
   <!-- EN: lying down. -->
-  <LayDownAwake.reportString>TODO</LayDownAwake.reportString>
+  <LayDownAwake.reportString>กำลังนอนเล่น</LayDownAwake.reportString>
   
   <!-- EN: lying down. -->
-  <LayDownResting.reportString>TODO</LayDownResting.reportString>
+  <LayDownResting.reportString>กำลังนอนเล่น</LayDownResting.reportString>
   
   <!-- EN: lovin'. -->
   <Lovin.reportString>โคตรรัก</Lovin.reportString>
@@ -143,7 +143,7 @@
   <RefuelAtomic.reportString>กำลังเติมเชื้อเพลิงให้ TargetA</RefuelAtomic.reportString>
   
   <!-- EN: reloading TargetA. -->
-  <Reload.reportString>TODO</Reload.reportString>
+  <Reload.reportString>กำลังโหลด TargetA</Reload.reportString>
   
   <!-- EN: removing TargetA. -->
   <RemoveApparel.reportString>กำลังถอดเสื้อผ้า TargetA</RemoveApparel.reportString>
@@ -161,7 +161,7 @@
   <TakeBeerOutOfFermentingBarrel.reportString>กำลังเอาเบียร์ออกจาก TargetA</TakeBeerOutOfFermentingBarrel.reportString>
   
   <!-- EN: taking TargetA to inventory. -->
-  <TakeCountToInventory.reportString>TODO</TakeCountToInventory.reportString>
+  <TakeCountToInventory.reportString>กำลังไปหยิบ TargetA</TakeCountToInventory.reportString>
   
   <!-- EN: taking TargetA to inventory. -->
   <TakeInventory.reportString>กำลังไปหยิบ TargetA</TakeInventory.reportString>
@@ -191,7 +191,7 @@
   <UseVerbOnThing.reportString>ทำอะไรบางอย่าง</UseVerbOnThing.reportString>
   
   <!-- EN: Doing something. -->
-  <UseVerbOnThingStatic.reportString>TODO</UseVerbOnThingStatic.reportString>
+  <UseVerbOnThingStatic.reportString>ทำอะไรบางอย่าง</UseVerbOnThingStatic.reportString>
   
   <!-- EN: vomiting. -->
   <Vomit.reportString>กำลังอาเจียน</Vomit.reportString>

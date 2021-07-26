@@ -68,13 +68,13 @@
   <!-- EN: I had to sleep in a dull barrack. Not only that, but I also had to share it with other people. -->
   <SleptInBarracks.stages.dull_barrack.description>ฉันอาศัยอยู่ในค่ายที่น่ารังเกียจกับคนอื่น ๆ</SleptInBarracks.stages.dull_barrack.description>
   <!-- EN: mediocre barrack -->
-  <SleptInBarracks.stages.mediocre_barrack.label>TODO</SleptInBarracks.stages.mediocre_barrack.label>
+  <SleptInBarracks.stages.mediocre_barrack.label>ค่ายทหารธรรมดา</SleptInBarracks.stages.mediocre_barrack.label>
   <!-- EN: I had to sleep in a mediocre barrack with other people around. I really don't like this. -->
-  <SleptInBarracks.stages.mediocre_barrack.description>TODO</SleptInBarracks.stages.mediocre_barrack.description>
+  <SleptInBarracks.stages.mediocre_barrack.description>ฉันต้องนอนในค่ายทหารธรรมดากับคนอื่นๆ ฉันไม่ชอบสิ่งนี้จริงๆ</SleptInBarracks.stages.mediocre_barrack.description>
   <!-- EN: decent barrack -->
-  <SleptInBarracks.stages.decent_barrack.label>TODO</SleptInBarracks.stages.decent_barrack.label>
+  <SleptInBarracks.stages.decent_barrack.label>ค่ายทหารที่ดี</SleptInBarracks.stages.decent_barrack.label>
   <!-- EN: I slept in a decent barrack, but I really dislike sharing a sleeping space. -->
-  <SleptInBarracks.stages.decent_barrack.description>TODO</SleptInBarracks.stages.decent_barrack.description>
+  <SleptInBarracks.stages.decent_barrack.description>ฉันนอนในค่ายทหารที่ดี แต่ฉันไม่ชอบแบ่งพื้นที่นอนจริงๆ</SleptInBarracks.stages.decent_barrack.description>
   <!-- EN: slightly impressive barrack -->
   <SleptInBarracks.stages.slightly_impressive_barrack.label>ห้องพักทหารที่น่าประทับใจเล็กน้อย</SleptInBarracks.stages.slightly_impressive_barrack.label>
   <!-- EN: I got to sleep in a pretty nice barrack. But I really don't like sharing a room with others. -->

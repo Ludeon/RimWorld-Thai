@@ -11,10 +11,10 @@
   <AdministeredRecreationalDrug.label>TODO</AdministeredRecreationalDrug.label>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat.label>TODO</AteHumanMeat.label>
+  <AteHumanMeat.label>กินเนื้อคน</AteHumanMeat.label>
   
   <!-- EN: cut tree -->
-  <CutTree.label>TODO</CutTree.label>
+  <CutTree.label>ตัดต้นไม้</CutTree.label>
   
   <!-- EN: used drug -->
   <IngestedDrug.label>TODO</IngestedDrug.label>
@@ -26,18 +26,18 @@
   <IngestedRecreationalDrug.label>TODO</IngestedRecreationalDrug.label>
   
   <!-- EN: installed prosthetic -->
-  <InstalledProsthetic.label>TODO</InstalledProsthetic.label>
+  <InstalledProsthetic.label>ติดตั้งเทียม</InstalledProsthetic.label>
   
   <!-- EN: mined -->
-  <Mined.label>TODO</Mined.label>
+  <Mined.label>ขุด</Mined.label>
   
   <!-- EN: researching -->
-  <Researching.label>TODO</Researching.label>
+  <Researching.label>ค้นคว้า</Researching.label>
   
   <!-- EN: sowed food plant -->
-  <SowedHumanFoodPlant.label>TODO</SowedHumanFoodPlant.label>
+  <SowedHumanFoodPlant.label>หว่านพืชอาหาร</SowedHumanFoodPlant.label>
   
   <!-- EN: sowed plant -->
-  <SowedPlant.label>TODO</SowedPlant.label>
+  <SowedPlant.label>โรงงานดาบ</SowedPlant.label>
   
 </LanguageData>

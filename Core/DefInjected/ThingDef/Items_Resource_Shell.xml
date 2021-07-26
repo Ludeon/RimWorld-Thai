@@ -17,7 +17,7 @@
   <Bullet_Shell_Incendiary.label>ลูกปืนครกเพลิง</Bullet_Shell_Incendiary.label>
   
   <!-- EN: Smoke shell -->
-  <Bullet_Shell_Smoke.label>TODO</Bullet_Shell_Smoke.label>
+  <Bullet_Shell_Smoke.label>เปลือกสูบบุหรี่</Bullet_Shell_Smoke.label>
   
   <!-- EN: antigrain warhead -->
   <Shell_AntigrainWarhead.label>หัวรบ Antigrain</Shell_AntigrainWarhead.label>
@@ -45,7 +45,7 @@
   <Shell_Incendiary.description>TODO</Shell_Incendiary.description>
   
   <!-- EN: Smoke shell -->
-  <Shell_Smoke.label>TODO</Shell_Smoke.label>
+  <Shell_Smoke.label>เปลือกสูบบุหรี่</Shell_Smoke.label>
   <!-- EN: A shell that generates a cloud of smoke when detonated, obscuring incoming shots and preventing turrets from locking on. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
   <Shell_Smoke.description>TODO</Shell_Smoke.description>
   

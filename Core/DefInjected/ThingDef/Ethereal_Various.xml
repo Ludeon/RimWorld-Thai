@@ -17,7 +17,7 @@
   <Tornado.label>พายุหมุน</Tornado.label>
   
   <!-- EN: trigger container emptied -->
-  <TriggerContainerEmptied.label>TODO</TriggerContainerEmptied.label>
+  <TriggerContainerEmptied.label>คอนเทนเนอร์ทริกเกอร์ว่างเปล่า</TriggerContainerEmptied.label>
   
   <!-- EN: trigger unfogged -->
   <TriggerUnfogged.label>เปิดหมอก</TriggerUnfogged.label>

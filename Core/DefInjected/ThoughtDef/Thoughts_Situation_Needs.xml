@@ -3,46 +3,46 @@
   
   <!-- EN: chemical want -->
   <!-- EN: chemical want -->
-  <DrugDesireFascination.stages.chemical_want.label>TODO</DrugDesireFascination.stages.chemical_want.label>
+  <DrugDesireFascination.stages.chemical_want.label>ต้องการสารเคมี</DrugDesireFascination.stages.chemical_want.label>
   <!-- EN: I'm fascinated by drugs. I want to experience them more. -->
   <DrugDesireFascination.stages.chemical_want.description>TODO</DrugDesireFascination.stages.chemical_want.description>
   <!-- EN: chemical hunger -->
-  <DrugDesireFascination.stages.chemical_hunger.label>TODO</DrugDesireFascination.stages.chemical_hunger.label>
+  <DrugDesireFascination.stages.chemical_hunger.label>ความหิวทางเคมี</DrugDesireFascination.stages.chemical_hunger.label>
   <!-- EN: I'm fascinated by drugs. I want to experience them a lot harder. -->
   <DrugDesireFascination.stages.chemical_hunger.description>TODO</DrugDesireFascination.stages.chemical_hunger.description>
   <!-- EN: chemical starvation -->
-  <DrugDesireFascination.stages.chemical_starvation.label>TODO</DrugDesireFascination.stages.chemical_starvation.label>
+  <DrugDesireFascination.stages.chemical_starvation.label>ความอดอยากทางเคมี</DrugDesireFascination.stages.chemical_starvation.label>
   <!-- EN: I'm fascinated by drugs. I want them! More intensity! -->
   <DrugDesireFascination.stages.chemical_starvation.description>TODO</DrugDesireFascination.stages.chemical_starvation.description>
   
   <!-- EN: chemical comfort -->
-  <DrugDesireFascinationSatisfied.stages.chemical_comfort.label>TODO</DrugDesireFascinationSatisfied.stages.chemical_comfort.label>
+  <DrugDesireFascinationSatisfied.stages.chemical_comfort.label>ความสะดวกสบายทางเคมี</DrugDesireFascinationSatisfied.stages.chemical_comfort.label>
   <!-- EN: I'm fascinated by drugs, and I love satisfying my desires. -->
   <DrugDesireFascinationSatisfied.stages.chemical_comfort.description>TODO</DrugDesireFascinationSatisfied.stages.chemical_comfort.description>
   <!-- EN: chemical satisfaction -->
-  <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>TODO</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>
+  <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>ความพึงพอใจทางเคมี</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>
   <!-- EN: I'm fascinated by drugs, and I am fully satisfied with my drug consumption. -->
   <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>TODO</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>
   
   <!-- EN: chemical want -->
-  <DrugDesireInterest.stages.chemical_want.label>TODO</DrugDesireInterest.stages.chemical_want.label>
+  <DrugDesireInterest.stages.chemical_want.label>ต้องการสารเคมี</DrugDesireInterest.stages.chemical_want.label>
   <!-- EN: I'm interested in drugs. I want to try more. -->
   <DrugDesireInterest.stages.chemical_want.description>TODO</DrugDesireInterest.stages.chemical_want.description>
   <!-- EN: chemical hunger -->
-  <DrugDesireInterest.stages.chemical_hunger.label>TODO</DrugDesireInterest.stages.chemical_hunger.label>
+  <DrugDesireInterest.stages.chemical_hunger.label>ความหิวทางเคมี</DrugDesireInterest.stages.chemical_hunger.label>
   <!-- EN: I'm interested in drugs. I want to experience a lot more. -->
   <DrugDesireInterest.stages.chemical_hunger.description>TODO</DrugDesireInterest.stages.chemical_hunger.description>
   <!-- EN: chemical starvation -->
-  <DrugDesireInterest.stages.chemical_starvation.label>TODO</DrugDesireInterest.stages.chemical_starvation.label>
+  <DrugDesireInterest.stages.chemical_starvation.label>ความอดอยากทางเคมี</DrugDesireInterest.stages.chemical_starvation.label>
   <!-- EN: I'm interested in drugs. I want to consume drugs really badly. -->
   <DrugDesireInterest.stages.chemical_starvation.description>TODO</DrugDesireInterest.stages.chemical_starvation.description>
   
   <!-- EN: chemical comfort -->
-  <DrugDesireInterestSatisfied.stages.chemical_comfort.label>TODO</DrugDesireInterestSatisfied.stages.chemical_comfort.label>
+  <DrugDesireInterestSatisfied.stages.chemical_comfort.label>ความสะดวกสบายทางเคมี</DrugDesireInterestSatisfied.stages.chemical_comfort.label>
   <!-- EN: I'm interested in drugs. I enjoyed satisfying my desire. -->
   <DrugDesireInterestSatisfied.stages.chemical_comfort.description>TODO</DrugDesireInterestSatisfied.stages.chemical_comfort.description>
   <!-- EN: chemical satisfaction -->
-  <DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>TODO</DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>
+  <DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>ความพึงพอใจทางเคมี</DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>
   <!-- EN: I'm interested in drugs. I am really satisfied with all the drugs I've gotten recently. -->
   <DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>TODO</DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>
   
@@ -122,25 +122,25 @@
   <NeedFood.stages.extreme_starvation.description>กิน ... กิน ... เพียงแค่ขอกินอะไรเล็ก ๆ น้อย ๆ ... หรือทุกอย่าง ... ได้โปรด ...</NeedFood.stages.extreme_starvation.description>
   
   <!-- EN: just outdoors -->
-  <NeedIndoors.stages.just_outdoors.label>TODO</NeedIndoors.stages.just_outdoors.label>
+  <NeedIndoors.stages.just_outdoors.label>แค่กลางแจ้ง</NeedIndoors.stages.just_outdoors.label>
   <!-- EN: I shouldn’t be outdoors. -->
-  <NeedIndoors.stages.just_outdoors.description>TODO</NeedIndoors.stages.just_outdoors.description>
+  <NeedIndoors.stages.just_outdoors.description>ฉันไม่ควรอยู่กลางแจ้ง</NeedIndoors.stages.just_outdoors.description>
   <!-- EN: outdoors -->
-  <NeedIndoors.stages.outdoors.label>TODO</NeedIndoors.stages.outdoors.label>
+  <NeedIndoors.stages.outdoors.label>กลางแจ้ง</NeedIndoors.stages.outdoors.label>
   <!-- EN: I’ve been outside too much recently. -->
-  <NeedIndoors.stages.outdoors.description>TODO</NeedIndoors.stages.outdoors.description>
+  <NeedIndoors.stages.outdoors.description>ฉันอยู่กลางแจ้งมากเกินไป</NeedIndoors.stages.outdoors.description>
   <!-- EN: long outdoors -->
-  <NeedIndoors.stages.long_outdoors.label>TODO</NeedIndoors.stages.long_outdoors.label>
+  <NeedIndoors.stages.long_outdoors.label>กลางแจ้งนาน</NeedIndoors.stages.long_outdoors.label>
   <!-- EN: Being outside so much is wrong for me. -->
-  <NeedIndoors.stages.long_outdoors.description>TODO</NeedIndoors.stages.long_outdoors.description>
+  <NeedIndoors.stages.long_outdoors.description>การอยู่กลางแจ้งมากเกินไปเป็นสิ่งที่ผิดสำหรับฉัน</NeedIndoors.stages.long_outdoors.description>
   <!-- EN: very long outdoors -->
-  <NeedIndoors.stages.very_long_outdoors.label>TODO</NeedIndoors.stages.very_long_outdoors.label>
+  <NeedIndoors.stages.very_long_outdoors.label>กลางแจ้งนานมาก</NeedIndoors.stages.very_long_outdoors.label>
   <!-- EN: I’ve been outside way too much recently. This open space is so disturbing. -->
-  <NeedIndoors.stages.very_long_outdoors.description>TODO</NeedIndoors.stages.very_long_outdoors.description>
+  <NeedIndoors.stages.very_long_outdoors.description>ฉันอยู่กลางแจ้งมากเกินไป พื้นที่เปิดโล่งนี้รบกวนมาก</NeedIndoors.stages.very_long_outdoors.description>
   <!-- EN: brutal outdoors -->
-  <NeedIndoors.stages.brutal_outdoors.label>TODO</NeedIndoors.stages.brutal_outdoors.label>
+  <NeedIndoors.stages.brutal_outdoors.label>กลางแจ้งที่โหดร้าย</NeedIndoors.stages.brutal_outdoors.label>
   <!-- EN: These open spaces are driving me insane! -->
-  <NeedIndoors.stages.brutal_outdoors.description>TODO</NeedIndoors.stages.brutal_outdoors.description>
+  <NeedIndoors.stages.brutal_outdoors.description>พื้นที่เปิดโล่งเหล่านี้ทำให้ฉันเป็นบ้า!</NeedIndoors.stages.brutal_outdoors.description>
   
   <!-- EN: recreation-starved -->
   <NeedJoy.stages.recreationstarved.label>ไม่มีความสุขอย่างสิ้นเชิง</NeedJoy.stages.recreationstarved.label>
@@ -164,25 +164,25 @@
   <NeedJoy.stages.recreation_fully_satisfied.description>ฉันมีความสุขมากเหลือเกิน ฉันรักที่นี่!</NeedJoy.stages.recreation_fully_satisfied.description>
   
   <!-- EN: entombed underground -->
-  <NeedOutdoors.stages.entombed_underground.label>TODO</NeedOutdoors.stages.entombed_underground.label>
+  <NeedOutdoors.stages.entombed_underground.label>ฝังไว้ใต้ดิน</NeedOutdoors.stages.entombed_underground.label>
   <!-- EN: I've been underground too long. I feel like the weight of this mountain is crushing me. I need to see the sky and feel the wind. -->
-  <NeedOutdoors.stages.entombed_underground.description>TODO</NeedOutdoors.stages.entombed_underground.description>
+  <NeedOutdoors.stages.entombed_underground.description>ฉันอยู่ใต้ดินนานเกินไป ฉันรู้สึกเหมือนน้ำหนักของภูเขานี้กำลังบดขยี้ฉัน ฉันต้องการเห็นท้องฟ้าและรู้สึกถึงลม</NeedOutdoors.stages.entombed_underground.description>
   <!-- EN: trapped underground -->
-  <NeedOutdoors.stages.trapped_underground.label>TODO</NeedOutdoors.stages.trapped_underground.label>
+  <NeedOutdoors.stages.trapped_underground.label>ติดอยู่ใต้ดิน</NeedOutdoors.stages.trapped_underground.label>
   <!-- EN: How long have I been underground? I need to get out in the fresh air and spend some time under the sky. -->
-  <NeedOutdoors.stages.trapped_underground.description>TODO</NeedOutdoors.stages.trapped_underground.description>
+  <NeedOutdoors.stages.trapped_underground.description>ฉันอยู่ใต้ดินมานานแค่ไหนแล้ว? ฉันต้องออกไปสูดอากาศบริสุทธิ์และใช้เวลาอยู่ใต้ฟ้า</NeedOutdoors.stages.trapped_underground.description>
   <!-- EN: cabin fever -->
-  <NeedOutdoors.stages.cabin_fever.label>TODO</NeedOutdoors.stages.cabin_fever.label>
+  <NeedOutdoors.stages.cabin_fever.label>ไข้ในห้องโดยสาร</NeedOutdoors.stages.cabin_fever.label>
   <!-- EN: I've spent so long indoors I feel like the roof is pressing in. I need to get out and see the sky. -->
-  <NeedOutdoors.stages.cabin_fever.description>TODO</NeedOutdoors.stages.cabin_fever.description>
+  <NeedOutdoors.stages.cabin_fever.description>ฉันใช้เวลาอยู่ในบ้านนานมาก จนรู้สึกเหมือนหลังคากำลังกดเข้ามา ฉันต้องออกไปดูท้องฟ้า</NeedOutdoors.stages.cabin_fever.description>
   <!-- EN: trapped indoors -->
-  <NeedOutdoors.stages.trapped_indoors.label>TODO</NeedOutdoors.stages.trapped_indoors.label>
+  <NeedOutdoors.stages.trapped_indoors.label>ติดอยู่ในบ้าน</NeedOutdoors.stages.trapped_indoors.label>
   <!-- EN: It's been too long since I've seen the sky. -->
-  <NeedOutdoors.stages.trapped_indoors.description>TODO</NeedOutdoors.stages.trapped_indoors.description>
+  <NeedOutdoors.stages.trapped_indoors.description>นานมากแล้วที่ไม่ได้เห็นท้องฟ้า</NeedOutdoors.stages.trapped_indoors.description>
   <!-- EN: stuck indoors -->
-  <NeedOutdoors.stages.stuck_indoors.label>TODO</NeedOutdoors.stages.stuck_indoors.label>
+  <NeedOutdoors.stages.stuck_indoors.label>ติดอยู่ในบ้าน</NeedOutdoors.stages.stuck_indoors.label>
   <!-- EN: I'd like to go outside and get some fresh air. -->
-  <NeedOutdoors.stages.stuck_indoors.description>TODO</NeedOutdoors.stages.stuck_indoors.description>
+  <NeedOutdoors.stages.stuck_indoors.description>ฉันอยากออกไปสูดอากาศบริสุทธิ์</NeedOutdoors.stages.stuck_indoors.description>
   
   <!-- EN: drowsy -->
   <NeedRest.stages.drowsy.label>เหนื่อย</NeedRest.stages.drowsy.label>
@@ -198,16 +198,16 @@
   <NeedRest.stages.exhausted.description>ฉันหมดแรงเหลือเกินจนแทบจะยืนไม่ไหวแล้ว หนังตาของฉันช่างหนัก ให้ฉันนอนเถอะ...</NeedRest.stages.exhausted.description>
   
   <!-- EN: confined interior -->
-  <NeedRoomSize.stages.confined_interior.label>TODO</NeedRoomSize.stages.confined_interior.label>
+  <NeedRoomSize.stages.confined_interior.label>ภายในคับแคบ</NeedRoomSize.stages.confined_interior.label>
   <!-- EN: This space is so tiny. I feel like a rat in a cage. -->
-  <NeedRoomSize.stages.confined_interior.description>TODO</NeedRoomSize.stages.confined_interior.description>
+  <NeedRoomSize.stages.confined_interior.description>พื้นที่นี้เล็กมาก ฉันรู้สึกเหมือนหนูอยู่ในกรง</NeedRoomSize.stages.confined_interior.description>
   <!-- EN: cramped interior -->
-  <NeedRoomSize.stages.cramped_interior.label>TODO</NeedRoomSize.stages.cramped_interior.label>
+  <NeedRoomSize.stages.cramped_interior.label>ภายในคับแคบ</NeedRoomSize.stages.cramped_interior.label>
   <!-- EN: This room is too small. I wish I had more space to move around and breathe. -->
-  <NeedRoomSize.stages.cramped_interior.description>TODO</NeedRoomSize.stages.cramped_interior.description>
+  <NeedRoomSize.stages.cramped_interior.description>ห้องนี้เล็กเกินไป ฉันหวังว่าฉันจะมีพื้นที่มากขึ้นที่จะย้ายไปรอบ ๆ และหายใจ</NeedRoomSize.stages.cramped_interior.description>
   <!-- EN: spacious interior -->
-  <NeedRoomSize.stages.spacious_interior.label>TODO</NeedRoomSize.stages.spacious_interior.label>
+  <NeedRoomSize.stages.spacious_interior.label>ภายในกว้างขวาง</NeedRoomSize.stages.spacious_interior.label>
   <!-- EN: This room is so expansive, I feel free. -->
-  <NeedRoomSize.stages.spacious_interior.description>TODO</NeedRoomSize.stages.spacious_interior.description>
+  <NeedRoomSize.stages.spacious_interior.description>ห้องนี้กว้างขวางมาก ฉันรู้สึกอิสระ</NeedRoomSize.stages.spacious_interior.description>
   
 </LanguageData>

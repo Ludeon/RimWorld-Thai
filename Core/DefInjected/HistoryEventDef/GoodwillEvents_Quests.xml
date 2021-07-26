@@ -2,42 +2,42 @@
 <LanguageData>
   
   <!-- EN: accepted deserter -->
-  <AcceptedDeserter.label>TODO</AcceptedDeserter.label>
+  <AcceptedDeserter.label>ยอมรับผู้ทิ้งร้าง</AcceptedDeserter.label>
   
   <!-- EN: failed to keep guests happy -->
-  <FailedToKeepLodgersHappy.label>TODO</FailedToKeepLodgersHappy.label>
+  <FailedToKeepLodgersHappy.label>ล้มเหลวในการทำให้แขกมีความสุข</FailedToKeepLodgersHappy.label>
   
   <!-- EN: member missed shuttle -->
-  <MemberMissedShuttle.label>TODO</MemberMissedShuttle.label>
+  <MemberMissedShuttle.label>สมาชิกพลาดรถรับส่ง</MemberMissedShuttle.label>
   
   <!-- EN: monument construction expired -->
-  <MonumentConstructionExpired.label>TODO</MonumentConstructionExpired.label>
+  <MonumentConstructionExpired.label>การก่อสร้างอนุสาวรีย์หมดอายุ</MonumentConstructionExpired.label>
   
   <!-- EN: monument construction abandoned -->
-  <MonumentConstructionMapRemoved.label>TODO</MonumentConstructionMapRemoved.label>
+  <MonumentConstructionMapRemoved.label>การก่อสร้างอนุสาวรีย์ถูกทอดทิ้ง</MonumentConstructionMapRemoved.label>
   
   <!-- EN: destroyed monument -->
-  <MonumentDestroyed.label>TODO</MonumentDestroyed.label>
+  <MonumentDestroyed.label>ทำลายอนุสาวรีย์</MonumentDestroyed.label>
   
   <!-- EN: quest completed -->
-  <QuestGoodwillReward.label>TODO</QuestGoodwillReward.label>
+  <QuestGoodwillReward.label>ภารกิจเสร็จสิ้น</QuestGoodwillReward.label>
   
   <!-- EN: member arrested -->
-  <QuestPawnArrested.label>TODO</QuestPawnArrested.label>
+  <QuestPawnArrested.label>สมาชิกถูกจับ</QuestPawnArrested.label>
   
   <!-- EN: member lost at colony -->
-  <QuestPawnLost.label>TODO</QuestPawnLost.label>
+  <QuestPawnLost.label>สมาชิกสูญหายที่อาณานิคม</QuestPawnLost.label>
   
   <!-- EN: enslaved lent prisoner -->
-  <QuestPrisonerEnslaved.label>TODO</QuestPrisonerEnslaved.label>
+  <QuestPrisonerEnslaved.label>นักโทษยืมตัว</QuestPrisonerEnslaved.label>
   
   <!-- EN: recruited lent prisoner -->
-  <QuestPrisonerRecruited.label>TODO</QuestPrisonerRecruited.label>
+  <QuestPrisonerRecruited.label>รับสมัครนักโทษแหกคุก</QuestPrisonerRecruited.label>
   
   <!-- EN: shuttle commander missed shuttle -->
-  <ShuttleCommanderMissedShuttle.label>TODO</ShuttleCommanderMissedShuttle.label>
+  <ShuttleCommanderMissedShuttle.label>ผู้บัญชาการรถรับส่งพลาดรถรับส่ง</ShuttleCommanderMissedShuttle.label>
   
   <!-- EN: shuttle guards missed shuttle -->
-  <ShuttleGuardsMissedShuttle.label>TODO</ShuttleGuardsMissedShuttle.label>
+  <ShuttleGuardsMissedShuttle.label>ยามรับส่งพลาดรถรับส่ง</ShuttleGuardsMissedShuttle.label>
   
 </LanguageData>
