@@ -44,12 +44,12 @@ Summary copied from current translation report generate by the game, list below 
 * ☑️ (0) Backstory translations matching English (maybe ok)
 
 ### Active translators
-- @AEnigmatrices
+- @zalxXxlaz
 
 ### Inactive translators
+- @AEnigmatrices
 - @nicesafaleen
 - @hapnait
-- @zalxXxlaz
 - @zetathix
 - @BillPatsakorn
 - @guiltyhollow
