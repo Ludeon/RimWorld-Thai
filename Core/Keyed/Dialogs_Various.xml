@@ -6,13 +6,13 @@
   <!-- EN: Go back -->
   <GoBack>ย้อนกลับ</GoBack>
   <!-- EN: Do you want to continue? -->
-  <WantToContinue>TODO</WantToContinue>
+  <WantToContinue>คุณต้องการดำเนินการต่อหรือไม่</WantToContinue>
   <!-- EN: OK -->
   <OK>ตกลง</OK>
   <!-- EN: Close -->
   <Close>ปิด</Close>
   <!-- EN: Accept -->
-  <Accept>TODO</Accept>
+  <Accept>ยอมรับ</Accept>
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
@@ -305,7 +305,7 @@
   <!-- EN: Disarmed -->
   <DisarmedTime>ปลดอาวุธ</DisarmedTime>
   <!-- EN: Charging -->
-  <ChargingTime>TODO</ChargingTime>
+  <ChargingTime>กำลังชาร์จ</ChargingTime>
   <!-- EN: Next recharge (for {1}) in: {0}\nCharge cycle: {2} -->
   <ChargingNext>TODO</ChargingNext>
   <!-- EN: Shut down -->
@@ -371,7 +371,7 @@
   <!-- EN: Body size -->
   <BodySize>ขนาดตัว</BodySize>
   <!-- EN: Growth -->
-  <Growth>TODO</Growth>
+  <Growth>การเจริญเติบโต</Growth>
   <!-- EN: Recruit difficulty -->
   <RecruitDifficulty>ความยากในการชักชวน</RecruitDifficulty>
   <!-- EN: Base price -->
@@ -443,9 +443,9 @@
   <!-- EN: Never safe -->
   <NeverSafe>TODO</NeverSafe>
   <!-- EN: {0} / day -->
-  <PerDay>TODO</PerDay>
+  <PerDay>{0} / วัน</PerDay>
   <!-- EN: {0} / hour -->
-  <PerHour>TODO</PerHour>
+  <PerHour>{0} / ชั่วโมง</PerHour>
   <!-- EN: Pack animal -->
   <PackAnimal>สัตว์ขนของได้</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
@@ -595,15 +595,15 @@
   <!-- EN: Trading with faction base bonus -->
   <TradeWithFactionBaseBonus>โบนัสซื้อขายกับฐานฝ่ายโดยตรง</TradeWithFactionBaseBonus>
   <!-- EN: Joins as slave -->
-  <JoinsAsSlave>TODO</JoinsAsSlave>
+  <JoinsAsSlave>เข้าร่วมเป็นทาส</JoinsAsSlave>
   <!-- EN: Joins as colonist -->
-  <JoinsAsColonist>TODO</JoinsAsColonist>
+  <JoinsAsColonist>เข้าร่วมเป็นอาณานิคม</JoinsAsColonist>
   <!-- EN: If purchased, this person will join your colony as a slave. -->
-  <JoinsAsSlaveDesc>TODO</JoinsAsSlaveDesc> <!--  -->
+  <JoinsAsSlaveDesc>หากถูกซื้อ บุคคลนี้จะเข้าร่วมอาณานิคมของคุณในฐานะทาส</JoinsAsSlaveDesc> <!--  -->
   <!-- EN: If purchased, this person will join your colony as a colonist. -->
-  <JoinsAsColonistDesc>TODO</JoinsAsColonistDesc>
+  <JoinsAsColonistDesc>TOถ้าซื้อ บุคคลนี้จะเข้าร่วมอาณานิคมของคุณเป็นอาณานิคมDO</JoinsAsColonistDesc>
   <!-- EN: Trading drugs bonus -->
-  <TradingDrugsBonus>TODO</TradingDrugsBonus>
+  <TradingDrugsBonus>โบนัสซื้อขายยา</TradingDrugsBonus>
   <!-- EN: minimum -->
   <minimum>ขั้นต่ำ</minimum>
   <!-- EN: Final price -->
@@ -655,9 +655,9 @@
   <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
   <CaravanItemIsUnreachableMulti>ไม่มีชาวนิคมที่กำหนดไว้สามารถเข้าถึง {0}x {1} ได้</CaravanItemIsUnreachableMulti>
   <!-- EN: The caravan can't carry that much. -->
-  <TooBigCaravanMassUsage>กองคาราวานไม่สามารถแบกขนาดเยอะนั้นได้</TooBigCaravanMassUsage>
+  <TooBigCaravanMassUsage>กองคาราวานไม่สามารถขนขนาดเยอะนั้นได้</TooBigCaravanMassUsage>
   <!-- EN: Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus. -->
-  <CaravanMassUsageTooltip>คิดรวมทั้งไอเท็มที่แบกกับไอเท็มที่สวมใส่ หากแบกน้อยกว่าค่าสูงสุด จะได้โบนัสความเร็ว</CaravanMassUsageTooltip>
+  <CaravanMassUsageTooltip>คิดรวมทั้งไอเท็มที่ขนกับไอเท็มที่สวมใส่ หากขนน้อยกว่าค่าสูงสุด จะได้โบนัสความเร็ว</CaravanMassUsageTooltip>
   <!-- EN: Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan. -->
   <CaravanVisibilityTip>ทัศนวิสัย หมายถึง การที่คาราวานของคุณ โดนสังเกตเห็นง่ายแค่ไหน\n\nทวีคูณกับโอกาสที่คาราวานคุณจะโดนศัตรูดักกลางทาง\n\nทัศนวิสัยไม่ส่งผลกระทบกับความสามารถ ในการมองหาสิ่งที่คุณต้องการ\n\nทัศนวิสัย ยืนค่าฐานมาจากขนาดตัว ของคนและสัตว์ในกองคาราวาน</CaravanVisibilityTip>
   <!-- EN: Days of food -->
@@ -667,7 +667,7 @@
   <!-- EN: Unlimited -->
   <InfiniteDaysWorthOfFoodInfo>เสบียงไม่มีหมด</InfiniteDaysWorthOfFoodInfo>
   <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Current pawn inventory\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
-  <DaysWorthOfFoodTooltip>จำนวนวันโดยประมาณ ก่อนที่อย่างน้อยหนึ่งคนหรือสัตว์จะหมดเสบียง เผ่าพันธุ์ที่แตกต่างมีอาหารการกินไม่เหมือนกัน ดังนั้นบางส่วนจะหมดอาหารก่อนผู้อื่น ค่านี้จะคำนวณแม่นยำขึ้นหลังเลือกเส้นทางแล้ว\n\nได้รับผลกระทบโดย:\n  - ประเภทเสบียงกับจำนวนที่แบกไป\n  - สมาชิกคาราวานกับอาหารที่กิน\n  - อัตราการออกหาอาหาร\n  - สัตว์สามารถเล็มหญ่าได้หรือไม่\n  - เวลาจนกว่าเสบียงอาหารจะเน่า\n  - ในอากาศร้อน เสบียงอาหารเน่าไวขึ้น</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip>จำนวนวันโดยประมาณ ก่อนที่อย่างน้อยหนึ่งคนหรือสัตว์จะหมดเสบียง เผ่าพันธุ์ที่แตกต่างมีอาหารการกินไม่เหมือนกัน ดังนั้นบางส่วนจะหมดอาหารก่อนผู้อื่น ค่านี้จะคำนวณแม่นยำขึ้นหลังเลือกเส้นทางแล้ว\n\nได้รับผลกระทบโดย:\n  - ประเภทเสบียงกับจำนวนที่ขนไป\n  - สมาชิกคาราวานกับอาหารที่กิน\n  - อัตราการออกหาอาหาร\n  - สัตว์สามารถเล็มหญ่าได้หรือไม่\n  - เวลาจนกว่าเสบียงอาหารจะเน่า\n  - ในอากาศร้อน เสบียงอาหารเน่าไวขึ้น</DaysWorthOfFoodTooltip>
   <!-- EN: (only the first waypoint is taken into account) -->
   <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(เฉพาะเวย์พอยท์แรกเท่านั้น ที่นำมาคำนวณ)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
@@ -697,7 +697,7 @@
   <!-- EN: How much nutrition this food provides.\n\nFor reference: adult person needs {0} nutrition per day. -->
   <ItemNutritionTip>ปริมาณสารอาหาร ที่อาหารนี้ให้\n\nเพื่ออ้างอิง: ผู้ใหญ่ต้องการ {0} สารอาหาร ต่อวัน</ItemNutritionTip>
   <!-- EN: This animal can graze food from the environment instead of eating carried food. Grazing is only possible in some biomes and temperature ranges. -->
-  <AnimalCanGrazeTip>สัตว์ตัวนี้สามารถเล็มหญ่าจากสภาพแวดล้อม แทนที่จะกินเสบียงอาหารที่แบกไป การเล็มหญ่าเป็นไปได้ในเฉพาะบางไบโอมและช่วงอุณภูมิหนึ่งๆเท่านั้น</AnimalCanGrazeTip>
+  <AnimalCanGrazeTip>สัตว์ตัวนี้สามารถเล็มหญ่าจากสภาพแวดล้อม แทนที่จะกินเสบียงอาหารที่ขนไป การเล็มหญ่าเป็นไปได้ในเฉพาะบางไบโอมและช่วงอุณภูมิหนึ่งๆเท่านั้น</AnimalCanGrazeTip>
   <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
   <NutritionForagedPerDayTip>สารอาหารต่อวันจากการออกหาอาหาร จำนวนที่หามาได้จริงๆ ได้รับผลกระทบจาก 'ความเหมาะในการหาอาหาร' ของไบโอม\n\n{0}</NutritionForagedPerDayTip>
   <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition. -->
@@ -707,9 +707,9 @@
   <!-- EN: Legend -->
   <Legend>TODO</Legend>
   <!-- EN: Mass carried -->
-  <MassCarriedSimple>มวลที่แบก</MassCarriedSimple>
+  <MassCarriedSimple>มวลที่ขน</MassCarriedSimple>
   <!-- EN: Mass capacity -->
-  <MassCapacity>มวลสูงสุดที่แบกได้</MassCapacity>
+  <MassCapacity>มวลสูงสุดที่ขนได้</MassCapacity>
   <!-- EN: Mass -->
   <Mass>มวล</Mass>
   <!-- EN: Caravan mass -->
@@ -745,7 +745,7 @@
   <!-- EN: None -->
   <TilesPerDayImmobileShort>TODO</TilesPerDayImmobileShort>
   <!-- EN: Movement speed depends on carried mass, ridden animals, and terrain movement difficulty. -->
-  <CaravanMovementSpeedTip>ความเร็วในการเคลื่อนที่ ขึ้นอยู่กับความเร็วเฉลี่ย ของคนและสัตว์ มวลที่แบก และความยากในการเคลื่อนผ่านภูมิประเทศ</CaravanMovementSpeedTip>
+  <CaravanMovementSpeedTip>ความเร็วในการเคลื่อนที่ ขึ้นอยู่กับความเร็วเฉลี่ย ของคนและสัตว์ มวลที่ขน และความยากในการเคลื่อนผ่านภูมิประเทศ</CaravanMovementSpeedTip>
   <!-- EN: Animals will be able to graze -->
   <AnimalsWillBeAbleToGraze>สัตว์จะสามารถเล็มหญ่าได้</AnimalsWillBeAbleToGraze>
   <!-- EN: Animals can graze -->

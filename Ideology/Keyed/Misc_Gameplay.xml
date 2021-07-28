@@ -284,9 +284,9 @@
   
   <!-- Beggars -->
   <!-- EN: Give {0} to {1_nameDef} -->
-  <GiveItemsTo>ให้ {0} แก่ {1}_nameDef}</GiveItemsTo>
+  <GiveItemsTo>ให้ {0} แก่ {1} {_nameDef}</GiveItemsTo>
   <!-- EN: Cannot give {0} to {1_nameDef} -->
-  <CannotGiveItemsTo>ไม่สามารถให้ {0} แก่ {1}_nameDef}</CannotGiveItemsTo>
+  <CannotGiveItemsTo>ไม่สามารถให้ {0} แก่ {1} {_nameDef}</CannotGiveItemsTo>
   <!-- EN: No item found -->
   <NoItemFound>ไม่พบรายการ</NoItemFound>
 

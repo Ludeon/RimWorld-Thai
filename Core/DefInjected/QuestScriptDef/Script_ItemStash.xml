@@ -6,7 +6,7 @@
     <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of a collection of valuable items worth [itemStashContentsValue] not far from us. The collection consists of:\n\n[itemStashContents]\n\n[asker_label] says that [allSitePartsDescriptionsExceptFirst]</li>
   -->
   <OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
-    <li>questDescription(askerIsNull==true)->We've intercepted messages about a collection of valuable items worth [itemStashContentsValue] not far from [map_definite]. The collection consists of:\n\n[itemStashContents]\n\nIt seems that [allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription(askerIsNull==true)->เราได้สกัดกั้นข้อความเกี่ยวกับคอลเล็กชันของมีค่าที่มีค่า [itemStashContentsValue] ซึ่งอยู่ไม่ไกลจาก [map_definite] คอลเล็กชันประกอบด้วย:\n\n[itemStashContents]\n\nดูเหมือนว่า [allSitePartsDescriptionsExceptFirst]</li>
     <li>questDescription(asker_factionLeader==True)->[asker_label], [asker_faction_leaderTitle]แห่ง[asker_faction_name], แจ้งให้เราทราบถึงคอลเล็คชั่นไอเท็มมีค่า [itemStashContentsValue] อยู่ไม่ไกลจากเรา คอลเล็คชั่นประกอบด้วย:\n\n[itemStashContents]\n\n[asker_label] กล่าวว่า [allSitePartsDescriptionsExceptFirst]</li>
   </OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
   <!-- EN:
@@ -22,10 +22,22 @@
     <li>treasure->Goodies</li>
     <li>treasure->Supplies</li>
   -->
-  <OpportunitySite_ItemStash.questNameRules.rulesStrings>TODO</OpportunitySite_ItemStash.questNameRules.rulesStrings>
+  <OpportunitySite_ItemStash.questNameRules.rulesStrings>
+    <li>questName(priority=1)->[asker_nameDef] [stash] ของ [treasure]</li>
+    <li>questName->[stash] ของ [treasure]</li>
+    <li>stash->สะสม</li>
+    <li>stash->แคช</li>
+    <li>stash->ของสะสม</li>
+    <li>stash->กระท่อม</li>
+    <li>treasure->สมบัติ</li>
+    <li>treasure->ของมีค่า</li>
+    <li>treasure->โชคลาภ</li>
+    <li>treasure->สารพัด</li>
+    <li>treasure->พัสดุ</li>
+  </OpportunitySite_ItemStash.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>ภารกิจหมดอายุ: [resolvedQuestName]</OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>
   <!-- EN: Intercepted communications indicate the item stash has been claimed by others. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>การสื่อสารที่ถูกดักจับแสดงว่ามีผู้อื่นอ้างสิทธิ์ในคลังเก็บของ ภารกิจ [resolvedQuestName] หมดอายุแล้ว</OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

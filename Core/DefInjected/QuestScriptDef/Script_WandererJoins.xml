@@ -4,14 +4,12 @@
   <!-- EN:
     <li>questDescription-></li>
   -->
-  <WandererJoins.questDescriptionRules.rulesStrings />
+  <WandererJoins.questDescriptionRules.rulesStrings>TODO</WandererJoins.questDescriptionRules.rulesStrings />
   <!-- EN:
     <li>questName->Wanderer joins</li>
   -->
-  <WandererJoins.questNameRules.rulesStrings>TODO</WandererJoins.questNameRules.rulesStrings>
-  
-  <!-- UNUSED -->
-  <WandererJoins.questDescriptionRules.rulesStrings />
-  <WandererJoins.questNameRules.rulesStrings>TODO</WandererJoins.questNameRules.rulesStrings>
-  
+  <WandererJoins.questNameRules.rulesStrings>
+      <li>questName->Wanderer เข้าร่วม</li>
+  </WandererJoins.questNameRules.rulesStrings>
+
 </LanguageData>

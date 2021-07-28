@@ -45,9 +45,9 @@
   <Research.description>พิจารณาและเลือกโครงการวิจัย</Research.description>
   
   <!-- EN: schedule -->
-  <Restrict.label>ควบคุม</Restrict.label>
+  <Schedule.label>ควบคุม</Schedule.label>
   <!-- EN: Schedule colonists' activities to certain times of day, and set their allowed areas. -->
-  <Restrict.description>ควบคุมให้ชาวนิคมทำกิจกรรมเวลาใดในแต่ละวัน หรือกำหนดพื้นที่ๆอณุญาต</Restrict.description>
+  <Schedule.description>ควบคุมให้ชาวนิคมทำกิจกรรมเวลาใดในแต่ละวัน หรือกำหนดพื้นที่ๆอณุญาต</Schedule.description>
   
   <!-- EN: wildlife -->
   <Wildlife.label>สัตว์ป่า</Wildlife.label>

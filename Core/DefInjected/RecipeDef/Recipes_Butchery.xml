@@ -9,14 +9,14 @@
   <ButcherCorpseFlesh.jobString>กำลังแล่เนื้อ</ButcherCorpseFlesh.jobString>
   
   <!-- EN: shred mechanoid -->
-  <ButcherCorpseMechanoid.label>แยกชิ้นเมคานอยด์</ButcherCorpseMechanoid.label>
+  <ButcherCorpseMechanoid.label>แยกชิ้น เมคานอยด์</ButcherCorpseMechanoid.label>
   <!-- EN: Shred a dead mechanoid to try to salvage usable material. -->
   <ButcherCorpseMechanoid.description>รื้อชิ้นส่วนของเมคานอยด์ที่ตายแล้ว ให้กลายเป็นคอมโพเน้นท์</ButcherCorpseMechanoid.description>
   <!-- EN: Shredding mechanoid. -->
   <ButcherCorpseMechanoid.jobString>กำลังแยกชิ้นเมคานอยด์</ButcherCorpseMechanoid.jobString>
   
   <!-- EN: smash mechanoid -->
-  <SmashCorpseMechanoid.label>ทุบเมคานอยด์</SmashCorpseMechanoid.label>
+  <SmashCorpseMechanoid.label>ทุบ เมคานอยด์</SmashCorpseMechanoid.label>
   <!-- EN: Smash a dead mechanoid with simple hand tools to salvage usable material. -->
   <SmashCorpseMechanoid.description>ทุบเมคานอยด์ที่ตายแล้วด้วยเครื่องมือง่ายๆ เพื่อกอบกู้วัสดุที่ใช้งานได้</SmashCorpseMechanoid.description>
   <!-- EN: Smashing mechanoid. -->

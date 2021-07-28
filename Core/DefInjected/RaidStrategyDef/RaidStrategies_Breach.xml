@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: They are attacking immediately.\n\nThese raiders intend to breach your walls. They'll determine their own path into your colony and destroy anything in their way. -->
-  <ImmediateAttackBreaching.arrivalTextEnemy>พวกเขากำลังโจมตีทันที\in\ผู้ก่อจลาจลเหล่านี้ตั้งใจที่จะทำลายกำแพงของคุณ พวกเขาจะกำหนดเส้นทางของตนเองเข้าไปในอาณานิคมของคุณและทำลายทุกสิ่งที่ขวางทาง</ImmediateAttackBreaching.arrivalTextEnemy>
+  <ImmediateAttackBreaching.arrivalTextEnemy>พวกเขากำลังโจมตีทันที\n\nผู้ก่อจลาจลเหล่านี้ตั้งใจที่จะทำลายกำแพงของคุณ พวกเขาจะกำหนดเส้นทางของตนเองเข้าไปในอาณานิคมของคุณและทำลายทุกสิ่งที่ขวางทาง</ImmediateAttackBreaching.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
   <ImmediateAttackBreaching.arrivalTextFriendly>พวกเขาเคลื่อนที่เข้ามาช่วยคุณทันที</ImmediateAttackBreaching.arrivalTextFriendly>
   <!-- EN: Raid -->

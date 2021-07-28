@@ -6,7 +6,7 @@
   <!-- EN: Dirt in the eyes. It impairs vision, but can be cleared in a few moments. -->
   <DirtInEyes.description>ดินเข้าตา ทำให้สายตาแย่ลง แต่ประเดี๋ยวเดียวก็สามารถปัดออกไปได้</DirtInEyes.description>
   <!-- EN: blind -->
-  <DirtInEyes.battleStateLabel>TODO</DirtInEyes.battleStateLabel>
+  <DirtInEyes.battleStateLabel>ตาบอด</DirtInEyes.battleStateLabel>
   <!-- EN: dirt -->
   <DirtInEyes.labelNoun>ดิน</DirtInEyes.labelNoun>
   
@@ -15,7 +15,7 @@
   <!-- EN: Gravel in the eyes. It impairs vision, but can be cleared in a few moments. -->
   <GravelInEyes.description>กรวดเข้าตา ทำให้สายตาแย่ลง แต่ประเดี๋ยวเดียวก็สามารถปัดออกไปได้</GravelInEyes.description>
   <!-- EN: blind -->
-  <GravelInEyes.battleStateLabel>TODO</GravelInEyes.battleStateLabel>
+  <GravelInEyes.battleStateLabel>ตาบอด</GravelInEyes.battleStateLabel>
   <!-- EN: gravel -->
   <GravelInEyes.labelNoun>กรวด</GravelInEyes.labelNoun>
   
@@ -24,7 +24,7 @@
   <!-- EN: Mud in the eyes. It impairs vision, but can be cleared in a few moments. -->
   <MudInEyes.description>โคลนเข้าตา ทำให้สายตาแย่ลง แต่ประเดี๋ยวเดียวก็สามารถปัดออกไปได้</MudInEyes.description>
   <!-- EN: blind -->
-  <MudInEyes.battleStateLabel>TODO</MudInEyes.battleStateLabel>
+  <MudInEyes.battleStateLabel>ตาบอด</MudInEyes.battleStateLabel>
   <!-- EN: mud -->
   <MudInEyes.labelNoun>โคลน</MudInEyes.labelNoun>
   
@@ -33,7 +33,7 @@
   <!-- EN: Sand in the eyes. It impairs vision, but can be cleared within a few moments. -->
   <SandInEyes.description>ทรายเข้าตา ทำให้สายตาแย่ลง แต่ประเดี๋ยวเดียวก็สามารถปัดออกไปได้</SandInEyes.description>
   <!-- EN: blind -->
-  <SandInEyes.battleStateLabel>TODO</SandInEyes.battleStateLabel>
+  <SandInEyes.battleStateLabel>ตาบอด</SandInEyes.battleStateLabel>
   <!-- EN: sand -->
   <SandInEyes.labelNoun>ทราย</SandInEyes.labelNoun>
   
@@ -42,7 +42,7 @@
   <!-- EN: Water in the eyes. It impairs vision, but can be cleared in a few moments. -->
   <WaterInEyes.description>น้ำเข้าตา ทำให้สายตาแย่ลง แต่ประเดี๋ยวเดียวก็สามารถปัดออกไปได้</WaterInEyes.description>
   <!-- EN: blind -->
-  <WaterInEyes.battleStateLabel>TODO</WaterInEyes.battleStateLabel>
+  <WaterInEyes.battleStateLabel>ตาบอด</WaterInEyes.battleStateLabel>
   <!-- EN: water -->
   <WaterInEyes.labelNoun>น้ำ</WaterInEyes.labelNoun>
   

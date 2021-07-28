@@ -148,31 +148,31 @@
     <li>TalkTopicHeavy(p=0.08)->ความสัมพันธ์ระหว่าง [talktopicheavyfile] กับ [talktopicheavyfile]</li>
     <li>TalkTopicLight(p=25)->[talktopiclightfile]</li>
     <li>TalkTopicLight->[Vegetable]s</li>
-    <li>TalkTopicLight->การกิน[Vegetable]</li>
-    <li>TalkTopicLight->การปรุงอาหารด้วย[Vegetable]</li>
+    <li>TalkTopicLight->การกิน [Vegetable]</li>
+    <li>TalkTopicLight->การปรุงอาหารด้วย [Vegetable]</li>
     <li>TalkTopicLight->[Game]</li>
-    <li>TalkTopicLight->การเล่น[Game]</li>
-    <li>TalkTopicLight->การฝึกเล่น[Game]</li>
-    <li>TalkTopicLight->การเรียนเล่น[Game]</li>
+    <li>TalkTopicLight->การเล่น [Game]</li>
+    <li>TalkTopicLight->การฝึกเล่น [Game]</li>
+    <li>TalkTopicLight->การเรียนเล่น [Game]</li>
     <li>TalkTopicLight->[Animal]</li>
-    <li>TalkTopicLight->การฝึกฝน[Animal]</li>
-    <li>TalkTopicLight->การทำ[Animal]ให้เชื่อง</li>
-    <li>TalkTopicLight->การต่อสู้[Animal]</li>
+    <li>TalkTopicLight->การฝึกฝน [Animal]</li>
+    <li>TalkTopicLight->การทำ [Animal] ให้เชื่อง</li>
+    <li>TalkTopicLight->การต่อสู้ [Animal]</li>
     <li>TalkTopicLight->[Animal] บ้า</li>
     <li>TalkTopicLight->[Weapon]</li>
-    <li>TalkTopicLight->การใช้งาน[Weapon]</li>
-    <li>TalkTopicLight->การฝึกใช้[Weapon]</li>
+    <li>TalkTopicLight->การใช้งาน [Weapon]</li>
+    <li>TalkTopicLight->การฝึกใช้ [Weapon]</li>
     <li>TalkTopicLight->[TerrainFeature]</li>
     <li>TalkTopicLight->[NaturalObject]</li>
-    <li>TalkTopicLight->ต้น[TreeType]</li>
+    <li>TalkTopicLight->ต้น [TreeType]</li>
     <li>TalkTopicLight->[PersonJob]</li>
-    <li>TalkTopicLight->เป็นเพื่อนกับ[PersonJob] </li>
-    <li>TalkTopicLight->เป็นศัตรูกับ[PersonJob] </li>
+    <li>TalkTopicLight->เป็นเพื่อนกับ [PersonJob] </li>
+    <li>TalkTopicLight->เป็นศัตรูกับ [PersonJob] </li>
     <li>TalkTopicLight->[Enemy]</li>
-    <li>TalkTopicLight->การต่อสู้กับ[Enemy]</li>
+    <li>TalkTopicLight->การต่อสู้กับ [Enemy]</li>
     <li>TalkTopicLight->[Apparel]</li>
-    <li>TalkTopicLight->การสวมใส่[Apparel]</li>
-    <li>TalkTopicLight->การตัดเย็บ[Apparel]</li>
+    <li>TalkTopicLight->การสวมใส่ [Apparel]</li>
+    <li>TalkTopicLight->การตัดเย็บ [Apparel]</li>
     <li>talktopicheavyfile(p=0.15)->เซ็ก</li>
     <li>talktopicheavyfile(p=0.15)->การยั่วยวน</li>
     <li>talktopicheavyfile(p=0.15)->การผสมพันธ์สัตว์</li>

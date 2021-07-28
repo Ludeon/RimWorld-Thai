@@ -6,7 +6,11 @@
     <li>qualityInfo(requestedThingHasQuality==True,priority=1)->of normal+ quality </li>
     <li>qualityInfo-></li>
   -->
-  <TradeRequest.questDescriptionRules.rulesStrings>TODO</TradeRequest.questDescriptionRules.rulesStrings>
+  <TradeRequest.questDescriptionRules.rulesStrings>
+    <li>questDescription->การตั้งถิ่นฐานในบริเวณใกล้เคียง [settlement_label] มีคำขอการค้าพิเศษ พวกเขาต้องการซื้อ:\n\n [requestedThingCount]x [requestedThing_label] [qualityInfo](value [requestedThingMarketValue_money])\n\nหากคุณต้องการแลกเปลี่ยน ให้ส่งกองคาราวานพร้อมสิ่งของที่ร้องขอ เวลาเดินทางโดยประมาณคือ [estimatedTravelTime_duration]</li>
+    <li>qualityInfo(requestedThingHasQuality==True,priority=1)->ปกติ+ คุณภาพ </li>
+    <li>qualityInfo-></li>
+  </TradeRequest.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Caravan to [settlement_label]</li>
     <li>questName->Trade with [settlement_label]</li>
@@ -21,14 +25,27 @@
     <li>trade->Deal</li>
     <li>trade->Offer</li>
   -->
-  <TradeRequest.questNameRules.rulesStrings>TODO</TradeRequest.questNameRules.rulesStrings>
+  <TradeRequest.questNameRules.rulesStrings>
+    <li>questName->คาราวานไปที่ [settlement_label]</li>
+    <li>questName->การค้ากับ [settlement_label]</li>
+    <li>questName->ขายให้ [settlement_label]</li>
+    <li>questName->วัสดุสำหรับ [settlement_label]</li>
+    <li>questName->[trade] [special]</li>
+    <li>special->พิเศษ</li>
+    <li>special->มีเอกลักษณ์</li>
+    <li>special->ไม่ใช่แบบดั้งเดิม</li>
+    <li>trade->ซื้อขาย</li>
+    <li>trade->แลกเปลี่ยน</li>
+    <li>trade->ข้อเสนอ</li>
+    <li>trade->เสนอ</li>
+  </TradeRequest.questNameRules.rulesStrings>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <TradeRequest.LetterLabelQuestFailed.slateRef>TODO</TradeRequest.LetterLabelQuestFailed.slateRef>
+  <TradeRequest.LetterLabelQuestFailed.slateRef>ภารกิจล้มเหลว: [resolvedQuestName]</TradeRequest.LetterLabelQuestFailed.slateRef>
   <!-- EN: [faction_name] became hostile to you. -->
-  <TradeRequest.LetterTextQuestFailed.slateRef>TODO</TradeRequest.LetterTextQuestFailed.slateRef>
+  <TradeRequest.LetterTextQuestFailed.slateRef>[faction_name] กลายเป็นศัตรูกับคุณ</TradeRequest.LetterTextQuestFailed.slateRef>
   <!-- EN: [asker_faction_royalFavorLabel] -->
   <TradeRequest.LetterLabelFavorReceiver.slateRef>TODO</TradeRequest.LetterLabelFavorReceiver.slateRef>
   <!-- EN: Who should be credited with [asker_faction_royalFavorLabel] for fulfilling the trade request? -->
-  <TradeRequest.LetterTextFavorReceiver.slateRef>TODO</TradeRequest.LetterTextFavorReceiver.slateRef>
+  <TradeRequest.LetterTextFavorReceiver.slateRef>ใครควรจะให้เครดิตกับ [asker_faction_royalFavorLabel] เพื่อตอบสนองการร้องขอการค้า?</TradeRequest.LetterTextFavorReceiver.slateRef>
   
 </LanguageData>

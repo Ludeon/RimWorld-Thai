@@ -43,11 +43,11 @@
   <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>รีเซ็ตคอนฟิกม็อดอัตโนมัติเมื่อเกมแครช</ResetModsConfigOnCrash>
   <!-- EN: Simulate not owning Royalty -->
-  <SimulateNotOwningRoyalty>TODO</SimulateNotOwningRoyalty>
+  <SimulateNotOwningRoyalty>จำลองไม่ได้เป็นเจ้าของ Royalty</SimulateNotOwningRoyalty>
   <!-- EN: Simulate not owning Ideology -->
-  <SimulateNotOwningIdeology>TODO</SimulateNotOwningIdeology>
+  <SimulateNotOwningIdeology>จำลองไม่ได้เป็นเจ้าของ Ideology</SimulateNotOwningIdeology>
   <!-- EN: Verbose logging -->
-  <LogVerbose>Verbose logging</LogVerbose>
+  <LogVerbose>การบันทึกอย่างละเอียด</LogVerbose>
   <!-- EN: Open save data folder -->
   <OpenSaveGameDataFolder>เปิดโฟลเดอร์ข้อมูลเซฟเกม</OpenSaveGameDataFolder>
   <!-- EN: Show save data location -->

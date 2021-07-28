@@ -41,7 +41,7 @@
   <DropEquipment.reportString>กำลังจะทิ้ง TargetA</DropEquipment.reportString>
   
   <!-- EN: emptying TargetA. -->
-  <EmptyThingContainer.reportString>TODO</EmptyThingContainer.reportString>
+  <EmptyThingContainer.reportString>กำลังเท TarjetA</EmptyThingContainer.reportString>
   
   <!-- EN: entering cryptosleep casket. -->
   <EnterCryptosleepCasket.reportString>กำลังเข้าโลงคริปโตสลีป</EnterCryptosleepCasket.reportString>

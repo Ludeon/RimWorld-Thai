@@ -10,7 +10,15 @@
     <li>leaderPawnInfo(playerFaction_hasLeader==True,priority=1)-> [playerFaction_leaderTitle] [playerFaction_leader_nameFull] will get a bonus to the chance of a successful outcome.</li>
     <li>leaderPawnInfo-></li>
   -->
-  <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>TODO</OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
+  <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
+    <li>questDescription->[faction_leader_nameFull], [faction_leaderTitle] จาก [faction_name] ส่งข้อความถึงเรา [faction_leader_pronoun] ต้องการคุยกับเราในพื้นที่ใกล้เคียง\n\nอาจเป็นโอกาสที่ดีในการปรับปรุงความสัมพันธ์กับฝ่ายของพวกเขาและรับของขวัญ แต่ระวัง นักเจรจาที่ไม่ดีสามารถก่อให้เกิดอันตรายมากกว่าดีและอาจถึงขั้นทำให้พวกเขาโกรธ [extraLeaderPart][favorRewardDetails]</li>
+    <li>favorRewardDetails(faction_leader_royalInCurrentFaction==True,priority=1)->\n\nการเจรจาสันติภาพที่ประสบความสำเร็จอาจทำให้ผู้เจรจาของคุณได้รับ [faction_royalFavorLabel] ส่วนตัวกับ [faction_name] เพียงเล็กน้อย</li>
+    <li>favorRewardDetails-></li>
+    <li>extraLeaderPart-></li>
+    <li>leaderRoleEffect->ฝ่ายอื่นๆ จะเคารพคุณมากขึ้น ถ้าคุณส่งหัวหน้าไปจัดการการเจรจา</li>
+    <li>leaderPawnInfo(playerFaction_hasLeader==True,priority=1)-> [playerFaction_leaderTitle] [playerFaction_leader_nameFull] จะได้รับโบนัสสำหรับโอกาสในการบรรลุผลสำเร็จ</li>
+    <li>leaderPawnInfo-></li>
+  </OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[faction_leader_nameDef]'s [peaceTalks]</li>
     <li>questName->[peaceTalks] with [faction_leader_nameDef]</li>
@@ -20,10 +28,18 @@
     <li>peaceTalks->Diplomacy</li>
     <li>peaceTalks->Meeting</li>
   -->
-  <OpportunitySite_PeaceTalks.questNameRules.rulesStrings>TODO</OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
+  <OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
+    <li>questName->[peaceTalks] [faction_leader_nameDef]</li>
+    <li>questName->[peaceTalks] กับ [faction_leader_nameDef]</li>
+    <li>questName->[peaceTalks]</li>
+    <li>questName->[peaceTalks]</li>
+    <li>peaceTalks->พูดคุยสันติภาพ</li>
+    <li>peaceTalks->การทูต</li>
+    <li>peaceTalks->การประชุม</li>
+  </OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>ภารกิจหมดอายุ: [resolvedQuestName]</OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>
   <!-- EN: The offer of peace talks with [faction_name] has expired. You have failed the quest [resolvedQuestName]. -->
-  <OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>ข้อเสนอการเจรจาสันติภาพกับ [faction_name] หมดอายุแล้ว คุณล้มเหลวในภารกิจ [resolvedQuestName]</OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

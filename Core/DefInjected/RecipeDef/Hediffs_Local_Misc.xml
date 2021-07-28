@@ -11,12 +11,12 @@
   <CureScaria.successfullyRemovedHediffMessage>TODO</CureScaria.successfullyRemovedHediffMessage>
   
   <!-- EN: sterilize -->
-  <Sterilize.label>TODO</Sterilize.label>
+  <Sterilize.label>ทำหมัน</Sterilize.label>
   <!-- EN: Sterilize a creature so it can no longer reproduce. -->
-  <Sterilize.description>TODO</Sterilize.description>
+  <Sterilize.description>ทำหมันสิ่งมีชีวิตจึงไม่สามารถแพร่พันธุ์ได้อีกต่อไป</Sterilize.description>
   <!-- EN: sterilizing TargetA. -->
-  <Sterilize.jobString>TODO</Sterilize.jobString>
+  <Sterilize.jobString>ทำหมัน TarjetA</Sterilize.jobString>
   <!-- EN: {0} has successfully sterilized {1}. -->
-  <Sterilize.successfullyRemovedHediffMessage>TODO</Sterilize.successfullyRemovedHediffMessage>
+  <Sterilize.successfullyRemovedHediffMessage>{0} ทำหมันได้สำเร็จ {1}</Sterilize.successfullyRemovedHediffMessage>
   
 </LanguageData>

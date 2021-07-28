@@ -63,7 +63,7 @@
 
   <!-- Caravan health -->
   <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
-  <BeCarriedIfSickTip>เมื่อล้มป่วย จะให้สมาชิกคาราวานมาช่วยแบกหรือไม่\n\nสมาชิกคาราวานที่โดนแบก จะได้พักผ่อนแม้ตอนคาราวานเคลื่อนที่ แต่จะทำให้การเดินทางของพวกเขาช้าลง</BeCarriedIfSickTip>
+  <BeCarriedIfSickTip>เมื่อล้มป่วย จะให้สมาชิกคาราวานมาช่วยขนหรือไม่\n\nสมาชิกคาราวานที่โดนขน จะได้พักผ่อนแม้ตอนคาราวานเคลื่อนที่ แต่จะทำให้การเดินทางของพวกเขาช้าลง</BeCarriedIfSickTip>
   
   <!-- Planet -->
   <!-- EN: Seed -->

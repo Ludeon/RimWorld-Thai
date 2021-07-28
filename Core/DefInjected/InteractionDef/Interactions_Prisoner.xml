@@ -40,13 +40,13 @@
     <li>subject(p=8)->[TalkTopicLight]</li>
   -->
   <BuildRapport.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef][toldastoryabout][subject]กับ[RECIPIENT_nameDef]</li>
-    <li>r_logentry->[INITIATOR_nameDef]บอก[RECIPIENT_nameDef]เกี่ยวกับ[subject]</li>
-    <li>r_logentry->[INITIATOR_nameDef]อธิบาย[subject]กับ[RECIPIENT_nameDef]</li>
-    <li>r_logentry->[INITIATOR_nameDef]ปลุกใจให้[RECIPIENT_nameDef][talkabout][subject]</li>
-    <li>r_logentry->[INITIATOR_nameDef]เสนอโอกาสให้[RECIPIENT_nameDef][talkabout][subject]</li>
-    <li>r_logentry->[INITIATOR_nameDef]แสดงความสนใจกับ[PersonalCharacteristic]ของ[RECIPIENT_nameDef]</li>
-    <li>r_logentry->[INITIATOR_nameDef]ถาม[RECIPIENT_nameDef]เกี่ยวกับ[PersonalCharacteristic]ของ[RECIPIENT_possessive]</li>
+    <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] กับ [RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef] บอก [RECIPIENT_nameDef] เกี่ยวกับ [subject]</li>
+    <li>r_logentry->[INITIATOR_nameDef] อธิบาย [subject] กับ [RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef] ปลุกใจให้ [RECIPIENT_nameDef] [talkabout] [subject]</li>
+    <li>r_logentry->[INITIATOR_nameDef] เสนอโอกาสให้ [RECIPIENT_nameDef] [talkabout] [subject]</li>
+    <li>r_logentry->[INITIATOR_nameDef] แสดงความสนใจกับ [PersonalCharacteristic] ของ [RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef] ถาม [RECIPIENT_nameDef] เกี่ยวกับ [PersonalCharacteristic] ของ [RECIPIENT_possessive]</li>
     <li>toldastoryabout(p=2)->เล่าเรื่องเกี่ยวกับ</li>
     <li>toldastoryabout->เล่าเรื่องตลกเกี่ยวกับ</li>
     <li>toldastoryabout->เล่าเรื่องซึ้งใจเกี่ยวกับ</li>
@@ -85,10 +85,10 @@
     <li>goodthing->free, fresh [Vegetable]s</li>
   -->
   <RecruitAttempt.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] to join.</li>
-    <li>r_logentry->[INITIATOR_nameDef] promised [goodthing] to [RECIPIENT_nameDef], and asked [RECIPIENT_objective] to join.</li>
+    <li>r_logentry->[INITIATOR_nameDef] ขอให้ [RECIPIENT_nameDef] เข้าร่วม</li>
+    <li>r_logentry->[INITIATOR_nameDef] สัญญา [goodthing] กับ [RECIPIENT_nameDef] และขอให้ [RECIPIENT_objective] เข้าร่วม</li>
     <li>goodthing(p=15)->[ConceptPositive]</li>
-    <li>goodthing->free, fresh [Vegetable]s</li>
+    <li>goodthing->อิสระ สดชื่น [Vegetable]s</li>
   </RecruitAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: spark jailbreak -->
@@ -104,10 +104,10 @@
     <li>freedom->self-determination</li>
   -->
   <SparkJailbreak.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef]พูดถึงความสุขสำราญของ[freedom] แล้วเสนอหนทางออกไปให้</li>
-    <li>r_logentry->[INITIATOR_nameDef]คุยว่า[TerrainFeature]มันงดงามแค่ไหน แล้วเสนอเสรีภาพ</li>
-    <li>r_logentry->[INITIATOR_nameDef]แสดงหนทางออกให้[RECIPIENT_nameDef]ดู แล้วสัญญาให้[freedom].</li>
-    <li>r_logentry->[INITIATOR_nameDef]บอก[RECIPIENT_nameDef]ว่าการรักษาความปลอดภัยหย่อนลง แล้วปลุกใจให้หนี</li>
+    <li>r_logentry->[INITIATOR_nameDef] พูดถึงความสุขสำราญของ [freedom] แล้วเสนอหนทางออกไปให้</li>
+    <li>r_logentry->[INITIATOR_nameDef] คุยว่า[TerrainFeature]มันงดงามแค่ไหน แล้วเสนอเสรีภาพ</li>
+    <li>r_logentry->[INITIATOR_nameDef] แสดงหนทางออกให้ [RECIPIENT_nameDef] ดู แล้วสัญญาให้[freedom].</li>
+    <li>r_logentry->[INITIATOR_nameDef] บอก [RECIPIENT_nameDef] ว่าการรักษาความปลอดภัยหย่อนลง แล้วปลุกใจให้หนี</li>
     <li>freedom->เสรีภาพ</li>
     <li>freedom->โอกาส</li>
     <li>freedom->บ้าน</li>

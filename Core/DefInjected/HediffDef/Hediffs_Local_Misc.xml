@@ -41,9 +41,9 @@
   <Scaria.description>โรคที่ทำให้สัตว์ที่ติดมันบ้าคลั่งเดือดดาล สามารถรักษาสิ่งมีชีวิตที่ติดสกาเรียได้ผ่านการผ่าตัดพิเศษ แต่ต้องไปล้มมันก่อน หากไม่ได้รับการรักษา สกาเรียจะฆ่าร่างอาศัยของมันประมาณห้าวันหลังการติดเชื้อ โรคนี้ทำให้เนื้อเป็นพิษและผิวหนังเน่า สัตว์ติดสกาเรียที่โดนฆ่าจะมีโอกาสเน่าเสียเมื่อตาย แล้วไม่สามารถนำมาชำแหละเอาเนื้อกับหนังได้</Scaria.description>
   
   <!-- EN: sterilized -->
-  <Sterilized.label>TODO</Sterilized.label>
+  <Sterilized.label>ทำหมัน</Sterilized.label>
   <!-- EN: This creature's reproductive system has been permanently shut down. -->
-  <Sterilized.description>TODO</Sterilized.description>
+  <Sterilized.description>ระบบสืบพันธุ์ของสิ่งมีชีวิตนี้ถูกปิดอย่างถาวร</Sterilized.description>
   
   <!-- EN: trauma savant -->
   <TraumaSavant.label>แผลปราชญ์</TraumaSavant.label>

@@ -12,7 +12,7 @@
   <!-- EN: violent -->
   <WorkTagViolent>ใช้ความรุนแรง</WorkTagViolent>
   <!-- EN: shooting -->
-  <WorkTagShooting>TODO</WorkTagShooting>
+  <WorkTagShooting>ยิงปืน</WorkTagShooting>
   <!-- EN: caring -->
   <WorkTagCaring>ดูแล</WorkTagCaring>
   <!-- EN: social -->
@@ -38,10 +38,10 @@
   <!-- EN: hunting -->
   <WorkTagHunting>ล่าสัตว์</WorkTagHunting>
   <!-- EN: constructing -->
-  <WorkTagConstructing>TODO</WorkTagConstructing>
+  <WorkTagConstructing>กำลังก่อสร้าง</WorkTagConstructing>
   <!-- EN: commoner work -->
   <WorkTagCommoner>งานสามัญชน</WorkTagCommoner>
   <!-- EN: all work -->
-  <WorkTagAllWork>TODO</WorkTagAllWork>
+  <WorkTagAllWork>งานทั้งหมด</WorkTagAllWork>
 
 </LanguageData>

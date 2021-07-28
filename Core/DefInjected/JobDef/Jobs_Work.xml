@@ -11,16 +11,16 @@
   <Capture.reportString>กำลังจับตัว TargetA</Capture.reportString>
   
   <!-- EN: carrying TargetA. -->
-  <CarryDownedPawnDrafted.reportString>กำลังแบก TargetA</CarryDownedPawnDrafted.reportString>
+  <CarryDownedPawnDrafted.reportString>กำลังขน TargetA</CarryDownedPawnDrafted.reportString>
   
   <!-- EN: carrying TargetA. -->
-  <CarryDownedPawnToExit.reportString>กำลังแบก TargetA</CarryDownedPawnToExit.reportString>
+  <CarryDownedPawnToExit.reportString>กำลังขน TargetA</CarryDownedPawnToExit.reportString>
   
   <!-- EN: carrying TargetA to cryptosleep casket. -->
-  <CarryToCryptosleepCasket.reportString>กำลังแบก TargetA ไปยังโลงคริปโตสลีป</CarryToCryptosleepCasket.reportString>
+  <CarryToCryptosleepCasket.reportString>กำลังขน TargetA ไปยังโลงคริปโตสลีป</CarryToCryptosleepCasket.reportString>
   
   <!-- EN: carrying TargetA to cryptosleep casket. -->
-  <CarryToCryptosleepCasketDrafted.reportString>กำลังแบก TargetA ไปยังโลงคริปโตสลีป</CarryToCryptosleepCasketDrafted.reportString>
+  <CarryToCryptosleepCasketDrafted.reportString>กำลังขน TargetA ไปยังโลงคริปโตสลีป</CarryToCryptosleepCasketDrafted.reportString>
   
   <!-- EN: arresting TargetA. -->
   <CarryToPrisonerBedDrafted.reportString>กำลังจับกุม TargetA</CarryToPrisonerBedDrafted.reportString>

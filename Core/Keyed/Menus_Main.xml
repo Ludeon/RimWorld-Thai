@@ -27,7 +27,7 @@
   <!-- EN: Cleanup translation files -->
   <CleanupTranslationFiles>ทำความสะอาดไฟล์การแปล</CleanupTranslationFiles>
   <!-- EN: Update translations files (TKey's) -->
-  <TranslationFilesTKeyUpdate>TODO</TranslationFilesTKeyUpdate>
+  <TranslationFilesTKeyUpdate>อัปเดตไฟล์การแปล (TKey's)</TranslationFilesTKeyUpdate>
   <!-- EN: Cleaning translation files -->
   <CleaningTranslationFiles>กำลังทำความสะอาดไฟล์การแปล</CleaningTranslationFiles>
   <!-- EN: Credits -->
@@ -153,9 +153,9 @@
   <!-- EN: Auto-sort mods -->
   <ResolveModOrder>จัดเรียงม็อดอัตโนมัติ</ResolveModOrder>
   <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
-  <ModReorderConflict_MustLoadAfter>TODO</ModReorderConflict_MustLoadAfter>
+  <ModReorderConflict_MustLoadAfter>ไม่สามารถย้าย {0}: ต้องโหลดหลังจาก {1}</ModReorderConflict_MustLoadAfter>
   <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
-  <ModReorderConflict_MustLoadBefore>TODO</ModReorderConflict_MustLoadBefore>
+  <ModReorderConflict_MustLoadBefore>ไม่สามารถย้าย {0}: {1} ต้องโหลดก่อน</ModReorderConflict_MustLoadBefore>
   <!-- EN: Unsubscribe -->
   <Unsubscribe>เลิกติดตาม</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
@@ -209,7 +209,7 @@
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
   <ModNotMadeForThisVersion>ม็อดนี้ไม่ได้ทำขึ้นสำหรับ RimWorld เวอร์ชั่นนี้ และก็คงจะทำงานไม่ถูกต้อง</ModNotMadeForThisVersion>
   <!-- EN: This mod is not made for this version of RimWorld. -->
-  <ModNotMadeForThisVersionShort>TODO</ModNotMadeForThisVersionShort>
+  <ModNotMadeForThisVersionShort>ม็อดของเขาไม่ได้สร้างขึ้นสำหรับ RimWorld เวอร์ชันนี้</ModNotMadeForThisVersionShort>
   <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
   <ModNotMadeForThisVersion_Newer>ม็อดนี้ทำขึ้นสำหรับ RimWorld เวอร์ชั่นใหม่กว่านี้ และก็คงจะทำงานไม่ถูกต้อง</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
@@ -269,7 +269,7 @@
   <!-- EN: Incompatible -->
   <Incompatible>เข้ากันไม่ได้</Incompatible>
   <!-- EN: Tag as translation -->
-  <TagAsTranslation>TODO</TagAsTranslation>
+  <TagAsTranslation>แท็กเป็นคำแปล</TagAsTranslation>
   <!-- EN: Too many (max {0}):  -->
   <TooMany>มากเกินไป (สูงสุด {0}): </TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
@@ -299,14 +299,14 @@
 
   <!-- custom difficulty settings -->
   <!-- EN: Custom playstyle settings -->
-  <DifficultyCustomSectionLabel>TODO</DifficultyCustomSectionLabel>
+  <DifficultyCustomSectionLabel>การตั้งค่าสไตล์การเล่นที่กำหนดเอง</DifficultyCustomSectionLabel>
   <!-- EN: Set to standard playstyle... -->
-  <DifficultyReset>TODO</DifficultyReset>
+  <DifficultyReset>กำหนดรูปแบบการเล่นมาตรฐาน...</DifficultyReset>
   
   <!-- EN: Threats -->
-  <DifficultyThreatSection>TODO</DifficultyThreatSection>
+  <DifficultyThreatSection>ภัยคุกคาม</DifficultyThreatSection>
   <!-- EN: Threat scale -->
-  <Difficulty_ThreatScale_Label>TODO</Difficulty_ThreatScale_Label>
+  <Difficulty_ThreatScale_Label>ระดับภัยคุกคาม</Difficulty_ThreatScale_Label>
   <!-- EN: Adjust the size of threats like raids and infestations, and the difficulty of quests. -->
   <Difficulty_ThreatScale_Info>TODO</Difficulty_ThreatScale_Info>
   <!-- EN: Major threats -->

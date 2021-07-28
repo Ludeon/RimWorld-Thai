@@ -5,7 +5,7 @@
     <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] based in a nearby camp have been raiding their caravans. The camp is controlled by [siteFaction_name].\n\n[asker_nameDef] is asking us to destroy the camp, which means eliminating all enemies and turrets. [asker_label] says that [sitePart0_description].</li>
   -->
   <OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
-    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] based in a nearby camp have been raiding their caravans. The camp is controlled by [siteFaction_name].\n\n[asker_nameDef] is asking us to destroy the camp, which means eliminating all enemies and turrets. [asker_label] says that [sitePart0_description].\n\nIf we succeed, [allRewardsDescriptions]\n    \n    questDescription->[asker_nameFull], [asker_faction_leaderTitle]แห่ง[asker_faction_name]ส่งข้อความถึงเรา\n\nดูเหมือนว่า [siteFaction_pawnsPlural] มีค่ายโจรตั้งอยู่บริเวณใกล้เคียง  กำลังบุกโจมตีกองคาราวานของพวกเขา ค่ายนั้นควบคุมโดย [siteFaction_name].\n\n[asker_nameDef]ขอให้เราทำลายค่าย ซึ่งหมายถึงการกำจัดศัตรูและป้อมปืนทั้งหมด [asker_label]กล่าวว่า [sitePart0_description]\n\nถ้าเราประสบความสำเร็จ [allRewardsDescriptions]</li>
+    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] จาก [asker_faction_name] ส่งข้อความถึงเรา เห็นได้ชัดว่า [siteFaction_pawnsPlural] ซึ่งอยู่ในค่ายใกล้เคียงได้บุกเข้าไปในกองคาราวานของพวกเขา ค่ายควบคุมโดย [siteFaction_name]\n\n[asker_nameDef] ขอให้เราทำลายค่าย ซึ่งหมายถึงการกำจัดศัตรูและป้อมปราการทั้งหมด [asker_label] บอกว่า [sitePart0_description]</li>
   </OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->The [bandit] [camp]</li>
@@ -25,28 +25,37 @@
     <li>bandit->Brigand</li>
   -->
   <OpportunitySite_BanditCamp.questNameRules.rulesStrings>
-    <li>questName->[asker_nameDef]'s Camp Bounty</li>
-    <li>questName->Camp of [enemyFaction_pawnsPlural]</li>
-    <li>questName->The Bandit Camp</li>
-    <li>questName->The Raider Camp</li>
-    <li>questName->Destroy the Camp</li>
-    <li>questName->Helping [asker_nameDef]</li>
+     <li>questName->[camp] [bandit]</li>
+     <li>questName->[camp] [bandit]</li>
+     <li>questName->[asker_nameDef] และ [camp]</li>
+     <li>camp->ค่าย</li>
+     <li>camp->ด่านหน้า</li>
+     <li>camp->ถ้ำ</li>
+     <li>camp->แคมป์</li>
+     <li>bandit->โจร</li>
+     <li>bandit->กองโจร</li>
+     <li>bandit->คนนอกกฎหมาย</li>
+     <li>bandit->สิ้นหวัง</li>
+     <li>bandit->ผู้ลี้ภัย</li>
+     <li>bandit->ตัวกวน</li>
+     <li>bandit->โจร</li>
+     <li>bandit->โจร</li>
   </OpportunitySite_BanditCamp.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>ภารกิจหมดอายุ: [resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>
   <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>ค่ายโจรอัดแน่นและเดินหน้าต่อไป ภารกิจ [resolvedQuestName] หมดอายุแล้ว</OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>TODO</OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>ภารกิจล้มเหลว: [resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>
   <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
-  <OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>TODO</OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>หลังจากถูกค้นพบ ค่ายโจรก็แยกย้ายกันไป ภารกิจ [resolvedQuestName] สิ้นสุดแล้ว</OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>
   <!-- EN: Payment arrived -->
-  <OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>TODO</OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>ชำระเงินแล้ว</OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>
   <!-- EN: You have defeated the bandit camp!\n\nThe payment from [asker_faction_name] has arrived. -->
-  <OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>TODO</OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>คุณเอาชนะค่ายโจรได้แล้ว!\n\nการชำระเงินจาก [asker_faction_name] มาถึงแล้ว</OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>
   <!-- EN: [asker_faction_royalFavorLabel] -->
   <OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>TODO</OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>
   <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
-  <OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>TODO</OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>ชาวอาณานิคมเหล่านี้เข้าร่วมในชัยชนะสำหรับภารกิจ [resolvedQuestName] [asker_definite] ต้องการทราบว่าใครควรได้รับ [royalFavorReward_amount] [asker_faction_royalFavorLabel] สำหรับบริการนี้</OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
   
 </LanguageData>

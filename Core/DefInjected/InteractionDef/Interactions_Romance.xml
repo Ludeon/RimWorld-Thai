@@ -10,10 +10,10 @@
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</li>
   -->
   <Breakup.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef]ขอเลิกกับ[RECIPIENT_nameDef]</li>
-    <li>r_logentry->[INITIATOR_nameDef]ขอเว้นระยะห่างกับ[RECIPIENT_nameDef]</li>
-    <li>r_logentry->[INITIATOR_nameDef]บอก[RECIPIENT_nameDef]ว่าไปกันไม่ได้</li>
-    <li>r_logentry->[INITIATOR_nameDef]บอก[RECIPIENT_nameDef]ว่าไปคบกับคนอื่นจะดีกว่า</li>
+    <li>r_logentry->[INITIATOR_nameDef] ขอเลิกกับ [RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef] ขอเว้นระยะห่างกับ [RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef] บอก [RECIPIENT_nameDef] ว่าไปกันไม่ได้</li>
+    <li>r_logentry->[INITIATOR_nameDef] บอก [RECIPIENT_nameDef] ว่าไปคบกับคนอื่นจะดีกว่า</li>
   </Breakup.logRulesInitiator.rulesStrings>
   
   <!-- EN: marriage proposal -->
@@ -24,9 +24,9 @@
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [RECIPIENT_objective].</li>
   -->
   <MarriageProposal.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef]ขอ[RECIPIENT_nameDef]แต่งงาน</li>
-    <li>r_logentry->[INITIATOR_nameDef]ขอมีชีวิตคู่ร่วมกับ[RECIPIENT_nameDef]</li>
-    <li>r_logentry->[INITIATOR_nameDef]บอก[RECIPIENT_nameDef]ว่า[INITIATOR_pronoun]ต้องการใช้ทั้งชีวิตของ[INITIATOR_possessive]ร่วมกับ[RECIPIENT_objective]</li>
+    <li>r_logentry->[INITIATOR_nameDef] ขอ [RECIPIENT_nameDef] แต่งงาน</li>
+    <li>r_logentry->[INITIATOR_nameDef] ขอมีชีวิตคู่ร่วมกับ [RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef] บอก [RECIPIENT_nameDef] ว่า [INITIATOR_pronoun] ต้องการใช้ทั้งชีวิตของ [INITIATOR_possessive] ร่วมกับ [RECIPIENT_objective]</li>
   </MarriageProposal.logRulesInitiator.rulesStrings>
   
   <!-- EN: romance attempt -->
@@ -94,7 +94,7 @@
     <li>romantic_noun(p=2)->[NaturalObject]</li>
   -->
   <RomanceAttempt.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef][wooed][RECIPIENT_nameDef]ด้วยการ[wootactic]</li>
+    <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] ด้วยการ [wootactic]</li>
     <li>wooed->พยายามจีบ</li>
     <li>wooed->เกี้ยวพาราสีกับ</li>
     <li>wooed->พยายามดึงความสนใจ</li>
@@ -104,14 +104,14 @@
     <li>wooed->ไล่ตามจีบ</li>
     <li>wooed->หว่านเสน่ห์</li>
     <li>wooed->จีบติด</li>
-    <li>wootactic(p=4)->[complimenting][PersonalCharacteristic][RECIPIENT_possessive]</li>
-    <li>wootactic->เล่าเรื่องเกี่ยวกับ[TalkTopicAny]</li>
-    <li>wootactic->เล่านิทานเกี่ยวกับ[TalkTopicAny]</li>
-    <li>wootactic->ล้อเล่นเกี่ยวกับ[TalkTopicAny]</li>
-    <li>wootactic->ตั้งข้อสังเกตเกี่ยวกับ[TalkTopicAny]</li>
-    <li>wootactic(p=2)->[boasting][PersonalCharacteristic][INITIATOR_possessive]เอง </li>
-    <li>wootactic->เปรียบเทียบ[RECIPIENT_objective]กับ[romantic_noun]อัน[romantic_adj]</li>
-    <li>wootactic->บรรยายว่า[RECIPIENT_objective]ราวกับ[romantic_noun]อัน[romantic_adj]</li>
+    <li>wootactic(p=4)->[complimenting] [PersonalCharacteristic] [RECIPIENT_possessive]</li>
+    <li>wootactic->เล่าเรื่องเกี่ยวกับ [TalkTopicAny]</li>
+    <li>wootactic->เล่านิทานเกี่ยวกับ [TalkTopicAny]</li>
+    <li>wootactic->ล้อเล่นเกี่ยวกับ [TalkTopicAny]</li>
+    <li>wootactic->ตั้งข้อสังเกตเกี่ยวกับ [TalkTopicAny]</li>
+    <li>wootactic(p=2)->[boasting] [PersonalCharacteristic] [INITIATOR_possessive]เอง </li>
+    <li>wootactic->เปรียบเทียบ [RECIPIENT_objective] กับ [romantic_noun] อัน [romantic_adj]</li>
+    <li>wootactic->บรรยายว่า [RECIPIENT_objective] ราวกับ [romantic_noun] อัน [romantic_adj]</li>
     <li>boasting->โอ้อวดเกี่ยวกับ</li>
     <li>boasting->เอ่ยถึง</li>
     <li>boasting->บอกเป็นนัยถึงเรื่องดีๆเกี่ยวกับ</li>

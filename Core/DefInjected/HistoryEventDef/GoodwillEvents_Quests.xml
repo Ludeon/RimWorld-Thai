@@ -8,7 +8,7 @@
   <FailedToKeepLodgersHappy.label>ล้มเหลวในการทำให้แขกมีความสุข</FailedToKeepLodgersHappy.label>
   
   <!-- EN: member missed shuttle -->
-  <MemberMissedShuttle.label>สมาชิกพลาดรถรับส่ง</MemberMissedShuttle.label>
+  <MemberMissedShuttle.label>สมาชิกพลาดกระสวยขนส่ง</MemberMissedShuttle.label>
   
   <!-- EN: monument construction expired -->
   <MonumentConstructionExpired.label>การก่อสร้างอนุสาวรีย์หมดอายุ</MonumentConstructionExpired.label>
@@ -35,9 +35,9 @@
   <QuestPrisonerRecruited.label>รับสมัครนักโทษแหกคุก</QuestPrisonerRecruited.label>
   
   <!-- EN: shuttle commander missed shuttle -->
-  <ShuttleCommanderMissedShuttle.label>ผู้บัญชาการรถรับส่งพลาดรถรับส่ง</ShuttleCommanderMissedShuttle.label>
+  <ShuttleCommanderMissedShuttle.label>ผู้บัญชาการกระสวยขนส่งพลาดกระสวยขนส่ง</ShuttleCommanderMissedShuttle.label>
   
   <!-- EN: shuttle guards missed shuttle -->
-  <ShuttleGuardsMissedShuttle.label>ยามรับส่งพลาดรถรับส่ง</ShuttleGuardsMissedShuttle.label>
+  <ShuttleGuardsMissedShuttle.label>ยามรับส่งพลาดกระสวยขนส่ง</ShuttleGuardsMissedShuttle.label>
   
 </LanguageData>

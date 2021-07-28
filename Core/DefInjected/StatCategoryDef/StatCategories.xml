@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: Ability -->
-  <Ability.label>TODO</Ability.label>
+  <Ability.label>ความสามารถ</Ability.label>
   
   <!-- EN: animal productivity -->
-  <AnimalProductivity.label>TODO</AnimalProductivity.label>
+  <AnimalProductivity.label>ผลผลิตสัตว์</AnimalProductivity.label>
   
   <!-- EN: Apparel -->
   <Apparel.label>เครื่องนุ่งห่ม</Apparel.label>
@@ -44,7 +44,7 @@
   <EquippedStatOffsets.label>หักล้างเมื่อสวมใส่</EquippedStatOffsets.label>
   
   <!-- EN: Implant -->
-  <Implant.label>TODO</Implant.label>
+  <Implant.label>ปลูกฝัง</Implant.label>
   
   <!-- EN: Meditation -->
   <Meditation.label>การทำสมาธิ</Meditation.label>

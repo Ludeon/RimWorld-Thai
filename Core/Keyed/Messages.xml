@@ -14,7 +14,7 @@
   <MessageRaidersStealing>{0} จาก {1} ตัดสินใจจะขโมยอะไรก็ตามเท่าที่สามารถและจากไป</MessageRaidersStealing>
 
   <!-- EN: {0} from {1} have arrived in the area of your caravan and are attacking. More are on the way and will arrive in {2}. -->
-  <MessageCaravanDetectedRaidArrived>TODO</MessageCaravanDetectedRaidArrived>
+  <MessageCaravanDetectedRaidArrived>{0} จาก {1} ได้มาถึงพื้นที่กองคาราวานของคุณและกำลังโจมตี กำลังดำเนินการเพิ่มเติมและจะมาถึงใน {2}</MessageCaravanDetectedRaidArrived>
 
   <!-- EN: {0} from {1} are leaving. -->
   <MessageRaidersLeaving>{0} จาก {1} กำลังจากไป</MessageRaidersLeaving>
@@ -49,7 +49,7 @@
   <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
   <MessageNeedBeaconToTradeWithShip>คุณจำเป็นต้องมี 'เทรดบีคอนวงโคจร' ที่ใช้งานได้ เพื่อทำการแลกเปลื่ยนกับยาน</MessageNeedBeaconToTradeWithShip>
   <!-- EN: Caller must have the title of {0_label} or higher. -->
-  <MessageNeedRoyalTitleToCallWithShip>TODO</MessageNeedRoyalTitleToCallWithShip>
+  <MessageNeedRoyalTitleToCallWithShip>ผู้โทรต้องมีชื่อ {0_label} ขึ้นไป</MessageNeedRoyalTitleToCallWithShip>
 
   <!-- EN: {0} has been destroyed. -->
   <MessageConditionCauserDespawned>{0} ถูกทำลายไป</MessageConditionCauserDespawned>
@@ -66,14 +66,14 @@
   <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
   <MessageOutOfNearbyShellsFor>{PAWN_labelShort} ไม่พบกระสุนปืนสำหรับ {GUN_label} ใกล้ๆตัว</MessageOutOfNearbyShellsFor>
   <!-- EN: {PAWN_labelShort} found no nearby unreserved {FUEL} for {GUN_label}. -->
-  <MessageOutOfNearbyFuelFor>TODO</MessageOutOfNearbyFuelFor>
+  <MessageOutOfNearbyFuelFor>{PAWN_labelShort} พบว่าไม่มี {FUEL} ที่ไม่ได้จองในบริเวณใกล้เคียงสำหรับ {GUN_label}</MessageOutOfNearbyFuelFor>
 
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} base chance to attack when harmed. Chance depends on range and hunter stealth stat. -->
   <MessageAnimalsGoPsychoHunted>คำเตือน: {ANIMAL_kindBasePlural} มีโอกาส {1} จะโจมตีกลับเมื่อถูกทำร้ายจากระยะไรเฟิล โอกาสสูงขึ้นเมื่อเข้าใกล้ โอกาสน้อยลงเมื่อพรานพลางตัวดี</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
   <MessageAnimalManhuntsOnTameFailed>คำเตือน: {ANIMAL_kindBasePlural} อาจโจมตี หากความพยายามทำให้เชื่องพลาด (โอกาส {1})</MessageAnimalManhuntsOnTameFailed>
   <!-- EN: Only those with the insect sympathy trait can tame {INSECT_indefinite}. -->
-  <MessageInsectTameDesignated>TODO</MessageInsectTameDesignated>
+  <MessageInsectTameDesignated>เฉพาะผู้ที่มีลักษณะความเห็นอกเห็นใจแมลงเท่านั้นที่จะเชื่อง {INSECT_indefinite}</MessageInsectTameDesignated>
   
   <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>ผู้เข้าร่วมคนใหม่</LetterLabelMessageRecruitSuccess>
@@ -84,12 +84,12 @@
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). It is now called {RECRUITEE_nameFull}. -->
   <MessageTameAndNameSuccess>{RECRUITER_labelShort} ประสบความสำเร็จในการทำ {1} ให้เชื่อง (โอกาส {2}) และตั้งชื่อ{RECRUITEE_objective}ว่า {RECRUITEE_nameFull}.</MessageTameAndNameSuccess>
   <!-- EN: There is no suitable animal pen for {ANIMAL_labelShort}. It will eventually roam away. -->
-  <MessageTameNoSuitablePens>TODO</MessageTameNoSuitablePens>
+  <MessageTameNoSuitablePens>{RECRUITER_labelShort} ระเหิด {1} ให้เชื่อง (โอกาส{2}) และกบ{RECRUITEE_objective}ว่า {RECRUITEE_nameFull}.</MessageTameNoSuitablePens>
   <!-- EN: {RECRUITEE} has joined your colony. -->
-  <MessageRecruitJoinOfferAccepted>TODO</MessageRecruitJoinOfferAccepted>
+  <MessageRecruitJoinOfferAccepted>{RECRUITEE} เข้าร่วมอาณานิคมของคุณแล้ว</MessageRecruitJoinOfferAccepted>
 
   <!-- EN: The colony cannot afford this deal. -->
-  <MessageColonyCannotAfford>อาณานิคมไม่สามารถแบกรับการแลกเปลื่ยนนี้ได้</MessageColonyCannotAfford>
+  <MessageColonyCannotAfford>อาณานิคมไม่สามารถขนรับการแลกเปลื่ยนนี้ได้</MessageColonyCannotAfford>
   <!-- EN: You do not have enough silver ready to trade. -->
   <MessageColonyNotEnoughSilver>คุณไม่มีแร่เงินเพียงพอที่จะแลกเปลื่ยน</MessageColonyNotEnoughSilver>
 
@@ -156,7 +156,7 @@
   <MessageMedicalOperationWillAngerFaction>ดำเนินการนี้จะทำให้ {0} โกรธ</MessageMedicalOperationWillAngerFaction>
 
   <!-- EN: {PAWN_nameDef} is pregnant! -->
-  <MessageAnimalIsPregnant>TODO</MessageAnimalIsPregnant>
+  <MessageAnimalIsPregnant>{PAWN_nameDef} กำลังตั้งท้อง!</MessageAnimalIsPregnant>
   <!-- EN: {0} has miscarried due to starvation. -->
   <MessageMiscarriedStarvation>{0} แท้งลูกเนื่องจากความอดอยาก</MessageMiscarriedStarvation>
   <!-- EN: {0} has miscarried due to poor health. -->
@@ -165,7 +165,7 @@
   <MessageGaveBirth>{0} ให้กำเนิด</MessageGaveBirth>
   
   <!-- EN: {PAWN_labelShort} won't be able to use the psylink while {PAWN_pronoun} has zero psychic sensitivity. -->
-  <MessagePsylinkNoSensitivity>TODO</MessagePsylinkNoSensitivity>
+  <MessagePsylinkNoSensitivity>{PAWN_labelShort} จะไม่สามารถใช้ไซลิงก์ได้ในขณะที่ {PAWN_pronoun} มีความอ่อนไหวทางจิตเป็นศูนย์</MessagePsylinkNoSensitivity>
   <!-- EN: {PAWN_labelShort} has lost a {1} implant level due to {2}. -->
   <MessageLostImplantLevelFromHediff>{PAWN_labelShort} เสียระดับ {1} ที่ฝังไว้เนื่องจาก {2}</MessageLostImplantLevelFromHediff>
   <!-- EN: {PAWN_labelShort} has suffered {1} points of brain damage due to {2}. -->
@@ -183,7 +183,7 @@
   <MessageAttackedByPredator>{PREY_labelShort0} กำลังถูกโจมตีโดย {PREDATOR}!</MessageAttackedByPredator>
 
   <!-- EN: {PAWN_labelShort} has started to roam away! {PAWN_pronoun} will leave the map unless an animal handler ropes {PAWN_objective} back to a pen. -->
-  <MessageRoamerLeaving>TODO</MessageRoamerLeaving>
+  <MessageRoamerLeaving>{PAWN_labelShort} เริ่มออกเดินทางแล้ว! {PAWN_pronoun} จะออกจากแผนที่เว้นแต่ผู้ดูแลสัตว์จะดึง {PAWN_objective} กลับไปที่ปากกา</MessageRoamerLeaving>
 
   <!-- EN: A bug hive has reproduced itself. -->
   <MessageHiveReproduced>รังแมลงขยายพันธุ์</MessageHiveReproduced>
@@ -351,7 +351,7 @@
   <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
   <MessageCantEquipIncapableOfViolence>ไม่อาจใช้งาน: {1_labelShort} ไม่สามารถใช้ความรุนแรงได้</MessageCantEquipIncapableOfViolence>
   <!-- EN: Cannot equip: {1_labelShort} is incapable of shooting. -->
-  <MessageCantEquipIncapableOfShooting>TODO</MessageCantEquipIncapableOfShooting>
+  <MessageCantEquipIncapableOfShooting>ไม่อาจใช้งาน: {1_labelShort} ไม่สามารถยิงได้</MessageCantEquipIncapableOfShooting>
   <!-- EN: Cannot equip: Incapable. -->
   <MessageCantEquipIncapableOfManipulation>ไม่อาจใช้งาน: ไม่สามารถ</MessageCantEquipIncapableOfManipulation>
   <!-- EN: Cannot wear: {1_labelShort} is missing required body parts. -->
@@ -364,7 +364,7 @@
   <!-- EN: Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
   <MessageSlaughteringBondedAnimal>เนื่องจากความผูกพันธ์ของพวกเขา การสังหาร {DESIGNATED_labelShort} จะทำให้ {BONDED_labelShort} ไม่พอใจ</MessageSlaughteringBondedAnimal>
   <!-- EN: Because they are bonded, releasing {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
-  <MessageReleaseBondedAnimal>TODO</MessageReleaseBondedAnimal>
+  <MessageReleaseBondedAnimal>เนื่องจากพวกเขาผูกพันกัน การปล่อย {DESIGNATED_labelShort} จะทำให้ {BONDED_labelShort} ไม่มีความสุข</MessageReleaseBondedAnimal>
   
   <!-- EN: {0} has run out of food ({PAWN_label}). -->
   <MessageCaravanRanOutOfFood>{0} หมดเสบียงอาหาร ({PAWN_label})</MessageCaravanRanOutOfFood>
@@ -385,7 +385,7 @@
   <!-- EN: Mechanoids have been assembled and will defend their cluster. -->
   <MessageMechanoidsAssembled>เมคานอยด์ถูกประกอบขึ้นและกำลังโจมตี</MessageMechanoidsAssembled>
   <!-- EN: Remaining mechanoids to assemble -->
-  <MessageMechanoidsLeftToAssemble>TODO</MessageMechanoidsLeftToAssemble>
+  <MessageMechanoidsLeftToAssemble>กลไกที่เหลืออยู่ในการประกอบ</MessageMechanoidsLeftToAssemble>
   <!-- EN: Mech drop beacon has summoned reinforcements in drop pods nearby. -->
   <MessageMechanoidsReinforcementsDrop>เมคดร๊อบบีคอน เรียกกำลังเสริมมาในกระสวนใกล้ๆ</MessageMechanoidsReinforcementsDrop>
 
@@ -407,9 +407,9 @@
   <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>ไม่มีผู้คุมคนไหนของคุณสามารถใช้ความรุนแรงได้ การประหารชีวิตจะไม่เกิดขึ้น</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
   
   <!-- EN: Area is now safe. You can reform the caravan on the world map. -->
-  <MessageCanReformCaravanNowNoMoreEnemies>TODO</MessageCanReformCaravanNowNoMoreEnemies>
+  <MessageCanReformCaravanNowNoMoreEnemies>ตอนนี้พื้นที่ปลอดภัยแล้ว คุณสามารถปฏิรูปกองคาราวานบนแผนที่โลก</MessageCanReformCaravanNowNoMoreEnemies>
   <!-- EN: Area is now safe, but some unexplored rooms remain. You can explore further or reform the caravan on the world map. -->
-  <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>TODO</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
+  <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>ขณะนี้พื้นที่ปลอดภัยแล้ว แต่ห้องที่ยังมิได้สำรวจบางส่วนยังคงอยู่ คุณสามารถสำรวจเพิ่มเติมหรือปฏิรูปกองคาราวานบนแผนที่โลก</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
 
   <!-- EN: Cannot banish {1_labelShort} since {1_pronoun} cannot walk. -->
   <MessageCantBanishDownedPawn>ไม่สามารถขับไล่ {1_labelShort} เนื่องจาก{1_pronoun}ไม่สามารถเดินได้</MessageCantBanishDownedPawn>
@@ -480,7 +480,7 @@
   <!-- EN: harvested {0} -->
   <GoodwillChangedReason_RemovedBodyPart>เก็บเกี่ยว {0}</GoodwillChangedReason_RemovedBodyPart>
   <!-- EN: removed {0} -->
-  <GoodwillChangedReason_RemovedImplant>TODO</GoodwillChangedReason_RemovedImplant>
+  <GoodwillChangedReason_RemovedImplant>ลบ {0}</GoodwillChangedReason_RemovedImplant>
   <!-- EN: downgraded {0} -->
   <GoodwillChangedReason_DowngradedImplant>ลดระดับ {0}</GoodwillChangedReason_DowngradedImplant>
   <!-- EN: needlessly installed {0} -->
@@ -492,7 +492,7 @@
   <!-- EN: {1_labelShort} died -->
   <GoodwillChangedReason_PawnDied>{1_labelShort} ตาย</GoodwillChangedReason_PawnDied>
   <!-- EN: {0_labelShort} stripped -->
-  <GoodwillChangedReason_PawnStripped>TODO</GoodwillChangedReason_PawnStripped>
+  <GoodwillChangedReason_PawnStripped>{0_labelShort} ถอดออก</GoodwillChangedReason_PawnStripped>
   <!-- EN: traded -->
   <GoodwillChangedReason_Traded>แลกเปลื่ยน</GoodwillChangedReason_Traded>
   <!-- EN: attacked a caravan -->
@@ -534,9 +534,9 @@
   <MessageGiftGivenButNotAppreciated>{0} รับของขวัญจากคุณ แต่ไม่เห็นคุณค่าของมัน</MessageGiftGivenButNotAppreciated>
 
   <!-- EN: The caravan is already encumbered and can't carry anything else. -->
-  <MessageCantGiveGiftBecauseCantCarryEncumbered>กองคาราวานแบกเกินขนาดแล้ว ไม่สามารถแบกอะไรเพิ่มได้</MessageCantGiveGiftBecauseCantCarryEncumbered>
+  <MessageCantGiveGiftBecauseCantCarryEncumbered>กองคาราวานขนเกินขนาดแล้ว ไม่สามารถขนอะไรเพิ่มได้</MessageCantGiveGiftBecauseCantCarryEncumbered>
   <!-- EN: The caravan can't carry that much. The gifts weigh {0} but the caravan can only carry {1} more. -->
-  <MessageCantGiveGiftBecauseCantCarry>กองคาราวานไม่สามารถแบกได้เยอะขนาดนั้น ของขวัญน้ำหนัก {0} แต่คาราวานสามารถแบกได้อีกแค่ {1}</MessageCantGiveGiftBecauseCantCarry>
+  <MessageCantGiveGiftBecauseCantCarry>กองคาราวานไม่สามารถขนได้เยอะขนาดนั้น ของขวัญน้ำหนัก {0} แต่คาราวานสามารถขนได้อีกแค่ {1}</MessageCantGiveGiftBecauseCantCarry>
 
   <!-- EN: {0} has formed and is now traveling on the world map. -->
   <MessageFormedCaravan>{0} ถูกตั้งขึ้น และกำลังเดินทางในแผนที่โลก</MessageFormedCaravan>

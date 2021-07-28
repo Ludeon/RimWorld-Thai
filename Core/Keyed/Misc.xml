@@ -89,7 +89,7 @@
   <!-- EN: ${0} -->
   <MoneyFormat>฿{0}</MoneyFormat>
   <!-- EN: Factors -->
-  <Factors>TODO</Factors>
+  <Factors>ปัจจัย</Factors>
 
   <!-- Content generation-->
   
@@ -151,10 +151,10 @@
   <CouplesRoom>{2}{PAWN1_labelShort} และ {PAWN2_labelShort} {2}</CouplesRoom>
   
   <!-- EN: Important for this type of room. -->
-  <StatRelatesToCurrentRoom>TODO</StatRelatesToCurrentRoom>
+  <StatRelatesToCurrentRoom>สิ่งสำคัญสำหรับห้องประเภทนี้</StatRelatesToCurrentRoom>
   
   <!-- EN: {COUNT} {RESOURCE_label} underground here. -->
-  <DeepResourceRemaining>TODO</DeepResourceRemaining>
+  <DeepResourceRemaining>{COUNT} {RESOURCE_label} ใต้ดินที่นี่</DeepResourceRemaining>
   
   <!-- EN: (various) -->
   <VariousLabel>(หลายอย่าง)</VariousLabel>
@@ -178,6 +178,6 @@
 
   <!-- Apparel Looks -->
   <!-- EN: variant of -->
-  <VariantOf>TODO</VariantOf>
+  <VariantOf>ตัวแปรของ</VariantOf>
   
 </LanguageData>

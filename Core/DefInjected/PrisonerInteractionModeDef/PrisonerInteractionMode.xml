@@ -24,8 +24,6 @@
   <!-- EN: release -->
   <Release.label>ปล่อยตัว</Release.label>
   <!-- EN: A warden will release the prisoner. -->
-  <Release.description>35 / 5000
-ผลลัพธ์การแปล
-ผู้คุมจะปล่อยตัวนักโทษ </Release.description>
+  <Release.description>ผู้คุมจะปล่อยตัวนักโทษ</Release.description>
   
 </LanguageData>

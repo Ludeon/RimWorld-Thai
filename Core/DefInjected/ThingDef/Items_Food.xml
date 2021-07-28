@@ -12,12 +12,12 @@
   <MealFine.description>TODO</MealFine.description>
   
   <!-- EN: carnivore fine meal -->
-  <MealFine_Meat.label>อาหารสัตว์กินเนื้อดี</MealFine_Meat.label>
+  <MealFine_Meat.label>อาหารที่เป็นเนื้อชั้นดี</MealFine_Meat.label>
   <!-- EN: A complex dish assembled with care from meat ingredients. -->
   <MealFine_Meat.description>TODO</MealFine_Meat.description>
   
   <!-- EN: vegetarian fine meal -->
-  <MealFine_Veg.label>อาหารมังสวิรัติ</MealFine_Veg.label>
+  <MealFine_Veg.label>อาหารมังสวิรัติชั้นดี</MealFine_Veg.label>
   <!-- EN: A complex dish assembled with care from vegetarian ingredients. -->
   <MealFine_Veg.description>TODO</MealFine_Veg.description>
   
@@ -27,7 +27,7 @@
   <MealLavish.description>TODO</MealLavish.description>
   
   <!-- EN: carnivore lavish meal -->
-  <MealLavish_Meat.label>อาหารสัตว์กินเนื้อฟุ่มเฟือย</MealLavish_Meat.label>
+  <MealLavish_Meat.label>อาหารที่เป็นเนื้อฟุ่มเฟือย</MealLavish_Meat.label>
   <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
   <MealLavish_Meat.description>TODO</MealLavish_Meat.description>
   

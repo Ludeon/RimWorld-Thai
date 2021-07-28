@@ -99,19 +99,19 @@
   <!-- EN: Rename colonist -->
   <RenameColonist>เปลี่ยนชื่อชาวนิคม</RenameColonist>
   <!-- EN: Renounce title -->
-  <RenounceTitle>TODO</RenounceTitle>
+  <RenounceTitle>สละชื่อเรื่อง</RenounceTitle>
   <!-- EN: Execute -->
-  <Execute>TODO</Execute>
+  <Execute>ดำเนินการ</Execute>
   <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
-  <ExecuteColonist>TODO</ExecuteColonist> <!-- text_doto -->
+  <ExecuteColonist>ดำเนินการล่าอาณานิคมที่มีความผิด\in\หากคุณเปิดใช้งานสิ่งนี้ ผู้คุมจะดำเนินการเพื่อประหารบุคคลนี้</ExecuteColonist> <!-- text_doto -->
   <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
-  <MessageColonistMarkedForExecution>TODO</MessageColonistMarkedForExecution>
+  <MessageColonistMarkedForExecution>ขณะนี้ {0_labelShort} ถูกทำเครื่องหมายเพื่อดำเนินการ พัศดีที่มีอยู่คนต่อไปจะถูกประหารชีวิต</MessageColonistMarkedForExecution>
   <!-- EN: {0} of {1} -->
-  <TitleOfFaction>TODO</TitleOfFaction>
+  <TitleOfFaction>{0} จาก {1}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
-  <RenounceTitleDescription>TODO</RenounceTitleDescription>
+  <RenounceTitleDescription>การดำเนินการนี้จะทำให้ {PAWN_nameDef} เสียชื่อ {PAWN_possessive} {TITLE} ไป คุณจะไม่ได้รับค่าตอบแทนสำหรับการสละชื่อ\n\nการดำเนินการนี้จะมีผลดังต่อไปนี้:\n\n{EFFECTS}</RenounceTitleDescription>
   <!-- EN: {PAWN_possessive} will lose these permissions -->
-  <RenounceTitleWillLoosePermits>TODO</RenounceTitleWillLoosePermits>
+  <RenounceTitleWillLoosePermits>{PAWN_possessive} จะสูญเสียสิทธิ์เหล่านี้</RenounceTitleWillLoosePermits>
   <!-- EN: unknown -->
   <UnknownLower>ไม่ทราบ</UnknownLower>
   <!-- EN: On -->
@@ -133,7 +133,7 @@
   <!-- EN: Progress stopped until fertilized -->
   <ProgressStoppedUntilFertilized>ความคืบหน้าหยุดชั่วคราวจนกว่าจะได้ปุ๋ย</ProgressStoppedUntilFertilized>
   <!-- EN: Hatches in -->
-  <HatchesIn>TODO</HatchesIn>
+  <HatchesIn>ฟักใน</HatchesIn>
   <!-- EN: need {0} level {2}, have {1} -->
   <SkillTooLow>ต้องการ {0} ระดับ {2}, มี {1}</SkillTooLow>
   <!-- EN: Freezing -->
@@ -169,7 +169,7 @@
   <!-- EN: enemies -->
   <Enemies>ศัตรู</Enemies>
   <!-- EN: people -->
-  <People>TODO</People>
+  <People>ผู้คน</People>
   <!-- EN: time passed -->
   <TimePassed>เวลาผ่านไป</TimePassed>
   <!-- EN: current radius -->
@@ -219,7 +219,7 @@
   <!-- EN: Waiting. -->
   <CaravanWaiting>กำลังรอ</CaravanWaiting>
   <!-- EN: Being carried due to illness -->
-  <BeingCarriedDueToIllness>ถูกแบกเนื่องจากป่วย</BeingCarriedDueToIllness>
+  <BeingCarriedDueToIllness>ถูกขนเนื่องจากป่วย</BeingCarriedDueToIllness>
   <!-- EN: Using bedrolls due to illness -->
   <UsingBedrollsDueToIllness>ใช้ที่นอนพับเนื่องจากป่วย</UsingBedrollsDueToIllness>
   <!-- EN: Current tile movement time -->
@@ -257,9 +257,9 @@
   <!-- EN: Map -->
   <Map>แผนที่</Map>
   <!-- EN: {0} until enemies arrive -->
-  <CaravanDetectedRaidCountdown>TODO</CaravanDetectedRaidCountdown>
+  <CaravanDetectedRaidCountdown>{0} จนกว่าศัตรูจะมาถึง</CaravanDetectedRaidCountdown>
   <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
-  <CaravanDetectedRaidCountdownTip>TODO</CaravanDetectedRaidCountdownTip>
+  <CaravanDetectedRaidCountdownTip>กำลังเสริมของศัตรูจะมาถึงพื้นที่นี้ใน {0}</CaravanDetectedRaidCountdownTip>
   <!-- EN: Room -->
   <Room>ห้อง</Room>
   <!-- EN: Beauty here -->
@@ -339,17 +339,17 @@
   <!-- EN: downed -->
   <DownedLower>หมดสติ</DownedLower>
   <!-- EN: resting -->
-  <Carried>ถูกแบก</Carried>
+  <Carried>พักผ่อน</Carried>
   <!-- EN: Avg. person move speed -->
   <AverageCaravanMemberMoveSpeed>ความเร็วเฉลี่ยคนเดิน</AverageCaravanMemberMoveSpeed>
   <!-- EN: Multiplier from ridden animals -->
-  <MultiplierFromRiddenAnimals>TODO</MultiplierFromRiddenAnimals>
+  <MultiplierFromRiddenAnimals>ตัวคูณจากสัตว์ขี่</MultiplierFromRiddenAnimals>
   <!-- EN: Multiplier for carried mass: {0} -->
-  <MultiplierForCarriedMass>ตัวคูณสำหรับมวลที่แบก: {0}</MultiplierForCarriedMass>
+  <MultiplierForCarriedMass>ตัวคูณสำหรับมวลที่ขน: {0}</MultiplierForCarriedMass>
   <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
-  <RideableAnimalTip>TODO</RideableAnimalTip>
+  <RideableAnimalTip>สัตว์ตัวนี้ขี่ได้ ผู้คนในกองคาราวานจะขี่สัตว์ที่เร็วที่สุดที่มีอยู่ ปรับปรุงความเร็วของกองคาราวานโดยรวม</RideableAnimalTip>
   <!-- EN: This caravan can't move because it carries too much. -->
-  <EncumberedCaravanTilesPerDayTip>TODO</EncumberedCaravanTilesPerDayTip>
+  <EncumberedCaravanTilesPerDayTip>กองคาราวานนี้ไม่สามารถเคลื่อนย้ายได้เพราะมันบรรทุกมากเกินไป</EncumberedCaravanTilesPerDayTip>
   <!-- EN: Caravan members speed -->
   <FinalCaravanPawnsMovementSpeed>ความเร็วสมาชิกคาราวาน</FinalCaravanPawnsMovementSpeed>
   <!-- EN: Final speed -->
@@ -393,7 +393,7 @@
   <!-- EN: The scanner is picking up activity around the lump. It's likely hostile. -->
   <PreciousLumpHostileThreat>TODO</PreciousLumpHostileThreat>
   <!-- EN: lump of {0} -->
-  <PreciousLumpLabel>ก้อนของ {0}</PreciousLumpLabel>
+  <PreciousLumpLabel>TODO</PreciousLumpLabel>
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>ไม่ได้ทำโครงการวิจัยใดอยู่</NoActiveResearchProjectToFinish>
   <!-- EN: turret -->
@@ -449,7 +449,7 @@
   <!-- EN: {0} assembly completes in {1}. -->
   <MechAssemblyCompleteIn>{0} ประกอบเสร็จใน {1}</MechAssemblyCompleteIn>
   <!-- EN: Will assemble -->
-  <MechAssemblyNextType>TODO</MechAssemblyNextType>
+  <MechAssemblyNextType>จะประกอบ</MechAssemblyNextType>
   <!-- EN: produced -->
   <ThingsProduced>ผลิตเสร็จ</ThingsProduced>
   <!-- EN: harvested -->
@@ -467,13 +467,13 @@
   <!-- EN: Expired -->
   <DormantCompExpired>หมดอายุ</DormantCompExpired>
   <!-- EN: Initiates in -->
-  <InitiatesIn>TODO</InitiatesIn>
+  <InitiatesIn>เริ่มต้นใน</InitiatesIn>
   <!-- EN: Activates in {0} -->
   <SendSignalOnCountdownCompTime>เปิดใช้งานใน {0}</SendSignalOnCountdownCompTime>
   <!-- EN: Neural heat -->
   <PsychicEntropy>เอนโทรปีพลังจิต</PsychicEntropy>
   <!-- EN: Heat -->
-  <PsychicEntropyShort>TODO</PsychicEntropyShort>
+  <PsychicEntropyShort>ความร้อน</PsychicEntropyShort>
   <!-- EN: {0} pain boost -->
   <PsychicEntropyPainFocus>{0} โฟกัสความเจ็บปวด</PsychicEntropyPainFocus>
   <!-- EN: radius {0} -->
@@ -483,7 +483,7 @@
   <!-- EN: {0} left -->
   <DurationLeft>เหลือ {0}</DurationLeft>
   <!-- EN: Any of -->
-  <AnyOf>TODO</AnyOf>
+  <AnyOf>อันใดอันหนึ่ง</AnyOf>
   <!-- EN: Requires {0} trait -->
   <TraitRequired>TODO</TraitRequired>
   <!-- EN: Goodwill -->
@@ -495,25 +495,25 @@
   <!-- EN: Natural goodwill is based on faction identities and beliefs. If current goodwill is far from natural goodwill, it will slowly shift towards natural goodwill over time.\n\nAll goodwill effects are multiplied by {0} when moving towards natural goodwill. -->
   <NaturalGoodwillDescription>TODO</NaturalGoodwillDescription>
   <!-- EN: reducing resistance of {0_nameIndef} -->
-  <JobReport_ReduceResistance>TODO</JobReport_ReduceResistance>
+  <JobReport_ReduceResistance>ลดความต้านทานของ {0_nameIndef}</JobReport_ReduceResistance>
   <!-- EN: Too large -->
-  <TooLargeForBed>TODO</TooLargeForBed>
+  <TooLargeForBed>ใหญ่เกินไป</TooLargeForBed>
   <!-- EN: Warning -->
-  <Warning>TODO</Warning>
+  <Warning>คำเตือน</Warning>
   <!-- EN: Has subquest -->
-  <HasSubquest>TODO</HasSubquest>
+  <HasSubquest>มีเควสย่อย</HasSubquest>
   <!-- EN: Subquest of -->
-  <SubquestOf>TODO</SubquestOf>
+  <SubquestOf>ย่อยของ</SubquestOf>
   <!-- EN: Raid -->
-  <Raid>TODO</Raid>
+  <Raid>จู่โจม</Raid>
   <!-- EN: Disabled by -->
-  <ApparelRequirementDisabledLabel>TODO</ApparelRequirementDisabledLabel>
+  <ApparelRequirementDisabledLabel>ปิดใช้งานโดย</ApparelRequirementDisabledLabel>
   <!-- EN: Nudism -->
-  <Nudism>TODO</Nudism>
+  <Nudism>ลัทธิเปลือยกาย</Nudism>
   <!-- EN: Study progress -->
-  <StudyProgress>TODO</StudyProgress>
+  <StudyProgress>ความคืบหน้าการศึกษา</StudyProgress>
   <!-- EN: completed -->
-  <StudyCompleted>TODO</StudyCompleted>
+  <StudyCompleted>เสร็จสมบูรณ์</StudyCompleted>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
@@ -525,7 +525,7 @@
   
   <!-- Meditation -->
   <!-- EN: meditating at -->
-  <MeditatingAt>TODO</MeditatingAt>
+  <MeditatingAt>นั่งสมาธิที่</MeditatingAt>
 
   <!-- Fermentation barrel -->
   <!-- EN: Contains {0} / {1} wort. -->
@@ -533,7 +533,7 @@
   <!-- EN: Contains {0} / {1} beer. -->
   <ContainsBeer>บรรจุ {0} / {1} เบียร์</ContainsBeer>
   <!-- EN: Contains -->
-  <Contains>TODO</Contains>
+  <Contains>บรรจุ</Contains>
   <!-- EN: Fermented -->
   <Fermented>หมัก</Fermented>
   <!-- EN: Progress: {0} ({1} left) -->
@@ -577,7 +577,7 @@
   <!-- EN: {0} tended -->
   <TextMote_Tended>รักษาอาการ{0}</TextMote_Tended>
   <!-- EN: level {0} -->
-  <TextMote_SkillUp>TODO</TextMote_SkillUp>
+  <TextMote_SkillUp>ระดับ {0}</TextMote_SkillUp>
   <!-- EN: low mood -->
   <lowMood>อารมณ์ตกต่ำ</lowMood>
   <!-- EN: low opinion -->
@@ -650,7 +650,7 @@
   <!-- EN: {1_labelShort} is not drafted. -->
   <IsNotDrafted>{1_labelShort} ไม่ได้ถูกเกณฑ์</IsNotDrafted>
   <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
-  <ApparelPreventsShooting>TODO</ApparelPreventsShooting>
+  <ApparelPreventsShooting>{PAWN_nameDef} ไม่สามารถใช้อาวุธระยะไกลได้เนื่องจาก {PAWN_possessive} {APPAREL_label}</ApparelPreventsShooting>
 
   <!-- Snow -->
   <!-- EN: No snow -->
@@ -694,7 +694,7 @@
   <!-- EN: resting. -->
   <ReportResting>กำลังพักผ่อน</ReportResting>
   <!-- EN: laying down. -->
-  <ReportLayingDown>TODO</ReportLayingDown>
+  <ReportLayingDown>นอนลง.</ReportLayingDown>
   <!-- EN: watching the sunrise. -->
   <WatchingSunrise>กำลังดูพระอาทิตย์ขึ้น</WatchingSunrise>
   <!-- EN: cloudwatching. -->
@@ -710,7 +710,7 @@
   <!-- EN: using {0} on {1}. -->
   <UsingVerb>กำลังใช้ {0} กับ {1}.</UsingVerb>
   <!-- EN: using {0}. -->
-  <UsingVerbNoTarget>TODO</UsingVerbNoTarget>
+  <UsingVerbNoTarget>โดยใช้ {0}</UsingVerbNoTarget>
   <!-- EN: area -->
   <AreaLower>พื้นที่</AreaLower>
   <!-- EN: cowering. -->
@@ -958,11 +958,11 @@
   <!-- EN: Dying because exposed to light -->
   <DyingBecauseExposedToLight>ใกล้ตายเนื่องจากโดนแสง</DyingBecauseExposedToLight>
   <!-- EN: Cut now -->
-  <AutoCutNow>TODO</AutoCutNow>
+  <AutoCutNow>ตัด</AutoCutNow>
   <!-- EN: harvesting -->
-  <HarvestGerund>TODO</HarvestGerund>
+  <HarvestGerund>เก็บเกี่ยว</HarvestGerund>
   <!-- EN: cutting -->
-  <CutGerund>TODO</CutGerund>
+  <CutGerund>กำลังตัด</CutGerund>
 
   <!-- Zones -->
   <!-- EN: Zone -->
@@ -1060,7 +1060,7 @@
   <!-- EN: Cannot be placed under a roof. -->
   <MustPlaceUnroofed>ไม่สามารถวางใต้หลังคาได้</MustPlaceUnroofed>
   <!-- EN: Must be placed under thick roof. -->
-  <MustPlaceUnderThickRoof>TODO</MustPlaceUnderThickRoof>
+  <MustPlaceUnderThickRoof>ต้องวางใต้หลังคาหนา</MustPlaceUnderThickRoof>
   <!-- EN: Must place with head attached to ship structural beam. -->
   <MustPlaceHeadOnShipBeam>ต้องวางให้ส่วนหัวยึดติด กับโครงสร้างคานของยาน</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
@@ -1154,7 +1154,7 @@
   <!-- EN: Quality -->
   <Quality>คุณภาพ</Quality>
   <!-- EN: quality -->
-  <quality>TODO</quality>
+  <quality>คุณภาพ</quality>
   <!-- EN: An item's quality is how well-made it is. -->
   <QualityDescription>คุณภาพของไอเท็ม ถูกสร้างมาดีแค่ไหน</QualityDescription>
   <!-- EN: Quality: {0} -->
@@ -1204,9 +1204,9 @@
   <!-- EN: inactive -->
   <InactiveFacility>ไม่ทำงาน</InactiveFacility>
   <!-- EN: Links to -->
-  <FacilityPotentiallyLinkedTo>TODO</FacilityPotentiallyLinkedTo>
+  <FacilityPotentiallyLinkedTo>ลิงค์ไป</FacilityPotentiallyLinkedTo>
   <!-- EN: Not linked to a building -->
-  <FacilityNoPotentialLinks>TODO</FacilityNoPotentialLinks>
+  <FacilityNoPotentialLinks>ไม่เชื่อมกับฐาน</FacilityNoPotentialLinks>
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
@@ -1274,7 +1274,7 @@
 
   <!-- reloading ammo -->
   <!-- EN: Remaining charges -->
-  <ChargesRemaining>TODO</ChargesRemaining>
+  <ChargesRemaining>ค่าใช้จ่ายที่เหลือ</ChargesRemaining>
   
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
@@ -1371,22 +1371,20 @@
   <Reward_Pawn_WalkIn>{0_title} อายุ {0_age} ปี ชื่อ {0_nameDef} จะมาถึงและเข้าร่วมกับคุณ {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
   <Reward_Pawn_Caravan>{0_title} อายุ {0_age} ปี ชื่อ {0_nameDef} จะเข้าร่วมกับคุณ {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
-  <!-- EN: transport pods with the following resources will arrive (total value {1}):
-\n{0} -->
+  <!-- EN: transport pods with the following resources will arrive (total value {1}):\n{0} -->
   <Reward_Items>กระสวนขนส่งพร้อมทรัพยากรเหล่านี้จะมาถึง (มูลค่าทั้งหมด {1}):\n{0}</Reward_Items>
-  <!-- EN: you will receive (total value {1}):
-\n{0} -->
+  <!-- EN: you will receive (total value {1}):\n{0} -->
   <Reward_Items_Caravan>คุณจะได้รับ (มูลค่าทั้งหมด {1}): \n{0}</Reward_Items_Caravan>
   <!-- EN: your faction relations with {0_name} will improve by {1} -->
   <Reward_Goodwill>ความสัมพันธ์ระหว่างฝ่ายคุณกับฝ่าย {0_name} จะพัฒนาขึ้นอีก {1}</Reward_Goodwill>
   <!-- EN: you will be taken to the stars -->
-  <Reward_PassageOffworld>TODO</Reward_PassageOffworld>
+  <Reward_PassageOffworld>คุณจะถูกพาไปที่ดวงดาว</Reward_PassageOffworld>
   <!-- EN: Passage offworld -->
   <Reward_PassageOffworld_Label>TODO</Reward_PassageOffworld_Label>
   <!-- EN: you can loot everything from the camp -->
-  <Reward_CampLoot>TODO</Reward_CampLoot>
+  <Reward_CampLoot>คุณสามารถปล้นได้ทุกอย่างจากค่าย</Reward_CampLoot>
   <!-- EN: Camp loot -->
-  <Reward_CampLoot_Label>TODO</Reward_CampLoot_Label>
+  <Reward_CampLoot_Label>ปล้นค่าย</Reward_CampLoot_Label>
   <!-- EN: the visitors will work and fight for you -->
   <Reward_VisitorsHelp>TODO</Reward_VisitorsHelp>
   <!-- EN: Visitors' help -->
@@ -1448,7 +1446,7 @@
 
   <!-- Hediff misc -->
   <!-- EN: Caused by: {0} -->
-  <CausedByHediff>TODO</CausedByHediff>
+  <CausedByHediff>เกิดจาก: {0}</CausedByHediff>
     
   <!-- Healing -->
   <!-- EN: {0_nameDef}'s {1} was cured. -->
@@ -1464,7 +1462,7 @@
   
   <!-- Rituals -->
   <!-- EN: ritual -->
-  <Ritual>TODO</Ritual>
+  <Ritual>พิธีกรรม</Ritual>
 
   <!-- EN: Takes place at -->
   <RitualTakesPlaceAt>TODO</RitualTakesPlaceAt>

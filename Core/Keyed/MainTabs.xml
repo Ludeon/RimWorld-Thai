@@ -35,7 +35,7 @@
   <!-- EN: Low priority -->
   <Priority4>ความสำคัญต่ำ</Priority4>
   <!-- EN: {0}\n\nThe faction {1_nameDef} currently belongs to.\n\nClick to view faction. -->
-  <PawnFactionInfo>TODO</PawnFactionInfo>
+  <PawnFactionInfo>{0}\n\nฝ่าย {1_nameDef} อยู่ในตอนนี้\n\nคลิกเพื่อดูฝ่าย</PawnFactionInfo>
   <!-- EN: Disabled by backstory: {0} -->
   <WorkDisabledByBackstory>TODO</WorkDisabledByBackstory>
   <!-- EN: Disabled by trait: {0} -->
@@ -91,9 +91,9 @@
   <!-- EN: Ally -->
   <Ally>พันธมิตร</Ally>
   <!-- EN: hostile -->
-  <HostileLower>TODO</HostileLower>
+  <HostileLower>ศัตรู</HostileLower>
   <!-- EN: ally -->
-  <AllyLower>TODO</AllyLower>
+  <AllyLower>พันธมิตร</AllyLower>
   <!-- EN: defeated -->
   <DefeatedLower>พ่ายแพ้ให้</DefeatedLower>
   <!-- EN: Enemy of {0} -->
@@ -101,9 +101,9 @@
   <!-- EN: Enemy of:  -->
   <EnemyOf>ศัตรูของ</EnemyOf>
   <!-- EN: Recent events -->
-  <RecentEvents>TODO</RecentEvents>
+  <RecentEvents>เหตุการณ์ล่าสุด</RecentEvents>
   <!-- EN: Ongoing events -->
-  <OngoingEvents>TODO</OngoingEvents>
+  <OngoingEvents>กิจกรรมต่อเนื่อง</OngoingEvents>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
   <CurrentGoodwillTip_PermanentEnemy>ฝ่ายนี้เป็นปรปักษ์กันถาวร พวกเขาจะบุกปล้นถิ่นฐานและกองคาราวานของคุณ ความสัมพันธ์กับพวกเขาจะไม่ดีขึ้นเลยไม่ว่าด้วยเหตุผลอะไร</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
@@ -215,9 +215,9 @@
 
   <!-- Factions tab -->
   <!-- EN: Factions -->
-  <FactionsTab>TODO</FactionsTab>
+  <FactionsTab>ฝ่าย</FactionsTab>
   <!-- EN: No known factions -->
-  <NoFactions>TODO</NoFactions>
+  <NoFactions>ไม่มีฝ่ายที่รู้จัก</NoFactions>
 
   <!-- Quests tab -->
   <!-- EN: Available -->
@@ -245,9 +245,9 @@
   <!-- EN: Expires on {0} -->
   <QuestExpiresOn>หมดอายุเมื่อ {0}</QuestExpiresOn>
   <!-- EN: Average guest mood (previous {0}): {1} -->
-  <QuestAveragePawnMood>TODO</QuestAveragePawnMood>
+  <QuestAveragePawnMood>อารมณ์ของแขกโดยเฉลี่ย (ก่อนหน้า {0}): {1}</QuestAveragePawnMood>
   <!-- EN: The average mood of {0} over the previous {1} -->
-  <QuestAveragePawnMoodTargets>TODO</QuestAveragePawnMoodTargets>
+  <QuestAveragePawnMoodTargets>อารมณ์เฉลี่ยของ {0} ในช่วง {1} ก่อนหน้า</QuestAveragePawnMoodTargets>
   <!-- EN: Shuttle arrives in {0} -->
   <ShuttleArrivesIn>ยานกระสวยมาถึงใน {0}</ShuttleArrivesIn>
   <!-- EN: Shuttle arrives on {0} -->
@@ -257,9 +257,9 @@
   <!-- EN: Shuttle departs on {0} -->
   <ShuttleDepartsOn>ยานกระสวยออกตัวเมื่อ {0}</ShuttleDepartsOn>
   <!-- EN: Guests depart in {0} -->
-  <GuestsDepartsIn>TODO</GuestsDepartsIn>
+  <GuestsDepartsIn>แขกออกเดินทางใน {0}</GuestsDepartsIn>
   <!-- EN: Guests depart on {0} -->
-  <GuestsDepartsOn>TODO</GuestsDepartsOn>
+  <GuestsDepartsOn>แขกออกเดินทางวันที่ {0}</GuestsDepartsOn>
   <!-- EN: Finished {0} ago -->
   <QuestFinishedAgo>เสร็จสิ้นไป {0} ที่แล้ว</QuestFinishedAgo>
   <!-- EN: Accept quest -->
@@ -267,9 +267,9 @@
   <!-- EN: Accept with {0_labelShort} -->
   <AcceptWith>ยอมรับด้วย {0_labelShort}</AcceptWith>
   <!-- EN: Accept for -->
-  <AcceptQuestFor>TODO</AcceptQuestFor>
+  <AcceptQuestFor>ยอมรับสำหรับ</AcceptQuestFor>
   <!-- EN: Click to accept this quest for this reward. -->
-  <AcceptQuestForTip>TODO</AcceptQuestForTip>
+  <AcceptQuestForTip>คลิกเพื่อยอมรับภารกิจนี้เพื่อรับรางวัลนี้</AcceptQuestForTip>
   <!-- EN: The offer expired. -->
   <QuestOutcomeInfo_OfferExpired>ข้อเสนอหมดอายุแล้ว</QuestOutcomeInfo_OfferExpired>
   <!-- EN: You completed this quest. -->
@@ -277,7 +277,7 @@
   <!-- EN: You failed this quest. -->
   <QuestOutcomeInfo_Failed>คุณล้มเหลวกับเควสนี้</QuestOutcomeInfo_Failed>
   <!-- EN: This quest became invalid before it was accepted. -->
-  <QuestOutcomeInfo_Invalid>TODO</QuestOutcomeInfo_Invalid>
+  <QuestOutcomeInfo_Invalid>ภารกิจนี้กลายเป็นโมฆะก่อนที่จะได้รับการยอมรับ</QuestOutcomeInfo_Invalid>
   <!-- EN: Jump to {0} -->
   <JumpToTargetCustom>กระโดดไปที่ {0}</JumpToTargetCustom>
   <!-- EN: Select hives -->
@@ -291,54 +291,54 @@
   <!-- EN: a free bedroom that satisfies the title requirements of -->
   <QuestBedroomRequirementsUnsatisfiedSingle>ห้องนอนว่างที่เติมเต็มความต้องการของบรรดาศักดิ์ของ</QuestBedroomRequirementsUnsatisfiedSingle>
   <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
-  <QuestThroneRoomRequirementsUnsatisfied>TODO</QuestThroneRoomRequirementsUnsatisfied>
+  <QuestThroneRoomRequirementsUnsatisfied>บัลลังก์ที่ตรงตามข้อกำหนดของชื่อ {TITLE} ของ {PAWN_definite}</QuestThroneRoomRequirementsUnsatisfied>
   <!-- EN: assign a throne for {PAWN_definite} -->
-  <QuestNoThroneRoom>TODO</QuestNoThroneRoom>
+  <QuestNoThroneRoom>พระราชทานบัลลังก์ให้ {PAWN_definite}</QuestNoThroneRoom>
   <!-- EN: a colonist with the title of {0} -->
   <QuestNoColonistWithTitle>ชาวนิคมกับบรรดาศักดิ์ของ {0}</QuestNoColonistWithTitle>
   <!-- EN: {PAWN_definite} to be in your home colony -->
-  <QuestPawnNotOnColonyMap>TODO</QuestPawnNotOnColonyMap>
+  <QuestPawnNotOnColonyMap>{PAWN_definite} อยู่ในอาณานิคมบ้านคุณ</QuestPawnNotOnColonyMap>
   <!-- EN: the map clear of enemies of the bestower's faction -->
-  <QuestRequiresNoDangerOnMap>TODO</QuestRequiresNoDangerOnMap>
+  <QuestRequiresNoDangerOnMap>แผนที่ปลอดศัตรูของฝ่ายเบสทาวเวอร์</QuestRequiresNoDangerOnMap>
   <!-- EN: to finish the ongoing bestowing ceremony quest -->
-  <QuestCanNotStartUntilBestowingCeremonyFinished>TODO</QuestCanNotStartUntilBestowingCeremonyFinished>
+  <QuestCanNotStartUntilBestowingCeremonyFinished>เพื่อเสร็จสิ้นภารกิจพิธีพระราชทานปริญญาบัตรอย่างต่อเนื่อง</QuestCanNotStartUntilBestowingCeremonyFinished>
   <!-- EN: Reward preferences -->
-  <ChooseRewards>TODO</ChooseRewards>
+  <ChooseRewards>ความชอบของรางวัล</ChooseRewards>
   <!-- EN: Tell other factions what kinds of rewards you want in future quests. This doesn't affect quests that were already offered. -->
-  <ChooseRewardsDesc>TODO</ChooseRewardsDesc>
+  <ChooseRewardsDesc>บอกฝ่ายอื่นๆ ว่าคุณต้องการรางวัลประเภทใดในภารกิจในอนาคต สิ่งนี้ไม่ส่งผลต่อเควสที่เสนอแล้ว</ChooseRewardsDesc>
   <!-- EN: Accept {FACTION_royalFavorLabel} -->
   <AcceptRoyalFavor>ยอมรับ {FACTION_royalFavorLabel}</AcceptRoyalFavor>
   <!-- EN: Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests. -->
   <AcceptRoyalFavorDesc>คุณเลือกได้ว่าจะรับรางวัลเป็นบุญคุณ {FACTION_royalFavorLabel} จาก {FACTION_name} หรือไม่\n\nถ้านี่เปิดใช้ {FACTION_name} จะเสนอรางวัลเป็นอย่างอื่นแทน\n\nค่านี้ส่งผลเฉพาะกับเควสที่มาใหม่เท่านั้น</AcceptRoyalFavorDesc>
   <!-- EN: Accept goodwill -->
-  <AcceptGoodwill>TODO</AcceptGoodwill>
+  <AcceptGoodwill>ยอมรับความปรารถนาดี</AcceptGoodwill>
   <!-- EN: Whether you wish to be rewarded via improved faction relations with {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-generated quests. -->
-  <AcceptGoodwillDesc>TODO</AcceptGoodwillDesc>
+  <AcceptGoodwillDesc>ไม่ว่าคุณจะต้องการรับรางวัลจากการปรับปรุงความสัมพันธ์ของฝ่ายด้วย {FACTION_name}\n\nหากปิดใช้งาน {FACTION_name} จะเสนอรางวัลประเภทอื่นแทน\n\nการตั้งค่านี้มีผลกับภารกิจที่สร้างขึ้นใหม่เท่านั้น</AcceptGoodwillDesc>
   <!-- EN: You are currently opting in to receive {FACTION_royalFavorLabel}. -->
   <RoyalFavorOn>คุณตอนนี้เข้ายอมร่วมเพื่อรับบุญคุณ {FACTION_royalFavorLabel}</RoyalFavorOn>
   <!-- EN: You are currently opting out of receiving {FACTION_royalFavorLabel}. -->
   <RoyalFavorOff>คุณตอนนี้ไม่ร่วมรับบุญคุณ {FACTION_royalFavorLabel}</RoyalFavorOff>
   <!-- EN: Your goodwill with {0_name} will improve by {1}.\n\nCurrent goodwill: {4} ({5}).\n\nGoodwill measures the general relationship between factions. If it falls below {2}, the faction becomes hostile and will raid your settlements and caravans. If it rises above {3}, the faction will become your ally and send fighters to help you when they can. Otherwise, the faction remains neutral and will trade and talk with you freely. -->
-  <GoodwillTip>TODO</GoodwillTip>
+  <GoodwillTip>ความปรารถนาดีของคุณกับ {0_name} จะดีขึ้นโดย {1}\n\nค่าความนิยมในปัจจุบัน: {4} ({5})\n\nค่าความนิยมจะวัดความสัมพันธ์ทั่วไประหว่างฝ่ายต่างๆ ถ้ามันอยู่ต่ำกว่า {2} ฝ่ายนั้นจะกลายเป็นศัตรูและจะบุกเข้าไปในการตั้งถิ่นฐานและกองคาราวานของคุณ ถ้ามันอยู่เหนือ {3} ฝ่ายนั้นจะกลายเป็นพันธมิตรของคุณและส่งนักสู้ไปช่วยคุณเมื่อทำได้ มิฉะนั้น ฝ่ายจะยังคงเป็นกลางและจะแลกเปลี่ยนและพูดคุยกับคุณอย่างอิสระ</GoodwillTip>
   <!-- EN: {0_labelShort} joins -->
-  <PawnQuestReward>TODO</PawnQuestReward>
+  <PawnQuestReward>{0_labelShort} เข้าร่วม</PawnQuestReward>
   <!-- EN: Betrayal offer: {0} targets remain -->
-  <QuestBetrayalOffer>TODO</QuestBetrayalOffer>
+  <QuestBetrayalOffer>ข้อเสนอการทรยศ: {0} เป้าหมายยังคงอยู่</QuestBetrayalOffer>
   <!-- EN: {0} will grant you a reward for killing all members of the {1}. -->
-  <QuestBetrayalOfferTip>TODO</QuestBetrayalOfferTip>
+  <QuestBetrayalOfferTip>{0} จะมอบรางวัลให้คุณสำหรับการฆ่าสมาชิกทั้งหมดของ {1}</QuestBetrayalOfferTip>
   <!-- EN: a colony wealth of at least {0} -->
-  <QuestRequiredPlayerWealth>TODO</QuestRequiredPlayerWealth>
+  <QuestRequiredPlayerWealth>ความมั่งคั่งในอาณานิคมอย่างน้อย {0}</QuestRequiredPlayerWealth>
   <!-- EN: alliance with {0} -->
-  <QuestAlliedTo>TODO</QuestAlliedTo>
+  <QuestAlliedTo>เป็นพันธมิตรกับ {0}</QuestAlliedTo>
   <!-- EN: hostile to {0} -->
-  <QuestHostileTo>TODO</QuestHostileTo>
+  <QuestHostileTo>เป็นศัตรูกับ {0}</QuestHostileTo>
   <!-- EN: neutral to {0} -->
-  <QuestNeutralTo>TODO</QuestNeutralTo>
+  <QuestNeutralTo>เป็นกลางกับ {0}</QuestNeutralTo>
   <!-- EN: studied {0_labelShort} -->
-  <QuestRequiredThingStudied>TODO</QuestRequiredThingStudied>
+  <QuestRequiredThingStudied>ศึกษาแล้ว {0_labelShort}</QuestRequiredThingStudied>
 
   <!-- Health tab -->
   <!-- EN: Creates need -->
-  <CreatesNeed>TODO</CreatesNeed>
+  <CreatesNeed>สร้างความต้องการ</CreatesNeed>
 
 </LanguageData>

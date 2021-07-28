@@ -36,7 +36,7 @@
   <!-- EN: incapable of violence -->
   <IncapableOfViolenceLower>ไม่สามารถใช้ความรุนแรงได้</IncapableOfViolenceLower>
   <!-- EN: {0_labelShort} is incapable of shooting -->
-  <IsIncapableOfShootingLower>TODO</IsIncapableOfShootingLower>
+  <IsIncapableOfShootingLower>{0_labelShort} ไม่สามารถยิงได้</IsIncapableOfShootingLower>
   <!-- EN: {1_labelShort} is not drafted -->
   <IsNotDraftedLower>{1_labelShort} ยังไม่ถูกเกณฑ์</IsNotDraftedLower>
   <!-- EN: cannot order characters you do not control -->
@@ -44,7 +44,7 @@
   <!-- EN: cannot attack self -->
   <CannotAttackSelf>ไม่สามารถโจมตีตัวเองได้</CannotAttackSelf>
   <!-- EN: cannot attack faction ally -->
-  <CannotAttackSameFactionMember>TODO</CannotAttackSameFactionMember>
+  <CannotAttackSameFactionMember>ไม่สามารถโจมตีฝ่ายพันธมิตร</CannotAttackSameFactionMember>
 
   <!-- EN: Man {1_labelShort} -->
   <OrderManThing>ขึ้นขี่ {1_labelShort}</OrderManThing>
@@ -58,7 +58,7 @@
   <!-- EN: burying -->
   <Burying>กำลังฝัง</Burying>
   <!-- EN: designated for {0} -->
-  <DesignatedFor>TODO</DesignatedFor>
+  <DesignatedFor>กำหนดไว้สำหรับ {0}</DesignatedFor>
 
   <!-- EN: forbidden -->
   <ForbiddenLower>หวงห้าม</ForbiddenLower>
@@ -159,9 +159,9 @@
   <!-- EN: Upgrade {0} to level {1} -->
   <UpgradeImplant>อัพเกรด {0} ขึ้นเป็นระดับ {1}</UpgradeImplant>
   <!-- EN: violation of faction ally -->
-  <SurgeryViolationFellowFactionMember>TODO</SurgeryViolationFellowFactionMember>
+  <SurgeryViolationFellowFactionMember>การละเมิดของฝ่ายพันธมิตร</SurgeryViolationFellowFactionMember>
   <!-- EN: being carried by {0_labelShort} -->
-  <BeingCarriedBy>TODO</BeingCarriedBy>
+  <BeingCarriedBy>กำลังดำเนินการโดย {0_labelShort}</BeingCarriedBy>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>บริโภค {1_labelShort}</ConsumeThing>
@@ -178,7 +178,7 @@
   <!-- EN: Cannot arrest -->
   <CannotArrest>ไม่สามารถจับกุมได้</CannotArrest>
   <!-- EN: {0} chance of arrest -->
-  <ArrestChance>TODO</ArrestChance>
+  <ArrestChance>{0} โอกาสที่จะถูกจับกุม</ArrestChance>
 
   <!-- EN: Capture {1_label} -->
   <Capture>จับตัว {1_label}</Capture>
@@ -203,9 +203,9 @@
   <!-- EN: Temporary faction members not allowed. -->
   <CryptosleepCasketGuestsNotAllowed>ไม่อณุญาตสมาชิกของฝักฝ่ายชั่วคราว</CryptosleepCasketGuestsNotAllowed>
   <!-- EN: Hosted prisoners not allowed. -->
-  <CryptosleepCasketGuestPrisonersNotAllowed>TODO</CryptosleepCasketGuestPrisonersNotAllowed>
+  <CryptosleepCasketGuestPrisonersNotAllowed>ไม่อนุญาติให้กักขังนักโทษ</CryptosleepCasketGuestPrisonersNotAllowed>
   <!-- EN: Already occupied -->
-  <CryptosleepCasketOccupied>TODO</CryptosleepCasketOccupied>
+  <CryptosleepCasketOccupied>ครอบครองแล้ว</CryptosleepCasketOccupied>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
   <NoPrisonerBed>ไม่มีเตียงระบุให้สำหรับนักโทษ ในห้องปิดล้อม ไม่ถูกจอง อุณหภูมิปลอดภัย และสามารถเข้าถึงได้</NoPrisonerBed>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
@@ -221,7 +221,7 @@
   <!-- EN: Too heavy -->
   <TooHeavy>หนักเกินไป</TooHeavy>
   <!-- EN: {0_labelShort} is in the same faction. -->
-  <SameFaction>TODO</SameFaction>
+  <SameFaction>{0_labelShort} อยู่ในกลุ่มเดียวกัน</SameFaction>
 
   <!-- EN: incapable -->
   <Incapable>ไม่อาจทำได้</Incapable>
@@ -245,18 +245,18 @@
   <!-- EN: Cannot wear {1_label} -->
   <CannotWear>ไม่สามารถใส่ {1_label} ได้</CannotWear>
   <!-- EN: Force equip {1_labelShort} -->
-  <ForceEquipApparel>TODO</ForceEquipApparel>
+  <ForceEquipApparel>บังคับสวมใส่ {1_labelShort}</ForceEquipApparel>
   <!-- EN: Cannot equip {1_label} -->
-  <CannotEquipApparel>TODO</CannotEquipApparel>
+  <CannotEquipApparel>ไม่สามารถสวมใส่ {1_label}</CannotEquipApparel>
   <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>อวัยวะขาดหาย</CannotWearBecauseOfMissingBodyParts>
   
   <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
-  <Reload>TODO</Reload>
+  <Reload>โหลด {GEAR_labelShort} ด้วย {AMMO_label}</Reload>
   <!-- EN: Full -->
-  <ReloadFull>TODO</ReloadFull>
+  <ReloadFull>เต็ม</ReloadFull>
   <!-- EN: Too few -->
-  <ReloadNotEnough>TODO</ReloadNotEnough>
+  <ReloadNotEnough>น้อยเกินไป</ReloadNotEnough>
   
   <!-- EN: Cannot pick up {1_label} -->
   <CannotPickUp>ไม่สามารถหยิบ {1_label}</CannotPickUp>
@@ -271,9 +271,9 @@
   <!-- EN: Pick up {1_labelShort} x{{0}} -->
   <PickUpCount>หยิบ {1_labelShort} x{{0}}</PickUpCount>
   <!-- EN: Cannot pick up {1_labelShort} -->
-  <CannotPickUpSome>TODO</CannotPickUpSome>
+  <CannotPickUpSome>ไม่สามารถหยิบ {1_labelShort}</CannotPickUpSome>
   <!-- EN: {0} {1} allowed -->
-  <MaxPickUpAllowed>TODO</MaxPickUpAllowed>
+  <MaxPickUpAllowed>{0} {1} อนุญาต</MaxPickUpAllowed>
   
   <!-- EN: Cannot load {1_label} onto pack animal -->
   <CannotGiveToPackAnimal>ไม่สามารถให้ {1_label} แก่สัตว์ขนของ</CannotGiveToPackAnimal>
@@ -304,9 +304,9 @@
   <OverweightLower>น้ำหนักเกิน</OverweightLower>
 
   <!-- EN: Cannot carry {1_label} and leave the area -->
-  <CannotCarryToExit>ไม่สามารถแบก {1_label} และออกจากพื้นที่</CannotCarryToExit>
+  <CannotCarryToExit>ไม่สามารถขน {1_label} และออกจากพื้นที่</CannotCarryToExit>
   <!-- EN: Carry {1_label} and leave the area -->
-  <CarryToExit>แบก {1_label} และออกจากพื้นที่</CarryToExit>
+  <CarryToExit>ขน {1_label} และออกจากพื้นที่</CarryToExit>
   <!-- EN: Capture {1_label} and leave the area -->
   <CarryToExitAndCapture>จับ {1_label} และออกจากพื้นที่</CarryToExitAndCapture>
   
@@ -317,9 +317,9 @@
   <!-- EN: Cannot drop {1_label} -->
   <CannotDrop>ไม่สามารถทิ้ง {1_label} ได้</CannotDrop>
   <!-- EN: Carry {0_label} -->
-  <Carry>TODO</Carry>
+  <Carry>ขน {1_label}</Carry>
   <!-- EN: Cannot carry {0_label} -->
-  <CannotCarry>TODO</CannotCarry>
+  <CannotCarry>ไม่สามารถขน {1_label}</CannotCarry>
   <!-- EN: temporary faction member -->
   <QuestRelated>สมาชิกฝักฝ่ายชั่วคราว</QuestRelated>
   <!-- EN: Cannot change outfits on temporary faction members -->
@@ -328,9 +328,9 @@
   <WouldReplaceLockedApparel>จะไปแทนที่เครื่องแต่งการที่ถูกล็อกไว้</WouldReplaceLockedApparel>
 
   <!-- EN: Cannot place {0_label} in {1_label} -->
-  <CannotPlaceIn>TODO</CannotPlaceIn>
+  <CannotPlaceIn>ไม่สามารถวาง {0_label} ใน {1}_label}</CannotPlaceIn>
   <!-- EN: Place {0_label} in {1_label} -->
-  <PlaceIn>TODO</PlaceIn>
+  <PlaceIn>วาง {0_label} ใน {1}_label}</PlaceIn>
 
   <!-- EN: Self-destruct here -->
   <SelfDestructHere>ทำลายตัวเองตรงนี้</SelfDestructHere>
@@ -412,7 +412,7 @@
   <!-- EN: not assigned -->
   <NotAssigned>ไม่ถูกกำหนด</NotAssigned>
   <!-- EN: not assigned to {0} -->
-  <NotAssignedToWorkType>TODO</NotAssignedToWorkType>
+  <NotAssignedToWorkType>ไม่ได้กำหนดให้กับ {0}</NotAssignedToWorkType>
 
   <!-- EN: Cannot prioritize: research is a long-term task -->
   <CannotPrioritizeResearch>ไม่สามารถจัดลำดับความสำคัญ: การวิจัยเป็นงานระยะยาว</CannotPrioritizeResearch>
@@ -424,18 +424,18 @@
   <!-- EN: Outside allowed area -->
   <CannotPrioritizeForbiddenOutsideAllowedArea>อยู่นอกพื้นที่เขตอนุญาต</CannotPrioritizeForbiddenOutsideAllowedArea>
   <!-- EN: Cannot prioritize burying -->
-  <CannotPrioritizeBurying>TODO</CannotPrioritizeBurying>
+  <CannotPrioritizeBurying>ไม่สามารถจัดลำดับความสำคัญการฝังได้</CannotPrioritizeBurying>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
-  <PrioritizeGeneric>ให้ความสำคัญ{1} {0}ก่อน</PrioritizeGeneric>
+  <PrioritizeGeneric>ให้ความสำคัญ {1} {0} ก่อน</PrioritizeGeneric>
   
   <!-- EN: Drop at edge -->
   <DropAtEdge>ทิ้งลงที่ขอบ</DropAtEdge>
   <!-- EN: Drop in center -->
   <DropInCenter>ทิ้งลงที่ตรงกลาง</DropInCenter>
   <!-- EN: Attack {0} -->
-  <AttackShuttle>TODO</AttackShuttle>
+  <AttackShuttle>โจมตี {0}</AttackShuttle>
   <!-- EN: Attack {0}: Drop at edge -->
   <AttackAndDropAtEdge>โจมตี {0}: ทิ้งลงที่ขอบ</AttackAndDropAtEdge>
   <!-- EN: Attack {0}: Drop in center -->
@@ -486,20 +486,20 @@
   <ApplyTechprint>ใช้งาน {0}</ApplyTechprint>
 
   <!-- EN: Too dangerous -->
-  <EnterCooldownBlocksEntering>TODO</EnterCooldownBlocksEntering>
+  <EnterCooldownBlocksEntering>อันตรายเกินไป</EnterCooldownBlocksEntering>
 
   <!-- CommsConsole -->
   <!-- EN: Nobody to call -->
-  <NoCommsTarget>TODO</NoCommsTarget>
+  <NoCommsTarget>ไม่มีใครให้โทรหา</NoCommsTarget>
 
   <!-- EN: Invoke {0} -->
-  <Invoke>TODO</Invoke>
+  <Invoke>เรียกใช้ {0}</Invoke>
   <!-- EN: Cannot invoke {0} -->
-  <CannotInvoke>TODO</CannotInvoke>
+  <CannotInvoke>ไม่สามารถเรียกใช้ {0}</CannotInvoke>
   <!-- EN: power -->
   <Power>TODO</Power>
   <!-- EN: already invoked -->
-  <AlreadyInvoked>TODO</AlreadyInvoked>
+  <AlreadyInvoked>เรียกแล้ว</AlreadyInvoked>
 
   <!-- EN: Tend {0} -->
   <Tend>TODO</Tend>
@@ -511,8 +511,8 @@
   <WithoutMedicine>TODO</WithoutMedicine>
 
   <!-- EN: Repair {0} -->
-  <RepairThing>TODO</RepairThing>
+  <RepairThing>ซ่อม {0}</RepairThing>
   <!-- EN: Cannot repair {0} -->
-  <CannotRepair>TODO</CannotRepair>
+  <CannotRepair>ไม่สามารถซ่อมแซม {0}</CannotRepair>
   
 </LanguageData>

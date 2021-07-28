@@ -44,7 +44,7 @@
   <!-- EN: {1_labelShort} cannot walk. -->
   <IsIncapped>{1_labelShort} เดินไม่ได้.</IsIncapped>
   <!-- EN: {0_labelShort} is participating in {1}. -->
-  <ParticipatingInRitual>TODO</ParticipatingInRitual>
+  <ParticipatingInRitual>{0_labelShort} กำลังเข้าร่วมใน {1}</ParticipatingInRitual>
 
   <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>ยิงตามใจ</CommandFireAtWillLabel>
@@ -73,7 +73,7 @@
   <!-- EN: Assign this throne to be owned by a specific colonist. -->
   <CommandThroneSetOwnerDesc>กำหนดบัลลังก์นี้ ให้เป็นของชาวนิคมคนใด</CommandThroneSetOwnerDesc>
   <!-- EN: Assign this meditation spot to be owned by a specific colonist. -->
-  <CommandMeditationSpotSetOwnerDesc>TODO</CommandMeditationSpotSetOwnerDesc>
+  <CommandMeditationSpotSetOwnerDesc>กำหนดให้จุดทำสมาธินี้เป็นเจ้าของโดยชาวอาณานิคมเฉพาะ</CommandMeditationSpotSetOwnerDesc>
   <!-- EN: Assign colonist -->
   <CommandGraveAssignColonistLabel>กำหนดชาวนิคม</CommandGraveAssignColonistLabel>
   <!-- EN: Assign this grave to be owned by a specific colonist. -->
@@ -101,7 +101,7 @@
   <!-- EN: Are you sure you want to do this? -->
   <AreYouSure>คุณแน่ใจหรือว่าต้องการทำเช่นนี้?</AreYouSure>
   <!-- EN: Changing bed use affects the whole room (since prisoners, slaves and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
-  <ChangingOwnerTypeBedWarning>TODO</ChangingOwnerTypeBedWarning>
+  <ChangingOwnerTypeBedWarning>การเปลี่ยนการใช้เตียงส่งผลต่อทั้งห้อง (เนื่องจากนักโทษ ทาส และชาวอาณานิคมไม่สามารถนอนในห้องเดียวกันได้)\n\nคนเหล่านี้จะสูญเสียความเป็นเจ้าของเตียง:</ChangingOwnerTypeBedWarning>
 
 
 
@@ -143,9 +143,9 @@
   <CommandAllowSowDesc>เมื่อปิดใช้งาน ชาวนิคมจะไม่หว่านเมล็ดพืชในโซนนี้ แต่พวกเขายังคงเก็บเกี่ยวอยู่</CommandAllowSowDesc>
 
   <!-- EN: Allow cutting -->
-  <CommandAllowCut>TODO</CommandAllowCut>
+  <CommandAllowCut>อนุญาตให้ตัด</CommandAllowCut>
   <!-- EN: When disabled, colonists will never cut plants in this zone. They will still sow new plants in spaces that are already empty, and harvest. -->
-  <CommandAllowCutDesc>TODO</CommandAllowCutDesc>
+  <CommandAllowCutDesc>เมื่อปิดการใช้งานอาณานิคมจะไม่ตัดพืชในโซนนี้ พวกเขาจะยังคงหว่านพืชใหม่ในพื้นที่ที่ว่างเปล่าและเก็บเกี่ยว</CommandAllowCutDesc>
 
   <!-- Artillery -->
   <!-- EN: Set forced target -->
@@ -267,9 +267,9 @@
   
   <!-- reload -->
   <!-- EN: No {CHARGENOUN_plural} left. -->
-  <CommandReload_NoCharges>TODO</CommandReload_NoCharges>
+  <CommandReload_NoCharges>ไม่มี {CHARGENOUN_plural} เหลืออยู่</CommandReload_NoCharges>
   <!-- EN: Needs to be reloaded with {COUNT} {AMMO_label}. -->
-  <CommandReload_NoAmmo>TODO</CommandReload_NoAmmo>
+  <CommandReload_NoAmmo>ต้องโหลดซ้ำด้วย {COUNT} {AMMO_label}</CommandReload_NoAmmo>
   
   <!-- Select plant to grow -->
   <!-- EN: Select plant to grow -->
@@ -317,7 +317,7 @@
   <!-- EN: Select all caravans which should be merged. The caravans must be close to each other. -->
   <CommandMergeCaravansFailCaravansNotSelected>เลือกคาราวานทั้งหมดที่ควรจะผสาน คาราวานต้องอยู่ใกล้กันและกัน</CommandMergeCaravansFailCaravansNotSelected>
   <!-- EN: Join -->
-  <CommandJoinCaravan>TODO</CommandJoinCaravan>
+  <CommandJoinCaravan>เข้าร่วม</CommandJoinCaravan>
   
   <!-- Settle -->
   <!-- EN: Settle -->
@@ -517,9 +517,9 @@
   
   <!-- Dismiss shuttle -->
   <!-- EN: Dismiss -->
-  <CommandShuttleDismiss>TODO</CommandShuttleDismiss>
+  <CommandShuttleDismiss>อนุญาตให้ออกไป</CommandShuttleDismiss>
   <!-- EN: Unload all contents and send the shuttle away. -->
-  <CommandShuttleDismissDesc>TODO</CommandShuttleDismissDesc>
+  <CommandShuttleDismissDesc>ขนของทั้งหมดออกแล้วส่งกระสวยออกไป</CommandShuttleDismissDesc>
 
   <!-- Place blueprints -->
   <!-- EN: Place blueprints -->
@@ -527,9 +527,9 @@
   <!-- EN: Place all required blueprints where possible. -->
   <CommandPlaceBlueprintsDesc>วางพิมพ์เขียวทั้งหมดในตำแหน่งที่เป็นไปได้</CommandPlaceBlueprintsDesc>
   <!-- EN: Place {0} blueprints -->
-  <CommandPlaceBlueprintsSpecific>TODO</CommandPlaceBlueprintsSpecific>
+  <CommandPlaceBlueprintsSpecific>วาง {0} พิมพ์เขียว</CommandPlaceBlueprintsSpecific>
   <!-- EN: Place all {0} blueprints where possible. -->
-  <CommandPlaceBlueprintsSpecificDesc>TODO</CommandPlaceBlueprintsSpecificDesc>
+  <CommandPlaceBlueprintsSpecificDesc>วางพิมพ์เขียวทั้งหมด {0} แบบที่เป็นไปได้</CommandPlaceBlueprintsSpecificDesc>
 
   <!-- Cancel monument marker -->
   <!-- EN: Cancel -->
@@ -549,33 +549,33 @@
 
   <!-- Carry -->
   <!-- EN: Drop {0_nameDef} -->
-  <CommandDropPawn>TODO</CommandDropPawn>
+  <CommandDropPawn>วาง {0_nameDef}</CommandDropPawn>
   <!-- EN: Drop the person being carried. -->
-  <CommandDropPawnDesc>TODO</CommandDropPawnDesc>
+  <CommandDropPawnDesc>วางบุคคลที่ถูกอุ้ม</CommandDropPawnDesc>
   
   <!-- Take a drug -->
   <!-- EN: Take drug... -->
-  <TakeDrug>TODO</TakeDrug>
+  <TakeDrug>กินยา...</TakeDrug>
   <!-- EN: Choose a drug from inventory to ingest immediately. -->
-  <TakeDrugDesc>TODO</TakeDrugDesc>
+  <TakeDrugDesc>เลือกตัวยาจากคลังเพื่อกลืนกินทันที</TakeDrugDesc>
 
   <!-- Build X -->
   <!-- EN: Build {0} -->
-  <BuildThing>TODO</BuildThing>
+  <BuildThing>สร้าง {0}</BuildThing>
 
   <!-- Rituals -->
   <!-- EN: Leave {RITUAL_label} -->
-  <CommandLeaveRitual>TODO</CommandLeaveRitual>
+  <CommandLeaveRitual>ออกจาก {RITUAL_label}</CommandLeaveRitual>
   <!-- EN: Stop participating in the {RITUAL_labelDef}. The ritual will continue as long as it has at least one participant. -->
-  <CommandLeaveRitualDesc>TODO</CommandLeaveRitualDesc>
+  <CommandLeaveRitualDesc>หยุดเข้าร่วมใน {RITUAL_labelDef} พิธีกรรมจะดำเนินต่อไปตราบใดที่มีผู้เข้าร่วมอย่างน้อยหนึ่งคน</CommandLeaveRitualDesc>
   <!-- EN: This is the last participant in the {RITUAL_labelDef}. -->
-  <CommandLeaveLastParticipant>TODO</CommandLeaveLastParticipant>
+  <CommandLeaveLastParticipant>นี่คือผู้เข้าร่วมคนสุดท้ายใน {RITUAL_labelDef}</CommandLeaveLastParticipant>
 
   <!-- EN: Cancel {RITUAL_label} -->
-  <CommandCancelRitual>TODO</CommandCancelRitual>
+  <CommandCancelRitual>ยกเลิก {RITUAL_label}</CommandCancelRitual>
   <!-- EN: End the {RITUAL_labelDef} immediately. Ritual obligation will remain. You can restart the ritual later. -->
-  <CommandCancelRitualDesc>TODO</CommandCancelRitualDesc>
+  <CommandCancelRitualDesc>สิ้นสุด {RITUAL_labelDef} ทันที ภาระผูกพันพิธีกรรมจะยังคงอยู่ คุณสามารถเริ่มพิธีกรรมใหม่ได้ในภายหลัง</CommandCancelRitualDesc>
   <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->
-  <CommandCancelRitualConfirm>TODO</CommandCancelRitualConfirm>
+  <CommandCancelRitualConfirm>คุณแน่ใจหรือไม่ว่าต้องการยกเลิก {RITUAL_labelDef}</CommandCancelRitualConfirm>
   
 </LanguageData>

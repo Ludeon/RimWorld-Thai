@@ -29,11 +29,11 @@
   <Flammability.description>วัตถุนั้นไฟได้ง่ายขนาดไหน และหลังติดไฟแล้วจะไหม้ลุกลามรวดเร็วไหม</Flammability.description>
   
   <!-- EN: food poison chance -->
-  <FoodPoisonChanceFixedHuman.label>โอกาสอาหารเป็นพิษ</FoodPoisonChanceFixedHuman.label>
+  <FoodPoisonChanceFixedHuman.label>โอกาสที่อาหารเป็นพิษ</FoodPoisonChanceFixedHuman.label>
   <!-- EN: The chance this food will cause food poisoning. -->
   <FoodPoisonChanceFixedHuman.description>โอกาสที่อาหารนี้จะก่อให้เกิดอาหารเป็นพิษ</FoodPoisonChanceFixedHuman.description>
   <!-- EN: food poison chance (food stat) -->
-  <FoodPoisonChanceFixedHuman.labelForFullStatList>TODO</FoodPoisonChanceFixedHuman.labelForFullStatList>
+  <FoodPoisonChanceFixedHuman.labelForFullStatList>โอกาสที่อาหารเป็นพิษ (สถิติอาหาร)</FoodPoisonChanceFixedHuman.labelForFullStatList>
   
   <!-- EN: market value -->
   <MarketValue.label>มูลค่าตลาด</MarketValue.label>
@@ -76,7 +76,7 @@
   <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
   <ShootingAccuracyTurret.description>ฐานโอกาสให้ยิงไม่พลาด ต่อช่อง ของระยะที่ยิง โอกาสยิงโดนได้รับผลกระทบจากปัจจัยอื่นๆอีกมาก คำอธิบายโอกาสยิงโดนของทุกนัดสามารถดูได้ ด้วยการเลือกคนยิง จากนั้นวางเมาส์บนเป้าหมาย</ShootingAccuracyTurret.description>
   <!-- EN: shooting accuracy (turrets) -->
-  <ShootingAccuracyTurret.labelForFullStatList>TODO</ShootingAccuracyTurret.labelForFullStatList>
+  <ShootingAccuracyTurret.labelForFullStatList>ความแม่นยำในการยิง (ป้อมปืน)</ShootingAccuracyTurret.labelForFullStatList>
   
   <!-- EN: work to make -->
   <WorkToMake.label>ต้องทำงานเพื่อสร้าง</WorkToMake.label>

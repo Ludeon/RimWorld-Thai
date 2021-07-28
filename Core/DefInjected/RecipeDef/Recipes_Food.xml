@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: make kibble -->
-  <Make_Kibble.label>ทำอาหารเม็ด</Make_Kibble.label>
+  <Make_Kibble.label>ทำ อาหารเม็ด</Make_Kibble.label>
   <!-- EN: Make animal kibble by combining raw meat and plants. -->
   <Make_Kibble.description>ทำอาหารเม็ดไว้ให้สัตว์เลี้ยง โดยการผสมเนื้อดิบเข้ากับพืช</Make_Kibble.description>
   <!-- EN: Making kibble. -->
   <Make_Kibble.jobString>กำลังทำอาหารเม็ด</Make_Kibble.jobString>
   
   <!-- EN: make pemmican -->
-  <Make_Pemmican.label>ทำเนื้อแห้งเพ็มมิกัน</Make_Pemmican.label>
+  <Make_Pemmican.label>ทำ เนื้อแห้งเพ็มมิกัน</Make_Pemmican.label>
   <!-- EN: Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
   <Make_Pemmican.description>ทำ ทำเนื้อแห้งเพ็มมิกัน, กันบูดโดยการผสมเนื้อกับอาหารพืช มันไม่ได้มีรดชาดเลิศเลอ แต่เก็บได้นานมากแม้ไม่ใส่ตู้เย็น</Make_Pemmican.description>
   <!-- EN: Making pemmican. -->
   <Make_Pemmican.jobString>กำลังทำเนื้อแห้งเพ็มมิกัน</Make_Pemmican.jobString>
   
   <!-- EN: make pemmican x4 -->
-  <Make_PemmicanBulk.label>ทำเนื้อแห้งเพ็มมิกัน x4</Make_PemmicanBulk.label>
+  <Make_PemmicanBulk.label>ทำ เนื้อแห้งเพ็มมิกัน x4</Make_PemmicanBulk.label>
   <!-- EN: Make bulk pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
   <Make_PemmicanBulk.description>ทำ เนื้อแห้งเพ็มมิกัน จำนวนมาก ซึ่งเป็นส่วนผสมของเนื้อสัตว์และอาหารจากพืชที่เก็บรักษาไว้ รสชาติไม่อร่อยแต่กินเวลานานโดยไม่ต้องแช่เย็น</Make_PemmicanBulk.description>
   <!-- EN: Making bulk pemmican. -->

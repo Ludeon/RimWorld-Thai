@@ -4,7 +4,7 @@
   <!-- EN: caribou -->
   <Caribou.label>กวางแคริบู</Caribou.label>
   <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
-  <Caribou.description>สมาชิกขนาดใหญ่ของสัตว์ตระกูลกวาง ปรับตัวได้ดีเข้ากับภูมิอากาศหนาวเย็น กวางแคริบูสามารถรีดนมได้ แต่ปฏิเสธที่จะแบกของ</Caribou.description>
+  <Caribou.description>สมาชิกขนาดใหญ่ของสัตว์ตระกูลกวาง ปรับตัวได้ดีเข้ากับภูมิอากาศหนาวเย็น กวางแคริบูสามารถรีดนมได้ แต่ปฏิเสธที่จะขนของ</Caribou.description>
   <!-- EN: left hoof -->
   <Caribou.tools.left_hoof.label>กีบซ้าย</Caribou.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -30,7 +30,7 @@
   <!-- EN: elk -->
   <Elk.label>กวางเอลก์</Elk.label>
   <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
-  <Elk.description>สมาชิกขนาดใหญ่ของสัตว์ตระกูลกวาง ปรับตัวได้ดีเข้ากับภูมิอากาศหนาวเย็น กวางเอลก์เลี้ยงสามารถรีดนมได้ แต่ปฏิเสธที่จะแบกของ</Elk.description>
+  <Elk.description>สมาชิกขนาดใหญ่ของสัตว์ตระกูลกวาง ปรับตัวได้ดีเข้ากับภูมิอากาศหนาวเย็น กวางเอลก์เลี้ยงสามารถรีดนมได้ แต่ปฏิเสธที่จะขนของ</Elk.description>
   <!-- EN: left hoof -->
   <Elk.tools.left_hoof.label>กีบซ้าย</Elk.tools.left_hoof.label>
   <!-- EN: right hoof -->

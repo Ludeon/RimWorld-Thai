@@ -21,9 +21,9 @@
     <li>commentedabout->told a joke about</li>
   -->
   <Chitchat.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef]กับ[RECIPIENT_nameDef][talkedabout][TalkTopicLight]</li>
-    <li>r_logentry->[INITIATOR_nameDef][talkedabout][TalkTopicLight]กับ[RECIPIENT_nameDef]</li>
-    <li>r_logentry(p=0.8)->[INITIATOR_nameDef][commentedabout][TalkTopicLight]กับ[RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef] กับ [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight]</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] กับ [RECIPIENT_nameDef]</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] กับ [RECIPIENT_nameDef]</li>
     <li>talkedabout(p=4)->คุยกันเรื่อง</li>
     <li>talkedabout->ให้ความเห็นเรื่อง</li>
     <li>talkedabout->พูดเรื่อง</li>
@@ -56,8 +56,8 @@
     <li>subject->[TalkTopicHeavy]</li>
   -->
   <DeepTalk.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef]กับ[RECIPIENT_nameDef][talkedabout][subject]</li>
-    <li>r_logentry->[INITIATOR_nameDef][talkedabout][subject]กับ[RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef] กับ [RECIPIENT_nameDef] [talkedabout] [subject]</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] กับ [RECIPIENT_nameDef]</li>
     <li>talkedabout->ประกอบความคิดเกี่ยวกับ</li>
     <li>talkedabout->แลกเปลี่ยนความคิดเกี่ยวกับ</li>
     <li>talkedabout->แลกเปลี่ยนไอเดียเกี่ยวกับ</li>
@@ -93,11 +93,11 @@
     <li>insultcomparison->[Enemy]</li>
   -->
   <Insult.logRulesInitiator.rulesStrings>
-    <li>r_logentry(p=3)->[INITIATOR_nameDef][insulted][PersonalCharacteristic]ของ[target]</li>
-    <li>r_logentry->[INITIATOR_nameDef]เปรียบ[target]กับ[insultcomparison]</li>
-    <li>r_logentry->[INITIATOR_nameDef]ด่า[target]ว่าเป็น[insultcomparison].</li>
+    <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [PersonalCharacteristic] ของ [target]</li>
+    <li>r_logentry->[INITIATOR_nameDef] เปรียบ [target] กับ [insultcomparison]</li>
+    <li>r_logentry->[INITIATOR_nameDef] ด่า [target] ว่าเป็น [insultcomparison].</li>
     <li>target(p=4)->[RECIPIENT_nameDef]</li>
-    <li>target->[PersonFamily]ของ[RECIPIENT_nameDef]</li>
+    <li>target->[PersonFamily] ของ [RECIPIENT_nameDef]</li>
     <li>insulted(p=3)->ดูถูก</li>
     <li>insulted->เย้ยหยัน</li>
     <li>insulted->แดกดัน</li>
@@ -131,7 +131,7 @@
     <li>complimented->said good things about</li>
   -->
   <KindWords.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef][complimented][PersonalCharacteristic]ของ[RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef] [complimented] [PersonalCharacteristic] ของ [RECIPIENT_nameDef]</li>
     <li>complimented(p=3)->ชม</li>
     <li>complimented->ชื่นชม</li>
     <li>complimented->ยกย่อง</li>
@@ -167,9 +167,9 @@
     <li>madefunof->offered a backhanded compliment about</li>
   -->
   <Slight.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef][madefunof][PersonalCharacteristic]ของ[target]</li>
+    <li>r_logentry->[INITIATOR_nameDef] [madefunof] [PersonalCharacteristic] ของ [target]</li>
     <li>target(p=4)->[RECIPIENT_nameDef]</li>
-    <li>target->[PersonFamily]ของ[RECIPIENT_nameDef]</li>
+    <li>target->[PersonFamily] ของ [RECIPIENT_nameDef]</li>
     <li>madefunof->ล้อ</li>
     <li>madefunof->ดูหมิ่น</li>
     <li>madefunof->เหยียดนัย ๆ </li>

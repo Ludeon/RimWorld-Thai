@@ -117,7 +117,7 @@
   <!-- EN: Manage areas... -->
   <ManageAreas>จัดการขอบเขต...</ManageAreas>
   <!-- EN: Manage auto-slaughter... -->
-  <ManageAutoSlaughter>TODO</ManageAutoSlaughter>
+  <ManageAutoSlaughter>จัดการฆ่าอัตโนมัติ...</ManageAutoSlaughter>
 
   <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
   <DesignatorGrowingZoneDesc>สร้างโซน ซึ่งชาวนิคมจะพยายาม ปลูกพืชบางชนิด</DesignatorGrowingZoneDesc>
@@ -174,14 +174,14 @@
   <DesignatorTameDesc>ฝึกสัตว์ป่าให้เชื่อง</DesignatorTameDesc>
 
   <!-- EN: Release to wild -->
-  <DesignatorReleaseAnimalToWild>TODO</DesignatorReleaseAnimalToWild>
+  <DesignatorReleaseAnimalToWild>ปล่อยสู่ป่า</DesignatorReleaseAnimalToWild>
   <!-- EN: Release an animal back into the wild. -->
-  <DesignatorReleaseAnimalToWildDesc>TODO</DesignatorReleaseAnimalToWildDesc>
+  <DesignatorReleaseAnimalToWildDesc>ปล่อยสัตว์กลับคืนสู่ป่า</DesignatorReleaseAnimalToWildDesc>
 
   <!-- EN: Study -->
-  <DesignatorStudy>TODO</DesignatorStudy>
+  <DesignatorStudy>ศึกษา</DesignatorStudy>
   <!-- EN: Study this object to learn more about it. -->
-  <DesignatorStudyDesc>TODO</DesignatorStudyDesc>
+  <DesignatorStudyDesc>ศึกษาวัตถุนี้เพื่อเรียนรู้เพิ่มเติมเกี่ยวกับมัน</DesignatorStudyDesc>
 
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->
@@ -227,11 +227,11 @@
   <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
   <InteractionSpotOverlaps>จุดโต้ตอบทับซ้อนกับจุดโต้ตอบของ{1_labelShort}</InteractionSpotOverlaps>
   <!-- EN: Cannot place monument over: {0}. -->
-  <CannotPlaceMonumentOver>TODO</CannotPlaceMonumentOver>
+  <CannotPlaceMonumentOver>ไม่สามารถวางอนุสาวรีย์ทับ: {0}</CannotPlaceMonumentOver>
   <!-- EN: Cannot build on: {0}. -->
-  <CannotPlaceMonumentOnTerrain>TODO</CannotPlaceMonumentOnTerrain>
+  <CannotPlaceMonumentOnTerrain>ไม่สามารถสร้างบน: {0}</CannotPlaceMonumentOnTerrain>
   <!-- EN: Cannot place monument over: {0}. -->
-  <MonumentOverlapsBuilding>TODO</MonumentOverlapsBuilding>
+  <MonumentOverlapsBuilding>ไม่สามารถวางอนุสาวรีย์ทับ: {0}</MonumentOverlapsBuilding>
   <!-- EN: Monument cannot be placed adjacent to: {0}. -->
   <MonumentAdjacentToBuilding>มาร์คอนุสาวรีย์ ไม่สามารถวางติด: {0}</MonumentAdjacentToBuilding>
   

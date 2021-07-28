@@ -33,22 +33,22 @@
   <SeasonPermanentWinter>ฤดูหนาวถาวร</SeasonPermanentWinter>
 
   <!-- EN: Aprimay -->
-  <QuadrumAprimay>Aprimay</QuadrumAprimay>
+  <QuadrumAprimay>เมษายน</QuadrumAprimay>
   <!-- EN: Jugust -->
-  <QuadrumJugust>Jugust</QuadrumJugust>
+  <QuadrumJugust>กรกฎาคม</QuadrumJugust>
   <!-- EN: Septober -->
-  <QuadrumSeptober>Septober</QuadrumSeptober>
+  <QuadrumSeptober>กันยายน</QuadrumSeptober>
   <!-- EN: Decembary -->
-  <QuadrumDecembary>Decembary</QuadrumDecembary>
+  <QuadrumDecembary>ธันวาคม</QuadrumDecembary>
 
   <!-- EN: Apr -->
-  <QuadrumAprimay_Short>Apr</QuadrumAprimay_Short>
+  <QuadrumAprimay_Short>เม.ย.</QuadrumAprimay_Short>
   <!-- EN: Jug -->
-  <QuadrumJugust_Short>Jug</QuadrumJugust_Short>
+  <QuadrumJugust_Short>ก.ค.</QuadrumJugust_Short>
   <!-- EN: Sep -->
-  <QuadrumSeptober_Short>Sep</QuadrumSeptober_Short>
+  <QuadrumSeptober_Short>ก.ย.</QuadrumSeptober_Short>
   <!-- EN: Dec -->
-  <QuadrumDecembary_Short>Dec</QuadrumDecembary_Short>
+  <QuadrumDecembary_Short>ธ.ค.</QuadrumDecembary_Short>
   
   <!-- EN: Born: {0} -->
   <Born>เกิด: {0}</Born>

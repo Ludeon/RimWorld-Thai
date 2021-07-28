@@ -24,7 +24,7 @@
   <!-- EN: Colonists need rescue -->
   <ColonistsNeedRescue>พวกชาวนิคมต้องการความช่วยเหลือ</ColonistsNeedRescue>
   <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue. -->
-  <ColonistsNeedRescueDesc>ชาวนิคมเหล่านี้นอนเคลื่อนไหวไม่ได้อยู่กับพื้น:\n\n{0}\nส่งชาวนิคมคนอื่นเข้าไปช่วยเหลือพวกเขา แล้วแบกพวกเขากลับมาที่เตียง\n\n(ในการช่วยเหลือนั้น ให้เลือกชาวนิคมคนอื่น และคลิกขวาไปที่ผู้เคราะห์ร้ายแล้วเลือก ช่วยเหลือ</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>ชาวนิคมเหล่านี้นอนเคลื่อนไหวไม่ได้อยู่กับพื้น:\n\n{0}\nส่งชาวนิคมคนอื่นเข้าไปช่วยเหลือพวกเขา แล้วขนพวกเขากลับมาที่เตียง\n\n(ในการช่วยเหลือนั้น ให้เลือกชาวนิคมคนอื่น และคลิกขวาไปที่ผู้เคราะห์ร้ายแล้วเลือก ช่วยเหลือ</ColonistsNeedRescueDesc>
 
   <!-- EN: Need defenses -->
   <NeedDefenses>ต้องการเครื่องป้องกัน</NeedDefenses>
@@ -205,7 +205,7 @@
   <!-- EN: Immobile caravan -->
   <ImmobileCaravan>คาราวานเคลื่อนที่ไม่ได้</ImmobileCaravan>
   <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
-  <ImmobileCaravanDesc>กองคาราวานของคุณกองหนึ่งเคลื่อนที่ไม่ได้เพราะแบกสัมภาระมากเกินไป\n\nคุณสามารถทำให้กองคาราวานเคลื่อนที่ได้อีกครั้ง โดยการละทิ้งไอเท็มบางรายการในแท็บ ไอเท็ม</ImmobileCaravanDesc>
+  <ImmobileCaravanDesc>กองคาราวานของคุณกองหนึ่งเคลื่อนที่ไม่ได้เพราะขนสัมภาระมากเกินไป\n\nคุณสามารถทำให้กองคาราวานเคลื่อนที่ได้อีกครั้ง โดยการละทิ้งไอเท็มบางรายการในแท็บ ไอเท็ม</ImmobileCaravanDesc>
 
   <!-- EN: Building unusable due to roof -->
   <BuildingCantBeUsedRoofed>อาคารใช้งานไม่ได้เพราะหลังคา</BuildingCantBeUsedRoofed>

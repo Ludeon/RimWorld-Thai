@@ -28,10 +28,10 @@
     <li>tamed->whispered a story about [TalkTopicAny] to</li>
   -->
   <AnimalChat.logRulesInitiator.rulesStrings>
-    <li>r_logentry(p=5)->[INITIATOR_nameDef][tamed][RECIPIENT_nameDef]</li>
-    <li>r_logentry->[INITIATOR_nameDef]นั่งใกล้[RECIPIENT_nameDef]แล้วคุยกับตัวเองเกี่ยวกับ[TalkTopicAny].</li>
-    <li>r_logentry->[INITIATOR_nameDef]เข้าใกล้[RECIPIENT_nameDef]ขณะที่กระซิบกับตัวเองเกี่ยวกับ[TalkTopicAny].</li>
-    <li>r_logentry->[INITIATOR_nameDef]มาใกล้[RECIPIENT_nameDef]ขณะที่คุยกับตัวเองเกี่ยวกับ[TalkTopicAny].</li>
+    <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef] นั่งใกล้ [RECIPIENT_nameDef] แล้วคุยกับตัวเองเกี่ยวกับ [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] เข้าใกล้ [RECIPIENT_nameDef] ขณะที่กระซิบกับตัวเองเกี่ยวกับ [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] มาใกล้ [RECIPIENT_nameDef] ขณะที่คุยกับตัวเองเกี่ยวกับ [TalkTopicAny].</li>
     <li>tamed->ทำเสียงสงบ ๆ ใส่</li>
     <li>tamed->แสดงท่าทางช้า ๆ เป็นมิตรกับ</li>
     <li>tamed->ทำเสียงชู่ว์ใส่</li>
@@ -81,8 +81,8 @@
     <li>rubbedpart->arm</li>
   -->
   <Nuzzle.logRulesInitiator.rulesStrings>
-    <li>r_logentry(p=2)->[INITIATOR_nameDef][nuzzled][RECIPIENT_nameDef][nuzzleadverb]</li>
-    <li>r_logentry->[INITIATOR_nameDef]ลูบจมูกของ[INITIATOR_possessive]กับ[rubbedpart]ของ[RECIPIENT_nameDef][nuzzleadverb]</li>
+    <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzled] [RECIPIENT_nameDef] [nuzzleadverb]</li>
+    <li>r_logentry->[INITIATOR_nameDef] ลูบจมูกของ [INITIATOR_possessive] กับ [rubbedpart] ของ [RECIPIENT_nameDef] [nuzzleadverb]</li>
     <li>nuzzled(p=2)->เคล้าเคลีย</li>
     <li>nuzzled->ซุกตัวเข้าหา</li>
     <li>nuzzleadverb(p=4)-></li>
@@ -108,7 +108,7 @@
   </Nuzzle.logRulesInitiator.rulesStrings>
   
   <!-- EN: release to the wild -->
-  <ReleaseToWild.label>TODO</ReleaseToWild.label>
+  <ReleaseToWild.label>ปล่อยสู่ป่า</ReleaseToWild.label>
   <!-- EN:
     <li>r_logentry->[farewell] [released]</li>
     <li>farewell->[INITIATOR_nameDef] gently pet [RECIPIENT_nameDef] one last time</li>
@@ -122,7 +122,19 @@
     <li>released->then turned away and let [RECIPIENT_objective] leave the colony.</li>
     <li>released->before letting [RECIPIENT_objective] go to live in freedom.</li>
   -->
-  <ReleaseToWild.logRulesInitiator.rulesStrings>TODO</ReleaseToWild.logRulesInitiator.rulesStrings>
+  <ReleaseToWild.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[farewell] [released]</li>
+    <li>farewell->[INITIATOR_nameDef] ลูบ [RECIPIENT_nameDef] เป็นครั้งสุดท้าย</li>
+    <li>farewell->[INITIATOR_nameDef] พูดคำที่อบอุ่นกับ [RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef] นำปลอกคอของ [RECIPIENT_nameDef] ออก</li>
+    <li>farewell->[INITIATOR_nameDef] ระลึกถึงช่วงเวลาที่ดีที่ [INITIATOR_objective] มีกับ [RECIPIENT_nameDef]</li>
+    <li>released->และ ปล่อย [RECIPIENT_objective] สู่ป่า</li>
+    <li>released->และ วาง [RECIPIENT_objective] ไปอิสระ</li>
+    <li>released->และ ส่ง [RECIPIENT_objective] ออกไป</li>
+    <li>released->และ ปล่อยให้ [RECIPIENT_objective] ไป</li>
+    <li>released->แล้วหันหลังให้ [RECIPIENT_objective] ออกจากอาณานิคม</li>
+    <li>released->ปล่อยให้ [RECIPIENT_objective] ใช้ชีวิตอย่างอิสระ</li>
+  </ReleaseToWild.logRulesInitiator.rulesStrings>
   
   <!-- EN: tame attempt -->
   <TameAttempt.label>พยายามทำเชื่อง</TameAttempt.label>
@@ -144,21 +156,21 @@
     <li>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a first command.</li>
   -->
   <TameAttempt.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef]พยายามทำให้[RECIPIENT_nameDef]เชื่อง</li>
-    <li>r_logentry->[INITIATOR_nameDef]พยายามควบคุม[RECIPIENT_nameDef]</li>
-    <li>r_logentry->[INITIATOR_nameDef]พยายามจับ[RECIPIENT_nameDef]ใส่ปลอกคอ</li>
-    <li>r_logentry->[INITIATOR_nameDef]เรียกร้องความเชื่อฟังจาก[RECIPIENT_nameDef]</li>
-    <li>r_logentry->[INITIATOR_nameDef]เรียก[RECIPIENT_nameDef]ให้มาหา[INITIATOR_objective]</li>
-    <li>r_logentry->[INITIATOR_nameDef]พยายามให้[RECIPIENT_nameDef]นั่งอยู่เฉย ๆ</li>
-    <li>r_logentry->[INITIATOR_nameDef]จับ[RECIPIENT_nameDef]อย่างแรงแล้วออกคำสั่ง</li>
-    <li>r_logentry->[INITIATOR_nameDef]พยายามจับ[RECIPIENT_nameDef]ให้อยู่นิ่ง ๆ</li>
-    <li>r_logentry->[INITIATOR_nameDef]ตะโกนคำสั่งใส่[RECIPIENT_nameDef]</li>
-    <li>r_logentry->[INITIATOR_nameDef]ตบ[RECIPIENT_nameDef]เพื่อแสดงความเป็นใหญ่</li>
-    <li>r_logentry->[INITIATOR_nameDef]ชี้ทางให้[RECIPIENT_nameDef]กลับชุมชน</li>
-    <li>r_logentry->[INITIATOR_nameDef]เรียกให้[RECIPIENT_nameDef]กลับมาที่ชุมชน</li>
-    <li>r_logentry->[INITIATOR_nameDef]จับจุดอ่อนของ[RECIPIENT_nameDef] เป็นการเรียกร้องความเชื่อฟัง</li>
-    <li>r_logentry->[INITIATOR_nameDef]ชี้ลงไปที่พื้น เพื่อเรียกให้[RECIPIENT_nameDef]มา</li>
-    <li>r_logentry->[INITIATOR_nameDef]ให้คำสั่งแรกกับ[RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef] พยายามทำให้ [RECIPIENT_nameDef] เชื่อง</li>
+    <li>r_logentry->[INITIATOR_nameDef] พยายามควบคุม [RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef] พยายามจับ [RECIPIENT_nameDef]ใส่ปลอกคอ</li>
+    <li>r_logentry->[INITIATOR_nameDef] เรียกร้องความเชื่อฟังจาก [RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef] เรียก [RECIPIENT_nameDef] ให้มาหา [INITIATOR_objective]</li>
+    <li>r_logentry->[INITIATOR_nameDef] พยายามให้ [RECIPIENT_nameDef]นั่งอยู่เฉย ๆ</li>
+    <li>r_logentry->[INITIATOR_nameDef] จับ [RECIPIENT_nameDef] อย่างแรงแล้วออกคำสั่ง</li>
+    <li>r_logentry->[INITIATOR_nameDef] พยายามจับ [RECIPIENT_nameDef] ให้อยู่นิ่ง ๆ</li>
+    <li>r_logentry->[INITIATOR_nameDef] ตะโกนคำสั่งใส่ [RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef] ตบ [RECIPIENT_nameDef] เพื่อแสดงความเป็นใหญ่</li>
+    <li>r_logentry->[INITIATOR_nameDef] ชี้ทางให้ [RECIPIENT_nameDef] กลับชุมชน</li>
+    <li>r_logentry->[INITIATOR_nameDef] เรียกให้ [RECIPIENT_nameDef] กลับมาที่ชุมชน</li>
+    <li>r_logentry->[INITIATOR_nameDef] จับจุดอ่อนของ [RECIPIENT_nameDef] เป็นการเรียกร้องความเชื่อฟัง</li>
+    <li>r_logentry->[INITIATOR_nameDef] ชี้ลงไปที่พื้น เพื่อเรียกให้ [RECIPIENT_nameDef]มา</li>
+    <li>r_logentry->[INITIATOR_nameDef] ให้คำสั่งแรกกับ [RECIPIENT_nameDef]</li>
   </TameAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: train attempt -->
@@ -176,12 +188,12 @@
     <li>tried->attempted</li>
   -->
   <TrainAttempt.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef][trained][RECIPIENT_nameDef]</li>
-    <li>trained(p=2)->[tried]ฝึก</li>
-    <li>trained->[tried]แสดงลูกเล่นใหม่ให้กับ</li>
-    <li>trained->[tried]สร้างระเบียบให้กับ</li>
-    <li>trained->[tried]สอน</li>
-    <li>trained->[tried]ปลุกทักษะใหม่ให้กับ</li>
+    <li>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef]</li>
+    <li>trained(p=2)->[tried] ฝึก</li>
+    <li>trained->[tried] แสดงลูกเล่นใหม่ให้กับ</li>
+    <li>trained->[tried] สร้างระเบียบให้กับ</li>
+    <li>trained->[tried] สอน</li>
+    <li>trained->[tried] ปลุกทักษะใหม่ให้กับ</li>
     <li>trained->แสดงทักษะใหม่ให้กับ</li>
     <li>trained->กระตุ้นการตอบสนองใหม่จาก</li>
     <li>tried->พยายาม</li>

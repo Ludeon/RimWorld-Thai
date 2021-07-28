@@ -313,20 +313,20 @@
   <!-- EN: remote host faction -->
   <ExtraFactionType_HostFaction>ฝ่ายเจ้าภาพไกลๆ</ExtraFactionType_HostFaction>
   <!-- EN: group -->
-  <ExtraFactionType_MiniFaction>TODO</ExtraFactionType_MiniFaction>
+  <ExtraFactionType_MiniFaction>กลุ่ม</ExtraFactionType_MiniFaction>
 
   <!-- DrugCategory -->
   <!-- EN: drug category -->
-  <DrugCategory>TODO</DrugCategory>
+  <DrugCategory>หมวดยา</DrugCategory>
   <!-- EN: none -->
-  <DrugCategory_None>TODO</DrugCategory_None>
+  <DrugCategory_None>ไม่มี</DrugCategory_None>
   <!-- EN: medical -->
-  <DrugCategory_Medical>TODO</DrugCategory_Medical>
+  <DrugCategory_Medical>ทางการแพทย์</DrugCategory_Medical>
   <!-- EN: social -->
-  <DrugCategory_Social>TODO</DrugCategory_Social>
+  <DrugCategory_Social>ทางสังคม</DrugCategory_Social>
   <!-- EN: hard -->
-  <DrugCategory_Hard>TODO</DrugCategory_Hard>
+  <DrugCategory_Hard>ยาก</DrugCategory_Hard>
   <!-- EN: any -->
-  <DrugCategory_Any>TODO</DrugCategory_Any>
+  <DrugCategory_Any>ใดๆ</DrugCategory_Any>
   
 </LanguageData>

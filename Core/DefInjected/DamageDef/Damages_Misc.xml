@@ -37,8 +37,8 @@
   <Smoke.deathMessage>{0} โดนฆ่า</Smoke.deathMessage>
   
   <!-- EN: thump -->
-  <Thump.label>TODO</Thump.label>
+  <Thump.label>กระหน่ำ</Thump.label>
   <!-- EN: {0} has been shot to death. -->
-  <Thump.deathMessage>TODO</Thump.deathMessage>
+  <Thump.deathMessage>{0} โดนยิงตาย</Thump.deathMessage>
   
 </LanguageData>

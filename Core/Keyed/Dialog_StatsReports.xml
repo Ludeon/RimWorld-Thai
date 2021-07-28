@@ -53,9 +53,9 @@
   <!-- EN: Multiplier for health {0} -->
   <StatsReport_HealthMultiplier>คูณจากสุขภาพ {0}</StatsReport_HealthMultiplier>
   <!-- EN: Cost to reload ({COUNT} {AMMO_label}) -->
-  <StatsReport_ReloadMarketValue>TODO</StatsReport_ReloadMarketValue>
+  <StatsReport_ReloadMarketValue>ค่าในการโหลด ({COUNT} {AMMO_label})</StatsReport_ReloadMarketValue>
   <!-- EN: Multiplier for remaining {CHARGENOUN_plural} ({0}) -->
-  <StatsReport_ReloadRemainingChargesMultipler>TODO</StatsReport_ReloadRemainingChargesMultipler>
+  <StatsReport_ReloadRemainingChargesMultipler>ตัวคูณสำหรับ {CHARGENOUN_plural} ที่เหลืออยู่ ({0})</StatsReport_ReloadRemainingChargesMultipler>
   <!-- EN: Multiplier for mood {0} -->
   <StatsReport_MoodMultiplier>คูณจากอารมณ์ {0}</StatsReport_MoodMultiplier>
   <!-- EN: Multiplier for light {0} -->
@@ -69,7 +69,7 @@
   <!-- EN: Multiplier for body size {0} -->
   <StatsReport_BodySize>ตัวคูณขนาดตัว {0}</StatsReport_BodySize>
   <!-- EN: Damaged -->
-  <StatsReport_HasHediffExplanation>TODO</StatsReport_HasHediffExplanation>
+  <StatsReport_HasHediffExplanation>ได้รับความเสียหาย</StatsReport_HasHediffExplanation>
   <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
   <StatsReport_MeleeDPSExplanation>DPS = ค่าเสียหายรบประชิด * โอกาสโจมตีโดนรบประชิด / คูลดาวน์เป็นวินาที</StatsReport_MeleeDPSExplanation>
   <!-- EN: Melee damage -->
@@ -81,7 +81,7 @@
   <!-- EN: {0} s -->
   <StatsReport_CooldownFormat>{0} วิ</StatsReport_CooldownFormat>
   <!-- EN: Blocked by fences -->
-  <StatsReport_BlockedByFences>TODO</StatsReport_BlockedByFences>
+  <StatsReport_BlockedByFences>ถูกล้อมด้วยรั้ว</StatsReport_BlockedByFences>
   <!-- EN: Roam interval -->
   <StatsReport_RoamInterval>TODO</StatsReport_RoamInterval>
   <!-- EN: Caravan rideable age -->
@@ -115,7 +115,7 @@
   <!-- EN: work to uninstall -->
   <StatsReport_WorkToUninstall>ทำงานเพื่อถอนติดตั้ง</StatsReport_WorkToUninstall>
   <!-- EN: Fence -->
-  <StatsReport_Fence>TODO</StatsReport_Fence>
+  <StatsReport_Fence>รั้ว</StatsReport_Fence>
   <!-- EN: Multiplier for growth {0} -->
   <StatsReport_PlantGrowth>คูณจากการเติบโต {0}</StatsReport_PlantGrowth>
   <!-- EN: scaled because wild -->
@@ -136,34 +136,34 @@
   <!-- EN: Possible offsets -->
   <StatReport_PossibleOffsets>TODO</StatReport_PossibleOffsets>
   <!-- EN: Room impressiveness -->
-  <StatsReport_RoomImpressiveness>TODO</StatsReport_RoomImpressiveness>
+  <StatsReport_RoomImpressiveness>ความประทับใจในห้อง</StatsReport_RoomImpressiveness>
   <!-- EN: Lit -->
   <StatsReport_Lit>TODO</StatsReport_Lit>
   <!-- EN: Contains {0} -->
-  <StatsReport_GraveFull>TODO</StatsReport_GraveFull>
+  <StatsReport_GraveFull>ประกอบด้วย {0}</StatsReport_GraveFull>
   <!-- EN: Contains a human corpse -->
-  <StatsReport_GraveFullAbstract>TODO</StatsReport_GraveFullAbstract>
+  <StatsReport_GraveFullAbstract>มีศพมนุษย์</StatsReport_GraveFullAbstract>
   <!-- EN: Meditator is related to the corpse inside -->
   <StatsReport_GraveCorpseRelatedAbstract>TODO</StatsReport_GraveCorpseRelatedAbstract>
   <!-- EN: From quality -->
-  <StatsReport_FromQuality>TODO</StatsReport_FromQuality>
+  <StatsReport_FromQuality>จากคุณภาพ</StatsReport_FromQuality>
   <!-- EN: Nearby artificial structures -->
   <StatsReport_NearbyArtificialStructures>TODO</StatsReport_NearbyArtificialStructures>
   <!-- EN: Satisfies user's title requirements -->
-  <StatsReport_SatisfiesTitle>TODO</StatsReport_SatisfiesTitle>
+  <StatsReport_SatisfiesTitle>ตรงตามความต้องการของผู้ใช้</StatsReport_SatisfiesTitle>
 
   <!-- EN: Different sources of recreation satisfy different recreation types. Colonists become bored of doing the same recreation type repeatedly, so it is important to provide a variety of recreation sources with different recreation types. -->
   <Stat_RecreationType_Desc>TODO</Stat_RecreationType_Desc>
   <!-- EN: All recreation types -->
-  <Stat_JoyKind_AllTypes>TODO</Stat_JoyKind_AllTypes>
+  <Stat_JoyKind_AllTypes>นันทนาการทุกประเภท</Stat_JoyKind_AllTypes>
   <!-- EN: Mined item -->
   <Stat_MineableThing_Name>ไอเท็มถูกขุด</Stat_MineableThing_Name>
   <!-- EN: The item that will be yielded when mining this. -->
   <Stat_MineableThing_Desc>ไอเท็มจะปรากฏออกมาเมื่อขุดสิ่งนี้</Stat_MineableThing_Desc>
   <!-- EN: Mining yield -->
-  <Stat_MiningYield_Name>TODO</Stat_MiningYield_Name>
+  <Stat_MiningYield_Name>ผลผลิตการขุด</Stat_MiningYield_Name>
   <!-- EN: The maximum amount of items yielded when mining this. The actual yield will be adjusted by the mining skill of the miner. -->
-  <Stat_MiningYield_Desc>TODO</Stat_MiningYield_Desc>
+  <Stat_MiningYield_Desc>จำนวนสูงสุดของรายการที่ได้รับเมื่อขุดสิ่งนี้ ผลตอบแทนที่แท้จริงจะถูกปรับโดยทักษะการขุดของผู้ขุด</Stat_MiningYield_Desc>
   <!-- EN: Source species -->
   <Stat_SourceSpecies_Name>สายพันธุ์ต้นทาง</Stat_SourceSpecies_Name>
   <!-- EN: The species of creature from which this was taken. -->
@@ -181,7 +181,7 @@
   <!-- EN: The amount of work it takes to uninstall this. -->
   <Stat_Thing_WorkToUninstall_Desc>จำนวนแรงงานที่ใช้เพื่อถอนติดตั้งสิ่งนี้</Stat_Thing_WorkToUninstall_Desc>
   <!-- EN: Whether this building is a type of fence. Fences block these animals -->
-  <Stat_Thing_Fence_Desc>TODO</Stat_Thing_Fence_Desc>
+  <Stat_Thing_Fence_Desc>ไม่ว่าจะเป็นอาคารประเภทรั้ว รั้วกั้นสัตว์เหล่านี้</Stat_Thing_Fence_Desc>
   <!-- EN: Which facilities can be used to produce this. -->
   <Stat_Thing_CreatedAt_Desc>โรงงานใดบางที่สามารถใช้สร้างสิ่งนี้ได้</Stat_Thing_CreatedAt_Desc>
   <!-- EN: The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor. -->
@@ -191,9 +191,9 @@
   <!-- EN: The attributes of this plant. -->
   <Stat_Thing_Plant_Attributes_Desc>คุณลักษณะของดาวเคราะห์นี้</Stat_Thing_Plant_Attributes_Desc>
   <!-- EN: Clothing (for nudity) -->
-  <Stat_Thing_Apparel_CountsAsClothingNudity_Name>TODO</Stat_Thing_Apparel_CountsAsClothingNudity_Name>
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Name>เสื้อผ้า (สำหรับภาพเปลือย)</Stat_Thing_Apparel_CountsAsClothingNudity_Name>
   <!-- EN: Whether nudists will consider this item to be a piece of clothing. If not, nudists will never be bothered by wearing this. -->
-  <Stat_Thing_Apparel_CountsAsClothingNudity_Desc>TODO</Stat_Thing_Apparel_CountsAsClothingNudity_Desc>
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Desc>ไม่ว่านักชีเปลือยจะถือว่ารายการนี้เป็นเสื้อผ้าหรือไม่ ถ้าไม่อย่างนั้น ชีเปลือยจะไม่ต้องกังวลกับการสวมใส่สิ่งนี้</Stat_Thing_Apparel_CountsAsClothingNudity_Desc>
   <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
   <Stat_Thing_Apparel_Covers_Desc>ปกคลุมส่วนไหนของร่างกาย\n\nเกราะไม่ป้องกันอวัยวะที่ไม่ได้ปกคลุมไว้</Stat_Thing_Apparel_Covers_Desc>
   <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
@@ -225,15 +225,15 @@
   <!-- EN: The average life expectancy of this creature. -->
   <Stat_Race_LifeExpectancy_Desc>อายุขัยโดยเฉลี่ยของสิ่งมีชีวิตนี้</Stat_Race_LifeExpectancy_Desc>
   <!-- EN: Whether this creature is blocked by fences and barricades. -->
-  <Stat_Race_BlockedByFences_Desc>TODO</Stat_Race_BlockedByFences_Desc>
+  <Stat_Race_BlockedByFences_Desc>ไม่ว่าสิ่งมีชีวิตนี้จะถูกปิดกั้นด้วยรั้วและเครื่องกีดขวาง</Stat_Race_BlockedByFences_Desc>
   <!-- EN: How often a tame animal will attempt to roam away and exit the map.\n\nAnimals will only roam if they have a direct path to the map edge. You can use fences, barricades, walls, and doors to prevent this.\n\nAnimal handlers can rope roaming animals and bring them back to a pen. -->
-  <Stat_Race_RoamInterval_Desc>TODO</Stat_Race_RoamInterval_Desc>
+  <Stat_Race_RoamInterval_Desc>ความถี่ที่สัตว์ที่เชื่องจะพยายามเดินเตร่ออกไปและออกจากแผนที่\n\nสัตว์จะเดินเตร่ก็ต่อเมื่อพวกมันมีเส้นทางตรงไปยังขอบแผนที่ คุณสามารถใช้รั้ว เครื่องกีดขวาง ผนัง และประตูเพื่อป้องกันสิ่งนี้\n\nผู้เลี้ยงสัตว์สามารถผูกเชือกสัตว์ที่สัญจรไปมาและนำกลับมาที่ปากกาได้</Stat_Race_RoamInterval_Desc>
   <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
   <Stat_Thing_Ingestible_Joy_Desc>ค่าผ่อนคลายมากแค่ไหนเมื่อกลืนกินสิ่งนี้ ยิ่งค่ามายิ่งเต็มเติมความผ่อนคลายมาก</Stat_Thing_Ingestible_Joy_Desc>
   <!-- EN: The size of this creature's body, compared to an average adult human. -->
   <Stat_Race_BodySize_Desc>ขนาดของสิ่งมีชีวิตนี้ เทียบกับขนาดมนุษย์โดยเฉลี่ย</Stat_Race_BodySize_Desc>
   <!-- EN: How close this creature is to adulthood.\n\nGrowth requires nourishment. A hungry animal will grow at a slower rate compared to a well-fed one. -->
-  <Stat_Race_Growth_Desc>TODO</Stat_Race_Growth_Desc>
+  <Stat_Race_Growth_Desc>สิ่งมีชีวิตนี้ใกล้จะโตเต็มที่เพียงใด\n\nการเติบโตต้องการการบำรุงเลี้ยง สัตว์ที่หิวโหยจะเติบโตในอัตราที่ช้ากว่าเมื่อเทียบกับสัตว์ที่ได้รับอาหารอย่างดี</Stat_Race_Growth_Desc>
   <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
   <Stat_Thing_Weapon_MeleeWarmupTime_Desc>เวลาผ่านไปนานแค่ไหน ระหว่างเริ่มโจมตีระยะประชิดด้วยอาวุธนี้ ไปจนถึงตอนที่อาวุธนั้นโจมตีโดน</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
   <!-- EN: The amount of shots this weapon fires in each burst. -->
@@ -315,33 +315,33 @@
   <!-- EN: The amount of power this building will draw from the power grid. -->
   <Stat_Thing_PowerConsumption_Desc>ปริมาณไฟฟ้าที่สิ่งก่อสร้างนี้ดึงจากกริดไฟฟ้า</Stat_Thing_PowerConsumption_Desc>
   <!-- EN: {CHARGENOUN_plural} remaining -->
-  <Stat_Thing_ReloadChargesRemaining_Name>TODO</Stat_Thing_ReloadChargesRemaining_Name>
+  <Stat_Thing_ReloadChargesRemaining_Name>เหลืออีก {CHARGENOUN_plural}</Stat_Thing_ReloadChargesRemaining_Name>
   <!-- EN: The number of {CHARGENOUN_plural} remaining on this object. If these run out, the special ability can no longer be used. -->
-  <Stat_Thing_ReloadChargesRemaining_Desc>TODO</Stat_Thing_ReloadChargesRemaining_Desc>
+  <Stat_Thing_ReloadChargesRemaining_Desc>จำนวน {CHARGENOUN_plural} ที่เหลืออยู่บนวัตถุนี้ หากสิ่งเหล่านี้หมดลง ความสามารถพิเศษจะไม่สามารถใช้ได้อีกต่อไป</Stat_Thing_ReloadChargesRemaining_Desc>
   <!-- EN: {CHARGENOUN_plural} -->
   <Stat_Thing_ReloadMaxCharges_Name>TODO</Stat_Thing_ReloadMaxCharges_Name>
   <!-- EN: The maximum number of {CHARGENOUN_plural} this object has. -->
-  <Stat_Thing_ReloadMaxCharges_Desc>TODO</Stat_Thing_ReloadMaxCharges_Desc>
+  <Stat_Thing_ReloadMaxCharges_Desc>จำนวนสูงสุดของ {CHARGENOUN_plural} วัตถุนี้มี</Stat_Thing_ReloadMaxCharges_Desc>
   <!-- EN: {CHARGENOUN} reload cost -->
-  <Stat_Thing_ReloadRefill_Name>TODO</Stat_Thing_ReloadRefill_Name>
+  <Stat_Thing_ReloadRefill_Name>ค่ารีโหลด {CHARGENOUN}</Stat_Thing_ReloadRefill_Name>
   <!-- EN: The amount of items required to fully reload this object.\n\nThis object can be reloaded before it is empty, but the cost is the same as if it was empty. -->
-  <Stat_Thing_ReloadRefill_Desc>TODO</Stat_Thing_ReloadRefill_Desc>
+  <Stat_Thing_ReloadRefill_Desc>จำนวนรายการที่จำเป็นในการรีโหลดออบเจ็กต์นี้จนเต็ม\on\อ็อบเจ็กต์นี้สามารถโหลดซ้ำได้ก่อนที่จะว่างเปล่า แต่ราคาจะเท่ากับว่าว่างเปล่า</Stat_Thing_ReloadRefill_Desc>
   <!-- EN: Reload cost per {CHARGENOUN} -->
-  <Stat_Thing_ReloadPerCharge_Name>TODO</Stat_Thing_ReloadPerCharge_Name>
+  <Stat_Thing_ReloadPerCharge_Name>ค่าโหลดต่อ {CHARGENOUN}</Stat_Thing_ReloadPerCharge_Name>
   <!-- EN: The amount of items required to reload one {CHARGENOUN}. Multiple {CHARGENOUN_plural} can be reloaded at once. -->
-  <Stat_Thing_ReloadPerCharge_Desc>TODO</Stat_Thing_ReloadPerCharge_Desc>
+  <Stat_Thing_ReloadPerCharge_Desc>จำนวนรายการที่ต้องโหลดหนึ่ง {CHARGENOUN} สามารถโหลดซ้ำได้ {CHARGENOUN_plural} หลายรายการพร้อมกัน</Stat_Thing_ReloadPerCharge_Desc>
   <!-- EN: Vanish on exhaust -->
-  <Stat_Thing_ReloadDestroyOnEmpty_Name>TODO</Stat_Thing_ReloadDestroyOnEmpty_Name>
+  <Stat_Thing_ReloadDestroyOnEmpty_Name>หายไปบนท่อไอเสีย</Stat_Thing_ReloadDestroyOnEmpty_Name>
   <!-- EN: This item will vanish when its last {CHARGENOUN} is used. -->
-  <Stat_Thing_ReloadDestroyOnEmpty_Desc>TODO</Stat_Thing_ReloadDestroyOnEmpty_Desc>
+  <Stat_Thing_ReloadDestroyOnEmpty_Desc>ไอเทมนี้จะหายไปเมื่อใช้ {CHARGENOUN} ครั้งสุดท้าย</Stat_Thing_ReloadDestroyOnEmpty_Desc>
   <!-- EN: The overall efficiency of this body part. -->
   <Stat_Thing_BodyPartEfficiency_Desc>ประสิทธิภาพโดยรวมของอวัยวะนี้</Stat_Thing_BodyPartEfficiency_Desc>
   <!-- EN: Biocoding -->
-  <Stat_Thing_Biocoded_Name>TODO</Stat_Thing_Biocoded_Name>
+  <Stat_Thing_Biocoded_Name>การเข้ารหัสทางชีวภาพ</Stat_Thing_Biocoded_Name>
   <!-- EN: This item has been coded to only accept a particular individual's bio-signature. -->
-  <Stat_Thing_Biocoded_Desc>TODO</Stat_Thing_Biocoded_Desc>
+  <Stat_Thing_Biocoded_Desc>รายการนี้ถูกเข้ารหัสให้ยอมรับเฉพาะลายเซ็นชีวภาพของบุคคลใดบุคคลหนึ่งเท่านั้น</Stat_Thing_Biocoded_Desc>
   <!-- EN: Required apparel -->
-  <Stat_Pawn_RequiredApparel_Name>TODO</Stat_Pawn_RequiredApparel_Name>
+  <Stat_Pawn_RequiredApparel_Name>เครื่องแต่งกายที่จำเป็น</Stat_Pawn_RequiredApparel_Name>
 
   <!-- Drugs -->
   <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
@@ -382,12 +382,12 @@
   <Stat_Thing_Drug_AddictionCost_Desc>TODO</Stat_Thing_Drug_AddictionCost_Desc>
 
   <!-- EN: Style -->
-  <Stat_Thing_StyleLabel>TODO</Stat_Thing_StyleLabel>
+  <Stat_Thing_StyleLabel>สไตล์</Stat_Thing_StyleLabel>
   <!-- EN: An object's style determines its appearance. This has no gameplay effect. Styles often form the differing methods of construction used by people of different beliefs and cultures. -->
-  <Stat_Thing_StyleDesc>TODO</Stat_Thing_StyleDesc>
+  <Stat_Thing_StyleDesc>ลักษณะของวัตถุกำหนดลักษณะที่ปรากฏ สิ่งนี้ไม่มีเอฟเฟกต์การเล่นเกม สไตล์มักจะสร้างวิธีการสร้างที่แตกต่างกันซึ่งผู้คนต่างความเชื่อและวัฒนธรรมใช้กัน</Stat_Thing_StyleDesc>
 
   <!-- EN: Gestation time -->
-  <Stat_Animal_GestationTime>TODO</Stat_Animal_GestationTime>
+  <Stat_Animal_GestationTime>เวลาตั้งครรภ์</Stat_Animal_GestationTime>
   <!-- EN: The time this species takes to gestate its offspring or eggs. -->
   <Stat_Animal_GestationTimeDesc>TODO</Stat_Animal_GestationTimeDesc>
   <!-- EN: Litter size -->

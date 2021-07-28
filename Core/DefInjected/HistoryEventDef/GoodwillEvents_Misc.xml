@@ -8,7 +8,7 @@
   <DebugGoodwill.label>เหตุการณ์ดีบัก</DebugGoodwill.label>
   
   <!-- EN: laborers missed shuttle -->
-  <LaborersMissedShuttle.label>คนงานพลาดรถรับส่ง</LaborersMissedShuttle.label>
+  <LaborersMissedShuttle.label>คนงานพลาดกระสวยขนส่ง</LaborersMissedShuttle.label>
   
   <!-- EN: tendency to move toward natural goodwill -->
   <ReachNaturalGoodwill.label>แนวโน้มที่จะก้าวไปสู่ความปรารถนาดีตามธรรมชาติ</ReachNaturalGoodwill.label>
@@ -17,7 +17,7 @@
   <RitualDone.label>ทำพิธี</RitualDone.label>
   
   <!-- EN: shuttle destroyed -->
-  <ShuttleDestroyed.label>รถรับส่งถูกทำลาย</ShuttleDestroyed.label>
+  <ShuttleDestroyed.label>กระสวยขนส่งถูกทำลาย</ShuttleDestroyed.label>
   
   <!-- EN: used forbidden thing -->
   <UsedForbiddenThing.label>ใช้ของต้องห้าม</UsedForbiddenThing.label>
