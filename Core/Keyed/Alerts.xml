@@ -284,7 +284,7 @@
   <AlertAnimalIsRoamingDesc>สัตว์เลี้ยงของคุณบางตัวเดินเพ่นพ่านและเริ่มออกเดินทาง ถ้าพวกมันไปสุดขอบแผนที่เมื่อไหร่ พวกมันจะหนีไปได้ในที่สุด\n\nถ้าคุณมีคอกสัตว์ที่ล้อมแล้ว คนเลี้ยงสัตว์ของคุณสามารถมันกลับมาได้ สัตว์ที่อยู่ในคอกสัตว์จะไม่เดินเพ่นพ่าน\n\nสัตว์ต่อไปนี้ที่กำลังเดินเพ่นพ่าน:\n\n{0}</AlertAnimalIsRoamingDesc>
 
   <!-- EN: Hungry pen animals -->
-  <AlertPennedAnimalHungry>คอกสัตว์หิวโหย</AlertPennedAnimalHungry>
+  <AlertPennedAnimalHungry>สัตว์ในคอกหิวโหย</AlertPennedAnimalHungry>
   <!-- EN: Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n\n{0} -->
   <AlertPennedAnimalHungryDesc>สัตว์ในคอกบางตัวของคุณกำลังหิว\n\nเลือกเครื่องหมายคอกและใช้แท็บอาหารเพื่อดูรายละเอียดมาขึ้น\n\nพวกสัตว์กินหญ้าอาจจะต้องการคอกที่ใหญ่ขึ้นเพื่อให้หญ้าเพียงพอ สัตว์อื่นๆอาจจะต้องการเป็นผลผลิตพวกหญ้าฟางหรืออาหารที่คล้ายกันโดยใช้ช่องเก็บของ\n\nสัตว์ในคอกต่อไปนี้ที่กำลังหิว:\n\n{0}</AlertPennedAnimalHungryDesc>
 
