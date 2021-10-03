@@ -216,7 +216,7 @@
   <!-- EN: Rejected proposal -->
   <LetterLabelRejectedProposal>ปฏิเสธคำขอแต่งงาน</LetterLabelRejectedProposal>
   <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
-  <LetterAcceptedProposal>ณ วันใดวันหนึ่งใน Quadrums ที่จะมาถึง พวกเขาจะจัดพิธีแต่งงานและเชิญชาวนิคมทั้งหมดเข้าร่วม พิจารณาวางจุดแต่งงานเอง หากคุณต้องการควบคุมตำแหน่งการจัดพิธี</LetterAcceptedProposal>
+  <LetterAcceptedProposal>ณ จุดๆหนึ่งในวันหรือควอดรัมที่กำลังจะมาถึง พวกเขาจะจัดพิธีแต่งงานและเชิญชาวนิคมทั้งหมดเข้าร่วม พิจารณาการวางจุดแต่งงาน หากคุณต้องการควบคุมตำแหน่งการจัดพิธี</LetterAcceptedProposal>
   <!-- EN: {PAWN_label} will change {PAWN_possessive} last name to {1}. -->
   <LetterAcceptedProposal_NameChange>{PAWN_label} จะเปลื่ยนนามสกุลของ{PAWN_possessive}ไปเป็น {1}</LetterAcceptedProposal_NameChange>
   <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
@@ -228,9 +228,9 @@
   <!-- EN: Allied: {0} -->
   <LetterLabelRelationsChange_Ally>พันธมิตร: {0}</LetterLabelRelationsChange_Ally>
   <!-- EN: Enemy now neutral: {0} -->
-  <LetterLabelRelationsChange_NeutralFromHostile>เคยเป็นปรปักษ์ ตอนนี้เป็นกลาง: {0}</LetterLabelRelationsChange_NeutralFromHostile>
+  <LetterLabelRelationsChange_NeutralFromHostile>ศัตรูเป็นกลางในตอนนี้: {0}</LetterLabelRelationsChange_NeutralFromHostile>
   <!-- EN: Ally now neutral: {0} -->
-  <LetterLabelRelationsChange_NeutralFromAlly>เคยเป็นพันธมิตร ตอนนี้เป็นกลาง: {0}</LetterLabelRelationsChange_NeutralFromAlly>
+  <LetterLabelRelationsChange_NeutralFromAlly>พันธมิตรเป็นกลางในตอนนี้: {0}</LetterLabelRelationsChange_NeutralFromAlly>
   <!-- EN: Zzztt... -->
   <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
 
@@ -246,7 +246,7 @@
   <!-- EN: Prison break -->
   <LetterLabelPrisonBreak>นักโทษแหกคุก</LetterLabelPrisonBreak>
   <!-- EN: Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy. -->
-  <LetterPrisonBreak>นักโทษแสดงการแหกคุก! ด้วยบางวิธี พวกเขาทำลายกุญแจล็อคประตูและสร้างทางออก พวกเขาอาจหาอาวุธ สู้ หรือพยายามหลบหนี นักโทษเหล่านี้มีส่วนเกี่ยวข้อง:\n\n{0}\n\nนักโทษจะพยายามแหกคุกมากขึ้น เมื่อพวกเขามีจำนวนมากและสุขภาพดี</LetterPrisonBreak>
+  <LetterPrisonBreak>พวกนักทำการโทษแหกคุก! พวกเขาใช้วิธีบางอย่างในการทำลายที่ล็อคประตูและกำลังหาทางออก พวกเขาอาจหาอาวุธ, สู้ หรือพยายามหลบหนี นี่คือเหล่านักโทษที่มีส่วนเกี่ยวข้อง:\n\n{0}\n\nนักโทษมักจะพยายามแหกคุกหากพวกเขามีจำนวนมากและสุขภาพดี</LetterPrisonBreak>
 
   <!-- Newly addicted -->
   <!-- EN: {0} addiction -->

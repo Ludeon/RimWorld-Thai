@@ -24,9 +24,9 @@
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [RECIPIENT_objective].</li>
   -->
   <MarriageProposal.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] ขอ [RECIPIENT_nameDef] แต่งงาน</li>
+    <li>r_logentry->[INITIATOR_nameDef] ขอแต่งงานกับ [RECIPIENT_nameDef] </li>
     <li>r_logentry->[INITIATOR_nameDef] ขอมีชีวิตคู่ร่วมกับ [RECIPIENT_nameDef]</li>
-    <li>r_logentry->[INITIATOR_nameDef] บอก [RECIPIENT_nameDef] ว่า [INITIATOR_pronoun] ต้องการใช้ทั้งชีวิตของ [INITIATOR_possessive] ร่วมกับ [RECIPIENT_objective]</li>
+    <li>r_logentry->[INITIATOR_nameDef] บอก [RECIPIENT_nameDef] ว่า[INITIATOR_pronoun]ต้องการใช้ทั้งชีวิตของ[INITIATOR_possessive]ร่วมกับ[RECIPIENT_objective]</li>
   </MarriageProposal.logRulesInitiator.rulesStrings>
   
   <!-- EN: romance attempt -->

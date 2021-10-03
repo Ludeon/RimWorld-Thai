@@ -45,6 +45,7 @@ Summary copied from current translation report generate by the game, list below 
 
 ### Active translators
 - @zalxXxlaz
+- @slost
 
 ### Inactive translators
 - @AEnigmatrices

@@ -4,88 +4,89 @@
   <!-- EN: cloth -->
   <Cloth.label>ผ้า</Cloth.label>
   <!-- EN: Cloth woven from organic fibers. -->
-  <Cloth.description>TODO</Cloth.description>
+  <Cloth.description>ผ้าที่ถักทอจากเส้นใยธรรมชาติ</Cloth.description>
   
   <!-- EN: devilstrand -->
   <DevilstrandCloth.label>ผ้าใยมาร</DevilstrandCloth.label>
   <!-- EN: Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects exceptionally well against flame. -->
-  <DevilstrandCloth.description>TODO</DevilstrandCloth.description>
+  <DevilstrandCloth.description>ผ้าที่ทอจากไมโครไฟเบอร์ที่ซึ่งสะกัดมาจากเห็ดใยมาร มันหนามาก, เหมาะกับการเป็นฉนวนและป้องกันไฟได้เป็นพิเศษ</DevilstrandCloth.description>
   
   <!-- EN: gold -->
-  <Gold.label>แร่ทอง</Gold.label>
+  <Gold.label>ทอง</Gold.label>
   <!-- EN: The most seductive metal of them all. While it is too soft to be of much practical use, it is strikingly beautiful and never tarnishes. Millions have died in attempting to feed the endless human thirst for gold. -->
-  <Gold.description>TODO</Gold.description>
+  <Gold.description>โลหะที่ยั่วยวนที่สุดในบรรดาทั้งหมด ในขณะที่มันอ่อนนุ่มเกินไปที่จะใช้งานได้จริง, มันกลับสวยงามอย่างน่าประทับใจและไม่เคยหมองมัว ผู้คนตายเป็นล้านจากการพยายามป้อนความต้องกระหายของมนุษย์ที่ไม่สิ้นสุดเพื่อทอง</Gold.description>
   <!-- EN: golden -->
-  <Gold.stuffProps.stuffAdjective>ทอง</Gold.stuffProps.stuffAdjective>
+  <Gold.stuffProps.stuffAdjective>ทองคำ</Gold.stuffProps.stuffAdjective>
   
   <!-- EN: hyperweave -->
   <Hyperweave.label>ไฮเปอร์วีฟ</Hyperweave.label>
   <!-- EN: Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures. -->
-  <Hyperweave.description>TODO</Hyperweave.description>
+  <Hyperweave.description>เส้นใยนาโนที่ทอเป็นแผ่นโมเลกุลต่อโมเลกุล โดยใช้ผลผลิตจากเมคคาไนต์เฉพาะทาง แม้ว่ามันจะโค้งงอได้อย่างอิสระเกือบตลอดเวลา, มันกลับแข็งทื่อเมื่อรับแรงกระแทกขณะร่อนลงสู่พื้น, และก็ยังพังยากอย่างเหลือเชื่อ ความลับในการผลิตของมันเป็นที่รู้จักในวัฒนธรรมของกลิตเตอร์เวิร์ลที่ล้ำหน้าที่สุดเท่านั้น</Hyperweave.description>
   
   <!-- EN: jade -->
   <Jade.label>หยก</Jade.label>
   <!-- EN: A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. Its hardness and density also makes it a good material for blunt weapons. -->
-  <Jade.description>TODO</Jade.description>
+  <Jade.description>หินเขียวๆที่แข็ง เพราะว่าความสวยงามและความหายากของมัน หยกจึงถูกนำไปงานในฐานะเครื่องประดับและของตกแต่งบ่อยๆ ความแข็งและความหนาแน่นของมันยังทำให้มันเป็นวัตถุดิบชั้นดีให้กับอาวุธกระแทกเช่นกัน </Jade.description>
   
   <!-- EN: plasteel -->
   <Plasteel.label>พลาสตีล</Plasteel.label>
   <!-- EN: Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure. -->
-  <Plasteel.description>TODO</Plasteel.description>
+  <Plasteel.description>วัสดุที่ใช้เป็นโครงสร้างของเทคโนโลยียุคอวกาศขั้นสูง พลาสตีลแข็งแรงอย่างที่สุดเนื่องจากโครงสร้างโมเลกุลที่เป็นเอกลักษณ์ของมัน</Plasteel.description>
   
   <!-- EN: silver -->
-  <Silver.label>แร่เงิน</Silver.label>
+  <Silver.label>เงิน</Silver.label>
   <!-- EN: This metal is mostly used as a commodity currency. It can also be used for making decorations. -->
-  <Silver.description>TODO</Silver.description>
+  <Silver.description>โลหะชนิดนี้ใช้งานในฐานะสกุลเงินสินค้าโภคภัณฑ์เป็นส่วนมาก มันยังถูกใช้งานเพื่อสร้างของตกแต่งได้เช่นกัน</Silver.description>
   <Silver.stuffProps.stuffAdjective>เงิน</Silver.stuffProps.stuffAdjective>
   
   <!-- EN: steel -->
   <Steel.label>เหล็กกล้า</Steel.label>
   <!-- EN: An iron-carbon metal alloy used for building a huge variety of structures, weapons, and machines. -->
-  <Steel.description>TODO</Steel.description>
+  <Steel.description>โลหะผสมเหล็ก-คาร์บอนที่ใช้สำหรับสร้างโครงสร้าง, อาวุธ, และเครื่องจักรที่หลากหลายมาก</Steel.description>
   
   <!-- EN: synthread -->
   <Synthread.label>ใยสังเคราะห์</Synthread.label>
   <!-- EN: Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well. -->
-  <Synthread.description>TODO</Synthread.description>
+  <Synthread.description>ผ้าสังเคราะห์ที่ใช้เทคโนโลยียุคอวกาศ ถูกออกแบบเพื่อสร้างเสื้อผ้าปกติ มันนุ่ม, เบา, แข็งแรง และเป็นฉนวนได้ดี</Synthread.description>
   
   <!-- EN: uranium -->
   <Uranium.label>ยูเรเนียม</Uranium.label>
   <!-- EN: A dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain weapons, armor, and ammunition. -->
-  <Uranium.description>TODO</Uranium.description>
+  <Uranium.description>ความมืดมิด, โลหะหนัก ในขณะที่มันรู้จักกันดีที่สุดในฐานะเชื้อเพลิงของอุปกรณ์นิวเคลียร์ ความหนาแน่นและความแข็งที่สูงมากของมันยังทำให้เหมาะกับการใช้สร้างอาวุธ, เกราะ, และกระสุนปืน</Uranium.description>
   
   <!-- EN: wood -->
   <WoodLog.label>ไม้</WoodLog.label>
   <!-- EN: Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg. -->
-  <WoodLog.description>TODO</WoodLog.description>
+  <WoodLog.description>ไม้จากต้นไม้หรือพืชเส้นใยอื่นๆ มีประโยชน์ในการสร้างโครงสร้างหรืออาวุธ มันเป็นเชื้อเพลงได้ดีสำหรับแคมป์ไฟและ
+เครื่องกำเนิดไฟฟ้า, และสามารถกลั่นเป็นเชื้อเพลงเคมีได้ ในกรณีจำเป็น, ท่อนไม้ยังสามารถใช้เป็นอาวุธหรือขาข้างหนึ่ง</WoodLog.description>
   <!-- EN: wooden -->
   <WoodLog.stuffProps.stuffAdjective>ไม้</WoodLog.stuffProps.stuffAdjective>
   <!-- EN: log -->
-  <WoodLog.tools.log.label>ไม้ซูง</WoodLog.tools.log.label>
+  <WoodLog.tools.log.label>ท่อนซุง</WoodLog.tools.log.label>
   
   <!-- EN: alpaca wool -->
   <WoolAlpaca.label>ขนอัลปากา</WoolAlpaca.label>
   <!-- EN: The remarkably soft wool of an alpaca. It is very warm. -->
-  <WoolAlpaca.description>TODO</WoolAlpaca.description>
+  <WoolAlpaca.description>ขนที่นุ่มอย่างน่าทึ่งของตัวอัลปากา มันอุ่นมากเลยล่ะ</WoolAlpaca.description>
   
   <!-- EN: bison wool -->
   <WoolBison.label>ขนกระทิง</WoolBison.label>
   <!-- EN: Thick and coarse wool of a bison. Quite warm. -->
-  <WoolBison.description>TODO</WoolBison.description>
+  <WoolBison.description>ขนที่หนาและหยาบกระด้างของตัวไบซัน ค่อนข้างอุ่น</WoolBison.description>
   
   <!-- EN: megasloth wool -->
   <WoolMegasloth.label>ขนสลอธยักษ์</WoolMegasloth.label>
-  <!-- EN: While somewhat coarse, megasloth wool's long fibers make it very strong. It is exceptionally warm. -->
-  <WoolMegasloth.description>TODO</WoolMegasloth.description>
+  <!-- EN: While somewhat coarse, megasloth wool's ong fibers make it very strong. It is exceptionally warm. -->
+  <WoolMegasloth.description>ในขณะที่ค่อนข้างหยาบกระด้าน  เส้นใยอันยาวเหยียดของขนสลอธยักษ์ทำให้มันแข็งแรงมาก มันอุ่นเป็นพิเศษ</WoolMegasloth.description>
   
   <!-- EN: muffalo wool -->
   <WoolMuffalo.label>ขนมัฟฟาโล่</WoolMuffalo.label>
   <!-- EN: Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions. -->
-  <WoolMuffalo.description>TODO</WoolMuffalo.description>
+  <WoolMuffalo.description>นุ่ม, เบาบาง และให้ฉนวนได้ดีอย่างมาก เสื้อผ้าจากขนมัฟฟาโล่สามารถเก็บรักษาความอบอุ่นของร่างกายได้แม้ในสถานะการณ์ที่หนาวมากๆ</WoolMuffalo.description>
   
   <!-- EN: sheep wool -->
-  <WoolSheep.label>ผ้าขนอูฐ</WoolSheep.label>
+  <WoolSheep.label>ขนแกะ</WoolSheep.label>
   <!-- EN: Sheep's wool. It provides good insulation. -->
-  <WoolSheep.description>TODO</WoolSheep.description>
+  <WoolSheep.description>ขนของแกะ มันให้ฉนวนได้ดี</WoolSheep.description>
   
 </LanguageData>

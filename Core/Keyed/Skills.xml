@@ -2,19 +2,19 @@
 <LanguageData>
 
   <!-- EN: Level -->
-  <Level>เลเวล</Level>
+  <Level>ระดับ</Level>
   <!-- EN: Progress to next level -->
-  <ProgressToNextLevel>ระดับต่อไปคืบหน้า</ProgressToNextLevel>
+  <ProgressToNextLevel>ความคืบหน้าสู่ระดับถัดไป</ProgressToNextLevel>
   <!-- EN: Experience -->
   <Experience>ประสบการณ์</Experience>
   <!-- EN: Passion -->
-  <Passion>Passion</Passion>
+  <Passion>แรงผลักดัน</Passion>
   <!-- EN: None\n   -Learns {0} -->
   <PassionNone>ไม่มี\n   -เรียนรู้ {0}</PassionNone>
   <!-- EN: Interested\n   -Learns {0} -->
   <PassionMinor>เอาใจใส่\n   -เรียนรู้ {0}</PassionMinor>
   <!-- EN: Burning\n   -Learns {0} -->
-  <PassionMajor>เร่าร้อน\n   -เรียนรู้ {0}</PassionMajor>
+  <PassionMajor>มีไฟ\n   -เรียนรู้ {0}</PassionMajor>
   <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
   <LearnedMaxToday>วันนี้เรียนรู้เต็มขึ้น ({0}/{1}, การเรียนต่อจากนี้คูณด้วย {2})</LearnedMaxToday>
   <!-- EN: Effects at level {0} -->

@@ -4,7 +4,7 @@
   <!-- EN: Custom -->
   <Custom.label>กำหนดเอง</Custom.label>
   <!-- EN: This setting allows you to define your own playstyle in detail.\n\nRecommended for:\n\n- Players who are happy with one of the standard playstyles levels, but want to change a few things.\n- Players who want to experiment with something different. -->
-  <Custom.description>ระดับนี้จะให้คุณสามารถกำหนดแนวทางการเล่นของคุณอย่างละเอียด\n\nแนะนำสำหรับ:\n\n- ผู้เล่นที่พอใจกับหนึ่งในเลเวลแนวทางการเล่นมาตรฐานอยู่แล้ว แต่ต้องการเปลี่ยนแปลงบางสิ่งเล็กน้อย\n- ผู้เล่นที่ต้องการทดลองอะไรอย่างอื่นที่แตกต่าง</Custom.description>
+  <Custom.description>ระดับนี้จะให้คุณสามารถกำหนดแนวทางการเล่นของคุณอย่างละเอียด\n\nแนะนำสำหรับ:\n\n- ผู้เล่นที่พอใจกับหนึ่งในระดับแนวทางการเล่นแบบมาตรฐานอยู่แล้ว แต่ต้องการเปลี่ยนแปลงบางสิ่งเล็กน้อย\n- ผู้เล่นที่ต้องการทดลองอะไรบางอย่างที่แตกต่าง</Custom.description>
   
   <!-- EN: community builder -->
   <Easy.label>นักก่อสร้างชุมชน</Easy.label>
@@ -17,7 +17,7 @@
   <Extreme.description>ระดับนี้ถูกออกแบบมาให้ไม่ยุติธรรม ภัยอัตรายมหึมาจะพุ่งเข้ามาหาคุณโดยไร้ซึ่งความปรานีจนหว่านิคมของคุณจะตายลงไป เลือกระดับนี้หากคุณชอบความเร้าใจของการดิ้นรนเอาตัวรอดกับการสูญเสียชีวิตเท่านั้น\n\nแนะนำสำหรับ:\n\n- ผู้เล่นมีประสบการณ์ที่ต้องการเผชิญหน้ากับความท้าทายที่โหดเหี้ยม ไร้ความปรานี โดยที่ความเก่งกาจก็ไม่อาจยับยั้งความตายได้\n- พวกชอบโศกนาฏกรรม\n- พวกมาโซคิสต์ชาวดิจิทัล</Extreme.description>
   
   <!-- EN: blood and dust -->
-  <Hard.label>เลือดฝุ่น</Hard.label>
+  <Hard.label>เลือดและฝุ่น</Hard.label>
   <!-- EN: Face brutal survival challenges. Even if you play well, people will die. You will need to anticipate threats before they arrive, and seek out every advantage.\n\nRecommended for:\n\n- Experienced players who want to struggle to survive. -->
   <Hard.description>เผชิญหน้ากับความท้าทายเอาตัวรอดที่โหดเหี้ยม ถึงคุณจะเล่นได้ดี ก็จะมีคนตายอยู่ดี คุณจะต้องคาดการณ์เตรียมรับมือภัยอันตรายไว้ล่วงหน้าก่อนที่มันจะมาถึง และนำทุกข้อได้เปรียบที่มีมาใช้\n\nแนะนำสำหรับ:\n\n- ผู้เล่นมีประสบการณ์ที่ต้องการดิ้นรนเอาตัวรอด</Hard.description>
   
@@ -34,6 +34,6 @@
   <!-- EN: strive to survive -->
   <Rough.label>พยายามเอาตัวรอด</Rough.label>
   <!-- EN: Strive to survive on a rough, tough planet. There will be triumph and tragedy.\n\nRecommended for:\n\n- Experienced players who want a rough story requiring skill to survive. -->
-  <Rough.description>พยายามเอาตัวรอดบนดาวอันทรหด จะมีทั้งความสำเร็จและความเศร้าโศก\n\nแนะนำสำหรับ:\n\n- ผู้เล่นมีประสบการณ์ที่ต้องการเรื่องทรหดที่ต้องใช้ทักษะในการเอาตัวรอด</Rough.description>
+  <Rough.description>พยายามเอาตัวรอดบนดาวอันทรหด มันจะมีทั้งความความน่ายินดีและโศกนาฏกรรม\n\nแนะนำสำหรับ:\n\n- ผู้เล่นมีประสบการณ์ที่ต้องการเรื่องทรหดที่จำเป็นต้องใช้ทักษะในการเอาตัวรอด</Rough.description>
   
 </LanguageData>

@@ -183,7 +183,7 @@
   <MessageAttackedByPredator>{PREY_labelShort0} กำลังถูกโจมตีโดย {PREDATOR}!</MessageAttackedByPredator>
 
   <!-- EN: {PAWN_labelShort} has started to roam away! {PAWN_pronoun} will leave the map unless an animal handler ropes {PAWN_objective} back to a pen. -->
-  <MessageRoamerLeaving>{PAWN_labelShort} เริ่มออกเดินทางแล้ว! {PAWN_pronoun} จะออกจากแผนที่เว้นแต่ผู้ดูแลสัตว์จะดึง {PAWN_objective} กลับไปที่ปากกา</MessageRoamerLeaving>
+  <MessageRoamerLeaving>{PAWN_labelShort} เริ่มเดินทางออกไปแล้ว! {PAWN_pronoun}จะออกจากแผนที่เว้นแต่ผู้ดูแลสัตว์จะดึง{PAWN_objective}กลับไปที่คอก</MessageRoamerLeaving>
 
   <!-- EN: A bug hive has reproduced itself. -->
   <MessageHiveReproduced>รังแมลงขยายพันธุ์</MessageHiveReproduced>

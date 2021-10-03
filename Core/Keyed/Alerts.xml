@@ -9,7 +9,7 @@
   <!-- EN: Major break risk -->
   <BreakRiskMajor>เสี่ยงสติแตกอย่างมาก</BreakRiskMajor>
   <!-- EN: Extreme break risk -->
-  <BreakRiskExtreme>เสี่ยงสติแตกรุนแรง</BreakRiskExtreme>
+  <BreakRiskExtreme>เสี่ยงสติแตกอย่างรุนแรง</BreakRiskExtreme>
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
   <BreakRiskMinorDesc>ชาวนิคมเหล่านี้อารมณ์ไม่ดี และอาจสติแตกเล็กน้อยได้ทุกเวลา:\n\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
@@ -17,7 +17,7 @@
   <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
   <BreakRiskExtremeDesc>ชาวนิคมเหล่านี้เครียดเข้าขีดอันตราย และอาจสติแตกรุนแรง (และอาจใช้ความรุนแรง) ได้ทุกเมื่อ:\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
-  <BreakRiskDescEnding>ตรวจสอบแท็บ ความต้องการ ของชาวนิคมเหล่านี้ เพื่อดูว่าอะไรกำลังกวนใจพวกเขาอยู่\n\nในการทำให้พวกชาวนิคมรู้สึกดีขึ้นนั้น คุณสามารถทำอะไรต่าง ๆ อย่างอาหารมื้อหรูให้พวกเขา ให้ชั่วโมงเวลาผ่อนคลายต่อวันกับพวกเขามากขึ้น พร้อมกับสิ่งของนันทนาการที่ดีกว่าเดิม นำพวกเขาไปสภาพแวดล้อมที่สวยงาม ให้พวกเขาได้ดื่มหรือสูบยา และอื่น ๆ อีกมากมาย</BreakRiskDescEnding>
+  <BreakRiskDescEnding>ตรวจสอบแถบความต้องการของชาวนิคมเหล่านี้ เพื่อดูว่าอะไรกำลังกวนใจพวกเขาอยู่\n\nในการทำให้พวกชาวนิคมรู้สึกดีขึ้นนั้น คุณสามารถทำอะไรต่าง ๆ อย่างอาหารมื้อหรูให้พวกเขา, ให้ชั่วโมงเวลาผ่อนคลายต่อวันกับพวกเขามากขึ้น พร้อมกับสิ่งของนันทนาการที่ดีกว่าเดิม, นำพวกเขาไปสภาพแวดล้อมที่สวยงาม, ให้พวกเขาได้ดื่มหรือสูบยา และอื่นๆอีกมากมาย</BreakRiskDescEnding>
 
   <!-- EN: Colonist needs rescue -->
   <ColonistNeedsRescue>ชาวนิคมต้องการความช่วยเหลือ</ColonistNeedsRescue>
@@ -29,7 +29,7 @@
   <!-- EN: Need defenses -->
   <NeedDefenses>ต้องการเครื่องป้องกัน</NeedDefenses>
   <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
-  <NeedDefensesDesc>คุณอยู่ที่นี่มาได้สักพักและคงมีคนพบเห็นแล้ว การบุกปล้นจากโจรสลัดจะเริ่มขึ้นในอีกไม่ช้า\n\nคุณควรเตรียมเครื่องป้องกันไว้ อย่างกระสอบทรายหรือกับดัก...</NeedDefensesDesc>
+  <NeedDefensesDesc>คุณอยู่ที่นี่มาได้สักพักและคงมีคนพบเห็นแล้ว การบุกปล้นจากโจรสลัดจะเริ่มขึ้นในอีกไม่ช้า\n\nคุณควรเตรียมเครื่องป้องกันไว้ อย่างกระสอบทรายหรือกับดัก</NeedDefensesDesc>
 
   <!-- EN: Need doctor -->
   <NeedDoctor>ต้องการแพทย์</NeedDoctor>
@@ -49,7 +49,7 @@
   <!-- EN: Low food -->
   <LowFood>อาหารเหลือน้อย</LowFood>
   <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
-  <LowFoodDesc>จำนวนอาหารของคุณต่ำเข้าขีดอันตราย\n\n    อาหารพอเติมเต็มขีดในคลัง: {0}\n    ชาวนิคมกับนักโทษที่ได้อาหาร: {1}\n    อาหารพอกินต่อวันในคลัง: {2}\n\nไปปลูก ซื้อ หา หรือฆ่าอาหารมา</LowFoodDesc>
+  <LowFoodDesc>จำนวนอาหารของคุณต่ำเข้าขีดอันตราย\n\n    อาหารพอเติมเต็มขีดในคลัง: {0}\n    ชาวนิคมกับนักโทษที่ได้อาหาร: {1}\n    อาหารพอกินต่อวันในคลัง: {2}\n\nไปปลูก, ซื้อ, หา หรือฆ่าอาหารมา</LowFoodDesc>
 
   <!-- EN: Low medicine -->
   <LowMedicine>ยาเหลือน้อย</LowMedicine>
@@ -59,9 +59,9 @@
   <NoMedicineDesc>คุณไม่มียาเหลืออยู่ในคลังแล้ว\n\nไปซื้อยาเพิ่มจากผู้ค้า</NoMedicineDesc>
   
   <!-- EN: Need colonist beds -->
-  <NeedColonistBeds>ต้องการเตียงชาวนิคม</NeedColonistBeds>
+  <NeedColonistBeds>ต้องการเตียงให้ชาวนิคม</NeedColonistBeds>
   <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
-  <NeedColonistBedsDesc>คุณมีชาวนิคมมากกว่าเตียงชาวนิคมที่คุณมี จะมีคนที่ไม่มีที่นอน\n\nถ้าไม่ทำเตียงเพิ่ม ก็เปลี่ยนเตียงนักโทษไปเป็นเตียงชาวนิคม\n\nหากคุณขาดทรัพยากร จุดที่นอนนั้นฟรีและสามารถวางได้ทันที</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>คุณมีชาวนิคมมากกว่าเตียงของชาวนิคมที่คุณมี จะมีคนที่ขาดแคลนที่นอน\n\nถ้าไม่ทำเตียงเพิ่ม ก็เปลี่ยนเตียงนักโทษไปเป็นเตียงชาวนิคม\n\nหากคุณขาดทรัพยากร จุดที่นอนนั้นฟรีและสามารถวางได้ทันที</NeedColonistBedsDesc>
   
   <!-- EN: Colonist left unburied -->
   <AlertColonistLeftUnburied>ยังไม่ได้ฝังชาวนิคม</AlertColonistLeftUnburied>
@@ -74,14 +74,14 @@
   <HunterLacksWeaponDesc>มีชาวนิคมถูกกำหนดให้เป็นพราน แต่กลับไม่มีอาวุธระยะไกล\n\nพวกเขาจะไม่ออกล่าจนกว่าจะได้ถืออาวุธระยะไกลไว้</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
-  <AlertTatteredApparel>เสื้อผ้าขาด</AlertTatteredApparel>
+  <AlertTatteredApparel>เสื้อผ้าขาดวิ่น</AlertTatteredApparel>
   <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
-  <AlertTatteredApparelDesc>ชาวนิคมเหล่านี้สวมใส่เสื้อผ้าขาด ซึ่งมันทำให้พวกเขารู้สึกเศร้าใจ:\n\n{0}\nไปหาเสื้อผ้าที่ไม่เสียหายจนเกินไปมาให้พวกเขา\n\nคุณสามารถตัดเย็บเสื้อผ้าได้ที่จุดประกอบหรือโต๊ะตัดเย็บ หรือไปซื้อมันจากผู้ค้าก็ได้</AlertTatteredApparelDesc>
+  <AlertTatteredApparelDesc>ชาวนิคมเหล่านี้สวมใส่เสื้อผ้าที่ขาดรุ่งริ่ง ซึ่งมันทำให้พวกเขารู้สึกเศร้าใจ:\n\n{0}\nไปหาเสื้อผ้าที่ไม่เสียหายจนเกินไปมาให้พวกเขา\n\nคุณสามารถตัดเย็บเสื้อผ้าได้ที่จุดงานฝีมือหรือโต๊ะตัดเย็บ หรือไม่ก็ไปซื้อมันจากผู้ค้าก็ได้</AlertTatteredApparelDesc>
 
   <!-- EN: Unhappy nudity -->
-  <AlertUnhappyNudity>เปลือยไม่ชอบ</AlertUnhappyNudity>
+  <AlertUnhappyNudity>ไม่ชอบการเปลือยกาย</AlertUnhappyNudity>
   <!-- EN: These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
-  <AlertUnhappyNudityDesc>ชาวนิคมเหล่านี้เปลือยกายและไม่ชอบเลยที่เป็นอย่างนั้น:\n\n{0}\nไปหาเสื้อผ้ามาให้พวกเขาใส่\n\nคุณสามารถตัดเย็บเสื้อผ้าได้ที่จุดประกอบหรือโต๊ะตัดเย็บ หรือไปซื้อมันจากผู้ค้าก็ได้</AlertUnhappyNudityDesc>
+  <AlertUnhappyNudityDesc>ชาวนิคมเหล่านี้เปลือยกาย และไม่ชอบเลยที่เป็นอย่างนั้น:\n\n{0}\nไปหาเสื้อผ้ามาให้พวกเขาใส่\n\nคุณสามารถตัดเย็บเสื้อผ้าได้ที่จุดงานฝีมือหรือโต๊ะตัดเย็บ หรือไม่ก็ไปซื้อมันจากผู้ค้าก็ได้</AlertUnhappyNudityDesc>
 
   <!-- EN: Starvation -->
   <Starvation>อดอยาก</Starvation>
@@ -96,7 +96,7 @@
   <!-- EN: Exhaustion -->
   <Exhaustion>หมดแรง</Exhaustion>
   <!-- EN: These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
-  <ExhaustionDesc>ชาวนิคมเหล่านี้หมดแรงและต้องการพักผ่อน:\n\n{0}\nให้พวกเขาได้พักผ่อนบ้าง พวกเขาจะต้องใช้เตียงที่ระบุไว้ให้ชาวนิคมใช้งาน และดูให้แน่ใจด้วยว่าพวกเขาไม่ได้ถูกเกณฑ์อยู่</ExhaustionDesc>
+  <ExhaustionDesc>ชาวนิคมเหล่านี้หมดแรงและต้องการพักผ่อน:\n\n{0}\nให้พวกเขาได้พักผ่อนบ้าง พวกเขาจะต้องใช้เตียงที่ระบุไว้สำหรับให้ชาวนิคมใช้งาน และดูให้แน่ใจด้วยว่าพวกเขาไม่ได้ถูกเกณฑ์อยู่</ExhaustionDesc>
 
   <!-- EN: Need food hopper -->
   <NeedFoodHopper>ต้องการถังกรวยอาหาร</NeedFoodHopper>
@@ -106,7 +106,7 @@
   <!-- EN: Need meal source -->
   <NeedMealSource>ต้องการที่ทำอาหาร</NeedMealSource>
   <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
-  <NeedMealSourceDesc>คุณไม่มีวิธีที่จะประกอบอาหารจากอาหารสดเลย\n\nไปสร้างเตา กองไฟ หรือเครื่องจ่ายสารอาหาร\n\n(มันจะอยู่ในห้องขังไม่ได้ มิฉะนั้นชาวนิคมจะไม่สามารถใช้งานมันได้)</NeedMealSourceDesc>
+  <NeedMealSourceDesc>คุณไม่มีวิธีที่จะประกอบอาหารจากอาหารสดเลย\n\nไปสร้างเตา, กองไฟ หรือเครื่องจ่ายสารอาหาร\n\n(มันจะอยู่ในห้องขังไม่ได้ มิฉะนั้นชาวนิคมจะไม่สามารถใช้งานมันได้)</NeedMealSourceDesc>
 
   <!-- EN: Need recreation variety -->
   <NeedJoySource>ต้องการความหลากหลายทางนันทนาการ</NeedJoySource>
@@ -129,12 +129,12 @@
   <!-- EN: Need batteries -->
   <NeedBatteries>ต้องการแบตเตอรี่</NeedBatteries>
   <!-- EN: You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power. -->
-  <NeedBatteriesDesc>คุณมีแผงโซล่าหรือกังหันลมผลิตไฟฟ้า แต่ไม่มีแบตเตอรี่ มันหมายความว่าคุณจะเสียพลังงานทุกครั้งที่พระอาทิตย์ตกหรือลมสงบ\n\nสร้างแบตเตอรี่สักก้อนสองก้อนเพื่อให้ได้พลังงานที่ต่อเนื่อง</NeedBatteriesDesc>
+  <NeedBatteriesDesc>คุณมีแผงโซล่าหรือกังหันลมผลิตไฟฟ้า แต่ไม่มีแบตเตอรี่ นี่หมายความว่าคุณจะเสียพลังงานทุกครั้งที่พระอาทิตย์ตกหรือลมสงบ\n\nสร้างแบตเตอรี่สักก้อนสองก้อนเพื่อให้ได้พลังงานที่ต่อเนื่อง</NeedBatteriesDesc>
 
   <!-- EN: Brawler has ranged weapon -->
   <BrawlerHasRangedWeapon>นักมวยถืออาวุธระยะไกล</BrawlerHasRangedWeapon>
   <!-- EN: One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy. -->
-  <BrawlerHasRangedWeaponDesc>ชาวนิคมของคุณคนหนึ่งมีอุปนิสัย นักมวย แต่กำลังถืออาวุธระยะไกลอยู่ มันจะทำให้เขาไม่พอใจมากเลย</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeaponDesc>ชาวนิคมของคุณคนหนึ่งมีอุปนิสัย นักมวย แต่กำลังถืออาวุธระยะไกลอยู่ มันจะทำให้เขาไม่พอใจเป็นอย่างมาก</BrawlerHasRangedWeaponDesc>
 
   <!-- EN: Shield user has ranged weapon -->
   <ShieldUserHasRangedWeapon>ผู้ใช้เกราะถืออาวุธระยะไกล</ShieldUserHasRangedWeapon>
@@ -149,7 +149,7 @@
   <!-- EN: {0} colonists idle -->
   <ColonistsIdle>ชาวนิคม {0} คนว่าง</ColonistsIdle>
   <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
-  <ColonistsIdleDesc>ชาวนิคมเหล่านี้ร่อนเร่ ไม่มีอะไรทำ:\n\n{0}\nคุณก็คงควรที่จะหาอะไรที่เป็นประโยชน์ให้พวกเขาทำนะ</ColonistsIdleDesc>
+  <ColonistsIdleDesc>ชาวนิคมเหล่านี้กำลังเดินอย่างว่าง:\n\n{0}\nคุณควรจะหาอะไรที่เป็นประโยชน์ให้พวกเขาทำนะ</ColonistsIdleDesc>
   
   <!-- EN: Caravan idle -->
   <CaravanIdle>คาราวานว่าง</CaravanIdle>
@@ -159,7 +159,7 @@
   <!-- EN: Colonist needs treatment -->
   <ColonistNeedsTreatment>ชาวนิคมต้องการได้รับการรักษา</ColonistNeedsTreatment>
   <!-- EN: These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.) -->
-  <ColonistNeedsTreatmentDesc>ชาวนิคมเหล่านี้ต้องการได้รับการรักษาพยาบาล ถ้าไม่เช่นนั้น พวกเขาอาจตายบาดแผลของพวกเขา หรือบาดแผลของพวกเขาอาจกลายเป็นแผลเป็นถาวรก็ได้\n\n{0}\nรักษาพวกเขาโดยส่งพวกเขาไปที่เตียงผู้ป่วย\n\n(อันดับแรก กำหนดเตียงผู้ป่วยโดยเลือกเตียง แล้วเปลี่ยนมันเป็นเตียงผู้ป่วย แล้วเลือกชาวนิคมที่บาดเจ็บ แล้วคลิกขวาที่เตียงผู้ป่วยเพื่อให้พวกเขาไปเป็นคนไข้)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>ชาวนิคมเหล่านี้ต้องการได้รับการรักษาพยาบาล ถ้าไม่เช่นนั้น พวกเขาอาจตายจากบาดแผลของพวกเขา หรือบาดแผลของพวกเขาอาจกลายเป็นแผลเป็นถาวรก็ได้\n\n{0}\nรักษาพวกเขาโดยส่งพวกเขาไปที่เตียงผู้ป่วย\n\n(อันดับแรก กำหนดเตียงผู้ป่วยโดยเลือกเตียง แล้วเปลี่ยนมันเป็นเตียงผู้ป่วย จากนั้นเลือกชาวนิคมที่บาดเจ็บ แล้วคลิกขวาที่เตียงผู้ป่วยเพื่อให้พวกเขาไปเป็นคนไข้)</ColonistNeedsTreatmentDesc>
 
   <!-- EN: Hypothermia -->
   <AlertHypothermia>ภาวะตัวเย็นเกิน</AlertHypothermia>
@@ -167,7 +167,7 @@
   <AlertHypothermiaDesc>ชาวนิคมเหล่านี้ตัวเย็นเกิน:\n\n{0}\nดูให้แน่ใจว่าเสื้อผ้าของพวกเขาเหมาะกับฤดูกาล และพื้นที่ภายในอาคารนั้นได้รับการอุ่นอย่างเหมาะสม</AlertHypothermiaDesc>
   
   <!-- EN: {0} patients await medical operation -->
-  <PatientsAwaitingMedicalOperation>ผู้ป่วย {0} คนกำลังรอผ่าตัด</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperation>ผู้ป่วย {0} คน กำลังรอผ่าตัด</PatientsAwaitingMedicalOperation>
   <!-- EN: These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available. -->
   <PatientsAwaitingMedicalOperationDesc>ผู้ป่วยเหล่านี้กำลังรอผ่าตัด:\n\n{0}\nดูให้แน่ใจว่าคุณมีเครื่องมือแพทย์ที่จำเป็นทั้งหมดครบถ้วน กับมีแพทย์ที่ว่างด้วย</PatientsAwaitingMedicalOperationDesc>
 
@@ -205,7 +205,7 @@
   <!-- EN: Immobile caravan -->
   <ImmobileCaravan>คาราวานเคลื่อนที่ไม่ได้</ImmobileCaravan>
   <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
-  <ImmobileCaravanDesc>กองคาราวานของคุณกองหนึ่งเคลื่อนที่ไม่ได้เพราะขนสัมภาระมากเกินไป\n\nคุณสามารถทำให้กองคาราวานเคลื่อนที่ได้อีกครั้ง โดยการละทิ้งไอเท็มบางรายการในแท็บ ไอเท็ม</ImmobileCaravanDesc>
+  <ImmobileCaravanDesc>กองคาราวานของคุณกองหนึ่งเคลื่อนที่ไม่ได้เพราะขนสัมภาระมากเกินไป\n\nคุณสามารถทำให้กองคาราวานเคลื่อนที่ได้อีกครั้ง โดยการละทิ้งไอเท็มบางรายการในแถบไอเท็ม</ImmobileCaravanDesc>
 
   <!-- EN: Building unusable due to roof -->
   <BuildingCantBeUsedRoofed>อาคารใช้งานไม่ได้เพราะหลังคา</BuildingCantBeUsedRoofed>
@@ -256,48 +256,48 @@
   <QuestExpiresSoonDesc>เควส '{0}' จะหมดเวลาใน {1}</QuestExpiresSoonDesc>
 
   <!-- EN: Animal filth -->
-  <AlertAnimalFilth>TODO</AlertAnimalFilth>
+  <AlertAnimalFilth>คราบสกปรกของสัตว์</AlertAnimalFilth>
   <!-- EN: A filth-producing animal is indoors on a clean floor.\n\nAnimals produce a very large amount of filth when moving around on normal floors. Keep filth-producing animals outdoors, or on straw matting where they will produce far less filth.\n\nYou can check an animal's filth production rate in its stats by clicking the 'i' button.\n\nThese animals are the problem:\n{0} -->
-  <AlertAnimalFilthDesc>TODO</AlertAnimalFilthDesc>
+  <AlertAnimalFilthDesc>สัตว์ที่สร้างคราบสกปรกอยู่ข้างในบ้านบนพื้นที่ทำความสะอาด\n\nพวกสัตว์จะสร้างคราบสกปรกขนาดใหญ่มากเมื่อเดินไปรอบๆพื้น เก็บพวกสัตว์ที่สร้างคราบสกปรกไว้ข้างนอกบ้าน หรือไม่ก็บนพื้นฟางที่ซึ่งทำให้พวกมันสร้างคราบสกปรกได้น้อยลง\n\nคุณสามารถตรวจสอบอัตราการสร้างคราบสกปรกในสถานะของมันด้วยการกดปุ่ม ‘i’\n\nพวกสัตว์เหล่านี้คือปัญหา:\n{0}</AlertAnimalFilthDesc>
 
   <!-- EN: Pen needed -->
-  <AlertAnimalPenNeeded>TODO</AlertAnimalPenNeeded>
+  <AlertAnimalPenNeeded>ต้องการคอก</AlertAnimalPenNeeded>
   <!-- EN: Some of your tame animals are roamers. If not kept in an animal pen, they will wander away. -->
-  <AlertAnimalPenNeededDesc>TODO</AlertAnimalPenNeededDesc>
+  <AlertAnimalPenNeededDesc>สัตว์เลี้ยงบางตัวของคุณกำลังเดินเพ่นพ่าน ถ้าไม่เก็บมันไว้ในคอกสัตว์ พวกมันจะเดินทางหนี</AlertAnimalPenNeededDesc>
   <!-- EN: You do not have any handlers to take animals to a pen.\n\nAssign a colonist to the Handling work type. -->
-  <AlertAnimalPenNeededNoHandlers>TODO</AlertAnimalPenNeededNoHandlers>
+  <AlertAnimalPenNeededNoHandlers>คุณไม่มีคนเลี้ยงสัตว์ที่จะนำสัตว์เข้าคอก\n\nกำหนดงานประเภทการเลี้ยงสัตว์ให้ชาวนิคม</AlertAnimalPenNeededNoHandlers>
   <!-- EN: None of your assigned handlers have the required animals skill needed to take the following animals to a pen. -->
-  <AlertAnimalPenNeededLowSkillHandlers>TODO</AlertAnimalPenNeededLowSkillHandlers>
+  <AlertAnimalPenNeededLowSkillHandlers>คุณขาดคนเลี้ยงสัตว์ที่มีทักษะการเลี้ยงสัตว์ขั้นต่ำในการนำสัตว์เข้าคอก</AlertAnimalPenNeededLowSkillHandlers>
   <!-- EN: needs {MINSKILL}, {HANDLER_labelShort} has {BESTSKILL} -->
-  <AlertAnimalPenNeededLowSkillHandlersDetail>TODO</AlertAnimalPenNeededLowSkillHandlersDetail>
+  <AlertAnimalPenNeededLowSkillHandlersDetail>ต้องการ {MINSKILL} {HANDLER_labelShort} มี {BESTSKILL}</AlertAnimalPenNeededLowSkillHandlersDetail>
   <!-- EN: Create an animal pen by building a pen marker inside a fenced, barricaded, or walled area. Select the pen marker to see which animals it accepts and how many its pen can support.\n\nYour animal handlers will bring animals to their assigned pen automatically.\n\nA pen needs a door or gate to admit animals. -->
-  <AlertAnimalPenNeededDescExplanation>TODO</AlertAnimalPenNeededDescExplanation>
+  <AlertAnimalPenNeededDescExplanation>สร้างคอกสัตว์ด้วยการสร้างเครื่องหมายคอกไว้ข้างในรั้ว, สิ่งกีดขวาง หรือเขตกำแพง เลือกเครื่องหมายคอกเพื่อดูว่ามันรองรับสัตว์ชนิดไหนบ้าง และจำนวนเท่าไหร่ที่คอกรองรับ\n\nคนเลี้ยงสัตว์ของคุณจะนำสัตว์ไปเข้าคอกที่กำหนดโดยอัตโนมัติ\n\nคอกสัตว์ต้องการประตูหรือประตูรั้วในการเปิดรับพวกสัตว์</AlertAnimalPenNeededDescExplanation>
 
   <!-- EN: Pen not enclosed -->
-  <AlertAnimalPenNotEnclosed>TODO</AlertAnimalPenNotEnclosed>
+  <AlertAnimalPenNotEnclosed>คอกไม่ถูกล้อมรอบ</AlertAnimalPenNotEnclosed>
   <!-- EN: An animal pen marker is not enclosed.\n\nEnclose the pen using fences, barricades, gates, walls, or doors to prevent animals from wandering out.\n\nIf you have only unenclosed pen markers, your handlers can still lead wandering animals back home - but this must be repeated from time to time when the animals wander away once again. -->
-  <AlertAnimalPenNotEnclosedDesc>TODO</AlertAnimalPenNotEnclosedDesc>
+  <AlertAnimalPenNotEnclosedDesc>มีคอกสัตว์ที่ไม่ได้ถูกล้อมรอบ\n\nล้อมคอกด้วยรั้ว, สิ่งกีดขวาง, ประตูรั้ว, กำแพง หรือประตู เพื่อป้องกันสัตว์เดินทางหนีออกไป\n\nถ้าหากคุณมีแค่เครื่องหมายคอกที่ไม่ถูกล้อมรอบ คนเลี้ยงสัตว์ของคุณยังสามารถนำทางพวกสัตว์กลับบ้านได้ แต่นี่จะต้องเป็นการเสียเวลาซ้ำแล้วซ้ำเล่า ในเมื่อพวกสัตว์ยังสามารถหนีออกไปได้อีกครั้ง</AlertAnimalPenNotEnclosedDesc>
 
   <!-- EN: Animal wandering away -->
-  <AlertAnimalIsRoaming>TODO</AlertAnimalIsRoaming>
+  <AlertAnimalIsRoaming>สัตว์เดินทางหนีออกไป</AlertAnimalIsRoaming>
   <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n\n{0} -->
-  <AlertAnimalIsRoamingDesc>TODO</AlertAnimalIsRoamingDesc>
+  <AlertAnimalIsRoamingDesc>สัตว์เลี้ยงของคุณบางตัวเดินเพ่นพ่านและเริ่มออกเดินทาง ถ้าพวกมันไปสุดขอบแผนที่เมื่อไหร่ พวกมันจะหนีไปได้ในที่สุด\n\nถ้าคุณมีคอกสัตว์ที่ล้อมแล้ว คนเลี้ยงสัตว์ของคุณสามารถนำมันกลับมาได้ สัตว์ที่อยู่ในคอกสัตว์จะไม่เดินเพ่นพ่าน\n\nสัตว์ต่อไปนี้ที่กำลังเดินเพ่นพ่าน:\n\n{0}</AlertAnimalIsRoamingDesc>
 
   <!-- EN: Hungry pen animals -->
-  <AlertPennedAnimalHungry>TODO</AlertPennedAnimalHungry>
+  <AlertPennedAnimalHungry>สัตว์ในคอกหิวโหย</AlertPennedAnimalHungry>
   <!-- EN: Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n\n{0} -->
-  <AlertPennedAnimalHungryDesc>TODO</AlertPennedAnimalHungryDesc>
+  <AlertPennedAnimalHungryDesc>สัตว์ในคอกบางตัวของคุณกำลังหิว\n\nเลือกเครื่องหมายคอกและใช้แถบอาหารเพื่อดูรายละเอียดมากขึ้น\n\nพวกสัตว์กินหญ้าอาจจะต้องการคอกที่ใหญ่ขึ้นเพื่อให้หญ้าเพียงพอ สัตว์อื่นๆอาจจะต้องการเป็นผลผลิตพวกหญ้าฟางหรืออาหารที่คล้ายกันโดยใช้ช่องเก็บของ\n\nสัตว์ในคอกต่อไปนี้ที่กำลังหิว:\n\n{0}</AlertPennedAnimalHungryDesc>
 
   <!-- EN: Raids arriving in {0} -->
-  <AlertTimedRaidsArrivingIn>TODO</AlertTimedRaidsArrivingIn>
+  <AlertTimedRaidsArrivingIn>การบุกปล้นจะมาถึงในอีก {0}</AlertTimedRaidsArrivingIn>
   <!-- EN: Enemies have been attracted to the following sites and will start arriving in force soon.\n\n{0} -->
-  <AlertTimedRaidsArrivingInDesc>TODO</AlertTimedRaidsArrivingInDesc>
+  <AlertTimedRaidsArrivingInDesc>เหล่าศัตรูได้ถูกดึงดูดมายังพื้นที่ต่อไปนี้ และจะเริ่มมาถึงทันทีในเร็วๆนี้\n\n{0}</AlertTimedRaidsArrivingInDesc>
   <!-- EN: Arriving at {0} in {1} -->
-  <AlertTimedRaidsArrivingAt>TODO</AlertTimedRaidsArrivingAt>
+  <AlertTimedRaidsArrivingAt>จะมาถึงที่ {0} ในอีก {1}</AlertTimedRaidsArrivingAt>
 
   <!-- EN: Faction will become hostile if you stay -->
-  <FactionWillBecomeHostileIfNotLeavingWithin>TODO</FactionWillBecomeHostileIfNotLeavingWithin>
+  <FactionWillBecomeHostileIfNotLeavingWithin>ฝักฝ่ายจะกลายเป็นศัตรู ถ้าคุณยังอยู่</FactionWillBecomeHostileIfNotLeavingWithin>
   <!-- EN: These factions will become hostile if you stay for longer at their settlement or outpost:\n\n{0} -->
-  <FactionWillBecomeHostileIfNotLeavingWithinDesc>TODO</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+  <FactionWillBecomeHostileIfNotLeavingWithinDesc>ฝักฝ่ายเหล่านี้จะกลายเป็นศัตรู ถ้าคุณอยู่นานกว่านี้ที่นิคมหรือด่านของพวกเขา:\n\n{0]</FactionWillBecomeHostileIfNotLeavingWithinDesc>
 
 </LanguageData>
