@@ -10,6 +10,7 @@
   <BreakRiskMajor>เสี่ยงสติแตกอย่างมาก</BreakRiskMajor>
   <!-- EN: Extreme break risk -->
   <BreakRiskExtreme>เสี่ยงสติแตกอย่างรุนแรง</BreakRiskExtreme>
+
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
   <BreakRiskMinorDesc>ชาวนิคมเหล่านี้อารมณ์ไม่ดี และอาจสติแตกเล็กน้อยได้ทุกเวลา:\n\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
@@ -279,7 +280,7 @@
   <AlertAnimalPenNotEnclosedDesc>มีคอกสัตว์ที่ไม่ได้ถูกล้อมรอบ\n\nล้อมคอกด้วยรั้ว, สิ่งกีดขวาง, ประตูรั้ว, กำแพง หรือประตู เพื่อป้องกันสัตว์เดินทางหนีออกไป\n\nถ้าหากคุณมีแค่เครื่องหมายคอกที่ไม่ถูกล้อมรอบ คนเลี้ยงสัตว์ของคุณยังสามารถนำทางพวกสัตว์กลับบ้านได้ แต่นี่จะต้องเป็นการเสียเวลาซ้ำแล้วซ้ำเล่า ในเมื่อพวกสัตว์ยังสามารถหนีออกไปได้อีกครั้ง</AlertAnimalPenNotEnclosedDesc>
 
   <!-- EN: Animal wandering away -->
-  <AlertAnimalIsRoaming>สัตว์เดินทางหนีออกไป</AlertAnimalIsRoaming>
+  <AlertAnimalIsRoaming>สัตว์กำลังเดินทางหนีออกไป</AlertAnimalIsRoaming>
   <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n\n{0} -->
   <AlertAnimalIsRoamingDesc>สัตว์เลี้ยงของคุณบางตัวเดินเพ่นพ่านและเริ่มออกเดินทาง ถ้าพวกมันไปสุดขอบแผนที่เมื่อไหร่ พวกมันจะหนีไปได้ในที่สุด\n\nถ้าคุณมีคอกสัตว์ที่ล้อมแล้ว คนเลี้ยงสัตว์ของคุณสามารถนำมันกลับมาได้ สัตว์ที่อยู่ในคอกสัตว์จะไม่เดินเพ่นพ่าน\n\nสัตว์ต่อไปนี้ที่กำลังเดินเพ่นพ่าน:\n\n{0}</AlertAnimalIsRoamingDesc>
 
