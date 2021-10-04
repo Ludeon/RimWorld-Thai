@@ -268,7 +268,7 @@
     <!-- EN: survivor -->
     <titleShort>ผู้รอดชีวิต</titleShort>
     <!-- EN: {PAWN_nameDef} was born during a time of unrest on {PAWN_possessive} homeworld, as climate change threatened mass starvation and flooding. As {PAWN_pronoun} grew up the situation worsened - billions died and peaceful states descended into anarchy. {PAWN_nameDef} and {PAWN_possessive} parents did whatever they had to to survive. -->
-    <desc>TODO</desc>
+    <desc>{PAWN_nameDef} ถือกำเนิดขึ้นในช่วงเวลาแห่งความไม่สงบบนดาวบ้านเกิด{PAWN_possessive}, สืบเนื่องมาจากภูมิอากาศที่เปลี่ยนแปลงจนคุกคามความอดอยากของผู้คนจำนวนมากและน้ำก็ยังท่วมขังอีก เมื่อ{PAWN_pronoun}เติบโตขึ้น สถานณการณ์ก็เลวร้ายลง - ผู้คนนับพันล้านตายและรัฐที่สงบสุขกลับกลายเป็นอนาธิปไตย {PAWN_nameDef} และพ่อแม่{PAWN_possessive}ได้ทำทุกอย่างเพื่อให้พวกเขารอดชีวิต</desc>
   </ApocalypseSurvivor23>
   
   <ApprenticeOracle83>
@@ -401,10 +401,10 @@
     <!-- EN: artilleryman -->
     <title>ทหารปืนใหญ่</title>
     <!-- EN: artillerywoman -->
-    <!-- <titleFemale>ปืนใหญ่</titleFemale> -->
+    <!-- <titleFemale>ปืนใหญ่</titleFemale> #ไม่จำเป็นในภาษาไทย -->
     <!-- EN: artilleer -->
     <titleShort>ปืนใหญ่</titleShort>
-    <!-- EN: {PAWN_nameDef} loaded shells and aimed artillery to pound {PAWN_possessive} army's enemies from afar. #ไม่จำเป็นในภาษาไทย -->
+    <!-- EN: {PAWN_nameDef} loaded shells and aimed artillery to pound {PAWN_possessive} army's enemies from afar. ไม่จำเป็นในภาษาไทย -->
     <desc>TODO</desc>
   </Artilleryman28>
   
@@ -711,7 +711,7 @@
     <!-- EN: bloodgame survivor -->
     <title>ผู้รอดชีวิตจากเกมมรณะ</title>
     <!-- EN: bloodgamer -->
-    <titleShort>นักเล่นเกมมรณะ/titleShort>
+    <titleShort>นักเล่นเกมมรณะ</titleShort>
     <!-- EN: {PAWN_nameDef} was sold to the Corestars Entertainment Company and used as meat in one of the company's system-wide broadcast shows.\n \n{PAWN_possessive} manipulative nature made {PAWN_objective} quite a nightmare, even to the audience. {PAWN_pronoun} was kicked out and exiled to a planet full of deadly animals, criminals and armed camera-drones. -->
     <desc>TODO</desc>
   </BloodgameSurvivor6>
@@ -1078,16 +1078,16 @@
   
   <CaveworldIlluminator95>
     <!-- EN: caveworld illuminator -->
-    <title>ไฟประดับโลกถ้ำ</title>
+    <title>เครื่องฉายไฟแห่งเคฟเวิร์ล</title>
     <!-- EN: illuminator -->
-    <titleShort>ไฟส่องสว่าง</titleShort>
+    <titleShort>เครื่องฉายไฟ</titleShort>
     <!-- EN: Among tunnel-dwellers, those with vision as strong as {PAWN_nameDef}'s are revered as sages. {PAWN_pronoun} would lead the way, marking spots to dig with bioluminescent fungus and warning others of impending danger. -->
-    <desc>TODO</desc>
+    <desc>ในบรรดาผู้ที่อาศัยอยู่ในอุโมงค์, ผู้ที่มีสายตาดีพอๆกับ {PAWN_nameDef} จะได้รับการนับถือดั่งปราชญ์ {PAWN_pronoun}อาจจะเป็นคนนำทาง, ทำจุดที่จะขุุดด้วยเชื้อราเรืองแสง และตักเตือนคนอื่นถึงภัยอันตรายที่กำลังจะเกิดขึ้น</desc>
   </CaveworldIlluminator95>
   
   <CaveworldTender26>
     <!-- EN: caveworld tender -->
-    <title>Caveworld อ่อนโยน</title>
+    <title>ผู้รักษาแห่งเคฟเวิร์ล</title>
     <!-- EN: cave kid -->
     <titleShort>เด็กถ้ำ</titleShort>
     <!-- EN: {PAWN_nameDef} grew up in cave complex deep beneath the surface of an inhospitable world. {PAWN_pronoun} worked with the other children tending the tribe's fungus crops. -->
@@ -1114,11 +1114,11 @@
   
   <Chef52>
     <!-- EN: chef -->
-    <title>พ่อครัว</title>
+    <title>เชฟ</title>
     <!-- EN: chef -->
-    <titleShort>พ่อครัว</titleShort>
+    <titleShort>เชฟ</titleShort>
     <!-- EN: {PAWN_nameDef} ran a high-class restaurant. {PAWN_pronoun} was famous among patrons for {PAWN_possessive} creative culinary specialties, and infamous among kitchen workers for {PAWN_possessive} casual disdain for grunt work. -->
-    <desc>TODO</desc>
+    <desc>{PAWN_nameDef} ได้เปิดกิจการภัตตาคารระดับสูง {PAWN_pronoun}มีชื่อเสียงเสียงในหมู่ลูกค้าประจำสำหรับความพิเศษการทำอาหารที่สร้างสรรค์{PAWN_possessive}, และมีชื่อเสียงที่ไม่ดีในหมู่คนงานในครัวถึงการดูถูกเหยียดหยามในงานหนักๆ{PAWN_possessive}  </desc>
   </Chef52>
   
   <Chemist73>
@@ -2171,11 +2171,11 @@
   
   <Evangelist39>
     <!-- EN: evangelist -->
-    <title>ผู้ประกาศข่าวประเสริฐ</title>
+    <title>ผู้นิพนธ์พระวรสาร</title>
     <!-- EN: evangelist -->
-    <titleShort>ผู้ประกาศข่าวประเสริฐ</titleShort>
+    <titleShort>ผู้นิพนธ์พระวรสาร</titleShort>
     <!-- EN: As a youth, {PAWN_nameDef} experienced a religious awakening. {PAWN_pronoun} decided to spend the rest of {PAWN_possessive} life spreading the word of {PAWN_possessive} deity, the beauty of its culture, and its unusual medical tradition. -->
-    <desc>TODO</desc>
+    <desc>เมื่อตอนอายุยังน้อย, {PAWN_nameDef} ได้ประสบกับการตื่นรู้ทางศาสนา {PAWN_pronoun}ตัดสินใจที่จะใช้ชีวิตที่เหลือ{PAWN_possessive}เพื่อเผยแพร่พระวจนะแห่งเทพเจ้า{PAWN_possessive}, ความงดงามทางวัฒนธรรม, และประเพณีทางการแพทย์ที่ไม่ธรรมดา  </desc>
   </Evangelist39>
   
   <Excavator55>
@@ -2459,11 +2459,11 @@
   
   <FireKeeper44>
     <!-- EN: fire keeper -->
-    <title>เจ้าหน้าที่ดับเพลิง</title>
+    <title>คนคุุมไฟ</title>
     <!-- EN: firekeep -->
-    <titleShort>พนักงานดับเพลิง</titleShort>
+    <titleShort>คนคุุมไฟ</titleShort>
     <!-- EN: {PAWN_nameDef} was responsible for keeping the tribe's fire going. {PAWN_pronoun} took this responsibility very seriously. -->
-    <desc>TODO</desc>
+    <desc>{PAWN_nameDef} มีหน้าที่รับผิดชอบในการคุมไฟของเผ่าไม่ให้ดับ {PAWN_pronoun}รับหน้าที่นี้จริงจังมาก </desc>
   </FireKeeper44>
   
   <FireScarredChild1>
@@ -3249,12 +3249,12 @@
     <!-- EN: orphan -->
     <titleShort>เด็กกำพร้า</titleShort>
     <!-- EN: {PAWN_nameDef} never knew {PAWN_possessive} parents. {PAWN_possessive} earliest memories were of drudgery in the mines and workhouses of {PAWN_possessive} industrial world.\n\nBecause of this, {PAWN_pronoun} never received a proper education. -->
-    <desc>TODO</desc>
+    <desc>{PAWN_nameDef} ไม่เคยรู้จักพ่อแม่{PAWN_possessive}เลย ความทรงจำช่วงแรกๆ{PAWN_possessive}คืองานน่าเบื่อในเหมืองและห้องทำงาน{PAWN_possessive}ในโลกอุตสาหกรรม\n\nด้วยเหตุนี้, {PAWN_pronoun}จึงไม่เคยได้รับการศึกษาที่เหมาะสม</desc>
   </IndustrialOrphan13>
   
   <IndworldUrchin73>
     <!-- EN: indworld urchin -->
-    <title>เด็กซน indworld</title>
+    <title>เด็กซนแห่งอินด์เวิร์ล</title>
     <!-- EN: urchin -->
     <titleShort>เด็กซน</titleShort>
     <!-- EN: {PAWN_nameDef} grew up on the streets of a world in the early stages of its industrial revolution. {PAWN_pronoun} passed {PAWN_possessive} days stealing, begging and tinkering with discarded machine scraps, always on the lookout for a way to escape poverty. -->
@@ -3510,7 +3510,7 @@
     <!-- EN: logger -->
     <titleShort>คนตัดไม้</titleShort>
     <!-- EN: {PAWN_nameDef} chopped trees and hauled their lumber back to the tribe. {PAWN_pronoun} wielded {PAWN_possessive} axe with the finesse of an artist and the force of a charging muffalo. -->
-    <desc>TODO</desc>
+    <desc>{PAWN_nameDef} ตัดตนไม้แล้วขนไม้เหล่านั้นกลับสู่เผ่า {PAWN_pronoun}กัดแกว่งขวาน{PAWN_possessive}ด้วยความปราณีตของศิลปินและแรงแห่งการพุ่งเข้าใส่ของมัฟฟาโล</desc>
   </Logger16>
   
   <Logger95>
@@ -3632,7 +3632,7 @@
   
   <MadScientist2>
     <!-- EN: mad scientist -->
-    <title>นักวิทยาศาสตร์บ้า</title>
+    <title>นักวิทยาศาสตร์สติเฟื่อง</title>
     <!-- EN: scientist -->
     <titleShort>นักวิทยาศาสตร์</titleShort>
     <!-- EN: {PAWN_nameDef}'s lust for knowledge was only matched by {PAWN_possessive} disdain for anyone who would stand in the way of {PAWN_possessive} research.\n\nTraveling from world to world, {PAWN_pronoun} sought answers to questions few dared to ask. -->
@@ -3641,7 +3641,7 @@
   
   <MadScientist22>
     <!-- EN: mad scientist -->
-    <title>นักวิทยาศาสตร์บ้า</title>
+    <title>นักวิทยาศาสตร์สติเฟื่อง</title>
     <!-- EN: scientist -->
     <titleShort>นักวิทยาศาสตร์</titleShort>
     <!-- EN: Stripped of {PAWN_possessive} life's work and exiled after {PAWN_possessive} unethical experiments on the survivors of the Callos IX incident were published, {PAWN_nameDef} learned the skills necessary to survive in the outer rim.\n\nContinuing {PAWN_possessive} research with nothing left to lose, {PAWN_pronoun} made minions to carry out the tasks that bored him. -->
@@ -3650,7 +3650,7 @@
   
   <MadScientist31>
     <!-- EN: mad scientist -->
-    <title>นักวิทยาศาสตร์บ้า</title>
+    <title>นักวิทยาศาสตร์สติเฟื่อง</title>
     <!-- EN: scientist -->
     <titleShort>นักวิทยาศาสตร์</titleShort>
     <!-- EN: After finishing {PAWN_possessive} education, {PAWN_nameDef} was hired by the planet's leading genetic researcher. Later, {PAWN_pronoun} was caught running illegal, inhumane experiments.\n\nDespite {PAWN_possessive} family's influence, {PAWN_pronoun} was convicted and sentenced to hard labor on a penal colony. -->
@@ -3659,7 +3659,7 @@
   
   <MadScientist47>
     <!-- EN: mad scientist -->
-    <title>นักวิทยาศาสตร์บ้า</title>
+    <title>นักวิทยาศาสตร์สติเฟื่อง</title>
     <!-- EN: scientist -->
     <titleShort>นักวิทยาศาสตร์</titleShort>
     <!-- EN: {PAWN_nameDef} grew up miserable on the plains of a rimworld. {PAWN_pronoun} found the strength to fight under the teachings of an old, broken scientist.\n\n{PAWN_pronoun} quickly learned to play with people's fears, and was nicknamed 'mad scientist'. -->
@@ -4270,9 +4270,9 @@
   
   <Missionary99>
     <!-- EN: missionary -->
-    <title>ผู้ที่เผยแพร่ศาสนาในต่างประเทศ</title>
+    <title>มิชชันนารี</title>
     <!-- EN: missionary -->
-    <titleShort>ผู้ที่เผยแพร่ศาสนาในต่างประเทศ</titleShort>
+    <titleShort>มิชชันนารี</titleShort>
     <!-- EN: {PAWN_nameDef} decided to devote {PAWN_possessive} life to religious service. {PAWN_pronoun} made a vow of peace and spent several years preaching and serving food in soup kitchens for the homeless. -->
     <desc>TODO</desc>
   </Missionary99>
@@ -7068,18 +7068,18 @@
   
   <VengefulHunter32>
     <!-- EN: vengeful hunter -->
-    <title>นักล่าพยาบาท</title>
+    <title>นักล่าผู้อาฆาต</title>
     <!-- EN: vengeful -->
-    <titleShort>พยาบาท</titleShort>
+    <titleShort>อาฆาต</titleShort>
     <!-- EN: Following the death of a close friend by animal attack, {PAWN_nameDef} hunted the beast responsible. {PAWN_pronoun} tracked it to a nearby village, only to find one of the villagers wearing its pelt. -->
-    <desc>TODO</desc>
+    <desc>หลังจากเพื่อนสนิทตายจากการจู่โจมของสัตว์ {PAWN_nameDef} ได้ออกล่าสัตว์ป่าที่เป็นสาเหตุ {PAWN_pronoun}สะกดรอยมันจนไปถึงหมู่บ้านใกล้ๆ, เพียงเพื่อจะพบชาวบ้านคนหนึ่งกำลังสวมใส่หนังของมัน</desc>
   </VengefulHunter32>
   
   <VengefulNomad67>
     <!-- EN: Vengeful nomad -->
-    <title>คนพเนจร พยาบาท</title>
+    <title>คนเร่ร่อนผู้อาฆาต</title>
     <!-- EN: Nomad -->
-    <titleShort>คนพเนจร</titleShort>
+    <titleShort>คนเร่ร่อน</titleShort>
     <!-- EN: After refusing the wild demands of a tyrannical king, {PAWN_nameDef}'s nomad band was marked as an outlaw group and systematically hunted.\n\n        {PAWN_nameDef}'s family was eventually captured. Those who weren't killed were taken as slaves. Sold to the owner of a manufactory, {PAWN_nameDef} swore that one day {PAWN_pronoun} would have {PAWN_possessive} revenge. -->
     <desc>TODO</desc>
   </VengefulNomad67>
@@ -7234,7 +7234,7 @@
     <!-- EN: chief -->
     <titleShort>หัวหน้า</titleShort>
     <!-- EN: {PAWN_nameDef} was a tribal gang leader on a rimworld. For {PAWN_objective}, the battlefield is a game, and there is nothing more fun than the fires of war. -->
-    <desc>TODO</desc>
+    <desc>{PAWN_nameDef} เคยเป็นผู้นำแก๊งชนเผ่าบนริมเวิร์ล สำหรับ{PAWN_objective}แล้ว, สนามรบคือเกม, และมันไม่มีอะไรสนุกไปว่าไฟแห่งสงคราม</desc>
   </WarChief97>
   
   <WarChild24>

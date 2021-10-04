@@ -49,7 +49,7 @@
   <!-- EN: The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - the grit and consequence of real life, like they talk about in the history books. You wanted to know what real challenge and consequence feel like.\n\nNow, after a journey of decades in cryptosleep, you're landing on this unknown rimworld. Real consequences await you. -->
   <TheRichExplorer.scenario.parts.GameStartDialog.text>ไม่ว่าจะ neurosimulations, holo-games, หรือมั่วสุมหมู่ ก็ไม่เคยเพียงพอสำหรับคุณ คุณต้องการมากกว่านั้น - ความทรหดและผลสืบเนื่องจากการใช้ชีวิตจริงๆจังๆเหมือนเวลาที่คนพูดถึงในหนังสือประวัติศาสตร์ คุณต้องการจะรู้ว่าความท้าทายและผลกระทบนั้นรู้สึกยังไง\n\nณ ตอนนี้ หลังจากเดินทางยาวนานในคริปโตสลีป คุณลงจอดบนดางชายขอบที่ไม่มีใครรู้จัก ผลลัพท์ที่แท้จริงรอคุณอยู่</TheRichExplorer.scenario.parts.GameStartDialog.text>
   <!-- EN: One rich explorer out to experience the universe. Extra difficult. -->
-  <TheRichExplorer.scenario.summary>หนึ่งนักสำรวจอันร่ำรวย ออกสำรวจจักรวาลอันกว่าใหญ่ ยากเป็นพิเศษ</TheRichExplorer.scenario.summary>
+  <TheRichExplorer.scenario.summary>นักสำรวจผู้มั่งมีคนหนึ่งออกสำรวจเพื่อหาประสบการณ์ในจักรวาล ยากเป็นพิเศษ</TheRichExplorer.scenario.summary>
   
   <!-- EN: tutorial -->
   <Tutorial.label>บทเรียน (Tutorial)</Tutorial.label>
