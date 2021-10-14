@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: smokepop pack -->
-  <Apparel_SmokepopBelt.label>เข็มขัดสโม้คป๊อบ</Apparel_SmokepopBelt.label>
+  <Apparel_SmokepopBelt.label>เข็มขัดสโมคป๊อป</Apparel_SmokepopBelt.label>
   <!-- EN: A defensive smokescreen. When activated, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. -->
   <Apparel_SmokepopBelt.description>ระบบป้องกันด้วยควันระเบิดแบบใช้ครั้งเดียว ถ้าผู้ใส่ถูกโพรเจกไทล์พุ่งใส่ มันจะปล่อยกลุ่มควันปกปิดการโดนเล็งยิงเข้ามา และป้องกันไม่ให้โดนป้อมปืนล็อคเป้าหมาย</Apparel_SmokepopBelt.description>
   <!-- EN: smokepop -->
-  <Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>สโม้คป๊อบ</Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>
+  <Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>สโมคป๊อป</Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>
   <!-- EN: pop smoke -->
-  <Apparel_SmokepopBelt.verbs.pop_smoke.label>ป๊อบ สโม้ค</Apparel_SmokepopBelt.verbs.pop_smoke.label>
+  <Apparel_SmokepopBelt.verbs.pop_smoke.label>ป๊อป สโมค</Apparel_SmokepopBelt.verbs.pop_smoke.label>
   
 </LanguageData>

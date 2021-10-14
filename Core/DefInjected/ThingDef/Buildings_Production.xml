@@ -27,12 +27,12 @@
   <DeepDrill.description>TODO</DeepDrill.description>
   
   <!-- EN: drug lab -->
-  <DrugLab.label>โต๊ะทำยา</DrugLab.label>
+  <DrugLab.label>แล็บยา</DrugLab.label>
   <!-- EN: A work bench equipped with containers, heaters, and measurement devices for producing various drugs. -->
-  <DrugLab.description>TODO</DrugLab.description>
+  <DrugLab.description>โต๊ะทำงานที่เพรียบพร้อมไปด้วยภาชนะ, ฮีตเตอร์, และเครื่องมือวัดสำหรับผลิตยาต่างๆ</DrugLab.description>
   
   <!-- EN: electric crematorium -->
-  <ElectricCrematorium.label>ฌาปนสถาน ไฟฟ้า</ElectricCrematorium.label>
+  <ElectricCrematorium.label>เมรุไฟฟ้า</ElectricCrematorium.label>
   <!-- EN: A huge stone crematorium which vaporizes corpses with extremely high temperatures. -->
   <ElectricCrematorium.description>TODO</ElectricCrematorium.description>
   
@@ -42,7 +42,7 @@
   <ElectricSmelter.description>TODO</ElectricSmelter.description>
   
   <!-- EN: electric smithy -->
-  <ElectricSmithy.label>โรงตีเหล็ก ไฟฟ้า</ElectricSmithy.label>
+  <ElectricSmithy.label>โรงตีเหล็กไฟฟ้า</ElectricSmithy.label>
   <!-- EN: An electric-powered station for smithing non-mechanical weapons and tools. -->
   <ElectricSmithy.description>TODO</ElectricSmithy.description>
   
@@ -67,12 +67,12 @@
   <FermentingBarrel.description>TODO</FermentingBarrel.description>
   
   <!-- EN: fueled smithy -->
-  <FueledSmithy.label>โรงตีเหล็ก ถ่านฟืน</FueledSmithy.label>
+  <FueledSmithy.label>โรงตีเหล็กถ่านฟืน</FueledSmithy.label>
   <!-- EN: A wood-fueled station for smithing non-mechanical weapons and tools. -->
   <FueledSmithy.description>TODO</FueledSmithy.description>
   
   <!-- EN: fueled stove -->
-  <FueledStove.label>เตาทำอาหาร ถ่านฟืน</FueledStove.label>
+  <FueledStove.label>เตาทำอาหารถ่านฟืน</FueledStove.label>
   <!-- EN: A wood-fueled stove with an attached countertop for preparing meals. -->
   <FueledStove.description>TODO</FueledStove.description>
   
@@ -87,22 +87,22 @@
   <HiTechResearchBench.description>TODO</HiTechResearchBench.description>
   
   <!-- EN: hopper -->
-  <Hopper.label>ถึงพัก</Hopper.label>
+  <Hopper.label>ถังพัก</Hopper.label>
   <!-- EN: Holds resources for use by machines like nutrient paste dispensers. -->
   <Hopper.description>TODO</Hopper.description>
   
   <!-- EN: hydroponics basin -->
-  <HydroponicsBasin.label>อ่างปลูกพืช โดยไม่ใช้ดิน</HydroponicsBasin.label>
+  <HydroponicsBasin.label>อ่างปลูกพืชไร้ดิน</HydroponicsBasin.label>
   <!-- EN: An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut. -->
   <HydroponicsBasin.description>TODO</HydroponicsBasin.description>
   
   <!-- EN: nutrient paste dispenser -->
-  <NutrientPasteDispenser.label>เครื่องจ่าย สารอาหารเปียก</NutrientPasteDispenser.label>
+  <NutrientPasteDispenser.label>เครื่องจ่ายสารอาหารเปียก</NutrientPasteDispenser.label>
   <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
   <NutrientPasteDispenser.description>TODO</NutrientPasteDispenser.description>
   
   <!-- EN: simple research bench -->
-  <SimpleResearchBench.label>โต๊ะวิจัย</SimpleResearchBench.label>
+  <SimpleResearchBench.label>โต๊ะทำงานวิจัย</SimpleResearchBench.label>
   <!-- EN: A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things. -->
   <SimpleResearchBench.description>TODO</SimpleResearchBench.description>
   
@@ -117,13 +117,13 @@
   <TableMachining.description>TODO</TableMachining.description>
   
   <!-- EN: art bench -->
-  <TableSculpting.label>โต๊ะประติมากร</TableSculpting.label>
+  <TableSculpting.label>โต๊ะทำงานศิลปะ</TableSculpting.label>
   <!-- EN: A workbench equipped for creating art. -->
-  <TableSculpting.description>TODO</TableSculpting.description>
+  <TableSculpting.description>โต๊ะทำงานที่เพรียบพร้อมสำหรับสร้างงานศิลปะ</TableSculpting.description>
   
   <!-- EN: stonecutter's table -->
   <TableStonecutter.label>โต๊ะตัดหิน</TableStonecutter.label>
   <!-- EN: A work table with saws and chisels for cutting stone chunks into usable blocks. -->
-  <TableStonecutter.description>TODO</TableStonecutter.description>
+  <TableStonecutter.description>โต๊ะทำงานด้วยเลื่อยและสิ่วสำหรับตัดชิ้นส่วนหินไปเป็นบล็อกที่ใช้งานได้</TableStonecutter.description>
   
 </LanguageData>

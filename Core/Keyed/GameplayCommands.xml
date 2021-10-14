@@ -235,7 +235,7 @@
 
   <!-- Trap -->
   <!-- EN: Auto Rearm -->
-  <CommandAutoRearm>กับดักออโต้</CommandAutoRearm>
+  <CommandAutoRearm>กับดักอัตโนมัติ</CommandAutoRearm>
   <!-- EN: If this is on, this trap will automatically be replaced after it springs. -->
   <CommandAutoRearmDesc>ในขณะที่เปิดใช้ กับดักนี้จะถูกเปลื่ยนอัตโนมัติ เมื่อกับดักทำงานไปแล้ว</CommandAutoRearmDesc>
   

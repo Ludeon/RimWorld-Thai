@@ -37,7 +37,7 @@
   <BedrollDouble.description>TODO</BedrollDouble.description>
   
   <!-- EN: dining chair -->
-  <DiningChair.label>เก้าอี้</DiningChair.label>
+  <DiningChair.label>เก้าอี้ทานอาหาร</DiningChair.label>
   <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
   <DiningChair.description>เก้าอี้สวยงาม นั่งสบาย สามารถใช้ที่โต๊ะ โต๊ะทำงาน หรือที่อื่นๆ</DiningChair.description>
   
@@ -52,7 +52,7 @@
   <DoubleSleepingSpot.description>TODO</DoubleSleepingSpot.description>
   
   <!-- EN: dresser -->
-  <Dresser.label>ตู้ลิ้นชัก</Dresser.label>
+  <Dresser.label>ตู้เสื้อผ้า</Dresser.label>
   <!-- EN: A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
   <Dresser.description>TODO</Dresser.description>
   
@@ -72,7 +72,7 @@
   <PlantPot.description>TODO</PlantPot.description>
   
   <!-- EN: royal bed -->
-  <RoyalBed.label>เตียงหรู</RoyalBed.label>
+  <RoyalBed.label>เตียงหลวง</RoyalBed.label>
   <!-- EN: A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two. -->
   <RoyalBed.description>TODO</RoyalBed.description>
   
@@ -87,22 +87,22 @@
   <SleepingSpot.description>TODO</SleepingSpot.description>
   
   <!-- EN: standing lamp -->
-  <StandingLamp.label>โคมไฟตั้ง</StandingLamp.label>
+  <StandingLamp.label>โคมไฟตั้งพื้น</StandingLamp.label>
   <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
   <StandingLamp.description>TODO</StandingLamp.description>
   
   <!-- EN: standing lamp (blue) -->
-  <StandingLamp_Blue.label>โคมไฟตั้ง (น้ำเงิน)</StandingLamp_Blue.label>
+  <StandingLamp_Blue.label>โคมไฟตั้งพื้น (น้ำเงิน)</StandingLamp_Blue.label>
   <!-- EN: A standing lamp that lights an area in blue. -->
   <StandingLamp_Blue.description>TODO</StandingLamp_Blue.description>
   
   <!-- EN: standing lamp (green) -->
-  <StandingLamp_Green.label>โคมไฟตั้ง (เขียว)</StandingLamp_Green.label>
+  <StandingLamp_Green.label>โคมไฟตั้งพื้น (เขียว)</StandingLamp_Green.label>
   <!-- EN: A standing lamp that lights an area in green. -->
   <StandingLamp_Green.description>TODO</StandingLamp_Green.description>
   
   <!-- EN: standing lamp (red) -->
-  <StandingLamp_Red.label>โคมไฟตั้ง (แดง)</StandingLamp_Red.label>
+  <StandingLamp_Red.label>โคมไฟตั้งพื้น (แดง)</StandingLamp_Red.label>
   <!-- EN: A standing lamp that lights an area in red. -->
   <StandingLamp_Red.description>TODO</StandingLamp_Red.description>
   
@@ -112,7 +112,7 @@
   <Stool.description>TODO</Stool.description>
   
   <!-- EN: sun lamp -->
-  <SunLamp.label>โคมอาทิตย์</SunLamp.label>
+  <SunLamp.label>โคมไฟอาทิตย์</SunLamp.label>
   <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
   <SunLamp.description>TODO</SunLamp.description>
   <!-- EN: Off for plant resting period -->
