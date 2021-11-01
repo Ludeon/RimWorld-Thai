@@ -27,7 +27,7 @@
   <MeleeDPS.description>ความเสียหายต่อวินาทีโดยเฉลี่ยในการรบประชิด ค่านี้มองข้ามค่าป้องกันของเป้าหมายเช่น หลบ หรือเกราะ</MeleeDPS.description>
   
   <!-- EN: melee hit chance -->
-  <MeleeHitChance.label>รบประชิด โอกาศโจมตีโดน</MeleeHitChance.label>
+  <MeleeHitChance.label>รบประชิด โอกาสโจมตีโดน</MeleeHitChance.label>
   <!-- EN: Chance to hit a target in melee.\n\nThe target can still dodge even if we would've hit. -->
   <MeleeHitChance.description>โอกาสจะตีโดนในการรบประชิด เป้าหมายยังสามารถหลบได้แม้ควรจะตีโดน</MeleeHitChance.description>
   

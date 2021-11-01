@@ -455,7 +455,7 @@
   <!-- EN: Success rate multiplier -->
   <SurgerySuccessChanceFactor>อัตราความสำเร็จคูณ</SurgerySuccessChanceFactor>
   <!-- EN: Death chance on fail -->
-  <SurgeryDeathOnFailChance>โอกาศตายเมื่อล้มเหลว</SurgeryDeathOnFailChance>
+  <SurgeryDeathOnFailChance>โอกาสตายเมื่อล้มเหลว</SurgeryDeathOnFailChance>
   <!-- EN: Work speed governed by -->
   <WorkSpeedStat>ความเร็วทำงานควบคุมโดย</WorkSpeedStat>
   <!-- EN: Output quantity governed by -->

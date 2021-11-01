@@ -73,7 +73,7 @@
   <!-- EN: illegal -->
   <Illegal>ผิดกฏหมาย</Illegal>
   <!-- EN: detection chance -->
-  <DetectionChance>โอกาศค้นพบ</DetectionChance>
+  <DetectionChance>โอกาสค้นพบ</DetectionChance>
   <!-- EN: Race -->
   <Race>เผ่าพันธุ์</Race>
   <!-- EN: Description -->
@@ -435,7 +435,7 @@
   <!-- EN: Foliage kill radius -->
   <FoliageKillRadius>รัศมีฆ่าใบพืช</FoliageKillRadius>
   <!-- EN: Radius expand rate -->
-  <RadiusExpandRate>อัตรรการขยายตัวของรัศมี</RadiusExpandRate>
+  <RadiusExpandRate>อัตราการขยายของรัศมี</RadiusExpandRate>
   <!-- EN: View: {0} -->
   <ViewHyperlink>ดู: {0}</ViewHyperlink>
   <!-- EN: Detonates in {0} days -->

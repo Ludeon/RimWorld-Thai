@@ -4,7 +4,7 @@
   <!-- EN: warg -->
   <Warg.label>วาร์ก</Warg.label>
   <!-- EN: Heavily-muscled wolf-like creatures with vicious unnatural claws and an absurdly powerful bite. They will only eat meat or corpses. If disturbed in the wild, they are very likely to attack.\n\nScientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god. -->
-  <Warg.description>สิ่งมีชีวิตคล้ายหมาป่า เต็มไปด้วยกล้ามเนื้อ มีกรงเล็บที่ร้ายกาจผิดธรรมชาติ และแรงกัดอันมากมายยิ่งนัก\n\nพวกมันกัดกินเฉพาะเนื้อหรือซากศพเท่านั้น โอกาศที่มันจะโจมตีสูงหากถูกรบกวนตามธรรมชาติ\n\nนักวิทยาศาสต์กล่าวว่าวาร์กมีต้นกำเนิดมาจากสัตว์สงคราม ซึ่งสร้างขึ้นเพื่อกดขี่ประชากร\n\nสำหรับพวกเชื่อถือเรื่องผีสาง มักเห็นมันเป็นเครื่องมือของพระเจ้าผู้กำลังพิโรธ</Warg.description>
+  <Warg.description>สิ่งมีชีวิตคล้ายหมาป่า เต็มไปด้วยกล้ามเนื้อ มีกรงเล็บที่ร้ายกาจผิดธรรมชาติ และแรงกัดอันมากมายยิ่งนัก\n\nพวกมันกัดกินเฉพาะเนื้อหรือซากศพเท่านั้น โอกาสที่มันจะโจมตีสูงหากถูกรบกวนตามธรรมชาติ\n\nนักวิทยาศาสต์กล่าวว่าวาร์กมีต้นกำเนิดมาจากสัตว์สงคราม ซึ่งสร้างขึ้นเพื่อกดขี่ประชากร\n\nสำหรับพวกเชื่อถือเรื่องผีสาง มักเห็นมันเป็นเครื่องมือของพระเจ้าผู้กำลังพิโรธ</Warg.description>
   <!-- EN: left claw -->
   <Warg.tools.left_claw.label>กรงเล็บซ้าย</Warg.tools.left_claw.label>
   <!-- EN: right claw -->

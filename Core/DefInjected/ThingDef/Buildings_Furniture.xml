@@ -24,7 +24,7 @@
   <!-- EN: bed -->
   <Bed.label>เตียง</Bed.label>
   <!-- EN: A cozy mattress and sheets on a frame for resting. -->
-  <Bed.description>ที่นอนฟูกปูบนโครง นุ่มสบาย สำหรับำพักผ่อน</Bed.description>
+  <Bed.description>เบาะและผ้าปูที่แสนสบายบนโครงสำหรับพักผ่อน</Bed.description>
   
   <!-- EN: bedroll -->
   <Bedroll.label>ถุงนอน</Bedroll.label>
@@ -44,7 +44,7 @@
   <!-- EN: double bed -->
   <DoubleBed.label>เตียงคู่</DoubleBed.label>
   <!-- EN: A simple double-wide bed that fits two people. -->
-  <DoubleBed.description>TODO</DoubleBed.description>
+  <DoubleBed.description>เตียงกว้างสองเท่าแบบเรียบง่ายที่พอดีกับคนสองคน</DoubleBed.description>
   
   <!-- EN: double sleeping spot -->
   <DoubleSleepingSpot.label>จุดนอนคู่</DoubleSleepingSpot.label>

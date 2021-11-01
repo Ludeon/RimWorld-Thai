@@ -1015,18 +1015,18 @@
   
   <Castaway57>
     <!-- EN: castaway -->
-    <title>ถูกทิ้ง</title>
+    <title>คนยานแตก</title>
     <!-- EN: castaway -->
-    <titleShort>ถูกทิ้ง</titleShort>
+    <titleShort>คนยานแตก</titleShort>
     <!-- EN: {PAWN_nameDef} was the only survivor of a ship crash on an unhabited animal world. For many years until {PAWN_possessive} rescue {PAWN_pronoun} scrounged an existence out of whatever {PAWN_pronoun} could find.\n\n{PAWN_possessive} survival skills became razor-sharp, but spending so long alone severely dampened {PAWN_possessive} conversatial abilities. -->
     <desc>TODO</desc>
   </Castaway57>
   
   <Castaway81>
     <!-- EN: castaway -->
-    <title>ถูกทิ้ง</title>
+    <title>คนยานแตก</title>
     <!-- EN: castaway -->
-    <titleShort>ถูกทิ้ง</titleShort>
+    <titleShort>คนยานแตก</titleShort>
     <!-- EN: {PAWN_nameDef} was a passenger on a routine interstellar transit. When {PAWN_possessive} ship was destroyed, {PAWN_pronoun} lived as a castaway on an uninhabited planet for several years. -->
     <desc>TODO</desc>
   </Castaway81>
@@ -1042,11 +1042,11 @@
   
   <CaveBuilder81>
     <!-- EN: cave builder -->
-    <title>คนสร้างถ้ำ</title>
+    <title>นักสร้างถ้ำ</title>
     <!-- EN: cave builder -->
-    <titleShort>คนสร้างถ้ำ</titleShort>
+    <titleShort>นักสร้างถ้ำ</titleShort>
     <!-- EN: {PAWN_nameDef} specialized in cave complex excavation and construction. -->
-    <desc>TODO</desc>
+    <desc>{PAWN_nameDef} เชี่ยวชาญในการขุดเจาะและก่อสร้างถ้ำที่ซับซ้อน</desc>
   </CaveBuilder81>
   
   <CaveChild17>
@@ -1096,9 +1096,9 @@
   
   <CaveworldTunneler48>
     <!-- EN: caveworld tunneler -->
-    <title>อุโมงค์ถ้ำโลก</title>
+    <title>นักอุโมงค์แห่งเคฟเวิร์ล</title>
     <!-- EN: tunneler -->
-    <titleShort>อุโมงค์</titleShort>
+    <titleShort>นักอุโมงค์</titleShort>
     <!-- EN: {PAWN_nameDef} worked as a digger in the massive underground cave complex.\n\n{PAWN_pronoun} knows rock so well that {PAWN_pronoun} can almost navigate caves by smell. -->
     <desc>TODO</desc>
   </CaveworldTunneler48>
@@ -1118,7 +1118,7 @@
     <!-- EN: chef -->
     <titleShort>เชฟ</titleShort>
     <!-- EN: {PAWN_nameDef} ran a high-class restaurant. {PAWN_pronoun} was famous among patrons for {PAWN_possessive} creative culinary specialties, and infamous among kitchen workers for {PAWN_possessive} casual disdain for grunt work. -->
-    <desc>{PAWN_nameDef} ได้เปิดกิจการภัตตาคารระดับสูง {PAWN_pronoun}มีชื่อเสียงเสียงในหมู่ลูกค้าประจำสำหรับความพิเศษการทำอาหารที่สร้างสรรค์{PAWN_possessive}, และมีชื่อเสียงที่ไม่ดีในหมู่คนงานในครัวถึงการดูถูกเหยียดหยามในงานหนักๆ{PAWN_possessive}  </desc>
+    <desc>{PAWN_nameDef} ได้เปิดกิจการภัตตาคารระดับสูง {PAWN_pronoun}มีชื่อเสียงเสียงในหมู่ลูกค้าประจำสำหรับความชำนาญในการทำอาหารที่สร้างสรรค์{PAWN_possessive}, และมีชื่อเสียงที่ไม่ดีในหมู่คนงานในครัวถึงการดูถูกเหยียดหยามในงานหนักๆ{PAWN_possessive}  </desc>
   </Chef52>
   
   <Chemist73>
@@ -1141,7 +1141,7 @@
   
   <ChessMaster67>
     <!-- EN: chess master -->
-    <title>อาจารย์หมากรุก</title>
+    <title>ปรมาจารย์หมากรุก</title>
     <!-- EN: chesshead -->
     <titleShort>หัวหมากรุก</titleShort>
     <!-- EN: {PAWN_nameDef} loved to play chess. {PAWN_pronoun} even earned the nickname {PAWN_nameDef} for some of {PAWN_possessive} craftier moves.\n\n{PAWN_pronoun} never got into trouble - mostly because {PAWN_pronoun} was good at not getting caught. -->
@@ -1161,7 +1161,7 @@
     <!-- EN: child-knave -->
     <title>เด็กนักเลง</title>
     <!-- EN: knave -->
-    <titleShort>คนพาล</titleShort>
+    <titleShort>นักเลง</titleShort>
     <!-- EN: {PAWN_nameDef} was a child-knave of King Loteric. {PAWN_pronoun} enjoyed the training with wooden sticks and engaging others in close combat. {PAWN_pronoun} adapted quickly to the heat of battle and was good at spreading fire.\n\n{PAWN_pronoun} served {PAWN_possessive} lord well, until the king died in an unfortunate accident. -->
     <desc>TODO</desc>
   </ChildKnave69>
@@ -1177,7 +1177,7 @@
   
   <ChildOfGlass61>
     <!-- EN: child of glass -->
-    <title>ลูกของแก้ว</title>
+    <title>เด็กแห่งกระจก</title>
     <!-- EN: survivor -->
     <titleShort>ผู้รอดชีวิต</titleShort>
     <!-- EN: {PAWN_nameDef} was raised underground on a "marble" planet - a wasteland of radioactive asphalt and toxic fallout.\n\nTo survive on a planet devoid of life, {PAWN_pronoun} had to learn how to farm underground and how to fight without wasting bullets. -->
@@ -1249,9 +1249,9 @@
   
   <ChurchPsychic98>
     <!-- EN: church psychic -->
-    <title>กายสิทธิ์ของคริสตจักร</title>
+    <title>พลังจิตแห่งโบสภ์</title>
     <!-- EN: psychic -->
-    <titleShort>กายสิทธิ์</titleShort>
+    <titleShort>พลังจิต</titleShort>
     <!-- EN: {PAWN_nameDef} was a psychic in the imperial church's psychic school.\n\n{PAWN_nameDef} trained {PAWN_possessive} mind to sense the collective emotions and impressions of the people. It was a way to touch the spirit of the empire. It was also a way to root out heretical trends in thought. -->
     <desc>TODO</desc>
   </ChurchPsychic98>
@@ -1285,16 +1285,16 @@
   
   <ClanChief14>
     <!-- EN: clan chief -->
-    <title>หัวหน้าเผ่า</title>
+    <title>หัวหน้าตระกูล</title>
     <!-- EN: chief -->
     <titleShort>หัวหน้า</titleShort>
     <!-- EN: {PAWN_nameDef} managed a small criminal clan on an outlying trade hub world. -->
-    <desc>TODO</desc>
+    <desc>{PAWN_nameDef} เป็นผู้จัดการตระกูลอาชญกรรมเล็กๆแห่งหนึ่งบนโลกศูนย์กลางการค้าที่อยู่ห่างไกล</desc>
   </ClanChief14>
   
   <ClassClown96>
     <!-- EN: class clown -->
-    <title>คลาสตัวตลก</title>
+    <title>ตัวตลกในชั้นเรียน</title>
     <!-- EN: clowny kid -->
     <titleShort>เด็กตัวตลก</titleShort>
     <!-- EN: In the ultra-competitive environs of {PAWN_possessive} glitterworld school, {PAWN_nameDef} always offered to play the class clown to diffuse tension.\n\n{PAWN_pronoun} developed a sense of social desperation from this, as well as an appreciation for the artistic side of comedy. -->
@@ -1303,25 +1303,25 @@
   
   <CloneFarmed21>
     <!-- EN: clone-farmed -->
-    <title>โคลนฟาร์ม</title>
+    <title>โคลนที่ถูกฟาร์ม</title>
     <!-- EN: disposable -->
-    <titleShort>แบบใช้แล้วทิ้ง</titleShort>
+    <titleShort>ใช้แล้วทิ้ง</titleShort>
     <!-- EN: Clone children are seeded into nutrient-rich womb-vats and rapidly grown in a simmed universe. They're harvested later, sometimes for food, sometimes for organs, sometimes for workers - but they're always disposable. -->
-    <desc>TODO</desc>
+    <desc>เด็กโคลนถูกเพาะเข้าไปในมดลูกที่อุดมด้วยสารอาหารและเติบโตอย่างรวดเร็วในจักรวาลซิมเมด พวกเขาจะถูกเก็บเกี่ยวทีหลัง บางครั้งในฐานะอาหาร, บางครั้งในฐานะอวัยวะ, บางครั้งในฐานะคนงาน - แต่พวกเขามักจะถูกใช้แล้วทิ้งเป็นประจำ</desc>
   </CloneFarmed21>
   
   <CloneFarmer58>
     <!-- EN: clone farmer -->
-    <title>โคลนฟาร์ม</title>
+    <title>นักทำฟาร์มโคลน</title>
     <!-- EN: cloner -->
-    <titleShort>โคลนนิ่ง</titleShort>
+    <titleShort>นักโคลน</titleShort>
     <!-- EN: Harvesting the products of clone farms is mostly done by the clones themselves - particularly to those whose sims tended towards the social. This clone was one such, who escaped from the farms and headed out to the stars. -->
     <desc>TODO</desc>
   </CloneFarmer58>
   
   <ColiseumCleaner54>
     <!-- EN: coliseum cleaner -->
-    <title>น้ำยาทำความสะอาดโคลีเซียม</title>
+    <title>คนทำความสะอาดโคลิเซียม</title>
     <!-- EN: cleaner -->
     <titleShort>คนทำความสะอาด</titleShort>
     <!-- EN: During the 'Inner Destrian War' fallout, {PAWN_possessive} parents were captured and {PAWN_pronoun} was born into a life of slavery. Forced to clean coliseums after bloody battles for money. Watching, waiting, and learning. Coliseums were the only thing {PAWN_pronoun} ever knew. One night while cleaning the coliseum, {PAWN_possessive} family was murdered. -->
@@ -1330,7 +1330,7 @@
   
   <ColiseumFighter22>
     <!-- EN: coliseum fighter -->
-    <title>นักสู้โคลีเซียม</title>
+    <title>นักสู้โคลิเซียม</title>
     <!-- EN: fighter -->
     <titleShort>นักสู้</titleShort>
     <!-- EN: Applying the knowledge that {PAWN_pronoun} gained from years around fighters, {PAWN_pronoun} became a successful gladiator in the coliseum that {PAWN_pronoun} once cleaned. -->
@@ -1341,7 +1341,7 @@
     <!-- EN: colonial governor -->
     <title>ผู้ว่าการอาณานิคม</title>
     <!-- EN: governor -->
-    <titleShort>ผู้ว่าราชการจังหวัด</titleShort>
+    <titleShort>ผู้ว่าการ</titleShort>
     <!-- EN: Disillusioned by rampant government corruption, {PAWN_nameDef} ran for governor and won. However, the local gangs and their pet officials soon forced {PAWN_objective} out of power.\n\n{PAWN_pronoun} left the community to return to {PAWN_possessive} life as a marshal. -->
     <desc>TODO</desc>
   </ColonialGovernor78>
@@ -1375,25 +1375,25 @@
   
   <ColonySettler53>
     <!-- EN: colony settler -->
-    <title>ผู้ตั้งถิ่นฐานในอาณานิคม</title>
+    <title>ผู้ตั้งถิ่นฐานอาณานิคม</title>
     <!-- EN: settler -->
     <titleShort>ผู้ตั้งถิ่นฐาน</titleShort>
     <!-- EN: {PAWN_nameDef} was a settler on a new colony world.\n\nSuch a life requires a jack-of-all trades at basic hands-on tasks. -->
-    <desc>TODO</desc>
+    <desc>{PAWN_nameDef} เคยเป็นผูู้ตั้งถิ่นฐานบนโลกนิคมแห่งใหม่\n\nชีวิตดังกล่าวต้องการความสามารถหลากหลายในการทำงานขั้นพื้นฐาน</desc>
   </ColonySettler53>
   
   <ComaChild57>
     <!-- EN: coma child -->
-    <title>เด็กอาการโคม่า</title>
+    <title>เด็กโคม่า</title>
     <!-- EN: coma child -->
-    <titleShort>เด็กอาการโคม่า</titleShort>
+    <titleShort>เด็กโคม่า</titleShort>
     <!-- EN: A childhood accident put {PAWN_nameDef} into a coma. {PAWN_pronoun} didn’t wake up until {PAWN_pronoun} was in {PAWN_possessive} late teens. {PAWN_possessive} body never recovered from the years of inactivity, but people tend to take pity on {PAWN_objective} when they hear {PAWN_possessive} story. -->
     <desc>TODO</desc>
   </ComaChild57>
   
   <CombatEngineer30>
     <!-- EN: combat engineer -->
-    <title>วิศวกรการต่อสู้</title>
+    <title>วิศวกรสนาม</title>
     <!-- EN: engineer -->
     <titleShort>วิศวกร</titleShort>
     <!-- EN: {PAWN_nameDef} was recruited by the military as an engineer and set to work improving the navy's space shuttles. The harsh training taught {PAWN_objective} how to build and repair military vehicles and structures.\n\nOne mission left {PAWN_nameDef} with pyrophobia and a strong desire to avoid plants. -->
@@ -1402,7 +1402,7 @@
   
   <CombatEngineer4>
     <!-- EN: combat engineer -->
-    <title>วิศวกรการต่อสู้</title>
+    <title>วิศวกรสนาม</title>
     <!-- EN: engineer -->
     <titleShort>วิศวกร</titleShort>
     <!-- EN: {PAWN_nameDef} became a combat engineer. {PAWN_pronoun} built bases, fixed guns, and repaired vehicles for the army - when {PAWN_pronoun} wasn't shooting at people, that is. -->
@@ -1411,7 +1411,7 @@
   
   <CombatMedic82>
     <!-- EN: combat medic -->
-    <title>แพทย์ต่อสู้</title>
+    <title>แพทย์สนาม</title>
     <!-- EN: medic -->
     <titleShort>แพทย์</titleShort>
     <!-- EN: After {PAWN_possessive} home country entered a large-scale war, {PAWN_nameDef} was drafted into the army as a combat medic.\n\n{PAWN_possessive} few years in the trenches trying to keep {PAWN_possessive} fellow soldiers alive gave {PAWN_objective} an acute sense for first aid. Losing many friend has made {PAWN_objective} stoic and reserved. -->
@@ -1420,7 +1420,7 @@
   
   <CombatMedtech59>
     <!-- EN: combat medtech -->
-    <title>การต่อสู้ medtech</title>
+    <title>ช่างแพทย์สนาม</title>
     <!-- EN: medic -->
     <titleShort>แพทย์</titleShort>
     <!-- EN: As a military medtech, {PAWN_nameDef}'s job was to fix and build anything {PAWN_pronoun} could get {PAWN_possessive} hands on, from living people to machines and mechs.\n\nSent into dangerous areas, {PAWN_pronoun} never had a problem saving soldiers' lives and building the technology and machines needed to win. -->
@@ -1429,7 +1429,7 @@
   
   <CombatNegotiator31>
     <!-- EN: combat negotiator -->
-    <title>นักเจรจาต่อรอง</title>
+    <title>นักเจรจาสนาม</title>
     <!-- EN: negotiator -->
     <titleShort>นักเจรจา</titleShort>
     <!-- EN: After escaping {PAWN_possessive} homeworld, {PAWN_nameDef} took {PAWN_possessive} skills to the stars.\n\n{PAWN_pronoun} chose to operate as a hired gun, working for various rebel organizations, enslaved groups, and merchant enclaves. {PAWN_possessive} specialty was negotiation in combat situations. -->
@@ -1438,18 +1438,18 @@
   
   <CommonerHeir5>
     <!-- EN: Commoner heir -->
-    <title>ทายาทสามัญชน</title>
+    <title>ผู้สืบทอดสามัญชน</title>
     <!-- EN: Heir -->
-    <titleShort>ทายาท</titleShort>
+    <titleShort>ผู้สืบทอด</titleShort>
     <!-- EN: {PAWN_nameDef} was a street urchin on a feudal steamworld.\n\n        After {PAWN_pronoun} tried to steal food from the palace, the emperor, desperate to secure an heir, took {PAWN_objective} in and groomed {PAWN_objective} to be next in line for the throne. -->
-    <desc>TODO</desc>
+    <desc>{PAWN_nameDef} เคยเป็นเด็กซนข้างถนนบนสตีมเวิร์ลที่มีระบบศักดินา\n\n        หลังจาก{PAWN_pronoun}ได้พยายามขโมยอาหารจากขบวนเสด็จ, จักรพรรดิ, ผู้หมดหวังกับการมีผู้สืบทอด, จึงนำ{PAWN_objective}ไปและดูแล{PAWN_objective}อย่างดีเพื่อให้ไปเป็นคนถัดไปที่จะได้นั่งบนบัลลังก์</desc>
   </CommonerHeir5>
   
   <CommonerLord45>
     <!-- EN: Commoner lord -->
-    <title>สามัญชน</title>
+    <title>ลอร์ดสามัญชน</title>
     <!-- EN: Lord -->
-    <titleShort>พระเจ้า</titleShort>
+    <titleShort>ลอร์ด</titleShort>
     <!-- EN: After years of training in martial arts and diplomacy, {PAWN_nameDef} was eventually given land and subjects of {PAWN_possessive} own to rule.\n\n        Because of {PAWN_nameDef}'s commoner heritage, the other lords disapproved. They framed {PAWN_objective} for a heinous crime, and the emperor had no choice but to exile {PAWN_objective}. -->
     <desc>TODO</desc>
   </CommonerLord45>
@@ -1467,7 +1467,7 @@
     <!-- EN: computer engineer -->
     <title>วิศวกรคอมพิวเตอร์</title>
     <!-- EN: tech head -->
-    <titleShort>หัวหน้าฝ่ายเทคโนโลยี</titleShort>
+    <titleShort>หัวหน้าช่าง</titleShort>
     <!-- EN: Bored of {PAWN_possessive} code-monkey office job and missing the glory days of the Academy, {PAWN_nameDef} saw a commercial about the frontier where "only the strong survive".\n\nWith {PAWN_possessive} wife Morgan, {PAWN_nameDef} undertook a journey into the unknown. -->
     <desc>TODO</desc>
   </ComputerEngineer10>
@@ -1483,9 +1483,9 @@
   
   <ComputerGeek62>
     <!-- EN: computer geek -->
-    <title>คอมพิวเตอร์เกินบรรยาย</title>
+    <title>กี๊กคอมพิวเตอร์</title>
     <!-- EN: geek -->
-    <titleShort>เกินบรรยาย</titleShort>
+    <titleShort>กี๊ก</titleShort>
     <!-- EN: {PAWN_nameDef} spent most of {PAWN_possessive} childhood on {PAWN_possessive} computer, typing away, never knowing when to get up and eat.\n\n{PAWN_pronoun} had a very narrow interest: hacking cryptosleep safety protocols. -->
     <desc>TODO</desc>
   </ComputerGeek62>
@@ -1501,7 +1501,7 @@
   
   <ConceptualArtist39>
     <!-- EN: conceptual artist -->
-    <title>ศิลปินแนวความคิด</title>
+    <title>ศิลปินเชิงแนวคิด</title>
     <!-- EN: artist -->
     <titleShort>ศิลปิน</titleShort>
     <!-- EN: {PAWN_nameDef} was well-known in art circles on {PAWN_possessive} home world for {PAWN_possessive} unique and creative conceptual artworks.\n\nNobody was sure exactly what {PAWN_pronoun} was trying to communicate, but {PAWN_possessive} pieces were highly valued by collectors. -->
@@ -1519,7 +1519,7 @@
   
   <ConstructionGrunt84>
     <!-- EN: construction grunt -->
-    <title>คำรามการก่อสร้าง</title>
+    <title>คนงานก่อสร้าง</title>
     <!-- EN: builder -->
     <titleShort>ช่างก่อสร้าง</titleShort>
     <!-- EN: Growing up in {PAWN_possessive} father's lab, {PAWN_nameDef} was given the life of an intellectual elite. {PAWN_pronoun} got everything {PAWN_pronoun} desired, and price was never an object.\n\nHowever {PAWN_nameDef} did not partake in the luxury given to him. Instead, {PAWN_pronoun} pursued more physical, and - in {PAWN_possessive} father's eyes - lower-class jobs. -->
@@ -1528,34 +1528,34 @@
   
   <ContractMiner86>
     <!-- EN: contract miner -->
-    <title>สัญญาของคนงานเหมือง</title>
+    <title>นักขุดสัญญาจ้าง</title>
     <!-- EN: contract miner -->
-    <titleShort>สัญญาของคนงานเหมือง</titleShort>
+    <titleShort>นักขุดสัญญาจ้าง</titleShort>
     <!-- EN: {PAWN_nameDef} moved from job to job, extracting minerals and ancient valuables in tunnels and strip-mines. The work was tough and dirty, but {PAWN_pronoun} found it rewarding. -->
-    <desc>TODO</desc>
+    <desc>{PAWN_nameDef} ย้ายจากงานไปอีกงาน, สกัดแร่ธาตุและของมีค่าโบราณในอุโมงค์และเหมืองเปิด งานที่ทำนั้นลำบากและสกปรก, แต่{PAWN_pronoun}ก็พบว่ามันคุ้มค่า</desc>
   </ContractMiner86>
   
   <ConventChild16>
     <!-- EN: convent child -->
     <title>เด็กคอนแวนต์</title>
     <!-- EN: illicit -->
-    <titleShort>ผิดกฎหมาย</titleShort>
+    <titleShort>ต้องห้าม</titleShort>
     <!-- EN: The child of an illicit affair, {PAWN_nameDef} was bought up by nuns in a medieval convent. {PAWN_pronoun} learned the value of hard work and submission, but was taught that technology is heretical. -->
     <desc>TODO</desc>
   </ConventChild16>
   
   <CoreDilettante33>
     <!-- EN: core dilettante -->
-    <title>สมัครเล่นหลัก</title>
+    <title>มือสมัครเล่นแห่งคอร์</title>
     <!-- EN: dilettante -->
-    <titleShort>นักสมัครเล่น</titleShort>
+    <titleShort>มือสมัครเล่น</titleShort>
     <!-- EN: {PAWN_nameDef} spent {PAWN_possessive} formative years on a glitterworld in the core region, where {PAWN_pronoun} and {PAWN_possessive} friends pursued lives of idle pleasure.\n\nAs {PAWN_pronoun} grew up, {PAWN_pronoun} began to find the life of ease unfulfilling. {PAWN_pronoun} decided to look for a more challenging path. -->
     <desc>TODO</desc>
   </CoreDilettante33>
   
   <CoreworldJeweler19>
     <!-- EN: coreworld jeweler -->
-    <title>อัญมณีคอร์เวิร์ล</title>
+    <title>ช่างอัญมณีแห่งคอร์เวิร์ล</title>
     <!-- EN: jeweler -->
     <titleShort>ช่างอัญมณี</titleShort>
     <!-- EN: After {PAWN_nameDef} had completed all of {PAWN_possessive} surgeries, {PAWN_pronoun} found that {PAWN_pronoun} had a lot of time and energy to dedicate to {PAWN_possessive} passion: trinket crafting. {PAWN_pronoun} spent years perfecting {PAWN_possessive} art as a jeweler, then left {PAWN_possessive} home world to sell {PAWN_possessive} wares across the galaxy. -->
@@ -1564,7 +1564,7 @@
   
   <CoreworldStudent50>
     <!-- EN: coreworld student -->
-    <title>นักเรียนคอร์เวิร์ล</title>
+    <title>นักเรียนแห่งคอร์เวิร์ล</title>
     <!-- EN: student -->
     <titleShort>นักเรียน</titleShort>
     <!-- EN: Born a male named Alex, {PAWN_nameDef} didn't fit in well with the other boys. When very young, {PAWN_pronoun} preferred creative pursuits, such as crafting jewelry, over sports. {PAWN_pronoun} felt {PAWN_pronoun} had the wrong body. Luckily, {PAWN_possessive} family and friends supported {PAWN_possessive} sex reassignment; as a teen, {PAWN_pronoun} underwent surgery to become a female. -->
@@ -1573,7 +1573,7 @@
   
   <CorpBredStudent54>
     <!-- EN: corp-bred student -->
-    <title>นักเรียนสายพันธ์</title>
+    <title>นักเรียนที่ถูกเพาะโดยบริษัท</title>
     <!-- EN: student -->
     <titleShort>นักเรียน</titleShort>
     <!-- EN: {PAWN_nameDef} was bred to become an executive for the space exploration corporation that owned {PAWN_possessive} home planet. {PAWN_possessive} family had been working for that corporation for four generations.\n\nAt age five, {PAWN_pronoun} enrolled at the corporate academy where {PAWN_pronoun} learned loyalty and ruthlessness. {PAWN_nameDef} excelled in finding diplomatic solutions where others would need violence. -->
@@ -1582,7 +1582,7 @@
   
   <CorporateBuilder58>
     <!-- EN: corporate builder -->
-    <title>ผู้สร้างองค์กร</title>
+    <title>ช่างก่อสร้างประจำบริษัท</title>
     <!-- EN: builder -->
     <titleShort>ช่างก่อสร้าง</titleShort>
     <!-- EN: Even as {PAWN_pronoun} stewed in {PAWN_possessive} own wasted potential, {PAWN_nameDef} found {PAWN_pronoun} had a knack for moving objects quickly. It was just what the planetary mega-corps wanted in their construction divisions.\n\nUnfortunately, the monotonous work erased {PAWN_possessive} remaining creative impulses. -->
@@ -1591,7 +1591,7 @@
   
   <CorporateDrone10>
     <!-- EN: corporate drone -->
-    <title>โดรนของบริษัท</title>
+    <title>โดรนประจำบริษัท</title>
     <!-- EN: drone -->
     <titleShort>โดรน</titleShort>
     <!-- EN: {PAWN_nameDef} worked in a very large office complex along with thousands of other suited drones.\n\nThe work itself consisted of endless organizational drudgery and pointless meetings, punctuated by the occasional performance review. -->
@@ -1600,16 +1600,16 @@
   
   <CorporateFixer36>
     <!-- EN: corporate fixer -->
-    <title>ผู้ให้บริการองค์กร</title>
+    <title>ช่างซ่อมประจำบริษัท</title>
     <!-- EN: fixer -->
-    <titleShort>ผู้ให้บริการ</titleShort>
+    <titleShort>ช่างซ่อม</titleShort>
     <!-- EN: {PAWN_nameDef} was a fixer for an energy corporation. {PAWN_pronoun} work required knowing when to push, when to pull, when to back down and when to strike. The job fit {PAWN_possessive} natural lack of empathy.\n\nWhile violence was unusual, {PAWN_nameDef} stayed prepared for anything. -->
     <desc>TODO</desc>
   </CorporateFixer36>
   
   <CorporateManager76>
     <!-- EN: corporate manager -->
-    <title>ผู้จัดการองค์กร</title>
+    <title>ผู้จัดการบริษัท</title>
     <!-- EN: manager -->
     <titleShort>ผู้จัดการ</titleShort>
     <!-- EN: {PAWN_nameDef} worked in a massive open-plan office, ensuring that {PAWN_possessive} assigned team of workers stayed mostly on-task.\n\nThe job was intensely political. In order to advance, {PAWN_nameDef} learned how to arrange things so {PAWN_pronoun} could take credit for work done by almost anyone. -->
@@ -1618,7 +1618,7 @@
   
   <CorporateSlave22>
     <!-- EN: corporate slave -->
-    <title>ทาสองค์กร</title>
+    <title>ทาสบริษัท</title>
     <!-- EN: soldier -->
     <titleShort>ทหาร</titleShort>
     <!-- EN: {PAWN_nameDef} grew up in a colony owned by a large glitterworld corporation. All children had virtual reality devices attached by force, and were raised in a brutal digital world.\n\nConstantly forced to fight others for the entertainment of the wealthy, gunplay and tactics became the center of {PAWN_nameDef}'s universe. -->
@@ -1627,7 +1627,7 @@
   
   <CorpResearcher71>
     <!-- EN: corp researcher -->
-    <title>นักวิจัยองค์กร</title>
+    <title>นักวิจัยประจำบริษัท</title>
     <!-- EN: researcher -->
     <titleShort>นักวิจัย</titleShort>
     <!-- EN: {PAWN_nameDef} was sold to a corporation and put to work as a corporate slave doing scientific research.\n\nUnable to adapt to the social politics of {PAWN_possessive} workplace, {PAWN_pronoun} buried {PAWN_objective}self in {PAWN_possessive} work and failed to progress up the corporate ladder. Every day, {PAWN_pronoun} yearned to be left alone. -->
@@ -1636,7 +1636,7 @@
   
   <CorpResearcher93>
     <!-- EN: corp researcher -->
-    <title>นักวิจัยองค์กร</title>
+    <title>นักวิจัยประจำบริษัท</title>
     <!-- EN: researcher -->
     <titleShort>นักวิจัย</titleShort>
     <!-- EN: {PAWN_nameDef} was a leading researcher for a massive space exploration corporation. -->
@@ -1645,7 +1645,7 @@
   
   <CorpStudent95>
     <!-- EN: corp student -->
-    <title>นักเรียนคอร์ป</title>
+    <title>นักเรียนประจำบริษัท</title>
     <!-- EN: student -->
     <titleShort>นักเรียน</titleShort>
     <!-- EN: De Dion was bred to become an executive officer for the large space trading corporation that owned {PAWN_possessive} home planet. {PAWN_possessive} family had been working for that corporation for seven generations.\n\nAt age six, {PAWN_pronoun} started to study at the corporate academy, where {PAWN_pronoun} became a loyal follower and a ruthless executive. -->
@@ -1654,7 +1654,7 @@
   
   <CosmeticReject64>
     <!-- EN: cosmetic reject -->
-    <title>ปฏิเสธเครื่องสำอาง</title>
+    <title>ปฏิเสธความงาม</title>
     <!-- EN: reject -->
     <titleShort>ปฏิเสธ</titleShort>
     <!-- EN: Living on the streets, {PAWN_nameDef} submitted {PAWN_objective}self to an unethical cosmetics lab in exchange for food and shelter.\n\nAfter some painful cosmetic modification, {PAWN_nameDef} barely resembles {PAWN_possessive} former self. Having been forced to work for the lab until {PAWN_pronoun} was rescued, {PAWN_nameDef} is now too afraid to lash out at anyone. -->
@@ -1663,7 +1663,7 @@
   
   <CosmeticSurgeon36>
     <!-- EN: cosmetic surgeon -->
-    <title>ศัลยแพทย์ตกแต่ง</title>
+    <title>ศัลยแพทย์ความงาม</title>
     <!-- EN: surgeon -->
     <titleShort>ศัลยแพทย์</titleShort>
     <!-- EN: {PAWN_nameDef} had a terrible bedside manner due to {PAWN_possessive} abrasiveness. {PAWN_pronoun} often bullied {PAWN_possessive} patients into getting cosmetic surgery. {PAWN_pronoun} made a lot of money this way.\n\nWhile very studious and careful in {PAWN_possessive} work, {PAWN_pronoun} never had to lift a finger doing domestic chores. -->
@@ -1672,9 +1672,9 @@
   
   <CostumeCrafter41>
     <!-- EN: costume crafter -->
-    <title>ช่างแต่งเครื่องแต่งกาย</title>
+    <title>นักสร้างเครื่องแต่งกาย</title>
     <!-- EN: costumer -->
-    <titleShort>ลูกค้า</titleShort>
+    <titleShort>นักแต่งกาย</titleShort>
     <!-- EN: By day, {PAWN_nameDef} was an office worker on a midworld. At night, {PAWN_pronoun} designed and built elaborate monster costumes for science fiction conventions.\n\n{PAWN_pronoun} learned a great deal about sewing. Unfortunately this came at the cost of being able to cook anything more complex than an instant meal. -->
     <desc>TODO</desc>
   </CostumeCrafter41>
@@ -1690,9 +1690,9 @@
   
   <CountryChild95>
     <!-- EN: country child -->
-    <title>เด็กบ้านนอก</title>
+    <title>เด็กชนบท</title>
     <!-- EN: hick kid -->
-    <titleShort>ฮิกเด็ก</titleShort>
+    <titleShort>เด็กบ้านนอก</titleShort>
     <!-- EN: {PAWN_nameDef} was raised up to fear God and love {PAWN_possessive} country. {PAWN_pronoun} was a genuine backwoods kid. {PAWN_pronoun} always worked hard to earn respect rather than demanding it. -->
     <desc>TODO</desc>
   </CountryChild95>
@@ -1714,7 +1714,7 @@
     <!-- EN: cow farmer -->
     <title>คนเลี้ยงวัว</title>
     <!-- EN: farmer -->
-    <titleShort>ชาวนา</titleShort>
+    <titleShort>ชาวไร่</titleShort>
     <!-- EN: {PAWN_nameDef} grew up on a rimworld, under the tyranny of {PAWN_possessive} father, who forced {PAWN_objective} to work every day on the farm. {PAWN_pronoun} dreamed of escaping {PAWN_possessive} father and exploring the universe.\n\nOne day, when the trade ship was overhead, {PAWN_pronoun} stowed away among the goods in the launch pods, and escaped into space. -->
     <desc>TODO</desc>
   </CowFarmer39>
@@ -1775,9 +1775,9 @@
   
   <CropFarmer17>
     <!-- EN: crop farmer -->
-    <title>ชาวนา crop</title>
+    <title>ชาวนา</title>
     <!-- EN: farmer -->
-    <titleShort>ชาวนา</titleShort>
+    <titleShort>ชาวไร่</titleShort>
     <!-- EN: {PAWN_nameDef} ran a crop farm. {PAWN_pronoun} analyzed soil, agricultural equipment, weather patterns, and price trends to optimize the planting and harvesting of massive crop fields. -->
     <desc>TODO</desc>
   </CropFarmer17>
@@ -1982,9 +1982,9 @@
   
   <DisciplinedFarmer28>
     <!-- EN: disciplined farmer -->
-    <title>ชาวนามีวินัย</title>
+    <title>ชาวไร่เจ้าระเบียบ</title>
     <!-- EN: farmer -->
-    <titleShort>ชาวนา</titleShort>
+    <titleShort>ชาวไร่</titleShort>
     <!-- EN: {PAWN_nameDef} was the younger of two sons on the family farm, a frontier plot that struggled to turn a profit. {PAWN_nameDef}'s father was a strict disciplinarian, constantly at {PAWN_possessive} sons to work harder and keep quiet. {PAWN_nameDef} burnt {PAWN_possessive} hand making breakfast once and swore to cook only when {PAWN_possessive} life was in danger. -->
     <desc>TODO</desc>
   </DisciplinedFarmer28>
@@ -2324,27 +2324,27 @@
   
   <FarmerBoy88>
     <!-- EN: farmer boy -->
-    <title>เด็กชายชาวนา</title>
+    <title>เด็กชายชาวไร่</title>
     <!-- EN: farmer -->
-    <titleShort>ชาวนา</titleShort>
+    <titleShort>ชาวไร่</titleShort>
     <!-- EN: {PAWN_nameDef}'s parents died in a fire when {PAWN_pronoun} was seven. {PAWN_pronoun} grew up on {PAWN_possessive} uncle's farm, plowing fields and doing manual labor.\n\n{PAWN_pronoun} could not bear answering questions about {PAWN_possessive} parents, so {PAWN_pronoun} replaced social contact with hard work. -->
     <desc>TODO</desc>
   </FarmerBoy88>
   
   <FarmersDaughter81>
     <!-- EN: farmer's daughter -->
-    <title>ลูกสาวชาวนา</title>
+    <title>ลูกสาวชาวไร่</title>
     <!-- EN: farm girl -->
-    <titleShort>สาวฟาร์ม</titleShort>
+    <titleShort>สาวชาวไร่</titleShort>
     <!-- EN: {PAWN_nameDef} grew up on {PAWN_possessive} parents' vineyard. {PAWN_pronoun} spent {PAWN_possessive} youth exploring the land and making friends with various bugs and insects.\n\nHaving heard stories about all the fascinating things out there in the universe, {PAWN_pronoun} always dreamed of venturing out to see it for {PAWN_objective}self. -->
     <desc>TODO</desc>
   </FarmersDaughter81>
   
   <FarmersSon20>
     <!-- EN: farmer's son -->
-    <title>ลูกชาวนา</title>
+    <title>ลูกชายชาวไร่</title>
     <!-- EN: farmer -->
-    <titleShort>ชาวนา</titleShort>
+    <titleShort>ชาวไร่</titleShort>
     <!-- EN: {PAWN_nameDef} spent much of {PAWN_possessive} childhood learning biome farming. In {PAWN_possessive} biome they kept animals to investigate which would cope best in the alien environment.\n\nDue to this, the travel restrictions and oxygen rationing system, {PAWN_pronoun} rarely got to meet anyone from outside {PAWN_possessive} family. -->
     <desc>TODO</desc>
   </FarmersSon20>
@@ -3497,9 +3497,9 @@
   
   <LivestockFarmer8>
     <!-- EN: livestock farmer -->
-    <title>เกษตรกรผู้เลี้ยงปศุสัตว์</title>
+    <title>เกษตรกรปศุสัตว์</title>
     <!-- EN: farmer -->
-    <titleShort>ชาวนา</titleShort>
+    <titleShort>ชาวไร่</titleShort>
     <!-- EN: {PAWN_nameDef} ran a livestock farm. {PAWN_pronoun} analyzed animal genetics, feed types, birth and slaughter methods, and price trends to optimize the raising of huge animal herds. -->
     <desc>TODO</desc>
   </LivestockFarmer8>
@@ -3510,7 +3510,7 @@
     <!-- EN: logger -->
     <titleShort>คนตัดไม้</titleShort>
     <!-- EN: {PAWN_nameDef} chopped trees and hauled their lumber back to the tribe. {PAWN_pronoun} wielded {PAWN_possessive} axe with the finesse of an artist and the force of a charging muffalo. -->
-    <desc>{PAWN_nameDef} ตัดตนไม้แล้วขนไม้เหล่านั้นกลับสู่เผ่า {PAWN_pronoun}กัดแกว่งขวาน{PAWN_possessive}ด้วยความปราณีตของศิลปินและแรงแห่งการพุ่งเข้าใส่ของมัฟฟาโล</desc>
+    <desc>{PAWN_nameDef} ตัดตนไม้แล้วขนไม้เหล่านั้นกลับสู่เผ่า {PAWN_pronoun}กัดแกว่งขวาน{PAWN_possessive}ด้วยความปราณีตของศิลปินและแรงแห่งการพุ่งของมัฟฟาโล</desc>
   </Logger16>
   
   <Logger95>
@@ -3533,9 +3533,9 @@
   
   <Loner61>
     <!-- EN: loner -->
-    <title>ผู้อยู่สันโดษ</title>
+    <title>เดียวดาย</title>
     <!-- EN: loner -->
-    <titleShort>ผู้อยู่สันโดษ</titleShort>
+    <titleShort>เดียวดาย</titleShort>
     <!-- EN: {PAWN_nameDef} never much liked the tribal council or the yearly festivals. {PAWN_pronoun} preferred the open plain and the whistle of wind through the rocks.\n\n{PAWN_pronoun} visited {PAWN_possessive} tribe from time to time, but mostly took care of {PAWN_objective}self using {PAWN_possessive} own survival skills. -->
     <desc>TODO</desc>
   </Loner61>
@@ -3551,16 +3551,16 @@
   
   <LoreKeeper51>
     <!-- EN: lore keeper -->
-    <title>ผู้รักษาตำนาน</title>
+    <title>ผู้บันทกตำนาน</title>
     <!-- EN: keeper -->
-    <titleShort>ผู้รักษาประตู</titleShort>
+    <titleShort>ผู้บันทึก</titleShort>
     <!-- EN: {PAWN_nameDef} was one of a long line of lore keepers in {PAWN_possessive} tribe. Every night around the fire, {PAWN_pronoun} would pass on ancient knowledge and helpful wisdom through stories. -->
     <desc>TODO</desc>
   </LoreKeeper51>
   
   <LostMarine81>
     <!-- EN: lost marine -->
-    <title>หายไปทางทะเล</title>
+    <title>นาวิกโยธินที่สาบญ</title>
     <!-- EN: traitor -->
     <titleShort>คนทรยศ</titleShort>
     <!-- EN: Shortly after being promoted to a respected position in {PAWN_possessive} planet's military, {PAWN_nameDef} disappeared without a trace.\n\nLater, {PAWN_pronoun} reappeared at the head of {PAWN_possessive} own military force. No one knows why {PAWN_pronoun} became who {PAWN_pronoun} was. -->
@@ -3569,9 +3569,9 @@
   
   <LostSoldier13>
     <!-- EN: lost soldier -->
-    <title>ทหารหาย</title>
+    <title>ทหารที่สาบสูญ</title>
     <!-- EN: lost -->
-    <titleShort>คนสูญหาย</titleShort>
+    <titleShort>คนหาย</titleShort>
     <!-- EN: {PAWN_nameDef}'s childhood soldier conditioning failed, and the experiment was shut down. {PAWN_pronoun} was abandoned, purposeless, friendless.\n\n{PAWN_nameDef} eventually found solace in physically demanding work. {PAWN_pronoun} especially liked building houses and crafting heavy armor. -->
     <desc>TODO</desc>
   </LostSoldier13>
@@ -3596,7 +3596,7 @@
   
   <MachineCollector55>
     <!-- EN: machine collector -->
-    <title>นักสะสมเครื่อง</title>
+    <title>นักสะสมเครื่องจักร</title>
     <!-- EN: collector -->
     <titleShort>นักสะสม</titleShort>
     <!-- EN: {PAWN_nameDef} was obsessed with old machines and arcane pieces of technology. {PAWN_pronoun} obtained them wherever {PAWN_pronoun} could, and loved taking them apart to see how they worked.\n\n{PAWN_pronoun} had a habit of talking about {PAWN_possessive} collection long after people around {PAWN_objective} had stopped listening. -->
@@ -3605,7 +3605,7 @@
   
   <MachineFixer31>
     <!-- EN: machine fixer -->
-    <title>ช่างซ่อมเครื่อง</title>
+    <title>ช่างซ่อมเครื่องจักร</title>
     <!-- EN: fixer -->
     <titleShort>ช่างซ่อม</titleShort>
     <!-- EN: {PAWN_nameDef} was adept at dealing with mechanical problems, as long as the problem didn't involve the kitchen.\n\nAfter a life spent around dangerous machinery and flammable chemicals, {PAWN_pronoun} learned how to patch {PAWN_objective}self up pretty well. Despite the pain, {PAWN_pronoun} never learned to dislike fire. -->

@@ -163,7 +163,7 @@
   <LastEventsInLife>เหตการณ์สุดท้ายในชีวิตของ{PAWN_definite}</LastEventsInLife>
 
   <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration! -->
-  <LetterInspirationBeginThanksToHighMoodPart>ต้องขอบคุณอารมณ์ที่ทำให้ [PAWN_nameIndef] กลายเป็นแรงบันดาลใจ!</LetterInspirationBeginThanksToHighMoodPart>
+  <LetterInspirationBeginThanksToHighMoodPart>ต้องขอบคุณอารมณ์ขั้นสูง [PAWN_nameIndef] ได้เกิดแรงบันดาลใจ!</LetterInspirationBeginThanksToHighMoodPart>
 
   <!-- Related pawns -->
   <!-- EN: Relationship -->
@@ -503,7 +503,7 @@
   <LetterLabelPawnsKidnapped>{PAWN_nameDef} โดนลักพาตัวไป</LetterLabelPawnsKidnapped>
   <!-- EN: {PAWN_nameDef} has been kidnapped by {FACTION_name}!
 \nHowever, {PAWN_pronoun} is not lost forever. An opportunity to rescue {PAWN_objective} may present itself in the coming days or years. -->
-  <LetterPawnsKidnapped>{PAWN_nameDef} ถูกลักพาตัวไปโดยฝ่าย {FACTION_name}!\nอย่างไรก็ตาม เรายังไม่เสีย{PAWN_pronoun}ไปซะทีเดียว โอกาศที่จะได้ช่วยเหลือ{PAWN_objective}อาจปรากฏขึ้นในวันหรือปีที่จะมาถึง</LetterPawnsKidnapped>
+  <LetterPawnsKidnapped>{PAWN_nameDef} ถูกลักพาตัวไปโดยฝ่าย {FACTION_name}!\nอย่างไรก็ตาม เรายังไม่เสีย{PAWN_pronoun}ไปซะทีเดียว โอกาสที่จะได้ช่วยเหลือ{PAWN_objective}อาจปรากฏขึ้นในวันหรือปีที่จะมาถึง</LetterPawnsKidnapped>
   
   <!-- Techprints -->
   <!-- EN: Techprint applied: {PROJECT_label} -->
