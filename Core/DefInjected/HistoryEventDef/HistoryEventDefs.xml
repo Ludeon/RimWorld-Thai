@@ -13,8 +13,14 @@
   <!-- EN: ate human meat -->
   <AteHumanMeat.label>กินเนื้อคน</AteHumanMeat.label>
   
+  <!-- EN: joiner refused -->
+  <CharityRefused_ThreatReward_Joiner.label>TODO</CharityRefused_ThreatReward_Joiner.label>
+  
   <!-- EN: cut tree -->
   <CutTree.label>ตัดต้นไม้</CutTree.label>
+  
+  <!-- EN: destroyed natural wall -->
+  <DestroyedMineable.label>TODO</DestroyedMineable.label>
   
   <!-- EN: used drug -->
   <IngestedDrug.label>TODO</IngestedDrug.label>
@@ -30,6 +36,9 @@
   
   <!-- EN: mined -->
   <Mined.label>ขุด</Mined.label>
+  
+  <!-- EN: tree died -->
+  <MinifiedTreeDied.label>TODO</MinifiedTreeDied.label>
   
   <!-- EN: researching -->
   <Researching.label>ค้นคว้า</Researching.label>

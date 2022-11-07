@@ -43,6 +43,9 @@
   <!-- EN: Offsets when equipped -->
   <EquippedStatOffsets.label>หักล้างเมื่อสวมใส่</EquippedStatOffsets.label>
   
+  <!-- EN: Genetics -->
+  <Genetics.label>TODO</Genetics.label>
+  
   <!-- EN: Implant -->
   <Implant.label>ปลูกฝัง</Implant.label>
   
@@ -61,6 +64,9 @@
   <!-- EN: Work -->
   <PawnWork.label>ทำงาน</PawnWork.label>
   
+  <!-- EN: content source -->
+  <Source.label>TODO</Source.label>
+  
   <!-- EN: Multipliers when equipment made of this -->
   <StuffOfEquipmentStatFactors.label>ทวีคูณเมื่อนำไปใช้สร้างอุปกรณ์</StuffOfEquipmentStatFactors.label>
   
@@ -78,5 +84,11 @@
   
   <!-- EN: Weapon -->
   <Weapon.label>อาวุธ</Weapon.label>
+  
+  <!-- EN: Weapon (melee) -->
+  <Weapon_Melee.label>TODO</Weapon_Melee.label>
+  
+  <!-- EN: Weapon (ranged) -->
+  <Weapon_Ranged.label>TODO</Weapon_Ranged.label>
   
 </LanguageData>

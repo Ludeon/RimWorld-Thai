@@ -1,15 +1,29 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- Audiovisuals -->
   <!-- EN: Audiovisuals -->
   <Audiovisuals>ภาพและเสียง</Audiovisuals>
+  <!-- EN: Master volume -->
+  <MasterVolume>TODO</MasterVolume>
   <!-- EN: Game volume -->
   <GameVolume>เสียงเกม</GameVolume>
   <!-- EN: Music volume -->
   <MusicVolume>เสียงเพลง</MusicVolume>
-  <!-- EN: Ambient volume -->
+  <!-- EN: Ambience volume -->
   <AmbientVolume>เสียงสภาพแวดล้อม</AmbientVolume>
+  <!-- EN: UI volume -->
+  <UIVolume>TODO</UIVolume>
+  <!-- EN: Affects all sounds. -->
+  <MasterVolumeTooltip>TODO</MasterVolumeTooltip>
+  <!-- EN: Affects all in world sounds, e.g. chopping trees, building walls. -->
+  <GameVolumeTooltip>TODO</GameVolumeTooltip>
+  <!-- EN: Affects music. -->
+  <MusicVolumeTooltip>TODO</MusicVolumeTooltip>
+  <!-- EN: Affects all ambient sounds, e.g. wind, insects. -->
+  <AmbientVolumeTooltip>TODO</AmbientVolumeTooltip>
+  <!-- EN: Affects all interface sounds, e.g. button clicks, messages. -->
+  <UIVolumeTooltip>TODO</UIVolumeTooltip>
   <!-- EN: Anti-aliasing -->
   <Antialiasing>ลบลายหยัก</Antialiasing>
 
@@ -20,22 +34,28 @@
   <PauseOnLoad>หยุดเกมทันทีหลังโหลดเสร็จ</PauseOnLoad>
   <!-- EN: Pause on urgent letter -->
   <PauseOnUrgentLetter>หยุดเกมเมื่อมีจดหมายฉุกเฉิน</PauseOnUrgentLetter>
-  <!-- EN: Pause on -->
+  <!-- EN: Pause on letter -->
   <AutomaticPauseModeSetting>หยุดเกมเมื่อ</AutomaticPauseModeSetting>
-  <!-- EN: Custom cursor -->
+  <!-- EN: Disable game-specific cursor -->
   <CustomCursor>ใช้เคอเซอร์ปรับแต่ง</CustomCursor>
-  <!-- EN: Hats shown only on game map -->
+  <!-- EN: Hide hats on UI -->
   <HatsShownOnlyOnMap>แสดงหมวกเฉพาะบนแผนที่</HatsShownOnlyOnMap>
   <!-- EN: UI scale -->
   <UIScale>ขนาด UI</UIScale>
   <!-- EN: Keyboard configuration -->
   <KeyboardConfig>ตั้งค่าคีย์บอร์ด</KeyboardConfig>
+  <!-- EN: Controller configuration -->
+  <ControllerConfig>TODO</ControllerConfig>
+  <!-- EN: Modify -->
+  <ModifyConfig>TODO</ModifyConfig>
   <!-- EN: Choose language -->
   <ChooseLanguage>เลือกภาษา</ChooseLanguage>
   <!-- EN: Reset learning helper -->
   <ResetAdaptiveTutor>รีเซ็ตตัวช่วยฝึกหัด</ResetAdaptiveTutor>
   <!-- EN: Tutor is reset. You will be now be re-taught all lessons from scratch. -->
   <AdaptiveTutorIsReset>ตัวช่วยฝึกหัดถูกรีเซ็ตแล้ว คุณจะโดนสอนบทเรียนทั้งหมดใหม่ตั้งแต่แรกเริ่ม</AdaptiveTutorIsReset>
+  <!-- EN: Keyboard mode -->
+  <SteamDeckKeyboardMode>TODO</SteamDeckKeyboardMode>
   <!-- EN: Run in background -->
   <RunInBackground>รันเกมในเบื้องหลัง</RunInBackground>
   <!-- EN: Development mode -->
@@ -46,18 +66,26 @@
   <SimulateNotOwningRoyalty>จำลองไม่ได้เป็นเจ้าของ Royalty</SimulateNotOwningRoyalty>
   <!-- EN: Simulate not owning Ideology -->
   <SimulateNotOwningIdeology>จำลองไม่ได้เป็นเจ้าของ Ideology</SimulateNotOwningIdeology>
+  <!-- EN: Simulate not owning Biotech -->
+  <SimulateNotOwningBiotech>TODO</SimulateNotOwningBiotech>
   <!-- EN: Verbose logging -->
   <LogVerbose>การบันทึกอย่างละเอียด</LogVerbose>
-  <!-- EN: Open save data folder -->
-  <OpenSaveGameDataFolder>เปิดโฟลเดอร์ข้อมูลเซฟเกม</OpenSaveGameDataFolder>
-  <!-- EN: Show save data location -->
-  <ShowSaveGameDataLocation>แสดงตำแหน่งข้อมูลเซฟเกม</ShowSaveGameDataLocation>
-  <!-- EN: Open log file folder -->
-  <OpenLogFileFolder>เปิดโฟล์เดอร์ไฟล์ log</OpenLogFileFolder>
-  <!-- EN: Show log file location -->
-  <ShowLogFileLocation>แสดงตำแหน่งไฟล์ log</ShowLogFileLocation>
-  <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
+  <!-- EN: Save data folder -->
+  <SaveGameDataFolder>TODO</SaveGameDataFolder>
+  <!-- EN: Save data location -->
+  <SaveGameDataLocation>TODO</SaveGameDataLocation>
+  <!-- EN: Log file folder -->
+  <LogFileFolder>TODO</LogFileFolder>
+  <!-- EN: Log file location -->
+  <LogFileLocation>TODO</LogFileLocation>
+  <!-- EN: Open -->
+  <OpenFolder>TODO</OpenFolder>
+  <!-- EN: Show -->
+  <ShowFolder>TODO</ShowFolder>
+  <!-- EN: Preferred "Name in Game" characters -->
   <NamesYouWantToSee>ตัวละครที่ผู้เล่นสร้างตามความพอใจ\nระหว่างเล่นตัวละครเหล่านี้มีโอกาสมาก\nที่จะถูกสุ่มออกมา:</NamesYouWantToSee>
+  <!-- EN: These characters will be more likely to appear randomly during play. -->
+  <NamesYouWantToSeeSubText>TODO</NamesYouWantToSeeSubText>
   <!-- EN: Add name -->
   <AddName>เพื่มชื่อ</AddName>
   <!-- EN: Type the first name, nickname, or last name. -->
@@ -68,10 +96,14 @@
   <ChangeStoryteller>ตั้งค่าผู้ดำเนินเรื่องราว</ChangeStoryteller>
   <!-- EN: Autosave interval -->
   <AutosaveInterval>เซฟเกมอัตโนมัติทุกๆ</AutosaveInterval>
-  <!-- EN: Temperature mode -->
+  <!-- EN: The number of in game days between each auto save. -->
+  <AutosaveIntervalTooltip>TODO</AutosaveIntervalTooltip>
+  <!-- EN: Temperature unit -->
   <TemperatureMode>โหมดอุณหภูมิ</TemperatureMode>
   <!-- EN: Show realtime clock -->
   <ShowRealtimeClock>แสดงนาฬิกาบอกเวลาจริง</ShowRealtimeClock>
+  <!-- EN: Disable tiny font -->
+  <DisableTinyText>TODO</DisableTinyText>
   <!-- EN: Maximum number of colonies: {0} -->
   <MaxNumberOfPlayerSettlements>จำนวนสูงสุดของอาณานิคม: {0}</MaxNumberOfPlayerSettlements>
   <!-- EN: Map mouse drag sensitivity -->
@@ -86,12 +118,24 @@
   <ModSettings>ตั้งค่าม็อด</ModSettings>
   <!-- EN: Permanently disable development mode -->
   <PermanentlyDisableDevMode>ปิด 'โหมดพัฒนา' ไปอย่างถาวร</PermanentlyDisableDevMode>
+  <!-- EN: Texture compression -->
+  <TextureCompression>TODO</TextureCompression>
+  <!-- EN: Turning off texture compression will use much more video memory, but makes textures look slightly better in detailed areas. Only turn this off if you know you have lots of extra video memory.\n\nNote that using certain mods will often consume much more video memory, so you may need to turn this on if you add certain mods. -->
+  <TextureCompression_Tooltip>TODO</TextureCompression_Tooltip>
+  <!-- EN: Smooth camera jumps -->
+  <SmoothCameraJumps>TODO</SmoothCameraJumps>
+  <!-- EN: When enabled, the camera will quickly pan when focusing on a new location. When disabled, the camera will jump instantly. -->
+  <SmoothCameraJumpsDesc>TODO</SmoothCameraJumpsDesc>
 
   <!-- Resolution -->
   <!-- EN: Resolution -->
   <Resolution>ความละเอียด</Resolution>
   <!-- EN: Fullscreen -->
   <Fullscreen>เต็มจอ</Fullscreen>
+  <!-- EN: Borderless fullscreen -->
+  <BorderlessFullscreen>TODO</BorderlessFullscreen>
+  <!-- EN: To run RimWorld in borderless fullscreen mode:\n\n1) Open Steam\n2) Go to the "Library" tab at the top\n3) Find RimWorld on the list and right-click it\n4) Choose "Properties..."\n5) Add "-popupwindow" without quotes to "Launch options" in the "General" tab\n6) Restart game\n7) If done correctly, you won't see this window\n\nHint: Use Windows Key + Shift + Left/Right to move the window between your monitors. -->
+  <BorderlessFullscreenInstructions>TODO</BorderlessFullscreenInstructions>
 
   <!-- Mods -->
   <!-- EN: Select mod... -->
@@ -100,15 +144,25 @@
   <NoConfigurableMods>ไม่ได้โหลดม็อดใดๆที่สามารถตั้งค่าได้</NoConfigurableMods>
   
   <!-- Options reset -->
-  <!-- EN: Restore to default settings -->
+  <!-- EN: Restore all settings to default -->
+  <RestoreToDefaultSettingsLabel>TODO</RestoreToDefaultSettingsLabel>
+  <!-- EN: Restore defaults -->
   <RestoreToDefaultSettings>ฟื้นฟูกลับเป็นค่าเริ่มต้น</RestoreToDefaultSettings>
-  <!-- EN: Your options have been reset. The game will now restart automatically. -->
+  <!-- EN: All settings have been reset. The game will now restart automatically. -->
   <ResetAndRestart>ตัวเลือกทั้งหมดของคุณถูกรีเซ็ต เกมจะรีสตาร์ทโดยอัตโนมัติ</ResetAndRestart>
-  <!-- EN: All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue? -->
+  <!-- EN: All settings will be reset to the default and the game will be restarted. Unsaved progress will be lost,\n\nContinue? -->
   <ResetAndRestartConfirmationDialog>เซ็ตติ้งทั้งหมดของคุณจะถูกรีเซ็คกลับไปเป็นค่าเริ่มต้นและเกมจะรีสตาร์ท ความคืบหน้าใดๆที่ไม่ได้เซฟจะหายไป!\n\nดำเนินการต่อ?</ResetAndRestartConfirmationDialog>
+  <!-- EN: Changing texture compression settings requires a restart. Unsaved progress will be lost.\n\nContinue? -->
+  <ChangedTextureCompressionRestart>TODO</ChangedTextureCompressionRestart>
   
   <!-- Background image -->
   <!-- EN: Menu background -->
   <SetBackgroundImage>พื้นหลังเมนู</SetBackgroundImage>
+
+  <!-- UNUSED -->
+  <OpenSaveGameDataFolder>เปิดโฟลเดอร์ข้อมูลเซฟเกม</OpenSaveGameDataFolder>
+  <ShowSaveGameDataLocation>แสดงตำแหน่งข้อมูลเซฟเกม</ShowSaveGameDataLocation>
+  <OpenLogFileFolder>เปิดโฟล์เดอร์ไฟล์ log</OpenLogFileFolder>
+  <ShowLogFileLocation>แสดงตำแหน่งไฟล์ log</ShowLogFileLocation>
 
 </LanguageData>

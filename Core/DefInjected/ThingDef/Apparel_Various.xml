@@ -58,7 +58,7 @@
   
   <!-- EN: marine armor -->
   <Apparel_PowerArmor.label>เกราะมารีน</Apparel_PowerArmor.label>
-  <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines. -->
+  <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by rapid-incursion space marines. -->
   <Apparel_PowerArmor.description>ชุดเกราะพลังงานน้ำหนักเบา เย็บไว้เป็นชั้นๆด้วยแผ่นเกราะพลาสตีลถัก มีประสิทธิผลมากมากใช้หยุดการโจมตี มีจุดอ่อนเล็กน้อยช่วงข้อต่อเท่านั้น และด้วย Neuro-memetic เป็นผู้ช่วย ทำให้มนุษย์สามารถใส่เกราะแล้วยังเคลื่อนไหวได้สะดวก\n\nเกราะแบบนี้พบเห็นใช้บ่อยในหน่วยเจนิสซารีย์แห่งจักรวรรดิ และหน่วยนาวิกฯจู่โจมฉับพลัน</Apparel_PowerArmor.description>
   
   <!-- EN: tribalwear -->

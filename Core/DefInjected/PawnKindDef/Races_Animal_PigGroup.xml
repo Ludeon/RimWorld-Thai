@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: chinchilla -->
-  <Chinchilla.label>หนูชินชิลล่า</Chinchilla.label>
+  <Chinchilla.label>ชินชิลล่า</Chinchilla.label>
   
   <!-- EN: deer -->
   <Deer.label>กวาง</Deer.label>
   <!-- EN: doe -->
-  <Deer.labelFemale>กวางตัวเมีย</Deer.labelFemale>
+  <Deer.labelFemale>กวางต้วเมีย</Deer.labelFemale>
   <!-- EN: buck -->
-  <Deer.labelMale>กวางตัวผู้</Deer.labelMale>
+  <Deer.labelMale>กวางต้วผู้</Deer.labelMale>
   <!-- EN: deer -->
   <Deer.labelPlural>กวาง</Deer.labelPlural>
   
@@ -19,9 +19,9 @@
   <!-- EN: ibex -->
   <Ibex.label>แพะภูเขา</Ibex.label>
   <!-- EN: ibex doe -->
-  <Ibex.labelFemale>แพะภูเขาตัวเมีย</Ibex.labelFemale>
+  <Ibex.labelFemale>แพะภูเขา</Ibex.labelFemale>
   <!-- EN: ibex ram -->
-  <Ibex.labelMale>แพะภูเขาตัวผู้</Ibex.labelMale>
+  <Ibex.labelMale>แพะภูเขา</Ibex.labelMale>
   <!-- EN: ibexes -->
   <Ibex.labelPlural>แพะภูเขา</Ibex.labelPlural>
   

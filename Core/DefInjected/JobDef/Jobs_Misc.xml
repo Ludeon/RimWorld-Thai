@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: activating TargetA. -->
+  <ActivateThing.reportString>TODO</ActivateThing.reportString>
+  
   <!-- EN: applying TargetB. -->
   <ApplyTechprint.reportString>ใช้งานพิมพ์เทคกับ TargetB</ApplyTechprint.reportString>
   
@@ -12,6 +15,9 @@
   
   <!-- EN: beating fire out. -->
   <BeatFire.reportString>กำลังตีไฟให้ดับ</BeatFire.reportString>
+  
+  <!-- EN: Doing something. -->
+  <Carried.reportString>TODO</Carried.reportString>
   
   <!-- EN: Doing something. -->
   <CastAbilityOnThing.reportString>ทำอะไรบางอย่าง</CastAbilityOnThing.reportString>
@@ -33,6 +39,9 @@
   
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>กำลังกวาดหิมะ</ClearSnow.reportString>
+  
+  <!-- EN: delivering TargetA. -->
+  <DeliverToBed.reportString>TODO</DeliverToBed.reportString>
   
   <!-- EN: delivering TargetA. -->
   <DeliverToCell.reportString>ส่งมอบ TargetA</DeliverToCell.reportString>
@@ -97,6 +106,9 @@
   <!-- EN: hauling TargetA. -->
   <HaulToTransporter.reportString>ลากกำลังขน TargetA</HaulToTransporter.reportString>
   
+  <!-- EN: idling. -->
+  <IdleWhileDespawned.reportString>TODO</IdleWhileDespawned.reportString>
+  
   <!-- EN: igniting TargetA. -->
   <Ignite.reportString>กำลังจุดไฟ TargetA.</Ignite.reportString>
   
@@ -129,6 +141,9 @@
   
   <!-- EN: opening TargetA. -->
   <Open.reportString>กำลังเปิด TargetA</Open.reportString>
+  
+  <!-- EN: picking up TargetA. -->
+  <PickupToHold.reportString>TODO</PickupToHold.reportString>
   
   <!-- EN: rearming TargetA. -->
   <RearmTurret.reportString>กำลังตั้ง TargetA ใหม่</RearmTurret.reportString>
@@ -163,14 +178,17 @@
   <!-- EN: taking TargetA to inventory. -->
   <TakeCountToInventory.reportString>กำลังไปหยิบ TargetA</TakeCountToInventory.reportString>
   
+  <!-- EN: grabbing TargetA from TargetB. -->
+  <TakeFromOtherInventory.reportString>TODO</TakeFromOtherInventory.reportString>
+  
   <!-- EN: taking TargetA to inventory. -->
   <TakeInventory.reportString>กำลังไปหยิบ TargetA</TakeInventory.reportString>
   
   <!-- EN: trading with TargetA. -->
   <TradeWithPawn.reportString>กำลังซื้อขายแลกเปลื่ยนกับ TargetA.</TradeWithPawn.reportString>
   
-  <!-- EN: triggering firefoam popper. -->
-  <TriggerFirefoamPopper.reportString>ไปกระตุ้นให้เครื่องดับเพลิงอัตโนมัติทำงาน</TriggerFirefoamPopper.reportString>
+  <!-- EN: triggering TargetA. -->
+  <TriggerObject.reportString>ไปกระตุ้นให้เครื่องดับเพลิงอัตโนมัติทำงาน</TriggerObject.reportString>
   
   <!-- EN: unloading TargetA. -->
   <UnloadInventory.reportString>นำของออกจาก TargetA</UnloadInventory.reportString>
@@ -198,6 +216,9 @@
   
   <!-- EN: standing. -->
   <Wait.reportString>กำลังยืนรอ</Wait.reportString>
+  
+  <!-- EN: sleeping. -->
+  <Wait_Asleep.reportString>TODO</Wait_Asleep.reportString>
   
   <!-- EN: watching for targets. -->
   <Wait_Combat.reportString>กำลังรอเป้าหมาย</Wait_Combat.reportString>

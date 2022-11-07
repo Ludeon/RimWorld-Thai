@@ -48,9 +48,8 @@
   <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
   <RandomDrop.textWillArrive>{0_pawnsPluralDef} จะมาถึงในกระสวยขนส่ง</RandomDrop.textWillArrive>
   
-  <!-- EN: A group of {0} from {1} have arrived in a shuttle. -->
+  <!-- UNUSED -->
   <Shuttle.textEnemy>กลุ่มของ {0} จาก {1} ได้มาถึงในกระสวยขนส่ง</Shuttle.textEnemy>
-  <!-- EN: A friendly group of {0} from {1} have arrived in a shuttle. -->
   <Shuttle.textFriendly>กลุ่มที่เป็นมิตรของ {0} จาก {1} ได้มาถึงในกระสวยขนส่ง</Shuttle.textFriendly>
   
 </LanguageData>

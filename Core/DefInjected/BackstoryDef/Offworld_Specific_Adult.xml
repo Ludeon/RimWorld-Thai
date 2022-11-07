@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was the only survivor of a ship crash on an unhabited animal world. For many years until [PAWN_possessive] rescue [PAWN_pronoun] scrounged an existence out of whatever [PAWN_pronoun] could find.\n\n[PAWN_possessive] survival skills became razor-sharp, but spending so long alone severely dampened [PAWN_possessive] conversatial abilities. -->
+  <Castaway57.baseDesc>TODO</Castaway57.baseDesc>
+  <!-- EN: ถูกทิ้ง -->
+  <Castaway57.title>ถูกทิ้ง</Castaway57.title>
+  <!-- EN: ถูกทิ้ง -->
+  <Castaway57.titleShort>ถูกทิ้ง</Castaway57.titleShort>
+  
+  <!-- EN: Among tunnel-dwellers, those with vision as strong as [PAWN_nameDef]'s are revered as sages. [PAWN_pronoun] would lead the way, marking spots to dig with bioluminescent fungus and warning others of impending danger. -->
+  <CaveworldIlluminator95.baseDesc>TODO</CaveworldIlluminator95.baseDesc>
+  <!-- EN: ไฟประดับโลกถ้ำ -->
+  <CaveworldIlluminator95.title>ไฟประดับโลกถ้ำ</CaveworldIlluminator95.title>
+  <!-- EN: ไฟส่องสว่าง -->
+  <CaveworldIlluminator95.titleShort>ไฟส่องสว่าง</CaveworldIlluminator95.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a settler on a new colony world.\n\nSuch a life requires a jack-of-all trades at basic hands-on tasks. -->
+  <ColonySettler53.baseDesc>TODO</ColonySettler53.baseDesc>
+  <!-- EN: ผู้ตั้งถิ่นฐานในอาณานิคม -->
+  <ColonySettler53.title>ผู้ตั้งถิ่นฐานในอาณานิคม</ColonySettler53.title>
+  <!-- EN: ผู้ตั้งถิ่นฐาน -->
+  <ColonySettler53.titleShort>ผู้ตั้งถิ่นฐาน</ColonySettler53.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] did the sweaty, grimy work of pulling metal out of asteroids on a deep space rig. [PAWN_pronoun] used [PAWN_possessive] hands-on industrial skills daily - and wasn't bad in a bar fight either. -->
+  <DeepSpaceMiner3.baseDesc>TODO</DeepSpaceMiner3.baseDesc>
+  <!-- EN: คนงานเหมืองห้วงอวกาศ -->
+  <DeepSpaceMiner3.title>คนงานเหมืองห้วงอวกาศ</DeepSpaceMiner3.title>
+  <!-- EN: คนขุดแร่ -->
+  <DeepSpaceMiner3.titleShort>คนขุดแร่</DeepSpaceMiner3.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] did menial, unskilled work in an industrial factory. [PAWN_possessive] job also included caring for the mules and horses which transported the goods. -->
+  <FactoryWorker58.baseDesc>TODO</FactoryWorker58.baseDesc>
+  <!-- EN: คนงานโรงงาน -->
+  <FactoryWorker58.title>คนงานโรงงาน</FactoryWorker58.title>
+  <!-- EN: คนงาน -->
+  <FactoryWorker58.titleShort>คนงาน</FactoryWorker58.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] turned out to have an excellent memory and a gift for performing complex calculations in [PAWN_possessive] head. An industrial-world dictator decided to employ [PAWN_nameDef] to keep track of [PAWN_possessive] state's finances and expenditure. -->
+  <HumanComputer83.baseDesc>TODO</HumanComputer83.baseDesc>
+  <!-- EN: คอมพิวเตอร์ของมนุษย์ -->
+  <HumanComputer83.title>คอมพิวเตอร์ของมนุษย์</HumanComputer83.title>
+  <!-- EN: คอมพิวเตอร์ -->
+  <HumanComputer83.titleShort>คอมพิวเตอร์</HumanComputer83.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked in an urbworld lab developing cutting-edge joywire software to maximize user pleasure.\n\nWhen the local government imposed harsh restrictions on joywire manufacturing, [PAWN_pronoun] began selling [PAWN_possessive] products on the black market. -->
+  <JoywireArtist8.baseDesc>TODO</JoywireArtist8.baseDesc>
+  <!-- EN: ศิลปิน Joywire -->
+  <JoywireArtist8.title>ศิลปิน Joywire</JoywireArtist8.title>
+  <!-- EN: joywirer -->
+  <JoywireArtist8.titleShort>TODO</JoywireArtist8.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a high-ranking member of an urbworld crime syndicate.\n\n[PAWN_pronoun] bribed officials, maintained the loyalty of [PAWN_possessive] subordinates, and extracted overdue payments - by any means necessary. -->
+  <MafiaBoss17.baseDesc>TODO</MafiaBoss17.baseDesc>
+  <!-- EN: หัวหน้ามาเฟีย -->
+  <MafiaBoss17.title>หัวหน้ามาเฟีย</MafiaBoss17.title>
+  <!-- EN: หัวหน้า -->
+  <MafiaBoss17.titleShort>หัวหน้า</MafiaBoss17.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] adult life in an insane asylum. [PAWN_possessive] industrial homeworld had a poor understanding of mental illness, and [PAWN_pronoun] was treated more like an animal than a person.\n\nThough [PAWN_pronoun] eventually recovered and was released, [PAWN_possessive] experience dampened many of [PAWN_possessive] basic life skills. -->
+  <PsychiatricPatient94.baseDesc>TODO</PsychiatricPatient94.baseDesc>
+  <!-- EN: ผู้ป่วยจิตเวช -->
+  <PsychiatricPatient94.title>ผู้ป่วยจิตเวช</PsychiatricPatient94.title>
+  <!-- EN: ผู้ป่วย -->
+  <PsychiatricPatient94.titleShort>ผู้ป่วย</PsychiatricPatient94.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was the law enforcer in an isolated industrial town. [PAWN_pronoun] dealt with petty crime, dispute resolution, and the occasional drunken saloon shootout. -->
+  <Sheriff52.baseDesc>TODO</Sheriff52.baseDesc>
+  <!-- EN: นายอำเภอ -->
+  <Sheriff52.title>นายอำเภอ</Sheriff52.title>
+  <!-- EN: นายอำเภอ -->
+  <Sheriff52.titleShort>นายอำเภอ</Sheriff52.titleShort>
+  
+  <!-- EN: นักวางกลยุทธ์ -->
+  <SpaceTactician28.baseDesc>นักวางกลยุทธ์</SpaceTactician28.baseDesc>
+  <!-- EN: นักยุทธวิธีอวกาศ -->
+  <SpaceTactician28.title>นักยุทธวิธีอวกาศ</SpaceTactician28.title>
+  <!-- EN: tactician -->
+  <SpaceTactician28.titleShort>TODO</SpaceTactician28.titleShort>
+  
+  <!-- EN: While other passengers pass the years between star systems in cryptosleep sarcophagi, [PAWN_nameDef] had to wake up at periodic intervals to perform inspections, check the navigation systems, and to oil the mechanoids. -->
+  <StarshipJanitor33.baseDesc>TODO</StarshipJanitor33.baseDesc>
+  <!-- EN: ภารโรงเอ็นเตอร์ไพรส์ -->
+  <StarshipJanitor33.title>ภารโรงเอ็นเตอร์ไพรส์</StarshipJanitor33.title>
+  <!-- EN: ภารโรง -->
+  <StarshipJanitor33.titleShort>ภารโรง</StarshipJanitor33.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] travelled between star systems, studying and classifying the plant and animal life [PAWN_pronoun] found in the hopes of creating a complete catalogue. -->
+  <Taxonomist0.baseDesc>TODO</Taxonomist0.baseDesc>
+  <!-- EN: นักอนุกรมวิธาน -->
+  <Taxonomist0.title>นักอนุกรมวิธาน</Taxonomist0.title>
+  <!-- EN: นักอนุกรมวิธาน -->
+  <Taxonomist0.titleShort>นักอนุกรมวิธาน</Taxonomist0.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked as a mindless construction drone on a massive urbworld. Though [PAWN_pronoun] is now freed from the brutal social experiments to which [PAWN_pronoun] was subjected, [PAWN_pronoun] remains incapable of creative thought and leadership. -->
+  <UrbworldDrone32.baseDesc>TODO</UrbworldDrone32.baseDesc>
+  <!-- EN: โดรน urbworld -->
+  <UrbworldDrone32.title>โดรน urbworld</UrbworldDrone32.title>
+  <!-- EN: โดรน -->
+  <UrbworldDrone32.titleShort>โดรน</UrbworldDrone32.titleShort>
+  
+  <!-- EN: In the urbworlds, most suffer. But someone has to run the corporations.\n\n[PAWN_nameDef] learned the skills of the trade - greasing palms and technical analysis. [PAWN_pronoun] is a sociointellectual machine. -->
+  <UrbworldEntrepreneur14.baseDesc>TODO</UrbworldEntrepreneur14.baseDesc>
+  <!-- EN: ผู้ประกอบการ urbworld -->
+  <UrbworldEntrepreneur14.title>ผู้ประกอบการ urbworld</UrbworldEntrepreneur14.title>
+  <!-- EN: ผู้ประกอบการ -->
+  <UrbworldEntrepreneur14.titleShort>ผู้ประกอบการ</UrbworldEntrepreneur14.titleShort>
+  
+  <!-- EN: Most of the people on [PAWN_nameDef]'s world gave up their individuality to join together in an online hivemind. [PAWN_nameDef] joined a rebel faction that rejected technology entirely. -->
+  <UrbworldRebel56.baseDesc>TODO</UrbworldRebel56.baseDesc>
+  <!-- EN: กบฏ urbworld -->
+  <UrbworldRebel56.title>กบฏ urbworld</UrbworldRebel56.title>
+  <!-- EN: กบฏ -->
+  <UrbworldRebel56.titleShort>กบฏ</UrbworldRebel56.titleShort>
+  
+</LanguageData>

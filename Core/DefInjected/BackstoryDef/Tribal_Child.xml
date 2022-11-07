@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was born sickly. Thinking that [PAWN_pronoun] would only burden the tribe, [PAWN_possessive] parents exposed [PAWN_objective] to the elements. Somehow, [PAWN_pronoun] survived. -->
+  <AbandonedChild23.baseDesc>TODO</AbandonedChild23.baseDesc>
+  <!-- EN: เด็กที่ถูกทอดทิ้ง -->
+  <AbandonedChild23.title>เด็กที่ถูกทอดทิ้ง</AbandonedChild23.title>
+  <!-- EN: ถูกทอดทิ้ง -->
+  <AbandonedChild23.titleShort>ถูกทอดทิ้ง</AbandonedChild23.titleShort>
+  
+  <!-- EN: Rather than socialize with the other children, [PAWN_nameDef] preferred to get lost in literature. [PAWN_pronoun] taught [PAWN_objective]self to read at an early age with books bought from passing traders. -->
+  <Bookworm19.baseDesc>TODO</Bookworm19.baseDesc>
+  <!-- EN: หนอนหนังสือ -->
+  <Bookworm19.title>หนอนหนังสือ</Bookworm19.title>
+  <!-- EN: หนอนหนังสือ -->
+  <Bookworm19.titleShort>หนอนหนังสือ</Bookworm19.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] had a knack for art. Traders and collectors from many different societies sought to buy [PAWN_possessive] creations. -->
+  <BuddingArtist44.baseDesc>TODO</BuddingArtist44.baseDesc>
+  <!-- EN: ศิลปินรุ่นใหม่ -->
+  <BuddingArtist44.title>ศิลปินรุ่นใหม่</BuddingArtist44.title>
+  <!-- EN: ศิลปิน -->
+  <BuddingArtist44.titleShort>ศิลปิน</BuddingArtist44.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] tormented other children for fun. To keep [PAWN_objective] busy, an elder assigned [PAWN_objective] to a hunting party at an early age. -->
+  <Bully70.baseDesc>TODO</Bully70.baseDesc>
+  <!-- EN: ข่มเหงรังแก -->
+  <Bully70.title>ข่มเหงรังแก</Bully70.title>
+  <!-- EN: ข่มเหงรังแก -->
+  <Bully70.titleShort>ข่มเหงรังแก</Bully70.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a large and intricate cave complex that extended deep into a mountainside. [PAWN_pronoun] helped the adults maintain and improve the deep caves. -->
+  <CaveChild30.baseDesc>TODO</CaveChild30.baseDesc>
+  <!-- EN: เด็กถ้ำ -->
+  <CaveChild30.title>เด็กถ้ำ</CaveChild30.title>
+  <!-- EN: เด็กถ้ำ -->
+  <CaveChild30.titleShort>เด็กถ้ำ</CaveChild30.titleShort>
+  
+  <!-- EN: As a baby, [PAWN_nameDef] was the only survivor of a deadly spacecraft crash. A passing tribe discovered [PAWN_objective] in the wreckage and adopted [PAWN_objective]. -->
+  <CrashBaby32.baseDesc>TODO</CrashBaby32.baseDesc>
+  <!-- EN: ทารกผิดพลาด -->
+  <CrashBaby32.title>ทารกผิดพลาด</CrashBaby32.title>
+  <!-- EN: ทารกผิดพลาด -->
+  <CrashBaby32.titleShort>ทารกผิดพลาด</CrashBaby32.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was responsible for keeping the tribe's fire going. [PAWN_pronoun] took this responsibility very seriously. -->
+  <FireKeeper44.baseDesc>TODO</FireKeeper44.baseDesc>
+  <!-- EN: เจ้าหน้าที่ดับเพลิง -->
+  <FireKeeper44.title>เจ้าหน้าที่ดับเพลิง</FireKeeper44.title>
+  <!-- EN: พนักงานดับเพลิง -->
+  <FireKeeper44.titleShort>พนักงานดับเพลิง</FireKeeper44.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] tended the muffalo herds, keeping them safe from predators and treating sick animals. It was quiet work, but [PAWN_pronoun] enjoyed being away from people. -->
+  <Herder19.baseDesc>TODO</Herder19.baseDesc>
+  <!-- EN: คนเลี้ยงสัตว์ -->
+  <Herder19.title>คนเลี้ยงสัตว์</Herder19.title>
+  <!-- EN: คนเลี้ยงสัตว์ -->
+  <Herder19.titleShort>คนเลี้ยงสัตว์</Herder19.titleShort>
+  
+  <!-- EN: [PAWN_nameDef]'s overprotective parents encouraged [PAWN_objective] to stay at home nearly every day. Though [PAWN_pronoun] had a lot of time to read and pursue crafting hobbies, [PAWN_pronoun] never developed normal social skills. -->
+  <Hideaway7.baseDesc>TODO</Hideaway7.baseDesc>
+  <!-- EN: ที่หลบภัย -->
+  <Hideaway7.title>ที่หลบภัย</Hideaway7.title>
+  <!-- EN: ที่หลบภัย -->
+  <Hideaway7.titleShort>ที่หลบภัย</Hideaway7.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] didn't learn to speak until [PAWN_pronoun] was nearly five years old. Even then [PAWN_pronoun] preferred to keep to [PAWN_objective]self.\n\nTo the chagrin of [PAWN_possessive] caretakers, [PAWN_pronoun] made a habit of wandering off to live in the wilderness for weeks at a time. -->
+  <ReclusiveChild81.baseDesc>TODO</ReclusiveChild81.baseDesc>
+  <!-- EN: เด็กสันโดษ -->
+  <ReclusiveChild81.title>เด็กสันโดษ</ReclusiveChild81.title>
+  <!-- EN: สันโดษ -->
+  <ReclusiveChild81.titleShort>สันโดษ</ReclusiveChild81.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood escaping grunt work to go digging through wrecks and ruins for treasures. [PAWN_possessive] natural curiosity got [PAWN_objective] into a lot of trouble, but it also yielded many interesting finds. -->
+  <Scavenger22.baseDesc>TODO</Scavenger22.baseDesc>
+  <!-- EN: คนเก็บขยะ -->
+  <Scavenger22.title>คนเก็บขยะ</Scavenger22.title>
+  <!-- EN: คนเก็บขยะ -->
+  <Scavenger22.titleShort>คนเก็บขยะ</Scavenger22.titleShort>
+  
+  <!-- EN: [PAWN_nameDef]'s entire tribe was wiped out in a raid. Though [PAWN_pronoun] was adopted by another group, [PAWN_pronoun] was emotionally scarred, and preferred to stay near home, cooking and tending crops. -->
+  <SoleSurvivor21.baseDesc>TODO</SoleSurvivor21.baseDesc>
+  <!-- EN: ผู้รอดชีวิตเพียงคนเดียว -->
+  <SoleSurvivor21.title>ผู้รอดชีวิตเพียงคนเดียว</SoleSurvivor21.title>
+  <!-- EN: ผู้รอดชีวิต -->
+  <SoleSurvivor21.titleShort>ผู้รอดชีวิต</SoleSurvivor21.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a tribe, running around the village, moving with the muffalo herds, learning essential skills from [PAWN_possessive] parents.\n\n[PAWN_pronoun] never learned to read and never saw a machine that wasn't an ancient ruin. -->
+  <TribeChild40.baseDesc>TODO</TribeChild40.baseDesc>
+  <!-- EN: เด็กชนเผ่า -->
+  <TribeChild40.title>เด็กชนเผ่า</TribeChild40.title>
+  <!-- EN: ชนเผ่า -->
+  <TribeChild40.titleShort>ชนเผ่า</TribeChild40.titleShort>
+  
+  <!-- EN: As a child, [PAWN_nameDef] returned to [PAWN_possessive] village to find that it had been wiped out by bandits. [PAWN_pronoun] swore revenge on the attackers and began a violent rampage across the wilderness. -->
+  <VengefulChild43.baseDesc>TODO</VengefulChild43.baseDesc>
+  <!-- EN: เด็กพยาบาท -->
+  <VengefulChild43.title>เด็กพยาบาท</VengefulChild43.title>
+  <!-- EN: พยาบาท -->
+  <VengefulChild43.titleShort>พยาบาท</VengefulChild43.titleShort>
+  
+</LanguageData>

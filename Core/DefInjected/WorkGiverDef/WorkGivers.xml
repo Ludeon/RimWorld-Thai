@@ -152,7 +152,7 @@
   <DoBillsFabricationBench.label>ประดิษฐ์สิ่งของ</DoBillsFabricationBench.label>
   <!-- EN: fabricating things at -->
   <DoBillsFabricationBench.gerund>กำลังประดิษฐ์</DoBillsFabricationBench.gerund>
-  <!-- EN: fabricating things -->
+  <!-- EN: fabricate -->
   <DoBillsFabricationBench.verb>ประดิษฐ์ของ</DoBillsFabricationBench.verb>
   
   <!-- EN: do bills at campfire -->
@@ -297,9 +297,9 @@
   
   <!-- EN: execute prisoners -->
   <DoExecution.label>ประหารนักโทษ</DoExecution.label>
-  <!-- EN: doing execution on -->
+  <!-- EN: executing -->
   <DoExecution.gerund>กำลังประหาร</DoExecution.gerund>
-  <!-- EN: do execution on -->
+  <!-- EN: execute -->
   <DoExecution.verb>ประหาร</DoExecution.verb>
   
   <!-- EN: drill at deep drill -->
@@ -322,6 +322,13 @@
   <ExecuteGuiltyColonist.gerund>กำลังประหารชีวิต</ExecuteGuiltyColonist.gerund>
   <!-- EN: execute -->
   <ExecuteGuiltyColonist.verb>ประหารชีวิต</ExecuteGuiltyColonist.verb>
+  
+  <!-- EN: extract trees -->
+  <ExtractTree.label>TODO</ExtractTree.label>
+  <!-- EN: extracting -->
+  <ExtractTree.gerund>TODO</ExtractTree.gerund>
+  <!-- EN: extract -->
+  <ExtractTree.verb>TODO</ExtractTree.verb>
   
   <!-- EN: feed prisoners -->
   <FeedPrisoner.label>ให้อาหารนักโทษ</FeedPrisoner.label>
@@ -456,6 +463,20 @@
   <!-- EN: open -->
   <Open.verb>เปิด</Open.verb>
   
+  <!-- EN: paint buildings -->
+  <PaintBuilding.label>TODO</PaintBuilding.label>
+  <!-- EN: painting -->
+  <PaintBuilding.gerund>TODO</PaintBuilding.gerund>
+  <!-- EN: paint -->
+  <PaintBuilding.verb>TODO</PaintBuilding.verb>
+  
+  <!-- EN: paint floor -->
+  <PaintFloor.label>TODO</PaintFloor.label>
+  <!-- EN: painting -->
+  <PaintFloor.gerund>TODO</PaintFloor.gerund>
+  <!-- EN: paint -->
+  <PaintFloor.verb>TODO</PaintFloor.verb>
+  
   <!-- EN: go to bed for emergency treatment -->
   <PatientGoToBedEmergencyTreatment.label>ไปที่เตียงเพื่อรักษาฉุกเฉิน</PatientGoToBedEmergencyTreatment.label>
   <!-- EN: receiving treatment in -->
@@ -519,10 +540,19 @@
   <!-- EN: release -->
   <ReleaseToWild.verb>ปล่อยสู่ป่า</ReleaseToWild.verb>
   
-  <!-- UNUSED -->
-  <Reload.label>TODO</Reload.label>
-  <Reload.gerund>TODO</Reload.gerund>
-  <Reload.verb>TODO</Reload.verb>
+  <!-- EN: remove paint -->
+  <RemovePaintBuilding.label>TODO</RemovePaintBuilding.label>
+  <!-- EN: removing paint from -->
+  <RemovePaintBuilding.gerund>TODO</RemovePaintBuilding.gerund>
+  <!-- EN: remove paint -->
+  <RemovePaintBuilding.verb>TODO</RemovePaintBuilding.verb>
+  
+  <!-- EN: remove floor paint -->
+  <RemovePaintFloor.label>TODO</RemovePaintFloor.label>
+  <!-- EN: removing paint from -->
+  <RemovePaintFloor.gerund>TODO</RemovePaintFloor.gerund>
+  <!-- EN: remove paint -->
+  <RemovePaintFloor.verb>TODO</RemovePaintFloor.verb>
   
   <!-- EN: remove roofs -->
   <RemoveRoofs.label>รื้อถอนหลังคา</RemoveRoofs.label>
@@ -537,6 +567,13 @@
   <Repair.gerund>กำลังซ่อม</Repair.gerund>
   <!-- EN: repair -->
   <Repair.verb>ซ่อมแซม</Repair.verb>
+  
+  <!-- EN: replant tree -->
+  <Replant.label>TODO</Replant.label>
+  <!-- EN: replanting -->
+  <Replant.gerund>TODO</Replant.gerund>
+  <!-- EN: replant -->
+  <Replant.verb>TODO</Replant.verb>
   
   <!-- EN: do research -->
   <Research.label>ทำงานวิจัย</Research.label>

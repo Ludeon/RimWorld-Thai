@@ -25,21 +25,21 @@
     <li>bandit->Brigand</li>
   -->
   <OpportunitySite_BanditCamp.questNameRules.rulesStrings>
-     <li>questName->[camp] [bandit]</li>
-     <li>questName->[camp] [bandit]</li>
-     <li>questName->[asker_nameDef] และ [camp]</li>
-     <li>camp->ค่าย</li>
-     <li>camp->ด่านหน้า</li>
-     <li>camp->ถ้ำ</li>
-     <li>camp->แคมป์</li>
-     <li>bandit->โจร</li>
-     <li>bandit->กองโจร</li>
-     <li>bandit->คนนอกกฎหมาย</li>
-     <li>bandit->สิ้นหวัง</li>
-     <li>bandit->ผู้ลี้ภัย</li>
-     <li>bandit->ตัวกวน</li>
-     <li>bandit->โจร</li>
-     <li>bandit->โจร</li>
+    <li>questName->[camp] [bandit]</li>
+    <li>questName->[camp] [bandit]</li>
+    <li>questName->[asker_nameDef] และ [camp]</li>
+    <li>camp->ค่าย</li>
+    <li>camp->ด่านหน้า</li>
+    <li>camp->ถ้ำ</li>
+    <li>camp->แคมป์</li>
+    <li>bandit->โจร</li>
+    <li>bandit->กองโจร</li>
+    <li>bandit->คนนอกกฎหมาย</li>
+    <li>bandit->สิ้นหวัง</li>
+    <li>bandit->ผู้ลี้ภัย</li>
+    <li>bandit->ตัวกวน</li>
+    <li>bandit->โจร</li>
+    <li>bandit->โจร</li>
   </OpportunitySite_BanditCamp.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>ภารกิจหมดอายุ: [resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>

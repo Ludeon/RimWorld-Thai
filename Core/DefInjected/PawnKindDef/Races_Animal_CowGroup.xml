@@ -9,26 +9,26 @@
   <Bison.lifeStages.bison_calf.labelPlural>กระทิง</Bison.lifeStages.bison_calf.labelPlural>
   
   <!-- EN: boomalope -->
-  <Boomalope.label>บูมมาโลป</Boomalope.label>
+  <Boomalope.label>บูมมาลูบ</Boomalope.label>
   <!-- EN: boomalope calf -->
-  <Boomalope.lifeStages.boomalope_calf.label>บูมมาโลป</Boomalope.lifeStages.boomalope_calf.label>
+  <Boomalope.lifeStages.boomalope_calf.label>ลูกบูมมาลูบ</Boomalope.lifeStages.boomalope_calf.label>
   <!-- EN: boomalope calves -->
-  <Boomalope.lifeStages.boomalope_calf.labelPlural>บูมมาโลป</Boomalope.lifeStages.boomalope_calf.labelPlural>
+  <Boomalope.lifeStages.boomalope_calf.labelPlural>ลูกบูมมาลูบ</Boomalope.lifeStages.boomalope_calf.labelPlural>
   
   <!-- EN: caribou -->
-  <Caribou.label>กวางคาริบู</Caribou.label>
+  <Caribou.label>กวางแคริบู</Caribou.label>
   <!-- EN: caribou -->
-  <Caribou.labelPlural>กวางคาริบู</Caribou.labelPlural>
+  <Caribou.labelPlural>กวางแคริบู</Caribou.labelPlural>
   <!-- EN: caribou calf -->
-  <Caribou.lifeStages.caribou_calf.label>ลูกกวางคาริบู</Caribou.lifeStages.caribou_calf.label>
+  <Caribou.lifeStages.caribou_calf.label>ลูกกวางแคริบู</Caribou.lifeStages.caribou_calf.label>
   <!-- EN: caribou calves -->
-  <Caribou.lifeStages.caribou_calf.labelPlural>กวางคาริบู</Caribou.lifeStages.caribou_calf.labelPlural>
+  <Caribou.lifeStages.caribou_calf.labelPlural>ลูกกวางแคริบู</Caribou.lifeStages.caribou_calf.labelPlural>
   
   <!-- EN: cow -->
   <Cow.label>วัว</Cow.label>
-  <Cow.labelFemale>วัวตัวเมีย</Cow.labelFemale>
+  <Cow.labelFemale>วัว</Cow.labelFemale>
   <!-- EN: bull -->
-  <Cow.labelMale>วัวตัวผู้</Cow.labelMale>
+  <Cow.labelMale>โค</Cow.labelMale>
   <!-- EN: calf -->
   <Cow.lifeStages.calf.label>ลูกวัว</Cow.lifeStages.calf.label>
   <!-- EN: calves -->
@@ -60,7 +60,7 @@
   <!-- EN: elk calf -->
   <Elk.lifeStages.elk_calf.label>ลูกกวางเอลก์</Elk.lifeStages.elk_calf.label>
   <!-- EN: elk calves -->
-  <Elk.lifeStages.elk_calf.labelPlural>กวางเอลก์</Elk.lifeStages.elk_calf.labelPlural>
+  <Elk.lifeStages.elk_calf.labelPlural>ลูกกวางเอลก์</Elk.lifeStages.elk_calf.labelPlural>
   
   <!-- EN: goat -->
   <Goat.label>แพะ</Goat.label>
@@ -91,12 +91,12 @@
   <Rhinoceros.labelPlural>แรด</Rhinoceros.labelPlural>
   
   <!-- EN: yak -->
-  <Yak.label>วัวจามรี</Yak.label>
+  <Yak.label>จามรี</Yak.label>
   <!-- EN: yak -->
-  <Yak.labelMale>วัวจามรีตัวผู้</Yak.labelMale>
+  <Yak.labelMale>จามรีตัวผู้</Yak.labelMale>
   <!-- EN: yak calf -->
-  <Yak.lifeStages.yak_calf.label>ลูกวัวจามรี</Yak.lifeStages.yak_calf.label>
+  <Yak.lifeStages.yak_calf.label>ลูกจามรี</Yak.lifeStages.yak_calf.label>
   <!-- EN: yak calves -->
-  <Yak.lifeStages.yak_calf.labelPlural>วัวจามรี</Yak.lifeStages.yak_calf.labelPlural>
+  <Yak.lifeStages.yak_calf.labelPlural>จามรี</Yak.lifeStages.yak_calf.labelPlural>
   
 </LanguageData>

@@ -59,45 +59,67 @@
   <!-- EN: I had a great time in a wonderful rec room. I could stay there forever. -->
   <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>ฉันมีช่วงเวลาที่ดีในห้องสังสรรค์ที่ยอดเยี่ยม ฉันสามารถอยู่ที่นั่นได้ตลอด</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>
   
-  <!-- EN: awful barrack -->
+  <!-- EN: awful barracks -->
+  <SleptInBarracks.stages.awful_barracks.label>TODO</SleptInBarracks.stages.awful_barracks.label>
+  <!-- EN: I had to sleep in an awful barracks. Not only was it a horrible room, but I also had to share it! -->
+  <SleptInBarracks.stages.awful_barracks.description>TODO</SleptInBarracks.stages.awful_barracks.description>
+  <!-- EN: dull barracks -->
+  <SleptInBarracks.stages.dull_barracks.label>TODO</SleptInBarracks.stages.dull_barracks.label>
+  <!-- EN: I had to sleep in a dull barracks. Not only that, but I also had to share it with other people. -->
+  <SleptInBarracks.stages.dull_barracks.description>TODO</SleptInBarracks.stages.dull_barracks.description>
+  <!-- EN: mediocre barracks -->
+  <SleptInBarracks.stages.mediocre_barracks.label>TODO</SleptInBarracks.stages.mediocre_barracks.label>
+  <!-- EN: I had to sleep in a mediocre barracks with other people around. I really don't like this. -->
+  <SleptInBarracks.stages.mediocre_barracks.description>TODO</SleptInBarracks.stages.mediocre_barracks.description>
+  <!-- EN: decent barracks -->
+  <SleptInBarracks.stages.decent_barracks.label>TODO</SleptInBarracks.stages.decent_barracks.label>
+  <!-- EN: I slept in a decent barracks, but I really dislike sharing a sleeping space. -->
+  <SleptInBarracks.stages.decent_barracks.description>TODO</SleptInBarracks.stages.decent_barracks.description>
+  <!-- EN: slightly impressive barracks -->
+  <SleptInBarracks.stages.slightly_impressive_barracks.label>TODO</SleptInBarracks.stages.slightly_impressive_barracks.label>
+  <!-- EN: I got to sleep in a pretty nice barracks. But I really don't like sharing a room with others. -->
+  <SleptInBarracks.stages.slightly_impressive_barracks.description>TODO</SleptInBarracks.stages.slightly_impressive_barracks.description>
+  <!-- EN: impressive barracks -->
+  <SleptInBarracks.stages.impressive_barracks.label>TODO</SleptInBarracks.stages.impressive_barracks.label>
+  <!-- EN: I got to sleep in an impressive barracks. It sucks that I had to share it, though. -->
+  <SleptInBarracks.stages.impressive_barracks.description>TODO</SleptInBarracks.stages.impressive_barracks.description>
+  <!-- EN: very impressive barracks -->
+  <SleptInBarracks.stages.very_impressive_barracks.label>TODO</SleptInBarracks.stages.very_impressive_barracks.label>
+  <!-- EN: I slept in a very impressive barracks. I don't even mind sharing it. -->
+  <SleptInBarracks.stages.very_impressive_barracks.description>TODO</SleptInBarracks.stages.very_impressive_barracks.description>
+  <!-- EN: extremely impressive barracks -->
+  <SleptInBarracks.stages.extremely_impressive_barracks.label>TODO</SleptInBarracks.stages.extremely_impressive_barracks.label>
+  <!-- EN: I slept in an extremely impressive barracks. I don't even mind sharing it. -->
+  <SleptInBarracks.stages.extremely_impressive_barracks.description>TODO</SleptInBarracks.stages.extremely_impressive_barracks.description>
+  <!-- EN: unbelievably impressive barracks -->
+  <SleptInBarracks.stages.unbelievably_impressive_barracks.label>TODO</SleptInBarracks.stages.unbelievably_impressive_barracks.label>
+  <!-- EN: The barracks I slept in was so impressive that I don't even mind sharing it. -->
+  <SleptInBarracks.stages.unbelievably_impressive_barracks.description>TODO</SleptInBarracks.stages.unbelievably_impressive_barracks.description>
+  <!-- EN: wondrously impressive barracks -->
+  <SleptInBarracks.stages.wondrously_impressive_barracks.label>TODO</SleptInBarracks.stages.wondrously_impressive_barracks.label>
+  <!-- EN: I slept in a barracks that was simply wondrous. Even sharing such a space makes me happy. -->
+  <SleptInBarracks.stages.wondrously_impressive_barracks.description>TODO</SleptInBarracks.stages.wondrously_impressive_barracks.description>
+  
+  <!-- UNUSED -->
   <SleptInBarracks.stages.awful_barrack.label>ห้องพักทหารที่ห่วย</SleptInBarracks.stages.awful_barrack.label>
-  <!-- EN: I had to sleep in an awful barrack. Not only was it a horrible room, but I also had to share it! -->
   <SleptInBarracks.stages.awful_barrack.description>ค่ายของฉันเป็นสถานที่อันเลวร้าย แต่ฉันต้องแบ่งปัน!</SleptInBarracks.stages.awful_barrack.description>
-  <!-- EN: dull barrack -->
   <SleptInBarracks.stages.dull_barrack.label>ห้องพักทหารที่น่ารังเกียจ</SleptInBarracks.stages.dull_barrack.label>
-  <!-- EN: I had to sleep in a dull barrack. Not only that, but I also had to share it with other people. -->
   <SleptInBarracks.stages.dull_barrack.description>ฉันอาศัยอยู่ในค่ายที่น่ารังเกียจกับคนอื่น ๆ</SleptInBarracks.stages.dull_barrack.description>
-  <!-- EN: mediocre barrack -->
   <SleptInBarracks.stages.mediocre_barrack.label>ค่ายทหารธรรมดา</SleptInBarracks.stages.mediocre_barrack.label>
-  <!-- EN: I had to sleep in a mediocre barrack with other people around. I really don't like this. -->
   <SleptInBarracks.stages.mediocre_barrack.description>ฉันต้องนอนในค่ายทหารธรรมดากับคนอื่นๆ ฉันไม่ชอบสิ่งนี้จริงๆ</SleptInBarracks.stages.mediocre_barrack.description>
-  <!-- EN: decent barrack -->
   <SleptInBarracks.stages.decent_barrack.label>ค่ายทหารที่ดี</SleptInBarracks.stages.decent_barrack.label>
-  <!-- EN: I slept in a decent barrack, but I really dislike sharing a sleeping space. -->
   <SleptInBarracks.stages.decent_barrack.description>ฉันนอนในค่ายทหารที่ดี แต่ฉันไม่ชอบแบ่งพื้นที่นอนจริงๆ</SleptInBarracks.stages.decent_barrack.description>
-  <!-- EN: slightly impressive barrack -->
   <SleptInBarracks.stages.slightly_impressive_barrack.label>ห้องพักทหารที่น่าประทับใจเล็กน้อย</SleptInBarracks.stages.slightly_impressive_barrack.label>
-  <!-- EN: I got to sleep in a pretty nice barrack. But I really don't like sharing a room with others. -->
   <SleptInBarracks.stages.slightly_impressive_barrack.description>ค่ายของฉันดูดีจริงๆ แต่ฉันต้องการมีห้องนอนของตัวเอง</SleptInBarracks.stages.slightly_impressive_barrack.description>
-  <!-- EN: impressive barrack -->
   <SleptInBarracks.stages.impressive_barrack.label>ห้องพักทหารที่น่าประทับใจ</SleptInBarracks.stages.impressive_barrack.label>
-  <!-- EN: I got to sleep in an impressive barrack. It sucks that I had to share it, though. -->
   <SleptInBarracks.stages.impressive_barrack.description>ค่ายของฉันดูน่าประทับใจ ฉันชอบมัน ฉันหวังว่า, ฉันจะมีห้องนอนเป็นของตัวเอง</SleptInBarracks.stages.impressive_barrack.description>
-  <!-- EN: very impressive barrack -->
   <SleptInBarracks.stages.very_impressive_barrack.label>ห้องพักทหารที่น่าประทับใจมาก</SleptInBarracks.stages.very_impressive_barrack.label>
-  <!-- EN: I slept in a very impressive barrack. I don't even mind sharing it. -->
   <SleptInBarracks.stages.very_impressive_barrack.description>ค่ายของฉันเป็นที่น่าประทับใจมาก, ฉันรักมัน!</SleptInBarracks.stages.very_impressive_barrack.description>
-  <!-- EN: extremely impressive barrack -->
   <SleptInBarracks.stages.extremely_impressive_barrack.label>ห้องพักทหารที่น่าประทับใจอย่างมาก</SleptInBarracks.stages.extremely_impressive_barrack.label>
-  <!-- EN: I slept in an extremely impressive barrack. I don't even mind sharing it. -->
   <SleptInBarracks.stages.extremely_impressive_barrack.description>ค่ายของฉันดูน่าประทับใจอย่างมาก นี้เป็นสถานที่ที่ดีที่สุดที่เคยอยู่!</SleptInBarracks.stages.extremely_impressive_barrack.description>
-  <!-- EN: unbelievably impressive barrack -->
   <SleptInBarracks.stages.unbelievably_impressive_barrack.label>ห้องพักทหารที่น่าประทับใจอย่างไม่น่าเชื่อ</SleptInBarracks.stages.unbelievably_impressive_barrack.label>
-  <!-- EN: The barrack I slept in was so impressive that I don't even mind sharing it. -->
   <SleptInBarracks.stages.unbelievably_impressive_barrack.description>ค่ายของฉันดูน่าประทับใจอย่างไม่น่าเชื่อ นี้เป็นสถานที่ที่ดีที่สุดที่เคยอยู่!</SleptInBarracks.stages.unbelievably_impressive_barrack.description>
-  <!-- EN: wondrously impressive barrack -->
   <SleptInBarracks.stages.wondrously_impressive_barrack.label>ห้องพักทหารที่น่าประทับใจอย่างมหัศจรรย์</SleptInBarracks.stages.wondrously_impressive_barrack.label>
-  <!-- EN: I slept in a barrack that was simply wondrous. Even sharing such a space makes me happy. -->
   <SleptInBarracks.stages.wondrously_impressive_barrack.description>ค่ายของฉันเป็นสถานที่ที่ดีที่สุดที่คุณสามารถจินตนาการทันได้ มันวิเศษมาก</SleptInBarracks.stages.wondrously_impressive_barrack.description>
   
   <!-- EN: awful bedroom -->

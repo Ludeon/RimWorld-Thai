@@ -25,11 +25,15 @@
   <CameraDolly.label>การเลื่อนกล้อง</CameraDolly.label>
   <!-- EN: Move the camera by clicking and dragging the MOUSE BUTTON 3 (middle button) or with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys. -->
   <CameraDolly.helpText>เคลื่อนกล้องได้โดยคลิกแล้วลาก ปุ่มเมาส์ 3 (ปุ่มกลาง) หรือผ่านคีย์ {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}</CameraDolly.helpText>
+  <!-- EN: Move the camera by using the D-pad. -->
+  <CameraDolly.helpTextController>TODO</CameraDolly.helpTextController>
   
   <!-- EN: Camera zoom -->
   <CameraZoom.label>การซูมกล้อง</CameraZoom.label>
   <!-- EN: Zoom in and out with the MOUSEWHEEL or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys. -->
   <CameraZoom.helpText>ซูมเข้าซูมออกด้วยล้อเลื่อนเมาส์ หรือด้วยคีย์ {Key:MapZoom_In} กับ {Key:MapZoom_Out}</CameraZoom.helpText>
+  <!-- EN: Zoom in and out with {Key:MapZoom_In} and {Key:MapZoom_Out}. -->
+  <CameraZoom.helpTextController>TODO</CameraZoom.helpTextController>
   
   <!-- EN: Clicking messages -->
   <ClickingMessages.label>การคลิกข้อความ</ClickingMessages.label>
@@ -50,6 +54,8 @@
   <EquippingWeapons.label>การพกอาวุธ</EquippingWeapons.label>
   <!-- EN: Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and right-click on the weapon you want them to equip. -->
   <EquippingWeapons.helpText>ชาวนิคมของคุณมาพร้อมกับอาวุธ พกมันเลย!\n\nเลือกชาวนิคมแต่ละคนแล้วคลิกขวาบนอาวุธที่คุณต้องการให้เขาพก</EquippingWeapons.helpText>
+  <!-- EN: Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and press the left trigger on the weapon you want them to equip. -->
+  <EquippingWeapons.helpTextController>TODO</EquippingWeapons.helpTextController>
   
   <!-- EN: Fire preparation -->
   <FirePreparation.label>การเตรียมรับมือไฟ</FirePreparation.label>
@@ -73,7 +79,7 @@
   
   <!-- EN: Friendly fire safety -->
   <FriendlyFireSafety.label>ความปลอดภัยจากการยิงพวกเดียวกัน</FriendlyFireSafety.label>
-  <!-- EN: Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over his friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters. -->
+  <!-- EN: Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over their friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters. -->
   <FriendlyFireSafety.helpText>การยิงโดนพวกเดียวกันนั้นจะไม่เกิดขึ้นเลยถ้าคนยิงนั้นอยู่ใกล้ชิดกับพวกของเขา\n\nตัวอย่างเช่น คุณสามารถวางชาวนิคมถือดาบไว้ตรงหน้าคนที่ถือปืนได้อย่างปลอดภัย คนยิงจะยิงข้ามไหล่ของเพื่อนเขา\n\nมันเป็นวิธีที่ดีในการรวมนักสู้ระยะประชิดกับระยะไกลเข้าด้วยกัน</FriendlyFireSafety.helpText>
   
   <!-- EN: Getting more traders -->
@@ -106,9 +112,8 @@
   <!-- EN: The info card shows you detailed statistics about any item, person, or construction.\n\nSelect a person or item and open their info card with the 'i' button on the inspect pane. -->
   <InfoCard.helpText>การ์ดข้อมูลแสดงข้อมูลสถิติเกี่ยวกับไอเท็ม บุคคล หรือสิ่งก่อสร้าง\n\nเลือกบุคคลหรือสิ่งของแล้วเปิดการ์ดข้อมูลผ่านปุ่ม 'i' บนบานตรวจสอบ</InfoCard.helpText>
   
-  <!-- EN: Room stats inspector -->
+  <!-- UNUSED -->
   <InspectRoomStats.label>ตัวตรวจสอบข้อมูลห้อง</InspectRoomStats.label>
-  <!-- EN: You can inspect the impressiveness, wealth, and beauty of individual rooms using the ROOM STATS INSPECT toggle in the bottom right. -->
   <InspectRoomStats.helpText>คุณสามารถตรวจสอบความประทับใจ ความมั่งคั่ง และความสวยงามของแต่ละห้องได้โดยใช้ตัวเปิด ตรวจสอบข้อมูลห้อง ทางล่างขวา</InspectRoomStats.helpText>
   
   <!-- EN: Manual work priorities -->
@@ -156,6 +161,11 @@
   <!-- EN: You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.\n\nIn the storage tab of a stockpile, you can expand categories to allow or deny specific items. Click the triangles to the left of category names.\n\nYou can change the PRIORITY of storage. Colonists will fill higher-priority storage first, and move items from lower to higher priority. -->
   <StorageTab.helpText>คุณสามารถปรับตั้งค่าคลังและอาคารเก็บของได้โดยเลือกมันแล้วไปเปิด แท็บเก็บของ ด้านบนบานตรวจสอบทางล่างซ้าย\n\nในแท็บเก็บของของคลังนั้น คุณสามารถขยายหมวดหมู่ไอเท็มที่เจาะจงให้และไม่ให้นำมาเก็บได้ คลิกที่สามเหลี่ยมทางซ้ายมือของชื่อหมวดหมู่\n\nคุณสามารถเปลี่ยนลำดับความสำคัญของคลัง ชาวนิคมจะนำของไปเก็บไว้ในคลังลำดับที่สูงกว่าก่อน และย้ายไอเท็มจากคลังลำดับที่ต่ำกว่าไปยังลำดับที่สูงกว่า</StorageTab.helpText>
   
+  <!-- EN: Tile inspector -->
+  <TileInspector.label>TODO</TileInspector.label>
+  <!-- EN: You can inspect the details of a tile by holding {Key:ShowCellInspector}. This displays the contents of a tile, room information, beauty information, and more. -->
+  <TileInspector.helpText>TODO</TileInspector.helpText>
+  
   <!-- EN: Time assignments -->
   <TimeAssignments.label>การกำหนดเวลา</TimeAssignments.label>
   <!-- EN: You can modify what time of day colonists should do different activities using the RESTRICT tab. -->
@@ -165,6 +175,8 @@
   <TimeControls.label>การควบคุมเวลา</TimeControls.label>
   <!-- EN: You can speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
   <TimeControls.helpText>คุณสามารถเร่งเวลาได้\n\nลองควบคุมเวลาด้วยคีย์ {Key:TimeSpeed_Normal} {Key:TimeSpeed_Fast} กับ {Key:TimeSpeed_Superfast} หรือด้วยปุ่มควบคุมเวลาทางล่างขวา</TimeControls.helpText>
+  <!-- EN: You can speed up time.\n\nTry controlling time with {Key:TimeSpeed_Faster} and {Key:TimeSpeed_Slower}, or with the time controls in the bottom right. -->
+  <TimeControls.helpTextController>TODO</TimeControls.helpTextController>
   
   <!-- EN: Work settings -->
   <WorkTab.label>การตั้งค่างาน</WorkTab.label>

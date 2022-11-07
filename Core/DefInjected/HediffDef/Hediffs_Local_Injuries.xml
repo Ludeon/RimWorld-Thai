@@ -138,6 +138,10 @@
   <ExecutionCut.label>บาด</ExecutionCut.label>
   <!-- EN: A cut made during execution. -->
   <ExecutionCut.description>แผลบาดที่เกิดจากการประหาร</ExecutionCut.description>
+  <!-- EN: Cut off -->
+  <ExecutionCut.injuryProps.destroyedLabel>TODO</ExecutionCut.injuryProps.destroyedLabel>
+  <!-- EN: Cut out -->
+  <ExecutionCut.injuryProps.destroyedOutLabel>TODO</ExecutionCut.injuryProps.destroyedOutLabel>
   <!-- EN: a cut -->
   <ExecutionCut.labelNoun>แผลบาด</ExecutionCut.labelNoun>
   <!-- EN: {0} in the {1} -->
@@ -193,6 +197,8 @@
   <Misc.comps.HediffComp_TendDuration.labelTendedWell>พันแผลแล้ว</Misc.comps.HediffComp_TendDuration.labelTendedWell>
   <!-- EN: sutured -->
   <Misc.comps.HediffComp_TendDuration.labelTendedWellInner>เย็บแผลแล้ว</Misc.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: scar -->
+  <Misc.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Misc.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Destroyed -->
   <Misc.injuryProps.destroyedLabel>โดนทำลาย</Misc.injuryProps.destroyedLabel>
   <!-- EN: an injury -->

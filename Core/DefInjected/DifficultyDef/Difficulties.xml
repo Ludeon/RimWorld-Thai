@@ -3,37 +3,37 @@
   
   <!-- EN: Custom -->
   <Custom.label>กำหนดเอง</Custom.label>
-  <!-- EN: This setting allows you to define your own playstyle in detail.\n\nRecommended for:\n\n- Players who are happy with one of the standard playstyles levels, but want to change a few things.\n- Players who want to experiment with something different. -->
+  <!-- EN: This setting allows you to define your own playstyle in detail.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are happy with one of the standard playstyles levels, but want to change a few things.\n- Players who want to experiment with something different. -->
   <Custom.description>ระดับนี้จะให้คุณสามารถกำหนดแนวทางการเล่นของคุณอย่างละเอียด\n\nแนะนำสำหรับ:\n\n- ผู้เล่นที่พอใจกับหนึ่งในเลเวลแนวทางการเล่นมาตรฐานอยู่แล้ว แต่ต้องการเปลี่ยนแปลงบางสิ่งเล็กน้อย\n- ผู้เล่นที่ต้องการทดลองอะไรอย่างอื่นที่แตกต่าง</Custom.description>
   
   <!-- EN: community builder -->
   <Easy.label>นักก่อสร้างชุมชน</Easy.label>
-  <!-- EN: Build a community with a taste of danger. Threats appear, but they're weakened.\n\nRecommended for:\n\n- Players who are new to this kind of game.\n- Players who want to build a perfect colony.\n- Players who want to relax. -->
+  <!-- EN: Build a community with a taste of danger. Threats appear, but they're weakened.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are new to this kind of game.\n- Players who want to build a perfect colony.\n- Players who want to relax. -->
   <Easy.description>ก่อสร้างชุมชนขึ้นมาพร้อมกับได้ลิ้มรสอันตราย มีภัยมาแน่ แต่ก็อ่อนลง\n\nแนะนำสำหรับ:\n\n- ผู้เล่นที่เป็นมือใหม่กับเกมประเภทนี้\n- ผู้เล่นที่ต้องการสร้างนิคมที่เพอร์เฟค\n- ผู้เล่นที่ต้องการผ่อนคลาย</Easy.description>
   
   <!-- EN: losing is fun -->
   <Extreme.label>แพ้แล้วสนุกดี</Extreme.label>
-  <!-- EN: This setting is designed to be unfair. Huge threats will crash upon you without mercy until your colony dies. Only choose this setting if you are happy with the drama of struggling and dying.\n\nRecommended for:\n\n- Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n- Lovers of tragedy.\n- Digital masochists. -->
+  <!-- EN: This setting is designed to be unfair. Huge threats will crash upon you without mercy until your colony dies. Only choose this setting if you are happy with the drama of struggling and dying.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n- Lovers of tragedy.\n- Digital masochists. -->
   <Extreme.description>ระดับนี้ถูกออกแบบมาให้ไม่ยุติธรรม ภัยอัตรายมหึมาจะพุ่งเข้ามาหาคุณโดยไร้ซึ่งความปรานีจนหว่านิคมของคุณจะตายลงไป เลือกระดับนี้หากคุณชอบความเร้าใจของการดิ้นรนเอาตัวรอดกับการสูญเสียชีวิตเท่านั้น\n\nแนะนำสำหรับ:\n\n- ผู้เล่นมีประสบการณ์ที่ต้องการเผชิญหน้ากับความท้าทายที่โหดเหี้ยม ไร้ความปรานี โดยที่ความเก่งกาจก็ไม่อาจยับยั้งความตายได้\n- พวกชอบโศกนาฏกรรม\n- พวกมาโซคิสต์ชาวดิจิทัล</Extreme.description>
   
   <!-- EN: blood and dust -->
   <Hard.label>เลือดฝุ่น</Hard.label>
-  <!-- EN: Face brutal survival challenges. Even if you play well, people will die. You will need to anticipate threats before they arrive, and seek out every advantage.\n\nRecommended for:\n\n- Experienced players who want to struggle to survive. -->
+  <!-- EN: Face brutal survival challenges. Even if you play well, people will die. You will need to anticipate threats before they arrive, and seek out every advantage.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to struggle to survive. -->
   <Hard.description>เผชิญหน้ากับความท้าทายเอาตัวรอดที่โหดเหี้ยม ถึงคุณจะเล่นได้ดี ก็จะมีคนตายอยู่ดี คุณจะต้องคาดการณ์เตรียมรับมือภัยอันตรายไว้ล่วงหน้าก่อนที่มันจะมาถึง และนำทุกข้อได้เปรียบที่มีมาใช้\n\nแนะนำสำหรับ:\n\n- ผู้เล่นมีประสบการณ์ที่ต้องการดิ้นรนเอาตัวรอด</Hard.description>
   
   <!-- EN: adventure story -->
   <Medium.label>เรื่องผจญภัย</Medium.label>
-  <!-- EN: There's room to grow and thrive, but it's still a dangerous planet.\n\nRecommended for:\n\n- Experienced strategy gamers on their first game of RimWorld.\n- Experienced RimWorld players who want some breathing room to pursue funny or weird goals. -->
+  <!-- EN: There's room to grow and thrive, but it's still a dangerous planet.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced strategy gamers on their first game of RimWorld.\n- Experienced RimWorld players who want some breathing room to pursue funny or weird goals. -->
   <Medium.description>มีพื้นที่ให้เจริญเติบโต แต่มันก็ยังเป็นดาวที่อันตราย\n\nแนะนำสำหรับ:\n\n- ผู้เล่นชำนาญเกมแนววางแผนที่มาเล่น Rimworld เป็นครั้งแรก\n- ผู้เล่น Rimworld เป็นมีประสบการณ์ที่ต้องการโอกาสบรรลุเป้าหมายแปลก ๆ แหวกแนว</Medium.description>
   
   <!-- EN: peaceful -->
   <Peaceful.label>เงียบสงบ</Peaceful.label>
-  <!-- EN: Build a community in a sandbox environment. Major direct threats are disabled, but challenges like disease, mental breaks, and mad animals can still occur.\n\nRecommended for:\n\n- Players who want to learn the game mechanics with minimal pressure.\n- Players who just want to build.\n- Players who just want to relax. -->
+  <!-- EN: Build a community in a sandbox environment. Major direct threats are disabled, but challenges like disease, mental breaks, and mad animals can still occur.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who want to learn the game mechanics with minimal pressure.\n- Players who just want to build.\n- Players who just want to relax. -->
   <Peaceful.description>สร้างชุมชนในสภาพแวดล้อมแซนด์บ็อกซ์ ภัยอันตรายโดยตรงขนาดใหญ่ถูกปิดลง แต่ความท้าทายอย่างโรคภัยไข้เจ็บ การสติแตก และสัตว์บ้าคลั่งยังสามารถเกิดขึ้นได้\n\nแนะนำสำหรับ:\n\n- ผู้เล่นที่ต้องการเรียนรู้กลไกของเกมกับแรงกดดันน้อยที่สุด\n- ผู้เล่นที่แค่ต้องการผ่อนคลาย</Peaceful.description>
   
   <!-- EN: strive to survive -->
   <Rough.label>พยายามเอาตัวรอด</Rough.label>
-  <!-- EN: Strive to survive on a rough, tough planet. There will be triumph and tragedy.\n\nRecommended for:\n\n- Experienced players who want a rough story requiring skill to survive. -->
+  <!-- EN: Strive to survive on a rough, tough planet. There will be triumph and tragedy.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want a rough story requiring skill to survive. -->
   <Rough.description>พยายามเอาตัวรอดบนดาวอันทรหด จะมีทั้งความสำเร็จและความเศร้าโศก\n\nแนะนำสำหรับ:\n\n- ผู้เล่นมีประสบการณ์ที่ต้องการเรื่องทรหดที่ต้องใช้ทักษะในการเอาตัวรอด</Rough.description>
   
 </LanguageData>

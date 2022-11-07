@@ -13,7 +13,7 @@
   <CannotUseNoPath>ไม่สามารถใช้ได้: ไม่มีเส้นทาง</CannotUseNoPath>
   <!-- EN: Cannot use: Reserved -->
   <CannotUseReserved>ไม่สามารถใช้ได้: ถูกจองแล้ว</CannotUseReserved>
-  <!-- EN: Cannot use: full -->
+  <!-- EN: Cannot use: Full -->
   <CannotUseFull>ไม่สามารถใช้ได้: เต็ม</CannotUseFull>
   <!-- EN: leader {1_labelShort} is unavailable -->
   <LeaderUnavailable>ผู้นำ {1_labelShort} ไม่พร้อม</LeaderUnavailable>
@@ -45,6 +45,8 @@
   <CannotAttackSelf>ไม่สามารถโจมตีตัวเองได้</CannotAttackSelf>
   <!-- EN: cannot attack faction ally -->
   <CannotAttackSameFactionMember>ไม่สามารถโจมตีฝ่ายพันธมิตร</CannotAttackSameFactionMember>
+  <!-- EN: Incapable of firefighting. -->
+  <IncapableOfFirefighting>TODO</IncapableOfFirefighting>
 
   <!-- EN: Man {1_labelShort} -->
   <OrderManThing>ขึ้นขี่ {1_labelShort}</OrderManThing>
@@ -74,8 +76,10 @@
   <NoMergeTarget>ไม่มีกองที่จะรวมเข้าด้วยกัน</NoMergeTarget>
   <!-- EN: already filled enough -->
   <AlreadyFilledLower>เต็มไปหมดแล้ว</AlreadyFilledLower>
-  <!-- EN: need material -->
+  <!-- EN: missing {0} -->
   <MissingMaterials>ขาดวัสดุ</MissingMaterials>
+  <!-- EN: No medicine for restriction '{CATEGORY}'. -->
+  <NoMedicineMatchingCategory>TODO</NoMedicineMatchingCategory>
   <!-- EN: under required skill {0} -->
   <UnderRequiredSkill>ต่ำกว่าทักษะที่เรียกร้อง {0}</UnderRequiredSkill>
   <!-- EN: under allowed skill {0} -->
@@ -88,10 +92,16 @@
   <MissingRequiredSkillLevel>ทักษะที่เรียกร้องระดับต่ำไป</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
   <AnimalInteractedTooRecently>เพิ่งปฏิสัมพันธ์กับสัตว์ไปไม่นานนี้</AnimalInteractedTooRecently>
+  <!-- EN: interacted with too recently -->
+  <PrisonerInteractedTooRecently>TODO</PrisonerInteractedTooRecently>
   <!-- EN: no usable food -->
   <NoUsableFood>ไม่มีอาหารที่กินได้</NoUsableFood>
   <!-- EN: no food -->
   <NoFood>ไม่มีอาหาร</NoFood>
+  <!-- EN: no food matching restrictions -->
+  <NoFoodMatchingRestrictions>TODO</NoFoodMatchingRestrictions>
+  <!-- EN: No {0_label} -->
+  <NoIngredient>TODO</NoIngredient>
   <!-- EN: below requirements of {0} -->
   <FoodBelowTitleRequirements>ต่ำกว่าที่ต้องการของ {0}</FoodBelowTitleRequirements>
   <!-- EN: animals skill too low - need {0} -->
@@ -114,6 +124,8 @@
   <CantRopeAnimalCantTouch>TODO</CantRopeAnimalCantTouch>
   <!-- EN: no space in pen -->
   <CantRopeAnimalNoSpace>TODO</CantRopeAnimalNoSpace>
+  <!-- EN: {0_labelShort} is in {1} state -->
+  <CantRopeAnimalMentalState>TODO</CantRopeAnimalMentalState>
   <!-- EN: already in best pen -->
   <CantRopeAnimalAlreadyInBestPen>TODO</CantRopeAnimalAlreadyInBestPen>
   <!-- EN: {0} skill too low -->
@@ -154,19 +166,29 @@
   <InstallImplantNotAllowedForNonColonists>ไม่ใช่ชาวนิคม</InstallImplantNotAllowedForNonColonists>
   <!-- EN: already installed -->
   <InstallImplantAlreadyInstalled>ติดตั้งแล้ว</InstallImplantAlreadyInstalled>
+  <!-- EN: requires an existing {0} -->
+  <InstallImplantHediffRequired>TODO</InstallImplantHediffRequired>
   <!-- EN: max level -->
   <InstallImplantAlreadyMaxLevel>ระดับสูงสุด</InstallImplantAlreadyMaxLevel>
+  <!-- EN: requires min level {0} -->
+  <InstallImplantMinLevel>TODO</InstallImplantMinLevel><!-- text_todo -->
+  <!-- EN: psychically deaf -->
+  <InstallImplantPsychicallyDeaf>TODO</InstallImplantPsychicallyDeaf>
   <!-- EN: Upgrade {0} to level {1} -->
   <UpgradeImplant>อัพเกรด {0} ขึ้นเป็นระดับ {1}</UpgradeImplant>
   <!-- EN: violation of faction ally -->
   <SurgeryViolationFellowFactionMember>การละเมิดของฝ่ายพันธมิตร</SurgeryViolationFellowFactionMember>
   <!-- EN: being carried by {0_labelShort} -->
   <BeingCarriedBy>กำลังดำเนินการโดย {0_labelShort}</BeingCarriedBy>
+  <!-- EN: full -->
+  <ContainerFull>TODO</ContainerFull>
+  <!-- EN: already assigned -->
+  <AlreadyAssigned>TODO</AlreadyAssigned>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>บริโภค {1_labelShort}</ConsumeThing>
   
-  <!-- EN: Cannot go here: no path -->
+  <!-- EN: Cannot go here: No path -->
   <CannotGoNoPath>ไม่สามารถไปได้: (ไม่มีเส้นทาง)</CannotGoNoPath>
   <!-- EN: Go here -->
   <GoHere>เคลื่อนไปที่นี่</GoHere>
@@ -184,9 +206,15 @@
   <Capture>จับตัว {1_label}</Capture>
   <!-- EN: Cannot capture -->
   <CannotCapture>ไม่สามารถจับตัวได้</CannotCapture>
+  <!-- EN: unwaveringly loyal -->
+  <Unrecruitable>TODO</Unrecruitable>
 
   <!-- EN: Rescue {1_label} -->
   <Rescue>ช่วยเหลือ {1_label}</Rescue>
+  <!-- EN: Put {1_label} somewhere safe -->
+  <PutSomewhereSafe>TODO</PutSomewhereSafe>
+  <!-- EN: Taking {0_labelShort} to bed. -->
+  <TakingToBed>TODO</TakingToBed>
   <!-- EN: Cannot rescue -->
   <CannotRescue>ไม่สามารถช่วยได้</CannotRescue>
 
@@ -227,6 +255,8 @@
   <Incapable>ไม่อาจทำได้</Incapable>
   <!-- EN: incapable of {0} -->
   <IncapableOfCapacity>ไม่สามารถที่จะ {0}</IncapableOfCapacity>
+  <!-- EN: Must have {0_label} -->
+  <MustHaveHediff>TODO</MustHaveHediff>
 
   <!-- EN: min skill -->
   <MinSkill>ทักษะที่ต้องมี</MinSkill>
@@ -257,13 +287,15 @@
   <ReloadFull>เต็ม</ReloadFull>
   <!-- EN: Too few -->
   <ReloadNotEnough>น้อยเกินไป</ReloadNotEnough>
+  <!-- EN: Cannot carry enough {AMMO_label} to reload 1 charge. -->
+  <ReloadCannotCarryEnough>TODO</ReloadCannotCarryEnough>
   
-  <!-- EN: Cannot pick up {1_label} -->
+  <!-- EN: Cannot pick up {1_labelShort} -->
   <CannotPickUp>ไม่สามารถหยิบ {1_label}</CannotPickUp>
   <!-- EN: Cannot pick up {1_label} (all) -->
   <CannotPickUpAll>ไม่สามารถหยิบ {1_label} (ทั้งหมด)</CannotPickUpAll>
-  <!-- EN: Pick up {1_label} -->
-  <PickUp>หยิบ {1_label}</PickUp>
+  <!-- EN: Pick up {1_labelShort} x1 -->
+  <PickUpOne>TODO</PickUpOne>
   <!-- EN: Pick up {1_label} (all) -->
   <PickUpAll>หยิบ {1_label} (ทั้งหมด)</PickUpAll>
   <!-- EN: Pick up {1_labelShort}... -->
@@ -342,6 +374,8 @@
   <UseMedicalBed>พักจนกว่าจะหาย</UseMedicalBed>
   <!-- EN: not injured -->
   <NotInjured>ไม่ได้บาดเจ็บ</NotInjured>
+  <!-- EN: no doctor -->
+  <NoDoctor>TODO</NoDoctor><!-- text_todo -->
   <!-- EN: occupied by {0} -->
   <SomeoneElseSleeping>ครอบครองโดย {0}</SomeoneElseSleeping>
   
@@ -388,7 +422,7 @@
   <!-- EN: Cannot {0} -->
   <CannotGenericWorkCustom>ไม่สามารถ{0}ได้</CannotGenericWorkCustom>
 
-  <!-- EN: Cannot prioritize: incapable of {0} -->
+  <!-- EN: Cannot prioritize: Incapable of {0} -->
   <CannotMissingHealthActivities>ไม่สามารถจัดลำดับความสำคัญ: ไม่สามารถทำ {0} ได้</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
@@ -397,29 +431,29 @@
   <!-- EN: Already {0} -->
   <CannotGenericAlreadyAmCustom>กำลัง{0}</CannotGenericAlreadyAmCustom>
 
-  <!-- EN: Cannot prioritize: will never do {0} -->
+  <!-- EN: Cannot prioritize: Will never do {0} -->
   <CannotPrioritizeWorkTypeDisabled>ไม่สามารถจัดลำดับความสำคัญ: จะไม่ทำ {0}</CannotPrioritizeWorkTypeDisabled>
   <!-- EN: lacking necessary title -->
   <MissingTitleAbility>ไม่สามารถแลกเปลื่ยน: ขาดบรรดาศักดิ์ที่จำเป็น</MissingTitleAbility>
 
-  <!-- EN: Cannot prioritize: will never {0} -->
+  <!-- EN: Cannot prioritize: Will never {0} -->
   <CannotPrioritizeWorkGiverDisabled>ไม่สามารถจัดลำดับความสำคัญ: จะไม่ {0}</CannotPrioritizeWorkGiverDisabled>
   <!-- EN: will never {0} -->
   <WillNever>จะไม่ {0}</WillNever>
 
-  <!-- EN: Cannot prioritize: not assigned to {0} -->
+  <!-- EN: Cannot prioritize: Not assigned to {0} -->
   <CannotPrioritizeNotAssignedToWorkType>ไม่สามารถจัดลำดับความสำคัญ: ไม่ถูกกำหนดให้ {0}</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
   <NotAssigned>ไม่ถูกกำหนด</NotAssigned>
   <!-- EN: not assigned to {0} -->
   <NotAssignedToWorkType>ไม่ได้กำหนดให้กับ {0}</NotAssignedToWorkType>
 
-  <!-- EN: Cannot prioritize: research is a long-term task -->
+  <!-- EN: Cannot prioritize: Research is a long-term task -->
   <CannotPrioritizeResearch>ไม่สามารถจัดลำดับความสำคัญ: การวิจัยเป็นงานระยะยาว</CannotPrioritizeResearch>
 
   <!-- EN: Cannot prioritize: {1_label} is forbidden -->
   <CannotPrioritizeForbidden>ไม่สามารถจัดลำดับความสำคัญ: {1_label} ถูกหวงห้าม</CannotPrioritizeForbidden>
-  <!-- EN: Cannot prioritize: forbidden -->
+  <!-- EN: Cannot prioritize: Forbidden -->
   <CannotPrioritizeCellForbidden>ไม่สามารถจัดลำดับความสำคัญ: หวงห้าม</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
   <CannotPrioritizeForbiddenOutsideAllowedArea>อยู่นอกพื้นที่เขตอนุญาต</CannotPrioritizeForbiddenOutsideAllowedArea>
@@ -514,5 +548,17 @@
   <RepairThing>ซ่อม {0}</RepairThing>
   <!-- EN: Cannot repair {0} -->
   <CannotRepair>ไม่สามารถซ่อมแซม {0}</CannotRepair>
-  
+
+  <!-- EN: Cannot enter -->
+  <CannotEnter>TODO</CannotEnter>
+
+  <!-- Romance partner -->
+  <!-- EN: Cannot romance {0} -->
+  <CannotRomance>TODO</CannotRomance>
+  <!-- EN: Romance {0} -->
+  <CanRomance>TODO</CanRomance>
+
+  <!-- UNUSED -->
+  <PickUp>หยิบ {1_label}</PickUp>
+
 </LanguageData>

@@ -50,6 +50,8 @@
   <TabTransporterContents>บรรทุก</TabTransporterContents>
   <!-- EN: Contents -->
   <TabCasketContents>เนื้อหา</TabCasketContents>
+  <!-- EN: Auto-cut -->
+  <TabWindTurbineAutoCut>TODO</TabWindTurbineAutoCut>
   
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
@@ -64,7 +66,7 @@
   <BoundWorkerIs>คนงาน: {1_labelShort}</BoundWorkerIs>
   <!-- EN: Plant -->
   <PlantVerb>ปลูก</PlantVerb>
-  <!-- EN: Copied bill cannot be pasted here. -->
+  <!-- EN: Copied bill cannot be pasted here -->
   <ClipboardBillNotAvailableHere>ใบสั่งที่คัดลอกมาวางที่นี่ไม่ได้</ClipboardBillNotAvailableHere>
   <!-- EN: Move up -->
   <ReorderBillUpTip>เลื่อนขึ้น</ReorderBillUpTip>
@@ -108,7 +110,7 @@
   <FactorForMovement>TODO</FactorForMovement>
   <!-- EN: Slave price -->
   <SlavePrice>ราคาทาส</SlavePrice>
-  <!-- EN: The base market value of this {0} if sold. -->
+  <!-- EN: The base market value of this slave if sold. -->
   <SlavePriceDescription>มูลค่าตลาดพื้นฐานของ {0} นี้หากขาย</SlavePriceDescription>
   <!-- EN: Gets food -->
   <GetsFood>ได้รับอาหาร</GetsFood>
@@ -122,6 +124,23 @@
   <ConsideredGuilty>ถือว่ามีความผิด (จะหมดอายุใน {0})</ConsideredGuilty>
   <!-- EN: Considered guilty -->
   <ConsideredGuiltyNoTimer>ถือว่ามีความผิด</ConsideredGuiltyNoTimer>
+  <!-- EN: Last resistance reduction -->
+  <LastRecruitment>TODO</LastRecruitment>
+  <!-- EN: How much {0_nameDef}'s resistance was reduced by {1} when {0_pronoun} was last recruited. -->
+  <LastRecruitmentDescription>TODO</LastRecruitmentDescription>
+  <!-- EN: Opinion of recruiter -->
+  <OpinionOfRecruiter>TODO</OpinionOfRecruiter>
+  <!-- EN: Recruiter negotiation ability -->
+  <RecruiterNegotiationAbility>TODO</RecruiterNegotiationAbility>
+  <!-- EN: Unwavering loyalty -->
+  <NonRecruitable>TODO</NonRecruitable>
+  <!-- EN: This prisoner is so unwaveringly loyal to their home that they refuse to be recruited entirely. -->
+  <NonRecruitableTip>TODO</NonRecruitableTip>
+  <!-- EN: Their loyalty extends to their beliefs and they cannot be converted. -->
+  <NonRecruitableTipCannotConvert>TODO</NonRecruitableTipCannotConvert>
+
+
+
 
   <!-- Medical - general -->
   <!-- EN: Move speed -->
@@ -148,7 +167,7 @@
   <PainLevel>เจ็บปวด</PainLevel>
   <!-- EN: Injured -->
   <Injured>บาดเจ็บ</Injured>
-  <!-- EN: Untended injury -->
+  <!-- EN: untended injury -->
   <UntendedInjury>บาดเจ็บโดยไม่ได้ตั้งใจ</UntendedInjury>
   <!-- EN: no health conditions -->
   <NoHealthConditions>ไม่มีสภาวะด้านสุขภาพ</NoHealthConditions>
@@ -168,9 +187,9 @@
   <WontBleedOutSoon>ไม่มีอันตรายทันที</WontBleedOutSoon>
   <!-- EN: Overview -->
   <HealthOverview>โดยรวม</HealthOverview>
-  <!-- EN: Operations ({0}) -->
+  <!-- EN: Operations -->
   <MedicalOperationsShort>ดำเนินการ ({0})</MedicalOperationsShort>
-  <!-- EN: Modifications ({0}) -->
+  <!-- EN: Modifications -->
   <MedicalOperationsMechanoidsShort>การปรับเปลี่ยน ({0})</MedicalOperationsMechanoidsShort>
   <!-- EN: Medical operations -->
   <MedicalOperations>ดำเนินงานด้านการแพทย์</MedicalOperations>
@@ -186,6 +205,8 @@
   <SocialInteractionsLower>ปฏิสัมพันธ์ทางสังคม</SocialInteractionsLower>
   <!-- EN: Hunger rate -->
   <HungerRate>อัตราความหิว</HungerRate>
+  <!-- EN: Food consumption -->
+  <FoodConsumption>TODO</FoodConsumption>
   <!-- EN: Tiredness -->
   <Tiredness>ความเหนื่อย</Tiredness>
   <!-- EN: Pain -->
@@ -241,8 +262,6 @@
   <TrainingNeedsPrerequisite>จำเป็นต้องมี: {0}</TrainingNeedsPrerequisite>
   
   <!-- Social tab -->
-  <!-- EN: (no relationships) -->
-  <NoRelationships>(ไม่มีความสัมพันธ์ใดๆ)</NoRelationships>
   <!-- EN: Kidnapped -->
   <Kidnapped>ถูกลักพาตัว</Kidnapped>
   <!-- EN: Lent to {FACTION_name}, returns in {1} -->
@@ -253,9 +272,9 @@
   <Slave>ทาส</Slave>
   <!-- EN: Faction leader -->
   <FactionLeader>ผู้นำฝ่าย</FactionLeader>
-  <!-- EN: Opinion of {1_labelShort} -->
+  <!-- EN: Opinion of {0} -->
   <OpinionOf>ความคิดเห็นของ {1_labelShort}</OpinionOf>
-  <!-- EN: {1_labelShort}'s opinion of me -->
+  <!-- EN: {0}'s opinion of me -->
   <SomeonesOpinionOfMe>{1_labelShort} มีความคิดเห็นต่อฉัน</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->
   <IAmDead>ฉันตาย</IAmDead>
@@ -398,7 +417,13 @@
 
   <!-- EN: Pen is not enclosed -->
   <AutocutUnenclosedPen>ปากกาไม่ได้ถูกปิด</AutocutUnenclosedPen>
-  <!-- EN: Pen is not enclosed now, so auto-cut won’t occur. -->
+  <!-- EN: Pen is not enclosed now, so auto-cut won't occur. -->
   <AutocutUnenclosedPenTip>ปากกาไม่ได้ถูกปิดอยู่ในขณะนี้ ดังนั้นการตัดอัตโนมัติจะไม่เกิดขึ้น</AutocutUnenclosedPenTip>
+
+  <!-- EN: Auto-cut plants blocking wind turbine -->
+  <WindTurbineAutoCut_EnabledCheckbox>TODO</WindTurbineAutoCut_EnabledCheckbox>
+
+  <!-- UNUSED -->
+  <NoRelationships>(ไม่มีความสัมพันธ์ใดๆ)</NoRelationships>
 
 </LanguageData>

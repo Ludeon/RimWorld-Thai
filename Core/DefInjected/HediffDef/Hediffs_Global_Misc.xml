@@ -41,10 +41,17 @@
   <!-- EN: a catatonic breakdown -->
   <CatatonicBreakdown.labelNoun>แข็งทื่อไม่เคลื่อนไหว</CatatonicBreakdown.labelNoun>
   
+  <!-- EN: covered in firefoam -->
+  <CoveredInFirefoam.label>TODO</CoveredInFirefoam.label>
+  <!-- EN: Covered in a fire-retardant foam. -->
+  <CoveredInFirefoam.description>TODO</CoveredInFirefoam.description>
+  
   <!-- EN: cryptosleep sickness -->
   <CryptosleepSickness.label>อาการเมาจากคริปโตสลีป</CryptosleepSickness.label>
   <!-- EN: After-effects of using a cryptosleep pod. Cryptosleep suspends and replaces many bodily functions in order to prevent aging and death. Upon exiting cryptosleep, the body takes time to restart and rebalance its natural metabolic processes. While this is ongoing, the patient suffers from nausea, dizziness, and a sense of fuzziness in the mind. -->
   <CryptosleepSickness.description>ผลที่ตามมาของการใช้โลงคริปโตสลีป คริปโตสลีประงับและทำหน้าที่แทนการทำงานของร่างกายหลายจุดเพื่อระงับการแก่และการตาย เมื่อออกจากคริปโตสลีปแล้ว ร่างกายจะต้องใช้เวลาในการตั้งต้นและปรับสมดุลของกระบวนการเมตาบอลิซึมโดยธรรมชาติใหม่ ในขณะที่กำลังเป็นไปนั้น คนไข้จะรู้สึกคลื่นไส้ เวียนหัว และรู้สึกคลุมเครือที่จิตใจเล็กน้อย</CryptosleepSickness.description>
+  <!-- EN: After-effects of using a cryptosleep pod including dizziness, nausea, and vomiting. -->
+  <CryptosleepSickness.descriptionShort>TODO</CryptosleepSickness.descriptionShort>
   
   <!-- EN: drug overdose -->
   <DrugOverdose.label>เสพยาเกินขนาด</DrugOverdose.label>
@@ -91,10 +98,8 @@
   <Pregnant.label>ตั้งครรภ์</Pregnant.label>
   <!-- EN: This creature is gestating offspring. It will give birth if the pregnancy comes to term. If starved or injured, there may be a miscarriage. -->
   <Pregnant.description>สัตว์ตัวนี้กำลังอุ้มท้อง มันจะคลอดเมื่อระยะการตั้งครรภ์ครบกำหนด หากอดอาหารหรือบาดเจ็บขึ้นมา ก็อาจแท้งได้</Pregnant.description>
-  <!-- EN: {0} pregnant -->
-  <Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>{0} ตั้งครรภ์</Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>
   <!-- EN: {0} is pregnant! -->
-  <Pregnant.comps.HediffComp_Discoverable.discoverLetterText>{0} ได้ตั้งครรภ์!</Pregnant.comps.HediffComp_Discoverable.discoverLetterText>
+  <Pregnant.comps.HediffComp_MessageAfterTicks.message>TODO</Pregnant.comps.HediffComp_MessageAfterTicks.message>
   <!-- EN: pregnancy -->
   <Pregnant.labelNoun>ตั้งครรภ์</Pregnant.labelNoun>
   <!-- EN: early-stage -->
@@ -103,6 +108,10 @@
   <Pregnant.stages.middlestage.label>ระยะกลาง</Pregnant.stages.middlestage.label>
   <!-- EN: late-stage -->
   <Pregnant.stages.latestage.label>ระยะสุดท้าย</Pregnant.stages.latestage.label>
+  
+  <!-- UNUSED -->
+  <Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>{0} ตั้งครรภ์</Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>
+  <Pregnant.comps.HediffComp_Discoverable.discoverLetterText>{0} ได้ตั้งครรภ์!</Pregnant.comps.HediffComp_Discoverable.discoverLetterText>
   
   <!-- EN: psychic coma -->
   <PsychicComa.label>โคม่าพลังจิต</PsychicComa.label>
@@ -131,12 +140,12 @@
   
   <!-- EN: resurrection sickness -->
   <ResurrectionSickness.label>อาการเมาจากการฟื้นคืนชีพ</ResurrectionSickness.label>
-  <!-- EN: After-effects of being resurrected by mechanite injection. Artificially-kickstarted body processes take time to rebalance themselves. -->
+  <!-- EN: After-effects of resurrection. Artificially-restarted body processes take time to rebalance themselves. -->
   <ResurrectionSickness.description>ผลที่ตามมาจากการฟื้นคืนชีพด้วยการฉีดเมคคาไนท์ กระบวนการร่างกายที่สังเคราะห์กระตุ้นขึ้นมาจะต้องใช้เวลาในการปรับสมดุลตัวเอง</ResurrectionSickness.description>
   
   <!-- EN: toxic buildup -->
   <ToxicBuildup.label>พิษสะสม</ToxicBuildup.label>
-  <!-- EN: Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nCreatures who die with toxic buildup cannot be eaten. -->
+  <!-- EN: Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nIf a creature dies with toxic buildup, there's a chance that they cannot be eaten. The higher the toxic buildup, the higher the chance. -->
   <ToxicBuildup.description>พิษในกระแสเลือด สามารถจากได้หลายที่ รวมถึงพิษจากสภาพแวดล้อม พิษจากการกัด หรือพิษจากอาวุธ\n\nในปริมาณมาก ๆ พิษสะสมนั้นถึงตายได้ ถึงปริมาณต่ำ ๆ มันก็ยังสามารถทำให้เป็นมะเร็งได้\n\nสัตว์ที่ตายจากพิษสะสมไม่สามารถนำมากินได้</ToxicBuildup.description>
   <!-- EN: initial -->
   <ToxicBuildup.stages.initial-0.label>แรกเริ่ม</ToxicBuildup.stages.initial-0.label>

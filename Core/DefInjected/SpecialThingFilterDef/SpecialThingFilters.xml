@@ -38,6 +38,11 @@
   <!-- EN: Allow organic things which haven't started to rot yet. -->
   <AllowFresh.description>อนุญาตให้เก็บของตามธรรมชาติ ที่ยังไม่เริ่มเน่า</AllowFresh.description>
   
+  <!-- EN: allow large corpses -->
+  <AllowLargeCorpses.label>TODO</AllowLargeCorpses.label>
+  <!-- EN: Allow large, dead bodies. -->
+  <AllowLargeCorpses.description>TODO</AllowLargeCorpses.description>
+  
   <!-- EN: allow males -->
   <AllowMaleGender.label>อนุญาตให้ผู้ชาย</AllowMaleGender.label>
   <!-- EN: Allow male individuals. -->

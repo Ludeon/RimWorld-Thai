@@ -7,6 +7,9 @@
   <!-- EN: drop pod (incoming) -->
   <DropPodIncoming.label>กระสวยทิ้งดิ่ง (กำลังตก)</DropPodIncoming.label>
   
+  <!-- EN: drop pod (incoming) -->
+  <DropPodIncomingMechanoid.label>TODO</DropPodIncomingMechanoid.label>
+  
   <!-- EN: drop pod (leaving) -->
   <DropPodLeaving.label>กระสวยทิ้งดิ่ง (กำลังจากไป)</DropPodLeaving.label>
   
@@ -15,5 +18,8 @@
   
   <!-- EN: ship chunk (incoming) -->
   <ShipChunkIncoming.label>ชิ้นส่วนยาน (กำลังตก)</ShipChunkIncoming.label>
+  
+  <!-- EN: shuttle (crashing) -->
+  <ShuttleCrashing.label>TODO</ShuttleCrashing.label>
   
 </LanguageData>

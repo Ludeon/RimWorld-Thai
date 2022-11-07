@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: ศพอัลปากา -->
+  <!-- EN: ศพอัลปาก้า -->
   <Corpse_Alpaca.label>ซากอัลปาก้า</Corpse_Alpaca.label>
   
   <!-- EN: ศพอัลฟ่าบีเวอร์ -->
@@ -70,7 +70,7 @@
   <!-- EN: ศพจิ้งจอกแดง -->
   <Corpse_Fox_Red.label>ซากจิ้งจอกแดง</Corpse_Fox_Red.label>
   
-  <!-- EN: ศพกาเซลล์ -->
+  <!-- EN: ศพกวางละมั่ง -->
   <Corpse_Gazelle.label>ซากกวางละมั่ง</Corpse_Gazelle.label>
   
   <!-- EN: ศพกระต่ายป่า -->
@@ -85,7 +85,7 @@
   <!-- EN: ศพแพะภูเขา -->
   <Corpse_Ibex.label>ซากแพะภูเขา</Corpse_Ibex.label>
   
-  <!-- EN: ศพอิกัวน่า -->
+  <!-- EN: ศพอีกัวน่า -->
   <Corpse_Iguana.label>ซากอิกัวน่า</Corpse_Iguana.label>
   
   <!-- EN: ศพหมาลาบราดอร์ รีทรีฟเวอร์ -->
@@ -95,7 +95,7 @@
   <Corpse_Lynx.label>ซากแมวป่า</Corpse_Lynx.label>
   
   <!-- EN: ศพตะขาบกล -->
-  <Corpse_Mech_Centipede.label>ซากตะขาบกล</Corpse_Mech_Centipede.label>
+  <Corpse_Mech_CentipedeBlaster.label>ซากตะขาบกล</Corpse_Mech_CentipedeBlaster.label>
   
   <!-- EN: ศพแลนเซอร์ -->
   <Corpse_Mech_Lancer.label>ซากแลนเซอร์</Corpse_Mech_Lancer.label>
@@ -115,7 +115,7 @@
   <!-- EN: ศพลิง -->
   <Corpse_Monkey.label>ซากลิง</Corpse_Monkey.label>
   
-  <!-- EN: ศพมัฟฟาโล่ -->
+  <!-- EN: ศพมัฟฟาโล -->
   <Corpse_Muffalo.label>ซากมัฟฟาโล่</Corpse_Muffalo.label>
   
   <!-- EN: ศพนกกระจอกเทศ -->
@@ -145,7 +145,7 @@
   <!-- EN: ศพกระรอก -->
   <Corpse_Squirrel.label>ซากกระรอก</Corpse_Squirrel.label>
   
-  <!-- EN: ศพธรัมโบ -->
+  <!-- EN: ศพทรัมโบ -->
   <Corpse_Thrumbo.label>ซากธรัมโบ</Corpse_Thrumbo.label>
   
   <!-- EN: ศพเต่า -->
@@ -169,7 +169,7 @@
   <!-- EN: ศพหมายอร์กเชียร์ เทอร์เรียร์ -->
   <Corpse_YorkshireTerrier.label>ซากหมายอร์กเชียร์ เทอร์เรียร์</Corpse_YorkshireTerrier.label>
   
-  <!-- EN: เนื้อ อัลปากา -->
+  <!-- EN: เนื้อ อัลปาก้า -->
   <Meat_Alpaca.label>เนื้ออัลปากา</Meat_Alpaca.label>
   
   <!-- EN: เนื้อ อัลฟ่าบีเวอร์ -->
@@ -226,7 +226,7 @@
   <!-- EN: เนื้อจิ้งจอก -->
   <Meat_Fox_Fennec.label>เนื้อหมาจิ้งจอก</Meat_Fox_Fennec.label>
   
-  <!-- EN: เนื้อ กาเซลล์ -->
+  <!-- EN: เนื้อ กวางละมั่ง -->
   <Meat_Gazelle.label>เนื้อกวางละมั่ง</Meat_Gazelle.label>
   
   <!-- EN: เนื้อ กระต่ายป่า -->
@@ -241,7 +241,7 @@
   <!-- EN: เนื้อ แพะภูเขา -->
   <Meat_Ibex.label>เนื้อแพะภูเขา</Meat_Ibex.label>
   
-  <!-- EN: เนื้อ อิกัวน่า -->
+  <!-- EN: เนื้อ อีกัวน่า -->
   <Meat_Iguana.label>เนื้ออิกัวน่า</Meat_Iguana.label>
   
   <!-- EN: เนื้อ หมาลาบราดอร์ รีทรีฟเวอร์ -->
@@ -259,7 +259,7 @@
   <!-- EN: เนื้อ ลิง -->
   <Meat_Monkey.label>เนื้อลิง</Meat_Monkey.label>
   
-  <!-- EN: เนื้อ มัฟฟาโล่ -->
+  <!-- EN: เนื้อ มัฟฟาโล -->
   <Meat_Muffalo.label>เนื้อมัฟฟาโล่</Meat_Muffalo.label>
   
   <!-- EN: เนื้อ เสือดำ -->
@@ -280,7 +280,7 @@
   <!-- EN: เนื้อ กระรอก -->
   <Meat_Squirrel.label>เนื้อกระรอก</Meat_Squirrel.label>
   
-  <!-- EN: เนื้อ ธรัมโบ -->
+  <!-- EN: เนื้อ ทรัมโบ -->
   <Meat_Thrumbo.label>เนื้อธรัมโบ</Meat_Thrumbo.label>
   
   <!-- EN: เนื้อ เต่า -->

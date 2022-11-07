@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was fortunate enough to attend one of the best private schools on [PAWN_possessive] homeworld.\n\n[PAWN_nameDef] was also unfortuante enough to see [PAWN_possessive] parents separate at a young age. -->
+  <DivorceKid95.baseDesc>TODO</DivorceKid95.baseDesc>
+  <!-- EN: เด็กหย่าร้าง -->
+  <DivorceKid95.title>เด็กหย่าร้าง</DivorceKid95.title>
+  <!-- EN: การหย่าร้าง -->
+  <DivorceKid95.titleShort>การหย่าร้าง</DivorceKid95.titleShort>
+  
+  <!-- EN: [PAWN_nameDef]'s affluent family helped conceal [PAWN_possessive] habit of torturing animals.\n\nDespite years of therapy, [PAWN_pronoun] could never bring [PAWN_objective]self to interact with the little beasts in any normal way. [PAWN_pronoun] did learn a few things about how bodies live and die. -->
+  <PetTorturer60.baseDesc>TODO</PetTorturer60.baseDesc>
+  <!-- EN: ทรมานสัตว์เลี้ยง -->
+  <PetTorturer60.title>ทรมานสัตว์เลี้ยง</PetTorturer60.title>
+  <!-- EN: ทรมานสัตว์เลี้ยง -->
+  <PetTorturer60.titleShort>ทรมานสัตว์เลี้ยง</PetTorturer60.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a smart kid, so everyone encouraged [PAWN_possessive] ambition to become a politician.\n\n[PAWN_pronoun] would use any tactic to win, including direct psychological attacks.\n\nDuring one school election, the other candidate hung himself. [PAWN_nameDef] won by default. -->
+  <PoliticalClimber28.baseDesc>TODO</PoliticalClimber28.baseDesc>
+  <!-- EN: นักปีนเขาทางการเมือง -->
+  <PoliticalClimber28.title>นักปีนเขาทางการเมือง</PoliticalClimber28.title>
+  <!-- EN: นักปีนเขาทางการเมือง -->
+  <PoliticalClimber28.titleShort>นักปีนเขาทางการเมือง</PoliticalClimber28.titleShort>
+  
+</LanguageData>

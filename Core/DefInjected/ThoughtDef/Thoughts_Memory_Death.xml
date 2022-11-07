@@ -25,7 +25,7 @@
   <KnowColonistExecuted.stages.colonist_executed.description>ชาวนิคมตายเพราะบางคนนำอวัยวะของเขาออกไป มันเลวร้ายมาก</KnowColonistExecuted.stages.colonist_executed.description>
   <!-- EN: colonist organ-harvested -->
   <KnowColonistExecuted.stages.colonist_organharvested.label>ชาวนิคมเสียชีวิตในการเก็บเกี่ยวอวัยวะ</KnowColonistExecuted.stages.colonist_organharvested.label>
-  <!-- EN: A colonist died because someone took body parts from him. It's horrible. -->
+  <!-- EN: A colonist died because someone took body parts from them. It's horrible. -->
   <KnowColonistExecuted.stages.colonist_organharvested.description>ชาวนิคมเสียชีวิตหลังจากที่ถูกถอดออกอวัยวะเขา นั่นเป็นสิ่งที่โหดร้าย</KnowColonistExecuted.stages.colonist_organharvested.description>
   
   <!-- EN: justified execution -->
@@ -42,7 +42,7 @@
   <KnowGuestExecuted.stages.someone_was_executed.description>นักโทษหรือแขกตายเพราะอาณานิคมนำอวัยวะของเขาออกไป มันเลวร้ายมาก</KnowGuestExecuted.stages.someone_was_executed.description>
   <!-- EN: someone was organ-murdered -->
   <KnowGuestExecuted.stages.someone_was_organmurdered.label>มีคนถูกลอบสังหาร</KnowGuestExecuted.stages.someone_was_organmurdered.label>
-  <!-- EN: A prisoner or guest died because the colony took body parts from him. It's horrible. -->
+  <!-- EN: A prisoner or guest died because the colony took body parts from them. It's horrible. -->
   <KnowGuestExecuted.stages.someone_was_organmurdered.description>นักโทษหรือแขกเสียชีวิตเพราะอาณานิคมเอาส่วนต่างๆ ของร่างกายไปจากเขา มันน่ากลัว</KnowGuestExecuted.stages.someone_was_organmurdered.description>
   
   <!-- EN: innocent prisoner died -->

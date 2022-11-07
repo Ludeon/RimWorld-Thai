@@ -13,9 +13,9 @@
   <Bison.tools.right_hoof.label>กีบขวา</Bison.tools.right_hoof.label>
   
   <!-- EN: boomalope -->
-  <Boomalope.label>บูมมาโลป</Boomalope.label>
+  <Boomalope.label>บูมมาลูบ</Boomalope.label>
   <!-- EN: Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
-  <Boomalope.description>TODO</Boomalope.description>
+  <Boomalope.description>ถูกตัดต่อพันธุกรรมเพื่อใช้ในงานผลิตสารเคมี บูมมาลูบมีถุงเก็บสารระเหยทางเคมีบนหลังของมัน ถึงอ่อนแอและบอบบางสำหรับขนาดตัวเช่นนี้ แต่สัตว์อื่นๆเรียนรู้จะหลีกเลี่ยงพวกมัน เนื่องจากการระเบิดขนาดใหญ่เมื่อมันตาย, สามารถรีดนมของมันไปใช้ผลิตเชื้อเพลิงเคมีได้ - โปรดระมัดระวัง</Boomalope.description>
   <!-- EN: head -->
   <Boomalope.tools.head.label>หัว</Boomalope.tools.head.label>
   <!-- EN: left hoof -->
@@ -24,9 +24,9 @@
   <Boomalope.tools.right_hoof.label>กีบขวา</Boomalope.tools.right_hoof.label>
   
   <!-- EN: caribou -->
-  <Caribou.label>กวางคาริบู</Caribou.label>
+  <Caribou.label>กวางแคริบู</Caribou.label>
   <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
-  <Caribou.description>TODO</Caribou.description>
+  <Caribou.description>สมาชิกขนาดใหญ่ของสัตว์ตระกูลกวาง ปรับตัวได้ดีเข้ากับภูมิอากาศหนาวเย็น กวางแคริบูสามารถรีดนมได้ แต่ปฏิเสธที่จะขนของ</Caribou.description>
   <!-- EN: left hoof -->
   <Caribou.tools.left_hoof.label>กีบซ้าย</Caribou.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -60,7 +60,7 @@
   
   <!-- EN: dromedary -->
   <Dromedary.label>อูฐหนอกเดียว</Dromedary.label>
-  <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal, but its bouncing gait makes it too uncomfortable to ride for any distance.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking.\n\nWhen in a caravan, people can ride dromedaries to increase the caravan's speed. -->
+  <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its leather is exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal and mount, but its bouncing gait makes it slower to ride than a horse.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking.\n\nWhen in a caravan, people can ride dromedaries to increase the caravan's speed. -->
   <Dromedary.description>TODO</Dromedary.description>
   <!-- EN: left hoof -->
   <Dromedary.tools.left_hoof.label>กีบซ้าย</Dromedary.tools.left_hoof.label>
@@ -76,16 +76,16 @@
   <!-- EN: tusk -->
   <Elephant.tools.tusk.label>งา</Elephant.tools.tusk.label>
   <!-- EN: left foot -->
-  <Elephant.tools.left_foot.label>กีบซ้าย</Elephant.tools.left_foot.label>
+  <Elephant.tools.left_foot.label>เท้าซ้าย</Elephant.tools.left_foot.label>
   <!-- EN: right foot -->
-  <Elephant.tools.right_foot.label>กีบขวา</Elephant.tools.right_foot.label>
+  <Elephant.tools.right_foot.label>เท้าขวา</Elephant.tools.right_foot.label>
   <!-- EN: head -->
   <Elephant.tools.head.label>หัว</Elephant.tools.head.label>
   
   <!-- EN: elk -->
   <Elk.label>กวางเอลก์</Elk.label>
   <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
-  <Elk.description>TODO</Elk.description>
+  <Elk.description>สมาชิกขนาดใหญ่ของสัตว์ตระกูลกวาง ปรับตัวได้ดีเข้ากับภูมิอากาศหนาวเย็น กวางเอลก์เลี้ยงสามารถรีดนมได้ แต่ปฏิเสธที่จะขนของ</Elk.description>
   <!-- EN: left hoof -->
   <Elk.tools.left_hoof.label>กีบซ้าย</Elk.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -133,7 +133,7 @@
   <!-- EN: horn -->
   <Rhinoceros.tools.horn-1.label>เขา</Rhinoceros.tools.horn-1.label>
   <!-- EN: head -->
-  <Rhinoceros.tools.head.label>TODO</Rhinoceros.tools.head.label>
+  <Rhinoceros.tools.head.label>หัว</Rhinoceros.tools.head.label>
   
   <!-- EN: yak -->
   <Yak.label>จามรี</Yak.label>

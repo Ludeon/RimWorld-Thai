@@ -8,7 +8,7 @@
   <HigherPriority>สำคัญมากกว่า</HigherPriority>
   <!-- EN: lower priority -->
   <LowerPriority>สำคัญน้อยกว่า</LowerPriority>
-  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} / {2} -->
+  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} -->
   <RelevantSkills>ทักษะที่เกี่ยวข้อง: {0}\nค่าเฉลี่ยของทักษะที่เกี่ยวข้อง: {1} / {2}</RelevantSkills>
   <!-- EN: Click to jump to: -->
   <ClickToJumpTo>คลิกเพื่อกระโดดไปที่:</ClickToJumpTo>
@@ -16,7 +16,7 @@
   <CannotDoThisWork>{1_labelShort} ไม่สามารถทำงานประเภทนี้ได้</CannotDoThisWork>
   <!-- EN: (none) -->
   <NoneBrackets>(ไม่มี)</NoneBrackets>
-  <!-- EN: This colonist is not able to do any work of this type because of his health condition. -->
+  <!-- EN: This colonist is not able to do any work of this type because of their health condition. -->
   <IncapableOfWorkTypeBecauseOfCapacities>อาณานิคมนี้ไม่สามารถทำงานประเภทนี้เนื่องจากสภาพสุขภาพของเขา</IncapableOfWorkTypeBecauseOfCapacities>
   <!-- EN: E -->
   <EmergencyWorkMarker>ฉ</EmergencyWorkMarker>
@@ -36,11 +36,11 @@
   <Priority4>ความสำคัญต่ำ</Priority4>
   <!-- EN: {0}\n\nThe faction {1_nameDef} currently belongs to.\n\nClick to view faction. -->
   <PawnFactionInfo>{0}\n\nฝ่าย {1_nameDef} อยู่ในตอนนี้\n\nคลิกเพื่อดูฝ่าย</PawnFactionInfo>
-  <!-- EN: Disabled by backstory: {0} -->
+  <!-- EN: Disabled by {0} backstory -->
   <WorkDisabledByBackstory>TODO</WorkDisabledByBackstory>
-  <!-- EN: Disabled by trait: {0} -->
+  <!-- EN: Disabled by {0} trait -->
   <WorkDisabledByTrait>TODO</WorkDisabledByTrait>
-  <!-- EN: Disabled by quest: {0} -->
+  <!-- EN: Disabled by quest '{0}' -->
   <WorkDisabledByQuest>TODO</WorkDisabledByQuest>
   
   <!-- Assign tab -->
@@ -78,6 +78,10 @@
   <PregnantIconDesc>ตั้งครรภ์ ({0} / {1})</PregnantIconDesc>
   <!-- EN: Bonded to -->
   <BondedTo>ผูกพันธ์กับ</BondedTo>
+  <!-- EN: Sterilize animal. -->
+  <SterilizeAnimal>TODO</SterilizeAnimal>
+  <!-- EN: Animal sterile. -->
+  <AnimalAlreadySterile>TODO</AnimalAlreadySterile>
   
   <!-- Wildlife tab -->
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
@@ -182,8 +186,10 @@
   <!-- Research tab -->
   <!-- EN: Research -->
   <Research>วิจัย</Research>
-  <!-- EN: Researched -->
-  <Researched>วิจัยเสร็จ</Researched>
+  <!-- EN: Study -->
+  <Study>TODO</Study>
+  <!-- EN: Study {0} -->
+  <StudyThing>TODO</StudyThing>
   <!-- EN: Unresearched -->
   <Unresearched>ยังไม่ได้วิจัย</Unresearched>
   <!-- EN: Finished -->
@@ -200,6 +206,8 @@
   <InsufficientTechprintsApplied>พิมพ์เทคไม่พอใช้งาน ({0} / {1})</InsufficientTechprintsApplied>
   <!-- EN: Prerequisite(s) not completed -->
   <PrerequisitesNotCompleted>ความต้องการเบื้องต้นยังไม่เรียบร้อย</PrerequisitesNotCompleted>
+  <!-- EN: Missing required research facilities -->
+  <MissingRequiredResearchFacilities>TODO</MissingRequiredResearchFacilities>
   <!-- EN: Required research bench -->
   <RequiredResearchBench>ต้องการโต๊ะวิจัย</RequiredResearchBench>
   <!-- EN: Required research bench facilities -->
@@ -340,5 +348,12 @@
   <!-- Health tab -->
   <!-- EN: Creates need -->
   <CreatesNeed>สร้างความต้องการ</CreatesNeed>
+
+  <!-- Misc -->
+  <!-- EN: Click to edit -->
+  <ClickToEdit>TODO</ClickToEdit>
+
+  <!-- UNUSED -->
+  <Researched>วิจัยเสร็จ</Researched>
 
 </LanguageData>

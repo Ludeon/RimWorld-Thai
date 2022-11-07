@@ -13,6 +13,9 @@
   <!-- EN: armor -->
   <ApparelArmor.label>เกราะ</ApparelArmor.label>
   
+  <!-- EN: misc -->
+  <ApparelMisc.label>TODO</ApparelMisc.label>
+  
   <!-- EN: noble apparel -->
   <ApparelNoble.label>เครื่องแต่งกายชั้นสูง</ApparelNoble.label>
   
@@ -127,6 +130,9 @@
   <!-- EN: items -->
   <Items.label>ไอเท็ม</Items.label>
   
+  <!-- EN: misc -->
+  <ItemsMisc.label>TODO</ItemsMisc.label>
+  
   <!-- EN: leathers -->
   <Leathers.label>แผ่นหนัง</Leathers.label>
   
@@ -171,6 +177,9 @@
   
   <!-- EN: stone chunks -->
   <StoneChunks.label>ชิ้นส่วนหิน</StoneChunks.label>
+  
+  <!-- EN: stumps -->
+  <Stumps.label>TODO</Stumps.label>
   
   <!-- EN: techprints -->
   <Techprints.label>TODO</Techprints.label>

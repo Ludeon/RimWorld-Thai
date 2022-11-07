@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] grew up in the sludge-smeared sewers of a polluted industrial world.\n\n[PAWN_pronoun] befriended the strange insects in the darkness, and learned to love them. -->
+  <SewerKid57.baseDesc>TODO</SewerKid57.baseDesc>
+  <!-- EN: เด็กท่อระบายน้ำ -->
+  <SewerKid57.title>เด็กท่อระบายน้ำ</SewerKid57.title>
+  <!-- EN: สาวท่อระบายน้ำ -->
+  <SewerKid57.titleFemale>สาวท่อระบายน้ำ</SewerKid57.titleFemale>
+  <!-- EN: เด็กชายท่อระบายน้ำ -->
+  <SewerKid57.titleShort>เด็กชายท่อระบายน้ำ</SewerKid57.titleShort>
+  <!-- EN: สาวท่อระบายน้ำ -->
+  <SewerKid57.titleShortFemale>สาวท่อระบายน้ำ</SewerKid57.titleShortFemale>
+  
+</LanguageData>

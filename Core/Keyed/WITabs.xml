@@ -6,6 +6,8 @@
   <TabTerrain>ภูมิประเทศ</TabTerrain>
   <!-- EN: Planet -->
   <TabPlanet>ดาวเคราะห์</TabPlanet>
+  <!-- EN: Feeding -->
+  <TabCaravanFeeding>TODO</TabCaravanFeeding>
   <!-- EN: Social -->
   <TabCaravanSocial>สังคม</TabCaravanSocial>
   <!-- EN: Health -->

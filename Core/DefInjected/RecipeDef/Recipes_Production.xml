@@ -26,6 +26,8 @@
   <Make_ChemfuelFromOrganics.label>ทำ เชื้อเพลิงจากออร์แกนิค</Make_ChemfuelFromOrganics.label>
   <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. -->
   <Make_ChemfuelFromOrganics.description>ผลิตชุดเชื้อเพลิงเคมี ด้วยการสกัดเชื้อเพลิงไอโบจากวัตถุดิบอินทรีย์</Make_ChemfuelFromOrganics.description>
+  <!-- EN: feedstock -->
+  <Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>TODO</Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>
   <!-- EN: Refining chemfuel from organics. -->
   <Make_ChemfuelFromOrganics.jobString>กำลังทำเชื้อเพลิง</Make_ChemfuelFromOrganics.jobString>
   

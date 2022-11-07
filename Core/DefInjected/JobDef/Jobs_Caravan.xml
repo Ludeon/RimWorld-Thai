@@ -13,7 +13,10 @@
   <!-- EN: gathering supplies. -->
   <PrepareCaravan_GatherItems.reportString>กำลังรวบรวมเสบียง</PrepareCaravan_GatherItems.reportString>
   
-  <!-- EN: preparing to leave. -->
+  <!-- UNUSED -->
   <PrepareCaravan_GatherPawns.reportString>กำลังเตรียมตัวออกเดินทาง</PrepareCaravan_GatherPawns.reportString>
+  
+  <!-- EN: taking TargetA back to a pen. -->
+  <ReturnedCaravan_PenAnimals.reportString>TODO</ReturnedCaravan_PenAnimals.reportString>
   
 </LanguageData>

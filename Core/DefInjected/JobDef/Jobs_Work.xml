@@ -46,6 +46,9 @@
   <!-- EN: escorting prisoner TargetA. -->
   <EscortPrisonerToBed.reportString>กำลังนำตัวนักโทษ TargetA ไปยังเตียง</EscortPrisonerToBed.reportString>
   
+  <!-- EN: extracting TargetA. -->
+  <ExtractTree.reportString>TODO</ExtractTree.reportString>
+  
   <!-- EN: feeding TargetA to TargetB. -->
   <FeedPatient.reportString>กำลังป้อน TargetA ให้ TargetB</FeedPatient.reportString>
   
@@ -88,6 +91,12 @@
   <!-- EN: scanning at TargetA. -->
   <OperateScanner.reportString>กำลังแสกน TargetA</OperateScanner.reportString>
   
+  <!-- EN: painting TargetA. -->
+  <PaintBuilding.reportString>TODO</PaintBuilding.reportString>
+  
+  <!-- EN: painting TargetA. -->
+  <PaintFloor.reportString>TODO</PaintFloor.reportString>
+  
   <!-- EN: building TargetA. -->
   <PlaceNoCostFrame.reportString>กำลังสร้าง TargetA</PlaceNoCostFrame.reportString>
   
@@ -106,17 +115,29 @@
   <!-- EN: removing floor. -->
   <RemoveFloor.reportString>กำลังรื้อพื้น</RemoveFloor.reportString>
   
+  <!-- EN: removing paint from TargetA. -->
+  <RemovePaintBuilding.reportString>TODO</RemovePaintBuilding.reportString>
+  
+  <!-- EN: removing paint from TargetA. -->
+  <RemovePaintFloor.reportString>TODO</RemovePaintFloor.reportString>
+  
   <!-- EN: removing roof. -->
   <RemoveRoof.reportString>กำลังรื้อหลังคา</RemoveRoof.reportString>
   
   <!-- EN: repairing TargetA. -->
   <Repair.reportString>กำลังซ่อมแซม TargetA</Repair.reportString>
   
+  <!-- EN: replanting TargetA. -->
+  <Replant.reportString>TODO</Replant.reportString>
+  
   <!-- EN: rescuing TargetA. -->
   <Rescue.reportString>กำลังช่วยเหลือ TargetA</Rescue.reportString>
   
   <!-- EN: researching. -->
   <Research.reportString>กำลังค้นคว้าวิจัย</Research.reportString>
+  
+  <!-- EN: leading TargetA to hitching spot. -->
+  <RopeRoamerToHitchingPost.reportString>TODO</RopeRoamerToHitchingPost.reportString>
   
   <!-- EN: leading TargetA to TargetC. -->
   <RopeRoamerToUnenclosedPen.reportString>นำ TargetA สู่ TargetC</RopeRoamerToUnenclosedPen.reportString>
@@ -143,10 +164,10 @@
   <Steal.reportString>กำลังขโมย TargetA.</Steal.reportString>
   
   <!-- EN: Studying TargetA. -->
-  <StudyThing.reportString>กำลังศึกษา TargetA</StudyThing.reportString>
+  <StudyBuilding.reportString>กำลังศึกษา TargetA</StudyBuilding.reportString>
   
   <!-- EN: taking TargetA to bed. -->
-  <TakeToBedToOperate.reportString>กำลังพา TargetA ไปที่เตียง</TakeToBedToOperate.reportString>
+  <TakeDownedPawnToBedDrafted.reportString>TODO</TakeDownedPawnToBedDrafted.reportString>
   
   <!-- EN: taking TargetA to bed. -->
   <TakeToBedToOperate.reportString>กำลังพา TargetA ไปที่เตียง</TakeToBedToOperate.reportString>
@@ -165,6 +186,9 @@
   
   <!-- EN: uninstalling TargetA. -->
   <Uninstall.reportString>กำลังถอนติดตั้ง TargetA</Uninstall.reportString>
+  
+  <!-- EN: unroping TargetA. -->
+  <Unrope.reportString>TODO</Unrope.reportString>
   
   <!-- EN: using comms console. -->
   <UseCommsConsole.reportString>กำลังใช้เครื่องควมคุมการสื่อสาร</UseCommsConsole.reportString>

@@ -24,7 +24,7 @@
   
   <!-- EN: Shield max energy -->
   <EnergyShieldEnergyMax.label>โล่ พลังงานสูงสุด</EnergyShieldEnergyMax.label>
-  <!-- EN: The maximum energy a shield belt can have at one time.\n\nMore energy absorbs more damage. -->
+  <!-- EN: The maximum energy a shield can have at one time.\n\nMore energy absorbs more damage. -->
   <EnergyShieldEnergyMax.description>พลังงานสูงสุดที่เข็มขัดโล่สามารถมีได้ในเวลาหนึ่งๆ พลังงานยิ่งมากยิ่งรับความเสียหายได้เยอะ</EnergyShieldEnergyMax.description>
   
   <!-- EN: Shield recharge rate -->

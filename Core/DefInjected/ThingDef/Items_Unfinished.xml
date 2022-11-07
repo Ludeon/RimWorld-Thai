@@ -4,6 +4,9 @@
   <!-- EN: minified thing -->
   <MinifiedThing.label>ประติมากรรมขนาดจิ้ว</MinifiedThing.label>
   
+  <!-- EN: minified tree -->
+  <MinifiedTree.label>TODO</MinifiedTree.label>
+  
   <!-- EN: unfinished apparel -->
   <UnfinishedApparel.label>เสื้อผ้า ยังไม่เสร็จ</UnfinishedApparel.label>
   <!-- EN: An unfinished piece of an apparel. -->
@@ -38,6 +41,11 @@
   <UnfinishedHealthItemProsthetic.label>TODO</UnfinishedHealthItemProsthetic.label>
   <!-- EN: An unfinished prosthetic. -->
   <UnfinishedHealthItemProsthetic.description>TODO</UnfinishedHealthItemProsthetic.description>
+  
+  <!-- EN: unfinished mask -->
+  <UnfinishedMask.label>TODO</UnfinishedMask.label>
+  <!-- EN: An unfinished mask. -->
+  <UnfinishedMask.description>TODO</UnfinishedMask.description>
   
   <!-- EN: unfinished metal armor -->
   <UnfinishedMetallicTechArmor.label>เกราะโลหะ ยังไม่เสร็จ</UnfinishedMetallicTechArmor.label>

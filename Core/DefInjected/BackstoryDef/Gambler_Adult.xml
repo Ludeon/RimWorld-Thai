@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] always had an appetite for risk. Military life satisfied that need for a while, but eventually it wasn't enough.\n\nSeeking greater gambles, [PAWN_nameDef] took an offer from a mysterious machine persona and traveled to an unknown rimworld with a mysterious implant in [PAWN_possessive] head. -->
+  <ExMilitary9.baseDesc>TODO</ExMilitary9.baseDesc>
+  <!-- EN: อดีตทหาร -->
+  <ExMilitary9.title>อดีตทหาร</ExMilitary9.title>
+  <!-- EN: อดีตทหาร -->
+  <ExMilitary9.titleShort>อดีตทหาร</ExMilitary9.titleShort>
+  
+  <!-- EN: A life of insurance dealing consumed [PAWN_nameDef]'s hopes and dreams. When a mysterious machine persona offered the gambler implant, it seemed like a way to add color to a gray existence.\n\n[PAWN_nameDef] did not, however, plan on being captured by pirates and sent across the galaxy to a distant rimworld. -->
+  <InsuranceBroker9.baseDesc>TODO</InsuranceBroker9.baseDesc>
+  <!-- EN: นายหน้าประกันภัย -->
+  <InsuranceBroker9.title>นายหน้าประกันภัย</InsuranceBroker9.title>
+  <!-- EN: นายหน้า -->
+  <InsuranceBroker9.titleShort>นายหน้า</InsuranceBroker9.titleShort>
+  
+  <!-- EN: When [PAWN_nameDef] was offered [PAWN_possessive] yearly salary in order to test a new implant, [PAWN_pronoun] jumped at the chance. Ever since then, [PAWN_nameDef] has been looking for a way to get it removed. -->
+  <LazyWorker78.baseDesc>TODO</LazyWorker78.baseDesc>
+  <!-- EN: ขี้เกียจทำงาน -->
+  <LazyWorker78.title>ขี้เกียจทำงาน</LazyWorker78.title>
+  <!-- EN: ขี้เกียจทำงาน -->
+  <LazyWorker78.titleShort>ขี้เกียจทำงาน</LazyWorker78.titleShort>
+  
+</LanguageData>

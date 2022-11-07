@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: alphabeaver -->
-  <Alphabeaver.label>แอลฟาบีเวอร์</Alphabeaver.label>
+  <Alphabeaver.label>อัลฟ่าบีเวอร์</Alphabeaver.label>
   <!-- EN: A large beaver-like creature genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole, and are likely to attack if disturbed. -->
-  <Alphabeaver.description>TODO</Alphabeaver.description>
+  <Alphabeaver.description>สัตว์ขนาดใหญ่คล้ายตัวบีเวอร์ ตัดต่อพันธุกรรมเพื่อเก็บเกี่ยวไม้ด้วยประสิทธฺผลราวเครื่องจักร ในกรณีที่อาหารเฉพาะของพวกมันสิ้นไป สัตว์เหล่านี้จะเข้าสู๋สถานะบ้าคลั่ง กระตุ้นให้พวกมันกินต้นไม้ทั้งต้น และเป็นไปได้มากจะโจมตีหากถูกรบกวน</Alphabeaver.description>
   <!-- EN: left claw -->
   <Alphabeaver.tools.left_claw.label>กรงเล็บซ้าย</Alphabeaver.tools.left_claw.label>
   <!-- EN: right claw -->
@@ -15,11 +15,11 @@
   <!-- EN: cobra -->
   <Cobra.label>งูเห่า</Cobra.label>
   <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
-  <Cobra.description>TODO</Cobra.description>
+  <Cobra.description>งูผู้ล่าขนาดใหญ่ งูเห่าอาจจู่โจมก้าวร้าวหากถูกรบกวน เขี้ยวของมันฉีดพิษเข้าในตัวเหยื่อเมื่อกัด</Cobra.description>
   <!-- EN: cobra meat -->
-  <Cobra.race.meatLabel>กรงเล็บซ้าย</Cobra.race.meatLabel>
+  <Cobra.race.meatLabel>เนื้องูเห่า</Cobra.race.meatLabel>
   <!-- EN: venom-fangs -->
-  <Cobra.tools.venomfangs.label>กรงเล็บขวา</Cobra.tools.venomfangs.label>
+  <Cobra.tools.venomfangs.label>เขี้ยวพิษ</Cobra.tools.venomfangs.label>
   <!-- EN: head -->
   <Cobra.tools.head.label>หัว</Cobra.tools.head.label>
   
@@ -39,7 +39,7 @@
   <!-- EN: tortoise -->
   <Tortoise.label>เต่า</Tortoise.label>
   <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
-  <Tortoise.description>TODO</Tortoise.description>
+  <Tortoise.description>สัตว์เลื้อยคลานมีกระดองแข็งแรง อาศัยบนบก เป็นที่รู้จักกันจากความเชื่องช้าในการเดิน และแรงกัดที่ร้ายกาจอย่างไม่น่าเชื่อ ด้วยเกราะป้องกันตามธรรมชาติ พวกมันยากที่จะฆ่า และสร้างความเสียหายจริงจังในศึกสู้ประชิดที่โดนลากยาว</Tortoise.description>
   <!-- EN: beak -->
   <Tortoise.tools.beak.label>จงอย</Tortoise.tools.beak.label>
   <!-- EN: head -->

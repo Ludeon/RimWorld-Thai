@@ -74,7 +74,7 @@
   
   <!-- EN: opinion of my {0} {1} -->
   <OpinionOfMyLover.stages.opinion_of_my.label>ความคิดเห็นของ {0} {1}</OpinionOfMyLover.stages.opinion_of_my.label>
-  <!-- EN: Being with my lover makes me feel this way. -->
+  <!-- EN: Being with them makes me feel this way. -->
   <OpinionOfMyLover.stages.opinion_of_my.description>การได้อยู่กับคนรักทำให้ฉันรู้สึกแบบนี้</OpinionOfMyLover.stages.opinion_of_my.description>
   
   <!-- EN: physically appealing -->
@@ -91,37 +91,26 @@
   <!-- EN: teetotaler vs chemical interest -->
   <TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>ความสัมพันธ์ทางเคมีกับสารเคมี</TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>
   
-  <!-- EN: transhumanist appreciation -->
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-0.label>TODO</TranshumanistAppreciation.stages.transhumanist_appreciation-0.label>
-  <!-- EN: transhumanist appreciation -->
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-1.label>TODO</TranshumanistAppreciation.stages.transhumanist_appreciation-1.label>
-  <!-- EN: transhumanist appreciation -->
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-2.label>TODO</TranshumanistAppreciation.stages.transhumanist_appreciation-2.label>
-  <!-- EN: transhumanist appreciation -->
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-3.label>TODO</TranshumanistAppreciation.stages.transhumanist_appreciation-3.label>
-  <!-- EN: transhumanist appreciation -->
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>TODO</TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>
-  
-  <!-- UNUSED -->
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-0.label>TODO</TranshumanistAppreciation.stages.transhumanist_appreciation-0.label>
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-1.label>TODO</TranshumanistAppreciation.stages.transhumanist_appreciation-1.label>
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-2.label>TODO</TranshumanistAppreciation.stages.transhumanist_appreciation-2.label>
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-3.label>TODO</TranshumanistAppreciation.stages.transhumanist_appreciation-3.label>
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>TODO</TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-0.label>TODO</TranshumanistAppreciation.stages.body_modder_appreciation-0.label>
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-1.label>TODO</TranshumanistAppreciation.stages.body_modder_appreciation-1.label>
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-2.label>TODO</TranshumanistAppreciation.stages.body_modder_appreciation-2.label>
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-3.label>TODO</TranshumanistAppreciation.stages.body_modder_appreciation-3.label>
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-4.label>TODO</TranshumanistAppreciation.stages.body_modder_appreciation-4.label>
   
   <!-- EN: physically unsightly -->
   <Ugly.stages.physically_unsightly.label>ไม่น่าดู</Ugly.stages.physically_unsightly.label>
   <!-- EN: physically hideous -->
   <Ugly.stages.physically_hideous.label>น่าเกลียด</Ugly.stages.physically_hideous.label>
   
-  <!-- EN: want to sleep with {0} -->
-  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>ต้องการที่จะนอนกับ {0}</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>
-  <!-- EN: I don't like sleeping apart from my partner. -->
-  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>ฉันไม่ชอบนอนแยกจากคนรักของฉัน</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>
-  
-  <!-- UNUSED -->
-  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>TODO</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>
-  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>TODO</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>
+  <!-- EN: sleeping alone -->
+  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>TODO</WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>
+  <!-- EN: I should be sleeping with a lover or spouse. -->
+  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>TODO</WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>
   
   <!-- EN: woman -->
   <Woman.stages.woman.label>ผู้หญิง</Woman.stages.woman.label>

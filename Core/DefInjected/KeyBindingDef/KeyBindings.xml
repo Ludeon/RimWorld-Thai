@@ -49,6 +49,9 @@
   <!-- EN: toggle debug settings menu -->
   <Dev_ToggleDebugSettingsMenu.label>เปิด-ปิด Debug Settings Menu</Dev_ToggleDebugSettingsMenu.label>
   
+  <!-- EN: toggle dev palette -->
+  <Dev_ToggleDevPalette.label>TODO</Dev_ToggleDevPalette.label>
+  
   <!-- EN: toggle god mode -->
   <Dev_ToggleGodMode.label>เปิด-ปิด God Mode</Dev_ToggleGodMode.label>
   
@@ -124,14 +127,26 @@
   <!-- EN: select next in cell -->
   <SelectNextInCell.label>เลือกสิ่งถัดไป ที่อยู่ในช่องเดียวกัน</SelectNextInCell.label>
   
+  <!-- EN: show cell inspector -->
+  <ShowCellInspector.label>TODO</ShowCellInspector.label>
+  
+  <!-- EN: show eyedropper -->
+  <ShowEyedropper.label>TODO</ShowEyedropper.label>
+  
   <!-- EN: take screenshot -->
   <TakeScreenshot.label>ถ่าย Screenshot</TakeScreenshot.label>
   
   <!-- EN: game speed: Fast -->
   <TimeSpeed_Fast.label>ความเร็วเกม: เร็ว</TimeSpeed_Fast.label>
   
+  <!-- EN: game speed: Faster -->
+  <TimeSpeed_Faster.label>TODO</TimeSpeed_Faster.label>
+  
   <!-- EN: game speed: Normal -->
   <TimeSpeed_Normal.label>ความเร็วเกม: ปกติ</TimeSpeed_Normal.label>
+  
+  <!-- EN: game speed: Slower -->
+  <TimeSpeed_Slower.label>TODO</TimeSpeed_Slower.label>
   
   <!-- EN: game speed: Super fast -->
   <TimeSpeed_Superfast.label>ความเร็วเกม: เร็วมาก</TimeSpeed_Superfast.label>

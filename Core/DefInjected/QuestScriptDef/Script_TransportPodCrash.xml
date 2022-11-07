@@ -4,18 +4,10 @@
   <!-- EN:
     <li>questDescription->A transport pod crashes with a refugee</li>
   -->
-  <RefugeePodCrash.questDescriptionRules.rulesStrings>
-    <li>questDescription->ตู้ขนส่งชนกับผู้ลี้ภัย</li>
-  </RefugeePodCrash.questDescriptionRules.rulesStrings>
+  <RefugeePodCrash.questDescriptionRules.rulesStrings>TODO</RefugeePodCrash.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Transport pod crash</li>
   -->
-  <RefugeePodCrash.questNameRules.rulesStrings>
-    <li>questName->ความผิดพลาดของกระสวยขนส่ง</li>
-  </RefugeePodCrash.questNameRules.rulesStrings>
-  
-  <!-- UNUSED -->
-  <RefugeePodCrash.questDescriptionRules.rulesStrings>TODO</RefugeePodCrash.questDescriptionRules.rulesStrings>
   <RefugeePodCrash.questNameRules.rulesStrings>TODO</RefugeePodCrash.questNameRules.rulesStrings>
   
 </LanguageData>

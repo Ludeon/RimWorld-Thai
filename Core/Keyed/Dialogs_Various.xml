@@ -13,6 +13,22 @@
   <Close>ปิด</Close>
   <!-- EN: Accept -->
   <Accept>ยอมรับ</Accept>
+  <!-- EN: Cancel -->
+  <Cancel>TODO</Cancel>
+  <!-- EN: Reset -->
+  <Reset>รีเซ็ต</Reset>
+  <!-- EN: Reset all -->
+  <ResetAll>TODO</ResetAll>
+  <!-- EN: Disable -->
+  <Disable>TODO</Disable>
+  <!-- EN: Modify -->
+  <Modify>TODO</Modify>
+  <!-- EN: Settle here anyways? -->
+  <ConfirmSettle>TODO</ConfirmSettle>
+  <!-- EN: add -->
+  <Add>TODO</Add>
+  <!-- EN: Cannot shoot -->
+  <CannotShoot>TODO</CannotShoot>
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
@@ -25,6 +41,8 @@
   <GameUpdatedToNewVersionNonSteam>เนื่องจากนี่เป็นก๊อปปี้ของเกมแบบไร้ DRM, คุณสามารถติดตั้งเกมซ้ำในโฟลเดอร์อื่น เพื่อให้สามารถเล่นทั้งเวอร์ชั่นเก่าและใหม่ได้</GameUpdatedToNewVersionNonSteam>
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu. -->
   <GameUpdatedToNewVersionSteam>ถ้าคุณต้องการจะใช้เวอร์ชั่นเก่าต่อ คุณสามารถเลือกได้โดยใช้ฟีเจอร์ "Betas" ของ Steam \n\n  1. ใน Steam Library คลิกขวาเกม RimWorld\n  2. คลิก Properties\n  3. คลิกแท็บ Betas\n  4. เลือกเวอร์ชั่นที่คุณต้องการจากเมนู drop-down</GameUpdatedToNewVersionSteam>
+  <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature. -->
+  <GameUpdatedToNewVersionSteamController>TODO</GameUpdatedToNewVersionSteamController>
   
   <!-- Recovered from errors caused by mods -->
   <!-- EN: Recovered from incompatible or corrupted mods errors -->
@@ -161,10 +179,28 @@
   <ZoneGainsName>โซนนี้ต่อไปเรียกว่า {0}</ZoneGainsName>
   
   <!-- Pawn naming -->
+  <!-- EN: Chosen name is invalid. -->
+  <NameInvalid>TODO</NameInvalid>
   <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
   <PawnGainsName>คนนี้ต่อไปมีชื่อเล่นว่า {0} บรรดาศักดิ์{PAWN_possessive}คือ {PAWN_title}</PawnGainsName>
   <!-- EN: The animal's name is now {0}. -->
   <AnimalGainsName>สัตว์เลี้ยงนี้ต่อไปมีชื่อว่า {0}</AnimalGainsName>
+  <!-- EN: rename person -->
+  <RenamePerson>TODO</RenamePerson>
+  <!-- EN: mother -->
+  <Mother>TODO</Mother>
+  <!-- EN: father -->
+  <Father>TODO</Father>
+  <!-- EN: unknown -->
+  <Unknown>TODO</Unknown>
+  <!-- EN: first name -->
+  <FirstName>TODO</FirstName>
+  <!-- EN: nickname -->
+  <NickName>TODO</NickName>
+  <!-- EN: last name -->
+  <LastName>TODO</LastName>
+  <!-- EN: suggested -->
+  <Suggested>TODO</Suggested>
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
@@ -177,8 +213,12 @@
   <FileIncompatibleWarning>ไฟล์เซฟด้วยเกมเวอร์ชั่น {0}\nเรากำลังรันเวอร์ชั่น {1}\n\nการโหลดไฟล์นี้ อาจจะทำให้เกิดข้อผิดพลาดจนเกมดับได้</FileIncompatibleWarning>
   <!-- EN: Mods mismatch -->
   <ModsMismatchWarningTitle>Mods ไม่ตรงกัน</ModsMismatchWarningTitle>
-  <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
+  <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do. -->
   <ModsMismatchWarningText>ไฟล์นี้เซฟพร้อมรายการ mods เปิดใช้งานอันแตกต่างจากที่เรากำลังรันอยู่ตอนนี้ นี้อาจจะทำให้เกิดหรือไม่เกิดปัญหา ขึ้นอยู่กับว่า mods เหล่านั้นทำอะไรไปบ้าง\n\nไฟล์เซฟด้วย (ตามลำดับ):\n\n{0}\n\nเรากำลังรันด้วย (ตามลำดับ):\n\n{1}</ModsMismatchWarningText>
+  <!-- EN: No mods have been added or removed, but the order of your mod list has changed. -->
+  <ModsMismatchOrderChanged>TODO</ModsMismatchOrderChanged>
+  <!-- EN: Are you sure you want to load the mod list from this save file? -->
+  <ConfirmLoadSaveList>TODO</ConfirmLoadSaveList>
 
   <!-- Resolution change dialog -->
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
@@ -191,7 +231,19 @@
   <!-- Confirm permanently disable dev mode -->
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
   <ConfirmPermanentlyDisableDevMode>คุณต้องการปิดใช้โหมดพัฒนาไปอย่างถาวร บนคอมพิวเตอร์เครื่องนี้ใช่หรือไม่?\n\nตัวเลือกนี้สำหรับคนที่อยากได้ประสบการณ์การเล่นแบบเพียวๆ โดยไม่มีความยั่วยวนใจของการใช้โหมดพัฒนา เพื่อให้ได้มีข้อได้เปรียบในการเล่นทั่วไป\n\nจริงๆโหมดพัฒนาสามารถเปิดขึ้นมาใหม่ได้ แต่ว่าการทำแบบนั้นจะต้องไปแก้ไขไฟล์ configuration ด้วยตัวเอง คุณไปค้นในอินเตอร์เน็ตเอาว่าทำยังไง</ConfirmPermanentlyDisableDevMode>
-  
+
+  <!-- Confirm reset learning helper -->
+  <!-- EN: Are you sure you want to reset the learning helper?\n\nAll records of which concepts have been learned will be erased and the system will teach everything from scratch. -->
+  <ConfirmResetLearningHelper>TODO</ConfirmResetLearningHelper>
+
+  <!-- Backstory translation restart dialog -->
+  <!-- EN: Backstories are now implemented as a def and all legacy backstory translations have been imported into def translations. The file {0} has been imported and moved to {1}. It can now be deleted.\n\nRestart the game for changes to take effect. -->
+  <RestartAfterImportingLegacyBackstoryTanslations>TODO</RestartAfterImportingLegacyBackstoryTanslations>
+
+  <!-- Game start -->
+  <!-- EN: Must include exactly {SUMMARY} -->
+  <SelectedCharactersMustInclude>TODO</SelectedCharactersMustInclude>
+
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
   <MapTemperatureDangerWarning>คำเตือน: คุณจะลงจอดในสภาพแวดล้อม\nหนาวเย็น ซึ่งอาจยากเกิน หรือบางทีก็เป็นไปไม่ได้\nที่จะเอาชีวิตรอด ถ้าคุณไม่ได้ตั้งใจไปเผชิญความท้าทายโหดหินแบบนั้น โปรดเลือกจุดลงจอดหรือฤดูกาลอื่นๆ</MapTemperatureDangerWarning>
@@ -252,10 +304,10 @@
   <WorkAmount>จำนวนงาน</WorkAmount>
   <!-- EN: Minimum skills: -->
   <MinimumSkills>ทักษะขั้นต่ำ:</MinimumSkills>
-  <!-- EN: Requires {0} {1} -->
+  <!-- EN: Requires -->
   <BillRequires>ต้องการ {0} {1}</BillRequires>
-  <!-- EN: Requires {0} nutrition -->
-  <BillRequiresNutrition>ต้องการ {0} สารอาหาร</BillRequiresNutrition>
+  <!-- EN: nutrition -->
+  <BillNutrition>TODO</BillNutrition>
   <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
   <BillRequiresMayVary>โน้ต: วัตถุดิบปริมาณน้อยอย่างทอง ต้องใช้มากขึ้น {0} เท่า</BillRequiresMayVary>
   <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
@@ -292,6 +344,18 @@
   <ArmorPenetration>เจาะเกราะ</ArmorPenetration>
   <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
   <ArmorPenetrationExplanation>'เจาะเกราะ' บอกจำนวน 'เกราะ' ที่อาวุธนี้จะทะลุไม่สนใจทุกครั้งที่โดนเป้าหมาย\n\nถ้าค่า 'เจาะเกราะ' สูงกว่าค่า 'เกราะ' ของเป้าหมาย ก็จะเหมือนเป้าหมายไม่ได้สวมเกราะใดๆ กรณีนอกเหนือจากนั้น ให้เอาค่า 'เจาะเกราะ' เอาไปลบกับค่า 'เกราะ' ของเป้าหมาย</ArmorPenetrationExplanation>
+  <!-- EN: Building damage factor -->
+  <BuildingDamageFactor>TODO</BuildingDamageFactor>
+  <!-- EN: Damage to all buildings is multiplied by this value. -->
+  <BuildingDamageFactorExplanation>TODO</BuildingDamageFactorExplanation>
+  <!-- EN: Building damage factor (impassable) -->
+  <BuildingDamageFactorImpassable>TODO</BuildingDamageFactorImpassable>
+  <!-- EN: Damage to all impassable buildings is multiplied by this value. -->
+  <BuildingDamageFactorImpassableExplanation>TODO</BuildingDamageFactorImpassableExplanation>
+  <!-- EN: Building damage factor (passable) -->
+  <BuildingDamageFactorPassable>TODO</BuildingDamageFactorPassable>
+  <!-- EN: Damage to all passable buildings is multiplied by this value. -->
+  <BuildingDamageFactorPassableExplanation>TODO</BuildingDamageFactorPassableExplanation>
   <!-- EN: Accuracy -->
   <Accuracy>แม่นยำ</Accuracy>
   <!-- EN: Burst shot count -->
@@ -300,6 +364,8 @@
   <WarmupTime>เวลาเตรียมยิง</WarmupTime>
   <!-- EN: Melee warmup -->
   <MeleeWarmupTime>เวลาเตรียมใช้</MeleeWarmupTime>
+  <!-- EN: Aiming time -->
+  <RangedWarmupTime>TODO</RangedWarmupTime>
   <!-- EN: Cooldown -->
   <CooldownTime>คูลดาวน์</CooldownTime>
   <!-- EN: Disarmed -->
@@ -399,7 +465,7 @@
   <!-- EN: Tameness will never decay for animals of very low wildness. -->
   <TamenessWillNotDecay>ความเชื่องจะไม่ลดลง</TamenessWillNotDecay>
   <!-- EN: Tameness will never decay for animals that can be kept behind fences. -->
-  <AnimalFilthRate>อัตราการสร้างความสกปรกของสัตว์</AnimalFilthRate>
+  <TamenessWillNotDecayFenceBlocked>TODO</TamenessWillNotDecayFenceBlocked>
   <!-- EN: Time -->
   <TimeRecordsCategory>เวลา</TimeRecordsCategory>
   <!-- EN: Misc -->
@@ -418,8 +484,12 @@
   <ToleranceFallRate>TODO</ToleranceFallRate>
   <!-- EN: New addiction min tolerance -->
   <MinimumToleranceForAddiction>TODO</MinimumToleranceForAddiction>
-  <!-- EN: Safe dose interval -->
+  <!-- EN: Safe dose interval for adults -->
   <SafeDoseInterval>TODO</SafeDoseInterval>
+  <!-- EN: age {0}-{1} -->
+  <AgeXToY>TODO</AgeXToY>
+  <!-- EN: age {0}+ -->
+  <AgePlus>TODO</AgePlus>
   <!-- EN: New addiction chance -->
   <Addictiveness>ความน่าดึงดูด</Addictiveness>
   <!-- EN: Addiction initial severity -->
@@ -482,8 +552,10 @@
   <TrapArmorPenetration>กับดักเจาะเกราะ</TrapArmorPenetration>
   <!-- EN: Rearm cost -->
   <RearmCost>ค่าใช้จ่ายเตรียมอาวุธ</RearmCost>
-  <!-- EN: Resources needed to rearm this turret (affected by difficulty). -->
+  <!-- EN: Resources needed to rearm this turret -->
   <RearmCostExplanation>ทรัพยากรที่จำเป็นต่อการจัดเตรียมป้อมปืนนี้ใหม่ (ได้ผลกระทบจากระดับความยาก)</RearmCostExplanation>
+  <!-- EN: affected by difficulty -->
+  <RearmCostExplanationDifficulty>TODO</RearmCostExplanationDifficulty>
   <!-- EN: Shots before rearm -->
   <ShotsBeforeRearm>ยิงกี่นัดก่อนต้องเตรียมอาวุธ</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
@@ -510,7 +582,7 @@
   <MeditationFocuses>TODO</MeditationFocuses>
   <!-- EN: Unlocks meditation focus types -->
   <MeditationFocusesUnlocked>TODO</MeditationFocusesUnlocked>
-  <!-- EN: The types of meditation focus this person can use. When meditating, a person can focus on an obejct to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on. -->
+  <!-- EN: The types of meditation focus this person can use. When meditating, a person can focus on an object to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on. -->
   <MeditationFocusesPawnDesc>TODO</MeditationFocusesPawnDesc>
   <!-- EN: The types of meditation focus this object offers. A meditating person can focus on this object to boost their psyfocus gain, but only if they are able to use one of its meditation types. Each person can use different meditation types depending on their background, traits, social position, and so on. -->
   <MeditationFocusesDesc>TODO</MeditationFocusesDesc>
@@ -639,7 +711,7 @@
   <!-- EN: Items -->
   <ItemsTab>ไอเท็ม</ItemsTab>
   <!-- EN: Travel supplies -->
-  <FoodAndMedicineTab>TODO</FoodAndMedicineTab>
+  <TravelSupplies>TODO</TravelSupplies>
   <!-- EN: You must assign at least one non-downed colonist. -->
   <CaravanMustHaveAtLeastOneColonist>คุณต้องกำหนดชาวนิคมที่ไม่หมดสภาพอย่างน้อยหนึ่งคน</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
@@ -672,6 +744,8 @@
   <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(เฉพาะเวย์พอยท์แรกเท่านั้น ที่นำมาคำนวณ)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
   <DaysWorthOfFoodWarningDialog>กองคาราวานของคุณมีเท่านี้ {0} วัน ของอาหารและจะกลายเป็นหิวได้อย่างรวดเร็ว\n\nคุณแน่ใจหรือไม่ว่าต้องการสร้างคาราวานนี้?</DaysWorthOfFoodWarningDialog>
+  <!-- EN: Some peoples' diets don't allow most of the food in your caravan. If they're forced to eat it due to hunger, they will become unhappy. -->
+  <DaysWorthOfFoodDietWarningDialog>TODO</DaysWorthOfFoodDietWarningDialog>
   <!-- EN: Your caravan has no food and will become hungry very quickly. -->
   <DaysWorthOfFoodWarningDialog_NoFood>กองคาราวานของคุณไม่มีเสบียงอาหาร และจะเกิดหิวโหยอย่างรวดเร็ว</DaysWorthOfFoodWarningDialog_NoFood>
   <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
@@ -769,7 +843,9 @@
   <!-- EN: Total body size -->
   <TotalBodySize>ขนาดตัวทั้งหมด</TotalBodySize>
   <!-- EN: Automatically select travel supplies -->
-  <AutomaticallySelectFoodAndMedicine>TODO</AutomaticallySelectFoodAndMedicine>
+  <AutomaticallySelectTravelSupplies>TODO</AutomaticallySelectTravelSupplies>
+  <!-- EN: This animal is sick. It is suffering from the following illnesses -->
+  <CaravanAnimalSick>TODO</CaravanAnimalSick>
 
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
@@ -910,6 +986,8 @@
   <!-- Food restriction management -->
   <!-- EN: Food restriction -->
   <FoodRestriction>การควบคุมอาหาร</FoodRestriction>
+  <!-- EN: Food -->
+  <FoodRestrictionShort>TODO</FoodRestrictionShort>
   <!-- EN: Lavish -->
   <FoodRestrictionLavish>ฟุ่มเฟือย</FoodRestrictionLavish>
   <!-- EN: Fine -->
@@ -932,6 +1010,8 @@
   <NoFoodRestrictionSelected>ไม่ควบคุม</NoFoodRestrictionSelected>
 
   <!-- Medical settings -->
+  <!-- EN: Default medicine settings -->
+  <DefaultMedicineSettings>TODO</DefaultMedicineSettings>
   <!-- EN: Defaults -->
   <MedGroupDefaults>ค่าเริ่มต้น</MedGroupDefaults>
   <!-- EN: Colonist -->
@@ -980,7 +1060,7 @@
   <ConfirmSendNotCompletelyLoadedPods>กลุ่มกระสวยยังโหลดไม่เต็ม เพราะ {1_labelShort} ขาดหายไป จะปล่อยตัวอยู่ดี?</ConfirmSendNotCompletelyLoadedPods>
 
   <!-- Settle near a faction base -->
-  <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->
+  <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days. -->
   <ConfirmSettleNearFactionBase>เนื่องจากบริเวณนี้อยู่ใน {0} tiles จากฐานของฝักฝ่ายอื่นๆ พวกเขารู้สึกว่าคุณรุกล้ำพื้นที่ของพวกเขา จะทำให้ความสัมพันธ์ ระหว่างฝ่ายของคุณแย่ลงทุกๆ {1} วัน\n\nต้องการ 'ลงหลักปักฐาน' ที่นี่อยู่ดี?</ConfirmSettleNearFactionBase>
   
   <!-- Cleanup translation files -->
@@ -998,6 +1078,8 @@
   <ConfirmCancelMonumentMarker>คุณต้องการลบมาร์คอนุสาวรีย์นี้จริงๆใช่ไหม</ConfirmCancelMonumentMarker>
 
   <!-- Abilities -->
+  <!-- EN: Cannot use {0} -->
+  <CannotUseAbility>TODO</CannotUseAbility>
   <!-- EN: Line of sight required -->
   <AbilityRequiresLOS>ต้องมองเห็นแนวยิง</AbilityRequiresLOS>
   <!-- EN: Neural heat gain -->
@@ -1012,15 +1094,17 @@
   <AbilityCastingTime>เวลาในการร่าย</AbilityCastingTime>
   <!-- EN: No line of sight to target. -->
   <AbilityCannotHitTarget>ไม่มีแนวยิงไปยังเป้าหมาย</AbilityCannotHitTarget>
+  <!-- EN: Target is out of range. -->
+  <AbilityOutOfRange>TODO</AbilityOutOfRange>
   <!-- EN: Can't reach the target. -->
   <AbilityCannotReachTarget>TODO</AbilityCannotReachTarget>
   <!-- EN: Not enough free space. -->
   <AbilityNotEnoughFreeSpace>TODO</AbilityNotEnoughFreeSpace>
-  <!-- EN: {0} must target an empty area. -->
+  <!-- EN: Must target an empty area. -->
   <AbilityOccupiedCells>{0} ต้องมีเป้าหมายเป็นพื้นที่ว่าง</AbilityOccupiedCells>
-  <!-- EN: {0} must target a walkable area. -->
+  <!-- EN: Must target a walkable area. -->
   <AbilityUnwalkable>{0} ต้องมีเป้าหมายเป็นพื้นที่เดินได้</AbilityUnwalkable>
-  <!-- EN: {0} must target an unroofed area. -->
+  <!-- EN: Must target an unroofed area. -->
   <AbilityRoofed>TODO</AbilityRoofed>
   <!-- EN: {0_labelShort} is mentally broken. -->
   <AbilityCantApplyToMentallyBroken>TODO</AbilityCantApplyToMentallyBroken>
@@ -1040,6 +1124,10 @@
   <AbilityCantApplyOnAsexual>TODO</AbilityCantApplyOnAsexual>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
   <AbilityCantApplyWrongAttractionGender>TODO</AbilityCantApplyWrongAttractionGender>
+  <!-- EN: {0_labelShort} is too young. -->
+  <AbilityCantApplyTooYoung>TODO</AbilityCantApplyTooYoung>
+  <!-- EN: Cannot target a baby. -->
+  <AbilityCantApplyOnBaby>TODO</AbilityCantApplyOnBaby>
   <!-- EN: Psyfocus cost per mental break intensity -->
   <PsyfocusCostPerMentalBreakIntensity>TODO</PsyfocusCostPerMentalBreakIntensity>
   <!-- EN: {0_labelShort} is already inspired. -->
@@ -1089,7 +1177,7 @@
   <MentalBreakIntensityMajor>TODO</MentalBreakIntensityMajor>
   <!-- EN: extreme -->
   <MentalBreakIntensityExtreme>TODO</MentalBreakIntensityExtreme>
-  
+
   <!-- Auto slaughter -->
   <!-- EN: Animal -->
   <AutoSlaugtherHeaderColLabel>TODO</AutoSlaugtherHeaderColLabel>
@@ -1101,7 +1189,7 @@
   <AutoSlaugtherHeaderColTotal>TODO</AutoSlaugtherHeaderColTotal>
   <!-- EN: Other -->
   <AutoSlaugtherHeaderColOther>TODO</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
-  <!-- EN: If you have more than the max number of animals, colonists will slaughter the oldest animals until you are under the limit. -->
+  <!-- EN: Colonists first slaughter non-pregnant animals in order from oldest to youngest, then pregnant animals from most recent to least recent pregnancy. -->
   <AutoSlaugtherTip>TODO</AutoSlaugtherTip>
   <!-- EN: Male adult -->
   <AnimalMaleAdult>TODO</AnimalMaleAdult>
@@ -1113,8 +1201,10 @@
   <AnimalFemaleYoung>TODO</AnimalFemaleYoung>
   <!-- EN: Pregnant -->
   <AnimalPregnant>TODO</AnimalPregnant>
+  <!-- EN: Bonded -->
+  <AnimalBonded>TODO</AnimalBonded>
   <!-- EN: Slaughter -->
-  <AllowSlaughterPregnant>TODO</AllowSlaughterPregnant>
+  <AllowSlaughter>TODO</AllowSlaughter>
 
   <!-- EN: The animal to be automatically slaughtered. -->
   <AutoSlaugtherHeaderTooltipLabel>TODO</AutoSlaugtherHeaderTooltipLabel>
@@ -1142,6 +1232,10 @@
   <AutoSlaughterHeaderTooltipCurrentPregnant>TODO</AutoSlaughterHeaderTooltipCurrentPregnant>
   <!-- EN: Allow pregnant animals to be slaughtered along with other females of the same species. -->
   <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>TODO</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
+  <!-- EN: The current number of bonded animals in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentBonded>TODO</AutoSlaughterHeaderTooltipCurrentBonded>
+  <!-- EN: Allow bonded animals to be slaughtered. -->
+  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>TODO</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
 
   <!-- EN: Click to set an animal count limit. -->
   <AutoSlaughterTooltipSetLimit>TODO</AutoSlaughterTooltipSetLimit>
@@ -1163,5 +1257,73 @@
   <RoomRequirementNoProductionFacilities>TODO</RoomRequirementNoProductionFacilities>
   <!-- EN: no altars allowed -->
   <RoomRequirementNoAltars>TODO</RoomRequirementNoAltars>
+
+  <!-- EN: Lifestage max food factor -->
+  <LifeStageMaxFood>TODO</LifeStageMaxFood>
+
+  <!-- EN: Expand all -->
+  <ExpandAllCategories>TODO</ExpandAllCategories>
+  <!-- EN: Collapse all -->
+  <CollapseAllCategories>TODO</CollapseAllCategories>
+
+  <!-- EN: Dye can be farmed from tinctoria or purchased from traders. -->
+  <TooltipDyeExplanation>TODO</TooltipDyeExplanation>
+
+  <!-- EN: Zoom range {0} -->
+  <ZoomRange>TODO</ZoomRange>
+
+  <!-- Color picker -->
+  <!-- EN: color temperature -->
+  <ColorTemperature>TODO</ColorTemperature>
+  <!-- EN: choose a color -->
+  <ChooseAColor>TODO</ChooseAColor>
+  <!-- EN: red -->
+  <Red>TODO</Red>
+  <!-- EN: green -->
+  <Green>TODO</Green>
+  <!-- EN: blue -->
+  <Blue>TODO</Blue>
+  <!-- EN: hue -->
+  <Hue>TODO</Hue>
+  <!-- EN: sat -->
+  <Saturation>TODO</Saturation>
+  <!-- EN: value -->
+  <Value>คุณค่า</Value>
+  <!-- EN: darklight -->
+  <Darklight>TODO</Darklight>
+  <!-- EN: not darklight -->
+  <NotDarklight>TODO</NotDarklight>
+  <!-- EN: current color -->
+  <CurrentColor>TODO</CurrentColor>
+  <!-- EN: old color -->
+  <OldColor>TODO</OldColor>
+  <!-- EN: Copy color -->
+  <CommandCopyColorLabel>TODO</CommandCopyColorLabel>
+  <!-- EN: Copy the current color to the clipboard. -->
+  <CommandCopyColorDesc>TODO</CommandCopyColorDesc>
+  <!-- EN: Paste color -->
+  <CommandPasteColorLabel>TODO</CommandPasteColorLabel>
+  <!-- EN: Overwrite the color with the color in the clipboard. -->
+  <CommandPasteColorDesc>TODO</CommandPasteColorDesc>
+  <!-- EN: The clipboard does not contain a valid color. -->
+  <ClipboardInvalidColor>TODO</ClipboardInvalidColor>
+  <!-- EN: Color copied to clipboard. -->
+  <ColorCopiedSuccessfully>TODO</ColorCopiedSuccessfully>
+  <!-- EN: Updated color from the clipboard. -->
+  <ColorPastedSuccessfully>TODO</ColorPastedSuccessfully>
+  <!-- EN: Change to normal light -->
+  <ToggleDarklightOff>TODO</ToggleDarklightOff>
+  <!-- EN: Change the light color to its normal color. -->
+  <ToggleDarklightOffDesc>TODO</ToggleDarklightOffDesc>
+  <!-- EN: Change to darklight -->
+  <ToggleDarklightOn>TODO</ToggleDarklightOn>
+  <!-- EN: Change the light color to darklight. -->
+  <ToggleDarklightOnDesc>TODO</ToggleDarklightOnDesc>
+  <!-- EN: Choose a color by setting the color temperature. Note: This only affects visual color, not heat output. -->
+  <ColorTemperatureTooltip>TODO</ColorTemperatureTooltip>
+
+  <!-- UNUSED -->
+  <BillRequiresNutrition>ต้องการ {0} สารอาหาร</BillRequiresNutrition>
+  <AnimalFilthRate>อัตราการสร้างความสกปรกของสัตว์</AnimalFilthRate>
 
 </LanguageData>

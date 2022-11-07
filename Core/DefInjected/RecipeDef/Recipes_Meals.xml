@@ -5,6 +5,8 @@
   <CookMealFine.label>ปรุง อาหารชั้นดี</CookMealFine.label>
   <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
   <CookMealFine.description>ปรุงมื้ออาหารที่ซับซ้อน ขึ้นจากการผสมผสานวัตถุดิบระหว่างเนื้อกับพืช</CookMealFine.description>
+  <!-- EN: protein -->
+  <CookMealFine.ingredients.0.filter.customSummary>TODO</CookMealFine.ingredients.0.filter.customSummary>
   <!-- EN: Cooking fine meal. -->
   <CookMealFine.jobString>กำลังปรุงอาหารชั้นดี</CookMealFine.jobString>
   
@@ -19,13 +21,17 @@
   <CookMealFine_Veg.label>ปรุง อาหารมังสวิรัติชั้นดี</CookMealFine_Veg.label>
   <!-- EN: Cook a somewhat complex meal from plant ingredients. -->
   <CookMealFine_Veg.description>ปรุงอาหารที่ค่อนข้างซับซ้อนจากส่วนผสมจากพืช</CookMealFine_Veg.description>
+  <!-- EN: vegetarian ingredients -->
+  <CookMealFine_Veg.ingredients.0.filter.customSummary>TODO</CookMealFine_Veg.ingredients.0.filter.customSummary>
   <!-- EN: Cooking vegetarian fine meal. -->
   <CookMealFine_Veg.jobString>กำลังปรุงอาหารมังสวิรัติชั้นดี</CookMealFine_Veg.jobString>
   
   <!-- EN: cook fine meal x4 -->
   <CookMealFineBulk.label>ปรุง อาหารชั้นดี x4</CookMealFineBulk.label>
-  <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. -->
+  <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. -->
   <CookMealFineBulk.description>ปรุงอาหาร 4 มื้อที่ค่อนข้างซับซ้อนจากส่วนผสมของเนื้อสัตว์และพืช</CookMealFineBulk.description>
+  <!-- EN: protein -->
+  <CookMealFineBulk.ingredients.0.filter.customSummary>TODO</CookMealFineBulk.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 fine meals. -->
   <CookMealFineBulk.jobString>กำลังปรุงอาหารชั้นดี 4 มื้อ</CookMealFineBulk.jobString>
   
@@ -40,13 +46,17 @@
   <CookMealFineBulk_Veg.label>ปรุง อาหารมังสวิรัติชั้นดี x4</CookMealFineBulk_Veg.label>
   <!-- EN: Cook 4 somewhat complex meals from plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
   <CookMealFineBulk_Veg.description>ปรุงอาหาร 4 มื้อที่ค่อนข้างซับซ้อนจากส่วนผสมจากพืช ส่วนผสมบางอย่างเพื่อสร้างประสบการณ์การกินที่ดี การผลิตรสชาติที่หลากหลายด้วยพืชเพียงอย่างเดียวทำให้เกิดประสิทธิภาพมากขึ้น</CookMealFineBulk_Veg.description>
+  <!-- EN: vegetarian ingredients -->
+  <CookMealFineBulk_Veg.ingredients.0.filter.customSummary>TODO</CookMealFineBulk_Veg.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 vegetarian fine meals. -->
   <CookMealFineBulk_Veg.jobString>กำลังปรุงอาหารมังสวิรัติชั้นดี 4 มื้อ</CookMealFineBulk_Veg.jobString>
   
   <!-- EN: cook lavish meal -->
   <CookMealLavish.label>ปรุง อาหารฟุ่มเฟือย</CookMealLavish.label>
-  <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
+  <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
   <CookMealLavish.description>ปรุงมื้ออาหารที่ซับซ้อนอย่างมาก ขึ้นจากการผสมผสานวัตถุดิบระหว่างเนื้อกับพืช ส่วนผสมจำนวนมากเสียเปล่าไป</CookMealLavish.description>
+  <!-- EN: protein -->
+  <CookMealLavish.ingredients.0.filter.customSummary>TODO</CookMealLavish.ingredients.0.filter.customSummary>
   <!-- EN: Cooking lavish meal. -->
   <CookMealLavish.jobString>กำลังปรุงอาหารฟุ่มเฟือย</CookMealLavish.jobString>
   
@@ -61,13 +71,17 @@
   <CookMealLavish_Veg.label>ปรุง อาหารมังสวิรัติอย่างฟุ่มเฟือย</CookMealLavish_Veg.label>
   <!-- EN: Cook a very complex meal from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
   <CookMealLavish_Veg.description>ปรุงอาหารที่ซับซ้อนมากจากส่วนผสมจากพืช ส่วนผสมส่วนใหญ่เพื่อสร้างประสบการณ์การกินที่ดีที่สุด การผลิตรสชาติที่หลากหลายด้วยพืชเพียงอย่างเดียวทำให้เกิดประสิทธิภาพมากขึ้น</CookMealLavish_Veg.description>
+  <!-- EN: vegetarian ingredients -->
+  <CookMealLavish_Veg.ingredients.0.filter.customSummary>TODO</CookMealLavish_Veg.ingredients.0.filter.customSummary>
   <!-- EN: Cooking vegetarian lavish meal. -->
   <CookMealLavish_Veg.jobString>กำลังปรุงอาหารมังสวิรัติอย่างฟุ่มเฟือย</CookMealLavish_Veg.jobString>
   
   <!-- EN: cook lavish meal x4 -->
   <CookMealLavishBulk.label>ปรุง อาหารฟุ่มเฟือย x4</CookMealLavishBulk.label>
-  <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
+  <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
   <CookMealLavishBulk.description>ปรุงอาหาร 4 มื้อที่ซับซ้อนมากจากส่วนผสมของเนื้อสัตว์และพืช ส่วนผสมส่วนใหญ่</CookMealLavishBulk.description>
+  <!-- EN: protein -->
+  <CookMealLavishBulk.ingredients.0.filter.customSummary>TODO</CookMealLavishBulk.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 lavish meals. -->
   <CookMealLavishBulk.jobString>กำลังปรุงอาหารฟุ่มเฟือย 4 มื้อ</CookMealLavishBulk.jobString>
   
@@ -82,6 +96,8 @@
   <CookMealLavishBulk_Veg.label>ปรุง อาหารมังสวิรัติฟุ่มเฟือย x4</CookMealLavishBulk_Veg.label>
   <!-- EN: Cook 4 very complex meals from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
   <CookMealLavishBulk_Veg.description>ทำอาหาร 4 มื้อที่ซับซ้อนมากจากส่วนผสมจากพืช ส่วนผสมส่วนใหญ่เพื่อสร้างประสบการณ์การกินที่ดีที่สุด การผลิตรสชาติที่หลากหลายด้วยพืชเพียงอย่างเดียวทำให้เกิดประสิทธิภาพมากขึ้น</CookMealLavishBulk_Veg.description>
+  <!-- EN: vegetarian ingredients -->
+  <CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>TODO</CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 vegetarian lavish meals. -->
   <CookMealLavishBulk_Veg.jobString>กำลังปรุงอาหารมังสวิรัติฟุ่มเฟือย 4 มื้อ</CookMealLavishBulk_Veg.jobString>
   
@@ -103,6 +119,8 @@
   <CookMealSurvival.label>ปรุง อาหารสำเร็จฉุกเฉิน</CookMealSurvival.label>
   <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
   <CookMealSurvival.description>ปรุงอาหาร ขึ้นจากการผสมผสานวัตถุดิบระหว่างเนื้อกับพืช ส่วนผสมจำนวนมากเสียเปล่าไปกับขั้นตอนป้องกันการกันบูด</CookMealSurvival.description>
+  <!-- EN: protein -->
+  <CookMealSurvival.ingredients.0.filter.customSummary>TODO</CookMealSurvival.ingredients.0.filter.customSummary>
   <!-- EN: Cooking survival meal. -->
   <CookMealSurvival.jobString>กำลังปรุงอาหารสำเร็จฉุกเฉิน</CookMealSurvival.jobString>
   
@@ -110,6 +128,8 @@
   <CookMealSurvivalBulk.label>ปรุง อาหารสำเร็จฉุกเฉิน x4</CookMealSurvivalBulk.label>
   <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
   <CookMealSurvivalBulk.description>ปรุงอาหารสำเร็จฉุกเฉิน จำนวนมาก ขึ้นจากการผสมผสานวัตถุดิบระหว่างเนื้อกับพืช ส่วนผสมจำนวนมากเสียเปล่าไปกับขั้นตอนป้องกันการกันบูด</CookMealSurvivalBulk.description>
+  <!-- EN: protein -->
+  <CookMealSurvivalBulk.ingredients.0.filter.customSummary>TODO</CookMealSurvivalBulk.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 survival meals. -->
   <CookMealSurvivalBulk.jobString>กำลังปรุงอาหารสำเร็จฉุกเฉิน 4 มื้อ</CookMealSurvivalBulk.jobString>
   

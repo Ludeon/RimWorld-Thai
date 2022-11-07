@@ -6,6 +6,9 @@
   -->
   <Battle_Brawl.rulePack.rulesStrings>อิสระสำหรับทุก</Battle_Brawl.rulePack.rulesStrings>
   
+  <!-- UNUSED -->
+  <Battle_Brawl.rulePack.rulesStrings>อิสระสำหรับทุก</Battle_Brawl.rulePack.rulesStrings>
+  
   <!-- EN:
     <li>r_battlename->[PARTICIPANT1_nameDef] vs [PARTICIPANT2_nameDef]</li>
   -->
@@ -16,9 +19,15 @@
   -->
   <Battle_Internal.rulePack.rulesStrings>[FACTION1_name] ความขัดแย้งภายใน</Battle_Internal.rulePack.rulesStrings>
   
+  <!-- UNUSED -->
+  <Battle_Internal.rulePack.rulesStrings>[FACTION1_name] ความขัดแย้งภายใน</Battle_Internal.rulePack.rulesStrings>
+  
   <!-- EN:
     <li>r_battlename->[PARTICIPANT1_nameDef]'s report</li>
   -->
+  <Battle_Solo.rulePack.rulesStrings>[PARTICIPANT1_nameDef] รายงาน</Battle_Solo.rulePack.rulesStrings>
+  
+  <!-- UNUSED -->
   <Battle_Solo.rulePack.rulesStrings>[PARTICIPANT1_nameDef] รายงาน</Battle_Solo.rulePack.rulesStrings>
   
   <!-- EN:

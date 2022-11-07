@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: chinchilla -->
-  <Chinchilla.label>หนูชินชิลล่า</Chinchilla.label>
+  <Chinchilla.label>ชินชิลล่า</Chinchilla.label>
   <!-- EN: A small, nimble rodent. Its fur is softer than just about anything in the universe, making it very valuable as a trade good. -->
-  <Chinchilla.description>TODO</Chinchilla.description>
+  <Chinchilla.description>สัตว์คล้ายหนูชนาดเล็ก คล่องแคล่ง ขนของมันอ่อมนุ่มกว่าทุกอย่างในจักรวาลนี้ ทำให้กลายเป็นของแลกเปลื่ยนที่มีมูลค่าชั้นดี</Chinchilla.description>
   <!-- EN: left claw -->
   <Chinchilla.tools.left_claw.label>กรงเล็บซ้าย</Chinchilla.tools.left_claw.label>
   <!-- EN: right claw -->
@@ -15,7 +15,7 @@
   <!-- EN: deer -->
   <Deer.label>กวาง</Deer.label>
   <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. -->
-  <Deer.description>TODO</Deer.description>
+  <Deer.description>ฝูงสัตว์กินพืชขนาดกลาง พึ่งพอใจกับการใช้ชีวิจในป่าผสมทุ่งหญ้า, กวางนั้นเคลื่อนไหวรวดเร็ว</Deer.description>
   <!-- EN: venison -->
   <Deer.race.meatLabel>เนื้อกวาง</Deer.race.meatLabel>
   <!-- EN: left hoof -->
@@ -23,7 +23,7 @@
   <!-- EN: right hoof -->
   <Deer.tools.right_hoof.label>กีบขวา</Deer.tools.right_hoof.label>
   <!-- EN: teeth -->
-  <Deer.tools.teeth.label>ฟัน</Deer.tools.teeth.label>
+  <Deer.tools.teeth.label>ฟัน </Deer.tools.teeth.label>
   <!-- EN: head -->
   <Deer.tools.head.label>หัว</Deer.tools.head.label>
   
@@ -41,7 +41,7 @@
   <!-- EN: ibex -->
   <Ibex.label>แพะภูเขา</Ibex.label>
   <!-- EN: The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
-  <Ibex.description>TODO</Ibex.description>
+  <Ibex.description>บรรพบุรุษโบราณของแพะเลี้ยง แพะภูเขามีชีวิตในอาณาเขตที่แม้ละมั่งยังไม่อาจอยู่รอด กินไลเคนและพืชที่เกิดบางตาตามภูเขา พวกมันมีชื่อเสียงด้านความคล่องแคล่วในการกระโดดข้ามหน้าผา และการวิ่งจู่โจมอันรุนแรง</Ibex.description>
   <!-- EN: left hoof -->
   <Ibex.tools.left_hoof.label>กีบซ้าย</Ibex.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -61,9 +61,9 @@
   <!-- EN: wild boar -->
   <WildBoar.label>หมูป่า</WildBoar.label>
   <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
-  <WildBoar.description>TODO</WildBoar.description>
+  <WildBoar.description>สัตว์ขนดกกินทั้งพืชและสัตว์นี้ สืบทอดมากจากหมูที่หลุดหนีไป และวิวัฒนาการเพื่ออาศัยอยู่ในป่า\n\nเขี้ยวทำให้มันเป็นนักสู้ที่ยอดเยื่ยมกว่าหมูเลี้ยง โชคไม่ดีที่พวกมันควบคุมไม่อยู่ เกินกว่าจะฝึกให้ทำงานส่วนมากที่ซับซ้อนได้</WildBoar.description>
   <!-- EN: tusk -->
-  <WildBoar.tools.tusk.label>งา</WildBoar.tools.tusk.label>
+  <WildBoar.tools.tusk.label>เขี้ยว</WildBoar.tools.tusk.label>
   <!-- EN: head -->
   <WildBoar.tools.head.label>หัว</WildBoar.tools.head.label>
   

@@ -20,6 +20,8 @@
   <Capturing.label>การจับขัง</Capturing.label>
   <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
   <Capturing.helpText>เมื่อศัตรูนอนเจ็บอยู่กับพื้นแต่ยังไม่ตาย คุณสามารถ จับขัง เขาได้\n\nในการจับขัง ให้เลือกชาวนิคม คลิกขวาที่ศัตรูที่ไม่สามารถขยับได้ แล้วเลือก จับขัง\n\nคุณจะต้องมีเตียงสำรองตั้งไว้ใช้กับนักโทษ</Capturing.helpText>
+  <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, press the left trigger button on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
+  <Capturing.helpTextController>TODO</Capturing.helpTextController>
   
   <!-- EN: Door opening speeds -->
   <DoorOpenSpeed.label>ความเร็วการเปิดประตู</DoorOpenSpeed.label>
@@ -46,15 +48,26 @@
   <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
   <DrugPolicies.helpText>คุณสามารถกำหนดให้ชาวนิคมเจาะจงใช้ยาตัวหนึ่งตามกำหนดการได้ ตัวอย่างเช่น คุณสามารถให้พวกเขาทานยาป้องกันการติดเชื้อเป็นประจำ หรือไม่ก็ให้ดื่มเบียร์วันละขวดเพื่อให้รู้สึกดีก็ได้\n\nเปิดแท็บ กำหนด แล้วกดปุ่ม 'จัดการนโยบายการใช้ยา' สร้างนโยบายการใช้ยาใหม่ จากนั้นคุณจะสามารถกำหนดนโยบายนี้กับชาวนิคมของคุณได้\n\nชาวนิคมยังคงสามารถใช้ยาที่ไม่ได้อยู่ในนโยบายได้ คุณแค่บอกพวกเขาว่าต้องทำอะไร แต่พวกเขาก็ต้องทำตามที่ใจบอกด้วยนะ!</DrugPolicies.helpText>
   
+  <!-- EN: Positioning fighters -->
+  <GroupGotoHereDragging.label>TODO</GroupGotoHereDragging.label>
+  <!-- EN: Right-click and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
+  <GroupGotoHereDragging.helpText>TODO</GroupGotoHereDragging.helpText>
+  <!-- EN: Hold the left trigger button and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
+  <GroupGotoHereDragging.helpTextController>TODO</GroupGotoHereDragging.helpTextController>
+  
   <!-- EN: Interacting with traders -->
   <InteractingWithTraders.label>การติดต่อกับผู้ค้า</InteractingWithTraders.label>
-  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to his head. -->
+  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to their head. -->
   <InteractingWithTraders.helpText>คุณสามารถคุยกับผู้คนที่มี ? ลอยอยู่บนหัว\n\nเลือกชาวนิคมแล้วไปคลิกขวาบนตัวละครที่มี ? ติดอยู่บนหัว</InteractingWithTraders.helpText>
+  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and press the left trigger button on the character with ? attached to their head. -->
+  <InteractingWithTraders.helpTextController>TODO</InteractingWithTraders.helpTextController>
   
   <!-- EN: Using the comms console -->
   <OpeningComms.label>การใช้แผงสื่อสาร</OpeningComms.label>
   <!-- EN: To communicate, select a colonist and right-click on the comms console. -->
   <OpeningComms.helpText>ในการสื่อสาร ให้เลือกชาวนิคมแล้วคลิกขวาที่แผงสื่อสาร</OpeningComms.helpText>
+  <!-- EN: To communicate, select a colonist and press the left trigger button on the comms console. -->
+  <OpeningComms.helpTextController>TODO</OpeningComms.helpTextController>
   
   <!-- EN: Prisoner tab -->
   <PrisonerTab.label>แท็บนักโทษ</PrisonerTab.label>
@@ -65,6 +78,8 @@
   <QueueOrders.label>การจัดคิวคำสั่ง</QueueOrders.label>
   <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
   <QueueOrders.helpText>ตอนให้คำสั่งเบี้ย คุณสามารถจัดคิวหลายคำสั่งได้โดยการกด "Shift" ค้างไว้ ทำได้เช่นเดียวกับการสั่งงานเบี้ยที่ไม่ได้เกณฑ์</QueueOrders.helpText>
+  <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding {Key:QueueOrder}. This also works when giving jobs to undrafted pawns. -->
+  <QueueOrders.helpTextController>TODO</QueueOrders.helpTextController>
   
   <!-- EN: Reforming caravans -->
   <ReformCaravan.label>การจัดคาราวานใหม่</ReformCaravan.label>
@@ -75,11 +90,18 @@
   <Rescuing.label>การช่วยชีวิต</Rescuing.label>
   <!-- EN: To rescue a wounded person, select a healthy colonist and then right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
   <Rescuing.helpText>ในการช่วยชีวิตคนที่ได้รับบาดเจ็บ ให้เลือกชาวนิคมสุขภาพสมบูรณ์ แล้วคลิกขวาบนคนที่บาดเจ็บ\n\nหากคุณช่วยชีวิตคนที่ไม่ใช่ชาวนิคม เขาไม่จำเป็นที่จะต้องเข้าร่วมนิคมคุณ เขาอาจจะเดินจากไปหลังจากฟื้นตัวแล้วก็ได้ หากคุณต้องการการันตีให้เขาเข้าร่วม ก็จับขังแล้วค่อยชักชวนเขา</Rescuing.helpText>
+  <!-- EN: To rescue a wounded person, select a healthy colonist and then press the left trigger button on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
+  <Rescuing.helpTextController>TODO</Rescuing.helpTextController>
   
   <!-- EN: Set what plant to grow -->
   <SetGrowingZonePlant.label>ตั้งพืชที่จะปลูก</SetGrowingZonePlant.label>
   <!-- EN: You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button. -->
   <SetGrowingZonePlant.helpText>คุณสามารถตั้งได้ว่าจะปลูกอะไรในโซนเพาะปลูก คุณยังปลูกต้นไม้ได้ด้วยนะ!\n\nแค่เลือกโซนเพาะปลูก เปิดแท็บเพาะปลูก แล้วคลิกที่ปุ่ม 'ปลูก'</SetGrowingZonePlant.helpText>
+  
+  <!-- EN: Shelves -->
+  <Shelves.label>TODO</Shelves.label>
+  <!-- EN: Shelves store three times as much as empty ground. Items on shelves will also never deteriorate and don't affect the beauty of their surroundings.\n\nYou can link shelves into groups and configure them as one. First, select two or more shelves, then click 'Link storage settings'. -->
+  <Shelves.helpText>TODO</Shelves.helpText>
   
   <!-- EN: Shield belts -->
   <ShieldBelts.label>เข็มขัดเกราะ</ShieldBelts.label>

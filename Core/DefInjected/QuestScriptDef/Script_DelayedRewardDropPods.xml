@@ -4,18 +4,10 @@
   <!-- EN:
     <li>questDescription->delayed reward</li>
   -->
-  <DelayedRewardDropPods.questDescriptionRules.rulesStrings>
-    <li>questDescription->รางวัลล่าช้า</li>
-  </DelayedRewardDropPods.questDescriptionRules.rulesStrings>
+  <DelayedRewardDropPods.questDescriptionRules.rulesStrings>TODO</DelayedRewardDropPods.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->delayed reward</li>
   -->
-  <DelayedRewardDropPods.questNameRules.rulesStrings>
-    <li>questName->รางวัลล่าช้า</li>
-  </DelayedRewardDropPods.questNameRules.rulesStrings>
-  
-  <!-- UNUSED -->
-  <DelayedRewardDropPods.questDescriptionRules.rulesStrings>TODO</DelayedRewardDropPods.questDescriptionRules.rulesStrings>
   <DelayedRewardDropPods.questNameRules.rulesStrings>TODO</DelayedRewardDropPods.questNameRules.rulesStrings>
   
 </LanguageData>

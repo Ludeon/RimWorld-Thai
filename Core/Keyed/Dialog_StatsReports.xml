@@ -38,8 +38,12 @@
   <HealthFactorAllowedDefect>ถ้าต่ำกว่า {0}</HealthFactorAllowedDefect>
   <!-- EN: Post-process curve -->
   <StatsReport_PostProcessed>เส้นโค้งหลังประมวลทั้งหมด</StatsReport_PostProcessed>
+  <!-- EN: The chances to hit at increasing distances are -->
+  <StatsReport_ShootingExampleDistances>TODO</StatsReport_ShootingExampleDistances>
   <!-- EN: Final value -->
   <StatsReport_FinalValue>รวม</StatsReport_FinalValue>
+  <!-- EN: Multiplier for {0} -->
+  <StatsReport_MultiplierFor>TODO</StatsReport_MultiplierFor>
   <!-- EN: Materials and labor -->
   <StatsReport_MarketValueFromStuffsAndWork>จากวัตถุดิบและแรงงาน</StatsReport_MarketValueFromStuffsAndWork>
   <!-- EN: Quality multiplier -->
@@ -132,7 +136,7 @@
   <StatsReport_Ideoligion>TODO</StatsReport_Ideoligion>
   <!-- EN: Multiplier for malnutrition {0} -->
   <StatsReport_Malnutrition>TODO</StatsReport_Malnutrition>
-  
+
   <!-- EN: Possible offsets -->
   <StatReport_PossibleOffsets>TODO</StatReport_PossibleOffsets>
   <!-- EN: Room impressiveness -->
@@ -236,6 +240,8 @@
   <Stat_Race_Growth_Desc>สิ่งมีชีวิตนี้ใกล้จะโตเต็มที่เพียงใด\n\nการเติบโตต้องการการบำรุงเลี้ยง สัตว์ที่หิวโหยจะเติบโตในอัตราที่ช้ากว่าเมื่อเทียบกับสัตว์ที่ได้รับอาหารอย่างดี</Stat_Race_Growth_Desc>
   <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
   <Stat_Thing_Weapon_MeleeWarmupTime_Desc>เวลาผ่านไปนานแค่ไหน ระหว่างเริ่มโจมตีระยะประชิดด้วยอาวุธนี้ ไปจนถึงตอนที่อาวุธนั้นโจมตีโดน</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
+  <!-- EN: How much time passes between when a ranged attack begins aiming and when it fires. -->
+  <Stat_Thing_Weapon_RangedWarmupTime_Desc>TODO</Stat_Thing_Weapon_RangedWarmupTime_Desc>
   <!-- EN: The amount of shots this weapon fires in each burst. -->
   <Stat_Thing_Weapon_BurstShotCount_Desc>จำนวนกระสุนที่อาวุธนี้ยิงออกไป ในการยิงแต่ละชุด</Stat_Thing_Weapon_BurstShotCount_Desc>
   <!-- EN: The fire rate of this weapon during each burst. -->
@@ -296,9 +302,9 @@
   <Stat_Hediff_HungerRateOffset_Desc>ค่าหักล้างซึ่งนำไปคำนวณกับอัตราความต้องการอาหารที่ลดลง</Stat_Hediff_HungerRateOffset_Desc>
   <!-- EN: Rest fall rate -->
   <Stat_Hediff_TirednessOffset_Name>อัตราการพักผ่อนลดลง</Stat_Hediff_TirednessOffset_Name>
-  <!-- EN: An offset applied to the rate at which the creatures rest need falls. -->
+  <!-- EN: An offset applied to the rate at which the creature's sleep need falls. -->
   <Stat_Hediff_TirednessOffset_Desc>ตัวคูณซึ่งนำไปคำนวณกับอัตราความต้องการพักผ่อนที่ลดลง</Stat_Hediff_TirednessOffset_Desc>
-  <!-- EN: A multiplier applied to the rate at which the creatures rest need falls. -->
+  <!-- EN: A multiplier applied to the rate at which the creature's sleep need falls. -->
   <Stat_Hediff_TirednessFactor_Desc>ค่าหักล้างซึ่งนำไปคำนวณกับอัตราความต้องการพักผ่อนที่ลดลง</Stat_Hediff_TirednessFactor_Desc>
   <!-- EN: Whether or not this will prevent infections. -->
   <Stat_Hediff_PreventsInfection_Desc>นี่จะช่วยป้องกันการติดเชื้อหรือไม่</Stat_Hediff_PreventsInfection_Desc>
@@ -336,12 +342,38 @@
   <Stat_Thing_ReloadDestroyOnEmpty_Desc>ไอเทมนี้จะหายไปเมื่อใช้ {CHARGENOUN} ครั้งสุดท้าย</Stat_Thing_ReloadDestroyOnEmpty_Desc>
   <!-- EN: The overall efficiency of this body part. -->
   <Stat_Thing_BodyPartEfficiency_Desc>ประสิทธิภาพโดยรวมของอวัยวะนี้</Stat_Thing_BodyPartEfficiency_Desc>
+  <!-- EN: Install sites -->
+  <Stat_Thing_InstallSites>TODO</Stat_Thing_InstallSites>
+  <!-- EN: Areas on the body where this can be installed. -->
+  <Stat_Thing_InstallSites_Desc>TODO</Stat_Thing_InstallSites_Desc>
+  <!-- EN: Replaces parts -->
+  <Stat_Thing_ReplacesParts>TODO</Stat_Thing_ReplacesParts>
+  <!-- EN: Body parts which are replaced by this when installed. -->
+  <Stat_Thing_ReplacesParts_Desc>TODO</Stat_Thing_ReplacesParts_Desc>
   <!-- EN: Biocoding -->
   <Stat_Thing_Biocoded_Name>การเข้ารหัสทางชีวภาพ</Stat_Thing_Biocoded_Name>
   <!-- EN: This item has been coded to only accept a particular individual's bio-signature. -->
   <Stat_Thing_Biocoded_Desc>รายการนี้ถูกเข้ารหัสให้ยอมรับเฉพาะลายเซ็นชีวภาพของบุคคลใดบุคคลหนึ่งเท่านั้น</Stat_Thing_Biocoded_Desc>
   <!-- EN: Required apparel -->
   <Stat_Pawn_RequiredApparel_Name>เครื่องแต่งกายที่จำเป็น</Stat_Pawn_RequiredApparel_Name>
+  <!-- EN: Growth rate -->
+  <Stat_Thing_Plant_GrowthRate>TODO</Stat_Thing_Plant_GrowthRate>
+  <!-- EN: The rate at which a plant is growing.\n\nGrowth rate is affected by things like soil fertility, temperature, light, and environmental conditions. -->
+  <Stat_Thing_Plant_GrowthRate_Desc>TODO</Stat_Thing_Plant_GrowthRate_Desc>
+  <!-- EN: Age -->
+  <Stat_Thing_Plant_Age>TODO</Stat_Thing_Plant_Age>
+  <!-- EN: How long this has been alive. -->
+  <Stat_Thing_Plant_AgeDesc>TODO</Stat_Thing_Plant_AgeDesc>
+  <!-- EN: Lifespan -->
+  <Stat_Thing_Plant_Lifespan>TODO</Stat_Thing_Plant_Lifespan>
+  <!-- EN: Paintable -->
+  <Stat_Building_Paintable>TODO</Stat_Building_Paintable>
+  <!-- EN: Whether this can be painted using dye. -->
+  <Stat_Building_PaintableDesc>TODO</Stat_Building_PaintableDesc>
+  <!-- EN: Paint color -->
+  <Stat_Building_PaintColor>TODO</Stat_Building_PaintColor>
+  <!-- EN: The color this building was painted. -->
+  <Stat_Building_PaintColorDesc>TODO</Stat_Building_PaintColorDesc>
 
   <!-- Drugs -->
   <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
@@ -360,7 +392,7 @@
   <Stat_Thing_Drug_ToleranceFallPerDay_Desc>TODO</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
   <!-- EN: The minimum tolerance required to become newly addicted to this drug.\n\nIf a user is below this tolerance level, they can't become newly addicted from taking a dose. -->
   <Stat_Thing_Drug_MinToleranceForAddiction_Desc>TODO</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
-  <!-- EN: A user will never become addicted if they never take the drug more often than this.\n\nThis is calculated from the drug's minimum tolerance to addict, the tolerance gain per dose, and the rate of tolerance decay.\n\nNote that some drugs don't have a safe interval. Such drugs can addict on any dose, even the first one. -->
+  <!-- EN: An adult will only become addicted if they take the drug more often than this.\n\nThis is calculated from the drug's minimum tolerance to addict, the tolerance gain per dose, and the rate of tolerance decay. Some drugs don't have a safe interval. Such drugs can addict on any dose, even the first one.\n\nNote that the safe dose interval depends on a person's body size. -->
   <Stat_Thing_Drug_SafeDoseInterval_Desc>TODO</Stat_Thing_Drug_SafeDoseInterval_Desc>
   <!-- EN: The chance of a random overdose when taking this drug. Random overdoses can happen on any dose, whether it's a new user's first try or an experienced addict's hundredth hit. -->
   <Stat_Thing_Drug_RandomODChance_Desc>TODO</Stat_Thing_Drug_RandomODChance_Desc>
@@ -442,7 +474,7 @@
   <Stat_Animal_MilkAmount>TODO</Stat_Animal_MilkAmount>
   <!-- EN: The amount of milk this creature produces each time it is milked. -->
   <Stat_Animal_MilkAmountDesc>TODO</Stat_Animal_MilkAmountDesc>
-  <!-- EN: Milking inteval -->
+  <!-- EN: Milking interval -->
   <Stat_Animal_MilkGrowthTime>TODO</Stat_Animal_MilkGrowthTime>
   <!-- EN: The amount of time this creature needs between milkings. -->
   <Stat_Animal_MilkGrowthTimeDesc>TODO</Stat_Animal_MilkGrowthTimeDesc>
@@ -485,5 +517,12 @@
 
   <!-- EN: How much of the total possible study you have performed on this object. -->
   <Stat_Studiable_Desc>TODO</Stat_Studiable_Desc>
+
+  <!-- EN: Source -->
+  <Stat_Source_Label>TODO</Stat_Source_Label>
+  <!-- EN: This content came from the official expansion -->
+  <Stat_Source_OfficialExpansionReport>TODO</Stat_Source_OfficialExpansionReport>
+  <!-- EN: This content came from the mod -->
+  <Stat_Source_ModReport>TODO</Stat_Source_ModReport>
   
 </LanguageData>

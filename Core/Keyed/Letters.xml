@@ -10,10 +10,12 @@
   <RejectLetter>ปฏิเสธ</RejectLetter>
   <!-- EN: Read more -->
   <ReadMore>อ่านเพิ่ม</ReadMore>
+  <!-- EN: You have {0} more letters -->
+  <MoreLetters>TODO</MoreLetters>
 
   <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>ฤดูร้อน</LetterLabelFirstSummerWarning>
-  <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
+  <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nTo prepare for winter, buy, steal, or make some parkas, or you'll freeze when you step outside. -->
   <FirstSummerWarning>หน้าร้อนเริ่มขึ้นแล้ว! แต่หน้าหนาวกำลังคืบคลานเข้ามา\n\nพืชผลอาหารของคุณจะไม่เจริญเติบโตในช่วงฤดูหนาว โปรดแน่ใจว่าคุณได้จัดเก็บอาหารไว้เพียงพอต่อการมีชีวิตรอด คุณสามารถสร้างห้องทำความเย็นเพื่อป้องกันอาหารเน่าเสียได้\n\nควรเตรียมเสื้อคลุมไว้ ไม่ว่าจะซื้อ ขโมย หรือทำเองก็ตาม ไม่งั้นคุณอาจแข็งตายเมื่อออกไปกลางแจ้ง</FirstSummerWarning>
 
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
@@ -45,7 +47,7 @@
   <!-- EN: Death -->
   <Death>เสียชีวิต</Death>
 
-  <!-- EN: A {1_label} has short-circuited in the rain and started a fire. -->
+  <!-- EN: A {1_label} has short-circuited due to precipitation and started a fire. -->
   <ShortCircuitRain>{1_label} ลัดวงจรในสายฝนและเริ่มลุกไหม้</ShortCircuitRain>
 
   <!-- EN: Area revealed -->
@@ -76,7 +78,9 @@
   <LetterLabelBirthday>วันเกิด</LetterLabelBirthday>
   <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
   <BirthdayChronological>วันนี้เป็นวันเกิดทางกาลภาพของ {0}! ในทางชีวภาพ {1} มีอายุ {3} ปี\n\nทางกาลภาพ {1} มีอายุเข้า {2} ปี\n\nโปรดเข้าใจว่ามนุษย์ไม่แก่ลงในระหว่างหลับในคริปโตสลีป วันเกิดทางกาลภาพจึงแยกออกจากวันเกิดทางชีวภาพ</BirthdayChronological>
-  <!-- EN: {0_nameFull} has reached the biological age of {1}.\n\nUnfortunately, {0_nameFull} has gained the following diseases due to aging:\n{2} -->
+  <!-- EN: {0_nameFull} has reached the biological age of {1}. -->
+  <LetterBirthdayBiological>TODO</LetterBirthdayBiological>
+  <!-- EN: Unfortunately, {0_nameFull} has gained the following diseases due to aging -->
   <BirthdayBiologicalAgeInjuries>{0_nameFull} มีอายุทางชีวภาพเข้า {1} ปี\n\nน่าเสียดายที่ {0_nameFull} จะได้รับโรคต่อไปนี้ เนื่องจากการแก่ตัวลง:\n{2}</BirthdayBiologicalAgeInjuries>
 
   <!-- EN: Disease -->
@@ -419,24 +423,12 @@
   <LetterPredatorHuntingColonist>{PREDATOR} กำลังออกล่า {PREY_definite} เป็นอาหาร!</LetterPredatorHuntingColonist>
 
   <!-- Disease -->
-  <!-- EN: {0} blocked {1} on: {2}. -->
+  <!-- EN: {0} blocked {1} on -->
   <LetterDisease_Blocked>{0} ต่อต้าน {1} บน: {2}</LetterDisease_Blocked>
   <!-- EN: Disease: {0} -->
   <LetterLabelTraitDisease>โรค ({0})</LetterLabelTraitDisease>
   <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
   <LetterTraitDisease>{PAWN_label} เกิดป่วยจากโรค {1}\n\nให้แน่ใจว่าคุณมีเตียงพยาบาลและหมอ ตรวจให้แน่ใจว่า{PAWN_pronoun}ได้รับการรักษาที่ถูกต้อง และใช้เวลาบนเตียงมาที่สุดเท่าที่เป็นไปได้</LetterTraitDisease>
-
-  <!-- Surgery -->
-  <!-- EN: Surgery failed on {PATIENT_labelShort} -->
-  <LetterLabelSurgeryFailed>การผ่าตัดล้มเหลวใน {PATIENT_labelShort}</LetterLabelSurgeryFailed>
-  <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} พลาดเล็กๆน้อยๆในขณะดำเนินการให้ {PATIENT_labelShort} ({RECIPE_label})</MessageMedicalOperationFailureMinor> <!-- NewTemp rename to LetterTextOperationFailureMinor globally-->
-  <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} ผิดพลาดใหญ่หลวงในขณะดำเนินการให้ {PATIENT_labelShort} ({RECIPE_label})</MessageMedicalOperationFailureCatastrophic> <!-- NewTemp rename to LetterTextOperationFailureCatastrophic globally-->
-  <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} พลาดแบบแปลกๆในขณะดำเนินการให้ {PATIENT_labelShort} ({RECIPE_label})</MessageMedicalOperationFailureRidiculous> <!-- NewTemp rename to LetterTextOperationFailureRidiculous globally-->
-  <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2}. -->
-  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} เกิดล้มเหลวร้ายแรงในขณะดำเนินการให้ {PATIENT_labelShort} เนื่องจากอุปสรรคพิเศษ: {2}</MessageMedicalOperationFailureFatal> <!-- NewTemp rename to LetterTextOperationFailureFatal globally-->
 
   <!-- Quests -->
   <!-- EN: A new quest has become available. It is called '{0}'. -->
@@ -552,5 +544,33 @@
   <LetterLabelSiteCountdownStarted>ตรวจพบคาราวาน</LetterLabelSiteCountdownStarted>
   <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible. -->
   <LetterTextSiteCountdownStarted>คาราวานของคุณถูกตรวจพบ ใน {0} การเสริมกำลัง {1} จาก {2} จะเริ่มเข้ามาในพื้นที่\n\nปฏิรูปกองคาราวานของคุณและเริ่มเคลื่อนที่เพื่อหลีกเลี่ยง {1} มองเห็นตัวจับเวลานับถอยหลังถึงการมาถึงของพวกเขาแล้ว</LetterTextSiteCountdownStarted>
+
+  <!-- EN: Unwavering prisoner -->
+  <LetterLabelUnrecruitablePawnCaptured>TODO</LetterLabelUnrecruitablePawnCaptured>
+  <!-- EN: {PAWN_nameDef} is unwaveringly loyal to their home and will refuse to be recruited entirely.\n\nYou can see whether someone is unwaveringly loyal by selecting them. -->
+  <LetterTextUnrecruitablePawnCaptured>TODO</LetterTextUnrecruitablePawnCaptured>
+  <!-- EN: enslave {PAWN_objective} -->
+  <OptionalEnslaveDesc>TODO</OptionalEnslaveDesc>
+
+  <!-- Lung rot -->
+  <!-- EN: {PAWN} has gotten sick from {1} due to long-term exposure to rot stink gas (which is given off by rotting corpses).\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment. -->
+  <LetterTextLungRot>TODO</LetterTextLungRot>
+
+  <!-- Join Offer -->
+  <!-- EN: Join offer: {PAWN_nameDef} -->
+  <LetterJoinOfferLabel>TODO</LetterJoinOfferLabel>
+  <!-- EN: {PAWN_nameDef} wishes to join your faction. -->
+  <LetterJoinOfferTitle>TODO</LetterJoinOfferTitle>
+  <!-- EN: {PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently. -->
+  <LetterJoinOfferText>TODO</LetterJoinOfferText>
+  <!-- EN: Accept -->
+  <LetterJoinOfferAccept>TODO</LetterJoinOfferAccept>
+
+  <!-- UNUSED -->
+  <LetterLabelSurgeryFailed>การผ่าตัดล้มเหลวใน {PATIENT_labelShort}</LetterLabelSurgeryFailed>
+  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} พลาดเล็กๆน้อยๆในขณะดำเนินการให้ {PATIENT_labelShort} ({RECIPE_label})</MessageMedicalOperationFailureMinor>
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} ผิดพลาดใหญ่หลวงในขณะดำเนินการให้ {PATIENT_labelShort} ({RECIPE_label})</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} พลาดแบบแปลกๆในขณะดำเนินการให้ {PATIENT_labelShort} ({RECIPE_label})</MessageMedicalOperationFailureRidiculous>
+  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} เกิดล้มเหลวร้ายแรงในขณะดำเนินการให้ {PATIENT_labelShort} เนื่องจากอุปสรรคพิเศษ: {2}</MessageMedicalOperationFailureFatal>
 
 </LanguageData>

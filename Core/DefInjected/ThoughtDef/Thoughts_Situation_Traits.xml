@@ -134,7 +134,7 @@
   <ProsthophileHappy.stages.machine_body_is_complete.label>มีไบโอนิคที่เสร็จสมบูรณ์</ProsthophileHappy.stages.machine_body_is_complete.label>
   <!-- EN: I asked for this. -->
   <ProsthophileHappy.stages.machine_body_is_complete.description>ฉันขอสิ่งนี้</ProsthophileHappy.stages.machine_body_is_complete.description>
-    
+  
   <!-- EN: body modder frustrated -->
   <ProsthophileNoProsthetic.stages.body_modder_frustrated.label>ไบโอนิคส่วนหนึ่งของร่างกายหาย</ProsthophileNoProsthetic.stages.body_modder_frustrated.label>
   <!-- EN: Flesh is so limiting. I wish I had some kind of artificial body part. -->
@@ -169,6 +169,11 @@
   <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>คนชอบไฟ มีอาวุธก่อความไม่สงบ</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>
   <!-- EN: It makes me think of flame and fire. I'm so happy. -->
   <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>ทำให้ฉันนึกถึงเปลวไฟและไฟ ฉันมีความสุขมาก.</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>
+  
+  <!-- EN: beautiful fire -->
+  <PyromaniacNearFire.stages.beautiful_fire.label>TODO</PyromaniacNearFire.stages.beautiful_fire.label>
+  <!-- EN: The sinuous flame dances, warm like love, bright like freedom, all-consuming. -->
+  <PyromaniacNearFire.stages.beautiful_fire.description>TODO</PyromaniacNearFire.stages.beautiful_fire.description>
   
   <!-- EN: undergrounder indoors -->
   <UndergrounderIndoors.stages.undergrounder_indoors.label>ใต้ดินในร่ม</UndergrounderIndoors.stages.undergrounder_indoors.label>

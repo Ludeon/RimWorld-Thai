@@ -33,6 +33,8 @@
   <LetterLabelRefugeePodCrash>กระสวยขนส่งตก</LetterLabelRefugeePodCrash>
   <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
   <RefugeePodCrash>{PAWN_titleIndef} ชื่อ {PAWN_nameDef} อยู่ในกระสวยขนส่ง ซึ่งกำลังตกลงมาบริเวณใกล้เคียง ถ้า{PAWN_pronoun}รอดชีวิตจากแรงกระแทก {PAWN_pronoun}จะอยู่ในสภาพบาดเจ็บสาหัส</RefugeePodCrash>
+  <!-- EN: {PAWN_nameDef} is a child of {AGE}. -->
+  <RefugeePodCrash_Child>TODO</RefugeePodCrash_Child>
   <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
   <RefugeePodCrash_Factionless>{PAWN_nameDef} ไม่เกี่ยวข้องกับฝ่ายใดๆ คุณสามารถช่วยเหลือ{PAWN_objective} และหวังว่า{PAWN_pronoun}จะสมัครใจเข้าร่วมเอง หรือไม่ก็จับตัว{PAWN_objective}ไว้ เพื่อเป้าหมายให้เป็นทาส หรือดึงให้เข้าร่วมต่อไป</RefugeePodCrash_Factionless>
   <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
@@ -176,10 +178,6 @@
   <EscapeShipFound>คุณมาถึงพิกัดที่ Charlon Whitestone ส่งมาและค้นพบยานอวกาศที่ซ่อนอยู่\n\nเตาปฏิกรณ์ของยานยังอยู่ในโหมดจำศีลลึก ซึ่งยังบินไม่ได้ คุณสามารถสตาร์ทมันขึ้นมาได้ ด้วยการโต้ตอบกับแกนคอมพิวเตอร์\n\nCharlon Whitestone เตือนคุณว่ากระบวนการเริ่มต้นจะใช้เวลาราว 15 วัน และรูปแบบพลังงานที่เกิดขึ้นจะสามารถตรวจเจอได้จากระยะไกล\n\nด้วยรูปแบบพลังงานบ่งชี้ ถึงยานบินมีความสามารถเดิมทางข้ามอวกาศ ซึ่งจะดึงดูดพวกแก๊งนักปล้นผู้ที่สิ้งหวัง และฝูงเมคานอยด์จำนวนมาก\n\nคุณจะถูกจู่โจมรุนแรงแบบที่ไม่เคยเห็นมาก่อน โปรดแน่ใจว่าคุณเตรียมพร้อมแนวป้องกันแล้ว</EscapeShipFound>
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days. -->
   <EscapeShipFoundPeaceful>คุณมาถึงพิกัดที่ Charlon Whitestone ส่งมาและค้นพบยานอวกาศที่ซ่อนอยู่\n\nเตาปฏิกรณ์ของยานยังอยู่ในโหมดจำศีลลึก ซึ่งยังบินไม่ได้ คุณสามารถสตาร์ทมันขึ้นมาได้ ด้วยการโต้ตอบกับแกนคอมพิวเตอร์\n\nCharlon Whitestone เตือนคุณว่ากระบวนการเริ่มต้นจะใช้เวลาราว 15 วัน</EscapeShipFoundPeaceful>
-  <!-- EN: Ship destroyed -->
-  <EscapeShipLostLabel>ยานถูกทำลาย</EscapeShipLostLabel>
-  <!-- EN: (*Name)Charlon Whitestone(/Name) sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
-  <EscapeShipLost>Charlon Whitestone ส่งข้อความถึงคุณ\n\nเขาเห็นว่าคุณสูญเสียการควบคุมยานที่จอดอยู่ เพื่อป้องกันไม่ให้มันตกไปอยู่ในมือคนผิด เขาจำใจต้องกระตุ้นกลไกทำลายตัวเองของยาน ยานตอนนี้กลายเป็นเพียงแค่หลุมอุกาบาตไปแล้ว\n\nคุณจำเป็นต้องหาทางออกอื่นจากดาวเคราะห์นี้</EscapeShipLost>
 
   <!-- Caravan meeting -->
   <!-- EN: Caravan meeting by {0} -->
@@ -246,5 +244,9 @@
   <LetterLabelQuestAskerDied>เควสล้มเหลว</LetterLabelQuestAskerDied>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
   <LetterQuestAskerDied>เควสไม่สามารถทำให้สำเร็จได้อีกต่อไป เนื่องจาก {SUBJECT_definite} ตาย</LetterQuestAskerDied>
+
+  <!-- UNUSED -->
+  <EscapeShipLostLabel>ยานถูกทำลาย</EscapeShipLostLabel>
+  <EscapeShipLost>Charlon Whitestone ส่งข้อความถึงคุณ\n\nเขาเห็นว่าคุณสูญเสียการควบคุมยานที่จอดอยู่ เพื่อป้องกันไม่ให้มันตกไปอยู่ในมือคนผิด เขาจำใจต้องกระตุ้นกลไกทำลายตัวเองของยาน ยานตอนนี้กลายเป็นเพียงแค่หลุมอุกาบาตไปแล้ว\n\nคุณจำเป็นต้องหาทางออกอื่นจากดาวเคราะห์นี้</EscapeShipLost>
 
 </LanguageData>

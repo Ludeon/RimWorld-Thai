@@ -13,7 +13,7 @@
   <!-- EN: {0} from {1} have decided to steal what they can and leave. -->
   <MessageRaidersStealing>{0} จาก {1} ตัดสินใจจะขโมยอะไรก็ตามเท่าที่สามารถและจากไป</MessageRaidersStealing>
 
-  <!-- EN: {0} from {1} have arrived in the area of your caravan and are attacking. More are on the way and will arrive in {2}. -->
+  <!-- EN: {0} from {1} have arrived and are attacking! More are on the way and will arrive in {2}. -->
   <MessageCaravanDetectedRaidArrived>{0} จาก {1} ได้มาถึงพื้นที่กองคาราวานของคุณและกำลังโจมตี กำลังดำเนินการเพิ่มเติมและจะมาถึงใน {2}</MessageCaravanDetectedRaidArrived>
 
   <!-- EN: {0} from {1} are leaving. -->
@@ -74,14 +74,17 @@
   <MessageAnimalManhuntsOnTameFailed>คำเตือน: {ANIMAL_kindBasePlural} อาจโจมตี หากความพยายามทำให้เชื่องพลาด (โอกาส {1})</MessageAnimalManhuntsOnTameFailed>
   <!-- EN: Only those with the insect sympathy trait can tame {INSECT_indefinite}. -->
   <MessageInsectTameDesignated>เฉพาะผู้ที่มีลักษณะความเห็นอกเห็นใจแมลงเท่านั้นที่จะเชื่อง {INSECT_indefinite}</MessageInsectTameDesignated>
+
+  <!-- EN: Warning: The {PAWN_labelShort} is hostile and will attack while your colonist tries to tame it. -->
+  <MessageInsectsHostileOnTaming>TODO</MessageInsectsHostileOnTaming>
   
   <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>ผู้เข้าร่วมคนใหม่</LetterLabelMessageRecruitSuccess>
-  <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull} ({2} chance). -->
+  <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull}. -->
   <MessageRecruitSuccess>{RECRUITER_nameFull} ประสบความสำเร็จในการชักชวน {RECRUITEE_nameFull} เข้าร่วม (โอกาส {2}).</MessageRecruitSuccess>
-  <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). -->
+  <!-- EN: {RECRUITER_labelShort} successfully tamed {1}. -->
   <MessageTameSuccess>{RECRUITER_labelShort} ประสบความสำเร็จในการทำ {1} ให้เชื่อง (โอกาส {2}).</MessageTameSuccess>
-  <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). It is now called {RECRUITEE_nameFull}. -->
+  <!-- EN: {RECRUITER_labelShort} successfully tamed {1}. It is now called {RECRUITEE_nameFull}. -->
   <MessageTameAndNameSuccess>{RECRUITER_labelShort} ประสบความสำเร็จในการทำ {1} ให้เชื่อง (โอกาส {2}) และตั้งชื่อ{RECRUITEE_objective}ว่า {RECRUITEE_nameFull}.</MessageTameAndNameSuccess>
   <!-- EN: There is no suitable animal pen for {ANIMAL_labelShort}. It will eventually roam away. -->
   <MessageTameNoSuitablePens>{RECRUITER_labelShort} ระเหิด {1} ให้เชื่อง (โอกาส{2}) และกบ{RECRUITEE_objective}ว่า {RECRUITEE_nameFull}.</MessageTameNoSuitablePens>
@@ -110,8 +113,14 @@
   <MessageMustDesignateHuntable>ต้องบ่งชี้: สัตว์ที่สามารถล่าได้</MessageMustDesignateHuntable>
   <!-- EN: Must designate tameable animals. -->
   <MessageMustDesignateTameable>ต้องบ่งชี้: สัตว์ที่สามารถทำให้เชื่องได้</MessageMustDesignateTameable>
-  <!-- EN: Must designate abandoned artificial structures. -->
+  <!-- EN: Must designate abandoned claimable structures or items. -->
   <MessageMustDesignateClaimable>ต้องบ่งชี้: โครงสร้างเทียมที่ถูกทอดทิ้ง</MessageMustDesignateClaimable>
+  <!-- EN: Must designate paintable buildings not already painted {0_label}. -->
+  <MessageMustDesignatePaintableBuildings>TODO</MessageMustDesignatePaintableBuildings>
+  <!-- EN: Must designate paintable floors which are not already painted {0_label}. -->
+  <MessageMustDesignatePaintableFloors>TODO</MessageMustDesignatePaintableFloors>
+  <!-- EN: Must designate painted buildings or floors. -->
+  <MessageMustDesignatePainted>TODO</MessageMustDesignatePainted>
   <!-- EN: You must defeat a mech cluster before you can deconstruct it. -->
   <MessageMustDesignateDeconstructibleMechCluster>คุณต้องเอาชนะคลัสเตอร์เมคฯให้ได้ก่อน จึงจะสามารถทำลายมันได้</MessageMustDesignateDeconstructibleMechCluster>
   <!-- EN: Must designate rough stone surfaces. -->
@@ -130,6 +139,10 @@
   <MessageMustDesignateForbiddable>ต้องบ่งชี้: ไอเท็มที่ไม่โดนห้าม</MessageMustDesignateForbiddable>
   <!-- EN: Must designate forbidden items. -->
   <MessageMustDesignateUnforbiddable>ต้องบ่งชี้: ไอเท็มหวงห้าม</MessageMustDesignateUnforbiddable>
+  <!-- EN: Cannot claim {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby. -->
+  <MessageCannotClaimWhenThreatsAreNear>TODO</MessageCannotClaimWhenThreatsAreNear>
+  <!-- EN: Cannot adopt {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby. -->
+  <MessageCannotAdoptWhileThreatsAreNear>TODO</MessageCannotAdoptWhileThreatsAreNear>
 
   <!-- EN: {1_labelShort} has refused to be arrested! -->
   <MessageRefusedArrest>{1_labelShort} ปฏิเสธที่จะถูกจับกุม!</MessageRefusedArrest>
@@ -138,8 +151,8 @@
   <MessageNoMedicalBeds>ไม่มีเตียงการแพทย์</MessageNoMedicalBeds>
   <!-- EN: There are no animal beds available. -->
   <MessageNoAnimalBeds>ไม่มีเตียงสัตว์เลี้ยง</MessageNoAnimalBeds>
-  <!-- EN: Operation requires {0} or better, but {PAWN_labelShort}'s current medical care mode is "{2}". -->
-  <MessageTooLowMedCare>ดำเนินการต้องใช้ {0} หรือดีกว่านั้น แต่ {PAWN_labelShort} เซ็ตโหมดดูแลทางการแพทย์เป็น "{2}"</MessageTooLowMedCare>
+  <!-- EN: Warning: {PAWN_nameDef}'s medicine restriction ({RESTRICTIONLABEL}) prevents doing this operation. Consider changing {PAWN_possessive} medicine restriction. -->
+  <MessageWarningNoMedicineForRestriction>TODO</MessageWarningNoMedicineForRestriction>
   
   <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
   <PawnDiedBecauseOf>{PAWN_labelShort} เสียชีวิต ด้วยสาเหตุ: {1}</PawnDiedBecauseOf>
@@ -172,7 +185,6 @@
   <MessageReceivedBrainDamageFromHediff>{PAWN_labelShort} ศูนย์เสีย {1} คะแนนของความเสียหายทางสมอง เนื่องจาก {2}</MessageReceivedBrainDamageFromHediff>
   <!-- EN: {PAWN_labelShort} has exceeded the normal limit of neural heat. -->
   <MessageWentOverPsychicEntropyLimit>{PAWN_labelShort} เปิดขึดจำกัดอันปลอดภัยของเอนโทรปีพลังจิต</MessageWentOverPsychicEntropyLimit>
-
 
   <!-- EN: No handler can tame {ANIMAL_kindBase} (requires level {1} in {2}, best handler {HANDLER_labelShort} has {4}). -->
   <MessageNoHandlerSkilledEnough>ไม่มีผู้ดูแลคนใดสามารถทำ {ANIMAL_kindBase} ให้เชื่องได้ (ต้องการระดับ {1} ใน {2} ซึ่งผู้ดูแลที่ดีที่สุด {HANDLER_labelShort} มี {4})</MessageNoHandlerSkilledEnough>
@@ -366,7 +378,7 @@
   <!-- EN: Because they are bonded, releasing {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
   <MessageReleaseBondedAnimal>เนื่องจากพวกเขาผูกพันกัน การปล่อย {DESIGNATED_labelShort} จะทำให้ {BONDED_labelShort} ไม่มีความสุข</MessageReleaseBondedAnimal>
   
-  <!-- EN: {0} has run out of food ({PAWN_label}). -->
+  <!-- EN: {0} has run out of food. -->
   <MessageCaravanRanOutOfFood>{0} หมดเสบียงอาหาร ({PAWN_label})</MessageCaravanRanOutOfFood>
   <!-- EN: {PAWN_definite}'s corpse has been picked up by the caravan. It is heavy and may immobilize the caravan, but can be left behind in the caravan items tab. -->
   <MessageCaravanDeathCorpseAddedToInventory>ศพ{PAWN_definite}ถูกคาราวานเก็บขึ้นไปด้วย มันหนักและอาจทำให้กองคาราวานเคลื่อนที่ไม่ได้ สามารถทิ้งไว้ข้างหลังได้ในแท็บไอเท็มของคาราวาน</MessageCaravanDeathCorpseAddedToInventory>
@@ -623,6 +635,9 @@
 
   <!-- EN: No valid destination found for {0} -->
   <NoValidDestinationFound>ไม่เจอเป้าหมายที่ถูกต้องสำหรับ {0}</NoValidDestinationFound>
+
+  <!-- EN: An extracted tree just died. -->
+  <MessageMinifiedTreeDied>TODO</MessageMinifiedTreeDied>
   
   <!-- Research -->
   <!-- EN: Warning: Research will not begin until you build a research bench. -->
@@ -636,7 +651,6 @@
 
   <!-- EN: {PAWN_nameDef} is a prisoner -->
   <MessagePrisonerCannotEquipWeapon>TODO</MessagePrisonerCannotEquipWeapon>
-
 
   <!-- EN: Warning: {0_nameDef}'s beliefs oppose {1} work. {0_pronoun} may become unhappy. -->
   <MessageIdeoOpposedWorkTypeSelected>TODO</MessageIdeoOpposedWorkTypeSelected>
@@ -655,6 +669,8 @@
   <RitualBegun>TODO</RitualBegun>
   <!-- EN: The maximum number of {0}s is {1}. -->
   <MaxPawnsPerRole>TODO</MaxPawnsPerRole>
+  <!-- EN: Role of {0} is locked. -->
+  <RoleIsLocked>TODO</RoleIsLocked>
   <!-- EN: You need at least one participant. -->
   <MessageRitualNeedsAtLeastOnePerson>TODO</MessageRitualNeedsAtLeastOnePerson>
   <!-- EN: You need at least one spectator. -->
@@ -681,10 +697,18 @@
   <MessageRitualRoleMustBeAnimal>TODO</MessageRitualRoleMustBeAnimal>
   <!-- EN: {0} must be a human. -->
   <MessageRitualRoleMustBeHumanlike>TODO</MessageRitualRoleMustBeHumanlike>
+  <!-- EN: {0} cannot be a baby. -->
+  <MessageRitualRoleCannotBeABaby>TODO</MessageRitualRoleCannotBeABaby>
+  <!-- EN: No roles available for {0_labelShort}. -->
+  <MessageRitualNoRolesAvailable>TODO</MessageRitualNoRolesAvailable>
+  <!-- EN: {0_labelShort} is not a member of any colony ideoligion. -->
+  <MessageRitualNotOfPlayerIdeo>TODO</MessageRitualNotOfPlayerIdeo>
   <!-- EN: {0} must have eyes -->
   <MessageRitualRoleMustHaveEyes>TODO</MessageRitualRoleMustHaveEyes>
   <!-- EN: {0_labelShort} does not require further scarification. -->
   <MessageRitualRoleMustRequireScarification>TODO</MessageRitualRoleMustRequireScarification>
+  <!-- EN: {0_labelShort} does not require blinding. -->
+  <MessageRitualRoleMustRequireBlinding>TODO</MessageRitualRoleMustRequireBlinding>
   <!-- EN: {0} must be a prisoner or slave. -->
   <MessageRitualRoleMustBePrisonerOrSlave>TODO</MessageRitualRoleMustBePrisonerOrSlave>
   <!-- EN: {0_labelShort} must be capable of fighting. -->
@@ -707,6 +731,10 @@
   <MessageRitualRoleMustHaveIdeoToDoRole>TODO</MessageRitualRoleMustHaveIdeoToDoRole>
   <!-- EN: must be colonist for the {0} role. -->
   <MessageRitualRoleMustBeColonist>TODO</MessageRitualRoleMustBeColonist>
+  <!-- EN: {0_labelShort} won't attend due to extreme temperature in the ritual area. -->
+  <MessageRitualWontAttendExtremeTemperature>TODO</MessageRitualWontAttendExtremeTemperature>
+  <!-- EN: must be colonist and not enslaved for the {0} role. -->
+  <MessageRitualRoleMustBeFreeColonist>TODO</MessageRitualRoleMustBeFreeColonist>
   <!-- EN: {0} must have an animal with min body size of {1}. -->
   <MessageRitualRoleMustHaveLargerBodySize>TODO</MessageRitualRoleMustHaveLargerBodySize>
   <!-- EN: {0_labelShort} is in a mental state. -->
@@ -715,6 +743,14 @@
   <MessageRitualPawnIsAlreadyBelievingIdeo>TODO</MessageRitualPawnIsAlreadyBelievingIdeo>
   <!-- EN: {0_labelShort} cannot take any other role than spectator. -->
   <MessageRitualCannotAssignAnyRoleFromSpectating>TODO</MessageRitualCannotAssignAnyRoleFromSpectating>
+  <!-- EN: {0} cannot be an imprisoned wild man/woman. -->
+  <MessageRitualRoleMustNotBeImprisonedWildMan>TODO</MessageRitualRoleMustNotBeImprisonedWildMan>
+  <!-- EN: {0} must be free. -->
+  <MessageRitualRoleMustNotBeImprisoned>TODO</MessageRitualRoleMustNotBeImprisoned>
+  <!-- EN: {0} cannot be a child. -->
+  <MessageRitualRoleCannotBeChild>TODO</MessageRitualRoleCannotBeChild>
+  <!-- EN: {0} cannot be a baby. -->
+  <MessageRitualRoleCannotBeBaby>TODO</MessageRitualRoleCannotBeBaby>
 
   <!-- EN: You must select a site to continue. -->
   <MessagePlayerMustSelectTile>TODO</MessagePlayerMustSelectTile>
@@ -729,7 +765,31 @@
   <AdjacentSowBlocker>TODO</AdjacentSowBlocker>
   <!-- EN: Too close to {0_label}. -->
   <TooCloseToOtherPlant>TODO</TooCloseToOtherPlant>
-  <!-- EN: Too close to {0_label}'s planting location. -->
+  <!-- EN: Too close to {0}'s planting location. -->
   <TooCloseToOtherSeedPlantCell>TODO</TooCloseToOtherSeedPlantCell>
-  
+
+  <!-- EN: Warning: {0} has been marked for cutting. -->
+  <MessageWarningCutImportantPlant>TODO</MessageWarningCutImportantPlant>
+
+  <!-- EN: {0_labelShort} is incapable of manipulation. -->
+  <MessageIncapableOfManipulation>TODO</MessageIncapableOfManipulation>
+
+  <!-- EN: {0_labelShort} activation canceled -->
+  <MessageActivationCanceled>TODO</MessageActivationCanceled>
+
+  <!-- EN: Nothing is currently buildable in category -->
+  <NothingAvailableInCategory>TODO</NothingAvailableInCategory>
+
+  <!-- EN: Storage settings linked for {0} buildings. -->
+  <SettingsLinkedFor>TODO</SettingsLinkedFor>
+  <!-- EN: Storage settings unlinked for {0} buildings. -->
+  <SettingsUnlinkedFor>TODO</SettingsUnlinkedFor>
+  <!-- EN: Storage settings copied to clipboard. -->
+  <StorageSettingsCopiedToClipboard>TODO</StorageSettingsCopiedToClipboard>
+  <!-- EN: Storage settings pasted from clipboard. -->
+  <StorageSettingsPastedFromClipboard>TODO</StorageSettingsPastedFromClipboard>
+
+  <!-- UNUSED -->
+  <MessageTooLowMedCare>ดำเนินการต้องใช้ {0} หรือดีกว่านั้น แต่ {PAWN_labelShort} เซ็ตโหมดดูแลทางการแพทย์เป็น "{2}"</MessageTooLowMedCare>
+
 </LanguageData>

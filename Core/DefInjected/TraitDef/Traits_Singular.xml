@@ -13,7 +13,7 @@
   
   <!-- EN: ascetic -->
   <Ascetic.degreeDatas.ascetic.label>ถือสันโดษ</Ascetic.degreeDatas.ascetic.label>
-  <!-- EN: {PAWN_nameDef} has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. {PAWN_pronoun} will become unhappy if if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw. {PAWN_pronoun} never judges others by their appearance. -->
+  <!-- EN: {PAWN_nameDef} has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. {PAWN_pronoun} will become unhappy if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw. {PAWN_pronoun} never judges others by their appearance. -->
   <Ascetic.degreeDatas.ascetic.description>[PAWN_nameDef] ขอใช้ชีวิตอย่างถือสันโดษ [PAWN_pronoun] จะอารมณ์เสียถ้า [PAWN_pronoun] มีห้องนอนที่น่าประทับใจมากเกินไป</Ascetic.degreeDatas.ascetic.description>
   
   <!-- EN: asexual -->
@@ -93,7 +93,7 @@
   
   <!-- EN: kind -->
   <Kind.degreeDatas.kind.label>ใจดี</Kind.degreeDatas.kind.label>
-  <!-- EN: {PAWN_nameDef} is exceptionally kind. {PAWN_pronoun} has a special way of using kind words to brighten someone's day. {PAWN_pronoun} never insults others, and never judges people by their appearance. -->
+  <!-- EN: {PAWN_nameDef} is an exceptionally agreeable and giving person. {PAWN_pronoun} rarely insults others or starts fights, and will sometimes offer kind words to brighten the moods of those around {PAWN_objective}. {PAWN_pronoun} also never judges people by their appearance. -->
   <Kind.degreeDatas.kind.description>[PAWN_nameDef] เป็นคนที่ดี [PAWN_pronoun] มีแนวโน้มที่จะเพิ่มสีสันให้คนอื่น ๆ และไม่เคยดูถูกคนอื่น</Kind.degreeDatas.kind.description>
   
   <!-- EN: masochist -->
@@ -123,7 +123,7 @@
   
   <!-- EN: pyromaniac -->
   <Pyromaniac.degreeDatas.pyromaniac.label>รักไฟ ชอบเล่นไฟ</Pyromaniac.degreeDatas.pyromaniac.label>
-  <!-- EN: {PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires. To relieve stress, {PAWN_pronoun} will occasionally go on random fire starting sprees. This happens more often if {PAWN_possessive} mood is low. -->
+  <!-- EN: {PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires, and will occasionally go on random fire starting sprees. {PAWN_pronoun} will be happy around flames, and happier when yielding an incendiary weapon. -->
   <Pyromaniac.degreeDatas.pyromaniac.description>[PAWN_nameDef] รักไฟ [PAWN_pronoun] บางครั้งจะเริ่มเล่นไฟทำให้เกิดเพลิงไหม้ และ เขาจะไม่ดับไฟ</Pyromaniac.degreeDatas.pyromaniac.description>
   
   <!-- EN: quick sleeper -->
@@ -153,9 +153,13 @@
   <!-- EN: {PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill. -->
   <Tough.degreeDatas.tough.description>{PAWN_nameDef} มีผิวหนังที่หนา กล้ามเนื้อแน่น และกระดูกแข็งแรง {PAWN_pronoun}ได้รับความเสียหายน้อยกว่าคนทั่วไปในการโจมตีแบบเดียวกัน {PAWN_pronoun}ถูกฆ่าให้ตายยากมาก</Tough.degreeDatas.tough.description>
   
-  <!-- EN: transhumanist -->
-  <Transhumanist.degreeDatas.transhumanist.label>หลงชีวกล</Transhumanist.degreeDatas.transhumanist.label>
+  <!-- EN: body modder -->
+  <Transhumanist.degreeDatas.body_modder.label>TODO</Transhumanist.degreeDatas.body_modder.label>
   <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts. -->
+  <Transhumanist.degreeDatas.body_modder.description>TODO</Transhumanist.degreeDatas.body_modder.description>
+  
+  <!-- UNUSED -->
+  <Transhumanist.degreeDatas.transhumanist.label>หลงชีวกล</Transhumanist.degreeDatas.transhumanist.label>
   <Transhumanist.degreeDatas.transhumanist.description>[PAWN_nameDef] นั้นรู้สึกจำกัดภายในร่างกายมนุษย์ที่อ่อนแอ [PAWN_possessive] [PAWN_pronoun] ฝันถึงการที่ได้เปลี่ยนเป็นชีวกลอยู่บ่อยครั้ง</Transhumanist.degreeDatas.transhumanist.description>
   
   <!-- EN: undergrounder -->
