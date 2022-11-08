@@ -31,9 +31,9 @@
   <PanicFlee.recoveryMessage>{0} หยุดเสียขวัญหนีแล้ว</PanicFlee.recoveryMessage>
   
   <!-- EN: roaming -->
-  <Roaming.label>TODO</Roaming.label>
+  <Roaming.label>เดินใจลอย</Roaming.label>
   <!-- EN: Mental state: Roaming -->
-  <Roaming.baseInspectLine>TODO</Roaming.baseInspectLine>
+  <Roaming.baseInspectLine>สภาพจิตใจ: เดินใจลอย</Roaming.baseInspectLine>
   
   <!-- EN: social fighting -->
   <SocialFighting.label>ทะเลาะกัน</SocialFighting.label>

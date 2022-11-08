@@ -51,10 +51,10 @@
   <InstallBionicStomach.jobString>กำลังติดตั้งกระเพาะเทียมชีวกล</InstallBionicStomach.jobString>
   
   <!-- EN: install death acidifier -->
-  <InstallDeathAcidifier.label>TODO</InstallDeathAcidifier.label>
+  <InstallDeathAcidifier.label>ติดตั้ง กรดมรณะ</InstallDeathAcidifier.label>
   <!-- EN: Install a death acidifier. -->
-  <InstallDeathAcidifier.description>TODO</InstallDeathAcidifier.description>
+  <InstallDeathAcidifier.description>ติดตั้งกรดมรณะ</InstallDeathAcidifier.description>
   <!-- EN: Installing death acidifier. -->
-  <InstallDeathAcidifier.jobString>TODO</InstallDeathAcidifier.jobString>
+  <InstallDeathAcidifier.jobString>กำลังติดตั้งกรดมรณะ</InstallDeathAcidifier.jobString>
   
 </LanguageData>

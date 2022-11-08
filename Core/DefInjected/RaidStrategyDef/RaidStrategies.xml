@@ -3,7 +3,7 @@
   
   <!-- UNUSED -->
   <!-- EN: Rather than attack directly, the mechanoids are setting up a mech cluster near the colony. You must attack it to finally remove the threat.\n\nThe cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually. -->
-  <SiegeMechanoid.arrivalTextEnemy>TODO</SiegeMechanoid.arrivalTextEnemy>
+  <SiegeMechanoid.arrivalTextEnemy>แทนที่จะโจมตีโดยตรง Mechanoids กำลังตั้งกลุ่ม Mech ใกล้กับอาณานิคม คุณต้องโจมตีเพื่อกำจัดภัยคุกคาม\n\nพวกมันจะยังไม่ทำอะไรในตอนแรก ดังนั้นคุณสามารถใช้เวลาในการตัดสินใจว่าจะจัดการอย่างไร\n\nคลัสเตอร์อาจอยู่เฉยๆจนกว่าจะถูกรบกวน หรืออาจมีตัวจับเวลาหรือตัวกระตุ้น\n\nแม้กลุ่มเครื่องจักรที่อยู่เฉยๆจะไม่เป็นอันตราย กลุ่มที่อยู่เฉยๆอาจรวมตัวผู้โจมตีด้วยเป็นครั้งคราว หรือมีผลกระทบด้านลบในวงกว้าง ต้องได้รับการกำจัด</SiegeMechanoid.arrivalTextEnemy>
   <!-- EN: Mechanoid Siege -->
   <SiegeMechanoid.letterLabelEnemy>TODO</SiegeMechanoid.letterLabelEnemy>
 </LanguageData>

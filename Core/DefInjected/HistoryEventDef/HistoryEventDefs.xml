@@ -17,13 +17,13 @@
   <CutTree.label>ตัดต้นไม้</CutTree.label>
   
   <!-- EN: used drug -->
-  <IngestedDrug.label>TODO</IngestedDrug.label>
+  <IngestedDrug.label>ใช้ยา</IngestedDrug.label>
   
   <!-- EN: used hard drug -->
-  <IngestedHardDrug.label>TODO</IngestedHardDrug.label>
+  <IngestedHardDrug.label>ใช้ยาแรง</IngestedHardDrug.label>
   
   <!-- EN: used recreational drug -->
-  <IngestedRecreationalDrug.label>TODO</IngestedRecreationalDrug.label>
+  <IngestedRecreationalDrug.label>ใช้ยาเพื่อสันทนาการ</IngestedRecreationalDrug.label>
   
   <!-- EN: installed prosthetic -->
   <InstalledProsthetic.label>ติดตั้งเทียม</InstalledProsthetic.label>

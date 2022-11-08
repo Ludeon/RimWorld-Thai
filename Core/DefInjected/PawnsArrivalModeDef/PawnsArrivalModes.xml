@@ -6,21 +6,21 @@
   <!-- EN: A group of friendly {0} from {1} have dropped in right on top of you! -->
   <CenterDrop.textFriendly>กลุ่มมิตร {0} จาก {1} ทิ้งดิ่งลงมาใส่คุณเลย!</CenterDrop.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive in transport pods right on top of you. -->
-  <CenterDrop.textWillArrive>TODO</CenterDrop.textWillArrive>
+  <CenterDrop.textWillArrive>{0_pawnsPluralDef} จะมาถึงโดยตู้ขนส่ง ลงจอดด้านบนของคุณ</CenterDrop.textWillArrive>
   
   <!-- EN: A group of {0} from {1} have arrived in transport pods nearby. -->
   <EdgeDrop.textEnemy>กลุ่ม {0} จาก {1} มาถึงด้วยกระสวยขนส่งลงจอดใกล้ๆนี้</EdgeDrop.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived in transport pods nearby. -->
   <EdgeDrop.textFriendly>กลุ่มมิตร {0} จาก {1} มาถึงด้วยกระสวยขนส่งลงจอดใกล้ๆนี้</EdgeDrop.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
-  <EdgeDrop.textWillArrive>TODO</EdgeDrop.textWillArrive>
+  <EdgeDrop.textWillArrive>{0_pawnsPluralDef} จะมาถึงโดยตู้ขนส่ง</EdgeDrop.textWillArrive>
   
   <!-- EN: Several separate groups of {0} from {1} have arrived in transport pods nearby. -->
   <EdgeDropGroups.textEnemy>{0} จาก {1} แยกกันหลายกลุ่ม มาถึงด้วยกระสวยขนส่งลงจอดใกล้ๆนี้</EdgeDropGroups.textEnemy>
   <!-- EN: Several separate groups of friendly {0} from {1} have arrived in transport pods nearby. -->
   <EdgeDropGroups.textFriendly>มิตร {0} จาก {1} แยกกันหลายกลุ่ม มาถึงด้วยกระสวยขนส่งลงจอดใกล้ๆนี้</EdgeDropGroups.textFriendly>
   <!-- EN: Several separate groups of {0_pawnsPluralDef} will arrive in transport pods. -->
-  <EdgeDropGroups.textWillArrive>TODO</EdgeDropGroups.textWillArrive>
+  <EdgeDropGroups.textWillArrive>กลุ่มที่เป็นอิสระของ {0_pawnsPluralDef} จะมาถึงโดยตู้ขนส่ง</EdgeDropGroups.textWillArrive>
   
   <!-- EN: A group of {0} from {1} have arrived nearby. -->
   <EdgeWalkIn.textEnemy>กลุ่ม {0} จาก {1} ได้มาถึงใกล้ๆนี้</EdgeWalkIn.textEnemy>

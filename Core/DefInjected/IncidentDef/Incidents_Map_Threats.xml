@@ -32,11 +32,14 @@
   <ManhunterPack.label>ฝูงสัตว์กินคน</ManhunterPack.label>
   
   <!-- EN: mech cluster -->
-  <MechCluster.label>TODO</MechCluster.label>
+   <MechCluster.label>จักรกลสังหาร</MechCluster.label>
   <!-- EN: Mechanoid cluster -->
-  <MechCluster.letterLabel>TODO</MechCluster.letterLabel>
-  <!-- EN: A mechanoid combat cluster is landing nearby. The cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually. -->
-  <MechCluster.letterText>TODO</MechCluster.letterText>
+  <MechCluster.letterLabel>จักรกลสังหาร</MechCluster.letterLabel>
+  <!-- EN: A mechanoid combat cluster is landing nearby. The cluster will be initially dormant, so you can take time to decide how to attack it.
+  \n\n
+  It may remain dormant until disturbed, or it may have a timer or proximity activators.\n\n
+  Even dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually. -->
+  <MechCluster.letterText>จักรกลสังหารกำลังลงจอดในบริเวณใกล้เคียง พวกมันจะยังไม่ทำอะไร เพื่อให้คุณสามารถใช้เวลาในการตัดสินใจว่าจะโจมตีมันอย่างไร \n\n มันอาจอยู่เฉย ๆ จนกว่าจะถูกรบกวนหรืออาจมีตัวจับเวลาหรือใกล้เคียงกับตัวกระตุ้น \n\nจักรกลที่อยู่เฉยๆจะไม่ทำเป็นอันตรายใดๆ จักรกลอาจจะร่วมตัวกันเพื่อทำการโจมตี อาจมีผลกระทบทางลบในวงกว้าง ซึ่งต้องได้รับการจัดการในที่สุด</MechCluster.letterText>
   
   <!-- EN: ship part crash (psychic) -->
   <PsychicEmanatorShipPartCrash.label>ชิ้นส่วนยานตก (พลังจิต)</PsychicEmanatorShipPartCrash.label>
