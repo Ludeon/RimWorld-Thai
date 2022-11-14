@@ -1,8 +1,8 @@
 # RimWorld Thai
 
-This is the Thai translation data for RimWorld.
+เป็นโปรเจ็คต์ที่ fork มาจาก https://github.com/Ludeon/RimWorld-Thai
 
-Compatible with RimWorld version: `1.3.3066` _(July 21, 2021)_
+เนื่องจากไม่มีการอัพเดตในนั้นมาแล้ว ทางผมจึงตัดสินใจ fork เพื่อมาแปลเอง
 
 ## Manual Install
 
@@ -16,9 +16,9 @@ In case you want bleeding-edge translation, you could install it manually follow
 
 ## For translators
 
-We appreciate any willing to help, to contribute see: http://ludeon.com/forums/index.php?topic=2933.0
+สามารถติดต่อมาได้ที่ Discord RimWorld Thai Community
 
-**Before start working on Thai translation please take a look at relevant information on [Wiki](https://github.com/Ludeon/RimWorld-Thai/wiki)**.
+https://discord.com/invite/TZkdcs9MPy
 
 ### Current Status
 
@@ -44,8 +44,8 @@ Summary copied from current translation report generate by the game, list below 
 * ☑️ (0) Backstory translations matching English (maybe ok)
 
 ### Active translators
-- @zalxXxlaz
 - @slost
+- maxval030
 
 ### Inactive translators
 - @AEnigmatrices
@@ -54,9 +54,8 @@ Summary copied from current translation report generate by the game, list below 
 - @zetathix
 - @BillPatsakorn
 - @guiltyhollow
+- @zalxXxlaz
 
 ------------------------------------
-
-หากมีคำถาม คำแนะนำ สามารถโพสตอบ[กระทู้](https://ludeon.com/forums/index.php?topic=45589.0) หรือเปิด [Issue](https://github.com/Ludeon/RimWorld-Thai/issues) ได้เลยครับ
 
 ขอบคุณที่ให้ความสนใจแปลเกมภาษาไทย
