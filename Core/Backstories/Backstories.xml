@@ -3434,9 +3434,9 @@
   
   <LabGrownChild22>
     <!-- EN: lab-grown child -->
-    <title>เด็กที่โตในห้องแล็บ</title>
+    <title>เด็กโตในแล็บ</title>
     <!-- EN: lab-grown -->
-    <titleShort>แล็บปลูก</titleShort>
+    <titleShort>โตในแล็บ</titleShort>
     <!-- EN: {PAWN_nameDef} was born in a laboratory as part of a altruistic but failed attempt to create a new class of human.\n\n{PAWN_possessive} childhood was filled with books and one-on-one tutoring. {PAWN_pronoun} was awkward, shy, and naive to the true nature of humanity. -->
     <desc>TODO</desc>
   </LabGrownChild22>
@@ -3479,9 +3479,9 @@
   
   <LazyWorker78>
     <!-- EN: lazy worker -->
-    <title>ขี้เกียจทำงาน</title>
+    <title>คนงานขี้เกียจ</title>
     <!-- EN: lazy worker -->
-    <titleShort>ขี้เกียจทำงาน</titleShort>
+    <titleShort>คนงานขี้เกียจ</titleShort>
     <!-- EN: When {PAWN_nameDef} was offered {PAWN_possessive} yearly salary in order to test a new implant, {PAWN_pronoun} jumped at the chance. Ever since then, {PAWN_nameDef} has been looking for a way to get it removed. -->
     <desc>TODO</desc>
   </LazyWorker78>
@@ -3542,7 +3542,7 @@
   
   <LoneTraveler95>
     <!-- EN: lone traveler -->
-    <title>นักเดินทางคนเดียว</title>
+    <title>นักเดินทางฉายเดี่ยว</title>
     <!-- EN: traveler -->
     <titleShort>นักเดินทาง</titleShort>
     <!-- EN: After escaping {PAWN_possessive} homeworld on a jury-rigged ship, {PAWN_nameDef} traveled to new worlds to experience their beauty.\n\n{PAWN_pronoun} joined resistance groups and applied the skills {PAWN_pronoun} cultivated on {PAWN_possessive} homeworld. {PAWN_pronoun} often warned of the nuclear horror {PAWN_pronoun} saw as a child. -->
@@ -3551,7 +3551,7 @@
   
   <LoreKeeper51>
     <!-- EN: lore keeper -->
-    <title>ผู้บันทกตำนาน</title>
+    <title>ผู้บันทึกตำนาน</title>
     <!-- EN: keeper -->
     <titleShort>ผู้บันทึก</titleShort>
     <!-- EN: {PAWN_nameDef} was one of a long line of lore keepers in {PAWN_possessive} tribe. Every night around the fire, {PAWN_pronoun} would pass on ancient knowledge and helpful wisdom through stories. -->

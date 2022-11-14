@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: บริหาร กระยาทิพย์ -->
-  <Administer_Ambrosia.label>ให้ กระยาทิพย์</Administer_Ambrosia.label>
-  <!-- EN: กำลังบริหาร กระยาทิพย์ -->
-  <Administer_Ambrosia.jobString>กำลังให้กระยาทิพย์</Administer_Ambrosia.jobString>
+  <!-- EN: บริหาร แอมโบรเซีย -->
+  <Administer_Ambrosia.label>ให้ แอมโบรเซีย</Administer_Ambrosia.label>
+  <!-- EN: กำลังบริหาร แอมโบรเซีย -->
+  <Administer_Ambrosia.jobString>กำลังให้ แอมโบรเซีย</Administer_Ambrosia.jobString>
   
   <!-- EN: บริหาร เบียร์ -->
   <Administer_Beer.label>ให้ เบียร์</Administer_Beer.label>
   <!-- EN: กำลังบริหาร เบียร์ -->
-  <Administer_Beer.jobString>กำลังให้เบียร์</Administer_Beer.jobString>
+  <Administer_Beer.jobString>กำลังให้ เบียร์</Administer_Beer.jobString>
   
   <!-- EN: บริหาร Flake -->
   <Administer_Flake.label>ให้ Flake</Administer_Flake.label>
@@ -22,9 +22,9 @@
   <Administer_GoJuice.jobString>กำลังให้ Go-juice</Administer_GoJuice.jobString>
   
   <!-- EN: บริหาร Luciferium -->
-  <Administer_Luciferium.label>ให้ Luciferium</Administer_Luciferium.label>
+  <Administer_Luciferium.label>ให้ ลูซิเฟอเรียม</Administer_Luciferium.label>
   <!-- EN: กำลังบริหาร Luciferium -->
-  <Administer_Luciferium.jobString>กำลังให้ Luciferium</Administer_Luciferium.jobString>
+  <Administer_Luciferium.jobString>กำลังให้ ลูซิเฟอเรียม</Administer_Luciferium.jobString>
   
   <!-- EN: บริหาร Penoxycyline -->
   <Administer_Penoxycyline.label>ให้ Penoxycyline</Administer_Penoxycyline.label>
@@ -49,102 +49,102 @@
   <!-- EN: ทำ เสื้อยืด -->
   <Make_Apparel_BasicShirt.label>ทำ เสื้อยืด</Make_Apparel_BasicShirt.label>
   <!-- EN: กำลังทำ เสื้อยืด -->
-  <Make_Apparel_BasicShirt.jobString>กำลังทำเสื้อยืด</Make_Apparel_BasicShirt.jobString>
+  <Make_Apparel_BasicShirt.jobString>กำลังทำ เสื้อยืด</Make_Apparel_BasicShirt.jobString>
   
   <!-- EN: ทำ หมวกทรงกลม -->
   <Make_Apparel_BowlerHat.label>ทำ หมวกทรงกลม</Make_Apparel_BowlerHat.label>
   <!-- EN: กำลังทำ หมวกทรงกลม -->
-  <Make_Apparel_BowlerHat.jobString>กำลังหมวกทรงกลม</Make_Apparel_BowlerHat.jobString>
+  <Make_Apparel_BowlerHat.jobString>กำลังทำ หมวกทรงกลม</Make_Apparel_BowlerHat.jobString>
   
   <!-- EN: ทำ เสื้อคอปก -->
   <Make_Apparel_CollarShirt.label>ทำ เสื้อคอปก</Make_Apparel_CollarShirt.label>
   <!-- EN: กำลังทำ เสื้อคอปก -->
-  <Make_Apparel_CollarShirt.jobString>กำลังทำเสื้อคอปก</Make_Apparel_CollarShirt.jobString>
+  <Make_Apparel_CollarShirt.jobString>กำลังทำ เสื้อคอปก</Make_Apparel_CollarShirt.jobString>
   
   <!-- EN: ทำ หมวกคาวบอย -->
   <Make_Apparel_CowboyHat.label>ทำ หมวกคาวบอย</Make_Apparel_CowboyHat.label>
   <!-- EN: กำลังทำ หมวกคาวบอย -->
-  <Make_Apparel_CowboyHat.jobString>กำลังทำหมวกคาวบอย</Make_Apparel_CowboyHat.jobString>
+  <Make_Apparel_CowboyHat.jobString>กำลังทำ หมวกคาวบอย</Make_Apparel_CowboyHat.jobString>
   
   <!-- EN: ทำ เสื้อคลุมยาว -->
   <Make_Apparel_Duster.label>ทำ เสื้อคลุมยาว</Make_Apparel_Duster.label>
   <!-- EN: กำลังทำ เสื้อคลุมยาว -->
-  <Make_Apparel_Duster.jobString>กำลังทำเสื้อคลุมยาว</Make_Apparel_Duster.jobString>
+  <Make_Apparel_Duster.jobString>กำลังทำ เสื้อคลุมยาว</Make_Apparel_Duster.jobString>
   
   <!-- EN: ทำ แจ็คเก็ต -->
   <Make_Apparel_Jacket.label>ทำ แจ็คเก็ต</Make_Apparel_Jacket.label>
   <!-- EN: กำลังทำ แจ็คเก็ต -->
-  <Make_Apparel_Jacket.jobString>กำลังทำแจ็คเก็ต</Make_Apparel_Jacket.jobString>
+  <Make_Apparel_Jacket.jobString>กำลังทำ แจ็คเก็ต</Make_Apparel_Jacket.jobString>
   
   <!-- EN: ทำ กางเกง -->
   <Make_Apparel_Pants.label>ทำ กางเกง</Make_Apparel_Pants.label>
   <!-- EN: กำลังทำ กางเกง -->
-  <Make_Apparel_Pants.jobString>กำลังทำกางเกง</Make_Apparel_Pants.jobString>
+  <Make_Apparel_Pants.jobString>กำลังทำ กางเกง</Make_Apparel_Pants.jobString>
   
   <!-- EN: ทำ ปาร์เกอะ -->
   <Make_Apparel_Parka.label>ทำ ปาร์เกอะ</Make_Apparel_Parka.label>
   <!-- EN: กำลังทำ ปาร์เกอะ -->
-  <Make_Apparel_Parka.jobString>กำลังทำปาร์เกอะ</Make_Apparel_Parka.jobString>
+  <Make_Apparel_Parka.jobString>กำลังทำ ปาร์เกอะ</Make_Apparel_Parka.jobString>
   
   <!-- EN: ทำ เกราะมารีน -->
   <Make_Apparel_PowerArmor.label>ทำ เกราะมารีน</Make_Apparel_PowerArmor.label>
   <!-- EN: กำลังทำ เกราะมารีน -->
-  <Make_Apparel_PowerArmor.jobString>กำลังทำเกราะมารีน</Make_Apparel_PowerArmor.jobString>
+  <Make_Apparel_PowerArmor.jobString>กำลังทำ เกราะมารีน</Make_Apparel_PowerArmor.jobString>
   
   <!-- EN: ทำ หมวกเกราะมารีน -->
   <Make_Apparel_PowerArmorHelmet.label>ทำ หมวกเกราะมารีน</Make_Apparel_PowerArmorHelmet.label>
   <!-- EN: กำลังทำ หมวกเกราะมารีน -->
-  <Make_Apparel_PowerArmorHelmet.jobString>กำลังทำหมวกเกราะมารีน</Make_Apparel_PowerArmorHelmet.jobString>
+  <Make_Apparel_PowerArmorHelmet.jobString>กำลังทำ หมวกเกราะมารีน</Make_Apparel_PowerArmorHelmet.jobString>
   
   <!-- EN: ทำ เข็มขัดโล่ -->
   <Make_Apparel_ShieldBelt.label>ทำ เข็มขัดโล่</Make_Apparel_ShieldBelt.label>
   <!-- EN: กำลังทำ เข็มขัดโล่ -->
-  <Make_Apparel_ShieldBelt.jobString>กำลังทำเข็มขัดโล่</Make_Apparel_ShieldBelt.jobString>
+  <Make_Apparel_ShieldBelt.jobString>กำลังทำ เข็มขัดโล่</Make_Apparel_ShieldBelt.jobString>
   
   <!-- EN: ทำ เข็มขัดสโม้คป๊อบ -->
   <Make_Apparel_SmokepopBelt.label>ทำ เข็มขัดสโม้คป๊อบ</Make_Apparel_SmokepopBelt.label>
   <!-- EN: กำลังทำ เข็มขัดสโม้คป๊อบ -->
-  <Make_Apparel_SmokepopBelt.jobString>กำลังทำเข็มขัดสโม้คป๊อบ</Make_Apparel_SmokepopBelt.jobString>
+  <Make_Apparel_SmokepopBelt.jobString>กำลังทำ เข็มขัดสโม้คป๊อบ</Make_Apparel_SmokepopBelt.jobString>
   
   <!-- EN: ทำ ชุดชนเผ่า -->
   <Make_Apparel_TribalA.label>ทำ ชุดชนเผ่า</Make_Apparel_TribalA.label>
   <!-- EN: กำลังทำ ชุดชนเผ่า -->
-  <Make_Apparel_TribalA.jobString>กำลังทำชุดชนเผ่า</Make_Apparel_TribalA.jobString>
+  <Make_Apparel_TribalA.jobString>กำลังทำ ชุดชนเผ่า</Make_Apparel_TribalA.jobString>
   
   <!-- EN: ทำ ผ้าโพกหัวชนเผ่า -->
   <Make_Apparel_TribalHeaddress.label>ทำ ผ้าโพกหัวชนเผ่า</Make_Apparel_TribalHeaddress.label>
   <!-- EN: กำลังทำ ผ้าโพกหัวชนเผ่า -->
-  <Make_Apparel_TribalHeaddress.jobString>กำลังทำผ้าโพกหัวชนเผ่า</Make_Apparel_TribalHeaddress.jobString>
+  <Make_Apparel_TribalHeaddress.jobString>กำลังทำ ผ้าโพกหัวชนเผ่า</Make_Apparel_TribalHeaddress.jobString>
   
   <!-- EN: ทำ หมวกไหมพรม -->
   <Make_Apparel_Tuque.label>ทำ หมวกไหมพรม</Make_Apparel_Tuque.label>
   <!-- EN: กำลังทำ หมวกไหมพรม -->
-  <Make_Apparel_Tuque.jobString>กำลังทำหมวกไหมพรม</Make_Apparel_Tuque.jobString>
+  <Make_Apparel_Tuque.jobString>กำลังทำ หมวกไหมพรม</Make_Apparel_Tuque.jobString>
   
   <!-- EN: ทำ หน้ากากนักรบ -->
   <Make_Apparel_WarMask.label>ทำ หน้ากากนักรบ</Make_Apparel_WarMask.label>
   <!-- EN: กำลังทำ หน้ากากนักรบ -->
-  <Make_Apparel_WarMask.jobString>กำลังทำหน้ากากนักรบ</Make_Apparel_WarMask.jobString>
+  <Make_Apparel_WarMask.jobString>กำลังทำ หน้ากากนักรบ</Make_Apparel_WarMask.jobString>
   
   <!-- EN: ทำ ผ้าคลุมหน้านักรบ -->
   <Make_Apparel_WarVeil.label>ทำ ผ้าคลุมหน้านักรบ</Make_Apparel_WarVeil.label>
   <!-- EN: กำลังทำ ผ้าคลุมหน้านักรบ -->
-  <Make_Apparel_WarVeil.jobString>กำลังทำผ้าคลุมหน้านักรบ</Make_Apparel_WarVeil.jobString>
+  <Make_Apparel_WarVeil.jobString>กำลังทำ ผ้าคลุมหน้านักรบ</Make_Apparel_WarVeil.jobString>
   
   <!-- EN: ทำ ธนูใหญ่ -->
   <Make_Bow_Great.label>ทำ ธนูใหญ่</Make_Bow_Great.label>
   <!-- EN: กำลังทำ ธนูใหญ่ -->
-  <Make_Bow_Great.jobString>กำลังทำธนูใหญ่</Make_Bow_Great.jobString>
+  <Make_Bow_Great.jobString>กำลังทำ ธนูใหญ่</Make_Bow_Great.jobString>
   
   <!-- EN: ทำ ธนูรีเคิร์ฟ -->
   <Make_Bow_Recurve.label>ทำ ธนูรีเคิร์ฟ</Make_Bow_Recurve.label>
   <!-- EN: กำลังทำ ธนูรีเคิร์ฟ -->
-  <Make_Bow_Recurve.jobString>กำลังทำธนูรีเคิร์ฟ</Make_Bow_Recurve.jobString>
+  <Make_Bow_Recurve.jobString>กำลังทำ ธนูรีเคิร์ฟ</Make_Bow_Recurve.jobString>
   
   <!-- EN: ทำ ธนูสั้น -->
   <Make_Bow_Short.label>ทำ ธนูสั้น</Make_Bow_Short.label>
   <!-- EN: กำลังทำ ธนูสั้น -->
-  <Make_Bow_Short.jobString>กำลังทำธนูสั้น</Make_Bow_Short.jobString>
+  <Make_Bow_Short.jobString>กำลังทำ ธนูสั้น</Make_Bow_Short.jobString>
   
   <!-- EN: ทำ Flake -->
   <Make_Flake.label>ทำ Flake</Make_Flake.label>
@@ -159,77 +159,77 @@
   <!-- EN: ทำ ไรเฟิลจู่โจม -->
   <Make_Gun_AssaultRifle.label>ทำ ไรเฟิลจู่โจม</Make_Gun_AssaultRifle.label>
   <!-- EN: กำลังทำ ไรเฟิลจู่โจม -->
-  <Make_Gun_AssaultRifle.jobString>กำลังทำไรเฟิลจู่โจม</Make_Gun_AssaultRifle.jobString>
+  <Make_Gun_AssaultRifle.jobString>กำลังทำ ไรเฟิลจู่โจม</Make_Gun_AssaultRifle.jobString>
   
   <!-- EN: ทำ ปืนพกอัตโนมัติ -->
   <Make_Gun_Autopistol.label>ทำ ปืนพกอัตโนมัติ</Make_Gun_Autopistol.label>
   <!-- EN: กำลังทำ ปืนพกอัตโนมัติ -->
-  <Make_Gun_Autopistol.jobString>กำลังทำปืนพกอัตโนมัติ</Make_Gun_Autopistol.jobString>
+  <Make_Gun_Autopistol.jobString>กำลังทำ ปืนพกอัตโนมัติ</Make_Gun_Autopistol.jobString>
   
   <!-- EN: ทำ ไรเฟิลล่าสัตว์ -->
   <Make_Gun_BoltActionRifle.label>ทำ ไรเฟิลล่าสัตว์</Make_Gun_BoltActionRifle.label>
   <!-- EN: กำลังทำ ไรเฟิลล่าสัตว์ -->
-  <Make_Gun_BoltActionRifle.jobString>กำลังทำไรเฟิลล่าสัตว์</Make_Gun_BoltActionRifle.jobString>
+  <Make_Gun_BoltActionRifle.jobString>กำลังทำ ไรเฟิลล่าสัตว์</Make_Gun_BoltActionRifle.jobString>
   
   <!-- EN: ทำ ลูกซองออโต้ -->
   <Make_Gun_ChainShotgun.label>ทำ ลูกซองออโต้</Make_Gun_ChainShotgun.label>
   <!-- EN: กำลังทำ ลูกซองออโต้ -->
-  <Make_Gun_ChainShotgun.jobString>กำลังทำลูกซองออโต้</Make_Gun_ChainShotgun.jobString>
+  <Make_Gun_ChainShotgun.jobString>กำลังทำ ลูกซองออโต้</Make_Gun_ChainShotgun.jobString>
   
   <!-- EN: ทำ ชาร์จไรเฟิล -->
   <Make_Gun_ChargeRifle.label>ทำ ชาร์จไรเฟิล</Make_Gun_ChargeRifle.label>
   <!-- EN: กำลังทำ ชาร์จไรเฟิล -->
-  <Make_Gun_ChargeRifle.jobString>กำลังทำชาร์จไรเฟิล</Make_Gun_ChargeRifle.jobString>
+  <Make_Gun_ChargeRifle.jobString>กำลังทำ ชาร์จไรเฟิล</Make_Gun_ChargeRifle.jobString>
   
   <!-- EN: ทำ ปืนพกกลหนัก -->
   <Make_Gun_HeavySMG.label>ทำ ปืนพกกลหนัก</Make_Gun_HeavySMG.label>
   <!-- EN: กำลังทำ ปืนพกกลหนัก -->
-  <Make_Gun_HeavySMG.jobString>กำลังทำปืนพกกลหนัก</Make_Gun_HeavySMG.jobString>
+  <Make_Gun_HeavySMG.jobString>กำลังทำ ปืนพกกลหนัก</Make_Gun_HeavySMG.jobString>
   
   <!-- EN: ทำ เครื่องยิงระเบิดเพลิง -->
   <Make_Gun_IncendiaryLauncher.label>ทำ เครื่องยิงระเบิดเพลิง</Make_Gun_IncendiaryLauncher.label>
   <!-- EN: กำลังทำ เครื่องยิงระเบิดเพลิง -->
-  <Make_Gun_IncendiaryLauncher.jobString>กำลังทำเครื่องยิงระเบิดเพลิง</Make_Gun_IncendiaryLauncher.jobString>
+  <Make_Gun_IncendiaryLauncher.jobString>กำลังทำ เครื่องยิงระเบิดเพลิง</Make_Gun_IncendiaryLauncher.jobString>
   
   <!-- EN: ทำ ปืนกลเบา -->
   <Make_Gun_LMG.label>ทำ ปืนกลเบา</Make_Gun_LMG.label>
   <!-- EN: กำลังทำ ปืนกลเบา -->
-  <Make_Gun_LMG.jobString>กำลังทำปืนกลเบา</Make_Gun_LMG.jobString>
+  <Make_Gun_LMG.jobString>กำลังทำ ปืนกลเบา</Make_Gun_LMG.jobString>
   
   <!-- EN: ทำ ปืนพกกล -->
   <Make_Gun_MachinePistol.label>ทำ ปืนพกกล</Make_Gun_MachinePistol.label>
   <!-- EN: กำลังทำ ปืนพกกล -->
-  <Make_Gun_MachinePistol.jobString>กำลังทำปืนพกกล</Make_Gun_MachinePistol.jobString>
+  <Make_Gun_MachinePistol.jobString>กำลังทำ ปืนพกกล</Make_Gun_MachinePistol.jobString>
   
   <!-- EN: ทำ มินิกัน -->
   <Make_Gun_Minigun.label>ทำ มินิกัน</Make_Gun_Minigun.label>
   <!-- EN: กำลังทำ มินิกัน -->
-  <Make_Gun_Minigun.jobString>กำลังทำมินิกัน</Make_Gun_Minigun.jobString>
+  <Make_Gun_Minigun.jobString>กำลังทำ มินิกัน</Make_Gun_Minigun.jobString>
   
   <!-- EN: ทำ ลูกซองปั้ม -->
   <Make_Gun_PumpShotgun.label>ทำ ลูกซองปั้ม</Make_Gun_PumpShotgun.label>
   <!-- EN: กำลังทำ ลูกซองปั้ม -->
-  <Make_Gun_PumpShotgun.jobString>กำลังทำลูกซองปั้ม</Make_Gun_PumpShotgun.jobString>
+  <Make_Gun_PumpShotgun.jobString>กำลังทำ ลูกซองปั้ม</Make_Gun_PumpShotgun.jobString>
   
   <!-- EN: ทำ ปืนพกลูกโม่ -->
   <Make_Gun_Revolver.label>ทำ ปืนพกลูกโม่</Make_Gun_Revolver.label>
   <!-- EN: กำลังทำ ปืนพกลูกโม่ -->
-  <Make_Gun_Revolver.jobString>กำลังทำปืนพกลูกโม่</Make_Gun_Revolver.jobString>
+  <Make_Gun_Revolver.jobString>กำลังทำ ปืนพกลูกโม่</Make_Gun_Revolver.jobString>
   
   <!-- EN: ทำ สไนเปอร์ไรเฟิล -->
   <Make_Gun_SniperRifle.label>ทำ สไนเปอร์ไรเฟิล</Make_Gun_SniperRifle.label>
   <!-- EN: กำลังทำ สไนเปอร์ไรเฟิล -->
-  <Make_Gun_SniperRifle.jobString>กำลังทำสไนเปอร์ไรเฟิล</Make_Gun_SniperRifle.jobString>
+  <Make_Gun_SniperRifle.jobString>กำลังทำ สไนเปอร์ไรเฟิล</Make_Gun_SniperRifle.jobString>
   
   <!-- EN: ทำ ตระบอง -->
   <Make_MeleeWeapon_Club.label>ทำ ตระบอง</Make_MeleeWeapon_Club.label>
   <!-- EN: กำลังทำ ตระบอง -->
-  <Make_MeleeWeapon_Club.jobString>กำลังทำตระบอง</Make_MeleeWeapon_Club.jobString>
+  <Make_MeleeWeapon_Club.jobString>กำลังทำ ตระบอง</Make_MeleeWeapon_Club.jobString>
   
   <!-- EN: ทำ ดาบกลาดิอุส -->
   <Make_MeleeWeapon_Gladius.label>ทำ ดาบกลาดิอุส</Make_MeleeWeapon_Gladius.label>
   <!-- EN: กำลังทำ ดาบกลาดิอุส -->
-  <Make_MeleeWeapon_Gladius.jobString>กำลังทำดาบกลาดิอุส</Make_MeleeWeapon_Gladius.jobString>
+  <Make_MeleeWeapon_Gladius.jobString>กำลังทำ ดาบกลาดิอุส</Make_MeleeWeapon_Gladius.jobString>
   
   <!-- EN: ทำ Ikwa -->
   <Make_MeleeWeapon_Ikwa.label>ทำ Ikwa</Make_MeleeWeapon_Ikwa.label>
@@ -239,22 +239,22 @@
   <!-- EN: ทำ มีด -->
   <Make_MeleeWeapon_Knife.label>ทำ มีด</Make_MeleeWeapon_Knife.label>
   <!-- EN: กำลังทำ มีด -->
-  <Make_MeleeWeapon_Knife.jobString>กำลังทำมีด</Make_MeleeWeapon_Knife.jobString>
+  <Make_MeleeWeapon_Knife.jobString>กำลังทำ มีด</Make_MeleeWeapon_Knife.jobString>
   
   <!-- EN: ทำ ดาบยาว -->
   <Make_MeleeWeapon_LongSword.label>ทำ ดาบยาว</Make_MeleeWeapon_LongSword.label>
   <!-- EN: กำลังทำ ดาบยาว -->
-  <Make_MeleeWeapon_LongSword.jobString>กำลังทำดาบยาว</Make_MeleeWeapon_LongSword.jobString>
+  <Make_MeleeWeapon_LongSword.jobString>กำลังทำ ดาบยาว</Make_MeleeWeapon_LongSword.jobString>
   
   <!-- EN: ทำ ตระบองลูกตุ้ม -->
   <Make_MeleeWeapon_Mace.label>ทำ ตระบองลูกตุ้ม</Make_MeleeWeapon_Mace.label>
   <!-- EN: กำลังทำ ตระบองลูกตุ้ม -->
-  <Make_MeleeWeapon_Mace.jobString>กำลังทำตระบองลูกตุ้ม</Make_MeleeWeapon_Mace.jobString>
+  <Make_MeleeWeapon_Mace.jobString>กำลังทำ ตระบองลูกตุ้ม</Make_MeleeWeapon_Mace.jobString>
   
   <!-- EN: ทำ หอก -->
   <Make_MeleeWeapon_Spear.label>ทำ หอก</Make_MeleeWeapon_Spear.label>
   <!-- EN: กำลังทำ หอก -->
-  <Make_MeleeWeapon_Spear.jobString>กำลังทำหอก</Make_MeleeWeapon_Spear.jobString>
+  <Make_MeleeWeapon_Spear.jobString>กำลังทำ หอก</Make_MeleeWeapon_Spear.jobString>
   
   <!-- EN: ทำ Penoxycyline -->
   <Make_Penoxycyline.label>ทำ Penoxycyline</Make_Penoxycyline.label>
@@ -264,12 +264,12 @@
   <!-- EN: ทำ หอกปา -->
   <Make_Pila.label>ทำ หอกปา</Make_Pila.label>
   <!-- EN: กำลังทำ หอกปา -->
-  <Make_Pila.jobString>กำลังทำหอกปา</Make_Pila.jobString>
+  <Make_Pila.jobString>กำลังทำ หอกปา</Make_Pila.jobString>
   
   <!-- EN: ทำ ประติมากรรมมโหฬาร -->
   <Make_SculptureGrand.label>ทำ ประติมากรรมขนาดยิ่งใหญ่</Make_SculptureGrand.label>
   <!-- EN: กำลังทำ ประติมากรรมมโหฬาร -->
-  <Make_SculptureGrand.jobString>กำลังทำประติมากรรมขนาดยิ่งใหญ่</Make_SculptureGrand.jobString>
+  <Make_SculptureGrand.jobString>กำลังทำ ประติมากรรมขนาดยิ่งใหญ่</Make_SculptureGrand.jobString>
   
   <!-- EN: ทำ ประติมากรรมใหญ่ -->
   <Make_SculptureLarge.label>ทำ ประติมากรรมขนาดใหญ่</Make_SculptureLarge.label>
@@ -279,12 +279,12 @@
   <!-- EN: ทำ ประติมากรรมเล็ก -->
   <Make_SculptureSmall.label>ทำ ประติมากรรมขนาดเล็ก</Make_SculptureSmall.label>
   <!-- EN: กำลังทำ ประติมากรรมเล็ก -->
-  <Make_SculptureSmall.jobString>กำลังทำประติมากรรมขนาดเล็ก</Make_SculptureSmall.jobString>
+  <Make_SculptureSmall.jobString>กำลังทำ ประติมากรรมขนาดเล็ก</Make_SculptureSmall.jobString>
   
   <!-- EN: ทำ ลูกปืนครก EMP -->
   <Make_Shell_EMP.label>ทำ ลูกปืนครก EMP</Make_Shell_EMP.label>
   <!-- EN: กำลังทำ ลูกปืนครก EMP -->
-  <Make_Shell_EMP.jobString>กำลังทำลูกปืนครก EMP</Make_Shell_EMP.jobString>
+  <Make_Shell_EMP.jobString>กำลังทำ ลูกปืนครก EMP</Make_Shell_EMP.jobString>
   
   <!-- EN: ทำ ลูกปืนครกดับเพลิง -->
   <Make_Shell_Firefoam.label>ทำ ลูกปืนครกดับเพลิง</Make_Shell_Firefoam.label>
@@ -294,17 +294,17 @@
   <!-- EN: ทำ ลูกปืนครก -->
   <Make_Shell_HighExplosive.label>ทำ ลูกปืนครก</Make_Shell_HighExplosive.label>
   <!-- EN: กำลังทำ ลูกปืนครก -->
-  <Make_Shell_HighExplosive.jobString>กำลังทำลูกปืนครก</Make_Shell_HighExplosive.jobString>
+  <Make_Shell_HighExplosive.jobString>กำลังทำ ลูกปืนครก</Make_Shell_HighExplosive.jobString>
   
   <!-- EN: ทำ ลูกปืนครกเพลิง -->
   <Make_Shell_Incendiary.label>ทำ ลูกปืนครกเพลิง</Make_Shell_Incendiary.label>
   <!-- EN: กำลังทำ ลูกปืนครกเพลิง -->
-  <Make_Shell_Incendiary.jobString>กำลังทำลูกปืนครกเพลิง</Make_Shell_Incendiary.jobString>
+  <Make_Shell_Incendiary.jobString>กำลังทำ ลูกปืนครกเพลิง</Make_Shell_Incendiary.jobString>
   
   <!-- EN: ทำ ยาสูบ Smokeleaf -->
   <Make_SmokeleafJoint.label>ทำ ยาสูบ Smokeleaf</Make_SmokeleafJoint.label>
   <!-- EN: กำลังทำ ยาสูบ Smokeleaf -->
-  <Make_SmokeleafJoint.jobString>กำลังทำยาสูบ Smokeleaf</Make_SmokeleafJoint.jobString>
+  <Make_SmokeleafJoint.jobString>กำลังทำ ยาสูบ Smokeleaf</Make_SmokeleafJoint.jobString>
   
   <!-- EN: ทำ Wake-up -->
   <Make_WakeUp.label>ทำ Wake-up</Make_WakeUp.label>

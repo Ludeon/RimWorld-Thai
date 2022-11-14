@@ -33,22 +33,22 @@
   <SeasonPermanentWinter>ฤดูหนาวถาวร</SeasonPermanentWinter>
 
   <!-- EN: Aprimay -->
-  <QuadrumAprimay>เมษพาคม</QuadrumAprimay>
+  <QuadrumAprimay>เอพริเมย์</QuadrumAprimay>
   <!-- EN: Jugust -->
-  <QuadrumJugust>กรกหาคม</QuadrumJugust>
+  <QuadrumJugust>จูกัสต์</QuadrumJugust>
   <!-- EN: Septober -->
-  <QuadrumSeptober>กันลาคม</QuadrumSeptober>
+  <QuadrumSeptober>เซ็ปโทเบอร์</QuadrumSeptober>
   <!-- EN: Decembary -->
-  <QuadrumDecembary>ธันราคม</QuadrumDecembary>
+  <QuadrumDecembary>ดีเซ็มบารี</QuadrumDecembary>
 
   <!-- EN: Apr -->
-  <QuadrumAprimay_Short>เม.ค.</QuadrumAprimay_Short>
+  <QuadrumAprimay_Short>Apr</QuadrumAprimay_Short>
   <!-- EN: Jug -->
-  <QuadrumJugust_Short>ก.ค.</QuadrumJugust_Short>
+  <QuadrumJugust_Short>Jug</QuadrumJugust_Short>
   <!-- EN: Sep -->
-  <QuadrumSeptober_Short>กั.ค.</QuadrumSeptober_Short>
+  <QuadrumSeptober_Short>Sep</QuadrumSeptober_Short>
   <!-- EN: Dec -->
-  <QuadrumDecembary_Short>ธ.ค.</QuadrumDecembary_Short>
+  <QuadrumDecembary_Short>Dec</QuadrumDecembary_Short>
   
   <!-- EN: Born: {0} -->
   <Born>เกิด: {0}</Born>
@@ -63,9 +63,9 @@
   <!-- EN: {0} years -->
   <PeriodYears>{0} ปี</PeriodYears>
   <!-- EN: 1 quadrum -->
-  <Period1Quadrum>1 ควอดัม</Period1Quadrum>
+  <Period1Quadrum>1 ควอดรัม</Period1Quadrum>
   <!-- EN: {0} quadrums -->
-  <PeriodQuadrums>{0} ควอดัม</PeriodQuadrums>
+  <PeriodQuadrums>{0} ควอดรัม</PeriodQuadrums>
   <!-- EN: 1 day -->
   <Period1Day>1 วัน</Period1Day>
   <!-- EN: {0} days -->

@@ -626,7 +626,7 @@
   
   <!-- Research -->
   <!-- EN: Warning: Research will not begin until you build a research bench. -->
-  <MessageResearchMenuWithoutBench>คำเตือบ: การวิจัยจะไม่เริ่มต้นจนกว่าคุณจะสร้างโต๊ะวิจัย</MessageResearchMenuWithoutBench>
+  <MessageResearchMenuWithoutBench>คำเตือน: การวิจัยจะไม่เริ่มต้นจนกว่าคุณจะสร้างโต๊ะวิจัย</MessageResearchMenuWithoutBench>
 
   <!-- EN: {0_indefinite} has triggered a proximity activator. -->
   <MessageActivatorProximityTriggered>{0_indefinite} ทำให้ proximity activator ทำงาน</MessageActivatorProximityTriggered>
