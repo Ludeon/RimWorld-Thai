@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: ambrosia warmth -->
-  <AmbrosiaHigh.stages.ambrosia_warmth.label>เมากระยาทิพย์</AmbrosiaHigh.stages.ambrosia_warmth.label>
+  <AmbrosiaHigh.stages.ambrosia_warmth.label>เมาแอมโบรเซีย</AmbrosiaHigh.stages.ambrosia_warmth.label>
   <!-- EN: That ambrosia makes me feel more relaxed, and gives me energy at the same time. -->
-  <AmbrosiaHigh.stages.ambrosia_warmth.description>กระยาทิพย์ทำให้ฉันผ่อนคลายมากขึ้น และทำให้ฉันมีพลังมากขึ้น</AmbrosiaHigh.stages.ambrosia_warmth.description>
+  <AmbrosiaHigh.stages.ambrosia_warmth.description>แอมโบรเซียทำให้ฉันผ่อนคลายมากขึ้น และทำให้ฉันมีพลังงานมากขึ้นในคราวเดียวกัน</AmbrosiaHigh.stages.ambrosia_warmth.description>
   
   <!-- EN: ambrosia withdrawal -->
-  <AmbrosiaWithdrawal.stages.ambrosia_withdrawal.label>ลงแดงกระยาทิพย์</AmbrosiaWithdrawal.stages.ambrosia_withdrawal.label>
+  <AmbrosiaWithdrawal.stages.ambrosia_withdrawal.label>ลงแดงแอมโบรเซีย</AmbrosiaWithdrawal.stages.ambrosia_withdrawal.label>
   <!-- EN: I feel heavy and cold all the time. I never thought I'd want a piece of fruit so much. -->
-  <AmbrosiaWithdrawal.stages.ambrosia_withdrawal.description>ฉันรู้สึกหนักตัวและหนาวตลอดเวลา ฉันไม่เคยคิดว่าฉันจะอยากกินผลนั่นมากขนาดนี้</AmbrosiaWithdrawal.stages.ambrosia_withdrawal.description>
+  <AmbrosiaWithdrawal.stages.ambrosia_withdrawal.description>ฉันรู้สึกหนักตัวและหนาวตลอดเวลา ฉันไม่เคยคิดว่าฉันจะอยากกินผลไม้นั่นมากขนาดนี้</AmbrosiaWithdrawal.stages.ambrosia_withdrawal.description>
   
 </LanguageData>

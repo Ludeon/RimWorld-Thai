@@ -3,7 +3,7 @@
 
   <!-- Various -->
   <!-- EN: hit points -->
-  <HitPointsBasic>HP</HitPointsBasic>
+  <HitPointsBasic>พลังชีวิต</HitPointsBasic>
   <!-- EN: Work left -->
   <WorkLeft>งานที่เหลือ</WorkLeft>
   <!-- EN: Contents -->
@@ -53,9 +53,9 @@
   <!-- EN: developed immunity -->
   <DevelopedImmunityLower>พัฒนาภูมิคุ้มกันแล้ว</DevelopedImmunityLower>
   <!-- EN: Needs tending now -->
-  <NeedsTendingNow>ต้องได้รับการรักษาเดี๋ยวนี้</NeedsTendingNow>
+  <NeedsTendingNow>จำเป็นต้องรักษาเดี๋ยวนี้</NeedsTendingNow>
   <!-- EN: Can tend now -->
-  <CanTendNow>สามารถรับการรักษาได้เลย</CanTendNow>
+  <CanTendNow>สามารถรักษาได้เลย</CanTendNow>
   <!-- EN: Tending expires in {0} -->
   <TreatmentExpiresIn>การรักษาหมดอายุใน {0}</TreatmentExpiresIn>
   <!-- EN: Can be tended in {0} -->
@@ -73,7 +73,7 @@
   <!-- EN: illegal -->
   <Illegal>ผิดกฏหมาย</Illegal>
   <!-- EN: detection chance -->
-  <DetectionChance>โอกาศค้นพบ</DetectionChance>
+  <DetectionChance>โอกาสค้นพบ</DetectionChance>
   <!-- EN: Race -->
   <Race>เผ่าพันธุ์</Race>
   <!-- EN: Description -->
@@ -99,7 +99,7 @@
   <!-- EN: Rename colonist -->
   <RenameColonist>เปลี่ยนชื่อชาวนิคม</RenameColonist>
   <!-- EN: Renounce title -->
-  <RenounceTitle>สละชื่อเรื่อง</RenounceTitle>
+  <RenounceTitle>สละฉายา</RenounceTitle>
   <!-- EN: Execute -->
   <Execute>ดำเนินการ</Execute>
   <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
@@ -119,17 +119,17 @@
   <!-- EN: Off -->
   <Off>ปิด</Off>
   <!-- EN: Power -->
-  <PowerSwitch_Power>สวิตช์พลังงาน</PowerSwitch_Power>
+  <PowerSwitch_Power>พลังงาน</PowerSwitch_Power>
   <!-- EN: Recreation type tolerances -->
   <JoyTolerances>ความอดทนต่อนันทนาการแต่ละประเภท</JoyTolerances>
   <!-- EN: Milk fullness -->
   <MilkFullness>พร้อมให้น้ำนม</MilkFullness>
   <!-- EN: Wool growth -->
-  <WoolGrowth>บนแกะโตเต็มที่</WoolGrowth>
+  <WoolGrowth>ขนแกะโตเต็มที่</WoolGrowth>
   <!-- EN: Egg progress -->
   <EggProgress>การพัฒนาการของไข่</EggProgress>
   <!-- EN: Fertilized -->
-  <Fertilized>ได้ปุ๋ยแล้วแล้ว</Fertilized>
+  <Fertilized>ปฏิสนธิแล้ว</Fertilized>
   <!-- EN: Progress stopped until fertilized -->
   <ProgressStoppedUntilFertilized>ความคืบหน้าหยุดชั่วคราวจนกว่าจะได้ปุ๋ย</ProgressStoppedUntilFertilized>
   <!-- EN: Hatches in -->
@@ -143,7 +143,7 @@
   <!-- EN: Ruined by temperature. -->
   <RuinedByTemperature>เสียเพราะอุณหภูมิ</RuinedByTemperature>
   <!-- EN: Missing body parts -->
-  <CorpsePercentMissing>อวัยวะของศพที่สูญหาย</CorpsePercentMissing>
+  <CorpsePercentMissing>อวัยวะของศพกำลังสูญหาย</CorpsePercentMissing>
   <!-- EN: Reproduces in -->
   <HiveReproducesIn>ขยายพันธุ์ใน</HiveReproducesIn>
   <!-- EN: Dormant: Not reproducing. -->
@@ -161,11 +161,11 @@
   <!-- EN: Fuel -->
   <FuelLevelGizmoLabel>เชื้อเพลิง</FuelLevelGizmoLabel>
   <!-- EN: Set target fuel level to {0} -->
-  <SetTargetFuelLevel>ตั้งระดับเชื่อเพลืงของเป้าหมายเป็น {0}</SetTargetFuelLevel>
+  <SetTargetFuelLevel>ตั้งระดับเชื้อเพลิงของเป้าหมายเป็น {0}</SetTargetFuelLevel>
   <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
-  <SetPodLauncherTargetFuelLevel>อวัยวะของศพที่สูญหายเป็น {0}\nระยะทางเต็มที่: {1} ช่อง</SetPodLauncherTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>ตั้งระดับเชื้อเพลิงเป้าหมายเป็น {0}\nระยะทางเต็มที่: {1} ช่อง</SetPodLauncherTargetFuelLevel>
   <!-- EN: Target fuel level: {0} -->
-  <ConfiguredTargetFuelLevel>ระดับเชื่อเพลืงของเป้าหมาย: {0}</ConfiguredTargetFuelLevel>
+  <ConfiguredTargetFuelLevel>ระดับเชื้อเพลิงของเป้าหมาย: {0}</ConfiguredTargetFuelLevel>
   <!-- EN: enemies -->
   <Enemies>ศัตรู</Enemies>
   <!-- EN: people -->
@@ -185,9 +185,9 @@
   <!-- EN: using {0} bedrolls -->
   <UsingBedrolls>ใช้งาน {0} ที่นอนพับ</UsingBedrolls>
   <!-- EN: Est. time to destination: {0} days -->
-  <CaravanEstimatedTimeToDestination>ประมาณการเวลาจนถึงที่หมาย: {0} วัน</CaravanEstimatedTimeToDestination>
+  <CaravanEstimatedTimeToDestination>เวลาโดยประมาณที่จะถึงปลายทาง: {0} วัน</CaravanEstimatedTimeToDestination>
   <!-- EN: Route travel time: {0} days -->
-  <CaravanEstimatedDaysToDestination>ประมาณการวันจนถึงที่หมาย: {0}</CaravanEstimatedDaysToDestination>
+  <CaravanEstimatedDaysToDestination>ระยะเวลาการเดินทางตามเส้นทาง: {0}</CaravanEstimatedDaysToDestination>
   <!-- EN: Immobilized: Too much weight. -->
   <CaravanImmobilizedByMass>เคลื่อนที่ไม่ได้: น้ำหนักมากเกินไป</CaravanImmobilizedByMass>
   <!-- EN: Out of food. -->
@@ -197,11 +197,11 @@
   <!-- EN: Days of food: {0} (rot in {1} days) -->
   <CaravanDaysOfFoodRot>มีเสบียงสำหรับ {0} วัน (เน่าใน {1} วัน)</CaravanDaysOfFoodRot>
   <!-- EN: Stopped because: Everyone is downed. -->
-  <AllCaravanMembersDowned>หยุดลงเนื่องจาก: ทุกคนหมดสติ</AllCaravanMembersDowned>
+  <AllCaravanMembersDowned>หยุดเพราะ: ทุกคนหมดสติ</AllCaravanMembersDowned>
   <!-- EN: Stopped because: Everyone is in a mental break. -->
   <AllCaravanMembersMentalBreak>หยุดเพราะ: ทุกคนมีอาการสติแตก</AllCaravanMembersMentalBreak>
   <!-- EN: {0} {1} -->
-  <CaravanColonistsCount>{1} {0}</CaravanColonistsCount>
+  <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
   <!-- EN: 1 animal -->
   <CaravanAnimal>สัตว์ 1 ตัว</CaravanAnimal>
   <!-- EN: {0} animals -->
@@ -219,9 +219,9 @@
   <!-- EN: Waiting. -->
   <CaravanWaiting>กำลังรอ</CaravanWaiting>
   <!-- EN: Being carried due to illness -->
-  <BeingCarriedDueToIllness>ถูกขนเนื่องจากป่วย</BeingCarriedDueToIllness>
+  <BeingCarriedDueToIllness>ถูกอุ้มเนื่องจากการเจ็บป่วย</BeingCarriedDueToIllness>
   <!-- EN: Using bedrolls due to illness -->
-  <UsingBedrollsDueToIllness>ใช้ที่นอนพับเนื่องจากป่วย</UsingBedrollsDueToIllness>
+  <UsingBedrollsDueToIllness>ใช้ที่นอนพับเนื่องจากการเจ็บป่วย</UsingBedrollsDueToIllness>
   <!-- EN: Current tile movement time -->
   <CurrentTileMovementTime>เวลาเคลื่อนที่ผ่านช่องนี้</CurrentTileMovementTime>
   <!-- EN: Visibility -->
@@ -231,9 +231,9 @@
   <!-- EN: bad temperature -->
   <BadTemperature>อุณหภูมิเลวร้าย</BadTemperature>
   <!-- EN: Ideal fermenting temperature -->
-  <IdealFermentingTemperature>อุณหภูมิหมักที่พอเหมาะ</IdealFermentingTemperature>
+  <IdealFermentingTemperature>อุณหภูมิการหมักที่เหมาะสม</IdealFermentingTemperature>
   <!-- EN: {0} effect multiplier: {1} -->
-  <DrugEffectMultiplier>{0} ตัวคุณประสิทธิผล: {1}</DrugEffectMultiplier>
+  <DrugEffectMultiplier>{0} ตัวคูณประสิทธิผล: {1}</DrugEffectMultiplier>
   <!-- EN: Visiting {0}. -->
   <CaravanVisiting>เข้าเยี่ยมชม {0}</CaravanVisiting>
   <!-- EN: Entering {0}. -->
@@ -247,11 +247,11 @@
   <!-- EN: Tainted from being worn by a corpse. -->
   <WasWornByCorpse>มีมลทินจากการถูกใส่โดยศพ</WasWornByCorpse>
   <!-- EN: T -->
-  <WornByCorpseChar>ม</WornByCorpseChar>
+  <WornByCorpseChar>ม.</WornByCorpseChar>
   <!-- EN: unroofed -->
   <DeterioratingUnroofed>ไม่มีหลังคา</DeterioratingUnroofed>
   <!-- EN: outdoors -->
-  <DeterioratingOutdoors>อยู่กลางแจ้ง</DeterioratingOutdoors>
+  <DeterioratingOutdoors>กลางแจ้ง</DeterioratingOutdoors>
   <!-- EN: Deteriorating because of -->
   <DeterioratingBecauseOf>เสื่อมสภาพจากการ</DeterioratingBecauseOf>
   <!-- EN: Map -->
@@ -271,7 +271,7 @@
   <!-- EN: Disabled -->
   <DisabledCommand>ปิดใช้งาน</DisabledCommand>
   <!-- EN: Ready for launch. -->
-  <ReadyForLaunch>พร้อมจะปล่อยตัว</ReadyForLaunch>
+  <ReadyForLaunch>พร้อมปล่อยตัว</ReadyForLaunch>
   <!-- EN: Not ready for launch -->
   <NotReadyForLaunch>ไม่พร้อมที่จะปล่อยตัว</NotReadyForLaunch>
   <!-- EN: no fueling port -->
@@ -279,7 +279,7 @@
   <!-- EN: no fuel -->
   <NotAllFuelingPortSourcesInGroupHaveAnyFuel>ไม่มีเชื้อเพลิง</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
   <!-- EN: loading in progress -->
-  <TransportPodInGroupHasSomethingLeftToLoad>กำลังโหลด</TransportPodInGroupHasSomethingLeftToLoad>
+  <TransportPodInGroupHasSomethingLeftToLoad>กำลังขนของ</TransportPodInGroupHasSomethingLeftToLoad>
   <!-- EN: Beyond maximum range -->
   <TransportPodDestinationBeyondMaximumRange>ไกลเกินกว่าระยะเดินทางเต็มที่</TransportPodDestinationBeyondMaximumRange>
   <!-- EN: Not enough fuel -->
@@ -309,7 +309,7 @@
   <!-- EN: Time left: {0} -->
   <WorldObjectTimeout>เวลาที่เหลือ: {0}</WorldObjectTimeout>
   <!-- EN: Click to sort by this column. -->
-  <ClickToSortByThisColumn>คลิกเพื่อจัดเรียงตามคอลัมน์นี้</ClickToSortByThisColumn>
+  <ClickToSortByThisColumn>คลิกเพื่อจัดเรียงตามแถวนี้</ClickToSortByThisColumn>
   <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
   <WorkPriorityShiftClickTip>Shift + คลิก: เพิ่มความสำคัญ\nShift + คลิกขวา: ลดความสำคัญ</WorkPriorityShiftClickTip>
   <!-- EN: Shift + click: Enable all\nShift + right click: Disable all -->
@@ -335,21 +335,21 @@
   <!-- EN: Impassable -->
   <Impassable>ผ่านไม่ได้</Impassable>
   <!-- EN: Caravan movement speed -->
-  <CaravanMovementSpeedFull>ความเร็วคาราวาน</CaravanMovementSpeedFull>
+  <CaravanMovementSpeedFull>ความเร็วในการเดินทางของคาราวาน</CaravanMovementSpeedFull>
   <!-- EN: downed -->
   <DownedLower>หมดสติ</DownedLower>
   <!-- EN: resting -->
   <Carried>พักผ่อน</Carried>
   <!-- EN: Avg. person move speed -->
-  <AverageCaravanMemberMoveSpeed>ความเร็วเฉลี่ยคนเดิน</AverageCaravanMemberMoveSpeed>
+  <AverageCaravanMemberMoveSpeed>ความเร็วในการเคลื่อนที่ของผู้คนโดยเฉลี่ย</AverageCaravanMemberMoveSpeed>
   <!-- EN: Multiplier from ridden animals -->
   <MultiplierFromRiddenAnimals>ตัวคูณจากสัตว์ขี่</MultiplierFromRiddenAnimals>
   <!-- EN: Multiplier for carried mass: {0} -->
   <MultiplierForCarriedMass>ตัวคูณสำหรับมวลที่ขน: {0}</MultiplierForCarriedMass>
   <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
-  <RideableAnimalTip>สัตว์ตัวนี้ขี่ได้ ผู้คนในกองคาราวานจะขี่สัตว์ที่เร็วที่สุดที่มีอยู่ ปรับปรุงความเร็วของกองคาราวานโดยรวม</RideableAnimalTip>
+  <RideableAnimalTip>สัตว์ตัวนี้ขี่ได้ ผู้คนในกองคาราวานจะขี่สัตว์ที่เร็วที่สุดที่มีอยู่ ช่วยปรับปรุงความเร็วของกองคาราวานโดยรวม</RideableAnimalTip>
   <!-- EN: This caravan can't move because it carries too much. -->
-  <EncumberedCaravanTilesPerDayTip>กองคาราวานนี้ไม่สามารถเคลื่อนย้ายได้เพราะมันบรรทุกมากเกินไป</EncumberedCaravanTilesPerDayTip>
+  <EncumberedCaravanTilesPerDayTip>กองคาราวานนี้ไม่สามารถเคลื่อนย้ายได้เพราะบรรทุกของมากเกินไป</EncumberedCaravanTilesPerDayTip>
   <!-- EN: Caravan members speed -->
   <FinalCaravanPawnsMovementSpeed>ความเร็วสมาชิกคาราวาน</FinalCaravanPawnsMovementSpeed>
   <!-- EN: Final speed -->
@@ -373,27 +373,27 @@
   <!-- EN: captured by {0} -->
   <capturedBy>โดนจับโดย {0}</capturedBy>
   <!-- EN: your caravan -->
-  <yourCaravan>คาราวานคุณ</yourCaravan>
+  <yourCaravan>คาราวานของคุณ</yourCaravan>
   <!-- EN: {0} wildness -->
   <CreatureWildness>{0} ความดุร้าย</CreatureWildness>
   <!-- EN: {0} trainability -->
   <CreatureTrainability>{0} ศักยภาพการฝึก</CreatureTrainability>
   <!-- EN: Follow master while drafted -->
-  <CreatureFollowDrafted>TODO</CreatureFollowDrafted>
+  <CreatureFollowDrafted>ติดตามเจ้านายขณะถูกเกณฑ์</CreatureFollowDrafted>
   <!-- EN: Follow master while doing field work -->
-  <CreatureFollowFieldwork>TODO</CreatureFollowFieldwork>
+  <CreatureFollowFieldwork>ติดตามเจ้านายขณะทำงานภาคสนาม</CreatureFollowFieldwork>
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{0} ด้วย {1}</ProximitySingleGoodwillChange>
   <!-- EN: Too dangerous to re-enter for {0}. -->
-  <EnterCooldown>คุณไม่สามารถเข้าไปได้ใหม่อีก {0} วัน</EnterCooldown>
+  <EnterCooldown>อันตรายเกินไปที่จะเข้าไปอีกครั้งใน {0} </EnterCooldown>
   <!-- EN: Caravan -->
   <Caravan>คาราวาน</Caravan>
   <!-- EN: there may be danger there. -->
   <HiddenOrNoSitePartDescription>บางทีอาจจะมีอัตรายอยู่ตรงนั้น</HiddenOrNoSitePartDescription>
   <!-- EN: The scanner is picking up activity around the lump. It's likely hostile. -->
-  <PreciousLumpHostileThreat>TODO</PreciousLumpHostileThreat>
+  <PreciousLumpHostileThreat>เครื่องสแกนตรวจพบการเคลื่อนไหวรอบๆก้อน มันเหมือนจะเป็นศัตรู</PreciousLumpHostileThreat>
   <!-- EN: lump of {0} -->
-  <PreciousLumpLabel>TODO</PreciousLumpLabel>
+  <PreciousLumpLabel>ก้อนของ {0}</PreciousLumpLabel>
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>ไม่ได้ทำโครงการวิจัยใดอยู่</NoActiveResearchProjectToFinish>
   <!-- EN: turret -->
@@ -423,7 +423,7 @@
   <!-- EN: prisoners -->
   <PrisonersLower>นักโทษ</PrisonersLower>
   <!-- EN: Click to view this quest in quests tab -->
-  <ClickToViewInQuestsTab>คลิกเพื่อดูเควสนี้ในแท็บเควส</ClickToViewInQuestsTab>
+  <ClickToViewInQuestsTab>คลิกเพื่อดูเควสนี้ในแถบเควส</ClickToViewInQuestsTab>
   <!-- EN: Mood -->
   <Mood>อารมณ์</Mood>
   <!-- EN: Quest -->
@@ -435,7 +435,7 @@
   <!-- EN: Foliage kill radius -->
   <FoliageKillRadius>รัศมีฆ่าใบพืช</FoliageKillRadius>
   <!-- EN: Radius expand rate -->
-  <RadiusExpandRate>เรตขยายตัวของรัศมี</RadiusExpandRate>
+  <RadiusExpandRate>อัตราการขยายของรัศมี</RadiusExpandRate>
   <!-- EN: View: {0} -->
   <ViewHyperlink>ดู: {0}</ViewHyperlink>
   <!-- EN: Detonates in {0} days -->
@@ -487,11 +487,11 @@
   <!-- EN: Requires {0} trait -->
   <TraitRequired>TODO</TraitRequired>
   <!-- EN: Goodwill -->
-  <Goodwill>TODO</Goodwill>
+  <Goodwill>ไมตรีจิต</Goodwill>
   <!-- EN: Natural goodwill -->
-  <NaturalGoodwill>TODO</NaturalGoodwill>
+  <NaturalGoodwill>ไมตรีจิตปานกลาง</NaturalGoodwill>
   <!-- EN: Natural goodwill range -->
-  <NaturalGoodwillRange>TODO</NaturalGoodwillRange>
+  <NaturalGoodwillRange>ระยะไมตรีจิตปานกลาง</NaturalGoodwillRange>
   <!-- EN: Natural goodwill is based on faction identities and beliefs. If current goodwill is far from natural goodwill, it will slowly shift towards natural goodwill over time.\n\nAll goodwill effects are multiplied by {0} when moving towards natural goodwill. -->
   <NaturalGoodwillDescription>TODO</NaturalGoodwillDescription>
   <!-- EN: reducing resistance of {0_nameIndef} -->
@@ -591,7 +591,7 @@
   <!-- EN: No roof -->
   <NoRoof>ไม่มีหลังคา</NoRoof>
   <!-- EN: Snow clear -->
-  <SnowClear>เคลียร์หิมะ</SnowClear>
+  <SnowClear>กำจัดหิมะ</SnowClear>
   <!-- EN: Area {0} -->
   <AreaDefaultLabel>ขอบเขต {0}</AreaDefaultLabel>
   <!-- EN: Unrestricted -->
@@ -603,17 +603,17 @@
 
   <!-- Animal pens -->
   <!-- EN: Unenclosed -->
-  <PenUnenclosedLabel>TODO</PenUnenclosedLabel>
+  <PenUnenclosedLabel>ยังไม่ได้ถูกล้อมรอบ</PenUnenclosedLabel>
   <!-- EN: open door -->
-  <PenOpenDoorLabel>TODO</PenOpenDoorLabel>
+  <PenOpenDoorLabel>เปิดประตู</PenOpenDoorLabel>
   <!-- EN: Rename pen -->
-  <RenameAnimalPen>TODO</RenameAnimalPen>
+  <RenameAnimalPen>เปลี่ยนชื่อคอก</RenameAnimalPen>
   <!-- EN: Pen marker {0} -->
-  <AnimalPenMarkerDefaultLabel>TODO</AnimalPenMarkerDefaultLabel>
+  <AnimalPenMarkerDefaultLabel>เครื่องหมายคอก {0}</AnimalPenMarkerDefaultLabel>
   <!-- EN: In pen -->
-  <InPen>TODO</InPen>
+  <InPen>อยู่ในคอก</InPen>
   <!-- EN: not in a pen -->
-  <Unpenned>TODO</Unpenned>
+  <Unpenned>ไม่ได้อยู่ในคอก</Unpenned>
   <!-- EN: Animal pens can be created by building a pen marker inside an enclosed area. Your handlers will bring animals to an appropriate pen. Pens can be enclosed with fences, barricades, walls, and doors. -->
   <UnpennedTooltip>TODO</UnpennedTooltip>
   <!-- EN: Roped by -->
@@ -623,21 +623,21 @@
   <!-- EN: Roped to spot. -->
   <RopedToSpot>TODO</RopedToSpot>
   <!-- EN: Pen size -->
-  <PenSizeLabel>TODO</PenSizeLabel>
+  <PenSizeLabel>ขนาดคอก</PenSizeLabel>
   <!-- EN: Very small pen -->
-  <PenSizeDesc_VerySmall>TODO</PenSizeDesc_VerySmall>
+  <PenSizeDesc_VerySmall>คอกเล็กมากๆ</PenSizeDesc_VerySmall>
   <!-- EN: Small pen -->
-  <PenSizeDesc_Small>TODO</PenSizeDesc_Small>
+  <PenSizeDesc_Small>คอกเล็ก</PenSizeDesc_Small>
   <!-- EN: Medium-sized pen -->
-  <PenSizeDesc_Medium>TODO</PenSizeDesc_Medium>
+  <PenSizeDesc_Medium>คอกขนาดปานกลาง</PenSizeDesc_Medium>
   <!-- EN: Large pen -->
-  <PenSizeDesc_Large>TODO</PenSizeDesc_Large>
+  <PenSizeDesc_Large>คอกใหญ่</PenSizeDesc_Large>
   <!-- EN: Not enclosed - build fences -->
-  <PenSizeDesc_Unenclosed>TODO</PenSizeDesc_Unenclosed>
+  <PenSizeDesc_Unenclosed>ไม่ได้ลอมรอบ - สร้างรั้ว</PenSizeDesc_Unenclosed>
   <!-- EN: {ANIMALDEF_label} capacity -->
-  <PenCapacityDesc>TODO</PenCapacityDesc>
+  <PenCapacityDesc>{ANIMALDEF_label} ที่รับได้</PenCapacityDesc>
   <!-- EN: Example animals -->
-  <PenExampleAnimals>TODO</PenExampleAnimals>
+  <PenExampleAnimals>สัตว์ตัวอย่าง</PenExampleAnimals>
 
 
   <!-- Control -->
@@ -700,7 +700,7 @@
   <!-- EN: cloudwatching. -->
   <CloudWatching>กำลังมองดูก้อนเมฆ</CloudWatching>
   <!-- EN: watching the sunset. -->
-  <WatchingSunset>กำลังดูพระอาทิตย์อัสดง</WatchingSunset>
+  <WatchingSunset>กำลังดูพระอาทิตย์ตก</WatchingSunset>
   <!-- EN: stargazing. -->
   <Stargazing>กำลังเหม่อดูดวงดาวพร่างพราว</Stargazing>
   <!-- EN: watching the eclipse. -->
@@ -776,9 +776,9 @@
   <!-- EN: Administering {0}. -->
   <RecipeAdministerJobString>กำลังบริหาร {0}</RecipeAdministerJobString>
   <!-- EN: teetotaler will be unhappy -->
-  <TeetotalerUnhappy>พวกละเว้นแอลกอฮอล์จะไม่แฮปปี้</TeetotalerUnhappy>
+  <TeetotalerUnhappy>พวกละเว้นแอลกอฮอล์จะไม่มีความสุข</TeetotalerUnhappy>
   <!-- EN: body purist will be unhappy -->
-  <ProsthophobeUnhappy>พวกละเว้นอวัยวะกลจะไม่แฮปปี้</ProsthophobeUnhappy>
+  <ProsthophobeUnhappy>พวกละเว้นอวัยวะกลจะไม่มีความสุข</ProsthophobeUnhappy>
 
   <!-- Thoughts -->
   <!-- EN: Expires in: {0} -->
@@ -824,9 +824,9 @@
   <!-- EN: Unconscious -->
   <Unconscious>หมดสติ</Unconscious>
   <!-- EN: In shock due to pain -->
-  <PainShock>กำลังช็อคจากความเจ็บปวด</PainShock>
+  <PainShock>กำลังช็อกจากความเจ็บปวด</PainShock>
   <!-- EN: Pain shock -->
-  <PainShockShort>ช็อคจากความปวด</PainShockShort>
+  <PainShockShort>ช็อกจากความปวด</PainShockShort>
   <!-- EN: Incapacitated -->
   <Incapacitated>ไม่สามารถขยับได้</Incapacitated>
   <!-- EN: In restraints (slowed) -->
@@ -856,7 +856,7 @@
 
   <!-- like 'Blood of John' -->
   <!-- EN: of -->
-  <OfLower>แห่ง</OfLower>
+  <OfLower>ของ</OfLower>
 
   <!-- Power readout -->
   <!-- EN: Not connected to power. -->
@@ -922,7 +922,7 @@
   <!-- EN: Ingredients -->
   <Ingredients>วัตถุดิบ</Ingredients>
   <!-- EN: only stacks with similar meals -->
-  <OnlyStacksWithCompatibleMeals>TODO</OnlyStacksWithCompatibleMeals>
+  <OnlyStacksWithCompatibleMeals>กองกับเนื้อแบบเดียวกันเท่านั้น</OnlyStacksWithCompatibleMeals>
 
   <!-- Plants -->
   <!-- EN: {0} grown -->
@@ -976,13 +976,13 @@
   <!-- EN: Priority -->
   <Priority>ลำดับความสำคัญ</Priority>
   <!-- EN: Clear all -->
-  <ClearAll>เคลียร์ทั้งหมด</ClearAll>
+  <ClearAll>ลบทั้งหมด</ClearAll>
   <!-- EN: Allow all -->
   <AllowAll>อนุญาตทั้งหมด</AllowAll>
 
   <!-- ThingFilter -->
   <!-- EN: {0} hit points -->
-  <HitPoints>{0} HP</HitPoints>
+  <HitPoints>{0} พลังชีวิต</HitPoints>
   <!-- EN: any quality -->
   <AnyQuality>คุณภาพใดก็ได้</AnyQuality>
   <!-- EN: {0} only -->
@@ -1080,7 +1080,7 @@
   <!-- EN: Cannot be placed next to traps. -->
   <CannotPlaceAdjacentTrap>ไม่สามารถวางถัดจากกับดัก</CannotPlaceAdjacentTrap>
   <!-- EN: Cannot be placed next to another building of the same type. -->
-  <CannotPlaceAdjacentSameDef>TODO</CannotPlaceAdjacentSameDef>
+  <CannotPlaceAdjacentSameDef>ไม่สามารถวางถัดจากสิ่งก่อสร้างแบบเดียวกันได้</CannotPlaceAdjacentSameDef>
 
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
@@ -1102,7 +1102,7 @@
   <!-- EN: Cannot launch. -->
   <ShipReportCannotLaunch>ไม่สามารถปล่อยตัว</ShipReportCannotLaunch>
   <!-- EN: Ready for launch. -->
-  <ShipReportCanLaunch>พร้อมจะปล่อยตัว</ShipReportCanLaunch>
+  <ShipReportCanLaunch>พร้อมที่จะปล่อยตัว</ShipReportCanLaunch>
   <!-- EN: Missing critical component -->
   <ShipReportMissingPart>ขาดชิ้นส่วนสำคัญ</ShipReportMissingPart>
   <!-- EN: requires -->
@@ -1204,7 +1204,7 @@
   <!-- EN: inactive -->
   <InactiveFacility>ไม่ทำงาน</InactiveFacility>
   <!-- EN: Links to -->
-  <FacilityPotentiallyLinkedTo>ลิงค์ไป</FacilityPotentiallyLinkedTo>
+  <FacilityPotentiallyLinkedTo>เชื่อมไปยัง</FacilityPotentiallyLinkedTo>
   <!-- EN: Not linked to a building -->
   <FacilityNoPotentialLinks>ไม่เชื่อมกับฐาน</FacilityNoPotentialLinks>
 
@@ -1222,7 +1222,7 @@
   <!-- EN: Not usable: {0}. -->
   <MarriageSpotNotUsable>ใช้งานไม่ได้: {0}.</MarriageSpotNotUsable>
   <!-- EN: blocked -->
-  <MarriageSpotNotStandable>ถูกบัง</MarriageSpotNotStandable>
+  <MarriageSpotNotStandable>ถูกขวาง</MarriageSpotNotStandable>
   <!-- EN: too dangerous for {1_labelShort} -->
   <MarriageSpotDangerous>อันตรายเกินไปสำหรับ {1_labelShort}</MarriageSpotDangerous>
   <!-- EN: forbidden for {1_labelShort} -->
@@ -1280,7 +1280,7 @@
   <!-- EN: Learning helper -->
   <LearningHelper>ตัวช่วยฝึกหัด</LearningHelper>
   <!-- EN: Mark as learned -->
-  <MarkLearned>มาร์คว่าเรียนรู้</MarkLearned>
+  <MarkLearned>ทำเครื่องหมายว่าเรียนรู้</MarkLearned>
   <!-- EN: Already learned -->
   <AlreadyLearned>เรียนรู้แล้ว</AlreadyLearned>
   <!-- EN: Filter -->
@@ -1539,13 +1539,13 @@
   <DateRitualNoObligation>TODO</DateRitualNoObligation>
 
   <!-- EN: Replace with -->
-  <PreceptReplaceWith>TODO</PreceptReplaceWith>
+  <PreceptReplaceWith>แทนที่ด้วย</PreceptReplaceWith>
   <!-- EN: Ritual seat of {IDEOS} -->
   <RitualSeatOf>TODO</RitualSeatOf>
   <!-- EN: Expected quality -->
   <ExpectedRitualQuality>TODO</ExpectedRitualQuality>
   <!-- EN: Starting quality -->
-  <StartingQuality>TODO</StartingQuality>
+  <StartingQuality>คุณภาพเริ่มต้น</StartingQuality>
   <!-- EN: Expected duration -->
   <ExpectedRitualDuration>TODO</ExpectedRitualDuration>
   

@@ -2,56 +2,56 @@
 <LanguageData>
 
   <!-- EN: A story generator by Tynan Sylvester -->
-  <MainPageCredit>เกมจำลองอาณานิคมโดย Tynan Sylvester</MainPageCredit>
+  <MainPageCredit>เกมก่อสร้างเรื่องราวโดย Tynan Sylvester</MainPageCredit>
 
   <!-- EN: Developers -->
-  <Credits_Developers>Developers</Credits_Developers>
+  <Credits_Developers>ผู้พัฒนา</Credits_Developers>
   <!-- EN: Audio -->
-  <Credit_MusicAndSound>Audio</Credit_MusicAndSound>
+  <Credit_MusicAndSound>เสียง</Credit_MusicAndSound>
   <!-- EN: Code -->
-  <Credit_Code>Code</Credit_Code>
+  <Credit_Code>โค้ด</Credit_Code>
   <!-- EN: Art -->
-  <Credit_GameArt>Art</Credit_GameArt>
+  <Credit_GameArt>ศิลปะ</Credit_GameArt>
   <!-- EN: Menu art -->
-  <Credit_MenuArt>Menu art</Credit_MenuArt>
+  <Credit_MenuArt>ศิลปะเมนู</Credit_MenuArt>
   <!-- EN: Additional code -->
-  <Credit_AdditionalCode>Additional code</Credit_AdditionalCode>
+  <Credit_AdditionalCode>โค้ดเพิ่มเติม</Credit_AdditionalCode>
   
   <!-- EN: Additional development -->
-  <Credits_AdditionalDevelopment>Additional development</Credits_AdditionalDevelopment>
+  <Credits_AdditionalDevelopment>การพัฒนาเพิ่มเติม</Credits_AdditionalDevelopment>
 
   <!-- EN: Special thanks -->
-  <Credit_SpecialThanks>Special thanks</Credit_SpecialThanks>
+  <Credit_SpecialThanks>ขอบคุณเป็นพิเศษ</Credit_SpecialThanks>
 
   <!-- EN: Community volunteers -->
-  <Credits_TitleCommunity>Community volunteers</Credits_TitleCommunity>
+  <Credits_TitleCommunity>อาสาสมัครในชุมชน</Credits_TitleCommunity>
   <!-- EN: Community testers -->
-  <Credits_TitleTester>Community testers</Credits_TitleTester>
+  <Credits_TitleTester>ผู้ทดสอบในชุมชน</Credits_TitleTester>
   <!-- EN: Mods -->
-  <Credits_TitleMods>Mods</Credits_TitleMods>
+  <Credits_TitleMods>ม็อด</Credits_TitleMods>
   <!-- EN: Mod donor -->
-  <Credit_ModDonation>Mod donor</Credit_ModDonation>
+  <Credit_ModDonation>ผู้บริจาคม็อด</Credit_ModDonation>
   <!-- EN: Writing donor -->
-  <Credit_WritingDonation>Writing donor</Credit_WritingDonation>
+  <Credit_WritingDonation>ผู้บริจาคการเขียน</Credit_WritingDonation>
   <!-- EN: Moderator -->
-  <Credit_Moderator>Moderator</Credit_Moderator>
+  <Credit_Moderator>ผู้ดูแล</Credit_Moderator>
   <!-- EN: Wiki master -->
   <Credit_WikiMaster>Wiki master</Credit_WikiMaster>
   <!-- EN: Test lead -->
-  <Credit_TestLead>Test lead</Credit_TestLead>
+  <Credit_TestLead>หัวหน้าฝ่ายทดสอบ</Credit_TestLead>
 
   <!-- EN: {0} language -->
-  <Credits_TitleLanguage>{0} language</Credits_TitleLanguage>
+  <Credits_TitleLanguage>ภาษา {0}</Credits_TitleLanguage>
   <!-- EN: Writer -->
-  <Credit_Writer>Writer</Credit_Writer>
+  <Credit_Writer>นักเขียน</Credit_Writer>
   <!-- EN: Translator -->
-  <Credit_Translator>Translator</Credit_Translator>
+  <Credit_Translator>ผู้แปล</Credit_Translator>
   <!-- EN: Open source libraries -->
   <Credit_OpenSourceLibraries>Open source libraries</Credit_OpenSourceLibraries>
   <!-- EN: Noise generation -->
   <Credit_NoiseGeneration>Noise generation</Credit_NoiseGeneration>
 
   <!-- EN: Thanks for playing! -->
-  <ThanksForPlaying>Thanks for playing!</ThanksForPlaying>
+  <ThanksForPlaying>ขอบคุณที่เล่น!</ThanksForPlaying>
 
 </LanguageData>

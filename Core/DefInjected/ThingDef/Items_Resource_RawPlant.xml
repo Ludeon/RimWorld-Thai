@@ -27,7 +27,7 @@
   <RawCorn.description>ข้าวโพดดิบ</RawCorn.description>
   
   <!-- EN: raw fungus -->
-  <RawFungus.label>เห็ด</RawFungus.label>
+  <RawFungus.label>เห็ดราดิบ</RawFungus.label>
   <!-- EN: Raw fungus. -->
   <RawFungus.description>เห็ดราดิบ</RawFungus.description>
   
@@ -47,8 +47,8 @@
   <RawRice.description>ข้าวเปลือก</RawRice.description>
   
   <!-- EN: smokeleaf leaves -->
-  <SmokeleafLeaves.label>ใบ Smokeleaf</SmokeleafLeaves.label>
+  <SmokeleafLeaves.label>ใบสโมคลีฟ</SmokeleafLeaves.label>
   <!-- EN: Raw cut leaves of a smokeleaf plant. Can be rolled into smokeable joints at a crafting spot. -->
-  <SmokeleafLeaves.description>ใบไม้ที่ตัดจากต้น Smokeleaf สามารถไปม้วนกลายเป็นยาสูบได้ที่จุดงานฝีมือ</SmokeleafLeaves.description>
+  <SmokeleafLeaves.description>ใบไม้ที่ตัดจากต้นสโมคลีฟ สามารถไปม้วนกลายเป็นยาสูบได้ที่จุดงานฝีมือ</SmokeleafLeaves.description>
   
 </LanguageData>

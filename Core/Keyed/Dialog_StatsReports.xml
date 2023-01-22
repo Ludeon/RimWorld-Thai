@@ -219,7 +219,7 @@
   <!-- EN: The type of leather this creature will yield when butchered. -->
   <Stat_Race_LeatherType_Desc>ชนิดหนังที่สิ่งมีชีวิตนี้ให้ผลผลิตเมื่อถูกเชือด</Stat_Race_LeatherType_Desc>
   <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
-  <Stat_Race_Animal_TameFailedRevengeChance_Desc>โอกาศที่สิ่งมีชิวิตที่จะโจมตี เมื่อมีผู้มาพยายามฝึกให้เชื่องและล้มเหลว</Stat_Race_Animal_TameFailedRevengeChance_Desc>
+  <Stat_Race_Animal_TameFailedRevengeChance_Desc>โอกาสที่สิ่งมีชิวิตที่จะโจมตี เมื่อมีผู้มาพยายามฝึกให้เชื่องและล้มเหลว</Stat_Race_Animal_TameFailedRevengeChance_Desc>
   <!-- EN: This creature's general mental aptitude for training. This is a combination of intelligence and attentiveness. It determines which kinds of tasks this creature can be trained to perform. -->
   <Stat_Race_Trainability_Desc>ความถนัดทั่วๆไปของสิ่งมีชีวิตนี้เมื่อฝึกฝน นี่เป็นส่วนผสมระหว่างความฉลาดกับความสนใจ ใช้กำหนดงานประเภทใด อันสิ่งมีชีวิตนี้สามารถฝึกฝนได้</Stat_Race_Trainability_Desc>
   <!-- EN: The average life expectancy of this creature. -->
@@ -245,7 +245,7 @@
   <!-- EN: The radius of random spread on shots fired by this weapon.\n\nHigh values make projectiles disperse randomly around the target. -->
   <Stat_Thing_Weapon_MissRadius_Desc>รัศมีที่กระสุนพุ่งไปสุ่มๆเมื่อยิงอาวุธนี้\n\nยิ่งค่ามาก กระสุนก็จะสุ่มกระจายไปรอบๆเป้าหมายมากขึ้น</Stat_Thing_Weapon_MissRadius_Desc>
   <!-- EN: The chance that a shot will directly hit its target if not intercepted, dodged or stopped. -->
-  <Stat_Thing_Weapon_DirectHitChance_Desc>โอกาศเมื่อยิงแล้วจะโดนเป้าหมายตรงๆ ถ้าไม่โดนสกัด โดนหลบ หรือโดนหยุดไว้</Stat_Thing_Weapon_DirectHitChance_Desc>
+  <Stat_Thing_Weapon_DirectHitChance_Desc>โอกาสเมื่อยิงแล้วจะโดนเป้าหมายตรงๆ ถ้าไม่โดนสกัด โดนหลบ หรือโดนหยุดไว้</Stat_Thing_Weapon_DirectHitChance_Desc>
   <!-- EN: This body part's effect on the mood of the owner. -->
   <Stat_Thing_MoodChange_Desc>อวัยวะนี้ส่งผลต่ออารมณ์ของเจ้าของ</Stat_Thing_MoodChange_Desc>
   <!-- EN: The main skill used while performing this recipe.\n\nIt determines the quality of the result, and is learned while performing this recipe. -->
@@ -261,13 +261,13 @@
   <!-- EN: Which stat governs the quality or amount of output.\n\nThe higher the stat of the worker is, the higher the quality or yield will be. -->
   <Stat_Recipe_EfficiencyStat_Desc>ค่าใดในตัวละคร ที่เกี่ยวข้องกับคุณภาพในการทำตามใบสั่งนี้\n\nยิ่งค่านี้ของคนงานมีมาก ยิ่งทำให้คุณภาพหรือผลผลิตมากขึ้น</Stat_Recipe_EfficiencyStat_Desc>
   <!-- EN: A multiplier on the chance this operation will be a success. More difficult operations have lower multipliers.\n\nThe actual chance of success of a surgery is also affected by the doctor, facilities, and medicine used. -->
-  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>ตัวคูณกับโอกาศที่การดำเนินการจะสำเร็จ การดำเนินทางด้านแพทย์ที่ยากๆ จะมีค่าตัวคูณน้อย\n\nค่าโอากาศสำเร็จจริงๆของการผ่าตัดนั้น ได้รับผลกระทบจากหมอ อุปกรณ์เครื่องมือ และยาที่ใช้</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
+  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>ตัวคูณกับโอกาสที่การดำเนินการจะสำเร็จ การดำเนินทางด้านแพทย์ที่ยากๆ จะมีค่าตัวคูณน้อย\n\nค่าโอากาศสำเร็จจริงๆของการผ่าตัดนั้น ได้รับผลกระทบจากหมอ อุปกรณ์เครื่องมือ และยาที่ใช้</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
   <!-- EN: Can't fail -->
   <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>ไม่มีล้มเหลว</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
   <!-- EN: Performing this operation is safe for the patient. -->
   <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>การดำเนินการทางด้านแพทย์นี้ ปลอดภัยต่อคนไข้</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
   <!-- EN: The chance the patient will die upon failure of this surgery. -->
-  <Stat_Thing_Surgery_DeathOnFailChance_Desc>โอกาศที่คนไข้จะตาย เมื่อการผ่าตัดล้มเหลว</Stat_Thing_Surgery_DeathOnFailChance_Desc>
+  <Stat_Thing_Surgery_DeathOnFailChance_Desc>โอกาสที่คนไข้จะตาย เมื่อการผ่าตัดล้มเหลว</Stat_Thing_Surgery_DeathOnFailChance_Desc>
   <!-- EN: Total bleed factor -->
   <Stat_Hediff_TotalBleedFactor_Name>ปัจจัยเลือดไหลทั้งหมด</Stat_Hediff_TotalBleedFactor_Name>
   <!-- EN: A multiplier applied to the overall rate of blood loss. -->
@@ -277,9 +277,9 @@
   <!-- EN: A multiplier applied to the overall rate of natural wound healing. -->
   <Stat_Hediff_NaturalHealingFactor_Desc>ตัวคูณซึ่งนำไปคำนวณกับอัตราการักษาแผลตามธรรมชาติ</Stat_Hediff_NaturalHealingFactor_Desc>
   <!-- EN: Food poisoning chance factor -->
-  <Stat_Hediff_FoodPoisoningChanceFactor_Name>ปัจจัยโอกาศทำอาหารเป็นพิษ</Stat_Hediff_FoodPoisoningChanceFactor_Name>
+  <Stat_Hediff_FoodPoisoningChanceFactor_Name>ปัจจัยโอกาสทำอาหารเป็นพิษ</Stat_Hediff_FoodPoisoningChanceFactor_Name>
   <!-- EN: A multiplier applied to the chance of getting food poisoning. -->
-  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>ตัวคูณซึ่งนำไปคำนวณกับโอกาศที่จะเกิดอุบัติเหตุทำอาหารเป็นพิษ</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
+  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>ตัวคูณซึ่งนำไปคำนวณกับโอกาสที่จะเกิดอุบัติเหตุทำอาหารเป็นพิษ</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
   <!-- EN: The rate at which this condition causes blood loss. -->
   <Stat_Hediff_BleedingRate_Desc>อัตราการถ่ายเลือกในเงื่อนไขนี้</Stat_Hediff_BleedingRate_Desc>
   <!-- EN: The amount of pain caused by this condition. -->

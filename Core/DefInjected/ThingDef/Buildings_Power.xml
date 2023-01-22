@@ -4,7 +4,7 @@
   <!-- EN: battery -->
   <Battery.label>แบตเตอรี่</Battery.label>
   <!-- EN: Stores electricity for later use. Charged batteries explode when exposed to rain or fire. -->
-  <Battery.description>TODO</Battery.description>
+  <Battery.description>กักเก็บพลังงานไฟฟ้าไว้ใช้ภายหลัง แบตเตอรี่ที่ชาร์จจะระเบิดเมื่อออกไปโดนฝนหรือไฟ</Battery.description>
   
   <!-- EN: chemfuel powered generator -->
   <ChemfuelPoweredGenerator.label>เครื่องผลิตไฟ เชื้อเพลิงเคมี</ChemfuelPoweredGenerator.label>
@@ -24,12 +24,12 @@
   <!-- EN: power switch -->
   <PowerSwitch.label>สวิตช์ไฟ</PowerSwitch.label>
   <!-- EN: Switches power on/off. -->
-  <PowerSwitch.description>TODO</PowerSwitch.description>
+  <PowerSwitch.description>สวิตช์เปิด/ปิดไฟ</PowerSwitch.description>
   
   <!-- EN: solar generator -->
   <SolarGenerator.label>เครื่องผลิตไฟ แสงอาทิตย์</SolarGenerator.label>
   <!-- EN: Produces electricity from sunlight. Does not work in the dark or under artificial light. -->
-  <SolarGenerator.description>TODO</SolarGenerator.description>
+  <SolarGenerator.description>ผลิตพลังงานไฟฟ้าจากแสงอาทิตย์์ ไม่ทำงานในที่มืดหรือภายใต้แสงเทียม</SolarGenerator.description>
   
   <!-- EN: watermill generator -->
   <WatermillGenerator.label>เครื่องผลิตไฟ กังหันน้ำ</WatermillGenerator.label>
@@ -49,6 +49,6 @@
   <!-- EN: wood-fired generator -->
   <WoodFiredGenerator.label>เครื่องผลิตไฟ ถ่านฟืน</WoodFiredGenerator.label>
   <!-- EN: Produces power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
-  <WoodFiredGenerator.description>TODO</WoodFiredGenerator.description>
+  <WoodFiredGenerator.description>ผลิตพลังงานจากการเผาไม้ ต้องเติมเชื้อเพลิงไม้ด้วยมือเป็นครั้งคราว</WoodFiredGenerator.description>
   
 </LanguageData>

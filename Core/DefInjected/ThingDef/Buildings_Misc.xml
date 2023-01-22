@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: ancient cryptosleep casket -->
-  <AncientCryptosleepCasket.label>โลงคริปโตสลีป โบราณ</AncientCryptosleepCasket.label>
+  <AncientCryptosleepCasket.label>โลงคริปโตสลีปโบราณ</AncientCryptosleepCasket.label>
   <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
-  <AncientCryptosleepCasket.description>TODO</AncientCryptosleepCasket.description>
+  <AncientCryptosleepCasket.description>โลงคริปโตสลีปนี้ดูเหมือนว่าอยู่ที่นี่มานานมาก ใครจะไปรู้ว่ามันบรรจุอะไรอยู่?</AncientCryptosleepCasket.description>
   
   <!-- EN: caravan packing spot -->
   <CaravanPackingSpot.label>จุดรวมคาราวาน</CaravanPackingSpot.label>
@@ -22,12 +22,12 @@
   <CryptosleepCasket.description>TODO</CryptosleepCasket.description>
   
   <!-- EN: egg box -->
-  <EggBox.label>TODO</EggBox.label>
+  <EggBox.label>กล่องไข่</EggBox.label>
   <!-- EN: A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage. -->
   <EggBox.description>TODO</EggBox.description>
   
   <!-- EN: firefoam popper -->
-  <FirefoamPopper.label>หัวฉีดโฟม ดับเพลิง</FirefoamPopper.label>
+  <FirefoamPopper.label>หัวฉีดโฟมดับเพลิง</FirefoamPopper.label>
   <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
   <FirefoamPopper.description>TODO</FirefoamPopper.description>
   <!-- EN: Trigger firefoam popper -->
@@ -39,12 +39,12 @@
   <Grave.description>TODO</Grave.description>
   
   <!-- EN: ground-penetrating scanner -->
-  <GroundPenetratingScanner.label>เครื่องสแกน ทะลวงพื้น</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.label>เครื่องสแกนทะลวงพื้น</GroundPenetratingScanner.label>
   <!-- EN: A sensor unit used by researchers to search for buried resources. The chance to find a resource depends on the operator's research ability. It consumes a lot of electricity. If you find a buried resource, you'll need to use deep drills to extract it. It doesn't work under a roof. -->
   <GroundPenetratingScanner.description>TODO</GroundPenetratingScanner.description>
   
   <!-- EN: long-range mineral scanner -->
-  <LongRangeMineralScanner.label>เครื่องสแกนแร่ ระยะไกล</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.label>เครื่องสแกนแร่ระยะไกล</LongRangeMineralScanner.label>
   <!-- EN: A lateral sensor unit used by researchers to detect a specific type of mineral across the planet. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it. -->
   <LongRangeMineralScanner.description>TODO</LongRangeMineralScanner.description>
   
@@ -54,7 +54,7 @@
   <MarriageSpot.description>TODO</MarriageSpot.description>
   
   <!-- EN: moisture pump -->
-  <MoisturePump.label>เครื่องปั๊ม ความชื้น</MoisturePump.label>
+  <MoisturePump.label>เครื่องปั๊มความชื้น</MoisturePump.label>
   <!-- EN: Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water. -->
   <MoisturePump.description>TODO</MoisturePump.description>
   
@@ -64,22 +64,22 @@
   <MultiAnalyzer.description>TODO</MultiAnalyzer.description>
   
   <!-- EN: orbital trade beacon -->
-  <OrbitalTradeBeacon.label>เทรดบีคอน วงโคจร</OrbitalTradeBeacon.label>
+  <OrbitalTradeBeacon.label>เทรดบีคอนวงโคจร</OrbitalTradeBeacon.label>
   <!-- EN: Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
   <OrbitalTradeBeacon.description>TODO</OrbitalTradeBeacon.description>
   
   <!-- EN: party spot -->
-  <PartySpot.label>จุดปาตี้</PartySpot.label>
+  <PartySpot.label>จุดสังสรรค์</PartySpot.label>
   <!-- EN: Designates a spot for throwing parties. -->
-  <PartySpot.description>TODO</PartySpot.description>
+  <PartySpot.description>กำหนดจุดสำหรับจัดงานสังสรรค์</PartySpot.description>
   
   <!-- EN: pen marker -->
-  <PenMarker.label>เครื่องหมายปากกา</PenMarker.label>
+  <PenMarker.label>เครื่องหมายคอก</PenMarker.label>
   <!-- EN: A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen. -->
   <PenMarker.description>TODO</PenMarker.description>
   
   <!-- EN: pod launcher -->
-  <PodLauncher.label>เครื่องปล่อย กระสวย</PodLauncher.label>
+  <PodLauncher.label>เครื่องปล่อยกระสวย</PodLauncher.label>
   <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
   <PodLauncher.description>TODO</PodLauncher.description>
   
@@ -89,7 +89,7 @@
   <Sarcophagus.description>TODO</Sarcophagus.description>
   
   <!-- EN: grand stele -->
-  <SteleGrand.label>TODO</SteleGrand.label>
+  <SteleGrand.label>ศิลาจารึกมหึมา</SteleGrand.label>
   <!-- EN: A towering slab with extensive engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
   <SteleGrand.description>TODO</SteleGrand.description>
   
@@ -109,7 +109,7 @@
   <TransportPod.description>TODO</TransportPod.description>
   
   <!-- EN: vitals monitor -->
-  <VitalsMonitor.label>เครื่องตรวจ สัญญานชีพ</VitalsMonitor.label>
+  <VitalsMonitor.label>เครื่องตรวจสัญญานชีพ</VitalsMonitor.label>
   <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect. -->
   <VitalsMonitor.description>TODO</VitalsMonitor.description>
   

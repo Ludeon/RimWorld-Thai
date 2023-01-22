@@ -35,7 +35,7 @@
   <!-- EN: Request a trade caravan (cost: {0} goodwill) -->
   <RequestTrader>ส่งคำขอคาราวานค้าขาย (ค่าใช้จ่าย: {0} ไมตรีจิต)</RequestTrader>
   <!-- EN: {0} asks what kind of trade caravan you want. -->
-  <ChooseTraderKind>{0} ถามว่า ต้องการกองคาราวานค้าขายแบบไหน</ChooseTraderKind>
+  <ChooseTraderKind>{0} ถามว่าต้องการกองคาราวานค้าขายแบบไหน</ChooseTraderKind>
   <!-- EN: {0} agrees to send you a trade caravan. It will arrive within a few days. -->
   <TraderSent>{0} ตกลงที่จะส่งคาราวานค้าขายมา จะถึงภายในไม่กี่วัน</TraderSent>
   <!-- EN: wait {0} -->

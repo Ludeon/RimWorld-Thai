@@ -7,9 +7,9 @@
   <AnimalsDontAttackDoors.helpText>สัตว์ล่าคนจะพังประตูหากมันชาวนิคมของคุณเดินผ่านเข้าไป มันจะโจมตีป้อมปืนที่ไม่ได้เปิดด้วย</AnimalsDontAttackDoors.helpText>
   
   <!-- EN: Bills tab -->
-  <BillsTab.label>แท็บงาน</BillsTab.label>
+  <BillsTab.label>แถบรายการ</BillsTab.label>
   <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
-  <BillsTab.helpText>ในการให้ชาวนิคมไปทำงานที่โต๊ะ ให้เลือกโต๊ะแล้วเปิดแท็บงาน คุณสามารถสั่งที่นี่ได้ว่าจะให้ทำอาหารอะไร ประกอบอะไรขึ้นมา เอาสัตว์ตัวไหนชำแหละ</BillsTab.helpText>
+  <BillsTab.helpText>ในการให้ชาวนิคมไปทำงานที่โต๊ะ, เลือกโต๊ะแล้วเปิดแถบรายการ คุณสามารถสั่งได้ว่าจะให้ทำอาหารอะไร, ประกอบอะไรขึ้นมา, เอาสัตว์ตัวไหนมาชำแหละ</BillsTab.helpText>
   
   <!-- EN: Build orbital trade beacon -->
   <BuildOrbitalTradeBeacon.label>สร้างเครื่องส่งสัญญาณค้าโคจร</BuildOrbitalTradeBeacon.label>
@@ -17,12 +17,12 @@
   <BuildOrbitalTradeBeacon.helpText>ในการส่งไอเท็มหรือเงินไปให้ผู้ค้าโคจร คุณจะต้องสร้าง เครื่องส่งสัญญาณค้าโคจร แล้ววางกองไอเท็มไว้ใกล้ ๆ มัน</BuildOrbitalTradeBeacon.helpText>
   
   <!-- EN: Capturing -->
-  <Capturing.label>การจับขัง</Capturing.label>
+  <Capturing.label>การจับกุม</Capturing.label>
   <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
-  <Capturing.helpText>เมื่อศัตรูนอนเจ็บอยู่กับพื้นแต่ยังไม่ตาย คุณสามารถ จับขัง เขาได้\n\nในการจับขัง ให้เลือกชาวนิคม คลิกขวาที่ศัตรูที่ไม่สามารถขยับได้ แล้วเลือก จับขัง\n\nคุณจะต้องมีเตียงสำรองตั้งไว้ใช้กับนักโทษ</Capturing.helpText>
+  <Capturing.helpText>เมื่อศัตรูนอนเจ็บอยู่กับพื้นแต่ยังไม่ตาย คุณสามารถ จับขัง เขาได้\n\nในการจับกุม ให้เลือกชาวนิคม คลิกขวาที่ศัตรูที่ไม่สามารถขยับได้ แล้วเลือก จับขัง\n\nคุณจะต้องมีเตียงสำรองตั้งไว้ใช้กับนักโทษ</Capturing.helpText>
   
   <!-- EN: Door opening speeds -->
-  <DoorOpenSpeed.label>ความเร็วการเปิดประตู</DoorOpenSpeed.label>
+  <DoorOpenSpeed.label>ความเร็วในการเปิดประตู</DoorOpenSpeed.label>
   <!-- EN: Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down. -->
   <DoorOpenSpeed.helpText>ประตูเปิดด้วยความเร็วที่แตกต่างกัน โดยขึ้นอยู่กับว่ามันทำจากอะไร\n\nคำเตือน: ประตูหินเปิดช้ามาก ใครก็ตามที่ต้องเดินผ่านมันจะล่าช้าไปพอสมควร</DoorOpenSpeed.helpText>
   
@@ -57,14 +57,14 @@
   <OpeningComms.helpText>ในการสื่อสาร ให้เลือกชาวนิคมแล้วคลิกขวาที่แผงสื่อสาร</OpeningComms.helpText>
   
   <!-- EN: Prisoner tab -->
-  <PrisonerTab.label>แท็บนักโทษ</PrisonerTab.label>
+  <PrisonerTab.label>แถบนักโทษ</PrisonerTab.label>
   <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner. -->
-  <PrisonerTab.helpText>เข้าไปดูแท็บ 'นักโทษ' ของนักโทษเพื่อตั้งค่าว่าควรดูแลเขายังไง\n\nคุณสามารถตั้งได้ว่าจะชักชวน เพิกเฉย หรือประหาร ว่าเขาจะได้กินหรือไม่ และประเภทการรักษาพยาบาลที่เขาจะได้รับ\n\nชาวนิคมที่มีประเภทงานเป็นพัศดีจะเป็นคนจัดการกับนักโทษ</PrisonerTab.helpText>
+  <PrisonerTab.helpText>เข้าไปดูแถบ 'นักโทษ' ของนักโทษเพื่อตั้งค่าว่าควรดูแลเขายังไง\n\nคุณสามารถตั้งได้ว่าจะชักชวน, เพิกเฉย หรือประหาร, เขาจะได้กินหรือไม่ และประเภทการรักษาพยาบาลที่เขาจะได้รับ\n\nชาวนิคมที่มีประเภทงานเป็นพัศดีจะเป็นคนจัดการกับนักโทษ</PrisonerTab.helpText>
   
   <!-- EN: Order queueing -->
   <QueueOrders.label>การจัดคิวคำสั่ง</QueueOrders.label>
   <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
-  <QueueOrders.helpText>ตอนให้คำสั่งเบี้ย คุณสามารถจัดคิวหลายคำสั่งได้โดยการกด "Shift" ค้างไว้ ทำได้เช่นเดียวกับการสั่งงานเบี้ยที่ไม่ได้เกณฑ์</QueueOrders.helpText>
+  <QueueOrders.helpText>เมื่อให้คำสั่งเบี้ย, คุณสามารถจัดคิวหลายคำสั่งได้โดยการกด "Shift" ค้างไว้ ทำได้เช่นเดียวกับการสั่งงานเบี้ยที่ไม่ได้เกณฑ์</QueueOrders.helpText>
   
   <!-- EN: Reforming caravans -->
   <ReformCaravan.label>การจัดคาราวานใหม่</ReformCaravan.label>

@@ -174,11 +174,11 @@
   <!-- EN: Arrest {0} -->
   <Arrest>จับกุม {0}</Arrest>
   <!-- EN: Try to arrest {1_label} ({2} chance) -->
-  <TryToArrest>พยายามจับกุม {1_label} ({2} chance)</TryToArrest>
+  <TryToArrest>พยายามจับกุม {1_label} (โอกาส {2})</TryToArrest>
   <!-- EN: Cannot arrest -->
   <CannotArrest>ไม่สามารถจับกุมได้</CannotArrest>
   <!-- EN: {0} chance of arrest -->
-  <ArrestChance>{0} โอกาสที่จะถูกจับกุม</ArrestChance>
+  <ArrestChance>โอกาส {0} ที่จะถูกจับกุม</ArrestChance>
 
   <!-- EN: Capture {1_label} -->
   <Capture>จับตัว {1_label}</Capture>
@@ -193,7 +193,7 @@
   <!-- EN: Carry {1_label} to cryptosleep casket -->
   <CarryToCryptosleepCasket>ขน {1_label} ไปยังโลงคริปโตสลีป</CarryToCryptosleepCasket>
   <!-- EN: Cannot carry to cryptosleep casket -->
-  <CannotCarryToCryptosleepCasket>ไม่สามารถขนย้ายไปยังโลงคริปโตสลีปได้</CannotCarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>ไม่สามารถขนไปยังโลงคริปโตสลีปได้</CannotCarryToCryptosleepCasket>
 
   <!-- EN: Carry {0_label} to shuttle -->
   <CarryToShuttle>ขน {0_label} ไปที่ยานกระสวย</CarryToShuttle>

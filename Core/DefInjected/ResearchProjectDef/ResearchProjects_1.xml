@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: beer brewing -->
-  <Brewing.label>หมักเบียร์</Brewing.label>
+  <Brewing.label>การหมักเบียร์</Brewing.label>
   <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
   <Brewing.description>สร้างโรงเบียร์และถังหมัก เปลื่ยนฮอปส์ให้เป็นเบียร์อร่อยๆ</Brewing.description>
   
   <!-- EN: carpet making -->
-  <CarpetMaking.label>ทำพรม</CarpetMaking.label>
+  <CarpetMaking.label>การทำพรม</CarpetMaking.label>
   <!-- EN: Weave beautiful carpets from cloth. -->
   <CarpetMaking.description>ถักทอพรมขึ้นจากผ้า</CarpetMaking.description>
   
@@ -87,12 +87,12 @@
   <RecurveBow.description>ผลิตธนูรีเคิร์ฟ อาวุธระยะไกลที่มีประสิทธิภาพ ราคาไม่แพง</RecurveBow.description>
   
   <!-- EN: smithing -->
-  <Smithing.label>ตีเหล็ก</Smithing.label>
+  <Smithing.label>การตีเหล็ก</Smithing.label>
   <!-- EN: Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles. -->
   <Smithing.description>ผลิตโรงตีเหล็กเพื่อสร้างอาวุธโลหะ เช่น มีด ดาบ ตระบอง ฯลฯ รวมไปถึงแปลงโลหะเป็นกระเบื้องปูพื้น สะอาด สวยงาม</Smithing.description>
   
   <!-- EN: stonecutting -->
-  <Stonecutting.label>ตัดหิน</Stonecutting.label>
+  <Stonecutting.label>การตัดหิน</Stonecutting.label>
   <!-- EN: Cut rock chunks into stone blocks for use in construction. Build beautiful stone tile floors or ugly concrete walkways. -->
   <Stonecutting.description>ตัดชิ้นส่วนหินให้กลายเป็นบล็อกหิน สำหรับใช้ในงานก่อสร้าง, ผลิตกระเบื้องหินสวยๆหรือทางเดินคอนกรีต</Stonecutting.description>
   

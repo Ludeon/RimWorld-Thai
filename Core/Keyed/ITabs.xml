@@ -340,7 +340,7 @@
 
   <!-- Animal pen food tab -->
   <!-- EN: enclose the pen marker to calculate food information -->
-  <PenFoodTab_NotEnclosed>ใส่ปากกาเพื่อคำนวณข้อมูลอาหาร</PenFoodTab_NotEnclosed>
+  <PenFoodTab_NotEnclosed>ล้อมรอบเครื่องหมายคอกเพื่อคำนวณข้อมูลอาหาร</PenFoodTab_NotEnclosed>
 
   <!-- EN: Nutrition stockpiled -->
   <PenFoodTab_StockpileTotal>โภชนาการที่สะสมไว้</PenFoodTab_StockpileTotal>
@@ -349,7 +349,7 @@
   <!-- EN: Days to stockpile exhaustion -->
   <PenFoodTab_StockpileEmptyDays>วันที่ต้องกักตุนความเหนื่อยล้า</PenFoodTab_StockpileEmptyDays>
   <!-- EN: Nutrition consumption exceeds nutrition growth rate in this pen. The animals will eventually eat all the stockpiled food and starve. -->
-  <PenFoodTab_StockpileEmptyDaysDescription>การบริโภคโภชนาการเกินอัตราการเจริญเติบโตทางโภชนาการในปากกานี้ ในที่สุดสัตว์จะกินอาหารที่เก็บไว้ทั้งหมดและอดอยาก</PenFoodTab_StockpileEmptyDaysDescription>
+  <PenFoodTab_StockpileEmptyDaysDescription>การบริโภคโภชนาการเกินอัตราการเจริญเติบโตทางโภชนาการในคอกนี้ ในที่สุดสัตว์จะกินอาหารที่เก็บไว้ทั้งหมดและอดอยาก</PenFoodTab_StockpileEmptyDaysDescription>
 
   <!-- EN: Animal type -->
   <PenFoodTab_AnimalType>ประเภทสัตว์</PenFoodTab_AnimalType>
@@ -371,7 +371,7 @@
   <!-- EN: Nutrition consumption -->
   <PenFoodTab_TotalNutritionConsumptionRate>การบริโภคอาหาร</PenFoodTab_TotalNutritionConsumptionRate>
   <!-- EN: The average nutrition provided by edible plants in this pen. -->
-  <PenFoodTab_NaturalNutritionGrowthRateDescription>คุณค่าทางโภชนาการโดยเฉลี่ยของพืชที่กินได้ในปากกานี้</PenFoodTab_NaturalNutritionGrowthRateDescription>
+  <PenFoodTab_NaturalNutritionGrowthRateDescription>คุณค่าทางโภชนาการโดยเฉลี่ยของพืชที่กินได้ในคอกนี้</PenFoodTab_NaturalNutritionGrowthRateDescription>
   <!-- EN: The nutrition needed by animals currently in this pen.\n\nTo get more food, expand the pen to cover more wild plant growth, or deliver stockpiled food like haygrass to the pen. -->
   <PenFoodTab_NutritionConsumptionDescription>สารอาหารที่จำเป็นสำหรับสัตว์ในปัจจุบันในคอกนี้\n\nเพื่อให้ได้อาหารมากขึ้น ให้ขยายคอกเพื่อให้ครอบคลุมการเจริญเติบโตของพืชในป่ามากขึ้น หรือส่งอาหารที่เก็บสะสมไว้ เช่น หญ้าแห้งไปที่คอก</PenFoodTab_NutritionConsumptionDescription>
   <!-- EN: Note: Plant growth rate varies due to seasons, weather, theft by wild animals, and other factors. These calculations are approximations. -->
@@ -380,7 +380,7 @@
   <!-- EN: Total consumption -->
   <PenFoodTab_NutritionConsumedPerDay_ColumLabel>การบริโภคทั้งหมด</PenFoodTab_NutritionConsumedPerDay_ColumLabel>
   <!-- EN: The total nutrition that will be consumed each day by each type of animal in this pen. -->
-  <PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>โภชนาการทั้งหมดที่จะบริโภคในแต่ละวันโดยสัตว์แต่ละประเภทในปากกานี้</PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>
+  <PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>โภชนาการทั้งหมดที่จะบริโภคในแต่ละวันโดยสัตว์แต่ละประเภทในคอกนี้</PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>
   <!-- EN: Daily consumption per {ANIMALDEF_label} -->
   <PenFoodTab_NutritionConsumedPerDay>การบริโภครายวันต่อ {ANIMALDEF_label}</PenFoodTab_NutritionConsumedPerDay>
   <!-- EN: each {CONSUMEDAMOUNT} -->
@@ -392,13 +392,13 @@
   <PenFoodTab_EdibleNow>กินได้แล้ว</PenFoodTab_EdibleNow>
 
   <!-- EN: Auto-cut plants in pen -->
-  <PenAutoCut_EnabledCheckbox>ตัดต้นไม้อัตโนมัติด้วยปากกา</PenAutoCut_EnabledCheckbox>
+  <PenAutoCut_EnabledCheckbox>ตัดต้นไม้อัตโนมัติในคอก</PenAutoCut_EnabledCheckbox>
   <!-- EN: Automatically mark certain inedible plants to be cut. This makes room for edible plants to grow, which your animals can then eat.\n\nThis auto-designation happens periodically and only applies to certain plants.\n\nThis only works when the pen is enclosed. -->
-  <PenAutoCut_EnabledCheckboxTip>ทำเครื่องหมายพืชที่กินไม่ได้บางอย่างที่จะตัดโดยอัตโนมัติ วิธีนี้ทำให้พืชกินได้เติบโต ซึ่งจากนั้นสัตว์ของคุณสามารถกินได้\n\nการกำหนดอัตโนมัตินี้จะเกิดขึ้นเป็นระยะๆ และมีผลกับพืชบางชนิดเท่านั้น\n\nวิธีนี้ใช้ได้เฉพาะเมื่อปิดปากกา</PenAutoCut_EnabledCheckboxTip>
+  <PenAutoCut_EnabledCheckboxTip>ทำเครื่องหมายพืชที่กินไม่ได้บางอย่างที่จะตัดโดยอัตโนมัติ วิธีนี้ทำให้พืชกินได้เติบโต ซึ่งจากนั้นสัตว์ของคุณสามารถกินได้\n\nการกำหนดอัตโนมัตินี้จะเกิดขึ้นเป็นระยะๆ และมีผลกับพืชบางชนิดเท่านั้น\n\nวิธีนี้ใช้ได้เมื่อคอกถูกล้อมรอบเท่านั้น</PenAutoCut_EnabledCheckboxTip>
 
   <!-- EN: Pen is not enclosed -->
-  <AutocutUnenclosedPen>ปากกาไม่ได้ถูกปิด</AutocutUnenclosedPen>
+  <AutocutUnenclosedPen>คอกไม่ได้ถูกปิด</AutocutUnenclosedPen>
   <!-- EN: Pen is not enclosed now, so auto-cut won’t occur. -->
-  <AutocutUnenclosedPenTip>ปากกาไม่ได้ถูกปิดอยู่ในขณะนี้ ดังนั้นการตัดอัตโนมัติจะไม่เกิดขึ้น</AutocutUnenclosedPenTip>
+  <AutocutUnenclosedPenTip>คอกไม่ได้ถูกล้อมรอบอยู่ในขณะนี้ ดังนั้นการตัดอัตโนมัติจะไม่เกิดขึ้น</AutocutUnenclosedPenTip>
 
 </LanguageData>

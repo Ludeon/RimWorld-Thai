@@ -9,7 +9,7 @@
   <!-- EN: animal gather yield -->
   <AnimalGatherYield.label>ผลผลิต เก็บเกี่ยวจากสัตว์</AnimalGatherYield.label>
   <!-- EN: The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal.\n\nHigher percentages reduce the chance of wasting the product. -->
-  <AnimalGatherYield.description>เปอร์เซ็นผลผลิตที่ได้รับเมื่อตัดขน รีดนม หรือเก็บเกี่ยวผลผลิตใดๆจากสัตว์ ยิ่งเปอร์เซ็นมากยิ่งลดโอกาศผลผลิตจะสูญเสียไป</AnimalGatherYield.description>
+  <AnimalGatherYield.description>เปอร์เซ็นผลผลิตที่ได้รับเมื่อตัดขน รีดนม หรือเก็บเกี่ยวผลผลิตใดๆจากสัตว์ ยิ่งเปอร์เซ็นมากยิ่งลดโอกาสผลผลิตจะสูญเสียไป</AnimalGatherYield.description>
   
   <!-- EN: construction speed -->
   <ConstructionSpeed.label>ความเร็วในการก่อสร้าง</ConstructionSpeed.label>
@@ -19,7 +19,7 @@
   <!-- EN: construct success chance -->
   <ConstructSuccessChance.label>โอกาสสำเร็จในการก่อสร้าง</ConstructSuccessChance.label>
   <!-- EN: The chance that this person will succeed in constructing something.\nFailing means wasting time and resources. -->
-  <ConstructSuccessChance.description>โอกาศที่บุคคลนี้จะทำสำเร็จเมื่อก่อสร้างสิ่งใดๆ ความผิดพลาดหมายถึงเสียเวลาและทรัพยากร</ConstructSuccessChance.description>
+  <ConstructSuccessChance.description>โอกาสที่บุคคลนี้จะทำสำเร็จเมื่อก่อสร้างสิ่งใดๆ ความผิดพลาดหมายถึงเสียเวลาและทรัพยากร</ConstructSuccessChance.description>
   
   <!-- EN: deep drilling speed -->
   <DeepDrillingSpeed.label>ความเร็วในการเจาะลึก</DeepDrillingSpeed.label>

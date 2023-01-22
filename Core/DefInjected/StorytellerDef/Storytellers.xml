@@ -14,7 +14,7 @@
   <!-- EN: Randy Random -->
   <Randy.label>แรนดี้ ส่งเดช (Randy Random)</Randy.label>
   <!-- EN: Randy doesn't follow rules. He'll generate random events, and he doesn't care if they make a story of triumph or utter hopelessness. It's all drama to him.\n\nWarning: Since Randy is truly random, he will sometimes send extremely difficult or unfair groups of events at you. It makes for high drama - and unavoidable sacrifices. -->
-  <Randy.description>แรนดี้ไม่ปฏิบัติตามกฎ เขาสร้างเหตุการณ์แบบสุ่มส่งเดช และไม่สนใจว่าจะเป็นเรื่องราวน่าฉลองหรือสิ้นหวัง ทั้งหมดล้วนเร้าใจสำหรับเขา\n\nคำเตือน: เนื่องจากแรนดี้นั้นสุ่มมั่วเอาจริงๆ บางทีเขาจึงส่งอะไรยากๆหรือกลุ่มเหตุการณ์ที่ไม่แฟร์ไปหาคุณ ทั้งหมดเพื่อดราม่าและการสังเวยอันไม่อาจหนี-\nพ้น</Randy.description>
+  <Randy.description>แรนดี้ไม่ปฏิบัติตามกฎเกณฑ์ เขาจะสร้างเหตุการณ์แบบสุ่มส่งเดช และไม่สนใจว่าจะเป็นเรื่องราวที่น่าฉลองหรือไร้ความหวังอย่างที่สุด ทั้งหมดล้วนบันเทิงสำหรับเขา\n\nคำเตือน: เนื่องจากแรนดี้นั้นสุ่มมั่วเอาจริงๆ บางทีเขาจึงส่งอะไรยากๆหรือกลุ่มเหตุการณ์ที่ไม่แฟร์ไปหาคุณ ทั้งหมดเพื่อความดราม่าขั้นสูง - และการสังเวยที่ไม่อาจหนีพ้น</Randy.description>
   
   <!-- EN: Tutor Hidden -->
   <Tutor.label>ผู้ฝึกหัดถูกซ่อน</Tutor.label>

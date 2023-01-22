@@ -11,7 +11,7 @@
   <!-- EN: Review scenario -->
   <ReviewScenario>รายละเอียดโครงเรื่อง</ReviewScenario>
   <!-- EN: Save -->
-  <Save>เซฟ</Save>
+  <Save>บันทึก</Save>
   <!-- EN: Load game -->
   <LoadGame>โหลดเกม</LoadGame>
   <!-- EN: Options -->
@@ -21,7 +21,7 @@
   <!-- EN: Mods -->
   <Mods>ม็อด</Mods>
   <!-- EN: Save translation report -->
-  <SaveTranslationReport>เซฟรายงานการแปล</SaveTranslationReport>
+  <SaveTranslationReport>บันทึกรายงานการแปล</SaveTranslationReport>
   <!-- EN: Generating translation report -->
   <GeneratingTranslationReport>กำลังสร้างรายงานการแปล</GeneratingTranslationReport>
   <!-- EN: Cleanup translation files -->
@@ -39,7 +39,7 @@
   <!-- EN: Quit to OS -->
   <QuitToOS>ออกจากเกม</QuitToOS>
   <!-- EN: Save and quit to OS -->
-  <SaveAndQuitToOS>เซฟและออกเกม</SaveAndQuitToOS>
+  <SaveAndQuitToOS>บันทึกและออกจากเกม</SaveAndQuitToOS>
   <!-- EN: Fiction primer -->
   <FictionPrimer>จุดประกายฟิคชั่น</FictionPrimer>
   <!-- EN: Ludeon blog -->
@@ -265,7 +265,7 @@
   <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
   <ConfirmSteamWorkshopUpload>คุณแน่ใจว่าต้องการอัปโหลดขึ้น Steam Workshop?\n\nคุณต้องยอมรับข้อกำหนดในการให้บริการของ Steam Workshop ด้วย อ่านข้อตกลงเต็มรูปแบบที่นี่:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
-  <ConfirmContentAuthor>เป็นที่ชักดเจนว่าคุณควรอัปโหลดเนื้อหาที่คุณสร้างขึ้นเองเท่านั้น\n\nคุณผลิตเนื้อหานี้ด้วยตัวเองใช่ไหม ?</ConfirmContentAuthor>
+  <ConfirmContentAuthor>เห็นได้ชัดว่าคุณควรอัปโหลดเนื้อหาที่คุณสร้างขึ้นเองเท่านั้น\n\nคุณผลิตเนื้อหานี้ด้วยตัวเองใช่หรือไม่?</ConfirmContentAuthor>
   <!-- EN: Incompatible -->
   <Incompatible>เข้ากันไม่ได้</Incompatible>
   <!-- EN: Tag as translation -->

@@ -7,7 +7,7 @@
   <!-- EN: Allow -->
   <CommandAllow>อณุญาต</CommandAllow>
   <!-- EN: Forbidden: Your colonists are not allowed to interact with this. Click to allow. -->
-  <CommandForbiddenDesc>หวงห้าม: ชาวนิคมไม่อาจยุ่งกับสิ่งนี้ คลิกเพื่ออณุญาต</CommandForbiddenDesc>
+  <CommandForbiddenDesc>หวงห้าม: ชาวนิคมไม่อาจยุ่งกับสิ่งนี้ คลิกเพื่ออนุญาต</CommandForbiddenDesc>
   <!-- EN: Allowed: Your colonists are allowed to interact with this. Click to forbid. -->
   <CommandNotForbiddenDesc>อณุญาต: ชาวนิคมสามารถยุ่งกับสิ่งนี้ คลิกเพื่อห้าม</CommandNotForbiddenDesc>
 
@@ -235,7 +235,7 @@
 
   <!-- Trap -->
   <!-- EN: Auto Rearm -->
-  <CommandAutoRearm>กับดักออโต้</CommandAutoRearm>
+  <CommandAutoRearm>กับดักอัตโนมัติ</CommandAutoRearm>
   <!-- EN: If this is on, this trap will automatically be replaced after it springs. -->
   <CommandAutoRearmDesc>ในขณะที่เปิดใช้ กับดักนี้จะถูกเปลื่ยนอัตโนมัติ เมื่อกับดักทำงานไปแล้ว</CommandAutoRearmDesc>
   

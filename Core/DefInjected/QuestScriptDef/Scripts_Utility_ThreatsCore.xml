@@ -54,7 +54,7 @@
   <!-- EN:
     <li>threatDescription->a mech cluster will land at [map_definite] containing:\n\n[allThreats]</li>
   -->
-  <Util_MechCluster.questDescriptionRules.rulesStrings>TODO</Util_MechCluster.questDescriptionRules.rulesStrings>
+  <Util_MechCluster.questDescriptionRules.rulesStrings><li>threatDescription->กลุ่มเครื่องจักรจะลงจอดที่ [map_definite] ประกอบด้วย:\n\n[allThreats]</li></Util_MechCluster.questDescriptionRules.rulesStrings>
   
   <!-- EN:
     <li>threatDescription->[enemyFaction_pawnsPlural] from [enemyFaction_name] will attack you. Their group is composed of:\n\n[raidPawnKinds]\n\n[raidArrivalModeInfo]</li>

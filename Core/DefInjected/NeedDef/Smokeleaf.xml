@@ -4,6 +4,6 @@
   <!-- EN: smokeleaf -->
   <Chemical_Smokeleaf.label>Smokeleaf</Chemical_Smokeleaf.label>
   <!-- EN: Because of a smokeleaf dependence, this person needs to regularly consume the drug to avoid withdrawal symptoms. -->
-  <Chemical_Smokeleaf.description>เพราะว่า Smokeleaf นั้นเสพติด คนนี้จำเป็นต้องเสพ Smokeleaf เป็นประจำ เพื่อเลี่ยงอาการลงแดง</Chemical_Smokeleaf.description>
+  <Chemical_Smokeleaf.description>เนื่องจากการเสพติด Smokeleaf บุคคลนี้จำเป็นต้องเสพ Smokeleaf เป็นประจำเพื่อเลี่ยงอาการลงแดง</Chemical_Smokeleaf.description>
   
 </LanguageData>

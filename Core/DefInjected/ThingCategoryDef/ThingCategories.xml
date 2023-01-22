@@ -29,16 +29,16 @@
   <BodyParts.label>อวัยวะ</BodyParts.label>
   
   <!-- EN: archotech -->
-  <BodyPartsArchotech.label>TODO</BodyPartsArchotech.label>
+  <BodyPartsArchotech.label>อาร์คอนเทค</BodyPartsArchotech.label>
   
   <!-- EN: bionic -->
   <BodyPartsBionic.label>ไบโอนิค</BodyPartsBionic.label>
   
   <!-- EN: natural -->
-  <BodyPartsNatural.label>อวัยวะธรรมชาติ</BodyPartsNatural.label>
+  <BodyPartsNatural.label>ธรรมชาติ</BodyPartsNatural.label>
   
   <!-- EN: prosthetic -->
-  <BodyPartsProsthetic.label>อวัยวะเทียม</BodyPartsProsthetic.label>
+  <BodyPartsProsthetic.label>เทียม</BodyPartsProsthetic.label>
   
   <!-- EN: simple parts -->
   <BodyPartsSimple.label>ชิ้นส่วนง่ายๆ</BodyPartsSimple.label>
@@ -56,7 +56,7 @@
   <BuildingsFurniture.label>เฟอร์นิเจอร์</BuildingsFurniture.label>
   
   <!-- EN: recreation -->
-  <BuildingsJoy.label>ผ่อนคลาย</BuildingsJoy.label>
+  <BuildingsJoy.label>นันทนาการ</BuildingsJoy.label>
   
   <!-- EN: misc -->
   <BuildingsMisc.label>เบ็ดเตล็ด</BuildingsMisc.label>
@@ -80,7 +80,7 @@
   <Chunks.label>ชิ้นส่วน</Chunks.label>
   
   <!-- EN: corpses -->
-  <Corpses.label>ซากศพ</Corpses.label>
+  <Corpses.label>ศพ</Corpses.label>
   
   <!-- EN: animal corpses -->
   <CorpsesAnimal.label>ศพสัตว์</CorpsesAnimal.label>
@@ -142,14 +142,14 @@
   <!-- EN: mortar shells -->
   <MortarShells.label>กระสุนปืนครก</MortarShells.label>
   
-  <!-- EN: neurotrainers -->
-  <Neurotrainers.label>neurotrainers</Neurotrainers.label>
+  <!-- EN: skilltrainers #ถูกเปลี่ยนชื่อจาก neurotrainers ใน 1.2.2719 -->
+  <Neurotrainers.label>เครื่องฝึกทักษะ</Neurotrainers.label>
   
   <!-- EN: psytrainers -->
-  <NeurotrainersPsycast.label>psytrainers</NeurotrainersPsycast.label>
+  <NeurotrainersPsycast.label>เครื่องฝึกจิต</NeurotrainersPsycast.label>
   
   <!-- EN: skilltrainers -->
-  <NeurotrainersSkill.label>ผู้ฝึกสอนทักษะ</NeurotrainersSkill.label>
+  <NeurotrainersSkill.label>เครื่องฝึกทักษะ</NeurotrainersSkill.label>
   
   <!-- EN: vegetarian -->
   <PlantFoodRaw.label>ผักผลไม้</PlantFoodRaw.label>
@@ -173,7 +173,7 @@
   <StoneChunks.label>ชิ้นส่วนหิน</StoneChunks.label>
   
   <!-- EN: techprints -->
-  <Techprints.label>TODO</Techprints.label>
+  <Techprints.label>เทคปรินต์</Techprints.label>
   
   <!-- EN: textiles -->
   <Textiles.label>สิ่งทอ</Textiles.label>

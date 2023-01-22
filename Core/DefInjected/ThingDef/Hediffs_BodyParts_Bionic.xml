@@ -4,12 +4,12 @@
   <!-- EN: bionic arm -->
   <BionicArm.label>แขนเทียมชีวกล</BionicArm.label>
   <!-- EN: An advanced artificial arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
-  <BionicArm.description>TODO</BionicArm.description>
+  <BionicArm.description>แขนเทียมขั้นสูง กลไกขนาดเล็กเงียบที่มอบพลังมหาศาลให้ เชื่อมโยงเส้นประสาทด้วยไบโอเจล ทำให้มีการควบคุมที่ยอดเยี่ยม lattice-dust healing system ช่วยให้ฟื้นจากความเสียหาย ดีกว่าแขนธรรมดาแทบทุกด้าน</BionicArm.description>
   
   <!-- EN: bionic ear -->
   <BionicEar.label>หูเทียมชีวกล</BionicEar.label>
   <!-- EN: An advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
-  <BionicEar.description>TODO</BionicEar.description>
+  <BionicEar.description>การปลูกถ่ายหูเทียมขั้นสูง ชุดไมโครโฟนใต้ผิวหนังที่มองไม่เห็น จะจับเสียงและส่งผ่านไปยังส่วนติดต่อของเส้นประสาทไบโอเจลที่เชื่อมโยงโดยตรงกับเส้นประสาทการได้ยิน มันไวพอที่จะได้ยินแมวก่อนที่คุณจะเห็นมัน ไม่ได้รับความเสียหายจากเสียงดัง และปรับตัวเองโดยอัตโนมัติเพื่อเลือกเสียงที่มีต้องการในสภาพแวดล้อมที่มีเสียงดัง</BionicEar.description>
   
   <!-- EN: bionic eye -->
   <BionicEye.label>ตาเทียมชีวกล</BionicEye.label>
@@ -39,9 +39,9 @@
   <!-- EN: death acidifier -->
   <DeathAcidifier.label>TODO</DeathAcidifier.label>
   <!-- EN: A chest implant for preventing enemy use of captured equipment. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others. -->
-  <DeathAcidifier.description>TODO</DeathAcidifier.description>
+  <DeathAcidifier.description>กรดมรณะ</DeathAcidifier.description>
   
   <!-- EN: Mote -->
-  <Mote_AcidCloud.label>TODO</Mote_AcidCloud.label>
+  <Mote_AcidCloud.label>การปลูกถ่ายอวัยวะทรวงอก เพื่อป้องกันการ ถูกศัตรูจับ เมื่อผู้ใช้เสียชีวิต จะปล่อยสารเคมีอันทรงพลัง ที่สามารถละลายเกียร์เมื่อสัมผัสกับร่างกายของผู้ใช้ มันไม่ทำให้ผู้อื่นได้รับความเสียหาย</Mote_AcidCloud.label>
   
 </LanguageData>

@@ -111,53 +111,53 @@
   <NightOwlDuringTheNight.stages.night_owl_at_night.description>รู้สึกดีขึ้นในเวลากลางคืน</NightOwlDuringTheNight.stages.night_owl_at_night.description>
   
   <!-- EN: body modder pleased -->
-  <ProsthophileHappy.stages.body_modder_pleased.label>มีไบโอนิคส่วนหนึ่งของร่างกาย</ProsthophileHappy.stages.body_modder_pleased.label>
+  <ProsthophileHappy.stages.body_modder_pleased.label>มีร่างกายส่วนหนึ่งของร่างกาย</ProsthophileHappy.stages.body_modder_pleased.label>
   <!-- EN: This artificial part is cool. I want more. -->
   <ProsthophileHappy.stages.body_modder_pleased.description>ฉันเป็นผลิตภัณฑ์ของเทคโนโลยีที่ทันสมัย! ฉันสามารถทำทุกอย่างได้ดีขึ้น!</ProsthophileHappy.stages.body_modder_pleased.description>
   <!-- EN: body modder quite pleased -->
-  <ProsthophileHappy.stages.body_modder_quite_pleased.label>มีไบโอนิคค่อนข้างพอใจ</ProsthophileHappy.stages.body_modder_quite_pleased.label>
+  <ProsthophileHappy.stages.body_modder_quite_pleased.label>มีร่างกายค่อนข้างพอใจ</ProsthophileHappy.stages.body_modder_quite_pleased.label>
   <!-- EN: Two artificial parts are better than one. I wish I had more. -->
   <ProsthophileHappy.stages.body_modder_quite_pleased.description>ชิ้นส่วนเทียมสองชิ้นดีกว่าชิ้นเดียว ฉันหวังว่าฉันจะมีมากขึ้น</ProsthophileHappy.stages.body_modder_quite_pleased.description>
   <!-- EN: body modder delighted -->
-  <ProsthophileHappy.stages.body_modder_delighted.label>มีไบโอนิคที่น่าดีใจ</ProsthophileHappy.stages.body_modder_delighted.label>
+  <ProsthophileHappy.stages.body_modder_delighted.label>มีร่างกายที่น่าดีใจ</ProsthophileHappy.stages.body_modder_delighted.label>
   <!-- EN: Three artificial parts, and my weak human flesh is receding. But I still want more machine power. -->
   <ProsthophileHappy.stages.body_modder_delighted.description>สามชิ้นส่วนเทียมและเนื้อมนุษย์ที่อ่อนแอของฉันกำลังถอยห่างออกไป แต่ฉันยังต้องการกำลังของเครื่องจักรมากกว่านี้</ProsthophileHappy.stages.body_modder_delighted.description>
   <!-- EN: body modder enchanted -->
-  <ProsthophileHappy.stages.body_modder_enchanted.label>>มีไบโอนิคที่น่าหลงเสน่ห์</ProsthophileHappy.stages.body_modder_enchanted.label>
+  <ProsthophileHappy.stages.body_modder_enchanted.label>>มีร่างกายที่น่าหลงเสน่ห์</ProsthophileHappy.stages.body_modder_enchanted.label>
   <!-- EN: Four artificial body parts and I am becoming more than human. But there's still some flesh that needs replacing. -->
   <ProsthophileHappy.stages.body_modder_enchanted.description>สี่ส่วนของร่างกายเทียมและฉันกลายเป็นมากกว่ามนุษย์ แต่ยังมีเนื้อบางส่วนที่ต้องเปลี่ยน</ProsthophileHappy.stages.body_modder_enchanted.description>
   <!-- EN: body modder overjoyed -->
-  <ProsthophileHappy.stages.body_modder_overjoyed.label>มีไบโอนิคที่น่าดีใจมาก</ProsthophileHappy.stages.body_modder_overjoyed.label>
+  <ProsthophileHappy.stages.body_modder_overjoyed.label>มีร่างกายที่น่าดีใจมาก</ProsthophileHappy.stages.body_modder_overjoyed.label>
   <!-- EN: Five artificial body parts! How could an enhanced being like me ever feel sad? -->
   <ProsthophileHappy.stages.body_modder_overjoyed.description>5 อวัยวะเทียม! ความเป็นอยู่อย่างฉันที่เจริญแล้วจะรู้สึกเศร้าได้อย่างไร</ProsthophileHappy.stages.body_modder_overjoyed.description>
   <!-- EN: machine body is complete -->
-  <ProsthophileHappy.stages.machine_body_is_complete.label>มีไบโอนิคที่เสร็จสมบูรณ์</ProsthophileHappy.stages.machine_body_is_complete.label>
+  <ProsthophileHappy.stages.machine_body_is_complete.label>มีร่างกายจักรกลที่สมบูรณ์</ProsthophileHappy.stages.machine_body_is_complete.label>
   <!-- EN: I asked for this. -->
-  <ProsthophileHappy.stages.machine_body_is_complete.description>ฉันขอสิ่งนี้</ProsthophileHappy.stages.machine_body_is_complete.description>
+  <ProsthophileHappy.stages.machine_body_is_complete.description>ฉันขอสิ่งนี้เอง</ProsthophileHappy.stages.machine_body_is_complete.description>
     
   <!-- EN: body modder frustrated -->
-  <ProsthophileNoProsthetic.stages.body_modder_frustrated.label>ไบโอนิคส่วนหนึ่งของร่างกายหาย</ProsthophileNoProsthetic.stages.body_modder_frustrated.label>
+  <ProsthophileNoProsthetic.stages.body_modder_frustrated.label>ผิดหวังกับตัวปรับแต่งร่างกาย</ProsthophileNoProsthetic.stages.body_modder_frustrated.label>
   <!-- EN: Flesh is so limiting. I wish I had some kind of artificial body part. -->
-  <ProsthophileNoProsthetic.stages.body_modder_frustrated.description>เนื้อสัตว์ที่มี จำกัด ดังนั้น ฉันต้องการฉันมีบางส่วนของร่างกายเทียม</ProsthophileNoProsthetic.stages.body_modder_frustrated.description>
+  <ProsthophileNoProsthetic.stages.body_modder_frustrated.description>เนื้อมีแต่ข้อจำกัด ฉันหวังว่าฉันจะมีชิ้นส่วนอวัยวะเทียมบ้าง</ProsthophileNoProsthetic.stages.body_modder_frustrated.description>
   
   <!-- EN: body purist squeamish -->
-  <ProsthophobeUnhappy.stages.body_purist_squeamish.label>มีไบโอนิคส่วนหนึ่งของร่างกาย</ProsthophobeUnhappy.stages.body_purist_squeamish.label>
+  <ProsthophobeUnhappy.stages.body_purist_squeamish.label>มีร่างกายส่วนหนึ่งของร่างกาย</ProsthophobeUnhappy.stages.body_purist_squeamish.label>
   <!-- EN: I hate having this unnatural thing attached to me. It feels so filthy! -->
   <ProsthophobeUnhappy.stages.body_purist_squeamish.description>พวกเขาทำให้ฉันกลายเป็นสิ่งที่น่ารังเกียจทางเทคโนโลยี ... ถ้าพวกเขาให้ฉันเลือก ...</ProsthophobeUnhappy.stages.body_purist_squeamish.description>
   <!-- EN: body purist disgusted -->
-  <ProsthophobeUnhappy.stages.body_purist_disgusted.label>มีไบโอนิคที่รังเกียจ</ProsthophobeUnhappy.stages.body_purist_disgusted.label>
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.label>มีร่างกายที่รังเกียจ</ProsthophobeUnhappy.stages.body_purist_disgusted.label>
   <!-- EN: Two artificial parts are sullying my natural, pure body. It makes me sick to think of it. -->
   <ProsthophobeUnhappy.stages.body_purist_disgusted.description>ชิ้นส่วนเทียมสองชิ้นกำลังทำร้ายร่างกายตามธรรมชาติและบริสุทธิ์ของฉัน มันทำให้ฉันป่วยที่จะคิด</ProsthophobeUnhappy.stages.body_purist_disgusted.description>
   <!-- EN: body purist violated -->
-  <ProsthophobeUnhappy.stages.body_purist_violated.label>มีไบโอนิคที่ละเมิด</ProsthophobeUnhappy.stages.body_purist_violated.label>
+  <ProsthophobeUnhappy.stages.body_purist_violated.label>มีร่างกายที่ละเมิด</ProsthophobeUnhappy.stages.body_purist_violated.label>
   <!-- EN: Three artificial parts violate my body's pure flesh. I shudder when I think of it... and these objects shudder with me. -->
   <ProsthophobeUnhappy.stages.body_purist_violated.description>สามส่วนเทียมละเมิดร่างกายบริสุทธิ์ของร่างกายของฉัน ฉันตัวสั่นเมื่อคิดถึงมัน... และวัตถุเหล่านี้ก็สั่นไปด้วย</ProsthophobeUnhappy.stages.body_purist_violated.description>
   <!-- EN: body purist horrified -->
-  <ProsthophobeUnhappy.stages.body_purist_horrified.label>มีไบโอนิคที่ทำให้น่ากลัว</ProsthophobeUnhappy.stages.body_purist_horrified.label>
+  <ProsthophobeUnhappy.stages.body_purist_horrified.label>มีร่างกายที่ทำให้น่ากลัว</ProsthophobeUnhappy.stages.body_purist_horrified.label>
   <!-- EN: I have four artificial body parts; it's like I'm becoming a robot. What a horrifying sensation. -->
   <ProsthophobeUnhappy.stages.body_purist_horrified.description>ฉันมีอวัยวะเทียมสี่ส่วน มันเหมือนกับว่าฉันกลายเป็นหุ่นยนต์ สิ่งที่เป็นความรู้สึกที่น่ากลัว</ProsthophobeUnhappy.stages.body_purist_horrified.description>
   <!-- EN: body purist nightmare -->
-  <ProsthophobeUnhappy.stages.body_purist_nightmare.label>มีไบโอนิคฝันร้าย</ProsthophobeUnhappy.stages.body_purist_nightmare.label>
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.label>มีร่างกายฝันร้าย</ProsthophobeUnhappy.stages.body_purist_nightmare.label>
   <!-- EN: Five artificial body parts... Is there anything left of me? Or am I just a robot that thinks it's human? -->
   <ProsthophobeUnhappy.stages.body_purist_nightmare.description>อวัยวะเทียมห้าส่วน... ฉันยังเหลืออะไรอีกไหม? หรือฉันเป็นแค่หุ่นยนต์ที่คิดว่าเป็นมนุษย์?</ProsthophobeUnhappy.stages.body_purist_nightmare.description>
   <!-- EN: I have become what I hate -->
